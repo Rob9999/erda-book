@@ -188,7 +188,7 @@
     * [9.8.4 Kultur als Träger der Verbindung](9.-das-space-konzept/9.8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit/9.8.4-kultur-als-trager-der-verbindung.md)
     * [9.8.5 Der Raum als Medium des Menschlichen](9.-das-space-konzept/9.8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit/9.8.5-der-raum-als-medium-des-menschlichen.md)
   * [9.9. ERDA Glossar – Schlüsselbegriffe der Raumzivilisation](9.-das-space-konzept/9.9.-erda-glossar-schlusselbegriffe-der-raumzivilisation.md)
-* [123](123.md)
+* [Anhang A: ERDA-Staatenarchitektur („Konzentrische Kreise“)](anhang-a-erda-staatenarchitektur-konzentrische-kreise.md)
 * [Anhang B: ERDA-Staatenprofile](anhang-b-erda-staatenprofile/README.md)
   * [1. Einleitung zum Staatenprofil-Konzept](anhang-b-erda-staatenprofile/1.-einleitung-zum-staatenprofil-konzept/README.md)
     * [1.1. Ziel und Funktion der Staatenprofile](anhang-b-erda-staatenprofile/1.-einleitung-zum-staatenprofil-konzept/1.1.-ziel-und-funktion-der-staatenprofile.md)
