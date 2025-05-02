@@ -1,8 +1,8 @@
-# Anhang - Executive Compendium für Entscheidungsträger
+# Anhang D - Executive Compendium für Entscheidungsträger
 
-## Executive Summary Compendium
+## _Executive Summary Compendium_
 
-Dieses Compendium bietet einen fokussierten Überblick über das ERDA-Buch in **vier** inhaltlich harmonische Blöcke, die jeweils mehrere Kapitel zusammenfassen. Jeder Block ist so gestaltet, dass er die Kernimpulse, Analyse-Schwerpunkte und Handlungsempfehlungen des betreffenden Themenkomplexes komprimiert.
+_Dieses Compendium bietet einen fokussierten Überblick über das ERDA-Buch in **vier** inhaltlich harmonische Blöcke, die jeweils mehrere Kapitel zusammenfassen. Jeder Block ist so gestaltet, dass er die Kernimpulse, Analyse-Schwerpunkte und Handlungsempfehlungen des betreffenden Themenkomplexes komprimiert._
 
 ***
 
