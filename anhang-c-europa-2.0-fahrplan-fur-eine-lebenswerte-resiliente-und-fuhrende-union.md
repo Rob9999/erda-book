@@ -1,9 +1,5 @@
 # Anhang C: Europa 2.0 – Fahrplan für eine lebenswerte, resiliente und führende Union
 
-Anhang C: Europa 2.0 – Fahrplan für eine lebenswerte, resiliente und führende Union
-
-##
-
 ## Europa 2.0 – Fahrplan für eine lebenswerte, resiliente und führende Union
 
 ### Zielfrage

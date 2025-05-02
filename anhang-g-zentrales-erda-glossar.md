@@ -1,7 +1,5 @@
 # Anhang G: Zentrales ERDA-Glossar
 
-Anhang G: Zentrales ERDA-Glossar
-
 _**Zentrales ERDA-Glossar**_
 
 Dieses Glossar fasst die zentralen Begriffe des ERDA-Buches zusammen. Es dient als eigenständiges Nachschlagewerk und unterstützt eine einheitliche Begriffsnutzung über alle Kapitel hinweg.
