@@ -1,6 +1,6 @@
-# Anhang: ERDA-Institut für Demokratische Resilienz und Transformation
+# Anhang F: ERDA-Institut für Demokratische Resilienz und Transformation
 
-_**Anhang: ERDA-Institut für Demokratische Resilienz und Transformation**_
+_**ERDA-Institut für Demokratische Resilienz und Transformation**_
 
 ### _Präambel: Der sich selbstverstärkende Ringfluss zu einer lebenswerten Zukunft_
 

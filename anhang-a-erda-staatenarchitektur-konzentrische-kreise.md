@@ -1,7 +1,5 @@
 # Anhang A: ERDA-Staatenarchitektur („Konzentrische Kreise“)
 
-## Anhang A: ERDA-Staatenarchitektur („Konzentrische Kreise“)
-
 _**ERDA-Staatenarchitektur („Konzentrische Kreise“)**_
 
 Die potenziellen **ERDA-Staaten** (European Rights-Based Democratic Alliance) gliedern sich gemäß ihrer Nähe, Verfassungsbindung und strategischen Rolle in drei klar definierte Kategorien.
