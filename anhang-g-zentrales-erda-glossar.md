@@ -1,4 +1,6 @@
-# Anhang: Zentrales ERDA-Glossar
+# Anhang G: Zentrales ERDA-Glossar
+
+Anhang G: Zentrales ERDA-Glossar
 
 _**Zentrales ERDA-Glossar**_
 
