@@ -6,7 +6,7 @@ _Europas strategische Antwort auf ökonomischen Nationalismus_
 
 _Ein Konzept für demokratische Rechtsstaaten in der EU/ERDA und ihre internationalen Partner_
 
-## **📘 Executive Summary für Entscheidungsträger**
+### **📘 Executive Summary für Entscheidungsträger**
 
 **🎯 Ziel des Kapitels**\
 Etablierung einer robusten, souveränen und nachhaltigen europäischen Wirtschaftsstruktur, die strategische Produktionskapazitäten sichert und Handelsabhängigkeiten reduziert.

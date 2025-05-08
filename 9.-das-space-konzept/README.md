@@ -3,7 +3,7 @@
 _**Das SPACE Konzept**_\
 
 
-### 📘 **Executive Summary für Entscheidungsträger (tiefgreifend, allumfassend)**
+### 📘 **Executive Summary für Entscheidungsträger**
 
 ***
 

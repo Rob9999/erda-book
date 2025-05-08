@@ -4,9 +4,7 @@ _**🧭 Zukunft Arktis – Ein demokratischer Plan für strategische Resilienz, 
 
 _Ein Handlungskonzept im Geist der ERDA (European Rights-Based Democratic Alliance)_
 
-
-
-## **📘 Executive Summary für Entscheidungsträger**
+### **📘 Executive Summary für Entscheidungsträger**
 
 **🎯 Ziel des Kapitels**\
 Entwicklung einer nachhaltigen, demokratischen Arktisstrategie, die geopolitische Souveränität, Ressourcengerechtigkeit und ökologische Verantwortung vereint.
