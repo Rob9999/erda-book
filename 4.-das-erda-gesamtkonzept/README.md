@@ -4,9 +4,9 @@ description: Institutionelle Architektur für das 21. Jahrhundert
 
 # 4. Das ERDA Gesamtkonzept
 
-### Von der EU zur ERDA: Ein realistischer Pfad in die Zukunft (2025–2075)
+_**Von der EU zur ERDA: Ein realistischer Pfad in die Zukunft (2025–2075)**_
 
-**Konzept für ein demokratisches, souveränes und technologisch fortschrittliches Bündnis Europas und seiner Partnerstaaten**
+_Konzept für ein demokratisches, souveränes und technologisch fortschrittliches Bündnis Europas und seiner Partnerstaaten_
 
 ### 📘 **Executive Summary für Entscheidungsträger**
 

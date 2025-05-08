@@ -4,8 +4,9 @@ _**Strategische Narrative & öffentliche Kommunikation**_
 
 **Ziel: Vertrauen schaffen – Sinn stiften – Richtung geben**
 
-> **Argumentativer Kernsatz:**\
-> &#xNAN;_„Wer Demokratie langfristig sichern will, darf sich nicht auf ihre bloße Existenz verlassen. Demokratische Rechtsstaaten müssen zusammenstehen, sich gegenseitig absichern – und gemeinsam den Weg in eine Zukunft ebnen, die auf Freiheit, Nachhaltigkeit und Resilienz gebaut ist.“_
+> **Argumentativer Kernsatz:**
+>
+> _„Wer Demokratie langfristig sichern will, darf sich nicht auf ihre bloße Existenz verlassen. Demokratische Rechtsstaaten müssen zusammenstehen, sich gegenseitig absichern – und gemeinsam den Weg in eine Zukunft ebnen, die auf Freiheit, Nachhaltigkeit und Resilienz gebaut ist.“_
 
 
 
@@ -13,8 +14,9 @@ _**Strategische Narrative & öffentliche Kommunikation**_
 
 ### 📘 Executive Summary für Entscheidungsträger
 
-**Titel des Abschnitts:**\
-&#xNAN;_„Strategische Narrative & öffentliche Kommunikation (_&#x4B;apitel 4.5.1 – 4.5.&#x32;_)“_
+**Titel des Abschnitts:**
+
+_„Strategische Narrative & öffentliche Kommunikation (_&#x4B;apitel 4.5.1 – 4.5.&#x32;_)“_
 
 ***
 
