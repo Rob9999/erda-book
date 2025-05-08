@@ -8,7 +8,7 @@ Diese Grundbedürfnisse – Überleben, Fortpflanzung, Lernen, Verbindung, Ausdr
 
 ***
 
-#### 📘 **Executive Summary für Entscheidungsträger**
+### 📘 **Executive Summary für Entscheidungsträger**
 
 **Titel des Abschnitts:**
 

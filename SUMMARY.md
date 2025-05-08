@@ -113,6 +113,7 @@
     * [8.4.5 Kulturelle und indigene Dimension](8.-das-arktis-konzept/8.4-strategische-saulen/8.4.5-kulturelle-und-indigene-dimension.md)
   * [8.5 Maßnahmenkatalog (Auswahl)](8.-das-arktis-konzept/8.5-massnahmenkatalog-auswahl.md)
   * [8.6 Kommunikationsstrategie](8.-das-arktis-konzept/8.6-kommunikationsstrategie.md)
+  * [8.7 Schlussgedanke](8.-das-arktis-konzept/8.7-schlussgedanke.md)
 * [9. Das SPACE Konzept](9.-das-space-konzept/README.md)
   * [9.1 ERDA Codex für kosmische Verantwortung](9.-das-space-konzept/9.1-erda-codex-fur-kosmische-verantwortung/README.md)
     * [9.1.1 Präambel](9.-das-space-konzept/9.1-erda-codex-fur-kosmische-verantwortung/9.1.1-praambel.md)

@@ -4,7 +4,7 @@ _**Demokratie als evolutionärer Prozess**_
 
 ***
 
-#### 📘 **Executive Summary für Entscheidungsträger**
+### 📘 **Executive Summary für Entscheidungsträger**
 
 **Titel des Abschnitts:**
 
