@@ -6,12 +6,12 @@ _**ERDA-Institut für Demokratische Resilienz und Transformation**_
 
 _**Tugend führt zu Aufklärung,** die **Mitgefühl vertieft,** das wiederum **Resilienz stärkt,** worauf **demokratische Sicherheit ruht** und **Freude erblüht** – und alles nährt sich gegenseitig._
 
-<kbd>_**Tugend ist der Steuermann.**_</kbd>\
-<kbd>_**Aufklärung ist der Schlüssel.**_</kbd>\
-<kbd>_**Mitgefühl ist das Bindeglied.**_</kbd>\
-<kbd>_**Der Mut, Fehler in einem bewussten Rahmen auszuhalten, ist die Kraft der Resilienz auf dem Weg.**_</kbd>\
-<kbd>_**Konsequente Wahrung demokratischer Prinzipien ist die Sicherheit.**_</kbd>\
-<kbd>_**Freude ist die Belohnung und der Antrieb.**_</kbd>
+> _**Tugend ist der Steuermann.**_\
+> _**Aufklärung ist der Schlüssel.**_\
+> _**Mitgefühl ist das Bindeglied.**_\
+> _**Der Mut, Fehler in einem bewussten Rahmen auszuhalten, ist die Kraft der Resilienz auf dem Weg.**_\
+> _**Konsequente Wahrung demokratischer Prinzipien ist die Sicherheit.**_\
+> _**Freude ist die Belohnung und der Antrieb.**_
 
 _Dennoch – was sind unsere Wege und Rastplätze? Lasst es uns gemeinsam herausfinden..._
 

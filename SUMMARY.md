@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Startseite](README.md)
+  * [Vorwort](readme/vorwort.md)
 * [1. Aktuelle Lage Europas: Herausforderungen und Chancen](1.-aktuelle-lage-europas-herausforderungen-und-chancen/README.md)
   * [1.1 Demokratische Erosion und geopolitische Fragmentierung](1.-aktuelle-lage-europas-herausforderungen-und-chancen/1.1-demokratische-erosion-und-geopolitische-fragmentierung.md)
   * [1.2 Wirtschaftlicher Druck und globale Systemkonkurrenz](1.-aktuelle-lage-europas-herausforderungen-und-chancen/1.2-wirtschaftlicher-druck-und-globale-systemkonkurrenz.md)
