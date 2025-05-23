@@ -233,5 +233,6 @@
   * [🎛️ Boxen-Template (Zitate, Praxis, Kontraste, Visionen)](anhang-e-erda-buch-baukasten/boxen-template-zitate-praxis-kontraste-visionen.md)
   * [🧩 Interaktive Elemente (Checkliste & Quiz)](anhang-e-erda-buch-baukasten/interaktive-elemente-checkliste-and-quiz.md)
 * [Anhang F: ERDA-Institut für Demokratische Resilienz und Transformation](anhang-f-erda-institut-fur-demokratische-resilienz-und-transformation.md)
-* [Anhang G: Zentrales ERDA-Glossar](anhang-g-zentrales-erda-glossar.md)
+* [Anhang G: Risikobetrachtung und strategische Resilienz der ERDA-Initiative](anhang-g-risikobetrachtung-und-strategische-resilienz-der-erda-initiative.md)
+* [Anhang H: Zentrales ERDA-Glossar](anhang-h-zentrales-erda-glossar.md)
 * [Lizenz & Offenheit](lizenz-and-offenheit.md)
