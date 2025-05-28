@@ -2,7 +2,7 @@
 description: (Stand 2025)
 ---
 
-# 🇵🇹 Staatenprofil Republik Portugal
+# PT - Staatenprofil Republik Portugal
 
 ## 🇵🇹 ERDA-Staatenprofil: Republik Portugal
 

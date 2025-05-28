@@ -2,7 +2,7 @@
 description: (Stand 2025)
 ---
 
-# 🇸🇰 Staatenprofil Slowakei
+# SK - Staatenprofil Slowakei
 
 ## 🇸🇰 ERDA-Staatenprofil: Slowakei
 

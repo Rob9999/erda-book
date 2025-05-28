@@ -2,7 +2,7 @@
 description: (Stand 2025)
 ---
 
-# 🇸🇮 Staatenprofil Slowenien
+# SI - Staatenprofil Slowenien
 
 ## 🇸🇮 ERDA-Staatenprofil: Slowenien
 

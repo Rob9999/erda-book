@@ -2,7 +2,7 @@
 description: (Stand 2025)
 ---
 
-# 🇳🇱 Staatenprofil Niederlande
+# NL - Staatenprofil Niederlande
 
 ## 🇳🇱 ERDA-Staatenprofil: Niederlande
 

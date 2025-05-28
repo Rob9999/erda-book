@@ -2,7 +2,7 @@
 description: (Stand 2025)
 ---
 
-# 🇮🇪 Staatenprofil Republik Irland
+# IE - Staatenprofil Republik Irland
 
 ## 🇮🇪 ERDA-Staatenprofil: Republik Irland
 

@@ -2,7 +2,7 @@
 description: (Stand 2025)
 ---
 
-# 🇱🇹 Staatenprofil Republik Litauen
+# LT - Staatenprofil Republik Litauen
 
 ## 🇱🇹 ERDA-Staatenprofil: Republik Litauen
 

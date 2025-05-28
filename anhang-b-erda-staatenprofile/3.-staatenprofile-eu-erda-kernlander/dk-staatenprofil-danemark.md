@@ -1,4 +1,4 @@
-# 🇩🇰 Staatenprofil Dänemark
+# DK - Staatenprofil Dänemark
 
 ## 🇩🇰 ERDA-Staatenprofil: Dänemark
 

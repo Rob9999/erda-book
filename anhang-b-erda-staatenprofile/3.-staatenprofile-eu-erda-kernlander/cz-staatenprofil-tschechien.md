@@ -2,7 +2,7 @@
 description: (Stand 2025)
 ---
 
-# 🇨🇿 Staatenprofil Tschechien
+# CZ - Staatenprofil Tschechien
 
 ## 🇨🇿 ERDA-Staatenprofil: Tschechien
 

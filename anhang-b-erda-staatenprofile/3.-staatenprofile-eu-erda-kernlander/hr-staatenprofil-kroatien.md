@@ -2,7 +2,7 @@
 description: (Stand 2025)
 ---
 
-# 🇭🇷 Staatenprofil Kroatien
+# HR - Staatenprofil Kroatien
 
 ## 🇭🇷 ERDA-Staatenprofil: Kroatien
 

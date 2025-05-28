@@ -2,7 +2,7 @@
 description: (Stand 2025)
 ---
 
-# 🇬🇷 Staatenprofil Griechenland
+# GR - Staatenprofil Griechenland
 
 ## 🇬🇷 ERDA-Staatenprofil: Griechenland
 

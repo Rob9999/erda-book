@@ -2,7 +2,7 @@
 description: (Stand 2025)
 ---
 
-# 🇪🇪 Staatenprofil Republik Estland
+# EE - Staatenprofil Republik Estland
 
 ## 🇪🇪 ERDA-Staatenprofil: Republik Estland
 

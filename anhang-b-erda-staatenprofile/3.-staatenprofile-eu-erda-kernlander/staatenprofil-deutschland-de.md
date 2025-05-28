@@ -2,7 +2,7 @@
 description: (Stand 2025)
 ---
 
-# 🇩🇪 Staatenprofil Deutschland
+# DE - Staatenprofil Deutschland
 
 ## 🇩🇪 ERDA-Staatenprofil: Deutschland
 

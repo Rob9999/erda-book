@@ -2,7 +2,7 @@
 description: (Stand 2025)
 ---
 
-# 🇫🇮 Staatenprofil Finnland
+# FI - Staatenprofil Finnland
 
 ### 🇫🇮 ERDA-Staatenprofil: Finnland
 

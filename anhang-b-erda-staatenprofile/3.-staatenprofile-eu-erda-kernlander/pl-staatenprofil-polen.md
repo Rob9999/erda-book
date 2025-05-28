@@ -2,7 +2,7 @@
 description: (Stand 2025)
 ---
 
-# 🇵🇱 Staatenprofil Polen
+# PL - Staatenprofil Polen
 
 ## 🇵🇱 ERDA-Staatenprofil: Polen
 

@@ -2,7 +2,7 @@
 description: (Stand 2025)
 ---
 
-# 🇦🇹 Staatenprofil Österreich
+# AT - Staatenprofil Österreich
 
 ## 🇦🇹 ERDA-Staatenprofil: Österreich
 

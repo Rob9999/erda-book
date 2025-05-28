@@ -2,7 +2,7 @@
 description: (Stand 2025)
 ---
 
-# 🇮🇹 Staatenprofil Italien
+# IT - Staatenprofil Italien
 
 ## 🇮🇹 ERDA-Staatenprofil: Italien
 

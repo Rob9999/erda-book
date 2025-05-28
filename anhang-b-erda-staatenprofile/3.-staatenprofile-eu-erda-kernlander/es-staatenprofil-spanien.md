@@ -2,7 +2,7 @@
 description: (Stand 2025)
 ---
 
-# 🇪🇸 Staatenprofil Spanien
+# ES - Staatenprofil Spanien
 
 ## 🇪🇸 ERDA-Staatenprofil: Spanien
 

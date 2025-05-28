@@ -2,7 +2,7 @@
 description: (Stand 2025)
 ---
 
-# 🇸🇪 Staatenprofil Schweden
+# SE - Staatenprofil Schweden
 
 ## **🇸🇪 ERDA-Staatenprofil: Schweden**
 

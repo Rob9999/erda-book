@@ -2,7 +2,7 @@
 description: (Stand 2025)
 ---
 
-# 🇱🇻 Staatenprofil Republik Lettland
+# LV - Staatenprofil Republik Lettland
 
 ## 🇱🇻 ERDA-Staatenprofil: Republik Lettland
 
