@@ -165,46 +165,49 @@ description: (Stand 2025)
 
 ### 10. Quellen & Modellierungen
 
-#### A. Demografie & Gesellschaft
+**A. Demografie & Gesellschaft**
 
-* **Destatis – Bevölkerungsstand 2025:** [Bevölkerungsstand Deutschland](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Bevoelkerungsstand/_inhalt.html)
-* **Destatis – Altersstruktur:** [Altersstruktur der Bevölkerung](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Altersstruktur/_inhalt.html)
-* **UN WPP – Population Projections:** [UN World Population Prospects](https://population.un.org/wpp/Download/Standard/Population/)
-* **World Bank – Urban Population (%):** [Urbanization Germany](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=DE)
+1. **Destatis (o. J.):** _Bevölkerungsstand Deutschland. Wiesbaden: Statistisches Bundesamt._ Online verfügbar unter: [https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Bevoelkerungsstand/\_inhalt.html](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Bevoelkerungsstand/_inhalt.html) (Zugriff am 2025-05-21)
+2. **Destatis (o. J.):** _Bevölkerung nach Altersgruppen 2011 bis 2023 in Prozent._ Wiesbaden: Statistisches Bundesamt. Online verfügbar unter: [https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Bevoelkerungsstand/Tabellen/bevoelkerung-altersgruppen-deutschland.html](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Bevoelkerungsstand/Tabellen/bevoelkerung-altersgruppen-deutschland.html) (Zugriff am 2025-05-21)
+3. **United Nations, Department of Economic and Social Affairs, Population Division (2022):** _World Population Prospects 2022, Medium Variant._ New York: United Nations. Online verfügbar unter: [https://population.un.org/dataportal/](https://population.un.org/dataportal/) (Zugriff am 2025-05-28)
+4. **United Nations, Department of Economic and Social Affairs, Population Division (2022):** _World Population Prospects 2022: Summary of Results._ New York: United Nations. Online verfügbar unter: [https://www.un.org/development/desa/pd/sites/www.un.org.development.desa.pd/files/wpp2022\_summary\_of\_results.pdf](https://www.un.org/development/desa/pd/sites/www.un.org.development.desa.pd/files/wpp2022_summary_of_results.pdf) (Zugriff am 2025-05-28)
+5. **World Bank (o. J.):** _Urban population (% of total population) – Germany._ Washington, DC: World Bank. Online verfügbar unter: [https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=DE](https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=DE) (Zugriff am 2025-05-21)
 
-#### B. Wirtschaft & Innovation
+**B. Wirtschaft & Innovation**
 
-* **Destatis – Volkswirtschaftliche Gesamtrechnungen:** [BIP Deutschland](https://www.destatis.de/DE/Themen/Wirtschaft/Volkswirtschaftliche-Gesamtrechnungen/Volkswirtschaftliche-Gesamtrechnungen.html)
-* **BMWi – Industrie 4.0:** [Digitalisierung in der Industrie](https://www.bmwi.de/Redaktion/DE/Artikel/Digitale-Welt/industrie-4-0.html)
-* **DPMA – Patentanmeldungen:** [DPMA Statistik Patente](https://www.dpma.de/docs/statistik/patente/patentanmeldungen.pdf)
+5. **Destatis (o. J.):** _Volkswirtschaftliche Gesamtrechnungen – Bruttoinlandsprodukt._ Wiesbaden: Statistisches Bundesamt. Online verfügbar unter: [https://www.destatis.de/DE/Themen/Wirtschaft/Volkswirtschaftliche-Gesamtrechnungen-Inlandsprodukt/\_inhalt.html](https://www.destatis.de/DE/Themen/Wirtschaft/Volkswirtschaftliche-Gesamtrechnungen-Inlandsprodukt/_inhalt.html) (Zugriff am 2025-05-21)
+6. **Bundesministerium für Wirtschaft und Klimaschutz (o. J.):** _Industrie 4.0 – Digitalisierung in der Industrie._ Berlin: BMWK. Online verfügbar unter: [https://www.bmwk.de/Redaktion/DE/Dossier/industrie-40.html](https://www.bmwk.de/Redaktion/DE/Dossier/industrie-40.html) (Zugriff am 2025-05-21)
+7. **Bundesministerium für Wirtschaft und Klimaschutz (2025):** _Industrie 4.0 – Fortschrittsbericht 2024. Auf dem Weg zu industriellen Datenökosystemen: Skalieren. Gemeinsam. International._ Berlin: BMWK. Online verfügbar unter: [https://www.bmwk.de/Redaktion/DE/Publikationen/Industrie/industrie-4-0-fortschrittsbericht-2024.pdf](https://www.bmwk.de/Redaktion/DE/Publikationen/Industrie/industrie-4-0-fortschrittsbericht-2024.pdf) (Zugriff am 2025-05-21)
+8. **Deutsches Patent- und Markenamt (DPMA) (2022):** _DPMA Jahresbericht 2022._ München: DPMA.\
+   Kapitel 1.3 „Patentanmeldungen im Prüfungsverfahren“. Online verfügbar unter: [https://www.dpma.de/docs/dpma/veroeffentlichungen/jahresberichte/dpma\_jb2022\_dt\_barrpdf.pdf](https://www.dpma.de/docs/dpma/veroeffentlichungen/jahresberichte/dpma_jb2022_dt_barrpdf.pdf) (Zugriff am 2025-05-21)
 
-#### C. Soziales & Bildung
+**C. Soziales & Bildung**
 
-* **Eurostat – Tertiäre Bildungsquote:** [EDAT\_LFSE\_03](https://ec.europa.eu/eurostat/databrowser/view/EDAT_LFSE_03)
-* **UNDP HDI – Mean Years of Schooling:** [UNDP HDI Data](https://hdr.undp.org/data-center/documentation-and-downloads)
+9. **Eurostat (o. J.):** _Population by educational attainment level, sex and age (%) (EDAT\_LFSE\_03)._ Luxembourg: Eurostat. Online verfügbar unter: [https://ec.europa.eu/eurostat/databrowser/view/edat\_lfse\_03](https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_03) (Zugriff am 2025-05-21)
+10. **United Nations Development Programme (o. J.):** _Human Development Data Center – Documentation and Downloads._ New York: UNDP. Online verfügbar unter: [https://hdr.undp.org/data-center/documentation-and-downloads](https://hdr.undp.org/data-center/documentation-and-downloads) (Zugriff am 2025-05-21)
 
-#### D. Gesundheit
+**D. Gesundheit**
 
-* **Destatis – Lebenserwartung:** [Lebenserwartung nach Geschlecht](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Lebenserwartung/_inhalt.html)
-* **RKI – Prävention:** [Präventionsmonitoring](https://www.rki.de/DE/Content/Gesundheitsmonitoring/Pr%C3%A4vention/Pr%C3%A4vention_node.html)
+11. **Destatis (o. J.):** _Sterbefälle und Lebenserwartung._ Wiesbaden: Statistisches Bundesamt. Online verfügbar unter: [https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Sterbefaelle-Lebenserwartung/\_inhalt.html](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Sterbefaelle-Lebenserwartung/_inhalt.html) (Zugriff am 2025-05-21)
+12. **Robert Koch-Institut (o. J.):** _Präventionsmonitoring._ Berlin: RKI. Online verfügbar unter: [https://www.rki.de/DE/Content/Gesundheitsmonitoring/Pr%C3%A4vention/Pr%C3%A4vention\_node.html](https://www.rki.de/DE/Content/Gesundheitsmonitoring/Pr%C3%A4vention/Pr%C3%A4vention_node.html) (Zugriff am 2025-05-21)
 
-#### E. Innovation & Technologie
+**E. Innovation & Technologie**
 
-* **ERDA – EHAM+ Index:** Internes Projekt-Dashboard
-* **BMWK – Kreativwirtschaftsbericht:** [Kreativwirtschaft in Deutschland](https://www.bmwk.de/Redaktion/DE/Publikationen/Kreativwirtschaft/kre...)
+13. **Bundesministerium für Wirtschaft und Klimaschutz (2025):** _Monitoringbericht Kultur- und Kreativwirtschaft 2024._ Berlin: BMWK. Online verfügbar unter: [https://www.bmwk.de/Redaktion/DE/Publikationen/Kultur-und-Kreativwirtschaft/Monitoringberichte/monitoringbericht-kultur-und-kreativwirtschaft-2024.pdf](https://www.bmwk.de/Redaktion/DE/Publikationen/Kultur-und-Kreativwirtschaft/Monitoringberichte/monitoringbericht-kultur-und-kreativwirtschaft-2024.pdf) (Zugriff am 2025-05-21)
+14. **Bundesministerium für Wirtschaft und Klimaschutz (o. J.):** _Kultur- und Kreativwirtschaft in Deutschland. Flyer._ Berlin: BMWK. Online verfügbar unter: [https://www.bmwk.de/Redaktion/DE/Publikationen/Kultur-und-Kreativwirtschaft/kuk-flyer.pdf](https://www.bmwk.de/Redaktion/DE/Publikationen/Kultur-und-Kreativwirtschaft/kuk-flyer.pdf) (Zugriff am 2025-05-21)
 
-#### F. Umwelt & Ressourcen
+**F. Umwelt & Ressourcen**
 
-* **BfN – Schutzgebiete:** [Nationalparks & Schutzgebiete](https://www.bfn.de/themen/na...)
-* **BfG – Meeresgebiete:** [Nord- & Ostsee](https://www.bafg.de/DE/Themen/Meerwasserme%C3%9Fnetz/meerwassermessnetz.html)
+16. **Bundesamt für Naturschutz (o. J.):** _Nationalparke in Deutschland._ Bonn: BfN. Online verfügbar unter: [https://www.bfn.de/nationalparke](https://www.bfn.de/nationalparke) (Zugriff am 2025-05-21)
+17. **Bundesamt für Seeschifffahrt und Hydrographie (o. J.):** _Meeresumweltmessnetz – MARNET-Stationen in Nord- und Ostsee._ Hamburg: BSH. Online verfügbar unter: [https://www.bsh.de/DE/DATEN/Klima-und-Meer/Meeresumweltmessnetz/messnetz-marnet\_node.html](https://www.bsh.de/DE/DATEN/Klima-und-Meer/Meeresumweltmessnetz/messnetz-marnet_node.html) (Zugriff am 2025-05-21)
 
-#### G. Sicherheit & Verteidigung
+**G. Sicherheit & Verteidigung**
 
-* **SIPRI – Verteidigungsausgaben:** [Military Expenditure Database](https://www.sipri.org/databases/milex)
-* **BBK – Katastrophenschutz:** [Bundesamt für Bevölkerungsschutz](https://www.bbk.bund.de/DE/Home/home_node.html)
+18. **Stockholm International Peace Research Institute (o. J.):** _Military Expenditure Database._ Stockholm: SIPRI. Online verfügbar unter: [https://www.sipri.org/databases/milex](https://www.sipri.org/databases/milex) (Zugriff am 2025-05-21)
+19. **Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (o. J.):** _Wie funktioniert der deutsche Bevölkerungsschutz?_ Bonn: BBK. Online verfügbar unter: [https://www.bbk.bund.de/DE/Das-BBK/Das-BBK-stellt-sich-vor/Das-deutsche-Bevoelkerungsschutzsystem/das-deutsche-bevoelkerungsschutzsystem\_node.html](https://www.bbk.bund.de/DE/Das-BBK/Das-BBK-stellt-sich-vor/Das-deutsche-Bevoelkerungsschutzsystem/das-deutsche-bevoelkerungsschutzsystem_node.html) (Zugriff am 2025-05-21)
 
-#### H. Politik & Institutionen
+**H. Politik & Institutionen**
 
-* **EIU – Democracy Index 2024:** [EIU Democracy Index](https://www.eiu.com/topic/democracy-index)
-* **Freedom House – Freedom in the World:** [Freedom House Report](https://freedomhouse.org/report/freedom-world)
-* **Eurobarometer – Vertrauen EU-Institutionen:** [Survey 2251](https://europa.eu/eurobarometer/surveys/survey-detail/2251)
+20. **The Economist Intelligence Unit (2024):** _Democracy Index 2024._ London: EIU. Online verfügbar unter: [https://www.eiu.com/topic/democracy-index](https://www.eiu.com/topic/democracy-index) (Zugriff am 2025-05-21)
+21. **Freedom House (2024):** _Freedom in the World 2024._ Washington, DC: Freedom House. Online verfügbar unter: [https://freedomhouse.org/report/freedom-world](https://freedomhouse.org/report/freedom-world) (Zugriff am 2025-05-21)
+22. **Europäische Kommission (2024):** _Eurobarometer Survey 2251: Vertrauen in EU-Institutionen._ Brüssel: Europäische Kommission. Online verfügbar unter: [https://europa.eu/eurobarometer/surveys/survey-detail/2251](https://europa.eu/eurobarometer/surveys/survey-detail/2251) (Zugriff am 2025-05-21)
