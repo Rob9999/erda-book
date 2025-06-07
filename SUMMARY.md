@@ -234,5 +234,6 @@
   * [🧩 Interaktive Elemente (Checkliste & Quiz)](anhang-e-erda-buch-baukasten/interaktive-elemente-checkliste-and-quiz.md)
 * [Anhang F: ERDA-Institut für Demokratische Resilienz und Transformation](anhang-f-erda-institut-fur-demokratische-resilienz-und-transformation.md)
 * [Anhang G: Risikobetrachtung und strategische Resilienz der ERDA-Initiative](anhang-g-risikobetrachtung-und-strategische-resilienz-der-erda-initiative.md)
-* [Anhang H: Zentrales ERDA-Glossar](anhang-h-zentrales-erda-glossar.md)
-* [Lizenz & Offenheit](lizenz-and-offenheit.md)
+* [Anhang H: Fehlgeschlagene Machtstrukturen der Menschheit](anhang-h-fehlgeschlagene-machtstrukturen-der-menschheit.md)
+* [Anhang I: Zentrales ERDA-Glossar](anhang-i-zentrales-erda-glossar.md)
+* [Anhang J: Lizenz & Offenheit](anhang-j-lizenz-and-offenheit.md)
