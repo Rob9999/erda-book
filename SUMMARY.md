@@ -218,6 +218,8 @@
     * [SE - Staatenprofil Schweden](anhang-b-erda-staatenprofile/3.-staatenprofile-eu-erda-kernlander/se-staatenprofil-schweden.md)
     * [SK - Staatenprofil Slowakei](anhang-b-erda-staatenprofile/3.-staatenprofile-eu-erda-kernlander/sk-staatenprofil-slowakei.md)
     * [SI - Staatenprofil Slowenien](anhang-b-erda-staatenprofile/3.-staatenprofile-eu-erda-kernlander/si-staatenprofil-slowenien.md)
+  * [4. Staatenprofile (EU/ERDA - Erweiterte Partnerschaft)](anhang-b-erda-staatenprofile/4.-staatenprofile-eu-erda-erweiterte-partnerschaft/README.md)
+    * [UA - Staatenprofil Ukraine](anhang-b-erda-staatenprofile/4.-staatenprofile-eu-erda-erweiterte-partnerschaft/ua-staatenprofil-ukraine.md)
 * [Anhang C: Europa 2.0 – Fahrplan für eine lebenswerte, resiliente und führende Union](anhang-c-europa-2.0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union.md)
 * [Anhang D - Executive Compendium für Entscheidungsträger](anhang-d-executive-compendium-fur-entscheidungstrager/README.md)
   * [Block A – Strategische Ausgangslage (Kapitel 1–3)](anhang-d-executive-compendium-fur-entscheidungstrager/block-a-strategische-ausgangslage-kapitel-1-3.md)
