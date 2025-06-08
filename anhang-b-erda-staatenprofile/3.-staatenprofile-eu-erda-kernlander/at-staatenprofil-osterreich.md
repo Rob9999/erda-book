@@ -179,3 +179,28 @@ description: (Stand 2025)
 **H. Politische & institutionelle Grundlagen**
 
 * Transparency International – CPI ([https://www.transparency.org/](https://www.transparency.org/))
+
+
+
+„Bundeskanzleramt Österreich – Startseite“ (Bundeskanzleramt, 2025): https://www.bundeskanzleramt.gv.at/\
+„Austria Population 2025“ (Worldometer, 2025): https://www.worldometers.info/world-population/austria-population/\
+„OECD Education at a Glance – Austria“ (OECD, 2024): https://gpseducation.oecd.org/CountryProfile?primaryCountry=AUT\&topic=EO\
+„Years of Schooling – Austria“ (Our World in Data, 2023): https://ourworldindata.org/grapher/average-years-of-schooling\
+„Lebenserwartung – Österreich“ (World Bank, 2023): https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=AT\
+„GDP per capita Austria“ (World Bank, 2023): https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=AT\
+„Bruttoinlandsprodukt Österreich 2024“ (Statista, 2025): https://www.statista.com/statistics/418903/gross-domestic-product-gdp-of-austria/\
+„The World in 2050 – PwC Report“ (PwC, 2017): https://www.pwc.com/gx/en/world-2050/assets/pwc-the-world-in-2050-full-report-feb-2017.pdf\
+„Forschungs- und Entwicklungsquote – Eurostat“ (Eurostat, 2024): https://ec.europa.eu/eurostat/databrowser/view/TEC00115/\
+„Patentanmeldungen in der EU – EUIPO“ (EUIPO, 2024): https://euipo.europa.eu/\
+„Energieagentur Österreich – Erneuerbare Potenziale“ (Österreichische Energieagentur, 2024): https://www.energyagency.at/\
+„Statistik Austria – Bevölkerungsprognosen“ (Statistik Austria, 2025): https://www.statistik.at/web\_en/statistics/population\_and\_society/population/demographic\_projections/population\_projections\_for\_austria\_and\_federal\_states.html\
+„EUROSTAT – Bevölkerung Österreich 2075“ (Eurostat, 2025): https://ec.europa.eu/eurostat/databrowser/view/PROJ\_23NP/\
+„World Justice Project – Rule of Law Index“ (WJP, 2024): https://worldjusticeproject.org\
+„Transparency International – CPI Austria“ (Transparency International, 2024): https://www.transparency.org/en/countries/austria\
+„SIPRI – Military Expenditure Austria“ (SIPRI, 2023): https://www.sipri.org/\
+„IUCN – Protected Planet Austria“ (IUCN, 2024): https://www.protectedplanet.net/country/AUT\
+„Gesundheit.gv.at – Gesundheitssystem Österreich“ (BMSGPK, 2024): https://www.gesundheit.gv.at/\
+„Radentscheid Wien“ (Bürgerinitiative Wien, 2024): https://radentscheid.at/\
+„Gemeinwohlökonomie International“ (ECOGOOD, 2024): https://www.ecogood.org/\
+„Freedom House – Austria Scorecard“ (Freedom House, 2024): https://freedomhouse.org/country/austria/freedom-world/2024\
+„Eurobarometer 522 – Demokratie & Vertrauen“ (EU-Kommission, 2024): https://data.europa.eu/data/datasets/s2226\_522
