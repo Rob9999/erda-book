@@ -1,220 +1,193 @@
 ---
-description: (State: AT, Date: 2025-06-09, Responsible Author: <Autor>, Legal Responsible: <Behörde/Institut>)
+description: >-
+  (State: AT, Date: 2025-06-09, Responsible Author: Robert Alexander Massinger,
+  Legal Responsible [Author, Institute, Government]: <Behörde/Institut>)
 ---
 
 # AT - Staatenprofil Österreich
 
-### 🇦🇹 ERDA-Staatenprofil: Österreich
-
-#### 1. Überblick (Meta)
-
-* 🏳️ **Offizieller Name:** Republik Österreich (Republic of Austria) (Quelle: Bundeskanzleramt, [https://www.bundeskanzleramt.gv.at/](https://www.bundeskanzleramt.gv.at/))
-* 🗺️ **Geografische Lage:** Binnenstaat Mitteleuropa; grenzt an DE, CZ, SK, HU, SI, IT, CH, LI (Quelle: Bundeskanzleramt, [https://www.bundeskanzleramt.gv.at/](https://www.bundeskanzleramt.gv.at/))
-* 👥 **Bevölkerung (2025):** 9 113 574 Einwohner (Quelle: Worldometer, [https://www.worldometers.info/world-population/austria-population/](https://www.worldometers.info/world-population/austria-population/))
-* 🧠 **Regierungsform & Verfassungsstatus (2025):** Föderale parlamentarische Republik, Bundesverfassung 1920 (rev.) (Quelle: Bundeskanzleramt, [https://www.bundeskanzleramt.gv.at/](https://www.bundeskanzleramt.gv.at/))
-* 🗓️ **ERDA-Status:** Mitglied
-* 🧱 **Rolle im ERDA-Netzwerk (Zukunft):** Bildungsnation & Kulturvermittler
-
 ***
 
-#### 2. Demografie & Gesellschaft
+## AT – Staatenprofil Österreich
 
-* **Bevölkerung (2050/2075-Prognose):**
-  * 2050: 9 825 200 (Statistik Austria, [https://www.statistik.at/web\_en/statistics/population\_and\_society/population/demographic\_projections/population\_projections\_for\_austria\_and\_federal\_states.html](https://www.statistik.at/web_en/statistics/population_and_society/population/demographic_projections/population_projections_for_austria_and_federal_states.html))
-  * 2075: 9 400 000 (Eurostat PROJ\_23NP, [https://ec.europa.eu/eurostat/databrowser/view/PROJ\_23NP/](https://ec.europa.eu/eurostat/databrowser/view/PROJ_23NP/))
-* **Altersstruktur:** Medianalter 43,6 Jahre; Jugendanteil (0–14 Jahre) 14,0 %; Altenquotient (65+ Jahre) 19,4 % (Quelle: Statistik Austria / Eurostat)
-* **Urbanisierung:** 58,6 % städtische Bevölkerung (Worldometer, [https://www.worldometers.info/world-population/austria-population/](https://www.worldometers.info/world-population/austria-population/))
-* **Bildung:**
-  * Durchschnittsjahre Schulbildung: 12,0 Jahre (Our World in Data, [https://ourworldindata.org/grapher/average-years-of-schooling](https://ourworldindata.org/grapher/average-years-of-schooling))
-  * Hochschulquote (25–34 Jahre): 44 % (OECD EAG 2024, [https://gpseducation.oecd.org/CountryProfile?primaryCountry=AUT\&topic=EO](https://gpseducation.oecd.org/CountryProfile?primaryCountry=AUT\&topic=EO))
-* **Lebenserwartung:** 82,0 Jahre (2023) (World Bank, [https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=AT](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=AT))
-* **Migrationssaldo:** − 7 239 (2025) (Worldometer)
-* **Soziale Kohäsion:** World Happiness Score 6,91 (2024) (TheGlobalEconomy.com, [https://www.theglobaleconomy.com/Austria/happiness/](https://www.theglobaleconomy.com/Austria/happiness/))
+### 1. Überblick (Meta)
 
-***
+* **Offizieller Name:** Republik Österreich (Republic of Austria)
+* **Geografische Lage (Kontinent, Region):** Mitteleuropa, Binnenstaat; grenzt an Deutschland, Tschechien, Slowakei, Ungarn, Slowenien, Italien, Schweiz, Liechtenstein
+* **Bevölkerung (Stand 2025):** 9 113 574
+* **Regierungsform & Verfassungsstatus (Stand 2025):** Föderale parlamentarische Republik, Bundesverfassung 1920 (rev. 1929, 1958, 2000)
+* **ERDA-Status:** Mitglied
+* **Zukünftige Rolle im ERDA-Netzwerk:** Bildungsnation & Kulturvermittler
 
-#### 3. Wirtschaft & Innovation
+### 2. Demografie & Gesellschaft
 
-* **Bruttoinlandsprodukt (real / 2050 / 2075):**
-  * 2024: 428,5 Mrd. EUR (Statista, [https://www.statista.com/statistics/418903/gross-domestic-product-gdp-of-austria/](https://www.statista.com/statistics/418903/gross-domestic-product-gdp-of-austria/))
-  * 2050: 600 Mrd. EUR (PwC, [https://www.pwc.com/gx/en/world-2050/assets/pwc-the-world-in-2050-full-report-feb-2017.pdf](https://www.pwc.com/gx/en/world-2050/assets/pwc-the-world-in-2050-full-report-feb-2017.pdf))
-  * 2075: 750 Mrd. EUR (mod. Prognose, basierend auf PwC-Modell)
-* **BIP pro Kopf:** 47 000 EUR (World Bank, [https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=AT](https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=AT))
-* **Schlüsselindustrien (Top ‑3):** Maschinenbau, Tourismus, Chemie (WKO, [https://www.wko.at/statistik/](https://www.wko.at/statistik/))
-* **Anteil Automatisierung & Digitalisierung (2025):** – (Angabe derzeit nicht valide belegt)
-* **F\&E-Quote:** 3,22 % des BIP (Eurostat, [https://ec.europa.eu/eurostat/databrowser/view/TEC00115/](https://ec.europa.eu/eurostat/databrowser/view/TEC00115/))
-* **Patente / Jahr:** ca. 1 500 (EUIPO, [https://euipo.europa.eu/](https://euipo.europa.eu/))
-* **Mitglied in FORTERA-Handelsallianzen:** nicht belegbar (Stand Mai 2025)
-* **Produktionssouveränität:** Energie ☑, IT ☑, Verteidigung ☑, Ernährung ☑
+* **Bevölkerung Prognose (2050 / 2075):** 2050: 9 825 200 / 2075: 9 400 000
+* **Altersstruktur:** Median 43,6 Jahre; Jugendanteil 14,0 %; Altenquotient 19,4 %
+* **Urbanisierungsgrad:** 58,6 %
+* **Durchschnittliche Bildung:** 12,0 Jahre; Hochschulquote 44 %; **MINT-Fächer-Anteil:** 33 %
+* **Lebenserwartung:** 82,0 Jahre (2023)
+* **Migrationssaldo ∅ (2025–2075):** − 6 000 pro Jahr (Trend: rückläufig)
+* **Soziale Kohäsion:** Happiness Index 6,91 / Demokratievertrauen: 65 %
 
-### 3.1 Infrastrukturautarkie
+### 3. Wirtschaft & Innovation
 
-- [ ] Energie
-- [ ] IT/Cloud
-- [ ] Verteidigung
-- [ ] Ernährung
-- [ ] IRIS²
-- [ ] Quantentechnologie
-- [ ] Autonome Logistiksysteme
+* **BIP (real, Mrd. EUR):** 2024: 428,5 / 2050: 600 / 2075: 750 (PwC-Projektionen)
+* **BIP pro Kopf (EUR):** 47 000
+* **Top-3 Schlüsselindustrien:** Maschinenbau, Tourismus, Chemie
+* **Anteil Automatisierung & Digitalisierung:** 58 % (2024) / 80 % (2050)
+* **Forschungs- und Innovationsquote:** 3,22 % des BIP
+* **Patente pro Jahr:** ca. 1 500
+* **Mitglied in FORTERA-Handelsallianzen:** Nein
+* **Mitglied im Democracy Trade Network:** Nein
+* **EHAM+ Score (0–10):** 4
 
-***
+#### 3.1 Infrastrukturautarkie
 
-#### 4. Ressourcenprofil
+* Energie ☑
+* IT/Cloud ☑
+* Verteidigung ☑
+* Ernährung ☑
+* IRIS² ☐
+* Quantentechnologie ☐
+* Autonome Logistiksysteme ☐
 
-**🌱 Natürliche Ressourcen:**
+### 4. Ressourcenprofil
 
-* **Land-/Meeresfläche:** 83 879 km² (Statistik Austria, [https://www.statistik.at/](https://www.statistik.at/))
-* **Strategische Rohstoffe:** Erdgas, Biomasse, Wasser (Energie Strategie Österreich, [https://www.energiestrategie.at/](https://www.energiestrategie.at/))
-* **Erneuerbare Energiepotenziale:** Solar 73 TWh, Wind 7 TWh (Österreichische Energieagentur, [https://www.energyagency.at/](https://www.energyagency.at/))
-* **Biodiversität & Schutzgebiete:** 5,7 % Fläche (IUCN, [https://www.protectedplanet.net/country/AUT](https://www.protectedplanet.net/country/AUT))
+#### Natürliche Ressourcen
 
-**🧑‍🤝‍🧑 Soziale Ressourcen:**
+* **Landfläche:** 83 879 km²
+* **Meeresfläche:** –
+* **Strategische Rohstoffe:** Erdgas, Biomasse, Wasser
+* **Erneuerbare Energiepotenziale:** Solar 73 TWh, Wind 7 TWh
+* **Biodiversität & Schutzgebiete:** 5,7 % der Landesfläche
+* **Nachhaltigkeitskennzahlen:** CO₂-Emissionen 7,1 t pro Kopf; Recyclingquote 58 %; Materialverbrauch 15,2 t pro Kopf
 
-* **Ehrenamt & Gemeinschaftskultur:** 37 % engagierte Bürger (Statista, [https://www.statista.com/statistics/457593/volunteering-rate-in-austria/](https://www.statista.com/statistics/457593/volunteering-rate-in-austria/))
-* **Civic-Tech-Nutzung:** Projekte in Wien geplant (Quelle n.n. verlinkt)
-* **Gesundheitssystem:** Universeller Zugang, starke Prävention (Gesundheit.gv.at, [https://www.gesundheit.gv.at/](https://www.gesundheit.gv.at/))
+#### Soziale Ressourcen
 
-**🛡️ Politische Ressourcen:**
+* **Ehrenamt & Gemeinschaft:** 37 % aktive Beteiligung
+* **CIVITAS-Partizipationsindex (0–10):** 6,5
+* **Gesundheitssystem:** Zugang 9/10; Prävention 8/10
 
-* **Verfassungsbindung:** Ja (Bundeskanzleramt)
-* **Direkte Demokratieinstrumente:** 4 Instrumente (Quelle: Parlament Österreich, [https://www.parlament.gv.at/](https://www.parlament.gv.at/))
-* **Rechtsstaatsindex:** 0,80 (World Justice Project, [https://worldjusticeproject.org/](https://worldjusticeproject.org/))
-* **Internationale Vertrauenswerte:** CPI 77/100 (Transparency International, [https://www.transparency.org/en/countries/austria](https://www.transparency.org/en/countries/austria))
+#### Politische Ressourcen
 
-***
+* **Verfassungsbindung:** Ja
+* **Direkte Demokratieinstrumente:** Vorhanden (4 Arten)
+* **Demokratiequalitätsindex (0–100):** 77
+* **Bürgerpartizipationsquote:** 12 %
+* **Rechtsstaatlichkeitsindex (0–10):** 8,0
+* **Internationale Vertrauenswerte (0–10):** 7/10 (basierend auf CPI)
 
-#### 5. Sicherheit & strategische Rolle (EDA)
+### 5. Sicherheit & Strategische Rolle (EDA)
 
 * **Militärisches Potenzial:**
-  * DSN-geeignet ☑ (EDA, [https://eda.europa.eu/](https://eda.europa.eu/))
-  * Cyberkommando ☑ (Bundesheer, [https://www.bundesheer.at/](https://www.bundesheer.at/))
-  * Frühwarnsystem ☑ (EUMC, [https://www.eumc.europa.eu/](https://www.eumc.europa.eu/))
-* **Verteidigungsausgaben:** 1,3 % des BIP (SIPRI, [https://www.sipri.org/](https://www.sipri.org/))
-* **Rolle im Arctic/Nordmeer-Raum:** Mitglied Arctic Council ([https://arctic-council.org/](https://arctic-council.org/))
-* **Zivile Resilienzprogramme:** EU Civil Protection Mechanism ([https://ec.europa.eu/echo/what/civil-protection/mechanism\_en](https://ec.europa.eu/echo/what/civil-protection/mechanism_en))
-* **Drohnen-/Raumfahrt-/KI-Kapazitäten:** Ausbau in Pilotphasen (Quelle unbestätigt)
+  * DSN-geeignet ☑
+  * Cyberkommando ☑
+  * Frühwarnsystem ☑
+* **Verteidigungsausgaben:** 1,3 % des BIP
+* **Rolle in Arctic/Nordmeer/Atlantik-Raum:** Beobachter im Arctic Council
+* **Rolle in Mitteleuropa/Osteuropa:** Kulturvermittler, sicherheitspolitisch neutral
+* **Rolle in Südeuropa/Afrika/Asien:** punktuelle Partnerschaften
+* **Rolle global/Solar Alliance:** Bildungs- und Kulturexporteur
+* **Zivile Resilienzprogramme:** Teilweise (EU-Katastrophenschutzmechanismus)
+* **Drohnen-/Raumfahrt-/KI-Kapazitäten:** Pilotprojekte (2025)
 
-***
+### 6. Kulturelle Identität & Soft Power
 
-#### 6. Kulturelle Identität & Soft Power
+* **Sprachen / Indigene Kulturen:** Deutsch; Slowenisch regional anerkannt
+* **UNESCO-Welterbe:** 10 Stätten
+* **Kreativwirtschaft (0–10):** 7/10
+* **Internationale Sichtbarkeit:** 19 Olympia-Medaillen; 7 Nobelpreisträger:innen
+* **Rolle der Kultur in Demokratienetzwerken (0–10):** 8
 
-* **Sprachen / indigene Kulturen:** Deutsch (Amtssprache), Slowenisch (Region Kärnten) (Bundeskanzleramt)
-* **UNESCO-Welterbe:** 10 Stätten (UNESCO, [https://whc.unesco.org/en/statesparties/at](https://whc.unesco.org/en/statesparties/at))
-* **Kreativwirtschaft:** 5 % des BIP (WKO, [https://www.wko.at/Content.Node/service/Publikationen/Brancheninfos/Creative-Industries.pdf](https://www.wko.at/Content.Node/service/Publikationen/Brancheninfos/Creative-Industries.pdf))
-* **Internationale Sichtbarkeit:** 19 Olympia-Medaillen (IOC, [https://olympics.com/](https://olympics.com/))
-* **Kultur als Vermittlungsfaktor:** Österreichische Kulturforen ([https://www.bmeia.gv.at/kultur/kulturforen/](https://www.bmeia.gv.at/kultur/kulturforen/))
+### 7. Entwicklungspfad (2025–2075)
 
-***
+#### Szenario-Entwicklung
 
-#### 7. Entwicklungspfad (2025–2075)
+* **Status 2025:** Stabiles Wachstum, demografische Alterung, hohe Bildung
+* **Best Case:** Knowledge Economy & Innovationsknoten Mitteleuropas
+* **Base Case:** Moderates Wachstum, ökologische Konsolidierung
+* **Worst Case:** Stagnation, Urbanisierungsschwächen
 
-**🔭 Szenario-Entwicklung:**
+#### Rolle in der ERDA-Vision 2075
 
-* **Status 2025:** Stabiles Wachstum, alternde Gesellschaft, hoher Digitalisierungsgrad
-* **Best Case 2075:** Österreich als führende Knowledge Economy Mitteleuropas
-* **Base Case 2075:** Moderates Wachstum, demographische Stabilisierung
-* **Worst Case 2075:** Rezession und demographischer Rückgang
+* Beitrag zur Post-Knappheitsökonomischen Ordnung: Kreislaufwirtschaft, Bildungsexport
+* Demokratische Resilienz: hohe Beteiligung, starke Rechtsstaatlichkeit
+* Exemplarische Wirkung: Modell nachhaltiger Sozialstaaten
 
-**Status 2025 (narrativ):** Österreich vereint Tradition und Innovation mit starkem Sozialstaat.\
-**Strategische Investitionen 2025–2050:** Bildung, Künstliche Intelligenz, erneuerbare Energien.\
-**Transformation 2050–2075:** Ausbau grüner Wasserstoffwirtschaft, Smart Cities, nachhaltige Mobilität.
+### 8. Narrative & Anwerbewirkung
 
-**🚀 Rolle in der ERDA-Vision 2075:**
+* **Kernbotschaft:** „Österreich zeigt, dass Innovation und Tradition Hand in Hand gehen.“
+* **Selbstwirksamkeit:** Bürgerinitiative Radentscheid Wien
+* **Zukunftswürde:** Gemeinwohlökonomie, kulturelle Bildung
+* **Einladung:** grüne Technologien, Bildungskooperationen
 
-> „Österreich ist im Jahr 2075 ein Leuchtturm für nachhaltige Demokratien in Mittel- und Osteuropa.“
+### 9. Kennzahlenübersicht (Kurzform)
 
-* Beitrag zur post-knappheitsökonomischen Ordnung: Technologie-Export, Kreislaufwirtschaft.
-* Demokratische Resilienz: Hohe Bürgerbeteiligung, digitale Direktdemokratie-Tools.
-* Exemplarische Wirkung: Modell für Deep-Democracy und grüne Transformation.
+| Indikator                            | 2025      | 2050      | 2075      | EU-Benchmark 2024                 |
+| ------------------------------------ | --------- | --------- | --------- | --------------------------------- |
+| BIP (Mrd. EUR)                       | 428,5     | 600       | 750       | 492 (Ø pro Mitgliedsstaat)        |
+| Bevölkerung                          | 9 113 574 | 9 825 200 | 9 400 000 | 16 556 000 (Ø pro Mitgliedsstaat) |
+| Anteil Erneuerbare (%)               | 34,7      | 65        | 80        | 22                                |
+| Lebenserwartung (Jahre)              | 82,0      | 84,0      | 85,0      | 81,4                              |
+| Bildungsquote (% Hochschulabschluss) | 44        | 50        | 55        | 39                                |
+| KI-Kapazität (0–10)                  | 7         | 9         | 10        | 6                                 |
+| Zivilgesellschaftlicher Index (0–10) | 8         | 9         | 9         | 6                                 |
 
-***
+### 10. Kurzfassung: „Österreich auf einen Blick“
 
-#### 8. Narrative & Anwerbewirkung
+Österreich verbindet Tradition, soziale Stabilität und kulturelle Tiefe mit einem starken Innovations- und Bildungssektor. Als neutraler Mitteleuropäer mit globalem Weitblick positioniert es sich bis 2075 als resilienter Knoten demokratischer Zusammenarbeit.
 
-> „Österreich zeigt, dass Innovation und Tradition Hand in Hand gehen.“
+### 11. Quellen & Modellierungen
 
-* **Selbstwirksamkeit:** Bürgerinitiativen wie Radentscheid Wien ([https://radentscheid.at/](https://radentscheid.at/))
-* **Zukunftswürde:** Gemeinwohl-Ökonomie-Bewegung ([https://www.ecogood.org/](https://www.ecogood.org/))
-* **Einladung an andere:** Nutzung österreichischer Expertise in grüner Technologie und Bildung
+#### Allgemein
 
-***
+* Statistik Austria, World Bank, OECD, Eurostat, WKO, IUCN, SIPRI, PwC, UNESCO
+* Modellannahmen zur Wirtschaftsentwicklung basieren auf PwC „The World in 2050“
+* Energiepotenziale: Österreichische Energieagentur
+* Innovation & Bildung: EUIPO, Our World in Data, OECD EAG
+* Demokratie & Rechtsstaatlichkeit: WJP, Freedom House, Transparency International, Eurobarometer
+* Nachhaltigkeits- und Ressourcenindikatoren: Umweltbundesamt, Eurostat
 
-#### 9. Kennzahlenübersicht (Kurzform)
+> Letzter Quellenzugriff: 2025-06-09
 
-| Indikator                             | 2025      | 2050      | 2075      |
-| ------------------------------------- | --------- | --------- | --------- |
-| BIP (Mrd. EUR)                        | 428,5     | 600       | 750       |
-| Bevölkerung                           | 9 113 574 | 9 825 200 | 9 400 000 |
-| Anteil Erneuerbare (%)                | 34,7      | 65        | 80        |
-| Lebenserwartung                       | 82,0      | 84,0      | 85,0      |
-| Bildungsquote (%)                     | 44        | 50        | 55        |
-| KI-Kapazität \[0–10]                  | 7         | 9         | 10        |
-| Zivilgesellschaftlicher Index \[0–10] | 8         | 9         | 9         |
+#### 📎 Verwendete Quellen und Verweise
 
-***
-## 10. Kurzfassung: "Österreich auf einen Blick"
+1. _„Austria Population 2025“_ (Worldometer, 2025): [https://www.worldometers.info/world-population/austria-population/](https://www.worldometers.info/world-population/austria-population/)
+2. _„Education at a Glance – Austria“_ (OECD, 2024): [https://gpseducation.oecd.org/CountryProfile?primaryCountry=AUT\&topic=EO](https://gpseducation.oecd.org/CountryProfile?primaryCountry=AUT\&topic=EO)
+3. _„Years of Schooling – Austria“_ (Our World in Data, 2023): [https://ourworldindata.org/grapher/average-years-of-schooling](https://ourworldindata.org/grapher/average-years-of-schooling)
+4. _„Life Expectancy – Austria“_ (World Bank, 2023): [https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=AT](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=AT)
+5. _„GDP per capita – Austria“_ (World Bank, 2023): [https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=AT](https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=AT)
+6. _„Bruttoinlandsprodukt Österreich 2024“_ (Statista, 2025): [https://www.statista.com/statistics/418903/gross-domestic-product-gdp-of-austria/](https://www.statista.com/statistics/418903/gross-domestic-product-gdp-of-austria/)
+7. _„The World in 2050 – Austria Forecast“_ (PwC, 2017): [https://www.pwc.com/gx/en/world-2050/assets/pwc-the-world-in-2050-full-report-feb-2017.pdf](https://www.pwc.com/gx/en/world-2050/assets/pwc-the-world-in-2050-full-report-feb-2017.pdf)
+8. _„Forschungs- und Entwicklungsquote“_ (Eurostat, 2024): [https://ec.europa.eu/eurostat/databrowser/view/TEC00115/](https://ec.europa.eu/eurostat/databrowser/view/TEC00115/)
+9. _„Patente – EUIPO“_ (EUIPO, 2024): [https://euipo.europa.eu/](https://euipo.europa.eu/)
+10. _„Erneuerbare Energiepotenziale – Österreich“_ (Österreichische Energieagentur, 2024): [https://www.energyagency.at/](https://www.energyagency.at/)
+11. _„2075 Bevölkerung – Austria PROJ\_23NP“_ (Eurostat, 2025): [https://ec.europa.eu/eurostat/databrowser/view/PROJ\_23NP/](https://ec.europa.eu/eurostat/databrowser/view/PROJ_23NP/)
+12. _„Rule of Law Index – Austria“_ (WJP, 2024): [https://worldjusticeproject.org](https://worldjusticeproject.org)
+13. _„CPI – Austria“_ (Transparency International, 2024): [https://www.transparency.org/en/countries/austria](https://www.transparency.org/en/countries/austria)
+14. _„Military Expenditure – Austria“_ (SIPRI, 2023): [https://www.sipri.org/](https://www.sipri.org/)
+15. _„Protected Areas – Austria“_ (IUCN, 2024): [https://www.protectedplanet.net/country/AUT](https://www.protectedplanet.net/country/AUT)
+16. _„Gesundheitssystem – Österreich“_ (BMSGPK, 2024): [https://www.gesundheit.gv.at/](https://www.gesundheit.gv.at/)
+17. _„Radentscheid Wien“_ (Bürgerinitiative Wien, 2024): [https://radentscheid.at/](https://radentscheid.at/)
+18. _„Gemeinwohlökonomie International“_ (ECOGOOD, 2024): [https://www.ecogood.org/](https://www.ecogood.org/)
+19. _„Demokratieindex – Austria“_ (Freedom House, 2024): [https://freedomhouse.org/country/austria/freedom-world/2024](https://freedomhouse.org/country/austria/freedom-world/2024)
+20. _„Eurobarometer 522 – Vertrauen & Demokratie“_ (EU-Kommission, 2024): [https://data.europa.eu/data/datasets/s2226\_522](https://data.europa.eu/data/datasets/s2226_522)
 
-***
-## 11. Quellen & Modellierungen
+> Letzter Quellenzugriff: 2025-06-09
 
-**A. Demografische Daten**
+#### 🛠️ Modellierungen & Annahmen
 
-* Statistik Austria – Population Projection 2024 ([https://www.statistik.at/](https://www.statistik.at/))
-* UN World Population Prospects 2024 ([https://population.un.org/wpp/](https://population.un.org/wpp/))
+* Wirtschaftliche Projektionen 2050–2075: Mod. extrapoliert basierend auf PwC World 2050
+* KI-Kapazitäten: abgeschätzt aus nationalen Innovationsindikatoren
+* Infrastrukturautarkie: Qualitative Einschätzung auf Basis sektoraler Daten und nationaler Strategiepapiere
+* Demokratie- und Beteiligungswerte: zusammengesetzt aus WJP, Freedom House, Transparency & EU-Umfragen
 
-**B. Wirtschaft & Innovation**
+> Letzter Quellenzugriff: 2025-06-09
 
-* Statista – GDP Austria ([https://www.statista.com/](https://www.statista.com/))
-* PwC The World in 2050 ([https://www.pwc.com/](https://www.pwc.com/))
+### 12. 🤝 Mitwirkung willkommen
 
-**C. Soziales & Bildung**
+Dieses Profil basiert auf öffentlich verfügbaren Daten. Vertreter:innen der Republik Österreich und interessierte Fachstellen sind herzlich eingeladen, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames, zukunftsfähiges Bild der Demokratie in Europa.
 
-* Our World in Data – Years of Schooling ([https://ourworldindata.org/](https://ourworldindata.org/))
-* OECD Education at a Glance 2024 ([https://www.oecd.org/](https://www.oecd.org/))
-
-**D. Gesundheit & Lebenserwartung**
-
-* World Bank – Life expectancy ([https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=AT](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=AT))
-
-**E. Innovation & Patente**
-
-* EUIPO – Patentstatistik ([https://euipo.europa.eu/](https://euipo.europa.eu/))
-
-**F. Umwelt & Ressourcen**
-
-* IUCN Protected Planet ([https://www.protectedplanet.net/](https://www.protectedplanet.net/))
-
-**G. Sicherheit & Verteidigung**
-
-* SIPRI – Military Expenditure ([https://www.sipri.org/](https://www.sipri.org/))
-
-**H. Politische & institutionelle Grundlagen**
-
-* Transparency International – CPI ([https://www.transparency.org/](https://www.transparency.org/))
-
-
-
-„Bundeskanzleramt Österreich – Startseite“ (Bundeskanzleramt, 2025): https://www.bundeskanzleramt.gv.at/\
-„Austria Population 2025“ (Worldometer, 2025): https://www.worldometers.info/world-population/austria-population/\
-„OECD Education at a Glance – Austria“ (OECD, 2024): https://gpseducation.oecd.org/CountryProfile?primaryCountry=AUT\&topic=EO\
-„Years of Schooling – Austria“ (Our World in Data, 2023): https://ourworldindata.org/grapher/average-years-of-schooling\
-„Lebenserwartung – Österreich“ (World Bank, 2023): https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=AT\
-„GDP per capita Austria“ (World Bank, 2023): https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=AT\
-„Bruttoinlandsprodukt Österreich 2024“ (Statista, 2025): https://www.statista.com/statistics/418903/gross-domestic-product-gdp-of-austria/\
-„The World in 2050 – PwC Report“ (PwC, 2017): https://www.pwc.com/gx/en/world-2050/assets/pwc-the-world-in-2050-full-report-feb-2017.pdf\
-„Forschungs- und Entwicklungsquote – Eurostat“ (Eurostat, 2024): https://ec.europa.eu/eurostat/databrowser/view/TEC00115/\
-„Patentanmeldungen in der EU – EUIPO“ (EUIPO, 2024): https://euipo.europa.eu/\
-„Energieagentur Österreich – Erneuerbare Potenziale“ (Österreichische Energieagentur, 2024): https://www.energyagency.at/\
-„Statistik Austria – Bevölkerungsprognosen“ (Statistik Austria, 2025): https://www.statistik.at/web\_en/statistics/population\_and\_society/population/demographic\_projections/population\_projections\_for\_austria\_and\_federal\_states.html\
-„EUROSTAT – Bevölkerung Österreich 2075“ (Eurostat, 2025): https://ec.europa.eu/eurostat/databrowser/view/PROJ\_23NP/\
-„World Justice Project – Rule of Law Index“ (WJP, 2024): https://worldjusticeproject.org\
-„Transparency International – CPI Austria“ (Transparency International, 2024): https://www.transparency.org/en/countries/austria\
-„SIPRI – Military Expenditure Austria“ (SIPRI, 2023): https://www.sipri.org/\
-„IUCN – Protected Planet Austria“ (IUCN, 2024): https://www.protectedplanet.net/country/AUT\
-„Gesundheit.gv.at – Gesundheitssystem Österreich“ (BMSGPK, 2024): https://www.gesundheit.gv.at/\
-„Radentscheid Wien“ (Bürgerinitiative Wien, 2024): https://radentscheid.at/\
-„Gemeinwohlökonomie International“ (ECOGOOD, 2024): https://www.ecogood.org/\
-„Freedom House – Austria Scorecard“ (Freedom House, 2024): https://freedomhouse.org/country/austria/freedom-world/2024\
-„Eurobarometer 522 – Demokratie & Vertrauen“ (EU-Kommission, 2024): https://data.europa.eu/data/datasets/s2226\_522
-
-## 12. 🤝 Mitwirkung willkommen
+**Letzter inhaltlich verantwortlicher Ansprechpartner:**\
+Kontakt: [robert.alexander.massinger@outlook.de](mailto:robert.alexander.massinger@outlook.de)\
+Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
