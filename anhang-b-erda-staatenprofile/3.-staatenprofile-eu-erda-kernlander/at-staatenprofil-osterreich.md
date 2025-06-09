@@ -1,5 +1,5 @@
 ---
-description: (Stand 2025)
+description: (State: AT, Date: 2025-06-09, Responsible Author: <Autor>, Legal Responsible: <Behörde/Institut>)
 ---
 
 # AT - Staatenprofil Österreich
@@ -46,6 +46,16 @@ description: (Stand 2025)
 * **Patente / Jahr:** ca. 1 500 (EUIPO, [https://euipo.europa.eu/](https://euipo.europa.eu/))
 * **Mitglied in FORTERA-Handelsallianzen:** nicht belegbar (Stand Mai 2025)
 * **Produktionssouveränität:** Energie ☑, IT ☑, Verteidigung ☑, Ernährung ☑
+
+### 3.1 Infrastrukturautarkie
+
+- [ ] Energie
+- [ ] IT/Cloud
+- [ ] Verteidigung
+- [ ] Ernährung
+- [ ] IRIS²
+- [ ] Quantentechnologie
+- [ ] Autonome Logistiksysteme
 
 ***
 
@@ -142,8 +152,10 @@ description: (Stand 2025)
 | Zivilgesellschaftlicher Index \[0–10] | 8         | 9         | 9         |
 
 ***
+## 10. Kurzfassung: "Österreich auf einen Blick"
 
-#### 10. Quellen & Modellierungen (A–H)
+***
+## 11. Quellen & Modellierungen
 
 **A. Demografische Daten**
 
@@ -204,3 +216,5 @@ description: (Stand 2025)
 „Gemeinwohlökonomie International“ (ECOGOOD, 2024): https://www.ecogood.org/\
 „Freedom House – Austria Scorecard“ (Freedom House, 2024): https://freedomhouse.org/country/austria/freedom-world/2024\
 „Eurobarometer 522 – Demokratie & Vertrauen“ (EU-Kommission, 2024): https://data.europa.eu/data/datasets/s2226\_522
+
+## 12. 🤝 Mitwirkung willkommen
