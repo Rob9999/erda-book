@@ -8,31 +8,39 @@ Die potenziellen **ERDA-Staaten** (European Rights-Based Democratic Alliance) gl
 
 #### 🔵 Kern-ERDA (Mitglieder mit Verfassungsbindung)
 
-Vollintegrierte Mitgliedsstaaten mit demokratischer Verfassung und stabiler Rechtsstaatlichkeit:
+Vollintegrierte Mitgliedsstaaten mit demokratischer Verfassung und stabiler Rechtsstaatlichkeit, sortiert nach Bevölkerungszahl (Stand 1. Januar 2024) ([en.wikipedia.org][1]):
 
-| Staat        | ISO-Code |
-| ------------ | -------- |
-| Deutschland  | 🇩🇪 DE  |
-| Frankreich   | 🇫🇷 FR  |
-| Italien      | 🇮🇹 IT  |
-| Spanien      | 🇪🇸 ES  |
-| Polen        | 🇵🇱 PL  |
-| Schweden     | 🇸🇪 SE  |
-| Finnland     | 🇫🇮 FI  |
-| Niederlande  | 🇳🇱 NL  |
-| Dänemark     | 🇩🇰 DK  |
-| Belgien      | 🇧🇪 BE  |
-| Österreich   | 🇦🇹 AT  |
-| Irland       | 🇮🇪 IE  |
-| Tschechien   | 🇨🇿 CZ  |
-| Slowenien    | 🇸🇮 SI  |
-| Estland      | 🇪🇪 EE  |
-| Lettland     | 🇱🇻 LV  |
-| Litauen      | 🇱🇹 LT  |
-| Portugal     | 🇵🇹 PT  |
-| Slowakei     | 🇸🇰 SK  |
-| Kroatien     | 🇭🇷 HR  |
-| Griechenland | 🇬🇷 GR  |
+| Staat        | ISO | Einwohner  |
+| ------------ | --- | ---------- |
+| Deutschland  | DE  | 83 445 000 |
+| Frankreich   | FR  | 68 402 000 |
+| Italien      | IT  | 58 989 700 |
+| Spanien      | ES  | 48 610 500 |
+| Polen        | PL  | 36 621 000 |
+| Rumänien     | RO  | 19 064 400 |
+| Niederlande  | NL  | 17 942 900 |
+| Belgien      | BE  | 11 832 000 |
+| Tschechien   | CZ  | 10 900 600 |
+| Portugal     | PT  | 10 639 700 |
+| Schweden     | SE  | 10 551 700 |
+| Griechenland | GR  | 10 397 200 |
+| Österreich   | AT  | 9 158 800  |
+| Bulgarien    | BG  | 6 445 500  |
+| Dänemark     | DK  | 5 961 200  |
+| Finnland     | FI  | 5 603 900  |
+| Slowakei     | SK  | 5 424 700  |
+| Irland       | IE  | 5 343 800  |
+| Kroatien     | HR  | 3 862 000  |
+| Litauen      | LT  | 2 885 900  |
+| Slowenien    | SI  | 2 123 900  |
+| Lettland     | LV  | 1 871 900  |
+| Estland      | EE  | 1 374 700  |
+| Luxemburg    | LU  | 672 100    |
+
+**Gesamtbevölkerung der 24 ERDA-Kernstaaten:** **438 125 100**.
+
+[1]: https://en.wikipedia.org/wiki/List_of_European_Union_member_states_by_population "List of European Union member states by population - Wikipedia"
+
 
 ***
 
@@ -86,6 +94,7 @@ Trotz innerer Herausforderungen verfügen diese Staaten über strategische Bedeu
 | Serbien             | RS  | Schwankend     | Instabil                     | Justizreform, Pressefreiheit    | Infrastruktur              | Beobachter           | 🔴 Niedrig          | Teilweise EU-skeptisch             |
 | Türkei              | TR  | Ambivalent     | Autoritäre Züge              | Demokratischer Wandel           | Sicherheit, Migration      | Strategisch          | 🔴 Niedrig          | Ambivalente Entwicklung            |
 | Tunesien            | TN  | Instabil       | Rückschritte seit 2021       | Demokratische Wiederherstellung | Bildung, Zivilgesellschaft | Beobachter           | 🟡 Mittel           | Ehemals Vorzeigestaat              |
+| Ungarn              | HU  | Ambivalent     | Eingeschränkte Gewaltenteilung und unabhängige Justiz | Kopenhagener Kriterien erfüllen, umfassende Rechtsstaats- und Medienreform | Migration, Energie | Beobachter | 🔴 Niedrig | Anhaltende Rückschritte bei Rechtsstaatlichkeit und Medienfreiheit |
 
 #### 🟢 Globale Assoziierte (außereuropäische Demokratien)
 
@@ -123,7 +132,7 @@ Nicht politisch integrierte Demokratien mit sicherheitspolitischer und innovatio
 
 #### 📚 Gesamtüberblick ERDA-Staaten (nach Stand 2025)
 
-* **21 EU-Kernstaaten** (volle Verfassungsintegration)
+* **24 EU-Kernstaaten** (volle Verfassungsintegration)
 * **28 erweiterte Partnerstaaten** (europäische Nachbarschaft, transnational)
 * **13 globale Demokratien** (assoziierte Partner)
 
