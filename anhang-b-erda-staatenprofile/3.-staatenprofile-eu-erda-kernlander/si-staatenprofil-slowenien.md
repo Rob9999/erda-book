@@ -153,9 +153,9 @@ Steigende Selbstversorgungsgrade, Hightech-Talente ausgebildet, sozioökologisch
 
 ### 10. Kurzfassung: „Slowenien auf einen Blick“
 
-Slowenien ist ein kleiner, hochgebildeter Alpenstaat mit starker Demokratie und
-wachsender Innovationskraft. Die nachhaltige Nutzung der Wasserressourcen und
-eine aktive Zivilgesellschaft machen das Land zum idealen Brückenstaat zwischen
+Slowenien ist ein kleiner, hochgebildeter Alpenstaat mit starker Demokratie und\
+wachsender Innovationskraft. Die nachhaltige Nutzung der Wasserressourcen und\
+eine aktive Zivilgesellschaft machen das Land zum idealen Brückenstaat zwischen\
 Adria und Balkan.
 
 ### 11. Quellen & Modellierungen
@@ -209,7 +209,7 @@ Adria und Balkan.
 
 ### 12. 🤝 Mitwirkung willkommen
 
-Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertret­er:­innen der Republik Slowenien und interessierte Fachstellen sind eingeladen, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten demokratischen Zukunft Europas.
+Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Slowenien sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
-*Letzter inhaltlich verantwortlicher Ansprechpartner:* robert.alexander.massinger@outlook.de
+Letzter inhaltlich verantwortlicher Ansprechpartner: _robert.alexander.massinger@outlook.de_\
 Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
