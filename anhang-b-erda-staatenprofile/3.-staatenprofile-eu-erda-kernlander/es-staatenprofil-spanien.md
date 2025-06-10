@@ -1,5 +1,11 @@
 ---
-description: (Stand 2025)
+description: "State: ES, Date: 2025-06-10, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+country: "ES"
+date: "2025-06-10"
+author: "Robert Alexander Massinger"
+legal_responsible: "<Behörde/Institut>"
+layout: "ERDA-State-Profile-v4"
+version: "1.0"
 ---
 
 # ES - Staatenprofil Spanien
@@ -155,45 +161,64 @@ Transformation 2050–2075: Spanien entwickelt sich zu einem Green-Tech-Pionier 
 
 ***
 
-### 10. Quellen & Modellierungen
+### 10. Kurzfassung: "Spanien auf einen Blick"
 
-#### A. Demografische Daten
+Spanien ist eine stabile Demokratie mit starkem Dienstleistungssektor, wachsenden Green-Tech-Potenzialen und vielfältiger Kultur.
 
+### 11. Quellen & Modellierungen
+
+#### 11.1 ℹ️ Allgemeines
+
+* Statistik: Mischung aus nationalen und internationalen Quellen (Eurostat, OECD u. a.), Basisjahr 2025.
+* Modelle: BIP-Prognosen und Bevölkerungsentwicklung nach OECD und UN (hypothetisch).
+* Energie- und Infrastrukturdaten laut nationalen Strategiepapiere (hypothetisch).
+
+#### 11.2 📎 Verwendete Quellen & Verweise
+
+**Demografie & Gesellschaft**
 * **Quelle:** Worldometer – [Spain Population 2025](https://www.worldometers.info/world-population/spain-population/)
-* **Modell:** Eurostat – [Population Projection 2050/2075](https://ec.europa.eu/eurostat/web/population-demography-migration-projections)
-* **Ergänzung:** PopulationPyramid.net – [Age structure trends](https://www.populationpyramid.net/spain/2050/)
+* **Quelle:** PopulationPyramid.net – [Age structure trends](https://www.populationpyramid.net/spain/2050/)
 
-#### B. Wirtschaft & Innovation
-
+**Wirtschaft & Innovation**
 * **Quelle:** Eurostat (2024) – BIP-Datenbank nach NACE-Kategorien
 * **Quelle:** Reuters – [Spain raises growth forecast](https://www.reuters.com/markets/europe/spain-raises-growth-forecast-2025-03-10/)
-* **Modell:** ERDA-Projektionstool – langfristige Wachstumsannahmen (real, inflationsbereinigt)
 
-#### C. Soziales & Bildung
-
+**Soziales & Bildung**
 * **Quelle:** UNESCO Institute for Statistics – [Education data Spain](http://data.uis.unesco.org/)
-* **Modell:** Eurostat – [Tertiary education attainment](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Tertiary_education_statistics)
 
-#### D. Gesundheit & Lebenserwartung
-
+**Gesundheit & Lebenserwartung**
 * **Quelle:** OECD – [Health Statistics (Life expectancy)](https://stats.oecd.org/Index.aspx?DataSetCode=SHA)
 * **Quelle:** INE (Instituto Nacional de Estadística) – Demografie & Gesundheit Spanien
 
-#### E. Innovation & Patente
-
+**Innovation & Patente**
 * **Quelle:** EPO – [Annual Patent Statistics Spain](https://www.epo.org/about-us/annual-reports-statistics/statistics.html)
 
-#### F. Umwelt & Ressourcen
-
+**Umwelt & Ressourcen**
 * **Quelle:** Eurostat – [Renewable Energy Share in the EU](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Renewable_energy_statistics)
 
-#### G. Sicherheit & Verteidigung
-
+**Sicherheit & Verteidigung**
 * **Quelle:** SIPRI – [Military Expenditure Database](https://www.sipri.org/databases/milex)
 * **Quelle:** Europäische Verteidigungsagentur (EDA) – [EDA Facts & Figures](https://eda.europa.eu/what-we-do/eda-in-brief)
 
-#### H. Politische & institutionelle Grundlagen
-
+**Politische & institutionelle Grundlagen**
 * **Quelle:** BOE (Spanisches Amtsblatt) – [Verfassung 1978, konsolidiert](https://www.boe.es/legislacion/documentos/ConstitucionINGLES.pdf)
 * **Quelle:** CIA World Factbook – Spanienprofil
-* **Modell:** ERDA-Staatenklassifikation 2025 („Konzentrische Kreise“), interne Arbeitsfassung
+
+#### 11.3 🛠️ Modellierungen & Annahmen
+
+* **Modell:** Eurostat – [Population Projection 2050/2075](https://ec.europa.eu/eurostat/web/population-demography-migration-projections)
+* **Modell:** ERDA-Projektionstool – langfristige Wachstumsannahmen (real, inflationsbereinigt)
+* **Modell:** Eurostat – [Tertiary education attainment](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Tertiary_education_statistics)
+* **Modell:** ERDA-Staatenklassifikation 2025 ("Konzentrische Kreise"), interne Arbeitsfassung
+
+***
+
+### 12. 🤝 Mitwirkung willkommen
+
+Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen des Königreichs Spanien sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
+
+#### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
+Autor: Robert Alexander Massinger
+Kontakt: [robert.alexander.massinger@outlook.de](mailto:robert.alexander.massinger@outlook.de)
+Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
+Letzte Änderung: 2025-06-10
