@@ -1,5 +1,11 @@
 ---
-description: (Stand 2025)
+description: "State: SK, Date: 2025-06-10, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+country: "SK"
+date: "2025-06-10"
+author: "Robert Alexander Massinger"
+legal_responsible: "<Behörde/Institut>"
+layout: "ERDA-State-Profile-v4"
+version: "1.0"
 ---
 
 # SK - Staatenprofil Slowakei
@@ -37,6 +43,11 @@ description: (Stand 2025)
   * Subjektive Lebenszufriedenheit: 6,0/10 (World Happiness Report 2023)
   * Vertrauen in Demokratie (Parlament): 21 % (Eurobarometer 2024)
 
+#### 11.3 🛠️ Modellierungen & Annahmen
+* Wirtschaftliche Projektionen 2050–2075: 1,5 % reales Wachstum p.a. (hypothetisch).
+* Infrastrukturautarkie: Ziel 80 % erneuerbare Energieversorgung (hypothetisch).
+
+
 ***
 
 ### 3. Wirtschaft & Innovation
@@ -57,6 +68,9 @@ description: (Stand 2025)
 * Forschungs‑ und Innovationsquote: 0,92 % des BIP (2021) ([theglobaleconomy.com](https://www.theglobaleconomy.com/Slovakia/Research_and_development/?utm_source=chatgpt.com))
 * Patente/Jahr (Trend): 233 Anmeldungen (2022) ([wipo.int](https://www.wipo.int/edocs/gii-ranking/2024/sk.pdf?utm_source=chatgpt.com))
 * Mitglied in FORTERA-Handelsallianzen? Nein
+
+#### 3.1 Infrastrukturautarkie
+
 * Produktionssouveränität in strategischen Sektoren:
   * ☑ Energie (Kernenergie, Wasserkraft)
   * ☑ IT
@@ -155,46 +169,71 @@ description: (Stand 2025)
 | KI-Kapazität \[0–10]                  | 5         | 8           | 10          |
 | Zivilgesellschaftlicher Index \[0–10] | 6,2       | 7,0         | 8,0         |
 
-***
+### 10. Kurzfassung: „Slowakei auf einen Blick“
 
-### 10. Quellen & Modellierungen
+Die Slowakei ist ein industriell geprägter Binnenstaat in Mitteleuropa. Als wichtiger Automobilstandort entwickelt sie sich zunehmend zu einem Tech-Korridor zwischen Ost und West. Trotz demografischer Herausforderungen bleibt die demokratische Stabilität hoch und bietet Potenzial für innovative Mobilitätslösungen.
 
-#### A. Demografische Daten
+### 11. Quellen & Modellierungen
+
+#### 11.1 ℹ️ Allgemeines
+
+* Statistik: Mischung aus nationalen und internationalen Quellen (Eurostat, OECD u. a.), Basisjahr 2025.
+* Modelle: BIP-Prognosen und Bevölkerungsentwicklung nach OECD und UN (hypothetisch).
+* Energie- und Infrastrukturdaten laut nationalen Strategiepapiere (hypothetisch).
+
+#### 11.2 📎 Verwendete Quellen & Verweise
+
+**Demografie & Gesellschaft**
 
 * **Worldometer (2025):** [Slovakia Population 2025](https://www.worldometers.info/world-population/slovakia-population/) ([worldometers.info](https://www.worldometers.info/world-population/slovakia-population/?utm_source=chatgpt.com))
 * **PopulationPyramid.net (2050):** [Slovakia 2050 Population](https://www.populationpyramid.net/slovakia/2050/) ([populationpyramid.net](https://www.populationpyramid.net/slovakia/2050/?utm_source=chatgpt.com))
 * **Eigenes Prognosemodell (2075)**
 
-#### B. Wirtschaft & Innovation
+**Wirtschaft & Innovation**
 
 * **World Bank:** [GDP (current US$) – Slovakia](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=SK) ([databank.worldbank.org](https://databank.worldbank.org/reports.aspx?country=SVK\&source=2\&utm_source=chatgpt.com))
 * **Eigenes Prognosemodell:** 1,5 % reales Wachstum p. a.
 
-#### C. Soziales & Bildung
+**Soziales & Bildung**
 
 * **Eurostat:** [Tertiary Educational Attainment (edat\_lfse\_03)](https://ec.europa.eu/eurostat/databrowser/view/EDAT_LFSE_03/) ([ec.europa.eu](https://ec.europa.eu/eurostat/statistics-explained/index.php/Educational_attainment_statistics?utm_source=chatgpt.com))
 * **WorldEconomics.com:** [Mean Years of Schooling – Slovak Republic](https://www.worldeconomics.com/Indicator-Data/ESG/Social/Mean-Years-of-Schooling/) ([worldeconomics.com](https://www.worldeconomics.com/Indicator-Data/ESG/Social/Mean-Years-of-Schooling/?utm_source=chatgpt.com))
 
-#### D. Gesundheit & Lebenserwartung
+**Gesundheit & Lebenserwartung**
 
 * **World Bank:** [Life Expectancy at Birth – Slovakia](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=SK) ([data.worldbank.org](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=SK\&utm_source=chatgpt.com))
 
-#### E. Innovation & Patente
+**Innovation & Patente**
 
 * **TradingEconomics:** [R\&D Expenditure (% of GDP) – Slovakia](https://tradingeconomics.com/slovakia/research-and-development-expenditure-percent-of-gdp-wb-data.html) ([theglobaleconomy.com](https://www.theglobaleconomy.com/Slovakia/Research_and_development/?utm_source=chatgpt.com))
 * **WIPO GII 2024:** [Patents by Origin – Slovakia](https://www.wipo.int/edocs/gii-ranking/2024/sk.pdf) ([wipo.int](https://www.wipo.int/edocs/gii-ranking/2024/sk.pdf?utm_source=chatgpt.com))
 
-#### F. Umwelt & Ressourcen
+**Umwelt & Ressourcen**
 
 * **Natura 2000:** [EU NATURA Sites in Slovakia](https://natura2000.eea.europa.eu/)
 * **Statistisches Amt:** [Environment Reports – Slovakia](https://www.statistics.sk/)
 
-#### G. Sicherheit & Verteidigung
+**Sicherheit & Verteidigung**
 
 * **SIPRI:** [Military Expenditure Database](https://www.sipri.org/databases/milex)
 * **NATO:** [Defence Expenditure Reports](https://www.nato.int/cps/en/natohq/topics_49198.htm)
 
-#### H. Politische & Institutionelle Grundlagen
+**Politische & institutionelle Grundlagen**
 
 * **World Justice Project:** [Rule of Law Index – Slovakia](https://worldjusticeproject.org/)
 * **Eurobarometer 2024:** [Public Opinion Survey 2251](https://europa.eu/eurobarometer/surveys/survey-detail/2251)
+
+#### 11.3 🛠️ Modellierungen & Annahmen
+* Wirtschaftliche Projektionen 2050–2075: 1,5 % reales Wachstum p.a. (hypothetisch).
+* Infrastrukturautarkie: Ziel 80 % erneuerbare Energieversorgung (hypothetisch).
+
+
+### 12. 🤝 Mitwirkung willkommen
+
+Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Slowakischen Republik sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
+
+#### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
+Autor: Robert Alexander Massinger
+Kontakt: [robert.alexander.massinger@outlook.de](mailto:robert.alexander.massinger@outlook.de)
+Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
+Letzte Änderung: 2025-06-10
