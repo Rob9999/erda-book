@@ -1,7 +1,11 @@
 ---
-description: >-
-  (State: SI, Date: 2025-06-09, Responsible Author: Robert Alexander Massinger,
-  Legal Responsible [Author, Institute, Government]: <Behörde/Institut>)
+description: "State: SI, Date: 2025-06-09, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+country: "SI"
+date: "2025-06-09"
+author: "Robert Alexander Massinger"
+legal_responsible: "<Behörde/Institut>"
+layout: "ERDA-State-Profile-v4"
+version: "1.0"
 ---
 
 # SI - Staatenprofil Slowenien
