@@ -1,5 +1,7 @@
 ---
-description: (Stand 2025)
+description: >-
+  (State: SI, Date: 2025-06-09, Responsible Author: Robert Alexander Massinger,
+  Legal Responsible [Author, Institute, Government]: <Behörde/Institut>)
 ---
 
 # SI - Staatenprofil Slowenien
@@ -37,8 +39,16 @@ description: (Stand 2025)
 * Anteil Automatisierung & Digitalisierung (2025/2050): 52 % / 78 %
 * Forschungs- und Innovationsquote (% des BIP): 2,2 %
 * Patente / Jahr (Trend): ca. 800 / steigend
-* Mitglied in FORTERA-Handelsallianzen? Ja
-* Produktionssouveränität in strategischen Sektoren: ☑ Energie, ☑ IT, ⬜ Verteidigung, ☑ Ernährung
+* Mitglied in FORTERA-Handelsallianzen: Ja
+* Mitglied im Democracy Trade Network: Ja
+* Nutzung von EHAM+ (0–10): 6
+
+#### 3.1 Infrastrukturautarkie
+
+* Energie ☑, IT/Cloud ☑, Verteidigung ☐, Ernährung ☑
+* Satellitenkommunikation (IRIS²) ☐
+* Quantentechnologie ☐
+* Autonome Logistiksysteme ☐
 
 ***
 
@@ -141,7 +151,14 @@ Steigende Selbstversorgungsgrade, Hightech-Talente ausgebildet, sozioökologisch
 
 ***
 
-### 10. Quellen & Modellierungen (optional für Transparenz)
+### 10. Kurzfassung: „Slowenien auf einen Blick“
+
+Slowenien ist ein kleiner, hochgebildeter Alpenstaat mit starker Demokratie und
+wachsender Innovationskraft. Die nachhaltige Nutzung der Wasserressourcen und
+eine aktive Zivilgesellschaft machen das Land zum idealen Brückenstaat zwischen
+Adria und Balkan.
+
+### 11. Quellen & Modellierungen
 
 #### A. Demografische Daten
 
@@ -182,3 +199,17 @@ Steigende Selbstversorgungsgrade, Hightech-Talente ausgebildet, sozioökologisch
 
 * **Quelle:** Freedom House, https://freedomhouse.org
 * **Modell:** V-Dem Institute Index Slovenia
+
+**Modellierungen & Annahmen**
+
+* Wirtschaftliche Projektionen 2050–2075: extrapoliert aus Eurostat- und OECD-Trenddaten (hypothetisch)
+* Infrastrukturautarkie: Einschätzungen nationaler Strategiepapiere (hypothetisch)
+
+***
+
+### 12. 🤝 Mitwirkung willkommen
+
+Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertret­er:­innen der Republik Slowenien und interessierte Fachstellen sind eingeladen, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten demokratischen Zukunft Europas.
+
+*Letzter inhaltlich verantwortlicher Ansprechpartner:* robert.alexander.massinger@outlook.de
+Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
