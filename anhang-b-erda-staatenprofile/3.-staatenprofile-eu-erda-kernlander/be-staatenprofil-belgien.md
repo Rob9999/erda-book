@@ -1,5 +1,11 @@
 ---
-description: (Stand 2025)
+description: "State: BE, Date: 2025-05-28, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Beh\u00f6rde/Institut>"
+country: "BE"
+date: "2025-05-28"
+author: "Robert Alexander Massinger"
+legal_responsible: "<Beh\u00f6rde/Institut>"
+layout: "ERDA-State-Profile-v4"
+version: "1.0"
 ---
 
 # BE - Staatenprofil Belgien
@@ -48,24 +54,26 @@ description: (Stand 2025)
 * **F\&E-Quote (2023):** 2,5 % des BIP ([Eurostat rd\_e\_gerdtot](https://ec.europa.eu/eurostat/databrowser/view/rd_e_gerdtot/default/table))
 * **Patente/Jahr:** ≈ 4 500 Anmeldungen ([WIPO IP Statistics](https://www.wipo.int/ipstats/en/))
 * **Mitgliedschaften & Allianzen:** FORTERA Alliance Mitglied ([FORTERA](https://fortera.org))
+#### 3.1 Infrastrukturautarkie
+
 * **Produktionssouveränität:** Energie ✔ | IT ✔ | Verteidigung ✘ | Ernährung ✔
 
 ### 4. Ressourcenprofil
 
-**Natürliche Ressourcen**
+#### 🌱 Natürliche Ressourcen:
 
 * **Fläche:** 30 689 km² Land, 1 200 km² Wasser ([Eurostat land\_marea](https://ec.europa.eu/eurostat/databrowser/view/land_marea/default/table))
 * **Rohstoffe:** Zink, Blei, Kies, Holz ([USGS Minerals Yearbook](https://pubs.usgs.gov/periodicals/mcs2024/mcs2024.pdf))
 * **Erneuerbare Potenziale:** Nordsee-Wind, Solar, Biomasse ([EEA](https://www.eea.europa.eu))
 * **Schutzgebiete:** 12 % Gesamtfläche (Ramsar-Übersicht)
 
-**Soziale Ressourcen**
+#### 🧑‍🤝‍🧑 Soziale Ressourcen:
 
 * **Ehrenamtliche Beteiligung:** 27 % ([Eurobarometer 95.3](https://europa.eu/eurobarometer/surveys/detail/2472))
 * **Civic Tech-Plattformen:** 15 kommunale Instanzen ([CIVITAS](https://civitas.eu))
 * **Gesundheitssystem:** Universeller Zugang; Präventivausgaben 11 % ([OECD Health Stats](https://www.oecd.org/health/health-data.htm))
 
-**Politische Ressourcen**
+#### 🛡️ Politische Ressourcen:
 
 * **Verfassungsbindung:** Konstitutionelle Monarchie seit 1831 ([Belgium.be](https://www.belgium.be/de/ueber_belgien/staat/federale_staat))
 * **Direkte Demokratie:** Regionale Volksbegehren möglich ([Fed. Public Service Home Affairs](https://www.belgium.be/de/))
@@ -119,10 +127,19 @@ description: (Stand 2025)
 | [Bildungsquote (%)](https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_23/default/table) | 50    | 60    | 65    |
 | KI-Kapazität \[0–10]                                                                           | 7     | 9     | 10    |
 | Zivilgesellschaftlicher Index \[0–10]                                                          | 8     | 9     | 10    |
+### 10. Kurzfassung: „Belgien auf einen Blick"
 
-### 10. Quellen & Modellierungen
+_"Belgien ist im Jahr 2075 ein führender Cyber- und Kulturhub innerhalb der ERDA, mit besonderer Bedeutung für nachhaltige Digitalisierung und grenzüberschreitende Demokratieförderung."_
 
-#### **A. Überblick & Meta**
+### 11. Quellen & Modellierungen
+#### 11.1 ℹ️ Allgemeines
+
+* Statistik: nationale und internationale Quellen (u.a. Eurostat, UN), Basisjahr 2025.
+
+#### 11.2 📎 Verwendete Quellen & Verweise
+
+
+##### A. Überblick & Meta
 
 1. _Belgium Federal Government (2025):_ _Über Belgien – Föderaler Staat._ Brussels: Belgium Federal Government.\
    Online verfügbar unter: [https://www.belgium.be/de/ueber\_belgien/staat/federale\_staat](https://www.belgium.be/de/ueber_belgien/staat/federale_staat) (Zugriff am 2025-05-28).
@@ -131,7 +148,7 @@ description: (Stand 2025)
 3. _United Nations, Department of Economic and Social Affairs (2022):_ _World Population Prospects 2022._ New York: United Nations.\
    Online verfügbar unter: [https://population.un.org/wpp/downloads](https://population.un.org/wpp/downloads) (Zugriff am 2025-05-28).
 
-#### B. Demografie & Gesellschaft
+##### B. Demografie & Gesellschaft
 
 4. _Eurostat (2025):_ _Population and Demography – Population Projections._ Luxembourg: Eurostat.\
    Online verfügbar unter: [https://ec.europa.eu/eurostat/web/population-demography/population-projections](https://ec.europa.eu/eurostat/web/population-demography/population-projections) (Zugriff am 2025-05-28).
@@ -156,7 +173,7 @@ description: (Stand 2025)
 14. _European Commission (2023):_ _Flash Eurobarometer 522 – Democracy and Trust._ Brussels: EC.\
     Online verfügbar unter: [https://data.europa.eu/data/datasets/s2226\_522](https://data.europa.eu/data/datasets/s2226_522) (Zugriff am 2025-05-28).
 
-#### C. Wirtschaft & Innovation
+##### C. Wirtschaft & Innovation
 
 15. _Eurostat (2025):_ _GDP and Main Components (Output, Expenditure and Income) (tec00115)._ Luxembourg: Eurostat.\
     Online verfügbar unter: [https://ec.europa.eu/eurostat/databrowser/view/tec00115/default/table](https://ec.europa.eu/eurostat/databrowser/view/tec00115/default/table) (Zugriff am 2025-05-28).
@@ -173,7 +190,7 @@ description: (Stand 2025)
 21. _FORTERA Alliance (2025):_ _Members and Partnerships._\
     Online verfügbar unter: [https://fortera.org/members-partnerships](https://fortera.org/members-partnerships) (Zugriff am 2025-05-28).
 
-#### D. Ressourcenprofil
+##### D. Ressourcenprofil
 
 22. _Eurostat (2025):_ _Land and Inland Water Areas by Territorial Authority (land\_marea)._ Luxembourg: Eurostat.\
     Online verfügbar unter: [https://ec.europa.eu/eurostat/databrowser/view/land\_marea/default/table](https://ec.europa.eu/eurostat/databrowser/view/land_marea/default/table) (Zugriff am 2025-05-28).
@@ -196,7 +213,7 @@ description: (Stand 2025)
 31. _Belgium Federal Government (2025):_ _Direct Democracy Mechanisms._ Brussels: FPS Home Affairs.\
     Online verfügbar unter: [https://www.belgium.be/de/politik/direkte\_demokratie](https://www.belgium.be/de/politik/direkte_demokratie) (Zugriff am 2025-05-28).
 
-#### E. Sicherheit & strategische Rolle
+##### E. Sicherheit & strategische Rolle
 
 32. _North Atlantic Treaty Organization (2024):_ _NATO Defence Outlook 2024._ Brussels: NATO.\
     Online verfügbar unter: [https://www.nato.int/defence-outlook-2024](https://www.nato.int/defence-outlook-2024) (Zugriff am 2025-05-28).
@@ -207,7 +224,7 @@ description: (Stand 2025)
 35. _European Space Agency (2024):_ _EU Space Programme Implementation._ Paris: ESA.\
     Online verfügbar unter: [https://www.esa.int/Applications/Telecommunications\_Integrated\_Applications/SEA](https://www.esa.int/Applications/Telecommunications_Integrated_Applications/SEA) (Zugriff am 2025-05-28).
 
-#### F. Kulturelle Identität & Soft Power
+##### F. Kulturelle Identität & Soft Power
 
 36. _Eurostat (2025):_ _Population by Linguistic Proficiency (tps00020)._ Luxembourg: Eurostat.\
     Online verfügbar unter: [https://ec.europa.eu/eurostat/databrowser/view/tps00020](https://ec.europa.eu/eurostat/databrowser/view/tps00020) (Zugriff am 2025-05-28).
@@ -222,7 +239,24 @@ description: (Stand 2025)
 41. _European Commission (2025):_ _Creative Europe & Francophonie Programmes._ Brussels: EC.\
     Online verfügbar unter: [https://ec.europa.eu/culture/creative-europe](https://ec.europa.eu/culture/creative-europe) (Zugriff am 2025-05-28).
 
-#### G. Entwicklungspfad & Modellierungen
+##### G. Entwicklungspfad & Modellierungen
 
 42. _ERDA Secretariat (2025):_ _ERDA Vision 2075 – Concept Paper._ Brussels: ERDA.
 43. _Interne Projektdokumentation ERDA (2025):_ _Szenarioanalyse 2025–2075._ Brussels: ERDA.
+
+#### 11.3 🛠️ Modellierungen & Annahmen
+
+* ERDA Vision 2075 – Concept Paper
+* Interne Projektdokumentation ERDA: Szenarioanalyse 2025–2075
+
+***
+
+### 12. 🤝 Mitwirkung willkommen
+
+Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen des Königreichs Belgien sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
+
+#### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
+Autor: Robert Alexander Massinger
+Kontakt: [robert.alexander.massinger@outlook.de](mailto:robert.alexander.massinger@outlook.de)
+Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
+Letzte Änderung: 2025-05-28
