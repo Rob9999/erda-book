@@ -1,5 +1,11 @@
 ---
-description: (Stand 2025)
+description: "State: IT, Date: 2025-06-10, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+country: "IT"
+date: "2025-06-10"
+author: "Robert Alexander Massinger"
+legal_responsible: "<Behörde/Institut>"
+layout: "ERDA-State-Profile-v4"
+version: "1.0"
 ---
 
 # IT - Staatenprofil Italien
@@ -38,8 +44,10 @@ description: (Stand 2025)
 * **Forschungs- und Innovationsquote:** 1,51 % des BIP ([ipsos.com](https://www.ipsos.com/sites/default/files/ct/news/documents/2023-12/Democracy_fl_522_report_en.pdf?utm_source=chatgpt.com))
 * **Patente p.a.:** ca. 21.000 EP-Anmeldungen (2023)
 * **Mitglied in FORTERA-Handelsallianzen:** Ja
-* **Produktionssouveränität in strategischen Sektoren:**
-  * Energie ☑, IT/Cloud ☐, Verteidigung ☐, Ernährung ☑
+
+#### 3.1 Infrastrukturautarkie
+
+* Energie ☑, IT/Cloud ☐, Verteidigung ☐, Ernährung ☑
 
 ***
 
@@ -135,7 +143,19 @@ description: (Stand 2025)
 
 ***
 
-### 10. Quellen & Modellierungen
+### 10. Kurzfassung: „Italien auf einen Blick“
+
+Italien verbindet mediterrane Lebensart mit technologischer Ambition. Kulturelles Erbe, Spitzenkulinarik und nachhaltige Innovationen machen das Land zu einem künftigen ERDA-Knoten für Design und Genuss.
+
+***
+
+### 11. Quellen & Modellierungen
+
+#### 11.1 ℹ️ Allgemeines
+
+* Statistik: Mischung aus nationalen und internationalen Quellen (ISTAT, Eurostat, UN), Basisjahr 2025.
+
+#### 11.2 📎 Verwendete Quellen & Verweise
 
 #### Demografische Daten
 
@@ -171,6 +191,16 @@ description: (Stand 2025)
 
 * **Stockholm International Peace Research Institute (SIPRI)**: Verteidigungsausgaben, https://www.sipri.org/
 
-#### Modellierungsgrundlagen
+#### 11.3 🛠️ Modellierungen & Annahmen
 
 * **ERDA-Projektionsmodell** (internes Szenario- und Prognosemodell)
+
+### 12. 🤝 Mitwirkung willkommen
+
+Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Italienischen Republik sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
+
+#### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
+Autor: Robert Alexander Massinger
+Kontakt: [robert.alexander.massinger@outlook.de](mailto:robert.alexander.massinger@outlook.de)
+Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
+Letzte Änderung: 2025-06-10
