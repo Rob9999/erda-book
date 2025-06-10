@@ -195,7 +195,7 @@
     * [1.2 Modularer Aufbau](anhang-b-erda-staatenprofile/1.-einleitung-zum-staatenprofil-konzept/1.2-modularer-aufbau.md)
     * [1.3 Einsatzmöglichkeiten](anhang-b-erda-staatenprofile/1.-einleitung-zum-staatenprofil-konzept/1.3-einsatzmoglichkeiten.md)
     * [1.4 Vielfalt anerkennen – Gemeinsamkeit gestalten](anhang-b-erda-staatenprofile/1.-einleitung-zum-staatenprofil-konzept/1.4-vielfalt-anerkennen-gemeinsamkeit-gestalten.md)
-  * [2. Schema für ERDA-Staatenprofile (v3, ausführliche Übersicht)](anhang-b-erda-staatenprofile/2.-schema-fur-erda-staatenprofile-ausfuhrliche-ubersicht.md)
+  * [2. Schema für ERDA-Staatenprofile (v4, ausführliche Übersicht)](anhang-b-erda-staatenprofile/2.-schema-fur-erda-staatenprofile-ausfuhrliche-ubersicht.md)
   * [3. Staatenprofile (EU/ERDA - Kernländer)](anhang-b-erda-staatenprofile/3.-staatenprofile-eu-erda-kernlander/README.md)
     * [AT - Staatenprofil Österreich](anhang-b-erda-staatenprofile/3.-staatenprofile-eu-erda-kernlander/at-staatenprofil-osterreich.md)
     * [BE - Staatenprofil Belgien](anhang-b-erda-staatenprofile/3.-staatenprofile-eu-erda-kernlander/be-staatenprofil-belgien.md)
