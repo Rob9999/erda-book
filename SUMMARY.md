@@ -222,6 +222,7 @@
   * [4. Staatenprofile (EU/ERDA - Erweiterte Partnerschaft)](anhang-b-erda-staatenprofile/4.-staatenprofile-eu-erda-erweiterte-partnerschaft/README.md)
     * [UA - Staatenprofil Ukraine](anhang-b-erda-staatenprofile/4.-staatenprofile-eu-erda-erweiterte-partnerschaft/ua-staatenprofil-ukraine.md)
     * [NO - Staatenprofil Norwegen](anhang-b-erda-staatenprofile/4.-staatenprofile-eu-erda-erweiterte-partnerschaft/no-staatenprofil-norwegen.md)
+    * [XK - Staatenprofil Kosovo](anhang-b-erda-staatenprofile/4.-staatenprofile-eu-erda-erweiterte-partnerschaft/xk-staatenprofil-kosovo.md)
 * [Anhang C: Europa 2.0 – Fahrplan für eine lebenswerte, resiliente und führende Union](anhang-c-europa-2.0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union.md)
 * [Anhang D - Executive Compendium für Entscheidungsträger](anhang-d-executive-compendium-fur-entscheidungstrager/README.md)
   * [Block A – Strategische Ausgangslage (Kapitel 1–3)](anhang-d-executive-compendium-fur-entscheidungstrager/block-a-strategische-ausgangslage-kapitel-1-3.md)
