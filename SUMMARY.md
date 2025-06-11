@@ -217,6 +217,7 @@
     * [PT - Staatenprofil Republik Portugal](anhang-b-erda-staatenprofile/3.-staatenprofile-eu-erda-kernlander/pt-staatenprofil-republik-portugal.md)
     * [SE - Staatenprofil Schweden](anhang-b-erda-staatenprofile/3.-staatenprofile-eu-erda-kernlander/se-staatenprofil-schweden.md)
     * [SK - Staatenprofil Slowakei](anhang-b-erda-staatenprofile/3.-staatenprofile-eu-erda-kernlander/sk-staatenprofil-slowakei.md)
+    * [RO - Staatenprofil Rumänien](anhang-b-erda-staatenprofile/3.-staatenprofile-eu-erda-kernlander/ro-staatenprofil-rumanien.md)
     * [SI - Staatenprofil Slowenien](anhang-b-erda-staatenprofile/3.-staatenprofile-eu-erda-kernlander/si-staatenprofil-slowenien.md)
   * [4. Staatenprofile (EU/ERDA - Erweiterte Partnerschaft)](anhang-b-erda-staatenprofile/4.-staatenprofile-eu-erda-erweiterte-partnerschaft/README.md)
     * [UA - Staatenprofil Ukraine](anhang-b-erda-staatenprofile/4.-staatenprofile-eu-erda-erweiterte-partnerschaft/ua-staatenprofil-ukraine.md)
