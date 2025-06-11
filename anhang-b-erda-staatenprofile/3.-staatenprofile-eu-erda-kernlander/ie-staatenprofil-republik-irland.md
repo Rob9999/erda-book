@@ -1,5 +1,11 @@
 ---
-description: (Stand 2025)
+description: "State: IE, Date: 2025-06-10, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+country: "IE"
+date: "2025-06-10"
+author: "Robert Alexander Massinger"
+legal_responsible: "<Behörde/Institut>"
+layout: "ERDA-State-Profile-v4"
+version: "1.0"
 ---
 
 # IE - Staatenprofil Republik Irland
@@ -107,36 +113,56 @@ description: (Stand 2025)
 
 ***
 
-### 8. Narrative & Anwerbewirkung
+### 10. Kurzfassung: „Irland auf einen Blick“
 
-> _„Irland zeigt, dass technologische Innovation und soziale Kohäsion Hand in Hand gehen können.“_
+Irland ist eine digitale Inselnation mit hoher Bildungsquote und wachsender Bevölkerung. Starke Windressourcen und ein innovationsgetriebener Technologiesektor sichern Wohlstand und Resilienz. Als aktives ERDA-Mitglied dient Irland als Beispiel für eine offene, nachhaltige Wirtschaft.
 
-* **Selbstwirksamkeit:** Bürger:innen gestalten über digitale Plattformen Bildung und Umweltprojekte mit
-* **Zukunftswürde:** „Céad míle fáilte“ als Symbol Integration & Offenheit, Pride in Culture
-* **Einladung:** „Kommt nach Irland, wo Demokratie, Technologie und Natur im Gleichklang blühen.“
+### 11. Quellen & Modellierungen
+#### 11.1 ℹ️ Allgemeines
 
-***
+* Statistik: nationale Quellen (CSO Ireland) und internationale Daten (Eurostat, World Bank); Basisjahr 2025.
+* Energiepotenziale: Studien der SEAI und EU-Roadmaps.
+* Innovation & Bildung: DESI und OECD-Analysen.
+* Demokratie & Rechtsstaatlichkeit: Eurobarometer, WJP Rule of Law Index.
+* Nachhaltigkeit: nationale Umweltberichte und IEA-Szenarien.
+#### 11.2 📌 Verwendete Quellen & Verweise
 
-### 9. Kennzahlenübersicht (Kurzform)
+**Demografie & Gesellschaft**
+* UN World Population Prospects. <https://population.un.org/wpp>
+* CSO Ireland. "Measuring Ireland’s Progress".
+**Wirtschaft & Innovation**
+* Wikipedia. "Economy of the Republic of Ireland".
+* Europäische Kommission. "Digital Economy and Society Index (DESI)". <https://digital-strategy.ec.europa.eu/en/policies/desi>
+**Soziales & Bildung**
+* Eurostat & CSO. "Measuring Ireland’s Progress".
+**Gesundheit & Lebenserwartung**
+* Worldometers. "Ireland Population".
+* HSE – Health Service Executive.
+**Innovation & Patente**
+* WIPO Ireland Country Profile. <https://www.wipo.int/edocs/statistics-country-profile/en/ie.pdf>
+**Umwelt & Ressourcen**
+* Sustainable Energy Authority of Ireland (SEAI).
+* Geological Survey Ireland.
+**Sicherheit & Verteidigung**
+* SIPRI Military Expenditure Database.
+* EDA & EU Copernicus Programme.
 
-| Indikator                             | 2025         | 2050      | 2075      |
-| ------------------------------------- | ------------ | --------- | --------- |
-| BIP (Mrd. USD nominal)                | 587,2        | —         | —         |
-| Bevölkerung                           | 5 308 039    | 5 970 042 | 5 708 188 |
-| Anteil Erneuerbare (%)                | 40,7 (Strom) | —         | —         |
-| Lebenserwartung                       | 82,7 Jahre   | —         | —         |
-| Bildungsquote (%)                     | 63 %         | —         | —         |
-| KI-Kapazität \[0–10]                  | 7            | —         | —         |
-| Zivilgesellschaftlicher Index \[0–10] | 8            | —         | —         |
+**Politische & institutionelle Grundlagen**
+* Constitution of Ireland: <https://www.irishstatutebook.ie/eli/cons/en/html>
+* World Justice Project Rule of Law Index.
 
-***
+#### 11.3 🛠️ Modellierungen & Annahmen
+* Wirtschaftliche Projektionen 2050–2075: reales Wachstum 2 % p.a. (hypothetisch).
+* Infrastrukturautarkie: Ziel 80 % erneuerbare Energieversorgung (hypothetisch).
+### 12. 🤝 Mitwirkung willkommen
 
-### 10. Quellen & Modellierungen (Auswahl)
+Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Irland sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
-#### A. Demografische Daten
-
-* UN World Population Prospects: https://population.un.org/wpp
-* CSO Ireland „Measuring Ireland’s Progress“
+#### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
+Autor: Robert Alexander Massinger
+Kontakt: [robert.alexander.massinger@outlook.de](mailto:robert.alexander.massinger@outlook.de)
+Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
+Letzte Änderung: 2025-06-10
 
 #### B. Wirtschaft & Innovation
 
