@@ -1,5 +1,11 @@
 ---
-description: (Stand 2025)
+description: "State: HR, Date: 2025-06-10, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Beh\u00f6rde/Institut>"
+country: "HR"
+date: "2025-06-10"
+author: "Robert Alexander Massinger"
+legal_responsible: "<Beh\u00f6rde/Institut>"
+layout: "ERDA-State-Profile-v4"
+version: "1.0"
 ---
 
 # HR - Staatenprofil Kroatien
@@ -25,7 +31,7 @@ description: (Stand 2025)
 * Altersstruktur:
   * Medianalter: 45,3 Jahre (2025)
   * Jugendanteil (0–14 J.): 14,2 %
-  * Altenquotient (65+/15–64 J.): \~33
+  * Altenquotient (65+/15–64 J.): ~33
 * Urbanisierung: 61,7 % (2025)
 * Bildung:
   * Durchschnittliche Schuljahre: 12,2
@@ -54,14 +60,19 @@ description: (Stand 2025)
   2. Schiffbau & maritime Technologien
   3. Chemische Industrie & Pharmazie
 * Automatisierung & Digitalisierung: 22 % (2023)
-* F\&E-Quote: 1,43 % des BIP (2022)
+* F&E-Quote: 1,43 % des BIP (2022)
 * Patente/Jahr: 216 Anmeldungen (56/Mio. Einw., 2023)
 * FORTERA-Mitglied: Nein
-* Produktionssouveränität:
-  * ☑ Energie
-  * ☑ IT
-  * ☐ Verteidigung
-  * ☐ Ernährung
+
+#### 3.1 Infrastrukturautarkie
+
+* Energie ☑
+* IT/Cloud ☑
+* Verteidigung ☐
+* Ernährung ☐
+* Satellitenkommunikation (IRIS²) ☐
+* Quantentechnologie ☐
+* Autonome Logistiksysteme ☐
 
 ***
 
@@ -143,7 +154,7 @@ description: (Stand 2025)
 
 ***
 
-### 9. Kennzahlenübersicht
+### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025      | 2050      | 2075      |
 | ------------------------------------- | --------- | --------- | --------- |
@@ -157,44 +168,62 @@ description: (Stand 2025)
 
 ***
 
-### 10. Quellen & Modellierungen (optional für Transparenz)
+### 10. Kurzfassung: „Kroatien auf einen Blick“
 
-#### A. Demografie
+Kroatien verbindet touristische Stärken mit wachsenden Digitalisierungsinitiativen und setzt auf nachhaltige Modelle im Adria-Raum. Das Land positioniert sich als Kultur- und Innovationsknoten zwischen Südosteuropa und Mitteleuropa.
 
-* **PopulationPyramid.net (2025, 2050):** [Croatia 2025 Population Pyramid](https://www.populationpyramid.net/croatia/2025/) und [Croatia 2050 Projection](https://www.populationpyramid.net/croatia/2050/)
-* **UN World Population Prospects (Medium Variant):** [UN WPP 2022 Standard Population Download](https://population.un.org/wpp/Download/Standard/Population/)
-* **Worldometers (Live Data):** [Croatia Population](https://www.worldometers.info/world-population/croatia-population/)
+### 11. Quellen & Modellierungen
 
-#### B. Wirtschaft & Innovation
+#### 11.1 ℹ️ Allgemeines
 
-* **World Bank:** [GDP (current US$) – Croatia](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=HR)
-* **Eigenes Prognosemodell:** Interne Hochrechnung (1,5 % p. a.)
+Statistische Basisjahr ist 2025. Bevölkerungs- und Wirtschaftsprognosen beruhen auf einem internen Modell (1,5 % p. a.) unter Nutzung internationaler Datensätze.
 
-#### C. Soziales & Bildung
+#### 11.2 📎 Verwendete Quellen & Verweise
 
-* **OECD – Education at a Glance 2023:** [Tertiary Graduation Rates – Croatia](https://www.oecd.org/education/education-at-a-glance/)
-* **Eurostat:** [Tertiary Education Attainment (edat\_lfse\_03)](https://ec.europa.eu/eurostat/databrowser/view/EDAT_LFSE_03/default/table?lang=en)
+**Demografie & Gesellschaft**
+* **Quelle:** PopulationPyramid.net, https://www.populationpyramid.net/croatia/2025/
+* **Quelle:** UN World Population Prospects, https://population.un.org
+* **Quelle:** Worldometers, https://www.worldometers.info/world-population/croatia-population/
 
-#### D. Gesundheit & Lebenserwartung
+**Wirtschaft & Innovation**
+* **Quelle:** World Bank, https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=HR
+* **Modell:** Eigenes Prognosemodell (1,5 % p. a.)
 
-* **Worldometer:** [Life Expectancy in Croatia](https://www.worldometers.info/demographics/life-expectancy/croatia-life-expectancy/)
+**Soziales & Bildung**
+* **Quelle:** OECD – Education at a Glance 2023, https://www.oecd.org/education/education-at-a-glance/
+* **Quelle:** Eurostat, https://ec.europa.eu/eurostat
 
-#### E. Innovation & Patente
+**Gesundheit & Lebenserwartung**
+* **Quelle:** Worldometer, https://www.worldometers.info/demographics/life-expectancy/croatia-life-expectancy/
 
-* **DZS – Patente:** [Croatian Patent Office Statistics](https://dziv.hr/statistika)
-* **WIPO – IP Facts & Figures 2023:** [WIPO Statistics](https://www.wipo.int/ipstats/en/)
+**Innovation & Patente**
+* **Quelle:** DZS – Patente, https://dziv.hr/statistika
+* **Quelle:** WIPO – IP Facts & Figures 2023, https://www.wipo.int/ipstats/en/
 
-#### F. Umwelt & Ressourcen
+**Umwelt & Ressourcen**
+* **Quelle:** Plitvicer Seen Nationalpark, https://np-plitvice.hr/en/
+* **Quelle:** DZS – Umweltberichte, https://www.dzs.hr/
 
-* **Plitvicer Seen Nationalpark:** [Plitvice Lakes National Park](https://np-plitvice.hr/en/)
-* **DZS – Umweltberichte:** [Croatian Bureau of Statistics Environment](https://www.dzs.hr/)
+**Sicherheit & Verteidigung**
+* **Quelle:** SIPRI, https://www.sipri.org/databases/milex
+* **Quelle:** NATO, https://www.nato.int/cps/en/natohq/topics_49198.htm
 
-#### G. Sicherheit & Verteidigung
+**Politik & Institutionen**
+* **Quelle:** World Justice Project, https://worldjusticeproject.org/
+* **Quelle:** Eurobarometer 2024, https://europa.eu/eurobarometer/surveys/survey-detail/2251
 
-* **SIPRI:** [Military Expenditure Database](https://www.sipri.org/databases/milex)
-* **NATO:** [Defence Expenditure Reports](https://www.nato.int/cps/en/natohq/topics_49198.htm)
+#### 11.3 🛠️ Modellierungen & Annahmen
 
-#### H. Politik & Institutionen
+* Wirtschaftliche Projektionen 2050–2075: interne Hochrechnung (1,5 % p. a.) anhand obiger Quellen
 
-* **World Justice Project:** [Rule of Law Index – Croatia](https://worldjusticeproject.org/)
-* **Eurobarometer 2024:** [Public Opinion in the European Union (Survey 2251)](https://europa.eu/eurobarometer/surveys/survey-detail/2251)
+***
+
+### 12. 🤝 Mitwirkung willkommen
+
+Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Kroatien sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
+
+#### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
+Autor: Robert Alexander Massinger
+Kontakt: [robert.alexander.massinger@outlook.de](mailto:robert.alexander.massinger@outlook.de)
+Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
+Letzte Änderung: 2025-06-10
