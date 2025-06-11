@@ -1,7 +1,11 @@
 ---
-description: >-
-  State: UA,  Date: 2025-06-08, Responsible Author: Robert Alexander Massinger,
-  Legal Responsible [Author, Institute, Government]: None
+description: "State: UA, Date: 2025-06-08, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: None"
+country: "UA"
+date: "2025-06-08"
+author: "Robert Alexander Massinger"
+legal_responsible: "None"
+layout: "ERDA-State-Profile-v4"
+version: "1.0"
 ---
 
 # UA - Staatenprofil Ukraine
@@ -167,37 +171,41 @@ Die Ukraine steht 2025 am Beginn einer Phase tiefgreifender Erneuerung. Mit rund
 
 ***
 
+
 ### 11. Quellen & Modellierungen
 
-**Demografie**
+#### 11.1 ℹ️ Allgemeines
 
+* Statistik: Mischung aus nationalen (Derzhstat) und internationalen Quellen (UN, Weltbank), Basisjahr 2025.
+* Modelle: BIP-Prognosen und Bevölkerungsentwicklung nach Weltbank und UN (hypothetisch).
+* Energie- und Infrastrukturdaten laut nationalen Strategiepapiere (hypothetisch).
+
+#### 11.2 📎 Verwendete Quellen & Verweise
+
+**Demografie**
 * _„World Population Prospects“_ (UN DESA, 2023): [https://population.un.org/wpp/](https://population.un.org/wpp/) (Letzter Zugriff am 2025-06-08)
-* _„Demographic Yearbook Ukraine 2023“_ (Derzhstat, 2024): [https://ukrstat.gov.ua/](https://ukrstat.gov.ua/) (Letzter Zugriff am 2025-06-08)
-* _„Education at a Glance – Ukraine Chapter (Special Edition)“_ (OECD, 2024): [https://www.oecd.org/education/](https://www.oecd.org/education/) (Letzter Zugriff am 2025-06-08)
+* _„Demographic Yearbook Ukraine 2023"_ (Derzhstat, 2024): [https://ukrstat.gov.ua/](https://ukrstat.gov.ua/) (Letzter Zugriff am 2025-06-08)
+* _„Education at a Glance – Ukraine Chapter (Special Edition)"_ (OECD, 2024): [https://www.oecd.org/education/](https://www.oecd.org/education/) (Letzter Zugriff am 2025-06-08)
 
 **Wirtschaft & Innovation**
-
-* _„Ukraine Overview“_ (World Bank, 2025): [https://www.worldbank.org/en/country/ukraine/overview](https://www.worldbank.org/en/country/ukraine/overview) (Letzter Zugriff am 2025-06-08)
-* _„Ukraine: Private Sector Outlook“_ (EBRD, 2024): [https://www.ebrd.com/ukraine.html](https://www.ebrd.com/ukraine.html) (Letzter Zugriff am 2025-06-08)
-* _„Patent Statistics Overview“_ (Ukrpatent, 2023): [https://ukrpatent.org/](https://ukrpatent.org/) (Letzter Zugriff am 2025-06-08)
+* _„Ukraine Overview"_ (World Bank, 2025): [https://www.worldbank.org/en/country/ukraine/overview](https://www.worldbank.org/en/country/ukraine/overview) (Letzter Zugriff am 2025-06-08)
+* _„Ukraine: Private Sector Outlook"_ (EBRD, 2024): [https://www.ebrd.com/ukraine.html](https://www.ebrd.com/ukraine.html) (Letzter Zugriff am 2025-06-08)
+* _„Patent Statistics Overview"_ (Ukrpatent, 2023): [https://ukrpatent.org/](https://ukrpatent.org/) (Letzter Zugriff am 2025-06-08)
 
 **Energie & Ressourcen**
-
-* _„Renewables Readiness Assessment: Ukraine“_ (IRENA, 2023): [https://www.irena.org/publications](https://www.irena.org/publications) (Letzter Zugriff am 2025-06-08)
-* _„National Energy Strategy to 2050“_ (Ministry of Energy of Ukraine, hypothetisch)
+* _„Renewables Readiness Assessment: Ukraine"_ (IRENA, 2023): [https://www.irena.org/publications](https://www.irena.org/publications) (Letzter Zugriff am 2025-06-08)
+* _„National Energy Strategy to 2050"_ (Ministry of Energy of Ukraine, hypothetisch)
 
 **Sicherheit & Strategie**
-
-* _„Ukraine Partnership Reports“_ (NATO, 2025): [https://www.nato.int](https://www.nato.int/) (Letzter Zugriff am 2025-06-08)
-* _„White Paper on Territorial Defence Capabilities“_ (Centre for Defence Strategies – Ukraine, 2024): [https://defence.org.ua/](https://defence.org.ua/) (Letzter Zugriff am 2025-06-08)
+* _„Ukraine Partnership Reports"_ (NATO, 2025): [https://www.nato.int](https://www.nato.int/) (Letzter Zugriff am 2025-06-08)
+* _„White Paper on Territorial Defence Capabilities"_ (Centre for Defence Strategies – Ukraine, 2024): [https://defence.org.ua/](https://defence.org.ua/) (Letzter Zugriff am 2025-06-08)
 
 **Politische & gesellschaftliche Indikatoren**
+* _„Freedom in the World: Ukraine Country Report"_ (Freedom House, 2024): [https://freedomhouse.org](https://freedomhouse.org/) (Letzter Zugriff am 2025-06-08)
+* _„Rule of Law Index – Ukraine Country Profile"_ (World Justice Project, 2024): [https://worldjusticeproject.org](https://worldjusticeproject.org/) (Letzter Zugriff am 2025-06-08)
+* _„CIVITAS Ukraine Scorecard 2025"_ (hypothetisch)
 
-* _„Freedom in the World: Ukraine Country Report“_ (Freedom House, 2024): [https://freedomhouse.org](https://freedomhouse.org/) (Letzter Zugriff am 2025-06-08)
-* _„Rule of Law Index – Ukraine Country Profile“_ (World Justice Project, 2024): [https://worldjusticeproject.org](https://worldjusticeproject.org/) (Letzter Zugriff am 2025-06-08)
-* _„CIVITAS Ukraine Scorecard 2025“_ (hypothetisch)
-
-**Modellierungen & Annahmen**
+#### 11.3 🛠️ Modellierungen & Annahmen
 
 * Prognosemethodik Demografie: UN DESA Basisszenario (medium-fertility variant)
 * Wirtschaftsszenarien: interpolierter Mittelwert auf Basis Weltbank, EBRD und Ukrainian Economic Outlook Group (hypothetisch)
@@ -209,6 +217,8 @@ Die Ukraine steht 2025 am Beginn einer Phase tiefgreifender Erneuerung. Mit rund
 
 Dieses Profil wurde auf Basis öffentlich zugänglicher und modellierter Daten erstellt. Wir laden Vertreter:innen der Ukraine herzlich ein, eigene Perspektiven, Ergänzungen und Aktualisierungen einzubringen – für ein gemeinsames Bild der demokratischen Zukunft Europas.
 
-Kontakt: robert.alexander.massinger@outlook.de\
-Plattform: [https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/anhang-b-erda-staatenprofile/4.-staatenprofile-eu-erda-erweiterte-partnerschaft/ua-staatenprofil-ukraine)\
-(Letzter Zugriff auf alle Quellen: 2025-06-08)
+#### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
+Autor: Robert Alexander Massinger
+Kontakt: [robert.alexander.massinger@outlook.de](mailto:robert.alexander.massinger@outlook.de)
+Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
+Letzte Änderung: 2025-06-08
