@@ -1,5 +1,11 @@
 ---
-description: (Stand 2025)
+description: "State: LT, Date: 2025-06-10, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+country: "LT"
+date: "2025-06-10"
+author: "Robert Alexander Massinger"
+legal_responsible: "<Behörde/Institut>"
+layout: "ERDA-State-Profile-v4"
+version: "1.0"
 ---
 
 # LT - Staatenprofil Republik Litauen
@@ -38,7 +44,13 @@ description: (Stand 2025)
 * **Forschungs- und Innovationsquote:** 1,06 % des BIP (GERD 2022) ([Eurostat](https://ec.europa.eu/eurostat))
 * **Patente / Jahr:** 632 USPTO-Anmeldungen (2023) ([WIPO LT Profil](https://www.wipo.int/edocs/statistics-country-profile/en/lt.pdf))
 * **Mitglied in FORTERA-Handelsallianzen?** Nein
-* **Produktionssouveränität:** ☑ Energie; ☑ IT; ☐ Verteidigung; ☑ Ernährung
+
+#### 3.1 Infrastrukturautarkie
+
+* Energie ☑, IT ☑, Verteidigung ☐, Ernährung ☑
+* Satellitenkommunikation (IRIS²) ☐
+* Quantentechnologie ☐
+* Autonome Logistiksysteme ☐
 
 ***
 
@@ -135,39 +147,59 @@ description: (Stand 2025)
 
 ***
 
-### 10. Quellen & Modellierungen (Auswahl)
 
-#### A. Demografische Daten
+### 10. Kurzfassung: „Litauen auf einen Blick"
 
+Litauen positioniert sich als digital orientierter Ostseestaat mit wachsenden grünen Industrien. Auf dem Weg zur klimaneutralen Innovation stärkt das Land seine E-Governance und Bürgerbeteiligung.
+
+### 11. Quellen & Modellierungen
+
+#### 11.1 ℹ️ Allgemeines
+
+* Statistik: Mischung aus nationalen und internationalen Quellen (Eurostat, OECD u. a.), Basisjahr 2025.
+* Modelle: BIP-Prognosen und Bevölkerungsentwicklung nach OECD und UN (hypothetisch).
+* Energie- und Infrastrukturdaten laut nationalen Strategiepapiere (hypothetisch).
+
+#### 11.2 📎 Verwendete Quellen & Verweise
+
+**Demografie & Gesellschaft**
 * UN World Population Prospects: https://population.un.org/wpp/
 * Worldometer: https://www.worldometers.info/world-population/lithuania-population/ citeturn7search1
 
-#### B. Wirtschaft & Innovation
-
-* Wikipedia „Economy of Lithuania“: https://en.wikipedia.org/wiki/Economy\_of\_Lithuania#Statistics citeturn9search0
+**Wirtschaft & Innovation**
+* Wikipedia „Economy of Lithuania“: https://en.wikipedia.org/wiki/Economy_of_Lithuania#Statistics citeturn9search0
 * Digital Economy and Society Index: https://digital-strategy.ec.europa.eu/en/policies/desi
 
-#### C. Soziales & Bildung
+**Soziales & Bildung**
+* UNDP Human Development Reports, UNESCO & Eurostat
 
-* UNDP Human Development Reports, UNESCO & Eurostat 
-
-#### D. Gesundheit & Lebenserwartung
-
+**Gesundheit & Lebenserwartung**
 * WHO Data: https://data.who.int/countries/440 citeturn7search3
 
-#### E. Innovation & Patente
-
+**Innovation & Patente**
 * WIPO Country Profile: https://www.wipo.int/edocs/statistics-country-profile/en/lt.pdf
 
-#### F. Umwelt & Ressourcen
-
+**Umwelt & Ressourcen**
 * SEIA Lithuania, Protected Planet, Wikipedia
 
-#### G. Sicherheit & Verteidigung
-
+**Sicherheit & Verteidigung**
 * SIPRI Military Expenditure Database, NATO NCI Agency
 
-#### H. Politische & Institutionelle Grundlagen
-
-* Constituição de 1992: https://www.lrs.lt/sip/portal.show?p\_r=8804
+**Politische & institutionelle Grundlagen**
+* Constituição de 1992: https://www.lrs.lt/sip/portal.show?p_r=8804
 * World Justice Project Rule of Law Index
+
+#### 11.3 🛠️ Modellierungen & Annahmen
+* Wirtschaftliche Projektionen 2050–2075: extrapoliert aus Eurostat- und OECD-Trenddaten (hypothetisch).
+* Infrastrukturautarkie: Ziel 80 % erneuerbare Energieversorgung (hypothetisch).
+
+### 12. 🤝 Mitwirkung willkommen
+
+Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Litauen sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
+
+#### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
+Autor: Robert Alexander Massinger
+Kontakt: [robert.alexander.massinger@outlook.de](mailto:robert.alexander.massinger@outlook.de)
+Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
+Letzte Änderung: 2025-06-10
+

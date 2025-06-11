@@ -1,3 +1,13 @@
+---
+description: "State: DK, Date: 2025-06-10, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Beh\u00f6rde/Institut>"
+country: "DK"
+date: "2025-06-10"
+author: "Robert Alexander Massinger"
+legal_responsible: "<Beh\u00f6rde/Institut>"
+layout: "ERDA-State-Profile-v4"
+version: "1.0"
+---
+
 # DK - Staatenprofil Dänemark
 
 ## 🇩🇰 ERDA-Staatenprofil: Dänemark
@@ -35,6 +45,14 @@
 * Patente/Jahr: ca. 600 EP-Anmeldungen
 * Mitglied in FORTERA-Handelsallianzen: Ja
 * Produktionssouveränität: Energie ☑, IT/Cloud ☐, Verteidigung ☐, Ernährung ☐
+
+#### 3.1 Infrastrukturautarkie
+
+* Produktionssouveränität in strategischen Sektoren:
+  * ☑ Energie
+  * ☐ IT/Cloud
+  * ☐ Verteidigung
+  * ☐ Ernährung
 
 ***
 
@@ -129,11 +147,44 @@
 
 ***
 
-### 10. Quellen
+### 10. Kurzfassung: „Dänemark auf einen Blick“
 
+Dänemark verbindet hohen Lebensstandard mit konsequenter Nachhaltigkeit und zählt zu den Vorreitern in der Nutzung von Windenergie. Als Arktisknoten und Innovationsstandort bietet das Königreich optimale Voraussetzungen für grüne Technologien und starke Bürgerbeteiligung.
+
+### 11. Quellen & Modellierungen
+
+#### 11.1 ℹ️ Allgemeines
+
+* Statistik: Mischung aus nationalen und internationalen Quellen (Eurostat, OECD u.  a.), Basisjahr 2025.
+* Modelle: BIP-Prognosen und Bevölkerungsentwicklung nach OECD und UN (hypothetisch).
+* Energie- und Infrastrukturdaten laut nationalen Strategiepapiere (hypothetisch).
+
+#### 11.2 📌 Verwendete Quellen & Verweise
+
+**Demografie & Gesellschaft**
 * **EUROSTAT** (2024): Bevölkerungszahlen, Urbanisierungsgrad, Energie- und Wirtschaftsindikatoren
 * **Worldometer** (Stand 2025): Bevölkerung, Medianalter, Lebenserwartung und Urbanisierung
 * **Statistics Denmark** (Danmarks Statistik): Nationale Demografie- und Bildungsdaten
+
+**Wirtschaft & Innovation**
 * **OECD Science, Technology and Industry Scoreboard** (2024): F\&I‑Quote, Patentanmeldungen
+
+**Politische & institutionelle Grundlagen**
 * **Statistisches Amt Dänemark**: Regierungsform, Verfassungsstatus, politische Indizes
+
+**Modellierungen**
 * **ERDA-Projektionen** (2025): Szenarien und langfristige Modellannahmen
+
+#### 11.3 🛠️ Modellierungen & Annahmen
+* Wirtschaftliche Projektionen 2050–2075: extrapoliert aus Eurostat- und OECD-Daten (hypothetisch)
+* Infrastrukturautarkie: Ziel 80 % erneuerbare Energieversorgung (hypothetisch)
+
+### 12. 🤝 Mitwirkung willkommen
+
+Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen des Königreichs Dänemark sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
+
+#### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
+Autor: Robert Alexander Massinger
+Kontakt: [robert.alexander.massinger@outlook.de](mailto:robert.alexander.massinger@outlook.de)
+Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
+Letzte Änderung: 2025-06-10
