@@ -169,7 +169,7 @@ Estland verbindet eine agile Digitalverwaltung mit einer engagierten Zivilgesell
 #### 11.1 ℹ️ Allgemeines
 
 * Statistik: Mischung aus nationalen und internationalen Quellen (Statistikaamet, Eurostat u. a.), Basisjahr 2025.
-* Modelle: BIP- und Bevölkerungsprognosen nach OECD und UN (hypothetisch).
+* Modelle: BIP- und Bevölkerungsprognosen nach OECD und UN (hypothetisch: ERDA Scenario Modeling Report 2025).
 
 #### 11.2 📎 Verwendete Quellen & Verweise
 
@@ -205,10 +205,13 @@ Estland verbindet eine agile Digitalverwaltung mit einer engagierten Zivilgesell
 * **Quelle:** World Justice Project, https://worldjusticeproject.org/
 
 #### 11.3 🛠️ Modellierungen & Annahmen
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-* Wirtschaftliche Projektionen 2050–2075: basierend auf OECD-Langfristprojektionen 2024 (hypothetisch).
-* Demografische Entwicklung: UN WPP 2022 (hypothetisch).
-* Energiepotenziale: Schätzungen nach SEI Estonia (hypothetisch).
+
+* Wirtschaftliche Projektionen 2050–2075: basierend auf OECD-Langfristprojektionen 2024 (hypothetisch: ERDA Scenario Modeling Report 2025).
+* Demografische Entwicklung: UN WPP 2022 (hypothetisch: ERDA Scenario Modeling Report 2025).
+* Energiepotenziale: Schätzungen nach SEI Estonia (hypothetisch: ERDA Scenario Modeling Report 2025).
 
 ### 12. 🤝 Mitwirkung willkommen
 

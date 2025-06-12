@@ -177,8 +177,8 @@ Die Ukraine steht 2025 am Beginn einer Phase tiefgreifender Erneuerung. Mit rund
 #### 11.1 ℹ️ Allgemeines
 
 * Statistik: Mischung aus nationalen (Derzhstat) und internationalen Quellen (UN, Weltbank), Basisjahr 2025.
-* Modelle: BIP-Prognosen und Bevölkerungsentwicklung nach Weltbank und UN (hypothetisch).
-* Energie- und Infrastrukturdaten laut nationalen Strategiepapiere (hypothetisch).
+* Modelle: BIP-Prognosen und Bevölkerungsentwicklung nach Weltbank und UN (hypothetisch: ERDA Scenario Modeling Report 2025).
+* Energie- und Infrastrukturdaten laut nationalen Strategiepapiere (hypothetisch: ERDA Scenario Modeling Report 2025).
 
 #### 11.2 📎 Verwendete Quellen & Verweise
 
@@ -194,7 +194,7 @@ Die Ukraine steht 2025 am Beginn einer Phase tiefgreifender Erneuerung. Mit rund
 
 **Energie & Ressourcen**
 * _„Renewables Readiness Assessment: Ukraine"_ (IRENA, 2023): [https://www.irena.org/publications](https://www.irena.org/publications) (Letzter Zugriff am 2025-06-08)
-* _„National Energy Strategy to 2050"_ (Ministry of Energy of Ukraine, hypothetisch)
+* _„National Energy Strategy to 2050"_ (Ministry of Energy of Ukraine, hypothetisch: ERDA Scenario Modeling Report 2025)
 
 **Sicherheit & Strategie**
 * _„Ukraine Partnership Reports"_ (NATO, 2025): [https://www.nato.int](https://www.nato.int/) (Letzter Zugriff am 2025-06-08)
@@ -203,13 +203,16 @@ Die Ukraine steht 2025 am Beginn einer Phase tiefgreifender Erneuerung. Mit rund
 **Politische & gesellschaftliche Indikatoren**
 * _„Freedom in the World: Ukraine Country Report"_ (Freedom House, 2024): [https://freedomhouse.org](https://freedomhouse.org/) (Letzter Zugriff am 2025-06-08)
 * _„Rule of Law Index – Ukraine Country Profile"_ (World Justice Project, 2024): [https://worldjusticeproject.org](https://worldjusticeproject.org/) (Letzter Zugriff am 2025-06-08)
-* _„CIVITAS Ukraine Scorecard 2025"_ (hypothetisch)
+* _„CIVITAS Ukraine Scorecard 2025"_ (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 #### 11.3 🛠️ Modellierungen & Annahmen
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
+
 
 * Prognosemethodik Demografie: UN DESA Basisszenario (medium-fertility variant)
-* Wirtschaftsszenarien: interpolierter Mittelwert auf Basis Weltbank, EBRD und Ukrainian Economic Outlook Group (hypothetisch)
-* Worst-/Best-Case-Rahmen: qualitative Szenarienmodellierung durch das ERDA Policy-Lab (hypothetisch, 2025)
+* Wirtschaftsszenarien: interpolierter Mittelwert auf Basis Weltbank, EBRD und Ukrainian Economic Outlook Group (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Worst-/Best-Case-Rahmen: qualitative Szenarienmodellierung durch das ERDA Policy-Lab (hypothetisch: ERDA Scenario Modeling Report 2025, 2025)
 
 ***
 

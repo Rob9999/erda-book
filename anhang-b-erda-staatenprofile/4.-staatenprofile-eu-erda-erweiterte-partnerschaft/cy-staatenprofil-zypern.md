@@ -25,7 +25,7 @@ version: "1.0"
 
 ### 2. Demografie & Gesellschaft
 
-* Bevölkerung (2050/2075-Prognose): 1,4 Mio. / 1,35 Mio. (UN WPP 2022, hypothetisch)
+* Bevölkerung (2050/2075-Prognose): 1,4 Mio. / 1,35 Mio. (UN WPP 2022, hypothetisch: ERDA Scenario Modeling Report 2025)
 * Altersstruktur (Medianalter, Jugendanteil, Altenquotient): 38 Jahre, 17 %, 25 %
 * Urbanisierung (%): 67 % (World Bank 2023)
 * Bildung (Durchschnittsjahre, MINT-Anteil, Hochschulquote): 13 Jahre, 25 %, 45 % (UNESCO)
@@ -153,7 +153,7 @@ Integration in regionale Energieprojekte und Stärkung der Innovationslandschaft
 | KI-Kapazität [0–10]                   | 5        | 6        | 7        |
 | Zivilgesellschaftlicher Index [0–10]  | 6        | 7        | 8        |
 
-Hinweise: (p) - Prognose (UN, OECD etc.)
+Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 
@@ -166,8 +166,8 @@ Zypern ist eine dynamische Mittelmeerinsel mit strategischer Lage zwischen Europ
 #### 11.1 ℹ️ Allgemeines
 
 * Statistik: World Bank (Population, GDP, Life Expectancy), Rest Countries API (Flächenangaben)
-* Modelle: UN World Population Prospects 2022 (hypothetisch)
-* Energie- und Infrastrukturdaten laut nationalen Strategiepapiere (hypothetisch)
+* Modelle: UN World Population Prospects 2022 (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Energie- und Infrastrukturdaten laut nationalen Strategiepapiere (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 #### 11.2 📎 Verwendete Quellen & Verweise
 
@@ -180,10 +180,13 @@ Zypern ist eine dynamische Mittelmeerinsel mit strategischer Lage zwischen Europ
 > Letzter Quellenzugriff: 2025-06-11
 
 #### 11.3 🛠️ Modellierungen & Annahmen
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-* Wirtschaftliche Projektionen 2050–2075: Extrapolation aktueller Wachstumsraten (hypothetisch)
-* Infrastrukturautarkie: qualitative Einschätzungen auf Basis nationaler Strategiepapiere (hypothetisch)
-* Demokratie- und Beteiligungswerte: Kombination aus Freedom House und WJP (hypothetisch)
+
+* Wirtschaftliche Projektionen 2050–2075: Extrapolation aktueller Wachstumsraten (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Infrastrukturautarkie: qualitative Einschätzungen auf Basis nationaler Strategiepapiere (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Demokratie- und Beteiligungswerte: Kombination aus Freedom House und WJP (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 

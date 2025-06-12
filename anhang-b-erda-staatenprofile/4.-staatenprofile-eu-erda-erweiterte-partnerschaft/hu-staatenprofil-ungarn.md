@@ -25,7 +25,7 @@ version: "1.0"
 
 ### 2. Demografie & Gesellschaft
 
-* Bevölkerung Prognose (2050 / 2075): 8,6 Mio. / 8,1 Mio. (UN DESA 2022, hypothetisch)
+* Bevölkerung Prognose (2050 / 2075): 8,6 Mio. / 8,1 Mio. (UN DESA 2022, hypothetisch: ERDA Scenario Modeling Report 2025)
 * Altersstruktur (Medianalter, Jugendanteil %, Altenquotient): 43 Jahre, 13 %, 31 %
 * Urbanisierungsgrad (%): 72 %
 * Durchschnittliche Bildung (Schuljahre, Hochschulquote %, MINT-Fächer %): 12,3 Jahre, 32 %, 25 %
@@ -37,7 +37,7 @@ version: "1.0"
 
 ### 3. Wirtschaft & Innovation
 
-* Bruttoinlandsprodukt (BIP real, heute / 2050 / 2075 in Mrd. EUR): 180 / 240 (hypothetisch) / 310 (hypothetisch)
+* Bruttoinlandsprodukt (BIP real, heute / 2050 / 2075 in Mrd. EUR): 180 / 240 (hypothetisch: ERDA Scenario Modeling Report 2025) / 310 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * BIP pro Kopf (EUR): ca. 20 000
 * Top-3 Schlüsselindustrien: Automobilbau, Maschinenbau, Agrar- & Lebensmittelwirtschaft
 * Anteil Automatisierung & Digitalisierung (heute / 2050 in %): 50 % / 75 %
@@ -152,7 +152,7 @@ version: "1.0"
 | KI-Kapazität [0–10] | 4 | 6 (p) | 7 (p) | 5 |
 | Zivilgesellschaftlicher Index [0–10] | 4 | 5 (p) | 6 (p) | 6 |
 
-Hinweise: (p) - Prognose (UN DESA 2022, hypothetisch)
+Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 
@@ -165,7 +165,7 @@ Ungarn verbindet eine traditionsreiche Kultur und günstige Lage in Mitteleuropa
 #### 11.1 ℹ️ Allgemeines
 
 * Statistik: World Bank (Population, GDP), Eurostat (Energie), UNESCO (Welterbe)
-* Modellannahmen zur Wirtschaftsentwicklung: PwC "The World in 2050" (hypothetisch)
+* Modellannahmen zur Wirtschaftsentwicklung: PwC "The World in 2050" (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Energiepotenziale: Internationale Energieagentur (IEA)
 * Innovation & Bildung: OECD Education at a Glance
 * Demokratie & Rechtsstaatlichkeit: Freedom House, World Justice Project
@@ -183,10 +183,13 @@ Ungarn verbindet eine traditionsreiche Kultur und günstige Lage in Mitteleuropa
 > Letzter Quellenzugriff: 2025-06-10
 
 #### 11.3 🛠️ Modellierungen & Annahmen
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-* Wirtschaftliche Projektionen 2050–2075: extrapoliert aus PwC "World in 2050" (hypothetisch)
-* Infrastrukturautarkie: qualitative Einschätzungen auf Basis nationaler Strategiepapiere (hypothetisch)
-* Demokratie- und Beteiligungswerte: kombiniert aus Freedom House und WJP (hypothetisch)
+
+* Wirtschaftliche Projektionen 2050–2075: extrapoliert aus PwC "World in 2050" (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Infrastrukturautarkie: qualitative Einschätzungen auf Basis nationaler Strategiepapiere (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Demokratie- und Beteiligungswerte: kombiniert aus Freedom House und WJP (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 

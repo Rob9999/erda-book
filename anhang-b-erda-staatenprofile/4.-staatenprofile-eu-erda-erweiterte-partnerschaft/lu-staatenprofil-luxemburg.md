@@ -25,7 +25,7 @@ version: "1.0"
 
 ### 2. Demografie & Gesellschaft
 
-* Bevölkerung (2050/2075-Prognose): 0,80 Mio. / 0,85 Mio. (UN DESA World Population Prospects 2022, hypothetisch)[2]
+* Bevölkerung (2050/2075-Prognose): 0,80 Mio. / 0,85 Mio. (UN DESA World Population Prospects 2022, hypothetisch: ERDA Scenario Modeling Report 2025)[2]
 * Altersstruktur (Medianalter, Jugendanteil %, Altenquotient): 40 Jahre, 17 %, 14 % (World Bank 2023)
 * Urbanisierung (%): 92 % (World Bank 2023)[3]
 * Bildung (Durchschnittsjahre, MINT-Anteil, Hochschulquote): 13,3 Jahre, 28 %, 50 % (OECD 2023)
@@ -37,7 +37,7 @@ version: "1.0"
 
 ### 3. Wirtschaft & Innovation
 
-* Bruttoinlandsprodukt (BIP, real, heute / 2050 / 2075): 86 Mrd. USD / 110 Mrd. EUR / 150 Mrd. EUR (2050/2075 hypothetisch)[6]
+* Bruttoinlandsprodukt (BIP, real, heute / 2050 / 2075): 86 Mrd. USD / 110 Mrd. EUR / 150 Mrd. EUR (2050/2075 hypothetisch: ERDA Scenario Modeling Report 2025)[6]
 * BIP pro Kopf: 128 678 USD (World Bank 2023)[7]
 * Forschungs- und Entwicklungsquote: 1,0 % des BIP (World Bank 2022)[8]
 * Innovationskraft (Patentanmeldungen, FuE-Beschäftigte): hoch (EPO Patent Index 2023)[9]
@@ -84,8 +84,8 @@ Luxemburg ist ein wohlhabender Kleinstaat im Herzen Europas, der dank seiner sta
 #### 7.1 ℹ️ Allgemeines
 
 * Statistik: Mischung aus nationalen und internationalen Quellen (World Bank, OECD)
-* Modelle: BIP-Prognosen und Bevölkerungsentwicklung nach UN DESA (hypothetisch)
-* Energie- und Infrastrukturdaten laut nationalen Strategiepapiere (hypothetisch)
+* Modelle: BIP-Prognosen und Bevölkerungsentwicklung nach UN DESA (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Energie- und Infrastrukturdaten laut nationalen Strategiepapiere (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 #### 7.2 📎 Verwendete Quellen & Verweise
 
@@ -104,10 +104,10 @@ Luxemburg ist ein wohlhabender Kleinstaat im Herzen Europas, der dank seiner sta
 
 #### 7.3 🛠️ Modellierungen & Annahmen
 
-* Wirtschaftliche Projektionen 2050–2075: extrapoliert aus OECD-Trends (hypothetisch)
-* Infrastrukturautarkie: Ziel 80 % erneuerbare Energieversorgung (hypothetisch)
-* Demokratie- und Beteiligungswerte: jährliche Verbesserung um 0,3 Punkte (hypothetisch)
-* Energiepotenziale: moderates vs. ambitioniertes Szenario nach IEA (hypothetisch)
+* Wirtschaftliche Projektionen 2050–2075: extrapoliert aus OECD-Trends (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Infrastrukturautarkie: Ziel 80 % erneuerbare Energieversorgung (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Demokratie- und Beteiligungswerte: jährliche Verbesserung um 0,3 Punkte (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Energiepotenziale: moderates vs. ambitioniertes Szenario nach IEA (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 

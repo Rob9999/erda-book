@@ -151,8 +151,8 @@ Frankreich ist ein global vernetzter Kernstaat Europas mit starker Industriebasi
 #### 11.1 ℹ️ Allgemeines
 
 * Statistik: INSEE, INED, Eurostat; Basisjahr 2025.
-* Modelle: BIP-Prognosen nach IMF und OECD (hypothetisch).
-* Energie- und Ressourcendaten laut französischem Ministerium für Ökologie (hypothetisch).
+* Modelle: BIP-Prognosen nach IMF und OECD (hypothetisch: ERDA Scenario Modeling Report 2025).
+* Energie- und Ressourcendaten laut französischem Ministerium für Ökologie (hypothetisch: ERDA Scenario Modeling Report 2025).
 
 #### 11.2 📎 Verwendete Quellen & Verweise
 
@@ -177,6 +177,9 @@ Frankreich ist ein global vernetzter Kernstaat Europas mit starker Industriebasi
 * **Quelle:** WHO; OECD Health Statistics
 
 #### 11.3 🛠 Modellierungen & Annahmen
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
+
 
 * ERDA-Projektionsmodell (Szenarien 2025–2075)
 * Internes ERDA-Konsultationspapier: „Staatenprofile – Methodik und Datenbasis"

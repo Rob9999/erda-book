@@ -135,8 +135,11 @@ Irland ist eine digitale Inselnation mit hoher Bildungsquote und wachsender Bev�
 * Innovation & Bildung: DESI und OECD-Analysen.
 * Demokratie & Rechtsstaatlichkeit: Eurobarometer, WJP Rule of Law Index.
 * Nachhaltigkeit: nationale Umweltberichte und IEA-Szenarien.
-#### 11.2 📌 Verwendete Quellen & Verweise
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
+* Wirtschaftliche Projektionen 2050–2075: reales Wachstum 2 % p.a. (hypothetisch: ERDA Scenario Modeling Report 2025).
+* Infrastrukturautarkie: Ziel 80 % erneuerbare Energieversorgung (hypothetisch: ERDA Scenario Modeling Report 2025).
 **Demografie & Gesellschaft**
 * UN World Population Prospects. <https://population.un.org/wpp>
 * CSO Ireland. "Measuring Ireland’s Progress".

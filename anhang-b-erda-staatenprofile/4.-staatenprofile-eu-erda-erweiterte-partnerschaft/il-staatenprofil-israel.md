@@ -25,22 +25,22 @@ version: "1.0"
 
 ### 2. Demografie & Gesellschaft
 
-* Bevölkerung Prognose (2050 / 2075): 12 Mio. / 13 Mio. (UN DESA 2022, hypothetisch)
+* Bevölkerung Prognose (2050 / 2075): 12 Mio. / 13 Mio. (UN DESA 2022, hypothetisch: ERDA Scenario Modeling Report 2025)
 * Altersstruktur (Medianalter, Jugendanteil %, Altenquotient): 30 Jahre, 27 %, 15 % (World Bank 2023)
 * Urbanisierungsgrad (%): 92 % (World Bank 2023)
 * Durchschnittliche Bildung (Schuljahre, Hochschulquote %, MINT-Fächer %): 13 Jahre, 51 %, 30 % (OECD 2023)
 * Lebenserwartung (Jahre): 82,7 (World Bank 2022)
-* Migrationssaldo pro Jahr (Durchschnitt 2025–2075): +30 000 (hypothetisch)
-* Soziale Kohäsion (Zufriedenheitsindex [0–10], Demokratievertrauen [%]): 7 / 65 % (hypothetisch)
+* Migrationssaldo pro Jahr (Durchschnitt 2025–2075): +30 000 (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Soziale Kohäsion (Zufriedenheitsindex [0–10], Demokratievertrauen [%]): 7 / 65 % (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 
 ### 3. Wirtschaft & Innovation
 
-* Bruttoinlandsprodukt (BIP real, heute / 2050 / 2075 in Mrd. EUR): 472 (2023) / 750 (hypothetisch) / 1 000 (hypothetisch)
+* Bruttoinlandsprodukt (BIP real, heute / 2050 / 2075 in Mrd. EUR): 472 (2023) / 750 (hypothetisch: ERDA Scenario Modeling Report 2025) / 1 000 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * BIP pro Kopf (EUR): ca. 48 000 (World Bank 2023, umgerechnet)
 * Top-3 Schlüsselindustrien: Hochtechnologie & IT, Verteidigung, Chemie & Pharma
-* Anteil Automatisierung & Digitalisierung (heute / 2050 in %): 65 % / 85 % (hypothetisch)
+* Anteil Automatisierung & Digitalisierung (heute / 2050 in %): 65 % / 85 % (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Forschungs- und Innovationsquote (% des BIP): 5,4 % (OECD 2023)
 * Patente pro Jahr (Trend, Durchschnitt): ca. 7 000 (WIPO 2023)
 * Mitglied in FORTERA-Handelsallianzen: Ja
@@ -72,8 +72,8 @@ version: "1.0"
 
 #### Soziale Ressourcen
 
-* Ehrenamt & Gemeinschaftskultur (Index [0–10]): 7 (hypothetisch)
-* CIVITAS-Partizipationsindex [0–10]: 6 (hypothetisch)
+* Ehrenamt & Gemeinschaftskultur (Index [0–10]): 7 (hypothetisch: ERDA Scenario Modeling Report 2025)
+* CIVITAS-Partizipationsindex [0–10]: 6 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Gesundheitssystem (Zugänglichkeit [0–10], Prävention [0–10]): 8 / 7
 
 #### Politische Ressourcen
@@ -152,7 +152,7 @@ version: "1.0"
 | KI-Kapazität [0–10]                  | 8 | 9 (p) | 10 (p) | 5 |
 | Zivilgesellschaftlicher Index [0–10]  | 6 | 7 (p) | 7,5 (p) | 6 |
 
-Hinweise: (p) – Prognose (UN DESA 2022, hypothetisch)
+Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 
@@ -165,8 +165,8 @@ Israel ist ein hochentwickelter Technologiestaat mit junger, dynamischer Bevölk
 #### 11.1 ℹ️ Allgemeines
 
 * Statistik: World Bank (Bevölkerung, BIP, Urbanisierung, Lebenserwartung)
-* Modellannahmen zur Wirtschaftsentwicklung: OECD Economic Outlook 2023 (hypothetisch)
-* Energiepotenziale: International Energy Agency (IEA) 2024, nationale Pläne (hypothetisch)
+* Modellannahmen zur Wirtschaftsentwicklung: OECD Economic Outlook 2023 (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Energiepotenziale: International Energy Agency (IEA) 2024, nationale Pläne (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Innovation & Bildung: OECD Science, Technology and Innovation Outlook 2023
 * Demokratie & Rechtsstaatlichkeit: Freedom House 2024, World Justice Project 2023
 * Nachhaltigkeits- und Ressourcenindikatoren: OECD Environment Data 2023
@@ -181,12 +181,15 @@ Israel ist ein hochentwickelter Technologiestaat mit junger, dynamischer Bevölk
 6. International Energy Agency. 2024. "Israel energy profile". [https://www.iea.org/countries/israel](https://www.iea.org/countries/israel) (Letzter Zugriff am 2025-06-11).
 
 #### 11.3 🛠️ Modellierungen & Annahmen
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-* Wirtschaftliche Projektionen 2050–2075: extrapoliert aus OECD-Trends (hypothetisch)
-* KI-Kapazitäten: Fortschreibung aktueller Investitionen (hypothetisch)
-* Infrastrukturautarkie: Szenarien basierend auf nationalen Energieplänen (hypothetisch)
-* Demokratie- und Beteiligungswerte: Fortschreibung Freedom House Score (hypothetisch)
-* Energiepotenziale: moderate vs. ambitionierte Solar-Ausbauszenarien (hypothetisch)
+
+* Wirtschaftliche Projektionen 2050–2075: extrapoliert aus OECD-Trends (hypothetisch: ERDA Scenario Modeling Report 2025)
+* KI-Kapazitäten: Fortschreibung aktueller Investitionen (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Infrastrukturautarkie: Szenarien basierend auf nationalen Energieplänen (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Demokratie- und Beteiligungswerte: Fortschreibung Freedom House Score (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Energiepotenziale: moderate vs. ambitionierte Solar-Ausbauszenarien (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 

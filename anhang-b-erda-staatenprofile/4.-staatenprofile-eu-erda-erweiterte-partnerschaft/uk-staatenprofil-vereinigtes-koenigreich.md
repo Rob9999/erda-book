@@ -25,19 +25,19 @@ version: "1.0"
 
 ### 2. Demografie & Gesellschaft
 
-* Bevölkerungsprognose (2050 / 2075): 70 Mio. / 71 Mio. (UN DESA 2022, hypothetisch)
+* Bevölkerungsprognose (2050 / 2075): 70 Mio. / 71 Mio. (UN DESA 2022, hypothetisch: ERDA Scenario Modeling Report 2025)
 * Altersstruktur (Medianalter, Jugendanteil %, Altenquotient): 41 Jahre, 17 %, 34 %
 * Urbanisierungsgrad (%): 84 %
 * Durchschnittliche Bildung (Schuljahre, Hochschulquote %, MINT-Fächer %): 13 Jahre, 42 %, 26 %
 * Lebenserwartung (Jahre): 81,7 (World Bank 2023)
-* Migrationssaldo pro Jahr (Durchschnitt 2025–2075): +180.000 (hypothetisch)
+* Migrationssaldo pro Jahr (Durchschnitt 2025–2075): +180.000 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Soziale Kohäsion (Zufriedenheitsindex [0–10], Demokratievertrauen [%]): 7,1 / 65 %
 
 ***
 
 ### 3. Wirtschaft & Innovation
 
-* Bruttoinlandsprodukt (BIP real, heute / 2050 / 2075 in Mrd. EUR): 2.800 / 3.400 (hypothetisch) / 3.900 (hypothetisch)
+* Bruttoinlandsprodukt (BIP real, heute / 2050 / 2075 in Mrd. EUR): 2.800 / 3.400 (hypothetisch: ERDA Scenario Modeling Report 2025) / 3.900 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * BIP pro Kopf (EUR): 41.000
 * Top-3 Schlüsselindustrien: Finanzdienstleistungen, Luft- & Raumfahrt, Kreativwirtschaft & Pharma
 * Anteil Automatisierung & Digitalisierung (heute / 2050 in %): 60 % / 85 %
@@ -179,11 +179,14 @@ Das Vereinigte Königreich ist eine traditionsreiche Demokratie mit globaler Rei
 5. International Energy Agency. 2024. "United Kingdom Energy Outlook". [https://www.iea.org](https://www.iea.org) (Letzter Zugriff am 2025-06-10).
 
 #### 11.3 🛠️ Modellierungen & Annahmen
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-* Wirtschaftliche Projektionen 2050–2075: Extrapolation aus ONS- und World-Bank-Trends (hypothetisch)
-* Energieausbau: Zunehmender Anteil Offshore-Wind und grüner Wasserstoff (hypothetisch)
-* Infrastrukturautarkie: Ziel 80 % erneuerbare Energie bis 2050 (hypothetisch)
-* Demokratie- und Beteiligungswerte: Kontinuierliche Stärkung lokaler Beteiligungsformate (hypothetisch)
+
+* Wirtschaftliche Projektionen 2050–2075: Extrapolation aus ONS- und World-Bank-Trends (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Energieausbau: Zunehmender Anteil Offshore-Wind und grüner Wasserstoff (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Infrastrukturautarkie: Ziel 80 % erneuerbare Energie bis 2050 (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Demokratie- und Beteiligungswerte: Kontinuierliche Stärkung lokaler Beteiligungsformate (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 

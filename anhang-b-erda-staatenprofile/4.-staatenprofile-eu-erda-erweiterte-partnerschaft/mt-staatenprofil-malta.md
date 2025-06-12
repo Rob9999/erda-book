@@ -25,22 +25,22 @@ version: "1.0"
 
 ### 2. Demografie & Gesellschaft
 
-* Bevölkerung Prognose (2050 / 2075): 0,6 Mio. / 0,58 Mio. (UN WPP 2022, hypothetisch)
+* Bevölkerung Prognose (2050 / 2075): 0,6 Mio. / 0,58 Mio. (UN WPP 2022, hypothetisch: ERDA Scenario Modeling Report 2025)
 * Altersstruktur (Medianalter, Jugendanteil %, Altenquotient): 42 Jahre, 16 %, 33 %
 * Urbanisierungsgrad (%): 94,9 % (World Bank 2023)
 * Durchschnittliche Bildung (Schuljahre, Hochschulquote %, MINT-Fächer %): 12 Jahre, 30 %, 20 %
 * Lebenserwartung (Jahre): 83,5 (World Bank 2023)
-* Migrationssaldo pro Jahr (Durchschnitt 2025–2075): +6.000 (World Bank 2023, hypothetisch)
+* Migrationssaldo pro Jahr (Durchschnitt 2025–2075): +6.000 (World Bank 2023, hypothetisch: ERDA Scenario Modeling Report 2025)
 * Soziale Kohäsion (Zufriedenheitsindex [0–10], Demokratievertrauen [%]): 7,0 / 65 %
 
 ***
 
 ### 3. Wirtschaft & Innovation
 
-* Bruttoinlandsprodukt (BIP real, heute / 2050 / 2075 in Mrd. EUR): 21 / 32 / 45 (World Bank 2023, Projektion hypothetisch)
+* Bruttoinlandsprodukt (BIP real, heute / 2050 / 2075 in Mrd. EUR): 21 / 32 / 45 (World Bank 2023, Projektion hypothetisch: ERDA Scenario Modeling Report 2025)
 * BIP pro Kopf (EUR): ca. 37.000 (World Bank 2023)
 * Top-3 Schlüsselindustrien: Tourismus, Finanzdienstleistungen, Maritime Logistik
-* Anteil Automatisierung & Digitalisierung (heute / 2050 in %): 55 % / 80 % (hypothetisch)
+* Anteil Automatisierung & Digitalisierung (heute / 2050 in %): 55 % / 80 % (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Forschungs- und Innovationsquote (% des BIP): 1,1 %
 * Patente pro Jahr (Trend, Durchschnitt): rund 40, steigend
 * Mitglied in FORTERA-Handelsallianzen [Ja | Nein]: Ja
@@ -159,7 +159,7 @@ version: "1.0"
 | Bildungsquote (%)                     | 30 %  | 35 %     | 40 %     | 34 % |
 | KI-Kapazität [0–10]                   | 4     | 7        | 8        | 6 |
 | Zivilgesellschaftlicher Index [0–10]  | 6     | 7        | 8        | 6 |
-Hinweise: (p) - Prognose (UN WPP 2022, hypothetisch)
+Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 
@@ -172,8 +172,8 @@ Malta ist ein Inselstaat im Mittelmeer mit starker Dienstleistungs- und Logistik
 #### 11.1 ℹ️ Allgemeines
 
 * Statistik: Nationale Daten (NSO Malta) und internationale Quellen (World Bank, Eurostat, UN WPP 2022); Basisjahr 2023
-* Modellannahmen zur Wirtschaftsentwicklung: durchschnittliches BIP-Wachstum 2 % p.a., Inflation 2 % p.a. (hypothetisch)
-* Energiepotenziale: nationale Energie- und Klimapläne 2023 (hypothetisch)
+* Modellannahmen zur Wirtschaftsentwicklung: durchschnittliches BIP-Wachstum 2 % p.a., Inflation 2 % p.a. (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Energiepotenziale: nationale Energie- und Klimapläne 2023 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Innovation & Bildung: OECD Indikatoren 2023
 * Demokratie & Rechtsstaatlichkeit: Freedom House 2024
 
@@ -183,15 +183,18 @@ Malta ist ein Inselstaat im Mittelmeer mit starker Dienstleistungs- und Logistik
 2. World Bank. 2024. „GDP (current US$) – Malta“. [https://api.worldbank.org/v2/country/MLT/indicator/NY.GDP.MKTP.CD](https://api.worldbank.org/v2/country/MLT/indicator/NY.GDP.MKTP.CD) (Letzter Zugriff am 2025-06-11).
 3. World Bank. 2024. „Life expectancy at birth, total (years) – Malta“. [https://api.worldbank.org/v2/country/MLT/indicator/SP.DYN.LE00.IN](https://api.worldbank.org/v2/country/MLT/indicator/SP.DYN.LE00.IN) (Letzter Zugriff am 2025-06-11).
 4. Freedom House. 2024. „Malta: Freedom in the World 2024“. [https://freedomhouse.org/country/malta/freedom-world/2024](https://freedomhouse.org/country/malta/freedom-world/2024) (Letzter Zugriff am 2025-06-11).
-5. UN Department of Economic and Social Affairs. 2022. „World Population Prospects 2022“. (hypothetisch)
+5. UN Department of Economic and Social Affairs. 2022. „World Population Prospects 2022“. (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 #### 11.3 🛠️ Modellierungen & Annahmen
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-* Wirtschaftliche Projektionen 2050–2075 basieren auf Fortschreibung des BIP-Wachstums (hypothetisch)
-* KI-Kapazitäten: Annahme einer Verdopplung der Rechenleistung alle drei Jahre (hypothetisch)
-* Infrastrukturautarkie: Szenario 80 % erneuerbare Energie bis 2075 (hypothetisch)
-* Demokratie- und Beteiligungswerte: jährliche Verbesserung um 0,3 Punkte (hypothetisch)
-* Energiepotenziale: Solar- und Offshore-Wind-Ausbau gemäß nationalem Plan (hypothetisch)
+
+* Wirtschaftliche Projektionen 2050–2075 basieren auf Fortschreibung des BIP-Wachstums (hypothetisch: ERDA Scenario Modeling Report 2025)
+* KI-Kapazitäten: Annahme einer Verdopplung der Rechenleistung alle drei Jahre (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Infrastrukturautarkie: Szenario 80 % erneuerbare Energie bis 2075 (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Demokratie- und Beteiligungswerte: jährliche Verbesserung um 0,3 Punkte (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Energiepotenziale: Solar- und Offshore-Wind-Ausbau gemäß nationalem Plan (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 

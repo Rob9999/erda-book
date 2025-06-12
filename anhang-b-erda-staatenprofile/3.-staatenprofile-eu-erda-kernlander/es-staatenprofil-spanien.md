@@ -176,8 +176,8 @@ Spanien ist eine stabile Demokratie mit starkem Dienstleistungssektor, wachsende
 #### 11.1 ℹ️ Allgemeines
 
 * Statistik: Mischung aus nationalen und internationalen Quellen (Eurostat, OECD u. a.), Basisjahr 2025.
-* Modelle: BIP-Prognosen und Bevölkerungsentwicklung nach OECD und UN (hypothetisch).
-* Energie- und Infrastrukturdaten laut nationalen Strategiepapiere (hypothetisch).
+* Modelle: BIP-Prognosen und Bevölkerungsentwicklung nach OECD und UN (hypothetisch: ERDA Scenario Modeling Report 2025).
+* Energie- und Infrastrukturdaten laut nationalen Strategiepapiere (hypothetisch: ERDA Scenario Modeling Report 2025).
 
 #### 11.2 📎 Verwendete Quellen & Verweise
 
@@ -211,6 +211,9 @@ Spanien ist eine stabile Demokratie mit starkem Dienstleistungssektor, wachsende
 * **Quelle:** CIA World Factbook – Spanienprofil
 
 #### 11.3 🛠️ Modellierungen & Annahmen
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
+
 
 * **Modell:** Eurostat – [Population Projection 2050/2075](https://ec.europa.eu/eurostat/web/population-demography-migration-projections)
 * **Modell:** ERDA-Projektionstool – langfristige Wachstumsannahmen (real, inflationsbereinigt)

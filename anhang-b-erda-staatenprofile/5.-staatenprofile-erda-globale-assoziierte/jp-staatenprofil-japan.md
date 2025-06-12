@@ -25,7 +25,7 @@ version: "1.0"
 
 ### 2. Demografie & Gesellschaft
 
-* Bevölkerung (2050/2075-Prognose): 104 Mio. / 88 Mio. (UN WPP 2022, hypothetisch)
+* Bevölkerung (2050/2075-Prognose): 104 Mio. / 88 Mio. (UN WPP 2022, hypothetisch: ERDA Scenario Modeling Report 2025)
 * Altersstruktur (Medianalter, Jugendanteil, Altenquotient): 48,4 Jahre, 12 %, 48 %
 * Urbanisierung (%): 92 % (2023)[2]
 * Bildung (Durchschnittsjahre, MINT-Anteil, Hochschulquote): 13,4 Jahre, 28 %, 63 %
@@ -37,7 +37,7 @@ version: "1.0"
 
 ### 3. Wirtschaft & Innovation
 
-* Bruttoinlandsprodukt (BIP, real, 2023 / 2050 / 2075): 4,2 Bio. USD[4] / 5,5 Bio. USD / 6,0 Bio. USD (2050/2075 hypothetisch)
+* Bruttoinlandsprodukt (BIP, real, 2023 / 2050 / 2075): 4,2 Bio. USD[4] / 5,5 Bio. USD / 6,0 Bio. USD (2050/2075 hypothetisch: ERDA Scenario Modeling Report 2025)
 * BIP pro Kopf: 33.800 USD (2023)
 * Schlüsselindustrien (Top-3): Automobilbau, Elektronik, Maschinenbau & Robotik
 * Anteil Automatisierung & Digitalisierung (2025/2050): 65 % / 85 %
@@ -153,7 +153,7 @@ Demografischer Wandel gemildert, verstärkte regionale Integration im Indo-Pazif
 | KI-Kapazität \[0–10]                  | 7        | 8*        | 9*        |
 | Zivilgesellschaftlicher Index \[0–10] | 8        | 8,5*      | 9*        |
 
-*\* hypothetische Werte*
+*\* hypothetisch: ERDA Scenario Modeling Report 2025e Werte*
 
 ***
 
@@ -166,31 +166,34 @@ Japan ist ein technologisch hochentwickelter Inselstaat mit starker Demokratie u
 #### 11.1 ℹ️ Allgemeines
 
 * Statistik: World Bank Data (Bevölkerung, BIP, Urbanisierung), Basisjahr 2023
-* Modelle: UN World Population Prospects 2022 (hypothetisch)
-* Energie- und Innovationsdaten laut japanischer Regierungsstrategien (hypothetisch)
+* Modelle: UN World Population Prospects 2022 (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Energie- und Innovationsdaten laut japanischer Regierungsstrategien (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 #### 11.2 📎 Verwendete Quellen & Verweise
 
 **Demografie & Gesellschaft**
 * **Quelle:** World Bank, [https://data.worldbank.org](https://data.worldbank.org)
-* **Modell:** UN DESA, World Population Prospects 2022 (hypothetisch)
+* **Modell:** UN DESA, World Population Prospects 2022 (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 **Wirtschaft & Innovation**
 * **Quelle:** World Bank, [https://data.worldbank.org/indicator/NY.GDP.MKTP.CD](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD)
-* **Modell:** OECD Economic Outlook Japan 2024 (hypothetisch)
+* **Modell:** OECD Economic Outlook Japan 2024 (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 **Gesundheit & Lebenserwartung**
 * **Quelle:** WHO Country Profile Japan, [https://www.who.int](https://www.who.int)
-* **Modell:** Global Burden of Disease Data Japan (hypothetisch)
+* **Modell:** Global Burden of Disease Data Japan (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 **Sicherheit & Verteidigung**
 * **Quelle:** Japan Ministry of Defense Annual White Paper
-* **Modell:** EDA Capability Frameworks (hypothetisch)
+* **Modell:** EDA Capability Frameworks (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 #### 11.3 🛠️ Modellierungen & Annahmen
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-* Wirtschaftliche Projektionen 2050–2075: extrapoliert aus OECD-Trenddaten (hypothetisch)
-* Infrastrukturautarkie: Einschätzungen der japanischen Energie- und Technologieagenturen (hypothetisch)
+
+* Wirtschaftliche Projektionen 2050–2075: extrapoliert aus OECD-Trenddaten (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Infrastrukturautarkie: Einschätzungen der japanischen Energie- und Technologieagenturen (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 

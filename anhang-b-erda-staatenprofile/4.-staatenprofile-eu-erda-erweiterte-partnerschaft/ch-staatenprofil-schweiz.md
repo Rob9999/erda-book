@@ -25,13 +25,13 @@ version: "1.0"
 
 ### 2. Demografie & Gesellschaft
 
-* Bevölkerung Prognose (2050 / 2075): 9,34 Mio. / 10,25 Mio. (UN DESA World Population Prospects 2024, hypothetisch)[2]
+* Bevölkerung Prognose (2050 / 2075): 9,34 Mio. / 10,25 Mio. (UN DESA World Population Prospects 2024, hypothetisch: ERDA Scenario Modeling Report 2025)[2]
 * Altersstruktur (Medianalter, Jugendanteil %, Altenquotient): 43 Jahre, 15 %, 20 % (World Bank 2023)
 * Urbanisierungsgrad (%): 74 % (World Bank 2023)[3]
 * Durchschnittliche Bildung (Schuljahre, Hochschulquote %, MINT-Fächer %): 12,5 Jahre, 53 %, 20 % (OECD 2022)
 * Lebenserwartung (Jahre): 84 (World Bank 2023)[4]
 * Migrationssaldo pro Jahr (Durchschnitt 2025–2075): +45 000 Personen (World Bank 2023)[5]
-* Soziale Kohäsion (Zufriedenheitsindex [0–10], Demokratievertrauen [%]): 8 / 70 % (hypothetisch)
+* Soziale Kohäsion (Zufriedenheitsindex [0–10], Demokratievertrauen [%]): 8 / 70 % (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 
@@ -69,7 +69,7 @@ version: "1.0"
 * Strategische Rohstoffe: Wasser, Salz, geringe Metallvorkommen
 * Erneuerbare Energiepotenziale: Wasser (hoch), Solar (mittel), Wind (gering)
 * Anteil Biodiversität & Schutzgebiete (% der Fläche): 12 % (World Bank 2023)[9]
-* Nachhaltigkeitskennzahlen (CO₂-Ausstoß pro Kopf, Recyclingquote, Materialverbrauch pro Kopf): 4,1 t CO₂ (2020), Recycling 60 %, Materialverbrauch 23 t (hypothetisch)
+* Nachhaltigkeitskennzahlen (CO₂-Ausstoß pro Kopf, Recyclingquote, Materialverbrauch pro Kopf): 4,1 t CO₂ (2020), Recycling 60 %, Materialverbrauch 23 t (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 #### 🧑‍🤝‍🧑 Soziale Ressourcen
 
@@ -82,7 +82,7 @@ version: "1.0"
 * Verfassungsbindung: Ja
 * Direkte Demokratieinstrumente: Vorhanden
 * Demokratiequalitätsindex (Freedom House oder vergleichbar [0–100]): 96 (Freedom House 2024)[10]
-* Bürgerpartizipationsquote (lokal/national) [%]: 55 % / 45 % (hypothetisch)
+* Bürgerpartizipationsquote (lokal/national) [%]: 55 % / 45 % (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Rechtstaatlichkeitsindex [0–10]: 9
 * Internationale Vertrauenswerte [0–10]: 9
 
@@ -171,7 +171,7 @@ Ausbau der Bildungs- und Forschungsallianzen, stärkere europäische Integration
 | KI-Kapazität [0–10]                   | 7           | 8        | 9        | 5 |
 | Zivilgesellschaftlicher Index [0–10]  | 8           | 8.5      | 9        | 6 |
 
-Hinweise: (p) – Prognose (UN DESA 2024, hypothetisch)
+Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 
@@ -184,8 +184,8 @@ Die Schweiz ist ein mehrsprachiger, wohlhabender Alpenstaat mit direkter Demokra
 #### 11.1 ℹ️ Allgemeines
 
 * Statistik: World Bank, OECD, Bundesamt für Statistik; Basisjahr 2023
-* Modellannahmen zur Wirtschaftsentwicklung: eigenes ERDA-Modell (hypothetisch)
-* Energiepotenziale: Internationale Energieagentur (IEA) 2024 (hypothetisch)
+* Modellannahmen zur Wirtschaftsentwicklung: eigenes ERDA-Modell (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Energiepotenziale: Internationale Energieagentur (IEA) 2024 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Innovation & Bildung: OECD Education at a Glance 2022
 * Demokratie & Rechtsstaatlichkeit: Freedom House 2024
 * Nachhaltigkeits- und Ressourcenindikatoren: World Bank, UNEP
@@ -204,12 +204,15 @@ Die Schweiz ist ein mehrsprachiger, wohlhabender Alpenstaat mit direkter Demokra
 10. Freedom House. 2024. „Freedom in the World 2024: Switzerland“. [https://freedomhouse.org](https://freedomhouse.org) (Letzter Zugriff am 2025-06-11).
 
 #### 11.3 🛠️ Modellierungen & Annahmen
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-* Wirtschaftliche Projektionen 2050–2075: extrapoliert aus OECD-Trends (hypothetisch)
-* KI-Kapazitäten: Annahme Verdopplung Rechenleistung alle 3 Jahre (hypothetisch)
-* Infrastrukturautarkie: Ziel 80 % erneuerbare Energieversorgung (hypothetisch)
-* Demokratie- und Beteiligungswerte: jährliche Verbesserung um 0,3 Punkte (hypothetisch)
-* Energiepotenziale: moderates vs. ambitioniertes Szenario nach IEA (hypothetisch)
+
+* Wirtschaftliche Projektionen 2050–2075: extrapoliert aus OECD-Trends (hypothetisch: ERDA Scenario Modeling Report 2025)
+* KI-Kapazitäten: Annahme Verdopplung Rechenleistung alle 3 Jahre (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Infrastrukturautarkie: Ziel 80 % erneuerbare Energieversorgung (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Demokratie- und Beteiligungswerte: jährliche Verbesserung um 0,3 Punkte (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Energiepotenziale: moderates vs. ambitioniertes Szenario nach IEA (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 
