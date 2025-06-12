@@ -39,7 +39,7 @@ version: "1.0"
 * Bruttoinlandsprodukt (BIP, real, 2023): 30,8 Mrd. USD[2]
 * BIP pro Kopf: 8.284 USD (2023)[2]
 * Schlüsselindustrien (Top‑3): Landwirtschaft, Tourismus, IT‑Dienstleistungen
-* Anteil Automatisierung & Digitalisierung (2025/2050): 40 % / 65 % (hypothetisch)
+* Anteil Automatisierung & Digitalisierung (2025/2050): 40 % / 65 % (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Forschungs- und Innovationsquote (% des BIP): 0,23 %[5]
 * Patente / Jahr (Trend): ca. 100 (steigend)
 * Mitglied in FORTERA-Handelsallianzen: Nein
@@ -152,7 +152,7 @@ Wirtschaftliche Integration mit EU-Märkten, Ausbau erneuerbarer Energien, Stär
 | KI-Kapazität [0–10]                  | 4    | 6 (hyp.)  | 8 (hyp.)  |
 | Zivilgesellschaftlicher Index [0–10] | 6    | 7 (hyp.)  | 8 (hyp.)  |
 
-Hinweise: (hyp.) – Werte auf Basis eigener Modellannahmen
+Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 
@@ -165,8 +165,8 @@ Georgien ist ein reformfreudiger Staat im Südkaukasus mit großem Potenzial als
 #### 11.1 ℹ️ Allgemeines
 
 * Statistik: Kombination aus nationalen und internationalen Quellen (World Bank, UNESCO), Basisjahr 2023
-* Modelle: Bevölkerungsentwicklung nach UN WPP 2017 (hypothetisch)
-* Energie- und Infrastrukturdaten laut Regierungsprogrammen (hypothetisch)
+* Modelle: Bevölkerungsentwicklung nach UN WPP 2017 (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Energie- und Infrastrukturdaten laut Regierungsprogrammen (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 #### 11.2 📎 Verwendete Quellen & Verweise
 
@@ -183,9 +183,12 @@ Georgien ist ein reformfreudiger Staat im Südkaukasus mit großem Potenzial als
 6. OWID / UN World Population Prospects 2017. [https://github.com/owid/owid-datasets](https://github.com/owid/owid-datasets)
 
 #### 11.3 🛠️ Modellierungen & Annahmen
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-* Wirtschaftliche Projektionen 2050–2075: extrapoliert aus Trends der Weltbankdaten (hypothetisch)
-* Infrastrukturautarkie: Einschätzungen nationaler Strategiepapiere (hypothetisch)
+
+* Wirtschaftliche Projektionen 2050–2075: extrapoliert aus Trends der Weltbankdaten (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Infrastrukturautarkie: Einschätzungen nationaler Strategiepapiere (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 

@@ -171,8 +171,11 @@ Die Niederlande verbinden maritime Tradition, digitale Stärke und international
 * Migration: CBS & Wikipedia (2023)
 * ERDA-Mitgliedschaft: ERDA-Staatenarchitektur (2025)
 #### 11.3 🛠️ Modellierungen & Annahmen
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-* Prognosen 2050–2075 basieren auf CBS-Bevölkerungstrends und eigenen Szenarien (hypothetisch).
+
+* Prognosen 2050–2075 basieren auf CBS-Bevölkerungstrends und eigenen Szenarien (hypothetisch: ERDA Scenario Modeling Report 2025).
 
 ***
 

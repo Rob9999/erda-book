@@ -167,7 +167,7 @@ Lettland setzt konsequent auf digitale Innovation und eine starke Zivilgesellsch
 #### 11.1 ℹ️ Allgemeines
 
 * Statistik: Mischung aus nationalen und internationalen Quellen (Eurostat, CIA Factbook u. a.), Basisjahr 2025.
-* Energie- und Innovationsdaten nach internationalen Studien und nationalen Strategien (hypothetisch).
+* Energie- und Innovationsdaten nach internationalen Studien und nationalen Strategien (hypothetisch: ERDA Scenario Modeling Report 2025).
 
 #### 11.2 📎 Verwendete Quellen & Verweise
 
@@ -201,9 +201,12 @@ Lettland setzt konsequent auf digitale Innovation und eine starke Zivilgesellsch
 * Eurobarometer: https://europa.eu/eurobarometer/
 
 #### 11.3 🛠️ Modellierungen & Annahmen
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-* Szenario-Projektionen 2050–2075 angelehnt an OECD‑Trends (hypothetisch).
-* Infrastruktur- und Digitalisierungsgrade basieren auf nationalen Strategiepapiere (hypothetisch).
+
+* Szenario-Projektionen 2050–2075 angelehnt an OECD‑Trends (hypothetisch: ERDA Scenario Modeling Report 2025).
+* Infrastruktur- und Digitalisierungsgrade basieren auf nationalen Strategiepapiere (hypothetisch: ERDA Scenario Modeling Report 2025).
 
 ### 12. 🤝 Mitwirkung willkommen
 

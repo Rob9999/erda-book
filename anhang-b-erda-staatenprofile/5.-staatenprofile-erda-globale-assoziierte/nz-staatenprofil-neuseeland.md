@@ -25,13 +25,13 @@ version: "1.0"
 
 ### 2. Demografie & Gesellschaft
 
-* Bevölkerung Prognose (2050 / 2075): 5,69 Mio. / 6,02 Mio. (UN DESA World Population Prospects 2024, hypothetisch)[2]
+* Bevölkerung Prognose (2050 / 2075): 5,69 Mio. / 6,02 Mio. (UN DESA World Population Prospects 2024, hypothetisch: ERDA Scenario Modeling Report 2025)[2]
 * Altersstruktur (Medianalter, Jugendanteil %, Altenquotient): 38 Jahre, 20 %, 29 % (World Bank 2023)
 * Urbanisierungsgrad (%): 87 % (World Bank 2023)[3]
 * Durchschnittliche Bildung (Schuljahre, Hochschulquote %, MINT-Fächer %): 13 Jahre, 45 %, 19 % (OECD 2022)
 * Lebenserwartung (Jahre): 83 (World Bank 2023)[4]
 * Migrationssaldo pro Jahr (Durchschnitt 2025–2075): +25 000 Personen (World Bank 2023)[5]
-* Soziale Kohäsion (Zufriedenheitsindex [0–10], Demokratievertrauen [%]): 7,5 / 72 % (hypothetisch)
+* Soziale Kohäsion (Zufriedenheitsindex [0–10], Demokratievertrauen [%]): 7,5 / 72 % (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 
@@ -82,7 +82,7 @@ version: "1.0"
 * Verfassungsbindung: Ja
 * Direkte Demokratieinstrumente: Teilweise (Referenden möglich)
 * Demokratiequalitätsindex (Freedom House oder vergleichbar [0–100]): 99 (Freedom House 2024)[7]
-* Bürgerpartizipationsquote (lokal/national) [%]: 55 % / 79 % (hypothetisch)
+* Bürgerpartizipationsquote (lokal/national) [%]: 55 % / 79 % (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Rechtstaatlichkeitsindex [0–10]: 9
 * Internationale Vertrauenswerte [0–10]: 8
 
@@ -171,7 +171,7 @@ Technologische Aufwertung der Landwirtschaft, nachhaltiger Tourismus, KI-Einsatz
 | KI-Kapazität [0–10]                   | 6      | 7        | 8        | 5 |
 | Zivilgesellschaftlicher Index [0–10]  | 7      | 8        | 9        | 6 |
 
-Hinweise: (p) – Prognose (UN DESA 2024, hypothetisch)
+Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 
@@ -184,8 +184,8 @@ Neuseeland ist ein demokratischer Inselstaat mit starker Umweltagenda und innova
 #### 11.1 ℹ️ Allgemeines
 
 * Statistik: World Bank, OECD; Basisjahr 2023
-* Modellannahmen zur Wirtschaftsentwicklung: eigenes ERDA-Modell (hypothetisch)
-* Energiepotenziale: International Energy Agency (IEA) 2024 (hypothetisch)
+* Modellannahmen zur Wirtschaftsentwicklung: eigenes ERDA-Modell (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Energiepotenziale: International Energy Agency (IEA) 2024 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Innovation & Bildung: OECD Education at a Glance 2022
 * Demokratie & Rechtsstaatlichkeit: Freedom House 2024
 * Nachhaltigkeits- und Ressourcenindikatoren: UNEP, Department of Conservation NZ
@@ -202,12 +202,15 @@ Neuseeland ist ein demokratischer Inselstaat mit starker Umweltagenda und innova
 8. UNESCO. 2024. „World Heritage List: New Zealand". [https://whc.unesco.org](https://whc.unesco.org) (Letzter Zugriff am 2025-06-11).
 
 #### 11.3 🛠️ Modellierungen & Annahmen
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-* Wirtschaftliche Projektionen 2050–2075: extrapoliert aus OECD-Trends (hypothetisch)
-* KI-Kapazitäten: Annahme Verdopplung Rechenleistung alle 3 Jahre (hypothetisch)
-* Infrastrukturautarkie: Ziel 80 % erneuerbare Energieversorgung (hypothetisch)
-* Demokratie- und Beteiligungswerte: jährliche Verbesserung um 0,3 Punkte (hypothetisch)
-* Energiepotenziale: moderates vs. ambitioniertes Szenario nach IEA (hypothetisch)
+
+* Wirtschaftliche Projektionen 2050–2075: extrapoliert aus OECD-Trends (hypothetisch: ERDA Scenario Modeling Report 2025)
+* KI-Kapazitäten: Annahme Verdopplung Rechenleistung alle 3 Jahre (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Infrastrukturautarkie: Ziel 80 % erneuerbare Energieversorgung (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Demokratie- und Beteiligungswerte: jährliche Verbesserung um 0,3 Punkte (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Energiepotenziale: moderates vs. ambitioniertes Szenario nach IEA (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 

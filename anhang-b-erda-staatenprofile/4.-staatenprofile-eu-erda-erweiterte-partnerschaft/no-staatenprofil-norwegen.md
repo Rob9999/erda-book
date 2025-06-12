@@ -25,19 +25,19 @@ version: "1.0"
 
 ### 2. Demografie & Gesellschaft
 
-* Bevölkerungsprognose (2050 / 2075): 5,8 Mio. / 6,0 Mio. (UN DESA 2022, hypothetisch)
+* Bevölkerungsprognose (2050 / 2075): 5,8 Mio. / 6,0 Mio. (UN DESA 2022, hypothetisch: ERDA Scenario Modeling Report 2025)
 * Altersstruktur (Medianalter, Jugendanteil %, Altenquotient): 40 Jahre, 18 %, 27 %
 * Urbanisierungsgrad (%): 83 %
 * Durchschnittliche Bildung (Schuljahre, Hochschulquote %, MINT-Fächer %): 13,1 Jahre, 39 %, 28 %
 * Lebenserwartung (Jahre): 83,1 (World Bank 2023)
-* Migrationssaldo pro Jahr (Durchschnitt 2025–2075): leicht positiv (ca. +20.000, hypothetisch)
+* Migrationssaldo pro Jahr (Durchschnitt 2025–2075): leicht positiv (ca. +20.000, hypothetisch: ERDA Scenario Modeling Report 2025)
 * Soziale Kohäsion (Zufriedenheitsindex [0–10], Demokratievertrauen [%]): 7,7 / 70 %
 
 ***
 
 ### 3. Wirtschaft & Innovation
 
-* Bruttoinlandsprodukt (BIP real, heute / 2050 / 2075 in Mrd. EUR): 440 / 520 (hypothetisch) / 610 (hypothetisch)
+* Bruttoinlandsprodukt (BIP real, heute / 2050 / 2075 in Mrd. EUR): 440 / 520 (hypothetisch: ERDA Scenario Modeling Report 2025) / 610 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * BIP pro Kopf (USD, 2023): 87.925 (World Bank)
 * Forschungsquote (% BIP, 2022): 1,56 (World Bank)
 * Innovationsranking (Global Innovation Index 2023): Platz 19
@@ -91,7 +91,7 @@ version: "1.0"
 
 #### Szenario-Entwicklung
 
-* Fortschreitende Diversifizierung weg von fossilen Brennstoffen (hypothetisch)
+* Fortschreitende Diversifizierung weg von fossilen Brennstoffen (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Stärkung als Knoten für grüne Technologien und Arktisforschung
 
 #### Rolle in der ERDA-Vision 2075
@@ -128,7 +128,7 @@ Norwegen verbindet skandinavische Lebensqualität und robuste Demokratie mit ein
 
 #### 11.1 ℹ️ Allgemeines
 
-* Statistik: World Bank (Bevölkerung, BIP pro Kopf), UN DESA (Bevölkerungsprognosen, hypothetisch)
+* Statistik: World Bank (Bevölkerung, BIP pro Kopf), UN DESA (Bevölkerungsprognosen, hypothetisch: ERDA Scenario Modeling Report 2025)
 * Energiepotenziale: Internationale Energieagentur (IEA)
 * Innovation & Bildung: Global Innovation Index, OECD Bildungsstatistik
 * Demokratie & Rechtsstaatlichkeit: Freedom House, World Justice Project
@@ -147,10 +147,13 @@ Norwegen verbindet skandinavische Lebensqualität und robuste Demokratie mit ein
 > Letzter Quellenzugriff: 2025-06-10
 
 #### 11.3 🛠️ Modellierungen & Annahmen
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-* Wirtschaftliche Projektionen 2050–2075: extrapoliert aus World Bank Trends (hypothetisch)
-* Infrastrukturautarkie: qualitative Einschätzungen auf Basis nationaler Strategiepapiere (hypothetisch)
-* Energie- und Forschungsfokus: Annahmen zu Wind- und Wasserkraftausbau (hypothetisch)
+
+* Wirtschaftliche Projektionen 2050–2075: extrapoliert aus World Bank Trends (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Infrastrukturautarkie: qualitative Einschätzungen auf Basis nationaler Strategiepapiere (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Energie- und Forschungsfokus: Annahmen zu Wind- und Wasserkraftausbau (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 

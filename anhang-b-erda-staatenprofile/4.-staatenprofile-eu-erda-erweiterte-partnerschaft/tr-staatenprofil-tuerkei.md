@@ -25,24 +25,24 @@ version: "1.0"
 
 ### 2. Demografie & Gesellschaft
 
-* Bevölkerungsprognose (2050 / 2075): 95 Mio. / 100 Mio. (UN DESA World Population Prospects 2022, hypothetisch)
+* Bevölkerungsprognose (2050 / 2075): 95 Mio. / 100 Mio. (UN DESA World Population Prospects 2022, hypothetisch: ERDA Scenario Modeling Report 2025)
 * Altersstruktur (Medianalter, Jugendanteil %, Altenquotient): 33 Jahre, 22 %, 15 %
 * Urbanisierungsgrad (%): 77 % (World Bank 2023)
 * Durchschnittliche Bildung (Schuljahre, Hochschulquote %, MINT-Fächer %): 12 Jahre, 30 %, 21 %
 * Lebenserwartung (Jahre): 78,6 (World Bank 2023)
-* Migrationssaldo pro Jahr (Durchschnitt 2025–2075): +50.000 (hypothetisch)
+* Migrationssaldo pro Jahr (Durchschnitt 2025–2075): +50.000 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Soziale Kohäsion (Zufriedenheitsindex [0–10], Demokratievertrauen [%]): 6,2 / 55 %
 
 ***
 
 ### 3. Wirtschaft & Innovation
 
-* Bruttoinlandsprodukt (BIP, real, heute / 2050 / 2075): 1,1 Bio. US$ (2023), 1,7 Bio. US$ / 2,2 Bio. US$ (hypothetisch)
+* Bruttoinlandsprodukt (BIP, real, heute / 2050 / 2075): 1,1 Bio. US$ (2023), 1,7 Bio. US$ / 2,2 Bio. US$ (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Wachstumsschwerpunkte (Branchen / Clusters): Automobil, Maschinenbau, Textil, Tourismus, Erneuerbare Energien
 * Forschungsausgaben (% des BIP): 1,1 % (World Bank 2023)
 * Patentanmeldungen (pro Jahr): ca. 8.000 (WIPO 2023)
-* Unternehmen mit KI-Bezug (%): 5 % (hypothetisch)
-* Gründungsdynamik (Start-ups/Jahr): 1.200 (hypothetisch)
+* Unternehmen mit KI-Bezug (%): 5 % (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Gründungsdynamik (Start-ups/Jahr): 1.200 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Digitalisierungsgrad (Index): 0,55 (EU DESI 2023)
 
 ***
@@ -124,8 +124,8 @@ Türkei ist ein transkontinentaler Staat mit wachsender Bevölkerung, starker Wi
 #### 11.1 ℹ️ Allgemeines
 
 * Statistik: World Bank (Bevölkerung, BIP, Urbanisierung), IEA (Energie), SIPRI (Militärausgaben)
-* Modellannahmen zur Wirtschaftsentwicklung: ERDA Policy-Lab (hypothetisch)
-* Energiepotenziale: Nationale Energiekonzepte (hypothetisch)
+* Modellannahmen zur Wirtschaftsentwicklung: ERDA Policy-Lab (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Energiepotenziale: Nationale Energiekonzepte (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Innovation & Bildung: UNESCO Institute for Statistics, OECD
 * Demokratie & Rechtsstaatlichkeit: Freedom House 2024, Reporter ohne Grenzen
 * Nachhaltigkeits- und Ressourcenindikatoren: UN SDG Database, World Bank
@@ -140,10 +140,13 @@ Türkei ist ein transkontinentaler Staat mit wachsender Bevölkerung, starker Wi
 6. IEA. 2024. "Turkey Energy Profile". [https://www.iea.org](https://www.iea.org) (Letzter Zugriff am 2025-06-11).
 
 #### 11.3 🔧 Modellierungen & Annahmen
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-* Wirtschaftliche Projektionen 2050–2075: extrapoliert aus regionalen Wachstumsdaten und EU-Näherung (hypothetisch)
-* Energiepotenziale: nationale Solar- und Windstrategien (hypothetisch)
-* Demokratie- und Beteiligungswerte: Fortschreibung Freedom House Score (hypothetisch)
+
+* Wirtschaftliche Projektionen 2050–2075: extrapoliert aus regionalen Wachstumsdaten und EU-Näherung (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Energiepotenziale: nationale Solar- und Windstrategien (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Demokratie- und Beteiligungswerte: Fortschreibung Freedom House Score (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 
