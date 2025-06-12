@@ -161,7 +161,7 @@ Portugal ist ein maritimer EU-Staat mit reicher Kultur und wachsendem Fokus auf 
 #### 11.1 ℹ️ Allgemeines
 
 * Statistik: Mischung aus nationalen und internationalen Quellen (Basisjahr 2025).
-* Modelle: Wirtschaftliche und demografische Projektionen nach Eurostat und UN (hypothetisch).
+* Modelle: Wirtschaftliche und demografische Projektionen nach Eurostat und UN (hypothetisch: ERDA Scenario Modeling Report 2025).
 
 #### 11.2 📎 Verwendete Quellen & Verweise
 
@@ -199,9 +199,12 @@ Portugal ist ein maritimer EU-Staat mit reicher Kultur und wachsendem Fokus auf 
 * Verfassung von Portugal; World Justice Project Rule of Law
 
 #### 11.3 🛠️ Modellierungen & Annahmen
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-* Wirtschaftliche Projektionen 2050–2075: extrapoliert aus Eurostat- und OECD-Trenddaten (hypothetisch).
-* Infrastrukturautarkie: nationale Strategieabschätzungen (hypothetisch).
+
+* Wirtschaftliche Projektionen 2050–2075: extrapoliert aus Eurostat- und OECD-Trenddaten (hypothetisch: ERDA Scenario Modeling Report 2025).
+* Infrastrukturautarkie: nationale Strategieabschätzungen (hypothetisch: ERDA Scenario Modeling Report 2025).
 
 
 ### 12. 🤝 Mitwirkung willkommen

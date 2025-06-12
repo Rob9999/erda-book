@@ -25,10 +25,10 @@ version: "1.0"
 
 ### 2. Demografie & Gesellschaft
 
-* Bevölkerung Prognose (2050 / 2075): 1,8 Mio. / 1,8 Mio. (UN DESA 2022, hypothetisch)
+* Bevölkerung Prognose (2050 / 2075): 1,8 Mio. / 1,8 Mio. (UN DESA 2022, hypothetisch: ERDA Scenario Modeling Report 2025)
 * Altersstruktur (Medianalter, Jugendanteil %, Altenquotient): 32 Jahre, 22 % unter 15, 15 % über 65[2]
 * Urbanisierungsgrad (%): rund 30 %[2]
-* Durchschnittliche Bildung (Schuljahre, Hochschulquote %, MINT-Fächer %): 9 Jahre, 25 % (hypothetisch), 15 % (hypothetisch)
+* Durchschnittliche Bildung (Schuljahre, Hochschulquote %, MINT-Fächer %): 9 Jahre, 25 % (hypothetisch: ERDA Scenario Modeling Report 2025), 15 % (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Lebenserwartung (Jahre): 76[4]
 * Migrationssaldo pro Jahr (Durchschnitt 2025–2075): n/b
 * Soziale Kohäsion (Zufriedenheitsindex [0–10], Demokratievertrauen [%]): n/b
@@ -67,13 +67,13 @@ version: "1.0"
 * Meeresfläche (falls relevant, km²): keine
 * Strategische Rohstoffe: Lignite, Nickel, Blei (begrenzte Vorkommen)
 * Erneuerbare Energiepotenziale: Wasserkraft (hoch), Solar (mittel), Wind (mittel)
-* Anteil Biodiversität & Schutzgebiete (% der Fläche): 15 % (hypothetisch)
-* Nachhaltigkeitskennzahlen (CO₂-Ausstoß pro Kopf, Recyclingquote, Materialverbrauch pro Kopf): 7 t, 25 % (hypothetisch), n/b
+* Anteil Biodiversität & Schutzgebiete (% der Fläche): 15 % (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Nachhaltigkeitskennzahlen (CO₂-Ausstoß pro Kopf, Recyclingquote, Materialverbrauch pro Kopf): 7 t, 25 % (hypothetisch: ERDA Scenario Modeling Report 2025), n/b
 
 #### Soziale Ressourcen
 
-* Ehrenamt & Gemeinschaftskultur (Index [0–10]): 6 (hypothetisch)
-* CIVITAS-Partizipationsindex [0–10]: 5 (hypothetisch)
+* Ehrenamt & Gemeinschaftskultur (Index [0–10]): 6 (hypothetisch: ERDA Scenario Modeling Report 2025)
+* CIVITAS-Partizipationsindex [0–10]: 5 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Gesundheitssystem (Zugänglichkeit [0–10], Prävention [0–10]): 6 / 5
 
 #### Politische Ressourcen
@@ -81,9 +81,9 @@ version: "1.0"
 * Verfassungsbindung: Ja
 * Direkte Demokratieinstrumente: Nicht vorhanden
 * Demokratiequalitätsindex (Freedom House 2024): 56/100
-* Bürgerpartizipationsquote (lokal/national) [%]: 40 % (hypothetisch)
-* Rechtsstaatlichkeitsindex [0–10]: 4,5 (hypothetisch)
-* Internationale Vertrauenswerte [0–10]: 4 (hypothetisch)
+* Bürgerpartizipationsquote (lokal/national) [%]: 40 % (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Rechtsstaatlichkeitsindex [0–10]: 4,5 (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Internationale Vertrauenswerte [0–10]: 4 (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 
@@ -93,7 +93,7 @@ version: "1.0"
   * DSN-geeignet ☐
   * Cyberkommando ☐
   * Frühwarnsystem ☐
-* Verteidigungsausgaben (% des BIP): 1,2 % (hypothetisch)
+* Verteidigungsausgaben (% des BIP): 1,2 % (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Rolle im Arctic/Nordmeer/Atlantik-Raum: keine
 * Rolle im Mitteleuropa/Osteuropa/Westeuropa-Raum: Stabilisierungspartner im Westbalkan
 * Rolle im Südeuropa/Afrika/Asien-Raum: Verbindungsglied zu Zentralbalkan
@@ -107,9 +107,9 @@ version: "1.0"
 
 * Sprachen / Indigene Kulturen: Albanisch; Minderheitensprachen Serbisch, Türkisch, Bosnisch
 * UNESCO-Welterbe / Kulturstätten (Anzahl): 2
-* Kreativwirtschaft (Stärke in Musik, Film, Design [0–10]): 4 (hypothetisch)
+* Kreativwirtschaft (Stärke in Musik, Film, Design [0–10]): 4 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Internationale Sichtbarkeit (Olympische Spiele, Nobelpreise, etc.): gering
-* Rolle der Kultur als Vermittlungsfaktor in Demokratienetzwerken [0–10]: 5 (hypothetisch)
+* Rolle der Kultur als Vermittlungsfaktor in Demokratienetzwerken [0–10]: 5 (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 
@@ -152,7 +152,7 @@ version: "1.0"
 | KI-Kapazität [0–10]                   | 2    | 4 (p) | 6 (p) | 5 |
 | Zivilgesellschaftlicher Index [0–10]  | n/b  | 5 (p) | 6 (p) | 6 |
 
-Hinweise: (p) – Prognose (UN DESA 2022, hypothetisch), n/b – nicht belegt
+Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 
@@ -168,7 +168,7 @@ Kosovo ist ein junger Staat im Westbalkan mit dynamischer Bevölkerung und klare
 
 * Statistik: Daten von Weltbank und UN; Basisjahr 2023
 * Modelle: Bevölkerungs- und Wirtschaftsentwicklung nach UN DESA und Weltbank
-* Energie- und Infrastrukturprognosen: nationale Entwicklungsstrategie (hypothetisch)
+* Energie- und Infrastrukturprognosen: nationale Entwicklungsstrategie (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 #### 11.2 📎 Verwendete Quellen & Verweise
 
@@ -178,18 +178,21 @@ Kosovo ist ein junger Staat im Westbalkan mit dynamischer Bevölkerung und klare
 4. World Health Organization. 2024. "Kosovo: WHO statistical profile". [online] verfügbar unter: [https://www.who.int/data/gho](https://www.who.int/data/gho) (Zugriff am 2025-06-10).
 5. United Nations Development Programme. 2023. "Human Development Report 2023/24". [online] verfügbar unter: [https://hdr.undp.org](https://hdr.undp.org) (Zugriff am 2025-06-10).
 6. World Bank. 2024. "Current health expenditure (% of GDP) – Kosovo". [online] verfügbar unter: [https://data.worldbank.org/indicator/SH.XPD.CHEX.GD.ZS?locations=XK](https://data.worldbank.org/indicator/SH.XPD.CHEX.GD.ZS?locations=XK) (Zugriff am 2025-06-10).
-7. UNESCO Institute for Statistics. 2023. "Kosovo – R&D expenditure" (hypothetisch). [online] verfügbar unter: [https://uis.unesco.org](https://uis.unesco.org) (Zugriff am 2025-06-10).
+7. UNESCO Institute for Statistics. 2023. "Kosovo – R&D expenditure" (hypothetisch: ERDA Scenario Modeling Report 2025). [online] verfügbar unter: [https://uis.unesco.org](https://uis.unesco.org) (Zugriff am 2025-06-10).
 8. Energy Community Secretariat. 2024. "Annual Implementation Report". [online] verfügbar unter: [https://www.energy-community.org](https://www.energy-community.org) (Zugriff am 2025-06-10).
 9. NATO. 2025. "KFOR Key Facts and Figures". [online] verfügbar unter: [https://www.nato.int/kfor](https://www.nato.int/kfor) (Zugriff am 2025-06-10).
 10. European Commission. 2023. "Kosovo 2023 Report". [online] verfügbar unter: [https://neighbourhood-enlargement.ec.europa.eu/](https://neighbourhood-enlargement.ec.europa.eu/) (Zugriff am 2025-06-10).
 11. Freedom House. 2024. "Freedom in the World 2024 – Kosovo". [online] verfügbar unter: [https://freedomhouse.org/country/kosovo/freedom-world/2024](https://freedomhouse.org/country/kosovo/freedom-world/2024) (Zugriff am 2025-06-10).
 
 #### 11.3 🛠️ Modellierungen & Annahmen
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-* Wirtschaftliche Projektionen 2050–2075: Trends der Weltbank extrapoliert (hypothetisch)
-* Infrastrukturautarkie: Annahmen gemäß nationaler Energieagenda 2030 (hypothetisch)
-* Demokratie- und Beteiligungswerte: Verbesserung um 0,5 Punkte pro Jahr basierend auf Freedom House (hypothetisch)
-* Energiepotenziale: Szenario „moderat“ bis 2050 – 1 GW Solar, 800 MW Wind (hypothetisch)
+
+* Wirtschaftliche Projektionen 2050–2075: Trends der Weltbank extrapoliert (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Infrastrukturautarkie: Annahmen gemäß nationaler Energieagenda 2030 (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Demokratie- und Beteiligungswerte: Verbesserung um 0,5 Punkte pro Jahr basierend auf Freedom House (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Energiepotenziale: Szenario „moderat“ bis 2050 – 1 GW Solar, 800 MW Wind (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 

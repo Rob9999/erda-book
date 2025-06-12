@@ -19,24 +19,24 @@ version: "1.0"
 * **Bevölkerung (Stand 2023):** 12 200 431^[World Bank, 2023]
 * **Regierungsform & Verfassungsstatus (Stand 2025):** Präsidentiale Republik (Verfassung 2022)
 * **ERDA-Status:** Globale/r Assoziierter
-* **Zukünftige Rolle im ERDA-Netzwerk:** Solarenergie-Hub und Brückenstaat Nordafrika (hypothetisch)
+* **Zukünftige Rolle im ERDA-Netzwerk:** Solarenergie-Hub und Brückenstaat Nordafrika (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ### 2. Demografie & Gesellschaft
 
-* **Bevölkerung Prognose (2050 / 2075):** ~13 Mio. / ~13,5 Mio. (UN WPP 2022, hypothetisch)
+* **Bevölkerung Prognose (2050 / 2075):** ~13 Mio. / ~13,5 Mio. (UN WPP 2022, hypothetisch: ERDA Scenario Modeling Report 2025)
 * **Altersstruktur:** Median 34 Jahre; Jugendanteil 24 %; Altenquotient 14 % (UN Data 2023)
 * **Urbanisierungsgrad:** 70,5 % (World Bank 2023)
 * **Durchschnittliche Bildung:** tertiäre Einschreibungsquote 38 % (World Bank 2023)
 * **Lebenserwartung:** 76,5 Jahre (World Bank 2023)
-* **Migrationssaldo ⌀ (2025–2075):** negativ (World Bank 2023, hypothetisch)
-* **Soziale Kohäsion:** moderate Zufriedenheit; Demokratievertrauen im Wandel (hypothetisch)
+* **Migrationssaldo ⌀ (2025–2075):** negativ (World Bank 2023, hypothetisch: ERDA Scenario Modeling Report 2025)
+* **Soziale Kohäsion:** moderate Zufriedenheit; Demokratievertrauen im Wandel (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ### 3. Wirtschaft & Innovation
 
 * **BIP (USD, 2023):** 48,5 Mrd. (World Bank)
 * **BIP pro Kopf (USD, 2023):** 3 978 (World Bank)
 * **Top-3 Schlüsselindustrien:** Phosphatbergbau, Fertigung & Textil, Tourismus (CIA World Factbook 2024)
-* **Anteil Automatisierung & Digitalisierung (2025/2050):** 40 % / 65 % (hypothetisch)
+* **Anteil Automatisierung & Digitalisierung (2025/2050):** 40 % / 65 % (hypothetisch: ERDA Scenario Modeling Report 2025)
 * **Forschungs- und Innovationsquote:** 0,6 % des BIP (UNESCO 2023)
 * **Patente / Jahr (Trend):** ca. 150 / leicht steigend (WIPO 2024)
 * **Mitglied in FORTERA-Handelsallianzen:** Nein
@@ -53,7 +53,7 @@ version: "1.0"
 ### 4. Ressourcenprofil
 
 * **Natürliche Ressourcen:** Erdgas, Phosphate, Eisen, Blei, Zink (USGS 2024)
-* **Erneuerbare Energiepotenziale:** Solar und Wind, >‎2‎00‎GWp Solar (IEA 2024, hypothetisch)
+* **Erneuerbare Energiepotenziale:** Solar und Wind, >‎2‎00‎GWp Solar (IEA 2024, hypothetisch: ERDA Scenario Modeling Report 2025)
 * **Wasserverfügbarkeit:** begrenzt; höchste Nutzung in Landwirtschaft (FAO AQUASTAT 2023)
 * **Biokapazität / Ökologische Belastung:** über dem Mittelmeer-Durchschnitt (Global Footprint Network 2023)
 
@@ -69,14 +69,14 @@ version: "1.0"
 
 * **Straßennetz:** ca. 20 000 km (World Bank 2023)
 * **Breitbandanschlüsse (2023):** 4,8 Mio. (ITU 2023)
-* **5G-Abdeckung (2025):** in Ballungsräumen (hypothetisch)
+* **5G-Abdeckung (2025):** in Ballungsräumen (hypothetisch: ERDA Scenario Modeling Report 2025)
 * **Digitalisierungsgrad der Verwaltung:** fortschreitend (World Bank GovTech 2023)
 
 ### 7. Verteidigung & Sicherheit
 
 * **Militärausgaben (% des BIP, 2023):** 2,1 (SIPRI 2024)
 * **Sicherheitslage:** stabil, aber anhaltende wirtschaftliche Herausforderungen (World Bank 2024)
-* **Cybersecurity-Kapazität:** im Aufbau (hypothetisch)
+* **Cybersecurity-Kapazität:** im Aufbau (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ### 8. Politische & institutionelle Grundlagen
 
@@ -89,7 +89,7 @@ version: "1.0"
 
 * **CO₂-Emissionen (t pro Kopf, 2022):** 2,4 (World Bank)
 * **Erneuerbare Stromerzeugung (2023):** 6 % (IEA)
-* **Umweltpolitische Strategie:** Fokus auf Solarparks und Wasserressourcenmanagement (hypothetisch)
+* **Umweltpolitische Strategie:** Fokus auf Solarparks und Wasserressourcenmanagement (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ### 10. Kurzfassung: „Tunesien auf einen Blick“
 
@@ -100,8 +100,8 @@ Tunesien ist ein nordafrikanischer Mittelmeerstaat mit junger Bevölkerung und s
 #### 11.1 ℹ️ Allgemeines
 
 * Statistik: Kombination aus nationalen und internationalen Quellen (World Bank, UNDP, FAO)
-* Modellannahmen zur Wirtschaftsentwicklung: World Bank Economic Update 2025 (hypothetisch)
-* Energiepotenziale: IEA Renewables 2024 (hypothetisch)
+* Modellannahmen zur Wirtschaftsentwicklung: World Bank Economic Update 2025 (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Energiepotenziale: IEA Renewables 2024 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Innovation & Bildung: UNESCO Institute for Statistics (UIS)
 * Demokratie & Rechtsstaatlichkeit: Freedom House 2024
 * Nachhaltigkeits- und Ressourcenindikatoren: Global Footprint Network, IEA
@@ -120,11 +120,14 @@ Tunesien ist ein nordafrikanischer Mittelmeerstaat mit junger Bevölkerung und s
 10. **IEA:** [Renewables 2024](https://www.iea.org/reports/renewables-2024) (Zugriff 2025-06-11)
 
 #### 11.3 🛠️ Modellierungen & Annahmen
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-* Wirtschaftliche Projektionen 2050–2075: extrapoliert aus World Bank Trends (hypothetisch)
-* KI-Kapazitäten: basierend auf nationalen Digitalstrategien (hypothetisch)
-* Infrastrukturautarkie: Einschätzungen regionaler Energie- und Ressourcenpläne (hypothetisch)
-* Demokratie- und Beteiligungswerte: Freedom House und regionale Analysen (hypothetisch)
+
+* Wirtschaftliche Projektionen 2050–2075: extrapoliert aus World Bank Trends (hypothetisch: ERDA Scenario Modeling Report 2025)
+* KI-Kapazitäten: basierend auf nationalen Digitalstrategien (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Infrastrukturautarkie: Einschätzungen regionaler Energie- und Ressourcenpläne (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Demokratie- und Beteiligungswerte: Freedom House und regionale Analysen (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ### 12. 🤝 Mitwirkung willkommen
 

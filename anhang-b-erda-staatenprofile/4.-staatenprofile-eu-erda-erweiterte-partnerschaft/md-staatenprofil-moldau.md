@@ -25,27 +25,27 @@ version: "1.0"
 
 ### 2. Demografie & Gesellschaft
 
-* Bevölkerung Prognose (2050/2075): 2,2 Mio. / 1,9 Mio. (UN WPP, hypothetisch)
+* Bevölkerung Prognose (2050/2075): 2,2 Mio. / 1,9 Mio. (UN WPP, hypothetisch: ERDA Scenario Modeling Report 2025)
 * Altersstruktur (Medianalter, Jugendanteil %, Altenquotient): ca. 38 Jahre, 20 % unter 15, 15 % über 65[2]
 * Urbanisierungsgrad (%): 43 % (2022)[3]
-* Durchschnittliche Bildung (Schuljahre, Hochschulquote %, MINT-Fächer %): 11 Jahre, 25 %, 20 % (hypothetisch)
+* Durchschnittliche Bildung (Schuljahre, Hochschulquote %, MINT-Fächer %): 11 Jahre, 25 %, 20 % (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Lebenserwartung (Jahre): 71,5 (2022)[4]
-* Migrationssaldo pro Jahr (Durchschnitt 2025–2075): -0,5 % (hypothetisch)
-* Soziale Kohäsion (Zufriedenheitsindex [0–10], Demokratievertrauen [%]): 5,5 (hypothetisch), 40 %
+* Migrationssaldo pro Jahr (Durchschnitt 2025–2075): -0,5 % (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Soziale Kohäsion (Zufriedenheitsindex [0–10], Demokratievertrauen [%]): 5,5 (hypothetisch: ERDA Scenario Modeling Report 2025), 40 %
 
 ***
 
 ### 3. Wirtschaft & Innovation
 
-* Bruttoinlandsprodukt (BIP real, 2023 / 2050 / 2075 in Mrd. EUR): ca. 15 / 25 (hypothetisch) / 35 (hypothetisch)[5]
+* Bruttoinlandsprodukt (BIP real, 2023 / 2050 / 2075 in Mrd. EUR): ca. 15 / 25 (hypothetisch: ERDA Scenario Modeling Report 2025) / 35 (hypothetisch: ERDA Scenario Modeling Report 2025)[5]
 * BIP pro Kopf (EUR): ca. 6 200 (2023)[6]
 * Top-3 Schlüsselindustrien: Landwirtschaft & Weinbau, IT-Outsourcing, Leichtindustrie
-* Anteil Automatisierung & Digitalisierung (heute / 2050 in %): 20 % / 50 % (hypothetisch)
+* Anteil Automatisierung & Digitalisierung (heute / 2050 in %): 20 % / 50 % (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Forschungs- und Innovationsquote (% des BIP): 0,4 % (2023)[7]
 * Patente pro Jahr (Trend, Durchschnitt): <10 (gering)
 * Mitglied in FORTERA-Handelsallianzen [Ja | Nein]: Nein
 * Mitglied im Democracy Trade Network [Ja | Nein]: Nein
-* Nutzung von EHAM+ (Handelsabwehr) [0–10]: 2 (hypothetisch)
+* Nutzung von EHAM+ (Handelsabwehr) [0–10]: 2 (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 #### 3.1 Infrastrukturautarkie
 
@@ -64,24 +64,24 @@ version: "1.0"
 
 * Landfläche (km²): 33 846[8]
 * Strategische Rohstoffe: fruchtbare Böden, geringe Erdgas- und Steinressourcen
-* Erneuerbare Energiepotenziale: Solar und Biomasse (hypothetisch)
+* Erneuerbare Energiepotenziale: Solar und Biomasse (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Anteil Biodiversität & Schutzgebiete (% der Fläche): ca. 6 %
-* Nachhaltigkeitskennzahlen: CO₂-Ausstoß pro Kopf 3 t (2022)[9], Recyclingquote gering (hypothetisch)
+* Nachhaltigkeitskennzahlen: CO₂-Ausstoß pro Kopf 3 t (2022)[9], Recyclingquote gering (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ### Soziale Ressourcen
 
-* Ehrenamt & Gemeinschaftskultur (Index [0–10]): 5 (hypothetisch)
-* CIVITAS-Partizipationsindex [0–10]: 4 (hypothetisch)
-* Gesundheitssystem (Zugänglichkeit [0–10], Prävention [0–10]): 6 / 5 (hypothetisch)
+* Ehrenamt & Gemeinschaftskultur (Index [0–10]): 5 (hypothetisch: ERDA Scenario Modeling Report 2025)
+* CIVITAS-Partizipationsindex [0–10]: 4 (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Gesundheitssystem (Zugänglichkeit [0–10], Prävention [0–10]): 6 / 5 (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ### Politische Ressourcen
 
 * Verfassungsbindung [Ja | Nein]: Ja
 * Direkte Demokratieinstrumente [Vorhanden | Teilweise | Nicht vorhanden]: Teilweise
 * Demokratiequalitätsindex (Freedom House oder vergleichbar [0–100]): 62 (Freedom House 2024)[10]
-* Bürgerpartizipationsquote (lokal/national) [%]: 40 % (hypothetisch)
+* Bürgerpartizipationsquote (lokal/national) [%]: 40 % (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Rechtstaatlichkeitsindex [0–10]: 5 (World Justice Project 2023)[11]
-* Internationale Vertrauenswerte [0–10]: 5 (hypothetisch)
+* Internationale Vertrauenswerte [0–10]: 5 (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ## 5. Sicherheit & Strategische Rolle (EDA)
 
@@ -91,7 +91,7 @@ version: "1.0"
   * Frühwarnsystem [☐]
 * Verteidigungsausgaben (% des BIP): ca. 1,5 % (SIPRI 2023)[12]
 * Rolle im Mitteleuropa/Osteuropa/Westeuropa-Raum: Transitkorridor zwischen EU und Ukraine
-* Rolle im Südeuropa/Afrika/Asien-Raum: Kooperation mit Schwarzmeeranrainern (hypothetisch)
+* Rolle im Südeuropa/Afrika/Asien-Raum: Kooperation mit Schwarzmeeranrainern (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Zivile Resilienzprogramme [Vorhanden | Teilweise | Nicht vorhanden]: Teilweise
 * Drohnen-/Raumfahrt-/KI-Kapazitäten [Vorhanden | Teilweise | Nicht vorhanden]: Nicht vorhanden
 
@@ -106,18 +106,18 @@ version: "1.0"
 
 * Sprachen / Indigene Kulturen: Rumänisch (Amtssprache), Russisch weit verbreitet, Gagausisch und Ukrainisch als Minderheitensprachen
 * UNESCO-Welterbe / Kulturstätten (Anzahl): 1 (Struve-Bogen, gemeinsames Welterbe)
-* Kreativwirtschaft (Stärke in Musik, Film, Design [0–10]): 4 (hypothetisch)
+* Kreativwirtschaft (Stärke in Musik, Film, Design [0–10]): 4 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Internationale Sichtbarkeit (Olympische Spiele, Nobelpreise, etc.): gering
-* Rolle der Kultur als Vermittlungsfaktor in Demokratienetzwerken [0–10]: 4 (hypothetisch)
+* Rolle der Kultur als Vermittlungsfaktor in Demokratienetzwerken [0–10]: 4 (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ## 7. Entwicklungspfad (2025–2075)
 
 ### Szenario-Entwicklung
 
 * Status 2025: EU-Kandidatenstatus und Reformkurs, wirtschaftliche Abhängigkeit von Landwirtschaft und Remissen
-* Best Case 2050/2075: Modernisierte Wirtschaft mit starkem IT- und Energiesektor, stabile Demokratie (hypothetisch)
-* Base Case 2050/2075: Allmähliche Annäherung an EU-Standards, moderate Abwanderung (hypothetisch)
-* Worst Case 2050/2075: Stagnation und anhaltende Abwanderung, Reformstau (hypothetisch)
+* Best Case 2050/2075: Modernisierte Wirtschaft mit starkem IT- und Energiesektor, stabile Demokratie (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Base Case 2050/2075: Allmähliche Annäherung an EU-Standards, moderate Abwanderung (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Worst Case 2050/2075: Stagnation und anhaltende Abwanderung, Reformstau (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ### Rolle in der ERDA-Vision 2075
 
@@ -144,7 +144,7 @@ version: "1.0"
 | Bildungsquote (%) | 25 | 30 (p) | 35 (p) | 45 |
 | KI-Kapazität [0–10] | 2 | 4 (p) | 6 (p) | 6 |
 | Zivilgesellschaftlicher Index [0–10] | 5 | 6 (p) | 7 (p) | 7 |
-Hinweise: (p) - Prognose (UN WPP, hypothetisch)
+Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ## 10. Kurzfassung: „Moldau auf einen Blick“
 
@@ -155,8 +155,8 @@ Moldau befindet sich in einem tiefgreifenden Transformationsprozess. Als EU-Beit
 #### 11.1 ℹ️ Allgemeines
 
 * Statistik: Kombination aus World Bank Daten und nationalen Angaben, Basisjahr 2023
-* Modelle: BIP-Prognosen und Bevölkerungsentwicklung nach UN und World Bank (hypothetisch)
-* Energie- und Infrastrukturdaten laut nationalen Strategiepapiere (hypothetisch)
+* Modelle: BIP-Prognosen und Bevölkerungsentwicklung nach UN und World Bank (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Energie- und Infrastrukturdaten laut nationalen Strategiepapiere (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 #### 11.2 📎 Verwendete Quellen & Verweise
 
@@ -181,10 +181,13 @@ Moldau befindet sich in einem tiefgreifenden Transformationsprozess. Als EU-Beit
 [12]: SIPRI, Military Expenditure Database 2023
 
 #### 11.3 🛠️ Modellierungen & Annahmen
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-* Wirtschaftliche Projektionen 2050–2075: extrapoliert aus World-Bank-Trenddaten (hypothetisch)
-* Infrastrukturautarkie: Ziel 60 % erneuerbare Energie bis 2050 (hypothetisch)
-* Demokratie- und Beteiligungswerte: jährliche Verbesserung um 0,5 Punkte (hypothetisch)
+
+* Wirtschaftliche Projektionen 2050–2075: extrapoliert aus World-Bank-Trenddaten (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Infrastrukturautarkie: Ziel 60 % erneuerbare Energie bis 2050 (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Demokratie- und Beteiligungswerte: jährliche Verbesserung um 0,5 Punkte (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 

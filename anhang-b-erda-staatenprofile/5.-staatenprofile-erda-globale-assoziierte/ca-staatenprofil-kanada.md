@@ -19,7 +19,7 @@ version: "1.0"
 * 👥 Bevölkerung (2023): 40,1 Mio.[^wb-pop]
 * 🧠 Regierungsform & Verfassungsstatus (2025): Föderale parlamentarische Demokratie, konstitutionelle Monarchie
 * 📅 ERDA-Status: Global assoziiert
-* 🧭 Rolle im ERDA-Netzwerk (Zukunft): Arktisknoten und Rohstoff‑/Innovationspartner (hypothetisch)
+* 🧭 Rolle im ERDA-Netzwerk (Zukunft): Arktisknoten und Rohstoff‑/Innovationspartner (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 
@@ -40,12 +40,12 @@ version: "1.0"
 * Bruttoinlandsprodukt (BIP, real, heute / 2050 / 2075): 2 050 Mrd. EUR / 3 575 Mrd. EUR (hyp.) / 5 865 Mrd. EUR (hyp.)[^wb-gdp]
 * BIP pro Kopf: ca. 51 000 EUR[^wb-gdppc]
 * Schlüsselindustrien (Top‑3): Energie (Öl, Gas, erneuerbare), verarbeitende Industrie, Dienstleistungen
-* Anteil Automatisierung & Digitalisierung (2025/2050): 55 % / 80 % (hypothetisch)
+* Anteil Automatisierung & Digitalisierung (2025/2050): 55 % / 80 % (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Forschungs- und Innovationsquote (% des BIP): 1,7 %[^wb-rd]
 * Patente / Jahr (Trend): rund 4 500 (2020)[^wb-pat]
-* Mitglied in FORTERA-Handelsallianzen: Nein (hypothetisch)
-* Mitglied im Democracy Trade Network: Nein (hypothetisch)
-* Nutzung von EHAM+ (0–10): 6 (hypothetisch)
+* Mitglied in FORTERA-Handelsallianzen: Nein (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Mitglied im Democracy Trade Network: Nein (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Nutzung von EHAM+ (0–10): 6 (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 #### 3.1 Infrastrukturautarkie
 
@@ -164,7 +164,7 @@ Kanada ist ein rohstoffreiches, hochentwickeltes Land mit stabiler Demokratie un
 #### 11.1 ℹ️ Allgemeines
 
 * Statistik: World Bank Open Data; UN World Population Prospects 2022
-* Modelle: BIP-Wachstum 2 % p.a., Inflation 1,5 % p.a. (hypothetisch)
+* Modelle: BIP-Wachstum 2 % p.a., Inflation 1,5 % p.a. (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Energie- und Infrastrukturdaten: Natural Resources Canada (NRCan)
 * Innovation & Bildung: OECD Data, UNESCO Institute for Statistics
 * Demokratie & Rechtsstaatlichkeit: Freedom House, World Justice Project
@@ -188,12 +188,15 @@ Kanada ist ein rohstoffreiches, hochentwickeltes Land mit stabiler Demokratie un
 14. UNESCO World Heritage Centre. 2024. "World Heritage List". [https://whc.unesco.org/en/statesparties/ca](https://whc.unesco.org/en/statesparties/ca) (letzter Zugriff am 2025‑06‑11). <a name="unesco"></a>
 
 #### 11.3 🛠️ Modellierungen & Annahmen
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-1. Wirtschaftliche Projektionen 2050–2075: Wachstum 2 % p.a., Inflation 1,5 % p.a. (hypothetisch)
-2. KI-Kapazitäten: Verdopplung der Rechenleistung alle 3 Jahre (hypothetisch)
-3. Infrastrukturautarkie: Ziel 80 % erneuerbare Energieversorgung bis 2050 (hypothetisch)
-4. Demokratie- und Beteiligungswerte: Freedom House Score verbessert sich um 0,5 Punkte/Jahr (hypothetisch)
-5. Energiepotenziale: Szenarien nach IEA, moderat vs. ambitioniert (hypothetisch)
+
+1. Wirtschaftliche Projektionen 2050–2075: Wachstum 2 % p.a., Inflation 1,5 % p.a. (hypothetisch: ERDA Scenario Modeling Report 2025)
+2. KI-Kapazitäten: Verdopplung der Rechenleistung alle 3 Jahre (hypothetisch: ERDA Scenario Modeling Report 2025)
+3. Infrastrukturautarkie: Ziel 80 % erneuerbare Energieversorgung bis 2050 (hypothetisch: ERDA Scenario Modeling Report 2025)
+4. Demokratie- und Beteiligungswerte: Freedom House Score verbessert sich um 0,5 Punkte/Jahr (hypothetisch: ERDA Scenario Modeling Report 2025)
+5. Energiepotenziale: Szenarien nach IEA, moderat vs. ambitioniert (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 

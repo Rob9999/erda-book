@@ -25,22 +25,22 @@ version: "1.0"
 
 ### 2. Demografie & Gesellschaft
 
-* **Bev\u00f6lkerung (Prognose 2050 / 2075):** 14,8 Mio. / 12,0 Mio. (UN World Population Prospects 2022, Medium Variant, hypothetisch)
+* **Bev\u00f6lkerung (Prognose 2050 / 2075):** 14,8 Mio. / 12,0 Mio. (UN World Population Prospects 2022, Medium Variant, hypothetisch: ERDA Scenario Modeling Report 2025)
 * **Altersstruktur (2023):** Medianalter ~43 Jahre; Jugendanteil 0–14 J.: 15,9 %; 65+: 19,8 % (World Bank)
 * **Urbanisierungsgrad (2023):** 54,7 % (World Bank)
-* **Durchschnittliche Bildung:** ca. 12 Schuljahre (UNESCO, hypothetisch)
+* **Durchschnittliche Bildung:** ca. 12 Schuljahre (UNESCO, hypothetisch: ERDA Scenario Modeling Report 2025)
 * **Lebenserwartung (2022):** 75,2 Jahre (World Bank)
 * **Migrationssaldo:** wechselhaft (World Bank Net Migration 2020: −13k; 2022: +89k)
-* **Soziale Koh\u00e4sion:** Demokratievertrauen moderat, Zufriedenheitsindex ~6/10 (hypothetisch)
+* **Soziale Koh\u00e4sion:** Demokratievertrauen moderat, Zufriedenheitsindex ~6/10 (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ### 3. Wirtschaft & Innovation
 
-* **BIP (real, Mrd. EUR):** 2023 \u2248 325; 2050 500 (hypothetisch)
+* **BIP (real, Mrd. EUR):** 2023 \u2248 325; 2050 500 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * **BIP pro Kopf (2023):** ~18.400 USD (World Bank)
 * **Schl\u00fcsselindustrien:** Automobilbau, IT-Dienstleistungen, Landwirtschaft, Energiewirtschaft
-* **Anteil Automatisierung & Digitalisierung (2025/2050):** 40 % / 70 % (hypothetisch)
+* **Anteil Automatisierung & Digitalisierung (2025/2050):** 40 % / 70 % (hypothetisch: ERDA Scenario Modeling Report 2025)
 * **Forschungs- und Innovationsquote (2023):** 0,7 % des BIP (Eurostat)
-* **Patente / Jahr (Trend):** ~300 (EPO, hypothetisch)
+* **Patente / Jahr (Trend):** ~300 (EPO, hypothetisch: ERDA Scenario Modeling Report 2025)
 * **Mitglied in FORTERA-Handelsallianzen:** Ja
 * **Mitglied im Democracy Trade Network:** Ja
 * **Nutzung von EHAM+ (0–10):** 5
@@ -151,8 +151,8 @@ Rum\u00e4nien entwickelt sich vom aufholenden EU-Mitglied zu einem IT- und Energ
 ### 11. Quellen & Modellierungen
 #### 11.1 \u2139\ufe0f Allgemeines
 * Statistik: World Bank und Eurostat; Basisjahr 2023.
-* Modellannahmen: UN WPP 2022 f\u00fcr demografische Projektionen (hypothetisch).
-* Energiepotenziale: IEA Reports 2024 (hypothetisch).
+* Modellannahmen: UN WPP 2022 f\u00fcr demografische Projektionen (hypothetisch: ERDA Scenario Modeling Report 2025).
+* Energiepotenziale: IEA Reports 2024 (hypothetisch: ERDA Scenario Modeling Report 2025).
 * Innovation & Bildung: Eurostat und OECD.
 * Demokratie & Rechtsstaatlichkeit: Freedom House, Rule of Law Index.
 
@@ -163,9 +163,12 @@ Rum\u00e4nien entwickelt sich vom aufholenden EU-Mitglied zu einem IT- und Energ
 4. International Energy Agency. 2024. "Renewables 2024." [https://www.iea.org](https://www.iea.org) (Letzter Zugriff am 2025-06-11).
 
 #### 11.3 \ud83d\udd27 Modellierungen & Annahmen
-* Wirtschaftliche Projektionen 2050–2075: Trendfortschreibung 2 % Wachstum p.a. (hypothetisch).
-* KI-Kapazit\u00e4ten: Verdopplung der Rechenleistung alle 3 Jahre (hypothetisch).
-* Infrastrukturautarkie: Ziel 80 % erneuerbare Energieversorgung (hypothetisch).
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
+
+* Wirtschaftliche Projektionen 2050–2075: Trendfortschreibung 2 % Wachstum p.a. (hypothetisch: ERDA Scenario Modeling Report 2025).
+* KI-Kapazit\u00e4ten: Verdopplung der Rechenleistung alle 3 Jahre (hypothetisch: ERDA Scenario Modeling Report 2025).
+* Infrastrukturautarkie: Ziel 80 % erneuerbare Energieversorgung (hypothetisch: ERDA Scenario Modeling Report 2025).
 
 ***
 

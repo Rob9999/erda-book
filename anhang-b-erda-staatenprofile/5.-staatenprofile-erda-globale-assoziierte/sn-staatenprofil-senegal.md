@@ -19,7 +19,7 @@ version: "1.0"
 * 👥 Bevölkerung (2023): 18,1 Mio.[^wb-pop]
 * 🧠 Regierungsform & Verfassungsstatus (2025): Semipräsidentielle Republik
 * 📅 ERDA-Status: Global assoziiert
-* 🧭 Rolle im ERDA-Netzwerk (Zukunft): Brückenknoten Westafrika, erneuerbare Energiepartnerschaften (hypothetisch)
+* 🧭 Rolle im ERDA-Netzwerk (Zukunft): Brückenknoten Westafrika, erneuerbare Energiepartnerschaften (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 
@@ -44,7 +44,7 @@ version: "1.0"
 * Patentanmeldungen pro Jahr: unter 20 (WIPO)[^wipo]
 * Internetpenetration: 58 % (2023)[^itu]
 * Mobile-Breitband-Verträge: 102 pro 100 Einwohner[^itu]
-* KI-Forschungskapazität: im Aufbau, vereinzelte Hochschulprogramme (hypothetisch)
+* KI-Forschungskapazität: im Aufbau, vereinzelte Hochschulprogramme (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 #### 3.1 Infrastrukturautarkie
 
@@ -106,7 +106,7 @@ Senegal ist eine politisch relativ stabile Demokratie in Westafrika mit stark wa
 #### 8.1 ℹ️ Allgemeines
 
 * Statistik: Nationale Quellen (Agence Nationale de la Statistique et de la Démographie) und internationale Datenbanken (World Bank, UN WPP 2022)
-* Modelle: BIP- und Bevölkerungsprognosen nach UN WPP 2022 und OECD (hypothetisch)
+* Modelle: BIP- und Bevölkerungsprognosen nach UN WPP 2022 und OECD (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Energiepotenziale: IEA 2024, nationale Solar- und Windinitiativen
 * Innovation & Bildung: UNESCO-Daten, nationale Bildungsreports
 * Demokratie & Rechtsstaatlichkeit: Freedom House, Transparency International
@@ -128,9 +128,9 @@ Senegal ist eine politisch relativ stabile Demokratie in Westafrika mit stark wa
 
 #### 8.3 🛠️ Modellierungen & Annahmen
 
-* Wirtschaftliche Projektionen 2050–2075: extrapoliert aus World-Bank-Trends (hypothetisch)
-* Energiepotenziale: Szenarien nach IEA, nationale Strategiepapiere (hypothetisch)
-* Demokratie- und Beteiligungswerte: Fortschreibung Freedom House Score (hypothetisch)
+* Wirtschaftliche Projektionen 2050–2075: extrapoliert aus World-Bank-Trends (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Energiepotenziale: Szenarien nach IEA, nationale Strategiepapiere (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Demokratie- und Beteiligungswerte: Fortschreibung Freedom House Score (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 

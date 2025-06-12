@@ -154,7 +154,7 @@ resilientes Demokratielabor und Bildungsstandort die Ostflanke Europas sichern.
 
 * Statistik: Nationale Quellen (Statistisches Hauptamt Polen) und Eurostat,
   Basisjahr 2025.
-* Modelle: ERDA-Zukunftsszenarienmodell (hypothetisch).
+* Modelle: ERDA-Zukunftsszenarienmodell (hypothetisch: ERDA Scenario Modeling Report 2025).
 
 #### 11.2 📎 Verwendete Quellen & Verweise
 
@@ -163,8 +163,11 @@ resilientes Demokratielabor und Bildungsstandort die Ostflanke Europas sichern.
 * **Wirtschaft & Innovation:** OECD Innovation Scoreboard.
 
 #### 11.3 🛠️ Modellierungen & Annahmen
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-* Wirtschaftliche Projektionen: ERDA-Zukunftsszenarienmodell (hypothetisch).
+
+* Wirtschaftliche Projektionen: ERDA-Zukunftsszenarienmodell (hypothetisch: ERDA Scenario Modeling Report 2025).
 
 ### 12. 🤝 Mitwirkung willkommen
 

@@ -25,10 +25,10 @@ version: "1.0"
 
 ### 2. Demografie & Gesellschaft
 
-* Bevölkerung (2050/2075-Prognose): 2,7 Mio. / 2,3 Mio. (UN World Population Prospects, hypothetisch)
+* Bevölkerung (2050/2075-Prognose): 2,7 Mio. / 2,3 Mio. (UN World Population Prospects, hypothetisch: ERDA Scenario Modeling Report 2025)
 * Altersstruktur (Medianalter, Jugendanteil, Altenquotient): 43 Jahre, 13 %, 22 %
 * Urbanisierung (%): 50 %
-* Bildung (Durchschnittsjahre, MINT-Anteil, Hochschulquote): 11,5 Jahre, 25 %, 30 % (hypothetisch)
+* Bildung (Durchschnittsjahre, MINT-Anteil, Hochschulquote): 11,5 Jahre, 25 %, 30 % (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Lebenserwartung: 78 Jahre (World Bank, 2023)
 * Migrationssaldo: moderat negativ
 * Soziale Kohäsion (Subjektive Zufriedenheit, Demokratievertrauen): mittel / schwankend
@@ -37,10 +37,10 @@ version: "1.0"
 
 ### 3. Wirtschaft & Innovation
 
-* Bruttoinlandsprodukt (BIP, real, heute / 2050 / 2075): 27,5 Mrd. USD / 40 Mrd. USD / 55 Mrd. USD (2050/2075 hypothetisch)
+* Bruttoinlandsprodukt (BIP, real, heute / 2050 / 2075): 27,5 Mrd. USD / 40 Mrd. USD / 55 Mrd. USD (2050/2075 hypothetisch: ERDA Scenario Modeling Report 2025)
 * BIP pro Kopf: 8.600 USD
 * Schlüsselindustrien (Top-3): Metallverarbeitung, Tourismus, Landwirtschaft
-* Anteil Automatisierung & Digitalisierung (2025/2050): 45 % / 65 % (hypothetisch)
+* Anteil Automatisierung & Digitalisierung (2025/2050): 45 % / 65 % (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Forschungs- und Innovationsquote (% des BIP): 0,9 %
 * Patente / Jahr (Trend): ca. 150 / leicht steigend
 * Mitglied in FORTERA-Handelsallianzen: Nein
@@ -153,7 +153,7 @@ Schrittweise Annäherung an EU-Standards, Stärkung demokratischer Prozesse und 
 | KI-Kapazität [0–10]                  | 4        | 6 (p)    | 7 (p)    |
 | Zivilgesellschaftlicher Index [0–10] | 5        | 6 (p)    | 7 (p)    |
 
-Hinweise: (p) - Prognose (UN, OECD etc.)
+Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 
@@ -166,9 +166,9 @@ Bosnien-Herzegowina befindet sich im Wandel: Trotz politischer Komplexität und 
 #### 11.1 ℹ️ Allgemeines
 
 * Statistik: World Bank (Population, GDP, Life Expectancy), Rest Countries API (Flächenangaben)
-* Modellannahmen zur Wirtschaftsentwicklung: OECD und UN Trends (hypothetisch)
+* Modellannahmen zur Wirtschaftsentwicklung: OECD und UN Trends (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Energiepotenziale: Internationale Energieagentur (IEA)
-* Innovation & Bildung: UNESCO, OECD (hypothetisch)
+* Innovation & Bildung: UNESCO, OECD (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Demokratie & Rechtsstaatlichkeit: Freedom House, World Justice Project
 * Nachhaltigkeits- und Ressourcenindikatoren: Europäische Umweltagentur (EEA)
 
@@ -183,10 +183,13 @@ Bosnien-Herzegowina befindet sich im Wandel: Trotz politischer Komplexität und 
 > Letzter Quellenzugriff: 2025-06-10
 
 #### 11.3 🛠️ Modellierungen & Annahmen
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-* Wirtschaftliche Projektionen 2050–2075: Extrapolation aktueller Wachstumsraten (hypothetisch)
-* Infrastrukturautarkie: Qualitative Einschätzungen nationaler Strategiepapiere (hypothetisch)
-* Demokratie- und Beteiligungswerte: Kombination aus Freedom House und WJP (hypothetisch)
+
+* Wirtschaftliche Projektionen 2050–2075: Extrapolation aktueller Wachstumsraten (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Infrastrukturautarkie: Qualitative Einschätzungen nationaler Strategiepapiere (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Demokratie- und Beteiligungswerte: Kombination aus Freedom House und WJP (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 
