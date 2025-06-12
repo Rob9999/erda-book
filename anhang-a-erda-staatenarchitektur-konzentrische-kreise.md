@@ -8,6 +8,9 @@ Die potenziellen **ERDA-Staaten** (European Rights-Based Democratic Alliance) gl
 
 ### 1. 🔵 Kern-ERDA (Mitglieder mit Verfassungsbindung)
 
+**Alle ERDA-Kernstaaten müssen – durch demokratische Entscheidung – die Charta der Grundrechte der EU angenommen und völkerrechtlich verbindlich ratifiziert haben.**\
+Die **Charta bildet den Rechtskern der ERDA** und wird durch neue ethische, technologische und ökologische Dimensionen weiterentwickelt, nicht ersetzt.
+
 Vollintegrierte Mitgliedsstaaten mit demokratischer Verfassung und stabiler Rechtsstaatlichkeit, sortiert nach Bevölkerungszahl (Stand 1. Januar 2024) ([en.wikipedia.org](https://en.wikipedia.org/wiki/List_of_European_Union_member_states_by_population)):
 
 | Staat        | ISO | Einwohner  |
@@ -54,7 +57,6 @@ Diese Länder erfüllen bereits alle ERDA-Standards, bringen robuste Institution
 | Vereinigtes Königreich | GB  | Hoch           | Stabil                 | Bereits ERDA-kompatibel                        | Sicherheit, Bildung      | Assoziiert           | 🟢 Ja               | Hohes Innovationspotenzial                       |
 | Andorra                | AD  | Hoch           | Stabil                 | Bereits ERDA-kompatibel                        | Tourismus, Finanzen      | Assoziiert           | 🟢 Ja               | Alpenbrücke zwischen Spanien und Frankreich      |
 | Island                 | IS  | Hoch           | Stabil                 | Arktisstrategie, Energieautarkie               | Arktis, Biodiversität    | Assoziiert           | 🟢 Ja               | Brückenstaat für Nordmeerräume                   |
-| Kroatien               | HR  | Hoch           | Stabil                 | Bereits ERDA-kompatibel                        | Wirtschaft, Sicherheit   | Assoziiert           | 🟢 Ja               | Brückenstaat Westbalkan–EU                       |
 | Liechtenstein          | LI  | Hoch           | Stabil                 | Bereits ERDA-kompatibel                        | Finanzmarkt, Industrie   | Assoziiert           | 🟢 Ja               | Hochinnovatives Kleinstaatenmodell               |
 | Malta                  | MT  | Hoch           | Stabil                 | Voll demokratisch                              | Migration, Justiz        | Assoziiert           | 🟢 Ja               | Zugang zu Afrika & MENA-Raum                     |
 | Monaco                 | MC  | Hoch           | Stabil                 | Bereits ERDA-kompatibel                        | Finanzen, Kultur         | Assoziiert           | 🟢 Ja               | Finanzplatz mit hoher internationaler Vernetzung |
@@ -113,7 +115,6 @@ Nicht politisch integrierte Demokratien mit sicherheitspolitischer und innovatio
 | Indien     | 🇮🇳 IN  | Perspektivische Demokratiepartnerschaft |
 | Taiwan     | 🇹🇼 TW  | Technologie & Demokratie                |
 | Senegal    | 🇸🇳 SN  | Demokratiepartnerschaft                 |
-| Tunesien   | 🇹🇳 TN  | Demokratisierungskurs notwendig         |
 
 ***
 
@@ -131,9 +132,9 @@ Nicht politisch integrierte Demokratien mit sicherheitspolitischer und innovatio
 
 #### 📚 Gesamtüberblick ERDA-Staaten (nach Stand 2025)
 
-* **23 EU/ERDA-Kernstaaten** (volle Verfassungsintegration)
-* **28 erweiterte Partnerstaaten** (europäische Nachbarschaft, transnational)
-* **13 globale Demokratien** (assoziierte Partner)
+* **24 EU/ERDA-Kernstaaten** (volle Verfassungsintegration)
+* **27 erweiterte Partnerstaaten** (europäische Nachbarschaft, transnational)
+* **12 globale Demokratien** (assoziierte Partner)
 
 → Insgesamt **ca. 50 Staaten** perspektivisch im erweiterten ERDA-Netzwerk.
 
