@@ -179,7 +179,7 @@ Serbien ist ein dynamisches Land im Herzen des Balkans mit wachsenden europäisc
 
 1. World Bank. 2024. "World Development Indicators". [online] verfügbar unter: <https://databank.worldbank.org/source/world-development-indicators> (Zugriff 2025-06-09).
 2. United Nations. 2022. "World Population Prospects". [online] verfügbar unter: <https://population.un.org/wpp/> (Zugriff 2025-06-09).
-3. World Health Organization. 2024. "Serbia Country Profile". [online] verfügbar unter: <https://www.who.int> (Zugriff 2025-06-09).
+3. World Health Organization. 2024. "Serbia Country Profile" *(hypothetical)*.
 4. Freedom House. 2024. "Freedom in the World: Serbia". [online] verfügbar unter: <https://freedomhouse.org> (Zugriff 2025-06-09).
 5. Eurostat. 2024. "National Accounts". [online] verfügbar unter: <https://ec.europa.eu/eurostat> (Zugriff 2025-06-09).
 6. UNESCO Institute for Statistics. 2023. "Research and Development". [online] verfügbar unter: <http://uis.unesco.org> (Zugriff 2025-06-09).
