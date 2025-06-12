@@ -174,7 +174,7 @@ Italien verbindet mediterrane Lebensart mit technologischer Ambition. Kulturelle
 
 #### Gesundheit & Lebenserwartung
 
-* **World Health Organization (WHO)**: Lebenserwartungsdaten, https://www.who.int/data
+* **World Health Organization (WHO)**: Lebenserwartungsdaten, <https://www.who.int/data/gho/data/indicators/indicator-details/GHO/life-expectancy-at-birth-(years)>
 * **Reuters**: Artikel "Births fall in Italy", Geburten- und Migrationsstatistiken, https://www.reuters.com/
 
 #### Innovation & Patente
