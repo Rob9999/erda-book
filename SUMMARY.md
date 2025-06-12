@@ -232,7 +232,7 @@
     * [GE - Staatenprofil Georgien](anhang-b-erda-staatenprofile/4.-staatenprofile-eu-erda-erweiterte-partnerschaft/ge-staatenprofil-georgien.md)
     * [HU - Staatenprofil Ungarn](anhang-b-erda-staatenprofile/4.-staatenprofile-eu-erda-erweiterte-partnerschaft/hu-staatenprofil-ungarn.md)
     * [IL - Staatenprofil Israel](anhang-b-erda-staatenprofile/4.-staatenprofile-eu-erda-erweiterte-partnerschaft/il-staatenprofil-israel.md)
-    * [LU - Staatenprofil Luxemburg](anhang-b-erda-staatenprofile/4.-staatenprofile-eu-erda-erweiterte-partnerschaft/lu-staatenprofil-luxemburg.md)
+    * [LU - Staatenprofil Luxemburg](anhang-b-erda-staatenprofile/3.-staatenprofile-eu-erda-kernlander/lu-staatenprofil-luxemburg.md)
     * [MD - Staatenprofil Moldau](anhang-b-erda-staatenprofile/4.-staatenprofile-eu-erda-erweiterte-partnerschaft/md-staatenprofil-moldau.md)
     * [ME - Staatenprofil Montenegro](anhang-b-erda-staatenprofile/4.-staatenprofile-eu-erda-erweiterte-partnerschaft/me-staatenprofil-montenegro.md)
     * [MK - Staatenprofil Nord‑Mazedonien](anhang-b-erda-staatenprofile/4.-staatenprofile-eu-erda-erweiterte-partnerschaft/mk-staatenprofil-nord-mazedonien.md)
