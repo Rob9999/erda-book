@@ -47,6 +47,18 @@ version: "1.0"
 
 ***
 
+#### 3.1 Infrastrukturautarkie
+
+* Energie ☑
+* IT/Cloud ☑
+* Verteidigung ☑
+* Ernährung ☑
+* Satellitenkommunikation (IRIS²) ☐
+* Quantentechnologie ☐
+* Autonome Logistiksysteme ☐
+
+***
+
 ### 4. Politik & Institutionen
 
 * Demokratieindex (Freedom House Score): 32/100 (Freedom House 2024)
