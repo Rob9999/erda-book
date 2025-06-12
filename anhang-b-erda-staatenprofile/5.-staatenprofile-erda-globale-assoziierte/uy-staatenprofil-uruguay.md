@@ -169,6 +169,6 @@ Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vert
 
 #### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
 Autor: OpenAI Codex
-Kontakt: [noreply@example.com](mailto:noreply@example.com)
+Kontakt: [robert.alexander.massinger@outlook.de](mailto:robert.alexander.massinger@outlook.de)
 Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
 Letzte Änderung: 2025-06-11
