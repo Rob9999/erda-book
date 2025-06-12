@@ -174,8 +174,8 @@ Italien verbindet mediterrane Lebensart mit technologischer Ambition. Kulturelle
 
 #### Gesundheit & Lebenserwartung
 
-* **World Health Organization (WHO)**: Lebenserwartungsdaten, https://www.who.int/data
-* **Euronews**: Artikel "Italy's falling birth rate is a crisis that's only getting worse", Geburten- und Migrationsstatistiken, https://www.euronews.com/my-europe/2024/05/10/italys-falling-birth-rate-is-a-crisis-thats-only-getting-worse
+* **World Health Organization (WHO)**: Lebenserwartungsdaten, <https://www.who.int/data/gho/data/indicators/indicator-details/GHO/life-expectancy-at-birth-(years)>
+* **Reuters**: Artikel "Births fall in Italy", Geburten- und Migrationsstatistiken, https://www.reuters.com/
 
 #### Innovation & Patente
 

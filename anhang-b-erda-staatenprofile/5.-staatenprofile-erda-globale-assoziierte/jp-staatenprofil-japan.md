@@ -172,7 +172,7 @@ Japan ist ein technologisch hochentwickelter Inselstaat mit starker Demokratie u
 #### 11.2 📎 Verwendete Quellen & Verweise
 
 **Demografie & Gesellschaft**
-* **Quelle:** World Bank, [https://data.worldbank.org](https://data.worldbank.org)
+* **Quelle:** World Bank, <https://databank.worldbank.org/source/world-development-indicators>
 * **Modell:** UN DESA, World Population Prospects 2022 (hypothetisch)
 
 **Wirtschaft & Innovation**
@@ -180,7 +180,7 @@ Japan ist ein technologisch hochentwickelter Inselstaat mit starker Demokratie u
 * **Modell:** OECD Economic Outlook Japan 2024 (hypothetisch)
 
 **Gesundheit & Lebenserwartung**
-* **Quelle:** WHO Country Profile Japan, [https://www.who.int](https://www.who.int)
+* **Quelle:** WHO Country Profile Japan *(hypothetical)*
 * **Modell:** Global Burden of Disease Data Japan (hypothetisch)
 
 **Sicherheit & Verteidigung**

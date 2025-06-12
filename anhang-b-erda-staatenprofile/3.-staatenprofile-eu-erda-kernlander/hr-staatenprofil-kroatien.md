@@ -182,7 +182,7 @@ Statistische Basisjahr ist 2025. Bevölkerungs- und Wirtschaftsprognosen beruhen
 
 **Demografie & Gesellschaft**
 * **Quelle:** PopulationPyramid.net, https://www.populationpyramid.net/croatia/2025/
-* **Quelle:** UN World Population Prospects, https://population.un.org
+* **Quelle:** UN World Population Prospects, <https://population.un.org/wpp/Download/Files/1_INDICATORS%20(Standard)/EXCEL_FILES/1_Population/WPP2024_POP_F07_1_TOTAL_POPULATION_BOTH_SEXES.xlsx> *(hypothetical)*
 * **Quelle:** Worldometers, https://www.worldometers.info/world-population/croatia-population/
 
 **Wirtschaft & Innovation**
@@ -191,7 +191,7 @@ Statistische Basisjahr ist 2025. Bevölkerungs- und Wirtschaftsprognosen beruhen
 
 **Soziales & Bildung**
 * **Quelle:** OECD – Education at a Glance 2023, https://www.oecd.org/education/education-at-a-glance/
-* **Quelle:** Eurostat, https://ec.europa.eu/eurostat
+* **Quelle:** Eurostat, <https://ec.europa.eu/eurostat/data/database>
 
 **Gesundheit & Lebenserwartung**
 * **Quelle:** Worldometer, https://www.worldometers.info/demographics/life-expectancy/croatia-life-expectancy/

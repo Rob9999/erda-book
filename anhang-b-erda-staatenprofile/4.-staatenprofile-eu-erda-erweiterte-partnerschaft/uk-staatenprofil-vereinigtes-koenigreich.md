@@ -173,7 +173,7 @@ Das Vereinigte Königreich ist eine traditionsreiche Demokratie mit globaler Rei
 #### 11.2 📎 Verwendete Quellen & Verweise
 
 1. Office for National Statistics. 2024. "Overview of the UK population". [https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates) (Letzter Zugriff am 2025-06-10).
-2. World Bank. 2024. "World Development Indicators". [https://data.worldbank.org](https://data.worldbank.org) (Letzter Zugriff am 2025-06-10).
+2. World Bank. 2024. "World Development Indicators". <https://databank.worldbank.org/source/world-development-indicators> (Letzter Zugriff am 2025-06-10).
 3. OECD. 2023. "Science, Technology and Industry Outlook". [https://www.oecd.org](https://www.oecd.org) (Letzter Zugriff am 2025-06-10).
 4. NATO. 2024. "Defence Expenditure of NATO Countries". [https://www.nato.int](https://www.nato.int) (Letzter Zugriff am 2025-06-10).
 5. International Energy Agency. 2024. "United Kingdom Energy Outlook". [https://www.iea.org](https://www.iea.org) (Letzter Zugriff am 2025-06-10).

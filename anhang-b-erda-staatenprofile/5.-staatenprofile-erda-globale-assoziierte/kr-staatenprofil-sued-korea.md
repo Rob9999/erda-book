@@ -177,7 +177,7 @@ Südkorea ist eine dynamische Hochtechnologienation mit starker demokratischer T
 
 #### 11.2 📎 Verwendete Quellen & Verweise
 
-1. World Bank. 2024. "World Development Indicators". [https://data.worldbank.org](https://data.worldbank.org) (Letzter Zugriff am 2025-06-10).
+1. World Bank. 2024. "World Development Indicators". <https://databank.worldbank.org/source/world-development-indicators> (Letzter Zugriff am 2025-06-10).
 2. OECD. 2023. "Education at a Glance". [https://www.oecd.org/education/education-at-a-glance/](https://www.oecd.org/education/education-at-a-glance/) (Letzter Zugriff am 2025-06-10).
 3. Freedom House. 2024. "Freedom in the World 2024 – South Korea". [https://freedomhouse.org](https://freedomhouse.org) (Letzter Zugriff am 2025-06-10).
 4. UNESCO. 2024. "World Heritage List". [https://whc.unesco.org/en/statesparties/kr/](https://whc.unesco.org/en/statesparties/kr/) (Letzter Zugriff am 2025-06-10).
