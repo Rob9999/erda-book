@@ -54,11 +54,17 @@ version: "1.0"
 * **Forschungs- & Innovationsquote:** 1,24 % des BIP
 * **Patente pro Jahr:** ca. 13 200
 * **Mitglied in FORTERA-Handelsallianzen?** Ja
-* **Produktionssouveränität in strategischen Sektoren:**
+
+#### 3.1 Infrastrukturautarkie
+
+* Produktionssouveränität in strategischen Sektoren:
   * Energie ☑
   * IT/Cloud ☑
   * Verteidigung ☑
   * Ernährung ☑
+  * Satellitenkommunikation (IRIS²) ☐
+  * Quantentechnologie ☐
+  * Autonome Logistiksysteme ☐
 
 ***
 
