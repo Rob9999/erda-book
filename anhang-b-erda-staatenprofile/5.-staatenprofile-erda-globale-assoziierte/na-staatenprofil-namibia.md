@@ -18,7 +18,7 @@ version: "1.0"
 * **Geografische Lage (Kontinent, Region):** Südwestafrika, Atlantikküste; grenzt an Angola, Sambia, Botswana und Südafrika
 * **Bevölkerung (Stand 2023):** 2,96 Mio.[^wb-pop]
 * **Regierungsform & Verfassungsstatus (Stand 2025):** Präsidiale Republik, Verfassung von 1990
-* **ERDA-Status:** Globale/r Assoziierter
+* 📅 ERDA-Status: Globale/r Assoziierter
 * **Zukünftige Rolle im ERDA-Netzwerk:** Partner für erneuerbare Energie und Hafenlogistik (Walvis Bay)
 
 ### 2. Demografie & Gesellschaft

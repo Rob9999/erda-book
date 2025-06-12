@@ -18,7 +18,7 @@ version: "1.0"
 * 🗺️ **Geografische Lage:** Nordeuropa, südlich von Finnland am Finnischen Meerbusen; grenzt im Süden an Lettland, im Osten an Russland; Küstenlänge 3 794 km ([Wikipedia](https://en.wikipedia.org/wiki/Estonia))
 * 👥 **Bevölkerung (2025):** 1 369 285 ([Statistik Estonia](https://stat.ee/en/find-statistics/statistics-theme/population))
 * 🧠 **Regierungsform & Verfassungsstatus (2025):** Unitary parlamentarische Republik; Verfassung von 1992 ([Riigikogu](https://www.riigikogu.ee/en/constitution-of-the-republic-of-estonia/))
-* 📅 **ERDA-Status:** Mitglied
+* 📅 ERDA-Status: Mitglied
 * 🧭 **Rolle im ERDA-Netzwerk (Zukunft):** Digitalnation & Cyberhub
 
 ***

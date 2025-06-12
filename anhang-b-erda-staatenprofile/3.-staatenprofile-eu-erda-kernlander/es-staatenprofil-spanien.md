@@ -18,7 +18,7 @@ version: "1.0"
 * 🗘️ **Geografische Lage:** Südwest-Europa, Iberische Halbinsel
 * 👥 **Bevölkerung (2025):** 47 889 958 Einw.
 * 🧠 **Regierungsform & Verfassungsstatus (2025):** Parlamentarische konstitutionelle Monarchie (Verfassungsbindung: Ja)
-* 🗓️ **ERDA-Status:** Mitglied
+* 📅 ERDA-Status: Mitglied
 * 🗭 **Rolle im ERDA-Netzwerk (Zukunft):** Kulturvermittler, Green-Tech-Hub, Tourismus-& Innovationspartner
 
 ***

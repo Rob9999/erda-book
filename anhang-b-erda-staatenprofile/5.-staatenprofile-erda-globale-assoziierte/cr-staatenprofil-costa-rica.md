@@ -18,7 +18,7 @@ version: "1.0"
 * **Geografische Lage (Kontinent, Region):** Mittelamerika; zwischen Nicaragua und Panama
 * **Bevölkerung (Stand 2025):** ca. 5,2 Mio.^[World Bank, 2023]
 * **Regierungsform & Verfassungsstatus (Stand 2025):** Präsidentielle Republik
-* **ERDA-Status:** Globale/r Assoziierter
+* 📅 ERDA-Status: Globale/r Assoziierter
 * **Zukünftige Rolle im ERDA-Netzwerk:** Vermittler nachhaltiger Tourismus und Umweltinnovation
 
 ### 2. Demografie & Gesellschaft

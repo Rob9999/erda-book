@@ -17,7 +17,7 @@ version: "1.0"
 * 🗺️ **Geografische Lage:** Westeuropa, Küstenstaat an Nordsee, grenzt an Deutschland und Belgien
 * 👥 **Bevölkerung (2025):** 18.327.400
 * 🧠 **Regierungsform & Verfassungsstatus (2025):** Konstitutionelle Monarchie, parlamentarische Demokratie (Verfassungsbindung: Ja)
-* 📅 **ERDA-Status:** Mitglied
+* 📅 ERDA-Status: Mitglied
 * 🧭 **Rolle im ERDA-Netzwerk (Zukunft):** Logistik- und Innovationshub, Wasser- und Küstermanagement-Expertise, digitaler Cyberhub
 
 ***

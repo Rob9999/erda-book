@@ -18,7 +18,7 @@ version: "1.0"
 * 🗺️ Geografische Lage: Inselstaat in Ostasien, nordwestlicher Pazifik
 * 👥 Bevölkerung (2023): ca. 124,5 Mio.[1]
 * 🧬 Regierungsform & Verfassungsstatus (2025): Konstitutionelle Monarchie mit parlamentarischer Regierung
-* 📅 ERDA-Status: Globale Assoziierte
+* 📅 ERDA-Status: Globale/r Assoziierter
 * 🔎 Rolle im ERDA-Netzwerk (Zukunft): High-Tech-Drehscheibe und Indo-Pazifik-Partner
 
 ***

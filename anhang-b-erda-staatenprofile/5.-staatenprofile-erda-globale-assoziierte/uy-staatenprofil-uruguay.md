@@ -18,7 +18,7 @@ version: "1.0"
 * **Geografische Lage (Kontinent, Region):** Südamerika, La-Plata-Region zwischen Brasilien und Argentinien
 * **Bevölkerung (Stand 2023):** ca. 3,39 Mio.^[World Bank, 2023](https://api.worldbank.org/v2/country/URY/indicator/SP.POP.TOTL)
 * **Regierungsform & Verfassungsstatus (Stand 2025):** Präsidiale Republik mit Mehrparteiensystem
-* **ERDA-Status:** Globale/r Assoziierter
+* 📅 ERDA-Status: Globale/r Assoziierter
 * **Zukünftige Rolle im ERDA-Netzwerk:** Digitaler Brückenstaat Mercosur-EU, Agrar- und Nachhaltigkeitspartner
 
 ### 2. Demografie & Gesellschaft

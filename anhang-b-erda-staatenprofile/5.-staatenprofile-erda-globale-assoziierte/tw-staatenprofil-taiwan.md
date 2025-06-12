@@ -18,7 +18,7 @@ version: "1.0"
 * 🗺️ Geografische Lage: Ostasien, Insel im Westpazifik vor der Küste des chinesischen Festlands
 * 👥 Bevölkerung (2025): ca. 23,3 Mio.\* [^1]
 * 🧑‍⚖️ Regierungsform & Verfassungsstatus (2025): Semipräsidentielle Demokratie
-* 📅 ERDA-Status: Globaler Assoziierter
+* 📅 ERDA-Status: Globale/r Assoziierter
 * 🧭 Rolle im ERDA-Netzwerk (Zukunft): Technologie- und Innovationsdrehscheibe
 
 ***

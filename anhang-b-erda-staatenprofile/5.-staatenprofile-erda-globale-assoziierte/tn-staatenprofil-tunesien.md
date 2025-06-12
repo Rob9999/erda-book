@@ -18,7 +18,7 @@ version: "1.0"
 * **Geografische Lage (Kontinent, Region):** Nordafrika, Mittelmeerküste
 * **Bevölkerung (Stand 2023):** 12 200 431^[World Bank, 2023]
 * **Regierungsform & Verfassungsstatus (Stand 2025):** Präsidentiale Republik (Verfassung 2022)
-* **ERDA-Status:** Globale/r Assoziierter
+* 📅 ERDA-Status: Globale/r Assoziierter
 * **Zukünftige Rolle im ERDA-Netzwerk:** Solarenergie-Hub und Brückenstaat Nordafrika (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ### 2. Demografie & Gesellschaft

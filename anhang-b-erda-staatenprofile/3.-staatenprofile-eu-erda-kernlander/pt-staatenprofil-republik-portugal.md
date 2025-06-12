@@ -18,7 +18,7 @@ version: "1.0"
 * 🗺️ **Geografische Lage:** Südwesteuropa, Iberische Halbinsel, Grenze Spanien im Osten und Norden, Atlantikküste im Westen und Süden ([CIA Factbook](https://www.cia.gov/the-world-factbook/countries/portugal/))
 * 👥 **Bevölkerung (2025):** 10 300 000 (geschätzt) ([Worldometers](https://www.worldometers.info/world-population/portugal-population/))
 * 🧠 **Regierungsform & Verfassungsstatus (2025):** Unitarische parlamentarische Republik, Verfassung von 1976 ([Verfassung von Portugal](https://www.portugal.gov.pt/pt/gc21/area-de-governo/justica/conteudos/constitui%C3%A7%C3%A3o-da-rep%C3%BAblica-portuguesa))
-* 📅 **ERDA-Status:** Mitglied
+* 📅 ERDA-Status: Mitglied
 * 🧭 **Rolle im ERDA-Netzwerk (Zukunft):** Maritime Gateway & Renewable Energy Hub
 
 ***

@@ -18,7 +18,7 @@ version: "1.0"
 * 🗺️ Geografische Lage: Ostasien, südlicher Teil der koreanischen Halbinsel
 * 👥 Bevölkerung (2025): ca. 51,8 Mio. (World Bank 2023)
 * 🧠 Regierungsform & Verfassungsstatus (2025): Präsidialrepublik
-* 📅 ERDA-Status: assoziiert
+* 📅 ERDA-Status: Assoziiert
 * 🧭 Rolle im ERDA-Netzwerk (Zukunft): Technologieknoten und Brücke zwischen Ostasien und Europa
 
 ***

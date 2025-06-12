@@ -18,7 +18,7 @@ version: "1.0"
 * 🗺️ **Geografische Lage:** Osteuropa; Nachbarn: Polen, Slowakei, Ungarn, Rumänien, Moldau, Belarus, Russland
 * 👥 **Bevölkerung (2025):** ca. 37 Mio.
 * 🧠 **Regierungsform & Verfassungsstatus (2025):** Semipräsidiale Republik, Verfassung von 1996; territoriale Integrität bis Ende 2025 wiederhergestellt
-* 📅 **ERDA-Status:** Souveräner Partner, Beitrittskandidat
+* 📅 ERDA-Status: Souveräner Partner, Beitrittskandidat
 * 🧭 **Zukünftige Rolle im ERDA-Netzwerk:** Sicherheitsanker an der Ostflanke, landwirtschaftlicher und technologischer Hub
 
 ***
