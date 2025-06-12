@@ -25,13 +25,13 @@ version: "1.0"
 
 ### 2. Demografie & Gesellschaft
 
-* **Bevölkerung (2050/2075-Prognose):** ca. 54,4 Mio. (2050), ca. 47,0 Mio. (2075) ([data.who.int](https://data.who.int/countries/380?utm_source=chatgpt.com), [en.wikipedia.org](https://en.wikipedia.org/wiki/Population_decline?utm_source=chatgpt.com))
+* **Bevölkerung (2050/2075-Prognose):** ca. 54,4 Mio. (2050), ca. 47,0 Mio. (2075) ([data.who.int](https://data.who.int/countries/380), [en.wikipedia.org](https://en.wikipedia.org/wiki/Population_decline))
 * **Altersstruktur:** Medianalter: 47,3 Jahre; 0–14 Jahre: 13,4  %; ≥ 65 Jahre: 23,3  %
-* **Urbanisierung:** 72 % urban ([theodora.com](https://theodora.com/world_fact_book_2023/italy/italy_environment.html?utm_source=chatgpt.com))
-* **Bildung:** Hochschulquote (25–34 J.) 31 % ([ec.europa.eu](https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20240527-1?utm_source=chatgpt.com)); MINT-Anteil bei Hochschulabsolvent:innen: 17 % ([gpseducation.oecd.org](https://gpseducation.oecd.org/Content/EAGCountryNotes/EAG2023_CN_ITA_pdf.pdf?utm_source=chatgpt.com))
-* **Lebenserwartung:** Ø 83,1 Jahre ([reuters.com](https://www.reuters.com/world/europe/births-fall-italy-15th-year-running-record-low-2024-03-29/?utm_source=chatgpt.com))
-* **Migrationssaldo:** +275.000 (2023) ([reuters.com](https://www.reuters.com/world/europe/births-fall-italy-15th-year-running-record-low-2024-03-29/?utm_source=chatgpt.com))
-* **Soziale Kohäsion:** Subjektive Lebenszufriedenheit: 6,2 / 10 ([worldometers.info](https://www.worldometers.info/world-population/italy-population/?utm_source=chatgpt.com)); Vertrauen in Regierung: 33 % ([veriangroup.com](https://veriangroup.com/hubfs/BE/Eurobarometer/Standard-101-Spring%202024.pdf?utm_source=chatgpt.com))
+* **Urbanisierung:** 72 % urban ([theodora.com](https://theodora.com/world_fact_book_2023/italy/italy_environment.html))
+* **Bildung:** Hochschulquote (25–34 J.) 31 % ([ec.europa.eu](https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20240527-1)); MINT-Anteil bei Hochschulabsolvent:innen: 17 % ([gpseducation.oecd.org](https://gpseducation.oecd.org/Content/EAGCountryNotes/EAG2023_CN_ITA_pdf.pdf))
+* **Lebenserwartung:** Ø 83,1 Jahre ([reuters.com](https://www.reuters.com/world/europe/births-fall-italy-15th-year-running-record-low-2024-03-29/))
+* **Migrationssaldo:** +275.000 (2023) ([reuters.com](https://www.reuters.com/world/europe/births-fall-italy-15th-year-running-record-low-2024-03-29/))
+* **Soziale Kohäsion:** Subjektive Lebenszufriedenheit: 6,2 / 10 ([worldometers.info](https://www.worldometers.info/world-population/italy-population/)); Vertrauen in Regierung: 33 % ([veriangroup.com](https://veriangroup.com/hubfs/BE/Eurobarometer/Standard-101-Spring%202024.pdf))
 
 ***
 
@@ -40,8 +40,8 @@ version: "1.0"
 * **BIP (Mrd. EUR):** 2025: 2.150 | 2050: 2.800 | 2075: 3.200
 * **BIP pro Kopf (EUR):** ca. 36.500
 * **Schlüsselindustrien (Top 3):** Maschinenbau, Automobilbau, Luxusgüter & Mode
-* **Automatisierung & Digitalisierung:** 185 Industrieroboter je 10 000 Beschäftigte (2023) ([ec.europa.eu](https://ec.europa.eu/eurostat/statistics-explained/index.php/Education_and_training_statistics_at_regional_level?utm_source=chatgpt.com)) | Prognose 2050: 60 % der Industrieunternehmen
-* **Forschungs- und Innovationsquote:** 1,51 % des BIP ([ipsos.com](https://www.ipsos.com/sites/default/files/ct/news/documents/2023-12/Democracy_fl_522_report_en.pdf?utm_source=chatgpt.com))
+* **Automatisierung & Digitalisierung:** 185 Industrieroboter je 10 000 Beschäftigte (2023) ([ec.europa.eu](https://ec.europa.eu/eurostat/statistics-explained/index.php/Education_and_training_statistics_at_regional_level)) | Prognose 2050: 60 % der Industrieunternehmen
+* **Forschungs- und Innovationsquote:** 1,51 % des BIP ([ipsos.com](https://www.ipsos.com/sites/default/files/ct/news/documents/2023-12/Democracy_fl_522_report_en.pdf))
 * **Patente p.a.:** ca. 21.000 EP-Anmeldungen (2023)
 * **Mitglied in FORTERA-Handelsallianzen:** Ja
 
@@ -55,7 +55,7 @@ version: "1.0"
 
 #### 🌱 Natürliche Ressourcen:
 
-* **Landfläche:** 301 340 km² ([theodora.com](https://theodora.com/world_fact_book_2023/italy/italy_environment.html?utm_source=chatgpt.com))
+* **Landfläche:** 301 340 km² ([theodora.com](https://theodora.com/world_fact_book_2023/italy/italy_environment.html))
 * **Meeresfläche (AWZ):** 541 915 km²
 * **Strategische Rohstoffe:** begrenzte Lithium- & Seltene-Erden-Vorkommen; reichlich Süßwasser in Alpenzuflüssen
 * **Erneuerbare Energiepotenziale:** Solar (Süditalien), Wind (Adria & Sardinien), Geothermie (Toskana)
@@ -94,7 +94,7 @@ version: "1.0"
 ### 6. Kulturelle Identität & Soft Power
 
 * Sprachen: Italienisch; Minderheitensprachen: Sardisch, Deutsch, Französisch
-* UNESCO-Welterbe: 60 Stätten (höchste Zahl weltweit) ([reuters.com](https://www.reuters.com/world/europe/romes-first-highway-added-unesco-world-heritage-list-2024-07-27/?utm_source=chatgpt.com))
+* UNESCO-Welterbe: 60 Stätten (höchste Zahl weltweit) ([reuters.com](https://www.reuters.com/world/europe/romes-first-highway-added-unesco-world-heritage-list-2024-07-27/))
 * Kreativwirtschaft (Index): 7 / 10
 * Internationale Sichtbarkeit: Nobelpreise 20; Olympiamedaillen 176
 * Kultur als Vermittlungsfaktor: 8 / 10
