@@ -44,7 +44,17 @@ version: "1.0"
 * **Forschungs- und Innovationsquote:** 1,06 % des BIP (GERD; 2021) ([EIS 2022](https://economy-finance.ec.europa.eu/system/files/2023-06/ip231_en.pdf))
 * **Patente / Jahr:** 428 nationale Anmeldungen (2023) ([WIPO IE Profil](https://www.wipo.int/edocs/statistics-country-profile/en/ie.pdf))
 * **Mitglied in FORTERA-Handelsallianzen?** Nein
-* **Produktionssouveränität in strategischen Sektoren:** ☐ Energie, ☐ IT, ☐ Verteidigung, ☑ Ernährung
+
+#### 3.1 Infrastrukturautarkie
+
+* Produktionssouveränität in strategischen Sektoren:
+  * Energie ☐
+  * IT/Cloud ☐
+  * Verteidigung ☐
+  * Ernährung ☑
+  * Satellitenkommunikation (IRIS²) ☐
+  * Quantentechnologie ☐
+  * Autonome Logistiksysteme ☐
 
 ***
 
