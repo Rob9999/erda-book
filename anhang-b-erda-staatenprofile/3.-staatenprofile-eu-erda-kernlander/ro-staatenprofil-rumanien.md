@@ -157,7 +157,7 @@ Rum\u00e4nien entwickelt sich vom aufholenden EU-Mitglied zu einem IT- und Energ
 * Demokratie & Rechtsstaatlichkeit: Freedom House, Rule of Law Index.
 
 #### 11.2 \ud83d\udcce Verwendete Quellen & Verweise
-1. World Bank. 2024. "World Development Indicators." [https://data.worldbank.org](https://data.worldbank.org) (Letzter Zugriff am 2025-06-11).
+1. World Bank. 2024. "World Development Indicators." <https://databank.worldbank.org/source/world-development-indicators> (Letzter Zugriff am 2025-06-11).
 2. Eurostat. 2024. "Research and development expenditure." [https://ec.europa.eu/eurostat](https://ec.europa.eu/eurostat) (Letzter Zugriff am 2025-06-11).
 3. United Nations, Department of Economic and Social Affairs, Population Division. 2022. "World Population Prospects 2022." [https://population.un.org/dataportal/](https://population.un.org/dataportal/) (Letzter Zugriff am 2025-06-11).
 4. International Energy Agency. 2024. "Renewables 2024." [https://www.iea.org](https://www.iea.org) (Letzter Zugriff am 2025-06-11).

@@ -184,7 +184,7 @@ Chile vereint stabile demokratische Institutionen mit einem außergewöhnlichen 
 1. United Nations. 2022. „World Population Prospects 2022“. [online] verfügbar unter: <https://population.un.org/wpp/> (Letzter Zugriff am 2025-06-11).
 
 **Wirtschaft & Innovation**
-2. World Bank. 2024. „World Development Indicators“. [online] verfügbar unter: <https://data.worldbank.org/> (Letzter Zugriff am 2025-06-11).
+2. World Bank. 2024. „World Development Indicators“. [online] verfügbar unter: <https://databank.worldbank.org/source/world-development-indicators> (Letzter Zugriff am 2025-06-11).
 
 **Energie & Ressourcen**
 3. International Energy Agency. 2024. „World Energy Outlook 2024“. [online] verfügbar unter: <https://www.iea.org/reports/world-energy-outlook-2024> (Letzter Zugriff am 2025-06-11).

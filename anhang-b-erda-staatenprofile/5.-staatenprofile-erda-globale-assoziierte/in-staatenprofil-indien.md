@@ -161,7 +161,7 @@ Indien ist eine dynamische Demokratie mit schneller wirtschaftlicher Entwicklung
 
 ### 11.2 📎 Verwendete Quellen & Verweise
 1. United Nations. 2022. *World Population Prospects 2022*. [online] verfügbar unter: <https://population.un.org/wpp/> (Letzter Zugriff am 2025-06-11).
-2. World Bank. 2024. *World Development Indicators*. [online] verfügbar unter: <https://data.worldbank.org/> (Letzter Zugriff am 2025-06-11).
+2. World Bank. 2024. *World Development Indicators*. [online] verfügbar unter: <https://databank.worldbank.org/source/world-development-indicators> (Letzter Zugriff am 2025-06-11).
 3. UNESCO Institute for Statistics. 2023. *Education Data*. [online] verfügbar unter: <https://uis.unesco.org/> (Letzter Zugriff am 2025-06-11).
 4. Freedom House. 2024. *Freedom in the World 2024*. [online] verfügbar unter: <https://freedomhouse.org/> (Letzter Zugriff am 2025-06-11).
 5. World Justice Project. 2023. *Rule of Law Index*. [online] verfügbar unter: <https://worldjusticeproject.org/> (Letzter Zugriff am 2025-06-11).

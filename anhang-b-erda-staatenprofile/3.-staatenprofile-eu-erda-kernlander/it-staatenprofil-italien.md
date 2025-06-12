@@ -27,10 +27,10 @@ version: "1.0"
 
 * **Bevölkerung (2050/2075-Prognose):** ca. 54,4 Mio. (2050), ca. 47,0 Mio. (2075) ([data.who.int](https://data.who.int/countries/380), [en.wikipedia.org](https://en.wikipedia.org/wiki/Population_decline))
 * **Altersstruktur:** Medianalter: 47,3 Jahre; 0–14 Jahre: 13,4  %; ≥ 65 Jahre: 23,3  %
-* **Urbanisierung:** 72 % urban ([theodora.com](https://theodora.com/world_fact_book_2023/italy/italy_environment.html))
+* **Urbanisierung:** 72 % urban ([cia.gov](https://www.cia.gov/the-world-factbook/countries/italy/#environment))
 * **Bildung:** Hochschulquote (25–34 J.) 31 % ([ec.europa.eu](https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20240527-1)); MINT-Anteil bei Hochschulabsolvent:innen: 17 % ([gpseducation.oecd.org](https://gpseducation.oecd.org/Content/EAGCountryNotes/EAG2023_CN_ITA_pdf.pdf))
-* **Lebenserwartung:** Ø 83,1 Jahre ([reuters.com](https://www.reuters.com/world/europe/births-fall-italy-15th-year-running-record-low-2024-03-29/))
-* **Migrationssaldo:** +275.000 (2023) ([reuters.com](https://www.reuters.com/world/europe/births-fall-italy-15th-year-running-record-low-2024-03-29/))
+* **Lebenserwartung:** Ø 83,1 Jahre ([euronews.com](https://www.euronews.com/my-europe/2024/05/10/italys-falling-birth-rate-is-a-crisis-thats-only-getting-worse))
+* **Migrationssaldo:** +275.000 (2023) ([euronews.com](https://www.euronews.com/my-europe/2024/05/10/italys-falling-birth-rate-is-a-crisis-thats-only-getting-worse))
 * **Soziale Kohäsion:** Subjektive Lebenszufriedenheit: 6,2 / 10 ([worldometers.info](https://www.worldometers.info/world-population/italy-population/)); Vertrauen in Regierung: 33 % ([veriangroup.com](https://veriangroup.com/hubfs/BE/Eurobarometer/Standard-101-Spring%202024.pdf))
 
 ***
@@ -55,7 +55,7 @@ version: "1.0"
 
 #### 🌱 Natürliche Ressourcen:
 
-* **Landfläche:** 301 340 km² ([theodora.com](https://theodora.com/world_fact_book_2023/italy/italy_environment.html))
+* **Landfläche:** 301 340 km² ([cia.gov](https://www.cia.gov/the-world-factbook/countries/italy/#environment))
 * **Meeresfläche (AWZ):** 541 915 km²
 * **Strategische Rohstoffe:** begrenzte Lithium- & Seltene-Erden-Vorkommen; reichlich Süßwasser in Alpenzuflüssen
 * **Erneuerbare Energiepotenziale:** Solar (Süditalien), Wind (Adria & Sardinien), Geothermie (Toskana)
@@ -94,7 +94,7 @@ version: "1.0"
 ### 6. Kulturelle Identität & Soft Power
 
 * Sprachen: Italienisch; Minderheitensprachen: Sardisch, Deutsch, Französisch
-* UNESCO-Welterbe: 60 Stätten (höchste Zahl weltweit) ([reuters.com](https://www.reuters.com/world/europe/romes-first-highway-added-unesco-world-heritage-list-2024-07-27/))
+* UNESCO-Welterbe: 60 Stätten (höchste Zahl weltweit) ([smithsonianmag.com](https://www.smithsonianmag.com/smart-news/ancient-romes-stone-highway-has-become-a-world-heritage-site-180984788/))
 * Kreativwirtschaft (Index): 7 / 10
 * Internationale Sichtbarkeit: Nobelpreise 20; Olympiamedaillen 176
 * Kultur als Vermittlungsfaktor: 8 / 10
@@ -174,7 +174,7 @@ Italien verbindet mediterrane Lebensart mit technologischer Ambition. Kulturelle
 
 #### Gesundheit & Lebenserwartung
 
-* **World Health Organization (WHO)**: Lebenserwartungsdaten, https://www.who.int/data
+* **World Health Organization (WHO)**: Lebenserwartungsdaten, <https://www.who.int/data/gho/data/indicators/indicator-details/GHO/life-expectancy-at-birth-(years)>
 * **Reuters**: Artikel "Births fall in Italy", Geburten- und Migrationsstatistiken, https://www.reuters.com/
 
 #### Innovation & Patente

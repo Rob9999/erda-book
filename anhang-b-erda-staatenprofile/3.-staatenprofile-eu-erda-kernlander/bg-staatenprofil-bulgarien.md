@@ -161,7 +161,7 @@ Bulgarien ist ein traditionsreiches Balkanland mit EU-Mitgliedschaft und wachsen
 
 ### 11.2 📎 Verwendete Quellen & Verweise
 
-1. World Bank. 2024. "World Development Indicators". [https://data.worldbank.org](https://data.worldbank.org) (Letzter Zugriff am 2025-06-11).
+1. World Bank. 2024. "World Development Indicators". <https://databank.worldbank.org/source/world-development-indicators> (Letzter Zugriff am 2025-06-11).
 2. Freedom House. 2024. "Freedom in the World 2024: Bulgaria". [https://freedomhouse.org](https://freedomhouse.org) (Letzter Zugriff am 2025-06-11).
 3. European Environment Agency. 2023. "Bulgaria Country Profile". [https://www.eea.europa.eu](https://www.eea.europa.eu) (Letzter Zugriff am 2025-06-11).
 4. OECD. 2022. "Education at a Glance". [https://www.oecd.org](https://www.oecd.org) (Letzter Zugriff am 2025-06-11).

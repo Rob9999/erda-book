@@ -174,7 +174,7 @@ Adria und Balkan.
 
 **Demografie & Gesellschaft**
 * **Quelle:** Eurostat, https://ec.europa.eu/eurostat
-* **Modell:** UN Population Projections 2022, https://population.un.org
+* **Modell:** UN Population Projections 2022, <https://population.un.org/wpp/Download/Files/1_INDICATORS%20(Standard)/EXCEL_FILES/1_Population/WPP2022_POP_F07_1_TOTAL_POPULATION_BOTH_SEXES.xlsx> *(hypothetical)*
 
 **Wirtschaft & Innovation**
 * **Quelle:** OECD Economic Outlook, https://www.oecd.org/economic-outlook/
@@ -185,7 +185,7 @@ Adria und Balkan.
 * **Modell:** CEDEFOP Future Skills Slovenia
 
 **Gesundheit & Lebenserwartung**
-* **Quelle:** WHO Country Profile Slovenia, https://www.who.int
+* **Quelle:** WHO Country Profile Slovenia *(hypothetical)*
 * **Modell:** Global Burden of Disease Data Slovenia
 
 **Innovation & Patente**

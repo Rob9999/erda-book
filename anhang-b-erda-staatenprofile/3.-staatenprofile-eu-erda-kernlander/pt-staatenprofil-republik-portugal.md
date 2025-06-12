@@ -71,7 +71,7 @@ version: "1.0"
 
 * **Ehrenamt & Gemeinschaft:** 37 % Freiwilligenrate (2023) ([Eurostat Quality of Life](https://ec.europa.eu/eurostat))
 * **Civic‑Tech-Nutzung:** Participação.gov.pt Plattform ([Governo de Portugal](https://participacao.portugal.gov.pt))
-* **Gesundheitssystem:** Universelles NHS-ähnliches System; Präventionsausgaben 9,5 % BIP (2022) ([WHO](https://www.who.int))
+* **Gesundheitssystem:** Universelles NHS-ähnliches System; Präventionsausgaben 9,5 % BIP (2022) ([WHO NHA Database](https://apps.who.int/nha/database))
 
 #### 🛡️ Politische Ressourcen:
 

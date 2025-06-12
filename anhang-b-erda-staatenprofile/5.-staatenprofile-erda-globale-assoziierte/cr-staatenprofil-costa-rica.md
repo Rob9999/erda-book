@@ -156,7 +156,7 @@ Costa Rica gilt als Vorreiter für nachhaltige Entwicklung und stabile Demokrati
 
 #### 11.2 📎 Verwendete Quellen & Verweise
 
-1. **World Bank.** 2024. „World Development Indicators“. <https://data.worldbank.org> (Letzter Zugriff am 2025-06-12).
+1. **World Bank.** 2024. „World Development Indicators“. <https://databank.worldbank.org/source/world-development-indicators> (Letzter Zugriff am 2025-06-12).
 2. **UNESCO Institute for Statistics.** 2023. „Costa Rica Education“. <https://uis.unesco.org> (Letzter Zugriff am 2025-06-12).
 3. **WIPO.** 2023. „Patent Applications by Origin“. <https://www.wipo.int> (Letzter Zugriff am 2025-06-12).
 4. **Freedom House.** 2024. „Freedom in the World 2024 – Costa Rica“. <https://freedomhouse.org> (Letzter Zugriff am 2025-06-12).
