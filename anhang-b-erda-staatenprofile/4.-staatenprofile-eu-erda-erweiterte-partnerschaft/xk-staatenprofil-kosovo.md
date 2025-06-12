@@ -15,59 +15,152 @@ version: "1.0"
 ### 1. Überblick (Meta)
 
 * 🏳️ Offizieller Name: Republik Kosovo (Republika e Kosovës)
-* 🗺️ Geografische Lage: Südosteuropa, Zentralbalkan; grenzt an Albanien, Nordmazedonien, Serbien und Montenegro
-* 👥 Bevölkerung (2023): ca. 1,76 Mio.[1]
+* 🗺️ Geografische Lage (Kontinent, Region): Südosteuropa, Zentralbalkan; grenzt an Albanien, Nordmazedonien, Serbien und Montenegro
+* 👥 Bevölkerung (2025): ca. 1,76 Mio.[1]
 * 🧑‍⚖️ Regierungsform & Verfassungsstatus (2025): Parlamentarische Republik; begrenzte internationale Anerkennung
 * 📅 ERDA-Status: Beobachter
-* 🧭 Rolle im ERDA-Netzwerk (Zukunft): Digitaler Entwicklungspartner und Brücke zur Westbalkanregion
+* 🧭 Zukünftige Rolle im ERDA-Netzwerk: Digitaler Entwicklungspartner und Brücke zur Westbalkanregion
+
+***
 
 ### 2. Demografie & Gesellschaft
 
-* Bevölkerung (2050/2075-Prognose): Daten nach UN DESA mittleres Szenario (2030: ca. 1,77 Mio.)[2]
-* Altersstruktur (Medianalter, Jugendanteil, Altenquotient): 32 Jahre, 22 % unter 15, 15 % über 65[2]
-* Urbanisierung (%): rund 30 %[2]
+* Bevölkerung Prognose (2050 / 2075): 1,8 Mio. / 1,8 Mio. (UN DESA 2022, hypothetisch)
+* Altersstruktur (Medianalter, Jugendanteil %, Altenquotient): 32 Jahre, 22 % unter 15, 15 % über 65[2]
+* Urbanisierungsgrad (%): rund 30 %[2]
+* Durchschnittliche Bildung (Schuljahre, Hochschulquote %, MINT-Fächer %): 9 Jahre, 25 % (hypothetisch), 15 % (hypothetisch)
+* Lebenserwartung (Jahre): 76[4]
+* Migrationssaldo pro Jahr (Durchschnitt 2025–2075): n/b
+* Soziale Kohäsion (Zufriedenheitsindex [0–10], Demokratievertrauen [%]): n/b
+
+***
 
 ### 3. Wirtschaft & Innovation
 
-* BIP (nominal, 2023): ca. 10,5 Mrd. USD[3]
-* BIP pro Kopf (2023): rund 6.000 USD[3]
-* Wichtigste Sektoren: Dienstleistungen, verarbeitendes Gewerbe, Bergbau
-* Innovation & Start-up-Ökosystem: wachsende IT-Branche, Fokus auf Outsourcing
+* Bruttoinlandsprodukt (BIP real, heute / 2050 / 2075 in Mrd. EUR): 10 (2023) / 20 (p) / 30 (p)
+* BIP pro Kopf (EUR): rund 5 500 (2023)
+* Top-3 Schlüsselindustrien: Dienstleistungen, verarbeitendes Gewerbe, Bergbau
+* Anteil Automatisierung & Digitalisierung (heute / 2050 in %): 30 % / 55 % (p)
+* Forschungs- und Innovationsquote (% des BIP): 0,2 % (Schätzung)[7]
+* Patente pro Jahr (Trend, Durchschnitt): n/b
+* Mitglied in FORTERA-Handelsallianzen: Nein
+* Mitglied im Democracy Trade Network: Beobachter
+* Nutzung von EHAM+ (Handelsabwehr) [0–10]: 2
 
-### 4. Soziale Entwicklung
+#### 3.1 Infrastrukturautarkie
 
-* Lebenserwartung (2022): 76 Jahre[4]
-* Human Development Index (2022): 0,744[5]
-* Bildungsniveau: verpflichtende neun Jahre Schulbildung, steigende Hochschulquote
+* Energie ☑
+* IT/Cloud ☐
+* Verteidigung ☐
+* Ernährung ☑
+* Satellitenkommunikation (IRIS²) ☐
+* Quantentechnologie ☐
+* Autonome Logistiksysteme ☐
 
-### 5. Gesundheit & Lebenserwartung
+***
 
-* Gesundheitsausgaben (2022): 9 % des BIP[6]
-* Schlüsselfaktoren: Stärkung primärer Gesundheitsversorgung, digitale Gesundheitsdienste
+### 4. Ressourcenprofil
 
-### 6. Innovation & Patente
+#### Natürliche Ressourcen
 
-* Forschungsquote (2022): 0,2 % des BIP (Schätzung)[7]
-* Digitale Agenda: Ausbau der Breitbandinfrastruktur durch EU- und Weltbankprojekte
+* Landfläche (km²): ca. 10 900
+* Meeresfläche (falls relevant, km²): keine
+* Strategische Rohstoffe: Lignite, Nickel, Blei (begrenzte Vorkommen)
+* Erneuerbare Energiepotenziale: Wasserkraft (hoch), Solar (mittel), Wind (mittel)
+* Anteil Biodiversität & Schutzgebiete (% der Fläche): 15 % (hypothetisch)
+* Nachhaltigkeitskennzahlen (CO₂-Ausstoß pro Kopf, Recyclingquote, Materialverbrauch pro Kopf): 7 t, 25 % (hypothetisch), n/b
 
-### 7. Umwelt & Ressourcen
+#### Soziale Ressourcen
 
-* Erneuerbare-Energie-Anteil (2023): 6 %[8]
-* Prioritäten: Nutzung von Wasserkraft, Ausbau von Solar- und Windenergie
+* Ehrenamt & Gemeinschaftskultur (Index [0–10]): 6 (hypothetisch)
+* CIVITAS-Partizipationsindex [0–10]: 5 (hypothetisch)
+* Gesundheitssystem (Zugänglichkeit [0–10], Prävention [0–10]): 6 / 5
 
-### 8. Sicherheit & Verteidigung
+#### Politische Ressourcen
 
-* NATO-Präsenz: KFOR-Mission seit 1999[9]
-* Nationale Sicherheitsstrategie: Fokus auf regionale Stabilität und Kooperation
+* Verfassungsbindung: Ja
+* Direkte Demokratieinstrumente: Nicht vorhanden
+* Demokratiequalitätsindex (Freedom House 2024): 56/100
+* Bürgerpartizipationsquote (lokal/national) [%]: 40 % (hypothetisch)
+* Rechtsstaatlichkeitsindex [0–10]: 4,5 (hypothetisch)
+* Internationale Vertrauenswerte [0–10]: 4 (hypothetisch)
 
-### 9. Politische & institutionelle Grundlagen
+***
 
-* EU-Perspektive: Potenzieller EU-Beitrittskandidat, Antrag auf EU-Mitgliedschaft am 15. Dezember 2022 gestellt[10]
-* Demokratische Kennziffern: Freedom House „Partly Free“ 2024, Score 56/100[11]
+### 5. Sicherheit & Strategische Rolle (EDA)
+
+* Militärisches Potenzial:
+  * DSN-geeignet ☐
+  * Cyberkommando ☐
+  * Frühwarnsystem ☐
+* Verteidigungsausgaben (% des BIP): 1,2 % (hypothetisch)
+* Rolle im Arctic/Nordmeer/Atlantik-Raum: keine
+* Rolle im Mitteleuropa/Osteuropa/Westeuropa-Raum: Stabilisierungspartner im Westbalkan
+* Rolle im Südeuropa/Afrika/Asien-Raum: Verbindungsglied zu Zentralbalkan
+* Rolle im Globalen/Solar Alliance-Raum: Beobachtend
+* Zivile Resilienzprogramme ☐
+* Drohnen-/Raumfahrt-/KI-Kapazitäten ☐
+
+***
+
+### 6. Kulturelle Identität & Soft Power
+
+* Sprachen / Indigene Kulturen: Albanisch; Minderheitensprachen Serbisch, Türkisch, Bosnisch
+* UNESCO-Welterbe / Kulturstätten (Anzahl): 2
+* Kreativwirtschaft (Stärke in Musik, Film, Design [0–10]): 4 (hypothetisch)
+* Internationale Sichtbarkeit (Olympische Spiele, Nobelpreise, etc.): gering
+* Rolle der Kultur als Vermittlungsfaktor in Demokratienetzwerken [0–10]: 5 (hypothetisch)
+
+***
+
+### 7. Entwicklungspfad (2025–2075)
+
+#### Szenario-Entwicklung
+
+* Status 2025: junger Staat mit EU-Perspektive und internationaler KFOR-Unterstützung
+* Best Case 2075: voll integrierter Digital-Hub des Westbalkans
+* Base Case 2075: stetiger Aufbau staatlicher Institutionen und moderates Wachstum
+* Worst Case 2075: anhaltende politische Spannungen und Abwanderung bremsen Fortschritte
+
+#### Rolle in der ERDA-Vision 2075
+
+* Beitrag zur Post-Knappheitsökonomischen Ordnung: digitale Dienstleistungen und Fachkräfte
+* Demokratische Resilienz (sozial, kulturell, ökologisch): mittel
+* Exemplarische Wirkung auf andere Staaten / Regionen: Brücke zwischen EU und Westbalkan
+
+***
+
+### 8. Narrative & Anwerbewirkung
+
+> _"Kosovo zeigt, wie ein kleiner Staat durch Entschlossenheit und internationale Partnerschaften an Stabilität und Wohlstand gewinnt."_
+
+* Selbstwirksamkeit: junge, engagierte Bevölkerung
+* Zukunftswürde: Stolz auf Unabhängigkeit und kulturelles Erbe
+* Einladung an andere Staaten & Bürger:innen: Kooperation in Digitalisierung und Bildung
+
+***
+
+### 9. Kennzahlenübersicht (Kurzform)
+
+| Indikator                             | 2025 | 2050 | 2075 | EU-Durchschnitt 2024 (Benchmark) |
+| ------------------------------------- | ---- | ---- | ---- | -------------------------------- |
+| BIP (Mrd. EUR)                        | 10   | 20 (p) | 30 (p) | 16 556 |
+| Bevölkerung                           | 1,76 Mio. | 1,8 Mio. (p) | 1,8 Mio. (p) | 447 Mio. |
+| Anteil Erneuerbare Energien (%)       | 6    | 25 (p) | 40 (p) | 37 |
+| Lebenserwartung (Jahre)               | 76   | 78 (p) | 80 (p) | 81 |
+| Bildungsquote (%)                     | 25   | 30 (p) | 35 (p) | 40 |
+| KI-Kapazität [0–10]                   | 2    | 4 (p) | 6 (p) | 5 |
+| Zivilgesellschaftlicher Index [0–10]  | n/b  | 5 (p) | 6 (p) | 6 |
+
+Hinweise: (p) – Prognose (UN DESA 2022, hypothetisch), n/b – nicht belegt
+
+***
 
 ### 10. Kurzfassung: „Kosovo auf einen Blick“
 
 Kosovo ist ein junger Staat im Westbalkan mit dynamischer Bevölkerung und klarer EU-Perspektive. Trotz anhaltender Anerkennungsfragen entwickeln sich Wirtschaft und IT-Sektor stetig. Internationale Partnerschaften und die KFOR-Mission sorgen für Stabilität und Chancen zur weiteren Integration in europäische Strukturen.
+
+***
 
 ### 11. Quellen & Modellierungen
 
