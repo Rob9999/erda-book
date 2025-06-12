@@ -52,7 +52,16 @@ version: "1.0"
 * **Forschungs- und Innovationsquote:** 1,05 % des BIP (2022) ([Eurostat](https://ec.europa.eu/eurostat/data/database))
 * **Patente / Jahr:** 208 nationale Anmeldungen (2023) ([WIPO Latvia-Profil](https://www.wipo.int/edocs/statistics-country-profile/en/lv.pdf))
 * **Mitglied in FORTERA-Handelsallianzen?:** Nein
-* **Produktionssouveränität:** ☑ Energie, ☐ IT, ☐ Verteidigung, ☑ Ernährung
+
+#### 3.1 Infrastrukturautarkie
+
+* Energie ☑
+* IT/Cloud ☐
+* Verteidigung ☐
+* Ernährung ☑
+* IRIS² ☐
+* Quantentechnologie ☐
+* Autonome Logistiksysteme ☐
 
 ***
 
