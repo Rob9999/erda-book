@@ -53,7 +53,7 @@ version: "1.0"
 * **Automatisierungs-/Digitalisierungsgrad:** 25 % der Industrieprozesse ([McKinsey MGI](https://www.mckinsey.com/featured-insights/innovation-and-growth))
 * **F\&E-Quote (2023):** 2,5 % des BIP ([Eurostat rd\_e\_gerdtot](https://ec.europa.eu/eurostat/databrowser/view/rd_e_gerdtot/default/table))
 * **Patente/Jahr:** ≈ 4 500 Anmeldungen ([WIPO IP Statistics](https://www.wipo.int/ipstats/en/))
-* **Mitgliedschaften & Allianzen:** FORTERA Alliance Mitglied ([FORTERA](https://fortera.org))
+* **Mitgliedschaften & Allianzen:** FORTERA Alliance Mitglied (hypothetische Organisation – zur Initiierung empfohlen)
 #### 3.1 Infrastrukturautarkie
 
 * **Produktionssouveränität:** Energie ✔ | IT ✔ | Verteidigung ✘ | Ernährung ✔
@@ -187,8 +187,7 @@ _"Belgien ist im Jahr 2075 ein führender Cyber- und Kulturhub innerhalb der ERD
     Online verfügbar unter: [https://ec.europa.eu/eurostat/databrowser/view/rd\_e\_gerdtot/default/table](https://ec.europa.eu/eurostat/databrowser/view/rd_e_gerdtot/default/table) (Zugriff am 2025-05-28).
 20. _World Intellectual Property Organization (2024):_ _IP Statistics Data Center._ Geneva: WIPO.\
     Online verfügbar unter: [https://www.wipo.int/ipstats/en/](https://www.wipo.int/ipstats/en/) (Zugriff am 2025-05-28).
-21. _FORTERA Alliance (2025):_ _Members and Partnerships._\
-    Online verfügbar unter: [https://fortera.org/members-partnerships](https://fortera.org/members-partnerships) (Zugriff am 2025-05-28).
+21. _FORTERA Alliance (hypothetische Organisation – zur Initiierung empfohlen, o.J.):_ _Members and Partnerships._
 
 ##### D. Ressourcenprofil
 
