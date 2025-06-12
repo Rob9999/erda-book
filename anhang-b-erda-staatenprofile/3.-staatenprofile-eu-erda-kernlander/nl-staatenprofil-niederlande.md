@@ -52,6 +52,13 @@ version: "1.0"
   * Verteidigung ☑
   * Ernährung ☑
 
+#### 3.1 Infrastrukturautarkie
+
+* Energie ☑, IT/Cloud ☑, Verteidigung ☑, Ernährung ☑
+* Satellitenkommunikation (IRIS²) ☑
+* Quantentechnologie ☐
+* Autonome Logistiksysteme ☑
+
 ***
 
 ### 4. Ressourcenprofil
