@@ -19,7 +19,7 @@ version: "1.0"
 * 🗺️ **Geografische Lage:** Mitteleuropa
 * 👥 **Bevölkerung (2025):** ca. 83,5 Mio. Einw. ([Destatis – Bevölkerungsstand](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Bevoelkerungsstand/_inhalt.html))
 * 🧠 **Regierungsform & Verfassungsstatus (2025):** Parlamentarische Demokratie, Grundgesetz (Verfassungsbindung: Ja)
-* 📅 **ERDA-Status:** Mitglied
+* 📅 ERDA-Status: Mitglied
 * 🧭 **Rolle im ERDA-Netzwerk (Zukunft):** Innovationsmotor, Cyberhub, Verteidigungsdrehkreuz, Bildungsexporteur
 
 ***

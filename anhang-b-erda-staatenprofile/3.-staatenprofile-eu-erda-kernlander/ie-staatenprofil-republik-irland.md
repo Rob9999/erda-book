@@ -18,7 +18,7 @@ version: "1.0"
 * 🗺️ **Geografische Lage:** Nordwest-Europa, Insel Irland, Zugang zum Atlantik (Küste 1 448 km) ([CIA Factbook](https://www.cia.gov/the-world-factbook/countries/ireland/))
 * 👥 **Bevölkerung (2025):** 5 308 039 ([Worldometers](https://www.worldometers.info/world-population/ireland-population/))
 * 🧠 **Regierungsform & Verfassungsstatus (2025):** Unitary parliamentary republic, Verfassung von 1937 ([Gov.ie](https://www.gov.ie/departments/department-of-public-expenditure-and-reform/))
-* 📅 **ERDA-Status:** Mitglied
+* 📅 ERDA-Status: Mitglied
 * 🧭 **Rolle im ERDA-Netzwerk (Zukunft):** Bildungs- und Digitalisierungsnation, Cyberhub
 
 ***

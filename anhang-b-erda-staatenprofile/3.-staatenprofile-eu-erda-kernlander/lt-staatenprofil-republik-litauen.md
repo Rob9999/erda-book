@@ -18,7 +18,7 @@ version: "1.0"
 * 🗺️ **Geografische Lage:** Nordeuropa, Ostseestaat, Grenze zu Lettland, Belarus, Polen, Russland (Kaliningrad) ([CIA Factbook](https://www.cia.gov/the-world-factbook/countries/lithuania/))
 * 👥 **Bevölkerung (2025):** 2 830 144 ([Worldometer](https://www.worldometers.info/world-population/lithuania-population/)) citeturn7search1
 * 🧠 **Regierungsform & Verfassungsstatus (2025):** Parlamentarische Republik, Verfassung von 1992 ([Seimas](https://www.lrs.lt/sip/portal.show?p_r=8804))
-* 📅 **ERDA-Status:** Mitglied
+* 📅 ERDA-Status: Mitglied
 * 🧭 **Rolle im ERDA-Netzwerk (Zukunft):** Digitalisierungs- und Innovationshub, Brückenbauer an Rand der EU
 
 ***

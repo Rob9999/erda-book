@@ -18,7 +18,7 @@ version: "1.0"
 * **Geografische Lage:** Südeuropa, italienische Halbinsel im Mittelmeer
 * **Bevölkerung (2025):** ca. 58,93 Mio.
 * **Regierungsform & Verfassungsstatus (2025):** Parlamentarische Republik, Verfassung 1948 (Verfassungsbindung: Ja)
-* **ERDA-Status:** Mitglied
+* 📅 ERDA-Status: Mitglied
 * **Rolle im ERDA-Netzwerk (Zukunft):** Kulturvermittler, Tourismus-Hub, Nahrungsmittel- & Luxusgüter-Expertise
 
 ***

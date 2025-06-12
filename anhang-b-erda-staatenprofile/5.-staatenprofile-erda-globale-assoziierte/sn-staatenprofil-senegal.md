@@ -18,7 +18,7 @@ version: "1.0"
 * 🗺️ Geografische Lage: Westafrika; grenzt an Mauretanien, Mali, Guinea, Guinea-Bissau und Gambia, Atlantikküste
 * 👥 Bevölkerung (2023): 18,1 Mio.[^wb-pop]
 * 🧠 Regierungsform & Verfassungsstatus (2025): Semipräsidentielle Republik
-* 📅 ERDA-Status: Global assoziiert
+* 📅 ERDA-Status: Globale/r Assoziierter
 * 🧭 Rolle im ERDA-Netzwerk (Zukunft): Brückenknoten Westafrika, erneuerbare Energiepartnerschaften (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***

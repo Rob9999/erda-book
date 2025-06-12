@@ -18,7 +18,7 @@ version: "1.0"
 * 🗺️ **Geografische Lage:** Nördliches Baltikum, grenzt an Estland, Russland, Belarus, Litauen; Ostseeküste 494 km ([CIA Factbook](https://www.cia.gov/the-world-factbook/countries/latvia/))
 * 👥 **Bevölkerung (2025):** 1 855 000 (Schätzung; 1 Juni 2024: 1 861 900) ([Demographics of Latvia, Wikipedia](https://en.wikipedia.org/wiki/Demographics_of_Latvia))
 * 🧠 **Regierungsform & Verfassungsstatus (2025):** Parlamentarische Republik, Verfassung von 1922 (rev. regelmäßig) ([Saeima](https://www.saeima.lv/))
-* 📅 **ERDA-Status:** Mitglied
+* 📅 ERDA-Status: Mitglied
 * 🧭 **Rolle im ERDA-Netzwerk (Zukunft):** Cyberhub & Digitales Transformationszentrum
 
 ***

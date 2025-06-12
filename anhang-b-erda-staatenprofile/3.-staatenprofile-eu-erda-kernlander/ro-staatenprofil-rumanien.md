@@ -18,7 +18,7 @@ version: "1.0"
 * \ud83d\uddfa\ufe0f Geografische Lage: S\u00fcdosteuropa, Grenzstaat am Schwarzen Meer, grenzt an Bulgarien, Serbien, Ungarn, Moldau und die Ukraine
 * \ud83d\udc65 Bev\u00f6lkerung (2025): ca. 19 Mio. (World Bank 2023)
 * \ud83e\uddee Regierungsform & Verfassungsstatus (2025): Semipr\u00e4sidentielle Republik, Mitglied der EU und NATO
-* \ud83d\udcc5 ERDA-Status: Mitglied
+* 📅 ERDA-Status: Mitglied
 * \ud83d\udd2c Rolle im ERDA-Netzwerk (Zukunft): Schwarzmeer-Br\u00fcckenstaat, IT- und Ingenieurshub, Landwirtschafts- und Energiepotenzial
 
 ***

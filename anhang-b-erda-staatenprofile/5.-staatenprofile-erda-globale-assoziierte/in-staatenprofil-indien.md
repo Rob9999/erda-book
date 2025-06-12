@@ -16,7 +16,7 @@ version: "1.0"
 * Geografische Lage (Kontinent, Region): Südasien; grenzt u.a. an Pakistan, China, Nepal und Bangladesch
 * Bevölkerung (Stand 2025): ca. 1,46 Mrd. (UN World Population Prospects 2022)
 * Regierungsform & Verfassungsstatus (Stand 2025): Parlamentarische Bundesrepublik
-* ERDA-Status [assoziiert | Mitglied | Beitrittskandidat | souveräner Partner]: assoziiert
+* 📅 ERDA-Status: Assoziiert
 * Zukünftige Rolle im ERDA-Netzwerk: Digital-Hub & Entwicklungspartner in Asien
 
 ## 2. Demografie & Gesellschaft

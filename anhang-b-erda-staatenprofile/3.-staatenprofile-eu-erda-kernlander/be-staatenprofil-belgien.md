@@ -22,7 +22,7 @@ version: "1.0"
 * **Regierungsform & Verfassungsstatus:**\
   Föderale parlamentarische konstitutionelle Monarchie (Verfassung von 1831)\
   Details: [Belgium.be](https://www.belgium.be/de/ueber_belgien/staat/federale_staat)
-* **ERDA-Status:** Vollmitglied
+* 📅 ERDA-Status: Mitglied
 * **Rolle im ERDA-Netzwerk (Zukunft):** Cyberhub & Kulturvermittler\
   (Quelle: interne ERDA-Projektdokumentation)
 

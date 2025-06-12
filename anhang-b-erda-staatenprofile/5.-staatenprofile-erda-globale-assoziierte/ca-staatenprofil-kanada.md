@@ -18,7 +18,7 @@ version: "1.0"
 * 🗺️ Geografische Lage: Nordamerika; grenzt an die USA, den Atlantik, den Pazifik und die Arktis
 * 👥 Bevölkerung (2023): 40,1 Mio.[^wb-pop]
 * 🧠 Regierungsform & Verfassungsstatus (2025): Föderale parlamentarische Demokratie, konstitutionelle Monarchie
-* 📅 ERDA-Status: Global assoziiert
+* 📅 ERDA-Status: Globale/r Assoziierter
 * 🧭 Rolle im ERDA-Netzwerk (Zukunft): Arktisknoten und Rohstoff‑/Innovationspartner (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***

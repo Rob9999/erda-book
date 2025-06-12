@@ -18,7 +18,7 @@ version: "1.0"
 * 🗺️ **Geografische Lage:** Nordeuropa, Skandinavien, zwischen Nordsee und Ostsee
 * 👥 **Bevölkerung (2025):** ca. 5,98 Mio.
 * 🧠 **Regierungsform & Verfassungsstatus (2025):** Unitarische parlamentarische konstitutionelle Monarchie, Verfassungsbindung: Ja
-* 📅 **ERDA-Status:** Mitglied
+* 📅 ERDA-Status: Mitglied
 * 🧭 **Rolle im ERDA-Netzwerk (Zukunft):** Arktisknoten (via Grönland), Innovations- und Nachhaltigkeitsexporteur
 
 ***

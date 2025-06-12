@@ -16,7 +16,7 @@ version: "1.0"
 * Geografische Lage (Kontinent, Region): Südosteuropa, Balkan, Schwarzmeerküste
 * Bevölkerung (Stand 2025): ca. 6,45 Mio. (World Bank 2023)
 * Regierungsform & Verfassungsstatus (Stand 2025): Parlamentarische Republik, EU- und NATO-Mitglied
-* ERDA-Status [assoziiert | Mitglied | Beitrittskandidat | souveräner Partner]: Mitglied
+* 📅 ERDA-Status: Mitglied
 * Zukünftige Rolle im ERDA-Netzwerk: Brückenknoten Balkan-Schwarzmeer, Digitalisierungsdrehscheibe
 
 ## 2. Demografie & Gesellschaft

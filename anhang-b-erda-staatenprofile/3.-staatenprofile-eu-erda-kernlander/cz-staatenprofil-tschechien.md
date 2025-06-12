@@ -18,7 +18,7 @@ version: "1.0"
 * 📺 Geografische Lage: Mitteleuropa, Nachbarstaaten: Deutschland, Polen, Österreich, Slowakei
 * 👥 Bevölkerung (2025): ca. 10,5 Mio.
 * 🧠 Regierungsform & Verfassungsstatus (2025): Parlamentarische Demokratie, Verfassungsbindung: Ja
-* 🗓️ ERDA-Status: Mitglied
+* 📅 ERDA-Status: Mitglied
 * 🗺️ Rolle im ERDA-Netzwerk (Zukunft): Kulturvermittler, Tech-Transfer-Region, Bildungsbrücke zu Ost- und Mitteleuropa
 
 ***

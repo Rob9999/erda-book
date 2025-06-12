@@ -18,7 +18,7 @@ version: "1.0"
 * 🗺️ Geografische Lage: Südamerika, Pazifikküste; grenzt an Peru, Bolivien und Argentinien
 * 👥 Bevölkerung (2025): ca. 20 Mio.*
 * 🧑‍⚖️ Regierungsform & Verfassungsstatus (2025): Präsidiale Republik
-* 📅 ERDA-Status: Globaler Assoziierter
+* 📅 ERDA-Status: Globale/r Assoziierter
 * 🧭 Rolle im ERDA-Netzwerk (Zukunft): Rohstoffpartner (Kupfer, Lithium), Pazifik-Brückenstaat
 
 ***

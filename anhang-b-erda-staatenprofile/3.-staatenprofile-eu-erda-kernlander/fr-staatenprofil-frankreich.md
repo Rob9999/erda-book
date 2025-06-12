@@ -18,7 +18,7 @@ version: "1.0"
 * 🗺️ **Geografische Lage:** Westeuropa (Metropolitain), plus fünf Übersee­regionen (Guayana, Guadeloupe, Martinique, Réunion, Mayotte) und zahlreiche Territorien weltweit
 * 👥 **Bevölkerung (1. Jan. 2025):** 68.606.000 (Einwohner:innen)
 * 🧠 **Regierungsform & Verfassungsstatus (2025):** Semi-präsidiale Republik, Verfassungsbindung: Ja
-* 📅 **ERDA-Status:** Mitglied
+* 📅 ERDA-Status: Mitglied
 * 🧭 **Rolle im ERDA-Netzwerk (Zukunft):** Kulturvermittler, Raumfahrt- & Energiepartner, Kernstaat der Verteidigungsarchitektur
 
 ***

@@ -18,7 +18,7 @@ version: "1.0"
 * **Geografische Lage (Kontinent, Region):** Ozeanien; Inselkontinent zwischen Indischem und Pazifischem Ozean
 * **Bevölkerung (Stand 2023):** 26 658 948^[World Bank, 2023]
 * **Regierungsform & Verfassungsstatus (Stand 2025):** Föderale parlamentarische Monarchie im Commonwealth
-* **ERDA-Status:** Globale/r Assoziierter
+* 📅 ERDA-Status: Globale/r Assoziierter
 * **Zukünftige Rolle im ERDA-Netzwerk:** Indo-Pazifik-Partner und Technologiekooperation
 
 ### 2. Demografie & Gesellschaft
