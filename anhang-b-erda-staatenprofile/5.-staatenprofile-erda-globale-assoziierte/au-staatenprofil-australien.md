@@ -18,12 +18,12 @@ version: "1.0"
 * **Geografische Lage (Kontinent, Region):** Ozeanien; Inselkontinent zwischen Indischem und Pazifischem Ozean
 * **Bevölkerung (Stand 2023):** 26 658 948^[World Bank, 2023]
 * **Regierungsform & Verfassungsstatus (Stand 2025):** Föderale parlamentarische Monarchie im Commonwealth
-* **ERDA-Status:** Globale/r Assoziierter
+* 📅 ERDA-Status: Globale/r Assoziierter
 * **Zukünftige Rolle im ERDA-Netzwerk:** Indo-Pazifik-Partner und Technologiekooperation
 
 ### 2. Demografie & Gesellschaft
 
-* **Bevölkerung Prognose (2050 / 2075):** ~30 Mio. / ~33 Mio. (UN WPP 2022, hypothetisch)
+* **Bevölkerung Prognose (2050 / 2075):** ~30 Mio. / ~33 Mio. (UN WPP 2022, hypothetisch: ERDA Scenario Modeling Report 2025)
 * **Altersstruktur:** Median 38,9 Jahre; Jugendanteil 18 %; Altenquotient 21 % (ABS 2023)
 * **Urbanisierungsgrad:** 90 % (World Bank 2023)
 * **Durchschnittliche Bildung:** 12,9 Jahre (OWID 2025); Hochschulquote 52 % (OECD 2024)
@@ -36,7 +36,7 @@ version: "1.0"
 * **BIP (USD, 2023):** 1,73 Billionen (World Bank)
 * **BIP pro Kopf (USD, 2023):** 64 821 (World Bank)
 * **Top-3 Schlüsselindustrien:** Rohstoffe & Energie, Agrarwirtschaft, Dienstleistungssektor
-* **Anteil Automatisierung & Digitalisierung (2025/2050):** 55 % / 80 % (CSIRO Projections, hypothetisch)
+* **Anteil Automatisierung & Digitalisierung (2025/2050):** 55 % / 80 % (CSIRO Projections, hypothetisch: ERDA Scenario Modeling Report 2025)
 * **Forschungs- und Innovationsquote:** 1,8 % des BIP (OECD 2023)
 * **Patente pro Jahr:** ca. 3 000 (WIPO 2023)
 * **Mitglied in FORTERA-Handelsallianzen:** Nein
@@ -67,7 +67,7 @@ version: "1.0"
 #### Soziale Ressourcen
 
 * **Ehrenamt & Gemeinschaft:** Ausgeprägt in ländlichen Regionen
-* **CIVITAS-Partizipationsindex (0–10):** 7 (hypothetisch)
+* **CIVITAS-Partizipationsindex (0–10):** 7 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * **Gesundheitssystem:** Zugang 9/10; Prävention 8/10
 
 #### Politische Ressourcen
@@ -143,7 +143,7 @@ Australien ist ein rohstoffreiches, demokratisch gefestigtes Land im Indo-Pazifi
 #### 11.1 ℹ️ Allgemeines
 
 * Statistik: World Bank (2023) und Australian Bureau of Statistics
-* Modellannahmen zur Wirtschaftsentwicklung: CSIRO Future Australia (hypothetisch)
+* Modellannahmen zur Wirtschaftsentwicklung: CSIRO Future Australia (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Energiepotenziale: IEA (2024), nationale Energiepläne
 * Innovation & Bildung: OECD, WIPO
 * Demokratie & Rechtsstaatlichkeit: Freedom House 2024, WJP 2023
@@ -158,10 +158,13 @@ Australien ist ein rohstoffreiches, demokratisch gefestigtes Land im Indo-Pazifi
 5. **Our World in Data:** [Share of electricity renewables – Australia](https://ourworldindata.org/grapher/share-electricity-renewables.csv) (Zugriff 2025-06-11)
 
 #### 11.3 🛠️ Modellierungen & Annahmen
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-* Wirtschaftliche Projektionen 2050–2075: basierend auf CSIRO Szenarien (hypothetisch)
-* KI-Kapazitäten: abgeschätzt aus nationalen Innovationsstrategien (hypothetisch)
-* Infrastrukturautarkie: Qualitative Einschätzung nach IEA-Daten (hypothetisch)
+
+* Wirtschaftliche Projektionen 2050–2075: basierend auf CSIRO Szenarien (hypothetisch: ERDA Scenario Modeling Report 2025)
+* KI-Kapazitäten: abgeschätzt aus nationalen Innovationsstrategien (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Infrastrukturautarkie: Qualitative Einschätzung nach IEA-Daten (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Demokratie- und Beteiligungswerte: zusammengesetzt aus Freedom House, WJP (2023)
 
 ### 12. 🤝 Mitwirkung willkommen

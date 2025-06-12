@@ -18,7 +18,7 @@ version: "1.0"
 * 🗺️ **Geografische Lage:** Nördliches Baltikum, grenzt an Estland, Russland, Belarus, Litauen; Ostseeküste 494 km ([CIA Factbook](https://www.cia.gov/the-world-factbook/countries/latvia/))
 * 👥 **Bevölkerung (2025):** 1 855 000 (Schätzung; 1 Juni 2024: 1 861 900) ([Demographics of Latvia, Wikipedia](https://en.wikipedia.org/wiki/Demographics_of_Latvia))
 * 🧠 **Regierungsform & Verfassungsstatus (2025):** Parlamentarische Republik, Verfassung von 1922 (rev. regelmäßig) ([Saeima](https://www.saeima.lv/))
-* 📅 **ERDA-Status:** Mitglied
+* 📅 ERDA-Status: Mitglied
 * 🧭 **Rolle im ERDA-Netzwerk (Zukunft):** Cyberhub & Digitales Transformationszentrum
 
 ***
@@ -52,7 +52,16 @@ version: "1.0"
 * **Forschungs- und Innovationsquote:** 1,05 % des BIP (2022) ([Eurostat](https://ec.europa.eu/eurostat/data/database))
 * **Patente / Jahr:** 208 nationale Anmeldungen (2023) ([WIPO Latvia-Profil](https://www.wipo.int/edocs/statistics-country-profile/en/lv.pdf))
 * **Mitglied in FORTERA-Handelsallianzen?:** Nein
-* **Produktionssouveränität:** ☑ Energie, ☐ IT, ☐ Verteidigung, ☑ Ernährung
+
+#### 3.1 Infrastrukturautarkie
+
+* Energie ☑
+* IT/Cloud ☐
+* Verteidigung ☐
+* Ernährung ☑
+* IRIS² ☐
+* Quantentechnologie ☐
+* Autonome Logistiksysteme ☐
 
 ***
 
@@ -158,7 +167,7 @@ Lettland setzt konsequent auf digitale Innovation und eine starke Zivilgesellsch
 #### 11.1 ℹ️ Allgemeines
 
 * Statistik: Mischung aus nationalen und internationalen Quellen (Eurostat, CIA Factbook u. a.), Basisjahr 2025.
-* Energie- und Innovationsdaten nach internationalen Studien und nationalen Strategien (hypothetisch).
+* Energie- und Innovationsdaten nach internationalen Studien und nationalen Strategien (hypothetisch: ERDA Scenario Modeling Report 2025).
 
 #### 11.2 📎 Verwendete Quellen & Verweise
 
@@ -192,9 +201,12 @@ Lettland setzt konsequent auf digitale Innovation und eine starke Zivilgesellsch
 * Eurobarometer: https://europa.eu/eurobarometer/
 
 #### 11.3 🛠️ Modellierungen & Annahmen
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-* Szenario-Projektionen 2050–2075 angelehnt an OECD‑Trends (hypothetisch).
-* Infrastruktur- und Digitalisierungsgrade basieren auf nationalen Strategiepapiere (hypothetisch).
+
+* Szenario-Projektionen 2050–2075 angelehnt an OECD‑Trends (hypothetisch: ERDA Scenario Modeling Report 2025).
+* Infrastruktur- und Digitalisierungsgrade basieren auf nationalen Strategiepapiere (hypothetisch: ERDA Scenario Modeling Report 2025).
 
 ### 12. 🤝 Mitwirkung willkommen
 

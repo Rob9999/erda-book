@@ -20,7 +20,7 @@ version: "1.0"
 * **Geografische Lage (Kontinent, Region):** Mitteleuropa, Binnenstaat; grenzt an Deutschland, Tschechien, Slowakei, Ungarn, Slowenien, Italien, Schweiz, Liechtenstein
 * **Bevölkerung (Stand 2025):** 9 113 574
 * **Regierungsform & Verfassungsstatus (Stand 2025):** Föderale parlamentarische Republik, Bundesverfassung 1920 (rev. 1929, 1958, 2000)
-* **ERDA-Status:** Mitglied
+* 📅 ERDA-Status: Mitglied
 * **Zukünftige Rolle im ERDA-Netzwerk:** Bildungsnation & Kulturvermittler
 ***
 

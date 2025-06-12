@@ -18,29 +18,29 @@ version: "1.0"
 * 🗺️ Geografische Lage: Ostasien, Insel im Westpazifik vor der Küste des chinesischen Festlands
 * 👥 Bevölkerung (2025): ca. 23,3 Mio.\* [^1]
 * 🧑‍⚖️ Regierungsform & Verfassungsstatus (2025): Semipräsidentielle Demokratie
-* 📅 ERDA-Status: Globaler Assoziierter
+* 📅 ERDA-Status: Globale/r Assoziierter
 * 🧭 Rolle im ERDA-Netzwerk (Zukunft): Technologie- und Innovationsdrehscheibe
 
 ***
 
 ### 2. Demografie & Gesellschaft
 
-* Bevölkerung (2050/2075-Prognose): 20 Mio. / 18 Mio. (hypothetisch)
+* Bevölkerung (2050/2075-Prognose): 20 Mio. / 18 Mio. (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Altersstruktur (Medianalter, Jugendanteil, Altenquotient): 43 Jahre, 12 %, 44 % [^2]
 * Urbanisierung (%): 79 % [^3]
 * Bildung (Durchschnittsjahre, MINT-Anteil, Hochschulquote): 12 Jahre, 32 %, 50 % [^4]
 * Lebenserwartung: 81,1 Jahre [^5]
 * Migrationssaldo: gering negativ (−0,2 % p.a.) [^6]
-* Soziale Kohäsion (Subjektive Zufriedenheit, Demokratievertrauen): hoch / hoch (hypothetisch)
+* Soziale Kohäsion (Subjektive Zufriedenheit, Demokratievertrauen): hoch / hoch (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 
 ### 3. Wirtschaft & Innovation
 
-* Bruttoinlandsprodukt (BIP, real, heute / 2050 / 2075): 959 Mrd. USD (2022) / 1 400 Mrd. USD / 1 800 Mrd. USD (hypothetisch) [^7]
+* Bruttoinlandsprodukt (BIP, real, heute / 2050 / 2075): 959 Mrd. USD (2022) / 1 400 Mrd. USD / 1 800 Mrd. USD (hypothetisch: ERDA Scenario Modeling Report 2025) [^7]
 * BIP pro Kopf: 41 000 USD [^7]
 * Schlüsselindustrien (Top-3): Halbleiterfertigung, Informations- & Kommunikationstechnologie, Maschinenbau
-* Anteil Automatisierung & Digitalisierung (2025/2050): 70 % / 85 % (hypothetisch)
+* Anteil Automatisierung & Digitalisierung (2025/2050): 70 % / 85 % (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Forschungs- und Innovationsquote (% des BIP): 3,6 % [^8]
 * Patente / Jahr (Trend): ca. 80 000 / steigend [^9]
 * Mitglied in FORTERA-Handelsallianzen: Nein
@@ -69,8 +69,8 @@ version: "1.0"
 
 #### Soziale Ressourcen
 
-* Ehrenamt & Gemeinschaftskultur (Index 0–10): 7 (hypothetisch)
-* CIVITAS-Partizipationsindex 0–10: 6 (hypothetisch)
+* Ehrenamt & Gemeinschaftskultur (Index 0–10): 7 (hypothetisch: ERDA Scenario Modeling Report 2025)
+* CIVITAS-Partizipationsindex 0–10: 6 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Gesundheitssystem (Zugänglichkeit 0–10, Prävention 0–10): 9 / 8 [^13]
 
 #### Politische Ressourcen
@@ -80,7 +80,7 @@ version: "1.0"
 * Demokratiequalitätsindex (Freedom House oder vergleichbar 0–100): 94 [^14]
 * Bürgerpartizipationsquote (lokal/national) %: 75 % [^15]
 * Rechtstaatlichkeitsindex 0–10: 8 [^16]
-* Internationale Vertrauenswerte 0–10: 7 (hypothetisch)
+* Internationale Vertrauenswerte 0–10: 7 (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 
@@ -113,7 +113,7 @@ version: "1.0"
 * UNESCO-Welterbe / Kulturstätten: 0 (UNESCO-Liste)
 * Kreativwirtschaft (Stärke in Musik, Film, Design 0–10): 7 [^18]
 * Internationale Sichtbarkeit: Olympische Spiele, Oscarprämierungen
-* Rolle der Kultur als Vermittlungsfaktor in Demokratienetzwerken 0–10: 7 (hypothetisch)
+* Rolle der Kultur als Vermittlungsfaktor in Demokratienetzwerken 0–10: 7 (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 
@@ -124,7 +124,7 @@ version: "1.0"
 * Status 2025: Technologische Führungsrolle in der Halbleiterproduktion
 * Best Case 2050/2075: Stärkung demokratischer Institutionen, Innovationsmotor der Region
 * Base Case 2050/2075: Stabile Wirtschaft mit hoher Innovationsquote
-* Worst Case 2050/2075: Geopolitische Spannungen, Handelsbeschränkungen (hypothetisch)
+* Worst Case 2050/2075: Geopolitische Spannungen, Handelsbeschränkungen (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 #### Rolle in der ERDA-Vision 2075
 
@@ -156,7 +156,7 @@ version: "1.0"
 | KI-Kapazität [0–10] | 7 | 9 (hyp.) | 10 (hyp.) | n/b |
 | Zivilgesellschaftlicher Index [0–10] | 8 | 8 (hyp.) | 8 (hyp.) | n/b |
 
-Hinweise: (n/b) - N/B nicht belegt (warum?), (p) - Prognose (wer?)
+Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 
@@ -171,7 +171,7 @@ Taiwan steht für dynamische Innovationskraft und demokratische Stabilität im I
 #### 11.1 ℹ️ Allgemeines
 
 * **Statistik:** Nationale Quellen (National Statistics R.O.C.), internationale Datenbanken (IMF, UN WPP 2022)
-* **Modelle:** BIP-Prognosen nach IMF WEO 2023 (hypothetisch)
+* **Modelle:** BIP-Prognosen nach IMF WEO 2023 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * **Energiepotenziale:** Nationale Erneuerbare-Energien-Strategien, IEA 2024
 * **Innovation & Bildung:** OECD-Daten, Bildungsministerium Taiwan
 * **Demokratie & Rechtsstaatlichkeit:** Freedom House, Bertelsmann Stiftung
@@ -192,10 +192,13 @@ Taiwan steht für dynamische Innovationskraft und demokratische Stabilität im I
 4. Ministry of Health and Welfare Taiwan. 2024. „National Health Insurance Annual Report“. [online] verfügbar unter: <https://www.mohw.gov.tw/> (Letzter Zugriff am 2025-06-11).
 
 #### 11.3 🛠️ Modellierungen & Annahmen
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-* Wirtschaftliche Projektionen 2050–2075: extrapoliert aus IMF-Trends (hypothetisch)
-* Energiepotenziale: Szenarien nach IEA, nationale Strategiepapiere (hypothetisch)
-* Demokratie- und Beteiligungswerte: Fortschreibung Freedom House Score (hypothetisch)
+
+* Wirtschaftliche Projektionen 2050–2075: extrapoliert aus IMF-Trends (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Energiepotenziale: Szenarien nach IEA, nationale Strategiepapiere (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Demokratie- und Beteiligungswerte: Fortschreibung Freedom House Score (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 

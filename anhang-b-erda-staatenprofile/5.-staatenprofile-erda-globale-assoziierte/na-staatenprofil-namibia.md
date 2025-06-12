@@ -18,25 +18,25 @@ version: "1.0"
 * **Geografische Lage (Kontinent, Region):** Südwestafrika, Atlantikküste; grenzt an Angola, Sambia, Botswana und Südafrika
 * **Bevölkerung (Stand 2023):** 2,96 Mio.[^wb-pop]
 * **Regierungsform & Verfassungsstatus (Stand 2025):** Präsidiale Republik, Verfassung von 1990
-* **ERDA-Status:** Globale/r Assoziierter
+* 📅 ERDA-Status: Globale/r Assoziierter
 * **Zukünftige Rolle im ERDA-Netzwerk:** Partner für erneuerbare Energie und Hafenlogistik (Walvis Bay)
 
 ### 2. Demografie & Gesellschaft
 
-* **Bevölkerung Prognose (2050 / 2075):** 3,3 Mio. / 3,9 Mio. (UN WPP 2022, hypothetisch)
+* **Bevölkerung Prognose (2050 / 2075):** 3,3 Mio. / 3,9 Mio. (UN WPP 2022, hypothetisch: ERDA Scenario Modeling Report 2025)
 * **Altersstruktur:** Median 22 Jahre; Jugendanteil 36 %; Altenquotient 5 % (UN Data)
 * **Urbanisierungsgrad:** 54 % (World Bank 2022)
 * **Durchschnittliche Bildung:** 6,9 Jahre (OWID 2020); Hochschulquote 9 % (UNESCO UIS)
 * **Lebenserwartung:** 64,2 Jahre (World Bank 2022)
-* **Migrationssaldo ∅ (2025–2075):** −0,1 % p.a. (UN WPP 2022, hypothetisch)
+* **Migrationssaldo ∅ (2025–2075):** −0,1 % p.a. (UN WPP 2022, hypothetisch: ERDA Scenario Modeling Report 2025)
 * **Soziale Kohäsion:** moderat; Demokratievertrauen 6/10 (WHR 2024)
 
 ### 3. Wirtschaft & Innovation
 
-* **BIP (USD, 2023 / 2050 / 2075):** 12,4 Mrd. / 20 Mrd. / 35 Mrd. (2050/2075 hypothetisch)[^wb-gdp]
+* **BIP (USD, 2023 / 2050 / 2075):** 12,4 Mrd. / 20 Mrd. / 35 Mrd. (2050/2075 hypothetisch: ERDA Scenario Modeling Report 2025)[^wb-gdp]
 * **BIP pro Kopf (USD, 2023):** 4 168[^wb-gdppc]
 * **Top-3 Schlüsselindustrien:** Bergbau (Diamanten, Uran), Landwirtschaft, Tourismus
-* **Anteil Automatisierung & Digitalisierung (2025/2050):** 20 % / 50 % (hypothetisch)
+* **Anteil Automatisierung & Digitalisierung (2025/2050):** 20 % / 50 % (hypothetisch: ERDA Scenario Modeling Report 2025)
 * **Forschungs- und Innovationsquote:** 0,7 % des BIP (World Bank 2021)
 * **Patente pro Jahr:** <50 (WIPO 2023)
 * **Mitglied in FORTERA-Handelsallianzen:** Nein
@@ -59,12 +59,12 @@ version: "1.0"
 * **Strategische Rohstoffe:** Uran, Diamanten, Kupfer, Lithium
 * **Erneuerbare Energiepotenziale:** Solar sehr hoch, Wind hoch, Geothermie gering
 * **Biodiversität & Schutzgebiete:** 43 % Schutzfläche (MEFT 2024)
-* **Nachhaltigkeitskennzahlen:** CO₂-Ausstoß 1,7 t pro Kopf (2022); Recyclingquote 5 % (hypothetisch)
+* **Nachhaltigkeitskennzahlen:** CO₂-Ausstoß 1,7 t pro Kopf (2022); Recyclingquote 5 % (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 #### Soziale Ressourcen
 
-* **Ehrenamt & Gemeinschaftskultur:** 6/10 (hypothetisch)
-* **CIVITAS-Partizipationsindex:** 5/10 (hypothetisch)
+* **Ehrenamt & Gemeinschaftskultur:** 6/10 (hypothetisch: ERDA Scenario Modeling Report 2025)
+* **CIVITAS-Partizipationsindex:** 5/10 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * **Gesundheitssystem:** Zugang 6/10; Prävention 5/10
 
 #### Politische Ressourcen
@@ -72,7 +72,7 @@ version: "1.0"
 * **Verfassungsbindung:** Ja (Verfassung von 1990)
 * **Direkte Demokratieinstrumente:** Teilweise (lokale Referenden)
 * **Demokratiequalitätsindex (Freedom House 2024):** 77/100
-* **Bürgerpartizipationsquote:** 60 % (hypothetisch)
+* **Bürgerpartizipationsquote:** 60 % (hypothetisch: ERDA Scenario Modeling Report 2025)
 * **Rechtsstaatlichkeitsindex:** 6/10 (WJP 2023)
 * **Internationale Vertrauenswerte:** 6/10 (AFROBAROM 2024)
 
@@ -137,7 +137,7 @@ version: "1.0"
 | KI-Kapazität [0–10]                   | 2        | 4 (p)    | 6 (p)    | – |
 | Zivilgesellschaftlicher Index [0–10]  | 5        | 6 (p)    | 7 (p)    | – |
 
-Hinweise: (p) – Prognose; (n/b) – nicht belegt
+Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ### 10. Kurzfassung: „Namibia auf einen Blick“
 
@@ -148,7 +148,7 @@ Namibia ist ein rohstoffreiches Land mit viel Potenzial für Solar- und Windener
 #### 11.1 ℹ️ Allgemeines
 
 * Statistik: World Bank, UN DESA; Basisjahr 2023
-* Modellannahmen zur Wirtschaftsentwicklung: UN WPP 2022, nationale Entwicklungspläne (hypothetisch)
+* Modellannahmen zur Wirtschaftsentwicklung: UN WPP 2022, nationale Entwicklungspläne (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Energiepotenziale: IRENA 2024, nationale Energiepolitik
 * Innovation & Bildung: UNESCO UIS, WIPO
 * Demokratie & Rechtsstaatlichkeit: Freedom House 2024, WJP 2023
@@ -163,11 +163,14 @@ Namibia ist ein rohstoffreiches Land mit viel Potenzial für Solar- und Windener
 5. **UN DESA:** *World Population Prospects 2022* (Zugriff 2025-06-11)
 
 #### 11.3 🛠️ Modellierungen & Annahmen
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-* Wirtschaftliche Projektionen 2050–2075: extrapoliert aus UN- und Weltbank-Trends (hypothetisch)
-* KI-Kapazitäten: angenommene Zuwachsraten basierend auf regionalen Strategien (hypothetisch)
-* Infrastrukturautarkie: qualitative Einschätzung nationaler Pläne (hypothetisch)
-* Demokratie- und Beteiligungswerte: kombiniert aus Freedom House-Score und regionalen Umfragen (hypothetisch)
+
+* Wirtschaftliche Projektionen 2050–2075: extrapoliert aus UN- und Weltbank-Trends (hypothetisch: ERDA Scenario Modeling Report 2025)
+* KI-Kapazitäten: angenommene Zuwachsraten basierend auf regionalen Strategien (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Infrastrukturautarkie: qualitative Einschätzung nationaler Pläne (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Demokratie- und Beteiligungswerte: kombiniert aus Freedom House-Score und regionalen Umfragen (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ### 12. 🤝 Mitwirkung willkommen
 

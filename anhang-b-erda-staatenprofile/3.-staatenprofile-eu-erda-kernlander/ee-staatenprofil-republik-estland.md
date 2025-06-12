@@ -18,7 +18,7 @@ version: "1.0"
 * 🗺️ **Geografische Lage:** Nordeuropa, südlich von Finnland am Finnischen Meerbusen; grenzt im Süden an Lettland, im Osten an Russland; Küstenlänge 3 794 km ([Wikipedia](https://en.wikipedia.org/wiki/Estonia))
 * 👥 **Bevölkerung (2025):** 1 369 285 ([Statistik Estonia](https://stat.ee/en/find-statistics/statistics-theme/population))
 * 🧠 **Regierungsform & Verfassungsstatus (2025):** Unitary parlamentarische Republik; Verfassung von 1992 ([Riigikogu](https://www.riigikogu.ee/en/constitution-of-the-republic-of-estonia/))
-* 📅 **ERDA-Status:** Mitglied
+* 📅 ERDA-Status: Mitglied
 * 🧭 **Rolle im ERDA-Netzwerk (Zukunft):** Digitalnation & Cyberhub
 
 ***
@@ -50,6 +50,16 @@ version: "1.0"
 * **Patente / Jahr:** 492 (2022) ([WIPO IE Profil](https://www.wipo.int/edocs/statistics-country-profile/en/ee.pdf))
 * **FORTERA-Handelsallianzen:** Nein
 * **Produktionssouveränität:** ☑ IT, ☑ Ernährung, ☐ Energie, ☐ Verteidigung
+
+#### 3.1 Infrastrukturautarkie
+
+* Energie ☐
+* IT/Cloud ☑
+* Verteidigung ☐
+* Ernährung ☑
+* Satellitenkommunikation (IRIS²) ☐
+* Quantentechnologie ☐
+* Autonome Logistiksysteme ☐
 
 ***
 
@@ -159,7 +169,7 @@ Estland verbindet eine agile Digitalverwaltung mit einer engagierten Zivilgesell
 #### 11.1 ℹ️ Allgemeines
 
 * Statistik: Mischung aus nationalen und internationalen Quellen (Statistikaamet, Eurostat u. a.), Basisjahr 2025.
-* Modelle: BIP- und Bevölkerungsprognosen nach OECD und UN (hypothetisch).
+* Modelle: BIP- und Bevölkerungsprognosen nach OECD und UN (hypothetisch: ERDA Scenario Modeling Report 2025).
 
 #### 11.2 📎 Verwendete Quellen & Verweise
 
@@ -195,10 +205,13 @@ Estland verbindet eine agile Digitalverwaltung mit einer engagierten Zivilgesell
 * **Quelle:** World Justice Project, https://worldjusticeproject.org/
 
 #### 11.3 🛠️ Modellierungen & Annahmen
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-* Wirtschaftliche Projektionen 2050–2075: basierend auf OECD-Langfristprojektionen 2024 (hypothetisch).
-* Demografische Entwicklung: UN WPP 2022 (hypothetisch).
-* Energiepotenziale: Schätzungen nach SEI Estonia (hypothetisch).
+
+* Wirtschaftliche Projektionen 2050–2075: basierend auf OECD-Langfristprojektionen 2024 (hypothetisch: ERDA Scenario Modeling Report 2025).
+* Demografische Entwicklung: UN WPP 2022 (hypothetisch: ERDA Scenario Modeling Report 2025).
+* Energiepotenziale: Schätzungen nach SEI Estonia (hypothetisch: ERDA Scenario Modeling Report 2025).
 
 ### 12. 🤝 Mitwirkung willkommen
 

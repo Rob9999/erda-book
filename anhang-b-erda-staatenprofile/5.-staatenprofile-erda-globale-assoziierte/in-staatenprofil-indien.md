@@ -16,7 +16,7 @@ version: "1.0"
 * Geografische Lage (Kontinent, Region): Südasien; grenzt u.a. an Pakistan, China, Nepal und Bangladesch
 * Bevölkerung (Stand 2025): ca. 1,46 Mrd. (UN World Population Prospects 2022)
 * Regierungsform & Verfassungsstatus (Stand 2025): Parlamentarische Bundesrepublik
-* ERDA-Status [assoziiert | Mitglied | Beitrittskandidat | souveräner Partner]: assoziiert
+* 📅 ERDA-Status: Assoziiert
 * Zukünftige Rolle im ERDA-Netzwerk: Digital-Hub & Entwicklungspartner in Asien
 
 ## 2. Demografie & Gesellschaft
@@ -26,20 +26,20 @@ version: "1.0"
 * Urbanisierungsgrad (%): 35,9 % (World Bank 2022)
 * Durchschnittliche Bildung (Schuljahre, Hochschulquote %, MINT-Fächer %): 12 Jahre, Hochschulquote 28 %, MINT-Anteil 30 % (UNESCO 2022)
 * Lebenserwartung (Jahre): 72,0 (World Bank 2023)
-* Migrationssaldo pro Jahr (Durchschnitt 2025–2075): leicht negativ (hypothetisch)
-* Soziale Kohäsion (Zufriedenheitsindex [0–10], Demokratievertrauen [%]): 6,0 / 65 % (hypothetisch)
+* Migrationssaldo pro Jahr (Durchschnitt 2025–2075): leicht negativ (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Soziale Kohäsion (Zufriedenheitsindex [0–10], Demokratievertrauen [%]): 6,0 / 65 % (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ## 3. Wirtschaft & Innovation
 
-* Bruttoinlandsprodukt (BIP real, heute / 2050 / 2075 in Mrd. EUR): 3.300 (2023, World Bank) / 8.500 (2050, hypothetisch) / 12.000 (2075, hypothetisch)
+* Bruttoinlandsprodukt (BIP real, heute / 2050 / 2075 in Mrd. EUR): 3.300 (2023, World Bank) / 8.500 (2050, hypothetisch: ERDA Scenario Modeling Report 2025) / 12.000 (2075, hypothetisch: ERDA Scenario Modeling Report 2025)
 * BIP pro Kopf (EUR): ca. 2.200 (World Bank 2023)
 * Top-3 Schlüsselindustrien: IT-Dienstleistungen, Pharma/Chemie, verarbeitende Industrie
-* Anteil Automatisierung & Digitalisierung (heute / 2050 in %): 40 % / 65 % (hypothetisch)
+* Anteil Automatisierung & Digitalisierung (heute / 2050 in %): 40 % / 65 % (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Forschungs- und Innovationsquote (% des BIP): 0,7 % (World Bank 2022)
 * Patente pro Jahr (Trend, Durchschnitt): ~70.000 / steigend (World Intellectual Property Organization 2023)
 * Mitglied in FORTERA-Handelsallianzen [Ja | Nein]: Nein
 * Mitglied im Democracy Trade Network [Ja | Nein]: Nein
-* Nutzung von EHAM+ (Handelsabwehr) [0–10]: 4 (hypothetisch)
+* Nutzung von EHAM+ (Handelsabwehr) [0–10]: 4 (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ### 3.1 Infrastrukturautarkie
 
@@ -65,8 +65,8 @@ version: "1.0"
 
 ### Soziale Ressourcen
 
-* Ehrenamt & Gemeinschaftskultur (Index [0–10]): 7 (hypothetisch)
-* CIVITAS-Partizipationsindex [0–10]: 6 (hypothetisch)
+* Ehrenamt & Gemeinschaftskultur (Index [0–10]): 7 (hypothetisch: ERDA Scenario Modeling Report 2025)
+* CIVITAS-Partizipationsindex [0–10]: 6 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Gesundheitssystem (Zugänglichkeit [0–10], Prävention [0–10]): 6 / 5 (WHO 2023)
 
 ### Politische Ressourcen
@@ -74,9 +74,9 @@ version: "1.0"
 * Verfassungsbindung [Ja | Nein]: Ja
 * Direkte Demokratieinstrumente [Vorhanden | Teilweise | Nicht vorhanden]: Teilweise
 * Demokratiequalitätsindex (Freedom House oder vergleichbar [0–100]): 65 (Freedom House 2024)
-* Bürgerpartizipationsquote (lokal/national) [%]: 55 % (hypothetisch)
+* Bürgerpartizipationsquote (lokal/national) [%]: 55 % (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Rechtstaatlichkeitsindex [0–10]: 6 (World Justice Project 2023)
-* Internationale Vertrauenswerte [0–10]: 6 (hypothetisch)
+* Internationale Vertrauenswerte [0–10]: 6 (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ## 5. Sicherheit & Strategische Rolle (EDA)
 
@@ -142,7 +142,7 @@ version: "1.0"
 | KI-Kapazität [0–10]                   | 5 | 7 (p) | 9 (p) | – |
 | Zivilgesellschaftlicher Index [0–10]  | 6 | 7 (p) | 8 (p) | – |
 
-Hinweise: (p) - Prognose; Datenquellen siehe Abschnitt 11
+Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ## 10. Kurzfassung: „Indien auf einen Blick“
 
@@ -153,7 +153,7 @@ Indien ist eine dynamische Demokratie mit schneller wirtschaftlicher Entwicklung
 ### 11.1 ℹ️ Allgemeines
 
 * Statistik: UN World Population Prospects 2022; World Bank World Development Indicators
-* Modellannahmen zur Wirtschaftsentwicklung: extrapolierte Trends der Weltbank (hypothetisch)
+* Modellannahmen zur Wirtschaftsentwicklung: extrapolierte Trends der Weltbank (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Energiepotenziale: International Renewable Energy Agency (IRENA) 2024
 * Innovation & Bildung: UNESCO Institute for Statistics
 * Demokratie & Rechtsstaatlichkeit: Freedom House; World Justice Project
@@ -161,7 +161,7 @@ Indien ist eine dynamische Demokratie mit schneller wirtschaftlicher Entwicklung
 
 ### 11.2 📎 Verwendete Quellen & Verweise
 1. United Nations. 2022. *World Population Prospects 2022*. [online] verfügbar unter: <https://population.un.org/wpp/> (Letzter Zugriff am 2025-06-11).
-2. World Bank. 2024. *World Development Indicators*. [online] verfügbar unter: <https://data.worldbank.org/> (Letzter Zugriff am 2025-06-11).
+2. World Bank. 2024. *World Development Indicators*. [online] verfügbar unter: <https://databank.worldbank.org/source/world-development-indicators> (Letzter Zugriff am 2025-06-11).
 3. UNESCO Institute for Statistics. 2023. *Education Data*. [online] verfügbar unter: <https://uis.unesco.org/> (Letzter Zugriff am 2025-06-11).
 4. Freedom House. 2024. *Freedom in the World 2024*. [online] verfügbar unter: <https://freedomhouse.org/> (Letzter Zugriff am 2025-06-11).
 5. World Justice Project. 2023. *Rule of Law Index*. [online] verfügbar unter: <https://worldjusticeproject.org/> (Letzter Zugriff am 2025-06-11).
@@ -170,24 +170,27 @@ Indien ist eine dynamische Demokratie mit schneller wirtschaftlicher Entwicklung
 8. SIPRI. 2024. *Military Expenditure Database*. [online] verfügbar unter: <https://www.sipri.org/> (Letzter Zugriff am 2025-06-11).
 
 ### 11.3 🛠️ Modellierungen & Annahmen
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-1. Wirtschaftliche Projektionen 2050–2075 (hypothetisch)
+
+1. Wirtschaftliche Projektionen 2050–2075 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Basisjahr: 2023; Parameter: jährliches BIP-Wachstum 5 %, Inflation 4 %.
 * Quellen: World Bank, IMF.
 
-2. KI-Kapazitäten (hypothetisch)
+2. KI-Kapazitäten (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Annahme: Verdopplung der Rechenleistung alle drei Jahre.
-* Quelle: <https://openai.com/> (hypothetisch).
+* Quelle: <https://openai.com/> (hypothetisch: ERDA Scenario Modeling Report 2025).
 
-3. Infrastrukturautarkie (hypothetisch)
+3. Infrastrukturautarkie (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Ziel: 80 % erneuerbare Energieversorgung bis 2075.
 * Datenbasis: IRENA Analysen.
 
-4. Demokratie- und Beteiligungswerte (hypothetisch)
+4. Demokratie- und Beteiligungswerte (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Indikatoren: Freedom House Score, CIVICUS Monitor.
 * Basiswert 2020; jährliche Verbesserung um 0,5 Punkte.
 
-5. Energiepotenziale (hypothetisch)
+5. Energiepotenziale (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Szenarien: moderat vs. ambitioniert.
 * Solar PV Potenzial bis 2075: 1000 GW (ambitioniert).
 * Quellen: IRENA, nationale Pläne.

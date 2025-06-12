@@ -18,7 +18,7 @@ version: "1.0"
 * 🗺️ **Geografische Lage:** Westeuropa (Metropolitain), plus fünf Übersee­regionen (Guayana, Guadeloupe, Martinique, Réunion, Mayotte) und zahlreiche Territorien weltweit
 * 👥 **Bevölkerung (1. Jan. 2025):** 68.606.000 (Einwohner:innen)
 * 🧠 **Regierungsform & Verfassungsstatus (2025):** Semi-präsidiale Republik, Verfassungsbindung: Ja
-* 📅 **ERDA-Status:** Mitglied
+* 📅 ERDA-Status: Mitglied
 * 🧭 **Rolle im ERDA-Netzwerk (Zukunft):** Kulturvermittler, Raumfahrt- & Energiepartner, Kernstaat der Verteidigungsarchitektur
 
 ***
@@ -151,8 +151,8 @@ Frankreich ist ein global vernetzter Kernstaat Europas mit starker Industriebasi
 #### 11.1 ℹ️ Allgemeines
 
 * Statistik: INSEE, INED, Eurostat; Basisjahr 2025.
-* Modelle: BIP-Prognosen nach IMF und OECD (hypothetisch).
-* Energie- und Ressourcendaten laut französischem Ministerium für Ökologie (hypothetisch).
+* Modelle: BIP-Prognosen nach IMF und OECD (hypothetisch: ERDA Scenario Modeling Report 2025).
+* Energie- und Ressourcendaten laut französischem Ministerium für Ökologie (hypothetisch: ERDA Scenario Modeling Report 2025).
 
 #### 11.2 📎 Verwendete Quellen & Verweise
 
@@ -177,6 +177,9 @@ Frankreich ist ein global vernetzter Kernstaat Europas mit starker Industriebasi
 * **Quelle:** WHO; OECD Health Statistics
 
 #### 11.3 🛠 Modellierungen & Annahmen
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
+
 
 * ERDA-Projektionsmodell (Szenarien 2025–2075)
 * Internes ERDA-Konsultationspapier: „Staatenprofile – Methodik und Datenbasis"

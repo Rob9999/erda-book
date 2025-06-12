@@ -25,13 +25,13 @@ version: "1.0"
 
 ### 2. Demografie & Gesellschaft
 
-* Bevölkerung Prognose (2050 / 2075): 2,9 Mio. / 2,7 Mio. (UN DESA 2022, hypothetisch)
+* Bevölkerung Prognose (2050 / 2075): 2,9 Mio. / 2,7 Mio. (UN DESA 2022, hypothetisch: ERDA Scenario Modeling Report 2025)
 * Altersstruktur (Medianalter, Jugendanteil %, Altenquotient): 36 Jahre, 22 %, 28 %
 * Urbanisierungsgrad (%): 64 % (World Bank 2023)
 * Durchschnittliche Bildung (Schuljahre, Hochschulquote %, MINT-Fächer %): 12 Jahre, 31 %, 25 % (UNESCO 2023)
 * Lebenserwartung (Jahre): 77,5 (World Bank 2023)
 * Migrationssaldo pro Jahr (Durchschnitt 2025–2075): −10 000 (World Bank 2023)
-* Soziale Kohäsion (Zufriedenheitsindex [0–10], Demokratievertrauen [%]): 5 / 50 % (hypothetisch)
+* Soziale Kohäsion (Zufriedenheitsindex [0–10], Demokratievertrauen [%]): 5 / 50 % (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 
@@ -40,7 +40,7 @@ version: "1.0"
 * Bruttoinlandsprodukt (BIP real, heute / 2050 / 2075 in Mrd. EUR): 22 (2023) / 40 (p) / 55 (p)
 * BIP pro Kopf (EUR): ca. 7 400 (World Bank 2023, umgerechnet)
 * Top-3 Schlüsselindustrien: IT-Services & Softwareentwicklung, Bergbau (Kupfer, Molybdän), Landwirtschaft & Lebensmittelverarbeitung
-* Anteil Automatisierung & Digitalisierung (heute / 2050 in %): 40 % / 70 % (hypothetisch)
+* Anteil Automatisierung & Digitalisierung (heute / 2050 in %): 40 % / 70 % (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Forschungs- und Innovationsquote (% des BIP): 0,9 % (UNESCO 2023)
 * Patente pro Jahr (Trend, Durchschnitt): ca. 60 (WIPO 2023)
 * Mitglied in FORTERA-Handelsallianzen: Nein
@@ -72,8 +72,8 @@ version: "1.0"
 
 #### Soziale Ressourcen
 
-* Ehrenamt & Gemeinschaftskultur (Index [0–10]): 6 (hypothetisch)
-* CIVITAS-Partizipationsindex [0–10]: 5 (hypothetisch)
+* Ehrenamt & Gemeinschaftskultur (Index [0–10]): 6 (hypothetisch: ERDA Scenario Modeling Report 2025)
+* CIVITAS-Partizipationsindex [0–10]: 5 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Gesundheitssystem (Zugänglichkeit [0–10], Prävention [0–10]): 7 / 6
 
 #### Politische Ressourcen
@@ -152,7 +152,7 @@ version: "1.0"
 | KI-Kapazität [0–10]                   | 4    | 6 (p) | 7 (p) | 5 |
 | Zivilgesellschaftlicher Index [0–10]  | 5    | 6 (p) | 7 (p) | 6 |
 
-Hinweise: (p) – Prognose (UN DESA 2022, hypothetisch)
+Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 
@@ -165,9 +165,9 @@ Armenien ist ein traditionsreiches Kaukasusland mit wachsenden IT-Potenzialen un
 #### 11.1 ℹ️ Allgemeines
 
 * Statistik: World Bank (Bevölkerung, BIP, Urbanisierung, Lebenserwartung), UNESCO (Bildung), UNEP (Nachhaltigkeit)
-* Modellannahmen zur Wirtschaftsentwicklung: ERDA Policy-Lab (hypothetisch) basierend auf regionalen Trends
-* Energiepotenziale: Internationale Energieagentur (IEA), nationale Strategiepapiere (hypothetisch)
-* Innovation & Bildung: UNESCO Institute for Statistics, WIPO Daten (hypothetisch)
+* Modellannahmen zur Wirtschaftsentwicklung: ERDA Policy-Lab (hypothetisch: ERDA Scenario Modeling Report 2025) basierend auf regionalen Trends
+* Energiepotenziale: Internationale Energieagentur (IEA), nationale Strategiepapiere (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Innovation & Bildung: UNESCO Institute for Statistics, WIPO Daten (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Demokratie & Rechtsstaatlichkeit: Freedom House 2024, World Justice Project
 * Nachhaltigkeits- und Ressourcenindikatoren: UNEP 2023, nationale Umweltberichte
 
@@ -180,10 +180,13 @@ Armenien ist ein traditionsreiches Kaukasusland mit wachsenden IT-Potenzialen un
 5. UNESCO Institute for Statistics. 2023. "Armenia Education Data". [https://uis.unesco.org](https://uis.unesco.org) (Letzter Zugriff am 2025-06-11).
 
 #### 11.3 🛠️ Modellierungen & Annahmen
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-* Wirtschaftliche Projektionen 2050–2075: extrapoliert aus regionalen Wachstumsraten und EU-Kooperationsszenarien (hypothetisch)
-* Energiepotenziale: nationale Wasserkraft- und Solarpläne (hypothetisch)
-* Demokratie- und Beteiligungswerte: Fortschreibung Freedom House Score (hypothetisch)
+
+* Wirtschaftliche Projektionen 2050–2075: extrapoliert aus regionalen Wachstumsraten und EU-Kooperationsszenarien (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Energiepotenziale: nationale Wasserkraft- und Solarpläne (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Demokratie- und Beteiligungswerte: Fortschreibung Freedom House Score (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 

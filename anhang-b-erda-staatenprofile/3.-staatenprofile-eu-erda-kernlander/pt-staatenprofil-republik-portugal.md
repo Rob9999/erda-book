@@ -18,7 +18,7 @@ version: "1.0"
 * 🗺️ **Geografische Lage:** Südwesteuropa, Iberische Halbinsel, Grenze Spanien im Osten und Norden, Atlantikküste im Westen und Süden ([CIA Factbook](https://www.cia.gov/the-world-factbook/countries/portugal/))
 * 👥 **Bevölkerung (2025):** 10 300 000 (geschätzt) ([Worldometers](https://www.worldometers.info/world-population/portugal-population/))
 * 🧠 **Regierungsform & Verfassungsstatus (2025):** Unitarische parlamentarische Republik, Verfassung von 1976 ([Verfassung von Portugal](https://www.portugal.gov.pt/pt/gc21/area-de-governo/justica/conteudos/constitui%C3%A7%C3%A3o-da-rep%C3%BAblica-portuguesa))
-* 📅 **ERDA-Status:** Mitglied
+* 📅 ERDA-Status: Mitglied
 * 🧭 **Rolle im ERDA-Netzwerk (Zukunft):** Maritime Gateway & Renewable Energy Hub
 
 ***
@@ -71,7 +71,7 @@ version: "1.0"
 
 * **Ehrenamt & Gemeinschaft:** 37 % Freiwilligenrate (2023) ([Eurostat Quality of Life](https://ec.europa.eu/eurostat))
 * **Civic‑Tech-Nutzung:** Participação.gov.pt Plattform ([Governo de Portugal](https://participacao.portugal.gov.pt))
-* **Gesundheitssystem:** Universelles NHS-ähnliches System; Präventionsausgaben 9,5 % BIP (2022) ([WHO](https://www.who.int))
+* **Gesundheitssystem:** Universelles NHS-ähnliches System; Präventionsausgaben 9,5 % BIP (2022) ([WHO NHA Database](https://apps.who.int/nha/database))
 
 #### 🛡️ Politische Ressourcen:
 
@@ -161,7 +161,7 @@ Portugal ist ein maritimer EU-Staat mit reicher Kultur und wachsendem Fokus auf 
 #### 11.1 ℹ️ Allgemeines
 
 * Statistik: Mischung aus nationalen und internationalen Quellen (Basisjahr 2025).
-* Modelle: Wirtschaftliche und demografische Projektionen nach Eurostat und UN (hypothetisch).
+* Modelle: Wirtschaftliche und demografische Projektionen nach Eurostat und UN (hypothetisch: ERDA Scenario Modeling Report 2025).
 
 #### 11.2 📎 Verwendete Quellen & Verweise
 
@@ -199,9 +199,12 @@ Portugal ist ein maritimer EU-Staat mit reicher Kultur und wachsendem Fokus auf 
 * Verfassung von Portugal; World Justice Project Rule of Law
 
 #### 11.3 🛠️ Modellierungen & Annahmen
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-* Wirtschaftliche Projektionen 2050–2075: extrapoliert aus Eurostat- und OECD-Trenddaten (hypothetisch).
-* Infrastrukturautarkie: nationale Strategieabschätzungen (hypothetisch).
+
+* Wirtschaftliche Projektionen 2050–2075: extrapoliert aus Eurostat- und OECD-Trenddaten (hypothetisch: ERDA Scenario Modeling Report 2025).
+* Infrastrukturautarkie: nationale Strategieabschätzungen (hypothetisch: ERDA Scenario Modeling Report 2025).
 
 
 ### 12. 🤝 Mitwirkung willkommen

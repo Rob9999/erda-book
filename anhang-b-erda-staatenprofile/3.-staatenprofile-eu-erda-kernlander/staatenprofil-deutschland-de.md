@@ -19,7 +19,7 @@ version: "1.0"
 * 🗺️ **Geografische Lage:** Mitteleuropa
 * 👥 **Bevölkerung (2025):** ca. 83,5 Mio. Einw. ([Destatis – Bevölkerungsstand](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Bevoelkerungsstand/_inhalt.html))
 * 🧠 **Regierungsform & Verfassungsstatus (2025):** Parlamentarische Demokratie, Grundgesetz (Verfassungsbindung: Ja)
-* 📅 **ERDA-Status:** Mitglied
+* 📅 ERDA-Status: Mitglied
 * 🧭 **Rolle im ERDA-Netzwerk (Zukunft):** Innovationsmotor, Cyberhub, Verteidigungsdrehkreuz, Bildungsexporteur
 
 ***
@@ -235,9 +235,12 @@ Industriekompetenz verbinden sich mit einer digitalen und nachhaltigen Agenda.
 22. **Europäische Kommission (2024):** _Eurobarometer Survey 2251: Vertrauen in EU-Institutionen._ Brüssel: Europäische Kommission. Online verfügbar unter: [https://europa.eu/eurobarometer/surveys/survey-detail/2251](https://europa.eu/eurobarometer/surveys/survey-detail/2251) (Zugriff am 2025-05-21)
 
 #### 11.3 🛠️ Modellierungen & Annahmen
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-* Wirtschaftliche Projektionen 2050–2075: 1,5 % reales Wachstum p.a. (hypothetisch).
-* Infrastrukturautarkie: Ziel 80 % erneuerbare Energieversorgung (hypothetisch).
+
+* Wirtschaftliche Projektionen 2050–2075: 1,5 % reales Wachstum p.a. (hypothetisch: ERDA Scenario Modeling Report 2025).
+* Infrastrukturautarkie: Ziel 80 % erneuerbare Energieversorgung (hypothetisch: ERDA Scenario Modeling Report 2025).
 
 ### 12. 🤝 Mitwirkung willkommen
 

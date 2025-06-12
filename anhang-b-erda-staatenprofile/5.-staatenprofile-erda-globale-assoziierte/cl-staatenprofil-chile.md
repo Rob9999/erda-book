@@ -18,7 +18,7 @@ version: "1.0"
 * 🗺️ Geografische Lage: Südamerika, Pazifikküste; grenzt an Peru, Bolivien und Argentinien
 * 👥 Bevölkerung (2025): ca. 20 Mio.*
 * 🧑‍⚖️ Regierungsform & Verfassungsstatus (2025): Präsidiale Republik
-* 📅 ERDA-Status: Globaler Assoziierter
+* 📅 ERDA-Status: Globale/r Assoziierter
 * 🧭 Rolle im ERDA-Netzwerk (Zukunft): Rohstoffpartner (Kupfer, Lithium), Pazifik-Brückenstaat
 
 ***
@@ -37,10 +37,10 @@ version: "1.0"
 
 ### 3. Wirtschaft & Innovation
 
-* Bruttoinlandsprodukt (BIP, real, heute / 2050 / 2075): 315 Mrd. EUR / 517 Mrd. EUR (hypothetisch) / 849 Mrd. EUR (hypothetisch)
+* Bruttoinlandsprodukt (BIP, real, heute / 2050 / 2075): 315 Mrd. EUR / 517 Mrd. EUR (hypothetisch: ERDA Scenario Modeling Report 2025) / 849 Mrd. EUR (hypothetisch: ERDA Scenario Modeling Report 2025)
 * BIP pro Kopf: 16 000 EUR
 * Schlüsselindustrien (Top-3): Bergbau (Kupfer & Lithium), Agrar- & Nahrungsmittel, Dienstleistungen & Tourismus
-* Anteil Automatisierung & Digitalisierung (2025/2050): 55 % / 75 % (hypothetisch)
+* Anteil Automatisierung & Digitalisierung (2025/2050): 55 % / 75 % (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Forschungs- und Innovationsquote (% des BIP): 0,4 %
 * Patente / Jahr (Trend): ca. 1 200 / steigend
 * Mitglied in FORTERA-Handelsallianzen: Nein
@@ -172,7 +172,7 @@ Chile vereint stabile demokratische Institutionen mit einem außergewöhnlichen 
 #### 11.1 ℹ️ Allgemeines
 
 * Statistik: Nationale Quellen (Instituto Nacional de Estadísticas) und internationale Datenbanken (World Bank, UN WPP 2022)
-* Modelle: BIP- und Bevölkerungsprognosen nach UN WPP 2022 und OECD (hypothetisch)
+* Modelle: BIP- und Bevölkerungsprognosen nach UN WPP 2022 und OECD (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Energiepotenziale: IEA 2024, nationale Energiestrategien
 * Innovation & Bildung: OECD-Daten, chilenisches Bildungsministerium
 * Demokratie & Rechtsstaatlichkeit: Freedom House, Bertelsmann Stiftung
@@ -184,7 +184,7 @@ Chile vereint stabile demokratische Institutionen mit einem außergewöhnlichen 
 1. United Nations. 2022. „World Population Prospects 2022“. [online] verfügbar unter: <https://population.un.org/wpp/> (Letzter Zugriff am 2025-06-11).
 
 **Wirtschaft & Innovation**
-2. World Bank. 2024. „World Development Indicators“. [online] verfügbar unter: <https://data.worldbank.org/> (Letzter Zugriff am 2025-06-11).
+2. World Bank. 2024. „World Development Indicators“. [online] verfügbar unter: <https://databank.worldbank.org/source/world-development-indicators> (Letzter Zugriff am 2025-06-11).
 
 **Energie & Ressourcen**
 3. International Energy Agency. 2024. „World Energy Outlook 2024“. [online] verfügbar unter: <https://www.iea.org/reports/world-energy-outlook-2024> (Letzter Zugriff am 2025-06-11).
@@ -193,10 +193,13 @@ Chile vereint stabile demokratische Institutionen mit einem außergewöhnlichen 
 4. Freedom House. 2024. „Freedom in the World 2024“. [online] verfügbar unter: <https://freedomhouse.org> (Letzter Zugriff am 2025-06-11).
 
 #### 11.3 🛠️ Modellierungen & Annahmen
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-* Wirtschaftliche Projektionen 2050–2075: extrapoliert aus World-Bank-Trends (hypothetisch)
-* Energiepotenziale: Szenarien nach IEA, nationale Strategiepapiere (hypothetisch)
-* Demokratie- und Beteiligungswerte: Fortschreibung Freedom House Score (hypothetisch)
+
+* Wirtschaftliche Projektionen 2050–2075: extrapoliert aus World-Bank-Trends (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Energiepotenziale: Szenarien nach IEA, nationale Strategiepapiere (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Demokratie- und Beteiligungswerte: Fortschreibung Freedom House Score (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 

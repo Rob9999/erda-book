@@ -18,7 +18,7 @@ version: "1.0"
 * 📺 Geografische Lage: Mitteleuropa, Nachbarstaaten: Deutschland, Polen, Österreich, Slowakei
 * 👥 Bevölkerung (2025): ca. 10,5 Mio.
 * 🧠 Regierungsform & Verfassungsstatus (2025): Parlamentarische Demokratie, Verfassungsbindung: Ja
-* 🗓️ ERDA-Status: Mitglied
+* 📅 ERDA-Status: Mitglied
 * 🗺️ Rolle im ERDA-Netzwerk (Zukunft): Kulturvermittler, Tech-Transfer-Region, Bildungsbrücke zu Ost- und Mitteleuropa
 
 ***
@@ -146,7 +146,7 @@ Tschechien ist ein mitteleuropäischer Industriestaat mit starker Bildungsidenti
 #### 11.1 ℹ️ Allgemeines
 
 * Statistik: Tschechisches Statistikamt (CSU), OECD, Eurostat
-* Modelle: ERDA-Projektionsmodell 2025ff (hypothetisch)
+* Modelle: ERDA-Projektionsmodell 2025ff (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 #### 11.2 📎 Verwendete Quellen & Verweise
 
@@ -154,11 +154,14 @@ Tschechien ist ein mitteleuropäischer Industriestaat mit starker Bildungsidenti
 * Freedom House, Demokratieindex
 
 **Wirtschaft & Gesellschaft**
-* Prognosekonvergenz mit vergleichbaren CEE-Staaten (hypothetisch)
+* Prognosekonvergenz mit vergleichbaren CEE-Staaten (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 #### 11.3 🛠️ Modellierungen & Annahmen
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-* Langfristige Entwicklung orientiert sich an regionalen Vergleichsdaten (hypothetisch)
+
+* Langfristige Entwicklung orientiert sich an regionalen Vergleichsdaten (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 

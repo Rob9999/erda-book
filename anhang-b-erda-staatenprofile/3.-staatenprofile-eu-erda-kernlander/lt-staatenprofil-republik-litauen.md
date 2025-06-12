@@ -18,7 +18,7 @@ version: "1.0"
 * 🗺️ **Geografische Lage:** Nordeuropa, Ostseestaat, Grenze zu Lettland, Belarus, Polen, Russland (Kaliningrad) ([CIA Factbook](https://www.cia.gov/the-world-factbook/countries/lithuania/))
 * 👥 **Bevölkerung (2025):** 2 830 144 ([Worldometer](https://www.worldometers.info/world-population/lithuania-population/)) citeturn7search1
 * 🧠 **Regierungsform & Verfassungsstatus (2025):** Parlamentarische Republik, Verfassung von 1992 ([Seimas](https://www.lrs.lt/sip/portal.show?p_r=8804))
-* 📅 **ERDA-Status:** Mitglied
+* 📅 ERDA-Status: Mitglied
 * 🧭 **Rolle im ERDA-Netzwerk (Zukunft):** Digitalisierungs- und Innovationshub, Brückenbauer an Rand der EU
 
 ***
@@ -157,8 +157,8 @@ Litauen positioniert sich als digital orientierter Ostseestaat mit wachsenden gr
 #### 11.1 ℹ️ Allgemeines
 
 * Statistik: Mischung aus nationalen und internationalen Quellen (Eurostat, OECD u. a.), Basisjahr 2025.
-* Modelle: BIP-Prognosen und Bevölkerungsentwicklung nach OECD und UN (hypothetisch).
-* Energie- und Infrastrukturdaten laut nationalen Strategiepapiere (hypothetisch).
+* Modelle: BIP-Prognosen und Bevölkerungsentwicklung nach OECD und UN (hypothetisch: ERDA Scenario Modeling Report 2025).
+* Energie- und Infrastrukturdaten laut nationalen Strategiepapiere (hypothetisch: ERDA Scenario Modeling Report 2025).
 
 #### 11.2 📎 Verwendete Quellen & Verweise
 
@@ -190,8 +190,11 @@ Litauen positioniert sich als digital orientierter Ostseestaat mit wachsenden gr
 * World Justice Project Rule of Law Index
 
 #### 11.3 🛠️ Modellierungen & Annahmen
-* Wirtschaftliche Projektionen 2050–2075: extrapoliert aus Eurostat- und OECD-Trenddaten (hypothetisch).
-* Infrastrukturautarkie: Ziel 80 % erneuerbare Energieversorgung (hypothetisch).
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
+
+* Wirtschaftliche Projektionen 2050–2075: extrapoliert aus Eurostat- und OECD-Trenddaten (hypothetisch: ERDA Scenario Modeling Report 2025).
+* Infrastrukturautarkie: Ziel 80 % erneuerbare Energieversorgung (hypothetisch: ERDA Scenario Modeling Report 2025).
 
 ### 12. 🤝 Mitwirkung willkommen
 

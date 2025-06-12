@@ -18,7 +18,7 @@ version: "1.0"
 * 🗺️ **Geografische Lage:** Nordeuropa, Grenzstaat im Nordischen Raum (Schweden, Norwegen, Russland; Ostsee im Süden)
 * 👥 **Bevölkerung (2025):** 5.675.983 (geschätzt zum 1. Januar 2025) citeturn3search8
 * 🧠 **Regierungsform & Verfassungsstatus (2025):** Parlamentarische Republik, Verfassungsgebunden (1919)
-* 📅 **ERDA-Status:** Mitglied
+* 📅 ERDA-Status: Mitglied
 * 🧭 **Rolle im ERDA-Netzwerk (Zukunft):** Arktisknoten, Bildungsnation & Nachhaltigkeitspionier
 
 ***
@@ -190,9 +190,12 @@ Finnland ist eine hochinnovative Demokratie mit starker Bildungstradition und na
 * PopulationPyramid.net – Altersstruktur
 
 #### 11.3 🛠️ Modellierungen & Annahmen
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
+
 
 * Prognosemodelle: 1 % p.a. BIP-Wachstum, lineares Demografie-Szenario
-* Infrastrukturautarkie: Einschätzung eigener Potenziale (hypothetisch)
+* Infrastrukturautarkie: Einschätzung eigener Potenziale (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 

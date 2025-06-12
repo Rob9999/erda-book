@@ -18,7 +18,7 @@ version: "1.0"
 * 🗺️ **Geografische Lage:** Nordeuropa, Skandinavien, zwischen Nordsee und Ostsee
 * 👥 **Bevölkerung (2025):** ca. 5,98 Mio.
 * 🧠 **Regierungsform & Verfassungsstatus (2025):** Unitarische parlamentarische konstitutionelle Monarchie, Verfassungsbindung: Ja
-* 📅 **ERDA-Status:** Mitglied
+* 📅 ERDA-Status: Mitglied
 * 🧭 **Rolle im ERDA-Netzwerk (Zukunft):** Arktisknoten (via Grönland), Innovations- und Nachhaltigkeitsexporteur
 
 ***
@@ -156,8 +156,8 @@ Dänemark verbindet hohen Lebensstandard mit konsequenter Nachhaltigkeit und zä
 #### 11.1 ℹ️ Allgemeines
 
 * Statistik: Mischung aus nationalen und internationalen Quellen (Eurostat, OECD u.  a.), Basisjahr 2025.
-* Modelle: BIP-Prognosen und Bevölkerungsentwicklung nach OECD und UN (hypothetisch).
-* Energie- und Infrastrukturdaten laut nationalen Strategiepapiere (hypothetisch).
+* Modelle: BIP-Prognosen und Bevölkerungsentwicklung nach OECD und UN (hypothetisch: ERDA Scenario Modeling Report 2025).
+* Energie- und Infrastrukturdaten laut nationalen Strategiepapiere (hypothetisch: ERDA Scenario Modeling Report 2025).
 
 #### 11.2 📌 Verwendete Quellen & Verweise
 
@@ -176,8 +176,11 @@ Dänemark verbindet hohen Lebensstandard mit konsequenter Nachhaltigkeit und zä
 * **ERDA-Projektionen** (2025): Szenarien und langfristige Modellannahmen
 
 #### 11.3 🛠️ Modellierungen & Annahmen
-* Wirtschaftliche Projektionen 2050–2075: extrapoliert aus Eurostat- und OECD-Daten (hypothetisch)
-* Infrastrukturautarkie: Ziel 80 % erneuerbare Energieversorgung (hypothetisch)
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
+
+* Wirtschaftliche Projektionen 2050–2075: extrapoliert aus Eurostat- und OECD-Daten (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Infrastrukturautarkie: Ziel 80 % erneuerbare Energieversorgung (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ### 12. 🤝 Mitwirkung willkommen
 

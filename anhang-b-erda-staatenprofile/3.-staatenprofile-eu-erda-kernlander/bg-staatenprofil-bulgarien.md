@@ -1,8 +1,8 @@
 ---
-description: "State: BG, Date: 2025-06-11, Responsible Author: OpenAI Assistant, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: BG, Date: 2025-06-11, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "BG"
 date: "2025-06-11"
-author: "OpenAI Assistant"
+author: "Robert Alexander Massinger"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
@@ -16,30 +16,30 @@ version: "1.0"
 * Geografische Lage (Kontinent, Region): Südosteuropa, Balkan, Schwarzmeerküste
 * Bevölkerung (Stand 2025): ca. 6,45 Mio. (World Bank 2023)
 * Regierungsform & Verfassungsstatus (Stand 2025): Parlamentarische Republik, EU- und NATO-Mitglied
-* ERDA-Status [assoziiert | Mitglied | Beitrittskandidat | souveräner Partner]: Mitglied
+* 📅 ERDA-Status: Mitglied
 * Zukünftige Rolle im ERDA-Netzwerk: Brückenknoten Balkan-Schwarzmeer, Digitalisierungsdrehscheibe
 
 ## 2. Demografie & Gesellschaft
 
-* Bevölkerung Prognose (2050 / 2075): 5,5 Mio. / 4,9 Mio. (UN WPP 2022, hypothetisch)
+* Bevölkerung Prognose (2050 / 2075): 5,5 Mio. / 4,9 Mio. (UN WPP 2022, hypothetisch: ERDA Scenario Modeling Report 2025)
 * Altersstruktur (Medianalter, Jugendanteil %, Altenquotient): 45 Jahre, 14,5 %, 21,8 % (World Bank 2023)
 * Urbanisierungsgrad (%): 76,7 % (World Bank 2023)
-* Durchschnittliche Bildung (Schuljahre, Hochschulquote %, MINT-Fächer %): 12 Jahre (OECD 2022), 32 % Hochschulquote (World Bank 2022, hypothetisch), 25 % MINT (hypothetisch)
+* Durchschnittliche Bildung (Schuljahre, Hochschulquote %, MINT-Fächer %): 12 Jahre (OECD 2022), 32 % Hochschulquote (World Bank 2022, hypothetisch: ERDA Scenario Modeling Report 2025), 25 % MINT (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Lebenserwartung (Jahre): 75,7 (World Bank 2023)
-* Migrationssaldo pro Jahr (Durchschnitt 2025–2075): -0,3 % (hypothetisch)
+* Migrationssaldo pro Jahr (Durchschnitt 2025–2075): -0,3 % (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Soziale Kohäsion (Zufriedenheitsindex [0–10], Demokratievertrauen [%]): 5,5 / 45 % (Eurobarometer 2024)
 
 ## 3. Wirtschaft & Innovation
 
-* Bruttoinlandsprodukt (BIP real, heute / 2050 / 2075 in Mrd. EUR): 97,5 / 140 / 200 (World Bank 2023, langfristige Projektion hypothetisch)
+* Bruttoinlandsprodukt (BIP real, heute / 2050 / 2075 in Mrd. EUR): 97,5 / 140 / 200 (World Bank 2023, langfristige Projektion hypothetisch: ERDA Scenario Modeling Report 2025)
 * BIP pro Kopf (EUR): ca. 15.000 EUR
 * Top-3 Schlüsselindustrien: IT-Outsourcing, Maschinenbau, Tourismus
-* Anteil Automatisierung & Digitalisierung (heute / 2050 in %): 45 % / 75 % (hypothetisch)
+* Anteil Automatisierung & Digitalisierung (heute / 2050 in %): 45 % / 75 % (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Forschungs- und Innovationsquote (% des BIP): 0,75 % (World Bank 2022)
 * Patente pro Jahr (Trend, Durchschnitt): 165 (2021, World Bank)
-* Mitglied in FORTERA-Handelsallianzen [Ja | Nein]: Ja (hypothetisch)
-* Mitglied im Democracy Trade Network [Ja | Nein]: Ja (hypothetisch)
-* Nutzung von EHAM+ (Handelsabwehr) [0–10]: 4 (hypothetisch)
+* Mitglied in FORTERA-Handelsallianzen [Ja | Nein]: Ja (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Mitglied im Democracy Trade Network [Ja | Nein]: Ja (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Nutzung von EHAM+ (Handelsabwehr) [0–10]: 4 (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ### 3.1 Infrastrukturautarkie
 
@@ -65,8 +65,8 @@ version: "1.0"
 
 ### Soziale Ressourcen
 
-* Ehrenamt & Gemeinschaftskultur (Index [0–10]): 6 (hypothetisch)
-* CIVITAS-Partizipationsindex [0–10]: 5 (hypothetisch)
+* Ehrenamt & Gemeinschaftskultur (Index [0–10]): 6 (hypothetisch: ERDA Scenario Modeling Report 2025)
+* CIVITAS-Partizipationsindex [0–10]: 5 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Gesundheitssystem (Zugänglichkeit [0–10], Prävention [0–10]): 7 / 6
 
 ### Politische Ressourcen
@@ -74,9 +74,9 @@ version: "1.0"
 * Verfassungsbindung [Ja | Nein]: Ja
 * Direkte Demokratieinstrumente [Vorhanden | Teilweise | Nicht vorhanden]: Teilweise
 * Demokratiequalitätsindex (Freedom House oder vergleichbar [0–100]): 80 (Freedom House 2024)
-* Bürgerpartizipationsquote (lokal/national) [%]: 45 % (hypothetisch)
+* Bürgerpartizipationsquote (lokal/national) [%]: 45 % (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Rechtstaatlichkeitsindex [0–10]: 6,5 (World Justice Project 2023)
-* Internationale Vertrauenswerte [0–10]: 5,5 (hypothetisch)
+* Internationale Vertrauenswerte [0–10]: 5,5 (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ## 5. Sicherheit & Strategische Rolle (EDA)
 
@@ -105,7 +105,7 @@ version: "1.0"
 * UNESCO-Welterbe / Kulturstätten (Anzahl): 10 Stätten (UNESCO 2024)
 * Kreativwirtschaft (Stärke in Musik, Film, Design [0–10]): 6
 * Internationale Sichtbarkeit (Olympische Spiele, Nobelpreise, etc.): moderat, olympische Erfolge im Gewichtheben und Ringen
-* Rolle der Kultur als Vermittlungsfaktor in Demokratienetzwerken [0–10]: 5 (hypothetisch)
+* Rolle der Kultur als Vermittlungsfaktor in Demokratienetzwerken [0–10]: 5 (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ## 7. Entwicklungspfad (2025–2075)
 
@@ -120,7 +120,7 @@ version: "1.0"
 
 * Beitrag zur Post-Knappheitsökonomischen Ordnung: verstärkte Nutzung erneuerbarer Energien, digitale Services
 * Demokratische Resilienz (sozial, kulturell, ökologisch): ausbaufähig
-* Exemplarische Wirkung auf andere Staaten / Regionen: Vorbild für digitalen Wandel im Balkan (hypothetisch)
+* Exemplarische Wirkung auf andere Staaten / Regionen: Vorbild für digitalen Wandel im Balkan (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ## 8. Narrative & Anwerbewirkung
 
@@ -142,7 +142,7 @@ version: "1.0"
 | KI-Kapazität [0–10]                   | 3 | 6 (p) | 8 (p) | 5 |
 | Zivilgesellschaftlicher Index [0–10]  | 5 | 6 (p) | 7 (p) | 6 |
 
-Hinweise: (p) - Prognose, (hypothetisch)
+Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ## 10. Kurzfassung: „Bulgarien auf einen Blick“
 
@@ -153,48 +153,51 @@ Bulgarien ist ein traditionsreiches Balkanland mit EU-Mitgliedschaft und wachsen
 ### 11.1 ℹ️ Allgemeines
 
 * Statistik: World Bank Daten (2023) zu Bevölkerung, Wirtschaft und Urbanisierung
-* Modellannahmen: UN World Population Prospects 2022 (hypothetisch), nationale Entwicklungspläne Bulgariens
-* Energiepotenziale: IEA 2024 Reports (hypothetisch)
+* Modellannahmen: UN World Population Prospects 2022 (hypothetisch: ERDA Scenario Modeling Report 2025), nationale Entwicklungspläne Bulgariens
+* Energiepotenziale: IEA 2024 Reports (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Innovation & Bildung: OECD Education at a Glance 2022
 * Demokratie & Rechtsstaatlichkeit: Freedom House 2024, World Justice Project 2023
 * Nachhaltigkeits- und Ressourcenindikatoren: European Environment Agency 2023
 
 ### 11.2 📎 Verwendete Quellen & Verweise
 
-1. World Bank. 2024. "World Development Indicators". [https://data.worldbank.org](https://data.worldbank.org) (Letzter Zugriff am 2025-06-11).
+1. World Bank. 2024. "World Development Indicators". <https://databank.worldbank.org/source/world-development-indicators> (Letzter Zugriff am 2025-06-11).
 2. Freedom House. 2024. "Freedom in the World 2024: Bulgaria". [https://freedomhouse.org](https://freedomhouse.org) (Letzter Zugriff am 2025-06-11).
 3. European Environment Agency. 2023. "Bulgaria Country Profile". [https://www.eea.europa.eu](https://www.eea.europa.eu) (Letzter Zugriff am 2025-06-11).
 4. OECD. 2022. "Education at a Glance". [https://www.oecd.org](https://www.oecd.org) (Letzter Zugriff am 2025-06-11).
 5. NATO. 2024. "Defence Expenditure of NATO Countries". [https://www.nato.int](https://www.nato.int) (Letzter Zugriff am 2025-06-11).
 
 ### 11.3 🛠️ Modellierungen & Annahmen
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
+
 
 1. Wirtschaftliche Projektionen 2050–2075
-* Basisjahr: 2023; Parameter: BIP-Wachstum 2 % p.a., Inflation 2 % p.a., demografische Trends laut UN (hypothetisch)
+* Basisjahr: 2023; Parameter: BIP-Wachstum 2 % p.a., Inflation 2 % p.a., demografische Trends laut UN (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Quellen: World Bank, UN WPP 2022
 
 2. KI-Kapazitäten
-* Annahme: Rechenleistung verdoppelt sich alle 3 Jahre (hypothetisch)
+* Annahme: Rechenleistung verdoppelt sich alle 3 Jahre (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Quelle: <Quelle einfügen>
 
 3. Infrastrukturautarkie
-* Ziel: 70 % erneuerbare Energieversorgung bis 2050 (hypothetisch)
+* Ziel: 70 % erneuerbare Energieversorgung bis 2050 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Datenbasis: IEA, nationale Energiepläne
 
 4. Demokratie- und Beteiligungswerte
 * Indikatoren: Freedom House Score, Eurobarometer
-* Basiswert 2024; jährliche Verbesserung um 0,3 Punkte (hypothetisch)
+* Basiswert 2024; jährliche Verbesserung um 0,3 Punkte (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 5. Energiepotenziale
 * Szenarien: moderat vs. ambitioniert
-* Potenzial Solar PV: 20 GWp (moderat), 35 GWp (ambitioniert) (hypothetisch)
+* Potenzial Solar PV: 20 GWp (moderat), 35 GWp (ambitioniert) (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Quellen: IEA 2024, nationale Strategie
 
 ## 12. 🤝 Mitwirkung willkommen
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Bulgarien sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 ### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: OpenAI Assistant
-Kontakt: [contact@example.com](mailto:contact@example.com)
+Autor: Robert Alexander Massinger
+Kontakt: [info@mfa.bg](mailto:info@mfa.bg)
 Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
 Letzte Änderung: 2025-06-11

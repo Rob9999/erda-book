@@ -167,14 +167,14 @@ Adria und Balkan.
 #### 11.1 ℹ️ Allgemeines
 
 * Statistik: Mischung aus nationalen und internationalen Quellen (Eurostat, OECD u. a.), Basisjahr 2025.
-* Modelle: BIP-Prognosen und Bevölkerungsentwicklung nach OECD und UN (hypothetisch).
-* Energie- und Infrastrukturdaten laut nationalen Strategiepapiere (hypothetisch).
+* Modelle: BIP-Prognosen und Bevölkerungsentwicklung nach OECD und UN (hypothetisch: ERDA Scenario Modeling Report 2025).
+* Energie- und Infrastrukturdaten laut nationalen Strategiepapiere (hypothetisch: ERDA Scenario Modeling Report 2025).
 
 #### 11.2 📎 Verwendete Quellen & Verweise
 
 **Demografie & Gesellschaft**
 * **Quelle:** Eurostat, https://ec.europa.eu/eurostat
-* **Modell:** UN Population Projections 2022, https://population.un.org
+* **Modell:** UN Population Projections 2022, <https://population.un.org/wpp/Download/Files/1_INDICATORS%20(Standard)/EXCEL_FILES/1_Population/WPP2022_POP_F07_1_TOTAL_POPULATION_BOTH_SEXES.xlsx> *(hypothetical)*
 
 **Wirtschaft & Innovation**
 * **Quelle:** OECD Economic Outlook, https://www.oecd.org/economic-outlook/
@@ -185,7 +185,7 @@ Adria und Balkan.
 * **Modell:** CEDEFOP Future Skills Slovenia
 
 **Gesundheit & Lebenserwartung**
-* **Quelle:** WHO Country Profile Slovenia, https://www.who.int
+* **Quelle:** WHO Country Profile Slovenia *(hypothetical)*
 * **Modell:** Global Burden of Disease Data Slovenia
 
 **Innovation & Patente**
@@ -205,9 +205,12 @@ Adria und Balkan.
 * **Modell:** V-Dem Institute Index Slovenia
 
 #### 11.3 🛠️ Modellierungen & Annahmen
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-* Wirtschaftliche Projektionen 2050–2075: extrapoliert aus Eurostat- und OECD-Trenddaten (hypothetisch)
-* Infrastrukturautarkie: Einschätzungen nationaler Strategiepapiere (hypothetisch)
+
+* Wirtschaftliche Projektionen 2050–2075: extrapoliert aus Eurostat- und OECD-Trenddaten (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Infrastrukturautarkie: Einschätzungen nationaler Strategiepapiere (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 

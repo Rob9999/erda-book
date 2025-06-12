@@ -18,7 +18,7 @@ version: "1.0"
 * 🗺️ Geografische Lage: Ostasien, südlicher Teil der koreanischen Halbinsel
 * 👥 Bevölkerung (2025): ca. 51,8 Mio. (World Bank 2023)
 * 🧠 Regierungsform & Verfassungsstatus (2025): Präsidialrepublik
-* 📅 ERDA-Status: assoziiert
+* 📅 ERDA-Status: Assoziiert
 * 🧭 Rolle im ERDA-Netzwerk (Zukunft): Technologieknoten und Brücke zwischen Ostasien und Europa
 
 ***
@@ -30,22 +30,22 @@ version: "1.0"
 * Urbanisierungsgrad (%): 81 % (World Bank 2023)
 * Durchschnittliche Bildung (Schuljahre, Hochschulquote %, MINT-Fächer %): 12,5 Jahre, 70 %, 30 % (OECD 2023)
 * Lebenserwartung (Jahre): 83,4 (World Bank 2023)
-* Migrationssaldo pro Jahr (Durchschnitt 2025–2075): rund 0 % (hypothetisch)
+* Migrationssaldo pro Jahr (Durchschnitt 2025–2075): rund 0 % (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Soziale Kohäsion (Zufriedenheitsindex [0–10], Demokratievertrauen [%]): 7,0 / 65 % (Gallup 2024)
 
 ***
 
 ### 3. Wirtschaft & Innovation
 
-* Bruttoinlandsprodukt (BIP real, heute / 2050 / 2075 in Mrd. EUR): 1.6 T / 2.1 T (hypothetisch) / 2.4 T (hypothetisch)
+* Bruttoinlandsprodukt (BIP real, heute / 2050 / 2075 in Mrd. EUR): 1.6 T / 2.1 T (hypothetisch: ERDA Scenario Modeling Report 2025) / 2.4 T (hypothetisch: ERDA Scenario Modeling Report 2025)
 * BIP pro Kopf (EUR): 31.000 (World Bank 2023)
 * Top-3 Schlüsselindustrien: Halbleiter, Schiffbau, Automobilbau
-* Anteil Automatisierung & Digitalisierung (heute / 2050 in %): 60 % / 85 % (hypothetisch)
+* Anteil Automatisierung & Digitalisierung (heute / 2050 in %): 60 % / 85 % (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Forschungs- und Innovationsquote (% des BIP): 4,9 % (OECD 2023)
 * Patente pro Jahr (Trend, Durchschnitt): >240.000 (WIPO 2023)
-* Mitglied in FORTERA-Handelsallianzen: Ja (hypothetisch)
+* Mitglied in FORTERA-Handelsallianzen: Ja (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Mitglied im Democracy Trade Network: Ja
-* Nutzung von EHAM+ (Handelsabwehr) [0–10]: 7 (hypothetisch)
+* Nutzung von EHAM+ (Handelsabwehr) [0–10]: 7 (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 #### 3.1 Infrastrukturautarkie
 
@@ -70,7 +70,7 @@ version: "1.0"
 #### 🧑‍🤝‍🧑 Soziale Ressourcen
 
 * Ehrenamt & Gemeinschaftskultur (Index [0–10]): 6
-* CIVITAS-Partizipationsindex [0–10]: 7 (hypothetisch)
+* CIVITAS-Partizipationsindex [0–10]: 7 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Gesundheitssystem (Zugänglichkeit [0–10], Prävention [0–10]): 9 / 8 (WHO 2023)
 
 #### 🛡️ Politische Ressourcen
@@ -122,9 +122,9 @@ version: "1.0"
 #### 🔭 Szenario-Entwicklung
 
 * **Status 2025:** Hochindustrialisierter Staat mit innovativer Wirtschaft und digitaler Gesellschaft
-* **Best Case 2050/2075:** Führende Wissensnation mit nachhaltiger Wirtschaft und hoher Lebensqualität (hypothetisch)
-* **Base Case 2050/2075:** Stabiler Wohlstand, führend in Hightech und erneuerbaren Energien (hypothetisch)
-* **Worst Case 2050/2075:** Demografiekrise schwächt Wirtschaftskraft, Spannungen mit Nachbarn (hypothetisch)
+* **Best Case 2050/2075:** Führende Wissensnation mit nachhaltiger Wirtschaft und hoher Lebensqualität (hypothetisch: ERDA Scenario Modeling Report 2025)
+* **Base Case 2050/2075:** Stabiler Wohlstand, führend in Hightech und erneuerbaren Energien (hypothetisch: ERDA Scenario Modeling Report 2025)
+* **Worst Case 2050/2075:** Demografiekrise schwächt Wirtschaftskraft, Spannungen mit Nachbarn (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 #### 🚀 Rolle in der ERDA-Vision 2075
 
@@ -156,7 +156,7 @@ version: "1.0"
 | KI-Kapazität [0–10]                   | 8 | 9 (p) | 9 (p) | n/b |
 | Zivilgesellschaftlicher Index [0–10]  | 7 | 7,5 (p) | 8 (p) | n/b |
 
-Hinweise: (n/b) - N/B nicht belegt, (p) - Prognose (hypothetisch)
+Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 
@@ -169,7 +169,7 @@ Südkorea ist eine dynamische Hochtechnologienation mit starker demokratischer T
 #### 11.1 ℹ️ Allgemeines
 
 * **Statistik:** World Bank, OECD und nationale Quellen; Basisjahr 2023 für aktuelle Werte
-* **Modellannahmen zur Wirtschaftsentwicklung:** Wachstumsprognosen 1,8 % p.a., Inflation 2 % p.a. (hypothetisch)
+* **Modellannahmen zur Wirtschaftsentwicklung:** Wachstumsprognosen 1,8 % p.a., Inflation 2 % p.a. (hypothetisch: ERDA Scenario Modeling Report 2025)
 * **Energiepotenziale:** IEA Renewables 2024
 * **Innovation & Bildung:** OECD Science, Technology and Industry Outlook 2023
 * **Demokratie & Rechtsstaatlichkeit:** Freedom House 2024, World Justice Project 2023
@@ -177,7 +177,7 @@ Südkorea ist eine dynamische Hochtechnologienation mit starker demokratischer T
 
 #### 11.2 📎 Verwendete Quellen & Verweise
 
-1. World Bank. 2024. "World Development Indicators". [https://data.worldbank.org](https://data.worldbank.org) (Letzter Zugriff am 2025-06-10).
+1. World Bank. 2024. "World Development Indicators". <https://databank.worldbank.org/source/world-development-indicators> (Letzter Zugriff am 2025-06-10).
 2. OECD. 2023. "Education at a Glance". [https://www.oecd.org/education/education-at-a-glance/](https://www.oecd.org/education/education-at-a-glance/) (Letzter Zugriff am 2025-06-10).
 3. Freedom House. 2024. "Freedom in the World 2024 – South Korea". [https://freedomhouse.org](https://freedomhouse.org) (Letzter Zugriff am 2025-06-10).
 4. UNESCO. 2024. "World Heritage List". [https://whc.unesco.org/en/statesparties/kr/](https://whc.unesco.org/en/statesparties/kr/) (Letzter Zugriff am 2025-06-10).
@@ -185,11 +185,14 @@ Südkorea ist eine dynamische Hochtechnologienation mit starker demokratischer T
 6. World Justice Project. 2023. "Rule of Law Index". [https://worldjusticeproject.org](https://worldjusticeproject.org) (Letzter Zugriff am 2025-06-10).
 
 #### 11.3 🛠️ Modellierungen & Annahmen
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-* Wirtschaftliche Projektionen 2050–2075 basieren auf linearen Trendanalysen aus World Bank Daten (hypothetisch)
-* KI-Kapazitäten: Annahme Verdopplung der Rechenleistung alle 3 Jahre (hypothetisch)
-* Infrastrukturautarkie: Ziel 80 % erneuerbare Energieversorgung bis 2050 (hypothetisch)
-* Demokratie- und Beteiligungswerte: Verbesserung um 0,5 Punkte jährlich (hypothetisch)
+
+* Wirtschaftliche Projektionen 2050–2075 basieren auf linearen Trendanalysen aus World Bank Daten (hypothetisch: ERDA Scenario Modeling Report 2025)
+* KI-Kapazitäten: Annahme Verdopplung der Rechenleistung alle 3 Jahre (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Infrastrukturautarkie: Ziel 80 % erneuerbare Energieversorgung bis 2050 (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Demokratie- und Beteiligungswerte: Verbesserung um 0,5 Punkte jährlich (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Energiepotenziale: moderates Szenario 150 GWp Solar, ambitioniert 300 GWp (IEA 2024)
 
 ***

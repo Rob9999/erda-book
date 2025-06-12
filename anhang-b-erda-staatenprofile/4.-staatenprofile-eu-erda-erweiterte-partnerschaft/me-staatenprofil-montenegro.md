@@ -25,10 +25,10 @@ version: "1.0"
 
 ### 2. Demografie & Gesellschaft
 
-* Bevölkerung (2050/2075-Prognose): 0,59 Mio. / 0,57 Mio. (UN WPP 2022, hypothetisch)
+* Bevölkerung (2050/2075-Prognose): 0,59 Mio. / 0,57 Mio. (UN WPP 2022, hypothetisch: ERDA Scenario Modeling Report 2025)
 * Altersstruktur (Medianalter, Jugendanteil, Altenquotient): 39 Jahre, 19 %, 32 %
 * Urbanisierung (%): 68 %[2]
-* Bildung (Durchschnittsjahre, MINT-Anteil, Hochschulquote): 12 Jahre, 25 %, 35 % (hypothetisch)
+* Bildung (Durchschnittsjahre, MINT-Anteil, Hochschulquote): 12 Jahre, 25 %, 35 % (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Lebenserwartung: 77,6 Jahre[3]
 * Migrationssaldo: leicht negativ
 * Soziale Kohäsion (Subjektive Zufriedenheit, Demokratievertrauen): moderat
@@ -40,7 +40,7 @@ version: "1.0"
 * Bruttoinlandsprodukt (BIP, real, heute / 2050 / 2075): 7,5 Mrd. USD[4] / 11 Mrd. USD (p) / 15 Mrd. USD (p)
 * BIP pro Kopf: 12.200 USD[5]
 * Schlüsselindustrien (Top-3): Tourismus, Aluminiumverarbeitung, Energie (Wasserkraft)
-* Anteil Automatisierung & Digitalisierung (2025/2050): 40 % / 60 % (hypothetisch)
+* Anteil Automatisierung & Digitalisierung (2025/2050): 40 % / 60 % (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Forschungs- und Innovationsquote (% des BIP): 1,5 %
 * Patente / Jahr (Trend): unter 100 / leicht steigend
 * Mitglied in FORTERA-Handelsallianzen: Nein
@@ -63,12 +63,12 @@ version: "1.0"
 * Landfläche: 13.812 km²[6]
 * Strategische Rohstoffe: Bauxit, Wasser, Holz
 * Erneuerbare Energiepotenziale: Wasserkraft (hoch), Solar (mittel), Wind (ausbaufähig)
-* Biodiversität & Schutzgebiete: 7 % der Fläche (UNEP, hypothetisch)
+* Biodiversität & Schutzgebiete: 7 % der Fläche (UNEP, hypothetisch: ERDA Scenario Modeling Report 2025)
 
 #### 🧑‍🤝‍🧑 Soziale Ressourcen
 
 * Ehrenamt & Gemeinschaftskultur: stark in Kommunen verankert
-* CIVITAS-Partizipationsindex: 5 (hypothetisch)
+* CIVITAS-Partizipationsindex: 5 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Gesundheitssystem (Zugänglichkeit, Prävention): solide Basis
 
 #### 🛡️ Politische Ressourcen
@@ -76,9 +76,9 @@ version: "1.0"
 * Verfassungsbindung: Ja
 * Direkte Demokratieinstrumente: begrenzt vorhanden
 * Demokratiequalitätsindex (Freedom House 2024): 67/100
-* Bürgerpartizipationsquote (lokal/national): 55 % (hypothetisch)
+* Bürgerpartizipationsquote (lokal/national): 55 % (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Rechtsstaatlichkeitsindex: 0,55 (World Justice Project 2023)
-* Internationale Vertrauenswerte: 0,6 (hypothetisch)
+* Internationale Vertrauenswerte: 0,6 (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 
@@ -118,9 +118,9 @@ version: "1.0"
 #### 🔭 Szenario-Entwicklung
 
 * Status 2025: Solide demokratische Institutionen, wachsende Tourismuswirtschaft
-* Best Case 2050/2075: Voll integrierter EU-Mitgliedstaat mit nachhaltiger Energie und digitaler Verwaltung (hypothetisch)
-* Base Case 2050/2075: Stetiges Wachstum, stabile Demokratie, Tourismus bleibt tragende Säule (hypothetisch)
-* Worst Case 2050/2075: Politische Instabilität hemmt Investitionen (hypothetisch)
+* Best Case 2050/2075: Voll integrierter EU-Mitgliedstaat mit nachhaltiger Energie und digitaler Verwaltung (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Base Case 2050/2075: Stetiges Wachstum, stabile Demokratie, Tourismus bleibt tragende Säule (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Worst Case 2050/2075: Politische Instabilität hemmt Investitionen (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 #### 🚀 Rolle in der ERDA-Vision 2075
 
@@ -152,7 +152,7 @@ version: "1.0"
 | KI-Kapazität [0–10]                   | 3    | 5        | 6        | 6 |
 | Zivilgesellschaftlicher Index [0–10]  | 5    | 6        | 7        | 7 |
 
-Hinweise: (p) - Prognose (UN WPP 2022, OECD etc.)
+Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 
@@ -167,9 +167,9 @@ Montenegro kombiniert beeindruckende Naturlandschaften mit dem Bestreben, sich a
 #### 11.1 ℹ️ Allgemeines
 
 * Statistik: Mischung aus nationalen und internationalen Quellen (World Bank, UN WPP)
-* Modellannahmen zur Wirtschaftsentwicklung: moderate Wachstumsraten (hypothetisch)
+* Modellannahmen zur Wirtschaftsentwicklung: moderate Wachstumsraten (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Energiepotenziale: IEA World Energy Outlook 2024
-* Innovation & Bildung: UNESCO Institute for Statistics (hypothetisch)
+* Innovation & Bildung: UNESCO Institute for Statistics (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Demokratie & Rechtsstaatlichkeit: Freedom House, World Justice Project
 * Nachhaltigkeits- und Ressourcenindikatoren: European Environment Agency (EEA)
 
@@ -183,11 +183,14 @@ Montenegro kombiniert beeindruckende Naturlandschaften mit dem Bestreben, sich a
 6. Rest Countries. 2024. „Montenegro“. [online] verfügbar unter: [https://restcountries.com/v3.1/alpha/me](https://restcountries.com/v3.1/alpha/me) (Letzter Zugriff am 2025-06-10).
 
 #### 11.3 🛠️ Modellierungen & Annahmen
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-* Wirtschaftliche Projektionen 2050–2075: Extrapolation aktueller Daten (hypothetisch)
-* Infrastrukturautarkie: Einschätzungen nationaler Strategiepapiere (hypothetisch)
-* Demokratie- und Beteiligungswerte: Kombination aus Freedom House und WJP (hypothetisch)
-* Energiepotenziale: IEA-Szenarien für die Region (hypothetisch)
+
+* Wirtschaftliche Projektionen 2050–2075: Extrapolation aktueller Daten (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Infrastrukturautarkie: Einschätzungen nationaler Strategiepapiere (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Demokratie- und Beteiligungswerte: Kombination aus Freedom House und WJP (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Energiepotenziale: IEA-Szenarien für die Region (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 

@@ -18,17 +18,17 @@ version: "1.0"
 * **Geografische Lage (Kontinent, Region):** Mittelamerika; zwischen Nicaragua und Panama
 * **Bevölkerung (Stand 2025):** ca. 5,2 Mio.^[World Bank, 2023]
 * **Regierungsform & Verfassungsstatus (Stand 2025):** Präsidentielle Republik
-* **ERDA-Status:** Globale/r Assoziierter
+* 📅 ERDA-Status: Globale/r Assoziierter
 * **Zukünftige Rolle im ERDA-Netzwerk:** Vermittler nachhaltiger Tourismus und Umweltinnovation
 
 ### 2. Demografie & Gesellschaft
 
-* **Bevölkerung Prognose (2050 / 2075):** 5,8 Mio. / 6,1 Mio. (UN WPP 2022, hypothetisch)
+* **Bevölkerung Prognose (2050 / 2075):** 5,8 Mio. / 6,1 Mio. (UN WPP 2022, hypothetisch: ERDA Scenario Modeling Report 2025)
 * **Altersstruktur:** Median 34 Jahre; Jugendanteil 22 %; Altenquotient 16 % (UN WPP 2022)
 * **Urbanisierungsgrad:** 83 % (World Bank 2023)
 * **Durchschnittliche Bildung:** 10,5 Jahre (UNESCO UIS 2023); Hochschulquote 23 % (OECD 2023)
 * **Lebenserwartung:** 80,8 Jahre (World Bank 2023)
-* **Migrationssaldo ∅ (2025–2075):** leicht positiv (hypothetisch)
+* **Migrationssaldo ∅ (2025–2075):** leicht positiv (hypothetisch: ERDA Scenario Modeling Report 2025)
 * **Soziale Kohäsion:** hoher Lebenszufriedenheitsindex (World Happiness Report 2024)
 
 ### 3. Wirtschaft & Innovation
@@ -36,7 +36,7 @@ version: "1.0"
 * **BIP (real, Mrd. EUR, 2023):** 78 (World Bank, Umrechnung 0,9 EUR/USD)
 * **BIP pro Kopf (EUR, 2023):** 15 000 (World Bank)
 * **Top-3 Schlüsselindustrien:** Tourismus, Medizintechnik, Agrarprodukte (Kaffee, Bananen)
-* **Anteil Automatisierung & Digitalisierung (2025/2050):** 40 % / 65 % (hypothetisch)
+* **Anteil Automatisierung & Digitalisierung (2025/2050):** 40 % / 65 % (hypothetisch: ERDA Scenario Modeling Report 2025)
 * **Forschungs- und Innovationsquote:** 0,7 % des BIP (UNESCO 2023)
 * **Patente pro Jahr:** ~150 (WIPO 2023)
 * **Mitglied in FORTERA-Handelsallianzen:** Nein
@@ -66,7 +66,7 @@ version: "1.0"
 #### Soziale Ressourcen
 
 * **Ehrenamt & Gemeinschaft:** stark ausgeprägt in lokalem Umweltschutz
-* **CIVITAS-Partizipationsindex (0–10):** 7 (hypothetisch)
+* **CIVITAS-Partizipationsindex (0–10):** 7 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * **Gesundheitssystem:** Zugang 8/10; Prävention 8/10
 
 #### Politische Ressourcen
@@ -148,7 +148,7 @@ Costa Rica gilt als Vorreiter für nachhaltige Entwicklung und stabile Demokrati
 #### 11.1 ℹ️ Allgemeines
 
 * Statistik: World Bank und nationale Quellen; Basisjahr 2023
-* Modellannahmen zur Wirtschaftsentwicklung: 2 % Wachstum p.a., Inflation 2 % p.a. (hypothetisch)
+* Modellannahmen zur Wirtschaftsentwicklung: 2 % Wachstum p.a., Inflation 2 % p.a. (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Energiepotenziale: IEA Renewables 2024, nationale Strategiepapiere
 * Innovation & Bildung: UNESCO, OECD
 * Demokratie & Rechtsstaatlichkeit: Freedom House 2024, World Justice Project 2023
@@ -156,7 +156,7 @@ Costa Rica gilt als Vorreiter für nachhaltige Entwicklung und stabile Demokrati
 
 #### 11.2 📎 Verwendete Quellen & Verweise
 
-1. **World Bank.** 2024. „World Development Indicators“. <https://data.worldbank.org> (Letzter Zugriff am 2025-06-12).
+1. **World Bank.** 2024. „World Development Indicators“. <https://databank.worldbank.org/source/world-development-indicators> (Letzter Zugriff am 2025-06-12).
 2. **UNESCO Institute for Statistics.** 2023. „Costa Rica Education“. <https://uis.unesco.org> (Letzter Zugriff am 2025-06-12).
 3. **WIPO.** 2023. „Patent Applications by Origin“. <https://www.wipo.int> (Letzter Zugriff am 2025-06-12).
 4. **Freedom House.** 2024. „Freedom in the World 2024 – Costa Rica“. <https://freedomhouse.org> (Letzter Zugriff am 2025-06-12).
@@ -164,11 +164,14 @@ Costa Rica gilt als Vorreiter für nachhaltige Entwicklung und stabile Demokrati
 6. **SIPRI.** 2023. „Military Expenditure Database“. <https://sipri.org> (Letzter Zugriff am 2025-06-12).
 
 #### 11.3 🛠️ Modellierungen & Annahmen
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-* Wirtschaftliche Projektionen 2050–2075: lineare Trends auf Basis World Bank Daten (hypothetisch)
-* KI-Kapazitäten: Annahme Verdopplung der Rechenleistung alle 4 Jahre (hypothetisch)
-* Infrastrukturautarkie: Qualitative Bewertung nach nationalen Plänen (hypothetisch)
-* Demokratie- und Beteiligungswerte: leichte Verbesserung um 0,3 Punkte jährlich (hypothetisch)
+
+* Wirtschaftliche Projektionen 2050–2075: lineare Trends auf Basis World Bank Daten (hypothetisch: ERDA Scenario Modeling Report 2025)
+* KI-Kapazitäten: Annahme Verdopplung der Rechenleistung alle 4 Jahre (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Infrastrukturautarkie: Qualitative Bewertung nach nationalen Plänen (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Demokratie- und Beteiligungswerte: leichte Verbesserung um 0,3 Punkte jährlich (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Energiepotenziale: Szenario hydrobasiert vs. geothermisch (IEA 2024)
 
 ### 12. 🤝 Mitwirkung willkommen

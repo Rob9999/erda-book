@@ -1,8 +1,8 @@
 ---
-description: "State: UY, Date: 2025-06-11, Responsible Author: OpenAI Codex, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: UY, Date: 2025-06-11, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "UY"
 date: "2025-06-11"
-author: "OpenAI Codex"
+author: "Robert Alexander Massinger"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
@@ -18,12 +18,12 @@ version: "1.0"
 * **Geografische Lage (Kontinent, Region):** Südamerika, La-Plata-Region zwischen Brasilien und Argentinien
 * **Bevölkerung (Stand 2023):** ca. 3,39 Mio.^[World Bank, 2023](https://api.worldbank.org/v2/country/URY/indicator/SP.POP.TOTL)
 * **Regierungsform & Verfassungsstatus (Stand 2025):** Präsidiale Republik mit Mehrparteiensystem
-* **ERDA-Status:** Globale/r Assoziierter
+* 📅 ERDA-Status: Globale/r Assoziierter
 * **Zukünftige Rolle im ERDA-Netzwerk:** Digitaler Brückenstaat Mercosur-EU, Agrar- und Nachhaltigkeitspartner
 
 ### 2. Demografie & Gesellschaft
 
-* **Bevölkerung Prognose (2050 / 2075):** ~3,6 Mio. / ~3,7 Mio. (UN WPP 2022, hypothetisch)
+* **Bevölkerung Prognose (2050 / 2075):** ~3,6 Mio. / ~3,7 Mio. (UN WPP 2022, hypothetisch: ERDA Scenario Modeling Report 2025)
 * **Altersstruktur:** Median 36 Jahre; Jugendanteil 21 %; Altenquotient 22 % (UN DESA 2022)
 * **Urbanisierungsgrad:** 96 % (World Bank 2023)
 * **Durchschnittliche Bildung:** 9,5 Jahre; Hochschulquote 19 % (UNESCO 2023)
@@ -33,10 +33,10 @@ version: "1.0"
 
 ### 3. Wirtschaft & Innovation
 
-* **BIP real (heute / 2050 / 2075 in Mrd. EUR):** 71 / ~95 / ~120 (World Bank 2023, Projektion hypothetisch)
+* **BIP real (heute / 2050 / 2075 in Mrd. EUR):** 71 / ~95 / ~120 (World Bank 2023, Projektion hypothetisch: ERDA Scenario Modeling Report 2025)
 * **BIP pro Kopf (EUR):** ~21 000 (World Bank 2023)
 * **Top-3 Schlüsselindustrien:** Agrar- und Lebensmittelwirtschaft, Informations- und Kommunikationstechnologie, erneuerbare Energien
-* **Anteil Automatisierung & Digitalisierung (heute / 2050 in %):** 55 % / 75 % (hypothetisch)
+* **Anteil Automatisierung & Digitalisierung (heute / 2050 in %):** 55 % / 75 % (hypothetisch: ERDA Scenario Modeling Report 2025)
 * **Forschungs- und Innovationsquote (% des BIP):** 0,5 % (UNESCO 2023)
 * **Patente pro Jahr (Trend):** ca. 150 (WIPO 2023)
 * **Mitglied in FORTERA-Handelsallianzen:** Nein
@@ -66,7 +66,7 @@ version: "1.0"
 #### Soziale Ressourcen
 
 * **Ehrenamt & Gemeinschaftskultur:** ausgeprägt in lokalen Vereinen
-* **CIVITAS-Partizipationsindex (0–10):** 7 (hypothetisch)
+* **CIVITAS-Partizipationsindex (0–10):** 7 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * **Gesundheitssystem:** Zugänglichkeit 9/10; Prävention 8/10
 
 #### Politische Ressourcen
@@ -141,7 +141,7 @@ Uruguay ist eine stabile, wohlhabende Demokratie in Südamerika. Mit gut ausgeba
 #### 11.1 ℹ️ Allgemeines
 
 * Statistik: Kombination aus World Bank, UN DESA und nationalen Quellen (Basisjahr 2023)
-* Modellannahmen zur Wirtschaftsentwicklung: Wachstum 2,0 % p.a., Inflation 5 % p.a. (hypothetisch)
+* Modellannahmen zur Wirtschaftsentwicklung: Wachstum 2,0 % p.a., Inflation 5 % p.a. (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Energiepotenziale: laut nationalem Energieplan 2040, IEA 2024
 * Innovation & Bildung: UNESCO Science Report 2023
 * Demokratie & Rechtsstaatlichkeit: Freedom House 2024, World Justice Project 2023
@@ -156,19 +156,22 @@ Uruguay ist eine stabile, wohlhabende Demokratie in Südamerika. Mit gut ausgeba
 5. World Justice Project. 2023. *Rule of Law Index*. [online] verfügbar unter: <https://worldjusticeproject.org> (Zugriff: 2025-06-11).
 
 #### 11.3 🛠️ Modellierungen & Annahmen
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-* Wirtschaftliche Projektionen 2050–2075: basierend auf extrapolierten World-Bank-Daten (hypothetisch)
-* KI-Kapazitäten: Verdoppelung der Rechenleistung alle 3 Jahre (hypothetisch)
-* Infrastrukturautarkie: Szenario nationale Energieversorgung 80 % erneuerbar bis 2050 (hypothetisch)
-* Demokratie- und Beteiligungswerte: jährliche Verbesserung um 0,3 Punkte (hypothetisch)
-* Energiepotenziale: moderat vs. ambitioniert laut IEA (hypothetisch)
+
+* Wirtschaftliche Projektionen 2050–2075: basierend auf extrapolierten World-Bank-Daten (hypothetisch: ERDA Scenario Modeling Report 2025)
+* KI-Kapazitäten: Verdoppelung der Rechenleistung alle 3 Jahre (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Infrastrukturautarkie: Szenario nationale Energieversorgung 80 % erneuerbar bis 2050 (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Demokratie- und Beteiligungswerte: jährliche Verbesserung um 0,3 Punkte (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Energiepotenziale: moderat vs. ambitioniert laut IEA (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ### 12. 🤝 Mitwirkung willkommen
 
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Uruguay sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 #### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: OpenAI Codex
-Kontakt: [noreply@example.com](mailto:noreply@example.com)
+Autor: Robert Alexander Massinger
+Kontakt: [robert.alexander.massinger@outlook.de](mailto:robert.alexander.massinger@outlook.de)
 Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
 Letzte Änderung: 2025-06-11

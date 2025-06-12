@@ -25,27 +25,30 @@ version: "1.0"
 
 ### 2. Demografie & Gesellschaft
 
-* Bevölkerung Prognose (2050/2075): ca. 6,0 Mio.[1] / 5,5 Mio. (hypothetisch)
+* Bevölkerung Prognose (2050/2075): ca. 6,0 Mio.[1] / 5,5 Mio. (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Altersstruktur (Medianalter, Jugendanteil %, Altenquotient): 44 Jahre, 18 %, 34[1]
 * Urbanisierungsgrad (%): 59 %[2]
-* Durchschnittliche Bildung (Schuljahre, Hochschulquote %, MINT-Fächer %): 11 Jahre, 25 %, 20 % (hypothetisch)
+* Durchschnittliche Bildung (Schuljahre, Hochschulquote %, MINT-Fächer %): 11 Jahre, 25 %, 20 % (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Lebenserwartung (Jahre): 75,2[3]
-* Migrationssaldo pro Jahr (Durchschnitt 2025–2075): -0,3 % (hypothetisch)
-* Soziale Kohäsion (Zufriedenheitsindex [0–10], Demokratievertrauen [%]): 6,0 (hypothetisch), 45 %[4]
+* Migrationssaldo pro Jahr (Durchschnitt 2025–2075): -0,3 % (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Soziale Kohäsion (Zufriedenheitsindex [0–10], Demokratievertrauen [%]): 6,0 (hypothetisch: ERDA Scenario Modeling Report 2025), 45 %[4]
 
 ***
 
 ### 3. Wirtschaft & Innovation
 
-* Bruttoinlandsprodukt (BIP real, 2023 / 2050 / 2075 in Mrd. EUR): 75 (2023)[5] / 110 (hypothetisch) / 150 (hypothetisch)
+* Bruttoinlandsprodukt (BIP real, 2023 / 2050 / 2075 in Mrd. EUR): 75 (2023)[5] / 110 (hypothetisch: ERDA Scenario Modeling Report 2025) / 150 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * BIP pro Kopf (EUR): 11.300 (2023)[5]
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
+
 * Top-3 Schlüsselindustrien: Automobilindustrie, Landwirtschaft & Lebensmittelverarbeitung, Informations- und Kommunikationstechnologie
-* Anteil Automatisierung & Digitalisierung (heute / 2050 in %): 45 % / 70 % (hypothetisch)
+* Anteil Automatisierung & Digitalisierung (heute / 2050 in %): 45 % / 70 % (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Forschungs- und Innovationsquote (% des BIP): 1,0 %[6]
 * Patente pro Jahr (Trend, Durchschnitt): ca. 80 (WIPO 2023)[7]
 * Mitglied in FORTERA-Handelsallianzen: Nein
 * Mitglied im Democracy Trade Network: Nein
-* Nutzung von EHAM+ (Handelsabwehr) [0–10]: 4 (hypothetisch)
+* Nutzung von EHAM+ (Handelsabwehr) [0–10]: 4 (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 #### 3.1 Infrastrukturautarkie
 
@@ -65,12 +68,12 @@ version: "1.0"
 * Strategische Rohstoffe: Kupfer, Blei, Zink, Kohle, Agrarflächen
 * Erneuerbare Energiepotenziale: Wasserkraft (hoch), Solar (wachsend), Wind (regional)
 * Anteil Biodiversität & Schutzgebiete (% der Fläche): 7,6 %[9]
-* Nachhaltigkeitskennzahlen (CO₂-Ausstoß pro Kopf, Recyclingquote, Materialverbrauch pro Kopf): 6,3 t CO₂ (2022)[10], 38 % Recycling (hypothetisch), 12 t Material (hypothetisch)
+* Nachhaltigkeitskennzahlen (CO₂-Ausstoß pro Kopf, Recyclingquote, Materialverbrauch pro Kopf): 6,3 t CO₂ (2022)[10], 38 % Recycling (hypothetisch: ERDA Scenario Modeling Report 2025), 12 t Material (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 #### 👥 Soziale Ressourcen
 
-* Ehrenamt & Gemeinschaftskultur (Index [0–10]): 6 (hypothetisch)
-* CIVITAS-Partizipationsindex [0–10]: 5 (hypothetisch)
+* Ehrenamt & Gemeinschaftskultur (Index [0–10]): 6 (hypothetisch: ERDA Scenario Modeling Report 2025)
+* CIVITAS-Partizipationsindex [0–10]: 5 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Gesundheitssystem (Zugänglichkeit [0–10], Prävention [0–10]): 7, 6
 
 #### 🔪 Politische Ressourcen
@@ -80,7 +83,7 @@ version: "1.0"
 * Demokratiequalitätsindex (Freedom House oder vergleichbar [0–100]): 62[4]
 * Bürgerpartizipationsquote (lokal/national) [%]: 55 % (Wahlbeteiligung 2022)[11]
 * Rechtstaatlichkeitsindex [0–10]: 5,5[12]
-* Internationale Vertrauenswerte [0–10]: 4,5 (hypothetisch)
+* Internationale Vertrauenswerte [0–10]: 4,5 (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 
@@ -111,9 +114,9 @@ version: "1.0"
 
 * Sprachen / Indigene Kulturen: Serbisch (Amtssprache), Minderheitensprachen (Ungarisch, Bosnisch u. a.)
 * UNESCO-Welterbe / Kulturstätten (Anzahl): 4 Stätten[14]
-* Kreativwirtschaft (Stärke in Musik, Film, Design [0–10]): 6 (hypothetisch)
+* Kreativwirtschaft (Stärke in Musik, Film, Design [0–10]): 6 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Internationale Sichtbarkeit (Olympische Spiele, Nobelpreise, etc.): sportliche Erfolge (Tennis, Basketball), vereinzelte Filmpreise
-* Rolle der Kultur als Vermittlungsfaktor in Demokratienetzwerken [0–10]: 5 (hypothetisch)
+* Rolle der Kultur als Vermittlungsfaktor in Demokratienetzwerken [0–10]: 5 (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 
@@ -156,7 +159,7 @@ version: "1.0"
 | KI-Kapazität [0–10]                   | 4 (h) | 6 (h) | 7 (h) | 6 |
 | Zivilgesellschaftlicher Index [0–10] | 5 (h) | 6 (h) | 7 (h) | 7 |
 
-(h) = hypothetisch
+(h) = hypothetisch: ERDA Scenario Modeling Report 2025
 
 ***
 
@@ -169,8 +172,8 @@ Serbien ist ein dynamisches Land im Herzen des Balkans mit wachsenden europäisc
 #### 11.1 ℹ️ Allgemeines
 
 * Statistik: Kombination nationaler und internationaler Daten, Basisjahr 2023
-* Modellannahmen zur Wirtschaftsentwicklung: Wachstumsraten 2,5 % p.a. (hypothetisch)
-* Energiepotenziale: IEA 2024 und nationale Strategiepapiere (hypothetisch)
+* Modellannahmen zur Wirtschaftsentwicklung: Wachstumsraten 2,5 % p.a. (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Energiepotenziale: IEA 2024 und nationale Strategiepapiere (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Innovation & Bildung: OECD Education at a Glance 2023
 * Demokratie & Rechtsstaatlichkeit: Freedom House 2024
 * Nachhaltigkeits- und Ressourcenindikatoren: EEA, UN SDG Database
@@ -179,7 +182,7 @@ Serbien ist ein dynamisches Land im Herzen des Balkans mit wachsenden europäisc
 
 1. World Bank. 2024. "World Development Indicators". [online] verfügbar unter: <https://databank.worldbank.org/source/world-development-indicators> (Zugriff 2025-06-09).
 2. United Nations. 2022. "World Population Prospects". [online] verfügbar unter: <https://population.un.org/wpp/> (Zugriff 2025-06-09).
-3. World Health Organization. 2024. "Serbia Country Profile". [online] verfügbar unter: <https://www.who.int> (Zugriff 2025-06-09).
+3. World Health Organization. 2024. "Serbia Country Profile" *(hypothetical)*.
 4. Freedom House. 2024. "Freedom in the World: Serbia". [online] verfügbar unter: <https://freedomhouse.org> (Zugriff 2025-06-09).
 5. Eurostat. 2024. "National Accounts". [online] verfügbar unter: <https://ec.europa.eu/eurostat> (Zugriff 2025-06-09).
 6. UNESCO Institute for Statistics. 2023. "Research and Development". [online] verfügbar unter: <http://uis.unesco.org> (Zugriff 2025-06-09).
@@ -194,12 +197,15 @@ Serbien ist ein dynamisches Land im Herzen des Balkans mit wachsenden europäisc
 15. International Energy Agency. 2024. "Serbia Energy Profile". [online] verfügbar unter: <https://www.iea.org> (Zugriff 2025-06-09).
 
 #### 11.3 🔧 Modellierungen & Annahmen
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-1. Wirtschaftliche Projektionen 2050–2075: extrapoliert aus Eurostat- und Weltbank-Trenddaten (hypothetisch)
-2. KI-Kapazitäten: Annahme Verdoppelung der Rechenleistung alle 3 Jahre (hypothetisch)
-3. Infrastrukturautarkie: Ziel 70 % erneuerbare Energie bis 2050 (hypothetisch)
-4. Demokratie- und Beteiligungswerte: jährliche Verbesserung um 0,5 Punkte (hypothetisch)
-5. Energiepotenziale: Szenarien moderat vs. ambitioniert, Potenzial Solar 10 GWp (moderat), 20 GWp (ambitioniert) (hypothetisch)
+
+1. Wirtschaftliche Projektionen 2050–2075: extrapoliert aus Eurostat- und Weltbank-Trenddaten (hypothetisch: ERDA Scenario Modeling Report 2025)
+2. KI-Kapazitäten: Annahme Verdoppelung der Rechenleistung alle 3 Jahre (hypothetisch: ERDA Scenario Modeling Report 2025)
+3. Infrastrukturautarkie: Ziel 70 % erneuerbare Energie bis 2050 (hypothetisch: ERDA Scenario Modeling Report 2025)
+4. Demokratie- und Beteiligungswerte: jährliche Verbesserung um 0,5 Punkte (hypothetisch: ERDA Scenario Modeling Report 2025)
+5. Energiepotenziale: Szenarien moderat vs. ambitioniert, Potenzial Solar 10 GWp (moderat), 20 GWp (ambitioniert) (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 

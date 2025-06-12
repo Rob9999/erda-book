@@ -18,7 +18,7 @@ version: "1.0"
 * 🗺️ **Geografische Lage:** Nordwest-Europa, Insel Irland, Zugang zum Atlantik (Küste 1 448 km) ([CIA Factbook](https://www.cia.gov/the-world-factbook/countries/ireland/))
 * 👥 **Bevölkerung (2025):** 5 308 039 ([Worldometers](https://www.worldometers.info/world-population/ireland-population/))
 * 🧠 **Regierungsform & Verfassungsstatus (2025):** Unitary parliamentary republic, Verfassung von 1937 ([Gov.ie](https://www.gov.ie/departments/department-of-public-expenditure-and-reform/))
-* 📅 **ERDA-Status:** Mitglied
+* 📅 ERDA-Status: Mitglied
 * 🧭 **Rolle im ERDA-Netzwerk (Zukunft):** Bildungs- und Digitalisierungsnation, Cyberhub
 
 ***
@@ -44,7 +44,17 @@ version: "1.0"
 * **Forschungs- und Innovationsquote:** 1,06 % des BIP (GERD; 2021) ([EIS 2022](https://economy-finance.ec.europa.eu/system/files/2023-06/ip231_en.pdf))
 * **Patente / Jahr:** 428 nationale Anmeldungen (2023) ([WIPO IE Profil](https://www.wipo.int/edocs/statistics-country-profile/en/ie.pdf))
 * **Mitglied in FORTERA-Handelsallianzen?** Nein
-* **Produktionssouveränität in strategischen Sektoren:** ☐ Energie, ☐ IT, ☐ Verteidigung, ☑ Ernährung
+
+#### 3.1 Infrastrukturautarkie
+
+* Produktionssouveränität in strategischen Sektoren:
+  * Energie ☐
+  * IT/Cloud ☐
+  * Verteidigung ☐
+  * Ernährung ☑
+  * Satellitenkommunikation (IRIS²) ☐
+  * Quantentechnologie ☐
+  * Autonome Logistiksysteme ☐
 
 ***
 
@@ -125,8 +135,11 @@ Irland ist eine digitale Inselnation mit hoher Bildungsquote und wachsender Bev�
 * Innovation & Bildung: DESI und OECD-Analysen.
 * Demokratie & Rechtsstaatlichkeit: Eurobarometer, WJP Rule of Law Index.
 * Nachhaltigkeit: nationale Umweltberichte und IEA-Szenarien.
-#### 11.2 📌 Verwendete Quellen & Verweise
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
+* Wirtschaftliche Projektionen 2050–2075: reales Wachstum 2 % p.a. (hypothetisch: ERDA Scenario Modeling Report 2025).
+* Infrastrukturautarkie: Ziel 80 % erneuerbare Energieversorgung (hypothetisch: ERDA Scenario Modeling Report 2025).
 **Demografie & Gesellschaft**
 * UN World Population Prospects. <https://population.un.org/wpp>
 * CSO Ireland. "Measuring Ireland’s Progress".

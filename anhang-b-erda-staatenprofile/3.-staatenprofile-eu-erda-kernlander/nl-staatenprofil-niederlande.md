@@ -17,7 +17,7 @@ version: "1.0"
 * 🗺️ **Geografische Lage:** Westeuropa, Küstenstaat an Nordsee, grenzt an Deutschland und Belgien
 * 👥 **Bevölkerung (2025):** 18.327.400
 * 🧠 **Regierungsform & Verfassungsstatus (2025):** Konstitutionelle Monarchie, parlamentarische Demokratie (Verfassungsbindung: Ja)
-* 📅 **ERDA-Status:** Mitglied
+* 📅 ERDA-Status: Mitglied
 * 🧭 **Rolle im ERDA-Netzwerk (Zukunft):** Logistik- und Innovationshub, Wasser- und Küstermanagement-Expertise, digitaler Cyberhub
 
 ***
@@ -51,6 +51,13 @@ version: "1.0"
   * IT/Cloud ☑
   * Verteidigung ☑
   * Ernährung ☑
+
+#### 3.1 Infrastrukturautarkie
+
+* Energie ☑, IT/Cloud ☑, Verteidigung ☑, Ernährung ☑
+* Satellitenkommunikation (IRIS²) ☑
+* Quantentechnologie ☐
+* Autonome Logistiksysteme ☑
 
 ***
 
@@ -164,8 +171,11 @@ Die Niederlande verbinden maritime Tradition, digitale Stärke und international
 * Migration: CBS & Wikipedia (2023)
 * ERDA-Mitgliedschaft: ERDA-Staatenarchitektur (2025)
 #### 11.3 🛠️ Modellierungen & Annahmen
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-* Prognosen 2050–2075 basieren auf CBS-Bevölkerungstrends und eigenen Szenarien (hypothetisch).
+
+* Prognosen 2050–2075 basieren auf CBS-Bevölkerungstrends und eigenen Szenarien (hypothetisch: ERDA Scenario Modeling Report 2025).
 
 ***
 

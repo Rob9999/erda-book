@@ -16,7 +16,7 @@ version: "1.0"
 
 * 🏳️ Offizieller Name: Slowakische Republik (Slovenská republika)
 * 🗺️ Geografische Lage: Mitteleuropa; Nachbarn: Tschechien, Polen, Ukraine, Ungarn, Österreich
-* 👥 Bevölkerung (2025): 5 474 881 Einw. ([worldometers.info](https://www.worldometers.info/world-population/slovakia-population/?utm_source=chatgpt.com))
+* 👥 Bevölkerung (2025): 5 474 881 Einw. ([worldometers.info](https://www.worldometers.info/world-population/slovakia-population/))
 * 🧠 Regierungsform & Verfassungsstatus (2025): Parlamentarische Republik, Verfassung von 1992
 * 📅 ERDA-Status: Mitglied
 * 🧭 Rolle im ERDA-Netzwerk (Zukunft): Automobil- und Tech-Hub, Korridor zwischen Ost- und Westeuropa
@@ -26,26 +26,29 @@ version: "1.0"
 ### 2. Demografie & Gesellschaft
 
 * Bevölkerung (2050/2075-Prognose):
-  * 2050: 4 936 488 Einw. ([populationpyramid.net](https://www.populationpyramid.net/population-size-per-country/2050/?utm_source=chatgpt.com))
+  * 2050: 4 936 488 Einw. ([populationpyramid.net](https://www.populationpyramid.net/population-size-per-country/2050/))
   * 2075: ≈ 4 420 000 Einw. (Prognose)
 * Altersstruktur:
-  * Medianalter: 42,3 Jahre (2025) ([worldometers.info](https://www.worldometers.info/world-population/population-by-country/?utm_source=chatgpt.com))
+  * Medianalter: 42,3 Jahre (2025) ([worldometers.info](https://www.worldometers.info/world-population/population-by-country/))
   * Jugendanteil (0–14 J.): 14,6 %
   * Altenquotient (65+/15–64 J.): 22,2 %
-* Urbanisierung: 54 % (2025) ([worldometers.info](https://www.worldometers.info/demographics/slovakia-demographics/?utm_source=chatgpt.com))
+* Urbanisierung: 54 % (2025) ([worldometers.info](https://www.worldometers.info/demographics/slovakia-demographics/))
 * Bildung:
-  * Durchschnittliche Schuljahre: 12,0 Jahre ([worldeconomics.com](https://www.worldeconomics.com/Indicator-Data/ESG/Social/Mean-Years-of-Schooling/?utm_source=chatgpt.com))
-  * Hochschulquote (25–34 J.): 39,7 % (2020) ([tradingeconomics.com](https://tradingeconomics.com/slovakia/tertiary-educational-attainment-eurostat-data.html?utm_source=chatgpt.com))
+  * Durchschnittliche Schuljahre: 12,0 Jahre ([worldeconomics.com](https://www.worldeconomics.com/Indicator-Data/ESG/Social/Mean-Years-of-Schooling/))
+  * Hochschulquote (25–34 J.): 39,7 % (2020) ([tradingeconomics.com](https://tradingeconomics.com/slovakia/tertiary-educational-attainment-eurostat-data.html))
   * MINT-Anteil neuer Tertiär-Studierender: 29 % (geschätzt)
-* Lebenserwartung: 77,8 Jahre (2025) ([data.worldbank.org](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=SK\&utm_source=chatgpt.com))
-* Migrationssaldo: –3,9 ‰ p. a. (2024: –21 027 Personen) ([data.worldbank.org](https://data.worldbank.org/country/slovak-republic?utm_source=chatgpt.com))
+* Lebenserwartung: 77,8 Jahre (2025) ([data.worldbank.org](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=SK\))
+* Migrationssaldo: –3,9 ‰ p. a. (2024: –21 027 Personen) ([data.worldbank.org](https://data.worldbank.org/country/slovak-republic))
 * Soziale Kohäsion:
   * Subjektive Lebenszufriedenheit: 6,0/10 (World Happiness Report 2023)
   * Vertrauen in Demokratie (Parlament): 21 % (Eurobarometer 2024)
 
 #### 11.3 🛠️ Modellierungen & Annahmen
-* Wirtschaftliche Projektionen 2050–2075: 1,5 % reales Wachstum p.a. (hypothetisch).
-* Infrastrukturautarkie: Ziel 80 % erneuerbare Energieversorgung (hypothetisch).
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
+
+* Wirtschaftliche Projektionen 2050–2075: 1,5 % reales Wachstum p.a. (hypothetisch: ERDA Scenario Modeling Report 2025).
+* Infrastrukturautarkie: Ziel 80 % erneuerbare Energieversorgung (hypothetisch: ERDA Scenario Modeling Report 2025).
 
 
 ***
@@ -53,11 +56,11 @@ version: "1.0"
 ### 3. Wirtschaft & Innovation
 
 * Bruttoinlandsprodukt (real):
-  * 2023: 118,0 Mrd. USD ([databank.worldbank.org](https://databank.worldbank.org/reports.aspx?country=SVK\&source=2\&utm_source=chatgpt.com))
+  * 2023: 118,0 Mrd. USD ([databank.worldbank.org](https://databank.worldbank.org/reports.aspx?country=SVK\&source=2\))
   * 2050 (1,5 % p. a.): ≈ 184 Mrd. USD
   * 2075 (1,5 % p. a.): ≈ 335 Mrd. USD
 * BIP pro Kopf:
-  * 2023: 21 520 USD ([databank.worldbank.org](https://databank.worldbank.org/reports.aspx?country=SVK\&source=2\&utm_source=chatgpt.com))
+  * 2023: 21 520 USD ([databank.worldbank.org](https://databank.worldbank.org/reports.aspx?country=SVK\&source=2\))
   * 2050: ≈ 37 200 USD
   * 2075: ≈ 72 000 USD
 * Schlüsselindustrien (Top‑3):
@@ -65,8 +68,8 @@ version: "1.0"
   2. Elektronik & Maschinenbau
   3. Chemie & Pharma
 * Automatisierung & Digitalisierung: 25 % (Industrie‑4.0‑Einsatz, 2023)
-* Forschungs‑ und Innovationsquote: 0,92 % des BIP (2021) ([theglobaleconomy.com](https://www.theglobaleconomy.com/Slovakia/Research_and_development/?utm_source=chatgpt.com))
-* Patente/Jahr (Trend): 233 Anmeldungen (2022) ([wipo.int](https://www.wipo.int/edocs/gii-ranking/2024/sk.pdf?utm_source=chatgpt.com))
+* Forschungs‑ und Innovationsquote: 0,92 % des BIP (2021) ([theglobaleconomy.com](https://www.theglobaleconomy.com/Slovakia/Research_and_development/))
+* Patente/Jahr (Trend): 233 Anmeldungen (2022) ([wipo.int](https://www.wipo.int/edocs/gii-ranking/2024/sk.pdf))
 * Mitglied in FORTERA-Handelsallianzen? Nein
 
 #### 3.1 Infrastrukturautarkie
@@ -178,35 +181,35 @@ Die Slowakei ist ein industriell geprägter Binnenstaat in Mitteleuropa. Als wic
 #### 11.1 ℹ️ Allgemeines
 
 * Statistik: Mischung aus nationalen und internationalen Quellen (Eurostat, OECD u. a.), Basisjahr 2025.
-* Modelle: BIP-Prognosen und Bevölkerungsentwicklung nach OECD und UN (hypothetisch).
-* Energie- und Infrastrukturdaten laut nationalen Strategiepapiere (hypothetisch).
+* Modelle: BIP-Prognosen und Bevölkerungsentwicklung nach OECD und UN (hypothetisch: ERDA Scenario Modeling Report 2025).
+* Energie- und Infrastrukturdaten laut nationalen Strategiepapiere (hypothetisch: ERDA Scenario Modeling Report 2025).
 
 #### 11.2 📎 Verwendete Quellen & Verweise
 
 **Demografie & Gesellschaft**
 
-* **Worldometer (2025):** [Slovakia Population 2025](https://www.worldometers.info/world-population/slovakia-population/) ([worldometers.info](https://www.worldometers.info/world-population/slovakia-population/?utm_source=chatgpt.com))
-* **PopulationPyramid.net (2050):** [Slovakia 2050 Population](https://www.populationpyramid.net/slovakia/2050/) ([populationpyramid.net](https://www.populationpyramid.net/slovakia/2050/?utm_source=chatgpt.com))
+* **Worldometer (2025):** [Slovakia Population 2025](https://www.worldometers.info/world-population/slovakia-population/) ([worldometers.info](https://www.worldometers.info/world-population/slovakia-population/))
+* **PopulationPyramid.net (2050):** [Slovakia 2050 Population](https://www.populationpyramid.net/slovakia/2050/) ([populationpyramid.net](https://www.populationpyramid.net/slovakia/2050/))
 * **Eigenes Prognosemodell (2075)**
 
 **Wirtschaft & Innovation**
 
-* **World Bank:** [GDP (current US$) – Slovakia](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=SK) ([databank.worldbank.org](https://databank.worldbank.org/reports.aspx?country=SVK\&source=2\&utm_source=chatgpt.com))
+* **World Bank:** [GDP (current US$) – Slovakia](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=SK) ([databank.worldbank.org](https://databank.worldbank.org/reports.aspx?country=SVK\&source=2\))
 * **Eigenes Prognosemodell:** 1,5 % reales Wachstum p. a.
 
 **Soziales & Bildung**
 
-* **Eurostat:** [Tertiary Educational Attainment (edat\_lfse\_03)](https://ec.europa.eu/eurostat/databrowser/view/EDAT_LFSE_03/) ([ec.europa.eu](https://ec.europa.eu/eurostat/statistics-explained/index.php/Educational_attainment_statistics?utm_source=chatgpt.com))
-* **WorldEconomics.com:** [Mean Years of Schooling – Slovak Republic](https://www.worldeconomics.com/Indicator-Data/ESG/Social/Mean-Years-of-Schooling/) ([worldeconomics.com](https://www.worldeconomics.com/Indicator-Data/ESG/Social/Mean-Years-of-Schooling/?utm_source=chatgpt.com))
+* **Eurostat:** [Tertiary Educational Attainment (edat\_lfse\_03)](https://ec.europa.eu/eurostat/databrowser/view/EDAT_LFSE_03/) ([ec.europa.eu](https://ec.europa.eu/eurostat/statistics-explained/index.php/Educational_attainment_statistics))
+* **WorldEconomics.com:** [Mean Years of Schooling – Slovak Republic](https://www.worldeconomics.com/Indicator-Data/ESG/Social/Mean-Years-of-Schooling/) ([worldeconomics.com](https://www.worldeconomics.com/Indicator-Data/ESG/Social/Mean-Years-of-Schooling/))
 
 **Gesundheit & Lebenserwartung**
 
-* **World Bank:** [Life Expectancy at Birth – Slovakia](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=SK) ([data.worldbank.org](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=SK\&utm_source=chatgpt.com))
+* **World Bank:** [Life Expectancy at Birth – Slovakia](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=SK) ([data.worldbank.org](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=SK\))
 
 **Innovation & Patente**
 
-* **TradingEconomics:** [R\&D Expenditure (% of GDP) – Slovakia](https://tradingeconomics.com/slovakia/research-and-development-expenditure-percent-of-gdp-wb-data.html) ([theglobaleconomy.com](https://www.theglobaleconomy.com/Slovakia/Research_and_development/?utm_source=chatgpt.com))
-* **WIPO GII 2024:** [Patents by Origin – Slovakia](https://www.wipo.int/edocs/gii-ranking/2024/sk.pdf) ([wipo.int](https://www.wipo.int/edocs/gii-ranking/2024/sk.pdf?utm_source=chatgpt.com))
+* **TradingEconomics:** [R\&D Expenditure (% of GDP) – Slovakia](https://tradingeconomics.com/slovakia/research-and-development-expenditure-percent-of-gdp-wb-data.html) ([theglobaleconomy.com](https://www.theglobaleconomy.com/Slovakia/Research_and_development/))
+* **WIPO GII 2024:** [Patents by Origin – Slovakia](https://www.wipo.int/edocs/gii-ranking/2024/sk.pdf) ([wipo.int](https://www.wipo.int/edocs/gii-ranking/2024/sk.pdf))
 
 **Umwelt & Ressourcen**
 
@@ -224,8 +227,11 @@ Die Slowakei ist ein industriell geprägter Binnenstaat in Mitteleuropa. Als wic
 * **Eurobarometer 2024:** [Public Opinion Survey 2251](https://europa.eu/eurobarometer/surveys/survey-detail/2251)
 
 #### 11.3 🛠️ Modellierungen & Annahmen
-* Wirtschaftliche Projektionen 2050–2075: 1,5 % reales Wachstum p.a. (hypothetisch).
-* Infrastrukturautarkie: Ziel 80 % erneuerbare Energieversorgung (hypothetisch).
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
+
+* Wirtschaftliche Projektionen 2050–2075: 1,5 % reales Wachstum p.a. (hypothetisch: ERDA Scenario Modeling Report 2025).
+* Infrastrukturautarkie: Ziel 80 % erneuerbare Energieversorgung (hypothetisch: ERDA Scenario Modeling Report 2025).
 
 
 ### 12. 🤝 Mitwirkung willkommen
