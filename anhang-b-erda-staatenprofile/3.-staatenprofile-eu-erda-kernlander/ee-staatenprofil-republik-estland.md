@@ -28,13 +28,13 @@ version: "1.0"
 * **Bevölkerung (2050/2075-Prognose):** \~1 270 000 (2050), \~1 200 000 (2075) ([UN WPP](https://population.un.org/wpp/))
 * **Altersstruktur:** Medianalter 43,6 Jahre (2020) ([CIA Factbook](https://www.cia.gov/the-world-factbook/countries/estonia/)); Jugendanteil (< 15 Jahre) 14,4 % (2022); Altenquotient (≥ 65 Jahre) 21,6 % (2022) ([CIA Factbook](https://www.cia.gov/the-world-factbook/countries/estonia/))
 * **Urbanisierung:** 68,2 % (2022) ([CIA Factbook](https://www.cia.gov/the-world-factbook/countries/estonia/))
-* **Bildung:**&#x20;
+* **Bildung:** 
   * Durchschnittsjahre (Mean years of schooling) 12,7 Jahre (2021) ([UNDP HDR](https://hdr.undp.org/data-center/specific-country-data#/countries/EST))
   * MINT-Anteil: 30 % der Hochschulabschlüsse (2022) ([Eurostat](https://ec.europa.eu/eurostat/databrowser/view/educ_uoe_grad04/default/table?lang=en))
   * Hochschulquote: 51,7 % (25–34 Jährige, 2023) ([Eurostat](https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_22/default/table?lang=en))
 * **Lebenserwartung:** 78,6 Jahre (2022) ([Worldometers](https://www.worldometers.info/demographics/estonia-demographics/))
 * **Migrationssaldo:** 0,54 Migrant:innen/1 000 EW (2020) ([CIA Factbook](https://www.cia.gov/the-world-factbook/countries/estonia/))
-* **Soziale Kohäsion:**&#x20;
+* **Soziale Kohäsion:** 
   * Subjektive Zufriedenheit: 5,55/10 (World Happiness Report 2024) ([WHR](https://worldhappiness.report/))
   * Vertrauen in Demokratie (Vertrauen ins nationale Parlament): 30 % (2024) ([Eurobarometer](https://europa.eu/eurobarometer/surveys))
 
@@ -89,7 +89,7 @@ version: "1.0"
 
 ### 5. Sicherheit & strategische Rolle (EDA)
 
-* **Militärisches Potenzial:**&#x20;
+* **Militärisches Potenzial:** 
   * DSN-geeignet: Nein
   * Cyberkommando: Ja (Estonian Defence Force Cyber Command) ([EDF](https://mil.ee))
   * Frühwarnsystem: EU Copernicus

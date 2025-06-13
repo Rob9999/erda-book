@@ -83,7 +83,7 @@ version: "1.0"
 * **Militärisches Potenzial:** NATO-Mitglied; DSN-Knoten; Cyberkommando; Frühwarnsystem (NATO NCI Agency)
 * **Verteidigungsausgaben:** 2,0 % BIP (2024) ([SIPRI](https://www.sipri.org/))
 * **Rolle im Ostseeraum:** Gemeinsame Übungen BALTOPS; EU NAVFOR Aspirant
-* **Zivile Resilienzprogramme:** Nationale Katastrophenschutzpläne (Vyriausybė)&#x20;
+* **Zivile Resilienzprogramme:** Nationale Katastrophenschutzpläne (Vyriausybė) 
 * **Drohnen-, Raumfahrt-, KI-Kapazitäten:** ESA-Mitglied, nationale AI-Strategie 2021, Drohnenentwicklung (INNO drone)
 
 ***

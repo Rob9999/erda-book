@@ -63,14 +63,14 @@ version: "1.0"
 #### 🌱 Natürliche Ressourcen:
 
 * **Land-/Meeresfläche:** 70 273 km² Land ([Wikipedia](https://en.wikipedia.org/wiki/Republic_of_Ireland#Geography)), 410 310 km² EEZ ([Wikipedia](https://es.wikipedia.org/wiki/Zona_econ%C3%B3mica_exclusiva))
-* **Strategische Rohstoffe:** Zink, Blei (Tara Mine: größtes Zink-Blei-Bergwerk Europas; Tara Mine Website)&#x20;
+* **Strategische Rohstoffe:** Zink, Blei (Tara Mine: größtes Zink-Blei-Bergwerk Europas; Tara Mine Website) 
 * **Erneuerbare Energiepotenziale:** Onshore-Wind >50 GW, Offshore-Wind >27 GW (SEAI); Solar‑PV Kapazität 1 GW (2023) (SEAI);
 * **Biodiversität & Schutzgebiete:** 12 % Fläche unter Schutz (Natura 2000 & Nationalparks) ([NPWS](https://www.npws.ie/))
 
 #### 🧑‍🤝‍🧑 Soziale Ressourcen:
 
 * **Ehrenamt & Gemeinschaft:** Freiwilligenrate 36 % (Eurobarometer-Freizeitstudie);
-* **Civic-Tech-Nutzung:** GOV.UK Ireland Citizen Portal ([gov.ie](https://www.gov.ie/en/service/))&#x20;
+* **Civic-Tech-Nutzung:** GOV.UK Ireland Citizen Portal ([gov.ie](https://www.gov.ie/en/service/)) 
 * **Gesundheitssystem:** Universelles System mit Steuerfinanzierung, Präventionsprogramme (HSE) ([HSE](https://www.hse.ie/))
 
 #### 🛡️ Politische Ressourcen:
@@ -87,7 +87,7 @@ version: "1.0"
 * **Militärisches Potenzial:** Neutralität; keine DSN‑Knoten; Cyberabwehr-Einheit (Defence Forces Cyber Command); Frühwarninfo via EU Copernicus
 * **Verteidigungsausgaben:** 0,34 % BIP (2024) ([SIPRI](https://www.sipri.org/))
 * **Rolle im Atlantik-Raum:** Maritime Überwachung, EU NAVFOR Mitarbeit ([EEAS](https://eeas.europa.eu/))
-* **Zivile Resilienzprogramme:** nationaler Katastrophenschutz (DECLG)&#x20;
+* **Zivile Resilienzprogramme:** nationaler Katastrophenschutz (DECLG) 
 * **Drohnen-, Raumfahrt-, KI-Kapazitäten:** Basisinfrastruktur vorhanden (ESA-Mitglied, AI-Strategie 2021)
 
 ***

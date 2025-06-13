@@ -50,7 +50,7 @@ version: "1.0"
 #### 3.1 Infrastrukturautarkie
 
 * Energie ☑, IT/Cloud ☑, Verteidigung ☑, Ernährung ☐
-* Satellitenkommunikation (IRIS\xb2) ☑
+* Satellitenkommunikation (IRIS²) ☑
 * Quantentechnologie ☑
 * Autonome Logistiksysteme ☑
 
@@ -60,7 +60,7 @@ version: "1.0"
 
 #### 🌱 Natürliche Ressourcen:
 
-* Land-/Meeresfläche: 377.930 km\xb2 / 4,5 Mio. km\xb2 EEZ
+* Land-/Meeresfläche: 377.930 km² / 4,5 Mio. km² EEZ
 * Strategische Rohstoffe: Seltene Erden (begrenzte Vorkommen), Fischgründe, Forstwirtschaft
 * Erneuerbare Energiepotenziale: Geothermie (hoch), Solar (hoch), Wind (offshore vielversprechend)
 * Biodiversität & Schutzgebiete (%): 21 % Schutzfläche

@@ -65,4 +65,4 @@ Kapitel 2 liefert die **zivilisatorische Grundlegung** des ERDA-Konzepts. Es zei
 
 ***
 
-> **Demokratie ist nicht nur ein System. Sie ist die Antwort auf die Frage:&#x20;**_**Was ist ein gutes Leben – für alle?**_
+> **Demokratie ist nicht nur ein System. Sie ist die Antwort auf die Frage: **_**Was ist ein gutes Leben – für alle?**_
