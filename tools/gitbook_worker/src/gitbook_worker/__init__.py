@@ -18,6 +18,8 @@ from datetime import datetime
 import requests
 import json
 import shutil
+
+__version__ = "2.0.0"
 import tqdm
 
 # Optional dependencies; ensure these are installed or wrapped in try/except
