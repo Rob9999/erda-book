@@ -1107,8 +1107,8 @@ def proof_and_repair_external_references(
                         file,
                         repaired_reference["error"],
                     )
-            # write back the result to the file
-            with open(file, "a", encoding="utf-8") as wf:
+            # write back the result to the file, replacing previous content
+            with open(file, "w", encoding="utf-8") as wf:
                 wf.writelines(lines)
     return report
 
