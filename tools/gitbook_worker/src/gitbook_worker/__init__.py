@@ -137,6 +137,26 @@ def extract_multiline_list_items(text):
     return pattern.findall(text)
 
 
+def get_language_dependent_header_pattern_for_sources(language: str = "de") -> re.Pattern:
+    """Return a regex to match source section headers.
+
+    The pattern is language-aware and currently supports German and English
+    headings. Unknown languages fall back to a generic pattern that matches
+    both variants.
+    """
+    lang = (language or "").lower()
+    patterns = {
+        "de": ["Quellen", "Quellen & Verweise", "Quellen und Verweise"],
+        "en": ["Sources", "References", "Sources & References"],
+    }
+    words = patterns.get(lang, []) + patterns["de"] + patterns["en"]
+    # Deduplicate while preserving order
+    seen = set()
+    words = [w for w in words if not (w in seen or seen.add(w))]
+    regex = "|".join(re.escape(w) for w in words)
+    return re.compile(rf"^(#{{1,6}})\s*(?:{regex})", re.IGNORECASE)
+
+
 def extract_sources_of_a_md_file_to_dict(
     md_file,
 ) -> Dict[
@@ -144,8 +164,7 @@ def extract_sources_of_a_md_file_to_dict(
 ]:  # returns a dict {str(md_file): [{name: {numbering, link, comment, line, kind}}]}
     """Extract 'Sources' sections from markdown files into a dict.<br>
     Typically references, sources or bibliography sections.<br>
-    TODO: get_language_dependent_header_pattern_for_sources()<br>
-    1. Current Header Pattern: ^.* Quellen<br>
+    Uses get_language_dependent_header_pattern_for_sources()<br>
     2. Current List Pattern: see get_extract_multiline_list_items_pattern()<br>
     <br>
     Dict Format:<br>
@@ -189,7 +208,7 @@ def extract_sources_of_a_md_file_to_dict(
     Returns a dictionary of sources found in the markdown files.
     """
     sources = {}
-    header_pattern = re.compile(r"^(#{1,6})\s*.*Quellen", re.IGNORECASE)
+    header_pattern = get_language_dependent_header_pattern_for_sources()
     list_pattern = get_extract_multiline_list_items_pattern()
     if md_file:
         try:
@@ -250,8 +269,7 @@ def extract_sources_of_a_md_file_to_dict(
 def extract_sources_to_dict(md_files) -> Dict[str, List[Dict[str, Dict[str, Any]]]]:
     """Extract 'Sources' sections from markdown files into a dict.<br>
     Typically references, sources or bibliography sections.<br>
-    TODO: get_language_dependent_header_pattern_for_sources()<br>
-    1. Current Header Pattern: ^.* Quellen<br>
+    Uses get_language_dependent_header_pattern_for_sources()<br>
     2. Current List Pattern: ^\s*([0-9a-z\*]+[\.) ]|[-*+])\s+<br>
     Shall find all lines starting with<br>
         a number followed by a dash or bracket or whitespace and then text<br>
@@ -1109,8 +1127,8 @@ def proof_and_repair_external_references(
                         file,
                         repaired_reference["error"],
                     )
-            # write back the result to the file
-            with open(file, "a", encoding="utf-8") as wf:
+            # write back the result to the file, replacing previous content
+            with open(file, "w", encoding="utf-8") as wf:
                 wf.writelines(lines)
     return report
 

@@ -133,9 +133,9 @@ Nicht politisch integrierte Demokratien mit sicherheitspolitischer und innovatio
 #### 📚 Gesamtüberblick ERDA-Staaten (nach Stand 2025)
 
 * **24 EU/ERDA-Kernstaaten** (volle Verfassungsintegration)
-* **27 erweiterte Partnerstaaten** (europäische Nachbarschaft, transnational)
+* **28 erweiterte Partnerstaaten** (europäische Nachbarschaft, transnational)
 * **12 globale Demokratien** (assoziierte Partner)
 
-→ Insgesamt **ca. 50 Staaten** perspektivisch im erweiterten ERDA-Netzwerk.
+→ Insgesamt **ca. 64 Staaten** perspektivisch im erweiterten ERDA-Netzwerk.
 
 ***
