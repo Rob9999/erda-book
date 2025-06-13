@@ -4,23 +4,21 @@ import io
 import os
 import logging
 from datetime import datetime
-from . import (
-    run,
-    parse_summary,
-    extract_sources,
+from .utils import run, parse_summary, readability_report
+from .linkcheck import (
     check_links,
-    lint_markdown,
     check_images,
-    readability_report,
-    validate_metadata,
     check_duplicate_headings,
     check_citation_numbering,
     list_todos,
-    spellcheck,
+)
+from .source_extract import extract_sources
+from .ai_tools import (
     proof_and_repair_internal_references,
     proof_and_repair_external_references,
-    clone_or_update_repo,
 )
+from .repo import clone_or_update_repo
+from . import lint_markdown, validate_metadata, spellcheck
 
 
 def main():
