@@ -1,21 +1,16 @@
 import ast
-import io
 import random
 import time
 from typing import List
-from enum import Enum
 import stat
 import subprocess
 import sys
 import os
 import re
-import argparse
 import csv
 from typing import Any, Dict
 import requests
 import logging
-from datetime import datetime
-import requests
 import json
 import shutil
 
@@ -30,7 +25,6 @@ except ImportError:
 
 try:
     import textstat
-    import shutil
     from difflib import SequenceMatcher
 except ImportError:
     textstat = None
