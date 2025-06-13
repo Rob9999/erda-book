@@ -36,58 +36,64 @@ def main():
         help="Branch of the Git repository",
     )
     parser.add_argument(
-        "-o",
-        "--output",
+        "--pdf",
         type=str,
         default="",
-        help="Export a pdf. Base name for the output PDF",
+        help="Export a pdf. (Path File) name for the output PDF.",
+    )
+    parser.add_argument(
+        "-o",
+        "--out-dir",
+        type=str,
+        default="",
+        help="Output directory to place all generated documents, lists, etc - except temp files.",
     )
     parser.add_argument(
         "-c",
         "--clone-dir",
         type=str,
         default="gitbook_repo",
-        help="Directory to clone the repository into",
+        help="Directory to clone the repository into.",
     )
     parser.add_argument(
         "-q",
         "--temp-dir",
         type=str,
         default="temp",
-        help="Directory to place all temp results into",
+        help="Directory to place all temp results into.",
     )
     parser.add_argument(
-        "-s", "--export-sources", action="store_true", help="Export sources to CSV"
+        "-s", "--export-sources", action="store_true", help="Export sources to CSV."
     )
     parser.add_argument(
-        "-l", "--check-links", action="store_true", help="Check for broken HTTP links"
+        "-l", "--check-links", action="store_true", help="Check for broken HTTP links."
     )
     parser.add_argument(
-        "-m", "--markdownlint", action="store_true", help="Run markdownlint"
+        "-m", "--markdownlint", action="store_true", help="Run markdownlint."
     )
     parser.add_argument(
-        "-i", "--check-images", action="store_true", help="Verify image references"
+        "-i", "--check-images", action="store_true", help="Verify image references."
     )
     parser.add_argument(
-        "-r", "--readability", action="store_true", help="Generate readability report"
+        "-r", "--readability", action="store_true", help="Generate readability report."
     )
     parser.add_argument(
-        "-d", "--metadata", action="store_true", help="Validate YAML metadata"
+        "-d", "--metadata", action="store_true", help="Validate YAML metadata."
     )
     parser.add_argument(
         "-u",
         "--duplicate-headings",
         action="store_true",
-        help="Find duplicate headings",
+        help="Find duplicate headings.",
     )
     parser.add_argument(
-        "-a", "--citations", action="store_true", help="Check citation numbering"
+        "-a", "--citations", action="store_true", help="Check citation numbering."
     )
     parser.add_argument(
-        "-t", "--todos", action="store_true", help="List TODO/FIXME items"
+        "-t", "--todos", action="store_true", help="List TODO/FIXME items."
     )
     parser.add_argument(
-        "-p", "--spellcheck", action="store_true", help="Run spellchecker"
+        "-p", "--spellcheck", action="store_true", help="Run spellchecker."
     )
     parser.add_argument(
         "--fix-internal-links",
@@ -98,30 +104,30 @@ def main():
         "--ai-url",
         type=str,
         default="https://api.openai.com/v1/chat/completions",
-        help="URL of the AI API endpoint (default: OpenAI)",
+        help="URL of the AI API endpoint (default: OpenAI).",
     )
     parser.add_argument(
         "--ai-api-key",
         type=str,
         default="",
-        help="API key for the AI service (required for OpenAI and GenAI)",
+        help="API key for the AI service (required for OpenAI and GenAI).",
     )
     parser.add_argument(
         "--ai-provider",
         type=str,
         default="genai",
-        help="AI provider (default: OpenAI). Options: 'openai', 'genai'",
+        help="AI provider (default: OpenAI). Options: 'openai', 'genai'.",
     )
     parser.add_argument(
         "--ai-prompt-reference",
         type=str,
         default="Proof and repair the reference",
-        help="Prompt for the AI service (default: 'Proof and repair the reference')",
+        help="Prompt for the AI service (default: 'Proof and repair the reference').",
     )
     parser.add_argument(
         "--fix-external-references",
         action="store_true",
-        help="Proof and repair external references using AI",
+        help="Proof and repair external references using AI.",
     )
 
     try:
@@ -140,10 +146,18 @@ def main():
 
     # Get the current working directory
     current_dir = os.getcwd()
+
+    # Create out directory if it doesn't exist
+    out_dir = args.out_dir
+    if not os.path.exists(out_dir):
+        os.makedirs(out_dir)
+    out_dir = os.path.abspath(out_dir)
+
     # Create temp directory if it doesn't exist
     temp_dir = args.temp_dir
     if not os.path.exists(temp_dir):
         os.makedirs(temp_dir)
+    temp_dir = os.path.abspath(temp_dir)
 
     # Clone or update repository
     clone_dir = args.clone_dir  # resolve path
@@ -176,9 +190,9 @@ def main():
         logging.error("Failed to write combined markdown: %s", e)
         sys.exit(1)
 
-    if args.output:
+    if args.pdf:
         # Build PDF with Pandoc
-        pdf_output = args.output
+        pdf_output = args.pdf
         # Remove .pdf extension if present
         if pdf_output.endswith(".pdf"):
             pdf_output = pdf_output[:-4]
@@ -246,7 +260,9 @@ def main():
             sys.exit(1)
         report = proof_and_repair_internal_references(md_files, summary_md)
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        report_filename = f"internal_link_proof_and_repair_report_{timestamp}.md"
+        report_filename = os.path.join(
+            out_dir, f"internal_link_proof_and_repair_report_{timestamp}.md"
+        )
         with open(report_filename, "w", encoding="utf-8") as rf:
             rf.write(
                 f"# Internal Link Proof and Repair Report\nGenerated: {datetime.now().isoformat()}\n\n"
@@ -281,7 +297,9 @@ def main():
             ai_provider=args.ai_provider,
         )
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        report_filename = f"external_reference_proof_and_repair_report_{timestamp}.md"
+        report_filename = os.path.join(
+            out_dir, f"external_reference_proof_and_repair_report_{timestamp}.md"
+        )
         with open(report_filename, "w", encoding="utf-8") as rf:
             rf.write(
                 f"# External Reference Proof and Repair Report\nGenerated: {datetime.now().isoformat()}\n\n"
