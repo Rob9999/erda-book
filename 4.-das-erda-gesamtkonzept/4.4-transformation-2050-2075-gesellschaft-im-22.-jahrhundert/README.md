@@ -4,12 +4,14 @@ _**Transformation: 2050–2075 - Gesellschaft im 22. Jahrhundert**_
 
 _Ziel: Eine gereifte, gerechte und technologische Demokratie – im Einklang mit Menschlichkeit, Natur und globalem Gemeinwohl._
 
+
+
 ***
 
 ### 📘 Executive Summary für Entscheidungsträger
 
 **Titel des Abschnitts:**\
-&#xNAN;_„Transformation: 2050–2075 – Gesellschaft im 22. Jahrhundert (Kapitel 4.4.1 – 4.4.6)“_
+_„Transformation: 2050–2075 – Gesellschaft im 22. Jahrhundert (_Kapitel 4.4.1 – 4.4.6_)“_
 
 ***
 

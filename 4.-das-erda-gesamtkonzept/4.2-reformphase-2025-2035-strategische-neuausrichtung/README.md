@@ -4,12 +4,14 @@ _**Reformphase: 2025–2035 - Strategische Neuausrichtung der EU**_
 
 _Ziel: Handlungsfähigkeit, Erweiterung, kollektive Verteidigung – auf Grundlage demokratischer Resilienz und europäischer Souveränität._
 
+
+
 ***
 
 ### 📘 Executive Summary für Entscheidungsträger
 
 **Titel des Abschnitts:**\
-&#xNAN;_„Reformphase: 2025–2035 – Strategische Neuausrichtung der EU (Kapitel 2.1 – 2.5)“_
+_„Reformphase: 2025–2035 – Strategische Neuausrichtung der EU (_Kapitel 2.1 – 2.5_)“_
 
 ***
 
@@ -61,3 +63,4 @@ Die Reformphase 2025–2035 legt das Fundament für eine lebendige, lernfähige 
 ***
 
 > _„Wer Demokratie sichern will, muss sie erneuern – nicht als Ritual, sondern als Aufbruch.“_
+

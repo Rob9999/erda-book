@@ -4,12 +4,14 @@ _**Konsolidierung: 2035–2050 - Demokratische Resilienz & technologische Souver
 
 _Ziel: Autonomie, Wohlstand, globale Werte – gestützt auf Verfassungsbindung, Innovation und kulturelle Stabilität._
 
+
+
 ***
 
 ### 📘 Executive Summary für Entscheidungsträger
 
 **Titel des Abschnitts:**\
-&#xNAN;_„Konsolidierung: 2035–2050 – Demokratische Resilienz & technologische Souveränität (Kapitel 4.3.1 – 4.3.6)“_
+_„Konsolidierung: 2035–2050 – Demokratische Resilienz & technologische Souveränität (_Kapitel 4.3.1 – 4.3.6_)“_
 
 ***
 
