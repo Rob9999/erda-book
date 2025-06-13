@@ -1,9 +1,9 @@
 ---
-description: "State: DK, Date: 2025-06-10, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Beh\u00f6rde/Institut>"
+description: "State: DK, Date: 2025-06-10, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "DK"
 date: "2025-06-10"
 author: "Robert Alexander Massinger"
-legal_responsible: "<Beh\u00f6rde/Institut>"
+legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---

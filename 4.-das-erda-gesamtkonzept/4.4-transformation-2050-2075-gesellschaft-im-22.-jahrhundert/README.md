@@ -11,7 +11,7 @@ _Ziel: Eine gereifte, gerechte und technologische Demokratie – im Einklang mit
 ### 📘 Executive Summary für Entscheidungsträger
 
 **Titel des Abschnitts:**\
-&#xNAN;_„Transformation: 2050–2075 – Gesellschaft im 22. Jahrhundert (_&#x4B;apitel 4.4.1 – 4.4.6)_“_
+_„Transformation: 2050–2075 – Gesellschaft im 22. Jahrhundert (_Kapitel 4.4.1 – 4.4.6_)“_
 
 ***
 

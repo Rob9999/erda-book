@@ -9,7 +9,7 @@ _Eine widerstandsfähige Sicherheitsunion demokratischer Rechtsstaaten_
 _A Voice From April 2025_
 
 _🛡️ **Call of Duty to the Coalition of the Willing:**_\
-&#xNAN;_&#x46;orm – without delay – a **European Democratic Defense Alliance (EDA)**._\
+_Form – without delay – a **European Democratic Defense Alliance (EDA)**._\
 _To give Europe’s rule-of-law democracies – and those becoming such –_\
 _a future worth believing in._\
 _A safe place. A sovereign voice. A shared shield. A democratic tomorrow._
@@ -17,8 +17,8 @@ _A safe place. A sovereign voice. A shared shield. A democratic tomorrow._
 _Because:_
 
 _**Freedom must never be outsourced.**_\
-&#xNAN;_**Security must never be silenced.**_\
-&#xNAN;_**Democracy must never stand alone – and if necessary, be fought for.**_\
+_**Security must never be silenced.**_\
+_**Democracy must never stand alone – and if necessary, be fought for.**_\
 _(This shall no generation ever forget.)_
 
 _The EU, Europe – and humanity’s future – need EDA._\

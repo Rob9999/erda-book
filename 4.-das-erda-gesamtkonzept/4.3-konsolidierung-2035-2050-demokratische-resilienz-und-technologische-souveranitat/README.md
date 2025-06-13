@@ -11,7 +11,7 @@ _Ziel: Autonomie, Wohlstand, globale Werte – gestützt auf Verfassungsbindung,
 ### 📘 Executive Summary für Entscheidungsträger
 
 **Titel des Abschnitts:**\
-&#xNAN;_„Konsolidierung: 2035–2050 – Demokratische Resilienz & technologische Souveränität (_&#x4B;apitel 4.3.1 – 4.3.&#x36;_)“_
+_„Konsolidierung: 2035–2050 – Demokratische Resilienz & technologische Souveränität (_Kapitel 4.3.1 – 4.3.6_)“_
 
 ***
 
