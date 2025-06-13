@@ -1,0 +1,64 @@
+import os
+import re
+import subprocess
+import sys
+import logging
+
+try:
+    import textstat
+except ImportError:  # pragma: no cover - optional dep
+    textstat = None
+
+logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
+
+
+def run(cmd, cwd=None, capture_output=False):
+    """Execute a shell command. Exit on failure or return output."""
+    logging.info("Running command: %s", cmd)
+    result = subprocess.run(
+        cmd,
+        cwd=cwd,
+        shell=True,
+        stdout=subprocess.PIPE if capture_output else None,
+        stderr=subprocess.PIPE if capture_output else None,
+        text=True,
+    )
+    if capture_output:
+        return result.stdout, result.stderr, result.returncode
+    if result.returncode != 0:
+        logging.error("Command failed (%s): %s", result.returncode, cmd)
+        sys.exit(result.returncode)
+
+
+def parse_summary(summary_path):
+    """Parse SUMMARY.md to get an ordered list of markdown file paths."""
+    files = []
+    base = os.path.dirname(summary_path)
+    try:
+        with open(summary_path, encoding="utf-8") as f:
+            for line in f:
+                match = re.match(r"\s*\*+\s*\[.*\]\(([^)]+\.md)\)", line)
+                if match:
+                    files.append(os.path.join(base, match.group(1)))
+    except Exception as e:
+        logging.error("Failed to read SUMMARY.md: %s", e)
+        sys.exit(1)
+    return files
+
+
+def readability_report(md_files):
+    """Compute readability scores for each markdown file."""
+    report = []
+    if not textstat:
+        logging.warning("textstat not installed; skipping readability checks.")
+        return report
+    for md in md_files:
+        try:
+            with open(md, encoding="utf-8") as f:
+                text = f.read()
+            fre = textstat.flesch_reading_ease(text)
+            fk = textstat.flesch_kincaid_grade(text)
+            report.append((md, fre, fk))
+        except Exception as e:
+            logging.warning("Readability check failed for %s: %s", md, e)
+    return report
