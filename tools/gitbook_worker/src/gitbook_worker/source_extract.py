@@ -20,21 +20,39 @@ def extract_multiline_list_items(text: str) -> List[str]:
     return pattern.findall(text)
 
 
-def get_language_dependent_header_pattern_for_sources(language: str = "de") -> re.Pattern:
-    """Return a regex to match source section headers."""
+import re
+
+
+def get_language_dependent_header_pattern_for_sources(
+    language: str = "de", max_level: int = 6
+) -> re.Pattern:
+    """Return a regex that matches source section headers like '# 1.1 Quellen', '### 2. Quelle', etc."""
     lang = (language or "").lower()
     patterns = {
-        "de": ["Quellen", "Quellen & Verweise", "Quellen und Verweise"],
-        "en": ["Sources", "References", "Sources & References"],
+        "de": ["Quelle", "Quellen", "Quellen & Verweise", "Quellen und Verweise"],
+        "en": ["Source", "Sources", "References", "Sources & References"],
     }
+
+    # Alle Begriffe sammeln + Duplikate entfernen
     words = patterns.get(lang, []) + patterns["de"] + patterns["en"]
     seen = set()
     words = [w for w in words if not (w in seen or seen.add(w))]
+
+    # Escape für Regex
     regex = "|".join(re.escape(w) for w in words)
-    return re.compile(rf"^(#{{1,6}})\s*(?:{regex})", re.IGNORECASE)
+
+    # Regex für dezimale Nummerierungen vor dem Quellenbegriff
+    numbering = r"(?:\d+(?:\.\d+)*\.?)?"
+
+    # Kompilieren
+    return re.compile(
+        rf"^#{{1,{max_level}}}\s*{numbering}\s*(?:{regex})", re.IGNORECASE
+    )
 
 
-def extract_sources_of_a_md_file_to_dict(md_file: str) -> Dict[str, List[Dict[str, Dict[str, Any]]]]:
+def extract_sources_of_a_md_file_to_dict(
+    md_file: str,
+) -> Dict[str, List[Dict[str, Dict[str, Any]]]]:
     sources: Dict[str, List[Dict[str, Dict[str, Any]]]] = {}
     header_pattern = get_language_dependent_header_pattern_for_sources()
     list_pattern = get_extract_multiline_list_items_pattern()
@@ -92,7 +110,9 @@ def extract_sources_of_a_md_file_to_dict(md_file: str) -> Dict[str, List[Dict[st
     return sources
 
 
-def extract_sources_to_dict(md_files: List[str]) -> Dict[str, List[Dict[str, Dict[str, Any]]]]:
+def extract_sources_to_dict(
+    md_files: List[str],
+) -> Dict[str, List[Dict[str, Dict[str, Any]]]]:
     sources: Dict[str, List[Dict[str, Dict[str, Any]]]] = {}
     for md in md_files:
         if not os.path.isfile(md):
@@ -118,25 +138,37 @@ def extract_sources(md_files: List[str], output_csv: str) -> None:
     try:
         with open(output_csv, "w", encoding="utf-8", newline="") as csvfile:
             writer = csv.writer(csvfile)
-            writer.writerow(["File", "Name", "Link", "Numbering", "Comment", "Kind", "LineNo", "Line"])
+            writer.writerow(
+                [
+                    "File",
+                    "Name",
+                    "Link",
+                    "Numbering",
+                    "Comment",
+                    "Kind",
+                    "LineNo",
+                    "Line",
+                ]
+            )
             for md_file, entries in sources.items():
                 for entry in entries:
                     for name, reference in entry.items():
                         if not reference:
                             continue
                         name = re.sub(r"^[0-9a-z\*]+[\.) ]\s*", "", name)
-                        writer.writerow([
-                            md_file,
-                            name,
-                            reference.get("link", ""),
-                            reference.get("numbering", ""),
-                            reference.get("comment", ""),
-                            reference.get("kind", ""),
-                            reference.get("lineno", ""),
-                            reference.get("line", ""),
-                        ])
+                        writer.writerow(
+                            [
+                                md_file,
+                                name,
+                                reference.get("link", ""),
+                                reference.get("numbering", ""),
+                                reference.get("comment", ""),
+                                reference.get("kind", ""),
+                                reference.get("lineno", ""),
+                                reference.get("line", ""),
+                            ]
+                        )
         logging.info("Sources extracted to %s", output_csv)
     except Exception as e:
         logging.error("Failed to write sources CSV: %s", e)
         raise
-
