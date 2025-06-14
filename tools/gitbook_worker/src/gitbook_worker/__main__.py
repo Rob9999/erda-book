@@ -43,7 +43,7 @@ def main():
         "-o",
         "--out-dir",
         type=str,
-        default="",
+        default=".",
         help="Output directory to place all generated documents, lists, etc - except temp files.",
     )
     parser.add_argument(
@@ -147,7 +147,7 @@ def main():
 
     # Create out directory if it doesn't exist
     out_dir = args.out_dir
-    if not os.path.exists(out_dir):
+    if out_dir and not os.path.exists(out_dir):
         os.makedirs(out_dir)
     out_dir = os.path.abspath(out_dir)
 

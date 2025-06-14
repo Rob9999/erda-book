@@ -305,5 +305,4 @@ def proof_and_repair_external_references(
 
             with open(file, "w", encoding="utf-8") as wf:
                 wf.writelines(lines)
-
     return report
