@@ -92,8 +92,82 @@ def proof_and_repair_internal_references(md_files: List[str], summary_md: str) -
     return report
 
 
-def proof_and_repair_external_reference(**kwargs) -> Tuple[bool, Dict[str, Any]]:
-    return False, {}
+def proof_and_repair_external_reference(
+    reference_as_line: str,
+    footnote_index: int,
+    prompt: str,
+    ai_url: str,
+    ai_api_key: str,
+    ai_provider: str,
+) -> Tuple[bool, str]:
+    """Send a prompt for a single reference to the chosen AI service.
+
+    The AI should validate and, if necessary, correct the citation.  The
+    response is expected to be a JSON string matching ``json_hint`` below.
+    """
+
+    structured_schema = """
+    {
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Zitationspr\u00fcfungsergebnis",
+  "type": "object",
+  "properties": {
+    "success": {
+      "type": "boolean",
+      "description": "Ob die Zitation erfolgreich validiert und ggf. korrigiert wurde"
+    },
+    "org": {
+      "type": "string",
+      "description": "Die original eingegebene (ungepr\u00fcfte) Quellenangabe"
+    },
+    "new": {
+      "type": "string",
+      "description": "Die neue, wissenschaftlich korrekte Zitationszeile im gew\u00fcnschten Format (optional)",
+      "nullable": true
+    },
+    "error": {
+      "type": "string",
+      "description": "Fehlermeldung, falls die Zitation nicht erstellt werden konnte (optional)",
+      "nullable": true
+    },
+    "hint": {
+      "type": "string",
+      "description": "Hilfestellung zur Verbesserung oder Vervollst\u00e4ndigung der Quelle (optional)",
+      "nullable": true
+    },
+    "validation_date": {
+      "type": "string",
+      "format": "date",
+      "description": "Das Datum der Pr\u00fcfung und ggf. der URL-Validierung (today)"
+    },
+    "type": {
+      "type": "string",
+      "description": "Kategorisierung der Quelle: 'internal reference', 'external url', 'external reference' oder '?'",
+      "enum": ["internal reference", "external url", "external reference", "?"]
+    }
+  },
+  "required": ["success", "org", "validation_date", "type"]
+}
+    """
+
+    json_hint = """
+    {
+        "success": true|false,
+        "org": "<Originalquelle>",
+        "new": "<neue Zitationszeile oder null>",
+        "error": "<Fehlermeldung oder null>",
+        "hint": "<Hinweis oder null>",
+        "validation_date": "YYYY-MM-DD",
+        "type": "internal reference" | "external url" | "external reference" | "?"
+    }
+    """
+
+    full_prompt = (
+        f"{prompt}\n\nQuelle [{footnote_index}]: {reference_as_line}\n\n\n\n"
+        f"Generate a structured JSON according:\n{json_hint}"
+    )
+
+    return ask_ai(full_prompt, ai_url, ai_api_key, ai_provider)
 
 
 def proof_and_repair_external_references(md_files: List[str], prompt: str, ai_url: str, ai_api_key: str, ai_provider: str) -> List[Dict[str, Any]]:
@@ -114,8 +188,14 @@ def proof_and_repair_external_references(md_files: List[str], prompt: str, ai_ur
                     ai_api_key=ai_api_key,
                     ai_provider=ai_provider,
                 )
-                if success and isinstance(result, dict) and result.get("new"):
-                    lines[idx] = result["new"]
+                if success:
+                    parsed_success, data = (
+                        extract_json_from_ai_output(result)
+                        if isinstance(result, str)
+                        else (True, result)
+                    )
+                    if parsed_success and isinstance(data, dict) and data.get("new"):
+                        lines[idx] = data["new"]
         with open(file, "w", encoding="utf-8") as wf:
             wf.write("\n".join(lines) + "\n")
     return report
