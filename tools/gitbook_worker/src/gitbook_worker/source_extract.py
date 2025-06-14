@@ -46,7 +46,8 @@ def get_language_dependent_header_pattern_for_sources(
 
     # Kompilieren
     return re.compile(
-        rf"^#{{1,{max_level}}}\s*{numbering}\s*(?:{regex})", re.IGNORECASE
+        rf"^(#{{1,{max_level}}})\s*{numbering}\s*(?:{regex})",
+        re.IGNORECASE,
     )
 
 
