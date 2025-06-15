@@ -3,6 +3,7 @@ import re
 import subprocess
 import sys
 import logging
+from typing import List
 
 try:
     import textstat
@@ -62,3 +63,48 @@ def readability_report(md_files):
         except Exception as e:
             logging.warning("Readability check failed for %s: %s", md, e)
     return report
+
+
+def wrap_wide_tables(md_file: str, threshold: int = 6) -> None:
+    """Wrap wide markdown tables in a LaTeX landscape environment.
+
+    Consecutive lines starting with a pipe character are considered part of a
+    table. If the table contains more columns than ``threshold`` it is wrapped
+    with ``\begin{landscape}`` and ``\end{landscape}`` markers. The file is
+    modified in place.
+    """
+
+    try:
+        with open(md_file, encoding="utf-8") as f:
+            lines = f.readlines()
+    except Exception as e:  # pragma: no cover - unlikely
+        logging.error("Failed to read %s: %s", md_file, e)
+        raise
+
+    new_lines: List[str] = []
+    i = 0
+    while i < len(lines):
+        line = lines[i]
+        if line.lstrip().startswith("|"):
+            table = []
+            max_cols = line.count("|") - 1
+            while i < len(lines) and lines[i].lstrip().startswith("|"):
+                table.append(lines[i])
+                max_cols = max(max_cols, lines[i].count("|") - 1)
+                i += 1
+            if max_cols > threshold:
+                new_lines.append("\\begin{landscape}\n")
+                new_lines.extend(table)
+                new_lines.append("\\end{landscape}\n")
+            else:
+                new_lines.extend(table)
+        else:
+            new_lines.append(line)
+            i += 1
+
+    try:
+        with open(md_file, "w", encoding="utf-8") as f:
+            f.writelines(new_lines)
+    except Exception as e:  # pragma: no cover - unlikely
+        logging.error("Failed to write %s: %s", md_file, e)
+        raise
