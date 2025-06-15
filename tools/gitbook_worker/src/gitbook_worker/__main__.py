@@ -211,7 +211,7 @@ def main():
         # Add timestamp to output filename
         pdf_output = f"{pdf_output}_{timestamp}.pdf"
         out, err, code = run(
-            f'pandoc "{combined_md}" -o "{pdf_output}" --pdf-engine=xelatex --toc',
+            f'pandoc "{combined_md}" -o "{pdf_output}" --pdf-engine=xelatex --toc -V geometry:a4paper',
             capture_output=True,
         )
         if code != 0:
