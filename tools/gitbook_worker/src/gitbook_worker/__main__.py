@@ -4,7 +4,7 @@ import io
 import os
 import logging
 from datetime import datetime
-from .utils import run, parse_summary, readability_report
+from .utils import run, parse_summary, readability_report, wrap_wide_tables
 from .linkcheck import (
     check_links,
     check_images,
@@ -59,6 +59,17 @@ def main():
         type=str,
         default="temp",
         help="Directory to place all temp results into.",
+    )
+    parser.add_argument(
+        "--wrap-wide-tables",
+        action="store_true",
+        help="Wrap tables wider than a threshold in a landscape environment.",
+    )
+    parser.add_argument(
+        "--table-threshold",
+        type=int,
+        default=6,
+        help="Number of columns considered wide for --wrap-wide-tables.",
     )
     parser.add_argument(
         "-s", "--export-sources", action="store_true", help="Export sources to CSV."
@@ -187,6 +198,9 @@ def main():
     except Exception as e:
         logging.error("Failed to write combined markdown: %s", e)
         sys.exit(1)
+
+    if args.wrap_wide_tables:
+        wrap_wide_tables(combined_md, threshold=args.table_threshold)
 
     if args.pdf:
         # Build PDF with Pandoc
