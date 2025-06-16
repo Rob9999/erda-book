@@ -7,6 +7,8 @@ pip install .
 ```
 
 You can then call `gitbook-worker` to process a GitBook repository.
+The optional flag `--verbose` prints progress messages to the console. A log
+file `gitbook_worker_<timestamp>.log` is always written to the output directory.
 
 
 ## 1. Upgrade notes
