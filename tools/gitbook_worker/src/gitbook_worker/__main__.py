@@ -220,6 +220,7 @@ def main():
 
     # Combine markdown into one file
     combined_md = os.path.join(temp_dir, f"combined_{run_timestamp}.md")
+    logging.info(f"combining gitbook markdowns into one file: %s ...", combined_md)
     try:
         with open(combined_md, "w", encoding="utf-8") as out:
             for md in md_files:
@@ -232,17 +233,21 @@ def main():
     except Exception as e:
         logging.error("Failed to write combined markdown: %s", e)
         sys.exit(1)
+    logging.info(f"gitbook markdowns are combined to: %s", combined_md)
 
     # Validate table column consistency before further processing
+    logging.info("Validating table columns in combined markdown...")
     table_errors = validate_table_columns(combined_md)
     if table_errors:
         for err in table_errors:
             logging.error(err)
         logging.error("Table column mismatches detected.")
         sys.exit(1)
+    logging.info("Table columns validated successfully.")
 
     header_file = None
     if args.wrap_wide_tables:
+        logging.info("Wrapping wide tables in landscape environment...")
         wrap_wide_tables(combined_md, threshold=args.table_threshold)
         header_file = os.path.join(temp_dir, "pdflscape_header.tex")
         try:
@@ -251,6 +256,9 @@ def main():
         except Exception as e:
             logging.error("Failed to write header file: %s", e)
             sys.exit(1)
+        logging.info("Wide tables wrapped successfully.")
+
+    logging.info("All markdown files processed successfully.")
 
     if args.pdf:
         # Build PDF with Pandoc
@@ -449,7 +457,8 @@ def main():
                     rf.write("\n")
             print(f"Report generated: {report_filename}")
             logging.info(
-                "External reference proof and repair report generated: %s", report_filename
+                "External reference proof and repair report generated: %s",
+                report_filename,
             )
             logging.info("fix-external-references done")
         except Exception as e:
