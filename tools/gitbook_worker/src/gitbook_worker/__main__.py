@@ -4,7 +4,13 @@ import io
 import os
 import logging
 from datetime import datetime
-from .utils import run, parse_summary, readability_report, wrap_wide_tables
+from .utils import (
+    run,
+    parse_summary,
+    readability_report,
+    wrap_wide_tables,
+    validate_table_columns,
+)
 from .linkcheck import (
     check_links,
     check_images,
@@ -199,8 +205,24 @@ def main():
         logging.error("Failed to write combined markdown: %s", e)
         sys.exit(1)
 
+    # Validate table column consistency before further processing
+    table_errors = validate_table_columns(combined_md)
+    if table_errors:
+        for err in table_errors:
+            logging.error(err)
+        logging.error("Table column mismatches detected.")
+        sys.exit(1)
+
+    header_file = None
     if args.wrap_wide_tables:
         wrap_wide_tables(combined_md, threshold=args.table_threshold)
+        header_file = os.path.join(temp_dir, "pdflscape_header.tex")
+        try:
+            with open(header_file, "w", encoding="utf-8") as hf:
+                hf.write("\\usepackage{pdflscape}\n")
+        except Exception as e:
+            logging.error("Failed to write header file: %s", e)
+            sys.exit(1)
 
     if args.pdf:
         # Build PDF with Pandoc
@@ -210,8 +232,11 @@ def main():
             pdf_output = pdf_output[:-4]
         # Add timestamp to output filename
         pdf_output = f"{pdf_output}_{timestamp}.pdf"
+        pandoc_cmd = f'pandoc "{combined_md}" -o "{pdf_output}" --pdf-engine=xelatex --toc -V geometry:a4paper'
+        if header_file:
+            pandoc_cmd += f' -H "{header_file}"'
         out, err, code = run(
-            f'pandoc "{combined_md}" -o "{pdf_output}" --pdf-engine=xelatex --toc -V geometry:a4paper',
+            pandoc_cmd,
             capture_output=True,
         )
         if code != 0:
