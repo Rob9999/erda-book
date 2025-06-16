@@ -4,7 +4,13 @@ import io
 import os
 import logging
 from datetime import datetime
-from .utils import run, parse_summary, readability_report, wrap_wide_tables
+from .utils import (
+    run,
+    parse_summary,
+    readability_report,
+    wrap_wide_tables,
+    validate_table_columns,
+)
 from .linkcheck import (
     check_links,
     check_images,
@@ -197,6 +203,14 @@ def main():
                     logging.warning("Skipping missing file: %s", md)
     except Exception as e:
         logging.error("Failed to write combined markdown: %s", e)
+        sys.exit(1)
+
+    # Validate table column consistency before further processing
+    table_errors = validate_table_columns(combined_md)
+    if table_errors:
+        for err in table_errors:
+            logging.error(err)
+        logging.error("Table column mismatches detected.")
         sys.exit(1)
 
     header_file = None

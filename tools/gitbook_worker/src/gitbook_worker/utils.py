@@ -108,3 +108,33 @@ def wrap_wide_tables(md_file: str, threshold: int = 6) -> None:
     except Exception as e:  # pragma: no cover - unlikely
         logging.error("Failed to write %s: %s", md_file, e)
         raise
+
+
+def validate_table_columns(md_file: str) -> List[str]:
+    """Return a list of errors for tables with inconsistent column counts."""
+
+    try:
+        with open(md_file, encoding="utf-8") as f:
+            lines = f.readlines()
+    except Exception as e:  # pragma: no cover - unlikely
+        logging.error("Failed to read %s: %s", md_file, e)
+        raise
+
+    errors: List[str] = []
+    ref_cols = 0
+    in_table = False
+    for idx, line in enumerate(lines, start=1):
+        if line.lstrip().startswith("|"):
+            cols = line.count("|") - 1
+            if not in_table:
+                in_table = True
+                ref_cols = cols
+            if cols != ref_cols:
+                errors.append(
+                    f"Line {idx}: has {cols} columns (expected {ref_cols})"
+                )
+        else:
+            in_table = False
+            ref_cols = 0
+
+    return errors
