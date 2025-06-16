@@ -9,7 +9,7 @@ _Ziel: Handlungsfähigkeit, Erweiterung, kollektive Verteidigung – auf Grundla
 ### 📘 Executive Summary für Entscheidungsträger
 
 **Titel des Abschnitts:**\
-&#xNAN;_„Reformphase: 2025–2035 – Strategische Neuausrichtung der EU (Kapitel 2.1 – 2.5)“_
+_„Reformphase: 2025–2035 – Strategische Neuausrichtung der EU (Kapitel 2.1 – 2.5)“_
 
 ***
 
