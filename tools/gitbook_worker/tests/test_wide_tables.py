@@ -6,7 +6,7 @@ def test_wrap_wide_tables_adds_landscape(tmp_path):
     md.write_text("|A|B|C|D|E|F|G|\n|--|--|--|--|--|--|--|\n|1|2|3|4|5|6|7|\n")
     wrap_wide_tables(str(md), threshold=5)
     text = md.read_text()
-    assert text.startswith("::: {.landscape}\n")
+    assert text.startswith("::: {.landscape cols=7}\n")
     assert text.strip().endswith(":::")
 
 
@@ -15,5 +15,5 @@ def test_wrap_wide_tables_ignores_narrow(tmp_path):
     md.write_text("|A|B|\n|--|--|\n|1|2|\n")
     wrap_wide_tables(str(md), threshold=5)
     text = md.read_text()
-    assert "::: {.landscape}" not in text
+    assert "::: {.landscape" not in text
     assert ":::" not in text

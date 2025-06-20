@@ -70,9 +70,10 @@ def wrap_wide_tables(md_file: str, threshold: int = 6) -> None:
 
     Consecutive lines starting with a pipe character are considered part of a
     table. If the table contains more columns than ``threshold`` it is wrapped
-    inside ``::: {.landscape}`` and ``:::` markers. A Pandoc Lua filter can
-    later convert this ``Div`` into the appropriate LaTeX ``landscape``
-    environment. The file is modified in place.
+    inside ``::: {.landscape cols=N}`` and ``:::` markers where ``N`` is the
+    number of columns. A Pandoc Lua filter can later convert this ``Div`` into
+    the appropriate LaTeX ``landscape`` environment and adjust the font size
+    based on the ``cols`` attribute. The file is modified in place.
     """
 
     try:
@@ -94,7 +95,7 @@ def wrap_wide_tables(md_file: str, threshold: int = 6) -> None:
                 max_cols = max(max_cols, lines[i].count("|") - 1)
                 i += 1
             if max_cols > threshold:
-                new_lines.append("::: {.landscape}\n")
+                new_lines.append(f"::: {{.landscape cols={max_cols}}}\n")
                 new_lines.extend(table)
                 new_lines.append(":::\n")
             else:
