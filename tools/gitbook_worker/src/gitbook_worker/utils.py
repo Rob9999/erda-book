@@ -66,12 +66,14 @@ def readability_report(md_files):
 
 
 def wrap_wide_tables(md_file: str, threshold: int = 6) -> None:
-    """Wrap wide markdown tables in a LaTeX landscape environment.
+    """Wrap wide markdown tables in a fenced ``Div`` with class ``landscape``.
 
     Consecutive lines starting with a pipe character are considered part of a
     table. If the table contains more columns than ``threshold`` it is wrapped
-    with ``\begin{landscape}`` and ``\end{landscape}`` markers. The file is
-    modified in place.
+    inside ``::: {.landscape cols=N}`` and ``:::` markers where ``N`` is the
+    number of columns. A Pandoc Lua filter can later convert this ``Div`` into
+    the appropriate LaTeX ``landscape`` environment and adjust the font size
+    based on the ``cols`` attribute. The file is modified in place.
     """
 
     try:
@@ -93,9 +95,9 @@ def wrap_wide_tables(md_file: str, threshold: int = 6) -> None:
                 max_cols = max(max_cols, lines[i].count("|") - 1)
                 i += 1
             if max_cols > threshold:
-                new_lines.append("\\begin{landscape}\n")
+                new_lines.append(f"::: {{.landscape cols={max_cols}}}\n")
                 new_lines.extend(table)
-                new_lines.append("\\end{landscape}\n")
+                new_lines.append(":::\n")
             else:
                 new_lines.extend(table)
         else:
