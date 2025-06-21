@@ -84,26 +84,68 @@ version: "1.0"
 * Militärische Ausgaben: 1,8 % des BIP (SIPRI 2023)[^sipri]
 * NATO-Status: kein Mitglied
 * Innere Sicherheit: einzelne Grenzkonflikte in Casamance-Region
+* Zivile Resilienzprogramme: Teilweise (Katastrophenschutz)
+* Drohnen-/Raumfahrt-/KI-Kapazitäten: im Aufbau
 
 ***
 
-### 6. Resilienz & Verwundbarkeiten
+### 6. Kulturelle Identität & Soft Power
 
-* Vulnerabilität gegenüber Klimawandel: hohe Betroffenheit durch Meeresspiegelanstieg und Dürren
-* Stärken: politisch stabile Demokratie in der Region, engagierte Zivilgesellschaft
-* Schwächen: hohe Jugendarbeitslosigkeit, begrenzte Gesundheitsinfrastruktur
+* Sprachen / indigene Kulturen: Amtssprache Französisch, über 20 nationale Sprachen (u. a. Wolof)
+* UNESCO-Welterbe / Kulturstätten: Île de Gorée, Djoudj-Nationalpark u. a.
+* Kreativwirtschaft (Musik, Film, Design): lebendige Musikszene, afrikanisches Filmfestival FESPACO
+* Internationale Sichtbarkeit: Fußballnationalteam, Senghor‑Literaturnachlass
+* Rolle der Kultur als Vermittlungsfaktor in Demokratienetzwerken [0–10]: 5 (hypothetisch)
 
 ***
 
-### 7. Kurzfassung: „Senegal auf einen Blick“
+### 7. Entwicklungspfad (2025–2075)
+
+#### Szenario-Entwicklung
+
+* Status 2025: stabile Demokratie mit wachsender Wirtschaft, Herausforderungen bei Infrastruktur und Arbeitsmarkt
+* Best Case 2050/2075: regionaler Energiehub mit ausgebauter Solar- und Windkraft, gestärkte Bildungs- und Gesundheitsstrukturen
+* Base Case 2050/2075: moderates Wachstum, verbesserte regionale Integration
+* Worst Case 2050/2075: politische Instabilität durch Klimafolgen und soziale Ungleichheit
+
+#### Rolle in der ERDA-Vision 2075
+
+* Beitrag zur Post-Knappheitsökonomischen Ordnung: Export erneuerbarer Energie
+* Demokratische Resilienz: solide, Ausbau lokaler Partizipation nötig
+* Exemplarische Wirkung auf andere Staaten / Regionen: Vorbild für Westafrika bei friedlichem Machtwechsel
+
+***
+
+### 8. Narrative & Anwerbewirkung
+
+* Kernbotschaft: „Senegal zeigt, wie demokratische Stabilität und kulturelle Vielfalt Westafrika verbinden.“
+* Selbstwirksamkeit: aktive Zivilgesellschaft und Jugendbewegungen
+* Zukunftswürde: Stolz auf kulturelles Erbe und sportliche Erfolge
+* Einladung an andere Staaten & Bürger:innen: Kooperation bei erneuerbaren Energien und Bildung
+
+***
+
+### 9. Kennzahlenübersicht (Kurzform)
+
+| Indikator                             | 2023 | 2050 (proj.) | 2075 (proj.) | EU-Durchschnitt 2024 |
+| ------------------------------------- | ---- | ------------ | ------------ | ------------------- |
+| BIP (Mrd. USD)                        | 30,8 | 60 (hyp.)    | 95 (hyp.)    |                     |
+| Bevölkerung                           | 18,1 Mio. | 30 Mio. (p) | 40 Mio. (p) |                     |
+| Anteil Erneuerbare Energien (%)       | 31   | 55 (p)       | 70 (p)       |                     |
+| Lebenserwartung (Jahre)               | 68,7 | 72 (p)       | 75 (p)       |                     |
+| Bildungsquote (%)                     | 53   | 65 (p)       | 75 (p)       |                     |
+| KI-Kapazität [0–10]                   | 2    | 4 (p)        | 6 (p)        |                     |
+| Zivilgesellschaftlicher Index [0–10]  | 5    | 6 (p)        | 7 (p)        |                     |
+
+### 10. Kurzfassung: „Senegal auf einen Blick“
 
 Senegal ist eine politisch relativ stabile Demokratie in Westafrika mit stark wachsender Bevölkerung und bedeutenden erneuerbaren Energiepotenzialen. Das Land strebt eine größere regionale Vernetzung und wirtschaftliche Diversifizierung an. Herausforderungen bestehen in der Armutsbekämpfung, im Bildungsniveau und im Umgang mit klimatischen Risiken.
 
 ***
 
-### 8. Quellen & Modellierungen
+### 11. Quellen & Modellierungen
 
-#### 8.1 ℹ️ Allgemeines
+#### 11.1 ℹ️ Allgemeines
 
 * Statistik: Nationale Quellen (Agence Nationale de la Statistique et de la Démographie) und internationale Datenbanken (World Bank, UN WPP 2022)
 * Modelle: BIP- und Bevölkerungsprognosen nach UN WPP 2022 und OECD (hypothetisch: ERDA Scenario Modeling Report 2025)
@@ -112,7 +154,7 @@ Senegal ist eine politisch relativ stabile Demokratie in Westafrika mit stark wa
 * Demokratie & Rechtsstaatlichkeit: Freedom House, Transparency International
 * Nachhaltigkeitsindikatoren: UN SDG-Daten, Global Footprint Network
 
-#### 8.2 📎 Verwendete Quellen & Verweise
+#### 11.2 📎 Verwendete Quellen & Verweise
 
 **Demografie & Gesellschaft**
 1. United Nations. 2022. „World Population Prospects 2022“. [online] verfügbar unter: <https://population.un.org/wpp/> (Letzter Zugriff am 2025-06-11).
@@ -126,7 +168,7 @@ Senegal ist eine politisch relativ stabile Demokratie in Westafrika mit stark wa
 **Demokratie & Rechtsstaatlichkeit**
 4. Freedom House. 2024. „Freedom in the World 2024“. [online] verfügbar unter: <https://freedomhouse.org> (Letzter Zugriff am 2025-06-11).
 
-#### 8.3 🛠️ Modellierungen & Annahmen
+#### 11.3 🛠️ Modellierungen & Annahmen
 
 * Wirtschaftliche Projektionen 2050–2075: extrapoliert aus World-Bank-Trends (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Energiepotenziale: Szenarien nach IEA, nationale Strategiepapiere (hypothetisch: ERDA Scenario Modeling Report 2025)
@@ -134,10 +176,10 @@ Senegal ist eine politisch relativ stabile Demokratie in Westafrika mit stark wa
 
 ***
 
-### 9. 🤝 Mitwirkung willkommen
+### 12. 🤝 Mitwirkung willkommen
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Senegal sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
-#### 9.1 Letzter inhaltlich verantwortlicher Ansprechpartner
+#### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
 Autor: Robert Alexander Massinger
 Kontakt: [robert.alexander.massinger@outlook.de](mailto:robert.alexander.massinger@outlook.de)
 Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)

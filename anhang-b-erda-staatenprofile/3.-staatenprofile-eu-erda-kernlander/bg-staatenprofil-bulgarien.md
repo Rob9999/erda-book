@@ -10,7 +10,9 @@ version: "1.0"
 
 # BG - Staatenprofil Bulgarien
 
-## 1. Überblick (Meta)
+## 🇧🇬 ERDA-Staatenprofil: Bulgarien
+
+### 1. Überblick (Meta)
 
 * Offizieller Name: Republik Bulgarien
 * Geografische Lage (Kontinent, Region): Südosteuropa, Balkan, Schwarzmeerküste
@@ -19,7 +21,7 @@ version: "1.0"
 * 📅 ERDA-Status: Mitglied
 * Zukünftige Rolle im ERDA-Netzwerk: Brückenknoten Balkan-Schwarzmeer, Digitalisierungsdrehscheibe
 
-## 2. Demografie & Gesellschaft
+### 2. Demografie & Gesellschaft
 
 * Bevölkerung Prognose (2050 / 2075): 5,5 Mio. / 4,9 Mio. (UN WPP 2022, hypothetisch: ERDA Scenario Modeling Report 2025)
 * Altersstruktur (Medianalter, Jugendanteil %, Altenquotient): 45 Jahre, 14,5 %, 21,8 % (World Bank 2023)
@@ -29,7 +31,7 @@ version: "1.0"
 * Migrationssaldo pro Jahr (Durchschnitt 2025–2075): -0,3 % (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Soziale Kohäsion (Zufriedenheitsindex [0–10], Demokratievertrauen [%]): 5,5 / 45 % (Eurobarometer 2024)
 
-## 3. Wirtschaft & Innovation
+### 3. Wirtschaft & Innovation
 
 * Bruttoinlandsprodukt (BIP real, heute / 2050 / 2075 in Mrd. EUR): 97,5 / 140 / 200 (World Bank 2023, langfristige Projektion hypothetisch: ERDA Scenario Modeling Report 2025)
 * BIP pro Kopf (EUR): ca. 15.000 EUR
@@ -41,7 +43,7 @@ version: "1.0"
 * Mitglied im Democracy Trade Network [Ja | Nein]: Ja (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Nutzung von EHAM+ (Handelsabwehr) [0–10]: 4 (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-### 3.1 Infrastrukturautarkie
+#### 3.1 Infrastrukturautarkie
 
 * Produktionssouveränität in strategischen Sektoren:
   * Energie [☑ | ☐] ☑
@@ -52,9 +54,9 @@ version: "1.0"
   * Quantentechnologie [☑ | ☐] ☐
   * Autonome Logistiksysteme [☑ | ☐] ☐
 
-## 4. Ressourcenprofil
+### 4. Ressourcenprofil
 
-### Natürliche Ressourcen
+#### Natürliche Ressourcen
 
 * Landfläche (km²): 110.879
 * Meeresfläche (falls relevant, km²): Schwarzmeerküste (Binnenmeer)
@@ -63,13 +65,13 @@ version: "1.0"
 * Anteil Biodiversität & Schutzgebiete (% der Fläche): 34 % (EEA 2023)
 * Nachhaltigkeitskennzahlen (CO₂-Ausstoß pro Kopf, Recyclingquote, Materialverbrauch pro Kopf): 5,5 t, 35 %, 11 t (Eurostat 2022)
 
-### Soziale Ressourcen
+#### Soziale Ressourcen
 
 * Ehrenamt & Gemeinschaftskultur (Index [0–10]): 6 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * CIVITAS-Partizipationsindex [0–10]: 5 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Gesundheitssystem (Zugänglichkeit [0–10], Prävention [0–10]): 7 / 6
 
-### Politische Ressourcen
+#### Politische Ressourcen
 
 * Verfassungsbindung [Ja | Nein]: Ja
 * Direkte Demokratieinstrumente [Vorhanden | Teilweise | Nicht vorhanden]: Teilweise
@@ -78,7 +80,7 @@ version: "1.0"
 * Rechtstaatlichkeitsindex [0–10]: 6,5 (World Justice Project 2023)
 * Internationale Vertrauenswerte [0–10]: 5,5 (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-## 5. Sicherheit & Strategische Rolle (EDA)
+### 5. Sicherheit & Strategische Rolle (EDA)
 
 * Militärisches Potenzial:
   * DSN-geeignet [☑ | ☐] ☐
@@ -92,14 +94,14 @@ version: "1.0"
 * Zivile Resilienzprogramme [Vorhanden | Teilweise | Nicht vorhanden]: Teilweise
 * Drohnen-/Raumfahrt-/KI-Kapazitäten [Vorhanden | Teilweise | Nicht vorhanden]: Nicht vorhanden
 
-### 5.1 Arktisstrategie & Planetare Verantwortung
+#### 5.1 Arktisstrategie & Planetare Verantwortung
 
 * Integration in EDA-DSN Nordmeer [Ja | Nein]: Nein
 * Beteiligung am Arctic Resilience Observatory [Ja | Nein]: Nein
 * Umsetzung Arctic Democracy Mining Act [Ja | Nein]: Nein
 * Partnerschaften mit indigenen Gemeinschaften [Ja | Nein]: Nein
 
-## 6. Kulturelle Identität & Soft Power
+### 6. Kulturelle Identität & Soft Power
 
 * Sprachen / Indigene Kulturen: Bulgarisch, Minderheitensprachen (Türkisch, Roma)
 * UNESCO-Welterbe / Kulturstätten (Anzahl): 10 Stätten (UNESCO 2024)
@@ -107,22 +109,22 @@ version: "1.0"
 * Internationale Sichtbarkeit (Olympische Spiele, Nobelpreise, etc.): moderat, olympische Erfolge im Gewichtheben und Ringen
 * Rolle der Kultur als Vermittlungsfaktor in Demokratienetzwerken [0–10]: 5 (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-## 7. Entwicklungspfad (2025–2075)
+### 7. Entwicklungspfad (2025–2075)
 
-### Szenario-Entwicklung
+#### Szenario-Entwicklung
 
 * Status 2025 (kurze Lageeinschätzung): wirtschaftliche Stabilisierung, demografischer Rückgang
 * Best Case 2050/2075 (optimistische Ziele & Vorteile): digitalisierte Wirtschaft, starke Anbindung an EU-Wertschöpfungsketten, Bevölkerungsrückgang gestoppt
 * Base Case 2050/2075 (realistische Entwicklung): moderates Wachstum, anhaltende Abwanderung, steigende Innovationsanstrengungen
 * Worst Case 2050/2075 (potenzielle Risiken, kritische Entwicklungen & proaktive Lösungsansätze): anhaltende Abwanderung, geringe Innovationsquote, Überalterung – Gegenmaßnahmen durch Bildungsinitiativen
 
-### Rolle in der ERDA-Vision 2075
+#### Rolle in der ERDA-Vision 2075
 
 * Beitrag zur Post-Knappheitsökonomischen Ordnung: verstärkte Nutzung erneuerbarer Energien, digitale Services
 * Demokratische Resilienz (sozial, kulturell, ökologisch): ausbaufähig
 * Exemplarische Wirkung auf andere Staaten / Regionen: Vorbild für digitalen Wandel im Balkan (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-## 8. Narrative & Anwerbewirkung
+### 8. Narrative & Anwerbewirkung
 
 * Kernbotschaft: „Bulgarien zeigt, dass nachhaltige Transformation auch in strukturschwächeren Regionen möglich ist.“
 * Beispiele für starke, wirkungsvolle Narrative und Einladungen: Innovationszentren in Sofia und Plowdiw, EU-finanzierte Infrastruktur
@@ -130,7 +132,7 @@ version: "1.0"
 * Zukunftswürde: Historische Kultur, moderne digitale Wirtschaft
 * Einladung an andere Staaten & Bürger:innen: Bulgarien öffnet sich als Schnittstelle zwischen Europa und Asien
 
-## 9. Kennzahlenübersicht (Kurzform)
+### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025 | 2050 | 2075 | EU-Durchschnitt 2024 |
 | ------------------------------------- | ---- | ---- | ---- | -------------------- |
@@ -144,13 +146,13 @@ version: "1.0"
 
 Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-## 10. Kurzfassung: „Bulgarien auf einen Blick“
+### 10. Kurzfassung: „Bulgarien auf einen Blick“
 
 Bulgarien ist ein traditionsreiches Balkanland mit EU-Mitgliedschaft und wachsenden Ambitionen in der Digitalwirtschaft. Trotz demografischer Herausforderungen bietet es Potenzial in erneuerbaren Energien und als Brücke zwischen West- und Südosteuropa.
 
-## 11. Quellen & Modellierungen
+### 11. Quellen & Modellierungen
 
-### 11.1 ℹ️ Allgemeines
+#### 11.1 ℹ️ Allgemeines
 
 * Statistik: World Bank Daten (2023) zu Bevölkerung, Wirtschaft und Urbanisierung
 * Modellannahmen: UN World Population Prospects 2022 (hypothetisch: ERDA Scenario Modeling Report 2025), nationale Entwicklungspläne Bulgariens
@@ -159,7 +161,7 @@ Bulgarien ist ein traditionsreiches Balkanland mit EU-Mitgliedschaft und wachsen
 * Demokratie & Rechtsstaatlichkeit: Freedom House 2024, World Justice Project 2023
 * Nachhaltigkeits- und Ressourcenindikatoren: European Environment Agency 2023
 
-### 11.2 📎 Verwendete Quellen & Verweise
+#### 11.2 📎 Verwendete Quellen & Verweise
 
 1. World Bank. 2024. "World Development Indicators". <https://databank.worldbank.org/source/world-development-indicators> (Letzter Zugriff am 2025-06-11).
 2. Freedom House. 2024. "Freedom in the World 2024: Bulgaria". [https://freedomhouse.org](https://freedomhouse.org) (Letzter Zugriff am 2025-06-11).
@@ -167,7 +169,7 @@ Bulgarien ist ein traditionsreiches Balkanland mit EU-Mitgliedschaft und wachsen
 4. OECD. 2022. "Education at a Glance". [https://www.oecd.org](https://www.oecd.org) (Letzter Zugriff am 2025-06-11).
 5. NATO. 2024. "Defence Expenditure of NATO Countries". [https://www.nato.int](https://www.nato.int) (Letzter Zugriff am 2025-06-11).
 
-### 11.3 🛠️ Modellierungen & Annahmen
+#### 11.3 🛠️ Modellierungen & Annahmen
 * Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
 * Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
@@ -193,10 +195,10 @@ Bulgarien ist ein traditionsreiches Balkanland mit EU-Mitgliedschaft und wachsen
 * Potenzial Solar PV: 20 GWp (moderat), 35 GWp (ambitioniert) (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Quellen: IEA 2024, nationale Strategie
 
-## 12. 🤝 Mitwirkung willkommen
+### 12. 🤝 Mitwirkung willkommen
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Bulgarien sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
-### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
+#### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
 Autor: Robert Alexander Massinger
 Kontakt: [info@mfa.bg](mailto:info@mfa.bg)
 Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)

@@ -4,23 +4,27 @@ import io
 import os
 import logging
 from datetime import datetime
-from . import (
+from .utils import (
     run,
     parse_summary,
-    extract_sources,
-    check_links,
-    lint_markdown,
-    check_images,
     readability_report,
-    validate_metadata,
+    wrap_wide_tables,
+    validate_table_columns,
+)
+from .linkcheck import (
+    check_links,
+    check_images,
     check_duplicate_headings,
     check_citation_numbering,
     list_todos,
-    spellcheck,
+)
+from .source_extract import extract_sources
+from .ai_tools import (
     proof_and_repair_internal_references,
     proof_and_repair_external_references,
-    clone_or_update_repo,
 )
+from .repo import clone_or_update_repo
+from . import lint_markdown, validate_metadata, spellcheck
 
 
 def main():
@@ -45,7 +49,7 @@ def main():
         "-o",
         "--out-dir",
         type=str,
-        default="",
+        default=".",
         help="Output directory to place all generated documents, lists, etc - except temp files.",
     )
     parser.add_argument(
@@ -61,6 +65,23 @@ def main():
         type=str,
         default="temp",
         help="Directory to place all temp results into.",
+    )
+    parser.add_argument(
+        "-v",
+        "--verbose",
+        action="store_true",
+        help="Show progress messages on the console.",
+    )
+    parser.add_argument(
+        "--wrap-wide-tables",
+        action="store_true",
+        help="Wrap tables wider than a threshold in a landscape environment.",
+    )
+    parser.add_argument(
+        "--table-threshold",
+        type=int,
+        default=6,
+        help="Number of columns considered wide for --wrap-wide-tables.",
     )
     parser.add_argument(
         "-s", "--export-sources", action="store_true", help="Export sources to CSV."
@@ -149,9 +170,32 @@ def main():
 
     # Create out directory if it doesn't exist
     out_dir = args.out_dir
-    if not os.path.exists(out_dir):
+    if out_dir and not os.path.exists(out_dir):
         os.makedirs(out_dir)
     out_dir = os.path.abspath(out_dir)
+
+    # Setup logging
+    run_timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    log_file = os.path.join(out_dir, f"gitbook_worker_{run_timestamp}.log")
+    logger = logging.getLogger()
+    logger.setLevel(logging.INFO)
+    logger.handlers.clear()
+    file_handler = logging.FileHandler(log_file, encoding="utf-8")
+    file_handler.setLevel(logging.INFO)
+    file_handler.setFormatter(
+        logging.Formatter("%(asctime)s - %(levelname)s - %(message)s")
+    )
+    logger.addHandler(file_handler)
+    error_console = logging.StreamHandler()
+    error_console.setLevel(logging.ERROR)
+    error_console.setFormatter(logging.Formatter("%(levelname)s: %(message)s"))
+    logger.addHandler(error_console)
+    if args.verbose:
+        info_console = logging.StreamHandler()
+        info_console.setLevel(logging.INFO)
+        info_console.setFormatter(logging.Formatter("%(levelname)s: %(message)s"))
+        logger.addHandler(info_console)
+        print(f"Logging to {log_file}")
 
     # Create temp directory if it doesn't exist
     temp_dir = args.temp_dir
@@ -175,8 +219,8 @@ def main():
         sys.exit(1)
 
     # Combine markdown into one file
-    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    combined_md = os.path.join(temp_dir, f"combined_{timestamp}.md")
+    combined_md = os.path.join(temp_dir, f"combined_{run_timestamp}.md")
+    logging.info(f"combining gitbook markdowns into one file: %s ...", combined_md)
     try:
         with open(combined_md, "w", encoding="utf-8") as out:
             for md in md_files:
@@ -189,6 +233,32 @@ def main():
     except Exception as e:
         logging.error("Failed to write combined markdown: %s", e)
         sys.exit(1)
+    logging.info(f"gitbook markdowns are combined to: %s", combined_md)
+
+    # Validate table column consistency before further processing
+    logging.info("Validating table columns in combined markdown...")
+    table_errors = validate_table_columns(combined_md)
+    if table_errors:
+        for err in table_errors:
+            logging.error(err)
+        logging.error("Table column mismatches detected.")
+        sys.exit(1)
+    logging.info("Table columns validated successfully.")
+
+    header_file = None
+    if args.wrap_wide_tables:
+        logging.info("Wrapping wide tables in landscape environment...")
+        wrap_wide_tables(combined_md, threshold=args.table_threshold)
+        header_file = os.path.join(temp_dir, "pdflscape_header.tex")
+        try:
+            with open(header_file, "w", encoding="utf-8") as hf:
+                hf.write("\\usepackage{pdflscape}\n")
+        except Exception as e:
+            logging.error("Failed to write header file: %s", e)
+            sys.exit(1)
+        logging.info("Wide tables wrapped successfully.")
+
+    logging.info("All markdown files processed successfully.")
 
     if args.pdf:
         # Build PDF with Pandoc
@@ -197,16 +267,24 @@ def main():
         if pdf_output.endswith(".pdf"):
             pdf_output = pdf_output[:-4]
         # Add timestamp to output filename
-        pdf_output = f"{pdf_output}_{timestamp}.pdf"
+        pdf_output = f"{pdf_output}_{run_timestamp}.pdf"
+        filter_path = os.path.join(os.path.dirname(__file__), "landscape.lua")
+        pandoc_cmd = (
+            f'pandoc "{combined_md}" -o "{pdf_output}" '
+            f'--pdf-engine=xelatex --toc -V geometry:a4paper '
+            f'--lua-filter="{filter_path}"'
+        )
+        if header_file:
+            pandoc_cmd += f' -H "{header_file}"'
         out, err, code = run(
-            f'pandoc "{combined_md}" -o "{pdf_output}" --pdf-engine=xelatex --toc',
+            pandoc_cmd,
             capture_output=True,
         )
         if code != 0:
             logging.error("Pandoc failed with exit code %s", code)
             sys.exit(code)
         if err:
-            log_file = os.path.join(clone_dir, f"pandoc_warnings_{timestamp}.log")
+            log_file = os.path.join(clone_dir, f"pandoc_warnings_{run_timestamp}.log")
             with open(log_file, "w", encoding="utf-8") as lf:
                 lf.write(err)
             logging.warning("Pandoc warnings logged to %s", log_file)
@@ -214,111 +292,183 @@ def main():
 
     # Run quality checks based on flags
     if args.export_sources:
-        extract_sources(
-            md_files,
-            os.path.join(current_dir, f"sources_{timestamp}.csv"),
-        )
+        logging.info("export-sources started")
+        try:
+            extract_sources(
+                md_files,
+                os.path.join(current_dir, f"sources_{run_timestamp}.csv"),
+            )
+            logging.info("export-sources done")
+        except Exception as e:
+            logging.error("export-sources failed: %s", e)
+            print(f"Error exporting sources: {e}")
     if args.check_links:
-        check_links(
-            md_files,
-            os.path.join(current_dir, f"report_check_links_{timestamp}.csv"),
-        )
+        logging.info("check-links started")
+        try:
+            check_links(
+                md_files,
+                os.path.join(current_dir, f"report_check_links_{run_timestamp}.csv"),
+            )
+            logging.info("check-links done")
+        except Exception as e:
+            logging.error("check-links failed: %s", e)
+            print(f"Error checking links: {e}")
     if args.markdownlint:
-        lint_out, _ = lint_markdown(clone_dir)
-        print(lint_out)
+        logging.info("markdownlint started")
+        try:
+            lint_out, _ = lint_markdown(clone_dir)
+            print(lint_out)
+            logging.info("markdownlint done")
+        except Exception as e:
+            logging.error("markdownlint failed: %s", e)
+            print(f"Error running markdownlint: {e}")
     if args.check_images:
-        missing_imgs = check_images(md_files)
-        for mi in missing_imgs:
-            print("Missing image:", mi)
+        logging.info("check-images started")
+        try:
+            missing_imgs = check_images(md_files)
+            for mi in missing_imgs:
+                print("Missing image:", mi)
+            logging.info("check-images done")
+        except Exception as e:
+            logging.error("check-images failed: %s", e)
+            print(f"Error checking images: {e}")
     if args.readability:
-        scores = readability_report(md_files)
-        for sc in scores:
-            print("Readability:", sc)
+        logging.info("readability started")
+        try:
+            scores = readability_report(md_files)
+            for sc in scores:
+                print("Readability:", sc)
+            logging.info("readability done")
+        except Exception as e:
+            logging.error("readability failed: %s", e)
+            print(f"Error generating readability report: {e}")
     if args.metadata:
-        meta_issues = validate_metadata(md_files)
-        for mi in meta_issues:
-            print("Metadata issue:", mi)
+        logging.info("metadata started")
+        try:
+            meta_issues = validate_metadata(md_files)
+            for mi in meta_issues:
+                print("Metadata issue:", mi)
+            logging.info("metadata done")
+        except Exception as e:
+            logging.error("metadata failed: %s", e)
+            print(f"Error validating metadata: {e}")
     if args.duplicate_headings:
-        duplicates = check_duplicate_headings(md_files)
-        for dup in duplicates:
-            print("Duplicate heading:", dup)
+        logging.info("duplicate-headings started")
+        try:
+            duplicates = check_duplicate_headings(md_files)
+            for dup in duplicates:
+                print("Duplicate heading:", dup)
+            logging.info("duplicate-headings done")
+        except Exception as e:
+            logging.error("duplicate-headings failed: %s", e)
+            print(f"Error checking duplicate headings: {e}")
     if args.citations:
-        citation_gaps = check_citation_numbering(md_files)
-        for gap in citation_gaps:
-            print("Citation gaps:", gap)
+        logging.info("citations started")
+        try:
+            citation_gaps = check_citation_numbering(md_files)
+            for gap in citation_gaps:
+                print("Citation gaps:", gap)
+            logging.info("citations done")
+        except Exception as e:
+            logging.error("citations failed: %s", e)
+            print(f"Error checking citations: {e}")
     if args.todos:
-        todos = list_todos(md_files)
-        for todo in todos:
-            print("TODO/FIXME:", todo)
+        logging.info("todos started")
+        try:
+            todos = list_todos(md_files)
+            for todo in todos:
+                print("TODO/FIXME:", todo)
+            logging.info("todos done")
+        except Exception as e:
+            logging.error("todos failed: %s", e)
+            print(f"Error listing TODOs: {e}")
     if args.spellcheck:
-        spell_out, _ = spellcheck(clone_dir)
-        print(spell_out)
+        logging.info("spellcheck started")
+        try:
+            spell_out, _ = spellcheck(clone_dir)
+            print(spell_out)
+            logging.info("spellcheck done")
+        except Exception as e:
+            logging.error("spellcheck failed: %s", e)
+            print(f"Error running spellcheck: {e}")
     if args.fix_internal_links:
-        summary_md = os.path.join(clone_dir, "Summary.md")
-        if not os.path.isfile(summary_md):
-            logging.error("Summary.md not found at %s", summary_md)
-            sys.exit(1)
-        report = proof_and_repair_internal_references(md_files, summary_md)
-        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        report_filename = os.path.join(
-            out_dir, f"internal_link_proof_and_repair_report_{timestamp}.md"
-        )
-        with open(report_filename, "w", encoding="utf-8") as rf:
-            rf.write(
-                f"# Internal Link Proof and Repair Report\nGenerated: {datetime.now().isoformat()}\n\n"
+        logging.info("fix-internal-links started")
+        try:
+            summary_md = os.path.join(clone_dir, "Summary.md")
+            if not os.path.isfile(summary_md):
+                raise FileNotFoundError(f"Summary.md not found at {summary_md}")
+            report = proof_and_repair_internal_references(md_files, summary_md)
+            timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+            report_filename = os.path.join(
+                out_dir, f"internal_link_proof_and_repair_report_{timestamp}.md"
             )
-            for e in report:
-                rf.write(f"- Action: {e['action']}\n")
-                if "file" in e:
-                    rf.write(f"  - File: {e['file']}\n")
-                if "target" in e:
-                    rf.write(f"  - Target: {e['target']}\n")
-                if "title" in e:
-                    rf.write(f"  - Title: {e['title']}\n")
-                if "link" in e:
-                    rf.write(f"  - Link: {e['link']}\n")
-                if "index" in e:
-                    rf.write(f"  - Index: {e['index']}\n")
-                if "orig" in e:
-                    rf.write(f"  - Original: {e['orig']}\n")
-                if "new" in e:
-                    rf.write(f"  - New: {e['new']}\n")
-                rf.write("\n")
-        print(f"Report generated: {report_filename}")
-        logging.info(
-            "Internal link proof and repair report generated: %s", report_filename
-        )
+            with open(report_filename, "w", encoding="utf-8") as rf:
+                rf.write(
+                    f"# Internal Link Proof and Repair Report\nGenerated: {datetime.now().isoformat()}\n\n"
+                )
+                for e in report:
+                    rf.write(f"- Action: {e['action']}\n")
+                    if "file" in e:
+                        rf.write(f"  - File: {e['file']}\n")
+                    if "target" in e:
+                        rf.write(f"  - Target: {e['target']}\n")
+                    if "title" in e:
+                        rf.write(f"  - Title: {e['title']}\n")
+                    if "link" in e:
+                        rf.write(f"  - Link: {e['link']}\n")
+                    if "index" in e:
+                        rf.write(f"  - Index: {e['index']}\n")
+                    if "orig" in e:
+                        rf.write(f"  - Original: {e['orig']}\n")
+                    if "new" in e:
+                        rf.write(f"  - New: {e['new']}\n")
+                    rf.write("\n")
+            print(f"Report generated: {report_filename}")
+            logging.info(
+                "Internal link proof and repair report generated: %s", report_filename
+            )
+            logging.info("fix-internal-links done")
+        except Exception as e:
+            logging.error("fix-internal-links failed: %s", e)
+            print(f"Error fixing internal links: {e}")
     if args.fix_external_references:
-        report = proof_and_repair_external_references(
-            md_files,
-            prompt=args.ai_prompt_reference,
-            ai_url=args.ai_url,
-            ai_api_key=args.ai_api_key,
-            ai_provider=args.ai_provider,
-        )
-        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        report_filename = os.path.join(
-            out_dir, f"external_reference_proof_and_repair_report_{timestamp}.md"
-        )
-        with open(report_filename, "w", encoding="utf-8") as rf:
-            rf.write(
-                f"# External Reference Proof and Repair Report\nGenerated: {datetime.now().isoformat()}\n\n"
+        logging.info("fix-external-references started")
+        try:
+            report = proof_and_repair_external_references(
+                md_files,
+                prompt=args.ai_prompt_reference,
+                ai_url=args.ai_url,
+                ai_api_key=args.ai_api_key,
+                ai_provider=args.ai_provider,
             )
-            for e in report:
-                rf.write(f"- Action: {e['action']}\n")
-                rf.write(f"  - File: {e['file']}\n")
-                rf.write(f"  - Line Number: {e['lineno']}\n")
-                if "orig" in e:
-                    rf.write(f"  - Original: {e['orig']}\n")
-                if "error" in e:
-                    rf.write(f"  - Error: {e['error']}\n")
-                if "new" in e:
-                    rf.write(f"  - New: {e['new']}\n")
-                rf.write("\n")
-        print(f"Report generated: {report_filename}")
-        logging.info(
-            "External reference proof and repair report generated: %s", report_filename
-        )
+            timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+            report_filename = os.path.join(
+                out_dir, f"external_reference_proof_and_repair_report_{timestamp}.md"
+            )
+            with open(report_filename, "w", encoding="utf-8") as rf:
+                rf.write(
+                    f"# External Reference Proof and Repair Report\nGenerated: {datetime.now().isoformat()}\n\n"
+                )
+                for e in report:
+                    rf.write(f"- Action: {e['action']}\n")
+                    rf.write(f"  - File: {e['file']}\n")
+                    rf.write(f"  - Line Number: {e['lineno']}\n")
+                    if "orig" in e:
+                        rf.write(f"  - Original: {e['orig']}\n")
+                    if "error" in e:
+                        rf.write(f"  - Error: {e['error']}\n")
+                    if "new" in e:
+                        rf.write(f"  - New: {e['new']}\n")
+                    rf.write("\n")
+            print(f"Report generated: {report_filename}")
+            logging.info(
+                "External reference proof and repair report generated: %s",
+                report_filename,
+            )
+            logging.info("fix-external-references done")
+        except Exception as e:
+            logging.error("fix-external-references failed: %s", e)
+            print(f"Error fixing external references: {e}")
 
     logging.info("All quality checks completed.")
 

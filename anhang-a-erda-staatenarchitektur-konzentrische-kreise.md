@@ -71,15 +71,15 @@ Diese Länder erfüllen bereits alle ERDA-Standards, bringen robuste Institution
 
 Diese Staaten sind auf dem Weg zur vollen ERDA-Kompatibilität, treiben Reformen zielstrebig voran und zeichnen sich durch klar definierte EU-Perspektiven aus:
 
-| Staat          | ISO | Demokratiegrad | Verfassungsstatus             | Bedingungen zur Integration              | Kooperation                 | Partnerschafts-Level | Kernstaat-Potenzial | Kommentar                                 |
-| -------------- | --- | -------------- | ----------------------------- | ---------------------------------------- | --------------------------- | -------------------- | ------------------- | ----------------------------------------- |
-| Albanien       | AL  | Aufbauend      | Stabil (EU-Beitrittskandidat) | Rechtsstaatreform, Korruptionsbekämpfung | Infrastruktur, Energie      | Beobachter           | 🟡 Mittel           | Umfassende Reformagenda                   |
-| Armenien       | AM  | Aufbauend      | Reformwille vorhanden         | Regionale Stabilität                     | Friedensarbeit, Bildung     | Beobachter           | 🟡 Mittel           | Benötigt Sicherheitsgarantien             |
-| Georgien       | GE  | Aufbauend      | In Reformprozess              | Demokratische Resilienz                  | Sicherheit, Kultur          | Strategisch          | 🟡 Mittel           | Geopolitisch sensibel                     |
-| Kosovo         | XK  | Aufbauend      | Stabil (junge Demokratie)     | Anerkennung, Integritätsabkommen         | Sicherheit, Digitalisierung | Beobachter           | 🟡 Mittel           | Hoher Reformdrang, EU-Perspektive         |
-| Moldau         | MD  | Aufbauend      | Demokratische Transition      | Institutionenaufbau                      | Infrastruktur, Energie      | Beobachter           | 🟡 Mittel           | Zwischen EU und Ukraine                   |
-| Montenegro     | ME  | Stabil         | Verfassung gegeben            | Rechtsstaat, Transparenz                 | Rechtswesen, Umwelt         | Assoziiert           | 🟡 Mittel           | Klein, aber funktional                    |
-| Nordmazedonien | MK  | Aufbauend      | Stabil (EU-Beitrittskandidat) | Rechtsstaatreform, EU-Integration        | Sicherheit, Infrastruktur   | Beobachter           | 🟡 Mittel           | Schlüsselrolle für Westbalkan-Integration |
+| Staat          | ISO | Demokratiegrad | Verfassungsstatus                | Bedingungen zur Integration           | Kooperation                | Partnerschafts-Level | Kernstaat-Potenzial | Kommentar                                 |
+|----------------|-----|----------------|----------------------------------|---------------------------------------|----------------------------|---------------------|---------------------|--------------------------------------------|
+| Albanien       | AL  | Aufbauend      | Stabil (EU-Beitrittskandidat)    | Rechtsstaatreform, Korruptionsbekämpfung | Infrastruktur, Energie     | Beobachter          | 🟡 Mittel           | Umfassende Reformagenda                    |
+| Armenien       | AM  | Aufbauend      | Reformwille vorhanden            | Regionale Stabilität                  | Friedensarbeit, Bildung    | Beobachter          | 🟡 Mittel           | Benötigt Sicherheitsgarantien              |
+| Georgien       | GE  | Aufbauend      | In Reformprozess                 | Demokratische Resilienz               | Sicherheit, Kultur         | Strategisch         | 🟡 Mittel           | Geopolitisch sensibel                      |
+| Kosovo         | XK  | Aufbauend      | Stabil (junge Demokratie)        | Anerkennung, Integritätsabkommen      | Sicherheit, Digitalisierung| Beobachter          | 🟡 Mittel           | Hoher Reformdrang, EU-Perspektive          |
+| Moldau         | MD  | Aufbauend      | Demokratische Transition         | Institutionenaufbau                   | Infrastruktur, Energie     | Beobachter          | 🟡 Mittel           | Zwischen EU und Ukraine                    |
+| Montenegro     | ME  | Stabil         | Verfassung gegeben               | Rechtsstaat, Transparenz              | Rechtswesen, Umwelt        | Assoziiert          | 🟡 Mittel           | Klein, aber funktional                     |
+| Nordmazedonien | MK  | Aufbauend      | Stabil (EU-Beitrittskandidat)    | Rechtsstaatreform, EU-Integration     | Sicherheit, Infrastruktur  | Beobachter          | 🟡 Mittel           | Schlüsselrolle für Westbalkan-Integration  |
 
 #### **2.3 Demokratien mit Barrieren, aber strategischer Relevanz**
 
