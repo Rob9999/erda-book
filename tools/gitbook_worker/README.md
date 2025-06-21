@@ -16,7 +16,6 @@ via `--table-threshold`. Both pipe tables and HTML `<table>` blocks are
 detected. When this option is enabled, the font size of these tables is reduced
 depending on their column count so that the content fits without overlapping.
 
-
 ## 1. Upgrade notes
 
 Version 2.0.0 of the `gitbook-worker` package consolidates the helper scripts into

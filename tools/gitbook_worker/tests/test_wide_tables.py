@@ -18,7 +18,6 @@ def test_wrap_wide_tables_ignores_narrow(tmp_path):
     assert "::: {.landscape" not in text
     assert ":::" not in text
 
-
 def test_wrap_wide_tables_html(tmp_path):
     md = tmp_path / "html.md"
     md.write_text(
