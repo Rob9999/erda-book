@@ -156,25 +156,14 @@ Frankreich ist ein global vernetzter Kernstaat Europas mit starker Industriebasi
 
 #### 11.2 📎 Verwendete Quellen & Verweise
 
-**Demografie & Gesellschaft**
-* **Quelle:** INSEE/INED (Stand 1. Jan. 2025)
-
-**Wirtschaft & Innovation**
-* **Quelle:** IMF Article IV Staff Report; Eurostat; OECD
-
-**Innovation & Patente**
-* **Quelle:** European Patent Office (EPO, 2023)
-* **Modell:** OECD.Stat (2023)
-
-**Energie & Ressourcen**
-* **Quelle:** Eurostat; französisches Ministerium für Ökologie; CEA
-
-**Politische & institutionelle Grundlagen**
-* **Quelle:** Verfassung der Französischen Republik; offizielle Webseite der französischen Regierung
-* **Modell:** Freedom House; Democracy Index (Economist Intelligence Unit)
-
-**Soziale Kohäsion & Gesundheitssystem**
-* **Quelle:** WHO; OECD Health Statistics
+1. Institut national de la statistique et des études économiques (INSEE). 2025. *Bilan démographique 2024.* Paris: INSEE. \[online\] verfügbar unter: <https://www.insee.fr/fr/statistiques/bilan-demographique> (Zugriff am 2025‑06‑10).
+2. Institut national d'études démographiques (INED). 2024. *Projections démographiques pour la France 2022‑2075.* Paris: INED. \[online\] verfügbar unter: <https://www.ined.fr/fr/projections-demographiques/> (Zugriff am 2025‑06‑10).
+3. International Monetary Fund. 2024. *France: 2024 Article IV Consultation—Staff Report.* Washington, D.C.: IMF. \[online\] verfügbar unter: <https://www.imf.org/en/Publications/CR/Issues/2024/01/01/France-Article-IV-Report> (Zugriff am 2025‑06‑10).
+4. Organisation for Economic Co-operation and Development (OECD). 2023. *OECD Economic Outlook 2023 – France.* Paris: OECD Publishing. \[online\] verfügbar unter: <https://doi.org/10.1787/eco_outlook-v2023-fr> (Zugriff am 2025‑06‑10).
+5. European Patent Office. 2024. *Patent Index 2023.* München: EPO. \[online\] verfügbar unter: <https://www.epo.org/patent-index2023> (Zugriff am 2025‑06‑10).
+6. Ministère de la Transition écologique. 2024. *Bilan énergétique de la France 2023.* Paris: Gouvernement de la République Française. \[online\] verfügbar unter: <https://www.ecologie.gouv.fr/bilan-energetique-2023> (Zugriff am 2025‑06‑10).
+7. Freedom House. 2024. *Freedom in the World 2024 – France.* Washington, D.C.: Freedom House. \[online\] verfügbar unter: <https://freedomhouse.org/country/france/freedom-world/2024> (Zugriff am 2025‑06‑10).
+8. World Health Organization. 2023. *World Health Statistics 2023: Monitoring health for the SDGs.* Genf: WHO. \[online\] verfügbar unter: <https://www.who.int/data/gho/publications/world-health-statistics> (Zugriff am 2025‑06‑10).
 
 #### 11.3 🛠 Modellierungen & Annahmen
 * Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
