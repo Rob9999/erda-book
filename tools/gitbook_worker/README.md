@@ -12,10 +12,9 @@ file `gitbook_worker_<timestamp>.log` is always written to the output directory.
 
 Wide tables can be automatically rotated into landscape pages with
 `--wrap-wide-tables`. The number of columns considered "wide" can be adjusted
-via `--table-threshold`. When this option is enabled, the font size of these
-tables is reduced depending on their column count so that the content fits
-without overlapping.
-
+via `--table-threshold`. Both pipe tables and HTML `<table>` blocks are
+detected. When this option is enabled, the font size of these tables is reduced
+depending on their column count so that the content fits without overlapping.
 
 ## 1. Upgrade notes
 

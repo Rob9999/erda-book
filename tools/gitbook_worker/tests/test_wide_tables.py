@@ -17,3 +17,13 @@ def test_wrap_wide_tables_ignores_narrow(tmp_path):
     text = md.read_text()
     assert "::: {.landscape" not in text
     assert ":::" not in text
+
+def test_wrap_wide_tables_html(tmp_path):
+    md = tmp_path / "html.md"
+    md.write_text(
+        "<table><tr><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td><td>F</td><td>G</td></tr></table>"
+    )
+    wrap_wide_tables(str(md), threshold=5)
+    text = md.read_text()
+    assert text.startswith("::: {.landscape cols=7}\n")
+    assert text.strip().endswith(":::")

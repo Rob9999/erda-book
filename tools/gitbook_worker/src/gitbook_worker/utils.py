@@ -87,13 +87,33 @@ def wrap_wide_tables(md_file: str, threshold: int = 6) -> None:
     i = 0
     while i < len(lines):
         line = lines[i]
-        if line.lstrip().startswith("|"):
+        stripped = line.lstrip()
+        if stripped.startswith("|"):
             table = []
             max_cols = line.count("|") - 1
             while i < len(lines) and lines[i].lstrip().startswith("|"):
                 table.append(lines[i])
                 max_cols = max(max_cols, lines[i].count("|") - 1)
                 i += 1
+            if max_cols > threshold:
+                new_lines.append(f"::: {{.landscape cols={max_cols}}}\n")
+                new_lines.extend(table)
+                new_lines.append(":::\n")
+            else:
+                new_lines.extend(table)
+        elif stripped.startswith("<table"):
+            table = []
+            max_cols = 0
+            while i < len(lines):
+                table.append(lines[i])
+                if "</table>" in lines[i]:
+                    i += 1
+                    break
+                i += 1
+            first_row = "".join(table)
+            m = re.search(r"<tr[^>]*>(.*?)</tr>", first_row, re.DOTALL)
+            if m:
+                max_cols = len(re.findall(r"<t[dh][^>]*>", m.group(1)))
             if max_cols > threshold:
                 new_lines.append(f"::: {{.landscape cols={max_cols}}}\n")
                 new_lines.extend(table)
