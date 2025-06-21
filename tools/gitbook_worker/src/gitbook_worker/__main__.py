@@ -268,7 +268,12 @@ def main():
             pdf_output = pdf_output[:-4]
         # Add timestamp to output filename
         pdf_output = f"{pdf_output}_{run_timestamp}.pdf"
-        pandoc_cmd = f'pandoc "{combined_md}" -o "{pdf_output}" --pdf-engine=xelatex --toc -V geometry:a4paper'
+        filter_path = os.path.join(os.path.dirname(__file__), "landscape.lua")
+        pandoc_cmd = (
+            f'pandoc "{combined_md}" -o "{pdf_output}" '
+            f'--pdf-engine=xelatex --toc -V geometry:a4paper '
+            f'--lua-filter="{filter_path}"'
+        )
         if header_file:
             pandoc_cmd += f' -H "{header_file}"'
         out, err, code = run(
