@@ -36,3 +36,14 @@ make html
 ```
 
 Die fertige HTML-Dokumentation finden Sie danach unter `tools/gitbook_worker/docs/_build/html`.
+
+### Emoji-Schriftarten
+
+Bei der PDF-Erzeugung kann Pandoc Warnungen zu fehlenden Zeichen ausgeben,
+wenn die verwendete LaTeX-Schriftart keine Emoji enthält. Installieren Sie in
+diesem Fall beispielsweise `fonts-noto-color-emoji` oder `fonts-symbola` und
+geben Sie der PDF-Engine eine passende Schriftart an, z.B.:
+
+```bash
+pandoc input.md -o output.pdf --pdf-engine=xelatex -V mainfont="Noto Color Emoji"
+```
