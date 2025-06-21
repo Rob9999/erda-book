@@ -158,9 +158,11 @@ resilientes Demokratielabor und Bildungsstandort die Ostflanke Europas sichern.
 
 #### 11.2 📎 Verwendete Quellen & Verweise
 
-* **Demografie & Gesellschaft:** Statistisches Hauptamt Polen, Eurostat.
-* **Politik & Demokratie:** Freedom House, CIVITAS-Index.
-* **Wirtschaft & Innovation:** OECD Innovation Scoreboard.
+1. Główny Urząd Statystyczny. 2025. *Mały rocznik statystyczny Polski 2024.* Warszawa: GUS. \[online\] dostępny pod: <https://stat.gov.pl/rocznik-statystyczny> (dostęp 2025‑06‑10).
+2. Eurostat. 2025. *Population projections – Poland.* Luxemburg: Amt für Veröffentlichungen der Europäischen Union. \[online\] verfügbar unter: <https://ec.europa.eu/eurostat/databrowser/view/proj_23n__pl/default/table> (Zugriff am 2025‑06‑10).
+3. Organisation für wirtschaftliche Zusammenarbeit und Entwicklung (OECD). 2023. *Science, Technology and Industry Scoreboard 2023.* Paris: OECD Publishing. \[online\] verfügbar unter: <https://doi.org/10.1787/sti_scoreboard-2023> (Zugriff am 2025‑06‑10).
+4. Freedom House. 2024. *Freedom in the World 2024 – Poland.* Washington, D.C.: Freedom House. \[online\] verfügbar unter: <https://freedomhouse.org/country/poland/freedom-world/2024> (Zugriff am 2025‑06‑10).
+5. CIVITAS Initiative. 2025. *CIVITAS Index Country Report Poland.* Brüssel: CIVITAS. \[online\] verfügbar unter: <https://civitas.eu/poland-report> (Zugriff am 2025‑06‑10).
 
 #### 11.3 🛠️ Modellierungen & Annahmen
 * Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
