@@ -207,7 +207,7 @@ Spanien ist eine stabile Demokratie mit starkem Dienstleistungssektor, wachsende
 * **Quelle:** Europäische Verteidigungsagentur (EDA) – [EDA Facts & Figures](https://eda.europa.eu/what-we-do/eda-in-brief)
 
 **Politische & institutionelle Grundlagen**
-* **Quelle:** BOE (Spanisches Amtsblatt) – [Verfassung 1978, konsolidiert](https://www.boe.es/legislacion/documentos/ConstitucionINGLES.pdf)
+* **Quelle:** BOE (Spanisches Amtsblatt) – [Verfassung 1978, konsolidiert](https://www.boe.es/buscar/pdf/1978/BOE-A-1978-31229-consolidado.pdf)
 * **Quelle:** CIA World Factbook – Spanienprofil
 
 #### 11.3 🛠️ Modellierungen & Annahmen
