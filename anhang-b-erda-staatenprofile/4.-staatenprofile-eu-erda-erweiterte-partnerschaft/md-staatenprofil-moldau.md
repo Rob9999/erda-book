@@ -58,9 +58,9 @@ version: "1.0"
   * Quantentechnologie [☐]
   * Autonome Logistiksysteme [☐]
 
-## 4. Ressourcenprofil
+### 4. Ressourcenprofil
 
-### Natürliche Ressourcen
+#### Natürliche Ressourcen
 
 * Landfläche (km²): 33 846[8]
 * Strategische Rohstoffe: fruchtbare Böden, geringe Erdgas- und Steinressourcen
@@ -68,13 +68,13 @@ version: "1.0"
 * Anteil Biodiversität & Schutzgebiete (% der Fläche): ca. 6 %
 * Nachhaltigkeitskennzahlen: CO₂-Ausstoß pro Kopf 3 t (2022)[9], Recyclingquote gering (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-### Soziale Ressourcen
+#### Soziale Ressourcen
 
 * Ehrenamt & Gemeinschaftskultur (Index [0–10]): 5 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * CIVITAS-Partizipationsindex [0–10]: 4 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Gesundheitssystem (Zugänglichkeit [0–10], Prävention [0–10]): 6 / 5 (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-### Politische Ressourcen
+#### Politische Ressourcen
 
 * Verfassungsbindung [Ja | Nein]: Ja
 * Direkte Demokratieinstrumente [Vorhanden | Teilweise | Nicht vorhanden]: Teilweise
@@ -83,7 +83,7 @@ version: "1.0"
 * Rechtstaatlichkeitsindex [0–10]: 5 (World Justice Project 2023)[11]
 * Internationale Vertrauenswerte [0–10]: 5 (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-## 5. Sicherheit & Strategische Rolle (EDA)
+### 5. Sicherheit & Strategische Rolle (EDA)
 
 * Militärisches Potenzial:
   * DSN-geeignet [☐]
@@ -95,14 +95,14 @@ version: "1.0"
 * Zivile Resilienzprogramme [Vorhanden | Teilweise | Nicht vorhanden]: Teilweise
 * Drohnen-/Raumfahrt-/KI-Kapazitäten [Vorhanden | Teilweise | Nicht vorhanden]: Nicht vorhanden
 
-### 5.1 Arktisstrategie & Planetare Verantwortung (optional für Arktis-Staaten)
+#### 5.1 Arktisstrategie & Planetare Verantwortung (optional für Arktis-Staaten)
 
 * Integration in EDA-DSN Nordmeer [Ja | Nein]: Nein
 * Beteiligung am Arctic Resilience Observatory [Ja | Nein]: Nein
 * Umsetzung Arctic Democracy Mining Act [Ja | Nein]: Nein
 * Partnerschaften mit indigenen Gemeinschaften [Ja | Nein]: Nein
 
-## 6. Kulturelle Identität & Soft Power
+### 6. Kulturelle Identität & Soft Power
 
 * Sprachen / Indigene Kulturen: Rumänisch (Amtssprache), Russisch weit verbreitet, Gagausisch und Ukrainisch als Minderheitensprachen
 * UNESCO-Welterbe / Kulturstätten (Anzahl): 1 (Struve-Bogen, gemeinsames Welterbe)
@@ -110,22 +110,22 @@ version: "1.0"
 * Internationale Sichtbarkeit (Olympische Spiele, Nobelpreise, etc.): gering
 * Rolle der Kultur als Vermittlungsfaktor in Demokratienetzwerken [0–10]: 4 (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-## 7. Entwicklungspfad (2025–2075)
+### 7. Entwicklungspfad (2025–2075)
 
-### Szenario-Entwicklung
+#### Szenario-Entwicklung
 
 * Status 2025: EU-Kandidatenstatus und Reformkurs, wirtschaftliche Abhängigkeit von Landwirtschaft und Remissen
 * Best Case 2050/2075: Modernisierte Wirtschaft mit starkem IT- und Energiesektor, stabile Demokratie (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Base Case 2050/2075: Allmähliche Annäherung an EU-Standards, moderate Abwanderung (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Worst Case 2050/2075: Stagnation und anhaltende Abwanderung, Reformstau (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-### Rolle in der ERDA-Vision 2075
+#### Rolle in der ERDA-Vision 2075
 
 * Beitrag zur Post-Knappheitsökonomischen Ordnung: Stärkung regionaler Versorgungsketten
 * Demokratische Resilienz (sozial, kulturell, ökologisch): Aufbau partizipativer Instrumente und nachhaltiger Landwirtschaft
 * Exemplarische Wirkung auf andere Staaten / Regionen: Vorbild für erfolgreiche Transformation kleiner Agrarländer
 
-## 8. Narrative & Anwerbewirkung
+### 8. Narrative & Anwerbewirkung
 
 * Kernbotschaft: „Moldau zeigt, dass der Weg von der Landwirtschaftsnation zum vernetzten EU-Partner möglich ist.“
 * Beispiele für starke, wirkungsvolle Narrative und Einladungen: Zusammenarbeit in nachhaltiger Landwirtschaft und Digitalisierung
@@ -133,7 +133,7 @@ version: "1.0"
 * Zukunftswürde: Stolz auf kulturelles Erbe und europäische Perspektive
 * Einladung an andere Staaten & Bürger:innen: Austauschprogramme und Kooperationsprojekte
 
-## 9. Kennzahlenübersicht (Kurzform)
+### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator | 2025 | 2050 | 2075 | EU-Durchschnitt 2024 (Benchmark) |
 | --- | --- | --- | --- | --- |
@@ -146,7 +146,7 @@ version: "1.0"
 | Zivilgesellschaftlicher Index [0–10] | 5 | 6 (p) | 7 (p) | 7 |
 Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-## 10. Kurzfassung: „Moldau auf einen Blick“
+### 10. Kurzfassung: „Moldau auf einen Blick“
 
 Moldau befindet sich in einem tiefgreifenden Transformationsprozess. Als EU-Beitrittskandidat und Partner im ERDA-Netzwerk nutzt das Land seine landwirtschaftliche Stärke und ein wachsendes IT-Potenzial, um Wohlstand und Demokratie auszubauen. Herausforderungen wie Abwanderung und begrenzte Ressourcen bleiben, doch engagierte Reformen und europäische Kooperationen bieten bis 2075 eine nachhaltige Perspektive.
 
