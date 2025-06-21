@@ -212,7 +212,7 @@
     * [IE - Staatenprofil Republik Irland](anhang-b-erda-staatenprofile/3.-staatenprofile-eu-erda-kernlander/ie-staatenprofil-republik-irland.md)
     * [IT - Staatenprofil Italien](anhang-b-erda-staatenprofile/3.-staatenprofile-eu-erda-kernlander/it-staatenprofil-italien.md)
     * [LT - Staatenprofil Republik Litauen](anhang-b-erda-staatenprofile/3.-staatenprofile-eu-erda-kernlander/lt-staatenprofil-republik-litauen.md)
-    * [LU - Staatenprofil Luxemburg](anhang-b-erda-staatenprofile/4.-staatenprofile-eu-erda-kernlander/lu-staatenprofil-luxemburg.md)
+    * [LU - Staatenprofil Luxemburg](anhang-b-erda-staatenprofile/3.-staatenprofile-eu-erda-kernlander/lu-staatenprofil-luxemburg.md)
     * [LV - Staatenprofil Republik Lettland](anhang-b-erda-staatenprofile/3.-staatenprofile-eu-erda-kernlander/lv-staatenprofil-republik-lettland.md)
     * [NL - Staatenprofil Niederlande](anhang-b-erda-staatenprofile/3.-staatenprofile-eu-erda-kernlander/nl-staatenprofil-niederlande.md)
     * [PL - Staatenprofil Polen](anhang-b-erda-staatenprofile/3.-staatenprofile-eu-erda-kernlander/pl-staatenprofil-polen.md)
