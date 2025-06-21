@@ -13,7 +13,7 @@ except ImportError:  # pragma: no cover - optional dep
 logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 
 
-def run(cmd, cwd=None, capture_output=False):
+def run(cmd, cwd=None, capture_output=False, input_text=None):
     """Execute a shell command. Exit on failure or return output."""
     logging.info("Running command: %s", cmd)
     result = subprocess.run(
@@ -22,6 +22,7 @@ def run(cmd, cwd=None, capture_output=False):
         shell=True,
         stdout=subprocess.PIPE if capture_output else None,
         stderr=subprocess.PIPE if capture_output else None,
+        input=input_text,
         text=True,
     )
     if capture_output:
@@ -103,23 +104,34 @@ def wrap_wide_tables(md_file: str, threshold: int = 6) -> None:
                 new_lines.extend(table)
         elif stripped.startswith("<table"):
             table = []
-            max_cols = 0
             while i < len(lines):
                 table.append(lines[i])
                 if "</table>" in lines[i]:
                     i += 1
                     break
                 i += 1
-            first_row = "".join(table)
-            m = re.search(r"<tr[^>]*>(.*?)</tr>", first_row, re.DOTALL)
-            if m:
-                max_cols = len(re.findall(r"<t[dh][^>]*>", m.group(1)))
+            html_table = "".join(table)
+            md_table = table
+            try:
+                out, err, code = run(
+                    "pandoc -f html -t gfm --wrap=none -",
+                    capture_output=True,
+                    input_text=html_table,
+                )
+                if code == 0:
+                    md_table = [l + "\n" for l in out.splitlines()]
+            except Exception as e:  # pragma: no cover - pandoc issues
+                logging.warning("HTML table conversion failed: %s", e)
+            max_cols = 0
+            for l in md_table:
+                if l.lstrip().startswith("|"):
+                    max_cols = max(max_cols, l.count("|") - 1)
             if max_cols > threshold:
                 new_lines.append(f"::: {{.landscape cols={max_cols}}}\n")
-                new_lines.extend(table)
+                new_lines.extend(md_table)
                 new_lines.append(":::\n")
             else:
-                new_lines.extend(table)
+                new_lines.extend(md_table)
         else:
             new_lines.append(line)
             i += 1
