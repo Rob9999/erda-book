@@ -4,6 +4,7 @@ import subprocess
 import sys
 import logging
 from typing import List
+import requests
 
 try:
     import textstat
@@ -172,3 +173,50 @@ def validate_table_columns(md_file: str) -> List[str]:
             ref_cols = 0
 
     return errors
+
+
+def download_remote_images(md_file: str, out_dir: str) -> int:
+    """Download remote images referenced in ``md_file``.
+
+    Remote images (``http`` or ``https`` URLs) are downloaded into
+    ``out_dir`` and the markdown file is updated to reference the local
+    copy. Returns the number of images successfully downloaded."""
+
+    pattern = re.compile(r"(!\[[^\]]*\]\()\s*(https?://[^\s)]+)(\))")
+
+    try:
+        text = open(md_file, encoding="utf-8").read()
+    except Exception as e:  # pragma: no cover - unlikely
+        logging.error("Failed to read %s: %s", md_file, e)
+        raise
+
+    count = 0
+
+    def repl(match: re.Match) -> str:
+        nonlocal count
+        url = match.group(2)
+        try:
+            os.makedirs(out_dir, exist_ok=True)
+            name = os.path.basename(url.split("?")[0]) or f"img_{count}"
+            dest = os.path.join(out_dir, name)
+            response = requests.get(url, timeout=10)
+            response.raise_for_status()
+            with open(dest, "wb") as wf:
+                wf.write(response.content)
+            logging.info("Downloaded image %s -> %s", url, dest)
+            count += 1
+            return f"{match.group(1)}{dest}{match.group(3)}"
+        except Exception as e:  # pragma: no cover - network issues
+            logging.error("Failed to download image %s: %s", url, e)
+            return match.group(0)
+
+    new_text = pattern.sub(repl, text)
+
+    if count:
+        try:
+            with open(md_file, "w", encoding="utf-8") as f:
+                f.write(new_text)
+        except Exception as e:  # pragma: no cover - unlikely
+            logging.error("Failed to write %s: %s", md_file, e)
+            raise
+    return count

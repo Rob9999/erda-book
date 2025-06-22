@@ -11,7 +11,14 @@ except ImportError:  # pragma: no cover - optional dep
 
 __version__ = "2.0.0"
 
-from .utils import run, parse_summary, readability_report, wrap_wide_tables
+from .utils import (
+    run,
+    parse_summary,
+    readability_report,
+    wrap_wide_tables,
+    validate_table_columns,
+    download_remote_images,
+)
 from .linkcheck import (
     check_links,
     check_images,
