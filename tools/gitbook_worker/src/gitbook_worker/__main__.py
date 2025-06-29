@@ -66,6 +66,11 @@ def main():
         help="Directory to clone the repository into.",
     )
     parser.add_argument(
+        "--force",
+        action="store_true",
+        help="Overwrite existing clone directory without prompting.",
+    )
+    parser.add_argument(
         "-q",
         "--temp-dir",
         type=str,
@@ -212,7 +217,12 @@ def main():
     # Clone or update repository
     clone_dir = args.clone_dir  # resolve path
     clone_dir = os.path.abspath(clone_dir)
-    clone_or_update_repo(args.repo_url, clone_dir, branch_name=args.branch)
+    clone_or_update_repo(
+        args.repo_url,
+        clone_dir,
+        branch_name=args.branch,
+        force=args.force,
+    )
 
     # Parse SUMMARY.md
     summary_path = os.path.join(clone_dir, "SUMMARY.md")
