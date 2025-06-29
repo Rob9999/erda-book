@@ -271,7 +271,7 @@ def main():
         with open(header_file, "w", encoding="utf-8") as hf:
             hf.write("\\usepackage{fontspec}\n")
             hf.write("\\setmainfont{DejaVu Serif}\n")
-            hf.write("\\newfontfamily\\EmojiOne{Segoe UI Emoji}\n")
+            hf.write("\\newfontfamily\\EmojiOne{Symbola}\n")
             if args.wrap_wide_tables:
                 logging.info("Wrapping wide tables in landscape environment...")
                 wrap_wide_tables(combined_md, threshold=args.table_threshold)
@@ -291,6 +291,10 @@ def main():
             pdf_output = pdf_output[:-4]
         # Add timestamp to output filename
         pdf_output = f"{pdf_output}_{run_timestamp}.pdf"
+<<<<<<< HEAD
+=======
+
+>>>>>>> c903b65a25a8fc991a2ec15b4c9a1638b79851f5
         # Build PDF with Pandoc
         if args.use_docker:
             # Docker-Workflow
