@@ -41,6 +41,11 @@ def main():
         help="Branch of the Git repository",
     )
     parser.add_argument(
+        "--use-docker",
+        action="store_true",
+        help="Execute the PDF-build in a docker container.",
+    )
+    parser.add_argument(
         "--pdf",
         type=str,
         default="",
@@ -256,7 +261,7 @@ def main():
         with open(header_file, "w", encoding="utf-8") as hf:
             hf.write("\\usepackage{fontspec}\n")
             hf.write("\\setmainfont{DejaVu Serif}\n")
-            hf.write("\\newfontfamily\\EmojiOne{Noto Color Emoji}\n")
+            hf.write("\\newfontfamily\\EmojiOne{Segoe UI Emoji}\n")
             if args.wrap_wide_tables:
                 logging.info("Wrapping wide tables in landscape environment...")
                 wrap_wide_tables(combined_md, threshold=args.table_threshold)
@@ -268,23 +273,35 @@ def main():
 
     logging.info("All markdown files processed successfully.")
 
+    # Build PDF
     if args.pdf:
         # Build PDF with Pandoc
-        pdf_output = args.pdf
-        # Remove .pdf extension if present
-        if pdf_output.endswith(".pdf"):
-            pdf_output = pdf_output[:-4]
-        # Add timestamp to output filename
-        pdf_output = f"{pdf_output}_{run_timestamp}.pdf"
-        filter_path = os.path.join(os.path.dirname(__file__), "landscape.lua")
-        pandoc_cmd = (
-            f'pandoc "{combined_md}" -o "{pdf_output}" '
-            f'-f gfm+emoji --pdf-engine=xelatex --toc -V geometry:a4paper '
-            f'--lua-filter="{filter_path}" '
-            f'--resource-path="{clone_dir}" '
-            f'-H "{header_file}"'
-        )
-        out, err, code = run(pandoc_cmd, capture_output=True)
+        if args.use_docker:
+            # Docker-Workflow
+            docker_cmd = (
+                f'docker run --rm -v "{os.path.abspath(out_dir)}:/data" erda-pandoc '
+                f'pandoc "{os.path.basename(combined_md)}" -o "{os.path.basename(pdf_output)}" '
+                f"-f gfm+emoji --pdf-engine=xelatex --toc -V geometry:a4paper "
+                f'--resource-path="/data/gitbook_repo" -H "{os.path.basename(header_file)}"'
+            )
+            out, err, code = run(docker_cmd, capture_output=True)
+        else:
+            # Non-Docker workflow
+            pdf_output = args.pdf
+            # Remove .pdf extension if present
+            if pdf_output.endswith(".pdf"):
+                pdf_output = pdf_output[:-4]
+            # Add timestamp to output filename
+            pdf_output = f"{pdf_output}_{run_timestamp}.pdf"
+            filter_path = os.path.join(os.path.dirname(__file__), "landscape.lua")
+            pandoc_cmd = (
+                f'pandoc "{combined_md}" -o "{pdf_output}" '
+                f"-f gfm+emoji --pdf-engine=xelatex --toc -V geometry:a4paper "
+                f'--lua-filter="{filter_path}" '
+                f'--resource-path="{clone_dir}" '
+                f'-H "{header_file}"'
+            )
+            out, err, code = run(pandoc_cmd, capture_output=True)
         if out:
             logging.info("Pandoc stdout:\n%s", out)
         if err:
