@@ -1,8 +1,13 @@
 FROM pandoc/latex:latest
 
-# Installiere Noto Color Emoji für farbige Emojis im PDF
-RUN apt-get update && \
-    apt-get install -y fonts-noto-color-emoji
+# install fonts
+RUN apk add --no-cache font-dejavu
+RUN mkdir -p /usr/share/fonts
+RUN wget -O /usr/share/fonts/OpenMoji-black-glyf.ttf https://github.com/hfg-gmuend/openmoji/raw/master/font/OpenMoji-black-glyf/OpenMoji-black-glyf.ttf && \
+    fc-cache -f -v
+RUN fc-cache -f -v
 
-# Setze das Arbeitsverzeichnis (optional)
+# Update TeXLive und installiere pdflscape
+RUN tlmgr update --self --all && tlmgr install pdflscape
+
 WORKDIR /data

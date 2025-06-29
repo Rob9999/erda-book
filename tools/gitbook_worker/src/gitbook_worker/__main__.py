@@ -272,7 +272,7 @@ def main():
         with open(header_file, "w", encoding="utf-8") as hf:
             hf.write("\\usepackage{fontspec}\n")
             hf.write("\\setmainfont{DejaVu Serif}\n")
-            hf.write("\\newfontfamily\\EmojiOne{Symbola}\n")
+            hf.write("\\newfontfamily\\EmojiOne{OpenMoji Black}\n")
             if args.wrap_wide_tables:
                 logging.info("Wrapping wide tables in landscape environment...")
                 wrap_wide_tables(combined_md, threshold=args.table_threshold)
@@ -295,39 +295,61 @@ def main():
         # Build PDF with Pandoc
         if args.use_docker:
             # Docker-Workflow
+            logging.info("Using Docker to build PDF...")
             dockerfile_path = os.path.join(
                 os.path.dirname(__file__),
                 "Dockerfile",
             )
             ensure_docker_image("erda-pandoc", dockerfile_path)
+            abs_out_dir = os.path.abspath(out_dir)
+            abs_temp_dir = os.path.abspath(temp_dir)
+            abs_clone_dir = os.path.abspath(clone_dir)
+            docker_out_dir = "/data"
+            docker_temp_dir = "/temp"
+            docker_clone_dir = "/gitbook_repo"
+            docker_combined_md = f"/temp/{os.path.basename(combined_md)}"
+            logging.info(
+                "Docker: Combined markdown path: %s",
+                docker_combined_md,
+            )
+            docker_pdf_output = f"/data/{os.path.basename(pdf_output)}"
+            logging.info(
+                "Docker: PDF output path: %s",
+                docker_pdf_output,
+            )
+            docker_header_file = f"/temp/{os.path.basename(header_file)}"
+            logging.info("Docker pandoc header file path: %s", docker_header_file)
+            log_file
+            # Build docker command
             docker_cmd = [
-                "docker",
-                "run",
-                "--rm",
+                "docker",  # Docker-CLI
+                "run",  # Container starten
+                "--rm",  # Container nach Ausführung automatisch löschen
                 "-v",
-                f"{os.path.abspath(out_dir)}:/data",
+                f"{abs_out_dir}:{docker_out_dir}",  # Host-Output-Verzeichnis nach /data im Container mounten
                 "-v",
-                f"{os.path.abspath(temp_dir)}:/temp",
+                f"{abs_temp_dir}:{docker_temp_dir}",  # Host-Temp-Verzeichnis nach /temp im Container mounten
                 "-v",
-                f"{os.path.abspath(clone_dir)}:/gitbook_repo",
-                "erda-pandoc",
-                "pandoc",
-                os.path.basename(combined_md),
+                f"{abs_clone_dir}:{docker_clone_dir}",  # Host-Repo-Verzeichnis nach /gitbook_repo im Container mounten
+                "erda-pandoc",  # Name des Docker-Images
+                # Using pandoc/latex:latest, so the entrypoint is alreasy pandoc # "pandoc",  # Im Container auszuführendes Programm
+                docker_combined_md,  # Pfad zur kombinierten Markdown-Datei im Container (z.B. /temp/combined_20250629_170643.md)
                 "-o",
-                os.path.basename(pdf_output),
+                docker_pdf_output,  # Ausgabepfad für das PDF im Container (z.B. /data/Erda Buch_20250629_170643.pdf)
                 "-f",
-                "gfm+emoji",
-                "--pdf-engine=xelatex",
-                "--toc",
+                "gfm+emoji",  # Eingabeformat: GitHub-Flavored Markdown + Emoji-Unterstützung
+                "--pdf-engine=xelatex",  # PDF-Engine: xelatex (für Unicode/Emoji)
+                "--toc",  # Inhaltsverzeichnis erzeugen
                 "-V",
-                "geometry=a4paper",
-                "--resource-path=/data/gitbook_repo",
+                "geometry=a4paper",  # LaTeX-Variable: Papierformat A4
+                f"--resource-path={docker_clone_dir}",  # Ressourcenpfad für Pandoc (z.B. /gitbook_repo)
                 "-H",
-                os.path.basename(header_file),
+                docker_header_file,  # LaTeX-Header-Datei (z.B. /temp/pandoc_header.tex)
             ]
             out, err, code = run(docker_cmd, capture_output=True)
         else:
             # Non-Docker workflow
+            logging.info("Building PDF with Pandoc...")
             filter_path = os.path.join(os.path.dirname(__file__), "landscape.lua")
             pandoc_cmd = [
                 "pandoc",
@@ -352,7 +374,7 @@ def main():
             logging.warning("Pandoc stderr:\n%s", err)
         if code != 0:
             logging.error("Pandoc failed with exit code %s", code)
-            log_file = os.path.join(clone_dir, f"pandoc_error_{run_timestamp}.log")
+            log_file = os.path.join(out_dir, f"pandoc_error_{run_timestamp}.log")
             with open(log_file, "w", encoding="utf-8") as lf:
                 lf.write(err)
             logging.error("Pandoc errors logged to %s", log_file)
