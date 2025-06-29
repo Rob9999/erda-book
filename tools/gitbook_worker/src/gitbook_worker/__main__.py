@@ -271,7 +271,7 @@ def main():
         with open(header_file, "w", encoding="utf-8") as hf:
             hf.write("\\usepackage{fontspec}\n")
             hf.write("\\setmainfont{DejaVu Serif}\n")
-            hf.write("\\newfontfamily\\EmojiOne{Segoe UI Emoji}\n")
+            hf.write("\\newfontfamily\\EmojiOne{Symbola}\n")
             if args.wrap_wide_tables:
                 logging.info("Wrapping wide tables in landscape environment...")
                 wrap_wide_tables(combined_md, threshold=args.table_threshold)
@@ -285,6 +285,13 @@ def main():
 
     # Build PDF
     if args.pdf:
+        pdf_output = args.pdf
+        # Remove .pdf extension if present
+        if pdf_output.endswith(".pdf"):
+            pdf_output = pdf_output[:-4]
+        # Add timestamp to output filename
+        pdf_output = f"{pdf_output}_{run_timestamp}.pdf"
+
         # Build PDF with Pandoc
         if args.use_docker:
             # Docker-Workflow
@@ -312,12 +319,6 @@ def main():
             out, err, code = run(docker_cmd, capture_output=True)
         else:
             # Non-Docker workflow
-            pdf_output = args.pdf
-            # Remove .pdf extension if present
-            if pdf_output.endswith(".pdf"):
-                pdf_output = pdf_output[:-4]
-            # Add timestamp to output filename
-            pdf_output = f"{pdf_output}_{run_timestamp}.pdf"
             filter_path = os.path.join(os.path.dirname(__file__), "landscape.lua")
             pandoc_cmd = [
                 "pandoc",
