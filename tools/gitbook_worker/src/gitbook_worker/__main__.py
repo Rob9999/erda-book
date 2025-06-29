@@ -285,6 +285,12 @@ def main():
 
     # Build PDF
     if args.pdf:
+        pdf_output = args.pdf
+        # Remove .pdf extension if present
+        if pdf_output.endswith(".pdf"):
+            pdf_output = pdf_output[:-4]
+        # Add timestamp to output filename
+        pdf_output = f"{pdf_output}_{run_timestamp}.pdf"
         # Build PDF with Pandoc
         if args.use_docker:
             # Docker-Workflow
@@ -294,6 +300,10 @@ def main():
                 "--rm",
                 "-v",
                 f"{os.path.abspath(out_dir)}:/data",
+                "-v",
+                f"{os.path.abspath(temp_dir)}:/temp",
+                "-v",
+                f"{os.path.abspath(clone_dir)}:/gitbook_repo",
                 "erda-pandoc",
                 "pandoc",
                 os.path.basename(combined_md),
@@ -312,12 +322,6 @@ def main():
             out, err, code = run(docker_cmd, capture_output=True)
         else:
             # Non-Docker workflow
-            pdf_output = args.pdf
-            # Remove .pdf extension if present
-            if pdf_output.endswith(".pdf"):
-                pdf_output = pdf_output[:-4]
-            # Add timestamp to output filename
-            pdf_output = f"{pdf_output}_{run_timestamp}.pdf"
             filter_path = os.path.join(os.path.dirname(__file__), "landscape.lua")
             pandoc_cmd = [
                 "pandoc",
