@@ -51,7 +51,7 @@ from .repo import (
 logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 
 
-def split_reference_to_decription_and_urluri(name: str) -> tuple[str, str]:
+def split_reference_to_description_and_urluri(name: str) -> tuple[str, str]:
     url_pattern = re.compile(r"\(?\[?(https?://[^\s\)\]\[]+|[^\s\)\]\[]+\.[^\s\)\]\[]+)\]?\)?")
     url_match = url_pattern.search(name)
     if url_match:
