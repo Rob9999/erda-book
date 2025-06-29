@@ -10,6 +10,7 @@ from .utils import (
     readability_report,
     wrap_wide_tables,
     validate_table_columns,
+    download_remote_images,
 )
 from .linkcheck import (
     check_links,
@@ -235,6 +236,11 @@ def main():
         sys.exit(1)
     logging.info(f"gitbook markdowns are combined to: %s", combined_md)
 
+    logging.info("Fetching remote images referenced in markdown...")
+    img_dir = os.path.join(temp_dir, "images")
+    downloaded = download_remote_images(combined_md, img_dir)
+    logging.info("Downloaded %s remote images", downloaded)
+
     # Validate table column consistency before further processing
     logging.info("Validating table columns in combined markdown...")
     table_errors = validate_table_columns(combined_md)
@@ -245,18 +251,20 @@ def main():
         sys.exit(1)
     logging.info("Table columns validated successfully.")
 
-    header_file = None
-    if args.wrap_wide_tables:
-        logging.info("Wrapping wide tables in landscape environment...")
-        wrap_wide_tables(combined_md, threshold=args.table_threshold)
-        header_file = os.path.join(temp_dir, "pdflscape_header.tex")
-        try:
-            with open(header_file, "w", encoding="utf-8") as hf:
+    header_file = os.path.join(temp_dir, "pandoc_header.tex")
+    try:
+        with open(header_file, "w", encoding="utf-8") as hf:
+            hf.write("\\usepackage{fontspec}\n")
+            hf.write("\\setmainfont{DejaVu Serif}\n")
+            hf.write("\\newfontfamily\\EmojiOne{Noto Color Emoji}\n")
+            if args.wrap_wide_tables:
+                logging.info("Wrapping wide tables in landscape environment...")
+                wrap_wide_tables(combined_md, threshold=args.table_threshold)
                 hf.write("\\usepackage{pdflscape}\n")
-        except Exception as e:
-            logging.error("Failed to write header file: %s", e)
-            sys.exit(1)
-        logging.info("Wide tables wrapped successfully.")
+                logging.info("Wide tables wrapped successfully.")
+    except Exception as e:
+        logging.error("Failed to write header file: %s", e)
+        sys.exit(1)
 
     logging.info("All markdown files processed successfully.")
 
@@ -271,23 +279,23 @@ def main():
         filter_path = os.path.join(os.path.dirname(__file__), "landscape.lua")
         pandoc_cmd = (
             f'pandoc "{combined_md}" -o "{pdf_output}" '
-            f'--pdf-engine=xelatex --toc -V geometry:a4paper '
-            f'--lua-filter="{filter_path}"'
+            f'-f gfm+emoji --pdf-engine=xelatex --toc -V geometry:a4paper '
+            f'--lua-filter="{filter_path}" '
+            f'--resource-path="{clone_dir}" '
+            f'-H "{header_file}"'
         )
-        if header_file:
-            pandoc_cmd += f' -H "{header_file}"'
-        out, err, code = run(
-            pandoc_cmd,
-            capture_output=True,
-        )
+        out, err, code = run(pandoc_cmd, capture_output=True)
+        if out:
+            logging.info("Pandoc stdout:\n%s", out)
+        if err:
+            logging.warning("Pandoc stderr:\n%s", err)
         if code != 0:
             logging.error("Pandoc failed with exit code %s", code)
-            sys.exit(code)
-        if err:
-            log_file = os.path.join(clone_dir, f"pandoc_warnings_{run_timestamp}.log")
+            log_file = os.path.join(clone_dir, f"pandoc_error_{run_timestamp}.log")
             with open(log_file, "w", encoding="utf-8") as lf:
                 lf.write(err)
-            logging.warning("Pandoc warnings logged to %s", log_file)
+            logging.error("Pandoc errors logged to %s", log_file)
+            sys.exit(code)
         logging.info("PDF generated: %s", pdf_output)
 
     # Run quality checks based on flags
