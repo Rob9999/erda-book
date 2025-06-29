@@ -87,6 +87,8 @@ def proof_and_repair_internal_references(md_files: List[str], summary_md: str) -
             for name, ref in entry.items():
                 idx = ref.get("lineno", 1) - 1
                 if idx < len(lines):
+                    lines.insert(idx, name)
+                else:
                     lines.append(name)
         with open(file, "w", encoding="utf-8") as wf:
             wf.write("\n".join(lines) + "\n")
