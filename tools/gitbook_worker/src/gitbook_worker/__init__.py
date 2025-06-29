@@ -65,7 +65,7 @@ def split_reference_to_decription_and_urluri(name: str) -> tuple[str, str]:
 
 def lint_markdown(repo_dir: str):
     """Run markdownlint on the repository and return its output."""
-    return run("markdownlint **/*.md", cwd=repo_dir, capture_output=True)
+    return run(["markdownlint", "**/*.md"], cwd=repo_dir, capture_output=True)
 
 
 def validate_metadata(md_files):
@@ -92,4 +92,4 @@ def validate_metadata(md_files):
 
 def spellcheck(repo_dir: str):
     """Run codespell to check for common spelling mistakes."""
-    return run("codespell -q 3", cwd=repo_dir, capture_output=True)
+    return run(["codespell", "-q", "3"], cwd=repo_dir, capture_output=True)

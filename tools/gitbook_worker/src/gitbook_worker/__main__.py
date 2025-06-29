@@ -278,12 +278,27 @@ def main():
         # Build PDF with Pandoc
         if args.use_docker:
             # Docker-Workflow
-            docker_cmd = (
-                f'docker run --rm -v "{os.path.abspath(out_dir)}:/data" erda-pandoc '
-                f'pandoc "{os.path.basename(combined_md)}" -o "{os.path.basename(pdf_output)}" '
-                f"-f gfm+emoji --pdf-engine=xelatex --toc -V geometry:a4paper "
-                f'--resource-path="/data/gitbook_repo" -H "{os.path.basename(header_file)}"'
-            )
+            docker_cmd = [
+                "docker",
+                "run",
+                "--rm",
+                "-v",
+                f"{os.path.abspath(out_dir)}:/data",
+                "erda-pandoc",
+                "pandoc",
+                os.path.basename(combined_md),
+                "-o",
+                os.path.basename(pdf_output),
+                "-f",
+                "gfm+emoji",
+                "--pdf-engine=xelatex",
+                "--toc",
+                "-V",
+                "geometry=a4paper",
+                "--resource-path=/data/gitbook_repo",
+                "-H",
+                os.path.basename(header_file),
+            ]
             out, err, code = run(docker_cmd, capture_output=True)
         else:
             # Non-Docker workflow
@@ -294,13 +309,22 @@ def main():
             # Add timestamp to output filename
             pdf_output = f"{pdf_output}_{run_timestamp}.pdf"
             filter_path = os.path.join(os.path.dirname(__file__), "landscape.lua")
-            pandoc_cmd = (
-                f'pandoc "{combined_md}" -o "{pdf_output}" '
-                f"-f gfm+emoji --pdf-engine=xelatex --toc -V geometry:a4paper "
-                f'--lua-filter="{filter_path}" '
-                f'--resource-path="{clone_dir}" '
-                f'-H "{header_file}"'
-            )
+            pandoc_cmd = [
+                "pandoc",
+                combined_md,
+                "-o",
+                pdf_output,
+                "-f",
+                "gfm+emoji",
+                "--pdf-engine=xelatex",
+                "--toc",
+                "-V",
+                "geometry=a4paper",
+                f"--lua-filter={filter_path}",
+                f"--resource-path={clone_dir}",
+                "-H",
+                header_file,
+            ]
             out, err, code = run(pandoc_cmd, capture_output=True)
         if out:
             logging.info("Pandoc stdout:\n%s", out)

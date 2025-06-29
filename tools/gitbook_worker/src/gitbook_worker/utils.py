@@ -15,12 +15,12 @@ logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 
 
 def run(cmd, cwd=None, capture_output=False, input_text=None):
-    """Execute a shell command. Exit on failure or return output."""
+    """Execute a command without invoking a shell."""
     logging.info("Running command: %s", cmd)
     result = subprocess.run(
         cmd,
         cwd=cwd,
-        shell=True,
+        shell=False,
         stdout=subprocess.PIPE if capture_output else None,
         stderr=subprocess.PIPE if capture_output else None,
         input=input_text,
@@ -115,7 +115,15 @@ def wrap_wide_tables(md_file: str, threshold: int = 6) -> None:
             md_table = table
             try:
                 out, err, code = run(
-                    "pandoc -f html -t gfm --wrap=none -",
+                    [
+                        "pandoc",
+                        "-f",
+                        "html",
+                        "-t",
+                        "gfm",
+                        "--wrap=none",
+                        "-",
+                    ],
                     capture_output=True,
                     input_text=html_table,
                 )
