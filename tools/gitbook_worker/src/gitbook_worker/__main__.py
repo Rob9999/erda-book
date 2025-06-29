@@ -25,6 +25,7 @@ from .ai_tools import (
     proof_and_repair_external_references,
 )
 from .repo import clone_or_update_repo
+from .docker_tools import ensure_docker_image
 from . import lint_markdown, validate_metadata, spellcheck
 
 
@@ -294,6 +295,11 @@ def main():
         # Build PDF with Pandoc
         if args.use_docker:
             # Docker-Workflow
+            dockerfile_path = os.path.join(
+                os.path.dirname(__file__),
+                "Dockerfile",
+            )
+            ensure_docker_image("erda-pandoc", dockerfile_path)
             docker_cmd = [
                 "docker",
                 "run",
