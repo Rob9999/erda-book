@@ -30,9 +30,16 @@ def checkout_branch(repo_dir: str, branch_name: str) -> None:
         raise
 
 
-def clone_or_update_repo(repo_url: str, clone_dir: str, branch_name: str | None = None) -> None:
+def clone_or_update_repo(
+    repo_url: str,
+    clone_dir: str,
+    branch_name: str | None = None,
+    force: bool = False,
+) -> None:
     if os.path.isdir(clone_dir):
-        resp = input(f"Directory '{clone_dir}' exists. Clean and reclone? (y/N) ").strip().lower()
+        resp = "y" if force else input(
+            f"Directory '{clone_dir}' exists. Clean and reclone? (y/N) "
+        ).strip().lower()
         if resp == "y":
             if os.path.isdir(os.path.join(clone_dir, ".git")) and branch_name:
                 try:
@@ -58,5 +65,8 @@ def clone_or_update_repo(repo_url: str, clone_dir: str, branch_name: str | None 
             run(["git", "-C", clone_dir, "checkout", branch_name])
             run(["git", "-C", clone_dir, "pull", "origin", branch_name])
     else:
-        run(["git", "clone", "--branch", branch_name, repo_url, clone_dir])
+        if branch_name:
+            run(["git", "clone", "--branch", branch_name, repo_url, clone_dir])
+        else:
+            run(["git", "clone", repo_url, clone_dir])
 
