@@ -47,3 +47,52 @@ geben Sie der PDF-Engine eine passende Schriftart an, z.B.:
 ```bash
 pandoc input.md -o output.pdf --pdf-engine=xelatex -V mainfont="Noto Color Emoji"
 ```
+
+## 3. Beispiele: PDF-Erzeugung mit gitbook_worker
+
+Hier einige typische Workflows, wie Sie mit `gitbook_worker` ein PDF erzeugen:
+
+### 1. ERDA Buch als PDF erzeugen (ohne Docker)
+
+```bash
+gitbook-worker -v \
+  --clone-dir C:/RAMProjects/ERDA/repo/gitbook_repo \
+  --temp-dir C:/RAMProjects/ERDA/repo/temp \
+  --out-dir C:/RAMProjects/ERDA/repo \
+  https://github.com/Rob9999/erda-book.git \
+  --branch release_candidate \
+  --wrap-wide-tables \
+  --pdf "C:/RAMProjects/ERDA/repo/Erda Buch"
+```
+
+### 2. ERDA Buch als PDF mit Docker erzeugen
+
+```bash
+gitbook-worker -v \
+  --clone-dir C:/RAMProjects/ERDA/repo/gitbook_repo \
+  --temp-dir C:/RAMProjects/ERDA/repo/temp \
+  --out-dir C:/RAMProjects/ERDA/repo \
+  https://github.com/Rob9999/erda-book.git \
+  --branch release_candidate \
+  --wrap-wide-tables \
+  --use-docker \
+  --pdf "C:/RAMProjects/ERDA/repo/Erda Buch"
+```
+
+### 3. Nur Markdown zusammenfassen und Quellen exportieren
+
+```bash
+gitbook-worker -v \
+  --clone-dir C:/RAMProjects/ERDA/repo/gitbook_repo \
+  --temp-dir C:/RAMProjects/ERDA/repo/temp \
+  --out-dir C:/RAMProjects/ERDA/repo \
+  https://github.com/Rob9999/erda-book.git \
+  --branch release_candidate \
+  --export-sources
+```
+
+Weitere Optionen und Beispiele finden Sie mit:
+
+```bash
+gitbook-worker --help
+```
