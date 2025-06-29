@@ -1,5 +1,11 @@
 ---
-description: (Stand 2025)
+description: "State: GR, Date: 2025-06-10, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+country: "GR"
+date: "2025-06-10"
+author: "Robert Alexander Massinger"
+legal_responsible: "<Behörde/Institut>"
+layout: "ERDA-State-Profile-v4"
+version: "1.0"
 ---
 
 # GR - Staatenprofil Griechenland
@@ -57,12 +63,15 @@ description: (Stand 2025)
 * Forschungs- und Innovationsquote: 1,14 % des BIP (2022)
 * Patente/Jahr: ca. 198 Anmeldungen (19 pro Mio. Einw.)
 * FORTERA-Mitglied: Nein
-* Produktionssouveränität:
-  * ☐ Energie
-  * ☑ IT
-  * ☑ Verteidigung
-  * ☑ Ernährung
+#### 3.1 Infrastrukturautarkie
 
+* Energie ☐
+* IT/Cloud ☑
+* Verteidigung ☑
+* Ernährung ☑
+* IRIS² ☐
+* Quantentechnologie ☐
+* Autonome Logistiksysteme ☐
 ***
 
 ### 4. Ressourcenprofil
@@ -157,44 +166,67 @@ description: (Stand 2025)
 
 ***
 
-### 10. Quellen & Modellierungen
+### 10. Kurzfassung: „Griechenland auf einen Blick“
 
-#### A. Demografie
+Griechenland verbindet antikes Erbe, maritime Kompetenz und wachsende erneuerbare Energien. Bis 2075 positioniert es sich als grüne Energie- und Innovationsdrehscheibe im Mittelmeerraum.
+### 11. Quellen & Modellierungen
+#### 11.1 ℹ️ Allgemeines
+* Statistik: Hellenic Statistical Authority, Eurostat, UN; Basisjahr 2025.
+#### 11.2 📎 Verwendete Quellen & Verweise
+
+
+
+##### A. Demografie
 
 * PopulationPyramid.net: [Greece 2025](https://www.populationpyramid.net/greece/2025/) & [2050](https://www.populationpyramid.net/greece/2050/)
 * UN WPP Medium Variant: [UN WPP Download](https://population.un.org/wpp/Download/Standard/Population/)
 * Worldometers: [Greece Population](https://www.worldometers.info/world-population/greece-population/)
 
-#### B. Wirtschaft & Innovation
+##### B. Wirtschaft & Innovation
 
 * World Bank: [GDP – Greece](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=GR)
 * Eigene Prognose (1,5 % p. a.)
 
-#### C. Soziales & Bildung
+##### C. Soziales & Bildung
 
 * OECD: [Education at a Glance 2023](https://www.oecd.org/education/education-at-a-glance/)
 * Eurostat: [Tertiary Attainment (edat\_lfse\_03)](https://ec.europa.eu/eurostat/databrowser/view/EDAT_LFSE_03)
 
-#### D. Gesundheit & Lebenserwartung
+##### D. Gesundheit & Lebenserwartung
 
 * Worldometer: [Life Expectancy – Greece](https://www.worldometers.info/demographics/life-expectancy/greece-life-expectancy/)
 
-#### E. Innovation & Patente
+##### E. Innovation & Patente
 
 * Greek Patent Office: [OEB Statistiken](https://www.oeb.gr/)
 * WIPO: [IP Facts & Figures](https://www.wipo.int/ipstats/en/)
 
-#### F. Umwelt & Ressourcen
+##### F. Umwelt & Ressourcen
 
 * Natura 2000: [EU NATURA Sites in GR](https://natura2000.eea.europa.eu/)
 * Hellenic Statistical Authority: [Umweltberichte](https://www.statistics.gr/)
 
-#### G. Sicherheit & Verteidigung
+##### G. Sicherheit & Verteidigung
 
 * SIPRI: [Military Expenditure](https://www.sipri.org/databases/milex)
 * NATO: [Defence Expenditure](https://www.nato.int/cps/en/natohq/topics_49198.htm)
 
-#### H. Politik & Institutionen
+##### H. Politik & Institutionen
 
 * World Justice Project: [Rule of Law Index](https://worldjusticeproject.org/)
 * Eurobarometer 2024: [Survey 2251](https://europa.eu/eurobarometer/surveys/survey-detail/2251)
+
+#### 11.3 🛠️ Modellierungen & Annahmen
+* Eigene Projektion: BIP-Wachstum 1,5 % p.a. bis 2075
+
+***
+
+### 12. 🤝 Mitwirkung willkommen
+
+Dieses Profil basiert auf öffentlich verfügbaren und modellierten Daten. Vertreter:innen der Hellenischen Republik sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
+
+#### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
+Autor: Robert Alexander Massinger
+Kontakt: [robert.alexander.massinger@outlook.de](mailto:robert.alexander.massinger@outlook.de)
+Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
+Letzte Änderung: 2025-06-10

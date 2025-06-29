@@ -1,19 +1,25 @@
 ---
-description: (Stand 2025)
+description: "State: SE, Date: 2025-06-10, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+country: "SE"
+date: "2025-06-10"
+author: "Robert Alexander Massinger"
+legal_responsible: "<Behörde/Institut>"
+layout: "ERDA-State-Profile-v4"
+version: "1.0"
 ---
 
 # SE - Staatenprofil Schweden
 
-## **🇸🇪 ERDA-Staatenprofil: Schweden**
+## 🇸🇪 ERDA-Staatenprofil: Schweden
 
 ### 1. Überblick (Meta)
 
 * 🏳️ Offizieller Name: Konungariket Sverige (Königreich Schweden)
-* 🗸 Geografische Lage: Nordeuropa, Skandinavische Halbinsel
+* 🗺️ Geografische Lage: Nordeuropa, Skandinavische Halbinsel
 * 👥 Bevölkerung (2025): ca. 10,5 Mio.
 * 🧠 Regierungsform & Verfassungsstatus (2025): Parlamentarische Monarchie mit starker Verfassungsbindung
-* 🗓️ ERDA-Status: Mitglied
-* 🧱 Rolle im ERDA-Netzwerk (Zukunft): Arktisknoten, Innovationsgesellschaft, zivilgesellschaftlicher Vorreiter
+* 📅 ERDA-Status: Mitglied
+* 🧭 Rolle im ERDA-Netzwerk (Zukunft): Arktisknoten, Innovationsgesellschaft, zivilgesellschaftlicher Vorreiter
 
 ***
 
@@ -38,7 +44,10 @@ description: (Stand 2025)
 * Forschungs- und Innovationsquote: 3,3 % des BIP
 * Patente/Jahr: ca. 12.000 (leicht steigend)
 * Mitglied in FORTERA-Handelsallianzen: Ja
-* Produktionssouveränität: ☑ Energie, ☑ IT, ☑ Verteidigung, ☑ Ernährung
+
+#### 3.1 Infrastrukturautarkie
+
+* Energie ☑, IT/Cloud ☑, Verteidigung ☑, Ernährung ☑
 
 ***
 
@@ -51,7 +60,7 @@ description: (Stand 2025)
 * Erneuerbare Energiepotenziale: ☑ Wind, ☑ Wasser, ☑ Biomasse
 * Biodiversität & Schutzgebiete: 40 %
 
-#### 🧑‍🧻‍🧑 Soziale Ressourcen:
+#### 🧑‍🤝‍🧑 Soziale Ressourcen:
 
 * Ehrenamt & Gemeinschaftskultur: 9 / 10
 * Civic-Tech-Nutzung: Hoch (v.a. Open-Government & ePartizipation)
@@ -123,13 +132,39 @@ description: (Stand 2025)
 | Anteil Erneuerbare (%)                | 65 %      | 85 %    | 95 %      |
 | Lebenserwartung                       | 82,5      | 84      | 86        |
 | Bildungsquote (%)                     | 44 %      | 50 %    | 56 %      |
-| KI-Kapazität \[0–10]                  | 7         | 8,5     | 9         |
-| Zivilgesellschaftlicher Index \[0–10] | 8,5       | 9       | 9,5       |
+| KI-Kapazität [0–10]                   | 7         | 8,5     | 9         |
+| Zivilgesellschaftlicher Index [0–10]  | 8,5       | 9       | 9,5       |
 
 ***
 
-### 10. Quellen & Modellierungen (optional)
+### 10. Kurzfassung: „Schweden auf einen Blick“
+
+Schweden verbindet hohe Innovationskraft mit einer starken Zivilgesellschaft und fungiert als arktischer Stabilitätsanker im ERDA-Netzwerk.
+
+### 11. Quellen & Modellierungen
+
+#### 11.1 ℹ️ Allgemeines
 
 * Prognosemodelle: Eurostat, SCB, ERDA-Szenariencluster Nord
 * Verträge: Nordischer Verteidigungspakt, ERDA-Grundakte
 * Sonstiges: Totalförsvarstrategin (Gesamtverteidigung), UNESCO-Kommission SE
+
+#### 11.2 📎 Verwendete Quellen & Verweise
+
+*(Keine weiteren Angaben)*
+
+#### 11.3 🛠️ Modellierungen & Annahmen
+
+*(Siehe 11.1)*
+
+***
+
+### 12. 🤝 Mitwirkung willkommen
+
+Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen des Königreichs Schweden sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
+
+#### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
+Autor: Robert Alexander Massinger
+Kontakt: [robert.alexander.massinger@outlook.de](mailto:robert.alexander.massinger@outlook.de)
+Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
+Letzte Änderung: 2025-06-10

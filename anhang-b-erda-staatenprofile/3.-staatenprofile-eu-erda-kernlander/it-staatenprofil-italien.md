@@ -1,5 +1,11 @@
 ---
-description: (Stand 2025)
+description: "State: IT, Date: 2025-06-10, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+country: "IT"
+date: "2025-06-10"
+author: "Robert Alexander Massinger"
+legal_responsible: "<Behörde/Institut>"
+layout: "ERDA-State-Profile-v4"
+version: "1.0"
 ---
 
 # IT - Staatenprofil Italien
@@ -12,20 +18,20 @@ description: (Stand 2025)
 * **Geografische Lage:** Südeuropa, italienische Halbinsel im Mittelmeer
 * **Bevölkerung (2025):** ca. 58,93 Mio.
 * **Regierungsform & Verfassungsstatus (2025):** Parlamentarische Republik, Verfassung 1948 (Verfassungsbindung: Ja)
-* **ERDA-Status:** Mitglied
+* 📅 ERDA-Status: Mitglied
 * **Rolle im ERDA-Netzwerk (Zukunft):** Kulturvermittler, Tourismus-Hub, Nahrungsmittel- & Luxusgüter-Expertise
 
 ***
 
 ### 2. Demografie & Gesellschaft
 
-* **Bevölkerung (2050/2075-Prognose):** ca. 54,4 Mio. (2050), ca. 47,0 Mio. (2075) ([data.who.int](https://data.who.int/countries/380?utm_source=chatgpt.com), [en.wikipedia.org](https://en.wikipedia.org/wiki/Population_decline?utm_source=chatgpt.com))
+* **Bevölkerung (2050/2075-Prognose):** ca. 54,4 Mio. (2050), ca. 47,0 Mio. (2075) ([data.who.int](https://data.who.int/countries/380), [en.wikipedia.org](https://en.wikipedia.org/wiki/Population_decline))
 * **Altersstruktur:** Medianalter: 47,3 Jahre; 0–14 Jahre: 13,4  %; ≥ 65 Jahre: 23,3  %
-* **Urbanisierung:** 72 % urban ([theodora.com](https://theodora.com/world_fact_book_2023/italy/italy_environment.html?utm_source=chatgpt.com))
-* **Bildung:** Hochschulquote (25–34 J.) 31 % ([ec.europa.eu](https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20240527-1?utm_source=chatgpt.com)); MINT-Anteil bei Hochschulabsolvent:innen: 17 % ([gpseducation.oecd.org](https://gpseducation.oecd.org/Content/EAGCountryNotes/EAG2023_CN_ITA_pdf.pdf?utm_source=chatgpt.com))
-* **Lebenserwartung:** Ø 83,1 Jahre ([reuters.com](https://www.reuters.com/world/europe/births-fall-italy-15th-year-running-record-low-2024-03-29/?utm_source=chatgpt.com))
-* **Migrationssaldo:** +275.000 (2023) ([reuters.com](https://www.reuters.com/world/europe/births-fall-italy-15th-year-running-record-low-2024-03-29/?utm_source=chatgpt.com))
-* **Soziale Kohäsion:** Subjektive Lebenszufriedenheit: 6,2 / 10 ([worldometers.info](https://www.worldometers.info/world-population/italy-population/?utm_source=chatgpt.com)); Vertrauen in Regierung: 33 % ([veriangroup.com](https://veriangroup.com/hubfs/BE/Eurobarometer/Standard-101-Spring%202024.pdf?utm_source=chatgpt.com))
+* **Urbanisierung:** 72 % urban ([cia.gov](https://www.cia.gov/the-world-factbook/countries/italy/#environment))
+* **Bildung:** Hochschulquote (25–34 J.) 31 % ([ec.europa.eu](https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20240527-1)); MINT-Anteil bei Hochschulabsolvent:innen: 17 % ([gpseducation.oecd.org](https://gpseducation.oecd.org/Content/EAGCountryNotes/EAG2023_CN_ITA_pdf.pdf))
+* **Lebenserwartung:** Ø 83,1 Jahre ([euronews.com](https://www.euronews.com/my-europe/2024/05/10/italys-falling-birth-rate-is-a-crisis-thats-only-getting-worse))
+* **Migrationssaldo:** +275.000 (2023) ([euronews.com](https://www.euronews.com/my-europe/2024/05/10/italys-falling-birth-rate-is-a-crisis-thats-only-getting-worse))
+* **Soziale Kohäsion:** Subjektive Lebenszufriedenheit: 6,2 / 10 ([worldometers.info](https://www.worldometers.info/world-population/italy-population/)); Vertrauen in Regierung: 33 % ([veriangroup.com](https://veriangroup.com/hubfs/BE/Eurobarometer/Standard-101-Spring%202024.pdf))
 
 ***
 
@@ -34,12 +40,14 @@ description: (Stand 2025)
 * **BIP (Mrd. EUR):** 2025: 2.150 | 2050: 2.800 | 2075: 3.200
 * **BIP pro Kopf (EUR):** ca. 36.500
 * **Schlüsselindustrien (Top 3):** Maschinenbau, Automobilbau, Luxusgüter & Mode
-* **Automatisierung & Digitalisierung:** 185 Industrieroboter je 10 000 Beschäftigte (2023) ([ec.europa.eu](https://ec.europa.eu/eurostat/statistics-explained/index.php/Education_and_training_statistics_at_regional_level?utm_source=chatgpt.com)) | Prognose 2050: 60 % der Industrieunternehmen
-* **Forschungs- und Innovationsquote:** 1,51 % des BIP ([ipsos.com](https://www.ipsos.com/sites/default/files/ct/news/documents/2023-12/Democracy_fl_522_report_en.pdf?utm_source=chatgpt.com))
+* **Automatisierung & Digitalisierung:** 185 Industrieroboter je 10 000 Beschäftigte (2023) ([ec.europa.eu](https://ec.europa.eu/eurostat/statistics-explained/index.php/Education_and_training_statistics_at_regional_level)) | Prognose 2050: 60 % der Industrieunternehmen
+* **Forschungs- und Innovationsquote:** 1,51 % des BIP ([ipsos.com](https://www.ipsos.com/sites/default/files/ct/news/documents/2023-12/Democracy_fl_522_report_en.pdf))
 * **Patente p.a.:** ca. 21.000 EP-Anmeldungen (2023)
 * **Mitglied in FORTERA-Handelsallianzen:** Ja
-* **Produktionssouveränität in strategischen Sektoren:**
-  * Energie ☑, IT/Cloud ☐, Verteidigung ☐, Ernährung ☑
+
+#### 3.1 Infrastrukturautarkie
+
+* Energie ☑, IT/Cloud ☐, Verteidigung ☐, Ernährung ☑
 
 ***
 
@@ -47,7 +55,7 @@ description: (Stand 2025)
 
 #### 🌱 Natürliche Ressourcen:
 
-* **Landfläche:** 301 340 km² ([theodora.com](https://theodora.com/world_fact_book_2023/italy/italy_environment.html?utm_source=chatgpt.com))
+* **Landfläche:** 301 340 km² ([cia.gov](https://www.cia.gov/the-world-factbook/countries/italy/#environment))
 * **Meeresfläche (AWZ):** 541 915 km²
 * **Strategische Rohstoffe:** begrenzte Lithium- & Seltene-Erden-Vorkommen; reichlich Süßwasser in Alpenzuflüssen
 * **Erneuerbare Energiepotenziale:** Solar (Süditalien), Wind (Adria & Sardinien), Geothermie (Toskana)
@@ -86,7 +94,7 @@ description: (Stand 2025)
 ### 6. Kulturelle Identität & Soft Power
 
 * Sprachen: Italienisch; Minderheitensprachen: Sardisch, Deutsch, Französisch
-* UNESCO-Welterbe: 60 Stätten (höchste Zahl weltweit) ([reuters.com](https://www.reuters.com/world/europe/romes-first-highway-added-unesco-world-heritage-list-2024-07-27/?utm_source=chatgpt.com))
+* UNESCO-Welterbe: 60 Stätten (höchste Zahl weltweit) ([smithsonianmag.com](https://www.smithsonianmag.com/smart-news/ancient-romes-stone-highway-has-become-a-world-heritage-site-180984788/))
 * Kreativwirtschaft (Index): 7 / 10
 * Internationale Sichtbarkeit: Nobelpreise 20; Olympiamedaillen 176
 * Kultur als Vermittlungsfaktor: 8 / 10
@@ -135,7 +143,19 @@ description: (Stand 2025)
 
 ***
 
-### 10. Quellen & Modellierungen
+### 10. Kurzfassung: „Italien auf einen Blick“
+
+Italien verbindet mediterrane Lebensart mit technologischer Ambition. Kulturelles Erbe, Spitzenkulinarik und nachhaltige Innovationen machen das Land zu einem künftigen ERDA-Knoten für Design und Genuss.
+
+***
+
+### 11. Quellen & Modellierungen
+
+#### 11.1 ℹ️ Allgemeines
+
+* Statistik: Mischung aus nationalen und internationalen Quellen (ISTAT, Eurostat, UN), Basisjahr 2025.
+
+#### 11.2 📎 Verwendete Quellen & Verweise
 
 #### Demografische Daten
 
@@ -154,7 +174,7 @@ description: (Stand 2025)
 
 #### Gesundheit & Lebenserwartung
 
-* **World Health Organization (WHO)**: Lebenserwartungsdaten, https://www.who.int/data
+* **World Health Organization (WHO)**: Lebenserwartungsdaten, <https://www.who.int/data/gho/data/indicators/indicator-details/GHO/life-expectancy-at-birth-(years)>
 * **Reuters**: Artikel "Births fall in Italy", Geburten- und Migrationsstatistiken, https://www.reuters.com/
 
 #### Innovation & Patente
@@ -171,6 +191,16 @@ description: (Stand 2025)
 
 * **Stockholm International Peace Research Institute (SIPRI)**: Verteidigungsausgaben, https://www.sipri.org/
 
-#### Modellierungsgrundlagen
+#### 11.3 🛠️ Modellierungen & Annahmen
 
 * **ERDA-Projektionsmodell** (internes Szenario- und Prognosemodell)
+
+### 12. 🤝 Mitwirkung willkommen
+
+Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Italienischen Republik sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
+
+#### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
+Autor: Robert Alexander Massinger
+Kontakt: [robert.alexander.massinger@outlook.de](mailto:robert.alexander.massinger@outlook.de)
+Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
+Letzte Änderung: 2025-06-10

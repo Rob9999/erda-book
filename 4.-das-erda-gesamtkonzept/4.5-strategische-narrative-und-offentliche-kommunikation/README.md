@@ -16,7 +16,7 @@ _**Strategische Narrative & öffentliche Kommunikation**_
 
 **Titel des Abschnitts:**
 
-_„Strategische Narrative & öffentliche Kommunikation (_&#x4B;apitel 4.5.1 – 4.5.&#x32;_)“_
+_„Strategische Narrative & öffentliche Kommunikation (_Kapitel 4.5.1 – 4.5.2_)“_
 
 ***
 

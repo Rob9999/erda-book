@@ -1,5 +1,11 @@
 ---
-description: (Stand 2025)
+description: "State: EE, Date: 2025-06-10, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+country: "EE"
+date: "2025-06-10"
+author: "Robert Alexander Massinger"
+legal_responsible: "<Behörde/Institut>"
+layout: "ERDA-State-Profile-v4"
+version: "1.0"
 ---
 
 # EE - Staatenprofil Republik Estland
@@ -12,7 +18,7 @@ description: (Stand 2025)
 * 🗺️ **Geografische Lage:** Nordeuropa, südlich von Finnland am Finnischen Meerbusen; grenzt im Süden an Lettland, im Osten an Russland; Küstenlänge 3 794 km ([Wikipedia](https://en.wikipedia.org/wiki/Estonia))
 * 👥 **Bevölkerung (2025):** 1 369 285 ([Statistik Estonia](https://stat.ee/en/find-statistics/statistics-theme/population))
 * 🧠 **Regierungsform & Verfassungsstatus (2025):** Unitary parlamentarische Republik; Verfassung von 1992 ([Riigikogu](https://www.riigikogu.ee/en/constitution-of-the-republic-of-estonia/))
-* 📅 **ERDA-Status:** Mitglied
+* 📅 ERDA-Status: Mitglied
 * 🧭 **Rolle im ERDA-Netzwerk (Zukunft):** Digitalnation & Cyberhub
 
 ***
@@ -22,13 +28,13 @@ description: (Stand 2025)
 * **Bevölkerung (2050/2075-Prognose):** \~1 270 000 (2050), \~1 200 000 (2075) ([UN WPP](https://population.un.org/wpp/))
 * **Altersstruktur:** Medianalter 43,6 Jahre (2020) ([CIA Factbook](https://www.cia.gov/the-world-factbook/countries/estonia/)); Jugendanteil (< 15 Jahre) 14,4 % (2022); Altenquotient (≥ 65 Jahre) 21,6 % (2022) ([CIA Factbook](https://www.cia.gov/the-world-factbook/countries/estonia/))
 * **Urbanisierung:** 68,2 % (2022) ([CIA Factbook](https://www.cia.gov/the-world-factbook/countries/estonia/))
-* **Bildung:**&#x20;
+* **Bildung:** 
   * Durchschnittsjahre (Mean years of schooling) 12,7 Jahre (2021) ([UNDP HDR](https://hdr.undp.org/data-center/specific-country-data#/countries/EST))
   * MINT-Anteil: 30 % der Hochschulabschlüsse (2022) ([Eurostat](https://ec.europa.eu/eurostat/databrowser/view/educ_uoe_grad04/default/table?lang=en))
   * Hochschulquote: 51,7 % (25–34 Jährige, 2023) ([Eurostat](https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_22/default/table?lang=en))
 * **Lebenserwartung:** 78,6 Jahre (2022) ([Worldometers](https://www.worldometers.info/demographics/estonia-demographics/))
 * **Migrationssaldo:** 0,54 Migrant:innen/1 000 EW (2020) ([CIA Factbook](https://www.cia.gov/the-world-factbook/countries/estonia/))
-* **Soziale Kohäsion:**&#x20;
+* **Soziale Kohäsion:** 
   * Subjektive Zufriedenheit: 5,55/10 (World Happiness Report 2024) ([WHR](https://worldhappiness.report/))
   * Vertrauen in Demokratie (Vertrauen ins nationale Parlament): 30 % (2024) ([Eurobarometer](https://europa.eu/eurobarometer/surveys))
 
@@ -44,6 +50,16 @@ description: (Stand 2025)
 * **Patente / Jahr:** 492 (2022) ([WIPO IE Profil](https://www.wipo.int/edocs/statistics-country-profile/en/ee.pdf))
 * **FORTERA-Handelsallianzen:** Nein
 * **Produktionssouveränität:** ☑ IT, ☑ Ernährung, ☐ Energie, ☐ Verteidigung
+
+#### 3.1 Infrastrukturautarkie
+
+* Energie ☐
+* IT/Cloud ☑
+* Verteidigung ☐
+* Ernährung ☑
+* Satellitenkommunikation (IRIS²) ☐
+* Quantentechnologie ☐
+* Autonome Logistiksysteme ☐
 
 ***
 
@@ -73,7 +89,7 @@ description: (Stand 2025)
 
 ### 5. Sicherheit & strategische Rolle (EDA)
 
-* **Militärisches Potenzial:**&#x20;
+* **Militärisches Potenzial:** 
   * DSN-geeignet: Nein
   * Cyberkommando: Ja (Estonian Defence Force Cyber Command) ([EDF](https://mil.ee))
   * Frühwarnsystem: EU Copernicus
@@ -141,45 +157,68 @@ description: (Stand 2025)
 
 ^1 OECD Langfristprojekt­tionen ([OECD](https://www.oecd.org))
 
+
 ***
 
-### 10. Quellen & Modellierungen (Auswahl)
+### 10. Kurzfassung: „Estland auf einen Blick“
 
-#### A. Demografie
+Estland verbindet eine agile Digitalverwaltung mit einer engagierten Zivilgesellschaft. Bis 2075 strebt das Land Klimaneutralität und volle digitale Souveränität an.
 
-* Statistikaamet „Population by sex and age“: https://stat.ee/en/find-statistics/statistics-theme/population
-* UN WPP (2022 Revision): https://population.un.org/wpp/
+### 11. Quellen & Modellierungen
 
-#### B. Wirtschaft & Innovation
+#### 11.1 ℹ️ Allgemeines
 
-* Wikipedia „Economy of Estonia“: https://en.wikipedia.org/wiki/Economy\_of\_Estonia
-* IFR Global Robot Density Report: https://ifr.org/
+* Statistik: Mischung aus nationalen und internationalen Quellen (Statistikaamet, Eurostat u. a.), Basisjahr 2025.
+* Modelle: BIP- und Bevölkerungsprognosen nach OECD und UN (hypothetisch: ERDA Scenario Modeling Report 2025).
 
-#### C. Soziales & Bildung
+#### 11.2 📎 Verwendete Quellen & Verweise
 
-* UNDP Human Development Reports: https://hdr.undp.org/
-* Eurostat Education Statistics: https://ec.europa.eu/eurostat/
+**Demografie & Gesellschaft**
+* **Quelle:** Statistikaamet "Population by sex and age", https://stat.ee/en/find-statistics/statistics-theme/population
+* **Quelle:** UN WPP (2022 Revision), https://population.un.org/wpp/
 
-#### D. Gesundheit & Lebenserwartung
+**Wirtschaft & Innovation**
+* **Quelle:** Wikipedia "Economy of Estonia", https://en.wikipedia.org/wiki/Economy_of_Estonia
+* **Quelle:** IFR Global Robot Density Report, https://ifr.org/
 
-* Worldometers Estonia Demographics: https://www.worldometers.info/demographics/estonia-demographics/
-* WHO NHA Database: https://apps.who.int/nha/database
+**Soziales & Bildung**
+* **Quelle:** UNDP Human Development Reports, https://hdr.undp.org/
+* **Quelle:** Eurostat Education Statistics, https://ec.europa.eu/eurostat/
 
-#### E. Innovation & Patente
+**Gesundheit & Lebenserwartung**
+* **Quelle:** Worldometers Estonia Demographics, https://www.worldometers.info/demographics/estonia-demographics/
+* **Quelle:** WHO NHA Database, https://apps.who.int/nha/database
 
-* WIPO Country Profile Estonia: https://www.wipo.int/edocs/statistics-country-profile/en/ee.pdf
+**Innovation & Patente**
+* **Quelle:** WIPO Country Profile Estonia, https://www.wipo.int/edocs/statistics-country-profile/en/ee.pdf
 
-#### F. Umwelt & Ressourcen
+**Umwelt & Ressourcen**
+* **Quelle:** Wikipedia "Energy in Estonia", https://en.wikipedia.org/wiki/Energy_in_Estonia
+* **Quelle:** Estonian Environmental Board, https://keskkonnaamet.ee
 
-* Wikipedia „Energy in Estonia“: https://en.wikipedia.org/wiki/Energy\_in\_Estonia
-* Estonian Environmental Board: https://keskkonnaamet.ee
+**Sicherheit & Verteidigung**
+* **Quelle:** NATO Defence Expenditure, https://www.nato.int
+* **Quelle:** Estonian Defence Forces Cyber Command, https://mil.ee
 
-#### G. Sicherheit & Verteidigung
+**Politische & institutionelle Grundlagen**
+* **Quelle:** Constitution of Estonia, https://www.riigikogu.ee/en/constitution-of-the-republic-of-estonia/
+* **Quelle:** World Justice Project, https://worldjusticeproject.org/
 
-* NATO Defence Expenditure: https://www.nato.int
-* Estonian Defence Forces Cyber Command: https://mil.ee
+#### 11.3 🛠️ Modellierungen & Annahmen
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-#### H. Politik & Institutionen
 
-* Constitution of Estonia: https://www.riigikogu.ee/en/constitution-of-the-republic-of-estonia/
-* World Justice Project: https://worldjusticeproject.org/
+* Wirtschaftliche Projektionen 2050–2075: basierend auf OECD-Langfristprojektionen 2024 (hypothetisch: ERDA Scenario Modeling Report 2025).
+* Demografische Entwicklung: UN WPP 2022 (hypothetisch: ERDA Scenario Modeling Report 2025).
+* Energiepotenziale: Schätzungen nach SEI Estonia (hypothetisch: ERDA Scenario Modeling Report 2025).
+
+### 12. 🤝 Mitwirkung willkommen
+
+Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Estland sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
+
+#### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
+Autor: Robert Alexander Massinger
+Kontakt: [robert.alexander.massinger@outlook.de](mailto:robert.alexander.massinger@outlook.de)
+Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
+Letzte Änderung: 2025-06-10

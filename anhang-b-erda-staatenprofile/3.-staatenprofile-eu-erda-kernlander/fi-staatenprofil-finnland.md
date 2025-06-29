@@ -1,23 +1,29 @@
 ---
-description: (Stand 2025)
+description: "State: FI, Date: 2025-06-10, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+country: "FI"
+date: "2025-06-10"
+author: "Robert Alexander Massinger"
+legal_responsible: "<Behörde/Institut>"
+layout: "ERDA-State-Profile-v4"
+version: "1.0"
 ---
 
 # FI - Staatenprofil Finnland
 
-### 🇫🇮 ERDA-Staatenprofil: Finnland
+## 🇫🇮 ERDA-Staatenprofil: Finnland
 
-#### 1. Überblick (Meta)
+### 1. Überblick (Meta)
 
 * 🏳️ **Offizieller Name:** Republik Finnland
 * 🗺️ **Geografische Lage:** Nordeuropa, Grenzstaat im Nordischen Raum (Schweden, Norwegen, Russland; Ostsee im Süden)
 * 👥 **Bevölkerung (2025):** 5.675.983 (geschätzt zum 1. Januar 2025) citeturn3search8
 * 🧠 **Regierungsform & Verfassungsstatus (2025):** Parlamentarische Republik, Verfassungsgebunden (1919)
-* 📅 **ERDA-Status:** Mitglied
+* 📅 ERDA-Status: Mitglied
 * 🧭 **Rolle im ERDA-Netzwerk (Zukunft):** Arktisknoten, Bildungsnation & Nachhaltigkeitspionier
 
 ***
 
-#### 2. Demografie & Gesellschaft
+### 2. Demografie & Gesellschaft
 
 * **Bevölkerung (Prognose 2050 / 2075):**\
   – 2050: \~ 5,35 Mio. (Weltbevölkerungs-Forecast, annual change –0,25 %) citeturn6search4\
@@ -37,7 +43,7 @@ description: (Stand 2025)
 
 ***
 
-#### 3. Wirtschaft & Innovation
+### 3. Wirtschaft & Innovation
 
 * **Bruttoinlandsprodukt (real, Mrd. EUR):**\
   – **2025:** ≈ 280 (2024: 276,2 Mearch7\
@@ -54,15 +60,14 @@ description: (Stand 2025)
 * **Forschungs- & Innovationsquote (2023):** 3,4 % des BIP citeturn4search1
 * **Patente / Jahr (2023):** ca. 2 000 (stabil)
 * **Mitglied in FORTERA-Handelsallianzen:** Ja
-* **Produktionssouveränität in strategischen Sektoren:**\
-  – Energie ☑\
-  – IT/Cloud ☑\
-  – Verteidigung ☐\
-  – Ernährung ☐
+
+#### 3.1 Infrastrukturautarkie
+
+* Energie ☑, IT/Cloud ☑, Verteidigung ☐, Ernährung ☐
 
 ***
 
-#### 4. Ressourcenprofil
+### 4. Ressourcenprofil
 
 **🌱 Natürliche Ressourcen**
 
@@ -92,7 +97,7 @@ description: (Stand 2025)
 
 ***
 
-#### 5. Sicherheit & strategische Rolle (EDA)
+### 5. Sicherheit & strategische Rolle (EDA)
 
 * Militärisches Potenzial:\
   – DSN-geeignet ☑\
@@ -105,7 +110,7 @@ description: (Stand 2025)
 
 ***
 
-#### 6. Kulturelle Identität & Soft Power
+### 6. Kulturelle Identität & Soft Power
 
 * **Sprachen / indigene Kulturen:** Finnisch, Schwedisch; Sami in Lappland
 * **UNESCO-Welterbe:** 7 Stätten (z. B. Suomenlinna, Struve-Bogen)
@@ -117,7 +122,7 @@ description: (Stand 2025)
 
 ***
 
-#### 7. Entwicklungspfad (2025–2075)
+### 7. Entwicklungspfad (2025–2075)
 
 **🔭 Szenario-Entwicklung**
 
@@ -142,7 +147,7 @@ description: (Stand 2025)
 
 ***
 
-#### 8. Narrative & Anwerbewirkung
+### 8. Narrative & Anwerbewirkung
 
 > _„Finnland zeigt, dass eine kleine Demokratie durch grüne Innovation und AI-Governance globale Führerschaft übernehmen kann.“_
 
@@ -152,7 +157,7 @@ description: (Stand 2025)
 
 ***
 
-#### 9. Kennzahlenübersicht (Kurzform)
+### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025 | 2050 | 2075 |
 | ------------------------------------- | ---- | ---- | ---- |
@@ -166,8 +171,41 @@ description: (Stand 2025)
 
 ***
 
-#### 10. Quellen & Modellierungen
+### 10. Kurzfassung: „Finnland auf einen Blick“
 
-* **Prognosemodelle:** Worldometer Forecast (Bevölkerung), 1 % p.a. BIP-Wachstum
-* **Szenarienannahmen:** lineares Demografie- und Technologie-Wachstum
-* **Relevante Datenquellen:** Eurostat, Statistics Finland, World Bank, PopulationPyramid.net
+Finnland ist eine hochinnovative Demokratie mit starker Bildungstradition und nachhaltiger Ausrichtung. Als Arktisknoten verknüpft es Technologie, Umweltbewusstsein und gesellschaftliche Teilhabe.
+
+### 11. Quellen & Modellierungen
+
+#### 11.1 ℹ️ Allgemeines
+
+* Statistik: nationale Quellen (Statistics Finland) und internationale Daten (Eurostat, Weltbank), Basisjahr 2025.
+
+#### 11.2 📎 Verwendete Quellen & Verweise
+
+* Worldometer Forecast – Bevölkerung (abgerufen 2025)
+* Eurostat – Wirtschafts- und Sozialdaten
+* Statistics Finland – nationale Statistiken
+* World Bank – Makroökonomie
+* PopulationPyramid.net – Altersstruktur
+
+#### 11.3 🛠️ Modellierungen & Annahmen
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
+
+
+* Prognosemodelle: 1 % p.a. BIP-Wachstum, lineares Demografie-Szenario
+* Infrastrukturautarkie: Einschätzung eigener Potenziale (hypothetisch: ERDA Scenario Modeling Report 2025)
+
+***
+
+### 12. 🤝 Mitwirkung willkommen
+
+Vertreter:innen Finnlands und interessierte Fachstellen sind eingeladen, dieses Profil zu ergänzen und zu aktualisieren.
+
+#### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
+Autor: Robert Alexander Massinger
+Kontakt: [robert.alexander.massinger@outlook.de](mailto:robert.alexander.massinger@outlook.de)
+Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
+Letzte Änderung: 2025-06-10
+

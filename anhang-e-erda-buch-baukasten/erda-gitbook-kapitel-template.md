@@ -77,7 +77,7 @@ evtl. vorhandene schon erarbeitete Kapitel Inhalte (Grundthemen, Auflistungen, .
 
 **Inhalt:**
 
-* Kurze Tabelle für 6 Zielgruppen (🏛️ Entscheidungsträger:innen, 📚 Wissenschaftler:innen, 🧍 Bürger:innen, 🎓 Studierende, 🤖 KIs, 🕊️ Seelen)
+**Siehe im ERDA Buch Baukasten ->**🪄 _**Template für ein standardisiertes ERDA-Quellenverzeichnis**_
 
 **Ausfüllanweisung:**
 

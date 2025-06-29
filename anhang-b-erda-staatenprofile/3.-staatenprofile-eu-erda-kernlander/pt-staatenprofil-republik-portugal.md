@@ -1,5 +1,11 @@
 ---
-description: (Stand 2025)
+description: "State: PT, Date: 2025-06-10, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+country: "PT"
+date: "2025-06-10"
+author: "Robert Alexander Massinger"
+legal_responsible: "<Behörde/Institut>"
+layout: "ERDA-State-Profile-v4"
+version: "1.0"
 ---
 
 # PT - Staatenprofil Republik Portugal
@@ -12,7 +18,7 @@ description: (Stand 2025)
 * 🗺️ **Geografische Lage:** Südwesteuropa, Iberische Halbinsel, Grenze Spanien im Osten und Norden, Atlantikküste im Westen und Süden ([CIA Factbook](https://www.cia.gov/the-world-factbook/countries/portugal/))
 * 👥 **Bevölkerung (2025):** 10 300 000 (geschätzt) ([Worldometers](https://www.worldometers.info/world-population/portugal-population/))
 * 🧠 **Regierungsform & Verfassungsstatus (2025):** Unitarische parlamentarische Republik, Verfassung von 1976 ([Verfassung von Portugal](https://www.portugal.gov.pt/pt/gc21/area-de-governo/justica/conteudos/constitui%C3%A7%C3%A3o-da-rep%C3%BAblica-portuguesa))
-* 📅 **ERDA-Status:** Mitglied
+* 📅 ERDA-Status: Mitglied
 * 🧭 **Rolle im ERDA-Netzwerk (Zukunft):** Maritime Gateway & Renewable Energy Hub
 
 ***
@@ -46,7 +52,9 @@ description: (Stand 2025)
 * **Forschungs- und Innovationsquote:** 1,36 % des BIP (2022) ([Eurostat](https://ec.europa.eu/eurostat/databrowser/view/tsc00003/default/table?lang=en))
 * **Patente / Jahr:** 904 nationale Anmeldung (2022) ([WIPO](https://www.wipo.int/edocs/statistics-country-profile/en/pt.pdf))
 * **Mitglied in FORTERA-Handelsallianzen?** Ja
-* **Produktionssouveränität:** ☑ Energie; ☐ IT; ☐ Verteidigung; ☑ Ernährung
+#### 3.1 Infrastrukturautarkie
+
+* Produktionssouveränität: Energie ☑, IT/Cloud ☐, Verteidigung ☐, Ernährung ☑
 
 ***
 
@@ -63,7 +71,7 @@ description: (Stand 2025)
 
 * **Ehrenamt & Gemeinschaft:** 37 % Freiwilligenrate (2023) ([Eurostat Quality of Life](https://ec.europa.eu/eurostat))
 * **Civic‑Tech-Nutzung:** Participação.gov.pt Plattform ([Governo de Portugal](https://participacao.portugal.gov.pt))
-* **Gesundheitssystem:** Universelles NHS-ähnliches System; Präventionsausgaben 9,5 % BIP (2022) ([WHO](https://www.who.int))
+* **Gesundheitssystem:** Universelles NHS-ähnliches System; Präventionsausgaben 9,5 % BIP (2022) ([WHO NHA Database](https://apps.who.int/nha/database))
 
 #### 🛡️ Politische Ressourcen:
 
@@ -144,9 +152,18 @@ description: (Stand 2025)
 
 ^1 OECD Langfristprojektionen ([OECD](https://www.oecd.org))
 
-***
+### 10. Kurzfassung: „Portugal auf einen Blick"
 
-### 10. Quellen & Modellierungen (Auswahl)
+Portugal ist ein maritimer EU-Staat mit reicher Kultur und wachsendem Fokus auf erneuerbare Energien. Als Tor zum Atlantik verbindet es Tradition und Innovation.
+
+***
+### 11. Quellen & Modellierungen
+#### 11.1 ℹ️ Allgemeines
+
+* Statistik: Mischung aus nationalen und internationalen Quellen (Basisjahr 2025).
+* Modelle: Wirtschaftliche und demografische Projektionen nach Eurostat und UN (hypothetisch: ERDA Scenario Modeling Report 2025).
+
+#### 11.2 📎 Verwendete Quellen & Verweise
 
 #### A. Demografische Daten
 
@@ -180,3 +197,22 @@ description: (Stand 2025)
 #### H. Politische Grundlagen
 
 * Verfassung von Portugal; World Justice Project Rule of Law
+
+#### 11.3 🛠️ Modellierungen & Annahmen
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
+
+
+* Wirtschaftliche Projektionen 2050–2075: extrapoliert aus Eurostat- und OECD-Trenddaten (hypothetisch: ERDA Scenario Modeling Report 2025).
+* Infrastrukturautarkie: nationale Strategieabschätzungen (hypothetisch: ERDA Scenario Modeling Report 2025).
+
+
+### 12. 🤝 Mitwirkung willkommen
+Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Portugal sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven einzubringen.
+
+#### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
+Autor: Robert Alexander Massinger
+Kontakt: [robert.alexander.massinger@outlook.de](mailto:robert.alexander.massinger@outlook.de)
+Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
+Letzte Änderung: 2025-06-10
+

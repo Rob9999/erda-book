@@ -1,5 +1,11 @@
 ---
-description: (Stand 2025)
+description: "State: FR, Date: 2025-06-10, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+country: "FR"
+date: "2025-06-10"
+author: "Robert Alexander Massinger"
+legal_responsible: "<Behörde/Institut>"
+layout: "ERDA-State-Profile-v4"
+version: "1.0"
 ---
 
 # FR - Staatenprofil Frankreich
@@ -12,7 +18,7 @@ description: (Stand 2025)
 * 🗺️ **Geografische Lage:** Westeuropa (Metropolitain), plus fünf Übersee­regionen (Guayana, Guadeloupe, Martinique, Réunion, Mayotte) und zahlreiche Territorien weltweit
 * 👥 **Bevölkerung (1. Jan. 2025):** 68.606.000 (Einwohner:innen)
 * 🧠 **Regierungsform & Verfassungsstatus (2025):** Semi-präsidiale Republik, Verfassungsbindung: Ja
-* 📅 **ERDA-Status:** Mitglied
+* 📅 ERDA-Status: Mitglied
 * 🧭 **Rolle im ERDA-Netzwerk (Zukunft):** Kulturvermittler, Raumfahrt- & Energiepartner, Kernstaat der Verteidigungsarchitektur
 
 ***
@@ -135,24 +141,46 @@ description: (Stand 2025)
 | Zivilgesellschaftlicher Index \[0–10] | 7     | 8     | 9     |
 
 ***
+### 10. Kurzfassung: „Frankreich auf einen Blick"
 
-### 10. Quellen & Modellierungen
+Frankreich ist ein global vernetzter Kernstaat Europas mit starker Industriebasis, kultureller Strahlkraft und fortschrittlicher Forschung. Bis 2075 bleibt es zentraler Energie- und Raumfahrtpartner der ERDA.
 
-#### Datenquellen
 
-* **Bevölkerung:** INSEE/INED (Stand 1. Jan. 2025)
-* **BIP & Wirtschaftsindikatoren:** IMF Article IV Staff Report; Eurostat; OECD
-* **Patentanmeldungen:** European Patent Office (EPO, 2023)
-* **Forschungs- & Innovationsquote:** OECD.Stat (2023)
-* **Energie & Ressourcen:** Eurostat; französisches Ministerium für Ökologie; CEA
+### 11. Quellen & Modellierungen
 
-#### Politische & Indikatoren-Quellen
+#### 11.1 ℹ️ Allgemeines
 
-* **Regierungsform & Verfassungsstatus:** Verfassung der Französischen Republik; offizielle Webseite der französischen Regierung
-* **Demokratie- & Rechtsstaatlichkeit:** Freedom House; Democracy Index (Economist Intelligence Unit)
-* **Soziale Kohäsion & Gesundheitssystem:** WHO; OECD Health Statistics
+* Statistik: INSEE, INED, Eurostat; Basisjahr 2025.
+* Modelle: BIP-Prognosen nach IMF und OECD (hypothetisch: ERDA Scenario Modeling Report 2025).
+* Energie- und Ressourcendaten laut französischem Ministerium für Ökologie (hypothetisch: ERDA Scenario Modeling Report 2025).
 
-#### ERDA-Modellannahmen & Prognosen
+#### 11.2 📎 Verwendete Quellen & Verweise
+
+1. Institut national de la statistique et des études économiques (INSEE). 2025. *Bilan démographique 2024.* Paris: INSEE. \[online\] verfügbar unter: <https://www.insee.fr/fr/statistiques/bilan-demographique> (Zugriff am 2025‑06‑10).
+2. Institut national d'études démographiques (INED). 2024. *Projections démographiques pour la France 2022‑2075.* Paris: INED. \[online\] verfügbar unter: <https://www.ined.fr/fr/projections-demographiques/> (Zugriff am 2025‑06‑10).
+3. International Monetary Fund. 2024. *France: 2024 Article IV Consultation—Staff Report.* Washington, D.C.: IMF. \[online\] verfügbar unter: <https://www.imf.org/en/Publications/CR/Issues/2024/01/01/France-Article-IV-Report> (Zugriff am 2025‑06‑10).
+4. Organisation for Economic Co-operation and Development (OECD). 2023. *OECD Economic Outlook 2023 – France.* Paris: OECD Publishing. \[online\] verfügbar unter: <https://doi.org/10.1787/eco_outlook-v2023-fr> (Zugriff am 2025‑06‑10).
+5. European Patent Office. 2024. *Patent Index 2023.* München: EPO. \[online\] verfügbar unter: <https://www.epo.org/patent-index2023> (Zugriff am 2025‑06‑10).
+6. Ministère de la Transition écologique. 2024. *Bilan énergétique de la France 2023.* Paris: Gouvernement de la République Française. \[online\] verfügbar unter: <https://www.ecologie.gouv.fr/bilan-energetique-2023> (Zugriff am 2025‑06‑10).
+7. Freedom House. 2024. *Freedom in the World 2024 – France.* Washington, D.C.: Freedom House. \[online\] verfügbar unter: <https://freedomhouse.org/country/france/freedom-world/2024> (Zugriff am 2025‑06‑10).
+8. World Health Organization. 2023. *World Health Statistics 2023: Monitoring health for the SDGs.* Genf: WHO. \[online\] verfügbar unter: <https://www.who.int/data/gho/publications/world-health-statistics> (Zugriff am 2025‑06‑10).
+
+#### 11.3 🛠 Modellierungen & Annahmen
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
+
 
 * ERDA-Projektionsmodell (Szenarien 2025–2075)
 * Internes ERDA-Konsultationspapier: „Staatenprofile – Methodik und Datenbasis"
+
+***
+
+### 12. 🤝 Mitwirkung willkommen
+
+Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Französischen Republik sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
+
+#### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
+Autor: Robert Alexander Massinger
+Kontakt: [robert.alexander.massinger@outlook.de](mailto:robert.alexander.massinger@outlook.de)
+Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
+Letzte Änderung: 2025-06-10

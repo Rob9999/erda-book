@@ -1,5 +1,11 @@
 ---
-description: (Stand 2025)
+description: "State: LV, Date: 2025-06-10, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+country: "LV"
+date: "2025-06-10"
+author: "Robert Alexander Massinger"
+legal_responsible: "<Behörde/Institut>"
+layout: "ERDA-State-Profile-v4"
+version: "1.0"
 ---
 
 # LV - Staatenprofil Republik Lettland
@@ -12,7 +18,7 @@ description: (Stand 2025)
 * 🗺️ **Geografische Lage:** Nördliches Baltikum, grenzt an Estland, Russland, Belarus, Litauen; Ostseeküste 494 km ([CIA Factbook](https://www.cia.gov/the-world-factbook/countries/latvia/))
 * 👥 **Bevölkerung (2025):** 1 855 000 (Schätzung; 1 Juni 2024: 1 861 900) ([Demographics of Latvia, Wikipedia](https://en.wikipedia.org/wiki/Demographics_of_Latvia))
 * 🧠 **Regierungsform & Verfassungsstatus (2025):** Parlamentarische Republik, Verfassung von 1922 (rev. regelmäßig) ([Saeima](https://www.saeima.lv/))
-* 📅 **ERDA-Status:** Mitglied
+* 📅 ERDA-Status: Mitglied
 * 🧭 **Rolle im ERDA-Netzwerk (Zukunft):** Cyberhub & Digitales Transformationszentrum
 
 ***
@@ -46,7 +52,16 @@ description: (Stand 2025)
 * **Forschungs- und Innovationsquote:** 1,05 % des BIP (2022) ([Eurostat](https://ec.europa.eu/eurostat/data/database))
 * **Patente / Jahr:** 208 nationale Anmeldungen (2023) ([WIPO Latvia-Profil](https://www.wipo.int/edocs/statistics-country-profile/en/lv.pdf))
 * **Mitglied in FORTERA-Handelsallianzen?:** Nein
-* **Produktionssouveränität:** ☑ Energie, ☐ IT, ☐ Verteidigung, ☑ Ernährung
+
+#### 3.1 Infrastrukturautarkie
+
+* Energie ☑
+* IT/Cloud ☐
+* Verteidigung ☐
+* Ernährung ☑
+* IRIS² ☐
+* Quantentechnologie ☐
+* Autonome Logistiksysteme ☐
 
 ***
 
@@ -143,41 +158,62 @@ description: (Stand 2025)
 
 ***
 
-### 10. Quellen & Modellierungen (Auswahl)
+### 10. Kurzfassung: „Lettland auf einen Blick"
 
-#### A. Demografische Daten
+Lettland setzt konsequent auf digitale Innovation und eine starke Zivilgesellschaft. Trotz demografischer Herausforderungen will das Land als Cyberhub der ERDA und Vorreiter in E‑Governance bestehen. Nachhaltige Energie und moderne Verwaltung bilden dabei das Rückgrat einer resilienten Zukunft.
 
+### 11. Quellen & Modellierungen
+
+#### 11.1 ℹ️ Allgemeines
+
+* Statistik: Mischung aus nationalen und internationalen Quellen (Eurostat, CIA Factbook u. a.), Basisjahr 2025.
+* Energie- und Innovationsdaten nach internationalen Studien und nationalen Strategien (hypothetisch: ERDA Scenario Modeling Report 2025).
+
+#### 11.2 📎 Verwendete Quellen & Verweise
+
+**Demografie & Gesellschaft**
 * UN WPP 2024: https://population.un.org/wpp
-* Demographics of Latvia, Wikipedia: https://en.wikipedia.org/wiki/Demographics\_of\_Latvia
+* Demographics of Latvia, Wikipedia: https://en.wikipedia.org/wiki/Demographics_of_Latvia
 
-#### B. Wirtschaft & Innovation
-
-* Economy of Latvia, Wikipedia: https://en.wikipedia.org/wiki/Economy\_of\_Latvia
+**Wirtschaft & Innovation**
+* Economy of Latvia, Wikipedia: https://en.wikipedia.org/wiki/Economy_of_Latvia
 * IFR Roboterdichte: https://ifr.org
 
-#### C. Soziales & Bildung
-
+**Soziales & Bildung**
 * UNESCO Institute for Statistics: https://uis.unesco.org/en/country/lv
 * Eurostat Databrowser: https://ec.europa.eu/eurostat/data/database
 
-#### D. Gesundheit & Lebenserwartung
-
+**Gesundheit & Lebenserwartung**
 * WHO GHO-Daten: https://apps.who.int/gho/data/view.main.246?lang=en
 
-#### E. Innovation & Patente
-
+**Innovation & Patente**
 * WIPO Country Profile: https://www.wipo.int/edocs/statistics-country-profile/en/lv.pdf
 
-#### F. Umwelt & Ressourcen
-
+**Umwelt & Ressourcen**
 * Natura 2000: https://natura2000.eea.europa.eu/
 
-#### G. Sicherheit & Verteidigung
-
+**Sicherheit & Verteidigung**
 * SIPRI Military Expenditure: https://www.sipri.org/
 * EEAS: https://eeas.europa.eu/
 
-#### H. Politische & institutionelle Grundlagen
-
+**Politische & institutionelle Grundlagen**
 * World Justice Project: https://worldjusticeproject.org/
 * Eurobarometer: https://europa.eu/eurobarometer/
+
+#### 11.3 🛠️ Modellierungen & Annahmen
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
+
+
+* Szenario-Projektionen 2050–2075 angelehnt an OECD‑Trends (hypothetisch: ERDA Scenario Modeling Report 2025).
+* Infrastruktur- und Digitalisierungsgrade basieren auf nationalen Strategiepapiere (hypothetisch: ERDA Scenario Modeling Report 2025).
+
+### 12. 🤝 Mitwirkung willkommen
+
+Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Lettland sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
+
+#### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
+Autor: Robert Alexander Massinger
+Kontakt: [robert.alexander.massinger@outlook.de](mailto:robert.alexander.massinger@outlook.de)
+Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
+Letzte Änderung: 2025-06-10

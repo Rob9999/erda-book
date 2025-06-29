@@ -1,5 +1,11 @@
 ---
-description: (Stand 2025)
+description: "State: SI, Date: 2025-06-10, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+country: "SI"
+date: "2025-06-10"
+author: "Robert Alexander Massinger"
+legal_responsible: "<Behörde/Institut>"
+layout: "ERDA-State-Profile-v4"
+version: "1.0"
 ---
 
 # SI - Staatenprofil Slowenien
@@ -10,7 +16,7 @@ description: (Stand 2025)
 
 * 🏳️ Offizieller Name: Republik Slowenien
 * 🗺️ Geografische Lage: Südmitteleuropa, Alpen-Adria-Raum, grenzt an Italien, Österreich, Ungarn und Kroatien
-* 👥 Bevölkerung (2025): ca. 2,1 Mio.
+* 👥 Bevölkerung (2025): ca. 2,12 Mio.
 * 🧠 Regierungsform & Verfassungsstatus (2025): Parlamentarische Demokratie, Mitglied der EU und der NATO
 * 📅 ERDA-Status: Mitglied
 * 🧭 Rolle im ERDA-Netzwerk (Zukunft): Alpenenergie-Knoten, Brückenstaat Adria-Balkan, grüner Innovationspionier
@@ -23,7 +29,7 @@ description: (Stand 2025)
 * Altersstruktur (Medianalter, Jugendanteil, Altenquotient): 46 Jahre, 16 %, 38 %
 * Urbanisierung (%): 55 %
 * Bildung (Durchschnittsjahre, MINT-Anteil, Hochschulquote): 12,5 Jahre, 27 %, 45 %
-* Lebenserwartung: 82,3 Jahre
+* Lebenserwartung: 82,0 Jahre
 * Migrationssaldo: leicht positiv (+0,3 %)
 * Soziale Kohäsion (Subjektive Zufriedenheit, Demokratievertrauen): hoch / hoch
 
@@ -31,14 +37,22 @@ description: (Stand 2025)
 
 ### 3. Wirtschaft & Innovation
 
-* Bruttoinlandsprodukt (BIP, real, heute / 2050 / 2075): 60 Mrd. EUR / 92 Mrd. EUR / 130 Mrd. EUR
+* Bruttoinlandsprodukt (BIP, real, heute / 2050 / 2075): 63 Mrd. EUR / 95 Mrd. EUR / 135 Mrd. EUR
 * BIP pro Kopf: 28.500 EUR
 * Schlüsselindustrien (Top-3): Maschinenbau, Pharma / Biotech, Tourismus & GreenTech
 * Anteil Automatisierung & Digitalisierung (2025/2050): 52 % / 78 %
 * Forschungs- und Innovationsquote (% des BIP): 2,2 %
 * Patente / Jahr (Trend): ca. 800 / steigend
-* Mitglied in FORTERA-Handelsallianzen? Ja
-* Produktionssouveränität in strategischen Sektoren: ☑ Energie, ☑ IT, ⬜ Verteidigung, ☑ Ernährung
+* Mitglied in FORTERA-Handelsallianzen: Ja
+* Mitglied im Democracy Trade Network: Ja
+* Nutzung von EHAM+ (0–10): 6
+
+#### 3.1 Infrastrukturautarkie
+
+* Energie ☑, IT/Cloud ☑, Verteidigung ☐, Ernährung ☑
+* Satellitenkommunikation (IRIS²) ☐
+* Quantentechnologie ☐
+* Autonome Logistiksysteme ☐
 
 ***
 
@@ -131,54 +145,81 @@ Steigende Selbstversorgungsgrade, Hightech-Talente ausgebildet, sozioökologisch
 
 | Indikator                             | 2025     | 2050      | 2075      |
 | ------------------------------------- | -------- | --------- | --------- |
-| BIP (Mrd. EUR)                        | 60       | 92        | 130       |
-| Bevölkerung                           | 2,1 Mio. | 2,05 Mio. | 1,95 Mio. |
+| BIP (Mrd. EUR)                        | 63       | 95        | 135       |
+| Bevölkerung                           | 2,12 Mio. | 2,05 Mio. | 1,95 Mio. |
 | Anteil Erneuerbare (%)                | 36 %     | 58 %      | 83 %      |
-| Lebenserwartung                       | 82,3     | 84,5      | 86,0      |
+| Lebenserwartung                       | 82,0     | 84,5      | 86,0      |
 | Bildungsquote (%)                     | 45 %     | 54 %      | 61 %      |
 | KI-Kapazität \[0–10]                  | 5        | 7         | 8         |
 | Zivilgesellschaftlicher Index \[0–10] | 8        | 8,5       | 9         |
 
 ***
 
-### 10. Quellen & Modellierungen (optional für Transparenz)
+### 10. Kurzfassung: „Slowenien auf einen Blick“
 
-#### A. Demografische Daten
+Slowenien ist ein kleiner, hochgebildeter Alpenstaat mit starker Demokratie und\
+wachsender Innovationskraft. Die nachhaltige Nutzung der Wasserressourcen und\
+eine aktive Zivilgesellschaft machen das Land zum idealen Brückenstaat zwischen\
+Adria und Balkan.
 
+### 11. Quellen & Modellierungen
+
+#### 11.1 ℹ️ Allgemeines
+
+* Statistik: Mischung aus nationalen und internationalen Quellen (Eurostat, OECD u. a.), Basisjahr 2025.
+* Modelle: BIP-Prognosen und Bevölkerungsentwicklung nach OECD und UN (hypothetisch: ERDA Scenario Modeling Report 2025).
+* Energie- und Infrastrukturdaten laut nationalen Strategiepapiere (hypothetisch: ERDA Scenario Modeling Report 2025).
+
+#### 11.2 📎 Verwendete Quellen & Verweise
+
+**Demografie & Gesellschaft**
 * **Quelle:** Eurostat, https://ec.europa.eu/eurostat
-* **Modell:** UN Population Projections 2022, https://population.un.org
+* **Modell:** UN Population Projections 2022, <https://population.un.org/wpp/Download/Files/1_INDICATORS%20(Standard)/EXCEL_FILES/1_Population/WPP2022_POP_F07_1_TOTAL_POPULATION_BOTH_SEXES.xlsx> *(hypothetical)*
 
-#### B. Wirtschaft & Innovation
-
+**Wirtschaft & Innovation**
 * **Quelle:** OECD Economic Outlook, https://www.oecd.org/economic-outlook/
 * **Modell:** IHS Markit Forecast Slovenia 2024
 
-#### C. Soziales & Bildung
-
+**Soziales & Bildung**
 * **Quelle:** PISA, OECD, https://www.oecd.org/pisa/
 * **Modell:** CEDEFOP Future Skills Slovenia
 
-#### D. Gesundheit & Lebenserwartung
-
-* **Quelle:** WHO Country Profile Slovenia, https://www.who.int
+**Gesundheit & Lebenserwartung**
+* **Quelle:** WHO Country Profile Slovenia *(hypothetical)*
 * **Modell:** Global Burden of Disease Data Slovenia
 
-#### E. Innovation & Patente
-
+**Innovation & Patente**
 * **Quelle:** European Patent Office, https://www.epo.org
 * **Modell:** WIPO Patent Data Forecast 2025
 
-#### F. Umwelt & Ressourcen
-
+**Umwelt & Ressourcen**
 * **Quelle:** European Environment Agency (EEA), https://www.eea.europa.eu
 * **Modell:** Natura 2000 Monitoring Slovenia
 
-#### G. Sicherheit & Verteidigung
-
+**Sicherheit & Verteidigung**
 * **Quelle:** NATO Defence Expenditure Report
 * **Modell:** EDA Capability Frameworks
 
-#### H. Politische & institutionelle Grundlagen
-
+**Politische & institutionelle Grundlagen**
 * **Quelle:** Freedom House, https://freedomhouse.org
 * **Modell:** V-Dem Institute Index Slovenia
+
+#### 11.3 🛠️ Modellierungen & Annahmen
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
+
+
+* Wirtschaftliche Projektionen 2050–2075: extrapoliert aus Eurostat- und OECD-Trenddaten (hypothetisch: ERDA Scenario Modeling Report 2025)
+* Infrastrukturautarkie: Einschätzungen nationaler Strategiepapiere (hypothetisch: ERDA Scenario Modeling Report 2025)
+
+***
+
+### 12. 🤝 Mitwirkung willkommen
+
+Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Slowenien sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
+
+#### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
+Autor: Robert Alexander Massinger
+Kontakt: [robert.alexander.massinger@outlook.de](mailto:robert.alexander.massinger@outlook.de)
+Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
+Letzte Änderung: 2025-06-10

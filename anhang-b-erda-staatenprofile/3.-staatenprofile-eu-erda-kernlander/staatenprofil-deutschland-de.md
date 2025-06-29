@@ -1,6 +1,13 @@
 ---
-description: (Stand 2025)
+description: "State: DE, Date: 2025-06-10, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+country: "DE"
+date: "2025-06-10"
+author: "Robert Alexander Massinger"
+legal_responsible: "<Behörde/Institut>"
+layout: "ERDA-State-Profile-v4"
+version: "1.0"
 ---
+
 
 # DE - Staatenprofil Deutschland
 
@@ -12,7 +19,7 @@ description: (Stand 2025)
 * 🗺️ **Geografische Lage:** Mitteleuropa
 * 👥 **Bevölkerung (2025):** ca. 83,5 Mio. Einw. ([Destatis – Bevölkerungsstand](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Bevoelkerungsstand/_inhalt.html))
 * 🧠 **Regierungsform & Verfassungsstatus (2025):** Parlamentarische Demokratie, Grundgesetz (Verfassungsbindung: Ja)
-* 📅 **ERDA-Status:** Mitglied
+* 📅 ERDA-Status: Mitglied
 * 🧭 **Rolle im ERDA-Netzwerk (Zukunft):** Innovationsmotor, Cyberhub, Verteidigungsdrehkreuz, Bildungsexporteur
 
 ***
@@ -163,7 +170,22 @@ description: (Stand 2025)
 
 ***
 
-### 10. Quellen & Modellierungen
+### 10. Kurzfassung: „Deutschland auf einen Blick“
+
+Deutschland ist eine innovationsstarke Demokratie mit hoher Lebensqualität und
+führender Rolle in Europa. Starkes Bildungssystem und ausgeprägte
+Industriekompetenz verbinden sich mit einer digitalen und nachhaltigen Agenda.
+
+### 11. Quellen & Modellierungen
+
+#### 11.1 ℹ️ Allgemeines
+
+* Statistik: Mischung aus nationalen und internationalen Quellen, Basisjahr 2025.
+* Modellannahmen: BIP-Wachstum 1,5 % p.a., Demografie laut Destatis.
+* Energiepotenziale: IEA und Fraunhofer ISE.
+* Demokratie- und Rechtsstaatsindizes nach Freedom House und WJP.
+
+#### 11.2 📎 Verwendete Quellen & Verweise
 
 **A. Demografie & Gesellschaft**
 
@@ -211,3 +233,21 @@ description: (Stand 2025)
 20. **The Economist Intelligence Unit (2024):** _Democracy Index 2024._ London: EIU. Online verfügbar unter: [https://www.eiu.com/topic/democracy-index](https://www.eiu.com/topic/democracy-index) (Zugriff am 2025-05-21)
 21. **Freedom House (2024):** _Freedom in the World 2024._ Washington, DC: Freedom House. Online verfügbar unter: [https://freedomhouse.org/report/freedom-world](https://freedomhouse.org/report/freedom-world) (Zugriff am 2025-05-21)
 22. **Europäische Kommission (2024):** _Eurobarometer Survey 2251: Vertrauen in EU-Institutionen._ Brüssel: Europäische Kommission. Online verfügbar unter: [https://europa.eu/eurobarometer/surveys/survey-detail/2251](https://europa.eu/eurobarometer/surveys/survey-detail/2251) (Zugriff am 2025-05-21)
+
+#### 11.3 🛠️ Modellierungen & Annahmen
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
+
+
+* Wirtschaftliche Projektionen 2050–2075: 1,5 % reales Wachstum p.a. (hypothetisch: ERDA Scenario Modeling Report 2025).
+* Infrastrukturautarkie: Ziel 80 % erneuerbare Energieversorgung (hypothetisch: ERDA Scenario Modeling Report 2025).
+
+### 12. 🤝 Mitwirkung willkommen
+
+Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Bundesrepublik Deutschland sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
+
+#### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
+Autor: Robert Alexander Massinger
+Kontakt: [robert.alexander.massinger@outlook.de](mailto:robert.alexander.massinger@outlook.de)
+Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
+Letzte Änderung: 2025-06-10

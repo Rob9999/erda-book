@@ -1,7 +1,12 @@
 ---
-description: (Stand 2025)
+description: "State: NL, Date: 2025-06-10, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+country: "NL"
+date: "2025-06-10"
+author: "Robert Alexander Massinger"
+legal_responsible: "<Behörde/Institut>"
+layout: "ERDA-State-Profile-v4"
+version: "1.0"
 ---
-
 # NL - Staatenprofil Niederlande
 
 ## 🇳🇱 ERDA-Staatenprofil: Niederlande
@@ -12,7 +17,7 @@ description: (Stand 2025)
 * 🗺️ **Geografische Lage:** Westeuropa, Küstenstaat an Nordsee, grenzt an Deutschland und Belgien
 * 👥 **Bevölkerung (2025):** 18.327.400
 * 🧠 **Regierungsform & Verfassungsstatus (2025):** Konstitutionelle Monarchie, parlamentarische Demokratie (Verfassungsbindung: Ja)
-* 📅 **ERDA-Status:** Mitglied
+* 📅 ERDA-Status: Mitglied
 * 🧭 **Rolle im ERDA-Netzwerk (Zukunft):** Logistik- und Innovationshub, Wasser- und Küstermanagement-Expertise, digitaler Cyberhub
 
 ***
@@ -46,6 +51,13 @@ description: (Stand 2025)
   * IT/Cloud ☑
   * Verteidigung ☑
   * Ernährung ☑
+
+#### 3.1 Infrastrukturautarkie
+
+* Energie ☑, IT/Cloud ☑, Verteidigung ☑, Ernährung ☑
+* Satellitenkommunikation (IRIS²) ☑
+* Quantentechnologie ☐
+* Autonome Logistiksysteme ☑
 
 ***
 
@@ -138,8 +150,17 @@ description: (Stand 2025)
 | Zivilgesellschaftlicher Index \[0–10] |       7 |     8,5 |     9,5 |
 
 ***
+### 10. Kurzfassung: „Niederlande auf einen Blick"
 
-### 10. Quellen & Modellierungen
+Die Niederlande verbinden maritime Tradition, digitale Stärke und internationale Offenheit. Als logistischer und innovativer Knotenpunkt treiben sie nachhaltige Küstenresilienz und KI-getriebene Wasserwirtschaft voran.
+
+
+### 11. Quellen & Modellierungen
+#### 11.1 ℹ️ Allgemeines
+
+* Statistik & Prognosen: Kombination nationaler (CBS) und internationaler Datenquellen (Eurostat, World Bank), Basisjahr 2025.
+
+#### 11.2 📎 Verwendete Quellen & Verweise
 
 * Bevölkerungsdaten: Wikipedia (23. April 2025)
 * Wirtschaftsdaten: The World Factbook (2025)
@@ -149,3 +170,21 @@ description: (Stand 2025)
 * Lebenserwartung: Worldometer
 * Migration: CBS & Wikipedia (2023)
 * ERDA-Mitgliedschaft: ERDA-Staatenarchitektur (2025)
+#### 11.3 🛠️ Modellierungen & Annahmen
+* Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
+* Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
+
+
+* Prognosen 2050–2075 basieren auf CBS-Bevölkerungstrends und eigenen Szenarien (hypothetisch: ERDA Scenario Modeling Report 2025).
+
+***
+
+### 12. 🤝 Mitwirkung willkommen
+
+Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen des Königreichs der Niederlande sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
+
+#### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
+Autor: Robert Alexander Massinger
+Kontakt: [robert.alexander.massinger@outlook.de](mailto:robert.alexander.massinger@outlook.de)
+Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
+Letzte Änderung: 2025-06-10

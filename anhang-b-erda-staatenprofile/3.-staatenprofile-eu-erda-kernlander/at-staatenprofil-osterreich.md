@@ -1,14 +1,18 @@
 ---
-description: >-
-  (State: AT, Date: 2025-06-09, Responsible Author: Robert Alexander Massinger,
-  Legal Responsible [Author, Institute, Government]: <Behörde/Institut>)
+description: "State: AT, Date: 2025-06-09, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+country: "AT"
+date: "2025-06-09"
+author: "Robert Alexander Massinger"
+legal_responsible: "<Behörde/Institut>"
+layout: "ERDA-State-Profile-v4"
+version: "1.0"
 ---
 
 # AT - Staatenprofil Österreich
 
 ***
 
-## AT – Staatenprofil Österreich
+## 🇦🇹 ERDA-Staatenprofil: Österreich
 
 ### 1. Überblick (Meta)
 
@@ -16,8 +20,10 @@ description: >-
 * **Geografische Lage (Kontinent, Region):** Mitteleuropa, Binnenstaat; grenzt an Deutschland, Tschechien, Slowakei, Ungarn, Slowenien, Italien, Schweiz, Liechtenstein
 * **Bevölkerung (Stand 2025):** 9 113 574
 * **Regierungsform & Verfassungsstatus (Stand 2025):** Föderale parlamentarische Republik, Bundesverfassung 1920 (rev. 1929, 1958, 2000)
-* **ERDA-Status:** Mitglied
+* 📅 ERDA-Status: Mitglied
 * **Zukünftige Rolle im ERDA-Netzwerk:** Bildungsnation & Kulturvermittler
+***
+
 
 ### 2. Demografie & Gesellschaft
 
@@ -28,6 +34,8 @@ description: >-
 * **Lebenserwartung:** 82,0 Jahre (2023)
 * **Migrationssaldo ∅ (2025–2075):** − 6 000 pro Jahr (Trend: rückläufig)
 * **Soziale Kohäsion:** Happiness Index 6,91 / Demokratievertrauen: 65 %
+***
+
 
 ### 3. Wirtschaft & Innovation
 
@@ -50,6 +58,8 @@ description: >-
 * IRIS² ☐
 * Quantentechnologie ☐
 * Autonome Logistiksysteme ☐
+
+***
 
 ### 4. Ressourcenprofil
 
@@ -76,6 +86,8 @@ description: >-
 * **Bürgerpartizipationsquote:** 12 %
 * **Rechtsstaatlichkeitsindex (0–10):** 8,0
 * **Internationale Vertrauenswerte (0–10):** 7/10 (basierend auf CPI)
+***
+
 
 ### 5. Sicherheit & Strategische Rolle (EDA)
 
@@ -93,11 +105,15 @@ description: >-
 
 ### 6. Kulturelle Identität & Soft Power
 
+### 6. Kulturelle Identität & Soft Power
+
 * **Sprachen / Indigene Kulturen:** Deutsch; Slowenisch regional anerkannt
 * **UNESCO-Welterbe:** 10 Stätten
 * **Kreativwirtschaft (0–10):** 7/10
 * **Internationale Sichtbarkeit:** 19 Olympia-Medaillen; 7 Nobelpreisträger:innen
 * **Rolle der Kultur in Demokratienetzwerken (0–10):** 8
+***
+
 
 ### 7. Entwicklungspfad (2025–2075)
 
@@ -113,6 +129,8 @@ description: >-
 * Beitrag zur Post-Knappheitsökonomischen Ordnung: Kreislaufwirtschaft, Bildungsexport
 * Demokratische Resilienz: hohe Beteiligung, starke Rechtsstaatlichkeit
 * Exemplarische Wirkung: Modell nachhaltiger Sozialstaaten
+***
+
 
 ### 8. Narrative & Anwerbewirkung
 
@@ -120,6 +138,8 @@ description: >-
 * **Selbstwirksamkeit:** Bürgerinitiative Radentscheid Wien
 * **Zukunftswürde:** Gemeinwohlökonomie, kulturelle Bildung
 * **Einladung:** grüne Technologien, Bildungskooperationen
+***
+
 
 ### 9. Kennzahlenübersicht (Kurzform)
 
@@ -132,6 +152,8 @@ description: >-
 | Bildungsquote (% Hochschulabschluss) | 44        | 50        | 55        | 39                                |
 | KI-Kapazität (0–10)                  | 7         | 9         | 10        | 6                                 |
 | Zivilgesellschaftlicher Index (0–10) | 8         | 9         | 9         | 6                                 |
+***
+
 
 ### 10. Kurzfassung: „Österreich auf einen Blick“
 
@@ -139,7 +161,7 @@ description: >-
 
 ### 11. Quellen & Modellierungen
 
-#### Allgemein
+#### 11.1 ℹ️ Allgemeines
 
 * Statistik Austria, World Bank, OECD, Eurostat, WKO, IUCN, SIPRI, PwC, UNESCO
 * Modellannahmen zur Wirtschaftsentwicklung basieren auf PwC „The World in 2050“
@@ -150,7 +172,7 @@ description: >-
 
 > Letzter Quellenzugriff: 2025-06-09
 
-#### 📎 Verwendete Quellen und Verweise
+#### 11.2 📎 Verwendete Quellen & Verweise
 
 1. _„Austria Population 2025“_ (Worldometer, 2025): [https://www.worldometers.info/world-population/austria-population/](https://www.worldometers.info/world-population/austria-population/)
 2. _„Education at a Glance – Austria“_ (OECD, 2024): [https://gpseducation.oecd.org/CountryProfile?primaryCountry=AUT\&topic=EO](https://gpseducation.oecd.org/CountryProfile?primaryCountry=AUT\&topic=EO)
@@ -175,7 +197,7 @@ description: >-
 
 > Letzter Quellenzugriff: 2025-06-09
 
-#### 🛠️ Modellierungen & Annahmen
+#### 11.3 🛠️ Modellierungen & Annahmen
 
 * Wirtschaftliche Projektionen 2050–2075: Mod. extrapoliert basierend auf PwC World 2050
 * KI-Kapazitäten: abgeschätzt aus nationalen Innovationsindikatoren
@@ -183,11 +205,18 @@ description: >-
 * Demokratie- und Beteiligungswerte: zusammengesetzt aus WJP, Freedom House, Transparency & EU-Umfragen
 
 > Letzter Quellenzugriff: 2025-06-09
+***
+
 
 ### 12. 🤝 Mitwirkung willkommen
 
 Dieses Profil basiert auf öffentlich verfügbaren Daten. Vertreter:innen der Republik Österreich und interessierte Fachstellen sind herzlich eingeladen, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames, zukunftsfähiges Bild der Demokratie in Europa.
 
-**Letzter inhaltlich verantwortlicher Ansprechpartner:**\
-Kontakt: [robert.alexander.massinger@outlook.de](mailto:robert.alexander.massinger@outlook.de)\
+#### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
+Autor: Robert Alexander Massinger
+Kontakt: [robert.alexander.massinger@outlook.de](mailto:robert.alexander.massinger@outlook.de)
+Letzte Änderung: 2025-06-09
+
+Kontakt: [robert.alexander.massinger@outlook.de](mailto:robert.alexander.massinger@outlook.de)
+\
 Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
