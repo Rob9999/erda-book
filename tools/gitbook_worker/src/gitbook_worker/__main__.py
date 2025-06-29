@@ -291,10 +291,6 @@ def main():
             pdf_output = pdf_output[:-4]
         # Add timestamp to output filename
         pdf_output = f"{pdf_output}_{run_timestamp}.pdf"
-<<<<<<< HEAD
-=======
-
->>>>>>> c903b65a25a8fc991a2ec15b4c9a1638b79851f5
         # Build PDF with Pandoc
         if args.use_docker:
             # Docker-Workflow
