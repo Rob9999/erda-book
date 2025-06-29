@@ -206,7 +206,12 @@ def download_remote_images(md_file: str, out_dir: str) -> int:
         try:
             os.makedirs(out_dir, exist_ok=True)
             name = os.path.basename(url.split("?")[0]) or f"img_{count}"
+            base, ext = os.path.splitext(name)
             dest = os.path.join(out_dir, name)
+            suffix = 1
+            while os.path.exists(dest):
+                dest = os.path.join(out_dir, f"{base}_{suffix}{ext}")
+                suffix += 1
             response = requests.get(url, timeout=10)
             response.raise_for_status()
             with open(dest, "wb") as wf:
