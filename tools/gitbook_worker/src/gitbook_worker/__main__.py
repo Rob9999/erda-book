@@ -96,6 +96,17 @@ def main():
         help="Number of columns considered wide for --wrap-wide-tables.",
     )
     parser.add_argument(
+        "--main-font",
+        type=str,
+        default="DejaVu Serif",
+        help="Main font for the generated PDF.",
+    )
+    parser.add_argument(
+        "--emoji-color",
+        action="store_true",
+        help="Render emojis using a color font instead of monochrome.",
+    )
+    parser.add_argument(
         "-s", "--export-sources", action="store_true", help="Export sources to CSV."
     )
     parser.add_argument(
@@ -288,11 +299,12 @@ def main():
             ensure_docker_image("erda-pandoc", dockerfile_path)
             logging.info("Preparing pandoc header tex file...")
             header_file = os.path.join(temp_dir, "pandoc_header.tex")
+            emoji_font = "Noto Color Emoji" if args.emoji_color else "OpenMoji Black"
             try:
                 with open(header_file, "w", encoding="utf-8") as hf:
                     hf.write("\\usepackage{fontspec}\n")
-                    hf.write("\\setmainfont{DejaVu Serif}\n")
-                    hf.write("\\newfontfamily\\EmojiOne{OpenMoji Black}\n")
+                    hf.write(f"\\setmainfont{{{args.main_font}}}\\n")
+                    hf.write(f"\\newfontfamily\\EmojiOne{{{emoji_font}}}\\n")
                     if args.wrap_wide_tables:
                         logging.info("Wrapping wide tables in landscape environment...")
                         wrap_wide_tables(combined_md, threshold=args.table_threshold)
@@ -354,11 +366,12 @@ def main():
             filter_path = os.path.join(os.path.dirname(__file__), "landscape.lua")
             logging.info("Preparing pandoc header tex file...")
             header_file = os.path.join(temp_dir, "pandoc_header.tex")
+            emoji_font = "Noto Color Emoji" if args.emoji_color else "Segoe UI Emoji"
             try:
                 with open(header_file, "w", encoding="utf-8") as hf:
                     hf.write("\\usepackage{fontspec}\n")
-                    hf.write("\\setmainfont{DejaVu Serif}\n")
-                    hf.write("\\newfontfamily\\EmojiOne{Segoe UI Emoji}\n")
+                    hf.write(f"\\setmainfont{{{args.main_font}}}\\n")
+                    hf.write(f"\\newfontfamily\\EmojiOne{{{emoji_font}}}\\n")
                     if args.wrap_wide_tables:
                         logging.info("Wrapping wide tables in landscape environment...")
                         wrap_wide_tables(combined_md, threshold=args.table_threshold)
