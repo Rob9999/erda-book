@@ -267,21 +267,6 @@ def main():
         sys.exit(1)
     logging.info("Table columns validated successfully.")
 
-    header_file = os.path.join(temp_dir, "pandoc_header.tex")
-    try:
-        with open(header_file, "w", encoding="utf-8") as hf:
-            hf.write("\\usepackage{fontspec}\n")
-            hf.write("\\setmainfont{DejaVu Serif}\n")
-            hf.write("\\newfontfamily\\EmojiOne{OpenMoji Black}\n")
-            if args.wrap_wide_tables:
-                logging.info("Wrapping wide tables in landscape environment...")
-                wrap_wide_tables(combined_md, threshold=args.table_threshold)
-                hf.write("\\usepackage{pdflscape}\n")
-                logging.info("Wide tables wrapped successfully.")
-    except Exception as e:
-        logging.error("Failed to write header file: %s", e)
-        sys.exit(1)
-
     logging.info("All markdown files processed successfully.")
 
     # Build PDF
@@ -301,6 +286,22 @@ def main():
                 "Dockerfile",
             )
             ensure_docker_image("erda-pandoc", dockerfile_path)
+            logging.info("Preparing pandoc header tex file...")
+            header_file = os.path.join(temp_dir, "pandoc_header.tex")
+            try:
+                with open(header_file, "w", encoding="utf-8") as hf:
+                    hf.write("\\usepackage{fontspec}\n")
+                    hf.write("\\setmainfont{DejaVu Serif}\n")
+                    hf.write("\\newfontfamily\\EmojiOne{OpenMoji Black}\n")
+                    if args.wrap_wide_tables:
+                        logging.info("Wrapping wide tables in landscape environment...")
+                        wrap_wide_tables(combined_md, threshold=args.table_threshold)
+                        hf.write("\\usepackage{pdflscape}\n")
+                        logging.info("Wide tables wrapped successfully.")
+            except Exception as e:
+                logging.error("Failed to write pandoc header tex file: %s", e)
+                sys.exit(1)
+            logging.info("Pandoc header tex file created: %s", header_file)
             abs_out_dir = os.path.abspath(out_dir)
             abs_temp_dir = os.path.abspath(temp_dir)
             abs_clone_dir = os.path.abspath(clone_dir)
@@ -351,6 +352,22 @@ def main():
             # Non-Docker workflow
             logging.info("Building PDF with Pandoc...")
             filter_path = os.path.join(os.path.dirname(__file__), "landscape.lua")
+            logging.info("Preparing pandoc header tex file...")
+            header_file = os.path.join(temp_dir, "pandoc_header.tex")
+            try:
+                with open(header_file, "w", encoding="utf-8") as hf:
+                    hf.write("\\usepackage{fontspec}\n")
+                    hf.write("\\setmainfont{DejaVu Serif}\n")
+                    hf.write("\\newfontfamily\\EmojiOne{Segoe UI Emoji}\n")
+                    if args.wrap_wide_tables:
+                        logging.info("Wrapping wide tables in landscape environment...")
+                        wrap_wide_tables(combined_md, threshold=args.table_threshold)
+                        hf.write("\\usepackage{pdflscape}\n")
+                        logging.info("Wide tables wrapped successfully.")
+            except Exception as e:
+                logging.error("Failed to write pandoc header tex file: %s", e)
+                sys.exit(1)
+            logging.info("Pandoc header tex file created: %s", header_file)
             pandoc_cmd = [
                 "pandoc",
                 combined_md,
@@ -358,7 +375,7 @@ def main():
                 pdf_output,
                 "-f",
                 "gfm+emoji",
-                "--pdf-engine=xelatex",
+                "--pdf-engine=lualatex",
                 "--toc",
                 "-V",
                 "geometry=a4paper",
