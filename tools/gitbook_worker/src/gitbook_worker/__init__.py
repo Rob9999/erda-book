@@ -9,7 +9,7 @@ try:
 except ImportError:  # pragma: no cover - optional dep
     yaml = None
 
-__version__ = "2.0.0"
+__version__ = "2.1.0"
 
 from .utils import (
     run,

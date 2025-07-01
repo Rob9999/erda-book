@@ -48,6 +48,11 @@ geben Sie der PDF-Engine eine passende Schriftart an, z.B.:
 pandoc input.md -o output.pdf --pdf-engine=xelatex -V mainfont="Noto Color Emoji"
 ```
 
+Ab Version 2.1 kann `gitbook_worker` das Emoji-Font automatisch setzen. Mit
+`--emoji-color` verwenden Sie eine Farbschriftart (standardmäßig wird eine
+schwarz-weiße Emoji-Schrift genutzt). Über `--main-font` lässt sich zudem die
+Hauptschriftart festlegen.
+
 ## 3. Beispiele: PDF-Erzeugung mit gitbook_worker
 
 Hier einige typische Workflows, wie Sie mit `gitbook_worker` ein PDF erzeugen:
@@ -62,6 +67,8 @@ gitbook-worker -v \
   https://github.com/Rob9999/erda-book.git \
   --branch release_candidate \
   --wrap-wide-tables \
+  --emoji-color \
+  --main-font "Noto Serif" \
   --pdf "C:/RAMProjects/ERDA/repo/Erda Buch"
 ```
 
@@ -75,6 +82,8 @@ gitbook-worker -v \
   https://github.com/Rob9999/erda-book.git \
   --branch release_candidate \
   --wrap-wide-tables \
+  --emoji-color \
+  --main-font "Noto Serif" \
   --use-docker \
   --pdf "C:/RAMProjects/ERDA/repo/Erda Buch"
 ```
