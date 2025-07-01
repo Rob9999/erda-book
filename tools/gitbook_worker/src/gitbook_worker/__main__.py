@@ -299,7 +299,7 @@ def main():
             ensure_docker_image("erda-pandoc", dockerfile_path)
             logging.info("Preparing pandoc header tex file...")
             header_file = os.path.join(temp_dir, "pandoc_header.tex")
-            emoji_font = "Noto Color Emoji" if args.emoji_color else "OpenMoji Black"
+            emoji_font = "OpenMoji Color" if args.emoji_color else "OpenMoji Black"
             try:
                 with open(header_file, "w", encoding="utf-8") as hf:
                     hf.write("\\usepackage{fontspec}\n")
@@ -366,11 +366,11 @@ def main():
             filter_path = os.path.join(os.path.dirname(__file__), "landscape.lua")
             logging.info("Preparing pandoc header tex file...")
             header_file = os.path.join(temp_dir, "pandoc_header.tex")
-            emoji_font = "Noto Color Emoji" if args.emoji_color else "Segoe UI Emoji"
+            emoji_font = "Segoe UI Emoji"
             try:
                 with open(header_file, "w", encoding="utf-8") as hf:
                     hf.write("\\usepackage{fontspec}\n")
-                    hf.write(f"\\setmainfont{{{args.main_font}}}\n")
+                    hf.write(f"\\setmainfont{{{emoji_font}}}\n")
                     hf.write(f"\\newfontfamily\\EmojiOne{{{emoji_font}}}\n")
                     if args.wrap_wide_tables:
                         logging.info("Wrapping wide tables in landscape environment...")
