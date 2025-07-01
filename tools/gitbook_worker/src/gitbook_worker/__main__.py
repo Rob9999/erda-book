@@ -303,8 +303,8 @@ def main():
             try:
                 with open(header_file, "w", encoding="utf-8") as hf:
                     hf.write("\\usepackage{fontspec}\n")
-                    hf.write(f"\\setmainfont{{{args.main_font}}}\\n")
-                    hf.write(f"\\newfontfamily\\EmojiOne{{{emoji_font}}}\\n")
+                    hf.write(f"\\setmainfont{{{args.main_font}}}\n")
+                    hf.write(f"\\newfontfamily\\EmojiOne{{{emoji_font}}}\n")
                     if args.wrap_wide_tables:
                         logging.info("Wrapping wide tables in landscape environment...")
                         wrap_wide_tables(combined_md, threshold=args.table_threshold)
@@ -370,8 +370,8 @@ def main():
             try:
                 with open(header_file, "w", encoding="utf-8") as hf:
                     hf.write("\\usepackage{fontspec}\n")
-                    hf.write(f"\\setmainfont{{{args.main_font}}}\\n")
-                    hf.write(f"\\newfontfamily\\EmojiOne{{{emoji_font}}}\\n")
+                    hf.write(f"\\setmainfont{{{args.main_font}}}\n")
+                    hf.write(f"\\newfontfamily\\EmojiOne{{{emoji_font}}}\n")
                     if args.wrap_wide_tables:
                         logging.info("Wrapping wide tables in landscape environment...")
                         wrap_wide_tables(combined_md, threshold=args.table_threshold)
