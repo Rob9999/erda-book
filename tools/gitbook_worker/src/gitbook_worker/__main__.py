@@ -99,7 +99,7 @@ def main():
     parser.add_argument(
         "--main-font",
         type=str,
-        default="Segoe UI Emoji",
+        default="DejaVu Serif",
         help="Main font for the generated PDF.",
     )
     parser.add_argument(
@@ -363,7 +363,7 @@ def main():
                 docker_pdf_output,  # Ausgabepfad für das PDF im Container (z.B. /data/Erda Buch_20250629_170643.pdf)
                 "-f",
                 "gfm+emoji",  # Eingabeformat: GitHub-Flavored Markdown + Emoji-Unterstützung
-                "--pdf-engine=xelatex",  # PDF-Engine: xelatex (für Unicode/Emoji)
+                "--pdf-engine=lualatex",  # PDF-Engine: xelatex (für Unicode/Emoji)
                 "--toc",  # Inhaltsverzeichnis erzeugen
                 "-V",
                 "geometry=a4paper",  # LaTeX-Variable: Papierformat A4
