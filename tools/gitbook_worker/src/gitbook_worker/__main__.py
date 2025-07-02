@@ -98,8 +98,20 @@ def main():
     parser.add_argument(
         "--main-font",
         type=str,
-        default="DejaVu Serif",
+        default="Segoe UI Emoji",
         help="Main font for the generated PDF.",
+    )
+    parser.add_argument(
+        "--mono-font",
+        type=str,
+        default="DejaVu Serif",
+        help="Mono font for the generated PDF.",
+    )
+    parser.add_argument(
+        "--sans-font",
+        type=str,
+        default="DejaVu Serif",
+        help="Sans font for the generated PDF.",
     )
     parser.add_argument(
         "--emoji-color",
@@ -303,8 +315,12 @@ def main():
             try:
                 with open(header_file, "w", encoding="utf-8") as hf:
                     hf.write("\\usepackage{fontspec}\n")
+                    hf.write(f"\\setsansfont{{{args.sans_font}}}\n")
+                    hf.write(f"\\setmonofont{{{args.mono_font}}}\n")
                     hf.write(f"\\setmainfont{{{args.main_font}}}\n")
-                    hf.write(f"\\newfontfamily\\EmojiOne{{{emoji_font}}}\n")
+                    hf.write(
+                        f"\\newfontfamily\\EmojiOne{{{emoji_font}}}[Range={{1F300-1F5FF, 1F600-1F64F, 1F680-1F6FF, 1F700-1F77F, 1F780-1F7FF, 1F800-1F8FF, 1F900-1F9FF, 1FA00-1FA6F, 1FA70-1FAFF, 2600-26FF, 2700-27BF, 2300-23FF, 2B50, 2B06, 2934-2935, 25A0-25FF}}]\n"
+                    )
                     if args.wrap_wide_tables:
                         logging.info("Wrapping wide tables in landscape environment...")
                         wrap_wide_tables(combined_md, threshold=args.table_threshold)
@@ -366,12 +382,16 @@ def main():
             filter_path = os.path.join(os.path.dirname(__file__), "landscape.lua")
             logging.info("Preparing pandoc header tex file...")
             header_file = os.path.join(temp_dir, "pandoc_header.tex")
-            emoji_font = "Segoe UI Emoji"
+            emoji_font = "Segoe UI Emoji" if args.emoji_color else "Segoe UI Emoji"
             try:
                 with open(header_file, "w", encoding="utf-8") as hf:
                     hf.write("\\usepackage{fontspec}\n")
-                    hf.write(f"\\setmainfont{{{emoji_font}}}\n")
-                    hf.write(f"\\newfontfamily\\EmojiOne{{{emoji_font}}}\n")
+                    hf.write(f"\\setsansfont{{{args.sans_font}}}\n")
+                    hf.write(f"\\setmonofont{{{args.mono_font}}}\n")
+                    hf.write(f"\\setmainfont{{{args.main_font}}}\n")
+                    hf.write(
+                        f"\\newfontfamily\\EmojiOne{{{emoji_font}}}[Range={{1F300-1F5FF, 1F600-1F64F, 1F680-1F6FF, 1F700-1F77F, 1F780-1F7FF, 1F800-1F8FF, 1F900-1F9FF, 1FA00-1FA6F, 1FA70-1FAFF, 2600-26FF, 2700-27BF, 2300-23FF, 2B50, 2B06, 2934-2935, 25A0-25FF}}]\n"
+                    )
                     if args.wrap_wide_tables:
                         logging.info("Wrapping wide tables in landscape environment...")
                         wrap_wide_tables(combined_md, threshold=args.table_threshold)
