@@ -192,13 +192,12 @@ def main():
     except SystemExit as e:
         if e.code == 2:  # Exit code 2 indicates an argument parsing error
             error_output = io.StringIO()
-            parser.print_usage(file=error_output)  # Kurze Usage-Nachricht
-            parser.print_help(file=error_output)  # Detaillierte Hilfe
+            parser.print_usage(file=error_output)
+            parser.print_help(file=error_output)
             error_message = error_output.getvalue()
             error_output.close()
-            print("\nError: Invalid or missing arguments.\n")
-            print("Details:")
-            print(error_message)  # Zeige die vollständige Fehlermeldung an
+            logger.error("Invalid or missing arguments.")
+            logger.error("Details:\n%s", error_message)
         sys.exit(e.code)
 
     # Get the current working directory
@@ -231,7 +230,7 @@ def main():
         info_console.setLevel(logging.INFO)
         info_console.setFormatter(logging.Formatter("%(levelname)s: %(message)s"))
         logger.addHandler(info_console)
-        print(f"Logging to {log_file}")
+        logger.info("Logging to %s", log_file)
 
     # Create temp directory if it doesn't exist
     temp_dir = args.temp_dir
@@ -433,7 +432,7 @@ def main():
             logging.info("export-sources done")
         except Exception as e:
             logging.error("export-sources failed: %s", e)
-            print(f"Error exporting sources: {e}")
+            logger.error("Error exporting sources: %s", e)
     if args.check_links:
         logging.info("check-links started")
         try:
@@ -444,85 +443,85 @@ def main():
             logging.info("check-links done")
         except Exception as e:
             logging.error("check-links failed: %s", e)
-            print(f"Error checking links: {e}")
+            logger.error("Error checking links: %s", e)
     if args.markdownlint:
         logging.info("markdownlint started")
         try:
             lint_out, _ = lint_markdown(clone_dir)
-            print(lint_out)
+            logger.info(lint_out)
             logging.info("markdownlint done")
         except Exception as e:
             logging.error("markdownlint failed: %s", e)
-            print(f"Error running markdownlint: {e}")
+            logger.error("Error running markdownlint: %s", e)
     if args.check_images:
         logging.info("check-images started")
         try:
             missing_imgs = check_images(md_files)
             for mi in missing_imgs:
-                print("Missing image:", mi)
+                logger.info("Missing image: %s", mi)
             logging.info("check-images done")
         except Exception as e:
             logging.error("check-images failed: %s", e)
-            print(f"Error checking images: {e}")
+            logger.error("Error checking images: %s", e)
     if args.readability:
         logging.info("readability started")
         try:
             scores = readability_report(md_files)
             for sc in scores:
-                print("Readability:", sc)
+                logger.info("Readability: %s", sc)
             logging.info("readability done")
         except Exception as e:
             logging.error("readability failed: %s", e)
-            print(f"Error generating readability report: {e}")
+            logger.error("Error generating readability report: %s", e)
     if args.metadata:
         logging.info("metadata started")
         try:
             meta_issues = validate_metadata(md_files)
             for mi in meta_issues:
-                print("Metadata issue:", mi)
+                logger.info("Metadata issue: %s", mi)
             logging.info("metadata done")
         except Exception as e:
             logging.error("metadata failed: %s", e)
-            print(f"Error validating metadata: {e}")
+            logger.error("Error validating metadata: %s", e)
     if args.duplicate_headings:
         logging.info("duplicate-headings started")
         try:
             duplicates = check_duplicate_headings(md_files)
             for dup in duplicates:
-                print("Duplicate heading:", dup)
+                logger.info("Duplicate heading: %s", dup)
             logging.info("duplicate-headings done")
         except Exception as e:
             logging.error("duplicate-headings failed: %s", e)
-            print(f"Error checking duplicate headings: {e}")
+            logger.error("Error checking duplicate headings: %s", e)
     if args.citations:
         logging.info("citations started")
         try:
             citation_gaps = check_citation_numbering(md_files)
             for gap in citation_gaps:
-                print("Citation gaps:", gap)
+                logger.info("Citation gaps: %s", gap)
             logging.info("citations done")
         except Exception as e:
             logging.error("citations failed: %s", e)
-            print(f"Error checking citations: {e}")
+            logger.error("Error checking citations: %s", e)
     if args.todos:
         logging.info("todos started")
         try:
             todos = list_todos(md_files)
             for todo in todos:
-                print("TODO/FIXME:", todo)
+                logger.info("TODO/FIXME: %s", todo)
             logging.info("todos done")
         except Exception as e:
             logging.error("todos failed: %s", e)
-            print(f"Error listing TODOs: {e}")
+            logger.error("Error listing TODOs: %s", e)
     if args.spellcheck:
         logging.info("spellcheck started")
         try:
             spell_out, _ = spellcheck(clone_dir)
-            print(spell_out)
+            logger.info(spell_out)
             logging.info("spellcheck done")
         except Exception as e:
             logging.error("spellcheck failed: %s", e)
-            print(f"Error running spellcheck: {e}")
+            logger.error("Error running spellcheck: %s", e)
     if args.fix_internal_links:
         logging.info("fix-internal-links started")
         try:
@@ -555,14 +554,14 @@ def main():
                     if "new" in e:
                         rf.write(f"  - New: {e['new']}\n")
                     rf.write("\n")
-            print(f"Report generated: {report_filename}")
+            logger.info("Report generated: %s", report_filename)
             logging.info(
                 "Internal link proof and repair report generated: %s", report_filename
             )
             logging.info("fix-internal-links done")
         except Exception as e:
             logging.error("fix-internal-links failed: %s", e)
-            print(f"Error fixing internal links: {e}")
+            logger.error("Error fixing internal links: %s", e)
     if args.fix_external_references:
         logging.info("fix-external-references started")
         try:
@@ -592,7 +591,7 @@ def main():
                     if "new" in e:
                         rf.write(f"  - New: {e['new']}\n")
                     rf.write("\n")
-            print(f"Report generated: {report_filename}")
+            logger.info("Report generated: %s", report_filename)
             logging.info(
                 "External reference proof and repair report generated: %s",
                 report_filename,
@@ -600,7 +599,7 @@ def main():
             logging.info("fix-external-references done")
         except Exception as e:
             logging.error("fix-external-references failed: %s", e)
-            print(f"Error fixing external references: {e}")
+            logger.error("Error fixing external references: %s", e)
 
     logging.info("All quality checks completed.")
 

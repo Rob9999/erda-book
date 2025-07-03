@@ -1,6 +1,9 @@
 import os
 import subprocess
 import sys
+import logging
+
+logger = logging.getLogger(__name__)
 
 
 def ensure_docker_image(image_name, dockerfile_path) -> None:
@@ -13,7 +16,7 @@ def ensure_docker_image(image_name, dockerfile_path) -> None:
     )
     if not result.stdout.strip():
         # Baue das Image, falls es nicht existiert
-        print(f"Building Docker image '{image_name}' ...")
+        logger.info("Building Docker image '%s' ...", image_name)
         build_result = subprocess.run(
             [
                 "docker",
@@ -29,5 +32,5 @@ def ensure_docker_image(image_name, dockerfile_path) -> None:
             text=True,
         )
         if build_result.returncode != 0:
-            print("Docker build failed:\n", build_result.stderr)
+            logger.error("Docker build failed:\n%s", build_result.stderr)
             sys.exit(1)
