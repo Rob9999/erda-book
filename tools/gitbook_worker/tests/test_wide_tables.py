@@ -1,3 +1,5 @@
+import shutil
+import pytest
 from gitbook_worker.utils import wrap_wide_tables
 
 
@@ -18,6 +20,7 @@ def test_wrap_wide_tables_ignores_narrow(tmp_path):
     assert "::: {.landscape" not in text
     assert ":::" not in text
 
+@pytest.mark.skipif(shutil.which("pandoc") is None, reason="pandoc not installed")
 def test_wrap_wide_tables_html(tmp_path):
     md = tmp_path / "html.md"
     md.write_text(

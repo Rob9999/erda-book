@@ -6,7 +6,10 @@ import csv
 import os
 import re
 import requests
+import logging
 from typing import Iterable, List
+
+logger = logging.getLogger(__name__)
 
 
 LINK_PATTERN = re.compile(r"\[.*?\]\((https?://[^)]+)\)")
@@ -59,12 +62,14 @@ def main() -> None:
 
     files = list(iter_staatenprofil_files(args.root))
     if not files:
-        print("No staatenprofil markdown files found.")
+        logger.info("No staatenprofil markdown files found.")
         return
 
     rows = check_links(files)
     write_report(rows, args.output)
-    print(f"Report written to {args.output}. {len(rows)} problem links found.")
+    logger.info(
+        "Report written to %s. %d problem links found.", args.output, len(rows)
+    )
 
 
 if __name__ == "__main__":
