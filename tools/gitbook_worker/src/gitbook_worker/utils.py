@@ -32,6 +32,7 @@ def run(cmd, cwd=None, capture_output=False, input_text=None):
         stderr=subprocess.PIPE if capture_output else None,
         input=input_text,
         text=True,
+        encoding="utf-8",
     )
     if capture_output:
         return result.stdout, result.stderr, result.returncode
@@ -211,9 +212,7 @@ def validate_table_columns(md_file: str) -> List[str]:
                 in_table = True
                 ref_cols = cols
             if cols != ref_cols:
-                errors.append(
-                    f"Line {idx}: has {cols} columns (expected {ref_cols})"
-                )
+                errors.append(f"Line {idx}: has {cols} columns (expected {ref_cols})")
         else:
             in_table = False
             ref_cols = 0
@@ -305,7 +304,7 @@ def _write_pandoc_header(
                         f"  \\newfontfamily\\EmojiOne{{Segoe UI Emoji}}[Renderer=Harfbuzz,Range={{{EMOJI_RANGES}}}]\n"
                     )
                     hf.write(
-                        "  \\directlua{luaotfload.add_fallback(\"mainfont\", \"Segoe UI Emoji:mode=harf\")}\n"
+                        '  \\directlua{luaotfload.add_fallback("mainfont", "Segoe UI Emoji:mode=harf")}\n'
                     )
                     hf.write("}{}\n")
                 else:
