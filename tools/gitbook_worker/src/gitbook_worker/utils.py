@@ -6,6 +6,13 @@ import logging
 from typing import List
 import requests
 
+# Emoji ranges supported by the LaTeX header
+EMOJI_RANGES = (
+    "1F300-1F5FF, 1F600-1F64F, 1F680-1F6FF, 1F700-1F77F, 1F780-1F7FF, "
+    "1F800-1F8FF, 1F900-1F9FF, 1FA00-1FA6F, 1FA70-1FAFF, "
+    "2600-26FF, 2700-27BF, 2300-23FF, 2B50, 2B06, 2934-2935, 25A0-25FF"
+)
+
 try:
     import textstat
 except ImportError:  # pragma: no cover - optional dep
@@ -257,7 +264,7 @@ def _write_pandoc_header(
             hf.write(f"\\setmonofont{{{mono_font}}}\n")
             hf.write(f"\\setmainfont{{{main_font}}}\n")
             hf.write(
-                f"\\newfontfamily\\EmojiOne{{{emoji_font}}}[Range={{1F300-1F5FF, 1F600-1F64F, 1F680-1F6FF, 1F700-1F77F, 1F780-1F7FF, 1F800-1F8FF, 1F900-1F9FF, 1FA00-1FA6F, 1FA70-1FAFF, 2600-26FF, 2700-27BF, 2300-23FF, 2B50, 2B06, 2934-2935, 25A0-25FF}}]\n"
+                f"\\newfontfamily\\EmojiOne{{{emoji_font}}}[Range={{{EMOJI_RANGES}}}]\n"
             )
             if wrap_tables:
                 logging.info("Wrapping wide tables in landscape environment...")
