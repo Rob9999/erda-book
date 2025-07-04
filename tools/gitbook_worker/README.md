@@ -37,21 +37,25 @@ make html
 
 Die fertige HTML-Dokumentation finden Sie danach unter `tools/gitbook_worker/docs/_build/html`.
 
-### Emoji-Schriftarten
+### Emoji-Schriftarten und Fallback mit Segoe UI Emoji
 
 Bei der PDF-Erzeugung kann Pandoc Warnungen zu fehlenden Zeichen ausgeben,
-wenn die verwendete LaTeX-Schriftart keine Emoji enthält. Installieren Sie in
-diesem Fall beispielsweise `fonts-noto-color-emoji` oder `fonts-symbola` und
-geben Sie der PDF-Engine eine passende Schriftart an, z.B.:
+wenn die verwendete LaTeX-Schriftart keine Emoji-Glyphen enthält. Ab
+Pandoc 3.1.12 lässt sich dafür die Variable `mainfontfallback` nutzen. Ein
+Aufruf mit farbiger Emoji-Schrift sieht beispielsweise so aus:
 
 ```bash
-pandoc input.md -o output.pdf --pdf-engine=xelatex -V mainfont="Noto Color Emoji"
+pandoc input.md -o output.pdf --pdf-engine=lualatex \
+  -V mainfont="DejaVu Serif" \
+  -V mainfontfallback="Segoe UI Emoji:mode=harf"
 ```
 
-Ab Version 2.1 kann `gitbook_worker` das Emoji-Font automatisch setzen. Mit
-`--emoji-color` verwenden Sie eine Farbschriftart (standardmäßig wird eine
-schwarz-weiße Emoji-Schrift genutzt). Über `--main-font` lässt sich zudem die
-Hauptschriftart festlegen.
+Die Angabe `:mode=harf` aktiviert den HarfBuzz-Renderer und ermöglicht farbige
+Emoji-Darstellung. Ältere Pandoc-Versionen unterstützen `mainfontfallback`
+noch nicht. `gitbook_worker` erzeugt in diesem Fall eine LaTeX-Präambel mit
+`luaotfload`, um Segoe UI Emoji automatisch als Fallback einzurichten. Nutzen
+Sie dazu den Schalter `--emoji-color` und passen Sie bei Bedarf `--main-font`
+an.
 
 ## 3. Beispiele: PDF-Erzeugung mit gitbook_worker
 
