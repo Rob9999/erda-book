@@ -12,6 +12,7 @@ from .utils import (
     validate_table_columns,
     download_remote_images,
     _write_pandoc_header,
+    get_pandoc_version,
 )
 from .linkcheck import (
     check_links,
@@ -376,22 +377,43 @@ def main():
             # Non-Docker workflow
             logging.info("Building PDF with Pandoc...")
             filter_path = os.path.join(os.path.dirname(__file__), "landscape.lua")
+            version = get_pandoc_version()
+            logging.info("Detected pandoc version: %s", ".".join(map(str, version)))
             logging.info("Preparing pandoc header tex file...")
-            emoji_font = "Segoe UI Emoji"
-            try:
-                header_file = _write_pandoc_header(
-                    temp_dir,
-                    emoji_font,
-                    args.sans_font,
-                    args.mono_font,
-                    args.main_font,
-                    args.wrap_wide_tables,
-                    args.table_threshold,
-                    combined_md,
-                )
-            except Exception as e:
-                logging.error("Failed to write pandoc header tex file: %s", e)
-                sys.exit(1)
+            if version >= (3, 1, 12):
+                logging.info("Using pandoc mainfontfallback for Segoe UI Emoji")
+                try:
+                    header_file = _write_pandoc_header(
+                        temp_dir,
+                        "",
+                        args.sans_font,
+                        args.mono_font,
+                        args.main_font,
+                        args.wrap_wide_tables,
+                        args.table_threshold,
+                        combined_md,
+                    )
+                except Exception as e:
+                    logging.error("Failed to write pandoc header tex file: %s", e)
+                    sys.exit(1)
+                extra = ["-V", "mainfontfallback=Segoe UI Emoji:mode=harf"]
+            else:
+                logging.info("Using manual Segoe UI Emoji fallback")
+                try:
+                    header_file = _write_pandoc_header(
+                        temp_dir,
+                        "Segoe UI Emoji",
+                        args.sans_font,
+                        args.mono_font,
+                        args.main_font,
+                        args.wrap_wide_tables,
+                        args.table_threshold,
+                        combined_md,
+                    )
+                except Exception as e:
+                    logging.error("Failed to write pandoc header tex file: %s", e)
+                    sys.exit(1)
+                extra = []
             pandoc_cmd = [
                 "pandoc",
                 combined_md,
@@ -403,11 +425,14 @@ def main():
                 "--toc",
                 "-V",
                 "geometry=a4paper",
+            ]
+            pandoc_cmd.extend(extra)
+            pandoc_cmd.extend([
                 f"--lua-filter={filter_path}",
                 f"--resource-path={clone_dir}",
                 "-H",
                 header_file,
-            ]
+            ])
             out, err, code = run(pandoc_cmd, capture_output=True)
         if out:
             logging.info("Pandoc stdout:\n%s", out)
