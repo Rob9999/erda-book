@@ -65,3 +65,23 @@ def test_write_pandoc_header_no_emoji(tmp_path):
     content = open(header, encoding="utf-8").read()
     assert "EmojiOne" not in content
 
+
+def test_write_pandoc_header_skip_mainfont(tmp_path):
+    md = tmp_path / "file.md"
+    md.write_text("x")
+    header = _write_pandoc_header(
+        str(tmp_path),
+        "",
+        "Sans",
+        "Mono",
+        "Main",
+        False,
+        6,
+        str(md),
+        write_mainfont=False,
+    )
+    content = open(header, encoding="utf-8").read()
+    assert "\\setsansfont{Sans}" in content
+    assert "\\setmonofont{Mono}" in content
+    assert "\\setmainfont" not in content
+
