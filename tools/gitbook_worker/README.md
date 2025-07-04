@@ -57,6 +57,12 @@ noch nicht. `gitbook_worker` erzeugt in diesem Fall eine LaTeX-Präambel mit
 Sie dazu den Schalter `--emoji-color` und passen Sie bei Bedarf `--main-font`
 an.
 
+`gitbook_worker` erkennt dabei die installierte Pandoc-Version und setzt
+`mainfontfallback` nur ein, wenn es bereits unterstützt wird. Bei älteren
+Versionen fügt das Programm stattdessen eine kurze LuaTeX-Anweisung ein, damit
+Segoe UI Emoji als Fallback dient. Im Docker-Workflow kommen weiterhin die
+OpenMoji-Schriftarten des Containers zum Einsatz.
+
 ## 3. Beispiele: PDF-Erzeugung mit gitbook_worker
 
 Hier einige typische Workflows, wie Sie mit `gitbook_worker` ein PDF erzeugen:
