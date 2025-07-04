@@ -3,7 +3,7 @@ import re
 import subprocess
 import sys
 import logging
-from typing import List
+from typing import List, Tuple
 import requests
 
 # Emoji ranges supported by the LaTeX header
@@ -38,6 +38,37 @@ def run(cmd, cwd=None, capture_output=False, input_text=None):
     if result.returncode != 0:
         logging.error("Command failed (%s): %s", result.returncode, cmd)
         sys.exit(result.returncode)
+
+
+def get_pandoc_version() -> Tuple[int, ...]:
+    """Return the installed pandoc version as a tuple."""
+    out, _, code = run(["pandoc", "--version"], capture_output=True)
+    if code != 0 or not out:
+        logging.warning("pandoc --version failed")
+        return (0,)
+    first = out.splitlines()[0]
+    m = re.search(r"pandoc\s+([0-9]+(?:\.[0-9]+)*)", first)
+    if not m:
+        logging.warning("Unable to parse pandoc version from: %s", first)
+        return (0,)
+    return tuple(int(p) for p in m.group(1).split("."))
+
+
+def font_available(name: str) -> bool:
+    """Check if a font with the given name is available on the system."""
+    if sys.platform.startswith("win"):
+        fonts_dir = os.path.join(os.environ.get("WINDIR", "C:\\Windows"), "Fonts")
+        try:
+            for f in os.listdir(fonts_dir):
+                if name.lower() in f.lower():
+                    return True
+        except Exception:  # pragma: no cover - environment specific
+            pass
+        return False
+    out, _, code = run(["fc-list"], capture_output=True)
+    if code != 0:
+        return False
+    return name.lower() in out.lower()
 
 
 def parse_summary(summary_path):
@@ -263,9 +294,24 @@ def _write_pandoc_header(
             hf.write(f"\\setsansfont{{{sans_font}}}\n")
             hf.write(f"\\setmonofont{{{mono_font}}}\n")
             hf.write(f"\\setmainfont{{{main_font}}}\n")
-            hf.write(
-                f"\\newfontfamily\\EmojiOne{{{emoji_font}}}[Range={{{EMOJI_RANGES}}}]\n"
-            )
+            if emoji_font:
+                if emoji_font.startswith("OpenMoji"):
+                    hf.write(
+                        f"\\newfontfamily\\EmojiOne{{{emoji_font}}}[Range={{{EMOJI_RANGES}}}]\n"
+                    )
+                elif emoji_font == "Segoe UI Emoji":
+                    hf.write("\\IfFontExistsTF{Segoe UI Emoji}{\n")
+                    hf.write(
+                        f"  \\newfontfamily\\EmojiOne{{Segoe UI Emoji}}[Renderer=Harfbuzz,Range={{{EMOJI_RANGES}}}]\n"
+                    )
+                    hf.write(
+                        "  \\directlua{luaotfload.add_fallback(\"mainfont\", \"Segoe UI Emoji:mode=harf\")}\n"
+                    )
+                    hf.write("}{}\n")
+                else:
+                    hf.write(
+                        f"\\newfontfamily\\EmojiOne{{{emoji_font}}}[Range={{{EMOJI_RANGES}}}]\n"
+                    )
             if wrap_tables:
                 logging.info("Wrapping wide tables in landscape environment...")
                 wrap_wide_tables(md_file, threshold=threshold)

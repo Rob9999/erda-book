@@ -45,5 +45,23 @@ def test_write_pandoc_header_wrap_tables(tmp_path, monkeypatch):
     assert called == {'md': str(md), 'th': 5}
     content = open(header, encoding="utf-8").read()
     assert "\\usepackage{pdflscape}" in content
-    assert f"\\newfontfamily\\EmojiOne{{Segoe UI Emoji}}[Range={{{EMOJI_RANGES}}}]" in content
+    assert "\\IfFontExistsTF{Segoe UI Emoji}" in content
+    assert "luaotfload.add_fallback(\"mainfont\", \"Segoe UI Emoji:mode=harf\")" in content
+
+
+def test_write_pandoc_header_no_emoji(tmp_path):
+    md = tmp_path / "file.md"
+    md.write_text("t")
+    header = _write_pandoc_header(
+        str(tmp_path),
+        "",
+        "Sans",
+        "Mono",
+        "Main",
+        False,
+        6,
+        str(md),
+    )
+    content = open(header, encoding="utf-8").read()
+    assert "EmojiOne" not in content
 
