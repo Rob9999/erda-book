@@ -281,8 +281,13 @@ def _write_pandoc_header(
     wrap_tables: bool,
     threshold: int,
     md_file: str,
+    write_mainfont: bool = True,
 ) -> str:
     """Create a temporary pandoc header file and optionally wrap wide tables.
+
+    ``write_mainfont`` controls whether a ``\setmainfont`` command is written
+    to the header. This is useful for pandoc ``>= 3.1.12`` where the main font
+    can be supplied via ``-V mainfont=...``.
 
     Returns the path to the created header file."""
 
@@ -292,7 +297,8 @@ def _write_pandoc_header(
             hf.write("\\usepackage{fontspec}\n")
             hf.write(f"\\setsansfont{{{sans_font}}}\n")
             hf.write(f"\\setmonofont{{{mono_font}}}\n")
-            hf.write(f"\\setmainfont{{{main_font}}}\n")
+            if write_mainfont:
+                hf.write(f"\\setmainfont{{{main_font}}}\n")
             if emoji_font:
                 if emoji_font.startswith("OpenMoji"):
                     hf.write(

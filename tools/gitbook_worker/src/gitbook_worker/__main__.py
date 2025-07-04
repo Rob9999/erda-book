@@ -392,11 +392,21 @@ def main():
                         args.wrap_wide_tables,
                         args.table_threshold,
                         combined_md,
+                        write_mainfont=False,
                     )
                 except Exception as e:
                     logging.error("Failed to write pandoc header tex file: %s", e)
                     sys.exit(1)
-                extra = ["-V", "mainfontfallback=Segoe UI Emoji:mode=harf"]
+                extra = [
+                    "-V",
+                    "mainfontfallback=Segoe UI Emoji:mode=harf",
+                    "-V",
+                    f"mainfont={args.main_font}",
+                    "-V",
+                    f"sansfont={args.sans_font}",
+                    "-V",
+                    f"monofont={args.mono_font}",
+                ]
             else:
                 logging.info("Using manual Segoe UI Emoji fallback")
                 try:
