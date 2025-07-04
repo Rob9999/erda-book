@@ -1,5 +1,5 @@
 import os
-from gitbook_worker.utils import _write_pandoc_header
+from gitbook_worker.utils import _write_pandoc_header, EMOJI_RANGES
 
 def test_write_pandoc_header_creates_file(tmp_path):
     md = tmp_path / "combined.md"
@@ -20,7 +20,8 @@ def test_write_pandoc_header_creates_file(tmp_path):
     assert "\\setsansfont{Sans}" in content
     assert "\\setmonofont{Mono}" in content
     assert "\\setmainfont{Main}" in content
-    assert "\\newfontfamily\\EmojiOne{OpenMoji Color}" in content
+    expected = f"\\newfontfamily\\EmojiOne{{OpenMoji Color}}[Range={{{EMOJI_RANGES}}}]"
+    assert expected in content
 
 
 def test_write_pandoc_header_wrap_tables(tmp_path, monkeypatch):
@@ -44,4 +45,5 @@ def test_write_pandoc_header_wrap_tables(tmp_path, monkeypatch):
     assert called == {'md': str(md), 'th': 5}
     content = open(header, encoding="utf-8").read()
     assert "\\usepackage{pdflscape}" in content
+    assert f"\\newfontfamily\\EmojiOne{{Segoe UI Emoji}}[Range={{{EMOJI_RANGES}}}]" in content
 
