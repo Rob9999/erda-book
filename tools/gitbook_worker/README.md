@@ -74,6 +74,9 @@ gitbook-worker -v \
 
 ### 2. ERDA Buch als PDF mit Docker erzeugen
 
+Auf Windows-Systemen startet `gitbook_worker` Docker Desktop automatisch,
+falls es noch nicht ausgeführt wird.
+
 ```bash
 gitbook-worker -v \
   --clone-dir C:/RAMProjects/ERDA/repo/gitbook_repo \

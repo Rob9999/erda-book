@@ -26,7 +26,7 @@ from .ai_tools import (
     proof_and_repair_external_references,
 )
 from .repo import clone_or_update_repo
-from .docker_tools import ensure_docker_image
+from .docker_tools import ensure_docker_image, ensure_docker_desktop
 from . import lint_markdown, validate_metadata, spellcheck
 
 
@@ -304,6 +304,7 @@ def main():
         if args.use_docker:
             # Docker-Workflow
             logging.info("Using Docker to build PDF...")
+            ensure_docker_desktop()
             dockerfile_path = os.path.join(
                 os.path.dirname(__file__),
                 "Dockerfile",
