@@ -22,7 +22,7 @@ except ImportError:  # pragma: no cover - optional dep
 logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 
 
-def run(cmd, cwd=None, capture_output=False, input_text=None):
+def run(cmd, cwd=None, capture_output=False, input_text=None) -> Tuple[str, str, int]:
     """Execute a command without invoking a shell."""
     logging.info("Running command: %s", cmd)
     result = subprocess.run(
@@ -40,6 +40,7 @@ def run(cmd, cwd=None, capture_output=False, input_text=None):
     if result.returncode != 0:
         logging.error("Command failed (%s): %s", result.returncode, cmd)
         sys.exit(result.returncode)
+    return "", "", result.returncode
 
 
 def get_pandoc_version() -> Tuple[int, ...]:
@@ -107,89 +108,105 @@ def readability_report(md_files):
     return report
 
 
-def wrap_wide_tables(md_file: str, threshold: int = 6) -> None:
-    """Wrap wide markdown tables in a fenced ``Div`` with class ``landscape``.
-
-    Consecutive lines starting with a pipe character are considered part of a
-    table. If the table contains more columns than ``threshold`` it is wrapped
-    inside ``::: {.landscape cols=N}`` and ``:::` markers where ``N`` is the
-    number of columns. A Pandoc Lua filter can later convert this ``Div`` into
-    the appropriate LaTeX ``landscape`` environment and adjust the font size
-    based on the ``cols`` attribute. The file is modified in place.
+def wrap_wide_tables(
+    md_file: str, threshold: int = 6, use_raw_latex: bool = False, margin: str = "1cm"
+) -> None:
     """
+    Wrap wide markdown tables in a fenced Div with class `landscape` or
+    inject raw LaTeX blocks (with adjustable margins and adjustbox) when
+    `use_raw_latex=True`.
 
+    - Consecutive lines starting with `|` are considered a table.
+    - If the table has more columns than `threshold`, it's wrapped.
+    - Optionally, raw LaTeX blocks for geometry and adjustbox can be used.
+    """
     try:
         with open(md_file, encoding="utf-8") as f:
             lines = f.readlines()
-    except Exception as e:  # pragma: no cover - unlikely
-        logging.error("Failed to read %s: %s", md_file, e)
+    except Exception as e:
+        logging.error(f"Failed to read {md_file}: {e}")
         raise
 
     new_lines: List[str] = []
     i = 0
+    in_code = False
+
+    def wrap(table: List[str]) -> List[str]:
+        max_cols = max((l.count("|") - 1) for l in table if l.lstrip().startswith("|"))
+        if max_cols <= threshold:
+            return table
+        if not use_raw_latex:
+            return [f"::: {{.landscape cols={max_cols}}}\n"] + table + [":::\n"]
+        # raw LaTeX variant with geometry & adjustbox
+        return (
+            [
+                "```{=latex}\n",
+                f"\\newgeometry{{margin={margin},landscape}}\n",
+                "\\begin{adjustbox}{max width=\\linewidth,center}\n",
+                "```\n",
+            ]
+            + table
+            + [
+                "```{=latex}\n",
+                "\\end{adjustbox}\n",
+                "\\restoregeometry\n",
+                "```\n",
+            ]
+        )
+
     while i < len(lines):
         line = lines[i]
-        stripped = line.lstrip()
-        if stripped.startswith("|"):
+        if line.startswith("```"):
+            in_code = not in_code
+            new_lines.append(line)
+            i += 1
+            continue
+
+        if in_code:
+            new_lines.append(line)
+            i += 1
+            continue
+
+        # Markdown table block
+        if line.lstrip().startswith("|"):
             table = []
-            max_cols = line.count("|") - 1
             while i < len(lines) and lines[i].lstrip().startswith("|"):
                 table.append(lines[i])
-                max_cols = max(max_cols, lines[i].count("|") - 1)
                 i += 1
-            if max_cols > threshold:
-                new_lines.append(f"::: {{.landscape cols={max_cols}}}\n")
-                new_lines.extend(table)
-                new_lines.append(":::\n")
-            else:
-                new_lines.extend(table)
-        elif stripped.startswith("<table"):
-            table = []
+            new_lines.extend(wrap(table))
+            continue
+
+        # HTML <table> block: convert via pandoc to MD
+        if line.lstrip().startswith("<table"):  # similar logic
+            table_lines = []
             while i < len(lines):
-                table.append(lines[i])
+                table_lines.append(lines[i])
                 if "</table>" in lines[i]:
                     i += 1
                     break
                 i += 1
-            html_table = "".join(table)
-            md_table = table
+            html = "".join(table_lines)
             try:
-                out, err, code = run(
-                    [
-                        "pandoc",
-                        "-f",
-                        "html",
-                        "-t",
-                        "gfm",
-                        "--wrap=none",
-                        "-",
-                    ],
+                out = run(
+                    ["pandoc", "-f", "html", "-t", "gfm", "--wrap=none", "-"],
                     capture_output=True,
-                    input_text=html_table,
+                    input=html.encode("utf-8"),
                 )
-                if code == 0:
-                    md_table = [l + "\n" for l in out.splitlines()]
-            except Exception as e:  # pragma: no cover - pandoc issues
-                logging.warning("HTML table conversion failed: %s", e)
-            max_cols = 0
-            for l in md_table:
-                if l.lstrip().startswith("|"):
-                    max_cols = max(max_cols, l.count("|") - 1)
-            if max_cols > threshold:
-                new_lines.append(f"::: {{.landscape cols={max_cols}}}\n")
-                new_lines.extend(md_table)
-                new_lines.append(":::\n")
-            else:
-                new_lines.extend(md_table)
-        else:
-            new_lines.append(line)
-            i += 1
+                md_table = [l + "\n" for l in out.stdout.decode("utf-8").splitlines()]
+            except Exception:
+                md_table = table_lines
+            new_lines.extend(wrap(md_table))
+            continue
+
+        # other lines
+        new_lines.append(line)
+        i += 1
 
     try:
         with open(md_file, "w", encoding="utf-8") as f:
             f.writelines(new_lines)
-    except Exception as e:  # pragma: no cover - unlikely
-        logging.error("Failed to write %s: %s", md_file, e)
+    except Exception as e:
+        logging.error(f"Failed to write {md_file}: {e}")
         raise
 
 
@@ -320,7 +337,7 @@ def _write_pandoc_header(
                     )
             if wrap_tables:
                 logging.info("Wrapping wide tables in landscape environment...")
-                wrap_wide_tables(md_file, threshold=threshold)
+                wrap_wide_tables(md_file, threshold=threshold, use_raw_latex=True)
                 hf.write("\\usepackage{pdflscape}\n")
                 logging.info("Wide tables wrapped successfully.")
     except Exception as e:
