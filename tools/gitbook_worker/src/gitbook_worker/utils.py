@@ -3,6 +3,7 @@ import re
 import subprocess
 import sys
 import logging
+from collections import defaultdict
 from typing import List, Tuple
 import requests
 
