@@ -61,9 +61,9 @@ an.
 `mainfontfallback` nur ein, wenn es bereits unterstützt wird. Bei älteren
 Versionen fügt das Programm stattdessen eine kurze LuaTeX-Anweisung ein, damit
 Segoe UI Emoji als Fallback dient. Im Docker-Workflow kommen weiterhin die
-OpenMoji-Schriftarten des Containers zum Einsatz. Ab Version 2.1.1 wird dort
-auch das mitgelieferte `landscape.lua` automatisch verwendet, um breite
-Tabellen korrekt zu drehen.
+OpenMoji-Schriftarten des Containers zum Einsatz. Bei Verwendung von
+`--wrap-wide-tables` wird zudem das mitgelieferte `landscape.lua`
+eingebunden, um breite Tabellen korrekt zu drehen.
 
 ## 3. Beispiele: PDF-Erzeugung mit gitbook_worker
 
