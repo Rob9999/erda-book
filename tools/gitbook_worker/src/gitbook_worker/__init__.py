@@ -18,6 +18,7 @@ from .utils import (
     wrap_wide_tables,
     validate_table_columns,
     download_remote_images,
+    emoji_report,
 )
 from .linkcheck import (
     check_links,
