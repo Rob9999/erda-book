@@ -1,6 +1,7 @@
 import shutil
 import pytest
-from gitbook_worker.utils import wrap_wide_tables
+from pathlib import Path
+from gitbook_worker.utils import wrap_wide_tables, _write_pandoc_header, run
 
 
 def test_wrap_wide_tables_adds_landscape(tmp_path):
@@ -44,3 +45,41 @@ def test_wrap_wide_tables_html_converted(tmp_path):
     assert "| A   | B   |" in lines
     assert "| 1   | 2   |" in lines
     assert lines[-1] == ":::"
+
+@pytest.mark.skipif(shutil.which("pandoc") is None, reason="pandoc not installed")
+def test_landscape_longtable(tmp_path):
+    md = tmp_path / "long.md"
+    header = "|" + "|".join([f"C{i}" for i in range(6)]) + "|"
+    sep = "|" + "|".join(["--"] * 6) + "|"
+    rows = "\n".join("|" + "|".join([str(j) for j in range(6)]) + "|" for _ in range(40))
+    md.write_text("\n".join([header, sep, rows]))
+    wrap_wide_tables(str(md), threshold=5)
+    header_tex = _write_pandoc_header(
+        str(tmp_path),
+        "",
+        "Sans",
+        "Mono",
+        "Main",
+        True,
+        5,
+        str(md),
+    )
+    filter_path = Path(__import__('gitbook_worker').__file__).with_name('landscape.lua')
+    out_tex = tmp_path / "out.tex"
+    cmd = [
+        "pandoc",
+        str(md),
+        "-t",
+        "latex",
+        "--longtable",
+        "--lua-filter",
+        str(filter_path),
+        "-H",
+        header_tex,
+        "-o",
+        str(out_tex),
+    ]
+    _, _, code = run(cmd, capture_output=True)
+    assert code == 0
+    text = out_tex.read_text()
+    assert "\\begin{ltablex}" in text
