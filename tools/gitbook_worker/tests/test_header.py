@@ -28,7 +28,7 @@ def test_write_pandoc_header_wrap_tables(tmp_path, monkeypatch):
     md = tmp_path / "tables.md"
     md.write_text("|A|B|C|D|E|F|G|\n|--|--|--|--|--|--|--|\n|1|2|3|4|5|6|7|\n")
     called = {}
-    def fake_wrap(md_file, threshold):
+    def fake_wrap(md_file, threshold, **kwargs):
         called['md'] = md_file
         called['th'] = threshold
     monkeypatch.setattr('gitbook_worker.utils.wrap_wide_tables', fake_wrap)
