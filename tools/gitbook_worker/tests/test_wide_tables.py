@@ -30,3 +30,17 @@ def test_wrap_wide_tables_html(tmp_path):
     text = md.read_text()
     assert text.startswith("::: {.landscape cols=7}\n")
     assert text.strip().endswith(":::")
+
+
+@pytest.mark.skipif(shutil.which("pandoc") is None, reason="pandoc not installed")
+def test_wrap_wide_tables_html_converted(tmp_path):
+    md = tmp_path / "html2.md"
+    md.write_text(
+        "<table><thead><tr><th>A</th><th>B</th></tr></thead><tbody><tr><td>1</td><td>2</td></tr></tbody></table>"
+    )
+    wrap_wide_tables(str(md), threshold=1)
+    lines = md.read_text().splitlines()
+    assert lines[0] == "::: {.landscape cols=2}"
+    assert "| A   | B   |" in lines
+    assert "| 1   | 2   |" in lines
+    assert lines[-1] == ":::"
