@@ -9,7 +9,7 @@ RUN wget -O /usr/share/fonts/OpenMoji-color-glyf_colr_0.ttf https://github.com/h
     fc-cache -f -v
 RUN fc-cache -f -v
 
-# Update TeXLive und installiere pdflscape
-RUN tlmgr update --self --all && tlmgr install pdflscape
+# Update TeXLive und installiere pdflscape und adjustbox
+RUN tlmgr update --self --all && tlmgr install pdflscape adjustbox
 
 WORKDIR /data

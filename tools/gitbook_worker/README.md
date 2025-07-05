@@ -15,6 +15,8 @@ Wide tables can be automatically rotated into landscape pages with
 via `--table-threshold`. Both pipe tables and HTML `<table>` blocks are
 detected. When this option is enabled, the font size of these tables is reduced
 depending on their column count so that the content fits without overlapping.
+When using this option, ensure the LaTeX packages `pdflscape` and `adjustbox`
+are installed.
 
 ## 1. Upgrade notes
 

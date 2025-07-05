@@ -342,6 +342,7 @@ def _write_pandoc_header(
                 logging.info("Wrapping wide tables in landscape environment...")
                 wrap_wide_tables(md_file, threshold=threshold, use_raw_latex=False)
                 hf.write("\\usepackage{pdflscape}\n")
+                hf.write("\\usepackage{adjustbox}\n")
                 logging.info("Wide tables wrapped successfully.")
     except Exception as e:
         logging.error("Failed to write pandoc header tex file: %s", e)
