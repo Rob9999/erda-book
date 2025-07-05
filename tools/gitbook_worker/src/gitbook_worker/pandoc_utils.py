@@ -34,8 +34,10 @@ def build_docker_pandoc_cmd(
         f"{abs_temp_dir}:{docker_temp_dir}",
         "-v",
         f"{abs_clone_dir}:{docker_clone_dir}",
-        "-v",
-        f"{os.path.dirname(filter_path)}:/filters",
+    ]
+    if filter_path:
+        cmd += ["-v", f"{os.path.dirname(filter_path)}:/filters"]
+    cmd += [
         "erda-pandoc",
         docker_combined_md,
         "-o",
@@ -49,8 +51,9 @@ def build_docker_pandoc_cmd(
         f"--resource-path={docker_clone_dir}",
         "-H",
         docker_header_file,
-        f"--lua-filter=/filters/{os.path.basename(filter_path)}",
     ]
+    if filter_path:
+        cmd.append(f"--lua-filter=/filters/{os.path.basename(filter_path)}")
     return cmd
 
 
@@ -77,14 +80,10 @@ def build_pandoc_cmd(
     ]
     if extra_args:
         cmd.extend(extra_args)
-    cmd.extend(
-        [
-            f"--lua-filter={filter_path}",
-            f"--resource-path={resource_path}",
-            "-H",
-            header_file,
-        ]
-    )
+    args = [f"--resource-path={resource_path}", "-H", header_file]
+    if filter_path:
+        args.insert(0, f"--lua-filter={filter_path}")
+    cmd.extend(args)
     return cmd
 
 

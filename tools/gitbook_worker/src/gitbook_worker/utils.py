@@ -132,7 +132,10 @@ def wrap_wide_tables(
     in_code = False
 
     def wrap(table: List[str]) -> List[str]:
-        max_cols = max((l.count("|") - 1) for l in table if l.lstrip().startswith("|"))
+        cols = [l.count("|") - 1 for l in table if l.lstrip().startswith("|")]
+        if not cols:
+            return table
+        max_cols = max(cols)
         if max_cols <= threshold:
             return table
         if not use_raw_latex:
@@ -337,7 +340,7 @@ def _write_pandoc_header(
                     )
             if wrap_tables:
                 logging.info("Wrapping wide tables in landscape environment...")
-                wrap_wide_tables(md_file, threshold=threshold, use_raw_latex=True)
+                wrap_wide_tables(md_file, threshold=threshold, use_raw_latex=False)
                 hf.write("\\usepackage{pdflscape}\n")
                 logging.info("Wide tables wrapped successfully.")
     except Exception as e:
