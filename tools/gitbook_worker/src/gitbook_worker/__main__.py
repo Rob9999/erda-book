@@ -335,7 +335,7 @@ def main():
             except Exception as e:
                 logging.error("Failed to write pandoc header tex file: %s", e)
                 sys.exit(1)
-            filter_path = os.path.join(os.path.dirname(__file__), "landscape.lua")
+            filter_path = "" if args.wrap_wide_tables else os.path.join(os.path.dirname(__file__), "landscape.lua")
             docker_cmd = build_docker_pandoc_cmd(
                 out_dir,
                 temp_dir,
@@ -350,7 +350,7 @@ def main():
         else:
             # Non-Docker workflow
             logging.info("Building PDF with Pandoc...")
-            filter_path = os.path.join(os.path.dirname(__file__), "landscape.lua")
+            filter_path = "" if args.wrap_wide_tables else os.path.join(os.path.dirname(__file__), "landscape.lua")
             version = get_pandoc_version()
             logging.info("Detected pandoc version: %s", ".".join(map(str, version)))
             logging.info("Preparing pandoc header tex file...")
