@@ -28,3 +28,9 @@ def test_build_pandoc_cmd_includes_filter():
     )
     assert str(md_file) in cmd
     assert "--lua-filter=filter.lua" in cmd
+
+
+def test_landscape_lua_trailing_newline():
+    path = Path(__import__('gitbook_worker').__file__).with_name('landscape.lua')
+    data = path.read_bytes()
+    assert data.endswith(b'\n')
