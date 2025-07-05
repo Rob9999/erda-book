@@ -16,7 +16,7 @@ version: "1.0"
 
 * 🏳️ **Offizieller Name:** Republik Finnland
 * 🗺️ **Geografische Lage:** Nordeuropa, Grenzstaat im Nordischen Raum (Schweden, Norwegen, Russland; Ostsee im Süden)
-* 👥 **Bevölkerung (2025):** 5.675.983 (geschätzt zum 1. Januar 2025) citeturn3search8
+* 👥 **Bevölkerung (2025):** 5.675.983 (geschätzt zum 1. Januar 2025) 
 * 🧠 **Regierungsform & Verfassungsstatus (2025):** Parlamentarische Republik, Verfassungsgebunden (1919)
 * 📅 ERDA-Status: Mitglied
 * 🧭 **Rolle im ERDA-Netzwerk (Zukunft):** Arktisknoten, Bildungsnation & Nachhaltigkeitspionier
@@ -26,19 +26,19 @@ version: "1.0"
 ### 2. Demografie & Gesellschaft
 
 * **Bevölkerung (Prognose 2050 / 2075):**\
-  – 2050: \~ 5,35 Mio. (Weltbevölkerungs-Forecast, annual change –0,25 %) citeturn6search4\
+  – 2050: \~ 5,35 Mio. (Weltbevölkerungs-Forecast, annual change –0,25 %) \
   – 2075: \~ 5,02 Mio. (Fortschreibung gleicher Trendannahme)
 * **Altersstruktur (2025):**\
-  – Medianalter: 43,2 Jahre citeturn2search0\
+  – Medianalter: 43,2 Jahre \
   – 0–14 Jahre: 14,6 %\
-  – 65+ Jahre: 23,6 % citeturn7search11\
+  – 65+ Jahre: 23,6 % \
   – Altenquotient (65+/0–14 ): \~ 1,62
-* **Urbanisierung (2023):** 73 % leben in Städten citeturn7search11
+* **Urbanisierung (2023):** 73 % leben in Städten 
 * **Bildung:**\
   – Durchschnittliche Schuljahre: 13\
-  – Hochschulquote (Tertiärabschluss): 50 % citeturn8search5\
+  – Hochschulquote (Tertiärabschluss): 50 % \
   – MINT-Anteil unter Absolvent:innen: 25 % (modellbasiert)
-* **Lebenserwartung (2023):** 81,19 Jahre citeturn9search4
+* **Lebenserwartung (2023):** 81,19 Jahre 
 * **Migrationssaldo:** + 17 500 jährlich (2020–2024) (Wikipedia-Demografie)
 
 ***
@@ -57,7 +57,7 @@ version: "1.0"
 * **Anteil Automatisierung & Digitalisierung:**\
   – 2025: 50 %\
   – 2050: 70 %
-* **Forschungs- & Innovationsquote (2023):** 3,4 % des BIP citeturn4search1
+* **Forschungs- & Innovationsquote (2023):** 3,4 % des BIP 
 * **Patente / Jahr (2023):** ca. 2 000 (stabil)
 * **Mitglied in FORTERA-Handelsallianzen:** Ja
 
