@@ -13,6 +13,7 @@ from .utils import (
     download_remote_images,
     _write_pandoc_header,
     get_pandoc_version,
+    emoji_report,
 )
 from .linkcheck import (
     check_links,
@@ -152,6 +153,12 @@ def main():
     )
     parser.add_argument(
         "-p", "--spellcheck", action="store_true", help="Run spellchecker."
+    )
+    parser.add_argument(
+        "-E",
+        "--emoji-report",
+        action="store_true",
+        help="Analyze emoji usage and write a markdown report.",
     )
     parser.add_argument(
         "--fix-internal-links",
@@ -558,6 +565,23 @@ def main():
         except Exception as e:
             logging.error("spellcheck failed: %s", e)
             logger.error("Error running spellcheck: %s", e)
+    if args.emoji_report:
+        logging.info("emoji-report started")
+        try:
+            counts, table_md = emoji_report(combined_md)
+            for name, count in counts.items():
+                logger.info("Emoji %s: %s", name, count)
+            report_filename = os.path.join(
+                out_dir, f"emoji_report_{run_timestamp}.md"
+            )
+            with open(report_filename, "w", encoding="utf-8") as rf:
+                rf.write("# Emoji Report\n\n")
+                rf.write(table_md + "\n")
+            logger.info("Emoji report written to %s", report_filename)
+            logging.info("emoji-report done")
+        except Exception as e:
+            logging.error("emoji-report failed: %s", e)
+            logger.error("Error generating emoji report: %s", e)
     if args.fix_internal_links:
         logging.info("fix-internal-links started")
         try:
