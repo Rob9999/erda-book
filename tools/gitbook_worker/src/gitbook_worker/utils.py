@@ -190,12 +190,12 @@ def wrap_wide_tables(
                 i += 1
             html = "".join(table_lines)
             try:
-                out = run(
+                stdout, _, _ = run(
                     ["pandoc", "-f", "html", "-t", "gfm", "--wrap=none", "-"],
                     capture_output=True,
-                    input=html.encode("utf-8"),
+                    input_text=html,
                 )
-                md_table = [l + "\n" for l in out.stdout.decode("utf-8").splitlines()]
+                md_table = [l + "\n" for l in stdout.splitlines()]
             except Exception:
                 md_table = table_lines
             new_lines.extend(wrap(md_table))
