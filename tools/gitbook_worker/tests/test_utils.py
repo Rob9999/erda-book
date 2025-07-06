@@ -1,6 +1,7 @@
 import shutil
 import pytest
-from gitbook_worker.utils import get_pandoc_version, font_available
+from gitbook_worker.src.gitbook_worker.utils import get_pandoc_version, font_available
+
 
 @pytest.mark.skipif(shutil.which("pandoc") is None, reason="pandoc not installed")
 def test_get_pandoc_version_format():

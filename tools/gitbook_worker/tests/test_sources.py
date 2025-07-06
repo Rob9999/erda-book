@@ -1,4 +1,4 @@
-from gitbook_worker import source_extract
+from gitbook_worker.src.gitbook_worker import source_extract
 
 
 def test_header_pattern_matches_multiple_languages():

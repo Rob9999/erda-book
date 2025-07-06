@@ -1,4 +1,4 @@
-from gitbook_worker import repo
+from gitbook_worker.src.gitbook_worker import repo
 
 
 def test_clone_force_no_prompt(tmp_path, monkeypatch):
@@ -40,7 +40,9 @@ def test_clone_force_reclones_nonrepo(tmp_path, monkeypatch):
     removed = []
     monkeypatch.setattr(repo, "run", fake_run)
     monkeypatch.setattr(repo, "remove_tree", lambda p: removed.append(p))
-    monkeypatch.setattr("builtins.input", lambda p: (_ for _ in ()).throw(Exception("prompted")))
+    monkeypatch.setattr(
+        "builtins.input", lambda p: (_ for _ in ()).throw(Exception("prompted"))
+    )
 
     repo.clone_or_update_repo("url", str(clone_dir), branch_name="main", force=True)
 

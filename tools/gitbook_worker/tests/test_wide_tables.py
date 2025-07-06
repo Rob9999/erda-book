@@ -1,7 +1,11 @@
 import shutil
 import pytest
 from pathlib import Path
-from gitbook_worker.utils import wrap_wide_tables, _write_pandoc_header, run
+from gitbook_worker.src.gitbook_worker.utils import (
+    wrap_wide_tables,
+    _write_pandoc_header,
+    run,
+)
 
 
 def test_wrap_wide_tables_adds_landscape(tmp_path):

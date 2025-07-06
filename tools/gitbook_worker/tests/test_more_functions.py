@@ -1,5 +1,11 @@
 import os
-from gitbook_worker import utils, linkcheck, source_extract, validate_metadata
+from gitbook_worker.src.gitbook_worker import (
+    utils,
+    linkcheck,
+    source_extract,
+    validate_metadata,
+)
+
 
 class DummyResponse:
     def __init__(self, status=200, reason="OK"):
@@ -15,10 +21,12 @@ def test_parse_summary_nested(tmp_path):
     f1.write_text("c1")
     f2.write_text("c2")
     summary = tmp_path / "SUMMARY.md"
-    summary.write_text("""\
+    summary.write_text(
+        """\
 * [One](chap1.md)
   * [Two](nested/level/chap2.md)
-""")
+"""
+    )
     result = utils.parse_summary(str(summary))
     assert result == [str(f1), str(f2)]
 
@@ -56,9 +64,7 @@ def test_check_images_errors(tmp_path, monkeypatch):
     img = tmp_path / "ok.png"
     img.write_text("data")
     md = tmp_path / "file.md"
-    md.write_text(
-        f"![]({img.name})\n![](missing.png)\n![](http://remote/img)\n"
-    )
+    md.write_text(f"![]({img.name})\n![](missing.png)\n![](http://remote/img)\n")
 
     def fake_head(url, timeout=5):
         raise Exception("boom")

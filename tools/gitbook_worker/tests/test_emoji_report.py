@@ -1,5 +1,5 @@
 import os
-from gitbook_worker import emoji_report
+from gitbook_worker.src.gitbook_worker import emoji_report
 
 
 def test_emoji_report_counts(tmp_path):

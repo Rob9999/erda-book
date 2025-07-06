@@ -1,5 +1,5 @@
 import os
-from gitbook_worker import (
+from gitbook_worker.src.gitbook_worker import (
     utils,
     linkcheck,
     source_extract,
@@ -8,6 +8,7 @@ from gitbook_worker import (
     proof_and_repair_internal_references,
     ai_tools,
 )
+
 
 class DummyResponse:
     def __init__(self, status_code=200, reason="OK"):
@@ -83,6 +84,7 @@ def test_check_images(tmp_path, monkeypatch):
     assert "http://good.com/i.png" not in missing_paths
     assert os.path.join(str(tmp_path), "img.png") not in missing_paths
 
+
 def test_extract_sources_and_readability(tmp_path):
     md1 = tmp_path / "one.md"
     md1.write_text("# T\n\n## Sources\n1. Ref https://ex.com\n")
@@ -105,15 +107,19 @@ def test_citation_numbering(tmp_path):
     gaps = linkcheck.check_citation_numbering([str(md)])
     assert gaps == [(str(md), [2])]
 
+
 def test_internal_reference_noop(tmp_path, monkeypatch):
     summary = tmp_path / "SUMMARY.md"
     summary.write_text("* [A](a.md)\n")
     md = tmp_path / "a.md"
     md.write_text("text\n")
-    monkeypatch.setattr(source_extract, "extract_sources_of_a_md_file_to_dict", lambda m: {})
+    monkeypatch.setattr(
+        source_extract, "extract_sources_of_a_md_file_to_dict", lambda m: {}
+    )
     monkeypatch.setattr(ai_tools, "extract_sources_of_a_md_file_to_dict", lambda m: {})
     proof_and_repair_internal_references([str(md)], str(summary))
     assert md.read_text() == "text\n"
+
 
 def test_internal_reference_adds_footnote(tmp_path, monkeypatch):
     summary = tmp_path / "SUMMARY.md"
@@ -122,9 +128,23 @@ def test_internal_reference_adds_footnote(tmp_path, monkeypatch):
     md.write_text("content\n")
 
     def fake_extract(file):
-        return {str(file): [{"Ref": {"lineno": 1, "line": "1. Ref missing", "level": 1, "link": "missing.md", "numbering": "1"}}]}
+        return {
+            str(file): [
+                {
+                    "Ref": {
+                        "lineno": 1,
+                        "line": "1. Ref missing",
+                        "level": 1,
+                        "link": "missing.md",
+                        "numbering": "1",
+                    }
+                }
+            ]
+        }
 
-    monkeypatch.setattr(source_extract, "extract_sources_of_a_md_file_to_dict", fake_extract)
+    monkeypatch.setattr(
+        source_extract, "extract_sources_of_a_md_file_to_dict", fake_extract
+    )
     monkeypatch.setattr(ai_tools, "extract_sources_of_a_md_file_to_dict", fake_extract)
     proof_and_repair_internal_references([str(md)], str(summary))
     lines = md.read_text().splitlines()
@@ -139,9 +159,23 @@ def test_internal_reference_inserts_at_position(tmp_path, monkeypatch):
     md.write_text("line1\nline2\nline3\n")
 
     def fake_extract(file):
-        return {str(file): [{"Note": {"lineno": 2, "line": "1. Note missing", "level": 1, "link": "missing.md", "numbering": "1"}}]}
+        return {
+            str(file): [
+                {
+                    "Note": {
+                        "lineno": 2,
+                        "line": "1. Note missing",
+                        "level": 1,
+                        "link": "missing.md",
+                        "numbering": "1",
+                    }
+                }
+            ]
+        }
 
-    monkeypatch.setattr(source_extract, "extract_sources_of_a_md_file_to_dict", fake_extract)
+    monkeypatch.setattr(
+        source_extract, "extract_sources_of_a_md_file_to_dict", fake_extract
+    )
     monkeypatch.setattr(ai_tools, "extract_sources_of_a_md_file_to_dict", fake_extract)
     proof_and_repair_internal_references([str(md)], str(summary))
     assert md.read_text().splitlines() == ["line1", "Note", "line2", "line3"]

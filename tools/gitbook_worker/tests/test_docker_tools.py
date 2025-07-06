@@ -1,6 +1,6 @@
 import platform
 import types
-from gitbook_worker import docker_tools
+from gitbook_worker.src.gitbook_worker import docker_tools
 
 
 def test_get_os_matches_platform():
@@ -12,13 +12,13 @@ def test_ensure_docker_desktop_non_windows(monkeypatch):
     called = {}
 
     def fake_run(cmd, stdout=None, stderr=None, text=True):
-        called['run'] = True
+        called["run"] = True
         return types.SimpleNamespace(returncode=0)
 
     monkeypatch.setattr(docker_tools.subprocess, "run", fake_run)
     docker_tools.ensure_docker_desktop()
     # on non Windows systems docker should not be invoked
-    assert 'run' not in called
+    assert "run" not in called
 
 
 def test_ensure_docker_desktop_starts(monkeypatch):
@@ -34,7 +34,7 @@ def test_ensure_docker_desktop_starts(monkeypatch):
 
     class DummyPopen:
         def __init__(self, *a, **kw):
-            popen_called['called'] = True
+            popen_called["called"] = True
 
     monkeypatch.setattr(docker_tools.subprocess, "run", fake_run)
     monkeypatch.setattr(docker_tools.os.path, "exists", lambda p: True)
@@ -42,5 +42,5 @@ def test_ensure_docker_desktop_starts(monkeypatch):
     monkeypatch.setattr(docker_tools.time, "sleep", lambda x: None)
 
     docker_tools.ensure_docker_desktop()
-    assert popen_called.get('called')
+    assert popen_called.get("called")
     assert runs["count"] >= 2

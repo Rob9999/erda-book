@@ -1,5 +1,5 @@
-from gitbook_worker.utils import run
-from gitbook_worker.linkcheck import check_links
+from gitbook_worker.src.gitbook_worker.utils import run
+from gitbook_worker.src.gitbook_worker.linkcheck import check_links
 
 
 class DummyResponse:
@@ -25,7 +25,7 @@ def test_check_links(tmp_path, monkeypatch):
     def fake_head(url, timeout=5):
         return responses[url]
 
-    monkeypatch.setattr('gitbook_worker.linkcheck.requests.head', fake_head)
+    monkeypatch.setattr("gitbook_worker.linkcheck.requests.head", fake_head)
     report = tmp_path / "report.csv"
     check_links([str(md)], str(report))
     content = report.read_text()

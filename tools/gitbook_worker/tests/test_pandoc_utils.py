@@ -1,4 +1,7 @@
-from gitbook_worker.pandoc_utils import build_docker_pandoc_cmd, build_pandoc_cmd
+from gitbook_worker.src.gitbook_worker.pandoc_utils import (
+    build_docker_pandoc_cmd,
+    build_pandoc_cmd,
+)
 from pathlib import Path
 
 

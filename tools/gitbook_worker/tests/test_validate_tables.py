@@ -1,4 +1,4 @@
-from gitbook_worker.utils import validate_table_columns
+from gitbook_worker.src.gitbook_worker.utils import validate_table_columns
 
 
 def test_validate_table_columns_ok(tmp_path):
