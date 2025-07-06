@@ -46,7 +46,7 @@ def test_write_pandoc_header_wrap_tables(tmp_path, monkeypatch):
     assert called == {'md': str(md), 'th': 5, 'raw': False}
     content = open(header, encoding="utf-8").read()
     assert "\\usepackage{pdflscape}" in content
-    assert "\\usepackage{adjustbox}" in content
+    assert "\\usepackage{ltablex}" in content
     assert "\\IfFontExistsTF{Segoe UI Emoji}" in content
     assert "luaotfload.add_fallback(\"mainfont\", \"Segoe UI Emoji:mode=harf\")" in content
 

@@ -342,7 +342,6 @@ def _write_pandoc_header(
                 logging.info("Wrapping wide tables in landscape environment...")
                 wrap_wide_tables(md_file, threshold=threshold, use_raw_latex=False)
                 hf.write("\\usepackage{pdflscape}\n")
-                hf.write("\\usepackage{adjustbox}\n")
                 hf.write("\\usepackage{ltablex}\n")
                 hf.write("\\usepackage{tabularx}\n")
                 hf.write("\\keepXColumns\n")
