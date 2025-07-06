@@ -29,6 +29,8 @@ should reinstall the package to get the latest improvements:
 ```bash
 pip install -U gitbook-worker
 ```
+Pandoc is now called with `-t latex` and the option `--longtable`. Update any
+custom scripts that still expect the old `latex-+longtable` target.
 
 ## 2. Dokumentation erzeugen
 
