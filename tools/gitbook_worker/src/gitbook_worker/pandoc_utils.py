@@ -1,4 +1,6 @@
 import os
+import logging
+from datetime import datetime
 from .utils import run
 
 
@@ -93,4 +95,12 @@ def build_pandoc_cmd(
 
 def run_pandoc(cmd: list[str]):
     """Execute pandoc and return (stdout, stderr, exit_code)."""
-    return run(cmd, capture_output=True)
+    start = datetime.now()
+    logging.info("Starting pandoc at %s", start.isoformat())
+    logging.info("Pandoc command: %s", cmd)
+    out, err, code = run(cmd, capture_output=True)
+    end = datetime.now()
+    logging.info(
+        "Pandoc finished at %s with exit code %s", end.isoformat(), code
+    )
+    return out, err, code

@@ -335,11 +335,24 @@ def main():
             except Exception as e:
                 logging.error("Failed to write pandoc header tex file: %s", e)
                 sys.exit(1)
+            wide_tables = False
+            if args.wrap_wide_tables:
+                try:
+                    with open(combined_md, encoding="utf-8") as cf:
+                        if "::: {.landscape" in cf.read():
+                            logging.info("Wide tables detected in markdown")
+                            wide_tables = True
+                except Exception as e:
+                    logging.error(
+                        "Failed to inspect markdown for wide tables: %s", e
+                    )
             filter_path = (
                 os.path.join(os.path.dirname(__file__), "landscape.lua")
                 if args.wrap_wide_tables
                 else ""
             )
+            if wide_tables and filter_path:
+                logging.info("Converting tables to ltablex via landscape.lua")
             docker_cmd = build_docker_pandoc_cmd(
                 out_dir,
                 temp_dir,
@@ -406,6 +419,19 @@ def main():
                     logging.error("Failed to write pandoc header tex file: %s", e)
                     sys.exit(1)
                 extra = []
+            wide_tables = False
+            if args.wrap_wide_tables:
+                try:
+                    with open(combined_md, encoding="utf-8") as cf:
+                        if "::: {.landscape" in cf.read():
+                            logging.info("Wide tables detected in markdown")
+                            wide_tables = True
+                except Exception as e:
+                    logging.error(
+                        "Failed to inspect markdown for wide tables: %s", e
+                    )
+            if wide_tables and filter_path:
+                logging.info("Converting tables to ltablex via landscape.lua")
             pandoc_cmd = build_pandoc_cmd(
                 combined_md,
                 pdf_output,

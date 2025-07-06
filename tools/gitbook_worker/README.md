@@ -9,6 +9,8 @@ pip install .
 You can then call `gitbook-worker` to process a GitBook repository.
 The optional flag `--verbose` prints progress messages to the console. A log
 file `gitbook_worker_<timestamp>.log` is always written to the output directory.
+The log now records the full pandoc command with start and finish times and the
+resulting exit code.
 
 Wide tables can be automatically rotated into landscape pages with
 `--wrap-wide-tables`. The number of columns considered "wide" can be adjusted
