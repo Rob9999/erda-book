@@ -20,9 +20,6 @@ def extract_multiline_list_items(text: str) -> List[str]:
     return pattern.findall(text)
 
 
-import re
-
-
 def get_language_dependent_header_pattern_for_sources(
     language: str = "de", max_level: int = 6
 ) -> re.Pattern:
