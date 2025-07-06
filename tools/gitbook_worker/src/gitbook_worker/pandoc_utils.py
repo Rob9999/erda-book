@@ -48,7 +48,6 @@ def build_docker_pandoc_cmd(
         "gfm+emoji+fenced_divs+raw_attribute",
         "-t",
         "latex",
-        "--longtable",
         "--pdf-engine=lualatex",
         "--toc",
         "-V",
@@ -80,7 +79,6 @@ def build_pandoc_cmd(
         "gfm+emoji+fenced_divs+raw_attribute",
         "-t",
         "latex",
-        "--longtable",
         "--pdf-engine=lualatex",
         "--toc",
         "-V",
@@ -102,7 +100,5 @@ def run_pandoc(cmd: list[str]):
     logging.info("Pandoc command: %s", cmd)
     out, err, code = run(cmd, capture_output=True)
     end = datetime.now()
-    logging.info(
-        "Pandoc finished at %s with exit code %s", end.isoformat(), code
-    )
+    logging.info("Pandoc finished at %s with exit code %s", end.isoformat(), code)
     return out, err, code
