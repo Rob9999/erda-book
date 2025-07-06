@@ -164,7 +164,7 @@ def main():
     parser.add_argument(
         "--fix-internal-links",
         action="store_true",
-        help="Proof and repair internal GitBook links using Summary.md and generate a report.",
+        help="Proof and repair internal GitBook links using SUMMARY.md and generate a report.",
     )
     parser.add_argument(
         "--ai-url",
@@ -575,9 +575,9 @@ def main():
     if args.fix_internal_links:
         logging.info("fix-internal-links started")
         try:
-            summary_md = os.path.join(clone_dir, "Summary.md")
+            summary_md = os.path.join(clone_dir, "SUMMARY.md")
             if not os.path.isfile(summary_md):
-                raise FileNotFoundError(f"Summary.md not found at {summary_md}")
+                raise FileNotFoundError(f"SUMMARY.md not found at {summary_md}")
             report = proof_and_repair_internal_references(md_files, summary_md)
             timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
             report_filename = os.path.join(
