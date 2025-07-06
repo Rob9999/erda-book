@@ -82,4 +82,5 @@ def test_landscape_longtable(tmp_path):
     _, _, code = run(cmd, capture_output=True)
     assert code == 0
     text = out_tex.read_text()
-    assert "\\begin{ltablex}" in text
+    assert "\\begin{ltablex}{\\linewidth}" in text
+    assert "{XXXXXX}" in text
