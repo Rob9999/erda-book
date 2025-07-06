@@ -1,0 +1,8 @@
+% Redefine longtable environment to use tabular instead
+\let\oldlongtable\longtable
+\let\oldendlongtable\endlongtable
+\renewenvironment{longtable}[1]{%
+  \begin{tabular}{#1}%
+}{%
+  \end{tabular}%
+}

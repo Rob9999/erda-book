@@ -29,8 +29,9 @@ should reinstall the package to get the latest improvements:
 ```bash
 pip install -U gitbook-worker
 ```
-Pandoc is now called with `-t latex` and the option `--longtable`. Update any
-custom scripts that still expect the old `latex-+longtable` target.
+Pandoc is now called with `-t latex`. Should you need to avoid the built-in
+`longtable` environment, provide a custom LaTeX header and a Lua filter as
+shown below.
 
 ## 2. Dokumentation erzeugen
 
@@ -125,4 +126,53 @@ Weitere Optionen und Beispiele finden Sie mit:
 
 ```bash
 gitbook-worker --help
+```
+
+### 4. Longtable-Ausgabe verhindern
+
+Erstellen Sie eine Datei `pandoc_header.tex` mit folgenden Befehlen und binden
+Sie zusätzlich den Lua-Filter `no-longtable.lua` ein:
+
+```latex
+% pandoc_header.tex
+\let\oldlongtable\longtable
+\let\oldendlongtable\endlongtable
+\renewenvironment{longtable}[1]{%
+  \begin{tabular}{#1}%
+}{%
+  \end{tabular}%
+}
+```
+
+```lua
+-- no-longtable.lua
+return {
+  {
+    RawBlock = function(el)
+      if el.format == 'latex' then
+        el.text = el.text
+          :gsub('\\begin{longtable}', '\\begin{tabular}')
+          :gsub('\\end{longtable}', '\\end{tabular}')
+      end
+      return el
+    end
+  }
+}
+```
+
+Ein Beispielaufruf von Pandoc:
+
+```bash
+pandoc combined.md -o output.pdf \
+  -t latex --pdf-engine=lualatex --toc -V geometry=a4paper \
+  -H pandoc_header.tex --lua-filter=no-longtable.lua
+```
+
+In `gitbook-worker` fügen Sie die Optionen analog hinzu:
+
+```bash
+gitbook-worker ... \
+  --lua-filter=/path/to/no-longtable.lua \
+  -H /path/to/pandoc_header.tex \
+  --pdf "out.pdf"
 ```
