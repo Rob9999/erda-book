@@ -30,7 +30,7 @@ version: "1.0"
 * Urbanisierung (%): 92 % (2023)[2]
 * Bildung (Durchschnittsjahre, MINT-Anteil, Hochschulquote): 13,4 Jahre, 28 %, 63 %
 * Lebenserwartung: 84 Jahre (2023)[3]
-* Migrationssaldo: leicht negativ (𢄠,4 %)
+* Migrationssaldo: leicht negativ (-0,4 %)
 * Soziale Kohäsion (Subjektive Zufriedenheit, Demokratievertrauen): hoch / hoch
 
 ***

@@ -19,9 +19,9 @@ Dieses Schema befähigt künstliche Intelligenzen (ab Stufe GPT-4o) zur kompeten
 
 * 📘 **Kapitelstruktur**: siehe ERDA-Kapitel-Template
 * 📎 **Frontmatter-Schema**: standardisierte Metadaten
-* 🧩 **Boxen-Logik**: Beispiel, Risiko, Kontrast, Vision【142†boxen-template.md】
-* ✅ **Checklisten & Mini-Quiz**: siehe interaktive Elemente【143†interaktive-elemente.md】
-* 🧾 **Executive Summaries**: politikfähig nach standardisiertem Template【137†ERDA Executive Summary Template.md】
+* 🧩 **Boxen-Logik**: Beispiel, Risiko, Kontrast, Vision
+* ✅ **Checklisten & Mini-Quiz**: siehe interaktive Elemente
+* 🧾 **Executive Summaries**: politikfähig nach standardisiertem Template
 
 ***
 

@@ -127,4 +127,21 @@ def test_internal_reference_adds_footnote(tmp_path, monkeypatch):
     monkeypatch.setattr(source_extract, "extract_sources_of_a_md_file_to_dict", fake_extract)
     monkeypatch.setattr(ai_tools, "extract_sources_of_a_md_file_to_dict", fake_extract)
     proof_and_repair_internal_references([str(md)], str(summary))
-    assert "Ref" in md.read_text()
+    lines = md.read_text().splitlines()
+    assert lines[0] == "Ref"
+    assert lines[1] == "content"
+
+
+def test_internal_reference_inserts_at_position(tmp_path, monkeypatch):
+    summary = tmp_path / "SUMMARY.md"
+    summary.write_text("* [A](a.md)\n")
+    md = tmp_path / "a.md"
+    md.write_text("line1\nline2\nline3\n")
+
+    def fake_extract(file):
+        return {str(file): [{"Note": {"lineno": 2, "line": "1. Note missing", "level": 1, "link": "missing.md", "numbering": "1"}}]}
+
+    monkeypatch.setattr(source_extract, "extract_sources_of_a_md_file_to_dict", fake_extract)
+    monkeypatch.setattr(ai_tools, "extract_sources_of_a_md_file_to_dict", fake_extract)
+    proof_and_repair_internal_references([str(md)], str(summary))
+    assert md.read_text().splitlines() == ["line1", "Note", "line2", "line3"]

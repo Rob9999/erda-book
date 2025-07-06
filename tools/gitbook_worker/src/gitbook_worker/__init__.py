@@ -9,7 +9,7 @@ try:
 except ImportError:  # pragma: no cover - optional dep
     yaml = None
 
-__version__ = "2.0.0"
+__version__ = "2.1.1"
 
 from .utils import (
     run,
@@ -18,6 +18,7 @@ from .utils import (
     wrap_wide_tables,
     validate_table_columns,
     download_remote_images,
+    emoji_report,
 )
 from .linkcheck import (
     check_links,
@@ -51,7 +52,7 @@ from .repo import (
 logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 
 
-def split_reference_to_decription_and_urluri(name: str) -> tuple[str, str]:
+def split_reference_to_description_and_urluri(name: str) -> tuple[str, str]:
     url_pattern = re.compile(r"\(?\[?(https?://[^\s\)\]\[]+|[^\s\)\]\[]+\.[^\s\)\]\[]+)\]?\)?")
     url_match = url_pattern.search(name)
     if url_match:
@@ -65,7 +66,7 @@ def split_reference_to_decription_and_urluri(name: str) -> tuple[str, str]:
 
 def lint_markdown(repo_dir: str):
     """Run markdownlint on the repository and return its output."""
-    return run("markdownlint **/*.md", cwd=repo_dir, capture_output=True)
+    return run(["markdownlint", "**/*.md"], cwd=repo_dir, capture_output=True)
 
 
 def validate_metadata(md_files):
@@ -92,4 +93,4 @@ def validate_metadata(md_files):
 
 def spellcheck(repo_dir: str):
     """Run codespell to check for common spelling mistakes."""
-    return run("codespell -q 3", cwd=repo_dir, capture_output=True)
+    return run(["codespell", "-q", "3"], cwd=repo_dir, capture_output=True)
