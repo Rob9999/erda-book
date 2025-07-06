@@ -164,7 +164,7 @@ def main():
     parser.add_argument(
         "--fix-internal-links",
         action="store_true",
-        help="Proof and repair internal GitBook links using Summary.md and generate a report.",
+        help="Proof and repair internal GitBook links using SUMMARY.md and generate a report.",
     )
     parser.add_argument(
         "--ai-url",
@@ -343,9 +343,7 @@ def main():
                             logging.info("Wide tables detected in markdown")
                             wide_tables = True
                 except Exception as e:
-                    logging.error(
-                        "Failed to inspect markdown for wide tables: %s", e
-                    )
+                    logging.error("Failed to inspect markdown for wide tables: %s", e)
             filter_path = (
                 os.path.join(os.path.dirname(__file__), "landscape.lua")
                 if args.wrap_wide_tables
@@ -427,9 +425,7 @@ def main():
                             logging.info("Wide tables detected in markdown")
                             wide_tables = True
                 except Exception as e:
-                    logging.error(
-                        "Failed to inspect markdown for wide tables: %s", e
-                    )
+                    logging.error("Failed to inspect markdown for wide tables: %s", e)
             if wide_tables and filter_path:
                 logging.info("Converting tables to ltablex via landscape.lua")
             pandoc_cmd = build_pandoc_cmd(
@@ -561,9 +557,7 @@ def main():
             counts, table_md = emoji_report(combined_md)
             for name, count in counts.items():
                 logger.info("Emoji %s: %s", name, count)
-            report_filename = os.path.join(
-                out_dir, f"emoji_report_{run_timestamp}.md"
-            )
+            report_filename = os.path.join(out_dir, f"emoji_report_{run_timestamp}.md")
             with open(report_filename, "w", encoding="utf-8") as rf:
                 rf.write("# Emoji Report\n\n")
                 rf.write(table_md + "\n")
@@ -575,9 +569,9 @@ def main():
     if args.fix_internal_links:
         logging.info("fix-internal-links started")
         try:
-            summary_md = os.path.join(clone_dir, "Summary.md")
+            summary_md = os.path.join(clone_dir, "SUMMARY.md")
             if not os.path.isfile(summary_md):
-                raise FileNotFoundError(f"Summary.md not found at {summary_md}")
+                raise FileNotFoundError(f"SUMMARY.md not found at {summary_md}")
             report = proof_and_repair_internal_references(md_files, summary_md)
             timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
             report_filename = os.path.join(
