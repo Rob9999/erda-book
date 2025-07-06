@@ -14,7 +14,8 @@ def test_build_docker_pandoc_cmd_includes_filter(tmp_path):
     )
     assert "--lua-filter=/filters/landscape.lua" in cmd
     assert any("/filters" in part for part in cmd)
-    assert "latex-+longtable" in cmd
+    assert "latex" in cmd
+    assert "--longtable" in cmd
 
 
 def test_build_pandoc_cmd_includes_filter():
@@ -29,7 +30,8 @@ def test_build_pandoc_cmd_includes_filter():
     )
     assert str(md_file) in cmd
     assert "--lua-filter=filter.lua" in cmd
-    assert "latex-+longtable" in cmd
+    assert "latex" in cmd
+    assert "--longtable" in cmd
 
 
 def test_landscape_lua_trailing_newline():
