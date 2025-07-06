@@ -16,7 +16,7 @@ version: "1.0"
 
 * 🏳️ **Offizieller Name:** Republik Litauen (Respublika Lietuva) ([Verfassung](https://www.lrs.lt/sip/portal.show?p_r=8804))
 * 🗺️ **Geografische Lage:** Nordeuropa, Ostseestaat, Grenze zu Lettland, Belarus, Polen, Russland (Kaliningrad) ([CIA Factbook](https://www.cia.gov/the-world-factbook/countries/lithuania/))
-* 👥 **Bevölkerung (2025):** 2 830 144 ([Worldometer](https://www.worldometers.info/world-population/lithuania-population/)) citeturn7search1
+* 👥 **Bevölkerung (2025):** 2 830 144 ([Worldometer](https://www.worldometers.info/world-population/lithuania-population/)) 
 * 🧠 **Regierungsform & Verfassungsstatus (2025):** Parlamentarische Republik, Verfassung von 1992 ([Seimas](https://www.lrs.lt/sip/portal.show?p_r=8804))
 * 📅 ERDA-Status: Mitglied
 * 🧭 **Rolle im ERDA-Netzwerk (Zukunft):** Digitalisierungs- und Innovationshub, Brückenbauer an Rand der EU
@@ -25,20 +25,20 @@ version: "1.0"
 
 ### 2. Demografie & Gesellschaft
 
-* **Bevölkerung (2050/2075-Prognose):** 2 258 774 (2050) ([WHO](https://data.who.int/countries/440)) citeturn7search3; ca. 1 900 000 (2075, UN WPP Mittelvariante) ([UN WPP](https://population.un.org/wpp/))
-* **Altersstruktur:** Medianalter 42,3 Jahre (2025) ([Worldometer](https://www.worldometers.info/world-population/lithuania-population/)) citeturn7search1; Jugendanteil (0–14 Jahre) 15,6 % (2024) ([Demographics wiki](https://en.wikipedia.org/wiki/Demographics_of_Lithuania)) citeturn7search10; Altenquotient (≥ 65 Jahre) 25,7 % (2024) citeturn7search10
-* **Urbanisierung:** 68,2 % (2025) ([Worldometer](https://www.worldometers.info/world-population/lithuania-population/)) citeturn7search1
+* **Bevölkerung (2050/2075-Prognose):** 2 258 774 (2050) ([WHO](https://data.who.int/countries/440)) ; ca. 1 900 000 (2075, UN WPP Mittelvariante) ([UN WPP](https://population.un.org/wpp/))
+* **Altersstruktur:** Medianalter 42,3 Jahre (2025) ([Worldometer](https://www.worldometers.info/world-population/lithuania-population/)) ; Jugendanteil (0–14 Jahre) 15,6 % (2024) ([Demographics wiki](https://en.wikipedia.org/wiki/Demographics_of_Lithuania)) ; Altenquotient (≥ 65 Jahre) 25,7 % (2024) 
+* **Urbanisierung:** 68,2 % (2025) ([Worldometer](https://www.worldometers.info/world-population/lithuania-population/)) 
 * **Bildung:** Durchschnittsjahre Schulbesuch 12,1 Jahre (UNDP HDI 2023) ([UNDP](https://hdr.undp.org/data-center/statistics)), MINT-Absolventen 26 % aller Hochschulabschlüsse (2023) ([EU STEM Observatory](https://stemobservatory.eu)), Hochschulquote 58,6 % (25–34 Jährige, 2023) ([Eurostat](https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_22/default/table?lang=en))
-* **Lebenserwartung:** 77,4 Jahre (2023) ([Demographics wiki](https://en.wikipedia.org/wiki/Demographics_of_Lithuania)) citeturn7search10
-* **Migrationssaldo:** –24 618 (netto-Migration 2025) ([Worldometer](https://www.worldometers.info/world-population/lithuania-population/)) citeturn7search1
-* **Soziale Kohäsion:** Lebenszufriedenheit 6,818/10 (World Happiness Index 2024, Rang 19) ([CountryEconomy](https://countryeconomy.com/demography/world-happiness-index/lithuania)) citeturn8search1; Demokratievertrauen: 31 % Vertrauen ins Parlament (Flash Eurobarometer 527, 2024)
+* **Lebenserwartung:** 77,4 Jahre (2023) ([Demographics wiki](https://en.wikipedia.org/wiki/Demographics_of_Lithuania)) 
+* **Migrationssaldo:** –24 618 (netto-Migration 2025) ([Worldometer](https://www.worldometers.info/world-population/lithuania-population/)) 
+* **Soziale Kohäsion:** Lebenszufriedenheit 6,818/10 (World Happiness Index 2024, Rang 19) ([CountryEconomy](https://countryeconomy.com/demography/world-happiness-index/lithuania)) ; Demokratievertrauen: 31 % Vertrauen ins Parlament (Flash Eurobarometer 527, 2024)
 
 ***
 
 ### 3. Wirtschaft & Innovation
 
-* **Bruttoinlandsprodukt (BIP, nominal 2024):** € 77,94 Mrd ([Wikipedia](https://en.wikipedia.org/wiki/Economy_of_Lithuania#Statistics)) citeturn9search0
-* **BIP pro Kopf (2024):** € 26 990 ([Baltic states wiki](https://en.wikipedia.org/wiki/Baltic_states#General_statistics)) citeturn9search11
+* **Bruttoinlandsprodukt (BIP, nominal 2024):** € 77,94 Mrd ([Wikipedia](https://en.wikipedia.org/wiki/Economy_of_Lithuania#Statistics)) 
+* **BIP pro Kopf (2024):** € 26 990 ([Baltic states wiki](https://en.wikipedia.org/wiki/Baltic_states#General_statistics)) 
 * **Schlüsselindustrien (Top‑3):** Maschinenbau; Nahrungsmittelverarbeitung; Chemische und petrochemische Erzeugnisse ([Economy wiki](https://en.wikipedia.org/wiki/Economy_of_Lithuania#Main_industries))
 * **Anteil Automatisierung & Digitalisierung:** DESI-Score 60,2/100 (Rang 7 EU, 2023) ([DESI 2023](https://digital-strategy.ec.europa.eu/en/policies/desi))
 * **Forschungs- und Innovationsquote:** 1,06 % des BIP (GERD 2022) ([Eurostat](https://ec.europa.eu/eurostat))
@@ -58,7 +58,7 @@ version: "1.0"
 
 #### 🌱 Natürliche Ressourcen:
 
-* **Land-/Meeresfläche:** 65 300 km² Land; Küstenlinie 90 km; EXZ: 11 000 km² ([Baltic states wiki](https://en.wikipedia.org/wiki/Baltic_states#General_statistics)) citeturn9search11
+* **Land-/Meeresfläche:** 65 300 km² Land; Küstenlinie 90 km; EXZ: 11 000 km² ([Baltic states wiki](https://en.wikipedia.org/wiki/Baltic_states#General_statistics)) 
 * **Strategische Rohstoffe:** Torf, Bernstein, Kalkstein, Kaolin ([Lithuania wiki](https://en.wikipedia.org/wiki/Lithuania#Natural_resources))
 * **Erneuerbare Energiepotenziale:** Onshore-Wind >5 GW, Solar-PV 1,2 GW (2023), Biomasse (SEIA) ([SEIA LT](https://www.sei.lt))
 * **Biodiversität & Schutzgebiete:** 17 % Fläche unter Schutz (Natura 2000 & Nationalparks) ([Protected Planet](https://www.protectedplanet.net/country/LTU))
@@ -164,17 +164,17 @@ Litauen positioniert sich als digital orientierter Ostseestaat mit wachsenden gr
 
 **Demografie & Gesellschaft**
 * UN World Population Prospects: https://population.un.org/wpp/
-* Worldometer: https://www.worldometers.info/world-population/lithuania-population/ citeturn7search1
+* Worldometer: https://www.worldometers.info/world-population/lithuania-population/ 
 
 **Wirtschaft & Innovation**
-* Wikipedia „Economy of Lithuania“: https://en.wikipedia.org/wiki/Economy_of_Lithuania#Statistics citeturn9search0
+* Wikipedia „Economy of Lithuania“: https://en.wikipedia.org/wiki/Economy_of_Lithuania#Statistics 
 * Digital Economy and Society Index: https://digital-strategy.ec.europa.eu/en/policies/desi
 
 **Soziales & Bildung**
 * UNDP Human Development Reports, UNESCO & Eurostat
 
 **Gesundheit & Lebenserwartung**
-* WHO Data: https://data.who.int/countries/440 citeturn7search3
+* WHO Data: https://data.who.int/countries/440 
 
 **Innovation & Patente**
 * WIPO Country Profile: https://www.wipo.int/edocs/statistics-country-profile/en/lt.pdf

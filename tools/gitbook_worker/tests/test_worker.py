@@ -9,7 +9,7 @@ class DummyResponse:
 
 
 def test_run_success():
-    out, err, code = run("echo hello", capture_output=True)
+    out, err, code = run(["echo", "hello"], capture_output=True)
     assert code == 0
     assert "hello" in out
 
