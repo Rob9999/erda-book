@@ -13,7 +13,7 @@ def test_build_docker_pandoc_cmd_includes_filter(tmp_path):
         combined_md=str(tmp_path / "file.md"),
         pdf_output=str(tmp_path / "out.pdf"),
         header_file=str(tmp_path / "header.tex"),
-        filter_path=str(tmp_path / "landscape.lua"),
+        filter_paths=[str(tmp_path / "landscape.lua")],
     )
     assert "--lua-filter=/filters/landscape.lua" in cmd
     assert any("/filters" in part for part in cmd)
@@ -27,7 +27,7 @@ def test_build_pandoc_cmd_includes_filter():
         pdf_output="out.pdf",
         resource_path=".",
         header_file="header.tex",
-        filter_path="filter.lua",
+        filter_paths=["filter.lua"],
         extra_args=None,
     )
     assert str(md_file) in cmd

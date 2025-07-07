@@ -94,6 +94,11 @@ def main():
         help="Wrap tables wider than a threshold in a landscape environment.",
     )
     parser.add_argument(
+        "--disable-longtable",
+        action="store_true",
+        help="Disable LaTeX longtable output from pandoc.",
+    )
+    parser.add_argument(
         "--table-threshold",
         type=int,
         default=6,
@@ -331,6 +336,7 @@ def main():
                     args.wrap_wide_tables,
                     args.table_threshold,
                     combined_md,
+                    disable_longtable=args.disable_longtable,
                 )
             except Exception as e:
                 logging.error("Failed to write pandoc header tex file: %s", e)
@@ -344,12 +350,16 @@ def main():
                             wide_tables = True
                 except Exception as e:
                     logging.error("Failed to inspect markdown for wide tables: %s", e)
-            filter_path = (
-                os.path.join(os.path.dirname(__file__), "landscape.lua")
-                if args.wrap_wide_tables
-                else ""
-            )
-            if wide_tables and filter_path:
+            filter_paths = []
+            if args.wrap_wide_tables:
+                filter_paths.append(
+                    os.path.join(os.path.dirname(__file__), "landscape.lua")
+                )
+            if args.disable_longtable:
+                filter_paths.append(
+                    os.path.join(os.path.dirname(__file__), "no-longtable.lua")
+                )
+            if wide_tables and args.wrap_wide_tables:
                 logging.info("Converting tables to ltablex via landscape.lua")
             docker_cmd = build_docker_pandoc_cmd(
                 out_dir,
@@ -358,18 +368,22 @@ def main():
                 combined_md,
                 pdf_output,
                 header_file,
-                filter_path,
+                filter_paths,
             )
             logging.info("Docker command: %s", docker_cmd)
             out, err, code = run_pandoc(docker_cmd)
         else:
             # Non-Docker workflow
             logging.info("Building PDF with Pandoc...")
-            filter_path = (
-                os.path.join(os.path.dirname(__file__), "landscape.lua")
-                if args.wrap_wide_tables
-                else ""
-            )
+            filter_paths = []
+            if args.wrap_wide_tables:
+                filter_paths.append(
+                    os.path.join(os.path.dirname(__file__), "landscape.lua")
+                )
+            if args.disable_longtable:
+                filter_paths.append(
+                    os.path.join(os.path.dirname(__file__), "no-longtable.lua")
+                )
             version = get_pandoc_version()
             logging.info("Detected pandoc version: %s", ".".join(map(str, version)))
             logging.info("Preparing pandoc header tex file...")
@@ -386,6 +400,7 @@ def main():
                         args.table_threshold,
                         combined_md,
                         write_mainfont=False,
+                        disable_longtable=args.disable_longtable,
                     )
                 except Exception as e:
                     logging.error("Failed to write pandoc header tex file: %s", e)
@@ -412,6 +427,7 @@ def main():
                         args.wrap_wide_tables,
                         args.table_threshold,
                         combined_md,
+                        disable_longtable=args.disable_longtable,
                     )
                 except Exception as e:
                     logging.error("Failed to write pandoc header tex file: %s", e)
@@ -426,14 +442,14 @@ def main():
                             wide_tables = True
                 except Exception as e:
                     logging.error("Failed to inspect markdown for wide tables: %s", e)
-            if wide_tables and filter_path:
+            if wide_tables and args.wrap_wide_tables:
                 logging.info("Converting tables to ltablex via landscape.lua")
             pandoc_cmd = build_pandoc_cmd(
                 combined_md,
                 pdf_output,
                 clone_dir,
                 header_file,
-                filter_path,
+                filter_paths,
                 extra,
             )
             out, err, code = run_pandoc(pandoc_cmd)

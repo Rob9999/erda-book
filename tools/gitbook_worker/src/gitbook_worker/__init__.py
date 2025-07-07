@@ -94,3 +94,10 @@ def validate_metadata(md_files):
 def spellcheck(repo_dir: str):
     """Run codespell to check for common spelling mistakes."""
     return run(["codespell", "-q", "3"], cwd=repo_dir, capture_output=True)
+
+# Compatibility shim so tests can import "gitbook_worker.src.gitbook_worker".
+import types
+if "gitbook_worker.src.gitbook_worker" not in sys.modules:
+    src_pkg = types.ModuleType("gitbook_worker.src")
+    sys.modules["gitbook_worker.src"] = src_pkg
+    sys.modules["gitbook_worker.src.gitbook_worker"] = sys.modules[__name__]
