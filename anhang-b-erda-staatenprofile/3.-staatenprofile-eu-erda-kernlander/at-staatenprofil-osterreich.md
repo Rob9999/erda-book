@@ -103,7 +103,7 @@ version: "1.0"
 * **Zivile Resilienzprogramme:** Teilweise (EU-Katastrophenschutzmechanismus)
 * **Drohnen-/Raumfahrt-/KI-Kapazitäten:** Pilotprojekte (2025)
 
-***
+### 6. Kulturelle Identität & Soft Power
 
 ### 6. Kulturelle Identität & Soft Power
 
@@ -217,5 +217,6 @@ Autor: Robert Alexander Massinger
 Kontakt: [robert.alexander.massinger@outlook.de](mailto:robert.alexander.massinger@outlook.de)
 Letzte Änderung: 2025-06-09
 
-Kontakt: [robert.alexander.massinger@outlook.de](mailto:robert.alexander.massinger@outlook.de)\
+Kontakt: [robert.alexander.massinger@outlook.de](mailto:robert.alexander.massinger@outlook.de)
+\
 Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)

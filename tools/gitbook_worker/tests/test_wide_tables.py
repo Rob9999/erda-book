@@ -71,7 +71,6 @@ def test_landscape_longtable(tmp_path):
         str(md),
         "-t",
         "latex",
-        "--longtable",
         "--lua-filter",
         str(filter_path),
         "-H",
