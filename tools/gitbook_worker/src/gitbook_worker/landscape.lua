@@ -32,14 +32,16 @@ function Div(el)
     end
 
     local doc = pandoc.Pandoc(el.content)
-    local latex = pandoc.write(doc, 'latex', PANDOC_WRITER_OPTIONS)
+    local latex = pandoc.write(doc, 'latex')
 
     -- longtable oder tabular durch ltablex ersetzen
-    latex = latex:gsub('\\begin{longtable}{([^}]+)}', function(spec)
-      return '\\begin{ltablex}{\\linewidth}{' .. to_X_spec(spec) .. '}'
+    latex = latex:gsub('\\begin{longtable}(%b[])?%s*{([^}]+)}', function(opt, spec)
+      opt = opt or ''
+      return '\\begin{ltablex' .. opt .. '{\\linewidth}{' .. to_X_spec(spec) .. '}'
     end)
-    latex = latex:gsub('\\begin{tabular}{([^}]+)}', function(spec)
-      return '\\begin{ltablex}{\\linewidth}{' .. to_X_spec(spec) .. '}'
+    latex = latex:gsub('\\begin{tabular}(%b[])?%s*{([^}]+)}', function(opt, spec)
+      opt = opt or ''
+      return '\\begin{ltablex' .. opt .. '{\\linewidth}{' .. to_X_spec(spec) .. '}'
     end)
 
     latex = latex:gsub('\\end{longtable}', '\\end{ltablex}')
