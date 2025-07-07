@@ -178,3 +178,12 @@ gitbook-worker ... \
   --disable-longtable \
   --pdf "out.pdf"
 ```
+
+### 5. `--disable-longtable` mit `--wrap-wide-tables`
+
+Wenn Sie `--wrap-wide-tables` einsetzen, erzeugt Pandoc trotz der Rotation
+teilweise eine `longtable`-Umgebung. In Verbindung mit bestimmten
+LaTeX-Konfigurationen kann dies zusammen mit `ltablex` und `pdflscape`
+zu Abstürzen führen. Aktivieren Sie daher zusätzlich
+`--disable-longtable`, um `longtable` in ein einfaches `tabular`
+zu verwandeln und solche Probleme zu vermeiden.
