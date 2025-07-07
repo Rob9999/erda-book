@@ -303,8 +303,12 @@ def _write_pandoc_header(
     threshold: int,
     md_file: str,
     write_mainfont: bool = True,
+    disable_longtable: bool = False,
 ) -> str:
-    """Create a temporary pandoc header file and optionally wrap wide tables.
+    """Create a temporary pandoc header file.
+
+    Wide tables can be wrapped when ``wrap_tables`` is ``True`` and the
+    ``longtable`` environment can be disabled with ``disable_longtable``.
 
     ``write_mainfont`` controls whether a ``\setmainfont`` command is written
     to the header. This is useful for pandoc ``>= 3.1.12`` where the main font
@@ -346,6 +350,14 @@ def _write_pandoc_header(
                 hf.write("\\usepackage{tabularx}\n")
                 hf.write("\\keepXColumns\n")
                 logging.info("Wide tables wrapped successfully.")
+            if disable_longtable:
+                hf.write("\\let\\oldlongtable\\longtable\n")
+                hf.write("\\let\\oldendlongtable\\endlongtable\n")
+                hf.write("\\renewenvironment{longtable}[1]{%\n")
+                hf.write("  \\begin{tabular}{#1}%\n")
+                hf.write("}{%\n")
+                hf.write("  \\end{tabular}%\n")
+                hf.write("}\n")
     except Exception as e:
         logging.error("Failed to write pandoc header tex file: %s", e)
         raise

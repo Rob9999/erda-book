@@ -11,9 +11,9 @@ def build_docker_pandoc_cmd(
     combined_md: str,
     pdf_output: str,
     header_file: str,
-    filter_path: str,
+    filter_paths: list[str] | None,
 ) -> list[str]:
-    """Return the Docker command to run pandoc with the landscape filter."""
+    """Return the Docker command to run pandoc with optional Lua filters."""
     abs_out_dir = os.path.abspath(out_dir)
     abs_temp_dir = os.path.abspath(temp_dir)
     abs_clone_dir = os.path.abspath(clone_dir)
@@ -37,8 +37,9 @@ def build_docker_pandoc_cmd(
         "-v",
         f"{abs_clone_dir}:{docker_clone_dir}",
     ]
-    if filter_path:
-        cmd += ["-v", f"{os.path.dirname(filter_path)}:/filters"]
+    if filter_paths:
+        for p in filter_paths:
+            cmd += ["-v", f"{os.path.dirname(p)}:/filters"]
     cmd += [
         "erda-pandoc",
         docker_combined_md,
@@ -56,8 +57,9 @@ def build_docker_pandoc_cmd(
         "-H",
         docker_header_file,
     ]
-    if filter_path:
-        cmd.append(f"--lua-filter=/filters/{os.path.basename(filter_path)}")
+    if filter_paths:
+        for p in filter_paths:
+            cmd.append(f"--lua-filter=/filters/{os.path.basename(p)}")
     return cmd
 
 
@@ -66,10 +68,10 @@ def build_pandoc_cmd(
     pdf_output: str,
     resource_path: str,
     header_file: str,
-    filter_path: str,
+    filter_paths: list[str] | None,
     extra_args: list[str] | None = None,
 ) -> list[str]:
-    """Return the pandoc command for local execution."""
+    """Return the pandoc command for local execution with optional Lua filters."""
     cmd = [
         "pandoc",
         combined_md,
@@ -86,9 +88,10 @@ def build_pandoc_cmd(
     ]
     if extra_args:
         cmd.extend(extra_args)
-    args = [f"--resource-path={resource_path}", "-H", header_file]
-    if filter_path:
-        args.insert(0, f"--lua-filter={filter_path}")
+    args = []
+    if filter_paths:
+        args.extend(f"--lua-filter={p}" for p in filter_paths)
+    args.extend([f"--resource-path={resource_path}", "-H", header_file])
     cmd.extend(args)
     return cmd
 

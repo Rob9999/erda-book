@@ -131,7 +131,8 @@ gitbook-worker --help
 ### 4. Longtable-Ausgabe verhindern
 
 Erstellen Sie eine Datei `pandoc_header.tex` mit folgenden Befehlen und binden
-Sie zusätzlich den Lua-Filter `no-longtable.lua` ein:
+Sie zusätzlich den Lua-Filter `no-longtable.lua` ein. Alternativ genügt der
+neue Schalter `--disable-longtable`:
 
 ```latex
 % pandoc_header.tex
@@ -168,11 +169,12 @@ pandoc combined.md -o output.pdf \
   -H pandoc_header.tex --lua-filter=no-longtable.lua
 ```
 
-In `gitbook-worker` fügen Sie die Optionen analog hinzu:
+In `gitbook-worker` können Sie die Option `--disable-longtable` verwenden, um
+dieses Verhalten automatisch zu aktivieren. Der Lua-Filter und der Header werden
+intern eingebunden:
 
 ```bash
 gitbook-worker ... \
-  --lua-filter=/path/to/no-longtable.lua \
-  -H /path/to/pandoc_header.tex \
+  --disable-longtable \
   --pdf "out.pdf"
 ```
