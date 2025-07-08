@@ -349,6 +349,8 @@ def _write_pandoc_header(
                 hf.write("\\usepackage{ltablex}\n")
                 hf.write("\\usepackage{tabularx}\n")
                 hf.write("\\keepXColumns\n")
+                hf.write("\\renewcommand\\_\\{\\textunderscore\\allowbreak\\}\n")
+                hf.write("\\setlength{\\tabcolsep}{4pt}\n")
                 logging.info("Wide tables wrapped successfully.")
             if disable_longtable:
                 hf.write("\\let\\oldlongtable\\longtable\n")

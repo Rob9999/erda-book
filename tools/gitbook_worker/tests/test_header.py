@@ -52,6 +52,8 @@ def test_write_pandoc_header_wrap_tables(tmp_path, monkeypatch):
     assert "\\usepackage{ltablex}" in content
     assert "\\IfFontExistsTF{Segoe UI Emoji}" in content
     assert 'luaotfload.add_fallback("mainfont", "Segoe UI Emoji:mode=harf")' in content
+    assert "\\renewcommand\\_\\{\\textunderscore\\allowbreak\\}" in content
+    assert "\\setlength{\\tabcolsep}{4pt}" in content
 
 
 def test_write_pandoc_header_no_emoji(tmp_path):
