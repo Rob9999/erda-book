@@ -105,6 +105,12 @@ def main():
         help="Number of columns considered wide for --wrap-wide-tables.",
     )
     parser.add_argument(
+        "--table-char-threshold",
+        type=int,
+        default=72,
+        help="Maximum table line width for --wrap-wide-tables.",
+    )
+    parser.add_argument(
         "--main-font",
         type=str,
         default="DejaVu Serif",
@@ -336,6 +342,7 @@ def main():
                     args.wrap_wide_tables,
                     args.table_threshold,
                     combined_md,
+                    args.table_char_threshold,
                     disable_longtable=args.disable_longtable,
                 )
             except Exception as e:
@@ -399,6 +406,7 @@ def main():
                         args.wrap_wide_tables,
                         args.table_threshold,
                         combined_md,
+                        args.table_char_threshold,
                         write_mainfont=False,
                         disable_longtable=args.disable_longtable,
                     )
@@ -427,6 +435,7 @@ def main():
                         args.wrap_wide_tables,
                         args.table_threshold,
                         combined_md,
+                        args.table_char_threshold,
                         disable_longtable=args.disable_longtable,
                     )
                 except Exception as e:
