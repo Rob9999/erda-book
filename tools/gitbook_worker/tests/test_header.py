@@ -30,9 +30,10 @@ def test_write_pandoc_header_wrap_tables(tmp_path, monkeypatch):
     md.write_text("|A|B|C|D|E|F|G|\n|--|--|--|--|--|--|--|\n|1|2|3|4|5|6|7|\n")
     called = {}
 
-    def fake_wrap(md_file, threshold, use_raw_latex=False):
+    def fake_wrap(md_file, threshold, char_threshold=72, use_raw_latex=False):
         called["md"] = md_file
         called["th"] = threshold
+        called["ch"] = char_threshold
         called["raw"] = use_raw_latex
 
     monkeypatch.setattr("gitbook_worker.utils.wrap_wide_tables", fake_wrap)
@@ -46,7 +47,7 @@ def test_write_pandoc_header_wrap_tables(tmp_path, monkeypatch):
         5,
         str(md),
     )
-    assert called == {"md": str(md), "th": 5, "raw": False}
+    assert called == {"md": str(md), "th": 5, "ch": 72, "raw": False}
     content = open(header, encoding="utf-8").read()
     assert "\\usepackage{pdflscape}" in content
     assert "\\usepackage{ltablex}" in content

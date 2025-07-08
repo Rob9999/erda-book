@@ -109,7 +109,11 @@ def readability_report(md_files):
 
 
 def wrap_wide_tables(
-    md_file: str, threshold: int = 6, use_raw_latex: bool = False, margin: str = "1cm"
+    md_file: str,
+    threshold: int = 6,
+    char_threshold: int = 72,
+    use_raw_latex: bool = False,
+    margin: str = "1cm",
 ) -> None:
     """
     Wrap wide markdown tables in a fenced Div with class `landscape` or
@@ -117,7 +121,8 @@ def wrap_wide_tables(
     `use_raw_latex=True`.
 
     - Consecutive lines starting with `|` are considered a table.
-    - If the table has more columns than `threshold`, it's wrapped.
+    - If the table has more columns than ``threshold`` or any line
+      exceeds ``char_threshold`` characters, it is wrapped.
     - Optionally, raw LaTeX blocks for geometry and adjustbox can be used.
     """
     try:
@@ -136,7 +141,8 @@ def wrap_wide_tables(
         if not cols:
             return table
         max_cols = max(cols)
-        if max_cols <= threshold:
+        max_width = max(len(l.rstrip("\n")) for l in table)
+        if max_cols <= threshold and max_width <= char_threshold:
             return table
         if not use_raw_latex:
             return [f"::: {{.landscape cols={max_cols}}}\n"] + table + [":::\n"]
@@ -302,6 +308,7 @@ def _write_pandoc_header(
     wrap_tables: bool,
     threshold: int,
     md_file: str,
+    char_threshold: int = 72,
     write_mainfont: bool = True,
     disable_longtable: bool = False,
 ) -> str:
@@ -313,6 +320,9 @@ def _write_pandoc_header(
     ``write_mainfont`` controls whether a ``\setmainfont`` command is written
     to the header. This is useful for pandoc ``>= 3.1.12`` where the main font
     can be supplied via ``-V mainfont=...``.
+
+    ``char_threshold`` specifies the maximum line width for a table before it
+    gets wrapped.
 
     Returns the path to the created header file."""
 
@@ -344,7 +354,12 @@ def _write_pandoc_header(
                     )
             if wrap_tables:
                 logging.info("Wrapping wide tables in landscape environment...")
-                wrap_wide_tables(md_file, threshold=threshold, use_raw_latex=False)
+                wrap_wide_tables(
+                    md_file,
+                    threshold=threshold,
+                    char_threshold=char_threshold,
+                    use_raw_latex=False,
+                )
                 hf.write("\\usepackage{pdflscape}\n")
                 hf.write("\\usepackage{ltablex}\n")
                 hf.write("\\usepackage{tabularx}\n")
