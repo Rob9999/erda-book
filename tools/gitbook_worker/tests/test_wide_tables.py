@@ -26,6 +26,16 @@ def test_wrap_wide_tables_ignores_narrow(tmp_path):
     assert ":::" not in text
 
 
+def test_wrap_wide_tables_long_lines(tmp_path):
+    md = tmp_path / "longline.md"
+    long_text = "A" * 50
+    md.write_text(f"|Col1|Col2|\n|--|--|\n|{long_text}|b|\n")
+    wrap_wide_tables(str(md), threshold=5, char_threshold=20)
+    text = md.read_text()
+    assert text.startswith("::: {.landscape cols=2}\n")
+    assert text.strip().endswith(":::")
+
+
 @pytest.mark.skipif(shutil.which("pandoc") is None, reason="pandoc not installed")
 def test_wrap_wide_tables_html(tmp_path):
     md = tmp_path / "html.md"
