@@ -1,0 +1,35 @@
+name: STEP and glTF CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  export-and-test:
+    runs-on: ubuntu-latest
+    container:
+      image: ghcr.io/robert2100-08-16/sphere-space-new-horizons-ubuntu-workflow-workbench:latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate geometry files
+        run: |
+          python -m simulations.sphere_space_station_simulations.simulation \
+            --export-step station.step \
+            --export-gltf station.glb \
+            --export-json station.json
+      - name: Verify glTF
+        run: |
+          python - <<'PY'
+          from pygltflib import GLTF2
+          GLTF2().load('station.glb')
+          PY
+      - name: Run tests
+        run: pytest -q
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: geometry
+          path: |
+            station.step
+            station.glb
+            station.json

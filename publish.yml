@@ -1,0 +1,11 @@
+publish:
+  - path: ./ # Path to the document(s) or book or file root to convert
+    out_format: pdf # Output format (can be 'pdf', 'epub', 'mobi', 'html', 'docx', 'odt', 'rtf', 'txt')
+    out_dir: ./publish # Output directory
+    out: das-erda-buch.pdf # Output file name
+    source_type: folder # Type of the source (can be 'folder' or single 'file')
+    source_format: markdown # Format of the source files (can be 'markdown' or 'asciidoc')
+    use_summary: true # Whether to use SUMMARY.md for ordering (only for markdown source_type folder)
+    use_book_json: true # Whether to use book.json for ordering (only for markdown source)
+    keep_combined: true # Whether to keep the combined intermediate file (only for markdown source_type folder)
+    build: true # Whether to build the output or not

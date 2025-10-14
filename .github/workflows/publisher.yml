@@ -1,0 +1,81 @@
+name: Selective Publish to PDF
+
+on:
+  workflow_call:
+  workflow_dispatch:
+
+jobs:
+  selective-publish:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      packages: read
+    outputs:
+      built_count: ${{ steps.publish.outputs.built_count }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: ${{ github.ref }}
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v2
+
+      - name: Cache Docker layers
+        uses: actions/cache@v3
+        with:
+          path: /tmp/.buildx-cache
+          key: ${{ runner.os }}-buildx-${{ github.sha }}
+          restore-keys: |
+            ${{ runner.os }}-buildx-
+
+      - name: Build and cache publishing Docker image
+        uses: docker/build-push-action@v4
+        with:
+          context: .
+          file: .github/tools/docker/Dockerfile
+          push: false
+          load: true
+          tags: sphere-space-publisher:latest
+          cache-from: type=local,src=/tmp/.buildx-cache
+          cache-to: type=local,dest=/tmp/.buildx-cache-new,mode=max
+          target: publisher
+
+      - name: Move cache
+        run: |
+          rm -rf /tmp/.buildx-cache
+          mv /tmp/.buildx-cache-new /tmp/.buildx-cache
+
+      - name: Run publisher in Docker
+        id: publish
+        run: |
+          docker run --rm \
+            -v ${PWD}:/workspace \
+            -e PYTHONPATH=/workspace/.github/tools \
+            -e GITHUB_OUTPUT=${GITHUB_OUTPUT} \
+            sphere-space-publisher:latest \
+            bash -c "cd /workspace/docs/public && python ../../.github/tools/publishing/publisher.py"
+
+      - name: Commit and push generated PDFs
+        if: steps.publish.outputs.built_count != '0'
+        env:
+          MANIFEST: ${{ steps.publish.outputs.manifest }}
+        working-directory: docs/public
+        run: |
+          if [ -n "$(git status --porcelain publish $MANIFEST)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add publish "$MANIFEST"
+            git commit -m "chore: selective publish → PDF (auto)"
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push origin HEAD:"${GITHUB_REF_NAME}"
+          fi
+
+  publish_docs_publish_subtree:
+    needs: selective-publish
+    if: needs.selective-publish.outputs.built_count != '0'
+    uses: ./.github/workflows/publish-docs-publish-subtree.yml
+    secrets: inherit
