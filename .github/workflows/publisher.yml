@@ -57,18 +57,19 @@ jobs:
             -e PYTHONPATH=/workspace/.github/tools \
             -e GITHUB_OUTPUT=${GITHUB_OUTPUT} \
             sphere-space-publisher:latest \
-            bash -c "cd /workspace/docs/public && python ../../.github/tools/publishing/publisher.py"
+            bash -c "cd /workspace && python .github/tools/publishing/pipeline.py --manifest publish.yml --reset-others"
 
       - name: Commit and push generated PDFs
         if: steps.publish.outputs.built_count != '0'
         env:
           MANIFEST: ${{ steps.publish.outputs.manifest }}
-        working-directory: docs/public
         run: |
-          if [ -n "$(git status --porcelain publish $MANIFEST)" ]; then
+          manifest="$MANIFEST"
+          status=$(git status --porcelain publish "$manifest")
+          if [ -n "$status" ]; then
             git config user.name "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"
-            git add publish "$MANIFEST"
+            git add publish "$manifest"
             git commit -m "chore: selective publish → PDF (auto)"
             git pull --rebase origin "${GITHUB_REF_NAME}"
             git push origin HEAD:"${GITHUB_REF_NAME}"

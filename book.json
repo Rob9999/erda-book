@@ -1,4 +1,11 @@
 {
   "title": "Das ERDA Buch",
-  "root": "./"
+  "author": "ERDA Initiative",
+  "language": "de",
+  "description": "Ganzheitliches Konzept zur demokratischen Resilienz Europas.",
+  "root": "./",
+  "structure": {
+    "readme": "README.md",
+    "summary": "SUMMARY.md"
+  }
 }

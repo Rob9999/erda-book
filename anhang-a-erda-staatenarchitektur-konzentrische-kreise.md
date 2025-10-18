@@ -58,7 +58,7 @@ Diese Länder erfüllen bereits alle ERDA-Standards, bringen robuste Institution
 | Andorra                | AD  | Hoch           | Stabil                 | Bereits ERDA-kompatibel                        | Tourismus, Finanzen      | Assoziiert           | 🟢 Ja               | Alpenbrücke zwischen Spanien und Frankreich      |
 | Island                 | IS  | Hoch           | Stabil                 | Arktisstrategie, Energieautarkie               | Arktis, Biodiversität    | Assoziiert           | 🟢 Ja               | Brückenstaat für Nordmeerräume                   |
 | Liechtenstein          | LI  | Hoch           | Stabil                 | Bereits ERDA-kompatibel                        | Finanzmarkt, Industrie   | Assoziiert           | 🟢 Ja               | Hochinnovatives Kleinstaatenmodell               |
-| Malta                  | MT  | Hoch           | Stabil                 | Voll demokratisch                              | Migration, Justiz        | Assoziiert           | 🟢 Ja               | Zugang zu Afrika & MENA-Raum                     |
+| Malta                  | MT  | Hoch           | Stabil                 | Voll demokratisch                              | Migration, Justiz        | Assoziiert           | 🟢 Ja               | Zugang zu Afrika- und MENA-Raum                  |
 | Monaco                 | MC  | Hoch           | Stabil                 | Bereits ERDA-kompatibel                        | Finanzen, Kultur         | Assoziiert           | 🟢 Ja               | Finanzplatz mit hoher internationaler Vernetzung |
 | Norwegen               | NO  | Hoch           | Stabil                 | Bereits ERDA-kompatibel                        | Arktis, Energie          | Assoziiert           | 🟢 Ja               | Vorbildstaat                                     |
 | San Marino             | SM  | Hoch           | Stabil                 | Bereits ERDA-kompatibel                        | Tourismus, Kultur        | Assoziiert           | 🟢 Ja               | Älteste Republik Europas                         |
@@ -103,7 +103,7 @@ Nicht politisch integrierte Demokratien mit sicherheitspolitischer und innovatio
 
 | Staat      | ISO-Code | Anbindungsschwerpunkt                   |
 | ---------- | -------- | --------------------------------------- |
-| Kanada     | 🇨🇦 CA  | Arktis & Transatlantik                  |
+| Kanada     | 🇨🇦 CA  | Arktis- und Transatlantik               |
 | Australien | 🇦🇺 AU  | Indo-Pazifik-Raum                       |
 | Neuseeland | 🇳🇿 NZ  | Indo-Pazifik-Raum                       |
 | Japan      | 🇯🇵 JP  | Technologiepartnerschaft                |
@@ -111,9 +111,9 @@ Nicht politisch integrierte Demokratien mit sicherheitspolitischer und innovatio
 | Chile      | 🇨🇱 CL  | Rohstoffpartnerschaft                   |
 | Costa Rica | 🇨🇷 CR  | Demokratiepartnerschaft                 |
 | Uruguay    | 🇺🇾 UY  | Demokratiepartnerschaft                 |
-| Namibia    | 🇳🇦 NA  | Rohstoff- & Demokratiepartnerschaft     |
+| Namibia    | 🇳🇦 NA  | Rohstoff- und Demokratiepartnerschaft   |
 | Indien     | 🇮🇳 IN  | Perspektivische Demokratiepartnerschaft |
-| Taiwan     | 🇹🇼 TW  | Technologie & Demokratie                |
+| Taiwan     | 🇹🇼 TW  | Technologie und Demokratie               |
 | Senegal    | 🇸🇳 SN  | Demokratiepartnerschaft                 |
 
 ***

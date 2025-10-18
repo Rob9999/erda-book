@@ -49,8 +49,8 @@ ALIASES = {
     "din a4": "a4",
     "iso a4": "a4",
     "a4p": "a4",
-    "a4l": "a4",
     "a4portrait": "a4",
+    "a4l": "a4",
     "a4landscape": "a4",
 }
 
@@ -192,6 +192,7 @@ def get_valid_paper_measurements(
     Considers ``-landscape`` or ``-portrait`` suffixes in ``paper`` to set orientation.
     Returns: PaperInfo
     """
+    paper_lower = paper.lower() if paper else None
     correct_paper_name = _check_alias(paper)
     # if paper is None, check size_mm
     if not paper and size_mm:
@@ -246,16 +247,16 @@ def get_valid_paper_measurements(
             )
 
     # check for landscape/portrait suffix
-    if paper and paper.lower().endswith("-landscape"):
+    if paper_lower and paper_lower.endswith("-landscape"):
         landscape = True
         paper = paper[: -len("-landscape")]  # remove '-landscape'
-    elif paper and paper.lower().endswith("landscape"):
+    elif paper_lower and paper_lower.endswith("landscape"):
         landscape = True
         paper = paper[: -len("landscape")]  # remove 'landscape'
-    elif paper and paper.lower().endswith("-portrait"):
+    elif paper_lower and paper_lower.endswith("-portrait"):
         landscape = False
         paper = paper[: -len("-portrait")]  # remove '-portrait'
-    elif paper and paper.lower().endswith("portrait"):
+    elif paper_lower and paper_lower.endswith("portrait"):
         landscape = False
         paper = paper[: -len("portrait")]  # remove 'portrait'
     # prioritize standard paper if requested
@@ -263,7 +264,13 @@ def get_valid_paper_measurements(
     # get correct paper code
     correct_paper_name = _check_alias(paper)
     # first try to find standard paper
-    paper_info = PAPER_INFOS.get(correct_paper_name, None)
+    preferred_key = correct_paper_name
+    if landscape and correct_paper_name:
+        landscape_key = f"{correct_paper_name}-landscape"
+        if landscape_key in PAPER_INFOS:
+            preferred_key = landscape_key
+
+    paper_info = PAPER_INFOS.get(preferred_key, None)
     if paper_info and standard:
         return paper_info
     # then try matching standard paper with correct orientation

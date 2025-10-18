@@ -1,4 +1,5 @@
 import json
+from pathlib import Path
 
 import yaml
 from tools.publishing import publisher
@@ -15,7 +16,18 @@ def test_get_publish_list(monkeypatch, tmp_path):
     manifest = tmp_path / "publish.yml"
     data = {
         "publish": [
-            {"path": "a.md", "out": "a.pdf", "build": True, "type": "file"},
+            {
+                "path": "a.md",
+                "out": "a.pdf",
+                "out_dir": "publish",
+                "out_format": "PDF",
+                "build": True,
+                "source_type": "FOLDER",
+                "source_format": "Markdown",
+                "use_summary": "true",
+                "use_book_json": True,
+                "keep_combined": 1,
+            },
             {"path": "b.md", "out": "b.pdf", "build": False},
         ]
     }
@@ -34,9 +46,13 @@ def test_get_publish_list(monkeypatch, tmp_path):
         {
             "path": "a.md",
             "out": "a.pdf",
-            "type": "file",
-            "use_summary": False,
-            "keep_combined": False,
+            "out_dir": "publish",
+            "out_format": "pdf",
+            "source_type": "folder",
+            "source_format": "markdown",
+            "use_summary": True,
+            "use_book_json": True,
+            "keep_combined": True,
         }
     ]
 
@@ -126,3 +142,73 @@ def test_convert_folder_landscape_enabled(tmp_path, monkeypatch):
     opts = "\n".join(meta.get("geometry", []))
     assert "paperwidth=297mm" in opts
     assert "paperheight=210mm" in opts
+def test_build_pdf_reads_uppercase_summary(tmp_path, monkeypatch):
+    folder = tmp_path / "book"
+    folder.mkdir()
+    (folder / "a.md").write_text("A", encoding="utf-8")
+    (folder / "b.md").write_text("B", encoding="utf-8")
+    (folder / "SUMMARY.md").write_text(
+        "* [A](a.md)\n* [B](b.md)\n", encoding="utf-8"
+    )
+
+    captured: dict[str, list[str]] = {}
+
+    def fake_combine(files, paper_format="a4"):
+        captured["files"] = [Path(f).name for f in files]
+        return "---\n---\n"
+
+    monkeypatch.setattr(publisher, "combine_markdown", fake_combine)
+    monkeypatch.setattr(publisher, "add_geometry_package", lambda text, paper_format="a4": text)
+    monkeypatch.setattr(publisher, "_run_pandoc", lambda *args, **kwargs: None)
+
+    publish_dir = tmp_path / "out"
+    publisher.build_pdf(
+        path=str(folder),
+        out="out.pdf",
+        typ="folder",
+        use_summary=True,
+        publish_dir=str(publish_dir),
+    )
+
+    assert captured["files"] == ["a.md", "b.md"]
+
+
+def test_build_pdf_refreshes_summary_from_book_json(tmp_path, monkeypatch):
+    folder = tmp_path / "book"
+    folder.mkdir()
+    (folder / "README.md").write_text("# Root", encoding="utf-8")
+    (folder / "chapter.md").write_text("# Chapter", encoding="utf-8")
+    (folder / "book.json").write_text(
+        json.dumps(
+            {
+                "title": "Demo",
+                "root": ".",
+                "structure": {"summary": "SUMMARY.md"},
+            }
+        ),
+        encoding="utf-8",
+    )
+    # outdated summary pointing to non-existing file
+    (folder / "SUMMARY.md").write_text("* [Old](old.md)\n", encoding="utf-8")
+
+    captured: dict[str, list[str]] = {}
+
+    def fake_combine(files, paper_format="a4"):
+        captured["files"] = [Path(f).name for f in files]
+        return "---\n---\n"
+
+    monkeypatch.setattr(publisher, "combine_markdown", fake_combine)
+    monkeypatch.setattr(publisher, "add_geometry_package", lambda text, paper_format="a4": text)
+    monkeypatch.setattr(publisher, "_run_pandoc", lambda *args, **kwargs: None)
+
+    publish_dir = tmp_path / "out"
+    publisher.build_pdf(
+        path=str(folder),
+        out="book.pdf",
+        typ="folder",
+        use_summary=False,
+        use_book_json=True,
+        publish_dir=str(publish_dir),
+    )
+
+    assert captured["files"] == ["README.md", "chapter.md"]

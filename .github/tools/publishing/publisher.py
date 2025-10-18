@@ -27,6 +27,7 @@ import shutil
 import subprocess
 import sys
 import tempfile
+from collections import OrderedDict
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Tuple
 
@@ -38,10 +39,30 @@ from tools.publishing.markdown_combiner import (
     normalize_md,
 )
 from tools.publishing.preprocess_md import process
+from tools.publishing.gitbook_style import (
+    SummaryContext,
+    ensure_clean_summary,
+    get_summary_layout,
+)
 
 # ------------------------------- Utils ------------------------------------- #
 
 logger = get_logger(__name__)
+
+
+_TRUE_VALUES = {"1", "true", "yes", "on", "y"}
+
+
+def _as_bool(value: Any, default: bool = False) -> bool:
+    if isinstance(value, bool):
+        return value
+    if value is None:
+        return default
+    if isinstance(value, (int, float)):
+        return value != 0
+    if isinstance(value, str):
+        return value.strip().lower() in _TRUE_VALUES
+    return default
 
 
 def _run(
@@ -76,6 +97,13 @@ def _is_debian_like() -> bool:
 
 def _ensure_dir(path: str) -> None:
     pathlib.Path(path).mkdir(parents=True, exist_ok=True)
+
+
+def _resolve_publish_directory(base_dir: Path, value: Optional[str]) -> Path:
+    target = Path(value) if value else Path("publish")
+    if not target.is_absolute():
+        target = (base_dir / target).resolve()
+    return target
 
 
 def _download(url: str, dest: str) -> None:
@@ -134,27 +162,42 @@ def _save_yaml(path: str, data: Dict[str, Any]) -> None:
 # --------------------------- Public API (A) -------------------------------- #
 
 
-def get_publish_list(manifest_path: Optional[str] = None) -> List[Dict[str, str]]:
-    """
-    Liest publish.yml und liefert alle Einträge mit build: true als Liste
-    [{path, out, type}, ...]
-    """
+def get_publish_list(manifest_path: Optional[str] = None) -> List[Dict[str, Any]]:
+    """Return all manifest entries that should be built."""
+
     prepareYAML()
     mpath = find_publish_manifest(manifest_path)
     data = _load_yaml(mpath)
-    res: List[Dict[str, str]] = []
-    for e in data.get("publish", []):
-        if e.get("build"):
-            res.append(
-                {
-                    "path": str(e.get("path", "")),
-                    "out": str(e.get("out", "")),
-                    "type": str(e.get("type", "file")),
-                    "use_summary": str(e.get("use_summary", False)).lower() == "true",
-                    "keep_combined": str(e.get("keep_combined", False)).lower()
-                    == "true",
-                }
-            )
+    res: List[Dict[str, Any]] = []
+
+    for entry in data.get("publish", []):
+        if not _as_bool(entry.get("build"), default=False):
+            continue
+
+        path = entry.get("path")
+        out = entry.get("out")
+        if not path or not out:
+            logger.warning("Überspringe Manifest-Eintrag ohne path/out: %s", entry)
+            continue
+
+        out_dir = entry.get("out_dir")
+        result: Dict[str, Any] = {
+            "path": str(path),
+            "out": str(out),
+            "out_dir": str(out_dir) if out_dir not in (None, "") else None,
+            "out_format": str(entry.get("out_format", "pdf") or "pdf").lower(),
+            "source_type": str(entry.get("source_type") or entry.get("type") or "")
+            .lower()
+            .strip(),
+            "source_format": str(entry.get("source_format", "markdown") or "markdown")
+            .lower()
+            .strip(),
+            "use_summary": _as_bool(entry.get("use_summary")),
+            "use_book_json": _as_bool(entry.get("use_book_json")),
+            "keep_combined": _as_bool(entry.get("keep_combined")),
+        }
+        res.append(result)
+
     return res
 
 
@@ -284,32 +327,78 @@ def _run_pandoc(
     _run(cmd)
 
 
-def _extract_md_paths_from_summary(folder: str) -> List[str]:
-    summary_path = os.path.join(folder, "summary.md")
-    if not os.path.exists(summary_path):
+def _extract_md_paths_from_summary(
+    summary_path: Path, root_dir: Path
+) -> List[str]:
+    if not summary_path.exists():
         return []
-    paths: List[str] = []
-    with open(summary_path, "r", encoding="utf-8") as f:
-        for line in f:
-            for match in re.findall(r"\(([^)]+\.md)\)", line):
-                if not match.startswith(("http://", "https://")):
-                    paths.append(os.path.normpath(os.path.join(folder, match)))
-    return paths
+
+    resolved: "OrderedDict[str, None]" = OrderedDict()
+    pattern = re.compile(r"\(([^)]+\.(?:md|markdown))\)", re.IGNORECASE)
+
+    try:
+        with summary_path.open("r", encoding="utf-8") as handle:
+            for line in handle:
+                for match in pattern.findall(line):
+                    target = match.split("#", 1)[0].strip()
+                    if not target or target.startswith(("http://", "https://")):
+                        continue
+                    candidate = (root_dir / target).resolve()
+                    if candidate.suffix.lower() not in {".md", ".markdown"}:
+                        continue
+                    resolved[str(candidate)] = None
+    except Exception as exc:
+        logger.warning("Konnte SUMMARY in %s nicht lesen: %s", summary_path, exc)
+        return []
+
+    return list(resolved.keys())
 
 
-def _collect_folder_md(folder: str, use_summary: bool) -> List[str]:
+def _iter_summary_candidates(
+    folder: Path, summary_path: Optional[Path]
+) -> List[Path]:
+    candidates: List[Path] = []
+    seen: set[Path] = set()
+
+    if summary_path is not None:
+        resolved = summary_path.resolve()
+        candidates.append(resolved)
+        seen.add(resolved)
+
+    for name in ("SUMMARY.md", "summary.md"):
+        candidate = (folder / name).resolve()
+        if candidate not in seen:
+            candidates.append(candidate)
+            seen.add(candidate)
+
+    return candidates
+
+
+def _collect_folder_md(
+    folder: str,
+    use_summary: bool,
+    *,
+    summary_layout: Optional[SummaryContext] = None,
+) -> List[str]:
+    folder_path = Path(folder).resolve()
+    root_dir = summary_layout.root_dir if summary_layout else folder_path
+    summary_candidates = _iter_summary_candidates(
+        folder_path, summary_layout.summary_path if summary_layout else None
+    )
+
     if use_summary:
-        md_files = _extract_md_paths_from_summary(folder)
-        logger.info(
-            "ℹ %d Markdown-Dateien aus summary.md in %s gefunden.",
-            len(md_files),
-            folder,
-        )
-        if md_files:
-            return md_files
+        for candidate in summary_candidates:
+            md_files = _extract_md_paths_from_summary(candidate, root_dir)
+            logger.info(
+                "ℹ %d Markdown-Dateien aus %s gelesen.",
+                len(md_files),
+                candidate,
+            )
+            if md_files:
+                return md_files
     # Fallback: alle .md rekursiv, README bevorzugt
     md_files: List[str] = []
-    for root, _, files in os.walk(folder):
+    for root, _, files in os.walk(folder_path):
         for fname in sorted(files):
             if fname.lower().endswith((".md", ".markdown")):
                 full = os.path.join(root, fname)
@@ -317,7 +406,7 @@ def _collect_folder_md(folder: str, use_summary: bool) -> List[str]:
                     md_files.insert(0, full)
                 else:
                     md_files.append(full)
-    logger.info("ℹ %d Markdown-Dateien in %s gefunden.", len(md_files), folder)
+    logger.info("ℹ %d Markdown-Dateien in %s gefunden.", len(md_files), folder_path)
     return md_files
 
 
@@ -392,6 +481,7 @@ def convert_a_folder(
     keep_converted_markdown: bool = False,
     publish_dir: str = "publish",
     paper_format: str = "a4",
+    summary_layout: Optional[SummaryContext] = None,
 ) -> None:
 
     logger.info(
@@ -407,7 +497,9 @@ def convert_a_folder(
     logger.info("Publish Dir             : %s", publish_dir)
     logger.info("Paper Format            : %s", paper_format)
 
-    md_files = _collect_folder_md(folder, use_summary=use_summary)
+    md_files = _collect_folder_md(
+        folder, use_summary=use_summary, summary_layout=summary_layout
+    )
     if not md_files:
         logger.info("ℹ Keine Markdown-Dateien in %s – übersprungen.", folder)
         raise Exception(f"No markdown files found in {folder}")
@@ -421,10 +513,10 @@ def convert_a_folder(
         tmp_md = tmp.name
     try:
         title = _get_book_title(folder)
-        logger.info(
-            "ℹ Buch-Titel aus book.json: %s" if title else "ℹ Kein Buch-Titel",
-            title,
-        )
+        if title:
+            logger.info("ℹ Buch-Titel aus book.json: %s", title)
+        else:
+            logger.info("ℹ Kein Buch-Titel")
         _run_pandoc(tmp_md, pdf_out, add_toc=True, title=title)
     finally:
         try:
@@ -448,26 +540,30 @@ def convert_a_folder(
 
 
 def build_pdf(
-    path: str,
+    path: str | Path,
     out: str,
     typ: str,
     use_summary: bool = False,
+    use_book_json: bool = False,
     keep_combined: bool = False,
     publish_dir: str = "publish",
     paper_format: str = "a4",
-) -> Tuple[bool, str]:
+) -> Tuple[bool, Optional[str]]:
     """
     Baut ein PDF gemäß Typ ('file'/'folder').
-    Gibt True bei Erfolg zurück und False bei Fehlern plus eine detailierte Error Message.
+    Gibt True bei Erfolg zurück und False bei Fehlern plus eine detaillierte Fehlernachricht.
     """
-    pdf_out = os.path.join(publish_dir, out)
-    logger.info("✔ Building %s from %s (type=%s)", pdf_out, path, typ)
-    _ensure_dir(publish_dir)
+    publish_path = Path(publish_dir).resolve()
+    _ensure_dir(str(publish_path))
+    pdf_out = publish_path / out
+    path_obj = Path(path).resolve()
+
+    logger.info("✔ Building %s from %s (type=%s)", pdf_out, path_obj, typ)
 
     # Typ autodetektion, falls leer/ungewohnt
     _typ = (typ or "").lower().strip()
     if not _typ or _typ not in {"file", "folder"}:
-        if os.path.isdir(path):
+        if path_obj.is_dir():
             _typ = "folder"
         else:
             _typ = "file"
@@ -480,20 +576,30 @@ def build_pdf(
             #    paper_format=paper_format,
             # )
             convert_a_file(
-                path,
-                pdf_out,
+                str(path_obj),
+                str(pdf_out),
                 keep_converted_markdown=True,
-                publish_dir=publish_dir,
+                publish_dir=str(publish_path),
                 paper_format=paper_format,
             )
         elif _typ == "folder":
+            summary_layout: Optional[SummaryContext] = None
+            if use_book_json:
+                try:
+                    summary_layout = get_summary_layout(path_obj)
+                    ensure_clean_summary(summary_layout.base_dir, run_git=False)
+                except Exception as exc:  # pragma: no cover - best effort logging
+                    logger.warning(
+                        "Konnte SUMMARY via book.json nicht aktualisieren: %s", exc
+                    )
             convert_a_folder(
-                path,
-                pdf_out,
-                use_summary=use_summary,
+                str(path_obj),
+                str(pdf_out),
+                use_summary=use_summary or use_book_json,
                 keep_converted_markdown=keep_combined,
-                publish_dir=publish_dir,
+                publish_dir=str(publish_path),
                 paper_format=paper_format,
+                summary_layout=summary_layout,
             )
         else:
             logger.warning("⚠ Unbekannter type='%s' – übersprungen.", typ)
@@ -550,7 +656,7 @@ def main() -> None:
     ap.add_argument(
         "--publish-dir",
         help="The directory to publish to.",
-        default="docs/public/publish",
+        default="publish",
     )
     args = ap.parse_args()
 
@@ -577,27 +683,43 @@ def main() -> None:
     built: List[str] = []
     failed: List[str] = []
 
-    manifest_dir = Path(manifest).parent
+    manifest_path = Path(manifest).resolve()
+    manifest_dir = manifest_path.parent
+    default_publish_dir = _resolve_publish_directory(manifest_dir, args.publish_dir)
 
     # C + Reset je nach Erfolg
     for entry in targets:
-        path = entry["path"]
-        path = Path(path)
+        original_path = entry["path"]
+        path = Path(original_path)
         if not path.is_absolute():
-            path = manifest_dir / path
+            path = (manifest_dir / path).resolve()
         out = entry["out"]
-        typ = entry.get("type", "file")
+        out_format = entry.get("out_format", "pdf")
+        if out_format.lower() != "pdf":
+            msg = f"Unsupported out_format='{out_format}'"
+            logger.warning("⚠ %s – Eintrag wird übersprungen.", msg)
+            failed.append(f"{out}: {msg}")
+            continue
+
+        typ = entry.get("source_type") or entry.get("type", "")
+        publish_base = entry.get("out_dir")
+        publish_dir_path = (
+            _resolve_publish_directory(manifest_dir, publish_base)
+            if publish_base
+            else default_publish_dir
+        )
         ok, msg = build_pdf(
             path=path,
             out=out,
             typ=typ,
             use_summary=entry["use_summary"],
+            use_book_json=entry.get("use_book_json", False),
             keep_combined=entry["keep_combined"],
             paper_format=args.paper_format,
-            publish_dir=args.publish_dir,
+            publish_dir=str(publish_dir_path),
         )
         if ok:
-            built.append(out)
+            built.append(str((publish_dir_path / out).resolve()))
             # Reset publish-Flag (D) – nur bei Erfolg
             reset_tool = args.reset_script
             if os.path.exists(reset_tool):
@@ -607,7 +729,7 @@ def main() -> None:
                             sys.executable or "python",
                             reset_tool,
                             "--path",
-                            path,
+                            str(path),
                             "--multi",
                         ],
                         check=True,
@@ -619,7 +741,7 @@ def main() -> None:
                 try:
                     data = _load_yaml(manifest)
                     for e in data.get("publish", []):
-                        if e.get("path") == path:
+                        if str(e.get("path")) == original_path:
                             e["build"] = False
                     _save_yaml(manifest, data)
                 except Exception as e:
@@ -627,7 +749,7 @@ def main() -> None:
                         "Konnte Manifest-Fallback-Reset nicht schreiben: %s", e
                     )
         else:
-            failed.append(out + (f": {msg}" if msg else ""))
+            failed.append(str((publish_dir_path / out).resolve()) + (f": {msg}" if msg else ""))
 
     # Outputs
     logger.info("::group::publisher.outputs")
