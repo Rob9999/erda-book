@@ -60,6 +60,36 @@ def normalize_posix(path_str: str) -> str:
     return posixpath.normpath(p)
 
 
+def get_entry_type(entry: Dict[str, Any]) -> str:
+    value = entry.get("source_type") or entry.get("type") or "auto"
+    if isinstance(value, str):
+        return value.strip().lower()
+    return str(value).strip().lower()
+
+
+def detect_repo_root(start_dir: str) -> str:
+    try:
+        result = subprocess.run(
+            ["git", "-C", start_dir, "rev-parse", "--show-toplevel"],
+            check=True,
+            capture_output=True,
+            text=True,
+        )
+        candidate = result.stdout.strip()
+        return candidate or os.path.abspath(start_dir)
+    except Exception:
+        return os.path.abspath(start_dir)
+
+
+def resolve_entry_path(entry_path: str, publish_dir: str, repo_root: str) -> str:
+    full_entry_path = os.path.normpath(os.path.join(publish_dir, entry_path))
+    try:
+        rel_path = os.path.relpath(full_entry_path, repo_root)
+    except ValueError:
+        rel_path = full_entry_path
+    return normalize_posix(rel_path)
+
+
 def is_match(entry_path: str, entry_type: str, changed_file: str) -> bool:
     ep = normalize_posix(entry_path)
     cf = normalize_posix(changed_file)
@@ -143,6 +173,7 @@ def main():
 
     publish_path = find_publish_file(args.publish_file)
     publish_dir = os.path.dirname(publish_path)
+    repo_root = detect_repo_root(publish_dir)
 
     changed_files = git_changed_files(args.commit, args.base)
     if args.debug:
@@ -157,13 +188,13 @@ def main():
     touched_entries = []
     for idx, entry in enumerate(entries):
         ep = entry.get("path")
-        etype = (entry.get("type") or "auto").lower()
+        etype = get_entry_type(entry)
         if not ep:
             logger.warning("publish[%d] ohne 'path' – übersprungen.", idx)
             continue
 
-        full_ep = os.path.normpath(os.path.join(publish_dir, ep))
-        hit = any(is_match(full_ep, etype, cf) for cf in changed_files)
+        resolved_ep = resolve_entry_path(ep, publish_dir, repo_root)
+        hit = any(is_match(resolved_ep, etype, cf) for cf in changed_files)
 
         # Baue altes/newes Flag
         old_build = bool(entry.get("build", False))

@@ -1,6 +1,12 @@
 from __future__ import annotations
 
-from tools.publishing.gitbook_style import ensure_clean_summary, rename_to_gitbook_style
+import json
+
+from tools.publishing.gitbook_style import (
+    ensure_clean_summary,
+    get_summary_layout,
+    rename_to_gitbook_style,
+)
 
 
 def test_rename_to_gitbook_style(tmp_path):
@@ -52,3 +58,23 @@ def test_ensure_clean_summary(tmp_path):
 
     # Second invocation should be idempotent.
     assert ensure_clean_summary(base, run_git=False) is False
+
+
+def test_get_summary_layout_resolves_uppercase(tmp_path):
+    base = tmp_path / "book"
+    base.mkdir()
+    (base / "book.json").write_text(
+        json.dumps(
+            {
+                "title": "Demo",
+                "root": ".",
+                "structure": {"summary": "SUMMARY.md"},
+            }
+        ),
+        encoding="utf-8",
+    )
+    (base / "SUMMARY.md").write_text("", encoding="utf-8")
+
+    layout = get_summary_layout(base)
+    assert layout.summary_path == (base / "SUMMARY.md").resolve()
+    assert layout.root_dir == base.resolve()

@@ -28,10 +28,11 @@ jobs:
           pip install pyyaml
           commit="${GITHUB_SHA}"
           base="${{ github.event.before }}"
-          python .github/tools/publishing/set_publish_flag.py \
-            --commit "$commit" \
-            --base "$base" \
-            --publish-file docs/public/publish.yml
+          args=("--commit" "$commit" "--publish-file" "publish.yml")
+          if [ -n "$base" ]; then
+            args+=("--base" "$base")
+          fi
+          python .github/tools/publishing/set_publish_flag.py "${args[@]}"
       - name: Set up git for pushing
         run: |
           token="${{ secrets.GITHUB_TOKEN }}"
@@ -41,13 +42,13 @@ jobs:
       - name: Commit publish flag updates
         run: |
           status="$(git status --porcelain \
-            docs/public/publish.yml docs/public/publish.yaml 2>/dev/null || true)"
+            publish.yml publish.yaml 2>/dev/null || true)"
           if [ -n "$status" ]; then
             git config user.name "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"
             files=""
-            [ -f docs/public/publish.yml ] && files="${files} docs/public/publish.yml"
-            [ -f docs/public/publish.yaml ] && files="${files} docs/public/publish.yaml"
+            [ -f publish.yml ] && files="${files} publish.yml"
+            [ -f publish.yaml ] && files="${files} publish.yaml"
             if [ -n "$files" ]; then
               git add $files
               git commit -m "chore: update publish build flags"
@@ -59,8 +60,7 @@ jobs:
               git status
               git log --oneline -10
               git rebase --abort
-              echo "Rebase failed. Please check for conflicts in docs/public/publish.yml or"
-              echo "docs/public/publish.yaml."
+              echo "Rebase failed. Please check for conflicts in publish.yml or publish.yaml."
               exit 1
             fi
             git push

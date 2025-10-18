@@ -8,7 +8,7 @@ with the rest of the tooling.
 Examples:
   python .github/tools/publishing/dump_publish.py
   python .github/tools/publishing/dump_publish.py --all
-  python .github/tools/publishing/dump_publish.py --manifest docs/public/publish.yml
+  python .github/tools/publishing/dump_publish.py --manifest publish.yml
 """
 
 from __future__ import annotations

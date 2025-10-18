@@ -160,23 +160,53 @@ def _natural_key(value: str) -> List[int | str]:
     ]
 
 
-@dataclass
+@dataclass(frozen=True)
 class SummaryContext:
     base_dir: Path
     root_dir: Path
     summary_path: Path
 
 
+def _find_book_base(base_dir: Path) -> Path | None:
+    """Locate the directory containing ``book.json`` starting from ``base_dir``.
+
+    The search walks up the directory tree so tools can run inside nested
+    folders while still re-using the repository level metadata.
+    """
+
+    for candidate in [base_dir, *base_dir.parents]:
+        if (candidate / "book.json").exists():
+            return candidate
+    return None
+
+
 def _build_summary_context(base_dir: Path) -> SummaryContext:
-    book_path = base_dir / "book.json"
+    base_dir = base_dir.resolve()
+    book_base = _find_book_base(base_dir) or base_dir
+    book_path = book_base / "book.json"
     book = read_json(book_path) if book_path.exists() else {}
-    root_dir = (base_dir / book.get("root", ".")).resolve()
-    structure = book.get("structure", {})
-    summary_rel = structure.get("summary", "summary.md")
+    root_dir = (book_base / book.get("root", ".")).resolve()
+    structure = book.get("structure") or {}
+    summary_rel = structure.get("summary")
+
+    if not summary_rel:
+        for candidate in ("SUMMARY.md", "summary.md"):
+            if (root_dir / candidate).exists():
+                summary_rel = candidate
+                break
+        else:
+            summary_rel = "SUMMARY.md"
+
     summary_path = (root_dir / summary_rel).resolve()
     return SummaryContext(
-        base_dir=base_dir, root_dir=root_dir, summary_path=summary_path
+        base_dir=book_base, root_dir=root_dir, summary_path=summary_path
     )
+
+
+def get_summary_layout(base_dir: Path) -> SummaryContext:
+    """Return the resolved GitBook summary layout for ``base_dir``."""
+
+    return _build_summary_context(base_dir)
 
 
 def _md_files_in_dir(directory: Path, summary_path: Path) -> List[Path]:
@@ -277,7 +307,7 @@ def ensure_clean_summary(base_dir: Path, *, run_git: bool = True) -> bool:
     Returns True if the file was changed.
     """
     logger.info(f"Ensuring clean SUMMARY.md in {base_dir}")
-    context = _build_summary_context(base_dir)
+    context = get_summary_layout(base_dir)
     new_content = "\n".join(build_summary_lines(context)).rstrip() + "\n"
     context.summary_path.parent.mkdir(parents=True, exist_ok=True)
     old_content = ""

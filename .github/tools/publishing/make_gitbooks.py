@@ -13,7 +13,7 @@ logger = get_logger(__name__)
 def main():
     logger.info("Starting GitBook documentation publishing process")
     # Rename files to GitBook style
-    renaming_dir = REPO_ROOT / "docs" / "public"
+    renaming_dir = REPO_ROOT
     logger.info(f"Renaming files to GitBook style: {renaming_dir}")
     run_command(
         [
@@ -33,12 +33,12 @@ def main():
             f"{GH_TOOLS_DIR / 'publishing' / 'gitbook_style.py'}",
             "summary",
             "--root",
-            f"{REPO_ROOT / 'docs' / 'public'}",
+            f"{REPO_ROOT}",
         ]
     )
 
     # Publish to GitHub Pages
-    manifest_path = REPO_ROOT / "docs" / "public" / "publish.yml"
+    manifest_path = REPO_ROOT / "publish.yml"
     logger.info(f"Publishing to GitHub Pages using manifest: {manifest_path}")
     run_command(
         [

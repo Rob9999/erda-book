@@ -16,7 +16,7 @@ from __future__ import annotations
 import argparse
 import os
 import re
-from typing import List
+from typing import Iterable, List
 
 from tools.logging_config import get_logger
 
@@ -31,25 +31,96 @@ except Exception:  # pragma: no cover - Pillow optional
 logger = get_logger(__name__)
 
 
-COLUMN_WIDTH_mm = 30  # Annahme: 30mm pro Spalte (inkl. Abstand)
+COLUMN_WIDTH_mm = 25  # Annahme: 25mm pro Spalte (inkl. Abstand)
 COLUMN_HEIGHT_mm = 10  # Annahme: 10mm pro Spalte (inkl. Abstand)
 PIXELS_PER_MM = 11.81  # bei 300 dpi (1 inch = 25.4 mm, 300/25.4 ≈ 11.81)
+MIN_COLS_FOR_WRAP = 10
 
 
-def paper_for_columns(cols: int, rows: int = None, height_mm: int = 297) -> PaperInfo:
+def _paper_candidates(base: PaperInfo) -> Iterable[PaperInfo]:
+    """Yield candidate papers starting with ``base`` orientation."""
+
+    candidate_codes = [
+        "a4",
+        "a4-landscape",
+        "a3",
+        "a3-landscape",
+        "a2",
+        "a2-landscape",
+        "a1",
+        "a1-landscape",
+    ]
+
+    seen: set[tuple[str, tuple[int, int], tuple[int, int, int, int]]] = set()
+
+    def register(info: PaperInfo) -> Iterable[PaperInfo]:
+        key = (info.norm_name, info.size_mm, info.margins_mm)
+        if key in seen:
+            return []
+        seen.add(key)
+        return [info]
+
+    for initial in register(base):
+        yield initial
+
+    if base.norm_name in candidate_codes:
+        start_index = candidate_codes.index(base.norm_name) + 1
+    else:
+        start_index = 0
+
+    ordered = candidate_codes[start_index:] + candidate_codes[:start_index]
+    for code in ordered:
+        info = get_valid_paper_measurements(code)
+        for item in register(info):
+            yield item
+
+
+def paper_for_columns(
+    cols: int,
+    rows: int = None,
+    *,
+    height_mm: int = 297,
+    base_paper: PaperInfo | None = None,
+) -> PaperInfo:
     """Return required paper info."""
-    min_width_mm = cols * COLUMN_WIDTH_mm
+    base_info = base_paper or PaperInfo.default()
+    min_width_mm = max(cols * COLUMN_WIDTH_mm, base_info.size_mm[0])
+    required_height = 0
     if rows:
-        height_mm = rows * COLUMN_HEIGHT_mm
-    return get_valid_paper_measurements(
-        size_mm=(min_width_mm, height_mm), standard=False
+        height_mm = max(rows * COLUMN_HEIGHT_mm, base_info.size_mm[1])
+        required_height = height_mm
+
+    for candidate in _paper_candidates(base_info):
+        width, height = candidate.size_mm
+        if width >= min_width_mm and (required_height == 0 or height >= required_height):
+            return candidate
+
+    logger.warning(
+        "Table requires custom paper size (%smm x %smm); falling back to %s.",
+        min_width_mm,
+        required_height or base_info.size_mm[1],
+        base_info.norm_name,
     )
+    return base_info
 
 
-def paper_for_width(px: int) -> PaperInfo:
+def paper_for_width(px: int, *, base_paper: PaperInfo | None = None) -> PaperInfo:
     """Return required paper size for image width."""
-    min_width_mm = px / PIXELS_PER_MM
-    return get_valid_paper_measurements(size_mm=(min_width_mm, 0))
+    base_info = base_paper or PaperInfo.default()
+    min_width_mm = max(px / PIXELS_PER_MM, base_info.size_mm[0])
+    for candidate in _paper_candidates(base_info):
+        if candidate.size_mm[0] >= min_width_mm:
+            return candidate
+
+    logger.warning(
+        "Image requires custom paper width %.2fmm; falling back to %s.",
+        min_width_mm,
+        base_info.norm_name,
+    )
+    return base_info
+
+def _escape_ampersands(value: str) -> str:
+    return re.sub(r"(?<!\\)&", r"\\&", value)
 
 
 def wrap_block(
@@ -79,7 +150,10 @@ def wrap_block(
                 and i + 1 < len(lines)
                 and re.match(r"^\s*\|?\s*:?-+", lines[i + 1])
             ):
-                header = [x.strip() for x in line.strip().strip("|").split("|")]
+                header = [
+                    _escape_ampersands(x.strip())
+                    for x in line.strip().strip("|").split("|")
+                ]
                 alignments = [
                     x.strip() for x in lines[i + 1].strip().strip("|").split("|")
                 ]
@@ -100,7 +174,10 @@ def wrap_block(
                 out_lines.append("\\endhead ")
                 i += 2
                 while i < len(lines) and "|" in lines[i] and lines[i].strip():
-                    row = [x.strip() for x in lines[i].strip().strip("|").split("|")]
+                    row = [
+                        _escape_ampersands(x.strip())
+                        for x in lines[i].strip().strip("|").split("|")
+                    ]
                     out_lines.append(f"{' & '.join(row)} \\\\")
                     i += 1
                 out_lines.append("\\bottomrule ")
@@ -125,14 +202,14 @@ def wrap_block(
         f" left={margin_left}mm, right={margin_right}mm,"
         f" top={margin_top}mm, bottom={margin_bottom}mm}}\n\n"
     )
-    before += "\n" + f"\pagewidth={width}mm" + "\n" + f"\pageheight={height}mm"
+    before += "\n" + f"\\pagewidth={width}mm" + "\n" + f"\\pageheight={height}mm"
     logger.info("Using paper size: %smm x %smm", width, height)
     after = "\n" + "\\restoregeometry"
     after += (
         "\n"
-        + f"\pagewidth={current_width}mm"
+        + f"\\pagewidth={current_width}mm"
         + "\n"
-        + f"\pageheight={current_height}mm"
+        + f"\\pageheight={current_height}mm"
     )
     after += "\n" + "\\newpage\n"
 
@@ -165,14 +242,16 @@ def process(path: str, paper_format: str = "a4") -> str:
                 table_lines.append(lines[i])
                 i += 1
             cols = table_lines[0].count("|") - 1
-            paper_info = paper_for_columns(cols=cols)
+            paper_info = paper_for_columns(cols=cols, base_paper=current_paper_info)
+            escaped_lines = [_escape_ampersands(l) for l in table_lines]
             logger.info(
                 "In document '%s': Detected table with %d columns, paper: %s",
                 path,
                 cols,
                 paper_info,
             )
-            if paper_info != current_paper_info:
+            should_wrap = paper_info != current_paper_info or cols >= MIN_COLS_FOR_WRAP
+            if should_wrap:
                 prefix: List[str] = []
                 # include heading, note and blank lines before the table
                 while out and (
@@ -183,13 +262,13 @@ def process(path: str, paper_format: str = "a4") -> str:
                     prefix.insert(0, out.pop())
                 out.extend(
                     wrap_block(
-                        prefix + table_lines,
+                        prefix + escaped_lines,
                         paper_info=paper_info,
                         current_paper_info=current_paper_info,
                     )
                 )
             else:
-                out.extend(table_lines)
+                out.extend(escaped_lines)
             continue
 
         # Detect images ![alt](path)
@@ -205,7 +284,7 @@ def process(path: str, paper_format: str = "a4") -> str:
                 except Exception:  # pragma: no cover - best effort
                     logger.warning("Could not open image %s to get size.", abs_img)
                     width = 0
-            paper_info = paper_for_width(width)
+            paper_info = paper_for_width(width, base_paper=current_paper_info)
             if paper_info != current_paper_info:
                 out.extend(
                     wrap_block(
