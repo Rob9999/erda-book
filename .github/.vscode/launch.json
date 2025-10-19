@@ -1,0 +1,18 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Orchestrator (local)",
+      "type": "python",
+      "request": "launch",
+      "module": "tools.workflow_orchestrator",
+      "cwd": "${workspaceFolder}/..",
+      "args": [
+        "--profile",
+        "local",
+        "--manifest",
+        "publish.yml"
+      ]
+    }
+  ]
+}
