@@ -13,6 +13,12 @@ on:
       - ".github/tools/docker/**"
       - ".github/workflows/python-package.yml"
     branches: [main]
+  workflow_dispatch:
+    inputs:
+      profile:
+        description: "Optional Profilbezeichnung für Nachvollziehbarkeit"
+        required: false
+        default: "default"
 
 jobs:
   docker-build-test:

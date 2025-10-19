@@ -4,76 +4,107 @@ on:
   workflow_call:
   workflow_dispatch:
 
+permissions:
+  contents: write
+  packages: read
+
 jobs:
-  selective-publish:
-    if: github.actor != 'github-actions[bot]'
+  build_image:
+    if: ${{ !github.event.repository.private }}
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-      packages: read
     outputs:
-      built_count: ${{ steps.publish.outputs.built_count }}
-
+      digest: ${{ steps.build.outputs.digest }}
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+
+      - uses: docker/setup-qemu-action@v3
+
+      - uses: docker/setup-buildx-action@v3
+
+      - name: Log in to GHCR
+        uses: docker/login-action@v3
         with:
-          fetch-depth: 0
-          ref: ${{ github.ref }}
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Set up Docker Buildx
-        uses: docker/setup-buildx-action@v2
-
-      - name: Cache Docker layers
-        uses: actions/cache@v3
-        with:
-          path: /tmp/.buildx-cache
-          key: ${{ runner.os }}-buildx-${{ github.sha }}
-          restore-keys: |
-            ${{ runner.os }}-buildx-
-
-      - name: Build and cache publishing Docker image
-        uses: docker/build-push-action@v4
+      - name: Build & push orchestrator image
+        id: build
+        uses: docker/build-push-action@v6
         with:
           context: .
           file: .github/tools/docker/Dockerfile
+          target: publisher
+          push: true
+          tags: |
+            ghcr.io/${{ github.repository }}/publisher:sha-${{ github.sha }}
+            ghcr.io/${{ github.repository }}/publisher:main
+          cache-from: |
+            type=registry,ref=ghcr.io/${{ github.repository }}/publisher:buildcache
+          cache-to: |
+            type=registry,ref=ghcr.io/${{ github.repository }}/publisher:buildcache,mode=max
+
+  selective-publish:
+    needs: [build_image]
+    runs-on: ubuntu-latest
+    outputs:
+      built_count: ${{ steps.run_orchestrator.outputs.built_count }}
+      manifest: ${{ steps.run_orchestrator.outputs.manifest }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Docker Buildx (local build)
+        if: ${{ needs.build_image.result != 'success' }}
+        uses: docker/setup-buildx-action@v3
+
+      - name: Build orchestrator image locally
+        if: ${{ needs.build_image.result != 'success' }}
+        uses: docker/build-push-action@v6
+        with:
+          context: .
+          file: .github/tools/docker/Dockerfile
+          target: publisher
           push: false
           load: true
-          tags: sphere-space-publisher:latest
-          cache-from: type=local,src=/tmp/.buildx-cache
-          cache-to: type=local,dest=/tmp/.buildx-cache-new,mode=max
-          target: publisher
+          tags: erda-publisher:local
+          cache-from: type=gha
+          cache-to: type=gha,mode=max
 
-      - name: Move cache
+      - name: Log in to GHCR
+        if: ${{ needs.build_image.result == 'success' }}
+        uses: docker/login-action@v3
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Pull published image
+        if: ${{ needs.build_image.result == 'success' }}
         run: |
-          rm -rf /tmp/.buildx-cache
-          mv /tmp/.buildx-cache-new /tmp/.buildx-cache
+          docker pull ghcr.io/${{ github.repository }}/publisher@${{ needs.build_image.outputs.digest }}
 
-      - name: Run publisher in Docker
-        id: publish
-        run: |
-          docker run --rm \
-            -v ${PWD}:/workspace \
-            -e PYTHONPATH=/workspace/.github/tools \
-            -e GITHUB_OUTPUT=${GITHUB_OUTPUT} \
-            sphere-space-publisher:latest \
-            bash -c "cd /workspace && python .github/tools/publishing/pipeline.py --manifest publish.yml --reset-others"
-
-      - name: Commit and push generated PDFs
-        if: steps.publish.outputs.built_count != '0'
+      - name: Run publisher profile
+        id: run_orchestrator
         env:
-          MANIFEST: ${{ steps.publish.outputs.manifest }}
+          IMAGE_REF: ${{ needs.build_image.result == 'success' && format('ghcr.io/{0}/publisher@{1}', github.repository, needs.build_image.outputs.digest) || 'erda-publisher:local' }}
         run: |
-          manifest="$MANIFEST"
-          status=$(git status --porcelain publish "$manifest")
-          if [ -n "$status" ]; then
-            git config user.name "github-actions[bot]"
-            git config user.email "github-actions[bot]@users.noreply.github.com"
-            git add publish "$manifest"
-            git commit -m "chore: selective publish → PDF (auto)"
-            git pull --rebase origin "${GITHUB_REF_NAME}"
-            git push origin HEAD:"${GITHUB_REF_NAME}"
-          fi
+          set -euo pipefail
+          docker run --rm \
+            -v "$PWD:/workspace" \
+            -w /workspace \
+            -e GITHUB_OUTPUT="${GITHUB_OUTPUT}" \
+            -e GITHUB_SHA="${GITHUB_SHA}" \
+            -e GITHUB_REPOSITORY="${GITHUB_REPOSITORY}" \
+            "$IMAGE_REF" \
+            python -m tools.workflow_orchestrator \
+              --profile publisher \
+              --repository "${GITHUB_REPOSITORY}" \
+              --manifest publish.yml \
+              --repo-visibility auto \
+              --commit "${GITHUB_SHA}" \
+              --reset-others
 
   publish_docs_publish_subtree:
     needs: selective-publish
