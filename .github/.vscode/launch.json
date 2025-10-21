@@ -3,7 +3,7 @@
   "configurations": [
     {
       "name": "Orchestrator (local)",
-      "type": "python",
+      "type": "debugpy",
       "request": "launch",
       "module": "tools.workflow_orchestrator",
       "cwd": "${workspaceFolder}/..",
