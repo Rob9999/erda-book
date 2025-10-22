@@ -2,45 +2,45 @@ profiles:
   default:
     description: Standardprofil für die komplette Orchestrator-Pipeline.
     steps:
-      - check_if_to_publish
-      - ensure_readme
-      - update_citation
-      - converter
-      - engineering-document-formatter
-      - publisher
+    - check_if_to_publish
+    - ensure_readme
+    - update_citation
+    - converter
+    - engineering-document-formatter
+    - publisher
     docker:
       use_registry: true
-      image: "ghcr.io/${repo}/publisher"
+      image: ghcr.io/${repo}/publisher
       cache: true
   local:
     description: Lokale Ausführung ohne Registry-Zugriff.
     steps:
-      - converter
-      - publisher
+    - converter
+    - publisher
     docker:
       use_registry: false
   publisher:
     description: Führt nur den Publisher aus (z. B. für workflow_call).
     steps:
-      - publisher
+    - publisher
     docker:
       use_registry: true
-      image: "ghcr.io/${repo}/publisher"
+      image: ghcr.io/${repo}/publisher
       cache: true
 meta:
   publish_on:
-    - push
-    - workflow_dispatch
+  - push
+  - workflow_dispatch
   artifacts:
     keep_days: 7
 publish:
-  - path: ./
-    out_format: pdf
-    out_dir: ./publish
-    out: das-erda-buch.pdf
-    source_type: folder
-    source_format: markdown
-    use_summary: true
-    use_book_json: true
-    keep_combined: true
-    build: true
+- path: ./
+  out_format: pdf
+  out_dir: ./publish
+  out: das-erda-buch.pdf
+  source_type: folder
+  source_format: markdown
+  use_summary: true
+  use_book_json: true
+  keep_combined: true
+  build: false

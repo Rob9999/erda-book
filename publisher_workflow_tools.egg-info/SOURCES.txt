@@ -1,7 +1,0 @@
-README.md
-pyproject.toml
-setup.cfg
-publisher_workflow_tools.egg-info/PKG-INFO
-publisher_workflow_tools.egg-info/SOURCES.txt
-publisher_workflow_tools.egg-info/dependency_links.txt
-publisher_workflow_tools.egg-info/top_level.txt

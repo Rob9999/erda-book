@@ -407,7 +407,18 @@ def _step_converter(ctx: RuntimeContext) -> None:
             str(ctx.config.manifest),
         ]
     )
-    ctx.run_command([ctx.python, str(convert_script)])
+    # Run the converter as a module (so relative imports inside it work).
+    # Pass the manifest path so the converter computes PUBLIC from the manifest
+    # parent directory rather than a hardwired docs/public path.
+    ctx.run_command(
+        [
+            ctx.python,
+            "-m",
+            "tools.converter.convert_assets",
+            "--manifest",
+            str(ctx.config.manifest),
+        ]
+    )
 
 
 _TEMPLATE_ORDER = (

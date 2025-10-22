@@ -9,6 +9,7 @@ target path. If numeric columns exist, a chart is written to
 ``assets/diagrams``.
 """
 from pathlib import Path
+import argparse
 
 import pandas as pd
 import yaml
@@ -27,8 +28,34 @@ except ImportError:
     REPO_ROOT = Path(__file__).resolve().parents[2]
     logger.info("REPO_ROOT : %s", REPO_ROOT)
 
-PUBLIC = REPO_ROOT / "docs" / "public"
-TEMPLATES = PUBLIC / "assets" / "templates"
+# PUBLIC and TEMPLATES will be computed from the manifest path at runtime so the
+# converter can be used against any repository layout. They are set by
+# main() using the provided --manifest CLI option or by resolving a default
+# manifest under the repository root.
+PUBLIC = None
+TEMPLATES = None
+
+
+def _resolve_manifest(manifest_arg: str | None) -> Path:
+    """Resolve a manifest path. Preference order:
+    1. explicit CLI argument
+    2. REPO_ROOT/publish.yml or publish.yaml
+    3. REPO_ROOT/docs/public/publish.yml (legacy layout)
+    4. default to REPO_ROOT/publish.yml (may not exist)
+    """
+    if manifest_arg:
+        return Path(manifest_arg).resolve()
+    # check repo root
+    for name in ("publish.yml", "publish.yaml"):
+        candidate = REPO_ROOT / name
+        if candidate.exists():
+            return candidate.resolve()
+    # legacy location
+    legacy = REPO_ROOT / "docs" / "public" / "publish.yml"
+    if legacy.exists():
+        return legacy.resolve()
+    # fallback
+    return (REPO_ROOT / "publish.yml").resolve()
 
 
 def discover_asset_dirs() -> set:
@@ -107,6 +134,20 @@ def convert_csv(csv_path: Path, assets_dir: Path):
 
 
 def main():
+    parser = argparse.ArgumentParser(
+        description="Convert CSV assets to markdown and charts."
+    )
+    parser.add_argument(
+        "--manifest",
+        help="Path to publish.yml (defaults to repo root or legacy docs/public/publish.yml)",
+    )
+    args = parser.parse_args()
+
+    manifest_path = _resolve_manifest(args.manifest)
+    global PUBLIC, TEMPLATES
+    PUBLIC = manifest_path.parent
+    TEMPLATES = PUBLIC / "assets" / "templates"
+
     for assets in discover_asset_dirs():
         csv_dir = assets / "csvs"
         if not csv_dir.is_dir():
