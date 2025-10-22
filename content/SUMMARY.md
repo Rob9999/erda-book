@@ -1,7 +1,6 @@
 # Summary
 
 * [Startseite](README.md)
-* [AGENT Instructions](AGENTS.md)
 * [Anhang A: ERDA-Staatenarchitektur („Konzentrische Kreise“)](anhang-a-erda-staatenarchitektur-konzentrische-kreise.md)
 * [Anhang C: Europa 2.0 – Fahrplan für eine lebenswerte, resiliente und führende Union](anhang-c-europa-2.0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union.md)
 * [Anhang F: ERDA-Institut für Demokratische Resilienz und Transformation](anhang-f-erda-institut-fur-demokratische-resilienz-und-transformation.md)
@@ -274,16 +273,5 @@
   * [🪄 Rollenspiel Qualitätssicherungstemplate](anhang-e-erda-buch-baukasten/rollenspiel-qualitatssicherungstemplate.md)
   * [🤖 Schema & Promptstruktur für Kooperations-KIs im ERDA Projekt](anhang-e-erda-buch-baukasten/schema-and-promptstruktur-fur-kooperations-kis-im-erda-projekt.md)
   * [🪄 Template für ein standardisiertes ERDA-Quellenverzeichnis](anhang-e-erda-buch-baukasten/template-fur-ein-standardisiertes-erda-quellenverzeichnis.md)
-* Publish
-  * [Startseite](publish/das-erda-buch.md)
-* Publisher Workflow Tools.Egg Info
 * Readme
   * [Vorwort](readme/vorwort.md)
-* [Tools](tools/README.md)
-  * [gitbook-worker](tools/gitbook-worker/README.md)
-    * Docs
-      * Api
-    * Src
-      * Gitbook Worker
-    * Tests
-  * [Misc](tools/misc/README.md)
