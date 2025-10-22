@@ -3,7 +3,7 @@
   "author": "ERDA Initiative",
   "language": "de",
   "description": "Ganzheitliches Konzept zur demokratischen Resilienz Europas.",
-  "root": "./",
+  "root": "content/",
   "structure": {
     "readme": "README.md",
     "summary": "SUMMARY.md"
