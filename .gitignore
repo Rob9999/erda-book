@@ -74,10 +74,10 @@ ehthumbs.db
 Thumbs.db
 
 # Project specific
-publish/das-erda-buch.md
-publish/das-erda-buch.pdf
-publish/combined.md
-publish/combined.pdf
+#publish/das-erda-buch.md
+#publish/das-erda-buch.pdf
+#publish/combined.md
+#publish/combined.pdf
 
 # Temporary files
 *.tmp
