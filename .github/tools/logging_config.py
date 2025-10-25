@@ -24,7 +24,7 @@ def _configure_root_logger() -> None:
     if log_dir:
         log_path = Path(log_dir)
         log_path.mkdir(parents=True, exist_ok=True)
-        file_handler = logging.FileHandler(log_path / "workflow.log")
+        file_handler = logging.FileHandler(log_path / "workflow.log", encoding="utf-8")
         file_handler.setLevel(logging.INFO)
         file_handler.setFormatter(formatter)
         root_logger.addHandler(file_handler)

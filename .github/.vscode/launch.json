@@ -5,14 +5,17 @@
       "name": "Orchestrator (local)",
       "type": "debugpy",
       "request": "launch",
-      "module": "tools.workflow_orchestrator",
-      "cwd": "${workspaceFolder}/..",
+      "module": "tools.workflow_orchestrator.orchestrator",
+      "cwd": "${workspaceFolder}/../../",
       "args": [
         "--profile",
         "local",
         "--manifest",
-        "publish.yml"
-      ]
+        "repo/gitbook_repo/publish.yml"
+      ],
+      "env": {
+        "PYTHONPATH": "${workspaceFolder}"
+      }
     }
   ]
 }

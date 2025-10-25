@@ -340,7 +340,9 @@ def _load_manifest_order(path: Path) -> Dict[str, int]:
         logger.warning("Summary-Order-Manifest nicht gefunden: %s", path)
         return {}
     except Exception as exc:
-        logger.warning("Summary-Order-Manifest %s konnte nicht gelesen werden: %s", path, exc)
+        logger.warning(
+            "Summary-Order-Manifest %s konnte nicht gelesen werden: %s", path, exc
+        )
         return {}
 
     entries: List[str] = []
@@ -379,7 +381,9 @@ def _load_manifest_order(path: Path) -> Dict[str, int]:
     return manifest
 
 
-def _manifest_rank(path: Path, context: SummaryContext, options: SummaryOptions) -> Optional[int]:
+def _manifest_rank(
+    path: Path, context: SummaryContext, options: SummaryOptions
+) -> Optional[int]:
     if not options.manifest_order:
         return None
 
@@ -562,7 +566,7 @@ def build_summary_lines(
             f"* [{_make_item_title(file_path)}]({_relative_link(file_path, context.root_dir)})"
         )
 
-    for child in _child_dirs(context.root_dir):
+    for child in _child_dirs(context.root_dir, context, options):
         emit_directory(child, level=0)
 
     return lines
@@ -594,7 +598,9 @@ def ensure_clean_summary(
                 "summary_mode 'manual' – bestehende SUMMARY.md wird nicht verändert"
             )
         else:
-            logger.info("summary_mode 'manual' – keine SUMMARY.md vorhanden, übersprungen")
+            logger.info(
+                "summary_mode 'manual' – keine SUMMARY.md vorhanden, übersprungen"
+            )
         return False
 
     context.summary_path.parent.mkdir(parents=True, exist_ok=True)
