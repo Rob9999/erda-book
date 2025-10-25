@@ -53,6 +53,12 @@ logger = get_logger(__name__)
 
 _TRUE_VALUES = {"1", "true", "yes", "on", "y"}
 
+_SEMVER_RE = re.compile(
+    r"^(0|[1-9]\d*)\.(0|[1-9]\d*)\.(0|[1-9]\d*)(?:[-+][0-9A-Za-z.-]+)?$"
+)
+_MANIFEST_VERSION_MIN = (0, 1, 0)
+_MANIFEST_VERSION_CURRENT = (0, 1, 0)
+
 
 def _as_bool(value: Any, default: bool = False) -> bool:
     if isinstance(value, bool):
@@ -98,6 +104,23 @@ def _is_debian_like() -> bool:
 
 def _ensure_dir(path: str) -> None:
     pathlib.Path(path).mkdir(parents=True, exist_ok=True)
+
+
+def _parse_semver(value: str) -> Tuple[int, int, int]:
+    if not isinstance(value, str):
+        raise ValueError("Manifest-Version muss ein String sein.")
+    candidate = value.strip()
+    match = _SEMVER_RE.match(candidate)
+    if not match:
+        raise ValueError(
+            "Manifest-Version muss dem SemVer-Format MAJOR.MINOR.PATCH entsprechen."
+        )
+    major_s, minor_s, patch_s = match.groups()
+    return int(major_s), int(minor_s), int(patch_s)
+
+
+def _format_semver(parts: Tuple[int, int, int]) -> str:
+    return ".".join(str(p) for p in parts)
 
 
 def _resolve_publish_directory(base_dir: Path, value: Optional[str]) -> Path:
@@ -147,6 +170,43 @@ def _load_yaml(path: str) -> Dict[str, Any]:
 
     with open(path, "r", encoding="utf-8") as f:
         data = yaml.safe_load(f) or {}
+
+    version_value = data.get("version")
+    if version_value is None:
+        logger.error("Manifest-Version fehlt (Schlüssel 'version').")
+        sys.exit(3)
+
+    try:
+        manifest_version = _parse_semver(str(version_value))
+    except ValueError as exc:
+        logger.error("Ungültige Manifest-Version '%s': %s", version_value, exc)
+        sys.exit(3)
+
+    if manifest_version[0] != _MANIFEST_VERSION_CURRENT[0]:
+        logger.error(
+            "Manifest-Major-Version %s wird nicht unterstützt (erwartet %d.x.x).",
+            version_value,
+            _MANIFEST_VERSION_CURRENT[0],
+        )
+        sys.exit(3)
+
+    if manifest_version < _MANIFEST_VERSION_MIN:
+        logger.error(
+            "Manifest-Version %s ist zu alt. Minimal unterstützt: %s.",
+            version_value,
+            _format_semver(_MANIFEST_VERSION_MIN),
+        )
+        sys.exit(3)
+
+    if manifest_version > _MANIFEST_VERSION_CURRENT:
+        logger.warning(
+            "Manifest-Version %s ist neuer als die getestete %s – versuche fortzufahren.",
+            version_value,
+            _format_semver(_MANIFEST_VERSION_CURRENT),
+        )
+
+    data["_manifest_version"] = manifest_version
+
     if "publish" not in data or not isinstance(data["publish"], list):
         logger.error("Ungültiges Manifest – Top-Level 'publish' (Liste) fehlt.")
         sys.exit(3)
@@ -156,8 +216,9 @@ def _load_yaml(path: str) -> Dict[str, Any]:
 def _save_yaml(path: str, data: Dict[str, Any]) -> None:
     import yaml
 
+    serialisable = {k: v for k, v in data.items() if not str(k).startswith("_")}
     with open(path, "w", encoding="utf-8") as f:
-        yaml.safe_dump(data, f, sort_keys=False, allow_unicode=True)
+        yaml.safe_dump(serialisable, f, sort_keys=False, allow_unicode=True)
 
 
 # --------------------------- Public API (A) -------------------------------- #
@@ -169,6 +230,9 @@ def get_publish_list(manifest_path: Optional[str] = None) -> List[Dict[str, Any]
     prepareYAML()
     mpath = find_publish_manifest(manifest_path)
     data = _load_yaml(mpath)
+    manifest_version = data.get("_manifest_version")
+    if isinstance(manifest_version, tuple):
+        logger.info("Manifest-Version: %s", _format_semver(manifest_version))
     res: List[Dict[str, Any]] = []
 
     for entry in data.get("publish", []):
