@@ -27,9 +27,9 @@ import re
 import shutil
 import subprocess
 import sys
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from pathlib import Path
-from typing import Iterable, List
+from typing import Dict, Iterable, List, Optional
 from tools.logging_config import get_logger
 
 SKIP_DIRS: set[str] = {
@@ -41,6 +41,15 @@ SKIP_DIRS: set[str] = {
     "simulations",
 }
 MD_EXTENSIONS: set[str] = {".md"}
+DEFAULT_MANUAL_MARKER = "<!-- SUMMARY: MANUAL -->"
+VALID_SUMMARY_MODES = {
+    "gitbook",
+    "unsorted",
+    "alpha",
+    "title",
+    "manifest",
+    "manual",
+}
 logger = get_logger(__name__)
 
 
@@ -167,6 +176,13 @@ class SummaryContext:
     summary_path: Path
 
 
+@dataclass(frozen=True)
+class SummaryOptions:
+    mode: str = "gitbook"
+    manifest_order: Dict[str, int] = field(default_factory=dict)
+    manual_marker: Optional[str] = DEFAULT_MANUAL_MARKER
+
+
 def _find_book_base(base_dir: Path) -> Path | None:
     """Locate the directory containing ``book.json`` starting from ``base_dir``.
 
@@ -209,7 +225,249 @@ def get_summary_layout(base_dir: Path) -> SummaryContext:
     return _build_summary_context(base_dir)
 
 
-def _md_files_in_dir(directory: Path, summary_path: Path) -> List[Path]:
+def _resolve_manifest_path(
+    manifest: Optional[Path], context: SummaryContext
+) -> Optional[Path]:
+    if manifest is None:
+        return None
+    if manifest.is_absolute():
+        return manifest
+    candidate = (context.root_dir / manifest).resolve()
+    return candidate
+
+
+def _build_summary_options(
+    context: SummaryContext,
+    *,
+    mode: Optional[str],
+    manifest: Optional[Path],
+    manual_marker: Optional[str],
+) -> SummaryOptions:
+    resolved_mode = (mode or "gitbook").strip().lower() or "gitbook"
+    if resolved_mode not in VALID_SUMMARY_MODES:
+        logger.warning(
+            "Unbekannter summary_mode '%s' – fallback auf 'gitbook'", resolved_mode
+        )
+        resolved_mode = "gitbook"
+
+    manifest_path = _resolve_manifest_path(manifest, context)
+
+    manifest_order: Dict[str, int] = {}
+    if manifest_path and resolved_mode == "gitbook":
+        logger.info(
+            "summary_mode 'gitbook' mit Manifest %s – benutze 'manifest'", manifest_path
+        )
+        resolved_mode = "manifest"
+
+    if resolved_mode == "manifest":
+        if manifest_path is None:
+            logger.warning(
+                "summary_mode 'manifest' ohne summary_order_manifest – fallback auf 'gitbook'"
+            )
+            resolved_mode = "gitbook"
+        else:
+            manifest_order = _load_manifest_order(manifest_path)
+            if not manifest_order:
+                logger.warning(
+                    "summary_order_manifest %s enthält keine verwertbaren Einträge – fallback auf 'gitbook'",
+                    manifest_path,
+                )
+                resolved_mode = "gitbook"
+
+    manual = manual_marker.strip() if isinstance(manual_marker, str) else None
+    if manual == "":
+        manual = None
+
+    return SummaryOptions(
+        mode=resolved_mode,
+        manifest_order=manifest_order,
+        manual_marker=manual,
+    )
+
+
+def _normalise_manifest_key(value: str) -> str:
+    cleaned = value.replace("\\", "/").strip()
+    cleaned = re.sub(r"/+", "/", cleaned)
+    if cleaned.startswith("./"):
+        cleaned = cleaned[2:]
+    cleaned = cleaned.strip("/")
+    return cleaned.lower()
+
+
+def _parse_manifest_lines(text: str) -> List[str]:
+    entries: List[str] = []
+    for line in text.splitlines():
+        stripped = line.strip()
+        if not stripped or stripped.startswith("#"):
+            continue
+        if stripped.startswith("- "):
+            stripped = stripped[2:].strip()
+        hash_index = stripped.find("#")
+        if hash_index != -1 and (hash_index == 0 or stripped[hash_index - 1].isspace()):
+            stripped = stripped[:hash_index].strip()
+        if not stripped:
+            continue
+        entries.append(stripped)
+    return entries
+
+
+def _manifest_entries_from_data(data: object) -> List[str]:
+    entries: List[str] = []
+    if isinstance(data, list):
+        for item in data:
+            if isinstance(item, str):
+                entries.append(item)
+            elif isinstance(item, dict):
+                path_value = item.get("path") or item.get("file") or item.get("src")
+                if isinstance(path_value, str):
+                    entries.append(path_value)
+    elif isinstance(data, dict):
+        for key in ("order", "summary", "chapters", "items"):
+            nested = data.get(key)
+            if isinstance(nested, (list, dict)):
+                entries.extend(_manifest_entries_from_data(nested))
+        if not entries:
+            for value in data.values():
+                if isinstance(value, str):
+                    entries.append(value)
+    return entries
+
+
+def _load_manifest_order(path: Path) -> Dict[str, int]:
+    try:
+        text = path.read_text(encoding="utf-8")
+    except FileNotFoundError:
+        logger.warning("Summary-Order-Manifest nicht gefunden: %s", path)
+        return {}
+    except Exception as exc:
+        logger.warning("Summary-Order-Manifest %s konnte nicht gelesen werden: %s", path, exc)
+        return {}
+
+    entries: List[str] = []
+    data: object = None
+
+    try:
+        import yaml  # type: ignore
+
+        try:
+            data = yaml.safe_load(text)
+        except Exception as exc:  # pragma: no cover - best effort
+            logger.warning("Konnte YAML aus %s nicht parsen: %s", path, exc)
+    except Exception:
+        data = None
+
+    if data is None:
+        try:
+            data = json.loads(text)
+        except Exception:
+            data = None
+
+    if data is not None:
+        entries = _manifest_entries_from_data(data)
+
+    if not entries:
+        entries = _parse_manifest_lines(text)
+
+    manifest: Dict[str, int] = {}
+    for index, raw in enumerate(entries):
+        if not isinstance(raw, str):
+            continue
+        key = _normalise_manifest_key(raw)
+        if not key:
+            continue
+        manifest.setdefault(key, index)
+    return manifest
+
+
+def _manifest_rank(path: Path, context: SummaryContext, options: SummaryOptions) -> Optional[int]:
+    if not options.manifest_order:
+        return None
+
+    try:
+        rel = path.relative_to(context.root_dir).as_posix()
+    except ValueError:
+        rel = path.as_posix()
+    candidates = [_normalise_manifest_key(rel)]
+
+    if path.is_dir():
+        candidates.append(_normalise_manifest_key(f"{rel}/"))
+    else:
+        name = path.name.lower()
+        if name == "readme.md":
+            try:
+                parent_rel = path.parent.relative_to(context.root_dir).as_posix()
+            except ValueError:
+                parent_rel = path.parent.as_posix()
+            candidates.append(_normalise_manifest_key(parent_rel))
+            candidates.append(_normalise_manifest_key(f"{parent_rel}/"))
+            candidates.append(_normalise_manifest_key(f"{parent_rel}/readme.md"))
+
+    for candidate in candidates:
+        if candidate in options.manifest_order:
+            return options.manifest_order[candidate]
+    return None
+
+
+def _directory_title(directory: Path) -> str:
+    try:
+        for candidate in directory.iterdir():
+            if candidate.is_file() and candidate.name.lower() == "readme.md":
+                return _make_item_title(candidate)
+    except Exception:
+        pass
+    return _title_from_filename(directory)
+
+
+def _sort_file_paths(
+    files: List[Path], context: SummaryContext, options: SummaryOptions
+) -> List[Path]:
+    mode = options.mode
+    if mode == "unsorted":
+        return files
+    if mode == "alpha":
+        return sorted(files, key=lambda p: p.name.lower())
+    if mode == "title":
+        return sorted(files, key=lambda p: _make_item_title(p).lower())
+    if mode == "manifest":
+        max_index = len(options.manifest_order) + 1
+        return sorted(
+            files,
+            key=lambda p: (
+                _manifest_rank(p, context, options) or max_index,
+                _natural_key(p.name),
+            ),
+        )
+    return sorted(files, key=lambda p: _natural_key(p.name))
+
+
+def _sort_dir_paths(
+    dirs: List[Path], context: SummaryContext, options: SummaryOptions
+) -> List[Path]:
+    mode = options.mode
+    if mode == "unsorted":
+        return dirs
+    if mode == "alpha":
+        return sorted(dirs, key=lambda p: p.name.lower())
+    if mode == "title":
+        return sorted(dirs, key=lambda p: _directory_title(p).lower())
+    if mode == "manifest":
+        max_index = len(options.manifest_order) + 1
+        return sorted(
+            dirs,
+            key=lambda p: (
+                _manifest_rank(p, context, options) or max_index,
+                _natural_key(p.name),
+            ),
+        )
+    return sorted(dirs, key=lambda p: _natural_key(p.name))
+
+
+def _md_files_in_dir(
+    directory: Path,
+    summary_path: Path,
+    context: SummaryContext,
+    options: SummaryOptions,
+) -> List[Path]:
     files = [
         p
         for p in directory.iterdir()
@@ -217,17 +475,20 @@ def _md_files_in_dir(directory: Path, summary_path: Path) -> List[Path]:
     ]
     files = [p for p in files if p.resolve() != summary_path.resolve()]
     readme_files = [p for p in files if p.name.lower() == "readme.md"]
-    other_files = sorted(
-        (p for p in files if p.name.lower() != "readme.md"),
-        key=lambda p: _natural_key(p.name),
-    )
+    other_files = [p for p in files if p.name.lower() != "readme.md"]
+    if options.mode != "unsorted":
+        other_files = _sort_file_paths(other_files, context, options)
     return readme_files + other_files
 
 
-def _child_dirs(directory: Path) -> List[Path]:
+def _child_dirs(
+    directory: Path, context: SummaryContext, options: SummaryOptions
+) -> List[Path]:
     dirs = [p for p in directory.iterdir() if p.is_dir()]
     dirs = [p for p in dirs if p.name not in SKIP_DIRS and not p.name.startswith(".")]
-    return sorted(dirs, key=lambda p: _natural_key(p.name))
+    if options.mode == "unsorted":
+        return dirs
+    return _sort_dir_paths(dirs, context, options)
 
 
 def _relative_link(path: Path, root: Path) -> str:
@@ -243,11 +504,14 @@ def _make_item_title(path: Path) -> str:
     return heading.replace("[", "(").replace("]", ")")
 
 
-def build_summary_lines(context: SummaryContext) -> List[str]:
+def build_summary_lines(
+    context: SummaryContext, options: Optional[SummaryOptions] = None
+) -> List[str]:
+    options = options or SummaryOptions()
     lines = ["# Summary", ""]
 
     def emit_directory(directory: Path, level: int) -> None:
-        files = _md_files_in_dir(directory, context.summary_path)
+        files = _md_files_in_dir(directory, context.summary_path, context, options)
         readme = next((p for p in files if p.name.lower() == "readme.md"), None)
 
         if directory != context.root_dir:
@@ -279,10 +543,12 @@ def build_summary_lines(context: SummaryContext) -> List[str]:
                     + f"* [{_make_item_title(file_path)}]({_relative_link(file_path, context.root_dir)})"
                 )
 
-        for child in _child_dirs(directory):
+        for child in _child_dirs(directory, context, options):
             emit_directory(child, level if directory == context.root_dir else level + 1)
 
-    top_files = _md_files_in_dir(context.root_dir, context.summary_path)
+    top_files = _md_files_in_dir(
+        context.root_dir, context.summary_path, context, options
+    )
     top_readme = [p for p in top_files if p.name.lower() == "readme.md"]
     top_others = [p for p in top_files if p.name.lower() != "readme.md"]
 
@@ -302,13 +568,35 @@ def build_summary_lines(context: SummaryContext) -> List[str]:
     return lines
 
 
-def ensure_clean_summary(base_dir: Path, *, run_git: bool = True) -> bool:
+def ensure_clean_summary(
+    base_dir: Path,
+    *,
+    run_git: bool = True,
+    summary_mode: Optional[str] = None,
+    summary_order_manifest: Optional[Path] = None,
+    manual_marker: Optional[str] = DEFAULT_MANUAL_MARKER,
+) -> bool:
     """Regenerate SUMMARY.md from book.json structure.
     Returns True if the file was changed.
     """
     logger.info(f"Ensuring clean SUMMARY.md in {base_dir}")
     context = get_summary_layout(base_dir)
-    new_content = "\n".join(build_summary_lines(context)).rstrip() + "\n"
+    options = _build_summary_options(
+        context,
+        mode=summary_mode,
+        manifest=summary_order_manifest,
+        manual_marker=manual_marker,
+    )
+
+    if options.mode == "manual":
+        if context.summary_path.exists():
+            logger.info(
+                "summary_mode 'manual' – bestehende SUMMARY.md wird nicht verändert"
+            )
+        else:
+            logger.info("summary_mode 'manual' – keine SUMMARY.md vorhanden, übersprungen")
+        return False
+
     context.summary_path.parent.mkdir(parents=True, exist_ok=True)
     old_content = ""
     if context.summary_path.exists():
@@ -316,6 +604,15 @@ def ensure_clean_summary(base_dir: Path, *, run_git: bool = True) -> bool:
             old_content = context.summary_path.read_text(encoding="utf-8")
         except Exception:
             old_content = ""
+
+    if options.manual_marker and options.manual_marker in old_content:
+        logger.info(
+            "SUMMARY.md enthält manuellen Marker (%s) – Datei bleibt unverändert",
+            options.manual_marker,
+        )
+        return False
+
+    new_content = "\n".join(build_summary_lines(context, options)).rstrip() + "\n"
 
     if old_content == new_content:
         logger.info(f"No changes to {context.summary_path}")
@@ -354,6 +651,25 @@ def parse_args(argv: Iterable[str] | None = None) -> argparse.Namespace:
     summary_parser.add_argument(
         "--no-git", action="store_true", help="Do not stage files with git"
     )
+    summary_parser.add_argument(
+        "--summary-mode",
+        choices=sorted(VALID_SUMMARY_MODES),
+        default="gitbook",
+        help=(
+            "Steuerung der Kapitelreihenfolge: gitbook, unsorted, alpha, title, "
+            "manifest oder manual"
+        ),
+    )
+    summary_parser.add_argument(
+        "--summary-order-manifest",
+        type=Path,
+        help="Optionale Manifest-Datei (YAML/JSON) mit expliziter Kapitelreihenfolge",
+    )
+    summary_parser.add_argument(
+        "--summary-manual-marker",
+        default=DEFAULT_MANUAL_MARKER,
+        help="Marker, der eine manuell gepflegte SUMMARY kennzeichnet (leer = aus)",
+    )
 
     return parser.parse_args(argv)
 
@@ -370,7 +686,13 @@ def main(argv: list[str] | None = None) -> int:
         return 0
 
     if args.command == "summary":
-        changed = ensure_clean_summary(args.root.resolve(), run_git=not args.no_git)
+        changed = ensure_clean_summary(
+            args.root.resolve(),
+            run_git=not args.no_git,
+            summary_mode=args.summary_mode,
+            summary_order_manifest=args.summary_order_manifest,
+            manual_marker=args.summary_manual_marker,
+        )
         print("SUMMARY.MD UPDATED" if changed else "SUMMARY.MD OK")
         return 0
 

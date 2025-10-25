@@ -40,6 +40,7 @@ from tools.publishing.markdown_combiner import (
 )
 from tools.publishing.preprocess_md import process
 from tools.publishing.gitbook_style import (
+    DEFAULT_MANUAL_MARKER,
     SummaryContext,
     ensure_clean_summary,
     get_summary_layout,
@@ -51,6 +52,12 @@ logger = get_logger(__name__)
 
 
 _TRUE_VALUES = {"1", "true", "yes", "on", "y"}
+
+_SEMVER_RE = re.compile(
+    r"^(0|[1-9]\d*)\.(0|[1-9]\d*)\.(0|[1-9]\d*)(?:[-+][0-9A-Za-z.-]+)?$"
+)
+_MANIFEST_VERSION_MIN = (0, 1, 0)
+_MANIFEST_VERSION_CURRENT = (0, 1, 0)
 
 
 def _as_bool(value: Any, default: bool = False) -> bool:
@@ -97,6 +104,23 @@ def _is_debian_like() -> bool:
 
 def _ensure_dir(path: str) -> None:
     pathlib.Path(path).mkdir(parents=True, exist_ok=True)
+
+
+def _parse_semver(value: str) -> Tuple[int, int, int]:
+    if not isinstance(value, str):
+        raise ValueError("Manifest-Version muss ein String sein.")
+    candidate = value.strip()
+    match = _SEMVER_RE.match(candidate)
+    if not match:
+        raise ValueError(
+            "Manifest-Version muss dem SemVer-Format MAJOR.MINOR.PATCH entsprechen."
+        )
+    major_s, minor_s, patch_s = match.groups()
+    return int(major_s), int(minor_s), int(patch_s)
+
+
+def _format_semver(parts: Tuple[int, int, int]) -> str:
+    return ".".join(str(p) for p in parts)
 
 
 def _resolve_publish_directory(base_dir: Path, value: Optional[str]) -> Path:
@@ -146,6 +170,43 @@ def _load_yaml(path: str) -> Dict[str, Any]:
 
     with open(path, "r", encoding="utf-8") as f:
         data = yaml.safe_load(f) or {}
+
+    version_value = data.get("version")
+    if version_value is None:
+        logger.error("Manifest-Version fehlt (Schlüssel 'version').")
+        sys.exit(3)
+
+    try:
+        manifest_version = _parse_semver(str(version_value))
+    except ValueError as exc:
+        logger.error("Ungültige Manifest-Version '%s': %s", version_value, exc)
+        sys.exit(3)
+
+    if manifest_version[0] != _MANIFEST_VERSION_CURRENT[0]:
+        logger.error(
+            "Manifest-Major-Version %s wird nicht unterstützt (erwartet %d.x.x).",
+            version_value,
+            _MANIFEST_VERSION_CURRENT[0],
+        )
+        sys.exit(3)
+
+    if manifest_version < _MANIFEST_VERSION_MIN:
+        logger.error(
+            "Manifest-Version %s ist zu alt. Minimal unterstützt: %s.",
+            version_value,
+            _format_semver(_MANIFEST_VERSION_MIN),
+        )
+        sys.exit(3)
+
+    if manifest_version > _MANIFEST_VERSION_CURRENT:
+        logger.warning(
+            "Manifest-Version %s ist neuer als die getestete %s – versuche fortzufahren.",
+            version_value,
+            _format_semver(_MANIFEST_VERSION_CURRENT),
+        )
+
+    data["_manifest_version"] = manifest_version
+
     if "publish" not in data or not isinstance(data["publish"], list):
         logger.error("Ungültiges Manifest – Top-Level 'publish' (Liste) fehlt.")
         sys.exit(3)
@@ -155,8 +216,9 @@ def _load_yaml(path: str) -> Dict[str, Any]:
 def _save_yaml(path: str, data: Dict[str, Any]) -> None:
     import yaml
 
+    serialisable = {k: v for k, v in data.items() if not str(k).startswith("_")}
     with open(path, "w", encoding="utf-8") as f:
-        yaml.safe_dump(data, f, sort_keys=False, allow_unicode=True)
+        yaml.safe_dump(serialisable, f, sort_keys=False, allow_unicode=True)
 
 
 # --------------------------- Public API (A) -------------------------------- #
@@ -168,6 +230,9 @@ def get_publish_list(manifest_path: Optional[str] = None) -> List[Dict[str, Any]
     prepareYAML()
     mpath = find_publish_manifest(manifest_path)
     data = _load_yaml(mpath)
+    manifest_version = data.get("_manifest_version")
+    if isinstance(manifest_version, tuple):
+        logger.info("Manifest-Version: %s", _format_semver(manifest_version))
     res: List[Dict[str, Any]] = []
 
     for entry in data.get("publish", []):
@@ -195,6 +260,9 @@ def get_publish_list(manifest_path: Optional[str] = None) -> List[Dict[str, Any]
             "use_summary": _as_bool(entry.get("use_summary")),
             "use_book_json": _as_bool(entry.get("use_book_json")),
             "keep_combined": _as_bool(entry.get("keep_combined")),
+            "summary_mode": entry.get("summary_mode"),
+            "summary_order_manifest": entry.get("summary_order_manifest"),
+            "summary_manual_marker": entry.get("summary_manual_marker"),
         }
         res.append(result)
 
@@ -548,6 +616,9 @@ def build_pdf(
     keep_combined: bool = False,
     publish_dir: str = "publish",
     paper_format: str = "a4",
+    summary_mode: Optional[str] = None,
+    summary_order_manifest: Optional[Path] = None,
+    summary_manual_marker: Optional[str] = DEFAULT_MANUAL_MARKER,
 ) -> Tuple[bool, Optional[str]]:
     """
     Baut ein PDF gemäß Typ ('file'/'folder').
@@ -584,10 +655,25 @@ def build_pdf(
             )
         elif _typ == "folder":
             summary_layout: Optional[SummaryContext] = None
-            if use_book_json:
+            needs_summary_refresh = (
+                use_book_json
+                or summary_mode is not None
+                or summary_order_manifest is not None
+                or (
+                    summary_manual_marker is not None
+                    and summary_manual_marker != DEFAULT_MANUAL_MARKER
+                )
+            )
+            if needs_summary_refresh:
                 try:
                     summary_layout = get_summary_layout(path_obj)
-                    ensure_clean_summary(summary_layout.base_dir, run_git=False)
+                    ensure_clean_summary(
+                        summary_layout.base_dir,
+                        run_git=False,
+                        summary_mode=summary_mode,
+                        summary_order_manifest=summary_order_manifest,
+                        manual_marker=summary_manual_marker,
+                    )
                 except Exception as exc:  # pragma: no cover - best effort logging
                     logger.warning(
                         "Konnte SUMMARY via book.json nicht aktualisieren: %s", exc
@@ -595,7 +681,9 @@ def build_pdf(
             convert_a_folder(
                 str(path_obj),
                 str(pdf_out),
-                use_summary=use_summary or use_book_json,
+                use_summary=use_summary
+                or use_book_json
+                or summary_layout is not None,
                 keep_converted_markdown=keep_combined,
                 publish_dir=str(publish_path),
                 paper_format=paper_format,
@@ -708,6 +796,23 @@ def main() -> None:
             if publish_base
             else default_publish_dir
         )
+        summary_mode = entry.get("summary_mode")
+        if summary_mode is not None:
+            summary_mode = str(summary_mode).strip() or None
+        manifest_value = entry.get("summary_order_manifest")
+        summary_manifest_path: Optional[Path]
+        if manifest_value:
+            summary_manifest_path = Path(str(manifest_value))
+            if not summary_manifest_path.is_absolute():
+                summary_manifest_path = (manifest_dir / summary_manifest_path).resolve()
+        else:
+            summary_manifest_path = None
+        summary_manual_marker_value = entry.get("summary_manual_marker")
+        if summary_manual_marker_value is None:
+            summary_manual_marker = DEFAULT_MANUAL_MARKER
+        else:
+            summary_manual_marker = str(summary_manual_marker_value)
+
         ok, msg = build_pdf(
             path=path,
             out=out,
@@ -717,6 +822,9 @@ def main() -> None:
             keep_combined=entry["keep_combined"],
             paper_format=args.paper_format,
             publish_dir=str(publish_dir_path),
+            summary_mode=summary_mode,
+            summary_order_manifest=summary_manifest_path,
+            summary_manual_marker=summary_manual_marker,
         )
         if ok:
             built.append(str((publish_dir_path / out).resolve()))
