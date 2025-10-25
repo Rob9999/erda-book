@@ -42,5 +42,6 @@ publish:
   source_format: markdown
   use_summary: true
   use_book_json: true
+  summary_mode: gitbook
   keep_combined: true
   build: false

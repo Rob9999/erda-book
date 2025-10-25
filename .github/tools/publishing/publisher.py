@@ -40,6 +40,7 @@ from tools.publishing.markdown_combiner import (
 )
 from tools.publishing.preprocess_md import process
 from tools.publishing.gitbook_style import (
+    DEFAULT_MANUAL_MARKER,
     SummaryContext,
     ensure_clean_summary,
     get_summary_layout,
@@ -195,6 +196,9 @@ def get_publish_list(manifest_path: Optional[str] = None) -> List[Dict[str, Any]
             "use_summary": _as_bool(entry.get("use_summary")),
             "use_book_json": _as_bool(entry.get("use_book_json")),
             "keep_combined": _as_bool(entry.get("keep_combined")),
+            "summary_mode": entry.get("summary_mode"),
+            "summary_order_manifest": entry.get("summary_order_manifest"),
+            "summary_manual_marker": entry.get("summary_manual_marker"),
         }
         res.append(result)
 
@@ -548,6 +552,9 @@ def build_pdf(
     keep_combined: bool = False,
     publish_dir: str = "publish",
     paper_format: str = "a4",
+    summary_mode: Optional[str] = None,
+    summary_order_manifest: Optional[Path] = None,
+    summary_manual_marker: Optional[str] = DEFAULT_MANUAL_MARKER,
 ) -> Tuple[bool, Optional[str]]:
     """
     Baut ein PDF gemäß Typ ('file'/'folder').
@@ -584,10 +591,25 @@ def build_pdf(
             )
         elif _typ == "folder":
             summary_layout: Optional[SummaryContext] = None
-            if use_book_json:
+            needs_summary_refresh = (
+                use_book_json
+                or summary_mode is not None
+                or summary_order_manifest is not None
+                or (
+                    summary_manual_marker is not None
+                    and summary_manual_marker != DEFAULT_MANUAL_MARKER
+                )
+            )
+            if needs_summary_refresh:
                 try:
                     summary_layout = get_summary_layout(path_obj)
-                    ensure_clean_summary(summary_layout.base_dir, run_git=False)
+                    ensure_clean_summary(
+                        summary_layout.base_dir,
+                        run_git=False,
+                        summary_mode=summary_mode,
+                        summary_order_manifest=summary_order_manifest,
+                        manual_marker=summary_manual_marker,
+                    )
                 except Exception as exc:  # pragma: no cover - best effort logging
                     logger.warning(
                         "Konnte SUMMARY via book.json nicht aktualisieren: %s", exc
@@ -595,7 +617,9 @@ def build_pdf(
             convert_a_folder(
                 str(path_obj),
                 str(pdf_out),
-                use_summary=use_summary or use_book_json,
+                use_summary=use_summary
+                or use_book_json
+                or summary_layout is not None,
                 keep_converted_markdown=keep_combined,
                 publish_dir=str(publish_path),
                 paper_format=paper_format,
@@ -708,6 +732,23 @@ def main() -> None:
             if publish_base
             else default_publish_dir
         )
+        summary_mode = entry.get("summary_mode")
+        if summary_mode is not None:
+            summary_mode = str(summary_mode).strip() or None
+        manifest_value = entry.get("summary_order_manifest")
+        summary_manifest_path: Optional[Path]
+        if manifest_value:
+            summary_manifest_path = Path(str(manifest_value))
+            if not summary_manifest_path.is_absolute():
+                summary_manifest_path = (manifest_dir / summary_manifest_path).resolve()
+        else:
+            summary_manifest_path = None
+        summary_manual_marker_value = entry.get("summary_manual_marker")
+        if summary_manual_marker_value is None:
+            summary_manual_marker = DEFAULT_MANUAL_MARKER
+        else:
+            summary_manual_marker = str(summary_manual_marker_value)
+
         ok, msg = build_pdf(
             path=path,
             out=out,
@@ -717,6 +758,9 @@ def main() -> None:
             keep_combined=entry["keep_combined"],
             paper_format=args.paper_format,
             publish_dir=str(publish_dir_path),
+            summary_mode=summary_mode,
+            summary_order_manifest=summary_manifest_path,
+            summary_manual_marker=summary_manual_marker,
         )
         if ok:
             built.append(str((publish_dir_path / out).resolve()))
