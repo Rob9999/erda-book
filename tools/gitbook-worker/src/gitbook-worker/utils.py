@@ -74,20 +74,84 @@ def font_available(name: str) -> bool:
     return name.lower() in out.lower()
 
 
+def is_appendix_line(line: str) -> bool:
+    """Check if a line represents an appendix entry."""
+    # Match common appendix patterns in both German and English
+    patterns = [
+        r"^\s*\*+\s*\[(?:Anhang|[A-Z]\. |Appendix).*\]",  # For "Anhang", "A. ", "B. ", etc. and "Appendix"
+        r"^\s*\*+\s*\[.+\]\(anhang-.*\.md\)",  # For files/folders starting with "anhang-"
+        r"^\s*\*+\s*\[.+\]\(appendix-.*\.md\)",  # For files/folders starting with "appendix-"
+    ]
+    return any(re.match(pattern, line) for pattern in patterns)
+
+
+def get_indent_level(line: str) -> int:
+    """Get the indentation level of a line based on number of leading asterisks."""
+    match = re.match(r"^\s*(\*+)", line)
+    return len(match.group(1)) if match else 0
+
+
 def parse_summary(summary_path):
-    """Parse SUMMARY.md to get an ordered list of markdown file paths."""
+    """Parse SUMMARY.md to get an ordered list of markdown file paths, with appendices at the end."""
     files = []
+    appendix_files = []
     base = os.path.dirname(summary_path)
+    current_structure = []
+    in_appendix = False
+
     try:
         with open(summary_path, encoding="utf-8") as f:
-            for line in f:
-                match = re.match(r"\s*\*+\s*\[.*\]\(([^)]+\.md)\)", line)
-                if match:
-                    files.append(os.path.join(base, match.group(1)))
+            lines = f.readlines()
+
+        i = 0
+        while i < len(lines):
+            line = lines[i]
+            if not line.strip():
+                i += 1
+                continue
+
+            # Check if this is an appendix line
+            is_appendix = is_appendix_line(line)
+            indent = get_indent_level(line)
+
+            # Clear structure above current indent level
+            current_structure = current_structure[:indent]
+
+            # Parse the markdown file path if present
+            match = re.match(r"\s*\*+\s*\[.*\]\(([^)]+\.md)\)", line)
+            if match:
+                file_path = os.path.join(base, match.group(1))
+                if is_appendix:
+                    # For appendix entries, collect them separately along with their children
+                    appendix_section = [file_path]
+                    current_indent = indent
+                    j = i + 1
+                    while j < len(lines):
+                        child_line = lines[j]
+                        if not child_line.strip():
+                            j += 1
+                            continue
+                        child_indent = get_indent_level(child_line)
+                        if child_indent <= current_indent:
+                            break
+                        child_match = re.match(
+                            r"\s*\*+\s*\[.*\]\(([^)]+\.md)\)", child_line
+                        )
+                        if child_match:
+                            child_path = os.path.join(base, child_match.group(1))
+                            appendix_section.append(child_path)
+                        j += 1
+                    appendix_files.extend(appendix_section)
+                    i = j - 1
+                else:
+                    files.append(file_path)
+            i += 1
     except Exception as e:
         logging.error("Failed to read SUMMARY.md: %s", e)
         sys.exit(1)
-    return files
+
+    # Combine main files and appendix files, with appendices at the end
+    return files + appendix_files
 
 
 def readability_report(md_files):

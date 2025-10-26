@@ -109,9 +109,7 @@ def _detect_manifest(root: Path, explicit: Path | None) -> Path:
         candidate = root / name
         if candidate.exists():
             return candidate.resolve()
-    raise FileNotFoundError(
-        f"Kein publish.yml|yaml im Verzeichnis {root} gefunden."
-    )
+    raise FileNotFoundError(f"Kein publish.yml|yaml im Verzeichnis {root} gefunden.")
 
 
 def _resolve_options(args: argparse.Namespace) -> PipelineOptions:
@@ -161,6 +159,25 @@ def _run_gitbook_steps(options: PipelineOptions) -> None:
         summary_args = ["summary", "--root", str(options.root)]
         if not options.gitbook_use_git:
             summary_args.append("--no-git")
+        # If the manifest requests appendices to be moved to the end, forward
+        # the flag to the gitbook summary command so the initial SUMMARY
+        # regeneration (run by the pipeline) uses the same option the
+        # publisher later receives.
+        try:
+            manifest_text = (options.manifest).read_text(encoding="utf-8")
+        except OSError:
+            manifest_text = ""
+        if "summary_appendices_last" in manifest_text:
+            # crude detection: check for a truthy setting in the manifest
+            for line in manifest_text.splitlines():
+                line_strip = line.strip()
+                if line_strip.startswith("summary_appendices_last"):
+                    # Accept formats like 'summary_appendices_last: true' (yaml)
+                    if ":" in line_strip:
+                        _, val = line_strip.split(":", 1)
+                        if val.strip().lower() in ("true", "yes", "y", "1"):
+                            summary_args.append("--summary-appendices-last")
+                    break
         _run_command(_build_python_cmd(script, *summary_args), cwd=options.root)
 
 

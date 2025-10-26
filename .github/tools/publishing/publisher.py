@@ -263,6 +263,7 @@ def get_publish_list(manifest_path: Optional[str] = None) -> List[Dict[str, Any]
             "summary_mode": entry.get("summary_mode"),
             "summary_order_manifest": entry.get("summary_order_manifest"),
             "summary_manual_marker": entry.get("summary_manual_marker"),
+            "summary_appendices_last": entry.get("summary_appendices_last"),
         }
         res.append(result)
 
@@ -395,9 +396,7 @@ def _run_pandoc(
     _run(cmd)
 
 
-def _extract_md_paths_from_summary(
-    summary_path: Path, root_dir: Path
-) -> List[str]:
+def _extract_md_paths_from_summary(summary_path: Path, root_dir: Path) -> List[str]:
     if not summary_path.exists():
         return []
 
@@ -422,9 +421,7 @@ def _extract_md_paths_from_summary(
     return list(resolved.keys())
 
 
-def _iter_summary_candidates(
-    folder: Path, summary_path: Optional[Path]
-) -> List[Path]:
+def _iter_summary_candidates(folder: Path, summary_path: Optional[Path]) -> List[Path]:
     candidates: List[Path] = []
     seen: set[Path] = set()
 
@@ -619,6 +616,7 @@ def build_pdf(
     summary_mode: Optional[str] = None,
     summary_order_manifest: Optional[Path] = None,
     summary_manual_marker: Optional[str] = DEFAULT_MANUAL_MARKER,
+    summary_appendices_last: bool = False,
 ) -> Tuple[bool, Optional[str]]:
     """
     Baut ein PDF gemäß Typ ('file'/'folder').
@@ -673,6 +671,7 @@ def build_pdf(
                         summary_mode=summary_mode,
                         summary_order_manifest=summary_order_manifest,
                         manual_marker=summary_manual_marker,
+                        summary_appendices_last=summary_appendices_last,
                     )
                 except Exception as exc:  # pragma: no cover - best effort logging
                     logger.warning(
@@ -681,9 +680,7 @@ def build_pdf(
             convert_a_folder(
                 str(path_obj),
                 str(pdf_out),
-                use_summary=use_summary
-                or use_book_json
-                or summary_layout is not None,
+                use_summary=use_summary or use_book_json or summary_layout is not None,
                 keep_converted_markdown=keep_combined,
                 publish_dir=str(publish_path),
                 paper_format=paper_format,
@@ -825,6 +822,7 @@ def main() -> None:
             summary_mode=summary_mode,
             summary_order_manifest=summary_manifest_path,
             summary_manual_marker=summary_manual_marker,
+            summary_appendices_last=_as_bool(entry.get("summary_appendices_last")),
         )
         if ok:
             built.append(str((publish_dir_path / out).resolve()))
@@ -857,7 +855,9 @@ def main() -> None:
                         "Konnte Manifest-Fallback-Reset nicht schreiben: %s", e
                     )
         else:
-            failed.append(str((publish_dir_path / out).resolve()) + (f": {msg}" if msg else ""))
+            failed.append(
+                str((publish_dir_path / out).resolve()) + (f": {msg}" if msg else "")
+            )
 
     # Outputs
     logger.info("::group::publisher.outputs")

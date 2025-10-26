@@ -30,6 +30,8 @@ import sys
 from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Dict, Iterable, List, Optional
+
+from tools.publishing import summary_generator
 from tools.logging_config import get_logger
 
 SKIP_DIRS: set[str] = {
@@ -50,6 +52,15 @@ VALID_SUMMARY_MODES = {
     "manifest",
     "manual",
 }
+
+# Map GitBook modes to summary_generator modes
+SUMMARY_MODE_MAP = {
+    "gitbook": summary_generator.SummaryMode.GITBOOK_STYLE.value,
+    "unsorted": summary_generator.SummaryMode.ORDERED_BY_FILESYSTEM.value,
+    "alpha": summary_generator.SummaryMode.ORDERED_BY_ALPHANUMERIC.value,
+    "manual": summary_generator.SummaryMode.MANUAL.value,
+}
+
 logger = get_logger(__name__)
 
 
@@ -92,6 +103,17 @@ def safe_git_mv(src: Path, dst: Path, *, use_git: bool = True) -> None:
             return
 
     src.rename(dst)
+
+
+def is_appendix_line(line: str) -> bool:
+    """Check if a line represents an appendix entry."""
+    # Match common appendix patterns in both German and English
+    patterns = [
+        r"^\s*\*+\s*\[(?:Anhang|[A-Z]\. |Appendix).*\]",  # For "Anhang", "A. ", "B. ", etc. and "Appendix"
+        r"^\s*\*+\s*\[.+\]\(anhang-.*\.md\)",  # For files/folders starting with "anhang-"
+        r"^\s*\*+\s*\[.+\]\(appendix-.*\.md\)",  # For files/folders starting with "appendix-"
+    ]
+    return any(re.match(pattern, line) for pattern in patterns)
 
 
 def rename_to_gitbook_style(root: Path, *, use_git: bool = True) -> None:
@@ -148,39 +170,11 @@ def read_json(path: Path) -> dict:
         return {}
 
 
-def _first_heading(text: str) -> str | None:
-    for line in text.splitlines():
-        stripped = line.strip()
-        if stripped.startswith("#"):
-            return re.sub(r"^#+\s*", "", stripped).strip()
-    return None
-
-
-def _title_from_filename(path: Path) -> str:
-    name = re.sub(r"[-_]+", " ", path.stem)
-    name = re.sub(r"\s+", " ", name).strip()
-    return name.title() if name else path.stem
-
-
-def _natural_key(value: str) -> List[int | str]:
-    return [
-        int(part) if part.isdigit() else part.lower()
-        for part in re.split(r"(\d+)", value)
-    ]
-
-
 @dataclass(frozen=True)
 class SummaryContext:
     base_dir: Path
     root_dir: Path
     summary_path: Path
-
-
-@dataclass(frozen=True)
-class SummaryOptions:
-    mode: str = "gitbook"
-    manifest_order: Dict[str, int] = field(default_factory=dict)
-    manual_marker: Optional[str] = DEFAULT_MANUAL_MARKER
 
 
 def _find_book_base(base_dir: Path) -> Path | None:
@@ -242,7 +236,9 @@ def _build_summary_options(
     mode: Optional[str],
     manifest: Optional[Path],
     manual_marker: Optional[str],
-) -> SummaryOptions:
+    appendices_last: bool = False,
+) -> tuple[str, str]:
+    """Build summary options and return (mode, submode)."""
     resolved_mode = (mode or "gitbook").strip().lower() or "gitbook"
     if resolved_mode not in VALID_SUMMARY_MODES:
         logger.warning(
@@ -250,39 +246,19 @@ def _build_summary_options(
         )
         resolved_mode = "gitbook"
 
-    manifest_path = _resolve_manifest_path(manifest, context)
-
-    manifest_order: Dict[str, int] = {}
-    if manifest_path and resolved_mode == "gitbook":
-        logger.info(
-            "summary_mode 'gitbook' mit Manifest %s – benutze 'manifest'", manifest_path
-        )
-        resolved_mode = "manifest"
-
-    if resolved_mode == "manifest":
-        if manifest_path is None:
-            logger.warning(
-                "summary_mode 'manifest' ohne summary_order_manifest – fallback auf 'gitbook'"
-            )
-            resolved_mode = "gitbook"
-        else:
-            manifest_order = _load_manifest_order(manifest_path)
-            if not manifest_order:
-                logger.warning(
-                    "summary_order_manifest %s enthält keine verwertbaren Einträge – fallback auf 'gitbook'",
-                    manifest_path,
-                )
-                resolved_mode = "gitbook"
-
-    manual = manual_marker.strip() if isinstance(manual_marker, str) else None
-    if manual == "":
-        manual = None
-
-    return SummaryOptions(
-        mode=resolved_mode,
-        manifest_order=manifest_order,
-        manual_marker=manual,
+    # Get the corresponding summary_generator mode from module-level map
+    gen_mode = SUMMARY_MODE_MAP.get(
+        resolved_mode, summary_generator.SummaryMode.GITBOOK_STYLE.value
     )
+
+    # Determine submode
+    gen_submode = (
+        summary_generator.SubMode.APPENDIX_LAST.value
+        if appendices_last
+        else summary_generator.SubMode.NONE.value
+    )
+
+    return gen_mode, gen_submode
 
 
 def _normalise_manifest_key(value: str) -> str:
@@ -381,197 +357,6 @@ def _load_manifest_order(path: Path) -> Dict[str, int]:
     return manifest
 
 
-def _manifest_rank(
-    path: Path, context: SummaryContext, options: SummaryOptions
-) -> Optional[int]:
-    if not options.manifest_order:
-        return None
-
-    try:
-        rel = path.relative_to(context.root_dir).as_posix()
-    except ValueError:
-        rel = path.as_posix()
-    candidates = [_normalise_manifest_key(rel)]
-
-    if path.is_dir():
-        candidates.append(_normalise_manifest_key(f"{rel}/"))
-    else:
-        name = path.name.lower()
-        if name == "readme.md":
-            try:
-                parent_rel = path.parent.relative_to(context.root_dir).as_posix()
-            except ValueError:
-                parent_rel = path.parent.as_posix()
-            candidates.append(_normalise_manifest_key(parent_rel))
-            candidates.append(_normalise_manifest_key(f"{parent_rel}/"))
-            candidates.append(_normalise_manifest_key(f"{parent_rel}/readme.md"))
-
-    for candidate in candidates:
-        if candidate in options.manifest_order:
-            return options.manifest_order[candidate]
-    return None
-
-
-def _directory_title(directory: Path) -> str:
-    try:
-        for candidate in directory.iterdir():
-            if candidate.is_file() and candidate.name.lower() == "readme.md":
-                return _make_item_title(candidate)
-    except Exception:
-        pass
-    return _title_from_filename(directory)
-
-
-def _sort_file_paths(
-    files: List[Path], context: SummaryContext, options: SummaryOptions
-) -> List[Path]:
-    mode = options.mode
-    if mode == "unsorted":
-        return files
-    if mode == "alpha":
-        return sorted(files, key=lambda p: p.name.lower())
-    if mode == "title":
-        return sorted(files, key=lambda p: _make_item_title(p).lower())
-    if mode == "manifest":
-        max_index = len(options.manifest_order) + 1
-        return sorted(
-            files,
-            key=lambda p: (
-                _manifest_rank(p, context, options) or max_index,
-                _natural_key(p.name),
-            ),
-        )
-    return sorted(files, key=lambda p: _natural_key(p.name))
-
-
-def _sort_dir_paths(
-    dirs: List[Path], context: SummaryContext, options: SummaryOptions
-) -> List[Path]:
-    mode = options.mode
-    if mode == "unsorted":
-        return dirs
-    if mode == "alpha":
-        return sorted(dirs, key=lambda p: p.name.lower())
-    if mode == "title":
-        return sorted(dirs, key=lambda p: _directory_title(p).lower())
-    if mode == "manifest":
-        max_index = len(options.manifest_order) + 1
-        return sorted(
-            dirs,
-            key=lambda p: (
-                _manifest_rank(p, context, options) or max_index,
-                _natural_key(p.name),
-            ),
-        )
-    return sorted(dirs, key=lambda p: _natural_key(p.name))
-
-
-def _md_files_in_dir(
-    directory: Path,
-    summary_path: Path,
-    context: SummaryContext,
-    options: SummaryOptions,
-) -> List[Path]:
-    files = [
-        p
-        for p in directory.iterdir()
-        if p.is_file() and p.suffix.lower() in MD_EXTENSIONS
-    ]
-    files = [p for p in files if p.resolve() != summary_path.resolve()]
-    readme_files = [p for p in files if p.name.lower() == "readme.md"]
-    other_files = [p for p in files if p.name.lower() != "readme.md"]
-    if options.mode != "unsorted":
-        other_files = _sort_file_paths(other_files, context, options)
-    return readme_files + other_files
-
-
-def _child_dirs(
-    directory: Path, context: SummaryContext, options: SummaryOptions
-) -> List[Path]:
-    dirs = [p for p in directory.iterdir() if p.is_dir()]
-    dirs = [p for p in dirs if p.name not in SKIP_DIRS and not p.name.startswith(".")]
-    if options.mode == "unsorted":
-        return dirs
-    return _sort_dir_paths(dirs, context, options)
-
-
-def _relative_link(path: Path, root: Path) -> str:
-    return str(path.relative_to(root)).replace("\\", "/")
-
-
-def _make_item_title(path: Path) -> str:
-    try:
-        text = path.read_text(encoding="utf-8")
-    except Exception:
-        text = ""
-    heading = _first_heading(text) or _title_from_filename(path)
-    return heading.replace("[", "(").replace("]", ")")
-
-
-def build_summary_lines(
-    context: SummaryContext, options: Optional[SummaryOptions] = None
-) -> List[str]:
-    options = options or SummaryOptions()
-    lines = ["# Summary", ""]
-
-    def emit_directory(directory: Path, level: int) -> None:
-        files = _md_files_in_dir(directory, context.summary_path, context, options)
-        readme = next((p for p in files if p.name.lower() == "readme.md"), None)
-
-        if directory != context.root_dir:
-            title = directory.name
-            title = re.sub(r"[-_]+", " ", title).strip().title()
-            if readme is not None:
-                title = _make_item_title(readme)
-                if title.lower() == "readme":
-                    title = _title_from_filename(directory)
-                lines.append(
-                    "  " * level
-                    + f"* [{title}]({_relative_link(readme, context.root_dir)})"
-                )
-            else:
-                lines.append("  " * level + f"* {title}")
-
-        for file_path in files:
-            if file_path.name.lower() == "readme.md" and directory != context.root_dir:
-                continue
-            if directory == context.root_dir and file_path.name.lower() == "readme.md":
-                lines.append(
-                    "  " * level
-                    + f"* [{_make_item_title(file_path)}]({_relative_link(file_path, context.root_dir)})"
-                )
-            elif file_path.name.lower() != "readme.md":
-                indent = level if directory == context.root_dir else level + 1
-                lines.append(
-                    "  " * indent
-                    + f"* [{_make_item_title(file_path)}]({_relative_link(file_path, context.root_dir)})"
-                )
-
-        for child in _child_dirs(directory, context, options):
-            emit_directory(child, level if directory == context.root_dir else level + 1)
-
-    top_files = _md_files_in_dir(
-        context.root_dir, context.summary_path, context, options
-    )
-    top_readme = [p for p in top_files if p.name.lower() == "readme.md"]
-    top_others = [p for p in top_files if p.name.lower() != "readme.md"]
-
-    for file_path in top_readme:
-        lines.append(
-            f"* [{_make_item_title(file_path)}]({_relative_link(file_path, context.root_dir)})"
-        )
-
-    for file_path in top_others:
-        lines.append(
-            f"* [{_make_item_title(file_path)}]({_relative_link(file_path, context.root_dir)})"
-        )
-
-    for child in _child_dirs(context.root_dir, context, options):
-        emit_directory(child, level=0)
-
-    return lines
-
-
 def ensure_clean_summary(
     base_dir: Path,
     *,
@@ -579,20 +364,34 @@ def ensure_clean_summary(
     summary_mode: Optional[str] = None,
     summary_order_manifest: Optional[Path] = None,
     manual_marker: Optional[str] = DEFAULT_MANUAL_MARKER,
+    summary_appendices_last: bool = False,
 ) -> bool:
     """Regenerate SUMMARY.md from book.json structure.
     Returns True if the file was changed.
     """
     logger.info(f"Ensuring clean SUMMARY.md in {base_dir}")
     context = get_summary_layout(base_dir)
-    options = _build_summary_options(
-        context,
-        mode=summary_mode,
-        manifest=summary_order_manifest,
-        manual_marker=manual_marker,
+
+    # Get mode from module-level map
+    mode = SUMMARY_MODE_MAP.get(
+        summary_mode or "gitbook", summary_generator.SummaryMode.GITBOOK_STYLE.value
     )
 
-    if options.mode == "manual":
+    # Determine submode
+    submode = (
+        summary_generator.SubMode.APPENDIX_LAST.value
+        if summary_appendices_last
+        else summary_generator.SubMode.NONE.value
+    )
+
+    logger.info(
+        "ensure_clean_summary: summary_appendices_last=%s, mode=%s, summary_path=%s",
+        summary_appendices_last,
+        mode,
+        context.summary_path,
+    )
+
+    if mode == summary_generator.SummaryMode.MANUAL.value:
         if context.summary_path.exists():
             logger.info(
                 "summary_mode 'manual' – bestehende SUMMARY.md wird nicht verändert"
@@ -604,21 +403,37 @@ def ensure_clean_summary(
         return False
 
     context.summary_path.parent.mkdir(parents=True, exist_ok=True)
+
+    # Read existing content and check for manual marker
     old_content = ""
     if context.summary_path.exists():
         try:
             old_content = context.summary_path.read_text(encoding="utf-8")
+            if old_content:
+                lines = old_content.splitlines()
+                head = "\n".join(lines[:6])
+                tail = "\n".join(lines[-6:])
+                logger.info("SUMMARY preview (head):\n%s", head)
+                logger.info("SUMMARY preview (tail):\n%s", tail)
+
+            if manual_marker and manual_marker in old_content:
+                logger.info(
+                    "SUMMARY.md enthält manuellen Marker (%s) – Datei bleibt unverändert",
+                    manual_marker,
+                )
+                return False
         except Exception:
             old_content = ""
 
-    if options.manual_marker and options.manual_marker in old_content:
-        logger.info(
-            "SUMMARY.md enthält manuellen Marker (%s) – Datei bleibt unverändert",
-            options.manual_marker,
+    # Generate new summary content using the tree-based generator
+    try:
+        new_lines = summary_generator.generate_summary(
+            root_dir=context.root_dir, mode=mode, submode=submode
         )
+        new_content = "\n".join(new_lines).rstrip() + "\n"
+    except Exception as e:
+        logger.error(f"Failed to generate summary: {e}")
         return False
-
-    new_content = "\n".join(build_summary_lines(context, options)).rstrip() + "\n"
 
     if old_content == new_content:
         logger.info(f"No changes to {context.summary_path}")
@@ -677,6 +492,12 @@ def parse_args(argv: Iterable[str] | None = None) -> argparse.Namespace:
         help="Marker, der eine manuell gepflegte SUMMARY kennzeichnet (leer = aus)",
     )
 
+    summary_parser.add_argument(
+        "--summary-appendices-last",
+        action="store_true",
+        help="Setze Anhänge (Anhang/Appendix) ans Ende der SUMMARY-Reihenfolge",
+    )
+
     return parser.parse_args(argv)
 
 
@@ -698,6 +519,7 @@ def main(argv: list[str] | None = None) -> int:
             summary_mode=args.summary_mode,
             summary_order_manifest=args.summary_order_manifest,
             manual_marker=args.summary_manual_marker,
+            summary_appendices_last=getattr(args, "summary_appendices_last", False),
         )
         print("SUMMARY.MD UPDATED" if changed else "SUMMARY.MD OK")
         return 0
