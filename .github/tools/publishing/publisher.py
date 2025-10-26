@@ -29,7 +29,7 @@ import sys
 import tempfile
 from collections import OrderedDict
 from pathlib import Path
-from typing import Any, Dict, List, Optional, Tuple
+from typing import Any, Dict, Iterable, List, Optional, Tuple
 
 from tools.logging_config import get_logger
 
@@ -221,6 +221,66 @@ def _save_yaml(path: str, data: Dict[str, Any]) -> None:
         yaml.safe_dump(serialisable, f, sort_keys=False, allow_unicode=True)
 
 
+def _dedupe_preserve_order(values: Iterable[str]) -> List[str]:
+    seen: set[str] = set()
+    result: List[str] = []
+    for raw in values:
+        if not raw:
+            continue
+        candidate = os.path.normpath(str(raw))
+        if candidate in seen:
+            continue
+        seen.add(candidate)
+        result.append(candidate)
+    return result
+
+
+def _build_resource_paths(additional: Optional[Iterable[str]] = None) -> List[str]:
+    defaults = [".", "assets", ".gitbook/assets"]
+    if additional:
+        defaults.extend(additional)
+    return _dedupe_preserve_order(defaults)
+
+
+def _resolve_asset_paths(
+    assets: Iterable[Any], manifest_dir: Path, entry_path: Path
+) -> List[str]:
+    resolved: List[str] = []
+    entry_base = entry_path if entry_path.is_dir() else entry_path.parent
+
+    for asset in assets:
+        if isinstance(asset, dict):
+            path_value = asset.get("path")
+        else:
+            path_value = asset
+
+        if not path_value:
+            continue
+
+        candidate = Path(str(path_value))
+
+        if candidate.is_absolute():
+            resolved.append(str(candidate))
+            continue
+
+        # Prefer manifest-relative resolution, fall back to the entry folder.
+        manifest_candidate = (manifest_dir / candidate).resolve()
+        if manifest_candidate.exists():
+            resolved.append(str(manifest_candidate))
+            continue
+
+        entry_candidate = (entry_base / candidate).resolve()
+        if entry_candidate.exists():
+            resolved.append(str(entry_candidate))
+            continue
+
+        # As a last resort keep the manifest-relative absolute path even if it
+        # does not exist yet (e.g. generated later in the pipeline).
+        resolved.append(str(manifest_candidate))
+
+    return _dedupe_preserve_order(resolved)
+
+
 # --------------------------- Public API (A) -------------------------------- #
 
 
@@ -266,6 +326,31 @@ def get_publish_list(manifest_path: Optional[str] = None) -> List[Dict[str, Any]
             "summary_appendices_last": entry.get("summary_appendices_last"),
             "reset_build_flag": _as_bool(entry.get("reset_build_flag")),
         }
+
+        assets_value = entry.get("assets")
+        assets: List[Dict[str, Any]] = []
+        if isinstance(assets_value, list):
+            for raw_asset in assets_value:
+                if isinstance(raw_asset, dict):
+                    path_value = raw_asset.get("path")
+                    if not path_value:
+                        continue
+                    assets.append(
+                        {
+                            "path": str(path_value),
+                            "type": str(raw_asset.get("type") or "").strip() or None,
+                            "copy_to_output": _as_bool(raw_asset.get("copy_to_output")),
+                        }
+                    )
+                elif raw_asset:
+                    assets.append(
+                        {
+                            "path": str(raw_asset),
+                            "type": None,
+                            "copy_to_output": False,
+                        }
+                    )
+        result["assets"] = assets
         res.append(result)
 
     return res
@@ -359,9 +444,15 @@ def _get_book_title(folder: str) -> Optional[str]:
 
 
 def _run_pandoc(
-    md_path: str, pdf_out: str, add_toc: bool = False, title: Optional[str] = None
+    md_path: str,
+    pdf_out: str,
+    add_toc: bool = False,
+    title: Optional[str] = None,
+    resource_paths: Optional[List[str]] = None,
 ) -> None:
     _ensure_dir(os.path.dirname(pdf_out))
+    resource_path_values = _build_resource_paths(resource_paths)
+    resource_path_arg = os.pathsep.join(resource_path_values) if resource_path_values else None
     cmd = [
         "pandoc",
         md_path,
@@ -385,8 +476,6 @@ def _run_pandoc(
         ".github/tools/publishing/texmf/tex/latex/local/deeptex.sty",
         "-M",
         "emojifont=OpenMoji-black-glyf.ttf",
-        "--resource-path",
-        ".:assets:.gitbook/assets",
         "-M",
         "color=false",
         "--variable",
@@ -394,6 +483,9 @@ def _run_pandoc(
         "--variable",
         "max-list-depth=9",
     ]
+    if resource_path_arg:
+        cmd.extend(["--resource-path", resource_path_arg])
+        logger.info("ℹ Pandoc resource paths: %s", resource_path_arg)
     if add_toc:
         cmd.append("--toc")
     if title:
@@ -486,6 +578,7 @@ def convert_a_file(
     keep_converted_markdown: bool = False,
     publish_dir: str = "publish",
     paper_format: str = "a4",
+    resource_paths: Optional[List[str]] = None,
 ) -> None:
     logger.info(
         "========================================================================"
@@ -499,6 +592,8 @@ def convert_a_file(
     logger.info("Keep Converted Markdown : %s", keep_converted_markdown)
     logger.info("Publish Dir             : %s", publish_dir)
     logger.info("Paper Format            : %s", paper_format)
+    if resource_paths:
+        logger.info("Pandoc resource paths   : %s", resource_paths)
 
     # preprocess for wide content (tables, images), will change page geometry
     processed = process(md_file, paper_format=paper_format)
@@ -517,7 +612,7 @@ def convert_a_file(
         tmp.write(content)
         tmp_md = tmp.name
     try:
-        _run_pandoc(tmp_md, pdf_out)
+        _run_pandoc(tmp_md, pdf_out, resource_paths=resource_paths)
     finally:
         try:
             if not keep_converted_markdown:
@@ -552,6 +647,7 @@ def convert_a_folder(
     publish_dir: str = "publish",
     paper_format: str = "a4",
     summary_layout: Optional[SummaryContext] = None,
+    resource_paths: Optional[List[str]] = None,
 ) -> None:
 
     logger.info(
@@ -566,6 +662,8 @@ def convert_a_folder(
     logger.info("Keep Converted Markdown : %s", keep_converted_markdown)
     logger.info("Publish Dir             : %s", publish_dir)
     logger.info("Paper Format            : %s", paper_format)
+    if resource_paths:
+        logger.info("Pandoc resource paths   : %s", resource_paths)
 
     md_files = _collect_folder_md(
         folder, use_summary=use_summary, summary_layout=summary_layout
@@ -587,7 +685,13 @@ def convert_a_folder(
             logger.info("ℹ Buch-Titel aus book.json: %s", title)
         else:
             logger.info("ℹ Kein Buch-Titel")
-        _run_pandoc(tmp_md, pdf_out, add_toc=True, title=title)
+        _run_pandoc(
+            tmp_md,
+            pdf_out,
+            add_toc=True,
+            title=title,
+            resource_paths=resource_paths,
+        )
     finally:
         try:
             if not keep_converted_markdown:
@@ -622,6 +726,7 @@ def build_pdf(
     summary_order_manifest: Optional[Path] = None,
     summary_manual_marker: Optional[str] = DEFAULT_MANUAL_MARKER,
     summary_appendices_last: bool = False,
+    resource_paths: Optional[List[str]] = None,
 ) -> Tuple[bool, Optional[str]]:
     """
     Baut ein PDF gemäß Typ ('file'/'folder').
@@ -655,6 +760,7 @@ def build_pdf(
                 keep_converted_markdown=True,
                 publish_dir=str(publish_path),
                 paper_format=paper_format,
+                resource_paths=resource_paths,
             )
         elif _typ == "folder":
             summary_layout: Optional[SummaryContext] = None
@@ -690,6 +796,7 @@ def build_pdf(
                 publish_dir=str(publish_path),
                 paper_format=paper_format,
                 summary_layout=summary_layout,
+                resource_paths=resource_paths,
             )
         else:
             logger.warning("⚠ Unbekannter type='%s' – übersprungen.", typ)
@@ -815,6 +922,11 @@ def main() -> None:
         else:
             summary_manual_marker = str(summary_manual_marker_value)
 
+        assets_for_entry = entry.get("assets") or []
+        resolved_resource_paths = _resolve_asset_paths(
+            assets_for_entry, manifest_dir, path
+        )
+
         ok, msg = build_pdf(
             path=path,
             out=out,
@@ -828,6 +940,7 @@ def main() -> None:
             summary_order_manifest=summary_manifest_path,
             summary_manual_marker=summary_manual_marker,
             summary_appendices_last=_as_bool(entry.get("summary_appendices_last")),
+            resource_paths=resolved_resource_paths,
         )
         if ok:
             built.append(str((publish_dir_path / out).resolve()))

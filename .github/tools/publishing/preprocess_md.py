@@ -16,12 +16,27 @@ from __future__ import annotations
 import argparse
 import os
 import re
+from html import unescape
 from typing import Iterable, List
 
 from tools.logging_config import get_logger
 
 
 from tools.publishing.paper_info import PaperInfo, get_valid_paper_measurements
+
+
+_FIGURE_START = re.compile(r"<figure\b", re.IGNORECASE)
+_FIGURE_END = re.compile(r"</figure>", re.IGNORECASE)
+_IMG_TAG = re.compile(
+    r"<img\b[^>]*src=[\"\'](?P<src>[^\"\']+)[\"\'][^>]*?"
+    r"(?:alt=[\"\'](?P<alt>[^\"\']*)[\"\'][^>]*)?>",
+    re.IGNORECASE | re.DOTALL,
+)
+_FIGCAPTION = re.compile(
+    r"<figcaption\b[^>]*>(?P<caption>.*?)</figcaption>",
+    re.IGNORECASE | re.DOTALL,
+)
+_HTML_TAG = re.compile(r"<[^>]+>")
 
 try:
     from PIL import Image  # type: ignore
@@ -35,6 +50,73 @@ COLUMN_WIDTH_mm = 25  # Annahme: 25mm pro Spalte (inkl. Abstand)
 COLUMN_HEIGHT_mm = 10  # Annahme: 10mm pro Spalte (inkl. Abstand)
 PIXELS_PER_MM = 11.81  # bei 300 dpi (1 inch = 25.4 mm, 300/25.4 ≈ 11.81)
 MIN_COLS_FOR_WRAP = 10
+
+
+def _strip_html_tags(value: str) -> str:
+    if not value:
+        return ""
+    return unescape(_HTML_TAG.sub("", value)).strip()
+
+
+def _convert_figure_block(block: str) -> List[str]:
+    match = _IMG_TAG.search(block)
+    if not match:
+        return block.splitlines(keepends=True)
+    src = (match.group("src") or "").strip()
+    alt_raw = match.group("alt") or ""
+    alt = unescape(alt_raw).strip()
+    if not src:
+        return block.splitlines(keepends=True)
+
+    caption_match = _FIGCAPTION.search(block)
+    caption = _strip_html_tags(caption_match.group("caption")) if caption_match else ""
+
+    alt_text = caption or alt or "Image"
+    safe_alt_text = alt_text.replace("[", r"\[").replace("]", r"\]")
+    attrs = ""
+    if alt and alt_text != alt:
+        safe_alt = alt.replace("\"", r"\"")
+        attrs = f'{{fig-alt="{safe_alt}"}}'
+
+    markdown_line = f"![{safe_alt_text}]({src}){attrs}\n"
+    if caption and caption != alt_text:
+        markdown_line += f"\n{caption}\n"
+    return [markdown_line]
+
+
+def _convert_html_figures(lines: List[str]) -> List[str]:
+    if not lines:
+        return []
+
+    result: List[str] = []
+    buffer: List[str] = []
+    in_figure = False
+
+    for line in lines:
+        if in_figure:
+            buffer.append(line)
+            if _FIGURE_END.search(line):
+                result.extend(_convert_figure_block("".join(buffer)))
+                buffer = []
+                in_figure = False
+            continue
+
+        if _FIGURE_START.search(line):
+            buffer = [line]
+            in_figure = True
+            if _FIGURE_END.search(line):
+                result.extend(_convert_figure_block("".join(buffer)))
+                buffer = []
+                in_figure = False
+            continue
+
+        result.append(line)
+
+    if buffer:
+        # Unclosed figures fall back to the original content
+        result.extend(buffer)
+
+    return result
 
 
 def _paper_candidates(base: PaperInfo) -> Iterable[PaperInfo]:
@@ -222,6 +304,8 @@ def process(path: str, paper_format: str = "a4") -> str:
     """Process ``path`` and return transformed Markdown content."""
     with open(path, "r", encoding="utf-8") as f:
         lines = f.readlines()
+
+    lines = _convert_html_figures(lines)
 
     out: List[str] = []
     i = 0
