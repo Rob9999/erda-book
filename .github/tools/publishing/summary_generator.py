@@ -1,15 +1,14 @@
-"""GitBook summary generation module.
+"""Utilities for generating GitBook compatible ``SUMMARY.md`` files."""
 
-This module handles the generation of SUMMARY.md for GitBook documentation.
-It supports different ordering modes and submodes for flexible summary organization.
-"""
+from __future__ import annotations
 
-from dataclasses import dataclass, field
-from enum import Enum, auto
-from pathlib import Path
-from typing import List, Optional, Union
 import logging
 import re
+from dataclasses import dataclass, field
+from enum import Enum
+from itertools import chain
+from pathlib import Path
+from typing import List, Optional
 
 logger = logging.getLogger(__name__)
 
@@ -49,13 +48,13 @@ class SummaryNode:
 
     def to_lines(self) -> List[str]:
         """Convert this node and its children to summary lines."""
-        lines = []
         indent = "  " * self.level
         if self.path:
-            lines.append(f"{indent}* [{self.title}]({self.path.as_posix()})")
+            line = f"{indent}* [{self.title}]({self.path.as_posix()})"
         else:
-            lines.append(f"{indent}* {self.title}")
+            line = f"{indent}* {self.title}" if self.title else ""
 
+        lines: List[str] = [line] if line else []
         for child in self.children:
             lines.extend(child.to_lines())
         return lines
@@ -123,6 +122,14 @@ class SummaryTree:
                 # Split into regular and appendix nodes, preserve order within each group
                 regular = [n for n in nodes if not n.is_appendix]
                 appendices = [n for n in nodes if n.is_appendix]
+
+                def appendix_key(node: SummaryNode) -> tuple[int, str, str]:
+                    match = re.search(r"(Anhang|Appendix)\s+([A-Z])", node.title, re.IGNORECASE)
+                    if match:
+                        return (0, match.group(2).upper(), node.title.lower())
+                    return (1, node.title.lower(), node.path.as_posix() if node.path else "")
+
+                appendices.sort(key=appendix_key)
                 sorted_nodes = regular + appendices
             elif self.submode == SubMode.NO_CHANGE:
                 return nodes  # Keep existing order
@@ -154,11 +161,10 @@ class SummaryTree:
 
     def to_lines(self) -> List[str]:
         """Convert the entire tree to summary lines."""
-        # Add header
-        lines = ["# Summary"]
-        # Add all nodes
-        lines.extend(self.root.to_lines())
-        return lines
+        lines = ["# Summary", ""]
+        for child in self.root.children:
+            lines.extend(child.to_lines())
+        return [line for line in lines if line is not None]
 
 
 def build_summary_tree(
@@ -166,47 +172,105 @@ def build_summary_tree(
 ) -> SummaryTree:
     """Build a summary tree from the filesystem structure."""
 
+    def extract_title(md_path: Path) -> str:
+        """Return a human readable title from ``md_path``."""
+
+        try:
+            text = md_path.read_text(encoding="utf-8")
+        except Exception as exc:  # pragma: no cover - best effort fallback
+            logger.debug("Failed to read %s: %s", md_path, exc)
+            text = ""
+
+        lines = iter(text.splitlines())
+        # Skip YAML front matter if present
+        try:
+            first = next(lines)
+        except StopIteration:
+            first = ""
+
+        if first.strip() == "---":
+            for line in lines:
+                if line.strip() == "---":
+                    break
+        else:
+            # put back the first line if it wasn't front matter
+            lines = chain([first], lines)
+
+        for line in lines:
+            stripped = line.strip()
+            if stripped.startswith("#"):
+                return stripped.lstrip("#").strip()
+
+        stem = md_path.stem.replace("-", " ").replace("_", " ").strip()
+        return stem or md_path.stem
+
     def process_directory(path: Path, level: int = 0) -> SummaryNode:
-        # Create directory node
         dir_node = SummaryNode(
-            title=path.name,
-            path=None,  # Will be updated if index.md exists
+            title=path.name.replace("-", " ").replace("_", " ").strip() or path.name,
+            path=None,
             level=level,
+            is_appendix=tree._is_appendix_path(path),
         )
 
-        # Process markdown files in this directory
+        readme_names = {"readme.md", "index.md"}
+        summary_names = {"summary.md"}
         md_files = sorted(path.glob("*.md"))
+
+        children: List[SummaryNode] = []
+
         for md_file in md_files:
-            if md_file.name.lower() == "index.md":
-                dir_node.path = md_file.relative_to(root_dir)
+            lower_name = md_file.name.lower()
+            if lower_name in summary_names:
                 continue
 
-            # Create file node
-            is_appendix = tree._is_appendix_path(md_file)
+            if lower_name in readme_names:
+                dir_node.path = md_file.relative_to(root_dir)
+                dir_node.title = extract_title(md_file)
+                continue
+
             node = SummaryNode(
-                title=md_file.stem,
+                title=extract_title(md_file),
                 path=md_file.relative_to(root_dir),
                 level=level + 1,
-                is_appendix=is_appendix,
+                is_appendix=tree._is_appendix_path(md_file),
             )
-            dir_node.add_child(node)
+            children.append(node)
 
-        # Process subdirectories
         for subdir in sorted(p for p in path.iterdir() if p.is_dir()):
-            if not subdir.name.startswith("."):  # Skip hidden directories
-                subdir_node = process_directory(subdir, level + 1)
-                dir_node.add_child(subdir_node)
+            if subdir.name.startswith("."):
+                continue
+            subdir_node = process_directory(subdir, level + 1)
+            children.append(subdir_node)
+
+        for child in children:
+            dir_node.add_child(child)
 
         return dir_node
 
-    # Create empty root node
     root = SummaryNode(title="", path=None)
     tree = SummaryTree(root=root, mode=mode, submode=submode)
 
-    # Process root directory
     root_node = process_directory(root_dir)
-    # Move root's children to tree root
-    tree.root.children = root_node.children
+
+    def shift_levels(node: SummaryNode, delta: int) -> None:
+        node.level = max(0, node.level + delta)
+        for child in node.children:
+            shift_levels(child, delta)
+
+    root_children: List[SummaryNode] = []
+    if root_node.path:
+        root_entry = SummaryNode(
+            title=root_node.title,
+            path=root_node.path,
+            level=0,
+            is_appendix=root_node.is_appendix,
+        )
+        root_children.append(root_entry)
+
+    for child in root_node.children:
+        shift_levels(child, -1)
+        root_children.append(child)
+    tree.root.children = root_children
 
     # Sort the tree according to mode/submode
     tree.sort_tree()
