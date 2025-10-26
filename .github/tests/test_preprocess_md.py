@@ -16,6 +16,22 @@ def _wide_table(tmp_path, cols: int):
     return md
 
 
+def test_html_figure_block_converted(tmp_path):
+    md = tmp_path / "figure.md"
+    md.write_text(
+        """
+<figure><img src=".gitbook/assets/example.png" alt="Sample Alt"><figcaption><p>Beispiel Caption</p></figcaption></figure>
+""".strip(),
+        encoding="utf-8",
+    )
+
+    out = preprocess_md.process(str(md), paper_format="a4")
+
+    assert "<figure" not in out
+    assert ".gitbook/assets/example.png" in out
+    assert "![Beispiel Caption](.gitbook/assets/example.png){fig-alt=\"Sample Alt\"}" in out
+
+
 def test_table_wrapped_portrait(artifact_dir):
     md = _wide_table(artifact_dir, cols=15)
     out = preprocess_md.process(str(md), paper_format="a4")
