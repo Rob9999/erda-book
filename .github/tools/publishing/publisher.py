@@ -264,6 +264,7 @@ def get_publish_list(manifest_path: Optional[str] = None) -> List[Dict[str, Any]
             "summary_order_manifest": entry.get("summary_order_manifest"),
             "summary_manual_marker": entry.get("summary_manual_marker"),
             "summary_appendices_last": entry.get("summary_appendices_last"),
+            "reset_build_flag": _as_bool(entry.get("reset_build_flag")),
         }
         res.append(result)
 
@@ -378,10 +379,14 @@ def _run_pandoc(
         "geometry=margin=1in",
         "--lua-filter",
         ".github/tools/publishing/lua/latex-emoji.lua",
+        "--lua-filter",
+        ".github/tools/publishing/lua/image-path-resolver.lua",
         "-H",
         ".github/tools/publishing/texmf/tex/latex/local/deeptex.sty",
         "-M",
         "emojifont=OpenMoji-black-glyf.ttf",
+        "--resource-path",
+        ".:assets:.gitbook/assets",
         "-M",
         "color=false",
         "--variable",
@@ -826,34 +831,37 @@ def main() -> None:
         )
         if ok:
             built.append(str((publish_dir_path / out).resolve()))
-            # Reset publish-Flag (D) – nur bei Erfolg
-            reset_tool = args.reset_script
-            if os.path.exists(reset_tool):
-                try:
-                    _run(
-                        [
-                            sys.executable or "python",
-                            reset_tool,
-                            "--path",
-                            str(path),
-                            "--multi",
-                        ],
-                        check=True,
-                    )
-                except Exception as e:
-                    logger.warning("Konnte reset-publish-flag nicht aufrufen: %s", e)
-            else:
-                # Fallback: direkt im Manifest auf false setzen
-                try:
-                    data = _load_yaml(manifest)
-                    for e in data.get("publish", []):
-                        if str(e.get("path")) == original_path:
-                            e["build"] = False
-                    _save_yaml(manifest, data)
-                except Exception as e:
-                    logger.warning(
-                        "Konnte Manifest-Fallback-Reset nicht schreiben: %s", e
-                    )
+            # Reset publish-Flag (D) – nur bei Erfolg und wenn reset_build_flag true ist
+            if entry.get("reset_build_flag", False):
+                reset_tool = args.reset_script
+                if os.path.exists(reset_tool):
+                    try:
+                        _run(
+                            [
+                                sys.executable or "python",
+                                reset_tool,
+                                "--path",
+                                str(path),
+                                "--multi",
+                            ],
+                            check=True,
+                        )
+                    except Exception as e:
+                        logger.warning(
+                            "Konnte reset-publish-flag nicht aufrufen: %s", e
+                        )
+                else:
+                    # Fallback: direkt im Manifest auf false setzen
+                    try:
+                        data = _load_yaml(manifest)
+                        for e in data.get("publish", []):
+                            if str(e.get("path")) == original_path:
+                                e["build"] = False
+                        _save_yaml(manifest, data)
+                    except Exception as e:
+                        logger.warning(
+                            "Konnte Manifest-Fallback-Reset nicht schreiben: %s", e
+                        )
         else:
             failed.append(
                 str((publish_dir_path / out).resolve()) + (f": {msg}" if msg else "")

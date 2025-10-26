@@ -46,4 +46,9 @@ publish:
   summary_mode: gitbook
   summary_appendices_last: true
   keep_combined: true
-  build: false
+  build: true
+  reset_build_flag: false
+  assets:
+  - path: ./.gitbook/assets
+    type: images
+    copy_to_output: true
