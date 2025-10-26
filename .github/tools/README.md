@@ -78,8 +78,10 @@ This package implements the selective publishing flow used by the Actions job:
   GitHub Actions and local runs.
 * `publisher.py` reads the manifest entries flagged for publishing and renders
   PDFs.  It combines Markdown sources, applies optional landscape helpers,
-  injects fonts and LaTeX macros, runs Pandoc and resets build flags through
-  `reset_publish_flag.py` when successful.
+  injects fonts and LaTeX macros, honours per-entry asset directories from
+  `publish.yml` when constructing Pandoc's resource path so images stay
+  available, runs Pandoc and resets build flags through `reset_publish_flag.py`
+  when successful.
 * `gitbook_style.py` contains two subcommands: `rename`, which applies GitBook
   naming conventions, and `summary`, which rebuilds `SUMMARY.md` from
   `book.json`.  Both support running with or without Git metadata.
