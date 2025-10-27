@@ -92,11 +92,14 @@ class RuntimeContext:
         self.root = config.root
         self.python = sys.executable or "python"
         self.tools_dir = self.root / ".github" / "tools"
-        self.python_path = str(self.tools_dir)
+        # Set PYTHONPATH to include both repo/gitbook_repo and repo/gitbook_repo/.github
+        self.python_path = os.pathsep.join(
+            [str(self.root), str(self.root / ".github"), str(self.tools_dir)]
+        )
 
     def env(self, extra: Mapping[str, str] | None = None) -> MutableMapping[str, str]:
         env: MutableMapping[str, str] = os.environ.copy()
-        env.setdefault("PYTHONPATH", self.python_path)
+        env["PYTHONPATH"] = self.python_path
         if self.config.repository:
             env.setdefault("GITHUB_REPOSITORY", self.config.repository)
         env.setdefault("ORCHESTRATOR_PROFILE", self.config.profile.name)
