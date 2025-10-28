@@ -4,12 +4,16 @@ from __future__ import annotations
 
 import logging
 import sys
-from pathlib import Path
-from typing import Optional
-import logging
 from contextlib import contextmanager
-from typing import Optional, Iterator
-from gh_paths import GH_LOGS_DIR
+from pathlib import Path
+from typing import Iterator, Optional
+
+try:  # pragma: no cover - exercised during runtime
+    from gh_paths import GH_LOGS_DIR  # type: ignore[attr-defined]
+except ModuleNotFoundError:  # pragma: no cover - fallback for local execution
+    GH_LOGS_DIR = Path(__file__).resolve().parent.parent / "logs"
+
+GH_LOGS_DIR = Path(GH_LOGS_DIR)
 
 
 def _configure_root_logger() -> None:
