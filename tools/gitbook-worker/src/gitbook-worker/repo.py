@@ -1,72 +1,39 @@
-import logging
-import os
-import stat
-import shutil
+"""Deprecated Git helpers maintained for backwards compatibility."""
 
-from .utils import run
+from __future__ import annotations
 
+import warnings
+from pathlib import Path
 
-def remove_readonly(func, path, excinfo):
-    os.chmod(path, stat.S_IWRITE)
-    func(path)
+from tools.utils.git import checkout_branch as _checkout_branch
+from tools.utils.git import clone_or_update_repo as _clone_or_update_repo
+from tools.utils.git import remove_tree as _remove_tree
 
-
-def remove_tree(path: str) -> None:
-    try:
-        shutil.rmtree(path, onerror=remove_readonly)
-    except Exception as e:
-        logging.error("Failed to remove directory %s: %s", path, e)
-        raise
+_DEPRECATION_MESSAGE = (
+    "gitbook_worker.repo is deprecated; import from tools.utils.git instead."
+)
 
 
-def checkout_branch(repo_dir: str, branch_name: str) -> None:
-    """Check out a specific branch in the given Git repository."""
-    try:
-        run(["git", "-C", repo_dir, "fetch", "--all"])
-        run(["git", "-C", repo_dir, "checkout", branch_name])
-        logging.info("Checked out branch: %s", branch_name)
-    except SystemExit as e:
-        logging.error("Failed to check out branch '%s': Exit code %s", branch_name, e.code)
-        raise
+def remove_tree(path: str | Path) -> None:
+    warnings.warn(_DEPRECATION_MESSAGE, DeprecationWarning, stacklevel=2)
+    _remove_tree(path)
+
+
+def checkout_branch(repo_dir: str | Path, branch_name: str) -> None:
+    warnings.warn(_DEPRECATION_MESSAGE, DeprecationWarning, stacklevel=2)
+    _checkout_branch(repo_dir, branch_name)
 
 
 def clone_or_update_repo(
     repo_url: str,
-    clone_dir: str,
+    clone_dir: str | Path,
     branch_name: str | None = None,
     force: bool = False,
 ) -> None:
-    if os.path.isdir(clone_dir):
-        resp = "y" if force else input(
-            f"Directory '{clone_dir}' exists. Clean and reclone? (y/N) "
-        ).strip().lower()
-        if resp == "y":
-            if os.path.isdir(os.path.join(clone_dir, ".git")) and branch_name:
-                try:
-                    run(["git", "-C", clone_dir, "status"], capture_output=True)
-                    logging.info("Valid Git repository found: %s", clone_dir)
-                    run(["git", "-C", clone_dir, "fetch", "--all"])
-                    run(["git", "-C", clone_dir, "reset", "--hard", f"origin/{branch_name}"])
-                    run(["git", "-C", clone_dir, "clean", "-fdx"])
-                except SystemExit:
-                    logging.warning("Git command failed. Re-cloning repository.")
-                    logging.info("Cleaning directory: %s", clone_dir)
-                    remove_tree(clone_dir)
-                    run(["git", "clone", repo_url, clone_dir])
-            else:
-                logging.info("Cleaning non-repo directory: %s", clone_dir)
-                remove_tree(clone_dir)
-                if branch_name:
-                    run(["git", "clone", "--branch", branch_name, repo_url, clone_dir])
-                else:
-                    run(["git", "clone", repo_url, clone_dir])
-        else:
-            run(["git", "-C", clone_dir, "fetch", "--all"])
-            run(["git", "-C", clone_dir, "checkout", branch_name])
-            run(["git", "-C", clone_dir, "pull", "origin", branch_name])
-    else:
-        if branch_name:
-            run(["git", "clone", "--branch", branch_name, repo_url, clone_dir])
-        else:
-            run(["git", "clone", repo_url, clone_dir])
-
+    warnings.warn(_DEPRECATION_MESSAGE, DeprecationWarning, stacklevel=2)
+    _clone_or_update_repo(
+        repo_url,
+        clone_dir,
+        branch_name=branch_name,
+        force=force,
+    )
