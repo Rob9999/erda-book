@@ -46,12 +46,12 @@ jobs:
           target: publisher
           push: true
           tags: |
-            ghcr.io/${{ github.repository }}/publisher:sha-${{ github.sha }}
-            ghcr.io/${{ github.repository }}/publisher:main
+            ghcr.io/${{ toLower(github.repository) }}/publisher:sha-${{ github.sha }}
+            ghcr.io/${{ toLower(github.repository) }}/publisher:main
           cache-from: |
-            type=registry,ref=ghcr.io/${{ github.repository }}/publisher:buildcache
+            type=registry,ref=ghcr.io/${{ toLower(github.repository) }}/publisher:buildcache
           cache-to: |
-            type=registry,ref=ghcr.io/${{ github.repository }}/publisher:buildcache,mode=max
+            type=registry,ref=ghcr.io/${{ toLower(github.repository) }}/publisher:buildcache,mode=max
 
   orchestrate:
     needs: [build_image]
@@ -94,11 +94,11 @@ jobs:
       - name: Pull published image
         if: ${{ needs.build_image.result == 'success' }}
         run: |
-          docker pull ghcr.io/${{ github.repository }}/publisher@${{ needs.build_image.outputs.digest }}
+          docker pull ghcr.io/${{ toLower(github.repository) }}/publisher@${{ needs.build_image.outputs.digest }}
 
       - name: Run workflow orchestrator
         env:
-          IMAGE_REF: ${{ needs.build_image.result == 'success' && format('ghcr.io/{0}/publisher@{1}', github.repository, needs.build_image.outputs.digest) || 'erda-publisher:local' }}
+          IMAGE_REF: ${{ needs.build_image.result == 'success' && format('ghcr.io/{0}/publisher@{1}', toLower(github.repository), needs.build_image.outputs.digest) || 'erda-publisher:local' }}
         run: |
           set -euo pipefail
           IMAGE="$IMAGE_REF"
