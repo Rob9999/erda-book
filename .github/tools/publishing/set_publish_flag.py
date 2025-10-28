@@ -161,8 +161,29 @@ def git_changed_files(commit: str, base: str = None) -> List[str]:
         ctx = commit
 
     if code != 0:
-        logger.error("Git-Aufruf fehlgeschlagen (%s): %s", ctx, err.strip())
-        sys.exit(4)
+        logger.warning(
+            "Git-Aufruf fehlgeschlagen (%s): %s", ctx, err.strip() or f"Exit-Code {code}"
+        )
+
+        # Versuche als Fallback alle Dateien des Ziel-Commits zu listen. Das ist
+        # zwar konservativ (alles gilt als verändert), verhindert aber, dass der
+        # Workflow komplett fehlschlägt, nur weil die Historie in Shallow-Clones
+        # unvollständig ist.
+        ls_code, ls_out, ls_err = run(
+            ["git", "ls-tree", "--full-tree", "-r", "--name-only", commit]
+        )
+        if ls_code == 0:
+            logger.warning(
+                "Fallback auf ls-tree(%s). %d Dateien werden als geändert behandelt.",
+                commit,
+                len(ls_out.splitlines()),
+            )
+            return [normalize_posix(line) for line in ls_out.splitlines() if line.strip()]
+
+        logger.error(
+            "Auch der Fallback ls-tree(%s) schlug fehl: %s", commit, ls_err.strip()
+        )
+        return []
 
     files = [normalize_posix(line) for line in out.splitlines() if line.strip()]
     return files
