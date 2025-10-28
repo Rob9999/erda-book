@@ -134,6 +134,7 @@ def git_changed_files(commit: str, base: str = None) -> List[str]:
                     "unknown revision",
                     "ambiguous argument",
                     "not a valid object name",
+                    "bad object",
                 )
             )
             if missing_base:
