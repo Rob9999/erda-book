@@ -112,6 +112,17 @@ artefacts:
   and matplotlib charts.  They are imported by the converter and exposed for
   ad-hoc use.
 
+### `quality/`
+
+Quality assurance tooling that inspects Markdown sources for regressions:
+
+* `sources.py` extracts "Quellen"/"Sources" sections from Markdown files into a
+  CSV report to help maintain bibliographies.  Run it with `python -m
+  tools.quality.sources --help` for usage information.
+* `link_audit.py` validates external links, image references, heading reuse and
+  TODO markers, emitting CSV or log summaries depending on the selected CLI
+  flags (`python -m tools.quality.link_audit --help`).
+
 ### `utils/`
 
 Developer-focused helpers that make it easier to execute the workflows on
