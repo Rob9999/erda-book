@@ -122,6 +122,14 @@ Quality assurance tooling that inspects Markdown sources for regressions:
 * `link_audit.py` validates external links, image references, heading reuse and
   TODO markers, emitting CSV or log summaries depending on the selected CLI
   flags (`python -m tools.quality.link_audit --help`).
+* `ai_references.py` validates and repairs bibliography entries with the help of
+  large language models.  It derives the Markdown scope from `SUMMARY.md`,
+  submits each reference to the configured AI backend, updates confirmed fixes
+  on disk, and emits a structured JSON report for downstream tooling.
+
+  The legacy `tools/gitbook-worker --ai-reference-repair` flag is deprecated;
+  use this module instead so that CI workflows and local runs share the same
+  implementation and configuration surface.
 
 ### `utils/`
 

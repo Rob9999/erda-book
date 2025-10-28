@@ -396,6 +396,26 @@ def _step_update_citation(ctx: RuntimeContext) -> None:
     citation.write_text("\n".join(text) + "\n", encoding="utf-8")
 
 
+def _step_ai_reference_check(ctx: RuntimeContext) -> None:
+    script = ctx.tools_dir / "quality" / "ai_references.py"
+    if not script.exists():
+        LOGGER.warning("ai_references.py nicht gefunden – Schritt wird übersprungen")
+        return
+    report = ctx.root / ".github" / "reports" / "ai_reference_report.json"
+    cmd = [
+        ctx.python,
+        str(script),
+        "--root",
+        str(ctx.root),
+        "--manifest",
+        str(ctx.config.manifest),
+        "--json-report",
+        str(report),
+        "--no-progress",
+    ]
+    ctx.run_command(cmd)
+
+
 def _step_converter(ctx: RuntimeContext) -> None:
     dump_script = ctx.tools_dir / "publishing" / "dump_publish.py"
     convert_script = ctx.tools_dir / "converter" / "convert_assets.py"
@@ -544,6 +564,7 @@ STEP_HANDLERS = {
     "check_if_to_publish": _step_check_if_to_publish,
     "ensure_readme": _step_ensure_readme,
     "update_citation": _step_update_citation,
+    "ai-reference-check": _step_ai_reference_check,
     "converter": _step_converter,
     "engineering-document-formatter": _step_engineering_docs,
     "publisher": _step_publisher,
