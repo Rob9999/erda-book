@@ -108,14 +108,44 @@ def is_match(entry_path: str, entry_type: str, changed_file: str) -> bool:
 
 
 def git_changed_files(commit: str, base: str = None) -> List[str]:
+    """Return the list of changed files between ``base`` and ``commit``.
+
+    GitHub Actions checkouts often use ``fetch-depth=1`` which means the
+    provided base revision might not exist locally. When that happens the
+    initial ``git diff`` call fails with errors such as ``bad revision``.  In
+    that case we fall back to analysing the single commit so that publishing
+    decisions still work instead of aborting the workflow.
+    """
+
+    def _diff_tree_single(target_commit: str) -> Tuple[int, str, str]:
+        return run(
+            ["git", "diff-tree", "--no-commit-id", "--name-only", "-r", target_commit]
+        )
+
     if base:
         code, out, err = run(["git", "diff", "--name-only", base, commit])
         ctx = f"{base}..{commit}"
+        if code != 0:
+            lowered_error = err.lower()
+            missing_base = any(
+                token in lowered_error
+                for token in (
+                    "bad revision",
+                    "unknown revision",
+                    "ambiguous argument",
+                    "not a valid object name",
+                )
+            )
+            if missing_base:
+                logger.warning(
+                    "Konnte Basis-Commit %s nicht finden (fetch-depth?). Fallback auf Einzel-Commit.",
+                    base,
+                )
+                code, out, err = _diff_tree_single(commit)
+                ctx = commit
     else:
         # Einzel-Commit
-        code, out, err = run(
-            ["git", "diff-tree", "--no-commit-id", "--name-only", "-r", commit]
-        )
+        code, out, err = _diff_tree_single(commit)
         ctx = commit
 
     if code != 0:
