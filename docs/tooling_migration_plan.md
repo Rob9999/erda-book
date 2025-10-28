@@ -30,7 +30,11 @@
 
 2. **Move AI-assisted reference tooling.**
    - Translate `ai_tools.py` into `.github/tools/quality/ai_references.py`, keeping the JSON parsing, retry handling, and prompt schema logic while swapping to repository-wide logging helpers and environment configuration.【F:tools/gitbook-worker/src/gitbook-worker/ai_tools.py†L17-L198】【F:.github/tools/logging_config.py†L1-L80】
+   - Break the legacy `CitationFixer` flow into importable primitives—`load_reference_tasks`, `call_model`, and `apply_fixes`—so that both CLI usage and automated workflows can stitch together the same behaviour without going through argparse plumbing.【F:tools/gitbook-worker/src/gitbook-worker/ai_tools.py†L32-L198】
+   - Expose a thin `python -m tools.quality.ai_references` entry point that mirrors the existing `--ai-reference-repair` flag, accepting a manifest path and emitting a machine-readable report (JSON or SARIF) in addition to STDOUT so Actions can surface annotations.
+   - Support both OpenAI-compatible APIs and locally hosted inference backends by resolving credentials from the orchestrator's environment section and letting callers override the base URL/model via kwargs, matching the flexibility already present in other `.github/tools` modules.【F:.github/tools/workflow_orchestrator/orchestrator.py†L71-L118】
    - Add orchestrator support for an optional `ai-reference-check` step that feeds manifest-selected Markdown files into the new module, allowing CI opt-in without touching legacy code paths.【F:.github/tools/workflow_orchestrator/orchestrator.py†L29-L125】
+   - Document migration guidance in the README: deprecate `tools/gitbook-worker --ai-reference-repair`, point consumers to the new module, and outline how to configure API keys in local `.env` files so contributors retain feature parity after the move.【F:.github/tools/README.md†L115-L156】
 
 3. **Consolidate repository and Docker helpers.**
    - Merge `repo.clone_or_update_repo` into a new `.github/tools/utils/git.py`, expressed in terms of `subprocess.run` wrappers already present, so Git interactions live next to Docker and Python workspace helpers.【F:tools/gitbook-worker/src/gitbook-worker/repo.py†L22-L71】【F:.github/tools/utils/run.py†L9-L29】
