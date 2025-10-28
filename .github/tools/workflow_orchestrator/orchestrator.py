@@ -310,8 +310,9 @@ def _split_publisher_args(values: Iterable[str] | None) -> tuple[str, ...]:
 def build_config(args: argparse.Namespace) -> OrchestratorConfig:
     root, manifest = _resolve_paths(args.root, args.manifest)
     repository = args.repository or os.getenv("GITHUB_REPOSITORY")
+    repository_template = repository.lower() if repository else ""
     variables = {
-        "repo": repository or "",
+        "repo": repository_template,
         "profile": args.profile,
         "visibility": args.repo_visibility,
     }
