@@ -57,7 +57,7 @@ jobs:
             type=registry,ref=ghcr.io/${{ steps.repository_slug.outputs.value }}/publisher:buildcache
           cache-to: |
             type=registry,ref=ghcr.io/${{ steps.repository_slug.outputs.value }}/publisher:buildcache,mode=max
-
+            
   orchestrate:
     needs: [build_image]
     runs-on: ubuntu-latest
@@ -99,11 +99,13 @@ jobs:
       - name: Pull published image
         if: ${{ needs.build_image.result == 'success' }}
         run: |
+
           docker pull ghcr.io/${{ needs.build_image.outputs.repository }}/publisher@${{ needs.build_image.outputs.digest }}
 
       - name: Run workflow orchestrator
         env:
           IMAGE_REF: ${{ needs.build_image.result == 'success' && format('ghcr.io/{0}/publisher@{1}', needs.build_image.outputs.repository, needs.build_image.outputs.digest) || 'erda-publisher:local' }}
+
         run: |
           set -euo pipefail
           IMAGE="$IMAGE_REF"

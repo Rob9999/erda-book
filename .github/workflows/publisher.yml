@@ -94,6 +94,7 @@ jobs:
         id: run_orchestrator
         env:
           IMAGE_REF: ${{ needs.build_image.result == 'success' && format('ghcr.io/{0}/publisher@{1}', needs.build_image.outputs.repository, needs.build_image.outputs.digest) || 'erda-publisher:local' }}
+
         run: |
           set -euo pipefail
           docker run --rm \
