@@ -23,6 +23,7 @@ from typing import Iterable, Mapping, MutableMapping, Sequence
 import yaml
 
 from tools.logging_config import get_logger
+from tools.utils import git as git_utils
 
 LOGGER = get_logger(__name__)
 
@@ -96,6 +97,32 @@ class RuntimeContext:
         self.python_path = os.pathsep.join(
             [str(self.root), str(self.root / ".github"), str(self.tools_dir)]
         )
+
+    # --- Git helpers -------------------------------------------------
+
+    def clone_or_update_repo(
+        self,
+        repo_url: str,
+        destination: Path,
+        *,
+        branch_name: str | None = None,
+        force: bool = False,
+    ) -> None:
+        """Clone or update *repo_url* into *destination* using shared helpers."""
+        git_utils.clone_or_update_repo(
+            repo_url,
+            destination,
+            branch_name=branch_name,
+            force=force,
+        )
+
+    def checkout_branch(self, repo_dir: Path, branch_name: str) -> None:
+        """Checkout *branch_name* in *repo_dir* with fast-forward semantics."""
+        git_utils.checkout_branch(repo_dir, branch_name)
+
+    def remove_tree(self, path: Path) -> None:
+        """Remove *path* recursively using the shared helper."""
+        git_utils.remove_tree(path)
 
     def env(self, extra: Mapping[str, str] | None = None) -> MutableMapping[str, str]:
         env: MutableMapping[str, str] = os.environ.copy()
