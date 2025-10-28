@@ -135,12 +135,23 @@ def git_changed_files(commit: str, base: str = None) -> List[str]:
                     "ambiguous argument",
                     "not a valid object name",
                     "bad object",
+                    "invalid upstream",
+                    "invalid revision",
+                    "no merge base",
                 )
             )
             if missing_base:
                 logger.warning(
                     "Konnte Basis-Commit %s nicht finden (fetch-depth?). Fallback auf Einzel-Commit.",
                     base,
+                )
+                code, out, err = _diff_tree_single(commit)
+                ctx = commit
+            else:
+                logger.warning(
+                    "Git-Diff %s schlug fehl (%s). Fallback auf Einzel-Commit.",
+                    ctx,
+                    err.strip() or f"Exit-Code {code}",
                 )
                 code, out, err = _diff_tree_single(commit)
                 ctx = commit
