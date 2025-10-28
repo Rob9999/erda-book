@@ -14,8 +14,13 @@ jobs:
     runs-on: ubuntu-latest
     outputs:
       digest: ${{ steps.build.outputs.digest }}
+      repository: ${{ steps.repository_slug.outputs.value }}
     steps:
       - uses: actions/checkout@v4
+
+      - name: Derive lowercase repository slug
+        id: repository_slug
+        run: echo "value=${GITHUB_REPOSITORY,,}" >> "$GITHUB_OUTPUT"
 
       - uses: docker/setup-qemu-action@v3
 
@@ -37,12 +42,12 @@ jobs:
           target: publisher
           push: true
           tags: |
-            ghcr.io/${{ github.repository }}/publisher:sha-${{ github.sha }}
-            ghcr.io/${{ github.repository }}/publisher:main
+            ghcr.io/${{ steps.repository_slug.outputs.value }}/publisher:sha-${{ github.sha }}
+            ghcr.io/${{ steps.repository_slug.outputs.value }}/publisher:main
           cache-from: |
-            type=registry,ref=ghcr.io/${{ github.repository }}/publisher:buildcache
+            type=registry,ref=ghcr.io/${{ steps.repository_slug.outputs.value }}/publisher:buildcache
           cache-to: |
-            type=registry,ref=ghcr.io/${{ github.repository }}/publisher:buildcache,mode=max
+            type=registry,ref=ghcr.io/${{ steps.repository_slug.outputs.value }}/publisher:buildcache,mode=max
 
   selective-publish:
     needs: [build_image]
@@ -83,12 +88,12 @@ jobs:
       - name: Pull published image
         if: ${{ needs.build_image.result == 'success' }}
         run: |
-          docker pull ghcr.io/${{ github.repository }}/publisher@${{ needs.build_image.outputs.digest }}
+          docker pull ghcr.io/${{ needs.build_image.outputs.repository }}/publisher@${{ needs.build_image.outputs.digest }}
 
       - name: Run publisher profile
         id: run_orchestrator
         env:
-          IMAGE_REF: ${{ needs.build_image.result == 'success' && format('ghcr.io/{0}/publisher@{1}', github.repository, needs.build_image.outputs.digest) || 'erda-publisher:local' }}
+          IMAGE_REF: ${{ needs.build_image.result == 'success' && format('ghcr.io/{0}/publisher@{1}', needs.build_image.outputs.repository, needs.build_image.outputs.digest) || 'erda-publisher:local' }}
         run: |
           set -euo pipefail
           docker run --rm \
