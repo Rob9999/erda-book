@@ -1,6 +1,7 @@
 import json
 from pathlib import Path
 
+import pytest
 import yaml
 from tools.publishing import publisher
 
@@ -42,19 +43,21 @@ def test_get_publish_list(monkeypatch, tmp_path):
     monkeypatch.setattr(publisher, "_load_yaml", fake_load_yaml)
 
     result = publisher.get_publish_list(str(manifest))
-    assert result == [
-        {
-            "path": "a.md",
-            "out": "a.pdf",
-            "out_dir": "publish",
-            "out_format": "pdf",
-            "source_type": "folder",
-            "source_format": "markdown",
-            "use_summary": True,
-            "use_book_json": True,
-            "keep_combined": True,
-        }
-    ]
+    assert len(result) == 1
+    entry = result[0]
+    expected = {
+        "path": "a.md",
+        "out": "a.pdf",
+        "out_dir": "publish",
+        "out_format": "pdf",
+        "source_type": "folder",
+        "source_format": "markdown",
+        "use_summary": True,
+        "use_book_json": True,
+        "keep_combined": True,
+    }
+    for key, value in expected.items():
+        assert entry[key] == value
 
 
 def test_convert_folder_adds_latex_packages(tmp_path, monkeypatch):
@@ -64,7 +67,7 @@ def test_convert_folder_adds_latex_packages(tmp_path, monkeypatch):
 
     captured: dict[str, str] = {}
 
-    def fake_run_pandoc(md_path, pdf_out, add_toc=False, title=None):
+    def fake_run_pandoc(md_path, pdf_out, add_toc=False, title=None, **kwargs):
         with open(md_path, "r", encoding="utf-8") as f:
             captured["content"] = f.read()
 
@@ -99,7 +102,7 @@ def test_convert_folder_respects_existing_header_includes(
 
     captured: dict[str, str] = {}
 
-    def fake_run_pandoc(md_path, pdf_out, add_toc=False, title=None):
+    def fake_run_pandoc(md_path, pdf_out, add_toc=False, title=None, **kwargs):
         with open(md_path, "r", encoding="utf-8") as f:
             captured["content"] = f.read()
 
@@ -123,7 +126,7 @@ def test_convert_folder_landscape_enabled(tmp_path, monkeypatch):
 
     captured: dict[str, str] = {}
 
-    def fake_run_pandoc(md_path, pdf_out, add_toc=False, title=None):
+    def fake_run_pandoc(md_path, pdf_out, add_toc=False, title=None, **kwargs):
         with open(md_path, "r", encoding="utf-8") as f:
             captured["content"] = f.read()
 
@@ -212,3 +215,167 @@ def test_build_pdf_refreshes_summary_from_book_json(tmp_path, monkeypatch):
     )
 
     assert captured["files"] == ["README.md", "chapter.md"]
+
+
+def test_run_pandoc_host_arguments(monkeypatch, tmp_path):
+    md = tmp_path / "doc.md"
+    md.write_text("Hello", encoding="utf-8")
+    pdf = tmp_path / "doc.pdf"
+
+    captured: dict[str, list[str]] = {}
+
+    class DummyResult:
+        returncode = 0
+
+    def fake_run(cmd, check=True, capture=False, env=None):
+        captured["cmd"] = cmd
+        return DummyResult()
+
+    publisher._reset_pandoc_defaults_cache()
+    monkeypatch.setattr(publisher, "_run", fake_run)
+
+    publisher._run_pandoc(
+        str(md),
+        str(pdf),
+        add_toc=True,
+        title="Demo",
+        resource_paths=["assets"],
+        lua_filters=["filter.lua", "other.lua"],
+        metadata={"color": ["true"], "foo": ["bar", "baz"]},
+        variables={"max-list-depth": "5", "custom": "value"},
+        header_path="header.sty",
+        pdf_engine="tectonic",
+        from_format="gfm",
+        to_format="latex",
+        extra_args=["--pdf-engine-opt=foo"],
+        toc_depth=3,
+    )
+
+    cmd = captured["cmd"]
+    pairs = list(zip(cmd, cmd[1:]))
+    assert cmd[:4] == ["pandoc", str(md), "-o", str(pdf)]
+    assert "--pdf-engine" in cmd and cmd[cmd.index("--pdf-engine") + 1] == "tectonic"
+    assert "-f" in cmd and cmd[cmd.index("-f") + 1] == "gfm"
+    assert "-t" in cmd and cmd[cmd.index("-t") + 1] == "latex"
+    assert cmd.count("--lua-filter") == 2
+    assert ("-M", "emojifont=OpenMoji-black-glyf.ttf") in pairs
+    assert ("-M", "color=true") in pairs
+    assert ("-M", "foo=bar") in pairs
+    assert cmd.count("-M") >= 4
+    assert ("--variable", "custom=value") in pairs
+    assert ("--variable", "mainfont=DejaVu Sans") in pairs
+    assert ("--variable", "max-list-depth=5") in pairs
+    assert "--toc" in cmd and ("--toc-depth", "3") in pairs
+    assert cmd[-1] == "--pdf-engine-opt=foo"
+
+
+def test_run_pandoc_uses_default_arguments(monkeypatch, tmp_path):
+    md = tmp_path / "doc.md"
+    md.write_text("Hello", encoding="utf-8")
+    pdf = tmp_path / "build" / "doc.pdf"
+
+    captured: dict[str, list[str]] = {}
+
+    class DummyResult:
+        returncode = 0
+
+    def fake_run(cmd, check=True, capture=False, env=None):
+        captured["cmd"] = cmd
+        return DummyResult()
+
+    publisher._reset_pandoc_defaults_cache()
+    monkeypatch.setattr(publisher, "_run", fake_run)
+
+    publisher._run_pandoc(str(md), str(pdf))
+
+    cmd = captured["cmd"]
+    pairs = list(zip(cmd, cmd[1:]))
+    assert cmd[:4] == ["pandoc", str(md), "-o", str(pdf)]
+    assert ("--pdf-engine", "lualatex") in pairs
+    assert cmd.count("--lua-filter") == 2
+    assert ("-H", ".github/tools/publishing/texmf/tex/latex/local/deeptex.sty") in pairs
+    assert ("-M", "emojifont=OpenMoji-black-glyf.ttf") in pairs
+    assert ("-M", "color=false") in pairs
+    assert ("--variable", "mainfont=DejaVu Sans") in pairs
+    assert ("--variable", "monofont=DejaVu Sans Mono") in pairs
+    assert ("--variable", "emoji=OpenMoji-black-glyf.ttf") in pairs
+    assert ("--variable", "geometry=margin=1in") in pairs
+    assert ("--variable", "longtable=true") in pairs
+    assert ("--variable", "max-list-depth=9") in pairs
+
+
+def test_run_pandoc_env_overrides(monkeypatch, tmp_path):
+    md = tmp_path / "doc.md"
+    md.write_text("Hello", encoding="utf-8")
+    pdf = tmp_path / "doc.pdf"
+
+    captured: dict[str, list[str]] = {}
+
+    class DummyResult:
+        returncode = 0
+
+    def fake_run(cmd, check=True, capture=False, env=None):
+        captured["cmd"] = cmd
+        return DummyResult()
+
+    monkeypatch.setenv(
+        "ERDA_PANDOC_DEFAULTS_JSON",
+        json.dumps(
+            {
+                "pdf_engine": "xelatex",
+                "header_path": None,
+                "lua_filters": {"append": ["custom.lua"]},
+                "metadata": {"color": ["true"], "new": ["value"]},
+                "variables": {"geometry": "margin=2cm", "custom": "1"},
+                "extra_args": ["--top-level-division=chapter"],
+            }
+        ),
+    )
+    publisher._reset_pandoc_defaults_cache()
+    monkeypatch.setattr(publisher, "_run", fake_run)
+
+    publisher._run_pandoc(
+        str(md),
+        str(pdf),
+        extra_args=["--no-tex-ligatures"],
+    )
+
+    cmd = captured["cmd"]
+    pairs = list(zip(cmd, cmd[1:]))
+    assert ("--pdf-engine", "xelatex") in pairs
+    assert "-H" not in cmd
+    assert cmd.count("--lua-filter") == 3
+    assert ("-M", "color=true") in pairs
+    assert ("-M", "new=value") in pairs
+    assert ("--variable", "geometry=margin=2cm") in pairs
+    assert ("--variable", "custom=1") in pairs
+    assert cmd[-2:] == ["--top-level-division=chapter", "--no-tex-ligatures"]
+
+
+def test_run_pandoc_metadata_mapping_override(monkeypatch, tmp_path):
+    md = tmp_path / "doc.md"
+    md.write_text("Hello", encoding="utf-8")
+    pdf = tmp_path / "doc.pdf"
+
+    captured: dict[str, list[str]] = {}
+
+    class DummyResult:
+        returncode = 0
+
+    def fake_run(cmd, check=True, capture=False, env=None):
+        captured["cmd"] = cmd
+        return DummyResult()
+
+    publisher._reset_pandoc_defaults_cache()
+    monkeypatch.setattr(publisher, "_run", fake_run)
+
+    publisher._run_pandoc(
+        str(md),
+        str(pdf),
+        metadata={"color": {"append": ["true"]}},
+    )
+
+    cmd = captured["cmd"]
+    assert cmd.count("-M") == 3
+    assert "color=false" in " ".join(cmd)
+    assert "color=true" in " ".join(cmd)

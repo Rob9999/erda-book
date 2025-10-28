@@ -29,7 +29,9 @@ import sys
 import tempfile
 from collections import OrderedDict
 from pathlib import Path
-from typing import Any, Dict, Iterable, List, Optional, Tuple
+from typing import Any, Dict, Iterable, List, Optional, Sequence, Tuple
+from collections.abc import Mapping
+from functools import lru_cache
 
 from tools.logging_config import get_logger
 
@@ -58,6 +60,30 @@ _SEMVER_RE = re.compile(
 )
 _MANIFEST_VERSION_MIN = (0, 1, 0)
 _MANIFEST_VERSION_CURRENT = (0, 1, 0)
+
+
+_DEFAULT_LUA_FILTERS: List[str] = [
+    ".github/tools/publishing/lua/latex-emoji.lua",
+    ".github/tools/publishing/lua/image-path-resolver.lua",
+]
+_DEFAULT_HEADER_PATH = ".github/tools/publishing/texmf/tex/latex/local/deeptex.sty"
+_DEFAULT_METADATA: Dict[str, List[str]] = {
+    "emojifont": ["OpenMoji-black-glyf.ttf"],
+    "color": ["false"],
+}
+_DEFAULT_VARIABLES: Dict[str, str] = {
+    "mainfont": "DejaVu Sans",
+    "monofont": "DejaVu Sans Mono",
+    "emoji": "OpenMoji-black-glyf.ttf",
+    "geometry": "margin=1in",
+    "longtable": "true",
+    "max-list-depth": "9",
+}
+_DEFAULT_EXTRA_ARGS: Tuple[str, ...] = ()
+
+
+def _resolve_repo_root() -> Path:
+    return Path(__file__).resolve().parents[3]
 
 
 def _as_bool(value: Any, default: bool = False) -> bool:
@@ -104,6 +130,198 @@ def _is_debian_like() -> bool:
 
 def _ensure_dir(path: str) -> None:
     pathlib.Path(path).mkdir(parents=True, exist_ok=True)
+
+
+def _coerce_sequence(value: Any) -> List[str]:
+    if value is None:
+        return []
+    if isinstance(value, str):
+        return [value]
+    if isinstance(value, Mapping):
+        raise TypeError("Mappings können nicht als Sequenz interpretiert werden.")
+    try:
+        return [str(item) for item in value]
+    except TypeError:
+        return [str(value)]
+
+
+def _merge_sequence(base: Sequence[str], override: Any) -> Tuple[str, ...]:
+    values = list(base)
+    if override is None:
+        return tuple(values)
+    if isinstance(override, Mapping):
+        if "replace" in override:
+            return tuple(_coerce_sequence(override.get("replace")))
+        if "prepend" in override:
+            values = _coerce_sequence(override.get("prepend")) + values
+        if "append" in override:
+            values.extend(_coerce_sequence(override.get("append")))
+        if "remove" in override:
+            removals = set(_coerce_sequence(override.get("remove")))
+            values = [item for item in values if item not in removals]
+        return tuple(values)
+    return tuple(_coerce_sequence(override))
+
+
+def _merge_metadata(
+    base: Dict[str, Sequence[str]], override: Any
+) -> Dict[str, Tuple[str, ...]]:
+    result: Dict[str, Tuple[str, ...]] = {
+        key: tuple(values) for key, values in base.items()
+    }
+    if not override:
+        return result
+    if not isinstance(override, Mapping):
+        logger.warning("Pandoc-Metadaten-Override muss ein Mapping sein.")
+        return result
+    replace_block = override.get("replace")
+    if isinstance(replace_block, Mapping):
+        result = {
+            str(key): tuple(_coerce_sequence(value))
+            for key, value in replace_block.items()
+        }
+    for key, value in override.items():
+        if key == "replace":
+            continue
+        if value is None:
+            result.pop(str(key), None)
+            continue
+        if isinstance(value, Mapping):
+            try:
+                result[str(key)] = _merge_sequence(
+                    result.get(str(key), tuple()), value
+                )
+            except TypeError as exc:
+                logger.warning(
+                    "Pandoc-Metadaten-Override für %s konnte nicht angewendet werden: %s",
+                    key,
+                    exc,
+                )
+            continue
+        try:
+            result[str(key)] = tuple(_coerce_sequence(value))
+        except TypeError as exc:
+            logger.warning(
+                "Pandoc-Metadaten-Override für %s konnte nicht geparst werden: %s",
+                key,
+                exc,
+            )
+    return result
+
+
+def _merge_variables(
+    base: Dict[str, str], override: Any
+) -> Dict[str, str]:
+    result = dict(base)
+    if not override:
+        return result
+    if not isinstance(override, Mapping):
+        logger.warning("Pandoc-Variablen-Override muss ein Mapping sein.")
+        return result
+    replace_block = override.get("replace")
+    if isinstance(replace_block, Mapping):
+        result = {str(key): str(value) for key, value in replace_block.items()}
+    for key, value in override.items():
+        if key == "replace":
+            continue
+        if value is None:
+            result.pop(str(key), None)
+        else:
+            if isinstance(value, Mapping):
+                logger.warning(
+                    "Verschachtelte Variablen-Overrides für %s werden nicht unterstützt.",
+                    key,
+                )
+                continue
+            result[str(key)] = str(value)
+    return result
+
+
+def _load_pandoc_overrides() -> Dict[str, Any]:
+    inline = os.environ.get("ERDA_PANDOC_DEFAULTS_JSON")
+    if inline:
+        try:
+            data = json.loads(inline)
+            if isinstance(data, dict):
+                return data
+            logger.warning(
+                "ERDA_PANDOC_DEFAULTS_JSON muss ein JSON-Objekt liefern, nicht %s.",
+                type(data).__name__,
+            )
+        except json.JSONDecodeError as exc:
+            logger.warning(
+                "Konnte ERDA_PANDOC_DEFAULTS_JSON nicht parsen: %s", exc
+            )
+    path = os.environ.get("ERDA_PANDOC_DEFAULTS_FILE")
+    if path:
+        try:
+            with open(path, "r", encoding="utf-8") as handle:
+                data = json.load(handle)
+            if isinstance(data, dict):
+                return data
+            logger.warning(
+                "%s muss ein JSON-Objekt enthalten, nicht %s.",
+                path,
+                type(data).__name__,
+            )
+        except OSError as exc:
+            logger.warning("Konnte %s nicht lesen: %s", path, exc)
+        except json.JSONDecodeError as exc:
+            logger.warning("Konnte %s nicht parsen: %s", path, exc)
+    return {}
+
+
+@lru_cache(maxsize=1)
+def _get_pandoc_defaults() -> Dict[str, Any]:
+    overrides = _load_pandoc_overrides()
+    defaults: Dict[str, Any] = {
+        "lua_filters": tuple(_DEFAULT_LUA_FILTERS),
+        "metadata": {
+            key: tuple(values) for key, values in _DEFAULT_METADATA.items()
+        },
+        "variables": dict(_DEFAULT_VARIABLES),
+        "header_path": _DEFAULT_HEADER_PATH,
+        "pdf_engine": "lualatex",
+        "extra_args": _DEFAULT_EXTRA_ARGS,
+    }
+    if not overrides:
+        return defaults
+    if "lua_filters" in overrides:
+        try:
+            defaults["lua_filters"] = _merge_sequence(
+                defaults["lua_filters"], overrides["lua_filters"]
+            )
+        except TypeError as exc:
+            logger.warning("Pandoc-Filter-Override ungültig: %s", exc)
+    if "metadata" in overrides:
+        defaults["metadata"] = _merge_metadata(
+            defaults["metadata"], overrides["metadata"]
+        )
+    if "variables" in overrides:
+        defaults["variables"] = _merge_variables(
+            defaults["variables"], overrides["variables"]
+        )
+    if "header_path" in overrides:
+        header_override = overrides.get("header_path")
+        if header_override is None:
+            defaults["header_path"] = None
+        else:
+            defaults["header_path"] = str(header_override)
+    if "pdf_engine" in overrides:
+        engine_override = overrides.get("pdf_engine")
+        defaults["pdf_engine"] = str(engine_override) if engine_override else ""
+    if "extra_args" in overrides:
+        try:
+            defaults["extra_args"] = _merge_sequence(
+                defaults["extra_args"], overrides["extra_args"]
+            )
+        except TypeError as exc:
+            logger.warning("Pandoc-Argument-Override ungültig: %s", exc)
+    return defaults
+
+
+def _reset_pandoc_defaults_cache() -> None:
+    _get_pandoc_defaults.cache_clear()
 
 
 def _parse_semver(value: str) -> Tuple[int, int, int]:
@@ -443,54 +661,122 @@ def _get_book_title(folder: str) -> Optional[str]:
         return None
 
 
+
 def _run_pandoc(
     md_path: str,
     pdf_out: str,
     add_toc: bool = False,
     title: Optional[str] = None,
     resource_paths: Optional[List[str]] = None,
+    *,
+    lua_filters: Optional[Sequence[str]] = None,
+    metadata: Optional[Dict[str, Sequence[str] | str]] = None,
+    variables: Optional[Dict[str, str]] = None,
+    header_path: Optional[str] = None,
+    pdf_engine: Optional[str] = None,
+    from_format: Optional[str] = None,
+    to_format: Optional[str] = None,
+    extra_args: Optional[Sequence[str]] = None,
+    toc_depth: Optional[int] = None,
 ) -> None:
     _ensure_dir(os.path.dirname(pdf_out))
+
+    defaults = _get_pandoc_defaults()
+
     resource_path_values = _build_resource_paths(resource_paths)
-    resource_path_arg = os.pathsep.join(resource_path_values) if resource_path_values else None
-    cmd = [
+    resource_path_arg = (
+        os.pathsep.join(resource_path_values) if resource_path_values else None
+    )
+
+    filters = (
+        list(lua_filters)
+        if lua_filters is not None
+        else list(defaults["lua_filters"])
+    )
+
+    metadata_map: Dict[str, List[str]] = {
+        key: list(values) for key, values in defaults["metadata"].items()
+    }
+    if metadata:
+        for key, value in metadata.items():
+            if isinstance(value, Mapping):
+                try:
+                    metadata_map[key] = list(
+                        _merge_sequence(tuple(metadata_map.get(key, [])), value)
+                    )
+                except TypeError as exc:
+                    logger.warning(
+                        "Metadaten-Override für %s konnte nicht angewendet werden: %s",
+                        key,
+                        exc,
+                    )
+            elif isinstance(value, (list, tuple, set)):
+                metadata_map[key] = [str(v) for v in value]
+            else:
+                metadata_map[key] = [str(value)]
+
+    variable_map: Dict[str, str] = dict(defaults["variables"])
+    if variables:
+        for key, value in variables.items():
+            if value is None:
+                variable_map.pop(key, None)
+            else:
+                variable_map[key] = str(value)
+
+    header = header_path if header_path is not None else defaults["header_path"]
+    engine = pdf_engine if pdf_engine is not None else defaults["pdf_engine"]
+
+    additional_args: List[str] = list(defaults["extra_args"])
+    if extra_args:
+        additional_args.extend(str(arg) for arg in extra_args)
+
+    def _compose_args(
+        *,
+        resource_argument: Optional[str],
+        filters_argument: Sequence[str],
+        header_argument: Optional[str],
+    ) -> List[str]:
+        args: List[str] = []
+        if from_format:
+            args.extend(["-f", from_format])
+        if to_format:
+            args.extend(["-t", to_format])
+        if engine:
+            args.extend(["--pdf-engine", engine])
+        if resource_argument:
+            args.extend(["--resource-path", resource_argument])
+            logger.info("ℹ Pandoc resource paths: %s", resource_argument)
+        if header_argument:
+            args.extend(["-H", header_argument])
+        for filter_path in filters_argument:
+            args.extend(["--lua-filter", filter_path])
+        for key, values in metadata_map.items():
+            for value in values:
+                args.extend(["-M", f"{key}={value}"])
+        for key, value in variable_map.items():
+            args.extend(["--variable", f"{key}={value}"])
+        if add_toc:
+            args.append("--toc")
+            if toc_depth is not None:
+                args.extend(["--toc-depth", str(toc_depth)])
+        if title:
+            args.extend(["-V", f"title={title}"])
+        args.extend(additional_args)
+        return args
+
+    host_cmd = [
         "pandoc",
         md_path,
         "-o",
         pdf_out,
-        "--pdf-engine",
-        "lualatex",
-        "-V",
-        "mainfont=DejaVu Sans",
-        "-V",
-        "monofont=DejaVu Sans Mono",
-        "-V",
-        "emoji=OpenMoji-black-glyf.ttf",
-        "-V",
-        "geometry=margin=1in",
-        "--lua-filter",
-        ".github/tools/publishing/lua/latex-emoji.lua",
-        "--lua-filter",
-        ".github/tools/publishing/lua/image-path-resolver.lua",
-        "-H",
-        ".github/tools/publishing/texmf/tex/latex/local/deeptex.sty",
-        "-M",
-        "emojifont=OpenMoji-black-glyf.ttf",
-        "-M",
-        "color=false",
-        "--variable",
-        "longtable=true",
-        "--variable",
-        "max-list-depth=9",
+        *_compose_args(
+            resource_argument=resource_path_arg,
+            filters_argument=filters,
+            header_argument=header,
+        ),
     ]
-    if resource_path_arg:
-        cmd.extend(["--resource-path", resource_path_arg])
-        logger.info("ℹ Pandoc resource paths: %s", resource_path_arg)
-    if add_toc:
-        cmd.append("--toc")
-    if title:
-        cmd.extend(["-V", f"title={title}"])
-    _run(cmd)
+
+    _run(host_cmd)
 
 
 def _extract_md_paths_from_summary(summary_path: Path, root_dir: Path) -> List[str]:

@@ -81,7 +81,14 @@ This package implements the selective publishing flow used by the Actions job:
   injects fonts and LaTeX macros, honours per-entry asset directories from
   `publish.yml` when constructing Pandoc's resource path so images stay
   available, runs Pandoc and resets build flags through `reset_publish_flag.py`
-  when successful.
+  when successful.  Pandoc is executed directly inside the surrounding
+  workflow environment (GitHub-hosted image, the prebuilt `.github/tools`
+  container, or a contributor's local toolchain); the module no longer spawns
+  nested containers.  Default command-line flags—Lua filters, metadata, and
+  variables—mirror the historical `publish.yml` behaviour and can be adjusted by
+  supplying either `ERDA_PANDOC_DEFAULTS_JSON` (inline JSON) or
+  `ERDA_PANDOC_DEFAULTS_FILE` (path to a JSON file) with keys for `lua_filters`,
+  `metadata`, `variables`, `header_path`, `pdf_engine`, or `extra_args`.
 * `gitbook_style.py` contains two subcommands: `rename`, which applies GitBook
   naming conventions, and `summary`, which rebuilds `SUMMARY.md` from
   `book.json`.  Both support running with or without Git metadata.

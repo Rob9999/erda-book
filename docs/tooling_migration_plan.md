@@ -43,8 +43,24 @@
    - Replace `ensure_docker_image`/`ensure_docker_desktop` with orchestrator-facing adapters that call `utils/docker_runner.py`, ensuring consistent daemon checks, image builds, and OS-specific handling across every entry point before we drop the legacy package.【F:tools/gitbook-worker/src/gitbook-worker/docker_tools.py†L11-L94】【F:.github/tools/utils/docker_runner.py†L1-L118】
 
 4. **Retire duplicate Pandoc glue.**
-   - Remove `pandoc_utils.py` after migrating any missing switches into `publishing/publisher.py` or `publishing/preprocess_md.py`, ensuring all PDF builds flow through the maintained pipeline and its Lua filters/assets.【F:tools/gitbook-worker/src/gitbook-worker/pandoc_utils.py†L7-L107】【F:.github/tools/publishing/publisher.py†L34-L198】【F:.github/tools/publishing/preprocess_md.py†L1-L200】
-   - For functions such as `wrap_wide_tables`, either reuse the existing preprocessing step or expose a focused helper under `publishing` if additional behaviour is required.【F:tools/gitbook-worker/src/gitbook-worker/utils.py†L175-L200】【F:.github/tools/publishing/preprocess_md.py†L1-L200】
+   1. **Inventory and diff functionality.**
+       - Catalogue every helper in `pandoc_utils.py` (local CLI wrapper, Docker entry point, argument normalisers, logging helpers) and map them to their closest equivalents inside `tools.publishing`.【F:tools/gitbook-worker/src/gitbook-worker/pandoc_utils.py†L7-L107】【F:.github/tools/publishing/publisher.py†L665-L779】
+      - Build a comparison matrix of command-line flags and Lua filters to confirm which options (`--toc-depth`, `--pdf-engine`, geometry overrides, filters) are already wired through `_run_pandoc` and which need to be ported.
+      - Flag deprecated or redundant knobs (e.g. duplicated verbosity toggles) so the unified path stays focused on the options we actually exercise in manifests.
+   2. **Merge missing switches into the maintained path.**
+      - Extend `_run_pandoc` (and the higher-level `convert_*` helpers) to accept any missing arguments surfaced by the diff, ensuring we preserve compatibility for book builds, standalone PDFs, and any CI automation that depends on custom templates.【F:.github/tools/publishing/publisher.py†L86-L284】
+      - Add regression coverage in `.github/tests/publishing` that asserts Pandoc receives the expected flag set for representative invocations (PDF with defaults, PDF with runtime overrides, JSON-configured defaults) before deleting the legacy helper.【F:.github/tests/test_publisher.py†L1-L420】
+      - Update the publishing README or docstrings to advertise the new parameters so downstream callers can switch without spelunking through git history.【F:.github/tools/README.md†L115-L156】
+   3. **Document the single-container contract.**
+      - Keep `_run_pandoc` focused on the host binary; the orchestrator-provided Docker image or the developer's local environment is responsible for ensuring Pandoc and LaTeX are present so we never spawn containers from inside `publisher.py`.
+      - Describe in the README which workflows supply Pandoc (GitHub-hosted runners, `.github/tools` Docker image, local installs) and surface the new `ERDA_PANDOC_DEFAULTS_JSON`/`ERDA_PANDOC_DEFAULTS_FILE` hooks for tweaking default flags without editing the codebase.【F:.github/tools/README.md†L64-L123】【F:.github/tools/publishing/publisher.py†L93-L224】
+      - Provide migration guidance for callers that previously relied on `tools/gitbook-worker`'s Docker helpers, pointing them to the orchestrator profiles if they need a containerised run.
+   4. **Fold specialised preprocessing into the shared pipeline.**
+      - Redirect consumers of `wrap_wide_tables` and related markdown mungers to the canonical preprocessing flow (`preprocess_md.py`) or lift any missing transformations into that module so we have a single, ordered set of mutations.【F:tools/gitbook-worker/src/gitbook-worker/utils.py†L175-L260】【F:.github/tools/publishing/preprocess_md.py†L303-L355】
+      - While migrating, add fixtures that reproduce the table/layout edge cases the legacy helper solved to ensure the consolidated pipeline keeps the same rendering guarantees.
+   5. **Remove the duplicate module.**
+      - Deprecate `pandoc_utils.py` with a short-lived shim that imports and re-exports the new functions, log a warning on use, and schedule its deletion once all callers have been flipped.
+      - As a final verification, run representative book builds (HTML, PDF, summary-only) through the orchestrator to confirm the combined preprocessing, Lua filters, and single-container execution produce identical artefacts before deleting the shim.
 
 5. **Plan the shutdown of `tools/gitbook-worker`.**
    - Once the above modules are migrated and wired into the orchestrator, delete the legacy package, keep only lightweight wrappers (e.g. CLI stubs) if external automation still imports `gitbook_worker`, and update the repository documentation to mark the root-level `tools/` folder as deprecated.【F:tools/gitbook-worker/src/gitbook-worker/__init__.py†L12-L103】【F:.github/tools/README.md†L147-L156】
