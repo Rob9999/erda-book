@@ -70,10 +70,10 @@ _DEFAULT_LUA_FILTERS: List[str] = [
 ]
 _DEFAULT_HEADER_PATH = ".github/tools/publishing/texmf/tex/latex/local/deeptex.sty"
 _DEFAULT_METADATA: Dict[str, List[str]] = {
-    "color": ["false"],
+    "color": ["true"],
 }
 _DEFAULT_VARIABLES: Dict[str, str] = {
-    "mainfont": "DejaVu Sans",
+    "mainfont": "DejaVu Serif",
     "sansfont": "DejaVu Sans",
     "monofont": "DejaVu Sans Mono",
     "geometry": "margin=1in",
@@ -93,7 +93,7 @@ EMOJI_RANGES = (
 class EmojiOptions:
     """Runtime configuration for emoji handling in Pandoc runs."""
 
-    color: bool = False
+    color: bool = True
     report: bool = False
     report_dir: Optional[Path] = None
 
@@ -664,6 +664,40 @@ def _build_resource_paths(additional: Optional[Iterable[str]] = None) -> List[st
     return _dedupe_preserve_order(defaults)
 
 
+def _parse_pdf_options(raw: Any) -> Dict[str, Any]:
+    if not isinstance(raw, Mapping):
+        return {}
+
+    parsed: Dict[str, Any] = {}
+
+    if "emoji_color" in raw:
+        parsed["emoji_color"] = _as_bool(raw.get("emoji_color"))
+
+    for key in ("main_font", "sans_font", "mono_font"):
+        value = raw.get(key)
+        if value is None:
+            continue
+        value_str = str(value).strip()
+        if value_str:
+            parsed[key] = value_str
+
+    return parsed
+
+
+def _build_variable_overrides(pdf_options: Mapping[str, Any]) -> Dict[str, str]:
+    variables: Dict[str, str] = {}
+    mapping = {
+        "main_font": "mainfont",
+        "sans_font": "sansfont",
+        "mono_font": "monofont",
+    }
+    for option_key, variable_key in mapping.items():
+        value = pdf_options.get(option_key)
+        if isinstance(value, str) and value.strip():
+            variables[variable_key] = value.strip()
+    return variables
+
+
 def _resolve_asset_paths(
     assets: Iterable[Any], manifest_dir: Path, entry_path: Path
 ) -> List[str]:
@@ -773,6 +807,7 @@ def get_publish_list(manifest_path: Optional[str] = None) -> List[Dict[str, Any]
                         }
                     )
         result["assets"] = assets
+        result["pdf_options"] = _parse_pdf_options(entry.get("pdf_options"))
         res.append(result)
 
     return res
@@ -967,7 +1002,7 @@ def _run_pandoc(
     if options.color:
         metadata_map["color"] = ["true"]
     else:
-        metadata_map.setdefault("color", ["false"])
+        metadata_map["color"] = ["false"]
 
     pandoc_version = _get_pandoc_version()
     if pandoc_version:
@@ -979,9 +1014,12 @@ def _run_pandoc(
     if emoji_font:
         metadata_map["emojifont"] = [emoji_font]
 
-    main_font = variable_map.get("mainfont", "DejaVu Sans")
-    sans_font = variable_map.get("sansfont", main_font)
-    mono_font = variable_map.get("monofont", sans_font)
+    main_font = variable_map.get("mainfont", _DEFAULT_VARIABLES["mainfont"])
+    sans_font = variable_map.get("sansfont", variable_map.get("mainfont", _DEFAULT_VARIABLES["sansfont"]))
+    mono_font = variable_map.get(
+        "monofont",
+        variable_map.get("sansfont", _DEFAULT_VARIABLES["monofont"]),
+    )
 
     supports_mainfont_fallback = bool(
         pandoc_version and pandoc_version >= (3, 1, 12)
@@ -1142,6 +1180,7 @@ def convert_a_file(
     paper_format: str = "a4",
     resource_paths: Optional[List[str]] = None,
     emoji_options: Optional[EmojiOptions] = None,
+    variables: Optional[Dict[str, str]] = None,
 ) -> None:
     logger.info(
         "========================================================================"
@@ -1182,6 +1221,7 @@ def convert_a_file(
             pdf_out,
             resource_paths=resource_paths,
             emoji_options=options,
+            variables=variables,
         )
     finally:
         try:
@@ -1219,6 +1259,7 @@ def convert_a_folder(
     summary_layout: Optional[SummaryContext] = None,
     resource_paths: Optional[List[str]] = None,
     emoji_options: Optional[EmojiOptions] = None,
+    variables: Optional[Dict[str, str]] = None,
 ) -> None:
 
     logger.info(
@@ -1265,6 +1306,7 @@ def convert_a_folder(
             title=title,
             resource_paths=resource_paths,
             emoji_options=options,
+            variables=variables,
         )
     finally:
         try:
@@ -1302,6 +1344,7 @@ def build_pdf(
     summary_appendices_last: bool = False,
     resource_paths: Optional[List[str]] = None,
     emoji_options: Optional[EmojiOptions] = None,
+    variables: Optional[Dict[str, str]] = None,
 ) -> Tuple[bool, Optional[str]]:
     """
     Baut ein PDF gemäß Typ ('file'/'folder').
@@ -1337,6 +1380,7 @@ def build_pdf(
                 paper_format=paper_format,
                 resource_paths=resource_paths,
                 emoji_options=emoji_options,
+                variables=variables,
             )
         elif _typ == "folder":
             summary_layout: Optional[SummaryContext] = None
@@ -1374,6 +1418,7 @@ def build_pdf(
                 summary_layout=summary_layout,
                 resource_paths=resource_paths,
                 emoji_options=emoji_options,
+                variables=variables,
             )
         else:
             logger.warning("⚠ Unbekannter type='%s' – übersprungen.", typ)
@@ -1434,8 +1479,16 @@ def main() -> None:
     )
     ap.add_argument(
         "--emoji-color",
+        dest="emoji_color",
         action="store_true",
+        default=True,
         help="Render emojis with the colour OpenMoji font when available.",
+    )
+    ap.add_argument(
+        "--no-emoji-color",
+        dest="emoji_color",
+        action="store_false",
+        help="Disable colour emoji rendering.",
     )
     ap.add_argument(
         "--emoji-report",
@@ -1527,6 +1580,19 @@ def main() -> None:
             assets_for_entry, manifest_dir, path
         )
 
+        pdf_options = entry.get("pdf_options") or {}
+        variable_overrides = (
+            _build_variable_overrides(pdf_options) if pdf_options else {}
+        )
+        if "emoji_color" in pdf_options:
+            entry_emoji_options = EmojiOptions(
+                color=bool(pdf_options["emoji_color"]),
+                report=emoji_options.report,
+                report_dir=emoji_options.report_dir,
+            )
+        else:
+            entry_emoji_options = emoji_options
+
         ok, msg = build_pdf(
             path=path,
             out=out,
@@ -1541,7 +1607,8 @@ def main() -> None:
             summary_manual_marker=summary_manual_marker,
             summary_appendices_last=_as_bool(entry.get("summary_appendices_last")),
             resource_paths=resolved_resource_paths,
-            emoji_options=emoji_options,
+            emoji_options=entry_emoji_options,
+            variables=variable_overrides or None,
         )
         if ok:
             built.append(str((publish_dir_path / out).resolve()))
