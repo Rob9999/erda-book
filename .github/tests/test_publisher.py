@@ -387,6 +387,15 @@ def test_run_pandoc_env_overrides(monkeypatch, tmp_path):
     monkeypatch.setattr(
         publisher, "_select_emoji_font", lambda color: ("Segoe UI Emoji", True)
     )
+    captured_header: dict[str, str] = {}
+    original_build_header = publisher._build_font_header
+
+    def capture_header(**kwargs):
+        content = original_build_header(**kwargs)
+        captured_header["text"] = content
+        return content
+
+    monkeypatch.setattr(publisher, "_build_font_header", capture_header)
 
     publisher._run_pandoc(
         str(md),
@@ -406,6 +415,11 @@ def test_run_pandoc_env_overrides(monkeypatch, tmp_path):
     assert ("--variable", "custom=1") in pairs
     assert all(
         pair != ("-V", "mainfontfallback=Segoe UI Emoji:mode=harf") for pair in pairs
+    )
+    header_content = captured_header.get("text", "")
+    assert (
+        'luaotfload.add_fallback("mainfont", "Segoe UI Emoji:mode=harf")'
+        in header_content
     )
     assert cmd[-2:] == ["--top-level-division=chapter", "--no-tex-ligatures"]
 
@@ -441,3 +455,5 @@ def test_run_pandoc_metadata_mapping_override(monkeypatch, tmp_path):
     assert cmd.count("-M") == 3
     assert "color=false" in " ".join(cmd)
     assert "color=true" in " ".join(cmd)
+    pairs = list(zip(cmd, cmd[1:]))
+    assert ("-V", "mainfontfallback=OpenMoji Black") in pairs
