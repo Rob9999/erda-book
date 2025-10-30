@@ -249,8 +249,16 @@ def _merge_variables(base: Dict[str, str], override: Any) -> Dict[str, str]:
     return result
 
 
+def _normalize_font_name(value: str) -> str:
+    """Return a normalised version of ``value`` for fuzzy font matching."""
+
+    return re.sub(r"[^a-z0-9]", "", value.lower())
+
+
 def _font_available(name: str) -> bool:
-    """Return ``True`` if fontconfig can resolve ``name``."""
+    """Return ``True`` if fontconfig or local assets can resolve ``name``."""
+
+    normalized = _normalize_font_name(name)
 
     fc_list = _which("fc-list")
     if fc_list:
@@ -265,13 +273,16 @@ def _font_available(name: str) -> bool:
         except OSError:
             result = None
         else:
-            if result.stdout and name.lower() in result.stdout.lower():
-                return True
+            if result and result.stdout:
+                for line in result.stdout.splitlines():
+                    if normalized in _normalize_font_name(line):
+                        return True
 
     fonts_dir = _resolve_repo_root() / ".github" / "tools" / "publishing" / "fonts"
     try:
         for font_file in fonts_dir.rglob("*.ttf"):
-            if name.lower() in font_file.stem.lower():
+            stem = _normalize_font_name(font_file.stem)
+            if stem and (normalized in stem or stem in normalized):
                 return True
     except OSError:
         pass
@@ -819,6 +830,22 @@ def prepare_publishing(no_apt: bool = False) -> None:
             _run(["fc-cache", "-f", "-v"], check=False)
             font_cache_refreshed = True
 
+    def _register_font(font_path: str) -> None:
+        if not font_path:
+            return
+        try:
+            path_obj = Path(font_path)
+            if not path_obj.exists():
+                return
+            user_font_dir = Path.home() / ".local" / "share" / "fonts"
+            user_font_dir.mkdir(parents=True, exist_ok=True)
+            target = user_font_dir / path_obj.name
+            if not target.exists():
+                shutil.copy2(path_obj, target)
+            _maybe_refresh_font_cache()
+        except Exception as exc:  # pragma: no cover - best effort only
+            logger.warning("Konnte Font %s nicht registrieren: %s", font_path, exc)
+
     font_black = os.path.join(font_dir, "OpenMoji-black-glyf.ttf")
     if not os.path.exists(font_black):
         try:
@@ -828,6 +855,7 @@ def prepare_publishing(no_apt: bool = False) -> None:
             _maybe_refresh_font_cache()
         except Exception as e:
             logger.warning("Konnte OpenMoji black nicht installieren: %s", e)
+    _register_font(font_black)
 
     font_color = os.path.join(font_dir, "OpenMoji-color-glyf_colr_0.ttf")
     if not os.path.exists(font_color):
@@ -838,6 +866,7 @@ def prepare_publishing(no_apt: bool = False) -> None:
             _maybe_refresh_font_cache()
         except Exception as e:
             logger.warning("Konnte OpenMoji color nicht installieren: %s", e)
+    _register_font(font_color)
 
     # latex-emoji.lua Filter
     lua_dir = ".github/tools/publishing/lua"
