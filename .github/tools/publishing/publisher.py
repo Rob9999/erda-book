@@ -315,12 +315,18 @@ def _get_pandoc_version() -> Tuple[int, ...]:
     return tuple(int(part) for part in match.group(1).split("."))
 
 
+def _needs_harfbuzz(font_name: str) -> bool:
+    """Return ``True`` if ``font_name`` requires HarfBuzz rendering."""
+
+    lowered = font_name.lower()
+    return "color" in lowered or "segoe ui emoji" in lowered
+
+
 def _select_emoji_font(prefer_color: bool) -> Tuple[Optional[str], bool]:
     """Select the best available emoji font.
 
-    Returns a tuple of ``(font_name, requires_segoe_fallback)``.  The second
-    element indicates whether Pandoc needs an explicit fallback configuration to
-    make the font work with LuaTeX (Segoe UI Emoji on legacy Pandoc releases).
+    Returns a tuple ``(font_name, needs_harfbuzz)`` describing the selected
+    font and whether HarfBuzz rendering should be enabled for it.
     """
 
     candidates: List[str] = []
@@ -331,7 +337,7 @@ def _select_emoji_font(prefer_color: bool) -> Tuple[Optional[str], bool]:
     for candidate in candidates:
         if _font_available(candidate):
             logger.info("ℹ Verwende Emoji-Font %s", candidate)
-            return candidate, candidate == "Segoe UI Emoji"
+            return candidate, _needs_harfbuzz(candidate)
 
     logger.warning("⚠ Keine spezielle Emoji-Schrift gefunden – fallback auf Hauptfont")
     return None, False
@@ -344,7 +350,8 @@ def _build_font_header(
     mono_font: str,
     emoji_font: Optional[str],
     include_mainfont: bool,
-    use_manual_segoe_fallback: bool,
+    needs_harfbuzz: bool,
+    manual_fallback_spec: Optional[str],
 ) -> str:
     """Render a Pandoc header snippet configuring fonts and fallbacks."""
 
@@ -354,20 +361,19 @@ def _build_font_header(
     if include_mainfont:
         lines.append(f"\\setmainfont{{{main_font}}}")
     if emoji_font:
-        if emoji_font == "Segoe UI Emoji":
-            lines.append("\\IfFontExistsTF{Segoe UI Emoji}{")
+        options: List[str] = [f"Range={{{EMOJI_RANGES}}}"]
+        if needs_harfbuzz:
+            options.insert(0, "Renderer=Harfbuzz")
+        option_block = "[" + ",".join(options) + "]"
+        lines.append(f"\\IfFontExistsTF{{{emoji_font}}}{{")
+        lines.append(
+            f"  \\newfontfamily\\EmojiOne{{{emoji_font}}}{option_block}"
+        )
+        if manual_fallback_spec:
             lines.append(
-                f"  \\newfontfamily\\EmojiOne{{Segoe UI Emoji}}[Renderer=Harfbuzz,Range={{{EMOJI_RANGES}}}]"
+                f'  \\directlua{{luaotfload.add_fallback("mainfont", "{manual_fallback_spec}")}}'
             )
-            if use_manual_segoe_fallback:
-                lines.append(
-                    '  \\directlua{luaotfload.add_fallback("mainfont", "Segoe UI Emoji:mode=harf")}'
-                )
-            lines.append("}{}")
-        else:
-            lines.append(
-                f"\\IfFontExistsTF{{{emoji_font}}}{{\\newfontfamily\\EmojiOne{{{emoji_font}}}[Range={{{EMOJI_RANGES}}}]}}{{}}"
-            )
+        lines.append("}{}")
     lines.extend(
         [
             "\\newcommand*{\\panEmoji}[1]{%",
@@ -969,7 +975,7 @@ def _run_pandoc(
     else:
         logger.warning("⚠ Pandoc-Version konnte nicht bestimmt werden")
 
-    emoji_font, requires_segoe_fallback = _select_emoji_font(options.color)
+    emoji_font, needs_harfbuzz = _select_emoji_font(options.color)
     if emoji_font:
         metadata_map["emojifont"] = [emoji_font]
 
@@ -977,10 +983,17 @@ def _run_pandoc(
     sans_font = variable_map.get("sansfont", main_font)
     mono_font = variable_map.get("monofont", sans_font)
 
-    use_mainfont_fallback = bool(
-        pandoc_version and pandoc_version >= (3, 1, 12) and requires_segoe_fallback
+    supports_mainfont_fallback = bool(
+        pandoc_version and pandoc_version >= (3, 1, 12)
     )
-    manual_segoe_fallback = bool(requires_segoe_fallback and not use_mainfont_fallback)
+    cli_fallback_spec: Optional[str] = None
+    manual_fallback_spec: Optional[str] = None
+    if emoji_font:
+        fallback_spec = f"{emoji_font}{':mode=harf' if needs_harfbuzz else ''}"
+        if supports_mainfont_fallback:
+            cli_fallback_spec = fallback_spec
+        else:
+            manual_fallback_spec = fallback_spec
 
     header_defaults = defaults["header_path"]
     engine = pdf_engine if pdf_engine is not None else defaults["pdf_engine"]
@@ -988,8 +1001,8 @@ def _run_pandoc(
     additional_args: List[str] = list(defaults["extra_args"])
     if extra_args:
         additional_args.extend(str(arg) for arg in extra_args)
-    if use_mainfont_fallback:
-        additional_args.extend(["-V", "mainfontfallback=Segoe UI Emoji:mode=harf"])
+    if cli_fallback_spec:
+        additional_args.extend(["-V", f"mainfontfallback={cli_fallback_spec}"])
 
     header_override = header_path
 
@@ -1001,8 +1014,9 @@ def _run_pandoc(
                 sans_font=sans_font,
                 mono_font=mono_font,
                 emoji_font=emoji_font,
-                include_mainfont=not use_mainfont_fallback,
-                use_manual_segoe_fallback=manual_segoe_fallback,
+                include_mainfont=not supports_mainfont_fallback,
+                needs_harfbuzz=needs_harfbuzz,
+                manual_fallback_spec=manual_fallback_spec,
             ),
             encoding="utf-8",
         )
