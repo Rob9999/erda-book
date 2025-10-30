@@ -145,14 +145,51 @@ def test_convert_folder_landscape_enabled(tmp_path, monkeypatch):
     opts = "\n".join(meta.get("geometry", []))
     assert "paperwidth=297mm" in opts
     assert "paperheight=210mm" in opts
+
+
+def test_convert_file_emits_emoji_report(tmp_path, monkeypatch):
+    md_file = tmp_path / "doc.md"
+    md_file.write_text("Hallo 😀", encoding="utf-8")
+
+    pdf_out = tmp_path / "doc.pdf"
+    report_dir = tmp_path / "reports"
+
+    monkeypatch.setattr(
+        publisher,
+        "process",
+        lambda path, paper_format="a4": Path(path).read_text(encoding="utf-8"),
+    )
+    monkeypatch.setattr(publisher, "normalize_md", lambda text: text)
+    monkeypatch.setattr(
+        publisher,
+        "add_geometry_package",
+        lambda text, paper_format="a4": text,
+    )
+
+    def fake_run(md_path, pdf_out, **kwargs):
+        assert Path(md_path).exists()
+
+    monkeypatch.setattr(publisher, "_run_pandoc", fake_run)
+
+    publisher.convert_a_file(
+        str(md_file),
+        str(pdf_out),
+        emoji_options=publisher.EmojiOptions(report=True, report_dir=report_dir),
+    )
+
+    reports = list(report_dir.glob("*_emoji_report_*.md"))
+    assert len(reports) == 1
+    content = reports[0].read_text(encoding="utf-8")
+    assert "# Emoji usage report" in content
+    assert "Emoticons" in content
+
+
 def test_build_pdf_reads_uppercase_summary(tmp_path, monkeypatch):
     folder = tmp_path / "book"
     folder.mkdir()
     (folder / "a.md").write_text("A", encoding="utf-8")
     (folder / "b.md").write_text("B", encoding="utf-8")
-    (folder / "SUMMARY.md").write_text(
-        "* [A](a.md)\n* [B](b.md)\n", encoding="utf-8"
-    )
+    (folder / "SUMMARY.md").write_text("* [A](a.md)\n* [B](b.md)\n", encoding="utf-8")
 
     captured: dict[str, list[str]] = {}
 
@@ -161,7 +198,9 @@ def test_build_pdf_reads_uppercase_summary(tmp_path, monkeypatch):
         return "---\n---\n"
 
     monkeypatch.setattr(publisher, "combine_markdown", fake_combine)
-    monkeypatch.setattr(publisher, "add_geometry_package", lambda text, paper_format="a4": text)
+    monkeypatch.setattr(
+        publisher, "add_geometry_package", lambda text, paper_format="a4": text
+    )
     monkeypatch.setattr(publisher, "_run_pandoc", lambda *args, **kwargs: None)
 
     publish_dir = tmp_path / "out"
@@ -201,7 +240,9 @@ def test_build_pdf_refreshes_summary_from_book_json(tmp_path, monkeypatch):
         return "---\n---\n"
 
     monkeypatch.setattr(publisher, "combine_markdown", fake_combine)
-    monkeypatch.setattr(publisher, "add_geometry_package", lambda text, paper_format="a4": text)
+    monkeypatch.setattr(
+        publisher, "add_geometry_package", lambda text, paper_format="a4": text
+    )
     monkeypatch.setattr(publisher, "_run_pandoc", lambda *args, **kwargs: None)
 
     publish_dir = tmp_path / "out"
@@ -233,6 +274,10 @@ def test_run_pandoc_host_arguments(monkeypatch, tmp_path):
 
     publisher._reset_pandoc_defaults_cache()
     monkeypatch.setattr(publisher, "_run", fake_run)
+    monkeypatch.setattr(publisher, "_get_pandoc_version", lambda: (3, 1, 12))
+    monkeypatch.setattr(
+        publisher, "_select_emoji_font", lambda color: ("OpenMoji Black", False)
+    )
 
     publisher._run_pandoc(
         str(md),
@@ -258,13 +303,14 @@ def test_run_pandoc_host_arguments(monkeypatch, tmp_path):
     assert "-f" in cmd and cmd[cmd.index("-f") + 1] == "gfm"
     assert "-t" in cmd and cmd[cmd.index("-t") + 1] == "latex"
     assert cmd.count("--lua-filter") == 2
-    assert ("-M", "emojifont=OpenMoji-black-glyf.ttf") in pairs
+    assert ("-M", "emojifont=OpenMoji Black") in pairs
     assert ("-M", "color=true") in pairs
     assert ("-M", "foo=bar") in pairs
     assert cmd.count("-M") >= 4
     assert ("--variable", "custom=value") in pairs
     assert ("--variable", "mainfont=DejaVu Sans") in pairs
     assert ("--variable", "max-list-depth=5") in pairs
+    assert any(arg.endswith("pandoc-fonts.tex") for arg in cmd)
     assert "--toc" in cmd and ("--toc-depth", "3") in pairs
     assert cmd[-1] == "--pdf-engine-opt=foo"
 
@@ -285,6 +331,10 @@ def test_run_pandoc_uses_default_arguments(monkeypatch, tmp_path):
 
     publisher._reset_pandoc_defaults_cache()
     monkeypatch.setattr(publisher, "_run", fake_run)
+    monkeypatch.setattr(publisher, "_get_pandoc_version", lambda: (3, 1, 12))
+    monkeypatch.setattr(
+        publisher, "_select_emoji_font", lambda color: ("OpenMoji Black", False)
+    )
 
     publisher._run_pandoc(str(md), str(pdf))
 
@@ -292,13 +342,13 @@ def test_run_pandoc_uses_default_arguments(monkeypatch, tmp_path):
     pairs = list(zip(cmd, cmd[1:]))
     assert cmd[:4] == ["pandoc", str(md), "-o", str(pdf)]
     assert ("--pdf-engine", "lualatex") in pairs
-    assert cmd.count("--lua-filter") == 2
+    assert cmd.count("--lua-filter") == 1
     assert ("-H", ".github/tools/publishing/texmf/tex/latex/local/deeptex.sty") in pairs
-    assert ("-M", "emojifont=OpenMoji-black-glyf.ttf") in pairs
+    assert any(arg.endswith("pandoc-fonts.tex") for arg in cmd)
+    assert ("-M", "emojifont=OpenMoji Black") in pairs
     assert ("-M", "color=false") in pairs
     assert ("--variable", "mainfont=DejaVu Sans") in pairs
     assert ("--variable", "monofont=DejaVu Sans Mono") in pairs
-    assert ("--variable", "emoji=OpenMoji-black-glyf.ttf") in pairs
     assert ("--variable", "geometry=margin=1in") in pairs
     assert ("--variable", "longtable=true") in pairs
     assert ("--variable", "max-list-depth=9") in pairs
@@ -333,6 +383,10 @@ def test_run_pandoc_env_overrides(monkeypatch, tmp_path):
     )
     publisher._reset_pandoc_defaults_cache()
     monkeypatch.setattr(publisher, "_run", fake_run)
+    monkeypatch.setattr(publisher, "_get_pandoc_version", lambda: (3, 1, 11))
+    monkeypatch.setattr(
+        publisher, "_select_emoji_font", lambda color: ("Segoe UI Emoji", True)
+    )
 
     publisher._run_pandoc(
         str(md),
@@ -343,12 +397,16 @@ def test_run_pandoc_env_overrides(monkeypatch, tmp_path):
     cmd = captured["cmd"]
     pairs = list(zip(cmd, cmd[1:]))
     assert ("--pdf-engine", "xelatex") in pairs
-    assert "-H" not in cmd
-    assert cmd.count("--lua-filter") == 3
+    assert any(arg.endswith("pandoc-fonts.tex") for arg in cmd)
+    assert cmd.count("--lua-filter") == 2
     assert ("-M", "color=true") in pairs
     assert ("-M", "new=value") in pairs
+    assert ("-M", "emojifont=Segoe UI Emoji") in pairs
     assert ("--variable", "geometry=margin=2cm") in pairs
     assert ("--variable", "custom=1") in pairs
+    assert all(
+        pair != ("-V", "mainfontfallback=Segoe UI Emoji:mode=harf") for pair in pairs
+    )
     assert cmd[-2:] == ["--top-level-division=chapter", "--no-tex-ligatures"]
 
 
@@ -368,6 +426,10 @@ def test_run_pandoc_metadata_mapping_override(monkeypatch, tmp_path):
 
     publisher._reset_pandoc_defaults_cache()
     monkeypatch.setattr(publisher, "_run", fake_run)
+    monkeypatch.setattr(publisher, "_get_pandoc_version", lambda: (3, 1, 12))
+    monkeypatch.setattr(
+        publisher, "_select_emoji_font", lambda color: ("OpenMoji Black", False)
+    )
 
     publisher._run_pandoc(
         str(md),

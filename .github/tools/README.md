@@ -88,7 +88,11 @@ This package implements the selective publishing flow used by the Actions job:
   variables—mirror the historical `publish.yml` behaviour and can be adjusted by
   supplying either `ERDA_PANDOC_DEFAULTS_JSON` (inline JSON) or
   `ERDA_PANDOC_DEFAULTS_FILE` (path to a JSON file) with keys for `lua_filters`,
-  `metadata`, `variables`, `header_path`, `pdf_engine`, or `extra_args`.
+  `metadata`, `variables`, `header_path`, `pdf_engine`, or `extra_args`.  The
+  CLI now exposes `--emoji-color` to switch between monochrome and colour
+  OpenMoji fonts, automatically enabling `mainfontfallback` for Segoe UI Emoji
+  on modern Pandoc versions, and `--emoji-report`/`--emoji-report-dir` to emit
+  Markdown summaries of all Unicode emoji blocks encountered during a build.
 * `gitbook_style.py` contains two subcommands: `rename`, which applies GitBook
   naming conventions, and `summary`, which rebuilds `SUMMARY.md` from
   `book.json`.  Both support running with or without Git metadata.
