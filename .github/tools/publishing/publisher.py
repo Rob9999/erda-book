@@ -75,7 +75,7 @@ _DEFAULT_METADATA: Dict[str, List[str]] = {
 _DEFAULT_VARIABLES: Dict[str, str] = {
     "mainfont": "DejaVu Serif",
     "sansfont": "DejaVu Sans",
-    "monofont": "DejaVu Mono",
+    "monofont": "DejaVu Sans Mono",
     "geometry": "margin=1in",
     "longtable": "true",
     "max-list-depth": "9",

@@ -52,7 +52,7 @@ publish:
       emoji_color: true
       main_font: "DejaVu Serif"
       sans_font: "DejaVu Sans"
-      mono_font: "DejaVu Mono"
+      mono_font: "DejaVu Sans Mono"
     assets:
       - path: ./.gitbook/assets
         type: images
