@@ -104,9 +104,6 @@ This package implements the selective publishing flow used by the Actions job:
 * `summary_generator.py`, `paper_info.py`, `make_gitbooks.py` and
   `geometry_package_injector.py` host specialised helpers that are reused by
   the pipeline and publisher scripts.
-* `_test_appendix_check.py` contains unit tests for appendix handling logic in
-  the summary generation.
-
 The `fonts/`, `lua/` and `texmf/` subfolders ship the assets required by Pandoc
 and LaTeX when running headless inside CI.
 
@@ -141,6 +138,16 @@ Quality assurance tooling that inspects Markdown sources for regressions:
   The legacy `tools/gitbook-worker --ai-reference-repair` flag is deprecated;
   use this module instead so that CI workflows and local runs share the same
   implementation and configuration surface.
+
+### `support/`
+
+Lightweight helpers that assist with manual debugging and testing outside the
+core publishing pipeline:
+
+* `appendix_layout_inspector.py` prints the resolved GitBook summary
+  configuration, highlighting the mode/submode in effect and the ordered list of
+  top-level entries so that appendix sorting can be verified without running the
+  full publisher.
 
 ### `utils/`
 
