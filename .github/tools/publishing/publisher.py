@@ -28,6 +28,8 @@ import subprocess
 import sys
 import tempfile
 from collections import OrderedDict
+from dataclasses import dataclass
+from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Dict, Iterable, List, Optional, Sequence, Tuple
 from collections.abc import Mapping
@@ -47,6 +49,7 @@ from tools.publishing.gitbook_style import (
     ensure_clean_summary,
     get_summary_layout,
 )
+from tools.publishing.emoji_report import emoji_report
 
 # ------------------------------- Utils ------------------------------------- #
 
@@ -63,23 +66,36 @@ _MANIFEST_VERSION_CURRENT = (0, 1, 0)
 
 
 _DEFAULT_LUA_FILTERS: List[str] = [
-    ".github/tools/publishing/lua/latex-emoji.lua",
     ".github/tools/publishing/lua/image-path-resolver.lua",
 ]
 _DEFAULT_HEADER_PATH = ".github/tools/publishing/texmf/tex/latex/local/deeptex.sty"
 _DEFAULT_METADATA: Dict[str, List[str]] = {
-    "emojifont": ["OpenMoji-black-glyf.ttf"],
     "color": ["false"],
 }
 _DEFAULT_VARIABLES: Dict[str, str] = {
     "mainfont": "DejaVu Sans",
+    "sansfont": "DejaVu Sans",
     "monofont": "DejaVu Sans Mono",
-    "emoji": "OpenMoji-black-glyf.ttf",
     "geometry": "margin=1in",
     "longtable": "true",
     "max-list-depth": "9",
 }
 _DEFAULT_EXTRA_ARGS: Tuple[str, ...] = ()
+
+EMOJI_RANGES = (
+    "1F300-1F5FF, 1F600-1F64F, 1F680-1F6FF, 1F700-1F77F, 1F780-1F7FF, "
+    "1F800-1F8FF, 1F900-1F9FF, 1FA00-1FA6F, 1FA70-1FAFF, "
+    "2600-26FF, 2700-27BF, 2300-23FF, 2B50, 2B06, 2934-2935, 25A0-25FF"
+)
+
+
+@dataclass(frozen=True)
+class EmojiOptions:
+    """Runtime configuration for emoji handling in Pandoc runs."""
+
+    color: bool = False
+    report: bool = False
+    report_dir: Optional[Path] = None
 
 
 def _resolve_repo_root() -> Path:
@@ -188,9 +204,7 @@ def _merge_metadata(
             continue
         if isinstance(value, Mapping):
             try:
-                result[str(key)] = _merge_sequence(
-                    result.get(str(key), tuple()), value
-                )
+                result[str(key)] = _merge_sequence(result.get(str(key), tuple()), value)
             except TypeError as exc:
                 logger.warning(
                     "Pandoc-Metadaten-Override für %s konnte nicht angewendet werden: %s",
@@ -209,9 +223,7 @@ def _merge_metadata(
     return result
 
 
-def _merge_variables(
-    base: Dict[str, str], override: Any
-) -> Dict[str, str]:
+def _merge_variables(base: Dict[str, str], override: Any) -> Dict[str, str]:
     result = dict(base)
     if not override:
         return result
@@ -237,6 +249,185 @@ def _merge_variables(
     return result
 
 
+def _font_available(name: str) -> bool:
+    """Return ``True`` if fontconfig can resolve ``name``."""
+
+    fc_list = _which("fc-list")
+    if fc_list:
+        try:
+            result = subprocess.run(
+                [fc_list, name],
+                check=False,
+                stdout=subprocess.PIPE,
+                stderr=subprocess.PIPE,
+                text=True,
+            )
+        except OSError:
+            result = None
+        else:
+            if result.stdout and name.lower() in result.stdout.lower():
+                return True
+
+    fonts_dir = _resolve_repo_root() / ".github" / "tools" / "publishing" / "fonts"
+    try:
+        for font_file in fonts_dir.rglob("*.ttf"):
+            if name.lower() in font_file.stem.lower():
+                return True
+    except OSError:
+        pass
+    return False
+
+
+@lru_cache(maxsize=1)
+def _get_pandoc_version() -> Tuple[int, ...]:
+    """Return the installed Pandoc version as a tuple or ``()`` if unknown."""
+
+    pandoc = _which("pandoc")
+    if not pandoc:
+        return ()
+    try:
+        result = subprocess.run(
+            [pandoc, "--version"],
+            check=False,
+            stdout=subprocess.PIPE,
+            stderr=subprocess.PIPE,
+            text=True,
+        )
+    except OSError:
+        return ()
+    if result.returncode != 0 or not result.stdout:
+        return ()
+    first_line = result.stdout.splitlines()[0]
+    match = re.search(r"pandoc\s+([0-9]+(?:\.[0-9]+)*)", first_line)
+    if not match:
+        return ()
+    return tuple(int(part) for part in match.group(1).split("."))
+
+
+def _select_emoji_font(prefer_color: bool) -> Tuple[Optional[str], bool]:
+    """Select the best available emoji font.
+
+    Returns a tuple of ``(font_name, requires_segoe_fallback)``.  The second
+    element indicates whether Pandoc needs an explicit fallback configuration to
+    make the font work with LuaTeX (Segoe UI Emoji on legacy Pandoc releases).
+    """
+
+    candidates: List[str] = []
+    if prefer_color:
+        candidates.append("OpenMoji Color")
+    candidates.extend(["OpenMoji Black", "Noto Color Emoji", "Segoe UI Emoji"])
+
+    for candidate in candidates:
+        if _font_available(candidate):
+            logger.info("ℹ Verwende Emoji-Font %s", candidate)
+            return candidate, candidate == "Segoe UI Emoji"
+
+    logger.warning("⚠ Keine spezielle Emoji-Schrift gefunden – fallback auf Hauptfont")
+    return None, False
+
+
+def _build_font_header(
+    *,
+    main_font: str,
+    sans_font: str,
+    mono_font: str,
+    emoji_font: Optional[str],
+    include_mainfont: bool,
+    use_manual_segoe_fallback: bool,
+) -> str:
+    """Render a Pandoc header snippet configuring fonts and fallbacks."""
+
+    lines = ["\\usepackage{fontspec}"]
+    lines.append(f"\\setsansfont{{{sans_font}}}")
+    lines.append(f"\\setmonofont{{{mono_font}}}")
+    if include_mainfont:
+        lines.append(f"\\setmainfont{{{main_font}}}")
+    if emoji_font:
+        if emoji_font == "Segoe UI Emoji":
+            lines.append("\\IfFontExistsTF{Segoe UI Emoji}{")
+            lines.append(
+                f"  \\newfontfamily\\EmojiOne{{Segoe UI Emoji}}[Renderer=Harfbuzz,Range={{{EMOJI_RANGES}}}]"
+            )
+            if use_manual_segoe_fallback:
+                lines.append(
+                    '  \\directlua{luaotfload.add_fallback("mainfont", "Segoe UI Emoji:mode=harf")}'
+                )
+            lines.append("}{}")
+        else:
+            lines.append(
+                f"\\IfFontExistsTF{{{emoji_font}}}{{\\newfontfamily\\EmojiOne{{{emoji_font}}}[Range={{{EMOJI_RANGES}}}]}}{{}}"
+            )
+    lines.extend(
+        [
+            "\\newcommand*{\\panEmoji}[1]{%",
+            "  \\ifdefined\\EmojiOne",
+            "    {\\EmojiOne #1}%",
+            "  \\else",
+            "    {#1}%",
+            "  \\fi",
+            "}",
+        ]
+    )
+    if _DEFAULT_HEADER_PATH:
+        header_path = Path(_DEFAULT_HEADER_PATH).as_posix()
+        lines.append(f"\\input{{{header_path}}}")
+    return "\n".join(lines) + "\n"
+
+
+def _combine_header_paths(
+    default_header: Optional[Any],
+    override_header: Optional[Any],
+    extra_headers: Sequence[str],
+) -> List[str]:
+    headers: List[str] = []
+
+    for candidate in (default_header, override_header):
+        if not candidate:
+            continue
+        if isinstance(candidate, (list, tuple, set)):
+            headers.extend(str(item) for item in candidate)
+        else:
+            headers.append(str(candidate))
+
+    headers.extend(extra_headers)
+    return headers
+
+
+def _emit_emoji_report(md_file: str, pdf_out: Path, options: EmojiOptions) -> None:
+    if not options.report:
+        return
+
+    try:
+        counts, table_md = emoji_report(md_file)
+    except Exception as exc:  # pragma: no cover - keep build running
+        logger.error("Emoji-Analyse fehlgeschlagen: %s", exc)
+        return
+
+    timestamp = datetime.now(timezone.utc)
+    target_dir = Path(options.report_dir) if options.report_dir else pdf_out.parent
+    target_dir.mkdir(parents=True, exist_ok=True)
+    report_path = (
+        target_dir / f"{pdf_out.stem}_emoji_report_{timestamp:%Y%m%d%H%M%S}.md"
+    )
+
+    lines = [
+        "# Emoji usage report",
+        "",
+        f"* Source: {pdf_out.name}",
+        f"* Generated: {timestamp.isoformat()}",
+        "",
+        table_md,
+    ]
+    if counts:
+        lines.append("")
+        lines.append("## Counts")
+        for name, count in sorted(counts.items(), key=lambda item: (-item[1], item[0])):
+            lines.append(f"* {name}: {count}")
+
+    report_path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    logger.info("ℹ Emoji-Report geschrieben nach %s", report_path)
+
+
 def _load_pandoc_overrides() -> Dict[str, Any]:
     inline = os.environ.get("ERDA_PANDOC_DEFAULTS_JSON")
     if inline:
@@ -249,9 +440,7 @@ def _load_pandoc_overrides() -> Dict[str, Any]:
                 type(data).__name__,
             )
         except json.JSONDecodeError as exc:
-            logger.warning(
-                "Konnte ERDA_PANDOC_DEFAULTS_JSON nicht parsen: %s", exc
-            )
+            logger.warning("Konnte ERDA_PANDOC_DEFAULTS_JSON nicht parsen: %s", exc)
     path = os.environ.get("ERDA_PANDOC_DEFAULTS_FILE")
     if path:
         try:
@@ -276,9 +465,7 @@ def _get_pandoc_defaults() -> Dict[str, Any]:
     overrides = _load_pandoc_overrides()
     defaults: Dict[str, Any] = {
         "lua_filters": tuple(_DEFAULT_LUA_FILTERS),
-        "metadata": {
-            key: tuple(values) for key, values in _DEFAULT_METADATA.items()
-        },
+        "metadata": {key: tuple(values) for key, values in _DEFAULT_METADATA.items()},
         "variables": dict(_DEFAULT_VARIABLES),
         "header_path": _DEFAULT_HEADER_PATH,
         "pdf_engine": "lualatex",
@@ -582,8 +769,8 @@ def prepare_publishing(no_apt: bool = False) -> None:
     Installiert die System- und Python-Abhängigkeiten für den PDF-Build.
     - PyYAML (via prepareYAML)
     - Pandoc + LaTeX (apt-get auf Debian/Ubuntu)
-    - OpenMoji Font + fc-cache
-    - latex-emoji.lua (Pandoc Lua-Filter)
+    - OpenMoji Fonts (schwarz + farbig) + fc-cache
+    - latex-emoji.lua (Pandoc Lua-Filter) für Legacy-Pipelines
     """
     prepareYAML()  # B.1
 
@@ -622,16 +809,35 @@ def prepare_publishing(no_apt: bool = False) -> None:
 
     # OpenMoji-Font & fc-cache
     font_dir = ".github/tools/publishing/fonts/truetype/openmoji"
-    font_path = os.path.join(font_dir, "OpenMoji-black-glyf.ttf")
-    if not os.path.exists(font_path):
+    font_cache_refreshed = False
+
+    def _maybe_refresh_font_cache() -> None:
+        nonlocal font_cache_refreshed
+        if font_cache_refreshed:
+            return
+        if _which("fc-cache"):
+            _run(["fc-cache", "-f", "-v"], check=False)
+            font_cache_refreshed = True
+
+    font_black = os.path.join(font_dir, "OpenMoji-black-glyf.ttf")
+    if not os.path.exists(font_black):
         try:
             _ensure_dir(font_dir)
             url = "https://github.com/hfg-gmuend/openmoji/raw/master/font/OpenMoji-black-glyf/OpenMoji-black-glyf.ttf"
-            _download(url, font_path)
-            if _which("fc-cache"):
-                _run(["fc-cache", "-f", "-v"], check=False)
+            _download(url, font_black)
+            _maybe_refresh_font_cache()
         except Exception as e:
-            logger.warning("Konnte OpenMoji nicht installieren: %s", e)
+            logger.warning("Konnte OpenMoji black nicht installieren: %s", e)
+
+    font_color = os.path.join(font_dir, "OpenMoji-color-glyf_colr_0.ttf")
+    if not os.path.exists(font_color):
+        try:
+            _ensure_dir(font_dir)
+            url = "https://github.com/hfg-gmuend/openmoji/raw/master/font/OpenMoji-color-glyf_colr_0/OpenMoji-color-glyf_colr_0.ttf"
+            _download(url, font_color)
+            _maybe_refresh_font_cache()
+        except Exception as e:
+            logger.warning("Konnte OpenMoji color nicht installieren: %s", e)
 
     # latex-emoji.lua Filter
     lua_dir = ".github/tools/publishing/lua"
@@ -661,7 +867,6 @@ def _get_book_title(folder: str) -> Optional[str]:
         return None
 
 
-
 def _run_pandoc(
     md_path: str,
     pdf_out: str,
@@ -678,6 +883,7 @@ def _run_pandoc(
     to_format: Optional[str] = None,
     extra_args: Optional[Sequence[str]] = None,
     toc_depth: Optional[int] = None,
+    emoji_options: Optional[EmojiOptions] = None,
 ) -> None:
     _ensure_dir(os.path.dirname(pdf_out))
 
@@ -689,9 +895,7 @@ def _run_pandoc(
     )
 
     filters = (
-        list(lua_filters)
-        if lua_filters is not None
-        else list(defaults["lua_filters"])
+        list(lua_filters) if lua_filters is not None else list(defaults["lua_filters"])
     )
 
     metadata_map: Dict[str, List[str]] = {
@@ -723,60 +927,89 @@ def _run_pandoc(
             else:
                 variable_map[key] = str(value)
 
-    header = header_path if header_path is not None else defaults["header_path"]
+    options = emoji_options or EmojiOptions()
+
+    if options.color:
+        metadata_map["color"] = ["true"]
+    else:
+        metadata_map.setdefault("color", ["false"])
+
+    pandoc_version = _get_pandoc_version()
+    if pandoc_version:
+        logger.info("ℹ Erkannte Pandoc-Version: %s", ".".join(map(str, pandoc_version)))
+    else:
+        logger.warning("⚠ Pandoc-Version konnte nicht bestimmt werden")
+
+    emoji_font, requires_segoe_fallback = _select_emoji_font(options.color)
+    if emoji_font:
+        metadata_map["emojifont"] = [emoji_font]
+
+    main_font = variable_map.get("mainfont", "DejaVu Sans")
+    sans_font = variable_map.get("sansfont", main_font)
+    mono_font = variable_map.get("monofont", sans_font)
+
+    use_mainfont_fallback = bool(
+        pandoc_version and pandoc_version >= (3, 1, 12) and requires_segoe_fallback
+    )
+    manual_segoe_fallback = bool(requires_segoe_fallback and not use_mainfont_fallback)
+
+    header_defaults = defaults["header_path"]
     engine = pdf_engine if pdf_engine is not None else defaults["pdf_engine"]
 
     additional_args: List[str] = list(defaults["extra_args"])
     if extra_args:
         additional_args.extend(str(arg) for arg in extra_args)
+    if use_mainfont_fallback:
+        additional_args.extend(["-V", "mainfontfallback=Segoe UI Emoji:mode=harf"])
 
-    def _compose_args(
-        *,
-        resource_argument: Optional[str],
-        filters_argument: Sequence[str],
-        header_argument: Optional[str],
-    ) -> List[str]:
-        args: List[str] = []
+    header_override = header_path
+
+    with tempfile.TemporaryDirectory() as temp_dir:
+        header_file = Path(temp_dir) / "pandoc-fonts.tex"
+        header_file.write_text(
+            _build_font_header(
+                main_font=main_font,
+                sans_font=sans_font,
+                mono_font=mono_font,
+                emoji_font=emoji_font,
+                include_mainfont=not use_mainfont_fallback,
+                use_manual_segoe_fallback=manual_segoe_fallback,
+            ),
+            encoding="utf-8",
+        )
+
+        header_args = _combine_header_paths(
+            header_defaults, header_override, [str(header_file)]
+        )
+
+        cmd: List[str] = ["pandoc", md_path, "-o", pdf_out]
         if from_format:
-            args.extend(["-f", from_format])
+            cmd.extend(["-f", from_format])
         if to_format:
-            args.extend(["-t", to_format])
+            cmd.extend(["-t", to_format])
         if engine:
-            args.extend(["--pdf-engine", engine])
-        if resource_argument:
-            args.extend(["--resource-path", resource_argument])
-            logger.info("ℹ Pandoc resource paths: %s", resource_argument)
-        if header_argument:
-            args.extend(["-H", header_argument])
-        for filter_path in filters_argument:
-            args.extend(["--lua-filter", filter_path])
+            cmd.extend(["--pdf-engine", engine])
+        if resource_path_arg:
+            cmd.extend(["--resource-path", resource_path_arg])
+            logger.info("ℹ Pandoc resource paths: %s", resource_path_arg)
+        for header in header_args:
+            cmd.extend(["-H", header])
+        for filter_path in filters:
+            cmd.extend(["--lua-filter", filter_path])
         for key, values in metadata_map.items():
             for value in values:
-                args.extend(["-M", f"{key}={value}"])
+                cmd.extend(["-M", f"{key}={value}"])
         for key, value in variable_map.items():
-            args.extend(["--variable", f"{key}={value}"])
+            cmd.extend(["--variable", f"{key}={value}"])
         if add_toc:
-            args.append("--toc")
+            cmd.append("--toc")
             if toc_depth is not None:
-                args.extend(["--toc-depth", str(toc_depth)])
+                cmd.extend(["--toc-depth", str(toc_depth)])
         if title:
-            args.extend(["-V", f"title={title}"])
-        args.extend(additional_args)
-        return args
+            cmd.extend(["-V", f"title={title}"])
+        cmd.extend(additional_args)
 
-    host_cmd = [
-        "pandoc",
-        md_path,
-        "-o",
-        pdf_out,
-        *_compose_args(
-            resource_argument=resource_path_arg,
-            filters_argument=filters,
-            header_argument=header,
-        ),
-    ]
-
-    _run(host_cmd)
+        _run(cmd)
 
 
 def _extract_md_paths_from_summary(summary_path: Path, root_dir: Path) -> List[str]:
@@ -865,6 +1098,7 @@ def convert_a_file(
     publish_dir: str = "publish",
     paper_format: str = "a4",
     resource_paths: Optional[List[str]] = None,
+    emoji_options: Optional[EmojiOptions] = None,
 ) -> None:
     logger.info(
         "========================================================================"
@@ -898,7 +1132,14 @@ def convert_a_file(
         tmp.write(content)
         tmp_md = tmp.name
     try:
-        _run_pandoc(tmp_md, pdf_out, resource_paths=resource_paths)
+        options = emoji_options or EmojiOptions()
+        _emit_emoji_report(tmp_md, Path(pdf_out), options)
+        _run_pandoc(
+            tmp_md,
+            pdf_out,
+            resource_paths=resource_paths,
+            emoji_options=options,
+        )
     finally:
         try:
             if not keep_converted_markdown:
@@ -934,6 +1175,7 @@ def convert_a_folder(
     paper_format: str = "a4",
     summary_layout: Optional[SummaryContext] = None,
     resource_paths: Optional[List[str]] = None,
+    emoji_options: Optional[EmojiOptions] = None,
 ) -> None:
 
     logger.info(
@@ -971,12 +1213,15 @@ def convert_a_folder(
             logger.info("ℹ Buch-Titel aus book.json: %s", title)
         else:
             logger.info("ℹ Kein Buch-Titel")
+        options = emoji_options or EmojiOptions()
+        _emit_emoji_report(tmp_md, Path(pdf_out), options)
         _run_pandoc(
             tmp_md,
             pdf_out,
             add_toc=True,
             title=title,
             resource_paths=resource_paths,
+            emoji_options=options,
         )
     finally:
         try:
@@ -1013,6 +1258,7 @@ def build_pdf(
     summary_manual_marker: Optional[str] = DEFAULT_MANUAL_MARKER,
     summary_appendices_last: bool = False,
     resource_paths: Optional[List[str]] = None,
+    emoji_options: Optional[EmojiOptions] = None,
 ) -> Tuple[bool, Optional[str]]:
     """
     Baut ein PDF gemäß Typ ('file'/'folder').
@@ -1047,6 +1293,7 @@ def build_pdf(
                 publish_dir=str(publish_path),
                 paper_format=paper_format,
                 resource_paths=resource_paths,
+                emoji_options=emoji_options,
             )
         elif _typ == "folder":
             summary_layout: Optional[SummaryContext] = None
@@ -1083,6 +1330,7 @@ def build_pdf(
                 paper_format=paper_format,
                 summary_layout=summary_layout,
                 resource_paths=resource_paths,
+                emoji_options=emoji_options,
             )
         else:
             logger.warning("⚠ Unbekannter type='%s' – übersprungen.", typ)
@@ -1141,6 +1389,20 @@ def main() -> None:
         help="The directory to publish to.",
         default="publish",
     )
+    ap.add_argument(
+        "--emoji-color",
+        action="store_true",
+        help="Render emojis with the colour OpenMoji font when available.",
+    )
+    ap.add_argument(
+        "--emoji-report",
+        action="store_true",
+        help="Write a usage report for emojis encountered during the build.",
+    )
+    ap.add_argument(
+        "--emoji-report-dir",
+        help="Optional output directory for emoji reports (defaults to publish dir).",
+    )
     args = ap.parse_args()
 
     if args.only_prepare:
@@ -1169,6 +1431,15 @@ def main() -> None:
     manifest_path = Path(manifest).resolve()
     manifest_dir = manifest_path.parent
     default_publish_dir = _resolve_publish_directory(manifest_dir, args.publish_dir)
+
+    emoji_report_dir = (
+        Path(args.emoji_report_dir).resolve() if args.emoji_report_dir else None
+    )
+    emoji_options = EmojiOptions(
+        color=args.emoji_color,
+        report=args.emoji_report,
+        report_dir=emoji_report_dir,
+    )
 
     # C + Reset je nach Erfolg
     for entry in targets:
@@ -1227,6 +1498,7 @@ def main() -> None:
             summary_manual_marker=summary_manual_marker,
             summary_appendices_last=_as_bool(entry.get("summary_appendices_last")),
             resource_paths=resolved_resource_paths,
+            emoji_options=emoji_options,
         )
         if ok:
             built.append(str((publish_dir_path / out).resolve()))
