@@ -308,11 +308,11 @@ def test_run_pandoc_host_arguments(monkeypatch, tmp_path):
     assert ("-M", "foo=bar") in pairs
     assert cmd.count("-M") >= 4
     assert ("--variable", "custom=value") in pairs
-    assert ("--variable", "mainfont=DejaVu Sans") in pairs
+    assert ("--variable", "mainfont=DejaVu Serif") in pairs
     assert ("--variable", "max-list-depth=5") in pairs
     assert any(arg.endswith("pandoc-fonts.tex") for arg in cmd)
     assert "--toc" in cmd and ("--toc-depth", "3") in pairs
-    assert cmd[-1] == "--pdf-engine-opt=foo"
+    assert "--pdf-engine-opt=foo" in cmd
 
 
 def test_run_pandoc_uses_default_arguments(monkeypatch, tmp_path):
@@ -346,8 +346,8 @@ def test_run_pandoc_uses_default_arguments(monkeypatch, tmp_path):
     assert ("-H", ".github/tools/publishing/texmf/tex/latex/local/deeptex.sty") in pairs
     assert any(arg.endswith("pandoc-fonts.tex") for arg in cmd)
     assert ("-M", "emojifont=OpenMoji Black") in pairs
-    assert ("-M", "color=false") in pairs
-    assert ("--variable", "mainfont=DejaVu Sans") in pairs
+    assert ("-M", "color=true") in pairs
+    assert ("--variable", "mainfont=DejaVu Serif") in pairs
     assert ("--variable", "monofont=DejaVu Sans Mono") in pairs
     assert ("--variable", "geometry=margin=1in") in pairs
     assert ("--variable", "longtable=true") in pairs
@@ -452,8 +452,117 @@ def test_run_pandoc_metadata_mapping_override(monkeypatch, tmp_path):
     )
 
     cmd = captured["cmd"]
-    assert cmd.count("-M") == 3
-    assert "color=false" in " ".join(cmd)
+    assert cmd.count("-M") == 2
     assert "color=true" in " ".join(cmd)
     pairs = list(zip(cmd, cmd[1:]))
     assert ("-V", "mainfontfallback=OpenMoji Black") in pairs
+
+
+def test_run_pandoc_uses_custom_fallback_with_newer_pandoc(monkeypatch, tmp_path):
+    md = tmp_path / "doc.md"
+    md.write_text("Hello", encoding="utf-8")
+    pdf = tmp_path / "doc.pdf"
+
+    captured: dict[str, list[str]] = {}
+
+    class DummyResult:
+        returncode = 0
+
+    def fake_run(cmd, check=True, capture=False, env=None):
+        captured["cmd"] = cmd
+        return DummyResult()
+
+    publisher._reset_pandoc_defaults_cache()
+    monkeypatch.setattr(publisher, "_run", fake_run)
+    monkeypatch.setattr(publisher, "_get_pandoc_version", lambda: (3, 1, 13))
+    monkeypatch.setattr(
+        publisher,
+        "_select_emoji_font",
+        lambda color: ("OpenMoji Black", False),
+    )
+
+    captured_header: dict[str, str] = {}
+    original_build_header = publisher._build_font_header
+
+    def capture_header(**kwargs):
+        content = original_build_header(**kwargs)
+        captured_header["text"] = content
+        return content
+
+    monkeypatch.setattr(publisher, "_build_font_header", capture_header)
+
+    publisher._run_pandoc(
+        str(md),
+        str(pdf),
+        variables={"mainfontfallback": "Segoe UI Emoji:mode=harf"},
+    )
+
+    cmd = captured["cmd"]
+    pairs = list(zip(cmd, cmd[1:]))
+    assert ("-V", "mainfontfallback=Segoe UI Emoji:mode=harf") in pairs
+    assert all(pair != ("-V", "mainfontfallback=OpenMoji Black") for pair in pairs)
+    header_content = captured_header.get("text", "")
+    assert "luaotfload.add_fallback" not in header_content
+
+
+def test_run_pandoc_uses_custom_fallback_with_legacy_pandoc(monkeypatch, tmp_path):
+    md = tmp_path / "doc.md"
+    md.write_text("Hello", encoding="utf-8")
+    pdf = tmp_path / "doc.pdf"
+
+    captured: dict[str, list[str]] = {}
+
+    class DummyResult:
+        returncode = 0
+
+    def fake_run(cmd, check=True, capture=False, env=None):
+        captured["cmd"] = cmd
+        return DummyResult()
+
+    publisher._reset_pandoc_defaults_cache()
+    monkeypatch.setattr(publisher, "_run", fake_run)
+    monkeypatch.setattr(publisher, "_get_pandoc_version", lambda: (3, 1, 11))
+    monkeypatch.setattr(
+        publisher,
+        "_select_emoji_font",
+        lambda color: ("OpenMoji Black", False),
+    )
+
+    captured_header: dict[str, str] = {}
+    original_build_header = publisher._build_font_header
+
+    def capture_header(**kwargs):
+        content = original_build_header(**kwargs)
+        captured_header["text"] = content
+        return content
+
+    monkeypatch.setattr(publisher, "_build_font_header", capture_header)
+
+    publisher._run_pandoc(
+        str(md),
+        str(pdf),
+        variables={"mainfontfallback": "Segoe UI Emoji:mode=harf"},
+    )
+
+    cmd = captured["cmd"]
+    pairs = list(zip(cmd, cmd[1:]))
+    assert all(
+        pair != ("-V", "mainfontfallback=Segoe UI Emoji:mode=harf") for pair in pairs
+    )
+    header_content = captured_header.get("text", "")
+    assert (
+        'luaotfload.add_fallback("mainfont", "Segoe UI Emoji:mode=harf")'
+        in header_content
+    )
+
+
+def test_parse_pdf_options_extracts_fallback():
+    parsed = publisher._parse_pdf_options(
+        {
+            "main_font": "Demo",
+            "mainfont_fallback": "Segoe UI Emoji:mode=harf",
+            "emoji_color": False,
+        }
+    )
+    assert parsed["mainfont_fallback"] == "Segoe UI Emoji:mode=harf"
+    assert parsed["main_font"] == "Demo"

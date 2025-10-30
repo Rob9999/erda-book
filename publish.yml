@@ -53,6 +53,7 @@ publish:
       main_font: DejaVu Serif
       sans_font: DejaVu Sans
       mono_font: DejaVu Sans Mono
+      # Verwende Segoe UI Emoji als Fallback mit HarfBuzz-Unterstützung für Emojis.
       mainfont_fallback: "Segoe UI Emoji:mode=harf"
     assets:
       - path: ./.gitbook/assets

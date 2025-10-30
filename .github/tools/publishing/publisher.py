@@ -366,9 +366,7 @@ def _build_font_header(
             options.insert(0, "Renderer=Harfbuzz")
         option_block = "[" + ",".join(options) + "]"
         lines.append(f"\\IfFontExistsTF{{{emoji_font}}}{{")
-        lines.append(
-            f"  \\newfontfamily\\EmojiOne{{{emoji_font}}}{option_block}"
-        )
+        lines.append(f"  \\newfontfamily\\EmojiOne{{{emoji_font}}}{option_block}")
         if manual_fallback_spec:
             lines.append(
                 f'  \\directlua{{luaotfload.add_fallback("mainfont", "{manual_fallback_spec}")}}'
@@ -681,6 +679,12 @@ def _parse_pdf_options(raw: Any) -> Dict[str, Any]:
         if value_str:
             parsed[key] = value_str
 
+    fallback_value = raw.get("mainfont_fallback") or raw.get("main_font_fallback")
+    if fallback_value is not None:
+        fallback_str = str(fallback_value).strip()
+        if fallback_str:
+            parsed["mainfont_fallback"] = fallback_str
+
     return parsed
 
 
@@ -690,6 +694,7 @@ def _build_variable_overrides(pdf_options: Mapping[str, Any]) -> Dict[str, str]:
         "main_font": "mainfont",
         "sans_font": "sansfont",
         "mono_font": "monofont",
+        "mainfont_fallback": "mainfontfallback",
     }
     for option_key, variable_key in mapping.items():
         value = pdf_options.get(option_key)
@@ -997,6 +1002,10 @@ def _run_pandoc(
             else:
                 variable_map[key] = str(value)
 
+    fallback_override = variable_map.pop("mainfontfallback", None)
+    if fallback_override is not None:
+        fallback_override = str(fallback_override).strip() or None
+
     options = emoji_options or EmojiOptions()
 
     if options.color:
@@ -1015,18 +1024,30 @@ def _run_pandoc(
         metadata_map["emojifont"] = [emoji_font]
 
     main_font = variable_map.get("mainfont", _DEFAULT_VARIABLES["mainfont"])
-    sans_font = variable_map.get("sansfont", variable_map.get("mainfont", _DEFAULT_VARIABLES["sansfont"]))
+    sans_font = variable_map.get(
+        "sansfont", variable_map.get("mainfont", _DEFAULT_VARIABLES["sansfont"])
+    )
     mono_font = variable_map.get(
         "monofont",
         variable_map.get("sansfont", _DEFAULT_VARIABLES["monofont"]),
     )
 
-    supports_mainfont_fallback = bool(
-        pandoc_version and pandoc_version >= (3, 1, 12)
-    )
+    supports_mainfont_fallback = bool(pandoc_version and pandoc_version >= (3, 1, 12))
     cli_fallback_spec: Optional[str] = None
     manual_fallback_spec: Optional[str] = None
-    if emoji_font:
+    if fallback_override:
+        if supports_mainfont_fallback:
+            cli_fallback_spec = fallback_override
+        else:
+            manual_fallback_spec = fallback_override
+        if not emoji_font:
+            fallback_font_name = fallback_override.split(":", 1)[0].strip()
+            if fallback_font_name:
+                emoji_font = fallback_font_name
+                metadata_map["emojifont"] = [fallback_font_name]
+                if _needs_harfbuzz(fallback_override):
+                    needs_harfbuzz = True
+    elif emoji_font:
         fallback_spec = f"{emoji_font}{':mode=harf' if needs_harfbuzz else ''}"
         if supports_mainfont_fallback:
             cli_fallback_spec = fallback_spec
