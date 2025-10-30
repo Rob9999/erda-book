@@ -9,7 +9,9 @@ local function resolve_image(img)
     if not src:match("^https?://") and not src:match("^/") then
         -- Try to resolve relative to .gitbook/assets first
         local gitbook_path = ".gitbook/assets/" .. src
-        if os.execute('test -f "' .. gitbook_path .. '"') then
+        local f = io.open(gitbook_path, "r")
+        if f then
+            f:close()
             img.src = gitbook_path
         end
     end
