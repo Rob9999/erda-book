@@ -70,12 +70,12 @@ _DEFAULT_LUA_FILTERS: List[str] = [
 ]
 _DEFAULT_HEADER_PATH = ".github/tools/publishing/texmf/tex/latex/local/deeptex.sty"
 _DEFAULT_METADATA: Dict[str, List[str]] = {
-    "color": ["false"],
+    "color": ["true"],
 }
 _DEFAULT_VARIABLES: Dict[str, str] = {
-    "mainfont": "DejaVu Sans",
+    "mainfont": "DejaVu Serif",
     "sansfont": "DejaVu Sans",
-    "monofont": "DejaVu Sans Mono",
+    "monofont": "DejaVu Mono",
     "geometry": "margin=1in",
     "longtable": "true",
     "max-list-depth": "9",
@@ -93,7 +93,7 @@ EMOJI_RANGES = (
 class EmojiOptions:
     """Runtime configuration for emoji handling in Pandoc runs."""
 
-    color: bool = False
+    color: bool = True
     report: bool = False
     report_dir: Optional[Path] = None
 
@@ -1002,7 +1002,7 @@ def _run_pandoc(
     if options.color:
         metadata_map["color"] = ["true"]
     else:
-        metadata_map.setdefault("color", ["false"])
+        metadata_map["color"] = ["false"]
 
     pandoc_version = _get_pandoc_version()
     if pandoc_version:
@@ -1014,9 +1014,12 @@ def _run_pandoc(
     if emoji_font:
         metadata_map["emojifont"] = [emoji_font]
 
-    main_font = variable_map.get("mainfont", "DejaVu Sans")
-    sans_font = variable_map.get("sansfont", main_font)
-    mono_font = variable_map.get("monofont", sans_font)
+    main_font = variable_map.get("mainfont", _DEFAULT_VARIABLES["mainfont"])
+    sans_font = variable_map.get("sansfont", variable_map.get("mainfont", _DEFAULT_VARIABLES["sansfont"]))
+    mono_font = variable_map.get(
+        "monofont",
+        variable_map.get("sansfont", _DEFAULT_VARIABLES["monofont"]),
+    )
 
     supports_mainfont_fallback = bool(
         pandoc_version and pandoc_version >= (3, 1, 12)
@@ -1476,8 +1479,16 @@ def main() -> None:
     )
     ap.add_argument(
         "--emoji-color",
+        dest="emoji_color",
         action="store_true",
+        default=True,
         help="Render emojis with the colour OpenMoji font when available.",
+    )
+    ap.add_argument(
+        "--no-emoji-color",
+        dest="emoji_color",
+        action="store_false",
+        help="Disable colour emoji rendering.",
     )
     ap.add_argument(
         "--emoji-report",
