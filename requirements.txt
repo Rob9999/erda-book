@@ -1,0 +1,8 @@
+# Minimal dependencies required for QA workflows and legacy tooling.
+requests>=2.31
+PyYAML>=6.0
+textstat>=0.7
+# tqdm is used for progress reporting in link checking utilities.
+tqdm>=4.66
+# Pytest is required by the QA GitHub Actions workflow.
+pytest>=8.3
