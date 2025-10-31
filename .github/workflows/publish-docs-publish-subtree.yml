@@ -1,0 +1,47 @@
+name: Publish docs publish subtree
+
+on:
+  push:
+    paths:
+      - 'docs/public/publish/**'
+  workflow_call:
+  workflow_dispatch:
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+          ref: ${{ github.ref_name }}
+
+      - name: Set up authenticated git remote
+        run: |
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/robert2100-08-16/Sphere-Space-New-Horizons.git
+          git pull --ff-only          
+          
+      - name: Git identity
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+
+      - name: Add SSSEOAB remote
+        run: |
+          git remote add publish \
+            https://x-access-token:${GH_TOKEN}@github.com/robert2100-08-16/Sphere-Space-Station-Earth-ONE-and-Beyond.git
+          git fetch publish --tags || true
+        env:
+          GH_TOKEN: ${{ secrets.SPHERE_SPACE_STATION_EARTH_ONE_AND_BEYOND }}
+
+      - name: Split subtree (docs/public/publish/)
+        run: |
+          git subtree split --prefix=docs/public/publish -b publish-split
+
+      - name: Push to SSSEOAB main (mirror the subtree)
+        run: |
+          git push -f publish publish-split:main
+          git branch -D publish-split
+        env:
+          GH_TOKEN: ${{ secrets.SPHERE_SPACE_STATION_EARTH_ONE_AND_BEYOND }}

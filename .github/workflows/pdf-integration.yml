@@ -1,0 +1,27 @@
+name: PDF Integration Tests
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc wkhtmltopdf texlive-luatex texlive-fonts-recommended texlive-latex-extra texlive-lang-cjk poppler-utils
+          pip install pandas matplotlib pytest
+      - name: Run tests
+        run: pytest .github/tests
+      - name: Upload test artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: pdf-artifacts
+          path: artifacts
+          if-no-files-found: warn

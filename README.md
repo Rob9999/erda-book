@@ -1,18 +1,16 @@
----
-description: >-
-  „Strategie, Ethik und Zukunft Europas – Vom demokratischen Rechtsstaat zur
-  resilienten Zivilisation“
----
+# ERDA Book
 
-# Startseite
+## Schriftarten-Design
 
-## ERDA – unsere demokratische Evolution
+### PDF-Generierung
+Bei der PDF-Generierung werden **keine** Noto-Schriftarten verwendet, um das Design konsistent mit der Markenidentität zu halten. Die Schriftarten können in der `publish.yml` über die `pdf_options` konfiguriert werden:
 
-_Strategie, Ethik und Zukunft Europas – Vom demokratischen Rechtsstaat zur resilienten Zivilisation_
+```yaml
+pdf_options:
+  emoji_color: true
+  main_font: "DejaVu Serif"  # Hauptschriftart für Fließtext
+  sans_font: "DejaVu Sans"   # Serifenlose Schriftart für Überschriften
+  mono_font: "DejaVu Mono"   # Monospace-Schriftart für Code
+```
 
-Willkommen im offiziellen Buch zur Vision und Strategie der ERDA.\
-\
-
-
-<figure><img src=".gitbook/assets/ERDA_Logo_simple.png" alt="ERDA Logo"><figcaption><p>ERDA Logo</p></figcaption></figure>
-
+Diese Konfiguration stellt sicher, dass das Dokumentendesign den Vorgaben entspricht.

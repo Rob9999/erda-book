@@ -1,0 +1,70 @@
+---
+name: Check if to publish
+
+on:
+  workflow_call:
+    outputs:
+      changed_files:
+        description: "List of files changed in the push"
+        value: ${{ jobs.set-build-flag.outputs.changed_files }}
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  set-build-flag:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    outputs:
+      changed_files: ${{ steps.set_publish_flag.outputs.changed_files }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Set publish build flags
+        id: set_publish_flag
+        run: |
+          pip install pyyaml
+          commit="${GITHUB_SHA}"
+          base="${{ github.event.before }}"
+          args=("--commit" "$commit" "--publish-file" "publish.yml")
+          if [ -n "$base" ]; then
+            args+=("--base" "$base")
+          fi
+          python .github/tools/publishing/set_publish_flag.py "${args[@]}"
+      - name: Set up git for pushing
+        run: |
+          token="${{ secrets.GITHUB_TOKEN }}"
+          repo="${{ github.repository }}"
+          repo_url="https://x-access-token:${token}@github.com/${repo}.git"
+          git remote set-url origin "$repo_url"
+      - name: Commit publish flag updates
+        run: |
+          status="$(git status --porcelain \
+            publish.yml publish.yaml 2>/dev/null || true)"
+          if [ -n "$status" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            files=""
+            [ -f publish.yml ] && files="${files} publish.yml"
+            [ -f publish.yaml ] && files="${files} publish.yaml"
+            if [ -n "$files" ]; then
+              git add $files
+              git commit -m "chore: update publish build flags"
+            else
+              echo "No publish files to commit."
+              exit 0
+            fi
+            if ! git pull --rebase; then
+              git status
+              git log --oneline -10
+              git rebase --abort
+              echo "Rebase failed. Please check for conflicts in publish.yml or publish.yaml."
+              exit 1
+            fi
+            git push
+          else
+            echo "No build flag changes."
+          fi
+          exit 0

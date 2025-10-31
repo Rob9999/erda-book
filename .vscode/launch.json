@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Workflow Orchestrator (with colored emojis)",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "tools.workflow_orchestrator",
+            "args": [
+                "--profile",
+                "local",
+                "--manifest",
+                "publish.yml",
+                "--emoji-color"
+            ],
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}

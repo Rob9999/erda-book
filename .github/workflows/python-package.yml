@@ -1,0 +1,49 @@
+name: Python package
+
+on:
+  push:
+    paths:
+      - "simulations/**"
+      - ".github/tools/docker/**"
+      - ".github/workflows/python-package.yml"
+    branches: [main]
+  pull_request:
+    paths:
+      - "simulations/**"
+      - ".github/tools/docker/**"
+      - ".github/workflows/python-package.yml"
+    branches: [main]
+  workflow_dispatch:
+    inputs:
+      profile:
+        description: "Optional Profilbezeichnung für Nachvollziehbarkeit"
+        required: false
+        default: "default"
+
+jobs:
+  docker-build-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v2
+
+      - name: Build and cache Docker image
+        uses: docker/build-push-action@v4
+        with:
+          context: .
+          file: .github/tools/docker/Dockerfile
+          push: false
+          load: true
+          tags: sphere-space-workflow-tools:latest
+          cache-from: type=gha
+          cache-to: type=gha,mode=max
+
+      - name: Run tests in Docker
+        run: |
+          docker run --rm -v ${PWD}:/workspace sphere-space-workflow-tools:latest \
+            bash -c "cd /workspace/simulations && \
+                    pip install -r requirements.txt && \
+                    black --check deck_calculator/deck_calculations_script.py && \
+                    pytest -q"

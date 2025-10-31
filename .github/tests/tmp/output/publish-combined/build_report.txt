@@ -1,0 +1,11 @@
+Build Report
+========================================
+
+Total documents: 2
+Successfully built: 2
+Failed: 0
+
+
+Successful Builds:
+  ✓ sphere-space-station-earth-one-and-beyond.pdf
+  ✓ readme.pdf

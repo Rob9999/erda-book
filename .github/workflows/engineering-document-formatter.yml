@@ -1,0 +1,159 @@
+name: Engineering Document Formatter
+
+on:
+  workflow_call:
+  workflow_dispatch:
+
+jobs:
+  format:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: ${{ github.ref }}
+
+      - name: Ensure engineering document YAML headers
+        run: |
+          python <<'PYTHON'
+          import os, re, subprocess
+          from pathlib import Path
+
+          ROOT = Path('.').resolve()
+          SKIP_DIRS = {'.git', '.github', 'node_modules', '__pycache__', '.venv', 'simulations'}
+
+          TEMPLATE_ORDER = [
+              ('id', '""'),
+              ('title', '""'),
+              ('version', 'v0.0.0'),
+              ('state', 'DRAFT'),
+              ('evolution', '""'),
+              ('discipline', '""'),
+              ('system', '[]'),
+              ('system_id', '[]'),
+              ('seq', '[]'),
+              ('owner', '""'),
+              ('reviewers', '[]'),
+              ('source_of_truth', 'false'),
+              ('supersedes', 'null'),
+              ('superseded_by', 'null'),
+              ('rfc_links', '[]'),
+              ('adr_links', '[]'),
+              ('cr_links', '[]'),
+              ('date', '1970-01-01'),
+              ('lang', 'EN'),
+          ]
+
+          REQUIRED_KEYS = [k for k, _ in TEMPLATE_ORDER]
+
+          def get_commit_date(path: Path) -> str:
+              """Return the last commit date for the given file in YYYY-MM-DD format."""
+              result = subprocess.run(
+                  ['git', 'log', '-1', '--format=%cs', str(path)],
+                  capture_output=True,
+                  text=True,
+                  check=False,
+              )
+              date = result.stdout.strip()
+              return date or '1970-01-01'
+
+          def ensure_header(path: Path):
+              text = path.read_text(encoding='utf-8').splitlines()
+              changed = False
+              if not text:
+                  text = []
+              date = get_commit_date(path)
+              if not (len(text) >= 1 and text[0].strip() == '---'):
+                  header_lines = ['---'] + [
+                      f"{k}: {date if k == 'date' else v}" for k, v in TEMPLATE_ORDER
+                  ] + ['---', '']
+                  text = header_lines + text
+                  changed = True
+              else:
+                  # find closing '---'
+                  end_idx = None
+                  for i, line in enumerate(text[1:], start=1):
+                      if line.strip() == '---':
+                          end_idx = i
+                          break
+                  if end_idx is None:
+                      # no closing, add one
+                      text.append('---')
+                      text.append('')
+                      end_idx = len(text) - 2
+                      changed = True
+                  header = text[1:end_idx]
+                  existing_keys = [l.split(':',1)[0].strip() for l in header if ':' in l]
+                  missing = [k for k in REQUIRED_KEYS if k not in existing_keys]
+                  if missing:
+                      insert_lines = [
+                          f"{k}: {date if k == 'date' else dict(TEMPLATE_ORDER)[k]}"
+                          for k in missing
+                      ]
+                      text = [text[0]] + header + insert_lines + [text[end_idx]] + text[end_idx+1:]
+                      changed = True
+              if changed:
+                  path.write_text('\n'.join(text) + '\n', encoding='utf-8')
+              return changed
+
+          changed_files = []
+          for root, dirs, files in os.walk(ROOT):
+              rel = Path(root).relative_to(ROOT)
+              if any(p in SKIP_DIRS for p in rel.parts):
+                  dirs[:] = []
+                  continue
+              for name in files:
+                  if not name.lower().endswith('.md'):
+                      continue
+                  if name.lower() == 'readme.md':
+                      continue
+                  p = Path(root)/name
+                  if ensure_header(p):
+                      changed_files.append(str(p))
+
+          if changed_files:
+              subprocess.run(['git', 'add'] + changed_files, check=False)
+              print('Updated headers in:', '\n'.join(changed_files))
+          else:
+              print('All engineering documents have proper headers.')
+          PYTHON
+
+      - name: Commit changes
+        id: commit
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git commit -m "chore: ensure engineering document YAML headers"
+            echo "committed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "All engineering documents contain YAML headers."
+            echo "committed=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Update publish build flags
+        if: steps.commit.outputs.committed == 'true'
+        id: flags
+        run: |
+          pip install pyyaml
+          commit=$(git rev-parse HEAD)
+          base=$(git rev-parse HEAD^)
+          python .github/tools/publishing/set_publish_flag.py --commit "$commit" --base "$base" --publish-file docs/public/publish.yml
+            publish_files=$(ls docs/public/publish.yml docs/public/publish.yaml 2>/dev/null || true)
+            if [ -n "$publish_files" ] && [ -n "$(git status --porcelain $publish_files)" ]; then
+              git config user.name "github-actions[bot]"
+              git config user.email "github-actions[bot]@users.noreply.github.com"
+              git add $publish_files
+              git commit -m "chore: update publish build flags"
+              echo "flags=true" >> "$GITHUB_OUTPUT"
+            else
+              echo "flags=false" >> "$GITHUB_OUTPUT"
+            fi
+
+      - name: Push changes
+        if: steps.commit.outputs.committed == 'true' || steps.flags.outputs.flags == 'true'
+        run: |
+          branch="${{ github.ref_name }}"
+          git pull --rebase origin "$branch"
+          git push origin HEAD:"$branch"
