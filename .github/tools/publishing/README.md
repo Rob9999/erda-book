@@ -1,36 +1,72 @@
 # Publishing Tools
 
-Scripts assisting selective publishing workflows.
+Scripts that implement the incremental publishing flow used by the GitHub
+Actions workflows and the local developer harness.  The package reads
+`publish.yml`, toggles publish flags, refreshes GitBook artefacts and renders
+PDFs via Pandoc.
 
-`set_publish_flag.py` updates build flags in `publish.yml` based on repository changes.
+## Entry points
 
-`reset_publish_flag.py` clears build flags after successful publishing runs.
+| Script | Purpose |
+| --- | --- |
+| `pipeline.py` | Orchestrates the entire publishing workflow and shells out to the helpers listed below so CI and local runs behave identically. |
+| `publisher.py` | Builds PDFs for entries flagged in `publish.yml`, injects LaTeX helpers and emoji fonts, and resets flags on success. |
+| `set_publish_flag.py` | Marks manifest entries for rebuilding when their sources change between two commits. |
+| `reset_publish_flag.py` | Clears publish flags after a successful run. |
+| `dump_publish.py` | Emits the manifest entries as JSON for downstream tools (for example, the converter). |
+| `gitbook_style.py` | Provides `rename`/`summary` subcommands that align assets with GitBook naming conventions and regenerate `SUMMARY.md` from `book.json`. |
 
-`pipeline.py` orchestrates the end-to-end publishing flow. It shells out to the
-helper scripts below so a single GitHub Actions job can refresh GitBook assets
-and invoke the PDF builder without duplicating logic in workflow YAML files.
+## Typical workflows
 
-`publisher.py` builds PDFs for entries marked for publishing. Manifest entries
-under `publish.yml` can provide the keys `out_dir`, `out_format`,
-`source_type`, `source_format`, `use_summary`, `use_book_json` and
-`keep_combined`. Relative directories are resolved against the manifest
-location and default to the repository level `publish/` folder. At the moment
-only `out_format: pdf` is supported; other values are skipped with a warning.
+Refresh the manifest flags and perform a dry-run PDF build:
 
-`dump_publish.py` prints the entries of `publish.yml` as JSON for use in other scripts.
+```bash
+python -m tools.publishing.set_publish_flag --manifest publish.yml --base-ref HEAD^ --head-ref HEAD
+python -m tools.publishing.publisher --manifest publish.yml --dry-run
+```
 
-`preprocess_md.py` scans Markdown files for wide tables and large images and wraps
-them with LaTeX snippets to enlarge the paper size and, when requested via
-`--landscape`, rotate the page. This helps prevent content from overflowing
-when rendering PDFs.
+Run the legacy pipeline wrapper (used by CI) which coordinates all helper
+scripts and the converter:
 
-`markdown_combiner.py` preprocesses and concatenates multiple Markdown files,
-inserting LaTeX packages and helper macros for optional landscape sections and
-long tables before separating them with page breaks. Pass `--landscape` to enable
-landscape orientation. It is used by `publisher.py` and can also be run
-standalone. `publisher.py` invokes Pandoc with `--variable=longtable=true` so
-wide tables span multiple pages without changing the font size.
+```bash
+python .github/tools/publishing/pipeline.py --manifest publish.yml
+```
 
-`gitbook_style.py` contains utilities used by the GitHub Actions workflow to
-normalise filenames to the GitBook convention and regenerate `SUMMARY.md`
-content defined by `book.json`.
+Generate emoji coverage reports while building PDFs:
+
+```bash
+python -m tools.publishing.publisher \
+  --manifest publish.yml \
+  --emoji-color colour \
+  --emoji-report \
+  --emoji-report-dir build/emoji
+```
+
+Pandoc defaults can be overridden via environment variables:
+
+* `ERDA_PANDOC_DEFAULTS_JSON` – inline JSON with keys such as `lua_filters`,
+  `metadata`, `variables`, `header_path`, `pdf_engine`, or `extra_args`.
+* `ERDA_PANDOC_DEFAULTS_FILE` – path to a JSON file with the same schema.
+
+## Implementation notes
+
+* `publisher.py` combines Markdown sources, applies the optional wide-table
+  helpers from `preprocess_md.py`, injects macros from `markdown_combiner.py` and
+  uses `table_pdf.py` when a landscape layout is required.  Pandoc executes in
+  the surrounding environment (GitHub-hosted runner, the `.github/tools` Docker
+  image, or a contributor's machine).
+* The module honours manifest keys such as `out_dir`, `out_format`,
+  `source_type`, `source_format`, `use_summary`, `use_book_json` and
+  `keep_combined`.  Relative paths are resolved against the repository root.
+* Assets under `fonts/`, `lua/` and `texmf/` ship the LaTeX and emoji resources
+  required for headless builds.
+* `gitbook_style.py` supports running with or without Git metadata so it can be
+  invoked in environments where `.git/` is unavailable.
+
+## Local development checklist
+
+1. Activate the `.github` virtual environment and install dependencies as
+   described in the [tool suite README](../README.md).
+2. Run `pytest -q` before submitting changes that touch the publishing pipeline.
+3. Keep this document updated when new CLI flags or manifest options are added so
+   workflow authors understand the impact.
