@@ -92,11 +92,31 @@ class RuntimeContext:
         self.config = config
         self.root = config.root
         self.python = sys.executable or "python"
-        self.tools_dir = self.root / ".github" / "tools"
-        # Set PYTHONPATH to include both repo/gitbook_repo and repo/gitbook_repo/.github
-        self.python_path = os.pathsep.join(
-            [str(self.root), str(self.root / ".github"), str(self.tools_dir)]
-        )
+        github_dir = self.root / ".github"
+        worker_dir = github_dir / "gitbook_worker"
+        worker_tools_dir = worker_dir / "tools"
+        legacy_tools_dir = github_dir / "tools"
+        if worker_tools_dir.exists():
+            self.tools_dir = worker_tools_dir
+        elif legacy_tools_dir.exists():
+            self.tools_dir = legacy_tools_dir
+        else:
+            # Fallback to the new layout so relative paths remain stable even
+            # when the directory is initialised later during the run.
+            self.tools_dir = worker_tools_dir
+        python_paths = [str(self.root), str(github_dir)]
+        if worker_dir.exists():
+            python_paths.append(str(worker_dir))
+        if legacy_tools_dir.exists():
+            python_paths.append(str(legacy_tools_dir))
+        if worker_tools_dir.exists():
+            python_paths.append(str(worker_tools_dir))
+        # Ensure the selected tools directory is always part of PYTHONPATH,
+        # even if it does not yet exist on disk (for example in a clean clone
+        # that only vendors the new package).
+        python_paths.append(str(self.tools_dir))
+        unique_python_paths = list(dict.fromkeys(python_paths))
+        self.python_path = os.pathsep.join(unique_python_paths)
 
     # --- Git helpers -------------------------------------------------
 
