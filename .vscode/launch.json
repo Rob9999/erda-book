@@ -27,21 +27,14 @@
             "name": "Emoji and Font Couverage",
             "type": "debugpy",
             "request": "launch",
-            "module": "tools.emoji.scan_emojis.py",
+            "module": "tools.emoji.scan_emojis",
             "cwd": "${workspaceFolder}",
             "env": {
                 "PYTHONPATH": "${workspaceFolder};${workspaceFolder}/.github;${workspaceFolder}/.github/gitbook_worker",
                 "PYTHONIOENCODING": "utf-8",
                 "PYTHONUTF8": "1"
             },
-            "args": [
-                "--font-path",
-                "${workspaceFolder}/fonts/OpenMoji-Color-Font.ttf",
-                "--emoji-list",
-                "${workspaceFolder}/.github/emoji_data/emojis.txt",
-                "--output-csv",
-                "${workspaceFolder}/emoji_coverage.csv"
-            ],
+            "args": [],
             "console": "integratedTerminal",
             "envFile": "${workspaceFolder}/.env"
         },
