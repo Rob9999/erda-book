@@ -17,4 +17,4 @@ build-backend = "setuptools.build_meta"
 
 [tool.setuptools]
 packages = ["tools"]
-package-dir = {"" = "."}
+package-dir = {"" = "gitbook_worker"}

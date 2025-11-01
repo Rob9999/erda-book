@@ -27,10 +27,11 @@ python -m pip install -e .
 
 ## Layout
 
-* `tools/` – Python sources grouped by module (see
-  [`tools/README.md`](tools/README.md) for an index and module links).
-* `tests/` – pytest suites that exercise the orchestrator, publishing pipeline
-  and helper scripts.
+* `gitbook_worker/tools/` – Python sources grouped by module (see
+  [`gitbook_worker/tools/README.md`](gitbook_worker/tools/README.md) for an
+  index and module links).
+* `gitbook_worker/tests/` – pytest suites that exercise the orchestrator,
+  publishing pipeline and helper scripts.
 * `workflows/` – GitHub Actions definitions.
 * `.vscode/` – recommended local run configurations targeting the local virtual
   environment.

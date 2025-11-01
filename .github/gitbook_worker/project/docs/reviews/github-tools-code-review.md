@@ -1,8 +1,8 @@
-# `.github/tools` code review – 2025-05
+# `.github/gitbook_worker/tools` code review – 2025-05
 
 ## Scope
 
-Evaluated the Python automation housed under `.github/tools`, with emphasis on
+Evaluated the Python automation housed under `.github/gitbook_worker/tools`, with emphasis on
 workflow orchestration, publishing, conversion and QA modules. Documentation and
 supporting Docker images were reviewed alongside the implementation.
 
