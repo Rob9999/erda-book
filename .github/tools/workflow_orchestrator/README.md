@@ -4,6 +4,11 @@ High-level CLI that coordinates the publishing, conversion and QA steps defined
 in `publish.yml`.  This is the entry point used by GitHub Actions workflows and
 local automation scripts.
 
+> **Empfehlung zur Code-Bündelung:** Für alle Varianten empfiehlt es sich, die vorhandenen
+> Tools und zugehörigen Tests in den Ordner `.github/gitbook_worker` zu verschieben oder per
+> Packaging-Skripten zu bündeln. So entsteht eine klar abgrenzbare Codebasis, die unabhängig
+> vom Buch-Content versioniert und dokumentiert werden kann.
+
 ## Usage
 
 List available options and steps:
