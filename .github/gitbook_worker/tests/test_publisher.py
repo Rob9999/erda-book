@@ -13,6 +13,26 @@ def _parse(text: str) -> dict:
     return yaml.safe_load("\n".join(lines[1:end])) or {}
 
 
+def test_font_available_uses_repo_fonts(monkeypatch, tmp_path):
+    font_dir = (
+        tmp_path
+        / ".github"
+        / "gitbook_worker"
+        / "tools"
+        / "publishing"
+        / "fonts"
+        / "truetype"
+    )
+    font_dir.mkdir(parents=True)
+    font_file = font_dir / "OpenMoji-color-glyf_colr_0.ttf"
+    font_file.write_bytes(b"dummy")
+
+    monkeypatch.setattr(publisher, "_resolve_repo_root", lambda: tmp_path)
+    monkeypatch.setattr(publisher, "_which", lambda name: None)
+
+    assert publisher._font_available("OpenMoji Color")
+
+
 def test_get_publish_list(monkeypatch, tmp_path):
     manifest = tmp_path / "publish.yml"
     data = {

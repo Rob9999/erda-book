@@ -99,7 +99,18 @@ class EmojiOptions:
 
 
 def _resolve_repo_root() -> Path:
-    return Path(__file__).resolve().parents[3]
+    """Return the repository root for the current checkout."""
+
+    current = Path(__file__).resolve()
+    parents = list(current.parents)
+    for candidate in parents:
+        if (candidate / ".git").is_dir():
+            return candidate
+        if (candidate / "publish.yml").exists() or (candidate / "publish.yaml").exists():
+            return candidate
+        if (candidate / "book.json").exists():
+            return candidate
+    return parents[-1]
 
 
 def _as_bool(value: Any, default: bool = False) -> bool:
@@ -278,12 +289,20 @@ def _font_available(name: str) -> bool:
                     if normalized in _normalize_font_name(line):
                         return True
 
-    fonts_dir = _resolve_repo_root() / ".github" / "tools" / "publishing" / "fonts"
+    repo_root = _resolve_repo_root()
+    font_dirs = [
+        repo_root / ".github" / "gitbook_worker" / "tools" / "publishing" / "fonts",
+        repo_root / ".github" / "tools" / "publishing" / "fonts",
+    ]
     try:
-        for font_file in fonts_dir.rglob("*.ttf"):
-            stem = _normalize_font_name(font_file.stem)
-            if stem and (normalized in stem or stem in normalized):
-                return True
+        for base_dir in font_dirs:
+            if not base_dir.exists():
+                continue
+            for extension in ("*.ttf", "*.otf"):
+                for font_file in base_dir.rglob(extension):
+                    stem = _normalize_font_name(font_file.stem)
+                    if stem and (normalized in stem or stem in normalized):
+                        return True
     except OSError:
         pass
     return False
