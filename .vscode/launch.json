@@ -46,6 +46,21 @@
             "envFile": "${workspaceFolder}/.env"
         },
         {
+            "name": "Python: Update Local Environment",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "pip",
+            "cwd": "${workspaceFolder}",
+            "args": [
+                "install",
+                "-r",
+                "requirements.txt"
+            ],
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
             "name": "Python: Debug gitbook_worker.py",
             "type": "debugpy",
             "request": "launch",
