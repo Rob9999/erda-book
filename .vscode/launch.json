@@ -43,6 +43,28 @@
             "envFile": "${workspaceFolder}/.env"
         },
         {
+            "name": "Orchestrator (gitbook_worker)",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "tools.workflow_orchestrator",
+            "cwd": "${workspaceFolder}",
+            "env": {
+                "PYTHONPATH": "${workspaceFolder};${workspaceFolder}/.github;${workspaceFolder}/.github/gitbook_worker",
+                "PYTHONIOENCODING": "utf-8",
+                "PYTHONUTF8": "1"
+            },
+            "args": [
+                "--root",
+                "${workspaceFolder}",
+                "--manifest",
+                "publish.yml",
+                "--profile",
+                "local"
+            ],
+            "console": "integratedTerminal",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
             "name": "Emoji and Font Couverage",
             "type": "debugpy",
             "request": "launch",
