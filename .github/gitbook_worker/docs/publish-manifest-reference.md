@@ -182,6 +182,8 @@ mehrere Paketierungs- und Distributionsansätze an:
    welche das Paket installiert und den Orchestrator ausführt. Dadurch bleiben die Tests
    lokal reproduzierbar, während CI-Konsumenten nur eine Action einbinden müssen.
 
+### Abgrenzung & Code-Bündelung
+
 > **Empfehlung zur Code-Bündelung:** Für alle Varianten empfiehlt es sich, die vorhandenen
 > Tools und zugehörigen Tests in den Ordner `.github/gitbook_worker` zu verschieben oder per
 > Packaging-Skripten zu bündeln. So entsteht eine klar abgrenzbare Codebasis, die unabhängig
