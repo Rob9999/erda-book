@@ -2,48 +2,7 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Run workflow_orchestrator",
-            "type": "debugpy",
-            "request": "launch",
-            "module": "tools.workflow_orchestrator",
-            "args": [
-                "--profile",
-                "local",
-                "--manifest",
-                "publish.yml"
-            ],
-            "console": "integratedTerminal",
-            "cwd": "${workspaceFolder}",
-            "env": {
-                "PYTHONPATH": "${workspaceFolder};${workspaceFolder}/.github",
-                "PYTHONIOENCODING": "utf-8",
-                "PYTHONUTF8": "1"
-            },
-            "justMyCode": false,
-            "envFile": "${workspaceFolder}/.env"
-        },
-        {
             "name": "Orchestrator (local)",
-            "type": "debugpy",
-            "request": "launch",
-            "module": "tools.workflow_orchestrator",
-            "cwd": "${workspaceFolder}",
-            "env": {
-                "PYTHONPATH": "${workspaceFolder};${workspaceFolder}/.github",
-                "PYTHONIOENCODING": "utf-8",
-                "PYTHONUTF8": "1"
-            },
-            "args": [
-                "--profile",
-                "local",
-                "--manifest",
-                "publish.yml"
-            ],
-            "console": "integratedTerminal",
-            "envFile": "${workspaceFolder}/.env"
-        },
-        {
-            "name": "Orchestrator (gitbook_worker)",
             "type": "debugpy",
             "request": "launch",
             "module": "tools.workflow_orchestrator",
@@ -70,6 +29,11 @@
             "request": "launch",
             "module": "tools.emoji.scan_emojis.py",
             "cwd": "${workspaceFolder}",
+            "env": {
+                "PYTHONPATH": "${workspaceFolder};${workspaceFolder}/.github;${workspaceFolder}/.github/gitbook_worker",
+                "PYTHONIOENCODING": "utf-8",
+                "PYTHONUTF8": "1"
+            },
             "args": [
                 "--font-path",
                 "${workspaceFolder}/fonts/OpenMoji-Color-Font.ttf",
@@ -78,6 +42,7 @@
                 "--output-csv",
                 "${workspaceFolder}/emoji_coverage.csv"
             ],
+            "console": "integratedTerminal",
             "envFile": "${workspaceFolder}/.env"
         },
         {
