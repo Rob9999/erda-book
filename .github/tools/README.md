@@ -1,7 +1,9 @@
 # Workflow Tool Suite
 
+> NOTE: A consolidated quick-start and review for the `.github` tools lives at `../TOOLS_CONSOLIDATED.md`. Use that file for onboarding and cross-module guidance. Module READMEs below keep module-specific details.
+
 This package houses the automation code that backs the repository's GitHub
-Actions workflows.  The modules are organised as a standalone Python project
+Actions workflows. The modules are organised as a standalone Python project
 and can also be executed locally for debugging or to reproduce CI behaviour.
 
 The tooling falls into three groups:

@@ -34,6 +34,10 @@ Willkommen im offiziellen Buch zur Vision und Strategie der ERDA.\
 
 ![ERDA Logo](.gitbook/assets/ERDA_Logo_simple.png)
 
+## Lizenzhinweise
+
+Die für das Emoji-Rendering verwendeten Quellen und Lizenzen sind in [ATTRIBUTION.md](../ATTRIBUTION.md) dokumentiert.
+
 
 
 \newpage
