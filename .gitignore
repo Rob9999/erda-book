@@ -1,9 +1,13 @@
 # Local environment variables
 .env
 
+# temps
+tmp/
+
 # Python caches
 __pycache__/
 *.py[cod]
+
 # Project specific
 desktop/
 
