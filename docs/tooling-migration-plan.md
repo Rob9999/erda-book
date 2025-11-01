@@ -1,7 +1,9 @@
+<!-- License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) -->
 # Tooling Migration Review
 
 ## Executive summary
 
+- The legacy `tools/gitbook-worker` package has been retired; the remaining emoji analysis helper now lives in `.github/tools/emoji/report.py`, and link audits reside under `.github/tools/quality`. This document keeps historical context for the migration rationale.【F:.github/tools/emoji/report.py†L1-L116】【F:.github/tools/quality/staatenprofil_links.py†L1-L78】
 - The standalone workflow suite under `.github/tools` already provides a structured orchestration layer, selective publishing pipeline, and developer helpers that are ready for reuse by GitHub Actions and local contributors.【F:.github/tools/README.md†L1-L156】【F:.github/tools/workflow_orchestrator/orchestrator.py†L1-L134】
 - The legacy `tools/gitbook-worker` package duplicates many of those responsibilities, carries packaging quirks (hyphenated module name) and mixes unrelated CLIs, which prevents it from being imported cleanly in CI and makes maintenance costly.【F:tools/gitbook-worker/src/gitbook-worker/__init__.py†L12-L103】【F:tools/gitbook-worker/src/gitbook-worker/__main__.py†L36-L200】
 - Migrating the unique capabilities (AI-assisted reference repair, source extraction, link checks) into dedicated subpackages inside `.github/tools` lets the Actions workflows depend on a single toolbox while retiring the root-level project.

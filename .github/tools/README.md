@@ -134,10 +134,27 @@ Quality assurance tooling that inspects Markdown sources for regressions:
   large language models.  It derives the Markdown scope from `SUMMARY.md`,
   submits each reference to the configured AI backend, updates confirmed fixes
   on disk, and emits a structured JSON report for downstream tooling.
+* `staatenprofil_links.py` scans Markdown files matching `*staatenprofil*.md`
+  and writes a CSV report listing failing HTTP checks so editors can repair the
+  profiles without combing through the book manually (`python -m
+  tools.quality.staatenprofil_links --help`).
 
   The legacy `tools/gitbook-worker --ai-reference-repair` flag is deprecated;
   use this module instead so that CI workflows and local runs share the same
   implementation and configuration surface.
+
+### `emoji/`
+
+Emoji-specific utilities shared by the harness and publishing workflows:
+
+* `scan_emojis.py` inventories all emoji sequences used across the Markdown
+  sources and emits JSON artefacts consumed by the harness templates.
+* `scan_fonts.py` reports font-family declarations so the harness can detect
+  regressions and forbidden fallbacks.
+* `inline_emojis.py` replaces emoji glyphs in HTML output with inline SVG/PNG
+  assets, preferring Twemoji (CC BY 4.0) and falling back to OpenMoji Black.
+* `report.py` groups emoji usage by Unicode block to highlight coverage gaps,
+  providing a lightweight monitoring hook for editors and CI.
 
 ### `support/`
 

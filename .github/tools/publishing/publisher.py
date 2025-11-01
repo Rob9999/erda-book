@@ -332,7 +332,7 @@ def _select_emoji_font(prefer_color: bool) -> Tuple[Optional[str], bool]:
     candidates: List[str] = []
     if prefer_color:
         candidates.append("OpenMoji Color")
-    candidates.extend(["OpenMoji Black", "Noto Color Emoji", "Segoe UI Emoji"])
+    candidates.extend(["OpenMoji Black", "Segoe UI Emoji"])
 
     for candidate in candidates:
         if _font_available(candidate):

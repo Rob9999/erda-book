@@ -3,7 +3,7 @@
 ## Schriftarten-Design
 
 ### PDF-Generierung
-Bei der PDF-Generierung werden **keine** Noto-Schriftarten verwendet, um das Design konsistent mit der Markenidentität zu halten. Die Schriftarten können in der `publish.yml` über die `pdf_options` konfiguriert werden:
+Bei der PDF-Generierung werden **keine** zusätzlichen System-Emoji-Schriftarten aus externen Paketen eingebunden, um das Design konsistent mit der Markenidentität zu halten. Die Schriftarten können in der `publish.yml` über die `pdf_options` konfiguriert werden:
 
 ```yaml
 pdf_options:
