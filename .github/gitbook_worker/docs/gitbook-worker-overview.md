@@ -84,6 +84,10 @@ the toolkit.【F:.github/tools/utils/README.md†L1-L32】
    resolved navigation order. Refer to the [support README](../../tools/support/README.md)
    for context and expected output.【F:.github/tools/support/README.md†L9-L23】
 
+## Manifest & Packaging Resources
+
+* [`publish.yml` Referenz & Bereitstellungsstrategien](publish-manifest-reference.md) – vollständige Beschreibung aller Manifest-Schlüssel sowie Vorschläge, wie der Worker als eigenständiges Paket oder GitHub Action veröffentlicht werden kann.【F:.github/gitbook_worker/docs/publish-manifest-reference.md†L1-L145】
+
 ## Licensing
 
 All documentation in this directory, including this overview, is distributed
