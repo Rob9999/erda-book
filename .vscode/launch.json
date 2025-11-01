@@ -2,7 +2,7 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Workflow Orchestrator (with colored emojis)",
+            "name": "Run workflow_orchestrator",
             "type": "debugpy",
             "request": "launch",
             "module": "tools.workflow_orchestrator",
@@ -10,10 +10,92 @@
                 "--profile",
                 "local",
                 "--manifest",
-                "publish.yml",
-                "--emoji-color"
+                "publish.yml"
             ],
-            "cwd": "${workspaceFolder}"
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}/repo/gitbook_repo",
+            "env": {
+                "PYTHONPATH": "${workspaceFolder}/repo/gitbook_repo;${workspaceFolder}/repo/gitbook_repo/.github",
+                "PYTHONIOENCODING": "utf-8",
+                "PYTHONUTF8": "1"
+            },
+            "justMyCode": false
+        },
+        {
+            "name": "Orchestrator (local)",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "tools.workflow_orchestrator",
+            "cwd": "${workspaceFolder}/repo/gitbook_repo",
+            "env": {
+                "PYTHONPATH": "${workspaceFolder}/repo/gitbook_repo;${workspaceFolder}/repo/gitbook_repo/.github",
+                "PYTHONIOENCODING": "utf-8",
+                "PYTHONUTF8": "1"
+            },
+            "args": [
+                "--profile",
+                "local",
+                "--manifest",
+                "publish.yml"
+            ],
+            "console": "integratedTerminal",
+        },
+        {
+            "name": "Emoji and Font Couverage",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "tools.emoji.scan_emojis.py",
+            "cwd": "${workspaceFolder}/repo/gitbook_repo",
+            "args": [
+                "--font-path",
+                "${workspaceFolder}/repo/fonts/OpenMoji-Color-Font.ttf",
+                "--emoji-list",
+                "${workspaceFolder}/repo/gitbook_repo/.github/emoji_data/emojis.txt",
+                "--output-csv",
+                "${workspaceFolder}/repo/emoji_coverage.csv"
+            ],
+        },
+        {
+            "name": "Python: Debug gitbook_worker.py",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "gitbook_worker",
+            "cwd": "${workspaceFolder}/repo/gitbook_repo/tools/gitbook_worker/src",
+            "args": [
+                "-v", // Verbose output
+                "--clone-dir",
+                "${workspaceFolder}/repo/gitbook_repo",
+                "--temp-dir",
+                "${workspaceFolder}/repo/temp",
+                "--out-dir",
+                "${workspaceFolder}/repo",
+                //"--fix-internal-links",
+                //"-s",
+                //"--check-links",
+                //"--fix-external-references",
+                //"--ai-prompt-reference",
+                //"\"Bitte überprüfe die folgende Quellenangabe auf wissenschaftliche Korrektheit und Zitierfähigkeit. Recherchiere ggf. fehlende Daten und ggf. den inhaltlich korrekten Link.\nZiel ist eine vollständige, korrekte Zitation im folgenden Format:\n\nFußnotennummer. Autor:in (Jahr): Titel. Untertitel. Verlagsort: Verlag.\nOnline verfügbar unter: [URL] (Zugriff am {today in YYYY-MM-DD}).\n\n**Notwendige Bestandteile für Zitierfähigkeit:**\n- Autor:in oder Organisation (Corporate Author)\n- Erscheinungsjahr\n- Vollständiger Titel (ggf. mit Untertitel)\n- Verlagsort\n- Verlag oder herausgebende Institution\n- Vollständige URL (bei Onlinequelle)\n- Zugriffdatum\n\nWenn Bestandteile fehlen oder unklar sind, gib eine präzise Begründung und einen konkreten Verbesserungshinweis.\n\"",
+                //"--ai-url",
+                //"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent",
+                //"--ai-api-key",
+                //"AIzaSyDvSGBFajzc00IiDYuglk5juxPpO9dckV8",
+                //"--ai-provider",
+                //"genai",
+                "https://github.com/Rob9999/erda-book.git",
+                "--branch",
+                "release_candidate",
+                "--wrap-wide-tables",
+                "--disable-longtable",
+                //"--use-docker",
+                //"--main-font",
+                //"OpenMoji Black",
+                //"Segoe UI Emoji",
+                //"--emoji-color",
+                "--pdf",
+                "${workspaceFolder}/repo/Erda Buch",
+            ],
+            "console": "integratedTerminal",
+            "justMyCode": true,
         }
     ]
 }

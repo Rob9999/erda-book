@@ -7,7 +7,8 @@ dependencies = [
   "pandas",
   "matplotlib",
   "numpy",
-  "pillow"
+  "pillow",
+  "emoji",
 ]
 
 [build-system]
