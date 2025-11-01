@@ -11,6 +11,12 @@ from collections.abc import Iterator
 
 import pytest
 
+
+GITHUB_DIR = pathlib.Path(__file__).resolve().parents[1]
+if str(GITHUB_DIR) not in sys.path:
+    sys.path.insert(0, str(GITHUB_DIR))
+
+
 from . import GH_TEST_ARTIFACTS_DIR, GH_TEST_LOGS_DIR, GH_TEST_OUTPUT_DIR
 from tools.logging_config import make_specific_logger
 
@@ -23,7 +29,7 @@ def _ensure(pkg: str) -> None:
         subprocess.check_call([sys.executable, "-m", "pip", "install", pkg])
 
 
-for _pkg in ["pyyaml", "tabulate"]:
+for _pkg in ["pyyaml", "tabulate", "emoji", "beautifulsoup4"]:
     _ensure(_pkg)
 
 
