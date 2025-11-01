@@ -13,9 +13,9 @@
                 "publish.yml"
             ],
             "console": "integratedTerminal",
-            "cwd": "${workspaceFolder}/repo/gitbook_repo",
+            "cwd": "${workspaceFolder}",
             "env": {
-                "PYTHONPATH": "${workspaceFolder}/repo/gitbook_repo;${workspaceFolder}/repo/gitbook_repo/.github",
+                "PYTHONPATH": "${workspaceFolder};${workspaceFolder}/.github",
                 "PYTHONIOENCODING": "utf-8",
                 "PYTHONUTF8": "1"
             },
@@ -27,9 +27,9 @@
             "type": "debugpy",
             "request": "launch",
             "module": "tools.workflow_orchestrator",
-            "cwd": "${workspaceFolder}/repo/gitbook_repo",
+            "cwd": "${workspaceFolder}",
             "env": {
-                "PYTHONPATH": "${workspaceFolder}/repo/gitbook_repo;${workspaceFolder}/repo/gitbook_repo/.github",
+                "PYTHONPATH": "${workspaceFolder};${workspaceFolder}/.github",
                 "PYTHONIOENCODING": "utf-8",
                 "PYTHONUTF8": "1"
             },
@@ -47,14 +47,14 @@
             "type": "debugpy",
             "request": "launch",
             "module": "tools.emoji.scan_emojis.py",
-            "cwd": "${workspaceFolder}/repo/gitbook_repo",
+            "cwd": "${workspaceFolder}",
             "args": [
                 "--font-path",
-                "${workspaceFolder}/repo/fonts/OpenMoji-Color-Font.ttf",
+                "${workspaceFolder}/fonts/OpenMoji-Color-Font.ttf",
                 "--emoji-list",
-                "${workspaceFolder}/repo/gitbook_repo/.github/emoji_data/emojis.txt",
+                "${workspaceFolder}/.github/emoji_data/emojis.txt",
                 "--output-csv",
-                "${workspaceFolder}/repo/emoji_coverage.csv"
+                "${workspaceFolder}/emoji_coverage.csv"
             ],
             "envFile": "${workspaceFolder}/.env"
         },
@@ -63,15 +63,15 @@
             "type": "debugpy",
             "request": "launch",
             "module": "gitbook_worker",
-            "cwd": "${workspaceFolder}/repo/gitbook_repo/tools/gitbook_worker/src",
+            "cwd": "${workspaceFolder}/tools/gitbook_worker/src",
             "args": [
                 "-v", // Verbose output
                 "--clone-dir",
-                "${workspaceFolder}/repo/gitbook_repo",
+                "${workspaceFolder}",
                 "--temp-dir",
-                "${workspaceFolder}/repo/temp",
+                "${workspaceFolder}/temp",
                 "--out-dir",
-                "${workspaceFolder}/repo",
+                "${workspaceFolder}",
                 //"--fix-internal-links",
                 //"-s",
                 //"--check-links",
@@ -95,7 +95,7 @@
                 //"Segoe UI Emoji",
                 //"--emoji-color",
                 "--pdf",
-                "${workspaceFolder}/repo/Erda Buch",
+                "${workspaceFolder}/Erda Buch",
             ],
             "console": "integratedTerminal",
             "justMyCode": true,
