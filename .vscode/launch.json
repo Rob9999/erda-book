@@ -19,7 +19,8 @@
                 "PYTHONIOENCODING": "utf-8",
                 "PYTHONUTF8": "1"
             },
-            "justMyCode": false
+            "justMyCode": false,
+            "envFile": "${workspaceFolder}/.env"
         },
         {
             "name": "Orchestrator (local)",
@@ -39,6 +40,7 @@
                 "publish.yml"
             ],
             "console": "integratedTerminal",
+            "envFile": "${workspaceFolder}/.env"
         },
         {
             "name": "Emoji and Font Couverage",
@@ -54,6 +56,7 @@
                 "--output-csv",
                 "${workspaceFolder}/repo/emoji_coverage.csv"
             ],
+            "envFile": "${workspaceFolder}/.env"
         },
         {
             "name": "Python: Debug gitbook_worker.py",
@@ -76,11 +79,11 @@
                 //"--ai-prompt-reference",
                 //"\"Bitte überprüfe die folgende Quellenangabe auf wissenschaftliche Korrektheit und Zitierfähigkeit. Recherchiere ggf. fehlende Daten und ggf. den inhaltlich korrekten Link.\nZiel ist eine vollständige, korrekte Zitation im folgenden Format:\n\nFußnotennummer. Autor:in (Jahr): Titel. Untertitel. Verlagsort: Verlag.\nOnline verfügbar unter: [URL] (Zugriff am {today in YYYY-MM-DD}).\n\n**Notwendige Bestandteile für Zitierfähigkeit:**\n- Autor:in oder Organisation (Corporate Author)\n- Erscheinungsjahr\n- Vollständiger Titel (ggf. mit Untertitel)\n- Verlagsort\n- Verlag oder herausgebende Institution\n- Vollständige URL (bei Onlinequelle)\n- Zugriffdatum\n\nWenn Bestandteile fehlen oder unklar sind, gib eine präzise Begründung und einen konkreten Verbesserungshinweis.\n\"",
                 //"--ai-url",
-                //"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent",
+                //"${env:AI_URL}",
                 //"--ai-api-key",
-                //"AIzaSyDvSGBFajzc00IiDYuglk5juxPpO9dckV8",
+                //"${env:AI_API_KEY}",
                 //"--ai-provider",
-                //"genai",
+                //"${env:AI_PROVIDER}",
                 "https://github.com/Rob9999/erda-book.git",
                 "--branch",
                 "release_candidate",
@@ -96,6 +99,7 @@
             ],
             "console": "integratedTerminal",
             "justMyCode": true,
+            "envFile": "${workspaceFolder}/.env"
         }
     ]
 }
