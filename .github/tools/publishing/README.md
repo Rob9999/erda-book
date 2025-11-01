@@ -5,6 +5,11 @@ Actions workflows and the local developer harness.  The package reads
 `publish.yml`, toggles publish flags, refreshes GitBook artefacts and renders
 PDFs via Pandoc.
 
+> **Empfehlung zur Code-Bündelung:** Für alle Varianten empfiehlt es sich, die vorhandenen
+> Tools und zugehörigen Tests in den Ordner `.github/gitbook_worker` zu verschieben oder per
+> Packaging-Skripten zu bündeln. So entsteht eine klar abgrenzbare Codebasis, die unabhängig
+> vom Buch-Content versioniert und dokumentiert werden kann.
+
 ## Entry points
 
 | Script | Purpose |
