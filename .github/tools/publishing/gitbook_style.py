@@ -64,6 +64,37 @@ SUMMARY_MODE_MAP = {
 logger = get_logger(__name__)
 
 
+def _is_tracked(root: Path, rel_path: Path, *, is_dir: bool = False) -> bool:
+    """Return True if *rel_path* is tracked in the Git repository rooted at ``root``."""
+
+    try:
+        if is_dir:
+            cmd = ["git", "-C", str(root), "ls-files", "-z", rel_path.as_posix()]
+        else:
+            cmd = [
+                "git",
+                "-C",
+                str(root),
+                "ls-files",
+                "--error-unmatch",
+                rel_path.as_posix(),
+            ]
+        result = subprocess.run(
+            cmd,
+            stdout=subprocess.PIPE,
+            stderr=subprocess.PIPE,
+            text=True,
+            check=False,
+        )
+    except FileNotFoundError:
+        logger.debug("git executable not available – treating %s as untracked", rel_path)
+        return False
+
+    if is_dir:
+        return bool(result.stdout)
+    return result.returncode == 0
+
+
 def _normalise_name(name: str) -> str:
     """Convert ``name`` to the canonical GitBook style."""
 
@@ -139,6 +170,13 @@ def rename_to_gitbook_style(root: Path, *, use_git: bool = True) -> None:
                 if new_name != directory:
                     src = current_path / directory
                     dst = current_path / new_name
+                    rel_dir = (current_path / directory).relative_to(root)
+                    if use_git and not _is_tracked(root, rel_dir, is_dir=True):
+                        logger.debug(
+                            "Skipping untracked directory '%s'", rel_dir
+                        )
+                        dirs.remove(directory)
+                        continue
                     safe_git_mv(src, dst, use_git=use_git)
                     logger.info(f"Renamed directory: '{src}' to '{dst}'")
                     dirs[index] = new_name
@@ -156,6 +194,10 @@ def rename_to_gitbook_style(root: Path, *, use_git: bool = True) -> None:
                 if new_name != file_name:
                     src = current_path / file_name
                     dst = current_path / new_name
+                    rel_file = (current_path / file_name).relative_to(root)
+                    if use_git and not _is_tracked(root, rel_file):
+                        logger.debug("Skipping untracked file '%s'", rel_file)
+                        continue
                     safe_git_mv(src, dst, use_git=use_git)
                     logger.info(f"Renamed file: '{src}' to '{dst}'")
             except Exception as ex:  # pragma: no cover - best effort
