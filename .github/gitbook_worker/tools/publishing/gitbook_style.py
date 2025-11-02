@@ -58,6 +58,7 @@ SUMMARY_MODE_MAP = {
     "gitbook": summary_generator.SummaryMode.GITBOOK_STYLE.value,
     "unsorted": summary_generator.SummaryMode.ORDERED_BY_FILESYSTEM.value,
     "alpha": summary_generator.SummaryMode.ORDERED_BY_ALPHANUMERIC.value,
+    "manifest": summary_generator.SummaryMode.GITBOOK_STYLE.value,
     "manual": summary_generator.SummaryMode.MANUAL.value,
 }
 
@@ -414,6 +415,20 @@ def ensure_clean_summary(
     logger.info(f"Ensuring clean SUMMARY.md in {base_dir}")
     context = get_summary_layout(base_dir)
 
+    manifest_path = _resolve_manifest_path(summary_order_manifest, context)
+    manifest_order: Optional[Dict[str, int]] = None
+    if manifest_path is not None:
+        manifest_order = _load_manifest_order(manifest_path)
+        logger.info(
+            "summary manifest resolved to %s with %d entries",
+            manifest_path,
+            len(manifest_order),
+        )
+    elif summary_mode and summary_mode.strip().lower() == "manifest":
+        logger.warning(
+            "summary_mode 'manifest' gewählt, aber keine Manifest-Datei angegeben"
+        )
+
     # Get mode from module-level map
     mode = SUMMARY_MODE_MAP.get(
         summary_mode or "gitbook", summary_generator.SummaryMode.GITBOOK_STYLE.value
@@ -470,7 +485,10 @@ def ensure_clean_summary(
     # Generate new summary content using the tree-based generator
     try:
         new_lines = summary_generator.generate_summary(
-            root_dir=context.root_dir, mode=mode, submode=submode
+            root_dir=context.root_dir,
+            mode=mode,
+            submode=submode,
+            manual_order=manifest_order,
         )
         new_content = "\n".join(new_lines).rstrip() + "\n"
     except Exception as e:
