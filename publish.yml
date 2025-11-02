@@ -53,7 +53,7 @@ publish:
     main_font: DejaVu Serif
     sans_font: DejaVu Sans
     mono_font: DejaVu Sans Mono
-    mainfont_fallback: Segoe UI Emoji:mode=harf
+    mainfont_fallback: OpenMoji Color:mode=harf
   assets:
   - path: ./.gitbook/assets
     type: images

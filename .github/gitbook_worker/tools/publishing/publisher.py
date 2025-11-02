@@ -67,8 +67,12 @@ _MANIFEST_VERSION_CURRENT = (0, 1, 0)
 
 _DEFAULT_LUA_FILTERS: List[str] = [
     ".github/gitbook_worker/tools/publishing/lua/image-path-resolver.lua",
+    ".github/gitbook_worker/tools/publishing/lua/emoji-span.lua",
+    ".github/gitbook_worker/tools/publishing/lua/latex-emoji.lua",
 ]
-_DEFAULT_HEADER_PATH = ".github/gitbook_worker/tools/publishing/texmf/tex/latex/local/deeptex.sty"
+_DEFAULT_HEADER_PATH = (
+    ".github/gitbook_worker/tools/publishing/texmf/tex/latex/local/deeptex.sty"
+)
 _DEFAULT_METADATA: Dict[str, List[str]] = {
     "color": ["true"],
 }
@@ -106,7 +110,9 @@ def _resolve_repo_root() -> Path:
     for candidate in parents:
         if (candidate / ".git").is_dir():
             return candidate
-        if (candidate / "publish.yml").exists() or (candidate / "publish.yaml").exists():
+        if (candidate / "publish.yml").exists() or (
+            candidate / "publish.yaml"
+        ).exists():
             return candidate
         if (candidate / "book.json").exists():
             return candidate
@@ -362,6 +368,52 @@ def _select_emoji_font(prefer_color: bool) -> Tuple[Optional[str], bool]:
     return None, False
 
 
+def _lua_escape_string(value: str) -> str:
+    return value.replace("\\", "\\\\").replace('"', '\\"')
+
+
+def _lua_fallback_block(spec: str) -> Optional[str]:
+    entries = [chunk.strip() for chunk in re.split(r"[;,]", spec) if chunk.strip()]
+    if not entries:
+        return None
+    parts = [f'"{_lua_escape_string(entry)}"' for entry in entries]
+    return "{" + ", ".join(parts) + "}"
+
+
+def _normalize_fallback_spec(
+    spec: str, *, primary_font: Optional[str], needs_harfbuzz: bool
+) -> str:
+    entries: List[str] = []
+    seen: set[str] = set()
+    primary_normalized = _normalize_font_name(primary_font) if primary_font else None
+
+    for chunk in re.split(r"[;,]", spec):
+        entry = chunk.strip()
+        if not entry:
+            continue
+        base = entry.split(":", 1)[0].strip()
+        if not base:
+            continue
+        normalized = _normalize_font_name(base)
+        if normalized in seen:
+            continue
+        if needs_harfbuzz and (normalized == primary_normalized):
+            if ":mode=" not in entry.lower():
+                entry = f"{entry}:mode=harf"
+        entries.append(entry)
+        seen.add(normalized)
+
+    if _normalize_font_name("OpenMoji Color") in seen:
+        if _normalize_font_name("OpenMoji Black") not in seen:
+            entries.append("OpenMoji Black:mode=harf")
+            seen.add(_normalize_font_name("OpenMoji Black"))
+        if _normalize_font_name("DejaVu Sans") not in seen:
+            entries.append("DejaVu Sans:mode=harf")
+            seen.add(_normalize_font_name("DejaVu Sans"))
+
+    return "; ".join(entries)
+
+
 def _build_font_header(
     *,
     main_font: str,
@@ -375,22 +427,38 @@ def _build_font_header(
     """Render a Pandoc header snippet configuring fonts and fallbacks."""
 
     lines = ["\\usepackage{fontspec}"]
-    lines.append(f"\\setsansfont{{{sans_font}}}")
-    lines.append(f"\\setmonofont{{{mono_font}}}")
-    if include_mainfont:
-        lines.append(f"\\setmainfont{{{main_font}}}")
+    fallback_block = (
+        _lua_fallback_block(manual_fallback_spec) if manual_fallback_spec else None
+    )
+
     if emoji_font:
-        options: List[str] = [f"Range={{{EMOJI_RANGES}}}"]
+        options: List[str] = []
         if needs_harfbuzz:
-            options.insert(0, "Renderer=Harfbuzz")
-        option_block = "[" + ",".join(options) + "]"
+            options.append("Renderer=Harfbuzz")
+        option_block = f"[{','.join(options)}]" if options else ""
         lines.append(f"\\IfFontExistsTF{{{emoji_font}}}{{")
-        lines.append(f"  \\newfontfamily\\EmojiOne{{{emoji_font}}}{option_block}")
-        if manual_fallback_spec:
+        lines.append(f"  \\newfontfamily\\EmojiOne{option_block}{{{emoji_font}}}")
+        if fallback_block:
             lines.append(
-                f'  \\directlua{{luaotfload.add_fallback("mainfont", "{manual_fallback_spec}")}}'
+                f'  \\directlua{{luaotfload.add_fallback("mainfont", {fallback_block})}}'
             )
         lines.append("}{}")
+
+    if include_mainfont:
+        if fallback_block and emoji_font:
+            lines.append(f"\\IfFontExistsTF{{{emoji_font}}}{{")
+            lines.append(
+                f"  \\setmainfont[RawFeature={{fallback=mainfont}}]{{{main_font}}}"
+            )
+            lines.append("}{")
+            lines.append(f"  \\setmainfont{{{main_font}}}")
+            lines.append("}")
+        else:
+            lines.append(f"\\setmainfont{{{main_font}}}")
+
+    sans_options = "[RawFeature={fallback=mainfont}]" if fallback_block else ""
+    lines.append(f"\\setsansfont{sans_options}{{{sans_font}}}")
+    lines.append(f"\\setmonofont{sans_options}{{{mono_font}}}")
     lines.extend(
         [
             "\\newcommand*{\\panEmoji}[1]{%",
@@ -1039,8 +1107,6 @@ def _run_pandoc(
         logger.warning("⚠ Pandoc-Version konnte nicht bestimmt werden")
 
     emoji_font, needs_harfbuzz = _select_emoji_font(options.color)
-    if emoji_font:
-        metadata_map["emojifont"] = [emoji_font]
 
     main_font = variable_map.get("mainfont", _DEFAULT_VARIABLES["mainfont"])
     sans_font = variable_map.get(
@@ -1055,23 +1121,41 @@ def _run_pandoc(
     cli_fallback_spec: Optional[str] = None
     manual_fallback_spec: Optional[str] = None
     if fallback_override:
+        fallback_font_name = fallback_override.split(":", 1)[0].strip() or None
+        override_needs_harfbuzz = _needs_harfbuzz(fallback_override)
+        if override_needs_harfbuzz:
+            needs_harfbuzz = True
+        normalized_override = _normalize_fallback_spec(
+            fallback_override,
+            primary_font=fallback_font_name or emoji_font,
+            needs_harfbuzz=needs_harfbuzz,
+        )
         if supports_mainfont_fallback:
-            cli_fallback_spec = fallback_override
+            cli_fallback_spec = normalized_override
         else:
-            manual_fallback_spec = fallback_override
-        if not emoji_font:
-            fallback_font_name = fallback_override.split(":", 1)[0].strip()
-            if fallback_font_name:
-                emoji_font = fallback_font_name
-                metadata_map["emojifont"] = [fallback_font_name]
-                if _needs_harfbuzz(fallback_override):
-                    needs_harfbuzz = True
+            manual_fallback_spec = normalized_override
+        if fallback_font_name:
+            emoji_font = fallback_font_name
     elif emoji_font:
-        fallback_spec = f"{emoji_font}{':mode=harf' if needs_harfbuzz else ''}"
+        fallback_spec = _normalize_fallback_spec(
+            f"{emoji_font}{':mode=harf' if needs_harfbuzz else ''}",
+            primary_font=emoji_font,
+            needs_harfbuzz=needs_harfbuzz,
+        )
         if supports_mainfont_fallback:
             cli_fallback_spec = fallback_spec
         else:
             manual_fallback_spec = fallback_spec
+
+    if emoji_font:
+        metadata_map["emojifont"] = [emoji_font]
+        if needs_harfbuzz:
+            metadata_map["emojifontoptions"] = ["Renderer=HarfBuzz"]
+        elif "emojifontoptions" in metadata_map:
+            metadata_map.pop("emojifontoptions", None)
+    else:
+        metadata_map.pop("emojifont", None)
+        metadata_map.pop("emojifontoptions", None)
 
     header_defaults = defaults["header_path"]
     engine = pdf_engine if pdf_engine is not None else defaults["pdf_engine"]
