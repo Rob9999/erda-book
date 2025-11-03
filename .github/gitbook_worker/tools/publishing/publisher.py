@@ -57,6 +57,82 @@ from tools.publishing.emoji_report import emoji_report
 logger = get_logger(__name__)
 
 
+_BANNED_FONT_PATTERNS: Tuple[str, ...] = (
+    "notosanscjk",
+    "notoserifcjk",
+    "notosansjp",
+    "notoserifjp",
+    "notosanskr",
+    "notoserifkr",
+    "notosanssc",
+    "notoserifsc",
+    "notosanstc",
+    "notoseriftc",
+    "notosanshk",
+    "notoserifhk",
+    "sourcehansans",
+    "sourcehanserif",
+)
+
+
+def _purge_disallowed_fonts(
+    patterns: Sequence[str] = _BANNED_FONT_PATTERNS,
+) -> List[Path]:
+    """Remove fonts that violate repository licensing constraints.
+
+    The ERDA publication intentionally avoids bundling Google's Noto CJK fonts
+    because they are not available under CC-BY 4.0. When the local publishing
+    pipeline installs LaTeX tooling via ``apt``, some distributions try to pull
+    in those fonts as optional extras. This helper deletes the unwanted files so
+    the build relies on the custom ERDA CC-BY CJK fallback instead.
+    """
+
+    removed: List[Path] = []
+    lowered = tuple(pattern.lower() for pattern in patterns if pattern)
+    if not lowered:
+        return removed
+
+    font_roots = (
+        Path("/usr/share/fonts"),
+        Path("/usr/local/share/fonts"),
+        Path.home() / ".local" / "share" / "fonts",
+    )
+
+    for root in font_roots:
+        if not root.exists():
+            continue
+        try:
+            candidates = list(root.rglob("*"))
+        except OSError as exc:  # pragma: no cover - best effort cleanup
+            logger.debug("Font-Suche in %s übersprungen: %s", root, exc)
+            continue
+        for candidate in candidates:
+            if not candidate.is_file():
+                continue
+            if candidate.suffix.lower() not in {".ttf", ".otf"}:
+                continue
+            name = candidate.name.lower()
+            if not any(pattern in name for pattern in lowered):
+                continue
+            try:
+                candidate.unlink()
+            except OSError as exc:  # pragma: no cover - best effort cleanup
+                logger.warning(
+                    "Konnte unerlaubte Schrift %s nicht entfernen: %s",
+                    candidate,
+                    exc,
+                )
+            else:
+                removed.append(candidate)
+
+    if removed:
+        logger.info(
+            "Entfernte %d nicht CC-BY-konforme Noto/Source Han Schriftdateien.",
+            len(removed),
+        )
+    return removed
+
+
 _TRUE_VALUES = {"1", "true", "yes", "on", "y"}
 
 _SEMVER_RE = re.compile(
@@ -998,6 +1074,7 @@ def prepare_publishing(
     have_pandoc = _which("pandoc") is not None
     have_lualatex = _which("lualatex") is not None
 
+    removed_fonts: List[Path] = []
     if not (have_pandoc and have_lualatex):
         if no_apt:
             logger.warning(
@@ -1013,11 +1090,11 @@ def prepare_publishing(
                     "apt-get",
                     "install",
                     "-y",
+                    "--no-install-recommends",
                     "pandoc",
                     "texlive-luatex",
                     "texlive-fonts-recommended",
                     "texlive-latex-extra",
-                    "texlive-lang-cjk",
                     "fonts-dejavu-core",
                     "wget",
                 ]
@@ -1026,6 +1103,8 @@ def prepare_publishing(
             logger.warning(
                 "Nicht-Debian System erkannt – installiere pandoc/LaTeX manuell."
             )
+
+    removed_fonts = _purge_disallowed_fonts()
 
     # OpenMoji-Font & fc-cache
     manifest_specs: List[FontSpec] = []
@@ -1065,6 +1144,9 @@ def prepare_publishing(
         if _which("fc-cache"):
             _run(["fc-cache", "-f", "-v"], check=False)
             font_cache_refreshed = True
+
+    if removed_fonts:
+        _maybe_refresh_font_cache()
 
     def _register_font(font_path: Union[Path, str]) -> None:
         if not font_path:
@@ -1145,7 +1227,9 @@ def prepare_publishing(
                 filename = Path(parsed.path).name
                 if not filename:
                     logger.warning(
-                        "Font-Eintrag %s ohne gültigen Dateinamen in URL %s", spec.name, spec.url
+                        "Font-Eintrag %s ohne gültigen Dateinamen in URL %s",
+                        spec.name,
+                        spec.url,
                     )
                     continue
                 cache_dir.mkdir(parents=True, exist_ok=True)
@@ -1182,7 +1266,7 @@ def prepare_publishing(
 def _get_book_title(folder: str) -> Optional[str]:
     try:
         # Pfad zum book.json eine Ebene über dem Ordner
-        book_json_path = pathlib.Path(folder).parent / "book.json"
+        book_json_path = pathlib.Path(folder) / "book.json"
         if not book_json_path.exists():
             return None
         with book_json_path.open("r", encoding="utf-8") as f:
