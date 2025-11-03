@@ -63,6 +63,23 @@ Pandoc defaults can be overridden via environment variables:
 * `gitbook_style.py` supports running with or without Git metadata so it can be
   invoked in environments where `.git/` is unavailable.
 
+### Configuring custom fonts
+
+`publisher.py` consumes an optional top-level `fonts` array in `publish.yml` to
+make repository or remote typefaces available during the PDF build. Each entry
+accepts the following keys:
+
+| Key | Description |
+| --- | --- |
+| `name` | Optional label that is only used for logging. |
+| `path` | Absolute path or manifest-relative directory/file containing `.ttf`/`.otf` fonts. |
+| `url` | Download location for archives or single-font files; the filename derived from the URL must end with `.ttf` or `.otf`. |
+
+The publisher copies discovered fonts into `~/.local/share/fonts`, refreshes
+`fc-cache`, and tracks the directories for manual discovery when `fontconfig`
+is unavailable. Paths take precedence over URLs so repositories can vendor
+fonts while providing an external mirror as a fallback.
+
 ## Local development checklist
 
 1. Activate the `.github` virtual environment and install dependencies as

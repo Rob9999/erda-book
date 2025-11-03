@@ -34,6 +34,9 @@ meta:
   - workflow_dispatch
   artifacts:
     keep_days: 7
+fonts:
+  - name: ERDA CC-BY CJK
+    path: .github/fonts
 publish:
 - path: ./
   out_format: pdf
