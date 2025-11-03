@@ -9,6 +9,7 @@ Die folgenden Angaben listen alle derzeit verwendeten Medienressourcen und ihre 
 | --- | --- | --- | --- | --- | --- |
 | Emoji | Twemoji | Twitter, Inc. & Mitwirkende | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [https://twemoji.twitter.com/](https://twemoji.twitter.com/) | Farbige Emoji-Glyphen (SVG/PNG) für Illustrationen und UI-Elemente. |
 | Emoji | OpenMoji | HfG Schwäbisch Gmünd & OpenMoji-Team | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | [https://openmoji.org/](https://openmoji.org/) | Monochrome Fallback-Emojis und ergänzende Symbole. |
+| Font | ERDA CC-BY CJK | Civic Innovation Network | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | Eigenentwicklung, Quellcode & TTF unter [.github/fonts/](.github/fonts/) | Fallback-Schrift für japanische und koreanische Lizenzabschnitte. |
 | Logo | **ERDA Buch Logo** | Robert Alexander Massinger · zur Nutzung an das entstehende ERDA Institut übertragen | CC BY 4.0 | Interne Gestaltung (Originaldateien im Projektarchiv) | Cover, Kapitel-Header, Kommunikationsmaterialien. |
 
 > **Hinweis:** Die OpenMoji-Assets unterliegen einer Share-Alike-Bedingung, die ausschließlich für die eingebetteten Snippets gilt.

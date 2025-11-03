@@ -53,7 +53,7 @@ publish:
     main_font: DejaVu Serif
     sans_font: DejaVu Sans
     mono_font: DejaVu Sans Mono
-    mainfont_fallback: OpenMoji Color:mode=harf
+    mainfont_fallback: "OpenMoji Color:mode=harf, ERDA CC-BY CJK"
   assets:
   - path: ./.gitbook/assets
     type: images

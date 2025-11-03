@@ -35,6 +35,8 @@ python -m pip install -e .
 * `workflows/` – GitHub Actions definitions.
 * `.vscode/` – recommended local run configurations targeting the local virtual
   environment.
+* `fonts/` – CC BY 4.0 fallback font for the licence translations plus the
+  generator script used to rebuild it.
 
 ## Workflow orchestrator
 
