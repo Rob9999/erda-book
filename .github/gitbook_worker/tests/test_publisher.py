@@ -27,10 +27,16 @@ def test_font_available_uses_repo_fonts(monkeypatch, tmp_path):
     font_file = font_dir / "OpenMoji-color-glyf_colr_0.ttf"
     font_file.write_bytes(b"dummy")
 
+    custom_font_dir = tmp_path / ".github" / "fonts"
+    custom_font_dir.mkdir(parents=True)
+    custom_font_file = custom_font_dir / "erda-ccby-cjk.ttf"
+    custom_font_file.write_bytes(b"dummy")
+
     monkeypatch.setattr(publisher, "_resolve_repo_root", lambda: tmp_path)
     monkeypatch.setattr(publisher, "_which", lambda name: None)
 
     assert publisher._font_available("OpenMoji Color")
+    assert publisher._font_available("ERDA CC-BY CJK")
 
 
 def test_get_publish_list(monkeypatch, tmp_path):
@@ -79,6 +85,54 @@ def test_get_publish_list(monkeypatch, tmp_path):
     for key, value in expected.items():
         assert entry[key] == value
 
+
+def test_prepare_publishing_uses_manifest_fonts(monkeypatch, tmp_path):
+    home_dir = tmp_path / "home"
+    manifest = tmp_path / "publish.yml"
+    fonts_dir = tmp_path / "fonts"
+    fonts_dir.mkdir()
+    (fonts_dir / "local-font.ttf").write_bytes(b"local")
+
+    remote_url = "https://example.invalid/fonts/remote-font.otf"
+
+    manifest.write_text(
+        yaml.safe_dump(
+            {
+                "version": "0.1.0",
+                "publish": [],
+                "fonts": [
+                    {"name": "Local", "path": str(fonts_dir)},
+                    {"name": "Remote", "url": remote_url},
+                ],
+            }
+        ),
+        encoding="utf-8",
+    )
+
+    monkeypatch.setattr(publisher.Path, "home", lambda: home_dir)
+    monkeypatch.setattr(publisher, "_resolve_repo_root", lambda: tmp_path)
+    monkeypatch.setattr(publisher, "_which", lambda name: None)
+    monkeypatch.setattr(publisher, "_ADDITIONAL_FONT_DIRS", [])
+
+    downloads: list[tuple[str, str]] = []
+
+    def fake_download(url: str, dest: str) -> None:
+        downloads.append((url, dest))
+        Path(dest).write_bytes(b"remote")
+
+    monkeypatch.setattr(publisher, "_download", fake_download)
+    monkeypatch.setattr(publisher, "_run", lambda *_, **__: None)
+
+    publisher.prepare_publishing(no_apt=True, manifest_path=str(manifest))
+
+    user_fonts = home_dir / ".local" / "share" / "fonts"
+    assert (user_fonts / "local-font.ttf").exists()
+    assert (user_fonts / "remote-font.otf").exists()
+
+    assert downloads and downloads[0][0] == remote_url
+    recorded_dirs = {p.resolve() for p in publisher._ADDITIONAL_FONT_DIRS}
+    assert fonts_dir.resolve() in recorded_dirs
+    assert user_fonts.resolve() in recorded_dirs
 
 def test_convert_folder_adds_latex_packages(tmp_path, monkeypatch):
     folder = tmp_path / "docs"
@@ -360,9 +414,10 @@ def test_run_pandoc_uses_default_arguments(monkeypatch, tmp_path):
 
     cmd = captured["cmd"]
     pairs = list(zip(cmd, cmd[1:]))
+    defaults = publisher._get_pandoc_defaults()
     assert cmd[:4] == ["pandoc", str(md), "-o", str(pdf)]
     assert ("--pdf-engine", "lualatex") in pairs
-    assert cmd.count("--lua-filter") == 1
+    assert cmd.count("--lua-filter") == len(defaults["lua_filters"])
     assert ("-H", ".github/gitbook_worker/tools/publishing/texmf/tex/latex/local/deeptex.sty") in pairs
     assert any(arg.endswith("pandoc-fonts.tex") for arg in cmd)
     assert ("-M", "emojifont=OpenMoji Black") in pairs
@@ -427,7 +482,8 @@ def test_run_pandoc_env_overrides(monkeypatch, tmp_path):
     pairs = list(zip(cmd, cmd[1:]))
     assert ("--pdf-engine", "xelatex") in pairs
     assert any(arg.endswith("pandoc-fonts.tex") for arg in cmd)
-    assert cmd.count("--lua-filter") == 2
+    defaults = publisher._get_pandoc_defaults()
+    assert cmd.count("--lua-filter") == len(defaults["lua_filters"])
     assert ("-M", "color=true") in pairs
     assert ("-M", "new=value") in pairs
     assert ("-M", "emojifont=Segoe UI Emoji") in pairs
@@ -438,7 +494,7 @@ def test_run_pandoc_env_overrides(monkeypatch, tmp_path):
     )
     header_content = captured_header.get("text", "")
     assert (
-        'luaotfload.add_fallback("mainfont", "Segoe UI Emoji:mode=harf")'
+        'luaotfload.add_fallback("mainfont", {"Segoe UI Emoji:mode=harf"})'
         in header_content
     )
     assert cmd[-2:] == ["--top-level-division=chapter", "--no-tex-ligatures"]
@@ -571,7 +627,7 @@ def test_run_pandoc_uses_custom_fallback_with_legacy_pandoc(monkeypatch, tmp_pat
     )
     header_content = captured_header.get("text", "")
     assert (
-        'luaotfload.add_fallback("mainfont", "Segoe UI Emoji:mode=harf")'
+        'luaotfload.add_fallback("mainfont", {"Segoe UI Emoji:mode=harf"})'
         in header_content
     )
 

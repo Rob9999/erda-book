@@ -31,9 +31,10 @@ from collections import OrderedDict
 from dataclasses import dataclass
 from datetime import datetime, timezone
 from pathlib import Path
-from typing import Any, Dict, Iterable, List, Optional, Sequence, Tuple
+from typing import Any, Dict, Iterable, List, Optional, Sequence, Tuple, Union
 from collections.abc import Mapping
 from functools import lru_cache
+from urllib.parse import urlparse
 
 from tools.logging_config import get_logger
 
@@ -100,6 +101,18 @@ class EmojiOptions:
     color: bool = True
     report: bool = False
     report_dir: Optional[Path] = None
+
+
+@dataclass(frozen=True)
+class FontSpec:
+    """Describe a custom font provided via the publish manifest."""
+
+    name: Optional[str]
+    path: Optional[Path]
+    url: Optional[str]
+
+
+_ADDITIONAL_FONT_DIRS: List[Path] = []
 
 
 def _resolve_repo_root() -> Path:
@@ -299,7 +312,10 @@ def _font_available(name: str) -> bool:
     font_dirs = [
         repo_root / ".github" / "gitbook_worker" / "tools" / "publishing" / "fonts",
         repo_root / ".github" / "tools" / "publishing" / "fonts",
+        repo_root / ".github" / "fonts",
+        Path.home() / ".local" / "share" / "fonts",
     ]
+    font_dirs.extend(_ADDITIONAL_FONT_DIRS)
     try:
         for base_dir in font_dirs:
             if not base_dir.exists():
@@ -312,6 +328,64 @@ def _font_available(name: str) -> bool:
     except OSError:
         pass
     return False
+
+
+def _remember_font_dir(path: Path) -> None:
+    """Track additional font directories for discovery fallbacks."""
+
+    global _ADDITIONAL_FONT_DIRS
+
+    try:
+        resolved = path.resolve()
+    except FileNotFoundError:
+        resolved = path
+    if resolved in _ADDITIONAL_FONT_DIRS:
+        return
+    _ADDITIONAL_FONT_DIRS.append(resolved)
+
+
+def _parse_font_specs(raw: Any, manifest_dir: Optional[Path]) -> List[FontSpec]:
+    """Normalise ``fonts`` manifest entries into :class:`FontSpec` objects."""
+
+    if not isinstance(raw, list):
+        return []
+
+    specs: List[FontSpec] = []
+
+    for entry in raw:
+        name: Optional[str] = None
+        path_value: Optional[Path] = None
+        url_value: Optional[str] = None
+
+        if isinstance(entry, Mapping):
+            raw_name = entry.get("name")
+            if isinstance(raw_name, str):
+                stripped = raw_name.strip()
+                name = stripped or None
+
+            raw_path = entry.get("path")
+            if raw_path:
+                candidate = Path(str(raw_path))
+                if not candidate.is_absolute() and manifest_dir:
+                    candidate = (manifest_dir / candidate).resolve()
+                path_value = candidate
+
+            raw_url = entry.get("url")
+            if isinstance(raw_url, str):
+                stripped_url = raw_url.strip()
+                url_value = stripped_url or None
+        else:
+            candidate = Path(str(entry))
+            if not candidate.is_absolute() and manifest_dir:
+                candidate = (manifest_dir / candidate).resolve()
+            path_value = candidate
+
+        if not path_value and not url_value:
+            continue
+
+        specs.append(FontSpec(name=name, path=path_value, url=url_value))
+
+    return specs
 
 
 @lru_cache(maxsize=1)
@@ -908,7 +982,9 @@ def get_publish_list(manifest_path: Optional[str] = None) -> List[Dict[str, Any]
 # ---------------------- Environment Prep (B / B.1) ------------------------- #
 
 
-def prepare_publishing(no_apt: bool = False) -> None:
+def prepare_publishing(
+    no_apt: bool = False, manifest_path: Optional[str] = None
+) -> None:
     """
     Installiert die System- und Python-Abhängigkeiten für den PDF-Build.
     - PyYAML (via prepareYAML)
@@ -952,6 +1028,33 @@ def prepare_publishing(no_apt: bool = False) -> None:
             )
 
     # OpenMoji-Font & fc-cache
+    manifest_specs: List[FontSpec] = []
+    manifest_dir: Optional[Path] = None
+
+    if manifest_path:
+        manifest_candidate = Path(manifest_path)
+        if not manifest_candidate.exists():
+            logger.warning(
+                "Manifest %s nicht gefunden – überspringe Schriftkonfiguration.",
+                manifest_candidate,
+            )
+        else:
+            manifest_dir = manifest_candidate.parent
+            try:
+                manifest_data = _load_yaml(str(manifest_candidate))
+            except SystemExit:
+                raise
+            except Exception as exc:  # pragma: no cover - defensive
+                logger.warning(
+                    "Konnte Manifest %s nicht lesen – Fonts auslassen: %s",
+                    manifest_candidate,
+                    exc,
+                )
+            else:
+                manifest_specs = _parse_font_specs(
+                    manifest_data.get("fonts"), manifest_dir
+                )
+
     font_dir = ".github/gitbook_worker/tools/publishing/fonts/truetype/openmoji"
     font_cache_refreshed = False
 
@@ -963,7 +1066,7 @@ def prepare_publishing(no_apt: bool = False) -> None:
             _run(["fc-cache", "-f", "-v"], check=False)
             font_cache_refreshed = True
 
-    def _register_font(font_path: str) -> None:
+    def _register_font(font_path: Union[Path, str]) -> None:
         if not font_path:
             return
         try:
@@ -975,9 +1078,25 @@ def prepare_publishing(no_apt: bool = False) -> None:
             target = user_font_dir / path_obj.name
             if not target.exists():
                 shutil.copy2(path_obj, target)
+            _remember_font_dir(path_obj.parent)
+            _remember_font_dir(user_font_dir)
             _maybe_refresh_font_cache()
         except Exception as exc:  # pragma: no cover - best effort only
             logger.warning("Konnte Font %s nicht registrieren: %s", font_path, exc)
+
+    def _register_font_tree(path_obj: Path) -> bool:
+        if path_obj.is_file():
+            _register_font(path_obj)
+            return True
+        if path_obj.is_dir():
+            _remember_font_dir(path_obj)
+            found = False
+            for pattern in ("*.ttf", "*.otf"):
+                for candidate in path_obj.rglob(pattern):
+                    _register_font(candidate)
+                    found = True
+            return found
+        return False
 
     font_black = os.path.join(font_dir, "OpenMoji-black-glyf.ttf")
     if not os.path.exists(font_black):
@@ -1000,6 +1119,50 @@ def prepare_publishing(no_apt: bool = False) -> None:
         except Exception as e:
             logger.warning("Konnte OpenMoji color nicht installieren: %s", e)
     _register_font(font_color)
+
+    repo_font_dir = _resolve_repo_root() / ".github" / "fonts"
+    if repo_font_dir.exists():
+        for pattern in ("*.ttf", "*.otf"):
+            for font_path in repo_font_dir.rglob(pattern):
+                _register_font(str(font_path))
+        _remember_font_dir(repo_font_dir)
+
+    if manifest_specs:
+        cache_dir = Path.home() / ".cache" / "erda-publisher" / "fonts"
+        for spec in manifest_specs:
+            handled = False
+            if spec.path:
+                try:
+                    handled = _register_font_tree(spec.path)
+                except Exception as exc:  # pragma: no cover - defensive
+                    logger.warning(
+                        "Konnte Font-Pfad %s nicht verarbeiten: %s", spec.path, exc
+                    )
+            if handled:
+                continue
+            if spec.url:
+                parsed = urlparse(spec.url)
+                filename = Path(parsed.path).name
+                if not filename:
+                    logger.warning(
+                        "Font-Eintrag %s ohne gültigen Dateinamen in URL %s", spec.name, spec.url
+                    )
+                    continue
+                cache_dir.mkdir(parents=True, exist_ok=True)
+                target = cache_dir / filename
+                if not target.exists():
+                    try:
+                        _download(spec.url, str(target))
+                    except Exception as exc:  # pragma: no cover - best effort only
+                        logger.warning(
+                            "Download für Font %s (%s) fehlgeschlagen: %s",
+                            spec.name or filename,
+                            spec.url,
+                            exc,
+                        )
+                        continue
+                _remember_font_dir(target.parent)
+                _register_font(target)
 
     # latex-emoji.lua Filter
     lua_dir = ".github/gitbook_worker/tools/publishing/lua"
@@ -1625,16 +1788,17 @@ def main() -> None:
     )
     args = ap.parse_args()
 
+    manifest = find_publish_manifest(args.manifest)
+
     if args.only_prepare:
         # B.1 + B
-        prepare_publishing(no_apt=args.no_apt)
+        prepare_publishing(no_apt=args.no_apt, manifest_path=manifest)
         logger.info("✔ Umgebung vorbereitet. (only-prepare)")
         return
 
     # prepareYAML()  # B.1
     prepareYAML()
     # get manifest publish list (A)
-    manifest = find_publish_manifest(args.manifest)
     targets = get_publish_list(manifest)
 
     if not targets:
@@ -1644,7 +1808,7 @@ def main() -> None:
 
     logger.info("ℹ %d zu publizierende Einträge gefunden.", len(targets))
     # prepare huge environment (B)
-    prepare_publishing(no_apt=args.no_apt)
+    prepare_publishing(no_apt=args.no_apt, manifest_path=manifest)
     built: List[str] = []
     failed: List[str] = []
 
