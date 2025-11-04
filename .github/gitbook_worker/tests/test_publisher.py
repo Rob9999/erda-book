@@ -490,11 +490,13 @@ def test_run_pandoc_env_overrides(monkeypatch, tmp_path):
     assert ("--variable", "geometry=margin=2cm") in pairs
     assert ("--variable", "custom=1") in pairs
     assert all(
-        pair != ("-V", "mainfontfallback=Segoe UI Emoji:mode=harf") for pair in pairs
+        not (flag == "-V" and value.startswith("mainfontfallback="))
+        for flag, value in pairs
     )
     header_content = captured_header.get("text", "")
     assert (
-        'luaotfload.add_fallback("mainfont", {"Segoe UI Emoji:mode=harf"})'
+        'luaotfload.add_fallback("mainfont", {"Segoe UI Emoji:mode=harf", '
+        '"ERDA CC-BY CJK:mode=harf"})'
         in header_content
     )
     assert cmd[-2:] == ["--top-level-division=chapter", "--no-tex-ligatures"]
@@ -531,7 +533,10 @@ def test_run_pandoc_metadata_mapping_override(monkeypatch, tmp_path):
     assert cmd.count("-M") == 2
     assert "color=true" in " ".join(cmd)
     pairs = list(zip(cmd, cmd[1:]))
-    assert ("-V", "mainfontfallback=OpenMoji Black") in pairs
+    assert (
+        "-V",
+        "mainfontfallback=OpenMoji Black; ERDA CC-BY CJK:mode=harf",
+    ) in pairs
 
 
 def test_run_pandoc_uses_custom_fallback_with_newer_pandoc(monkeypatch, tmp_path):
@@ -575,7 +580,10 @@ def test_run_pandoc_uses_custom_fallback_with_newer_pandoc(monkeypatch, tmp_path
 
     cmd = captured["cmd"]
     pairs = list(zip(cmd, cmd[1:]))
-    assert ("-V", "mainfontfallback=Segoe UI Emoji:mode=harf") in pairs
+    assert (
+        "-V",
+        "mainfontfallback=Segoe UI Emoji:mode=harf; ERDA CC-BY CJK:mode=harf",
+    ) in pairs
     assert all(pair != ("-V", "mainfontfallback=OpenMoji Black") for pair in pairs)
     header_content = captured_header.get("text", "")
     assert "luaotfload.add_fallback" not in header_content
@@ -623,11 +631,13 @@ def test_run_pandoc_uses_custom_fallback_with_legacy_pandoc(monkeypatch, tmp_pat
     cmd = captured["cmd"]
     pairs = list(zip(cmd, cmd[1:]))
     assert all(
-        pair != ("-V", "mainfontfallback=Segoe UI Emoji:mode=harf") for pair in pairs
+        not (flag == "-V" and value.startswith("mainfontfallback="))
+        for flag, value in pairs
     )
     header_content = captured_header.get("text", "")
     assert (
-        'luaotfload.add_fallback("mainfont", {"Segoe UI Emoji:mode=harf"})'
+        'luaotfload.add_fallback("mainfont", {"Segoe UI Emoji:mode=harf", '
+        '"ERDA CC-BY CJK:mode=harf"})'
         in header_content
     )
 
