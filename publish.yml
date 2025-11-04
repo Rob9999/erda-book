@@ -35,8 +35,8 @@ meta:
   artifacts:
     keep_days: 7
 fonts:
-  - name: ERDA CC-BY CJK
-    path: .github/fonts/erda-ccby-cjk.ttf
+- name: ERDA CC-BY CJK
+  path: .github/fonts/erda-ccby-cjk.ttf
 publish:
 - path: ./
   out_format: pdf
@@ -56,7 +56,7 @@ publish:
     main_font: DejaVu Serif
     sans_font: DejaVu Sans
     mono_font: DejaVu Sans Mono
-    mainfont_fallback: "OpenMoji Color:mode=harf, ERDA CC-BY CJK:mode=harf"
+    mainfont_fallback: OpenMoji Color:mode=harf, ERDA CC-BY CJK:mode=harf
   assets:
   - path: ./.gitbook/assets
     type: images

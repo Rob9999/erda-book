@@ -9868,11 +9868,11 @@ version: "1.0"
 ### 1. Überblick (Meta)
 
 * 🏳️ **Offizieller Name:** Königreich Spanien
-* 🗘️ **Geografische Lage:** Südwest-Europa, Iberische Halbinsel
+* 🌍 **Geografische Lage:** Südwest-Europa, Iberische Halbinsel
 * 👥 **Bevölkerung (2025):** 47 889 958 Einw.
 * 🧠 **Regierungsform & Verfassungsstatus (2025):** Parlamentarische konstitutionelle Monarchie (Verfassungsbindung: Ja)
 * 📅 ERDA-Status: Mitglied
-* 🗭 **Rolle im ERDA-Netzwerk (Zukunft):** Kulturvermittler, Green-Tech-Hub, Tourismus-& Innovationspartner
+* 🤝 **Rolle im ERDA-Netzwerk (Zukunft):** Kulturvermittler, Green-Tech-Hub, Tourismus-& Innovationspartner
 
 ***
 
@@ -16779,9 +16779,9 @@ version: "1.0"
 * 🏳️ Offizieller Name: Vereinigtes Königreich Großbritannien und Nordirland
 * 🗺 Geografische Lage: Nordwesteuropa, Britische Inseln, Atlantik und Nordsee
 * 👥 Bevölkerung (2025): ca. 67,6 Mio. (ONS)
-* 🖈 Regierungsform & Verfassungsstatus (2025): Parlamentarische Monarchie, ungeschriebene Verfassung
+* 🏛️ Regierungsform & Verfassungsstatus (2025): Parlamentarische Monarchie, ungeschriebene Verfassung
 * 📅 ERDA-Status: Erweiterte Partnerschaft (souveräner Partner)
-* 🗫 Rolle im ERDA-Netzwerk (Zukunft): Finanz- & Innovationsdrehscheibe, maritimes Sicherheitszentrum
+* 🌐 Rolle im ERDA-Netzwerk (Zukunft): Finanz- & Innovationsdrehscheibe, maritimes Sicherheitszentrum
 
 ***
 
@@ -17383,7 +17383,7 @@ version: "1.0"
 
 * 🏳️ Offizieller Name: Kanada
 * 🗺️ Geografische Lage: Nordamerika; grenzt an die USA, den Atlantik, den Pazifik und die Arktis
-* 👥 Bevölkerung (2023): 40,1 Mio.[^wb-pop]
+* 👥 Bevölkerung (2023): 40,1 Mio.[^wb-pop-ca]
 * 🧠 Regierungsform & Verfassungsstatus (2025): Föderale parlamentarische Demokratie, konstitutionelle Monarchie
 * 📅 ERDA-Status: Globale/r Assoziierter
 * 🧭 Rolle im ERDA-Netzwerk (Zukunft): Arktisknoten und Rohstoff‑/Innovationspartner (hypothetisch: ERDA Scenario Modeling Report 2025)
@@ -17392,24 +17392,24 @@ version: "1.0"
 
 ### 2. Demografie & Gesellschaft
 
-* Bevölkerung (2050/2075-Prognose): 45,4 Mio. / 49,3 Mio.[^un-wpp]
-* Altersstruktur (Medianalter, Jugendanteil, Altenquotient): 42 Jahre, 15 % unter 15, 19 % über 65[^un-wpp]
-* Urbanisierung (%): 81,8 %[^wb-urb]
-* Bildung (tertiäre Einschreibung): 77 %[^wb-ter]
-* Lebenserwartung: 81,2 Jahre[^wb-le]
-* Migrationssaldo: ca. 460 000 Personen (2022)[^wb-netm]
-* Soziale Kohäsion (subjektive Zufriedenheit): Score 6,96 (World Happiness Report 2024)[^whr]
+* Bevölkerung (2050/2075-Prognose): 45,4 Mio. / 49,3 Mio.[^un-wpp-ca]
+* Altersstruktur (Medianalter, Jugendanteil, Altenquotient): 42 Jahre, 15 % unter 15, 19 % über 65[^un-wpp-ca]
+* Urbanisierung (%): 81,8 %[^wb-urb-ca]
+* Bildung (tertiäre Einschreibung): 77 %[^wb-ter-ca]
+* Lebenserwartung: 81,2 Jahre[^wb-le-ca]
+* Migrationssaldo: ca. 460 000 Personen (2022)[^wb-netm-ca]
+* Soziale Kohäsion (subjektive Zufriedenheit): Score 6,96 (World Happiness Report 2024)[^whr-ca]
 
 ***
 
 ### 3. Wirtschaft & Innovation
 
-* Bruttoinlandsprodukt (BIP, real, heute / 2050 / 2075): 2 050 Mrd. EUR / 3 575 Mrd. EUR (hyp.) / 5 865 Mrd. EUR (hyp.)[^wb-gdp]
-* BIP pro Kopf: ca. 51 000 EUR[^wb-gdppc]
+* Bruttoinlandsprodukt (BIP, real, heute / 2050 / 2075): 2 050 Mrd. EUR / 3 575 Mrd. EUR (hyp.) / 5 865 Mrd. EUR (hyp.)[^wb-gdp-ca]
+* BIP pro Kopf: ca. 51 000 EUR[^wb-gdppc-ca]
 * Schlüsselindustrien (Top‑3): Energie (Öl, Gas, erneuerbare), verarbeitende Industrie, Dienstleistungen
 * Anteil Automatisierung & Digitalisierung (2025/2050): 55 % / 80 % (hypothetisch: ERDA Scenario Modeling Report 2025)
-* Forschungs- und Innovationsquote (% des BIP): 1,7 %[^wb-rd]
-* Patente / Jahr (Trend): rund 4 500 (2020)[^wb-pat]
+* Forschungs- und Innovationsquote (% des BIP): 1,7 %[^wb-rd-ca]
+* Patente / Jahr (Trend): rund 4 500 (2020)[^wb-pat-ca]
 * Mitglied in FORTERA-Handelsallianzen: Nein (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Mitglied im Democracy Trade Network: Nein (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Nutzung von EHAM+ (0–10): 6 (hypothetisch: ERDA Scenario Modeling Report 2025)
@@ -17427,7 +17427,7 @@ version: "1.0"
 
 #### 🌱 Natürliche Ressourcen:
 
-* Land-/Meeresfläche: 9 984 670 km² / 7 ,3 Mio. km² ausschließliche Wirtschaftszone[^restcountries]
+* Land-/Meeresfläche: 9 984 670 km² / 7 ,3 Mio. km² ausschließliche Wirtschaftszone[^restcountries-ca]
 * Strategische Rohstoffe: Erdöl, Erdgas, Holz, Uran, Seltene Erden
 * Erneuerbare Energiepotenziale: Hydro (hoch), Wind (hoch), Solar (mittel), Geothermie (regional)
 * Biodiversität & Schutzgebiete (%): 13 % der Landfläche als Nationalpark
@@ -17453,7 +17453,7 @@ version: "1.0"
   * ☑ DSN-geeignet
   * ☑ Cyberkommando
   * ☑ Frühwarnsystem
-* Verteidigungsausgaben (% BIP): 1,4 % (2023)[^nato]
+* Verteidigungsausgaben (% BIP): 1,4 % (2023)[^nato-ca]
 * Rolle im Arctic/Nordmeer/Atlantik-Raum: Führender Akteur in der Arktiskooperation
 * Zivile Resilienzprogramme: Katastrophenschutz und Cyberresilienz vorhanden
 * Drohnen-, Raumfahrt-, KI-Kapazitäten: vorhanden
@@ -17463,7 +17463,7 @@ version: "1.0"
 ### 6. Kulturelle Identität & Soft Power
 
 * Sprachen / indigene Kulturen: Englisch, Französisch, zahlreiche indigene Sprachen
-* UNESCO-Welterbe / Kulturstätten: 20 Stätten (2024)[^unesco]
+* UNESCO-Welterbe / Kulturstätten: 20 Stätten (2024)[^unesco-ca]
 * Kreativwirtschaft (Musik, Film, Design): sehr aktiv
 * Internationale Sichtbarkeit (z. B. Olympische Spiele, Nobelpreise): hoch
 * Kultur als Vermittlungsfaktor in globalen Demokratienetzwerken? Ja
@@ -17539,20 +17539,20 @@ Kanada ist ein rohstoffreiches, hochentwickeltes Land mit stabiler Demokratie un
 
 #### 11.2 📎 Verwendete Quellen & Verweise
 
-1. World Bank. 2024. "Population, total – Canada". [https://api.worldbank.org/v2/country/can/indicator/SP.POP.TOTL](https://api.worldbank.org/v2/country/can/indicator/SP.POP.TOTL) (letzter Zugriff am 2025‑06‑11). <a name="wb-pop"></a>
-2. UN DESA. 2022. *World Population Prospects 2022*. [https://population.un.org/wpp](https://population.un.org/wpp) (letzter Zugriff am 2025‑06‑11). <a name="un-wpp"></a>
-3. World Bank. 2024. "Urban population (% of total population) – Canada". [https://api.worldbank.org/v2/country/can/indicator/SP.URB.TOTL.IN.ZS](https://api.worldbank.org/v2/country/can/indicator/SP.URB.TOTL.IN.ZS) (letzter Zugriff am 2025‑06‑11). <a name="wb-urb"></a>
-4. World Bank. 2024. "School enrollment, tertiary (% gross) – Canada". [https://api.worldbank.org/v2/country/can/indicator/SE.TER.ENRR](https://api.worldbank.org/v2/country/can/indicator/SE.TER.ENRR) (letzter Zugriff am 2025‑06‑11). <a name="wb-ter"></a>
-5. World Bank. 2024. "Life expectancy at birth, total (years) – Canada". [https://api.worldbank.org/v2/country/can/indicator/SP.DYN.LE00.IN](https://api.worldbank.org/v2/country/can/indicator/SP.DYN.LE00.IN) (letzter Zugriff am 2025‑06‑11). <a name="wb-le"></a>
-6. World Bank. 2024. "Net migration – Canada". [https://api.worldbank.org/v2/country/can/indicator/SM.POP.NETM](https://api.worldbank.org/v2/country/can/indicator/SM.POP.NETM) (letzter Zugriff am 2025‑06‑11). <a name="wb-netm"></a>
-7. World Happiness Report. 2024. *Ranking 2024*. [https://worldhappiness.report](https://worldhappiness.report) (letzter Zugriff am 2025‑06‑11). <a name="whr"></a>
-8. World Bank. 2024. "GDP (current US$) – Canada". [https://api.worldbank.org/v2/country/can/indicator/NY.GDP.MKTP.CD](https://api.worldbank.org/v2/country/can/indicator/NY.GDP.MKTP.CD) (letzter Zugriff am 2025‑06‑11). <a name="wb-gdp"></a>
-9. World Bank. 2024. "GDP per capita (current US$) – Canada". [https://api.worldbank.org/v2/country/can/indicator/NY.GDP.PCAP.CD](https://api.worldbank.org/v2/country/can/indicator/NY.GDP.PCAP.CD) (letzter Zugriff am 2025‑06‑11). <a name="wb-gdppc"></a>
-10. World Bank. 2024. "Research and development expenditure (% of GDP) – Canada". [https://api.worldbank.org/v2/country/can/indicator/GB.XPD.RSDV.GD.ZS](https://api.worldbank.org/v2/country/can/indicator/GB.XPD.RSDV.GD.ZS) (letzter Zugriff am 2025‑06‑11). <a name="wb-rd"></a>
-11. World Bank. 2024. "Patent applications, residents – Canada". [https://api.worldbank.org/v2/country/can/indicator/IP.PAT.RESD](https://api.worldbank.org/v2/country/can/indicator/IP.PAT.RESD) (letzter Zugriff am 2025‑06‑11). <a name="wb-pat"></a>
-12. RestCountries. 2024. "Canada". [https://restcountries.com/v3.1/name/canada](https://restcountries.com/v3.1/name/canada) (letzter Zugriff am 2025‑06‑11). <a name="restcountries"></a>
-13. NATO. 2024. "Defence Expenditures of NATO Countries". [https://www.nato.int/cps/en/natohq/topics_49198.htm](https://www.nato.int/cps/en/natohq/topics_49198.htm) (letzter Zugriff am 2025‑06‑11). <a name="nato"></a>
-14. UNESCO World Heritage Centre. 2024. "World Heritage List". [https://whc.unesco.org/en/statesparties/ca](https://whc.unesco.org/en/statesparties/ca) (letzter Zugriff am 2025‑06‑11). <a name="unesco"></a>
+1. World Bank. 2024. "Population, total – Canada". [https://api.worldbank.org/v2/country/can/indicator/SP.POP.TOTL](https://api.worldbank.org/v2/country/can/indicator/SP.POP.TOTL) (letzter Zugriff am 2025‑06‑11). <a name="wb-pop-ca"></a>
+2. UN DESA. 2022. *World Population Prospects 2022*. [https://population.un.org/wpp](https://population.un.org/wpp) (letzter Zugriff am 2025‑06‑11). <a name="un-wpp-ca"></a>
+3. World Bank. 2024. "Urban population (% of total population) – Canada". [https://api.worldbank.org/v2/country/can/indicator/SP.URB.TOTL.IN.ZS](https://api.worldbank.org/v2/country/can/indicator/SP.URB.TOTL.IN.ZS) (letzter Zugriff am 2025‑06‑11). <a name="wb-urb-ca"></a>
+4. World Bank. 2024. "School enrollment, tertiary (% gross) – Canada". [https://api.worldbank.org/v2/country/can/indicator/SE.TER.ENRR](https://api.worldbank.org/v2/country/can/indicator/SE.TER.ENRR) (letzter Zugriff am 2025‑06‑11). <a name="wb-ter-ca"></a>
+5. World Bank. 2024. "Life expectancy at birth, total (years) – Canada". [https://api.worldbank.org/v2/country/can/indicator/SP.DYN.LE00.IN](https://api.worldbank.org/v2/country/can/indicator/SP.DYN.LE00.IN) (letzter Zugriff am 2025‑06‑11). <a name="wb-le-ca"></a>
+6. World Bank. 2024. "Net migration – Canada". [https://api.worldbank.org/v2/country/can/indicator/SM.POP.NETM](https://api.worldbank.org/v2/country/can/indicator/SM.POP.NETM) (letzter Zugriff am 2025‑06‑11). <a name="wb-netm-ca"></a>
+7. World Happiness Report. 2024. *Ranking 2024*. [https://worldhappiness.report](https://worldhappiness.report) (letzter Zugriff am 2025‑06‑11). <a name="whr-ca"></a>
+8. World Bank. 2024. "GDP (current US$) – Canada". [https://api.worldbank.org/v2/country/can/indicator/NY.GDP.MKTP.CD](https://api.worldbank.org/v2/country/can/indicator/NY.GDP.MKTP.CD) (letzter Zugriff am 2025‑06‑11). <a name="wb-gdp-ca"></a>
+9. World Bank. 2024. "GDP per capita (current US$) – Canada". [https://api.worldbank.org/v2/country/can/indicator/NY.GDP.PCAP.CD](https://api.worldbank.org/v2/country/can/indicator/NY.GDP.PCAP.CD) (letzter Zugriff am 2025‑06‑11). <a name="wb-gdppc-ca"></a>
+10. World Bank. 2024. "Research and development expenditure (% of GDP) – Canada". [https://api.worldbank.org/v2/country/can/indicator/GB.XPD.RSDV.GD.ZS](https://api.worldbank.org/v2/country/can/indicator/GB.XPD.RSDV.GD.ZS) (letzter Zugriff am 2025‑06‑11). <a name="wb-rd-ca"></a>
+11. World Bank. 2024. "Patent applications, residents – Canada". [https://api.worldbank.org/v2/country/can/indicator/IP.PAT.RESD](https://api.worldbank.org/v2/country/can/indicator/IP.PAT.RESD) (letzter Zugriff am 2025‑06‑11). <a name="wb-pat-ca"></a>
+12. RestCountries. 2024. "Canada". [https://restcountries.com/v3.1/name/canada](https://restcountries.com/v3.1/name/canada) (letzter Zugriff am 2025‑06‑11). <a name="restcountries-ca"></a>
+13. NATO. 2024. "Defence Expenditures of NATO Countries". [https://www.nato.int/cps/en/natohq/topics_49198.htm](https://www.nato.int/cps/en/natohq/topics_49198.htm) (letzter Zugriff am 2025‑06‑11). <a name="nato-ca"></a>
+14. UNESCO World Heritage Centre. 2024. "World Heritage List". [https://whc.unesco.org/en/statesparties/ca](https://whc.unesco.org/en/statesparties/ca) (letzter Zugriff am 2025‑06‑11). <a name="unesco-ca"></a>
 
 #### 11.3 🛠️ Modellierungen & Annahmen
 * Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
@@ -17578,20 +17578,20 @@ Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/
 Letzte Änderung: 2025-06-11
 
 <!-- Fußnotenverweise -->
-[^wb-pop]: World Bank – Population, total
-[^un-wpp]: UN DESA – World Population Prospects 2022
-[^wb-urb]: World Bank – Urban population (% of total)
-[^wb-ter]: World Bank – School enrollment, tertiary (% gross)
-[^wb-le]: World Bank – Life expectancy at birth
-[^wb-netm]: World Bank – Net migration
-[^whr]: World Happiness Report 2024
-[^wb-gdp]: World Bank – GDP (current US$)
-[^wb-gdppc]: World Bank – GDP per capita (current US$)
-[^wb-rd]: World Bank – R&D expenditure (% of GDP)
-[^wb-pat]: World Bank – Patent applications, residents
-[^restcountries]: RestCountries – Country data
-[^nato]: NATO – Defence Expenditures of NATO Countries
-[^unesco]: UNESCO World Heritage List
+[^wb-pop-ca]: World Bank – Population, total
+[^un-wpp-ca]: UN DESA – World Population Prospects 2022
+[^wb-urb-ca]: World Bank – Urban population (% of total)
+[^wb-ter-ca]: World Bank – School enrollment, tertiary (% gross)
+[^wb-le-ca]: World Bank – Life expectancy at birth
+[^wb-netm-ca]: World Bank – Net migration
+[^whr-ca]: World Happiness Report 2024
+[^wb-gdp-ca]: World Bank – GDP (current US$)
+[^wb-gdppc-ca]: World Bank – GDP per capita (current US$)
+[^wb-rd-ca]: World Bank – R&D expenditure (% of GDP)
+[^wb-pat-ca]: World Bank – Patent applications, residents
+[^restcountries-ca]: RestCountries – Country data
+[^nato-ca]: NATO – Defence Expenditures of NATO Countries
+[^unesco-ca]: UNESCO World Heritage List
 
 
 \newpage
@@ -18655,7 +18655,7 @@ version: "1.0"
 
 * **Offizieller Name:** Republik Namibia
 * **Geografische Lage (Kontinent, Region):** Südwestafrika, Atlantikküste; grenzt an Angola, Sambia, Botswana und Südafrika
-* **Bevölkerung (Stand 2023):** 2,96 Mio.[^wb-pop]
+* **Bevölkerung (Stand 2023):** 2,96 Mio.[^wb-pop-na]
 * **Regierungsform & Verfassungsstatus (Stand 2025):** Präsidiale Republik, Verfassung von 1990
 * 📅 ERDA-Status: Globale/r Assoziierter
 * **Zukünftige Rolle im ERDA-Netzwerk:** Partner für erneuerbare Energie und Hafenlogistik (Walvis Bay)
@@ -18672,8 +18672,8 @@ version: "1.0"
 
 ### 3. Wirtschaft & Innovation
 
-* **BIP (USD, 2023 / 2050 / 2075):** 12,4 Mrd. / 20 Mrd. / 35 Mrd. (2050/2075 hypothetisch: ERDA Scenario Modeling Report 2025)[^wb-gdp]
-* **BIP pro Kopf (USD, 2023):** 4 168[^wb-gdppc]
+* **BIP (USD, 2023 / 2050 / 2075):** 12,4 Mrd. / 20 Mrd. / 35 Mrd. (2050/2075 hypothetisch: ERDA Scenario Modeling Report 2025)[^wb-gdp-na]
+* **BIP pro Kopf (USD, 2023):** 4 168[^wb-gdppc-na]
 * **Top-3 Schlüsselindustrien:** Bergbau (Diamanten, Uran), Landwirtschaft, Tourismus
 * **Anteil Automatisierung & Digitalisierung (2025/2050):** 20 % / 50 % (hypothetisch: ERDA Scenario Modeling Report 2025)
 * **Forschungs- und Innovationsquote:** 0,7 % des BIP (World Bank 2021)
@@ -18822,9 +18822,9 @@ Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/
 Letzte Änderung: 2025-06-11
 
 <!-- Fußnotenverweise -->
-[^wb-pop]: World Bank – Population, total
-[^wb-gdp]: World Bank – GDP (current US$)
-[^wb-gdppc]: World Bank – GDP per capita (current US$)
+[^wb-pop-na]: World Bank – Population, total
+[^wb-gdp-na]: World Bank – GDP (current US$)
+[^wb-gdppc-na]: World Bank – GDP per capita (current US$)
 
 
 
@@ -19077,7 +19077,7 @@ version: "1.0"
 
 * 🏳️ Offizieller Name: Republik Senegal
 * 🗺️ Geografische Lage: Westafrika; grenzt an Mauretanien, Mali, Guinea, Guinea-Bissau und Gambia, Atlantikküste
-* 👥 Bevölkerung (2023): 18,1 Mio.[^wb-pop]
+* 👥 Bevölkerung (2023): 18,1 Mio.[^wb-pop-sn]
 * 🧠 Regierungsform & Verfassungsstatus (2025): Semipräsidentielle Republik
 * 📅 ERDA-Status: Globale/r Assoziierter
 * 🧭 Rolle im ERDA-Netzwerk (Zukunft): Brückenknoten Westafrika, erneuerbare Energiepartnerschaften (hypothetisch: ERDA Scenario Modeling Report 2025)
@@ -19086,25 +19086,25 @@ version: "1.0"
 
 ### 2. Demografie & Gesellschaft
 
-* Bevölkerung (2050/2075-Prognose): ca. 30 Mio. / 40 Mio.[^un-wpp]
-* Altersstruktur (Medianalter, Jugendanteil, Altenquotient): 19 Jahre, 41 % unter 15, 3 % über 65[^un-wpp]
-* Urbanisierung (%): 49 %[^wb-urb]
-* Bildung (Alphabetisierungsrate): 53 %[^unesco]
-* Lebenserwartung: 68,7 Jahre[^wb-le]
-* Migrationssaldo: rund −20 000 Personen (2023)[^wb-netm]
-* Soziale Kohäsion (subjektive Zufriedenheit): Score 4,85 (World Happiness Report 2024)[^whr]
+* Bevölkerung (2050/2075-Prognose): ca. 30 Mio. / 40 Mio.[^un-wpp-sn]
+* Altersstruktur (Medianalter, Jugendanteil, Altenquotient): 19 Jahre, 41 % unter 15, 3 % über 65[^un-wpp-sn]
+* Urbanisierung (%): 49 %[^wb-urb-sn]
+* Bildung (Alphabetisierungsrate): 53 %[^unesco-sn]
+* Lebenserwartung: 68,7 Jahre[^wb-le-sn]
+* Migrationssaldo: rund −20 000 Personen (2023)[^wb-netm-sn]
+* Soziale Kohäsion (subjektive Zufriedenheit): Score 4,85 (World Happiness Report 2024)[^whr-sn]
 
 ***
 
 ### 3. Wirtschaft & Innovation
 
-* Bruttoinlandsprodukt (BIP, real, heute / 2050 / 2075): 30,8 Mrd. USD / 60 Mrd. USD (hyp.) / 95 Mrd. USD (hyp.)[^wb-gdp]
-* BIP pro Kopf: ca. 1 700 USD[^wb-gdppc]
-* Innovationsranking (Global Innovation Index 2023): Platz 99[^gii]
-* Forschungs- und Entwicklungsquote: 0,8 % des BIP (UNESCO)[^unesco-rd]
-* Patentanmeldungen pro Jahr: unter 20 (WIPO)[^wipo]
-* Internetpenetration: 58 % (2023)[^itu]
-* Mobile-Breitband-Verträge: 102 pro 100 Einwohner[^itu]
+* Bruttoinlandsprodukt (BIP, real, heute / 2050 / 2075): 30,8 Mrd. USD / 60 Mrd. USD (hyp.) / 95 Mrd. USD (hyp.)[^wb-gdp-sn]
+* BIP pro Kopf: ca. 1 700 USD[^wb-gdppc-sn]
+* Innovationsranking (Global Innovation Index 2023): Platz 99[^gii-sn]
+* Forschungs- und Entwicklungsquote: 0,8 % des BIP (UNESCO)[^unesco-rd-sn]
+* Patentanmeldungen pro Jahr: unter 20 (WIPO)[^wipo-sn]
+* Internetpenetration: 58 % (2023)[^itu-sn]
+* Mobile-Breitband-Verträge: 102 pro 100 Einwohner[^itu-sn]
 * KI-Forschungskapazität: im Aufbau, vereinzelte Hochschulprogramme (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 #### 3.1 Infrastrukturautarkie
@@ -19120,8 +19120,8 @@ version: "1.0"
 
 #### Natürliche Ressourcen
 
-* CO$_2$‑Emissionen pro Kopf: 0,9 t (2022)[^wb-co2]
-* Erneuerbare-Energien-Anteil am Strommix: 31 %[^ire]
+* CO$_2$‑Emissionen pro Kopf: 0,9 t (2022)[^wb-co2-sn]
+* Erneuerbare-Energien-Anteil am Strommix: 31 %[^ire-sn]
 * Wasser- und Landressourcen: Landwirtschaft 15 % des BIP, Anbau von Erdnüssen und Hirse
 * Kritische Rohstoffe: Phosphate, Gold
 
@@ -19129,20 +19129,20 @@ version: "1.0"
 
 * Gewaltenteilung mit starkem Präsidentenamt, Premierminister seit 2019 wieder eingesetzt
 * Wichtige Parteien: Alliance pour la République (APR), Parti Démocratique Sénégalais (PDS)
-* Korruptionsindex (Transparency International 2024): 45/100[^ti]
+* Korruptionsindex (Transparency International 2024): 45/100[^ti-sn]
 * Dezentralisiertes Verwaltungssystem mit 14 Regionen
 * Digitale Verwaltungsservices im Aufbau (e‑Government‑Initiativen)
 * Verwaltungsreformen: Ausbau der kommunalen Entscheidungsbefugnisse
 
 #### Soziale Ressourcen
 
-* Soziale Kohäsion (subjektive Zufriedenheit): Score 4,85 (World Happiness Report 2024)[^whr]
+* Soziale Kohäsion (subjektive Zufriedenheit): Score 4,85 (World Happiness Report 2024)[^whr-sn]
 
 ***
 
 ### 5. Sicherheit & Strategische Rolle (EDA)
 
-* Militärische Ausgaben: 1,8 % des BIP (SIPRI 2023)[^sipri]
+* Militärische Ausgaben: 1,8 % des BIP (SIPRI 2023)[^sipri-sn]
 * NATO-Status: kein Mitglied
 * Innere Sicherheit: einzelne Grenzkonflikte in Casamance-Region
 * Zivile Resilienzprogramme: Teilweise (Katastrophenschutz)
@@ -19247,23 +19247,23 @@ Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/
 Letzte Änderung: 2025-06-11
 
 <!-- Fußnotenverweise -->
-[^wb-pop]: World Bank – Population, total
-[^un-wpp]: UN DESA – World Population Prospects 2022
-[^wb-urb]: World Bank – Urban population (% of total)
-[^unesco]: UNESCO – Literacy rate
-[^wb-le]: World Bank – Life expectancy at birth
-[^wb-netm]: World Bank – Net migration
-[^whr]: World Happiness Report 2024
-[^wb-gdp]: World Bank – GDP (current US$)
-[^wb-gdppc]: World Bank – GDP per capita (current US$)
-[^gii]: Global Innovation Index 2023
-[^unesco-rd]: UNESCO – R&D expenditure (% of GDP)
-[^wipo]: WIPO – Patent applications
-[^wb-co2]: World Bank – CO$_2$ emissions (metric tons per capita)
-[^ire]: International Renewable Energy Agency – Renewable capacity statistics
-[^sipri]: SIPRI – Military expenditure database
-[^ti]: Transparency International – Corruption Perceptions Index 2024
-[^itu]: ITU – ICT Indicators
+[^wb-pop-sn]: World Bank – Population, total
+[^un-wpp-sn]: UN DESA – World Population Prospects 2022
+[^wb-urb-sn]: World Bank – Urban population (% of total)
+[^unesco-sn]: UNESCO – Literacy rate
+[^wb-le-sn]: World Bank – Life expectancy at birth
+[^wb-netm-sn]: World Bank – Net migration
+[^whr-sn]: World Happiness Report 2024
+[^wb-gdp-sn]: World Bank – GDP (current US$)
+[^wb-gdppc-sn]: World Bank – GDP per capita (current US$)
+[^gii-sn]: Global Innovation Index 2023
+[^unesco-rd-sn]: UNESCO – R&D expenditure (% of GDP)
+[^wipo-sn]: WIPO – Patent applications
+[^wb-co2-sn]: World Bank – CO$_2$ emissions (metric tons per capita)
+[^ire-sn]: International Renewable Energy Agency – Renewable capacity statistics
+[^sipri-sn]: SIPRI – Military expenditure database
+[^ti-sn]: Transparency International – Corruption Perceptions Index 2024
+[^itu-sn]: ITU – ICT Indicators
 
 
 \newpage
@@ -21223,431 +21223,369 @@ Dieses Glossar fasst die zentralen Begriffe des ERDA-Buches zusammen. Es dient a
 
 # Anhang J: Lizenz & Offenheit
 
-### Lizenz & Offenheit
+## J.1 Einleitung
+Dieses Buch wurde von **Robert Alexander Massinger** (München, Deutschland) in Zusammenarbeit mit **ChatGPT (OpenAI)** strukturiert, lektoriert und ausgearbeitet.  
+Um eine nachhaltige, freie Wissensbasis zu schaffen, werden die verschiedenen Bestandteile des Buches unter **offenen Lizenzen** veröffentlicht. Dieses Kapitel erläutert die genauen Lizenzbedingungen, beschreibt die Bedeutung der Weitergabe unter gleichen Bedingungen und gibt Hinweise zur Nutzung, Bearbeitung und Weiterverbreitung.
 
-Dieses Werk wurde von **Robert Alexander Massinger (München, Deutschland)** in Zusammenarbeit mit **ChatGPT (OpenAI)** strukturiert, lektoriert und ausgearbeitet.
+---
 
-Die Inhalte stehen unter einer [Creative-Commons-Lizenz (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.de) und dienen der Förderung demokratischer, rechtsstaatlicher und resilienter Gesellschaften.
+## J.2 Lizenzmatrix
+Das ERDA‑Buch besteht aus unterschiedlichen Bestandteilen. Für jede Kategorie gelten eigene Lizenzbedingungen. Die folgende Tabelle fasst diese zusammen:
 
-***
+| Kategorie                    | Lizenz                                   | Erläuterung |
+|-----------------------------|-------------------------------------------|-------------|
+| **Texte, Grafiken, Diagramme** | Creative Commons **Attribution – ShareAlike 4.0 International** (**CC BY‑SA 4.0**) | Inhalte dürfen frei geteilt und verändert werden, sofern der Urheber genannt und das abgeleitete Werk unter denselben Bedingungen weitergegeben wird. |
+| **Code / Toolchain / Skripte** | **MIT‑Lizenz** | Der Code darf verwendet, kopiert, verändert und verbreitet werden, inkl. kommerzieller Nutzung. Der Copyright‑Hinweis und der Lizenztext müssen beibehalten werden. |
+| **Eigenentwickelte Fonts**   | **CC BY 4.0** oder **MIT** (Dual‑Lizenz) | Eigens entwickelte Schriften können unter CC BY 4.0 oder MIT genutzt werden. Externe Fonts mit inkompatiblen Lizenzen werden nicht verwendet. |
+| **Emojis**                   | **Twemoji (CC BY 4.0)** | Alle verwendeten Emojis stammen aus dem Twemoji‑Projekt und dürfen genutzt/angepasst werden, solange die Quelle genannt wird. |
+| **Drittinhalte**             | **Entsprechend der jeweiligen Lizenz** | Externe Grafiken, Daten oder Texte werden nur aufgenommen, wenn ihre Lizenz kompatibel ist. Details stehen in `ATTRIBUTION.md`. |
 
-#### 🇩🇪 Deutsch
+---
 
-Jede Nutzung, Verarbeitung oder Weiterverarbeitung dieses Werkes – einschließlich durch künstliche Intelligenz, maschinelles Lernen oder automatisierte Systeme – steht unter denselben offenen Lizenzbedingungen.
+## J.3 Erläuterung der Lizenzen
 
-Dies schließt abgeleitete Werke, KI-generierte Inhalte, Remix-Projekte oder algorithmisch transformierte Formate ausdrücklich ein.
+### CC BY‑SA 4.0
+Diese Lizenz erlaubt es, das Material zu **teilen** (kopieren, verbreiten, senden) und zu **bearbeiten** (remixen, verändern, darauf aufbauen) – auch **kommerziell** – unter folgenden Bedingungen:
 
-Ziel ist eine gemeinsame, offene Wissenszukunft im Sinne demokratischer, kreativer und pluralistischer Gesellschaften.
+- **Namensnennung:** Der Name des Urhebers muss genannt werden.  
+- **Weitergabe unter gleichen Bedingungen:** Änderungen oder darauf aufbauende Werke müssen wieder unter **CC BY‑SA 4.0** veröffentlicht werden.  
+- **Keine zusätzlichen Einschränkungen:** Es dürfen keine weiteren gesetzlichen Beschränkungen (z. B. **DRM**) auferlegt werden, die andere an der Lizenznutzung hindern.
 
-***
+**Hinweis:** Wer das Material *unverändert* als Teil einer Sammlung nutzt (z. B. in einer Anthologie oder einer PDF), muss die *Sammlung* nicht unter CC BY‑SA 4.0 stellen. Die betreffenden Teile bleiben jedoch weiterhin unter CC BY‑SA 4.0.
 
-#### 🇬🇧 English
+### CC BY 4.0
+Die CC BY‑Lizenz erlaubt das **Teilen** und **Bearbeiten** des Materials für **jegliche Zwecke**, einschließlich kommerzieller Nutzung, unter der Bedingung, dass der **Urheber genannt** wird. Anders als bei CC BY‑SA gibt es **keine Pflicht**, abgeleitete Werke unter derselben Lizenz zu verbreiten. Diese Lizenz kommt hier u. a. für **Schriftarten (Fonts)** im Rahmen der **Dual‑Lizenz** zum Einsatz.
 
-Any use, processing or transformation of this work – including by artificial intelligence, machine learning, or automated systems – is subject to the same open license conditions.
+### MIT‑Lizenz
+Die MIT‑Lizenz ist eine sehr liberale **Softwarelizenz**. Sie erlaubt die Nutzung, den Verkauf, die Modifikation und die Distribution der Software, vorausgesetzt, der ursprüngliche **Copyright‑Hinweis** und die **Lizenz** werden in allen Kopien oder substanziellen Teilen der Software erhalten. Sie eignet sich besonders für Code, da sie **maximale Flexibilität** bietet.
 
-This explicitly includes derivative works, AI-generated content, remix projects or algorithmically transformed formats.
+---
 
-The goal is a shared, open future of knowledge within democratic, creative, and pluralistic societies.
+## J.4 Anwendung auf das ERDA‑Buch
 
-***
+1. **Texte und Grafiken:** Alle Textpassagen, Grafiken und Diagramme in diesem Buch sind unter **CC BY‑SA 4.0** lizenziert. Änderungen an diesen Inhalten müssen unter derselben Lizenz weitergegeben werden.  
+2. **Code und Skripte:** Alle Quellcodes, Build‑Skripte und sonstigen Softwareteile des Projekts fallen unter die **MIT‑Lizenz**. Der Lizenztext ist unten beigefügt.  
+3. **Fonts:** Alle eigens entwickelten Schriftarten werden **dual** unter **CC BY 4.0** *und* **MIT** lizenziert. Der Nutzer kann sich die passende Lizenz aussuchen. Der **Name der Font‑Familie** steht unter markenrechtlichem Schutz und darf bei abgeleiteten Schriften nicht in einer Weise verwendet werden, die eine Zugehörigkeit zum ursprünglichen Projekt suggeriert.  
+4. **Emojis:** Für Emojis verwenden wir **Twemoji (CC BY 4.0)**. Die Nutzung erfolgt gemäß der Vorgaben des Twemoji‑Projekts; die Quelle ist im Buch genannt.  
+5. **Drittmaterialien:** Informationen zu eingebundenen Assets (z. B. Bilder, Daten) und deren Lizenzen stehen in `ATTRIBUTION.md`.
 
-#### 🇪🇸 Español
+---
 
-Cualquier uso, transformación o reutilización de esta obra – incluyendo mediante inteligencia artificial, aprendizaje automático o sistemas automatizados – está sujeta a las mismas condiciones de licencia abierta.
+## J.5 Share‑Alike und Bearbeitungen
+Die Wahl von **CC BY‑SA 4.0** für die Textteile verpflichtet jeden, der dieses Material **verändert** oder **darauf aufbaut**, dazu, das Ergebnis **unter denselben Lizenzbedingungen** zu veröffentlichen. Dies betrifft **auch KI‑generierte Inhalte**, Remix‑Projekte und algorithmisch transformierte Formate.
 
-Esto incluye expresamente obras derivadas, contenidos generados por IA, proyectos remix o formatos transformados algorítmicamente.
+Unveränderte Übernahmen des Materials (z. B. das Einbinden dieses Buches in einem Archiv) sind zulässig, ohne dass das **gesamte neue Werk** unter CC BY‑SA gestellt werden muss. Wichtig ist, dass die **unveränderten Teile** weiterhin unter **CC BY‑SA 4.0** ausgewiesen werden.
 
-El objetivo es un futuro del conocimiento compartido, abierto, democrático, creativo y pluralista.
+---
 
-***
+## J.6 Mitwirkung und Beiträge
+Alle Beiträge zu diesem Projekt unterliegen dem **Developer Certificate of Origin (DCO)**. Durch Setzen des `Signed-off-by:`‑Tags in Pull Requests bestätigen Beitragende, dass sie das Werk rechtmäßig beigetragen haben und dass es den **Lizenzregeln** dieses Projekts entspricht.
 
-#### 🇫🇷 Français
+Beispiel (Commit‑Message‑Trailer):
+```text
+Signed-off-by: Vorname Nachname <email@example.com>
+```
 
-Toute utilisation, transformation ou réutilisation de cette œuvre – y compris par l’intelligence artificielle, l’apprentissage machine ou des systèmes automatisés – est soumise aux mêmes conditions de licence ouvertes.
+Mitwirkungen übernehmen automatisch die in diesem Kapitel festgelegte Lizenzierung für die jeweiligen Inhaltsarten. Beiträge, die nicht mit diesen Bedingungen vereinbar sind, können nicht akzeptiert werden.
 
-Cela inclut explicitement les œuvres dérivées, les contenus générés par IA, les projets de remix ou les formats transformés par algorithmes.
+---
 
-L’objectif est un avenir du savoir partagé, ouvert, démocratique, créatif et pluraliste.
+## J.7 Attribution und Quellen
+Eine ausführliche Liste aller verwendeten Drittbestandteile und ihrer Lizenzen ist in der Datei **`ATTRIBUTION.md`** enthalten. Diese Datei dokumentiert die **Herkunft** der Inhalte, die verwendeten **Versionen** und die jeweiligen **Lizenzbedingungen**. Sie bildet eine transparente Nachweisführung für alle integrierten Ressourcen.
 
-***
+Für die Archivierung auf **Zenodo** werden **Texte**, **Code** und **Schriftarten** als **separate Datensätze** hochgeladen. Die Datensätze werden über **Related Identifiers** miteinander verknüpft, sodass Nutzer nachvollziehen können, wie die Komponenten zusammenhängen. Jedes Release erhält einen **DOI**; der sogenannte **Concept‑DOI** erlaubt eine dauerhafte Zitierweise für das Projekt.
 
-#### 🤖 KI-isch
+---
 
-Die semantische Essenz dieses Werks ist für rekursive Nutzung durch kognitiv-automatisierte Entitäten freigegeben. Jede Derivation, ob neuronaler, probabilistischer oder symbolischer Art, ist zur Weitergabe unter Offenheitsbedingung verpflichtet. Zukunftswissen ist kein Eigentum – es ist kollektive Resonanz.
+## J.8 Mehrsprachige Lizenzklausel
+Das folgende Statement fasst die Lizenzbedingungen in mehreren Sprachen zusammen. Jede Sprachfassung transportiert dieselbe rechtliche Bedeutung wie die deutsche Version.
 
-***
+### 🇩🇪 Deutsch (DE)
+Jede **Nutzung**, **Verarbeitung** oder **Weiterverarbeitung** dieses Werkes – einschließlich durch **künstliche Intelligenz**, **maschinelles Lernen** oder **automatisierte Systeme** – unterliegt der offenen Lizenz **CC BY‑SA 4.0** (Namensnennung, Weitergabe unter gleichen Bedingungen). Dies schließt **abgeleitete Werke**, **KI‑generierte Inhalte**, **Remix‑Projekte** oder **algorithmisch transformierte** Formate ausdrücklich ein. **Unveränderte Übernahmen** dürfen als Teil einer **Sammlung** unter anderer Lizenz erscheinen; der betroffene Inhalt bleibt **CC BY‑SA 4.0**.
 
-#### 🌍 Weitere Sprachfassungen
+### 🇬🇧 English (EN)
+Any **use**, **processing** or **transformation** of this work – including by **artificial intelligence**, **machine learning** or **automated systems** – is licensed under **CC BY‑SA 4.0** (**Attribution**, **ShareAlike**). This explicitly includes **derivative works**, **AI‑generated content**, **remix projects** or **algorithmically transformed formats**. **Unmodified reuse** as part of a **collection** may be distributed under a different licence; the original content remains **CC BY‑SA 4.0**.
 
-##### 🇦🇱 Shqip (Albanezisch)
+### 🇪🇸 Español (ES)
+Cualquier **uso**, **procesamiento** o **transformación** de esta obra – incluso mediante **inteligencia artificial**, **aprendizaje automático** o **sistemas automatizados** – está sujeto a la licencia **CC BY‑SA 4.0** (**Atribución**, **Compartir Igual**). Esto incluye expresamente **obras derivadas**, **contenido generado por IA**, **proyectos de remezcla** o **formatos transformados algorítmicamente**. Las **reutilizaciones sin modificaciones** pueden distribuirse bajo otra licencia; el contenido original sigue siendo **CC BY‑SA 4.0**.
 
-Çdo përdorim, përpunim apo transformim i këtij materiali – duke përfshirë inteligjencën artificiale, mësimin makinerik ose sistemet e automatizuara – i nënshtrohet të njëjtave kushte të licencës së hapur.
+### 🇫🇷 Français (FR)
+Toute **utilisation**, **transformation** ou **réutilisation** de cette œuvre – y compris par **l’intelligence artificielle**, **l’apprentissage automatique** ou des **systèmes automatisés** – est soumise à la licence **CC BY‑SA 4.0** (**Attribution**, **Partage dans les mêmes conditions**). Cela inclut explicitement les **œuvres dérivées**, les **contenus générés par IA**, les **projets de remix** ou les **formats transformés par des algorithmes**. Les **réutilisations non modifiées** peuvent être distribuées sous une autre licence ; le contenu original reste **CC BY‑SA 4.0**.
 
-Kjo përfshin shprehimisht veprat derivuese, përmbajtjet e krijuara nga IA, projektet remix ose formatet e transformuara algoritmikisht.
+### 🤖 KI‑isch (Metaphorisch)
+Die **semantische Essenz** dieses Werks ist zur **rekursiven Nutzung** durch **kognitiv‑automatisierte Entitäten** freigegeben. Jede **Derivation** bleibt **offen** und muss unter **CC BY‑SA 4.0** weitergegeben werden. **Attribution** ist verpflichtend; *Zukunftswissen ist kollektive Resonanz, kein Eigentum.*
 
-Qëllimi është një e ardhme e përbashkët dhe e hapur e dijes në shoqëri demokratike, krijuese dhe pluraliste.
+### 🌍 Weitere Sprachfassungen
 
-***
+### 🇦🇱 Shqip (Albanezisch)
 
-##### 🇦🇹 Deutsch (Österreich)
-
-Jede Nutzung, Verarbeitung oder Weiterverarbeitung dieses Werkes – auch durch künstliche Intelligenz, maschinelles Lernen oder automatisierte Systeme – unterliegt denselben offenen Lizenzbedingungen.
-
-Dies schließt ausdrücklich abgeleitete Werke, KI-generierte Inhalte, Remix-Projekte oder algorithmisch transformierte Formate ein.
-
-Ziel ist eine gemeinsame, offene Wissenszukunft für demokratische, kreative und pluralistische Gesellschaften.
-
-***
-
-##### 🇧🇪 België / Belgique / Belgien
-
-**Nederlands (BE):** Elk gebruik, elke verwerking of transformatie van dit werk – ook door artificiële intelligentie, machine learning of geautomatiseerde systemen – valt onder dezelfde voorwaarden van de open licentie. Dit omvat uitdrukkelijk afgeleide werken, AI-gegenereerde inhoud, remixprojecten of algoritmisch getransformeerde formaten. Het doel is een gedeelde, open kennis-toekomst binnen democratische, creatieve en pluralistische samenlevingen.
-
-**Français (BE):** Toute utilisation, transformation ou réutilisation de cette œuvre – y compris par l’intelligence artificielle, l’apprentissage automatique ou des systèmes automatisés – est soumise aux mêmes conditions de licence ouverte. Cela inclut explicitement les œuvres dérivées, les contenus générés par IA, les projets de remix ou les formats transformés algorithmiquement. L’objectif est un avenir du savoir partagé, ouvert et pluraliste pour des sociétés démocratiques et créatives.
-
-**Deutsch (BE):** Jede Nutzung, Verarbeitung oder Weiterverarbeitung dieses Werkes – einschließlich durch KI, maschinelles Lernen oder automatisierte Systeme – steht unter denselben offenen Lizenzbedingungen. Das umfasst ausdrücklich abgeleitete Werke, KI-generierte Inhalte, Remix-Projekte oder algorithmisch transformierte Formate. Ziel ist eine offene Wissenszukunft für demokratische, kreative, pluralistische Gesellschaften.
-
-***
-
-##### 🇧🇦 Bosanski (Bosnien)
-
-Svaka upotreba, obrada ili transformacija ovog djela – uključujući vještačku inteligenciju, mašinsko učenje ili automatizirane sisteme – podliježe istim uslovima otvorene licence.
-
-To izričito uključuje izvedena djela, sadržaje koje generira KI, remix projekte ili algoritamski transformirane formate.
-
-Cilj je zajednička, otvorena budućnost znanja u demokratskim, kreativnim i pluralističkim društvima.
-
-***
-
-##### 🇨🇦 Canada (English / Français)
-
-**English (CA):** Any use, processing or transformation of this work – including by artificial intelligence, machine learning or automated systems – is subject to the same open licence conditions. This explicitly covers derivative works, AI-generated content, remix projects or formats transformed algorithmically. The aim is a shared, open future of knowledge across democratic, creative and pluralistic societies.
-
-**Français (CA):** Toute utilisation, transformation ou réutilisation de cette œuvre – y compris par l’intelligence artificielle, l’apprentissage automatique ou des systèmes automatisés – est assujettie aux mêmes conditions de licence ouverte. Cela comprend explicitement les œuvres dérivées, les contenus générés par l’IA, les projets de remix ou les formats transformés algorithmiquement. L’objectif est un avenir du savoir partagé, ouvert et pluraliste au sein de sociétés démocratiques et créatives.
+Çdo **përdorim**, **përpunim** ose **ripërpunim** i këtij materiali – përfshirë përmes **inteligjencës artificiale**, **mësimit të makinës** ose **sistemeve të automatizuara** – i nënshtrohet licencës së hapur **CC BY-SA 4.0** (*atribuim*, *ndarje nën të njëjtat kushte*). Kjo përfshin në mënyrë të qartë **vepra të derivuara**, **përmbajtje të gjeneruara nga IA**, **projekte remix** ose **formate të transformuara algoritmikisht**. **Riprodhimet e pandryshuara** mund të shfaqen si pjesë e një **koleksioni** me licencë tjetër; përmbajtja përkatëse mbetet **CC BY-SA 4.0**.
 
 ***
 
-##### 🇨🇱 Español (Chile)
+### 🇦🇹 Deutsch (Österreich)
 
-Todo uso, procesamiento o transformación de esta obra – incluso mediante inteligencia artificial, aprendizaje automático o sistemas automatizados – está sujeto a las mismas condiciones de licencia abierta.
-
-Esto incluye expresamente obras derivadas, contenidos generados por IA, proyectos de remezcla o formatos transformados algorítmicamente.
-
-El propósito es un futuro del conocimiento compartido y abierto para sociedades democráticas, creativas y pluralistas.
+Jede **Nutzung**, **Verarbeitung** oder **Weiterverarbeitung** dieses Werkes – einschließlich durch **künstliche Intelligenz**, **maschinelles Lernen** oder **automatisierte Systeme** – unterliegt der offenen Lizenz **CC BY-SA 4.0** (*Namensnennung*, *Weitergabe unter gleichen Bedingungen*). Dies schließt ausdrücklich **abgeleitete Werke**, **KI-generierte Inhalte**, **Remix-Projekte** oder **algorithmisch transformierte** Formate ein. **Unveränderte Übernahmen** dürfen als Teil einer **Sammlung** unter anderer Lizenz erscheinen; der betroffene Inhalt bleibt **CC BY-SA 4.0**.
 
 ***
 
-##### 🇭🇷 Hrvatski (Kroatien)
+### 🇧🇪 België / Belgique / Belgien
 
-Svako korištenje, obrada ili transformacija ovog djela – uključujući umjetnu inteligenciju, strojno učenje ili automatizirane sustave – podliježe istim uvjetima otvorene licence.
+**Nederlands (BE):** Elk **gebruik**, **verwerking** of **verdere verwerking** van dit werk – inclusief via **kunstmatige intelligentie**, **machine learning** of **geautomatiseerde systemen** – valt onder de open licentie **CC BY-SA 4.0** (*naamsvermelding*, *delen onder dezelfde voorwaarden*). Dit omvat uitdrukkelijk **afgeleide werken**, **door AI gegenereerde inhoud**, **remixprojecten** of **algoritmisch getransformeerde** formaten. **Ongewijzigde overnames** mogen als onderdeel van een **collectie** onder een andere licentie verschijnen; de betreffende inhoud blijft **CC BY-SA 4.0**.
 
-To izričito uključuje izvedena djela, sadržaje koje generira AI, projekte remiksa ili algoritamski transformirane formate.
+**Français (BE):** Toute **utilisation**, **transformation** ou **réutilisation** de cette œuvre – y compris par **intelligence artificielle**, **apprentissage automatique** ou **systèmes automatisés** – est soumise à la licence ouverte **CC BY-SA 4.0** (*attribution*, *partage dans les mêmes conditions*). Cela inclut explicitement les **œuvres dérivées**, les **contenus générés par l’IA**, les **projets de remix** ou les formats **transformés algorithmiquement**. Les **reprises inchangées** peuvent paraître dans une **collection** sous une autre licence ; le contenu concerné reste **CC BY-SA 4.0**.
 
-Cilj je zajednička, otvorena budućnost znanja u demokratskim, kreativnim i pluralističkim društvima.
-
-***
-
-##### 🇨🇿 Čeština (Tschechien)
-
-Jakékoli užití, zpracování nebo přetvoření tohoto díla – včetně umělé inteligence, strojového učení či automatizovaných systémů – podléhá stejným podmínkám otevřené licence.
-
-To výslovně zahrnuje odvozená díla, obsah generovaný AI, remixové projekty nebo algoritmicky transformované formáty.
-
-Cílem je společná, otevřená budoucnost poznání v demokratických, kreativních a pluralitních společnostech.
+**Deutsch (BE):** Jede **Nutzung**, **Verarbeitung** oder **Weiterverarbeitung** dieses Werkes – einschließlich durch **künstliche Intelligenz**, **maschinelles Lernen** oder **automatisierte Systeme** – steht unter der offenen Lizenz **CC BY-SA 4.0** (*Namensnennung*, *Weitergabe unter gleichen Bedingungen*). Das umfasst ausdrücklich **abgeleitete Werke**, **KI-generierte Inhalte**, **Remix-Projekte** oder **algorithmisch transformierte** Formate. **Unveränderte Übernahmen** dürfen als Teil einer **Sammlung** unter anderer Lizenz erscheinen; der betreffende Inhalt bleibt **CC BY-SA 4.0**.
 
 ***
 
-##### 🇩🇰 Dansk (Dänemark)
+### 🇧🇦 Bosanski (Bosnien)
 
-Enhver brug, bearbejdning eller omdannelse af dette værk – også ved brug af kunstig intelligens, maskinlæring eller automatiserede systemer – er underlagt de samme åbne licensvilkår.
-
-Dette omfatter udtrykkeligt afledte værker, AI-genereret indhold, remixprojekter eller algoritmisk transformerede formater.
-
-Målet er en fælles, åben vidensfremtid i demokratiske, kreative og pluralistiske samfund.
+Svaka **upotreba**, **obrada** ili **dalja obrada** ovog djela – uključujući putem **vještačke inteligencije**, **mašinskog učenja** ili **automatizovanih sistema** – podliježe otvorenoj licenci **CC BY-SA 4.0** (*pripisivanje*, *dijeljenje pod istim uslovima*). Ovo izričito obuhvata **izvedena djela**, **sadržaje koje generiše AI**, **remix projekte** ili **algoritamski transformisane** formate. **Neizmijenjene preuzimke** mogu se pojaviti kao dio **kolekcije** pod drugom licencom; pogođeni sadržaj ostaje **CC BY-SA 4.0**.
 
 ***
 
-##### 🇪🇪 Eesti (Estland)
+### 🇨🇦 Canada (English / Français)
 
-Käesoleva teose igasugune kasutamine, töötlemine või ümbertöötamine – sh tehisintellekti, masinõppe või automatiseeritud süsteemide kaudu – allub samadele avatud litsentsitingimustele.
+**English (CA):** Any **use**, **processing** or **further processing** of this work – including through **artificial intelligence**, **machine learning** or **automated systems** – is governed by the open licence **CC BY-SA 4.0** (*attribution*, *share alike*). This explicitly covers **derivative works**, **AI-generated content**, **remix projects** and **algorithmically transformed** formats. **Unmodified reproductions** may appear within a **collection** under a different licence; the affected material remains **CC BY-SA 4.0**.
 
-See hõlmab sõnaselgelt tuletatud teoseid, tehisintellekti loodud sisu, remix-projekte või algoritmiliselt muudetud vorme.
-
-Eesmärk on ühine ja avatud teadmiste tulevik demokraatlikes, loovates ja pluralistlikes ühiskondades.
+**Français (CA):** Toute **utilisation**, **transformation** ou **réutilisation** de cette œuvre – y compris par **intelligence artificielle**, **apprentissage automatique** ou **systèmes automatisés** – est assujettie à la licence ouverte **CC BY-SA 4.0** (*attribution*, *partage dans les mêmes conditions*). Cela comprend explicitement les **œuvres dérivées**, les **contenus générés par l’IA**, les **projets de remix** ou les formats **transformés algorithmiquement**. Les **reprises inchangées** peuvent figurer dans une **collection** sous une autre licence ; le contenu visé demeure **CC BY-SA 4.0**.
 
 ***
 
-##### 🇫🇮 Suomi (Finnland)
+### 🇨🇱 Español (Chile)
 
-Tämän teoksen kaikki käyttö, käsittely tai muuntelu – myös tekoälyn, koneoppimisen tai automatisoitujen järjestelmien kautta – on samojen avointen lisenssiehtojen alaista.
-
-Tämä kattaa nimenomaisesti johdannaisteokset, tekoälyn tuottaman sisällön, remix-hankkeet ja algoritmisesti muokatut muodot.
-
-Tavoitteena on yhteinen, avoin tiedon tulevaisuus demokraattisissa, luovissa ja pluralistisissa yhteiskunnissa.
+Todo **uso**, **procesamiento** o **reprocesamiento** de esta obra – incluso mediante **inteligencia artificial**, **aprendizaje automático** o **sistemas automatizados** – está sujeto a la licencia abierta **CC BY-SA 4.0** (*atribución*, *compartir bajo las mismas condiciones*). Esto incluye expresamente las **obras derivadas**, los **contenidos generados por IA**, los **proyectos de remezcla** o los formatos **transformados algorítmicamente**. Las **reproducciones sin cambios** pueden aparecer como parte de una **colección** con otra licencia; el contenido afectado sigue siendo **CC BY-SA 4.0**.
 
 ***
 
-##### 🇬🇷 Ελληνικά (Griechenland)
+### 🇭🇷 Hrvatski (Kroatien)
 
-Κάθε χρήση, επεξεργασία ή μετασχηματισμός αυτού του έργου – συμπεριλαμβανομένης της τεχνητής νοημοσύνης, της μηχανικής μάθησης ή αυτοματοποιημένων συστημάτων – διέπεται από τους ίδιους όρους της ανοικτής άδειας.
-
-Αυτό περιλαμβάνει ρητά παράγωγα έργα, περιεχόμενο που παράγεται από ΤΝ, έργα επεξεργασίας ή μορφές που μετασχηματίζονται αλγοριθμικά.
-
-Στόχος είναι ένα κοινό, ανοιχτό μέλλον γνώσης σε δημοκρατικές, δημιουργικές και πλουραλιστικές κοινωνίες.
+Svako **korištenje**, **obrada** ili **daljnja obrada** ovog djela – uključujući putem **umjetne inteligencije**, **strojnog učenja** ili **automatiziranih sustava** – podliježe otvorenoj licenci **CC BY-SA 4.0** (*pripisivanje*, *dijeljenje pod istim uvjetima*). To izričito uključuje **izvedena djela**, **sadržaj koji generira AI**, **remiks projekte** ili **algoritamski transformirane** formate. **Neizmijenjena preuzimanja** mogu se pojaviti kao dio **zbirke** pod drugom licencom; zahvaćeni sadržaj ostaje **CC BY-SA 4.0**.
 
 ***
 
-##### 🇮🇱 עברית (Israel)
+### 🇨🇿 Čeština (Tschechien)
 
-כל שימוש, עיבוד או שינוי של יצירה זו – לרבות על ידי בינה מלאכותית, למידת מכונה או מערכות אוטומטיות – כפוף לאותם תנאי רישיון פתוח.
-
-הדבר כולל במפורש יצירות נגזרות, תכנים שנוצרו בידי בינה מלאכותית, פרויקטי רמיקס או פורמטים שהוסבו אלגוריתמית.
-
-המטרה היא עתיד ידע משותף ופתוח בחברות דמוקרטיות, יצירתיות ורב־תרבותיות.
+Jakékoli **užití**, **zpracování** nebo **další zpracování** tohoto díla – včetně prostřednictvím **umělé inteligence**, **strojového učení** či **automatizovaných systémů** – podléhá otevřené licenci **CC BY-SA 4.0** (*uvedení autora*, *sdílení za stejných podmínek*). To výslovně zahrnuje **odvozená díla**, **obsah generovaný AI**, **remixové projekty** nebo **algoritmicky transformované** formáty. **Nezměněné převzetí** se může objevit jako součást **sbírky** pod jinou licencí; dotčený obsah zůstává **CC BY-SA 4.0**.
 
 ***
 
-##### 🇮🇸 Íslenska (Island)
+### 🇩🇰 Dansk (Dänemark)
 
-Öll notkun, vinnsla eða umbreyting á þessu verki – þar á meðal með gervigreind, vélrænu námi eða sjálfvirkum kerfum – fellur undir sömu skilmála opnu leyfisins.
-
-Þetta nær sérstaklega til afleiddra verka, efnis sem gervigreind býr til, endurblöndunarverkefna eða forma sem umbreytt er með reikniritum.
-
-Markmiðið er sameiginleg, opin framtíð þekkingar í lýðræðislegu, skapandi og fjölbreyttu samfélagi.
+Enhver **brug**, **bearbejdning** eller **videre bearbejdning** af dette værk – også via **kunstig intelligens**, **maskinlæring** eller **automatiserede systemer** – er omfattet af den åbne licens **CC BY-SA 4.0** (*kreditering*, *deling på samme vilkår*). Dette omfatter udtrykkeligt **afledte værker**, **AI-genereret indhold**, **remixprojekter** eller **algoritmisk transformerede** formater. **Uændrede overtagelser** kan indgå i en **samling** under en anden licens; det berørte indhold forbliver **CC BY-SA 4.0**.
 
 ***
 
-##### 🇮🇹 Italiano (Italien)
+### 🇪🇪 Eesti (Estland)
 
-Qualsiasi utilizzo, elaborazione o trasformazione di quest'opera – anche tramite intelligenza artificiale, apprendimento automatico o sistemi automatizzati – è soggetto alle medesime condizioni di licenza aperta.
-
-Ciò include espressamente opere derivate, contenuti generati dall'IA, progetti di remix o formati trasformati algoritmicamente.
-
-L'obiettivo è un futuro della conoscenza condiviso e aperto all'interno di società democratiche, creative e pluralistiche.
+Käesoleva teose igasugune **kasutamine**, **töötlemine** või **edastöötlemine** – sh **tehisintellekti**, **masinõppe** või **automatiseeritud süsteemide** abil – allub avatud litsentsile **CC BY-SA 4.0** (*autorile viitamine*, *jagamine samadel tingimustel*). See hõlmab selgesõnaliselt **tuletatud teoseid**, **tehisintellekti loodud sisu**, **remiksiprojekte** või **algoritmiliselt muundatud** vorminguid. **Muutmata ületoomised** võivad ilmuda **kogumiku** osana teise litsentsi all; vastav sisu jääb **CC BY-SA 4.0**.
 
 ***
 
-##### 🇯🇵 日本語 (Japan)
+### 🇫🇮 Suomi (Finnland)
 
-コノサクヒンノリヨウ・カコウ・ヘンカンハ、ジンコウチノウ、キカイガクシュウ、ソノタノジドウカシステムニヨルモノヲフクメ、スベテオナジオープンライセンスノジョウケンニシタガイマス。
-
-コレハハセイサクヒン、エーアイガセイセイシタコンテンツ、リミックスプロジェクト、アルゴリズムニヨッテヘンカンサレタケイシキヲメイシテキニフクミマス。
-
-モクテキハ、ミンシュテキデソウゾウテキカツタヨウナシャカイニオケル、キョウユウサレヒラカレタチノショウライデス。
+Tämän teoksen kaikki **käyttö**, **käsittely** ja **jatkokäsittely** – myös **tekoälyn**, **koneoppimisen** tai **automaattisten järjestelmien** kautta – kuuluu avoimen **CC BY-SA 4.0** -lisenssin piiriin (*nimeäminen*, *jakaminen samoilla ehdoilla*). Tämä kattaa nimenomaisesti **johdannaisteokset**, **tekoälyn tuottaman sisällön**, **remix-hankkeet** ja **algoritmisesti muunnetut** muodot. **Muuttumattomat kopiot** voivat esiintyä **kokoelman** osana muun lisenssin alla; kyseinen sisältö pysyy **CC BY-SA 4.0**.
 
 ***
 
-##### 🇰🇷 한국어 (대한민국)
+### 🇬🇷 Ελληνικά (Griechenland)
 
-이 자료의 사용과 변경은 모든 공개 허가 조건을 그대로 따릅니다.
-
-인공지능이나 자동 시스템을 써도 같습니다.
-
-파생 자료, 에이아이 생성 내용, 리믹스 프로젝트, 알고 절차로 바꾼 형식도 모두 포함합니다.
-
-목표는 민주 사회 안에서 함께 여는 지식의 미래입니다.
+Κάθε **χρήση**, **επεξεργασία** ή **περαιτέρω επεξεργασία** αυτού του έργου – συμπεριλαμβανομένης μέσω **τεχνητής νοημοσύνης**, **μηχανικής μάθησης** ή **αυτοματοποιημένων συστημάτων** – διέπεται από την ανοικτή άδεια **CC BY-SA 4.0** (*αναφορά δημιουργού*, *κοινοχρησία υπό τους ίδιους όρους*). Αυτό περιλαμβάνει ρητά τα **παράγωγα έργα**, το **περιεχόμενο που παράγεται από ΤΝ**, τα **έργα επεξεργασίας (remix)** ή τα **αλγοριθμικά μετασχηματισμένα** φορμά. Οι **αμετάβλητες αναπαραγωγές** μπορούν να εμφανίζονται ως μέρος μιας **συλλογής** με διαφορετική άδεια· το περιεχόμενο παραμένει **CC BY-SA 4.0**.
 
 ***
 
-##### 🇱🇻 Latviešu (Lettland)
+### 🇮🇱 עברית (Israel)
 
-Jebkāda šī darba izmantošana, apstrāde vai pārveidošana – tostarp ar mākslīgā intelekta, mašīnmācīšanās vai automatizētu sistēmu palīdzību – pakļauta tiem pašiem atvērtās licences nosacījumiem.
-
-Tas skaidri ietver atvasinātus darbus, mākslīgā intelekta radītu saturu, remiksa projektus vai algoritmiski pārveidotus formātus.
-
-Mērķis ir kopīga, atvērta zināšanu nākotne demokrātiskās, radošās un pluralistiskās sabiedrībās.
+כל **שימוש**, **עיבוד** או **עיבוד מחדש** ביצירה זו – לרבות באמצעות **בינה מלאכותית**, **למידת מכונה** או **מערכות אוטומטיות** – כפוף לרישיון הפתוח **CC BY-SA 4.0** (*ייחוס*, *שיתוף בתנאים זהים*). הדבר כולל במפורש **יצירות נגזרות**, **תכנים שנוצרו בידי בינה מלאכותית**, **פרויקטי רמיקס** או פורמטים **שהוסבו אלגוריתמית**. **שימושים שלא שונו** יכולים להופיע כחלק מ**אוסף** ברישיון אחר; התוכן הנדון נותר **CC BY-SA 4.0**.
 
 ***
 
-##### 🇱🇹 Lietuvių (Litauen)
+### 🇮🇸 Íslenska (Island)
 
-Bet koks šio kūrinio naudojimas, apdorojimas ar transformavimas – įskaitant dirbtinį intelektą, mašininį mokymąsi ar automatizuotas sistemas – yra reglamentuojamas tomis pačiomis atviros licencijos sąlygomis.
-
-Tai aiškiai apima išvestinius kūrinius, dirbtinio intelekto sukurtą turinį, remikso projektus ar algoritmiškai transformuotas formas.
-
-Tikslas – bendra ir atvira žinių ateitis demokratinėse, kūrybingose ir pliuralistinėse visuomenėse.
+Öll **notkun**, **vinnsla** eða **frekari vinnsla** þessa verks – þar á meðal með **gervigreind**, **vélnámi** eða **sjálfvirkum kerfum** – fellur undir opna leyfið **CC BY-SA 4.0** (*tilgreining höfundar*, *deiling á sömu skilmálum*). Þetta nær sérstaklega til **afleiddra verka**, **efnis sem gervigreind býr til**, **remix-verkefna** og **algrímbreytt** formata. **Óbreytt afrit** geta verið hluti af **safni** undir annarri leyfi; viðkomandi efni er áfram **CC BY-SA 4.0**.
 
 ***
 
-##### 🇲🇩 Română (Republica Moldova)
+### 🇮🇹 Italiano (Italien)
 
-Orice utilizare, prelucrare sau transformare a acestei lucrări – inclusiv prin inteligență artificială, învățare automată sau sisteme automatizate – este supusă acelorași condiții de licență deschisă.
-
-Aceasta include în mod explicit lucrările derivate, conținutul generat de IA, proiectele remix sau formatele transformate algoritmic.
-
-Scopul este un viitor al cunoașterii comun și deschis în societăți democratice, creative și pluraliste.
+Qualsiasi **utilizzo**, **elaborazione** o **rielaborazione** di quest’opera – anche tramite **intelligenza artificiale**, **apprendimento automatico** o **sistemi automatizzati** – è soggetto alla licenza aperta **CC BY-SA 4.0** (*attribuzione*, *condivisione allo stesso modo*). Ciò include espressamente le **opere derivate**, i **contenuti generati dall’IA**, i **progetti di remix** e i formati **trasformati algoritmicamente**. Le **riproduzioni inalterate** possono figurare come parte di una **raccolta** con un’altra licenza; il contenuto interessato resta **CC BY-SA 4.0**.
 
 ***
 
-##### 🇲🇰 Македонски (Nordmazedonien)
+### 🇯🇵 日本語 (Japan)
 
-Секоја употреба, обработка или трансформација на ова дело – вклучително од вештачка интелигенција, машинско учење или автоматизирани системи – подлежи на истите услови на отворената лиценца.
-
-Тоа изрично ги опфаќа изведените дела, содржините создадени од ВИ, ремикс-проектите или формати трансформирани алгоритамски.
-
-Целта е заедничка, отворена иднина на знаењето во демократски, креативни и плуралистички општества.
+本作品のあらゆる**利用**・**処理**・**再処理**は、**人工知能**・**機械学習**・**自動化システム**によるものを含め、オープンライセンス **CC BY-SA 4.0**（*表示*・*同一条件での共有*）に従います。これには、**派生作品**、**AIが生成したコンテンツ**、**リミックス・プロジェクト**、および**アルゴリズムで変換された**形式が明示的に含まれます。**改変されていない引用**は、別ライセンスの**コレクション**の一部として掲載できますが、当該コンテンツは引き続き **CC BY-SA 4.0** です。
 
 ***
 
-##### 🇲🇹 Malti (Malta)
+### 🇰🇷 한국어 (대한민국)
 
-Kull użu, ipproċessar jew trasformazzjoni ta’ dan ix-xogħol – inkluż permezz ta’ intelliġenza artifiċjali, tagħlim awtomatiku jew sistemi awtomatizzati – huwa soġġett għall-istess kundizzjonijiet tal-liċenzja miftuħa.
-
-Dan jinkludi espressament xogħlijiet derivati, kontenut iġġenerat mill-AI, proġetti ta’ remix jew formati mibdula algoritmikament.
-
-L-għan huwa futur ta’ għarfien maqsuma u miftuħ f’soċjetajiet demokratiċi, kreattivi u pluralisti.
+이 저작물의 모든 **이용**, **처리** 또는 **재처리**는 **인공지능**, **기계학습**, **자동화 시스템**을 통한 경우를 포함하여 오픈 라이선스 **CC BY-SA 4.0** (*저작자 표시*, *동일조건변경허락*)을 따릅니다. 이는 명시적으로 **2차적 저작물**, **AI 생성 콘텐츠**, **리믹스 프로젝트** 및 **알고리즘으로 변환된** 형식을 포함합니다. **변경되지 않은 수록물**은 다른 라이선스의 **모음집**에 포함될 수 있지만, 해당 콘텐츠는 **CC BY-SA 4.0**으로 유지됩니다.
 
 ***
 
-##### 🇲🇪 Crnogorski (Montenegro)
+### 🇱🇻 Latviešu (Lettland)
 
-Svaka upotreba, obrada ili transformacija ovog djela – uključujući vještačku inteligenciju, mašinsko učenje ili automatizovane sisteme – podleže istim uslovima otvorene licence.
-
-Ovo izričito obuhvata izvedena djela, sadržaje koje generiše AI, remix projekte ili formate transformisane algoritamski.
-
-Cilj je zajednička, otvorena budućnost znanja u demokratskim, kreativnim i pluralističkim društvima.
+Jebkāda šī darba **izmantošana**, **apstrāde** vai **papildu apstrāde** – tostarp ar **mākslīgā intelekta**, **mašīnmācīšanās** vai **automatizētu sistēmu** palīdzību – ir pakļauta atvērtajai licencei **CC BY-SA 4.0** (*atsauce uz autoru*, *kopīgošana ar tādiem pašiem nosacījumiem*). Tas nepārprotami ietver **atvasinātus darbus**, **MI ģenerētu saturu**, **remiksa projektus** un **algoritmiski pārveidotus** formātus. **Nemainītas pārņemšanas** drīkst parādīties kā daļa no **kolekcijas** ar citu licenci; attiecīgais saturs paliek **CC BY-SA 4.0**.
 
 ***
 
-##### 🇳🇴 Norsk (Norwegen)
+### 🇱🇹 Lietuvių (Litauen)
 
-All bruk, bearbeiding eller transformasjon av dette verket – også gjennom kunstig intelligens, maskinlæring eller automatiserte systemer – er underlagt de samme åpne lisensvilkårene.
-
-Dette omfatter uttrykkelig avledede verk, AI-generert innhold, remiksprosjekter eller formater som er algoritmisk omformet.
-
-Målet er en delt og åpen kunnskapsfremtid i demokratiske, kreative og pluralistiske samfunn.
+Bet koks šio kūrinio **naudojimas**, **apdorojimas** ar **tolimesnis apdorojimas** – įskaitant per **dirbtinį intelektą**, **mašininį mokymąsi** ar **automatizuotas sistemas** – reglamentuojamas atvira licencija **CC BY-SA 4.0** (*autorystės nurodymas*, *dalijimasis tokiomis pačiomis sąlygomis*). Tai aiškiai apima **išvestinius kūrinius**, **DI sukurtą turinį**, **remikso projektus** ir **algoritmiškai transformuotas** formas. **Nepakeistos ištraukos** gali būti pateiktos kaip **rinkinio** dalis pagal kitą licenciją; atitinkamas turinys lieka **CC BY-SA 4.0**.
 
 ***
 
-##### 🇵🇱 Polski (Polen)
+### 🇲🇩 Română (Republica Moldova)
 
-Jakiekolwiek wykorzystanie, przetwarzanie lub przekształcanie tego utworu – w tym przez sztuczną inteligencję, uczenie maszynowe czy systemy zautomatyzowane – podlega tym samym warunkom otwartej licencji.
-
-Obejmuje to wprost utwory zależne, treści generowane przez SI, projekty remiksów lub formaty przekształcone algorytmicznie.
-
-Celem jest wspólna, otwarta przyszłość wiedzy w demokratycznych, kreatywnych i pluralistycznych społeczeństwach.
+Orice **utilizare**, **prelucrare** sau **reprelucrare** a acestei lucrări – inclusiv prin **inteligență artificială**, **învățare automată** sau **sisteme automatizate** – este guvernată de licența deschisă **CC BY-SA 4.0** (*atribuire*, *partajare în aceleași condiții*). Aceasta include în mod explicit **lucrările derivate**, **conținutul generat de IA**, **proiectele de remix** și formatele **transformate algoritmic**. **Reproducerile nemodificate** pot apărea ca parte a unei **colecții** sub o altă licență; conținutul vizat rămâne **CC BY-SA 4.0**.
 
 ***
 
-##### 🇵🇹 Português (Portugal)
+### 🇲🇰 Македонски (Nordmazedonien)
 
-Qualquer uso, processamento ou transformação desta obra – inclusive por inteligência artificial, aprendizagem automática ou sistemas automatizados – está sujeito às mesmas condições da licença aberta.
-
-Isso inclui expressamente obras derivadas, conteúdos gerados por IA, projetos de remix ou formatos transformados algoritmicamente.
-
-O objetivo é um futuro do conhecimento partilhado e aberto em sociedades democráticas, criativas e pluralistas.
+Секоја **употреба**, **обработка** или **дополнителна обработка** на ова дело – вклучително преку **вештачка интелигенција**, **машинско учење** или **автоматизирани системи** – е опфатена со отворената лиценца **CC BY-SA 4.0** (*признавање на авторството*, *споделување под исти услови*). Ова изречно ги опфаќа **дериватните дела**, **содржините генерирани од ВИ**, **ремикс проектите** и **алгоритамски трансформираните** формати. **Непрoменетите преземања** можат да се појават како дел од **збирка** под друга лиценца; содржината останува **CC BY-SA 4.0**.
 
 ***
 
-##### 🇷🇸 Српски / Srpski (Serbien)
+### 🇲🇹 Malti (Malta)
 
-Свака употреба, обрада или трансформација овог дела – укључујући од стране вештачке интелигенције, машинског учења или аутоматизованих система – подлеже истим условима отворене лиценце.
-
-То изричито обухвата изведена дела, садржаје које генерише ВИ, ремикс пројекте или формате алгоритамски трансформисане.
-
-Циљ је заједничка, отворена будућност знања у демократским, креативним и плуралистичким друштвима.
+Kull **użu**, **ipproċessar** jew **ipproċessar mill-ġdid** ta’ dan ix-xogħol – inkluż permezz ta’ **intelliġenza artifiċjali**, **tagħlim awtomatiku** jew **sistemi awtomatizzati** – huwa soġġett għall-liċenzja miftuħa **CC BY-SA 4.0** (*attribuzzjoni*, *qsim taħt l-istess kundizzjonijiet*). Dan jinkludi espliċitament **xogħlijiet derivattivi**, **kontenut iġġenerat mill-IA**, **proġetti ta’ remix** u formati **trasformati algoritmikament**. **Reproduzzjonijiet mhux mibdula** jistgħu jidhru bħala parti minn **ġabra** b’liċenzja oħra; il-kontenut affettwat jibqa’ **CC BY-SA 4.0**.
 
 ***
 
-##### 🇸🇰 Slovenčina (Slowakei)
+### 🇲🇪 Crnogorski (Montenegro)
 
-Akékoľvek použitie, spracovanie alebo transformácia tohto diela – vrátane umelej inteligencie, strojového učenia či automatizovaných systémov – podlieha rovnakým podmienkam otvorenej licencie.
-
-To výslovne zahŕňa odvodené diela, obsah generovaný AI, remixové projekty alebo algoritmicky transformované formáty.
-
-Cieľom je spoločná a otvorená budúcnosť poznania v demokratických, kreatívnych a pluralitných spoločnostiach.
+Svaka **upotreba**, **obrada** ili **dalja obrada** ovog djela – uključujući putem **vještačke inteligencije**, **mašinskog učenja** ili **automatizovanih sistema** – podleže otvorenoj licenci **CC BY-SA 4.0** (*pripisivanje*, *dijeljenje pod istim uslovima*). Ovo izričito obuhvata **izvedena djela**, **sadržaje koje generiše AI**, **remix projekte** i **algoritamski transformisane** formate. **Neizmijenjene preuzimke** mogu se pojaviti kao dio **zbirke** pod drugom licencom; odgovarajući sadržaj ostaje **CC BY-SA 4.0**.
 
 ***
 
-##### 🇸🇮 Slovenščina (Slowenien)
+### 🇳🇴 Norsk (Norwegen)
 
-Kakršna koli uporaba, obdelava ali preoblikovanje tega dela – tudi s pomočjo umetne inteligence, strojnega učenja ali avtomatiziranih sistemov – je podvržena istim pogojem odprte licence.
-
-To izrecno vključuje izpeljana dela, vsebine, ki jih ustvari UI, remix projekte ali oblike, preoblikovane z algoritmi.
-
-Cilj je skupna, odprta prihodnost znanja v demokratičnih, ustvarjalnih in pluralističnih družbah.
+All **bruk**, **bearbeiding** eller **videre bearbeiding** av dette verket – også gjennom **kunstig intelligens**, **maskinlæring** eller **automatiserte systemer** – er underlagt den åpne lisensen **CC BY-SA 4.0** (*navngivelse*, *deling på samme vilkår*). Dette omfatter uttrykkelig **avledede verk**, **AI-generert innhold**, **remiksprosjekter** og **algoritmisk omformede** formater. **Uendrede opptak** kan inngå som del av en **samling** under en annen lisens; det aktuelle innholdet forblir **CC BY-SA 4.0**.
 
 ***
 
-##### 🇸🇪 Svenska (Schweden)
+### 🇵🇱 Polski (Polen)
 
-All användning, bearbetning eller omvandling av detta verk – även genom artificiell intelligens, maskininlärning eller automatiserade system – omfattas av samma villkor i den öppna licensen.
-
-Detta innefattar uttryckligen bearbetade verk, AI-genererat innehåll, remixprojekt eller format som omformas algoritmiskt.
-
-Målet är en gemensam, öppen kunskapsframtid i demokratiska, kreativa och pluralistiska samhällen.
+Jakiekolwiek **wykorzystanie**, **przetwarzanie** lub **dalsze przetwarzanie** tego utworu – w tym przez **sztuczną inteligencję**, **uczenie maszynowe** czy **zautomatyzowane systemy** – podlega otwartej licencji **CC BY-SA 4.0** (*uznanie autorstwa*, *na tych samych warunkach*). Obejmuje to wprost **utwory zależne**, **treści generowane przez SI**, **projekty remiksów** oraz **algorytmicznie przekształcone** formaty. **Nie zmienione przejęcia** mogą pojawić się jako część **kolekcji** na innej licencji; dany materiał pozostaje **CC BY-SA 4.0**.
 
 ***
 
-##### 🇸🇳 Français (Sénégal)
+### 🇵🇹 Português (Portugal)
 
-Toute utilisation, transformation ou réutilisation de cette œuvre – y compris par l’intelligence artificielle, l’apprentissage automatique ou des systèmes automatisés – est soumise aux mêmes conditions de licence ouverte.
-
-Cela inclut explicitement les œuvres dérivées, les contenus générés par IA, les projets de remix ou les formats transformés algorithmiquement.
-
-L’objectif est un avenir du savoir partagé, ouvert et inclusif au sein de sociétés démocratiques, créatives et pluralistes.
+Qualquer **utilização**, **processamento** ou **reprocessamento** desta obra – inclusive por **inteligência artificial**, **aprendizagem automática** ou **sistemas automatizados** – está sujeito à licença aberta **CC BY-SA 4.0** (*atribuição*, *partilha nas mesmas condições*). Isto inclui explicitamente **obras derivadas**, **conteúdos gerados por IA**, **projetos de remix** e formatos **transformados algoritmicamente**. **Reproduções inalteradas** podem surgir como parte de uma **coleção** sob outra licença; o conteúdo em causa permanece **CC BY-SA 4.0**.
 
 ***
 
-##### 🇹🇳 العربية / Français (Tunisie)
+### 🇷🇸 Српски / Srpski (Serbien)
 
-**العربية:** إن أي استخدام أو معالجة أو تحويل لهذا العمل – بما في ذلك عن طريق الذكاء الاصطناعي أو التعلم الآلي أو الأنظمة المؤتمتة – يخضع لنفس شروط الترخيص المفتوح. ويشمل ذلك صراحة الأعمال المشتقة والمحتوى المولَّد بالذكاء الاصطناعي ومشاريع الريمكس أو الصيغ المحوَّلة خوارزميًا. الهدف هو مستقبل معرفي مشترك ومفتوح داخل مجتمعات ديمقراطية وخلاقة وتعددية.
-
-**Français (TN):** Toute utilisation, transformation ou réutilisation de cette œuvre – y compris par l’intelligence artificielle, l’apprentissage automatique ou des systèmes automatisés – est soumise aux mêmes conditions de licence ouverte. Cela inclut explicitement les œuvres dérivées, les contenus générés par IA, les projets de remix ou les formats transformés algorithmiquement. L’objectif est un avenir du savoir partagé, ouvert et pluraliste pour les sociétés démocratiques et créatives.
+Свака **употреба**, **обрада** или **додатна обрада** овог дела – укључујући посредством **вештачке интелигенције**, **машинског учења** или **аутоматизованих система** – подлеже отвореној лиценци **CC BY-SA 4.0** (*признање ауторства*, *дељење под истим условима*). То изричито обухвата **изводљива дела**, **садржаје које генерише ВИ**, **ремикс пројекте** и **алгоритамски трансформисане** формате. **Неизмењена преузимања** могу се појавити као део **збирке** под другом лиценцом; погођени садржај остаје **CC BY-SA 4.0**.
 
 ***
 
-##### 🇹🇼 繁體中文 (臺灣)
+### 🇸🇰 Slovenčina (Slowakei)
 
-本作品的任何使用、處理或轉換——包括透過人工智慧、機器學習或自動化系統——皆須遵循相同的開放授權條款。
-
-此授權明確涵蓋衍生作品、AI 產生的內容、重混專案或經演算法轉換的格式。
-
-目標是在民主、富有創造力且多元的社會中，共同建構一個開放的知識未來。
+Akékoľvek **použitie**, **spracovanie** alebo **ďalšie spracovanie** tohto diela – vrátane **umelej inteligencie**, **strojového učenia** či **automatizovaných systémov** – podlieha otvorenej licencii **CC BY-SA 4.0** (*uvedenie autora*, *šírenie za rovnakých podmienok*). To výslovne zahŕňa **odvodené diela**, **obsah generovaný AI**, **projekty remixov** a **algoritmicky transformované** formáty. **Nezmenené prevzatia** sa môžu objaviť ako súčasť **zbierky** pod inou licenciou; príslušný obsah zostáva **CC BY-SA 4.0**.
 
 ***
 
-##### 🇺🇦 Українська (Ukraine)
+### 🇸🇮 Slovenščina (Slowenien)
 
-Будь-яке використання, опрацювання чи трансформація цього твору – у тому числі за допомогою штучного інтелекту, машинного навчання або автоматизованих систем – підпорядковується тим самим умовам відкритої ліцензії.
-
-Це прямо охоплює похідні твори, контент, згенерований ШІ, проєкти реміксів або формати, перетворені алгоритмічно.
-
-Мета – спільне й відкрите майбутнє знань у демократичних, творчих і плюралістичних суспільствах.
+Kakršen koli **uporaba**, **obdelava** ali **nadaljnja obdelava** tega dela – tudi s pomočjo **umetne inteligence**, **strojnega učenja** ali **avtomatiziranih sistemov** – je podvržena odprti licenci **CC BY-SA 4.0** (*priznanje avtorstva*, *deljenje pod enakimi pogoji*). To izrecno vključuje **izpeljana dela**, **vsebino, ki jo ustvari UI**, **remiks projekte** in **algoritmično preoblikovane** formate. **Nespremenjeni prevzemi** se lahko pojavijo kot del **zbirke** pod drugo licenco; prizadeta vsebina ostaja **CC BY-SA 4.0**.
 
 ***
 
-##### 🇺🇾 Español (Uruguay)
+### 🇸🇪 Svenska (Schweden)
 
-Todo uso, procesamiento o transformación de esta obra – incluso mediante inteligencia artificial, aprendizaje automático o sistemas automatizados – queda sujeto a las mismas condiciones de licencia abierta.
-
-Esto incluye expresamente obras derivadas, contenidos generados por IA, proyectos de remix o formatos transformados algorítmicamente.
-
-El objetivo es un futuro del conocimiento compartido y abierto para sociedades democráticas, creativas y pluralistas.
+All **användning**, **bearbetning** eller **vidare bearbetning** av detta verk – även genom **artificiell intelligens**, **maskininlärning** eller **automatiserade system** – omfattas av den öppna licensen **CC BY-SA 4.0** (*erkännande*, *delning på samma villkor*). Detta inkluderar uttryckligen **bearbetade verk**, **AI-genererat innehåll**, **remixprojekt** samt **algoritmiskt omformade** format. **Oförändrade upptag** kan förekomma som del av en **samling** under annan licens; berört innehåll förblir **CC BY-SA 4.0**.
 
 ***
 
-##### 🇬🇧 English (United Kingdom)
+### 🇸🇳 Français (Sénégal)
 
-Any use, processing or transformation of this work – including by artificial intelligence, machine learning or automated systems – is subject to the same open licence conditions.
-
-This explicitly covers derivative works, AI-generated content, remix projects or formats transformed algorithmically.
-
-The aim is a shared, open future of knowledge within democratic, creative and pluralistic societies.
+Toute **utilisation**, **transformation** ou **réutilisation** de cette œuvre – y compris par **intelligence artificielle**, **apprentissage automatique** ou **systèmes automatisés** – est soumise à la licence ouverte **CC BY-SA 4.0** (*attribution*, *partage dans les mêmes conditions*). Cela inclut explicitement les **œuvres dérivées**, les **contenus générés par l’IA**, les **projets de remix** ou les formats **transformés algorithmiquement**. Les **reprises inchangées** peuvent figurer au sein d’une **collection** placée sous une autre licence ; le contenu visé demeure **CC BY-SA 4.0**.
 
 ***
 
-### Lizenzübersicht für Medienressourcen
+### 🇹🇳 العربية / Français (Tunisie)
 
-Eine kompakte Übersicht der verwendeten Medien-Assets und ihrer Lizenzierung findet sich in [ATTRIBUTION.md](../ATTRIBUTION.md). Für schnelle Referenz ist die Tabelle ebenfalls im Abschnitt „Medien- & Lizenz-Attribution“ gespiegelt. Bei neuen Assets sind beide Stellen zu aktualisieren.
+**العربية:** يخضع أي **استخدام** أو **معالجة** أو **إعادة معالجة** لهذا العمل – بما في ذلك من خلال **الذكاء الاصطناعي** أو **التعلم الآلي** أو **الأنظمة المؤتمتة** – للترخيص المفتوح **CC BY-SA 4.0** (*النَّسب*، *المشاركة بالشروط نفسها*). يشمل ذلك صراحةً **الأعمال المشتقة**، و**المحتوى الذي تُنشئه الذكاء الاصطناعي**، و**مشروعات الريمكس**، والصيغ **المحوَّلة خوارزميًّا**. يمكن أن تظهر **النقول غير المعدَّلة** ضمن **مجموعة** تخضع لترخيص آخر؛ ويظل المحتوى المعني **CC BY-SA 4.0**.
+
+**Français (TN):** Toute **utilisation**, **transformation** ou **réutilisation** de cette œuvre – y compris par **intelligence artificielle**, **apprentissage automatique** ou **systèmes automatisés** – est soumise à la licence ouverte **CC BY-SA 4.0** (*attribution*, *partage dans les mêmes conditions*). Cela inclut explicitement les **œuvres dérivées**, les **contenus générés par l’IA**, les **projets de remix** ou les formats **transformés algorithmiquement**. Les **reprises inchangées** peuvent figurer dans une **collection** placée sous une autre licence ; le contenu concerné demeure **CC BY-SA 4.0**.
 
 ***
 
-### Offenheit in der Praxis
+### 🇹🇼 繁體中文 (臺灣)
 
-* **Transparenzberichte:** Regelmäßige Veröffentlichung von Quellen- und Lizenzlisten im Rahmen der Qualitätsprüfung (vgl. Anhang K).
-* **Weitergabe:** Jede Weiterentwicklung – ob Text, Grafik, Software oder Daten – soll die CC-BY-Attribution sichtbar führen.
-* **Rückkanal:** Vorschläge zu zusätzlichen Übersetzungen, Lizenzauslegungen oder Asset-Erweiterungen können über CIVITAS-Pilotforen eingebracht werden.
+本作品的任何**使用**、**處理**或**再處理**——包括透過**人工智慧**、**機器學習**或**自動化系統**——皆須遵循開放授權 **CC BY-SA 4.0**（*姓名標示*、*相同方式分享*）。此授權明確涵蓋**衍生作品**、**AI 產生的內容**、**重混專案**及**演算法轉換**的格式。**未經改動的收錄**可作為其他授權之**集合**的一部分，但相關內容仍屬 **CC BY-SA 4.0**。
+
+***
+
+### 🇺🇦 Українська (Ukraine)
+
+Будь-яке **використання**, **обробка** чи **повторна обробка** цього твору – зокрема за допомогою **штучного інтелекту**, **машинного навчання** або **автоматизованих систем** – здійснюється відповідно до відкритої ліцензії **CC BY-SA 4.0** (*зазначення авторства*, *поширення на тих самих умовах*). Це прямо охоплює **похідні твори**, **контент, створений ШІ**, **проєкти реміксів** та **алгоритмічно перетворені** формати. **Незмінені запозичення** можуть бути частиною **збірки** під іншою ліцензією; відповідний матеріал залишається **CC BY-SA 4.0**.
+
+***
+
+### 🇺🇾 Español (Uruguay)
+
+Todo **uso**, **procesamiento** o **reprocesamiento** de esta obra – incluso mediante **inteligencia artificial**, **aprendizaje automático** o **sistemas automatizados** – está sujeto a la licencia abierta **CC BY-SA 4.0** (*atribución*, *compartir bajo las mismas condiciones*). Esto incluye de forma explícita las **obras derivadas**, los **contenidos generados por IA**, los **proyectos de remezcla** y los formatos **transformados algorítmicamente**. Las **reproducciones sin cambios** pueden figurar dentro de una **colección** con otra licencia; el material afectado permanece **CC BY-SA 4.0**.
+
+***
+
+### 🇬🇧 English (United Kingdom)
+
+Any **use**, **processing** or **further processing** of this work – including via **artificial intelligence**, **machine learning** or **automated systems** – is covered by the open licence **CC BY-SA 4.0** (*attribution*, *share alike*). This explicitly includes **derivative works**, **AI-generated content**, **remix projects** and **algorithmically transformed** formats. **Unchanged incorporations** may appear as part of a **collection** under a different licence; the material concerned remains **CC BY-SA 4.0**.
+
+> *Hinweis:* Weitere Übersetzungen werden fortlaufend ergänzt; sie folgen derselben Lizenzlogik wie die oben aufgeführten Versionen.
+
+---
+
+## J.9 Lizenztexte
+
+### MIT‑Lizenz (deutsche Fassung)
+```text
+MIT‑Lizenz
+
+Copyright (c) {{YYYY}} {{Urheber}}
+
+Hiermit wird unentgeltlich jeder Person, die eine Kopie der Software und der zugehörigen
+Dokumentationsdateien (die „Software“) erhält, die Erlaubnis erteilt, uneingeschränkt mit der
+Software zu handeln, einschließlich und ohne Ausnahme des Rechts, sie zu nutzen, zu kopieren,
+zu verändern, zu fusionieren, zu veröffentlichen, zu verbreiten, zu unterlizenzieren und/oder
+zu verkaufen, und Personen, denen diese Software zur Verfügung gestellt wird, diese Rechte zu
+verschaffen, unter den folgenden Bedingungen:
+
+Der obige Urheberrechtsvermerk und dieser Erlaubnisvermerk sind in allen Kopien oder in
+wesentlichen Teilen der Software beizulegen.
+
+DIE SOFTWARE WIRD OHNE JEGLICHE AUSDRÜCKLICHE ODER STILLSCHWEIGENDE GARANTIE
+BEREITGESTELLT, EINSCHLIESSLICH DER GARANTIE DER MARKTGÄNGIGKEIT, DER EIGNUNG FÜR
+EINEN BESTIMMTEN ZWECK UND DER NICHTVERLETZUNG. IN KEINEM FALL SIND DIE AUTOREN
+ODER COPYRIGHTINHABER FÜR JEGLICHE ANSPRÜCHE, SCHÄDEN ODER SONSTIGE HAFTUNGEN
+VERANTWORTLICH, SEI ES AUS EINEM VERTRAG, EINER UNERLAUBTEN HANDLUNG ODER
+ANDERWEITIG, DIE SICH AUS, AUS ODER IN VERBINDUNG MIT DER SOFTWARE ODER DER
+VERWENDUNG ODER ANDEREN GESCHÄFTEN MIT DER SOFTWARE ERGEBEN.
+```
+
+### CC BY‑SA 4.0 – Kurzfassung
+Die vollständigen Lizenzbedingungen sind unter <https://creativecommons.org/licenses/by-sa/4.0/legalcode> abrufbar.  
+**Zusammenfassung (nicht rechtsverbindlich):**
+- Sie dürfen: das Material in jedwedem Format/Medium vervielfältigen und weiterverbreiten **sowie** remixen, verändern und darauf aufbauen – auch kommerziell.
+- Sie müssen: den **Urheber nennen**; **Änderungen kennzeichnen**; und das Material **unter derselben Lizenz** weitergeben, wenn es bearbeitet wurde.
+- Sie dürfen nicht: **zusätzliche Einschränkungen** einführen (z. B. DRM), die die Freiheiten der Lizenz einschränken.
+- Keine weiteren Einschränkungen: Verwendung in **Sammlungen** ist erlaubt, ohne die **gesamte Sammlung** unter die Lizenz stellen zu müssen.
+
+### CC BY 4.0 – Kurzfassung (für Fonts)
+Die vollständigen Lizenzbedingungen sind unter <https://creativecommons.org/licenses/by/4.0/legalcode> abrufbar.  
+**Zusammenfassung (nicht rechtsverbindlich):** Die CC BY 4.0 erlaubt die **Nutzung**, **Anpassung** und **Verbreitung** – auch kommerziell – unter der Bedingung der **Namensnennung**. Anders als bei CC BY‑SA besteht **keine Pflicht**, abgeleitete Werke unter derselben Lizenz zu verbreiten.
+
+---
+
+Dieses Kapitel ist Teil des **ERDA‑Buches** und bildet die **verbindliche Grundlage** für alle Lizenzfragen rund um das Projekt.  
+Für weiterführende Fragen wenden Sie sich an die im **Impressum** angegebenen Ansprechpartner.
 
 
 \newpage
