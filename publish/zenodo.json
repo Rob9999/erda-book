@@ -1,0 +1,50 @@
+{
+    "title": "ERDA – unsere demokratische Evolution: Strategie, Ethik und Zukunft Europas – Vom demokratischen Rechtsstaat zur resilienten Zivilisation",
+    "upload_type": "publication",
+    "publication_type": "book",
+    "creators": [
+        {
+            "name": "Massinger, Robert Alexander",
+            "affiliation": "München, Deutschland"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "ChatGPT (OpenAI)",
+            "type": "Other"
+        }
+    ],
+    "description": "Offenes Buchprojekt für Strategie, Ethik und Zukunft Europas. Der Textteil steht unter CC BY-SA 4.0; Code ist MIT-lizenziert; eigene Fonts sind dual lizenziert (CC BY 4.0 oder MIT).",
+    "version": "1.0.0",
+    "keywords": [
+        "ERDA",
+        "Europa",
+        "Demokratie",
+        "Rechtsstaat",
+        "Resilienz",
+        "Ethik",
+        "Zukunft",
+        "Open Access"
+    ],
+    "license": "CC-BY-SA-4.0",
+    "language": "deu",
+    "access_right": "open",
+    "communities": [
+        {
+            "identifier": "erda"
+        }
+    ],
+    "related_identifiers": [
+        {
+            "identifier": "https://github.com/Rob9999/erda-book",
+            "relation": "isSupplementedBy",
+            "resource_type": "software"
+        },
+        {
+            "identifier": "https://github.com/Rob9999/erda-book/blob/main/content/anhang-j-lizenz-and-offenheit.md",
+            "relation": "isDocumentedBy",
+            "resource_type": "publication"
+        }
+    ],
+    "notes": "Lizenzmatrix: Texte = CC BY-SA 4.0; Code = MIT; Fonts = CC BY 4.0 oder MIT; Emojis = Twemoji (CC BY 4.0). Details in ATTRIBUTION.md und Anhang J."
+}
