@@ -17,9 +17,9 @@ version: "1.0"
 * 🏳️ Offizieller Name: Vereinigtes Königreich Großbritannien und Nordirland
 * 🗺 Geografische Lage: Nordwesteuropa, Britische Inseln, Atlantik und Nordsee
 * 👥 Bevölkerung (2025): ca. 67,6 Mio. (ONS)
-* 🖈 Regierungsform & Verfassungsstatus (2025): Parlamentarische Monarchie, ungeschriebene Verfassung
+* 🏛️ Regierungsform & Verfassungsstatus (2025): Parlamentarische Monarchie, ungeschriebene Verfassung
 * 📅 ERDA-Status: Erweiterte Partnerschaft (souveräner Partner)
-* 🗫 Rolle im ERDA-Netzwerk (Zukunft): Finanz- & Innovationsdrehscheibe, maritimes Sicherheitszentrum
+* 🌐 Rolle im ERDA-Netzwerk (Zukunft): Finanz- & Innovationsdrehscheibe, maritimes Sicherheitszentrum
 
 ***
 

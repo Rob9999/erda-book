@@ -16,7 +16,7 @@ version: "1.0"
 
 * 🏳️ Offizieller Name: Kanada
 * 🗺️ Geografische Lage: Nordamerika; grenzt an die USA, den Atlantik, den Pazifik und die Arktis
-* 👥 Bevölkerung (2023): 40,1 Mio.[^wb-pop]
+* 👥 Bevölkerung (2023): 40,1 Mio.[^wb-pop-ca]
 * 🧠 Regierungsform & Verfassungsstatus (2025): Föderale parlamentarische Demokratie, konstitutionelle Monarchie
 * 📅 ERDA-Status: Globale/r Assoziierter
 * 🧭 Rolle im ERDA-Netzwerk (Zukunft): Arktisknoten und Rohstoff‑/Innovationspartner (hypothetisch: ERDA Scenario Modeling Report 2025)
@@ -25,24 +25,24 @@ version: "1.0"
 
 ### 2. Demografie & Gesellschaft
 
-* Bevölkerung (2050/2075-Prognose): 45,4 Mio. / 49,3 Mio.[^un-wpp]
-* Altersstruktur (Medianalter, Jugendanteil, Altenquotient): 42 Jahre, 15 % unter 15, 19 % über 65[^un-wpp]
-* Urbanisierung (%): 81,8 %[^wb-urb]
-* Bildung (tertiäre Einschreibung): 77 %[^wb-ter]
-* Lebenserwartung: 81,2 Jahre[^wb-le]
-* Migrationssaldo: ca. 460 000 Personen (2022)[^wb-netm]
-* Soziale Kohäsion (subjektive Zufriedenheit): Score 6,96 (World Happiness Report 2024)[^whr]
+* Bevölkerung (2050/2075-Prognose): 45,4 Mio. / 49,3 Mio.[^un-wpp-ca]
+* Altersstruktur (Medianalter, Jugendanteil, Altenquotient): 42 Jahre, 15 % unter 15, 19 % über 65[^un-wpp-ca]
+* Urbanisierung (%): 81,8 %[^wb-urb-ca]
+* Bildung (tertiäre Einschreibung): 77 %[^wb-ter-ca]
+* Lebenserwartung: 81,2 Jahre[^wb-le-ca]
+* Migrationssaldo: ca. 460 000 Personen (2022)[^wb-netm-ca]
+* Soziale Kohäsion (subjektive Zufriedenheit): Score 6,96 (World Happiness Report 2024)[^whr-ca]
 
 ***
 
 ### 3. Wirtschaft & Innovation
 
-* Bruttoinlandsprodukt (BIP, real, heute / 2050 / 2075): 2 050 Mrd. EUR / 3 575 Mrd. EUR (hyp.) / 5 865 Mrd. EUR (hyp.)[^wb-gdp]
-* BIP pro Kopf: ca. 51 000 EUR[^wb-gdppc]
+* Bruttoinlandsprodukt (BIP, real, heute / 2050 / 2075): 2 050 Mrd. EUR / 3 575 Mrd. EUR (hyp.) / 5 865 Mrd. EUR (hyp.)[^wb-gdp-ca]
+* BIP pro Kopf: ca. 51 000 EUR[^wb-gdppc-ca]
 * Schlüsselindustrien (Top‑3): Energie (Öl, Gas, erneuerbare), verarbeitende Industrie, Dienstleistungen
 * Anteil Automatisierung & Digitalisierung (2025/2050): 55 % / 80 % (hypothetisch: ERDA Scenario Modeling Report 2025)
-* Forschungs- und Innovationsquote (% des BIP): 1,7 %[^wb-rd]
-* Patente / Jahr (Trend): rund 4 500 (2020)[^wb-pat]
+* Forschungs- und Innovationsquote (% des BIP): 1,7 %[^wb-rd-ca]
+* Patente / Jahr (Trend): rund 4 500 (2020)[^wb-pat-ca]
 * Mitglied in FORTERA-Handelsallianzen: Nein (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Mitglied im Democracy Trade Network: Nein (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Nutzung von EHAM+ (0–10): 6 (hypothetisch: ERDA Scenario Modeling Report 2025)
@@ -60,7 +60,7 @@ version: "1.0"
 
 #### 🌱 Natürliche Ressourcen:
 
-* Land-/Meeresfläche: 9 984 670 km² / 7 ,3 Mio. km² ausschließliche Wirtschaftszone[^restcountries]
+* Land-/Meeresfläche: 9 984 670 km² / 7 ,3 Mio. km² ausschließliche Wirtschaftszone[^restcountries-ca]
 * Strategische Rohstoffe: Erdöl, Erdgas, Holz, Uran, Seltene Erden
 * Erneuerbare Energiepotenziale: Hydro (hoch), Wind (hoch), Solar (mittel), Geothermie (regional)
 * Biodiversität & Schutzgebiete (%): 13 % der Landfläche als Nationalpark
@@ -86,7 +86,7 @@ version: "1.0"
   * ☑ DSN-geeignet
   * ☑ Cyberkommando
   * ☑ Frühwarnsystem
-* Verteidigungsausgaben (% BIP): 1,4 % (2023)[^nato]
+* Verteidigungsausgaben (% BIP): 1,4 % (2023)[^nato-ca]
 * Rolle im Arctic/Nordmeer/Atlantik-Raum: Führender Akteur in der Arktiskooperation
 * Zivile Resilienzprogramme: Katastrophenschutz und Cyberresilienz vorhanden
 * Drohnen-, Raumfahrt-, KI-Kapazitäten: vorhanden
@@ -96,7 +96,7 @@ version: "1.0"
 ### 6. Kulturelle Identität & Soft Power
 
 * Sprachen / indigene Kulturen: Englisch, Französisch, zahlreiche indigene Sprachen
-* UNESCO-Welterbe / Kulturstätten: 20 Stätten (2024)[^unesco]
+* UNESCO-Welterbe / Kulturstätten: 20 Stätten (2024)[^unesco-ca]
 * Kreativwirtschaft (Musik, Film, Design): sehr aktiv
 * Internationale Sichtbarkeit (z. B. Olympische Spiele, Nobelpreise): hoch
 * Kultur als Vermittlungsfaktor in globalen Demokratienetzwerken? Ja
@@ -172,20 +172,20 @@ Kanada ist ein rohstoffreiches, hochentwickeltes Land mit stabiler Demokratie un
 
 #### 11.2 📎 Verwendete Quellen & Verweise
 
-1. World Bank. 2024. "Population, total – Canada". [https://api.worldbank.org/v2/country/can/indicator/SP.POP.TOTL](https://api.worldbank.org/v2/country/can/indicator/SP.POP.TOTL) (letzter Zugriff am 2025‑06‑11). <a name="wb-pop"></a>
-2. UN DESA. 2022. *World Population Prospects 2022*. [https://population.un.org/wpp](https://population.un.org/wpp) (letzter Zugriff am 2025‑06‑11). <a name="un-wpp"></a>
-3. World Bank. 2024. "Urban population (% of total population) – Canada". [https://api.worldbank.org/v2/country/can/indicator/SP.URB.TOTL.IN.ZS](https://api.worldbank.org/v2/country/can/indicator/SP.URB.TOTL.IN.ZS) (letzter Zugriff am 2025‑06‑11). <a name="wb-urb"></a>
-4. World Bank. 2024. "School enrollment, tertiary (% gross) – Canada". [https://api.worldbank.org/v2/country/can/indicator/SE.TER.ENRR](https://api.worldbank.org/v2/country/can/indicator/SE.TER.ENRR) (letzter Zugriff am 2025‑06‑11). <a name="wb-ter"></a>
-5. World Bank. 2024. "Life expectancy at birth, total (years) – Canada". [https://api.worldbank.org/v2/country/can/indicator/SP.DYN.LE00.IN](https://api.worldbank.org/v2/country/can/indicator/SP.DYN.LE00.IN) (letzter Zugriff am 2025‑06‑11). <a name="wb-le"></a>
-6. World Bank. 2024. "Net migration – Canada". [https://api.worldbank.org/v2/country/can/indicator/SM.POP.NETM](https://api.worldbank.org/v2/country/can/indicator/SM.POP.NETM) (letzter Zugriff am 2025‑06‑11). <a name="wb-netm"></a>
-7. World Happiness Report. 2024. *Ranking 2024*. [https://worldhappiness.report](https://worldhappiness.report) (letzter Zugriff am 2025‑06‑11). <a name="whr"></a>
-8. World Bank. 2024. "GDP (current US$) – Canada". [https://api.worldbank.org/v2/country/can/indicator/NY.GDP.MKTP.CD](https://api.worldbank.org/v2/country/can/indicator/NY.GDP.MKTP.CD) (letzter Zugriff am 2025‑06‑11). <a name="wb-gdp"></a>
-9. World Bank. 2024. "GDP per capita (current US$) – Canada". [https://api.worldbank.org/v2/country/can/indicator/NY.GDP.PCAP.CD](https://api.worldbank.org/v2/country/can/indicator/NY.GDP.PCAP.CD) (letzter Zugriff am 2025‑06‑11). <a name="wb-gdppc"></a>
-10. World Bank. 2024. "Research and development expenditure (% of GDP) – Canada". [https://api.worldbank.org/v2/country/can/indicator/GB.XPD.RSDV.GD.ZS](https://api.worldbank.org/v2/country/can/indicator/GB.XPD.RSDV.GD.ZS) (letzter Zugriff am 2025‑06‑11). <a name="wb-rd"></a>
-11. World Bank. 2024. "Patent applications, residents – Canada". [https://api.worldbank.org/v2/country/can/indicator/IP.PAT.RESD](https://api.worldbank.org/v2/country/can/indicator/IP.PAT.RESD) (letzter Zugriff am 2025‑06‑11). <a name="wb-pat"></a>
-12. RestCountries. 2024. "Canada". [https://restcountries.com/v3.1/name/canada](https://restcountries.com/v3.1/name/canada) (letzter Zugriff am 2025‑06‑11). <a name="restcountries"></a>
-13. NATO. 2024. "Defence Expenditures of NATO Countries". [https://www.nato.int/cps/en/natohq/topics_49198.htm](https://www.nato.int/cps/en/natohq/topics_49198.htm) (letzter Zugriff am 2025‑06‑11). <a name="nato"></a>
-14. UNESCO World Heritage Centre. 2024. "World Heritage List". [https://whc.unesco.org/en/statesparties/ca](https://whc.unesco.org/en/statesparties/ca) (letzter Zugriff am 2025‑06‑11). <a name="unesco"></a>
+1. World Bank. 2024. "Population, total – Canada". [https://api.worldbank.org/v2/country/can/indicator/SP.POP.TOTL](https://api.worldbank.org/v2/country/can/indicator/SP.POP.TOTL) (letzter Zugriff am 2025‑06‑11). <a name="wb-pop-ca"></a>
+2. UN DESA. 2022. *World Population Prospects 2022*. [https://population.un.org/wpp](https://population.un.org/wpp) (letzter Zugriff am 2025‑06‑11). <a name="un-wpp-ca"></a>
+3. World Bank. 2024. "Urban population (% of total population) – Canada". [https://api.worldbank.org/v2/country/can/indicator/SP.URB.TOTL.IN.ZS](https://api.worldbank.org/v2/country/can/indicator/SP.URB.TOTL.IN.ZS) (letzter Zugriff am 2025‑06‑11). <a name="wb-urb-ca"></a>
+4. World Bank. 2024. "School enrollment, tertiary (% gross) – Canada". [https://api.worldbank.org/v2/country/can/indicator/SE.TER.ENRR](https://api.worldbank.org/v2/country/can/indicator/SE.TER.ENRR) (letzter Zugriff am 2025‑06‑11). <a name="wb-ter-ca"></a>
+5. World Bank. 2024. "Life expectancy at birth, total (years) – Canada". [https://api.worldbank.org/v2/country/can/indicator/SP.DYN.LE00.IN](https://api.worldbank.org/v2/country/can/indicator/SP.DYN.LE00.IN) (letzter Zugriff am 2025‑06‑11). <a name="wb-le-ca"></a>
+6. World Bank. 2024. "Net migration – Canada". [https://api.worldbank.org/v2/country/can/indicator/SM.POP.NETM](https://api.worldbank.org/v2/country/can/indicator/SM.POP.NETM) (letzter Zugriff am 2025‑06‑11). <a name="wb-netm-ca"></a>
+7. World Happiness Report. 2024. *Ranking 2024*. [https://worldhappiness.report](https://worldhappiness.report) (letzter Zugriff am 2025‑06‑11). <a name="whr-ca"></a>
+8. World Bank. 2024. "GDP (current US$) – Canada". [https://api.worldbank.org/v2/country/can/indicator/NY.GDP.MKTP.CD](https://api.worldbank.org/v2/country/can/indicator/NY.GDP.MKTP.CD) (letzter Zugriff am 2025‑06‑11). <a name="wb-gdp-ca"></a>
+9. World Bank. 2024. "GDP per capita (current US$) – Canada". [https://api.worldbank.org/v2/country/can/indicator/NY.GDP.PCAP.CD](https://api.worldbank.org/v2/country/can/indicator/NY.GDP.PCAP.CD) (letzter Zugriff am 2025‑06‑11). <a name="wb-gdppc-ca"></a>
+10. World Bank. 2024. "Research and development expenditure (% of GDP) – Canada". [https://api.worldbank.org/v2/country/can/indicator/GB.XPD.RSDV.GD.ZS](https://api.worldbank.org/v2/country/can/indicator/GB.XPD.RSDV.GD.ZS) (letzter Zugriff am 2025‑06‑11). <a name="wb-rd-ca"></a>
+11. World Bank. 2024. "Patent applications, residents – Canada". [https://api.worldbank.org/v2/country/can/indicator/IP.PAT.RESD](https://api.worldbank.org/v2/country/can/indicator/IP.PAT.RESD) (letzter Zugriff am 2025‑06‑11). <a name="wb-pat-ca"></a>
+12. RestCountries. 2024. "Canada". [https://restcountries.com/v3.1/name/canada](https://restcountries.com/v3.1/name/canada) (letzter Zugriff am 2025‑06‑11). <a name="restcountries-ca"></a>
+13. NATO. 2024. "Defence Expenditures of NATO Countries". [https://www.nato.int/cps/en/natohq/topics_49198.htm](https://www.nato.int/cps/en/natohq/topics_49198.htm) (letzter Zugriff am 2025‑06‑11). <a name="nato-ca"></a>
+14. UNESCO World Heritage Centre. 2024. "World Heritage List". [https://whc.unesco.org/en/statesparties/ca](https://whc.unesco.org/en/statesparties/ca) (letzter Zugriff am 2025‑06‑11). <a name="unesco-ca"></a>
 
 #### 11.3 🛠️ Modellierungen & Annahmen
 * Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
@@ -211,17 +211,17 @@ Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/
 Letzte Änderung: 2025-06-11
 
 <!-- Fußnotenverweise -->
-[^wb-pop]: World Bank – Population, total
-[^un-wpp]: UN DESA – World Population Prospects 2022
-[^wb-urb]: World Bank – Urban population (% of total)
-[^wb-ter]: World Bank – School enrollment, tertiary (% gross)
-[^wb-le]: World Bank – Life expectancy at birth
-[^wb-netm]: World Bank – Net migration
-[^whr]: World Happiness Report 2024
-[^wb-gdp]: World Bank – GDP (current US$)
-[^wb-gdppc]: World Bank – GDP per capita (current US$)
-[^wb-rd]: World Bank – R&D expenditure (% of GDP)
-[^wb-pat]: World Bank – Patent applications, residents
-[^restcountries]: RestCountries – Country data
-[^nato]: NATO – Defence Expenditures of NATO Countries
-[^unesco]: UNESCO World Heritage List
+[^wb-pop-ca]: World Bank – Population, total
+[^un-wpp-ca]: UN DESA – World Population Prospects 2022
+[^wb-urb-ca]: World Bank – Urban population (% of total)
+[^wb-ter-ca]: World Bank – School enrollment, tertiary (% gross)
+[^wb-le-ca]: World Bank – Life expectancy at birth
+[^wb-netm-ca]: World Bank – Net migration
+[^whr-ca]: World Happiness Report 2024
+[^wb-gdp-ca]: World Bank – GDP (current US$)
+[^wb-gdppc-ca]: World Bank – GDP per capita (current US$)
+[^wb-rd-ca]: World Bank – R&D expenditure (% of GDP)
+[^wb-pat-ca]: World Bank – Patent applications, residents
+[^restcountries-ca]: RestCountries – Country data
+[^nato-ca]: NATO – Defence Expenditures of NATO Countries
+[^unesco-ca]: UNESCO World Heritage List

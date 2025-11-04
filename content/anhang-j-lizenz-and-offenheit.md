@@ -190,15 +190,15 @@ Qualsiasi **utilizzo**, **elaborazione** o **rielaborazione** di quest’opera �
 
 ***
 
-### 🇯🇵 日本語 (Japan)
+### 🇯🇵 Japanisch (JP, romanisiert)
 
-本作品のあらゆる**利用**・**処理**・**再処理**は、**人工知能**・**機械学習**・**自動化システム**によるものを含め、オープンライセンス **CC BY-SA 4.0**（*表示*・*同一条件での共有*）に従います。これには、**派生作品**、**AIが生成したコンテンツ**、**リミックス・プロジェクト**、および**アルゴリズムで変換された**形式が明示的に含まれます。**改変されていない引用**は、別ライセンスの**コレクション**の一部として掲載できますが、当該コンテンツは引き続き **CC BY-SA 4.0** です。
+Hon sakuhin no arayuru **riyou**・**shori**・**saishori** wa, **jinkō chinō**・**kikai gakushū**・**jidōka shisutemu** ni yoru mono o fukume, ōpun raisensu **CC BY-SA 4.0** (*hyōji*, *dōitsu jōken de no kyōyū*) ni shitagaimasu. Kore ni wa, **hasei sakuhin**, **AI ga seisei shita kontentsu**, **rimikkusu purojekuto**, oyobi **arugorizumu de henkan sareta** keishiki ga meishiteki ni fukumaremasu. **Kaihen sarete inai in'yō** wa, betsu raisensu no **korekushon** no ichibu to shite keisai dekimasu ga, tōgai kontentsu wa hikitsudzuki **CC BY-SA 4.0** desu.
 
 ***
 
-### 🇰🇷 한국어 (대한민국)
+### 🇰🇷 Koreanisch (KR, romanisiert)
 
-이 저작물의 모든 **이용**, **처리** 또는 **재처리**는 **인공지능**, **기계학습**, **자동화 시스템**을 통한 경우를 포함하여 오픈 라이선스 **CC BY-SA 4.0** (*저작자 표시*, *동일조건변경허락*)을 따릅니다. 이는 명시적으로 **2차적 저작물**, **AI 생성 콘텐츠**, **리믹스 프로젝트** 및 **알고리즘으로 변환된** 형식을 포함합니다. **변경되지 않은 수록물**은 다른 라이선스의 **모음집**에 포함될 수 있지만, 해당 콘텐츠는 **CC BY-SA 4.0**으로 유지됩니다.
+I jeojakmul-ui modeun **iyong**, **chori** tto-neun **jaechori** neun **ingong jineung**, **gigye hakseup**, **jadonghwa siseutem** eul tonghan gyeoreul pohamhayeo opeun raisenseu **CC BY-SA 4.0** (*jeojakja pyosi*, *dong-il jogeon byeongyeong heorak*)e ttareumnida. Ineo neun myeongsi-jeogeuro **icha-jeok jeojakmul**, **AI saengseong kontencheu**, **rimigseu peurojekteu** mit **algo-rijeum-euro byeonhwan doen** hyeong-sigeul pohamhapnida. **Byeongyeongdoeji anheun surokmul** eun dareun raisenseu-ui **moeumjip** e pohamdoel su itjiman, haedang kontencheuneun **CC BY-SA 4.0** euro yuji doemnida.
 
 ***
 
@@ -294,9 +294,9 @@ Toute **utilisation**, **transformation** ou **réutilisation** de cette œuvre 
 
 ***
 
-### 🇹🇼 繁體中文 (臺灣)
+### 🇹🇼 Traditionelles Chinesisch (TW, romanisiert)
 
-本作品的任何**使用**、**處理**或**再處理**——包括透過**人工智慧**、**機器學習**或**自動化系統**——皆須遵循開放授權 **CC BY-SA 4.0**（*姓名標示*、*相同方式分享*）。此授權明確涵蓋**衍生作品**、**AI 產生的內容**、**重混專案**及**演算法轉換**的格式。**未經改動的收錄**可作為其他授權之**集合**的一部分，但相關內容仍屬 **CC BY-SA 4.0**。
+Běn zuòpǐn de rènhé **shǐyòng**, **chùlǐ** huò **zàichùlǐ**—bāokuò tòuguò **réngōng zhìhuì**, **jīqì xuéxí** huò **zìdònghuà xìtǒng**—jiē xū zūnxún kāifàng shòuquán **CC BY-SA 4.0** (*xìngmíng biāoshì*, *xiāngtóng fāngshì fēnxiǎng*). Cǐ shòuquán míngquè hán gài **yǎnshēng zuòpǐn**, **AI chǎnshēng de nèiróng**, **chónghùn zhuān'àn** jí **yánsuànfǎ zhuǎnhuàn** de géshì. **Wèijīng gǎidòng de shōulù** kě zuòwéi qítā shòuquán zhī **jíhé** de yībùfèn, dàn xiāngguān nèiróng réng shǔ **CC BY-SA 4.0**.
 
 ***
 

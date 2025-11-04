@@ -15,11 +15,11 @@ version: "1.0"
 ### 1. Überblick (Meta)
 
 * 🏳️ **Offizieller Name:** Königreich Spanien
-* 🗘️ **Geografische Lage:** Südwest-Europa, Iberische Halbinsel
+* 🌍 **Geografische Lage:** Südwest-Europa, Iberische Halbinsel
 * 👥 **Bevölkerung (2025):** 47 889 958 Einw.
 * 🧠 **Regierungsform & Verfassungsstatus (2025):** Parlamentarische konstitutionelle Monarchie (Verfassungsbindung: Ja)
 * 📅 ERDA-Status: Mitglied
-* 🗭 **Rolle im ERDA-Netzwerk (Zukunft):** Kulturvermittler, Green-Tech-Hub, Tourismus-& Innovationspartner
+* 🤝 **Rolle im ERDA-Netzwerk (Zukunft):** Kulturvermittler, Green-Tech-Hub, Tourismus-& Innovationspartner
 
 ***
 
