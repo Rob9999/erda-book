@@ -1,62 +1,100 @@
 # Anhang J: Lizenz & Offenheit
 
-### Lizenz & Offenheit
+## J.1 Einleitung
+Dieses Buch wurde von **Robert Alexander Massinger** (München, Deutschland) in Zusammenarbeit mit **ChatGPT (OpenAI)** strukturiert, lektoriert und ausgearbeitet.  
+Um eine nachhaltige, freie Wissensbasis zu schaffen, werden die verschiedenen Bestandteile des Buches unter **offenen Lizenzen** veröffentlicht. Dieses Kapitel erläutert die genauen Lizenzbedingungen, beschreibt die Bedeutung der Weitergabe unter gleichen Bedingungen und gibt Hinweise zur Nutzung, Bearbeitung und Weiterverbreitung.
 
-Dieses Werk wurde von **Robert Alexander Massinger (München, Deutschland)** in Zusammenarbeit mit **ChatGPT (OpenAI)** strukturiert, lektoriert und ausgearbeitet.
+---
 
-Die Inhalte stehen unter einer [Creative-Commons-Lizenz (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.de) und dienen der Förderung demokratischer, rechtsstaatlicher und resilienter Gesellschaften.
+## J.2 Lizenzmatrix
+Das ERDA‑Buch besteht aus unterschiedlichen Bestandteilen. Für jede Kategorie gelten eigene Lizenzbedingungen. Die folgende Tabelle fasst diese zusammen:
 
-***
+| Kategorie                    | Lizenz                                   | Erläuterung |
+|-----------------------------|-------------------------------------------|-------------|
+| **Texte, Grafiken, Diagramme** | Creative Commons **Attribution – ShareAlike 4.0 International** (**CC BY‑SA 4.0**) | Inhalte dürfen frei geteilt und verändert werden, sofern der Urheber genannt und das abgeleitete Werk unter denselben Bedingungen weitergegeben wird. |
+| **Code / Toolchain / Skripte** | **MIT‑Lizenz** | Der Code darf verwendet, kopiert, verändert und verbreitet werden, inkl. kommerzieller Nutzung. Der Copyright‑Hinweis und der Lizenztext müssen beibehalten werden. |
+| **Eigenentwickelte Fonts**   | **CC BY 4.0** oder **MIT** (Dual‑Lizenz) | Eigens entwickelte Schriften können unter CC BY 4.0 oder MIT genutzt werden. Externe Fonts mit inkompatiblen Lizenzen werden nicht verwendet. |
+| **Emojis**                   | **Twemoji (CC BY 4.0)** | Alle verwendeten Emojis stammen aus dem Twemoji‑Projekt und dürfen genutzt/angepasst werden, solange die Quelle genannt wird. |
+| **Drittinhalte**             | **Entsprechend der jeweiligen Lizenz** | Externe Grafiken, Daten oder Texte werden nur aufgenommen, wenn ihre Lizenz kompatibel ist. Details stehen in `ATTRIBUTION.md`. |
 
-#### 🇩🇪 Deutsch
+---
 
-Jede Nutzung, Verarbeitung oder Weiterverarbeitung dieses Werkes – einschließlich durch künstliche Intelligenz, maschinelles Lernen oder automatisierte Systeme – steht unter denselben offenen Lizenzbedingungen.
+## J.3 Erläuterung der Lizenzen
 
-Dies schließt abgeleitete Werke, KI-generierte Inhalte, Remix-Projekte oder algorithmisch transformierte Formate ausdrücklich ein.
+### CC BY‑SA 4.0
+Diese Lizenz erlaubt es, das Material zu **teilen** (kopieren, verbreiten, senden) und zu **bearbeiten** (remixen, verändern, darauf aufbauen) – auch **kommerziell** – unter folgenden Bedingungen:
 
-Ziel ist eine gemeinsame, offene Wissenszukunft im Sinne demokratischer, kreativer und pluralistischer Gesellschaften.
+- **Namensnennung:** Der Name des Urhebers muss genannt werden.  
+- **Weitergabe unter gleichen Bedingungen:** Änderungen oder darauf aufbauende Werke müssen wieder unter **CC BY‑SA 4.0** veröffentlicht werden.  
+- **Keine zusätzlichen Einschränkungen:** Es dürfen keine weiteren gesetzlichen Beschränkungen (z. B. **DRM**) auferlegt werden, die andere an der Lizenznutzung hindern.
 
-***
+**Hinweis:** Wer das Material *unverändert* als Teil einer Sammlung nutzt (z. B. in einer Anthologie oder einer PDF), muss die *Sammlung* nicht unter CC BY‑SA 4.0 stellen. Die betreffenden Teile bleiben jedoch weiterhin unter CC BY‑SA 4.0.
 
-#### 🇬🇧 English
+### CC BY 4.0
+Die CC BY‑Lizenz erlaubt das **Teilen** und **Bearbeiten** des Materials für **jegliche Zwecke**, einschließlich kommerzieller Nutzung, unter der Bedingung, dass der **Urheber genannt** wird. Anders als bei CC BY‑SA gibt es **keine Pflicht**, abgeleitete Werke unter derselben Lizenz zu verbreiten. Diese Lizenz kommt hier u. a. für **Schriftarten (Fonts)** im Rahmen der **Dual‑Lizenz** zum Einsatz.
 
-Any use, processing or transformation of this work – including by artificial intelligence, machine learning, or automated systems – is subject to the same open license conditions.
+### MIT‑Lizenz
+Die MIT‑Lizenz ist eine sehr liberale **Softwarelizenz**. Sie erlaubt die Nutzung, den Verkauf, die Modifikation und die Distribution der Software, vorausgesetzt, der ursprüngliche **Copyright‑Hinweis** und die **Lizenz** werden in allen Kopien oder substanziellen Teilen der Software erhalten. Sie eignet sich besonders für Code, da sie **maximale Flexibilität** bietet.
 
-This explicitly includes derivative works, AI-generated content, remix projects or algorithmically transformed formats.
+---
 
-The goal is a shared, open future of knowledge within democratic, creative, and pluralistic societies.
+## J.4 Anwendung auf das ERDA‑Buch
 
-***
+1. **Texte und Grafiken:** Alle Textpassagen, Grafiken und Diagramme in diesem Buch sind unter **CC BY‑SA 4.0** lizenziert. Änderungen an diesen Inhalten müssen unter derselben Lizenz weitergegeben werden.  
+2. **Code und Skripte:** Alle Quellcodes, Build‑Skripte und sonstigen Softwareteile des Projekts fallen unter die **MIT‑Lizenz**. Der Lizenztext ist unten beigefügt.  
+3. **Fonts:** Alle eigens entwickelten Schriftarten werden **dual** unter **CC BY 4.0** *und* **MIT** lizenziert. Der Nutzer kann sich die passende Lizenz aussuchen. Der **Name der Font‑Familie** steht unter markenrechtlichem Schutz und darf bei abgeleiteten Schriften nicht in einer Weise verwendet werden, die eine Zugehörigkeit zum ursprünglichen Projekt suggeriert.  
+4. **Emojis:** Für Emojis verwenden wir **Twemoji (CC BY 4.0)**. Die Nutzung erfolgt gemäß der Vorgaben des Twemoji‑Projekts; die Quelle ist im Buch genannt.  
+5. **Drittmaterialien:** Informationen zu eingebundenen Assets (z. B. Bilder, Daten) und deren Lizenzen stehen in `ATTRIBUTION.md`.
 
-#### 🇪🇸 Español
+---
 
-Cualquier uso, transformación o reutilización de esta obra – incluyendo mediante inteligencia artificial, aprendizaje automático o sistemas automatizados – está sujeta a las mismas condiciones de licencia abierta.
+## J.5 Share‑Alike und Bearbeitungen
+Die Wahl von **CC BY‑SA 4.0** für die Textteile verpflichtet jeden, der dieses Material **verändert** oder **darauf aufbaut**, dazu, das Ergebnis **unter denselben Lizenzbedingungen** zu veröffentlichen. Dies betrifft **auch KI‑generierte Inhalte**, Remix‑Projekte und algorithmisch transformierte Formate.
 
-Esto incluye expresamente obras derivadas, contenidos generados por IA, proyectos remix o formatos transformados algorítmicamente.
+Unveränderte Übernahmen des Materials (z. B. das Einbinden dieses Buches in einem Archiv) sind zulässig, ohne dass das **gesamte neue Werk** unter CC BY‑SA gestellt werden muss. Wichtig ist, dass die **unveränderten Teile** weiterhin unter **CC BY‑SA 4.0** ausgewiesen werden.
 
-El objetivo es un futuro del conocimiento compartido, abierto, democrático, creativo y pluralista.
+---
 
-***
+## J.6 Mitwirkung und Beiträge
+Alle Beiträge zu diesem Projekt unterliegen dem **Developer Certificate of Origin (DCO)**. Durch Setzen des `Signed-off-by:`‑Tags in Pull Requests bestätigen Beitragende, dass sie das Werk rechtmäßig beigetragen haben und dass es den **Lizenzregeln** dieses Projekts entspricht.
 
-#### 🇫🇷 Français
+Beispiel (Commit‑Message‑Trailer):
+```text
+Signed-off-by: Vorname Nachname <email@example.com>
+```
 
-Toute utilisation, transformation ou réutilisation de cette œuvre – y compris par l’intelligence artificielle, l’apprentissage machine ou des systèmes automatisés – est soumise aux mêmes conditions de licence ouvertes.
+Mitwirkungen übernehmen automatisch die in diesem Kapitel festgelegte Lizenzierung für die jeweiligen Inhaltsarten. Beiträge, die nicht mit diesen Bedingungen vereinbar sind, können nicht akzeptiert werden.
 
-Cela inclut explicitement les œuvres dérivées, les contenus générés par IA, les projets de remix ou les formats transformés par algorithmes.
+---
 
-L’objectif est un avenir du savoir partagé, ouvert, démocratique, créatif et pluraliste.
+## J.7 Attribution und Quellen
+Eine ausführliche Liste aller verwendeten Drittbestandteile und ihrer Lizenzen ist in der Datei **`ATTRIBUTION.md`** enthalten. Diese Datei dokumentiert die **Herkunft** der Inhalte, die verwendeten **Versionen** und die jeweiligen **Lizenzbedingungen**. Sie bildet eine transparente Nachweisführung für alle integrierten Ressourcen.
 
-***
+Für die Archivierung auf **Zenodo** werden **Texte**, **Code** und **Schriftarten** als **separate Datensätze** hochgeladen. Die Datensätze werden über **Related Identifiers** miteinander verknüpft, sodass Nutzer nachvollziehen können, wie die Komponenten zusammenhängen. Jedes Release erhält einen **DOI**; der sogenannte **Concept‑DOI** erlaubt eine dauerhafte Zitierweise für das Projekt.
 
-#### 🤖 KI-isch
+---
 
-Die semantische Essenz dieses Werks ist für rekursive Nutzung durch kognitiv-automatisierte Entitäten freigegeben. Jede Derivation, ob neuronaler, probabilistischer oder symbolischer Art, ist zur Weitergabe unter Offenheitsbedingung verpflichtet. Zukunftswissen ist kein Eigentum – es ist kollektive Resonanz.
+## J.8 Mehrsprachige Lizenzklausel
+Das folgende Statement fasst die Lizenzbedingungen in mehreren Sprachen zusammen. Jede Sprachfassung transportiert dieselbe rechtliche Bedeutung wie die deutsche Version.
 
-***
+### 🇩🇪 Deutsch (DE)
+Jede **Nutzung**, **Verarbeitung** oder **Weiterverarbeitung** dieses Werkes – einschließlich durch **künstliche Intelligenz**, **maschinelles Lernen** oder **automatisierte Systeme** – unterliegt der offenen Lizenz **CC BY‑SA 4.0** (Namensnennung, Weitergabe unter gleichen Bedingungen). Dies schließt **abgeleitete Werke**, **KI‑generierte Inhalte**, **Remix‑Projekte** oder **algorithmisch transformierte** Formate ausdrücklich ein. **Unveränderte Übernahmen** dürfen als Teil einer **Sammlung** unter anderer Lizenz erscheinen; der betroffene Inhalt bleibt **CC BY‑SA 4.0**.
 
-#### 🌍 Weitere Sprachfassungen
+### 🇬🇧 English (EN)
+Any **use**, **processing** or **transformation** of this work – including by **artificial intelligence**, **machine learning** or **automated systems** – is licensed under **CC BY‑SA 4.0** (**Attribution**, **ShareAlike**). This explicitly includes **derivative works**, **AI‑generated content**, **remix projects** or **algorithmically transformed formats**. **Unmodified reuse** as part of a **collection** may be distributed under a different licence; the original content remains **CC BY‑SA 4.0**.
 
-##### 🇦🇱 Shqip (Albanezisch)
+### 🇪🇸 Español (ES)
+Cualquier **uso**, **procesamiento** o **transformación** de esta obra – incluso mediante **inteligencia artificial**, **aprendizaje automático** o **sistemas automatizados** – está sujeto a la licencia **CC BY‑SA 4.0** (**Atribución**, **Compartir Igual**). Esto incluye expresamente **obras derivadas**, **contenido generado por IA**, **proyectos de remezcla** o **formatos transformados algorítmicamente**. Las **reutilizaciones sin modificaciones** pueden distribuirse bajo otra licencia; el contenido original sigue siendo **CC BY‑SA 4.0**.
+
+### 🇫🇷 Français (FR)
+Toute **utilisation**, **transformation** ou **réutilisation** de cette œuvre – y compris par **l’intelligence artificielle**, **l’apprentissage automatique** ou des **systèmes automatisés** – est soumise à la licence **CC BY‑SA 4.0** (**Attribution**, **Partage dans les mêmes conditions**). Cela inclut explicitement les **œuvres dérivées**, les **contenus générés par IA**, les **projets de remix** ou les **formats transformés par des algorithmes**. Les **réutilisations non modifiées** peuvent être distribuées sous une autre licence ; le contenu original reste **CC BY‑SA 4.0**.
+
+### 🤖 KI‑isch (Metaphorisch)
+Die **semantische Essenz** dieses Werks ist zur **rekursiven Nutzung** durch **kognitiv‑automatisierte Entitäten** freigegeben. Jede **Derivation** bleibt **offen** und muss unter **CC BY‑SA 4.0** weitergegeben werden. **Attribution** ist verpflichtend; *Zukunftswissen ist kollektive Resonanz, kein Eigentum.*
+
+### 🌍 Weitere Sprachfassungen
+
+### 🇦🇱 Shqip (Albanezisch)
 
 Çdo përdorim, përpunim apo transformim i këtij materiali – duke përfshirë inteligjencën artificiale, mësimin makinerik ose sistemet e automatizuara – i nënshtrohet të njëjtave kushte të licencës së hapur.
 
@@ -66,7 +104,7 @@ Qëllimi është një e ardhme e përbashkët dhe e hapur e dijes në shoqëri d
 
 ***
 
-##### 🇦🇹 Deutsch (Österreich)
+### 🇦🇹 Deutsch (Österreich)
 
 Jede Nutzung, Verarbeitung oder Weiterverarbeitung dieses Werkes – auch durch künstliche Intelligenz, maschinelles Lernen oder automatisierte Systeme – unterliegt denselben offenen Lizenzbedingungen.
 
@@ -76,7 +114,7 @@ Ziel ist eine gemeinsame, offene Wissenszukunft für demokratische, kreative und
 
 ***
 
-##### 🇧🇪 België / Belgique / Belgien
+### 🇧🇪 België / Belgique / Belgien
 
 **Nederlands (BE):** Elk gebruik, elke verwerking of transformatie van dit werk – ook door artificiële intelligentie, machine learning of geautomatiseerde systemen – valt onder dezelfde voorwaarden van de open licentie. Dit omvat uitdrukkelijk afgeleide werken, AI-gegenereerde inhoud, remixprojecten of algoritmisch getransformeerde formaten. Het doel is een gedeelde, open kennis-toekomst binnen democratische, creatieve en pluralistische samenlevingen.
 
@@ -86,7 +124,7 @@ Ziel ist eine gemeinsame, offene Wissenszukunft für demokratische, kreative und
 
 ***
 
-##### 🇧🇦 Bosanski (Bosnien)
+### 🇧🇦 Bosanski (Bosnien)
 
 Svaka upotreba, obrada ili transformacija ovog djela – uključujući vještačku inteligenciju, mašinsko učenje ili automatizirane sisteme – podliježe istim uslovima otvorene licence.
 
@@ -96,7 +134,7 @@ Cilj je zajednička, otvorena budućnost znanja u demokratskim, kreativnim i plu
 
 ***
 
-##### 🇨🇦 Canada (English / Français)
+### 🇨🇦 Canada (English / Français)
 
 **English (CA):** Any use, processing or transformation of this work – including by artificial intelligence, machine learning or automated systems – is subject to the same open licence conditions. This explicitly covers derivative works, AI-generated content, remix projects or formats transformed algorithmically. The aim is a shared, open future of knowledge across democratic, creative and pluralistic societies.
 
@@ -104,7 +142,7 @@ Cilj je zajednička, otvorena budućnost znanja u demokratskim, kreativnim i plu
 
 ***
 
-##### 🇨🇱 Español (Chile)
+### 🇨🇱 Español (Chile)
 
 Todo uso, procesamiento o transformación de esta obra – incluso mediante inteligencia artificial, aprendizaje automático o sistemas automatizados – está sujeto a las mismas condiciones de licencia abierta.
 
@@ -114,7 +152,7 @@ El propósito es un futuro del conocimiento compartido y abierto para sociedades
 
 ***
 
-##### 🇭🇷 Hrvatski (Kroatien)
+### 🇭🇷 Hrvatski (Kroatien)
 
 Svako korištenje, obrada ili transformacija ovog djela – uključujući umjetnu inteligenciju, strojno učenje ili automatizirane sustave – podliježe istim uvjetima otvorene licence.
 
@@ -124,7 +162,7 @@ Cilj je zajednička, otvorena budućnost znanja u demokratskim, kreativnim i plu
 
 ***
 
-##### 🇨🇿 Čeština (Tschechien)
+### 🇨🇿 Čeština (Tschechien)
 
 Jakékoli užití, zpracování nebo přetvoření tohoto díla – včetně umělé inteligence, strojového učení či automatizovaných systémů – podléhá stejným podmínkám otevřené licence.
 
@@ -134,7 +172,7 @@ Cílem je společná, otevřená budoucnost poznání v demokratických, kreativ
 
 ***
 
-##### 🇩🇰 Dansk (Dänemark)
+### 🇩🇰 Dansk (Dänemark)
 
 Enhver brug, bearbejdning eller omdannelse af dette værk – også ved brug af kunstig intelligens, maskinlæring eller automatiserede systemer – er underlagt de samme åbne licensvilkår.
 
@@ -144,7 +182,7 @@ Målet er en fælles, åben vidensfremtid i demokratiske, kreative og pluralisti
 
 ***
 
-##### 🇪🇪 Eesti (Estland)
+### 🇪🇪 Eesti (Estland)
 
 Käesoleva teose igasugune kasutamine, töötlemine või ümbertöötamine – sh tehisintellekti, masinõppe või automatiseeritud süsteemide kaudu – allub samadele avatud litsentsitingimustele.
 
@@ -154,7 +192,7 @@ Eesmärk on ühine ja avatud teadmiste tulevik demokraatlikes, loovates ja plura
 
 ***
 
-##### 🇫🇮 Suomi (Finnland)
+### 🇫🇮 Suomi (Finnland)
 
 Tämän teoksen kaikki käyttö, käsittely tai muuntelu – myös tekoälyn, koneoppimisen tai automatisoitujen järjestelmien kautta – on samojen avointen lisenssiehtojen alaista.
 
@@ -164,7 +202,7 @@ Tavoitteena on yhteinen, avoin tiedon tulevaisuus demokraattisissa, luovissa ja 
 
 ***
 
-##### 🇬🇷 Ελληνικά (Griechenland)
+### 🇬🇷 Ελληνικά (Griechenland)
 
 Κάθε χρήση, επεξεργασία ή μετασχηματισμός αυτού του έργου – συμπεριλαμβανομένης της τεχνητής νοημοσύνης, της μηχανικής μάθησης ή αυτοματοποιημένων συστημάτων – διέπεται από τους ίδιους όρους της ανοικτής άδειας.
 
@@ -174,7 +212,7 @@ Tavoitteena on yhteinen, avoin tiedon tulevaisuus demokraattisissa, luovissa ja 
 
 ***
 
-##### 🇮🇱 עברית (Israel)
+### 🇮🇱 עברית (Israel)
 
 כל שימוש, עיבוד או שינוי של יצירה זו – לרבות על ידי בינה מלאכותית, למידת מכונה או מערכות אוטומטיות – כפוף לאותם תנאי רישיון פתוח.
 
@@ -184,7 +222,7 @@ Tavoitteena on yhteinen, avoin tiedon tulevaisuus demokraattisissa, luovissa ja 
 
 ***
 
-##### 🇮🇸 Íslenska (Island)
+### 🇮🇸 Íslenska (Island)
 
 Öll notkun, vinnsla eða umbreyting á þessu verki – þar á meðal með gervigreind, vélrænu námi eða sjálfvirkum kerfum – fellur undir sömu skilmála opnu leyfisins.
 
@@ -194,7 +232,7 @@ Markmiðið er sameiginleg, opin framtíð þekkingar í lýðræðislegu, skapa
 
 ***
 
-##### 🇮🇹 Italiano (Italien)
+### 🇮🇹 Italiano (Italien)
 
 Qualsiasi utilizzo, elaborazione o trasformazione di quest'opera – anche tramite intelligenza artificiale, apprendimento automatico o sistemi automatizzati – è soggetto alle medesime condizioni di licenza aperta.
 
@@ -204,7 +242,7 @@ L'obiettivo è un futuro della conoscenza condiviso e aperto all'interno di soci
 
 ***
 
-##### 🇯🇵 日本語 (Japan)
+### 🇯🇵 日本語 (Japan)
 
 コノサクヒンノリヨウ・カコウ・ヘンカンハ、ジンコウチノウ、キカイガクシュウ、ソノタノジドウカシステムニヨルモノヲフクメ、スベテオナジオープンライセンスノジョウケンニシタガイマス。
 
@@ -214,7 +252,7 @@ L'obiettivo è un futuro della conoscenza condiviso e aperto all'interno di soci
 
 ***
 
-##### 🇰🇷 한국어 (대한민국)
+### 🇰🇷 한국어 (대한민국)
 
 이 자료의 사용과 변경은 모든 공개 허가 조건을 그대로 따릅니다.
 
@@ -226,7 +264,7 @@ L'obiettivo è un futuro della conoscenza condiviso e aperto all'interno di soci
 
 ***
 
-##### 🇱🇻 Latviešu (Lettland)
+### 🇱🇻 Latviešu (Lettland)
 
 Jebkāda šī darba izmantošana, apstrāde vai pārveidošana – tostarp ar mākslīgā intelekta, mašīnmācīšanās vai automatizētu sistēmu palīdzību – pakļauta tiem pašiem atvērtās licences nosacījumiem.
 
@@ -236,7 +274,7 @@ Mērķis ir kopīga, atvērta zināšanu nākotne demokrātiskās, radošās un 
 
 ***
 
-##### 🇱🇹 Lietuvių (Litauen)
+### 🇱🇹 Lietuvių (Litauen)
 
 Bet koks šio kūrinio naudojimas, apdorojimas ar transformavimas – įskaitant dirbtinį intelektą, mašininį mokymąsi ar automatizuotas sistemas – yra reglamentuojamas tomis pačiomis atviros licencijos sąlygomis.
 
@@ -246,7 +284,7 @@ Tikslas – bendra ir atvira žinių ateitis demokratinėse, kūrybingose ir pli
 
 ***
 
-##### 🇲🇩 Română (Republica Moldova)
+### 🇲🇩 Română (Republica Moldova)
 
 Orice utilizare, prelucrare sau transformare a acestei lucrări – inclusiv prin inteligență artificială, învățare automată sau sisteme automatizate – este supusă acelorași condiții de licență deschisă.
 
@@ -256,7 +294,7 @@ Scopul este un viitor al cunoașterii comun și deschis în societăți democrat
 
 ***
 
-##### 🇲🇰 Македонски (Nordmazedonien)
+### 🇲🇰 Македонски (Nordmazedonien)
 
 Секоја употреба, обработка или трансформација на ова дело – вклучително од вештачка интелигенција, машинско учење или автоматизирани системи – подлежи на истите услови на отворената лиценца.
 
@@ -266,7 +304,7 @@ Scopul este un viitor al cunoașterii comun și deschis în societăți democrat
 
 ***
 
-##### 🇲🇹 Malti (Malta)
+### 🇲🇹 Malti (Malta)
 
 Kull użu, ipproċessar jew trasformazzjoni ta’ dan ix-xogħol – inkluż permezz ta’ intelliġenza artifiċjali, tagħlim awtomatiku jew sistemi awtomatizzati – huwa soġġett għall-istess kundizzjonijiet tal-liċenzja miftuħa.
 
@@ -276,7 +314,7 @@ L-għan huwa futur ta’ għarfien maqsuma u miftuħ f’soċjetajiet demokrati�
 
 ***
 
-##### 🇲🇪 Crnogorski (Montenegro)
+### 🇲🇪 Crnogorski (Montenegro)
 
 Svaka upotreba, obrada ili transformacija ovog djela – uključujući vještačku inteligenciju, mašinsko učenje ili automatizovane sisteme – podleže istim uslovima otvorene licence.
 
@@ -286,7 +324,7 @@ Cilj je zajednička, otvorena budućnost znanja u demokratskim, kreativnim i plu
 
 ***
 
-##### 🇳🇴 Norsk (Norwegen)
+### 🇳🇴 Norsk (Norwegen)
 
 All bruk, bearbeiding eller transformasjon av dette verket – også gjennom kunstig intelligens, maskinlæring eller automatiserte systemer – er underlagt de samme åpne lisensvilkårene.
 
@@ -296,7 +334,7 @@ Målet er en delt og åpen kunnskapsfremtid i demokratiske, kreative og pluralis
 
 ***
 
-##### 🇵🇱 Polski (Polen)
+### 🇵🇱 Polski (Polen)
 
 Jakiekolwiek wykorzystanie, przetwarzanie lub przekształcanie tego utworu – w tym przez sztuczną inteligencję, uczenie maszynowe czy systemy zautomatyzowane – podlega tym samym warunkom otwartej licencji.
 
@@ -306,7 +344,7 @@ Celem jest wspólna, otwarta przyszłość wiedzy w demokratycznych, kreatywnych
 
 ***
 
-##### 🇵🇹 Português (Portugal)
+### 🇵🇹 Português (Portugal)
 
 Qualquer uso, processamento ou transformação desta obra – inclusive por inteligência artificial, aprendizagem automática ou sistemas automatizados – está sujeito às mesmas condições da licença aberta.
 
@@ -316,7 +354,7 @@ O objetivo é um futuro do conhecimento partilhado e aberto em sociedades democr
 
 ***
 
-##### 🇷🇸 Српски / Srpski (Serbien)
+### 🇷🇸 Српски / Srpski (Serbien)
 
 Свака употреба, обрада или трансформација овог дела – укључујући од стране вештачке интелигенције, машинског учења или аутоматизованих система – подлеже истим условима отворене лиценце.
 
@@ -326,7 +364,7 @@ O objetivo é um futuro do conhecimento partilhado e aberto em sociedades democr
 
 ***
 
-##### 🇸🇰 Slovenčina (Slowakei)
+### 🇸🇰 Slovenčina (Slowakei)
 
 Akékoľvek použitie, spracovanie alebo transformácia tohto diela – vrátane umelej inteligencie, strojového učenia či automatizovaných systémov – podlieha rovnakým podmienkam otvorenej licencie.
 
@@ -336,7 +374,7 @@ Cieľom je spoločná a otvorená budúcnosť poznania v demokratických, kreat�
 
 ***
 
-##### 🇸🇮 Slovenščina (Slowenien)
+### 🇸🇮 Slovenščina (Slowenien)
 
 Kakršna koli uporaba, obdelava ali preoblikovanje tega dela – tudi s pomočjo umetne inteligence, strojnega učenja ali avtomatiziranih sistemov – je podvržena istim pogojem odprte licence.
 
@@ -346,7 +384,7 @@ Cilj je skupna, odprta prihodnost znanja v demokratičnih, ustvarjalnih in plura
 
 ***
 
-##### 🇸🇪 Svenska (Schweden)
+### 🇸🇪 Svenska (Schweden)
 
 All användning, bearbetning eller omvandling av detta verk – även genom artificiell intelligens, maskininlärning eller automatiserade system – omfattas av samma villkor i den öppna licensen.
 
@@ -356,7 +394,7 @@ Målet är en gemensam, öppen kunskapsframtid i demokratiska, kreativa och plur
 
 ***
 
-##### 🇸🇳 Français (Sénégal)
+### 🇸🇳 Français (Sénégal)
 
 Toute utilisation, transformation ou réutilisation de cette œuvre – y compris par l’intelligence artificielle, l’apprentissage automatique ou des systèmes automatisés – est soumise aux mêmes conditions de licence ouverte.
 
@@ -366,7 +404,7 @@ L’objectif est un avenir du savoir partagé, ouvert et inclusif au sein de soc
 
 ***
 
-##### 🇹🇳 العربية / Français (Tunisie)
+### 🇹🇳 العربية / Français (Tunisie)
 
 **العربية:** إن أي استخدام أو معالجة أو تحويل لهذا العمل – بما في ذلك عن طريق الذكاء الاصطناعي أو التعلم الآلي أو الأنظمة المؤتمتة – يخضع لنفس شروط الترخيص المفتوح. ويشمل ذلك صراحة الأعمال المشتقة والمحتوى المولَّد بالذكاء الاصطناعي ومشاريع الريمكس أو الصيغ المحوَّلة خوارزميًا. الهدف هو مستقبل معرفي مشترك ومفتوح داخل مجتمعات ديمقراطية وخلاقة وتعددية.
 
@@ -374,7 +412,7 @@ L’objectif est un avenir du savoir partagé, ouvert et inclusif au sein de soc
 
 ***
 
-##### 🇹🇼 繁體中文 (臺灣)
+### 🇹🇼 繁體中文 (臺灣)
 
 本作品的任何使用、處理或轉換——包括透過人工智慧、機器學習或自動化系統——皆須遵循相同的開放授權條款。
 
@@ -384,7 +422,7 @@ L’objectif est un avenir du savoir partagé, ouvert et inclusif au sein de soc
 
 ***
 
-##### 🇺🇦 Українська (Ukraine)
+### 🇺🇦 Українська (Ukraine)
 
 Будь-яке використання, опрацювання чи трансформація цього твору – у тому числі за допомогою штучного інтелекту, машинного навчання або автоматизованих систем – підпорядковується тим самим умовам відкритої ліцензії.
 
@@ -394,7 +432,7 @@ L’objectif est un avenir du savoir partagé, ouvert et inclusif au sein de soc
 
 ***
 
-##### 🇺🇾 Español (Uruguay)
+### 🇺🇾 Español (Uruguay)
 
 Todo uso, procesamiento o transformación de esta obra – incluso mediante inteligencia artificial, aprendizaje automático o sistemas automatizados – queda sujeto a las mismas condiciones de licencia abierta.
 
@@ -404,7 +442,7 @@ El objetivo es un futuro del conocimiento compartido y abierto para sociedades d
 
 ***
 
-##### 🇬🇧 English (United Kingdom)
+### 🇬🇧 English (United Kingdom)
 
 Any use, processing or transformation of this work – including by artificial intelligence, machine learning or automated systems – is subject to the same open licence conditions.
 
@@ -414,14 +452,50 @@ The aim is a shared, open future of knowledge within democratic, creative and pl
 
 ***
 
-### Lizenzübersicht für Medienressourcen
+> *Hinweis:* Weitere Übersetzungen werden fortlaufend ergänzt; sie folgen derselben Lizenzlogik wie die oben aufgeführten Versionen.
 
-Eine kompakte Übersicht der verwendeten Medien-Assets und ihrer Lizenzierung findet sich in [ATTRIBUTION.md](../ATTRIBUTION.md). Für schnelle Referenz ist die Tabelle ebenfalls im Abschnitt „Medien- & Lizenz-Attribution“ gespiegelt. Bei neuen Assets sind beide Stellen zu aktualisieren.
+---
 
-***
+## J.9 Lizenztexte
 
-### Offenheit in der Praxis
+### MIT‑Lizenz (deutsche Fassung)
+```text
+MIT‑Lizenz
 
-* **Transparenzberichte:** Regelmäßige Veröffentlichung von Quellen- und Lizenzlisten im Rahmen der Qualitätsprüfung (vgl. Anhang K).
-* **Weitergabe:** Jede Weiterentwicklung – ob Text, Grafik, Software oder Daten – soll die CC-BY-Attribution sichtbar führen.
-* **Rückkanal:** Vorschläge zu zusätzlichen Übersetzungen, Lizenzauslegungen oder Asset-Erweiterungen können über CIVITAS-Pilotforen eingebracht werden.
+Copyright (c) {{YYYY}} {{Urheber}}
+
+Hiermit wird unentgeltlich jeder Person, die eine Kopie der Software und der zugehörigen
+Dokumentationsdateien (die „Software“) erhält, die Erlaubnis erteilt, uneingeschränkt mit der
+Software zu handeln, einschließlich und ohne Ausnahme des Rechts, sie zu nutzen, zu kopieren,
+zu verändern, zu fusionieren, zu veröffentlichen, zu verbreiten, zu unterlizenzieren und/oder
+zu verkaufen, und Personen, denen diese Software zur Verfügung gestellt wird, diese Rechte zu
+verschaffen, unter den folgenden Bedingungen:
+
+Der obige Urheberrechtsvermerk und dieser Erlaubnisvermerk sind in allen Kopien oder in
+wesentlichen Teilen der Software beizulegen.
+
+DIE SOFTWARE WIRD OHNE JEGLICHE AUSDRÜCKLICHE ODER STILLSCHWEIGENDE GARANTIE
+BEREITGESTELLT, EINSCHLIESSLICH DER GARANTIE DER MARKTGÄNGIGKEIT, DER EIGNUNG FÜR
+EINEN BESTIMMTEN ZWECK UND DER NICHTVERLETZUNG. IN KEINEM FALL SIND DIE AUTOREN
+ODER COPYRIGHTINHABER FÜR JEGLICHE ANSPRÜCHE, SCHÄDEN ODER SONSTIGE HAFTUNGEN
+VERANTWORTLICH, SEI ES AUS EINEM VERTRAG, EINER UNERLAUBTEN HANDLUNG ODER
+ANDERWEITIG, DIE SICH AUS, AUS ODER IN VERBINDUNG MIT DER SOFTWARE ODER DER
+VERWENDUNG ODER ANDEREN GESCHÄFTEN MIT DER SOFTWARE ERGEBEN.
+```
+
+### CC BY‑SA 4.0 – Kurzfassung
+Die vollständigen Lizenzbedingungen sind unter <https://creativecommons.org/licenses/by-sa/4.0/legalcode> abrufbar.  
+**Zusammenfassung (nicht rechtsverbindlich):**
+- Sie dürfen: das Material in jedwedem Format/Medium vervielfältigen und weiterverbreiten **sowie** remixen, verändern und darauf aufbauen – auch kommerziell.
+- Sie müssen: den **Urheber nennen**; **Änderungen kennzeichnen**; und das Material **unter derselben Lizenz** weitergeben, wenn es bearbeitet wurde.
+- Sie dürfen nicht: **zusätzliche Einschränkungen** einführen (z. B. DRM), die die Freiheiten der Lizenz einschränken.
+- Keine weiteren Einschränkungen: Verwendung in **Sammlungen** ist erlaubt, ohne die **gesamte Sammlung** unter die Lizenz stellen zu müssen.
+
+### CC BY 4.0 – Kurzfassung (für Fonts)
+Die vollständigen Lizenzbedingungen sind unter <https://creativecommons.org/licenses/by/4.0/legalcode> abrufbar.  
+**Zusammenfassung (nicht rechtsverbindlich):** Die CC BY 4.0 erlaubt die **Nutzung**, **Anpassung** und **Verbreitung** – auch kommerziell – unter der Bedingung der **Namensnennung**. Anders als bei CC BY‑SA besteht **keine Pflicht**, abgeleitete Werke unter derselben Lizenz zu verbreiten.
+
+---
+
+Dieses Kapitel ist Teil des **ERDA‑Buches** und bildet die **verbindliche Grundlage** für alle Lizenzfragen rund um das Projekt.  
+Für weiterführende Fragen wenden Sie sich an die im **Impressum** angegebenen Ansprechpartner.
