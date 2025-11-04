@@ -553,13 +553,23 @@ def _normalize_fallback_spec(
         entries.append(entry)
         seen.add(normalized)
 
+    add_dejavu = False
     if _normalize_font_name("OpenMoji Color") in seen:
         if _normalize_font_name("OpenMoji Black") not in seen:
             entries.append("OpenMoji Black:mode=harf")
             seen.add(_normalize_font_name("OpenMoji Black"))
         if _normalize_font_name("DejaVu Sans") not in seen:
-            entries.append("DejaVu Sans:mode=harf")
-            seen.add(_normalize_font_name("DejaVu Sans"))
+            add_dejavu = True
+
+    erda_font_name = "ERDA CC-BY CJK"
+    erda_normalized = _normalize_font_name(erda_font_name)
+    if erda_normalized not in seen:
+        entries.append(f"{erda_font_name}:mode=harf")
+        seen.add(erda_normalized)
+
+    if add_dejavu:
+        entries.append("DejaVu Sans:mode=harf")
+        seen.add(_normalize_font_name("DejaVu Sans"))
 
     return "; ".join(entries)
 
