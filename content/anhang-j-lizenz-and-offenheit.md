@@ -96,361 +96,225 @@ Die **semantische Essenz** dieses Werks ist zur **rekursiven Nutzung** durch **k
 
 ### 🇦🇱 Shqip (Albanezisch)
 
-Çdo përdorim, përpunim apo transformim i këtij materiali – duke përfshirë inteligjencën artificiale, mësimin makinerik ose sistemet e automatizuara – i nënshtrohet të njëjtave kushte të licencës së hapur.
-
-Kjo përfshin shprehimisht veprat derivuese, përmbajtjet e krijuara nga IA, projektet remix ose formatet e transformuara algoritmikisht.
-
-Qëllimi është një e ardhme e përbashkët dhe e hapur e dijes në shoqëri demokratike, krijuese dhe pluraliste.
+Çdo **përdorim**, **përpunim** ose **ripërpunim** i këtij materiali – përfshirë përmes **inteligjencës artificiale**, **mësimit të makinës** ose **sistemeve të automatizuara** – i nënshtrohet licencës së hapur **CC BY-SA 4.0** (*atribuim*, *ndarje nën të njëjtat kushte*). Kjo përfshin në mënyrë të qartë **vepra të derivuara**, **përmbajtje të gjeneruara nga IA**, **projekte remix** ose **formate të transformuara algoritmikisht**. **Riprodhimet e pandryshuara** mund të shfaqen si pjesë e një **koleksioni** me licencë tjetër; përmbajtja përkatëse mbetet **CC BY-SA 4.0**.
 
 ***
 
 ### 🇦🇹 Deutsch (Österreich)
 
-Jede Nutzung, Verarbeitung oder Weiterverarbeitung dieses Werkes – auch durch künstliche Intelligenz, maschinelles Lernen oder automatisierte Systeme – unterliegt denselben offenen Lizenzbedingungen.
-
-Dies schließt ausdrücklich abgeleitete Werke, KI-generierte Inhalte, Remix-Projekte oder algorithmisch transformierte Formate ein.
-
-Ziel ist eine gemeinsame, offene Wissenszukunft für demokratische, kreative und pluralistische Gesellschaften.
+Jede **Nutzung**, **Verarbeitung** oder **Weiterverarbeitung** dieses Werkes – einschließlich durch **künstliche Intelligenz**, **maschinelles Lernen** oder **automatisierte Systeme** – unterliegt der offenen Lizenz **CC BY-SA 4.0** (*Namensnennung*, *Weitergabe unter gleichen Bedingungen*). Dies schließt ausdrücklich **abgeleitete Werke**, **KI-generierte Inhalte**, **Remix-Projekte** oder **algorithmisch transformierte** Formate ein. **Unveränderte Übernahmen** dürfen als Teil einer **Sammlung** unter anderer Lizenz erscheinen; der betroffene Inhalt bleibt **CC BY-SA 4.0**.
 
 ***
 
 ### 🇧🇪 België / Belgique / Belgien
 
-**Nederlands (BE):** Elk gebruik, elke verwerking of transformatie van dit werk – ook door artificiële intelligentie, machine learning of geautomatiseerde systemen – valt onder dezelfde voorwaarden van de open licentie. Dit omvat uitdrukkelijk afgeleide werken, AI-gegenereerde inhoud, remixprojecten of algoritmisch getransformeerde formaten. Het doel is een gedeelde, open kennis-toekomst binnen democratische, creatieve en pluralistische samenlevingen.
+**Nederlands (BE):** Elk **gebruik**, **verwerking** of **verdere verwerking** van dit werk – inclusief via **kunstmatige intelligentie**, **machine learning** of **geautomatiseerde systemen** – valt onder de open licentie **CC BY-SA 4.0** (*naamsvermelding*, *delen onder dezelfde voorwaarden*). Dit omvat uitdrukkelijk **afgeleide werken**, **door AI gegenereerde inhoud**, **remixprojecten** of **algoritmisch getransformeerde** formaten. **Ongewijzigde overnames** mogen als onderdeel van een **collectie** onder een andere licentie verschijnen; de betreffende inhoud blijft **CC BY-SA 4.0**.
 
-**Français (BE):** Toute utilisation, transformation ou réutilisation de cette œuvre – y compris par l’intelligence artificielle, l’apprentissage automatique ou des systèmes automatisés – est soumise aux mêmes conditions de licence ouverte. Cela inclut explicitement les œuvres dérivées, les contenus générés par IA, les projets de remix ou les formats transformés algorithmiquement. L’objectif est un avenir du savoir partagé, ouvert et pluraliste pour des sociétés démocratiques et créatives.
+**Français (BE):** Toute **utilisation**, **transformation** ou **réutilisation** de cette œuvre – y compris par **intelligence artificielle**, **apprentissage automatique** ou **systèmes automatisés** – est soumise à la licence ouverte **CC BY-SA 4.0** (*attribution*, *partage dans les mêmes conditions*). Cela inclut explicitement les **œuvres dérivées**, les **contenus générés par l’IA**, les **projets de remix** ou les formats **transformés algorithmiquement**. Les **reprises inchangées** peuvent paraître dans une **collection** sous une autre licence ; le contenu concerné reste **CC BY-SA 4.0**.
 
-**Deutsch (BE):** Jede Nutzung, Verarbeitung oder Weiterverarbeitung dieses Werkes – einschließlich durch KI, maschinelles Lernen oder automatisierte Systeme – steht unter denselben offenen Lizenzbedingungen. Das umfasst ausdrücklich abgeleitete Werke, KI-generierte Inhalte, Remix-Projekte oder algorithmisch transformierte Formate. Ziel ist eine offene Wissenszukunft für demokratische, kreative, pluralistische Gesellschaften.
+**Deutsch (BE):** Jede **Nutzung**, **Verarbeitung** oder **Weiterverarbeitung** dieses Werkes – einschließlich durch **künstliche Intelligenz**, **maschinelles Lernen** oder **automatisierte Systeme** – steht unter der offenen Lizenz **CC BY-SA 4.0** (*Namensnennung*, *Weitergabe unter gleichen Bedingungen*). Das umfasst ausdrücklich **abgeleitete Werke**, **KI-generierte Inhalte**, **Remix-Projekte** oder **algorithmisch transformierte** Formate. **Unveränderte Übernahmen** dürfen als Teil einer **Sammlung** unter anderer Lizenz erscheinen; der betreffende Inhalt bleibt **CC BY-SA 4.0**.
 
 ***
 
 ### 🇧🇦 Bosanski (Bosnien)
 
-Svaka upotreba, obrada ili transformacija ovog djela – uključujući vještačku inteligenciju, mašinsko učenje ili automatizirane sisteme – podliježe istim uslovima otvorene licence.
-
-To izričito uključuje izvedena djela, sadržaje koje generira KI, remix projekte ili algoritamski transformirane formate.
-
-Cilj je zajednička, otvorena budućnost znanja u demokratskim, kreativnim i pluralističkim društvima.
+Svaka **upotreba**, **obrada** ili **dalja obrada** ovog djela – uključujući putem **vještačke inteligencije**, **mašinskog učenja** ili **automatizovanih sistema** – podliježe otvorenoj licenci **CC BY-SA 4.0** (*pripisivanje*, *dijeljenje pod istim uslovima*). Ovo izričito obuhvata **izvedena djela**, **sadržaje koje generiše AI**, **remix projekte** ili **algoritamski transformisane** formate. **Neizmijenjene preuzimke** mogu se pojaviti kao dio **kolekcije** pod drugom licencom; pogođeni sadržaj ostaje **CC BY-SA 4.0**.
 
 ***
 
 ### 🇨🇦 Canada (English / Français)
 
-**English (CA):** Any use, processing or transformation of this work – including by artificial intelligence, machine learning or automated systems – is subject to the same open licence conditions. This explicitly covers derivative works, AI-generated content, remix projects or formats transformed algorithmically. The aim is a shared, open future of knowledge across democratic, creative and pluralistic societies.
+**English (CA):** Any **use**, **processing** or **further processing** of this work – including through **artificial intelligence**, **machine learning** or **automated systems** – is governed by the open licence **CC BY-SA 4.0** (*attribution*, *share alike*). This explicitly covers **derivative works**, **AI-generated content**, **remix projects** and **algorithmically transformed** formats. **Unmodified reproductions** may appear within a **collection** under a different licence; the affected material remains **CC BY-SA 4.0**.
 
-**Français (CA):** Toute utilisation, transformation ou réutilisation de cette œuvre – y compris par l’intelligence artificielle, l’apprentissage automatique ou des systèmes automatisés – est assujettie aux mêmes conditions de licence ouverte. Cela comprend explicitement les œuvres dérivées, les contenus générés par l’IA, les projets de remix ou les formats transformés algorithmiquement. L’objectif est un avenir du savoir partagé, ouvert et pluraliste au sein de sociétés démocratiques et créatives.
+**Français (CA):** Toute **utilisation**, **transformation** ou **réutilisation** de cette œuvre – y compris par **intelligence artificielle**, **apprentissage automatique** ou **systèmes automatisés** – est assujettie à la licence ouverte **CC BY-SA 4.0** (*attribution*, *partage dans les mêmes conditions*). Cela comprend explicitement les **œuvres dérivées**, les **contenus générés par l’IA**, les **projets de remix** ou les formats **transformés algorithmiquement**. Les **reprises inchangées** peuvent figurer dans une **collection** sous une autre licence ; le contenu visé demeure **CC BY-SA 4.0**.
 
 ***
 
 ### 🇨🇱 Español (Chile)
 
-Todo uso, procesamiento o transformación de esta obra – incluso mediante inteligencia artificial, aprendizaje automático o sistemas automatizados – está sujeto a las mismas condiciones de licencia abierta.
-
-Esto incluye expresamente obras derivadas, contenidos generados por IA, proyectos de remezcla o formatos transformados algorítmicamente.
-
-El propósito es un futuro del conocimiento compartido y abierto para sociedades democráticas, creativas y pluralistas.
+Todo **uso**, **procesamiento** o **reprocesamiento** de esta obra – incluso mediante **inteligencia artificial**, **aprendizaje automático** o **sistemas automatizados** – está sujeto a la licencia abierta **CC BY-SA 4.0** (*atribución*, *compartir bajo las mismas condiciones*). Esto incluye expresamente las **obras derivadas**, los **contenidos generados por IA**, los **proyectos de remezcla** o los formatos **transformados algorítmicamente**. Las **reproducciones sin cambios** pueden aparecer como parte de una **colección** con otra licencia; el contenido afectado sigue siendo **CC BY-SA 4.0**.
 
 ***
 
 ### 🇭🇷 Hrvatski (Kroatien)
 
-Svako korištenje, obrada ili transformacija ovog djela – uključujući umjetnu inteligenciju, strojno učenje ili automatizirane sustave – podliježe istim uvjetima otvorene licence.
-
-To izričito uključuje izvedena djela, sadržaje koje generira AI, projekte remiksa ili algoritamski transformirane formate.
-
-Cilj je zajednička, otvorena budućnost znanja u demokratskim, kreativnim i pluralističkim društvima.
+Svako **korištenje**, **obrada** ili **daljnja obrada** ovog djela – uključujući putem **umjetne inteligencije**, **strojnog učenja** ili **automatiziranih sustava** – podliježe otvorenoj licenci **CC BY-SA 4.0** (*pripisivanje*, *dijeljenje pod istim uvjetima*). To izričito uključuje **izvedena djela**, **sadržaj koji generira AI**, **remiks projekte** ili **algoritamski transformirane** formate. **Neizmijenjena preuzimanja** mogu se pojaviti kao dio **zbirke** pod drugom licencom; zahvaćeni sadržaj ostaje **CC BY-SA 4.0**.
 
 ***
 
 ### 🇨🇿 Čeština (Tschechien)
 
-Jakékoli užití, zpracování nebo přetvoření tohoto díla – včetně umělé inteligence, strojového učení či automatizovaných systémů – podléhá stejným podmínkám otevřené licence.
-
-To výslovně zahrnuje odvozená díla, obsah generovaný AI, remixové projekty nebo algoritmicky transformované formáty.
-
-Cílem je společná, otevřená budoucnost poznání v demokratických, kreativních a pluralitních společnostech.
+Jakékoli **užití**, **zpracování** nebo **další zpracování** tohoto díla – včetně prostřednictvím **umělé inteligence**, **strojového učení** či **automatizovaných systémů** – podléhá otevřené licenci **CC BY-SA 4.0** (*uvedení autora*, *sdílení za stejných podmínek*). To výslovně zahrnuje **odvozená díla**, **obsah generovaný AI**, **remixové projekty** nebo **algoritmicky transformované** formáty. **Nezměněné převzetí** se může objevit jako součást **sbírky** pod jinou licencí; dotčený obsah zůstává **CC BY-SA 4.0**.
 
 ***
 
 ### 🇩🇰 Dansk (Dänemark)
 
-Enhver brug, bearbejdning eller omdannelse af dette værk – også ved brug af kunstig intelligens, maskinlæring eller automatiserede systemer – er underlagt de samme åbne licensvilkår.
-
-Dette omfatter udtrykkeligt afledte værker, AI-genereret indhold, remixprojekter eller algoritmisk transformerede formater.
-
-Målet er en fælles, åben vidensfremtid i demokratiske, kreative og pluralistiske samfund.
+Enhver **brug**, **bearbejdning** eller **videre bearbejdning** af dette værk – også via **kunstig intelligens**, **maskinlæring** eller **automatiserede systemer** – er omfattet af den åbne licens **CC BY-SA 4.0** (*kreditering*, *deling på samme vilkår*). Dette omfatter udtrykkeligt **afledte værker**, **AI-genereret indhold**, **remixprojekter** eller **algoritmisk transformerede** formater. **Uændrede overtagelser** kan indgå i en **samling** under en anden licens; det berørte indhold forbliver **CC BY-SA 4.0**.
 
 ***
 
 ### 🇪🇪 Eesti (Estland)
 
-Käesoleva teose igasugune kasutamine, töötlemine või ümbertöötamine – sh tehisintellekti, masinõppe või automatiseeritud süsteemide kaudu – allub samadele avatud litsentsitingimustele.
-
-See hõlmab sõnaselgelt tuletatud teoseid, tehisintellekti loodud sisu, remix-projekte või algoritmiliselt muudetud vorme.
-
-Eesmärk on ühine ja avatud teadmiste tulevik demokraatlikes, loovates ja pluralistlikes ühiskondades.
+Käesoleva teose igasugune **kasutamine**, **töötlemine** või **edastöötlemine** – sh **tehisintellekti**, **masinõppe** või **automatiseeritud süsteemide** abil – allub avatud litsentsile **CC BY-SA 4.0** (*autorile viitamine*, *jagamine samadel tingimustel*). See hõlmab selgesõnaliselt **tuletatud teoseid**, **tehisintellekti loodud sisu**, **remiksiprojekte** või **algoritmiliselt muundatud** vorminguid. **Muutmata ületoomised** võivad ilmuda **kogumiku** osana teise litsentsi all; vastav sisu jääb **CC BY-SA 4.0**.
 
 ***
 
 ### 🇫🇮 Suomi (Finnland)
 
-Tämän teoksen kaikki käyttö, käsittely tai muuntelu – myös tekoälyn, koneoppimisen tai automatisoitujen järjestelmien kautta – on samojen avointen lisenssiehtojen alaista.
-
-Tämä kattaa nimenomaisesti johdannaisteokset, tekoälyn tuottaman sisällön, remix-hankkeet ja algoritmisesti muokatut muodot.
-
-Tavoitteena on yhteinen, avoin tiedon tulevaisuus demokraattisissa, luovissa ja pluralistisissa yhteiskunnissa.
+Tämän teoksen kaikki **käyttö**, **käsittely** ja **jatkokäsittely** – myös **tekoälyn**, **koneoppimisen** tai **automaattisten järjestelmien** kautta – kuuluu avoimen **CC BY-SA 4.0** -lisenssin piiriin (*nimeäminen*, *jakaminen samoilla ehdoilla*). Tämä kattaa nimenomaisesti **johdannaisteokset**, **tekoälyn tuottaman sisällön**, **remix-hankkeet** ja **algoritmisesti muunnetut** muodot. **Muuttumattomat kopiot** voivat esiintyä **kokoelman** osana muun lisenssin alla; kyseinen sisältö pysyy **CC BY-SA 4.0**.
 
 ***
 
 ### 🇬🇷 Ελληνικά (Griechenland)
 
-Κάθε χρήση, επεξεργασία ή μετασχηματισμός αυτού του έργου – συμπεριλαμβανομένης της τεχνητής νοημοσύνης, της μηχανικής μάθησης ή αυτοματοποιημένων συστημάτων – διέπεται από τους ίδιους όρους της ανοικτής άδειας.
-
-Αυτό περιλαμβάνει ρητά παράγωγα έργα, περιεχόμενο που παράγεται από ΤΝ, έργα επεξεργασίας ή μορφές που μετασχηματίζονται αλγοριθμικά.
-
-Στόχος είναι ένα κοινό, ανοιχτό μέλλον γνώσης σε δημοκρατικές, δημιουργικές και πλουραλιστικές κοινωνίες.
+Κάθε **χρήση**, **επεξεργασία** ή **περαιτέρω επεξεργασία** αυτού του έργου – συμπεριλαμβανομένης μέσω **τεχνητής νοημοσύνης**, **μηχανικής μάθησης** ή **αυτοματοποιημένων συστημάτων** – διέπεται από την ανοικτή άδεια **CC BY-SA 4.0** (*αναφορά δημιουργού*, *κοινοχρησία υπό τους ίδιους όρους*). Αυτό περιλαμβάνει ρητά τα **παράγωγα έργα**, το **περιεχόμενο που παράγεται από ΤΝ**, τα **έργα επεξεργασίας (remix)** ή τα **αλγοριθμικά μετασχηματισμένα** φορμά. Οι **αμετάβλητες αναπαραγωγές** μπορούν να εμφανίζονται ως μέρος μιας **συλλογής** με διαφορετική άδεια· το περιεχόμενο παραμένει **CC BY-SA 4.0**.
 
 ***
 
 ### 🇮🇱 עברית (Israel)
 
-כל שימוש, עיבוד או שינוי של יצירה זו – לרבות על ידי בינה מלאכותית, למידת מכונה או מערכות אוטומטיות – כפוף לאותם תנאי רישיון פתוח.
-
-הדבר כולל במפורש יצירות נגזרות, תכנים שנוצרו בידי בינה מלאכותית, פרויקטי רמיקס או פורמטים שהוסבו אלגוריתמית.
-
-המטרה היא עתיד ידע משותף ופתוח בחברות דמוקרטיות, יצירתיות ורב־תרבותיות.
+כל **שימוש**, **עיבוד** או **עיבוד מחדש** ביצירה זו – לרבות באמצעות **בינה מלאכותית**, **למידת מכונה** או **מערכות אוטומטיות** – כפוף לרישיון הפתוח **CC BY-SA 4.0** (*ייחוס*, *שיתוף בתנאים זהים*). הדבר כולל במפורש **יצירות נגזרות**, **תכנים שנוצרו בידי בינה מלאכותית**, **פרויקטי רמיקס** או פורמטים **שהוסבו אלגוריתמית**. **שימושים שלא שונו** יכולים להופיע כחלק מ**אוסף** ברישיון אחר; התוכן הנדון נותר **CC BY-SA 4.0**.
 
 ***
 
 ### 🇮🇸 Íslenska (Island)
 
-Öll notkun, vinnsla eða umbreyting á þessu verki – þar á meðal með gervigreind, vélrænu námi eða sjálfvirkum kerfum – fellur undir sömu skilmála opnu leyfisins.
-
-Þetta nær sérstaklega til afleiddra verka, efnis sem gervigreind býr til, endurblöndunarverkefna eða forma sem umbreytt er með reikniritum.
-
-Markmiðið er sameiginleg, opin framtíð þekkingar í lýðræðislegu, skapandi og fjölbreyttu samfélagi.
+Öll **notkun**, **vinnsla** eða **frekari vinnsla** þessa verks – þar á meðal með **gervigreind**, **vélnámi** eða **sjálfvirkum kerfum** – fellur undir opna leyfið **CC BY-SA 4.0** (*tilgreining höfundar*, *deiling á sömu skilmálum*). Þetta nær sérstaklega til **afleiddra verka**, **efnis sem gervigreind býr til**, **remix-verkefna** og **algrímbreytt** formata. **Óbreytt afrit** geta verið hluti af **safni** undir annarri leyfi; viðkomandi efni er áfram **CC BY-SA 4.0**.
 
 ***
 
 ### 🇮🇹 Italiano (Italien)
 
-Qualsiasi utilizzo, elaborazione o trasformazione di quest'opera – anche tramite intelligenza artificiale, apprendimento automatico o sistemi automatizzati – è soggetto alle medesime condizioni di licenza aperta.
-
-Ciò include espressamente opere derivate, contenuti generati dall'IA, progetti di remix o formati trasformati algoritmicamente.
-
-L'obiettivo è un futuro della conoscenza condiviso e aperto all'interno di società democratiche, creative e pluralistiche.
+Qualsiasi **utilizzo**, **elaborazione** o **rielaborazione** di quest’opera – anche tramite **intelligenza artificiale**, **apprendimento automatico** o **sistemi automatizzati** – è soggetto alla licenza aperta **CC BY-SA 4.0** (*attribuzione*, *condivisione allo stesso modo*). Ciò include espressamente le **opere derivate**, i **contenuti generati dall’IA**, i **progetti di remix** e i formati **trasformati algoritmicamente**. Le **riproduzioni inalterate** possono figurare come parte di una **raccolta** con un’altra licenza; il contenuto interessato resta **CC BY-SA 4.0**.
 
 ***
 
 ### 🇯🇵 日本語 (Japan)
 
-コノサクヒンノリヨウ・カコウ・ヘンカンハ、ジンコウチノウ、キカイガクシュウ、ソノタノジドウカシステムニヨルモノヲフクメ、スベテオナジオープンライセンスノジョウケンニシタガイマス。
-
-コレハハセイサクヒン、エーアイガセイセイシタコンテンツ、リミックスプロジェクト、アルゴリズムニヨッテヘンカンサレタケイシキヲメイシテキニフクミマス。
-
-モクテキハ、ミンシュテキデソウゾウテキカツタヨウナシャカイニオケル、キョウユウサレヒラカレタチノショウライデス。
+本作品のあらゆる**利用**・**処理**・**再処理**は、**人工知能**・**機械学習**・**自動化システム**によるものを含め、オープンライセンス **CC BY-SA 4.0**（*表示*・*同一条件での共有*）に従います。これには、**派生作品**、**AIが生成したコンテンツ**、**リミックス・プロジェクト**、および**アルゴリズムで変換された**形式が明示的に含まれます。**改変されていない引用**は、別ライセンスの**コレクション**の一部として掲載できますが、当該コンテンツは引き続き **CC BY-SA 4.0** です。
 
 ***
 
 ### 🇰🇷 한국어 (대한민국)
 
-이 자료의 사용과 변경은 모든 공개 허가 조건을 그대로 따릅니다.
-
-인공지능이나 자동 시스템을 써도 같습니다.
-
-파생 자료, 에이아이 생성 내용, 리믹스 프로젝트, 알고 절차로 바꾼 형식도 모두 포함합니다.
-
-목표는 민주 사회 안에서 함께 여는 지식의 미래입니다.
+이 저작물의 모든 **이용**, **처리** 또는 **재처리**는 **인공지능**, **기계학습**, **자동화 시스템**을 통한 경우를 포함하여 오픈 라이선스 **CC BY-SA 4.0** (*저작자 표시*, *동일조건변경허락*)을 따릅니다. 이는 명시적으로 **2차적 저작물**, **AI 생성 콘텐츠**, **리믹스 프로젝트** 및 **알고리즘으로 변환된** 형식을 포함합니다. **변경되지 않은 수록물**은 다른 라이선스의 **모음집**에 포함될 수 있지만, 해당 콘텐츠는 **CC BY-SA 4.0**으로 유지됩니다.
 
 ***
 
 ### 🇱🇻 Latviešu (Lettland)
 
-Jebkāda šī darba izmantošana, apstrāde vai pārveidošana – tostarp ar mākslīgā intelekta, mašīnmācīšanās vai automatizētu sistēmu palīdzību – pakļauta tiem pašiem atvērtās licences nosacījumiem.
-
-Tas skaidri ietver atvasinātus darbus, mākslīgā intelekta radītu saturu, remiksa projektus vai algoritmiski pārveidotus formātus.
-
-Mērķis ir kopīga, atvērta zināšanu nākotne demokrātiskās, radošās un pluralistiskās sabiedrībās.
+Jebkāda šī darba **izmantošana**, **apstrāde** vai **papildu apstrāde** – tostarp ar **mākslīgā intelekta**, **mašīnmācīšanās** vai **automatizētu sistēmu** palīdzību – ir pakļauta atvērtajai licencei **CC BY-SA 4.0** (*atsauce uz autoru*, *kopīgošana ar tādiem pašiem nosacījumiem*). Tas nepārprotami ietver **atvasinātus darbus**, **MI ģenerētu saturu**, **remiksa projektus** un **algoritmiski pārveidotus** formātus. **Nemainītas pārņemšanas** drīkst parādīties kā daļa no **kolekcijas** ar citu licenci; attiecīgais saturs paliek **CC BY-SA 4.0**.
 
 ***
 
 ### 🇱🇹 Lietuvių (Litauen)
 
-Bet koks šio kūrinio naudojimas, apdorojimas ar transformavimas – įskaitant dirbtinį intelektą, mašininį mokymąsi ar automatizuotas sistemas – yra reglamentuojamas tomis pačiomis atviros licencijos sąlygomis.
-
-Tai aiškiai apima išvestinius kūrinius, dirbtinio intelekto sukurtą turinį, remikso projektus ar algoritmiškai transformuotas formas.
-
-Tikslas – bendra ir atvira žinių ateitis demokratinėse, kūrybingose ir pliuralistinėse visuomenėse.
+Bet koks šio kūrinio **naudojimas**, **apdorojimas** ar **tolimesnis apdorojimas** – įskaitant per **dirbtinį intelektą**, **mašininį mokymąsi** ar **automatizuotas sistemas** – reglamentuojamas atvira licencija **CC BY-SA 4.0** (*autorystės nurodymas*, *dalijimasis tokiomis pačiomis sąlygomis*). Tai aiškiai apima **išvestinius kūrinius**, **DI sukurtą turinį**, **remikso projektus** ir **algoritmiškai transformuotas** formas. **Nepakeistos ištraukos** gali būti pateiktos kaip **rinkinio** dalis pagal kitą licenciją; atitinkamas turinys lieka **CC BY-SA 4.0**.
 
 ***
 
 ### 🇲🇩 Română (Republica Moldova)
 
-Orice utilizare, prelucrare sau transformare a acestei lucrări – inclusiv prin inteligență artificială, învățare automată sau sisteme automatizate – este supusă acelorași condiții de licență deschisă.
-
-Aceasta include în mod explicit lucrările derivate, conținutul generat de IA, proiectele remix sau formatele transformate algoritmic.
-
-Scopul este un viitor al cunoașterii comun și deschis în societăți democratice, creative și pluraliste.
+Orice **utilizare**, **prelucrare** sau **reprelucrare** a acestei lucrări – inclusiv prin **inteligență artificială**, **învățare automată** sau **sisteme automatizate** – este guvernată de licența deschisă **CC BY-SA 4.0** (*atribuire*, *partajare în aceleași condiții*). Aceasta include în mod explicit **lucrările derivate**, **conținutul generat de IA**, **proiectele de remix** și formatele **transformate algoritmic**. **Reproducerile nemodificate** pot apărea ca parte a unei **colecții** sub o altă licență; conținutul vizat rămâne **CC BY-SA 4.0**.
 
 ***
 
 ### 🇲🇰 Македонски (Nordmazedonien)
 
-Секоја употреба, обработка или трансформација на ова дело – вклучително од вештачка интелигенција, машинско учење или автоматизирани системи – подлежи на истите услови на отворената лиценца.
-
-Тоа изрично ги опфаќа изведените дела, содржините создадени од ВИ, ремикс-проектите или формати трансформирани алгоритамски.
-
-Целта е заедничка, отворена иднина на знаењето во демократски, креативни и плуралистички општества.
+Секоја **употреба**, **обработка** или **дополнителна обработка** на ова дело – вклучително преку **вештачка интелигенција**, **машинско учење** или **автоматизирани системи** – е опфатена со отворената лиценца **CC BY-SA 4.0** (*признавање на авторството*, *споделување под исти услови*). Ова изречно ги опфаќа **дериватните дела**, **содржините генерирани од ВИ**, **ремикс проектите** и **алгоритамски трансформираните** формати. **Непрoменетите преземања** можат да се појават како дел од **збирка** под друга лиценца; содржината останува **CC BY-SA 4.0**.
 
 ***
 
 ### 🇲🇹 Malti (Malta)
 
-Kull użu, ipproċessar jew trasformazzjoni ta’ dan ix-xogħol – inkluż permezz ta’ intelliġenza artifiċjali, tagħlim awtomatiku jew sistemi awtomatizzati – huwa soġġett għall-istess kundizzjonijiet tal-liċenzja miftuħa.
-
-Dan jinkludi espressament xogħlijiet derivati, kontenut iġġenerat mill-AI, proġetti ta’ remix jew formati mibdula algoritmikament.
-
-L-għan huwa futur ta’ għarfien maqsuma u miftuħ f’soċjetajiet demokratiċi, kreattivi u pluralisti.
+Kull **użu**, **ipproċessar** jew **ipproċessar mill-ġdid** ta’ dan ix-xogħol – inkluż permezz ta’ **intelliġenza artifiċjali**, **tagħlim awtomatiku** jew **sistemi awtomatizzati** – huwa soġġett għall-liċenzja miftuħa **CC BY-SA 4.0** (*attribuzzjoni*, *qsim taħt l-istess kundizzjonijiet*). Dan jinkludi espliċitament **xogħlijiet derivattivi**, **kontenut iġġenerat mill-IA**, **proġetti ta’ remix** u formati **trasformati algoritmikament**. **Reproduzzjonijiet mhux mibdula** jistgħu jidhru bħala parti minn **ġabra** b’liċenzja oħra; il-kontenut affettwat jibqa’ **CC BY-SA 4.0**.
 
 ***
 
 ### 🇲🇪 Crnogorski (Montenegro)
 
-Svaka upotreba, obrada ili transformacija ovog djela – uključujući vještačku inteligenciju, mašinsko učenje ili automatizovane sisteme – podleže istim uslovima otvorene licence.
-
-Ovo izričito obuhvata izvedena djela, sadržaje koje generiše AI, remix projekte ili formate transformisane algoritamski.
-
-Cilj je zajednička, otvorena budućnost znanja u demokratskim, kreativnim i pluralističkim društvima.
+Svaka **upotreba**, **obrada** ili **dalja obrada** ovog djela – uključujući putem **vještačke inteligencije**, **mašinskog učenja** ili **automatizovanih sistema** – podleže otvorenoj licenci **CC BY-SA 4.0** (*pripisivanje*, *dijeljenje pod istim uslovima*). Ovo izričito obuhvata **izvedena djela**, **sadržaje koje generiše AI**, **remix projekte** i **algoritamski transformisane** formate. **Neizmijenjene preuzimke** mogu se pojaviti kao dio **zbirke** pod drugom licencom; odgovarajući sadržaj ostaje **CC BY-SA 4.0**.
 
 ***
 
 ### 🇳🇴 Norsk (Norwegen)
 
-All bruk, bearbeiding eller transformasjon av dette verket – også gjennom kunstig intelligens, maskinlæring eller automatiserte systemer – er underlagt de samme åpne lisensvilkårene.
-
-Dette omfatter uttrykkelig avledede verk, AI-generert innhold, remiksprosjekter eller formater som er algoritmisk omformet.
-
-Målet er en delt og åpen kunnskapsfremtid i demokratiske, kreative og pluralistiske samfunn.
+All **bruk**, **bearbeiding** eller **videre bearbeiding** av dette verket – også gjennom **kunstig intelligens**, **maskinlæring** eller **automatiserte systemer** – er underlagt den åpne lisensen **CC BY-SA 4.0** (*navngivelse*, *deling på samme vilkår*). Dette omfatter uttrykkelig **avledede verk**, **AI-generert innhold**, **remiksprosjekter** og **algoritmisk omformede** formater. **Uendrede opptak** kan inngå som del av en **samling** under en annen lisens; det aktuelle innholdet forblir **CC BY-SA 4.0**.
 
 ***
 
 ### 🇵🇱 Polski (Polen)
 
-Jakiekolwiek wykorzystanie, przetwarzanie lub przekształcanie tego utworu – w tym przez sztuczną inteligencję, uczenie maszynowe czy systemy zautomatyzowane – podlega tym samym warunkom otwartej licencji.
-
-Obejmuje to wprost utwory zależne, treści generowane przez SI, projekty remiksów lub formaty przekształcone algorytmicznie.
-
-Celem jest wspólna, otwarta przyszłość wiedzy w demokratycznych, kreatywnych i pluralistycznych społeczeństwach.
+Jakiekolwiek **wykorzystanie**, **przetwarzanie** lub **dalsze przetwarzanie** tego utworu – w tym przez **sztuczną inteligencję**, **uczenie maszynowe** czy **zautomatyzowane systemy** – podlega otwartej licencji **CC BY-SA 4.0** (*uznanie autorstwa*, *na tych samych warunkach*). Obejmuje to wprost **utwory zależne**, **treści generowane przez SI**, **projekty remiksów** oraz **algorytmicznie przekształcone** formaty. **Nie zmienione przejęcia** mogą pojawić się jako część **kolekcji** na innej licencji; dany materiał pozostaje **CC BY-SA 4.0**.
 
 ***
 
 ### 🇵🇹 Português (Portugal)
 
-Qualquer uso, processamento ou transformação desta obra – inclusive por inteligência artificial, aprendizagem automática ou sistemas automatizados – está sujeito às mesmas condições da licença aberta.
-
-Isso inclui expressamente obras derivadas, conteúdos gerados por IA, projetos de remix ou formatos transformados algoritmicamente.
-
-O objetivo é um futuro do conhecimento partilhado e aberto em sociedades democráticas, criativas e pluralistas.
+Qualquer **utilização**, **processamento** ou **reprocessamento** desta obra – inclusive por **inteligência artificial**, **aprendizagem automática** ou **sistemas automatizados** – está sujeito à licença aberta **CC BY-SA 4.0** (*atribuição*, *partilha nas mesmas condições*). Isto inclui explicitamente **obras derivadas**, **conteúdos gerados por IA**, **projetos de remix** e formatos **transformados algoritmicamente**. **Reproduções inalteradas** podem surgir como parte de uma **coleção** sob outra licença; o conteúdo em causa permanece **CC BY-SA 4.0**.
 
 ***
 
 ### 🇷🇸 Српски / Srpski (Serbien)
 
-Свака употреба, обрада или трансформација овог дела – укључујући од стране вештачке интелигенције, машинског учења или аутоматизованих система – подлеже истим условима отворене лиценце.
-
-То изричито обухвата изведена дела, садржаје које генерише ВИ, ремикс пројекте или формате алгоритамски трансформисане.
-
-Циљ је заједничка, отворена будућност знања у демократским, креативним и плуралистичким друштвима.
+Свака **употреба**, **обрада** или **додатна обрада** овог дела – укључујући посредством **вештачке интелигенције**, **машинског учења** или **аутоматизованих система** – подлеже отвореној лиценци **CC BY-SA 4.0** (*признање ауторства*, *дељење под истим условима*). То изричито обухвата **изводљива дела**, **садржаје које генерише ВИ**, **ремикс пројекте** и **алгоритамски трансформисане** формате. **Неизмењена преузимања** могу се појавити као део **збирке** под другом лиценцом; погођени садржај остаје **CC BY-SA 4.0**.
 
 ***
 
 ### 🇸🇰 Slovenčina (Slowakei)
 
-Akékoľvek použitie, spracovanie alebo transformácia tohto diela – vrátane umelej inteligencie, strojového učenia či automatizovaných systémov – podlieha rovnakým podmienkam otvorenej licencie.
-
-To výslovne zahŕňa odvodené diela, obsah generovaný AI, remixové projekty alebo algoritmicky transformované formáty.
-
-Cieľom je spoločná a otvorená budúcnosť poznania v demokratických, kreatívnych a pluralitných spoločnostiach.
+Akékoľvek **použitie**, **spracovanie** alebo **ďalšie spracovanie** tohto diela – vrátane **umelej inteligencie**, **strojového učenia** či **automatizovaných systémov** – podlieha otvorenej licencii **CC BY-SA 4.0** (*uvedenie autora*, *šírenie za rovnakých podmienok*). To výslovne zahŕňa **odvodené diela**, **obsah generovaný AI**, **projekty remixov** a **algoritmicky transformované** formáty. **Nezmenené prevzatia** sa môžu objaviť ako súčasť **zbierky** pod inou licenciou; príslušný obsah zostáva **CC BY-SA 4.0**.
 
 ***
 
 ### 🇸🇮 Slovenščina (Slowenien)
 
-Kakršna koli uporaba, obdelava ali preoblikovanje tega dela – tudi s pomočjo umetne inteligence, strojnega učenja ali avtomatiziranih sistemov – je podvržena istim pogojem odprte licence.
-
-To izrecno vključuje izpeljana dela, vsebine, ki jih ustvari UI, remix projekte ali oblike, preoblikovane z algoritmi.
-
-Cilj je skupna, odprta prihodnost znanja v demokratičnih, ustvarjalnih in pluralističnih družbah.
+Kakršen koli **uporaba**, **obdelava** ali **nadaljnja obdelava** tega dela – tudi s pomočjo **umetne inteligence**, **strojnega učenja** ali **avtomatiziranih sistemov** – je podvržena odprti licenci **CC BY-SA 4.0** (*priznanje avtorstva*, *deljenje pod enakimi pogoji*). To izrecno vključuje **izpeljana dela**, **vsebino, ki jo ustvari UI**, **remiks projekte** in **algoritmično preoblikovane** formate. **Nespremenjeni prevzemi** se lahko pojavijo kot del **zbirke** pod drugo licenco; prizadeta vsebina ostaja **CC BY-SA 4.0**.
 
 ***
 
 ### 🇸🇪 Svenska (Schweden)
 
-All användning, bearbetning eller omvandling av detta verk – även genom artificiell intelligens, maskininlärning eller automatiserade system – omfattas av samma villkor i den öppna licensen.
-
-Detta innefattar uttryckligen bearbetade verk, AI-genererat innehåll, remixprojekt eller format som omformas algoritmiskt.
-
-Målet är en gemensam, öppen kunskapsframtid i demokratiska, kreativa och pluralistiska samhällen.
+All **användning**, **bearbetning** eller **vidare bearbetning** av detta verk – även genom **artificiell intelligens**, **maskininlärning** eller **automatiserade system** – omfattas av den öppna licensen **CC BY-SA 4.0** (*erkännande*, *delning på samma villkor*). Detta inkluderar uttryckligen **bearbetade verk**, **AI-genererat innehåll**, **remixprojekt** samt **algoritmiskt omformade** format. **Oförändrade upptag** kan förekomma som del av en **samling** under annan licens; berört innehåll förblir **CC BY-SA 4.0**.
 
 ***
 
 ### 🇸🇳 Français (Sénégal)
 
-Toute utilisation, transformation ou réutilisation de cette œuvre – y compris par l’intelligence artificielle, l’apprentissage automatique ou des systèmes automatisés – est soumise aux mêmes conditions de licence ouverte.
-
-Cela inclut explicitement les œuvres dérivées, les contenus générés par IA, les projets de remix ou les formats transformés algorithmiquement.
-
-L’objectif est un avenir du savoir partagé, ouvert et inclusif au sein de sociétés démocratiques, créatives et pluralistes.
+Toute **utilisation**, **transformation** ou **réutilisation** de cette œuvre – y compris par **intelligence artificielle**, **apprentissage automatique** ou **systèmes automatisés** – est soumise à la licence ouverte **CC BY-SA 4.0** (*attribution*, *partage dans les mêmes conditions*). Cela inclut explicitement les **œuvres dérivées**, les **contenus générés par l’IA**, les **projets de remix** ou les formats **transformés algorithmiquement**. Les **reprises inchangées** peuvent figurer au sein d’une **collection** placée sous une autre licence ; le contenu visé demeure **CC BY-SA 4.0**.
 
 ***
 
 ### 🇹🇳 العربية / Français (Tunisie)
 
-**العربية:** إن أي استخدام أو معالجة أو تحويل لهذا العمل – بما في ذلك عن طريق الذكاء الاصطناعي أو التعلم الآلي أو الأنظمة المؤتمتة – يخضع لنفس شروط الترخيص المفتوح. ويشمل ذلك صراحة الأعمال المشتقة والمحتوى المولَّد بالذكاء الاصطناعي ومشاريع الريمكس أو الصيغ المحوَّلة خوارزميًا. الهدف هو مستقبل معرفي مشترك ومفتوح داخل مجتمعات ديمقراطية وخلاقة وتعددية.
+**العربية:** يخضع أي **استخدام** أو **معالجة** أو **إعادة معالجة** لهذا العمل – بما في ذلك من خلال **الذكاء الاصطناعي** أو **التعلم الآلي** أو **الأنظمة المؤتمتة** – للترخيص المفتوح **CC BY-SA 4.0** (*النَّسب*، *المشاركة بالشروط نفسها*). يشمل ذلك صراحةً **الأعمال المشتقة**، و**المحتوى الذي تُنشئه الذكاء الاصطناعي**، و**مشروعات الريمكس**، والصيغ **المحوَّلة خوارزميًّا**. يمكن أن تظهر **النقول غير المعدَّلة** ضمن **مجموعة** تخضع لترخيص آخر؛ ويظل المحتوى المعني **CC BY-SA 4.0**.
 
-**Français (TN):** Toute utilisation, transformation ou réutilisation de cette œuvre – y compris par l’intelligence artificielle, l’apprentissage automatique ou des systèmes automatisés – est soumise aux mêmes conditions de licence ouverte. Cela inclut explicitement les œuvres dérivées, les contenus générés par IA, les projets de remix ou les formats transformés algorithmiquement. L’objectif est un avenir du savoir partagé, ouvert et pluraliste pour les sociétés démocratiques et créatives.
+**Français (TN):** Toute **utilisation**, **transformation** ou **réutilisation** de cette œuvre – y compris par **intelligence artificielle**, **apprentissage automatique** ou **systèmes automatisés** – est soumise à la licence ouverte **CC BY-SA 4.0** (*attribution*, *partage dans les mêmes conditions*). Cela inclut explicitement les **œuvres dérivées**, les **contenus générés par l’IA**, les **projets de remix** ou les formats **transformés algorithmiquement**. Les **reprises inchangées** peuvent figurer dans une **collection** placée sous une autre licence ; le contenu concerné demeure **CC BY-SA 4.0**.
 
 ***
 
 ### 🇹🇼 繁體中文 (臺灣)
 
-本作品的任何使用、處理或轉換——包括透過人工智慧、機器學習或自動化系統——皆須遵循相同的開放授權條款。
-
-此授權明確涵蓋衍生作品、AI 產生的內容、重混專案或經演算法轉換的格式。
-
-目標是在民主、富有創造力且多元的社會中，共同建構一個開放的知識未來。
+本作品的任何**使用**、**處理**或**再處理**——包括透過**人工智慧**、**機器學習**或**自動化系統**——皆須遵循開放授權 **CC BY-SA 4.0**（*姓名標示*、*相同方式分享*）。此授權明確涵蓋**衍生作品**、**AI 產生的內容**、**重混專案**及**演算法轉換**的格式。**未經改動的收錄**可作為其他授權之**集合**的一部分，但相關內容仍屬 **CC BY-SA 4.0**。
 
 ***
 
 ### 🇺🇦 Українська (Ukraine)
 
-Будь-яке використання, опрацювання чи трансформація цього твору – у тому числі за допомогою штучного інтелекту, машинного навчання або автоматизованих систем – підпорядковується тим самим умовам відкритої ліцензії.
-
-Це прямо охоплює похідні твори, контент, згенерований ШІ, проєкти реміксів або формати, перетворені алгоритмічно.
-
-Мета – спільне й відкрите майбутнє знань у демократичних, творчих і плюралістичних суспільствах.
+Будь-яке **використання**, **обробка** чи **повторна обробка** цього твору – зокрема за допомогою **штучного інтелекту**, **машинного навчання** або **автоматизованих систем** – здійснюється відповідно до відкритої ліцензії **CC BY-SA 4.0** (*зазначення авторства*, *поширення на тих самих умовах*). Це прямо охоплює **похідні твори**, **контент, створений ШІ**, **проєкти реміксів** та **алгоритмічно перетворені** формати. **Незмінені запозичення** можуть бути частиною **збірки** під іншою ліцензією; відповідний матеріал залишається **CC BY-SA 4.0**.
 
 ***
 
 ### 🇺🇾 Español (Uruguay)
 
-Todo uso, procesamiento o transformación de esta obra – incluso mediante inteligencia artificial, aprendizaje automático o sistemas automatizados – queda sujeto a las mismas condiciones de licencia abierta.
-
-Esto incluye expresamente obras derivadas, contenidos generados por IA, proyectos de remix o formatos transformados algorítmicamente.
-
-El objetivo es un futuro del conocimiento compartido y abierto para sociedades democráticas, creativas y pluralistas.
+Todo **uso**, **procesamiento** o **reprocesamiento** de esta obra – incluso mediante **inteligencia artificial**, **aprendizaje automático** o **sistemas automatizados** – está sujeto a la licencia abierta **CC BY-SA 4.0** (*atribución*, *compartir bajo las mismas condiciones*). Esto incluye de forma explícita las **obras derivadas**, los **contenidos generados por IA**, los **proyectos de remezcla** y los formatos **transformados algorítmicamente**. Las **reproducciones sin cambios** pueden figurar dentro de una **colección** con otra licencia; el material afectado permanece **CC BY-SA 4.0**.
 
 ***
 
 ### 🇬🇧 English (United Kingdom)
 
-Any use, processing or transformation of this work – including by artificial intelligence, machine learning or automated systems – is subject to the same open licence conditions.
-
-This explicitly covers derivative works, AI-generated content, remix projects or formats transformed algorithmically.
-
-The aim is a shared, open future of knowledge within democratic, creative and pluralistic societies.
-
-***
+Any **use**, **processing** or **further processing** of this work – including via **artificial intelligence**, **machine learning** or **automated systems** – is covered by the open licence **CC BY-SA 4.0** (*attribution*, *share alike*). This explicitly includes **derivative works**, **AI-generated content**, **remix projects** and **algorithmically transformed** formats. **Unchanged incorporations** may appear as part of a **collection** under a different licence; the material concerned remains **CC BY-SA 4.0**.
 
 > *Hinweis:* Weitere Übersetzungen werden fortlaufend ergänzt; sie folgen derselben Lizenzlogik wie die oben aufgeführten Versionen.
 
