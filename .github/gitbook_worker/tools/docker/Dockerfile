@@ -120,6 +120,7 @@ RUN mkdir -p /root/.local/share/pandoc/filters
 RUN echo '#!/bin/bash\n\
     export TEXMFHOME=$GITHUB_TOOLS/publishing/texmf\n\
     export LUA_PATH="$GITHUB_TOOLS/publishing/lua/?.lua;;"\n\
+    export PYTHONPATH="/workspace/.github/gitbook_worker:$PYTHONPATH"\n\
     exec "$@"' > /usr/local/bin/docker-entrypoint.sh && \
     chmod +x /usr/local/bin/docker-entrypoint.sh
 
