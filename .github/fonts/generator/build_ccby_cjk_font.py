@@ -17,7 +17,14 @@ from fontTools.pens.ttGlyphPen import TTGlyphPen
 from fontTools.ttLib.tables.O_S_2f_2 import Panose
 
 # Import character data from modular modules
-from katakana import KATAKANA_BASE, SMALL_KATAKANA, DAKUTEN, HANDAKUTEN
+from katakana import (
+    KATAKANA_BASE,
+    SMALL_KATAKANA,
+    DAKUTEN,
+    HANDAKUTEN,
+    DAKUTEN_COMBOS,
+    HANDAKUTEN_COMBOS,
+)
 from hangul import (
     L_PATTERNS,
     V_PATTERNS,
@@ -29,6 +36,7 @@ from hangul import (
 )
 from hanzi import HANZI_KANJI
 from punctuation import PUNCTUATION
+from font_logger import FontBuildLogger
 
 EM = 1000
 PIXELS = 8
@@ -152,215 +160,231 @@ REQUIRED_CHARS.sort()
 
 
 def build_font(output: str = "erda-ccby-cjk.ttf") -> None:
-    glyph_order = [".notdef", "space"]
-    glyphs: Dict[str, object] = {}
-    advance_widths: Dict[str, Tuple[int, int]] = {}
-    cmap: Dict[int, str] = {32: "space"}
+    # Initialize logger
+    logger = FontBuildLogger()
 
-    notdef_glyph, notdef_width = _glyph_from_bitmap(
-        [
-            "########",
-            "########",
-            "########",
-            "########",
-            "########",
-            "########",
-            "########",
-            "########",
-        ]
-    )
-    glyphs[".notdef"] = notdef_glyph
-    advance_widths[".notdef"] = (notdef_width, 0)
+    try:
+        logger.log_build_start(output, len(REQUIRED_CHARS))
 
-    space_glyph, space_width = _glyph_from_bitmap(["........"] * 8)
-    glyphs["space"] = space_glyph
-    advance_widths["space"] = (space_width, 0)
+        glyph_order = [".notdef", "space"]
+        glyphs: Dict[str, object] = {}
+        advance_widths: Dict[str, Tuple[int, int]] = {}
+        cmap: Dict[int, str] = {32: "space"}
 
-    def add_char(char: str, bitmap: List[str]) -> None:
-        name = f"uni{ord(char):04X}"
-        if name in glyphs:
-            return
-        glyph, width = _glyph_from_bitmap(bitmap)
-        glyph_order.append(name)
-        glyphs[name] = glyph
-        advance_widths[name] = (width, 0)
-        cmap[ord(char)] = name
-
-    for char in REQUIRED_CHARS:
-        if char in KATAKANA_BASE:
-            add_char(char, KATAKANA_BASE[char])
-            continue
-        if char in SMALL_KATAKANA:
-            add_char(char, SMALL_KATAKANA[char])
-            continue
-        if char in DAKUTEN_COMBOS:
-            base = KATAKANA_BASE[DAKUTEN_COMBOS[char]]
-            add_char(char, _merge_bitmaps(base, DAKUTEN))
-            continue
-        if char in HANDAKUTEN_COMBOS:
-            base = KATAKANA_BASE[HANDAKUTEN_COMBOS[char]]
-            add_char(char, _merge_bitmaps(base, HANDAKUTEN))
-            continue
-        if char in PUNCTUATION:
-            add_char(char, PUNCTUATION[char])
-            continue
-        if char == "ー":
-            add_char(char, KATAKANA_BASE["ー"])
-            continue
-        # Check HANZI_KANJI BEFORE the CJK range fallback
-        if char in HANZI_KANJI:
-            add_char(char, HANZI_KANJI[char])
-            continue
-        code = ord(char)
-        if 0xAC00 <= code <= 0xD7A3:
-            add_char(char, _bitmap_for_hangul(char))
-            continue
-        # Hiragana range (U+3040 - U+309F)
-        if 0x3040 <= code <= 0x309F:
-            # Simple placeholder for Hiragana
-            hiragana_placeholder = [
-                "..####..",
-                ".#....#.",
-                "#......#",
-                "#......#",
-                "#......#",
-                "#......#",
-                ".#....#.",
-                "..####..",
-            ]
-            add_char(char, hiragana_placeholder)
-            continue
-        # CJK Unified Ideographs (U+4E00 - U+9FFF) - common Kanji/Hanzi range
-        # This MUST come AFTER the HANZI_KANJI check!
-        if 0x4E00 <= code <= 0x9FFF:
-            # Simple placeholder for CJK Ideographs not explicitly defined
-            cjk_placeholder = [
+        notdef_glyph, notdef_width = _glyph_from_bitmap(
+            [
                 "########",
-                "#......#",
-                "#..##..#",
-                "#..##..#",
-                "#..##..#",
-                "#......#",
                 "########",
-                "........",
+                "########",
+                "########",
+                "########",
+                "########",
+                "########",
+                "########",
             ]
-            add_char(char, cjk_placeholder)
-            continue
-        # Simple fallback for ASCII and other characters - use a placeholder
-        if 0x0021 <= code <= 0x007E:  # ASCII printable range
-            # Simple placeholder for now
-            placeholder = [
-                "..####..",
-                ".#....#.",
-                ".#....#.",
-                ".#....#.",
-                ".#....#.",
-                ".#....#.",
-                ".#....#.",
-                "..####..",
-            ]
-            add_char(char, placeholder)
-            continue
-        # Numbers 0-9
-        if 0x0030 <= code <= 0x0039:
-            number_placeholder = [
-                "..####..",
-                ".##..##.",
-                "#....#.#",
-                "#....#.#",
-                "#....#.#",
-                "#....#.#",
-                ".##..##.",
-                "..####..",
-            ]
-            add_char(char, number_placeholder)
-            continue
-        # Fullwidth forms (U+FF00 - U+FFEF) - commonly used in CJK text
-        if 0xFF00 <= code <= 0xFFEF:
-            fullwidth_placeholder = [
-                "..####..",
-                ".#....#.",
-                "#......#",
-                "#......#",
-                "#......#",
-                "#......#",
-                ".#....#.",
-                "..####..",
-            ]
-            add_char(char, fullwidth_placeholder)
-            continue
-        raise ValueError(f"Unsupported character {char!r} (U+{code:04X})")
+        )
+        glyphs[".notdef"] = notdef_glyph
+        advance_widths[".notdef"] = (notdef_width, 0)
 
-    ascent = int(EM * 0.8)
-    descent = -int(EM * 0.2)
+        space_glyph, space_width = _glyph_from_bitmap(["........"] * 8)
+        glyphs["space"] = space_glyph
+        advance_widths["space"] = (space_width, 0)
 
-    fb = FontBuilder(EM, isTTF=True)
-    fb.setupGlyphOrder(glyph_order)
-    fb.setupCharacterMap(cmap)
-    fb.setupGlyf(glyphs)
-    fb.setupHorizontalMetrics(advance_widths)
-    fb.setupHorizontalHeader(ascent=ascent, descent=descent)
-    panose = Panose()
-    panose.bFamilyType = 2
-    panose.bSerifStyle = 11
-    panose.bWeight = 5
-    panose.bProportion = 9
-    panose.bContrast = 3
-    panose.bStrokeVariation = 9
-    panose.bArmStyle = 2
-    panose.bLetterForm = 3
-    panose.bMidline = 2
-    panose.bXHeight = 4
-    fb.setupOS2(
-        sTypoAscender=ascent,
-        sTypoDescender=descent,
-        sTypoLineGap=200,
-        usWinAscent=ascent,
-        usWinDescent=-descent,
-        bFamilyClass=0,
-        panose=panose,
-        ulUnicodeRange1=0x00000001,
-        ulUnicodeRange2=0x00000000,
-        ulUnicodeRange3=0x00000000,
-        ulUnicodeRange4=0x00000000,
-        fsSelection=0x40,
-        usWeightClass=400,
-        usWidthClass=5,
-        ySubscriptXSize=650,
-        ySubscriptYSize=699,
-        ySubscriptXOffset=0,
-        ySubscriptYOffset=140,
-        ySuperscriptXSize=650,
-        ySuperscriptYSize=699,
-        ySuperscriptXOffset=0,
-        ySuperscriptYOffset=479,
-        yStrikeoutSize=50,
-        yStrikeoutPosition=250,
-        sxHeight=500,
-        sCapHeight=700,
-    )
-    # Generate version string with timestamp to force cache refresh
-    import datetime
+        def add_char(char: str, bitmap: List[str], source: str = "unknown") -> None:
+            name = f"uni{ord(char):04X}"
+            if name in glyphs:
+                return
+            glyph, width = _glyph_from_bitmap(bitmap)
+            glyph_order.append(name)
+            glyphs[name] = glyph
+            advance_widths[name] = (width, 0)
+            cmap[ord(char)] = name
+            logger.track_character(char, source)
+            logger.track_glyph(name, width)
 
-    timestamp = datetime.datetime.now().strftime("%Y%m%d.%H%M%S")
-    version_string = f"Version 1.0.{timestamp}"
+        for char in REQUIRED_CHARS:
+            if char in KATAKANA_BASE:
+                add_char(char, KATAKANA_BASE[char], "katakana")
+                continue
+            if char in SMALL_KATAKANA:
+                add_char(char, SMALL_KATAKANA[char], "katakana")
+                continue
+            if char in DAKUTEN_COMBOS:
+                base = KATAKANA_BASE[DAKUTEN_COMBOS[char]]
+                add_char(char, _merge_bitmaps(base, DAKUTEN), "katakana")
+                continue
+            if char in HANDAKUTEN_COMBOS:
+                base = KATAKANA_BASE[HANDAKUTEN_COMBOS[char]]
+                add_char(char, _merge_bitmaps(base, HANDAKUTEN), "katakana")
+                continue
+            if char in PUNCTUATION:
+                add_char(char, PUNCTUATION[char], "punctuation")
+                continue
+            if char == "ー":
+                add_char(char, KATAKANA_BASE["ー"], "katakana")
+                continue
+            # Check HANZI_KANJI BEFORE the CJK range fallback
+            if char in HANZI_KANJI:
+                add_char(char, HANZI_KANJI[char], "hanzi")
+                continue
+            code = ord(char)
+            if 0xAC00 <= code <= 0xD7A3:
+                add_char(char, _bitmap_for_hangul(char), "hangul")
+                continue
+            # Hiragana range (U+3040 - U+309F)
+            if 0x3040 <= code <= 0x309F:
+                # Simple placeholder for Hiragana
+                hiragana_placeholder = [
+                    "..####..",
+                    ".#....#.",
+                    "#......#",
+                    "#......#",
+                    "#......#",
+                    "#......#",
+                    ".#....#.",
+                    "..####..",
+                ]
+                add_char(char, hiragana_placeholder, "fallback")
+                continue
+            # CJK Unified Ideographs (U+4E00 - U+9FFF) - common Kanji/Hanzi range
+            # This MUST come AFTER the HANZI_KANJI check!
+            if 0x4E00 <= code <= 0x9FFF:
+                # Simple placeholder for CJK Ideographs not explicitly defined
+                cjk_placeholder = [
+                    "########",
+                    "#......#",
+                    "#..##..#",
+                    "#..##..#",
+                    "#..##..#",
+                    "#......#",
+                    "########",
+                    "........",
+                ]
+                add_char(char, cjk_placeholder, "fallback")
+                continue
+            # Simple fallback for ASCII and other characters - use a placeholder
+            if 0x0021 <= code <= 0x007E:  # ASCII printable range
+                # Simple placeholder for now
+                placeholder = [
+                    "..####..",
+                    ".#....#.",
+                    ".#....#.",
+                    ".#....#.",
+                    ".#....#.",
+                    ".#....#.",
+                    ".#....#.",
+                    "..####..",
+                ]
+                add_char(char, placeholder, "fallback")
+                continue
+            # Numbers 0-9
+            if 0x0030 <= code <= 0x0039:
+                number_placeholder = [
+                    "..####..",
+                    ".##..##.",
+                    "#....#.#",
+                    "#....#.#",
+                    "#....#.#",
+                    "#....#.#",
+                    ".##..##.",
+                    "..####..",
+                ]
+                add_char(char, number_placeholder, "fallback")
+                continue
+            # Fullwidth forms (U+FF00 - U+FFEF) - commonly used in CJK text
+            if 0xFF00 <= code <= 0xFFEF:
+                fullwidth_placeholder = [
+                    "..####..",
+                    ".#....#.",
+                    "#......#",
+                    "#......#",
+                    "#......#",
+                    "#......#",
+                    ".#....#.",
+                    "..####..",
+                ]
+                add_char(char, fullwidth_placeholder, "fallback")
+                continue
+            logger.error(f"Unsupported character {char!r} (U+{code:04X})")
+            raise ValueError(f"Unsupported character {char!r} (U+{code:04X})")
 
-    fb.setupNameTable(
-        {
-            "familyName": "ERDA CC-BY CJK",
-            "styleName": "Regular",
-            "psName": "ERDACCbyCJK-Regular",
-            "fullName": "ERDA CC-BY CJK Regular",
-            "uniqueFontIdentifier": f"ERDA CC-BY CJK Regular {timestamp}",
-            "version": version_string,
-        }
-    )
-    fb.setupPost()
-    fb.setupMaxp()
-    fb.save(output)
-    print(f"✓ Font saved to: {output}")
-    print(f"  Version: {version_string}")
-    return output
+        ascent = int(EM * 0.8)
+        descent = -int(EM * 0.2)
+
+        fb = FontBuilder(EM, isTTF=True)
+        fb.setupGlyphOrder(glyph_order)
+        fb.setupCharacterMap(cmap)
+        fb.setupGlyf(glyphs)
+        fb.setupHorizontalMetrics(advance_widths)
+        fb.setupHorizontalHeader(ascent=ascent, descent=descent)
+        panose = Panose()
+        panose.bFamilyType = 2
+        panose.bSerifStyle = 11
+        panose.bWeight = 5
+        panose.bProportion = 9
+        panose.bContrast = 3
+        panose.bStrokeVariation = 9
+        panose.bArmStyle = 2
+        panose.bLetterForm = 3
+        panose.bMidline = 2
+        panose.bXHeight = 4
+        fb.setupOS2(
+            sTypoAscender=ascent,
+            sTypoDescender=descent,
+            sTypoLineGap=200,
+            usWinAscent=ascent,
+            usWinDescent=-descent,
+            bFamilyClass=0,
+            panose=panose,
+            ulUnicodeRange1=0x00000001,
+            ulUnicodeRange2=0x00000000,
+            ulUnicodeRange3=0x00000000,
+            ulUnicodeRange4=0x00000000,
+            fsSelection=0x40,
+            usWeightClass=400,
+            usWidthClass=5,
+            ySubscriptXSize=650,
+            ySubscriptYSize=699,
+            ySubscriptXOffset=0,
+            ySubscriptYOffset=140,
+            ySuperscriptXSize=650,
+            ySuperscriptYSize=699,
+            ySuperscriptXOffset=0,
+            ySuperscriptYOffset=479,
+            yStrikeoutSize=50,
+            yStrikeoutPosition=250,
+            sxHeight=500,
+            sCapHeight=700,
+        )
+        # Generate version string with timestamp to force cache refresh
+        import datetime
+
+        timestamp = datetime.datetime.now().strftime("%Y%m%d.%H%M%S")
+        version_string = f"Version 1.0.{timestamp}"
+
+        fb.setupNameTable(
+            {
+                "familyName": "ERDA CC-BY CJK",
+                "styleName": "Regular",
+                "psName": "ERDACCbyCJK-Regular",
+                "fullName": "ERDA CC-BY CJK Regular",
+                "uniqueFontIdentifier": f"ERDA CC-BY CJK Regular {timestamp}",
+                "version": version_string,
+            }
+        )
+        fb.setupPost()
+        fb.setupMaxp()
+        fb.save(output)
+
+        # Log build completion
+        file_size = Path(output).stat().st_size
+        logger.log_build_complete(output, file_size)
+
+        return output
+
+    except Exception as e:
+        logger.log_build_failed(str(e))
+        raise
 
 
 def refresh_font_cache_linux() -> bool:
