@@ -14,8 +14,8 @@
             "type": "Other"
         }
     ],
-    "description": "Offenes Buchprojekt für Strategie, Ethik und Zukunft Europas. Der Textteil steht unter CC BY-SA 4.0; Code ist MIT-lizenziert; eigene Fonts sind dual lizenziert (CC BY 4.0 oder MIT).",
-    "version": "1.0.0",
+    "description": "Offenes Buchprojekt zur strategischen, ethischen und technologischen Erneuerung Europas. Version 1.0.1 enthält technisch überarbeitetes PDF (konsistente Schriften, optimierte Typografie, saubere Inhaltsverzeichnisse) und reproduzierbare Quellen. Texte: CC BY-SA 4.0; Code: MIT; Fonts: CC BY 4.0 oder MIT (Dual-Lizenz). Details in ATTRIBUTION.md und Anhang J.",
+    "version": "1.0.1",
     "keywords": [
         "ERDA",
         "Europa",
@@ -24,7 +24,10 @@
         "Resilienz",
         "Ethik",
         "Zukunft",
-        "Open Access"
+        "Open Access",
+        "Zivilisation",
+        "Transformation",
+        "Geopolitik"
     ],
     "license": "CC-BY-SA-4.0",
     "language": "deu",
@@ -43,8 +46,13 @@
         {
             "identifier": "https://github.com/Rob9999/erda-book/blob/main/content/anhang-j-lizenz-and-offenheit.md",
             "relation": "isDocumentedBy",
-            "resource_type": "publication"
+            "resource_type": "publication-other"
+        },
+        {
+            "identifier": "https://github.com/Rob9999/erda-book/blob/main/publish/ATTRIBUTION.md",
+            "relation": "isDocumentedBy",
+            "resource_type": "publication-other"
         }
     ],
-    "notes": "Lizenzmatrix: Texte = CC BY-SA 4.0; Code = MIT; Fonts = CC BY 4.0 oder MIT; Emojis = Twemoji (CC BY 4.0). Details in ATTRIBUTION.md und Anhang J."
+    "notes": "Lizenzmatrix: Texte & Grafiken & Diagramme = CC BY-SA 4.0; Code & Toolchain & Skripte = MIT; Eigenentwickelte Fonts = CC BY 4.0 oder MIT (Dual-Lizenz); Emojis = Twemoji (CC BY 4.0). Vollständige Quelldateien (GitBook Markdown) und Build-Setup (publish.yml) im Repository verfügbar."
 }

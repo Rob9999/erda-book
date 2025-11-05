@@ -47,7 +47,7 @@ jobs:
         uses: docker/build-push-action@v6
         with:
           context: .
-          file: .github/tools/docker/Dockerfile
+          file: .github/gitbook_worker/tools/docker/Dockerfile
           target: publisher
           push: true
           tags: |
@@ -57,7 +57,7 @@ jobs:
             type=registry,ref=ghcr.io/${{ steps.repository_slug.outputs.value }}/publisher:buildcache
           cache-to: |
             type=registry,ref=ghcr.io/${{ steps.repository_slug.outputs.value }}/publisher:buildcache,mode=max
-            
+
   orchestrate:
     needs: [build_image]
     runs-on: ubuntu-latest
@@ -80,7 +80,7 @@ jobs:
         uses: docker/build-push-action@v6
         with:
           context: .
-          file: .github/tools/docker/Dockerfile
+          file: .github/gitbook_worker/tools/docker/Dockerfile
           target: publisher
           push: false
           load: true
