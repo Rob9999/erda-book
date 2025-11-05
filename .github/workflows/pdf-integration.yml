@@ -17,7 +17,7 @@ jobs:
           sudo apt-get install -y pandoc wkhtmltopdf texlive-luatex texlive-fonts-recommended texlive-latex-extra texlive-lang-cjk poppler-utils
           pip install pandas matplotlib pytest
       - name: Run tests
-        run: pytest .github/tests
+        run: pytest .github/gitbook_worker/tests
       - name: Upload test artifacts
         if: always()
         uses: actions/upload-artifact@v4

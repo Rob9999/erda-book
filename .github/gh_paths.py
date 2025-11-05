@@ -11,7 +11,7 @@ GITHUB_DIR = REPO_ROOT / ".github"
 print(f"INFO: Github Directory: {GITHUB_DIR}")
 
 # Absolute .github Tools Directory
-GH_TOOLS_DIR = GITHUB_DIR / "tools"
+GH_TOOLS_DIR = GITHUB_DIR / "gitbook_worker" / "tools"
 print(f"INFO: Tools Directory:  {GH_TOOLS_DIR}")
 
 # Absolute .github Tools Docker Directory

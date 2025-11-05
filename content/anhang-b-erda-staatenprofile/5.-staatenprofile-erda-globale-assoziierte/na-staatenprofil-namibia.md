@@ -16,7 +16,7 @@ version: "1.0"
 
 * **Offizieller Name:** Republik Namibia
 * **Geografische Lage (Kontinent, Region):** Südwestafrika, Atlantikküste; grenzt an Angola, Sambia, Botswana und Südafrika
-* **Bevölkerung (Stand 2023):** 2,96 Mio.[^wb-pop]
+* **Bevölkerung (Stand 2023):** 2,96 Mio.[^wb-pop-na]
 * **Regierungsform & Verfassungsstatus (Stand 2025):** Präsidiale Republik, Verfassung von 1990
 * 📅 ERDA-Status: Globale/r Assoziierter
 * **Zukünftige Rolle im ERDA-Netzwerk:** Partner für erneuerbare Energie und Hafenlogistik (Walvis Bay)
@@ -33,8 +33,8 @@ version: "1.0"
 
 ### 3. Wirtschaft & Innovation
 
-* **BIP (USD, 2023 / 2050 / 2075):** 12,4 Mrd. / 20 Mrd. / 35 Mrd. (2050/2075 hypothetisch: ERDA Scenario Modeling Report 2025)[^wb-gdp]
-* **BIP pro Kopf (USD, 2023):** 4 168[^wb-gdppc]
+* **BIP (USD, 2023 / 2050 / 2075):** 12,4 Mrd. / 20 Mrd. / 35 Mrd. (2050/2075 hypothetisch: ERDA Scenario Modeling Report 2025)[^wb-gdp-na]
+* **BIP pro Kopf (USD, 2023):** 4 168[^wb-gdppc-na]
 * **Top-3 Schlüsselindustrien:** Bergbau (Diamanten, Uran), Landwirtschaft, Tourismus
 * **Anteil Automatisierung & Digitalisierung (2025/2050):** 20 % / 50 % (hypothetisch: ERDA Scenario Modeling Report 2025)
 * **Forschungs- und Innovationsquote:** 0,7 % des BIP (World Bank 2021)
@@ -183,7 +183,7 @@ Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/
 Letzte Änderung: 2025-06-11
 
 <!-- Fußnotenverweise -->
-[^wb-pop]: World Bank – Population, total
-[^wb-gdp]: World Bank – GDP (current US$)
-[^wb-gdppc]: World Bank – GDP per capita (current US$)
+[^wb-pop-na]: World Bank – Population, total
+[^wb-gdp-na]: World Bank – GDP (current US$)
+[^wb-gdppc-na]: World Bank – GDP per capita (current US$)
 

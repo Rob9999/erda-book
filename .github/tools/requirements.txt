@@ -1,9 +1,0 @@
-pandas
-numpy
-matplotlib
-requests
-tqdm
-pygltflib
-black
-pyyaml
-pytest

@@ -1,3 +1,16 @@
+# Local environment variables
+.env
+
+# temps
+tmp/
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Project specific
+desktop/
+
 # Python
 __pycache__/
 *.py[cod]
@@ -72,12 +85,6 @@ coverage.xml
 .Trashes
 ehthumbs.db
 Thumbs.db
-
-# Project specific
-#publish/das-erda-buch.md
-#publish/das-erda-buch.pdf
-#publish/combined.md
-#publish/combined.pdf
 
 # Temporary files
 *.tmp
