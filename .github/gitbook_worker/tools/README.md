@@ -96,8 +96,8 @@ Implements the selective publishing flow used by Actions jobs:
   injects fonts and LaTeX macros, honours per-entry asset directories from
   `publish.yml` when constructing Pandoc's resource path so images stay
   available, runs Pandoc and resets build flags through `reset_publish_flag.py`
-  when successful.  The CLI exposes `--emoji-color` to switch between monochrome
-  and colour OpenMoji fonts, `--emoji-report`/`--emoji-report-dir` to emit
+  when successful.  The CLI exposes `--emoji-color` to use Twemoji (CC BY 4.0)
+  color fonts, `--emoji-report`/`--emoji-report-dir` to emit
   Markdown emoji usage summaries, and supports overriding Pandoc defaults via the
   `ERDA_PANDOC_DEFAULTS_JSON` or `ERDA_PANDOC_DEFAULTS_FILE` environment
   variables.
@@ -153,7 +153,7 @@ Emoji-specific utilities shared by the harness and publishing workflows:
 * `scan_fonts.py` reports font-family declarations so the harness can detect
   regressions and forbidden fallbacks.
 * `inline_emojis.py` replaces emoji glyphs in HTML output with inline SVG/PNG
-  assets, preferring Twemoji (CC BY 4.0) and falling back to OpenMoji Black.
+  assets using Twemoji (CC BY 4.0) exclusively as per AGENTS.md license policy.
 * `report.py` groups emoji usage by Unicode block to highlight coverage gaps,
   providing a lightweight monitoring hook for editors and CI.
 
