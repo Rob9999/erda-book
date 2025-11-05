@@ -60,11 +60,11 @@ RUN mkdir -p /app/texmf/tex/latex/local && \
     mkdir -p /app/.local/share/pandoc/filters && \
     mkdir -p /app/.pandoc/templates
 
-# Install OpenMoji font
-RUN mkdir -p $GITHUB_TOOLS/publishing/fonts/truetype/openmoji && \
-    wget -O $GITHUB_TOOLS/publishing/fonts/truetype/openmoji/OpenMoji-black-glyf.ttf \
-    https://github.com/hfg-gmuend/openmoji/raw/master/font/OpenMoji-black-glyf/OpenMoji-black-glyf.ttf && \
-    ln -s $GITHUB_TOOLS/publishing/fonts/truetype/openmoji/OpenMoji-black-glyf.ttf /usr/share/fonts/truetype/OpenMoji-black-glyf.ttf
+# Install Twemoji font (CC BY 4.0 - as required by AGENTS.md)
+RUN apt-get update && apt-get install -y \
+    fonts-twemoji \
+    && apt-get clean \
+    && rm -rf /var/lib/apt/lists/*
 
 # Install additional fonts for better Unicode support
 RUN apt-get update && apt-get install -y \

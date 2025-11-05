@@ -542,8 +542,8 @@ def _select_emoji_font(prefer_color: bool) -> Tuple[Optional[str], bool]:
 
     candidates: List[str] = []
     if prefer_color:
-        candidates.append("OpenMoji Color")
-    candidates.extend(["OpenMoji Black", "Segoe UI Emoji"])
+        candidates.append("Twemoji Mozilla")
+    candidates.extend(["Twemoji", "Segoe UI Emoji"])
 
     for candidate in candidates:
         if _font_available(candidate):
@@ -590,12 +590,10 @@ def _normalize_fallback_spec(
         seen.add(normalized)
 
     add_dejavu = False
-    if _normalize_font_name("OpenMoji Color") in seen:
-        if _normalize_font_name("OpenMoji Black") not in seen:
-            entries.append("OpenMoji Black:mode=harf")
-            seen.add(_normalize_font_name("OpenMoji Black"))
-        if _normalize_font_name("DejaVu Sans") not in seen:
-            add_dejavu = True
+    # Twemoji has no separate "Black" variant - removed OpenMoji-specific logic
+    # as per AGENTS.md requirement (Twemoji CC BY 4.0 only)
+    if _normalize_font_name("DejaVu Sans") not in seen:
+        add_dejavu = True
 
     # ERDA font is now explicitly set in publish.yml, no need to add automatically
     # erda_font_name = "erdaccbycjk"
@@ -1265,27 +1263,9 @@ def prepare_publishing(
             return found
         return False
 
-    font_black = os.path.join(font_dir, "OpenMoji-black-glyf.ttf")
-    if not os.path.exists(font_black):
-        try:
-            _ensure_dir(font_dir)
-            url = "https://github.com/hfg-gmuend/openmoji/raw/master/font/OpenMoji-black-glyf/OpenMoji-black-glyf.ttf"
-            _download(url, font_black)
-            _maybe_refresh_font_cache()
-        except Exception as e:
-            logger.warning("Konnte OpenMoji black nicht installieren: %s", e)
-    _register_font(font_black)
-
-    font_color = os.path.join(font_dir, "OpenMoji-color-glyf_colr_0.ttf")
-    if not os.path.exists(font_color):
-        try:
-            _ensure_dir(font_dir)
-            url = "https://github.com/hfg-gmuend/openmoji/raw/master/font/OpenMoji-color-glyf_colr_0/OpenMoji-color-glyf_colr_0.ttf"
-            _download(url, font_color)
-            _maybe_refresh_font_cache()
-        except Exception as e:
-            logger.warning("Konnte OpenMoji color nicht installieren: %s", e)
-    _register_font(font_color)
+    # Twemoji is installed via system package (fonts-twemoji) in Dockerfile
+    # No manual download required - as per AGENTS.md requirement (Twemoji CC BY 4.0 only)
+    # OpenMoji references removed to ensure license compliance
 
     # Register ERDA CC-BY CJK font from multiple possible locations
     erda_font_locations = [
