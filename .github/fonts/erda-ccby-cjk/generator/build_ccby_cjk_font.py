@@ -36,6 +36,7 @@ from hangul import (
 )
 from hanzi import HANZI_KANJI
 from punctuation import PUNCTUATION
+from hiragana import HIRAGANA
 from font_logger import FontBuildLogger
 
 EM = 1000
@@ -159,7 +160,7 @@ for char in HANZI_KANJI.keys():
 REQUIRED_CHARS.sort()
 
 
-def build_font(output: str = "erda-ccby-cjk.ttf") -> None:
+def build_font(output: str = "../true-type/erda-ccby-cjk.ttf") -> None:
     # Initialize logger
     logger = FontBuildLogger()
 
@@ -233,7 +234,10 @@ def build_font(output: str = "erda-ccby-cjk.ttf") -> None:
                 continue
             # Hiragana range (U+3040 - U+309F)
             if 0x3040 <= code <= 0x309F:
-                # Simple placeholder for Hiragana
+                if char in HIRAGANA:
+                    add_char(char, HIRAGANA[char], "hiragana")
+                    continue
+                # Simple placeholder for Hiragana not explicitly defined
                 hiragana_placeholder = [
                     "..####..",
                     ".#....#.",
@@ -952,8 +956,8 @@ Examples:
     parser.add_argument(
         "-o",
         "--output",
-        default="erda-ccby-cjk.ttf",
-        help="Output font file path (default: erda-ccby-cjk.ttf)",
+        default="../true-type/erda-ccby-cjk.ttf",
+        help="Output font file path (default: ../true-type/erda-ccby-cjk.ttf)",
     )
 
     parser.add_argument(
