@@ -33,7 +33,7 @@ jobs:
         uses: docker/build-push-action@v4
         with:
           context: .
-          file: .github/tools/docker/Dockerfile
+          file: .github/gitbook_worker/tools/docker/Dockerfile
           push: false
           load: true
           tags: sphere-space-workflow-tools:latest
