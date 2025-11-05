@@ -14,8 +14,8 @@
             "type": "Other"
         }
     ],
-    "description": "Offenes Buchprojekt für Strategie, Ethik und Zukunft Europas. Der Textteil steht unter CC BY-SA 4.0; Code ist MIT-lizenziert; eigene Fonts sind dual lizenziert (CC BY 4.0 oder MIT).",
-    "version": "1.0.0",
+    "description": "Technisch überarbeitete PDF-Version (Schrift/Typo/Layout) und reproduzierbare Quellen. Texte: CC BY-SA 4.0; Code: MIT; Fonts: CC BY 4.0 oder MIT. Details in ATTRIBUTION.md.",
+    "version": "1.0.1",
     "keywords": [
         "ERDA",
         "Europa",
@@ -46,5 +46,5 @@
             "resource_type": "publication"
         }
     ],
-    "notes": "Lizenzmatrix: Texte = CC BY-SA 4.0; Code = MIT; Fonts = CC BY 4.0 oder MIT; Emojis = Twemoji (CC BY 4.0). Details in ATTRIBUTION.md und Anhang J."
+    "notes": "Lizenzmatrix: Texte = CC BY-SA 4.0; Code = MIT; Fonts = CC BY 4.0 oder MIT; Emojis = Twemoji (CC BY 4.0)."
 }
