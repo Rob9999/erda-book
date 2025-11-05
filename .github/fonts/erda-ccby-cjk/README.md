@@ -24,9 +24,7 @@ erda-ccby-cjk/
 │   ├── hiragana.py                 # Hiragana Zeichen (27)
 │   ├── hangul.py                   # Hangul Jamo-Muster
 │   ├── hanzi.py                    # Hanzi/Kanji Zeichen (137)
-│   ├── punctuation.py              # Interpunktion (11)
-│   ├── check_coverage.py           # Dataset-Coverage-Tool
-│   └── check_hanzi_dups.py         # Duplikat-Check-Tool
+│   └── punctuation.py              # Interpunktion (11)
 │
 ├── dataset/                  # Test-Daten (Lizenztext-Übersetzungen)
 │   ├── japanese.md                 # Japanische Übersetzung
@@ -48,7 +46,9 @@ erda-ccby-cjk/
 ├── scripts/                  # Hilfsskripte
 │   └── clear-all-caches.ps1        # Windows Font-Cache löschen
 │
-└── tests/                    # Test-Dateien
+└── tests/                    # Test- und Validierungs-Skripte
+    ├── check_coverage.py           # Dataset-Coverage-Tool
+    ├── check_hanzi_dups.py         # Duplikat-Check-Tool
     └── test-font-version.html      # HTML-Test für Font-Rendering
 ```
 
@@ -62,6 +62,29 @@ erda-ccby-cjk/
 python >= 3.11
 pip install fonttools
 ```
+
+### VS Code Setup (empfohlen)
+
+Das Projekt enthält vorkonfigurierte VS Code Launch- und Task-Konfigurationen:
+
+**Verfügbare Launch-Konfigurationen** (F5):
+- `Build Font` — Standard-Build
+- `Build Font (with cache refresh)` — Build + Cache-Refresh
+- `Build Font (verbose)` — Build mit Debug-Output
+- `Check Coverage` — Dataset-Coverage prüfen
+- `Check Hanzi Duplicates` — Duplikat-Check
+- `Debug Current File` — Aktuelle Datei debuggen
+
+**Verfügbare Tasks** (Ctrl+Shift+P → "Run Task"):
+- `Build Font` — Standard-Build (Default Build Task)
+- `Build Font + Refresh Cache` — Build + Cache
+- `Build Font + Install` — Build + Install + Cache
+- `Check Coverage` — Coverage-Test
+- `Check Duplicates` — Duplikat-Test
+- `Run All Tests` — Alle Validierungen
+- `Full Build & Test` — Complete Pipeline
+
+**Empfohlene Extensions** werden automatisch vorgeschlagen.
 
 ### Font bauen
 
@@ -144,7 +167,7 @@ python build_ccby_cjk_font.py --install --refresh-cache
 ### Coverage-Check
 
 ```bash
-cd generator
+cd tests
 python check_coverage.py
 ```
 
@@ -158,6 +181,7 @@ Missing characters: 0
 ### Duplikat-Check
 
 ```bash
+cd tests
 python check_hanzi_dups.py
 ```
 
@@ -320,6 +344,7 @@ cd generator
 python build_ccby_cjk_font.py
 
 # 2. Coverage prüfen
+cd ../tests
 python check_coverage.py
 
 # 3. Duplikate prüfen
@@ -344,9 +369,9 @@ Siehe auch: [`docs/FONT-CACHE-TROUBLESHOOTING.md`](docs/FONT-CACHE-TROUBLESHOOTI
 
 ### Problem: Zeichen fehlen im PDF
 
-1. Coverage prüfen: `python generator/check_coverage.py`
+1. Coverage prüfen: `cd tests && python check_coverage.py`
 2. Fehlende Zeichen zu entsprechendem Modul hinzufügen
-3. Font neu bauen
+3. Font neu bauen: `cd ../generator && python build_ccby_cjk_font.py`
 4. PDF-Build erneut ausführen
 
 ### Problem: Build-Fehler

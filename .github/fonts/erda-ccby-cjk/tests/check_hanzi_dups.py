@@ -3,7 +3,9 @@
 import sys
 from pathlib import Path
 
-sys.path.insert(0, str(Path(__file__).parent))
+# Add generator directory to path (tests/ -> erda-ccby-cjk/ -> generator/)
+GENERATOR_DIR = Path(__file__).resolve().parent.parent / "generator"
+sys.path.insert(0, str(GENERATOR_DIR))
 
 from hanzi import HANZI_KANJI
 

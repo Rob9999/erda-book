@@ -5,7 +5,7 @@
 ## Required Hangul Syllables
 
 ### Common Syllables (자주 사용되는 음절)
-저작물, 이용, 처리, 재처리, 인공지능, 기계학습, 자동화, 시스템, 따릅니다, 명시적, 생성, 콘텐츠, 프로젝트, 알고리즘, 변환, 형식, 포함, 변경, 수록물, 모음집, 해당, 유지
+저작물, 이용, 처리, 재처리, 인공지능, 기계학습, 자동화, 시스템, 따릅니다, 명시적, 생성, 콘텐츠, 프로젝트, 알고리즘, 변환, 형식, 포함, 변경, 수록물, 모음집, 해당, 유지, 한국어, 대한민국
 
 ### Jamo Components (자모)
 All 11,172 Hangul syllables are generated algorithmically from:
