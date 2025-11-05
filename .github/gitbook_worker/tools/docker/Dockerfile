@@ -60,11 +60,15 @@ RUN mkdir -p /app/texmf/tex/latex/local && \
     mkdir -p /app/.local/share/pandoc/filters && \
     mkdir -p /app/.pandoc/templates
 
-# Install OpenMoji font
-RUN mkdir -p $GITHUB_TOOLS/publishing/fonts/truetype/openmoji && \
-    wget -O $GITHUB_TOOLS/publishing/fonts/truetype/openmoji/OpenMoji-black-glyf.ttf \
-    https://github.com/hfg-gmuend/openmoji/raw/master/font/OpenMoji-black-glyf/OpenMoji-black-glyf.ttf && \
-    ln -s $GITHUB_TOOLS/publishing/fonts/truetype/openmoji/OpenMoji-black-glyf.ttf /usr/share/fonts/truetype/OpenMoji-black-glyf.ttf
+# Install Twemoji font (CC BY 4.0 - as required by AGENTS.md)
+# Download Twemoji font from official GitHub repository since fonts-twemoji package doesn't exist in Ubuntu 22.04
+RUN mkdir -p /usr/share/fonts/truetype/twemoji && \
+    wget -O /tmp/twemoji-linux.tar.gz \
+    https://github.com/13rac1/twemoji-color-font/releases/download/v15.1.0/TwitterColorEmoji-SVGinOT-Linux-15.1.0.tar.gz && \
+    tar -xzf /tmp/twemoji-linux.tar.gz -C /tmp && \
+    cp /tmp/TwitterColorEmoji-SVGinOT-Linux-15.1.0/TwitterColorEmoji-SVGinOT.ttf \
+       /usr/share/fonts/truetype/twemoji/ && \
+    rm -rf /tmp/twemoji-linux.tar.gz /tmp/TwitterColorEmoji-SVGinOT-Linux-15.1.0
 
 # Install additional fonts for better Unicode support
 RUN apt-get update && apt-get install -y \
