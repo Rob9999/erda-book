@@ -19,6 +19,7 @@ Optionen siehe argparse unten.
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
 import os
 import pathlib
@@ -226,18 +227,20 @@ def _run(
     capture: bool = False,
     env: Optional[Dict[str, str]] = None,
 ) -> subprocess.CompletedProcess:
-    kwargs: Dict[str, Any] = {"text": True}
-    if capture:
-        kwargs["stdout"] = subprocess.PIPE
-        kwargs["stderr"] = subprocess.PIPE
+    kwargs: Dict[str, Any] = {
+        "text": True,
+        "stdout": subprocess.PIPE,
+        "stderr": subprocess.PIPE,
+    }
     if env:
         kwargs["env"] = {**os.environ, **env}
     logger.info("→ %s", " ".join(cmd))
     cp = subprocess.run(cmd, **kwargs)
+    if cp.stdout:
+        logger.info(cp.stdout)
+    if cp.stderr:
+        logger.error(cp.stderr)
     if check and cp.returncode != 0:
-        if capture:
-            logger.info(cp.stdout or "")
-            logger.error(cp.stderr or "")
         raise subprocess.CalledProcessError(cp.returncode, cmd)
     return cp
 
@@ -248,6 +251,39 @@ def _which(name: str) -> Optional[str]:
 
 def _is_debian_like() -> bool:
     return pathlib.Path("/etc/debian_version").exists()
+
+
+def _clear_lualatex_caches() -> None:
+    """Clear LuaLaTeX font caches to force reload of updated fonts.
+
+    LuaLaTeX caches fonts separately from fontconfig, so updating fonts
+    via fc-cache alone is insufficient. This function removes the LuaTeX
+    font cache directories to ensure the PDF engine picks up font changes.
+    """
+    cache_locations = [
+        Path.home() / ".texlive2023" / "texmf-var" / "luatex-cache",
+        Path.home() / ".texlive2024" / "texmf-var" / "luatex-cache",
+        Path.home() / ".texlive2025" / "texmf-var" / "luatex-cache",
+        Path("/var/lib/texmf/luatex-cache"),
+    ]
+
+    cleared_count = 0
+    for cache_dir in cache_locations:
+        if not cache_dir.exists():
+            continue
+        try:
+            shutil.rmtree(cache_dir, ignore_errors=True)
+            logger.info("✓ LuaLaTeX Cache gelöscht: %s", cache_dir)
+            cleared_count += 1
+        except Exception as exc:
+            logger.warning(
+                "⚠ Konnte LuaLaTeX Cache nicht löschen (%s): %s", cache_dir, exc
+            )
+
+    if cleared_count > 0:
+        logger.info("ℹ %d LuaLaTeX Cache-Verzeichnisse gelöscht", cleared_count)
+    else:
+        logger.debug("ℹ Keine LuaLaTeX Cache-Verzeichnisse gefunden")
 
 
 def _ensure_dir(path: str) -> None:
@@ -561,11 +597,12 @@ def _normalize_fallback_spec(
         if _normalize_font_name("DejaVu Sans") not in seen:
             add_dejavu = True
 
-    erda_font_name = "ERDA CC-BY CJK"
-    erda_normalized = _normalize_font_name(erda_font_name)
-    if erda_normalized not in seen:
-        entries.append(f"{erda_font_name}:mode=harf")
-        seen.add(erda_normalized)
+    # ERDA font is now explicitly set in publish.yml, no need to add automatically
+    # erda_font_name = "erdaccbycjk"
+    # erda_normalized = _normalize_font_name(erda_font_name)
+    # if erda_normalized not in seen:
+    #     entries.append(f"{erda_font_name}:mode=harf")
+    #     seen.add(erda_normalized)
 
     if add_dejavu:
         entries.append("DejaVu Sans:mode=harf")
@@ -1159,20 +1196,58 @@ def prepare_publishing(
         _maybe_refresh_font_cache()
 
     def _register_font(font_path: Union[Path, str]) -> None:
+        """Register a font file in the user font directory with hash-based update detection.
+
+        This function copies fonts to ~/.local/share/fonts and detects when an existing
+        font needs to be updated by comparing SHA256 hashes. This ensures that font
+        updates are properly recognized and cached.
+        """
         if not font_path:
             return
         try:
             path_obj = Path(font_path)
             if not path_obj.exists():
                 return
+
             user_font_dir = Path.home() / ".local" / "share" / "fonts"
             user_font_dir.mkdir(parents=True, exist_ok=True)
             target = user_font_dir / path_obj.name
-            if not target.exists():
+
+            # Check if font needs update (hash-based comparison)
+            needs_update = True
+            if target.exists():
+                try:
+                    source_hash = hashlib.sha256(path_obj.read_bytes()).hexdigest()
+                    target_hash = hashlib.sha256(target.read_bytes()).hexdigest()
+                    needs_update = source_hash != target_hash
+
+                    if not needs_update:
+                        logger.debug("ℹ Font bereits aktuell: %s", target.name)
+                except Exception as hash_exc:
+                    logger.warning(
+                        "⚠ Hash-Vergleich fehlgeschlagen für %s: %s",
+                        target.name,
+                        hash_exc,
+                    )
+                    # Bei Fehler: Update zur Sicherheit durchführen
+                    needs_update = True
+
+            if needs_update:
+                if target.exists():
+                    target.unlink()  # Remove old version first
+                    logger.info("✓ Alte Font-Version entfernt: %s", target.name)
+
                 shutil.copy2(path_obj, target)
+                logger.info("✓ Font aktualisiert: %s", target.name)
+
+                # Force cache refresh after font update
+                nonlocal font_cache_refreshed
+                font_cache_refreshed = False
+                _maybe_refresh_font_cache()
+
             _remember_font_dir(path_obj.parent)
             _remember_font_dir(user_font_dir)
-            _maybe_refresh_font_cache()
+
         except Exception as exc:  # pragma: no cover - best effort only
             logger.warning("Konnte Font %s nicht registrieren: %s", font_path, exc)
 
@@ -1211,6 +1286,24 @@ def prepare_publishing(
         except Exception as e:
             logger.warning("Konnte OpenMoji color nicht installieren: %s", e)
     _register_font(font_color)
+
+    # Register ERDA CC-BY CJK font from multiple possible locations
+    erda_font_locations = [
+        ".github/fonts/erda-ccby-cjk.ttf",  # Primary location
+        ".github/gitbook_worker/tools/publishing/fonts/truetype/erdafont/erda-ccby-cjk.ttf",  # Legacy
+    ]
+
+    erda_font_found = False
+    for erda_font_path in erda_font_locations:
+        if os.path.exists(erda_font_path):
+            logger.info("✓ ERDA CJK Font gefunden: %s", erda_font_path)
+            _register_font(erda_font_path)
+            _remember_font_dir(Path(erda_font_path).parent)
+            erda_font_found = True
+            break
+
+    if not erda_font_found:
+        logger.warning("⚠ ERDA CJK Font nicht gefunden in: %s", erda_font_locations)
 
     repo_font_dir = _resolve_repo_root() / ".github" / "fonts"
     if repo_font_dir.exists():
@@ -1268,6 +1361,17 @@ def prepare_publishing(
             _download(url, lua_path)
         except Exception as e:
             logger.warning("Konnte latex-emoji.lua nicht laden: %s", e)
+
+    # Clear LuaLaTeX font caches after font registration
+    # This ensures that LuaTeX picks up any font updates
+    logger.info("🔄 Clearing LuaLaTeX font caches...")
+    _clear_lualatex_caches()
+
+    # Final font cache refresh after all font operations
+    if manifest_specs or removed_fonts or font_cache_refreshed:
+        logger.info("🔄 Final fontconfig cache refresh...")
+        if _which("fc-cache"):
+            _run(["fc-cache", "-f", "-v"], check=False)
 
 
 # --------------------------- PDF Build (C) --------------------------------- #
@@ -1427,18 +1531,16 @@ def _run_pandoc(
 
     with tempfile.TemporaryDirectory() as temp_dir:
         header_file = Path(temp_dir) / "pandoc-fonts.tex"
-        header_file.write_text(
-            _build_font_header(
-                main_font=main_font,
-                sans_font=sans_font,
-                mono_font=mono_font,
-                emoji_font=emoji_font,
-                include_mainfont=not supports_mainfont_fallback,
-                needs_harfbuzz=needs_harfbuzz,
-                manual_fallback_spec=manual_fallback_spec,
-            ),
-            encoding="utf-8",
+        font_header_content = _build_font_header(
+            main_font=main_font,
+            sans_font=sans_font,
+            mono_font=mono_font,
+            emoji_font=emoji_font,
+            include_mainfont=not supports_mainfont_fallback,
+            needs_harfbuzz=needs_harfbuzz,
+            manual_fallback_spec=manual_fallback_spec,
         )
+        header_file.write_text(font_header_content, encoding="utf-8")
 
         header_args = _combine_header_paths(
             header_defaults, header_override, [str(header_file)]

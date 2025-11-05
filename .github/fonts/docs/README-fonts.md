@@ -1,241 +1,122 @@
-# ERDA CC-BY CJK Font# ERDA CC-BY CJK Font
+# ERDA CC-BY CJK Font
 
-
-
-## 📁 VerzeichnisstrukturThis directory contains a minimalist fallback font that covers the characters
-
+This directory contains a minimalist fallback font that covers the characters
 used in the Japanese, Korean, and Traditional Chinese licence translations of 
+the ERDA book. The font was created specifically for this repository and is 
+released under the Creative Commons Attribution 4.0 International Licence (CC BY 4.0).
 
-```the ERDA book. The font was created specifically for this repository and is 
+* `erda-ccby-cjk.ttf` – generated font file.
+* `build_ccby_cjk_font.py` – generator script that converts handcrafted
+  bitmap patterns into TrueType outlines.
+* `FONT-CACHE-TROUBLESHOOTING.md` – comprehensive guide to Windows font caches
+* `CODE-REVIEW-REPORT.md` – detailed code review and cache issues analysis
+* `clear-all-caches.ps1` – PowerShell script for admin-level cache clearing
+* `test-font-version.html` – HTML page to verify font version and rendering
 
-.github/fonts/released under the Creative Commons Attribution 4.0 International Licence (CC BY 4.0).
+## Quick Start
 
-├── README.md                    # Diese Datei
-
-├── build_ccby_cjk_font.py      # Hauptskript zum Bauen der Font* `erda-ccby-cjk.ttf` – generated font file.
-
-├── erda-ccby-cjk.ttf           # Die finale Font (CC BY 4.0)* `build_ccby_cjk_font.py` – generator script that converts handcrafted
-
-│  bitmap patterns into TrueType outlines.
-
-├── docs/                        # Dokumentation* `FONT-CACHE-TROUBLESHOOTING.md` – comprehensive guide to Windows font caches
-
-│   ├── README-fonts.md         # Ausführliche Font-Dokumentation* `CODE-REVIEW-REPORT.md` – detailed code review and cache issues analysis
-
-│   ├── LICENSE.txt             # CC BY 4.0 Lizenz* `clear-all-caches.ps1` – PowerShell script for admin-level cache clearing
-
-│   ├── CODE-REVIEW-REPORT.md   # Code-Review-Bericht* `test-font-version.html` – HTML page to verify font version and rendering
-
-│   └── FONT-CACHE-TROUBLESHOOTING.md  # Cache-Troubleshooting
-
-│## Quick Start
-
-├── scripts/                     # Hilfsskripte
-
-│   ├── clear-all-caches.ps1    # Windows Font Cache löschenBuild the font with default settings:
-
-│   └── test-admin-cache-refresh.ps1  # Admin-Cache-Refresh-Test
-
-│```bash
-
-├── tests/                       # Test-Dateienpython build_ccby_cjk_font.py
-
-│   ├── test_chars.py           # Testet ob Zeichen in Font enthalten```
-
-│   ├── test_dict.py            # Testet HANZI_KANJI Dictionary
-
-│   ├── debug_chars.py          # Debug-Script für ZeichenBuild and refresh the font cache (recommended):
-
-│   ├── check_translation.py    # Prüft Translation-Strings
-
-│   └── test-font-version.html  # HTML-Testseite für Font-Anzeige```bash
-
-│python build_ccby_cjk_font.py --refresh-cache
-
-└── build/                       # Build-Artefakte (nicht versioniert)```
-
-    ├── erda-ccby-cjk-test.ttf  # Test-Versionen
-
-    └── __pycache__/            # Python CacheBuild, install, and refresh (full setup):
-
-```
+Build the font with default settings:
 
 ```bash
-
-## 🚀 Schnellstartpython build_ccby_cjk_font.py --install --refresh-cache
-
+python build_ccby_cjk_font.py
 ```
 
-### Font bauen
+Build and refresh the font cache (recommended):
+
+```bash
+python build_ccby_cjk_font.py --refresh-cache
+```
+
+Build, install, and refresh (full setup):
+
+```bash
+python build_ccby_cjk_font.py --install --refresh-cache
+```
 
 **⚠️ Font Not Updating?** See [FONT-CACHE-TROUBLESHOOTING.md](FONT-CACHE-TROUBLESHOOTING.md) for comprehensive cache clearing instructions.
 
-```bash
-
-python build_ccby_cjk_font.py --output erda-ccby-cjk.ttf --refresh-cache## Usage
+## Usage
 
 ```
+usage: build_ccby_cjk_font.py [-h] [-o OUTPUT] [-r] [-i] [-v]
 
-```
-
-### Font installierenusage: build_ccby_cjk_font.py [-h] [-o OUTPUT] [-r] [-i] [-v]
-
-
-
-```bashoptions:
-
-python build_ccby_cjk_font.py --install --refresh-cache  -h, --help            show this help message and exit
-
-```  -o OUTPUT, --output OUTPUT
-
+options:
+  -h, --help            show this help message and exit
+  -o OUTPUT, --output OUTPUT
                         Output font file path (default: erda-ccby-cjk.ttf)
-
-### Tests ausführen  -r, --refresh-cache   Refresh the font cache after building
-
+  -r, --refresh-cache   Refresh the font cache after building
   -i, --install         Install the font to user fonts directory
-
-```bash  -v, --verbose         Enable verbose output
-
-cd tests```
-
-python test_chars.py      # Testet japanische Kanji
-
-python test_dict.py       # Testet Dictionary-Vollständigkeit## Features
-
+  -v, --verbose         Enable verbose output
 ```
+
+## Features
 
 ### Automatic Font Versioning 🎯 NEW!
 
-## 📊 Font-Details
-
 Every build generates a unique font version with timestamp:
+- **Format:** `Version 1.0.YYYYMMDD.HHMMSS`
+- **Example:** `Version 1.0.20251104.200610`
+- **Purpose:** Forces Windows to invalidate font cache
+- **Benefit:** Ensures applications load new font version
 
-- **Version:** Dynamisch mit Timestamp (z.B. `Version 1.0.20251105.115845`)- **Format:** `Version 1.0.YYYYMMDD.HHMMSS`
+**Verify Font Version:**
+- Right-click `erda-ccby-cjk.ttf` → Properties → Details → "Product version"
+- Open `test-font-version.html` in browser (shows loaded version)
 
-- **Größe:** ~86 KB- **Example:** `Version 1.0.20251104.200610`
+### Platform Support
 
-- **Zeichen:** ~3300+ Glyphen- **Purpose:** Forces Windows to invalidate font cache
+The script supports automatic font installation and cache refresh on:
 
-  - Katakana (vollständig)- **Benefit:** Ensures applications load new font version
-
-  - Hiragana (Platzhalter)
-
-  - Hangul (11,172 Zeichen algorithmisch)**Verify Font Version:**
-
-  - Kanji/Hanzi (107 handdesignte + CJK-Platzhalter)- Right-click `erda-ccby-cjk.ttf` → Properties → Details → "Product version"
-
-  - Interpunktion und Symbole- Open `test-font-version.html` in browser (shows loaded version)
-
-
-
-## 🛠️ Entwicklung### Platform Support
-
-
-
-### Font erweiternThe script supports automatic font installation and cache refresh on:
-
-
-
-Neue Kanji/Hanzi-Zeichen in `build_ccby_cjk_font.py` zum `HANZI_KANJI` Dictionary hinzufügen:- **Windows**: User fonts directory + registry registration + cache clearing
-
+- **Windows**: User fonts directory + registry registration + cache clearing
 - **Linux**: `~/.local/share/fonts` + fc-cache
+- **macOS**: `~/Library/Fonts` (system-managed cache)
 
-```python- **macOS**: `~/Library/Fonts` (system-managed cache)
+### Character Support
 
-"新": [  # new/新
+The font includes support for:
 
-    "########",### Character Support
-
-    "#......#",
-
-    "..####..",The font includes support for:
-
-    "...##...",
-
-    "########",- **Japanese**: Full Katakana, Hiragana (placeholder), and common Kanji
-
-    "#.#..#.#",- **Korean**: Complete Hangul syllable composition (U+AC00-U+D7A3)
-
-    "#.####.#",- **Traditional Chinese**: 100+ handcrafted Hanzi characters + fallback glyphs
-
-    "########",- **Punctuation**: CJK and ASCII punctuation marks
-
-],- **ASCII**: Basic Latin characters (fallback placeholders)
-
-```
+- **Japanese**: Full Katakana, Hiragana (placeholder), and common Kanji
+- **Korean**: Complete Hangul syllable composition (U+AC00-U+D7A3)
+- **Traditional Chinese**: 100+ handcrafted Hanzi characters + fallback glyphs
+- **Punctuation**: CJK and ASCII punctuation marks
+- **ASCII**: Basic Latin characters (fallback placeholders)
 
 ### Font Cache Management (Enhanced) 🔧 NEW!
 
-Alle Zeichen im `HANZI_KANJI` Dictionary werden automatisch in die Font integriert.
-
 **Windows Cache Refresh (4-Stage Approach):**
-
-### Cache-Probleme beheben
 
 The `--refresh-cache` option now uses **4 methods** to clear Windows font caches:
 
-```powershell
-
-# Windows: Alle Caches löschen (als Admin)1. **WM_FONTCHANGE Broadcast** ✅ (Always)
-
-.\scripts\clear-all-caches.ps1   - Notifies all running applications of font changes
-
+1. **WM_FONTCHANGE Broadcast** ✅ (Always)
+   - Notifies all running applications of font changes
    - Works without administrator privileges
+   - Immediate effect for well-behaved applications
 
-# Oder: FontCache-Service neu starten   - Immediate effect for well-behaved applications
-
-.\scripts\test-admin-cache-refresh.ps1
-
-```2. **Cache File Deletion** ✅ (Always attempted)
-
+2. **Cache File Deletion** ✅ (Always attempted)
    - Deletes cache files from 7 locations:
-
-## 📜 Lizenz     * User Font Cache (`%LOCALAPPDATA%\Microsoft\Windows\Fonts`)
-
+     * User Font Cache (`%LOCALAPPDATA%\Microsoft\Windows\Fonts`)
      * Windows Caches (`%LOCALAPPDATA%\Microsoft\Windows\Caches`)
-
-**CC BY 4.0** - Creative Commons Attribution 4.0 International     * FontCache Service (`%WINDIR%\ServiceProfiles\LocalService\...`)
-
+     * FontCache Service (`%WINDIR%\ServiceProfiles\LocalService\...`)
      * Temp Caches (`%TEMP%\font*.tmp`)
-
-Siehe [docs/LICENSE.txt](docs/LICENSE.txt) für Details.     * And more...
-
+     * And more...
    - Reports deleted file count
+   - Handles permission errors gracefully
 
-## 🔗 Integration   - Handles permission errors gracefully
-
-
-
-Die Font wird in `publish.yml` referenziert:3. **FontCache Service Restart** ⚠️ (Requires Administrator)
-
+3. **FontCache Service Restart** ⚠️ (Requires Administrator)
    - Stops and restarts Windows FontCache service
-
-```yaml   - Clears service-level font cache
-
-fonts:   - Only runs when script executed as Administrator
-
-  - name: ERDA CC-BY CJK   - Graceful fallback if not admin
-
-    path: .github/fonts/erda-ccby-cjk.ttf
+   - Clears service-level font cache
+   - Only runs when script executed as Administrator
+   - Graceful fallback if not admin
 
 4. **fontconfig (fc-cache)** ℹ️ (Optional)
-
-publish:   - Runs if fc-cache available (MSYS2/Cygwin/WSL)
-
-  - pdf_options:   - Updates fontconfig cache for cross-platform apps
-
-      mainfont_fallback: "OpenMoji Color:mode=harf; [.github/fonts/erda-ccby-cjk.ttf]:mode=harf"   - Not required on pure Windows
-
-```
+   - Runs if fc-cache available (MSYS2/Cygwin/WSL)
+   - Updates fontconfig cache for cross-platform apps
+   - Not required on pure Windows
 
 **Success Metrics:**
-
-## 📝 Weitere Informationen```
-
+```
 📊 Cache refresh summary: X/4 methods succeeded
-
-Siehe [docs/README-fonts.md](docs/README-fonts.md) für ausführliche Dokumentation.✓ Font cache refresh completed
-
+✓ Font cache refresh completed
 
 ⚠ Important next steps:
   1. Close and reopen applications (browsers, PDF readers, Office)
