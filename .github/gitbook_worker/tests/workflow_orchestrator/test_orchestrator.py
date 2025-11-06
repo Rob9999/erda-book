@@ -120,9 +120,9 @@ def test_run_creates_missing_readme(tmp_path: Path) -> None:
 def test_update_citation_dry_run(tmp_path: Path) -> None:
     repo = tmp_path
     (repo / "publish.yml").write_text("publish: []\n", encoding="utf-8")
-    citation = repo / "docs" / "public" / "publish"
-    citation.mkdir(parents=True)
-    cff = citation / "citation.cff"
+    publish_dir = repo / "publish"
+    publish_dir.mkdir(parents=True)
+    cff = publish_dir / "CITATION.cff"
     cff.write_text("version: old\ndate-released: '2000-01-01'\n", encoding="utf-8")
     profile = OrchestratorProfile(
         name="test",
@@ -145,3 +145,44 @@ def test_update_citation_dry_run(tmp_path: Path) -> None:
     content = cff.read_text(encoding="utf-8")
     assert "old" in content
     assert "2000-01-01" in content
+
+
+def test_update_citation_updates_and_copies_to_root(tmp_path: Path) -> None:
+    """Test that update_citation updates the file and copies to root."""
+    repo = tmp_path
+    (repo / "publish.yml").write_text("publish: []\n", encoding="utf-8")
+    publish_dir = repo / "publish"
+    publish_dir.mkdir(parents=True)
+    cff = publish_dir / "CITATION.cff"
+    cff.write_text("version: old\ndate-released: '2000-01-01'\n", encoding="utf-8")
+
+    profile = OrchestratorProfile(
+        name="test",
+        steps=("update_citation",),
+        docker=DockerSettings(use_registry=False, image=None, cache=False),
+    )
+    config = OrchestratorConfig(
+        root=repo,
+        manifest=repo / "publish.yml",
+        profile=profile,
+        repo_visibility="public",
+        repository="example/repo",
+        commit=None,
+        base=None,
+        reset_others=False,
+        publisher_args=(),
+        dry_run=False,
+    )
+    run(config)
+
+    # Check publish/CITATION.cff was updated
+    content = cff.read_text(encoding="utf-8")
+    assert "The_zenodo_release_on_" in content
+    assert "old" not in content
+    assert "2000-01-01" not in content
+
+    # Check CITATION.cff was copied to root
+    root_cff = repo / "CITATION.cff"
+    assert root_cff.exists()
+    root_content = root_cff.read_text(encoding="utf-8")
+    assert content == root_content
