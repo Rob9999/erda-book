@@ -10,10 +10,13 @@ from pathlib import Path
 
 import pytest
 
-pytestmark = pytest.mark.skipif(
-    shutil.which("lualatex") is None or shutil.which("pdfinfo") is None,
-    reason="lualatex or pdfinfo not installed",
-)
+pytestmark = [
+    pytest.mark.skipif(
+        shutil.which("lualatex") is None or shutil.which("pdfinfo") is None,
+        reason="lualatex or pdfinfo not installed",
+    ),
+    pytest.mark.slow,  # These tests involve LaTeX compilation
+]
 
 # Constants for paper dimensions in mm
 PAPER_SIZES = {"A4": (210, 297), "A3": (297, 420), "A2": (420, 594), "A1": (594, 841)}

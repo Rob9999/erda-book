@@ -11,10 +11,13 @@ from tools.publishing import publisher
 
 from . import GH_TEST_LOGS_DIR, GH_TEST_OUTPUT_DIR
 
-pytestmark = pytest.mark.skipif(
-    shutil.which("lualatex") is None or shutil.which("pandoc") is None,
-    reason="pandoc or lualatex not installed",
-)
+pytestmark = [
+    pytest.mark.skipif(
+        shutil.which("pandoc") is None or shutil.which("lualatex") is None,
+        reason="pandoc or lualatex not installed",
+    ),
+    pytest.mark.slow,  # These tests involve PDF generation
+]
 
 
 def _run_lualatex(

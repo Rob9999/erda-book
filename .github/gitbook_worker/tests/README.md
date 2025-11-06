@@ -1,72 +1,101 @@
-# Tests of the .github/gitbook_worker/tools
+# Tests
 
-Unit and integration tests for publishing and conversion tools.
-The integration suite ensures Markdown documents in `docs/public/documents` can be rendered to PDF with Pandoc.
+Dieses Verzeichnis enthält automatisierte Tests für den GitBook Worker und die Publishing-Tools.
 
-The suite also includes a Docker integration test that builds the image from `.github/gitbook_worker/tools/docker` and executes all tests inside that container.
+## Test-Struktur
 
----
+### Unit & Integration Tests
 
-## Tests without docker container
+- **emoji/** - Tests für Emoji-Verarbeitung und Rendering
+- **workflow_orchestrator/** - Tests für den Workflow-Orchestrator  
+- **test_a1_pdf.py** - Tests für A1-Papierformat-PDF-Generierung
+- **test_appendix_layout_inspector.py** - Tests für Anhang-Layout-Inspektion
+- **test_csv_converter.py** - Tests für CSV-zu-Markdown/Chart-Konvertierung
+- **test_gitbook_style.py** - Tests für GitBook-Stil-Verarbeitung
+- **test_markdown_combiner.py** - Tests für Markdown-Zusammenfügung
+- **test_paper_info.py** - Tests für Papierformat-Informationen
+- **test_pipeline.py** - Tests für die Publishing-Pipeline
+- **test_preprocess_md.py** - Tests für Markdown-Vorverarbeitung
+- **test_publisher.py** - Tests für den PDF-Publisher
+- **test_set_publish_flag.py** - Tests für das Publish-Flag-System
 
-### A single test
-```bash
-python -m pytest .github/gitbook_worker/tests/test_documents_publishing.py -v
-```
+### Slow/Integration Tests
 
-### All tests
+Die folgenden Tests sind als `@pytest.mark.slow` markiert und werden standardmäßig **nicht** ausgeführt:
 
-```bash
-python -m pytest .github/gitbook_worker/tests/ -v
-```
+- **test_documents_publishing.py** - Vollständige Dokumenten-Publishing (275+ Dokumente)
+- **test_exact_table_dimensions.py** - Exakte Tabellendimensionen-Tests (LaTeX)
+- **test_pdf_integration.py** - End-to-End PDF-Generierungs-Tests
+- **test_docker_container.py** - Docker-Container-Tests (Skip wenn INSIDE_DOCKER)
 
----
+## Lokales Ausführen
 
-## Tests with docker container
-
-### Test local (non-GitHub workflow)
-
-#### Build docker container for tests
-
-```bash
-docker build -f .github/gitbook_worker/tools/docker/Dockerfile -t sphere-space-workflow-tools-tests .
-```
-
-#### Run the tests inside docker container
-
-##### A single test
+### Alle schnellen Tests
 
 ```bash
-docker run --rm -v "${PWD}:/workspace" -e PYTHONPATH=/workspace sphere-space-workflow-tools-tests python3 -m pytest .github/gitbook_worker/tests/test_documents_publishing.py -v
+cd .github/gitbook_worker/tests
+pytest -q -m "not slow"
 ```
 
-##### All tests
+### Alle Tests (inkl. langsame)
 
 ```bash
-docker run --rm -v "${PWD}:/workspace" -e PYTHONPATH=/workspace sphere-space-workflow-tools-tests python3 -m pytest .github/gitbook_worker/tests/ -v
+cd .github/gitbook_worker/tests
+pytest -q
 ```
 
-**or**
+### Spezifische Tests
 
 ```bash
-docker exec -it -e INSIDE_DOCKER=1 -e PYTHONPATH=/workspace -e PYTHONIOENCODING=utf-8 -e LC_ALL=C.UTF-8 -e LANG=C.UTF-8 sphere-space-workflow-tools-tests-container bash -c "PYTHONPATH=/workspace/.github/gitbook_worker/tools/publishing pytest -v --tb=long --showlocals --no-header --capture=no /workspace/.github/gitbook_worker/tests/"
+pytest test_publisher.py -v
+pytest emoji/ -v
+pytest -k "pandoc" -v
 ```
 
----
+## CI/CD
 
-### Test inside GitHub workflow engine
+Die Tests werden in GitHub Actions über `.github/workflows/test.yml` ausgeführt:
 
-#### Run the tests inside docker container
+- **unit-tests**: Schnelle Unit-Tests im Docker-Container (`-m 'not slow'`)
+- **integration-tests**: Integration-Tests mit vollständiger Toolchain (Pandoc, LaTeX, etc.)
+- **emoji-harness**: Emoji-Compliance-Tests  
+- **qa**: Dokumentations-QA (Links, Quellen)
 
-##### A single test
+## Voraussetzungen
 
-```bash
-docker run -v "${PWD}:/workspace" -w /workspace ghcr.io/actions/python:3.10.12 pytest .github/gitbook_worker/tests/test_documents_publishing.py -v
-```
+### Für Unit-Tests
+- Python 3.11+
+- pytest
+- Abhängigkeiten aus `requirements.txt`
 
-##### All tests
+### Für Integration-Tests
+- Pandoc 3.1.11+
+- LuaLaTeX (TeX Live)
+- wkhtmltopdf
+- pdfinfo (poppler-utils)
+- Fonts: DejaVu, OpenMoji, Twemoji
 
-```bash
-docker run -v "${PWD}:/workspace" -w /workspace ghcr.io/actions/python:3.10.12 pytest .github/gitbook_worker/tests/ -v
-```
+## Bekannte Probleme
 
+1. **Font-Verfügbarkeit**: Einige Tests erwarten `ERDA CC-BY CJK`, akzeptieren aber `DejaVu Sans` als Fallback
+2. **Windows-Encoding**: Tests können Encoding-Probleme bei Umlauten in LaTeX-Ausgaben haben
+3. **Resource-Pfade**: PDF-Tests benötigen korrekte Pfade zu `.sty`-Dateien
+
+## Test-Marker
+
+- `@pytest.mark.slow` - Langsame Tests (PDF-Generierung, LaTeX-Kompilierung)
+- `@pytest.mark.skipif` - Tests die von externer Software abhängen (Pandoc, LaTeX, Docker)
+
+## Hinzufügen neuer Tests
+
+1. Neue Test-Datei in `tests/` erstellen
+2. Bei Bedarf `@pytest.mark.slow` hinzufügen
+3. Fixtures aus `conftest.py` nutzen (`logger`, `output_dir`, `artifact_dir`)
+4. Tests lokal und in CI ausführen lassen
+
+## Test-Ergebnisse
+
+Stand: November 2025
+- **88 Tests** bestehen bei `-m 'not slow'`
+- **7 Tests** als `slow` markiert (werden nur bei Bedarf ausgeführt)
+- **1 Test** skipped (Docker-Container, nur in CI relevant)

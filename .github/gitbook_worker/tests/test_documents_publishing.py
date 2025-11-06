@@ -18,16 +18,22 @@ from tools.publishing.publisher import (
 
 from . import GH_TEST_LOGS_DIR, GH_TEST_OUTPUT_DIR
 
-pytestmark = pytest.mark.skipif(
-    shutil.which("pandoc") is None or shutil.which("lualatex") is None,
-    reason="pandoc or lualatex not installed",
-)
+pytestmark = [
+    pytest.mark.skipif(
+        shutil.which("pandoc") is None or shutil.which("lualatex") is None,
+        reason="pandoc or lualatex not installed",
+    ),
+    pytest.mark.slow,  # These tests take a very long time (275+ documents)
+]
 
 
 def collect_markdown_files(base_dir: pathlib.Path) -> List[Dict[str, Any]]:
-    """Collect all markdown files from docs/public/documents and prepare publish entries."""
+    """Collect all markdown files from content directory and prepare publish entries."""
     entries = []
-    documents_dir = base_dir / "docs" / "public" / "documents"
+    documents_dir = base_dir / "content"
+
+    if not documents_dir.exists():
+        return entries
 
     for root, _, files in os.walk(documents_dir):
         root_path = pathlib.Path(root)
@@ -54,7 +60,7 @@ def collect_markdown_files(base_dir: pathlib.Path) -> List[Dict[str, Any]]:
 
 
 def test_publish_all_documents(logger: logging.Logger):
-    """Test publishing all documents from docs/public/documents to PDFs."""
+    """Test publishing all documents from content directory to PDFs."""
     # Get repo root
     repo_root = pathlib.Path(__file__).resolve().parents[3]
 
@@ -66,7 +72,7 @@ def test_publish_all_documents(logger: logging.Logger):
 
     # Collect all markdown files
     publish_entries = collect_markdown_files(repo_root)
-    assert publish_entries, "No markdown files found in docs/public/documents"
+    assert publish_entries, "No markdown files found in content directory"
     # Sort entries by path length to process simpler documents first
     publish_entries.sort(key=lambda x: len(pathlib.Path(x["path"]).parts))
     # Build PDF
@@ -85,12 +91,14 @@ def test_publishing_using_publish_manifest(logger: logging.Logger):
     publish_dir.mkdir(parents=True, exist_ok=True)
 
     # Load publish manifest and get entries
-    manifest = find_publish_manifest("docs/public/publish.yml")
+    manifest = find_publish_manifest("publish.yml")
     targets = get_publish_list(manifest)
     assert targets, "Keine zu publizierenden Einträge (build: true)."
-    # Add repo root plus public path to paths
+    # Add repo root to relative paths
     for entry in targets:
-        entry["path"] = str(repo_root / "docs" / "public" / entry["path"])
+        entry_path = pathlib.Path(entry["path"])
+        if not entry_path.is_absolute():
+            entry["path"] = str(repo_root / entry["path"])
     # Build PDF
     _build_pdf(targets, publish_dir, logger)
 
