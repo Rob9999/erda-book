@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import importlib
+import json
 import logging
 import pathlib
 import subprocess
@@ -61,3 +62,119 @@ def artifact_dir(request: pytest.FixtureRequest) -> pathlib.Path:
     path: pathlib.Path = GH_TEST_ARTIFACTS_DIR / request.node.name
     path.mkdir(parents=True, exist_ok=True)
     return path
+
+
+# ========================= Path Resolution Fixtures ========================= #
+
+
+def _find_repo_root(start_path: pathlib.Path | None = None) -> pathlib.Path:
+    """Find the repository root by looking for .git, publish.yml, or book.json.
+
+    This matches the logic used in publisher.py's _get_repo_root().
+    """
+    if start_path is None:
+        start_path = pathlib.Path(__file__).resolve()
+
+    parents = [start_path, *start_path.parents]
+    for candidate in parents:
+        if (candidate / ".git").is_dir():
+            return candidate
+        if (candidate / "publish.yml").exists() or (
+            candidate / "publish.yaml"
+        ).exists():
+            return candidate
+        if (candidate / "book.json").exists():
+            return candidate
+    return parents[-1]
+
+
+def _find_publish_yml(repo_root: pathlib.Path) -> pathlib.Path:
+    """Resolve publish.yml path following the standard search order.
+
+    Search order:
+    1. REPO_ROOT/publish.yml
+    2. REPO_ROOT/publish.yaml
+    3. REPO_ROOT/docs/public/publish.yml (legacy layout)
+    4. Default to REPO_ROOT/publish.yml (may not exist)
+
+    This matches the logic in convert_assets.py's _resolve_manifest_path().
+    """
+    # Check repo root for publish.yml or publish.yaml
+    for name in ("publish.yml", "publish.yaml"):
+        candidate = repo_root / name
+        if candidate.exists():
+            return candidate.resolve()
+
+    # Check legacy location
+    legacy = repo_root / "docs" / "public" / "publish.yml"
+    if legacy.exists():
+        return legacy.resolve()
+
+    # Fallback (may not exist)
+    return (repo_root / "publish.yml").resolve()
+
+
+def _find_book_json(start_path: pathlib.Path) -> pathlib.Path:
+    """Locate book.json by searching up the directory tree.
+
+    This matches the logic in gitbook_style.py's _find_book_base().
+    """
+    for candidate in [start_path, *start_path.parents]:
+        book_json = candidate / "book.json"
+        if book_json.exists():
+            return book_json.resolve()
+
+    # Fallback to start_path / "book.json" (may not exist)
+    return (start_path / "book.json").resolve()
+
+
+def _get_content_root(book_json_path: pathlib.Path) -> pathlib.Path:
+    """Extract the content root directory from book.json.
+
+    This matches the logic in gitbook_style.py's _build_summary_context().
+    """
+    if not book_json_path.exists():
+        return book_json_path.parent
+
+    with book_json_path.open("r", encoding="utf-8") as f:
+        book_data = json.load(f)
+
+    root_value = book_data.get("root", ".")
+    # Remove trailing slash if present
+    root_value = root_value.rstrip("/")
+
+    if not root_value or root_value == ".":
+        return book_json_path.parent
+
+    return (book_json_path.parent / root_value).resolve()
+
+
+@pytest.fixture(scope="session")
+def repo_root() -> pathlib.Path:
+    """Return the repository root directory."""
+    return _find_repo_root()
+
+
+@pytest.fixture(scope="session")
+def publish_yml_path(repo_root: pathlib.Path) -> pathlib.Path:
+    """Return the path to publish.yml (or publish.yaml)."""
+    return _find_publish_yml(repo_root)
+
+
+@pytest.fixture(scope="session")
+def book_json_path(repo_root: pathlib.Path) -> pathlib.Path:
+    """Return the path to book.json."""
+    return _find_book_json(repo_root)
+
+
+@pytest.fixture(scope="session")
+def book_json_data(book_json_path: pathlib.Path) -> dict:
+    """Return the parsed book.json data."""
+    with book_json_path.open("r", encoding="utf-8") as f:
+        return json.load(f)
+
+
+@pytest.fixture(scope="session")
+def content_root(book_json_path: pathlib.Path) -> pathlib.Path:
+    """Return the content root directory from book.json configuration."""
+    return _get_content_root(book_json_path)

@@ -490,8 +490,8 @@ def _step_converter(ctx: RuntimeContext) -> None:
         ]
     )
     # Run the converter as a module (so relative imports inside it work).
-    # Pass the manifest path so the converter computes PUBLIC from the manifest
-    # parent directory rather than a hardwired docs/public path.
+    # Pass the manifest path so the converter computes paths from the manifest
+    # parent directory rather than using hardcoded paths.
     ctx.run_command(
         [
             ctx.python,
