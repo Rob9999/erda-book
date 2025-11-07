@@ -39,6 +39,7 @@ from urllib.parse import urlparse
 
 from tools.logging_config import get_logger
 
+from tools.publishing.font_config import get_font_config
 from tools.publishing.markdown_combiner import (
     add_geometry_package,
     combine_markdown,
@@ -154,14 +155,40 @@ _DEFAULT_HEADER_PATH = (
 _DEFAULT_METADATA: Dict[str, List[str]] = {
     "color": ["true"],
 }
-_DEFAULT_VARIABLES: Dict[str, str] = {
-    "mainfont": "DejaVu Serif",
-    "sansfont": "DejaVu Sans",
-    "monofont": "DejaVu Sans Mono",
-    "geometry": "margin=1in",
-    "longtable": "true",
-    "max-list-depth": "9",
-}
+
+
+def _get_default_variables() -> Dict[str, str]:
+    """Get default Pandoc variables with font names from configuration.
+
+    Returns:
+        Dictionary of default Pandoc variables
+    """
+    try:
+        font_config = get_font_config()
+        default_fonts = font_config.get_default_fonts()
+    except Exception as e:
+        logger.warning(
+            "Konnte Font-Konfiguration nicht laden: %s. Verwende Fallback-Fonts.", e
+        )
+        default_fonts = {
+            "serif": "DejaVu Serif",
+            "sans": "DejaVu Sans",
+            "mono": "DejaVu Sans Mono",
+        }
+
+    return {
+        "mainfont": default_fonts["serif"],
+        "sansfont": default_fonts["sans"],
+        "monofont": default_fonts["mono"],
+        "geometry": "margin=1in",
+        "longtable": "true",
+        "max-list-depth": "9",
+    }
+
+
+# Initialize default variables from configuration
+_DEFAULT_VARIABLES: Dict[str, str] = _get_default_variables()
+
 _DEFAULT_EXTRA_ARGS: Tuple[str, ...] = ()
 
 EMOJI_RANGES = (
@@ -1179,7 +1206,7 @@ def prepare_publishing(
                     manifest_data.get("fonts"), manifest_dir
                 )
 
-    font_dir = ".github/gitbook_worker/tools/publishing/fonts/truetype/openmoji"
+    # OpenMoji removed per AGENTS.md (license compliance - only Twemoji CC BY 4.0 allowed)
     font_cache_refreshed = False
 
     def _maybe_refresh_font_cache() -> None:
@@ -1267,11 +1294,28 @@ def prepare_publishing(
     # No manual download required - as per AGENTS.md requirement (Twemoji CC BY 4.0 only)
     # OpenMoji references removed to ensure license compliance
 
-    # Register ERDA CC-BY CJK font from multiple possible locations
-    erda_font_locations = [
-        ".github/fonts/erda-ccby-cjk.ttf",  # Primary location
-        ".github/gitbook_worker/tools/publishing/fonts/truetype/erdafont/erda-ccby-cjk.ttf",  # Legacy
-    ]
+    # Load font configuration with smart merge (fonts.yml + publish.yml overrides)
+    font_config = get_font_config()
+
+    # Apply manifest font overrides if provided
+    if manifest_specs:
+        logger.info("Wende Manifest-Font-Overrides an (%d Fonts)", len(manifest_specs))
+        # Convert FontSpec list to dict format for merge
+        manifest_fonts = []
+        for spec in manifest_specs:
+            font_dict = {}
+            if spec.name:
+                font_dict["name"] = spec.name
+            if spec.path:
+                font_dict["path"] = str(spec.path)
+            if spec.url:
+                font_dict["url"] = spec.url
+            manifest_fonts.append(font_dict)
+
+        font_config = font_config.merge_manifest_fonts(manifest_fonts)
+
+    # Register CJK font from merged configuration
+    erda_font_locations = font_config.get_font_paths("CJK")
 
     erda_font_found = False
     for erda_font_path in erda_font_locations:
@@ -1282,9 +1326,10 @@ def prepare_publishing(
             erda_font_found = True
             break
 
-    if not erda_font_found:
+    if not erda_font_found and erda_font_locations:
         logger.warning("⚠ ERDA CJK Font nicht gefunden in: %s", erda_font_locations)
 
+    # Register additional fonts from repo .github/fonts directory
     repo_font_dir = _resolve_repo_root() / ".github" / "fonts"
     if repo_font_dir.exists():
         for pattern in ("*.ttf", "*.otf"):
@@ -1292,6 +1337,7 @@ def prepare_publishing(
                 _register_font(str(font_path))
         _remember_font_dir(repo_font_dir)
 
+    # Register legacy manifest fonts (for backward compatibility)
     if manifest_specs:
         cache_dir = Path.home() / ".cache" / "erda-publisher" / "fonts"
         for spec in manifest_specs:
@@ -1679,9 +1725,22 @@ def convert_a_file(
     try:
         options = emoji_options or EmojiOptions()
         _emit_emoji_report(tmp_md, Path(pdf_out), options)
+
+        # Extract title from markdown file frontmatter or filename
+        title = None
+        try:
+            with open(md_file, "r", encoding="utf-8") as f:
+                first_line = f.readline().strip()
+                if first_line.startswith("# "):
+                    title = first_line[2:].strip()
+        except Exception:
+            pass
+
         _run_pandoc(
             tmp_md,
             pdf_out,
+            add_toc=False,  # Single files typically don't need TOC
+            title=title,
             resource_paths=resource_paths,
             emoji_options=options,
             variables=variables,
@@ -1889,12 +1948,56 @@ def build_pdf(
         return True, None
     except subprocess.CalledProcessError as e:
         logger.error("Pandoc/LaTeX Build fehlgeschlagen (rc=%s).", e.returncode)
-        return False, str(e) + "\n" + (e.stdout or "") + "\n" + (e.stderr or "")
+        error_details = [f"Command failed with exit code {e.returncode}"]
+        error_details.append(
+            f"Command: {' '.join(e.cmd) if hasattr(e, 'cmd') else 'unknown'}"
+        )
+
+        if e.stdout:
+            stdout_str = (
+                e.stdout
+                if isinstance(e.stdout, str)
+                else e.stdout.decode("utf-8", errors="replace")
+            )
+            logger.error("STDOUT:\n%s", stdout_str)
+            error_details.append(f"STDOUT:\n{stdout_str}")
+
+        if e.stderr:
+            stderr_str = (
+                e.stderr
+                if isinstance(e.stderr, str)
+                else e.stderr.decode("utf-8", errors="replace")
+            )
+            logger.error("STDERR:\n%s", stderr_str)
+            error_details.append(f"STDERR:\n{stderr_str}")
+
+        return False, "\n".join(error_details)
     except Exception as e:
         logger.error("Build-Fehler: %s", e)
+        error_details = [f"Exception: {type(e).__name__}: {e}"]
+
         stdout = getattr(e, "stdout", "")
         stderr = getattr(e, "stderr", "")
-        return False, f"{e}\n{stdout}\n{stderr}"
+
+        if stdout:
+            stdout_str = (
+                stdout
+                if isinstance(stdout, str)
+                else stdout.decode("utf-8", errors="replace")
+            )
+            logger.error("STDOUT:\n%s", stdout_str)
+            error_details.append(f"STDOUT:\n{stdout_str}")
+
+        if stderr:
+            stderr_str = (
+                stderr
+                if isinstance(stderr, str)
+                else stderr.decode("utf-8", errors="replace")
+            )
+            logger.error("STDERR:\n%s", stderr_str)
+            error_details.append(f"STDERR:\n{stderr_str}")
+
+        return False, "\n".join(error_details)
 
 
 # -------------------------------- Main (D) --------------------------------- #

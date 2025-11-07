@@ -199,7 +199,9 @@ def test_table_exact_dimensions(
 
         assert pdf_file.is_file(), f"PDF file not created for table{idx}"
 
-        info = subprocess.check_output(["pdfinfo", str(pdf_file)], encoding="utf-8")
+        info = subprocess.check_output(
+            ["pdfinfo", str(pdf_file)], encoding="utf-8", errors="replace"
+        )
         match = re.search(r"Page size:\s+(\d+(?:\.\d+)?) x (\d+(?:\.\d+)?) pts", info)
         assert match, f"Could not extract page size for table{idx}"
 
@@ -270,7 +272,9 @@ def test_table_exact_dimensions_landscape(
 
         assert pdf_file.is_file(), "PDF file not created for landscape table"
 
-        info = subprocess.check_output(["pdfinfo", str(pdf_file)], encoding="utf-8")
+        info = subprocess.check_output(
+            ["pdfinfo", str(pdf_file)], encoding="utf-8", errors="replace"
+        )
         match = re.search(r"Page size:\s+(\d+(?:\.\d+)?) x (\d+(?:\.\d+)?) pts", info)
         assert match, "Could not extract page size for landscape table"
 

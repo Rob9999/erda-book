@@ -9,8 +9,8 @@ Um eine nachhaltige, freie Wissensbasis zu schaffen, werden die verschiedenen Be
 ## J.2 Lizenzmatrix
 Das ERDA‑Buch besteht aus unterschiedlichen Bestandteilen. Für jede Kategorie gelten eigene Lizenzbedingungen. Die folgende Tabelle fasst diese zusammen:
 
-| Kategorie                    | Lizenz                                   | Erläuterung |
-|-----------------------------|-------------------------------------------|-------------|
+| Kategorie                   | Lizenz                  | Erläuterung                       |
+|-----------------------------|-------------------------|-----------------------------------|
 | **Texte, Grafiken, Diagramme** | Creative Commons **Attribution – ShareAlike 4.0 International** (**CC BY‑SA 4.0**) | Inhalte dürfen frei geteilt und verändert werden, sofern der Urheber genannt und das abgeleitete Werk unter denselben Bedingungen weitergegeben wird. |
 | **Code / Toolchain / Skripte** | **MIT‑Lizenz** | Der Code darf verwendet, kopiert, verändert und verbreitet werden, inkl. kommerzieller Nutzung. Der Copyright‑Hinweis und der Lizenztext müssen beibehalten werden. |
 | **Eigenentwickelte Fonts**   | **CC BY 4.0** oder **MIT** (Dual‑Lizenz) | Eigens entwickelte Schriften können unter CC BY 4.0 oder MIT genutzt werden. Externe Fonts mit inkompatiblen Lizenzen werden nicht verwendet. |
