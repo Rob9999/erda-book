@@ -21,13 +21,21 @@ pytestmark = [
 
 
 def _run_lualatex(
-    md_path: str, pdf_out: str, add_toc: bool = False, title: str | None = None
+    md_path: str,
+    pdf_out: str,
+    add_toc: bool = False,
+    title: str | None = None,
+    resource_paths: list[str] | None = None,
+    **kwargs,
 ) -> None:
+    """Mock for _run_pandoc that uses lualatex directly."""
     cmd = ["pandoc", md_path, "-o", pdf_out, "--pdf-engine", "lualatex"]
     if add_toc:
         cmd.append("--toc")
     if title:
         cmd.extend(["-V", f"title={title}"])
+    if resource_paths:
+        cmd.extend(["--resource-path", ":".join(resource_paths)])
     subprocess.run(cmd, check=True)
 
 
@@ -59,14 +67,27 @@ def test_end_to_end_pdf_generation(tmp_path, monkeypatch):
     assert pdf_path.stat().st_size > 0
 
 
-def test_documents_folder_to_pdf(tmp_path, monkeypatch):
+def test_documents_folder_to_pdf(tmp_path, monkeypatch, content_root):
+    """Test PDF generation from actual content directory markdown files.
+
+    This test uses the content_root fixture to dynamically locate markdown files
+    instead of hardcoding a 'docs/public/documents' path.
+    """
     monkeypatch.setattr(publisher, "_run_pandoc", _run_lualatex)
-    docs_root = (
-        pathlib.Path(__file__).resolve().parents[3] / "docs" / "public" / "documents"
-    )
-    md_files = [p for p in docs_root.rglob("*.md") if p.name != "summary.md"][:5]
+
+    # Use the content_root from book.json instead of hardcoded path
+    md_files = [
+        p
+        for p in content_root.rglob("*.md")
+        if p.name.lower() not in ("summary.md", "readme.md")
+    ][:5]
+
+    # Skip test if no markdown files found
+    if not md_files:
+        pytest.skip(f"No markdown files found in content root: {content_root}")
+
     for md_file in md_files:
-        rel_dir = md_file.relative_to(docs_root).parent
+        rel_dir = md_file.relative_to(content_root).parent
         out_dir = tmp_path / rel_dir
         out_dir.mkdir(parents=True, exist_ok=True)
         publisher.build_pdf(
@@ -75,18 +96,23 @@ def test_documents_folder_to_pdf(tmp_path, monkeypatch):
         assert (out_dir / f"{md_file.stem}.pdf").is_file()
 
 
-def test_table_pdf_lualatex(tmp_path):
+def test_table_pdf_lualatex(tmp_path, content_root):
+    """Test PDF generation from a table markdown file.
+
+    This test dynamically searches for table markdown files in the content root
+    instead of using a hardcoded path.
+    """
     publisher.prepare_publishing(no_apt=True)
-    table_md = (
-        pathlib.Path(__file__).resolve().parents[3]
-        / "docs"
-        / "public"
-        / "documents"
-        / "08-glossary-partners-institutions-legal-notices-and-overall-appendices"
-        / "8.4-overall-appendices"
-        / "8.4.8-appendix-t-tables"
-        / "table-1-evol00-decks-000-015-r-korr63-roehrenmodell-exakt-sli.md"
-    )
+
+    # Search for a table markdown file in the content root
+    table_files = list(content_root.rglob("table-*.md"))
+
+    # Skip test if no table files found
+    if not table_files:
+        pytest.skip(f"No table-*.md files found in content root: {content_root}")
+
+    # Use the first table file found
+    table_md = table_files[0]
     out_dir = tmp_path
     ok = publisher.build_pdf(
         str(table_md), "table.pdf", typ="file", publish_dir=str(out_dir)

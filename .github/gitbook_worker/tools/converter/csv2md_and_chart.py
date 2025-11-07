@@ -106,19 +106,19 @@ def main(argv=None):
             """\
         Beispiele:
           1) Nur Markdown-Tabelle:
-             python csv2md_and_chart.py --csv docs/public/assets/csvs/deck-dimensions.csv \
-                --out-md docs/public/documents/03-deck-specs-table.md \
+             python csv2md_and_chart.py --csv assets/csvs/deck-dimensions.csv \
+                --out-md content/deck-specs-table.md \
                 --title "Deck-Geometrien EVOL-00" --note "Quelle: deck-dimensions.csv" --floatfmt .2f
 
           2) Nur Chart:
-             python csv2md_and_chart.py --csv docs/public/assets/csvs/deck-dimensions.csv \
-                --out-png docs/public/assets/diagrams/deck-circumference.png \
+             python csv2md_and_chart.py --csv assets/csvs/deck-dimensions.csv \
+                --out-png assets/diagrams/deck-circumference.png \
                 --chart-x Deck --chart-y Radius_m,Circumference_m --kind line --title "Deck-Radien & Umfänge"
 
           3) Beides zusammen:
-             python csv2md_and_chart.py --csv docs/public/assets/csvs/material-properties.csv \
-                --out-md docs/public/documents/04-materials-table.md \
-                --out-png docs/public/assets/diagrams/material-density.png \
+             python csv2md_and_chart.py --csv assets/csvs/material-properties.csv \
+                --out-md content/materials-table.md \
+                --out-png assets/diagrams/material-density.png \
                 --chart-x Material --chart-y Density_kg_m3 --kind bar --title "Dichte nach Material"
         """
         ),

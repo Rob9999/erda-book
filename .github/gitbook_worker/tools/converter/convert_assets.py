@@ -1,12 +1,11 @@
 #!/usr/bin/env python3
 """Batch convert CSV assets to Markdown tables and charts.
 
-Reads ``docs/public/publish.yml`` to discover published paths and converts any
-CSV files found in sibling assets directories. For each CSV the table is
-written to ``assets/tables`` and, if a matching template exists under
-``docs/public/assets/templates``, the table is also copied to the template's
-target path. If numeric columns exist, a chart is written to
-``assets/diagrams``.
+Reads ``publish.yml`` (from repo root or legacy docs/public location) to discover
+published paths and converts any CSV files found in sibling assets directories.
+For each CSV the table is written to ``assets/tables`` and, if a matching template
+exists under ``assets/templates``, the table is also copied to the template's
+target path. If numeric columns exist, a chart is written to ``assets/diagrams``.
 """
 from pathlib import Path
 import argparse
@@ -139,7 +138,7 @@ def main():
     )
     parser.add_argument(
         "--manifest",
-        help="Path to publish.yml (defaults to repo root or legacy docs/public/publish.yml)",
+        help="Path to publish.yml (defaults to repo root or legacy location)",
     )
     args = parser.parse_args()
 
