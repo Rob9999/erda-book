@@ -166,6 +166,8 @@ def _get_default_variables() -> Dict[str, str]:
     try:
         font_config = get_font_config()
         default_fonts = font_config.get_default_fonts()
+        # Get CJK font name for mainfontfallback
+        cjk_font_name = font_config.get_font_name("CJK")
     except Exception as e:
         logger.warning(
             "Konnte Font-Konfiguration nicht laden: %s. Verwende Fallback-Fonts.", e
@@ -175,8 +177,9 @@ def _get_default_variables() -> Dict[str, str]:
             "sans": "DejaVu Sans",
             "mono": "DejaVu Sans Mono",
         }
+        cjk_font_name = None
 
-    return {
+    variables = {
         "mainfont": default_fonts["serif"],
         "sansfont": default_fonts["sans"],
         "monofont": default_fonts["mono"],
@@ -184,6 +187,13 @@ def _get_default_variables() -> Dict[str, str]:
         "longtable": "true",
         "max-list-depth": "9",
     }
+
+    # Add CJK font as mainfontfallback if available
+    if cjk_font_name:
+        # Use HarfBuzz renderer for proper CJK rendering
+        variables["mainfontfallback"] = f"{cjk_font_name}:mode=harf"
+
+    return variables
 
 
 # Initialize default variables from configuration
@@ -268,7 +278,10 @@ def _run(
     if cp.stderr:
         logger.error(cp.stderr)
     if check and cp.returncode != 0:
-        raise subprocess.CalledProcessError(cp.returncode, cmd)
+        # Include stdout/stderr in the exception so error handlers can access them
+        raise subprocess.CalledProcessError(
+            cp.returncode, cmd, output=cp.stdout, stderr=cp.stderr
+        )
     return cp
 
 
