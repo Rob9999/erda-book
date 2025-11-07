@@ -419,14 +419,15 @@ def _step_ensure_readme(ctx: RuntimeContext) -> None:
 
 
 def _step_update_citation(ctx: RuntimeContext) -> None:
-    citation = ctx.root / "docs" / "public" / "publish" / "citation.cff"
-    if not citation.exists():
-        LOGGER.info("Keine citation.cff gefunden – Schritt wird übersprungen")
+    """Update citation.cff in publish/ directory and copy to root (for Zenodo/GitHub)."""
+    citation_publish = ctx.root / "publish" / "CITATION.cff"
+    if not citation_publish.exists():
+        LOGGER.info("Keine CITATION.cff gefunden – Schritt wird übersprungen")
         return
-    today = _dt.datetime.now(tz=_dt.UTC).date().isoformat()
+    today = _dt.datetime.now(tz=_dt.timezone.utc).date().isoformat()
     version_line = f"version: The_zenodo_release_on_{today}"
     date_line = f"date-released: '{today}'"
-    text = citation.read_text(encoding="utf-8").splitlines()
+    text = citation_publish.read_text(encoding="utf-8").splitlines()
     changed = False
     for idx, line in enumerate(text):
         if line.startswith("version:") and line != version_line:
@@ -437,11 +438,21 @@ def _step_update_citation(ctx: RuntimeContext) -> None:
             changed = True
     if not changed:
         LOGGER.info("citation.cff ist bereits aktuell")
-        return
-    LOGGER.info("Aktualisiere citation.cff auf %s", today)
+    else:
+        LOGGER.info("Aktualisiere citation.cff auf %s", today)
     if ctx.config.dry_run:
         return
-    citation.write_text("\n".join(text) + "\n", encoding="utf-8")
+
+    # Write updated content to publish/CITATION.cff
+    if changed:
+        citation_publish.write_text("\n".join(text) + "\n", encoding="utf-8")
+
+    # Copy to root for GitHub/Zenodo integration
+    citation_root = ctx.root / "CITATION.cff"
+    import shutil
+
+    shutil.copy2(citation_publish, citation_root)
+    LOGGER.info("CITATION.cff nach Repository-Root kopiert")
 
 
 def _step_ai_reference_check(ctx: RuntimeContext) -> None:
