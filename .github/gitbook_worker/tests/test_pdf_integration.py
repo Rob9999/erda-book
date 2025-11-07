@@ -21,13 +21,21 @@ pytestmark = [
 
 
 def _run_lualatex(
-    md_path: str, pdf_out: str, add_toc: bool = False, title: str | None = None
+    md_path: str,
+    pdf_out: str,
+    add_toc: bool = False,
+    title: str | None = None,
+    resource_paths: list[str] | None = None,
+    **kwargs,
 ) -> None:
+    """Mock for _run_pandoc that uses lualatex directly."""
     cmd = ["pandoc", md_path, "-o", pdf_out, "--pdf-engine", "lualatex"]
     if add_toc:
         cmd.append("--toc")
     if title:
         cmd.extend(["-V", f"title={title}"])
+    if resource_paths:
+        cmd.extend(["--resource-path", ":".join(resource_paths)])
     subprocess.run(cmd, check=True)
 
 
