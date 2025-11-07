@@ -24,3 +24,11 @@ if _real_tools not in __path__:
 
 # Expose the resolved path for debugging if needed
 __real_tools_path__ = _real_tools
+
+# Ensure subprocess/text IO uses UTF-8 where possible to avoid
+# platform-default codec (cp1252) decoding errors when the
+# tools package launches other processes that emit UTF-8.
+# This mirrors setting PYTHONUTF8=1 and PYTHONIOENCODING=utf-8 for
+# local invocations (harmless if already set).
+os.environ.setdefault("PYTHONUTF8", "1")
+os.environ.setdefault("PYTHONIOENCODING", "utf-8")
