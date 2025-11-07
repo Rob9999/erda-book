@@ -285,6 +285,37 @@ def _run(
     return cp
 
 
+def _escape_latex(value: str) -> str:
+    """Escape common LaTeX special characters in a string used in -V title=...
+
+    This is a conservative escape for values injected into LaTeX via Pandoc
+    variables (e.g. title). We escape the characters that commonly break
+    LaTeX alignment or maths: & % $ # _ { } and backslash. We keep the
+    result simple (use standard TeX escapes) so Pandoc forwards a safe value
+    into the PDF engine.
+    """
+    if not value:
+        return value
+
+    # Replace backslash first
+    esc = value.replace("\\", "\\textbackslash{}")
+
+    replacements = {
+        "&": r"\\&",
+        "%": r"\\%",
+        "$": r"\\$",
+        "#": r"\\#",
+        "_": r"\\_",
+        "{": r"\\{",
+        "}": r"\\}",
+    }
+
+    for k, v in replacements.items():
+        esc = esc.replace(k, v)
+
+    return esc
+
+
 def _which(name: str) -> Optional[str]:
     return shutil.which(name)
 
@@ -1581,8 +1612,49 @@ def _run_pandoc(
         )
         header_file.write_text(font_header_content, encoding="utf-8")
 
+        # If a title was provided, inject a small LaTeX header that sets the
+        # document title using a LaTeX-safe, escaped value. This avoids issues
+        # where Pandoc templates copy unescaped headings into the LaTeX
+        # 	itle{} which can break with characters like '&'. We add the
+        # title header before the font header so it takes effect in the preamble.
+        # When a title header is injected we MUST avoid also passing the title
+        # to Pandoc via variables or metadata (both can cause the template to
+        # re-insert an unescaped title). If a header is used, we therefore
+        # remove any title metadata and skip adding a -V title=... argument.
+        title_header_path = None
+        try:
+            if title:
+                title_header_path = Path(temp_dir) / "pandoc-title.tex"
+                # escape for LaTeX and also provide a plain fallback for
+                # bookmarks using \texorpdfstring{<latex>}{<plain>}
+                safe_title = _escape_latex(str(title))
+                # plain fallback: remove backslashes and braces to avoid
+                # accidental TeX in the second argument
+                import re as _re
+
+                plain_title = _re.sub(r"[\\{}]", "", str(title))
+                title_header_path.write_text(
+                    f"\\title{{\\texorpdfstring{{{safe_title}}}{{{plain_title}}}}}\\author{{}}\\date{{}}\n",
+                    encoding="utf-8",
+                )
+                # Ensure Pandoc doesn't also inject the title via metadata
+                # (some templates prefer metadata->\title). Remove any title
+                # key from the metadata_map so the header file is authoritative.
+                try:
+                    metadata_map.pop("title", None)
+                except Exception:
+                    pass
+        except Exception:
+            title_header_path = None
+
         header_args = _combine_header_paths(
-            header_defaults, header_override, [str(header_file)]
+            header_defaults,
+            header_override,
+            [
+                str(p)
+                for p in ([title_header_path] if title_header_path else [])
+                + [str(header_file)]
+            ],
         )
 
         cmd: List[str] = ["pandoc", md_path, "-o", pdf_out]
@@ -1603,13 +1675,25 @@ def _run_pandoc(
             for value in values:
                 cmd.extend(["-M", f"{key}={value}"])
         for key, value in variable_map.items():
+            # If we injected a title header, avoid passing a title variable
+            # to Pandoc as this can create duplicate/unescaped title output
+            # in some templates.
+            if title_header_path and key == "title":
+                continue
             cmd.extend(["--variable", f"{key}={value}"])
         if add_toc:
             cmd.append("--toc")
             if toc_depth is not None:
                 cmd.extend(["--toc-depth", str(toc_depth)])
-        if title:
-            cmd.extend(["-V", f"title={title}"])
+        # Only pass the title via -V if we did not create a title header.
+        # When a title header exists we rely on the header file and must not
+        # also pass the title to Pandoc (see rationale above).
+        if title and not title_header_path:
+            # Escape LaTeX special characters to avoid errors like
+            # "Misplaced alignment tab character &" when the title contains
+            # an ampersand or other special chars.
+            safe_title = _escape_latex(str(title))
+            cmd.extend(["-V", f"title={safe_title}"])
         cmd.extend(additional_args)
 
         _run(cmd)
@@ -1730,6 +1814,25 @@ def convert_a_file(
         normalized,
         paper_format=paper_format,
     )
+    # Escape the first/top-level Markdown heading's text for LaTeX safety so
+    # that characters like '&' don't break the LaTeX title generation.
+    try:
+        import re
+
+        m = re.search(r"(?m)^(#\s+)(.+)$", content)
+        if m:
+            heading_prefix = m.group(1)
+            heading_text = m.group(2)
+            safe_heading = _escape_latex(heading_text)
+            content = (
+                content[: m.start()]
+                + heading_prefix
+                + safe_heading
+                + content[m.end() :]
+            )
+    except Exception:
+        # best-effort only; on any error keep original content
+        pass
     with tempfile.NamedTemporaryFile(
         "w", suffix=".md", delete=False, encoding="utf-8"
     ) as tmp:
@@ -1821,6 +1924,24 @@ def convert_a_folder(
     combined = add_geometry_package(
         combine_markdown(md_files, paper_format=paper_format), paper_format=paper_format
     )
+    # Escape the first/top-level Markdown heading in the combined document to
+    # avoid LaTeX errors (e.g. unescaped '&' in titles).
+    try:
+        import re
+
+        m = re.search(r"(?m)^(#\s+)(.+)$", combined)
+        if m:
+            prefix = m.group(1)
+            txt = m.group(2)
+            combined = (
+                combined[: m.start()]
+                + prefix
+                + _escape_latex(txt)
+                + combined[m.end() :]
+            )
+    except Exception:
+        # best-effort only
+        pass
     with tempfile.NamedTemporaryFile(
         "w", suffix=".md", delete=False, encoding="utf-8"
     ) as tmp:
