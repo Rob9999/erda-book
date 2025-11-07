@@ -136,12 +136,15 @@ def _build_pdf(
             with open(log_file, "w", encoding="utf-8") as f:
                 f.write(f"Building {entry['path']} -> {entry['out']}\n")
 
+            # Get the source type - handle both old ('type') and new ('source_type') keys
+            source_type = entry.get("source_type") or entry.get("type", "folder")
+
             success, msg = build_pdf(
                 path=entry["path"],
                 out=entry["out"],
-                typ=entry["type"],
-                use_summary=entry["use_summary"],
-                keep_combined=entry["keep_combined"],
+                typ=source_type,
+                use_summary=entry.get("use_summary", False),
+                keep_combined=entry.get("keep_combined", False),
                 publish_dir=str(publish_dir),
             )
 
@@ -174,9 +177,7 @@ def _build_pdf(
                     "log": str(log_file),
                 }
             )
-            logger.info(
-                f"  ✗ Error processing {doc_name}: {error_msg}", file=sys.stderr
-            )
+            logger.error(f"  ✗ Error processing {doc_name}: {error_msg}")
             with open(log_file, "a", encoding="utf-8") as f:
                 f.write(f"\nError occurred: {error_msg}\n")
 
