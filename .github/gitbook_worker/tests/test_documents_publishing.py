@@ -81,8 +81,10 @@ def test_publish_all_documents(logger: logging.Logger):
 
 def test_publishing_using_publish_manifest(logger: logging.Logger):
     """Test publishing using a predefined publish manifest."""
-    # Get repo root
-    repo_root = pathlib.Path(__file__).resolve().parents[3]
+    # Use isolated test data instead of real repository
+    test_data_dir = (
+        pathlib.Path(__file__).resolve().parent / "data" / "scenario-1-single-gitbook"
+    )
 
     # Use test output directory instead of actual publish directory
     publish_dir = GH_TEST_OUTPUT_DIR / "publish-combined"
@@ -90,15 +92,18 @@ def test_publishing_using_publish_manifest(logger: logging.Logger):
     # Ensure publish directory exists
     publish_dir.mkdir(parents=True, exist_ok=True)
 
-    # Load publish manifest and get entries
-    manifest = find_publish_manifest("publish.yml")
+    # Load publish manifest from test data
+    manifest_path = test_data_dir / "publish.yml"
+    manifest = find_publish_manifest(str(manifest_path))
     targets = get_publish_list(manifest)
     assert targets, "Keine zu publizierenden Einträge (build: true)."
-    # Add repo root to relative paths
+
+    # Resolve paths relative to test_data_dir (not repo root)
     for entry in targets:
         entry_path = pathlib.Path(entry["path"])
         if not entry_path.is_absolute():
-            entry["path"] = str(repo_root / entry["path"])
+            entry["path"] = str(test_data_dir / entry["path"])
+
     # Build PDF
     _build_pdf(targets, publish_dir, logger)
 

@@ -144,14 +144,29 @@ _MANIFEST_VERSION_MIN = (0, 1, 0)
 _MANIFEST_VERSION_CURRENT = (0, 1, 0)
 
 
+# Helper function to resolve paths relative to this module's directory
+def _resolve_module_path(relative_path: str) -> str:
+    """Resolve a path relative to the publisher module directory.
+
+    This makes the package portable and independent of repository structure.
+    lua/ and texmf/ directories are part of the tools.publishing package.
+
+    Args:
+        relative_path: Path relative to publisher.py directory (e.g., 'lua/filter.lua')
+
+    Returns:
+        Absolute path as string
+    """
+    module_dir = Path(__file__).resolve().parent
+    return str((module_dir / relative_path).resolve())
+
+
 _DEFAULT_LUA_FILTERS: List[str] = [
-    ".github/gitbook_worker/tools/publishing/lua/image-path-resolver.lua",
-    ".github/gitbook_worker/tools/publishing/lua/emoji-span.lua",
-    ".github/gitbook_worker/tools/publishing/lua/latex-emoji.lua",
+    _resolve_module_path("lua/image-path-resolver.lua"),
+    _resolve_module_path("lua/emoji-span.lua"),
+    _resolve_module_path("lua/latex-emoji.lua"),
 ]
-_DEFAULT_HEADER_PATH = (
-    ".github/gitbook_worker/tools/publishing/texmf/tex/latex/local/deeptex.sty"
-)
+_DEFAULT_HEADER_PATH = _resolve_module_path("texmf/tex/latex/local/deeptex.sty")
 _DEFAULT_METADATA: Dict[str, List[str]] = {
     "color": ["true"],
 }
@@ -266,6 +281,8 @@ def _run(
 ) -> subprocess.CompletedProcess:
     kwargs: Dict[str, Any] = {
         "text": True,
+        "encoding": "utf-8",
+        "errors": "replace",  # Replace problematic bytes instead of crashing
         "stdout": subprocess.PIPE,
         "stderr": subprocess.PIPE,
     }
@@ -1422,7 +1439,7 @@ def prepare_publishing(
                 _register_font(target)
 
     # latex-emoji.lua Filter
-    lua_dir = ".github/gitbook_worker/tools/publishing/lua"
+    lua_dir = _resolve_module_path("lua")
     lua_path = os.path.join(lua_dir, "latex-emoji.lua")
     if not os.path.exists(lua_path):
         try:
