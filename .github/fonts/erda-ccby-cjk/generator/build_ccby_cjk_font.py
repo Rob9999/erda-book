@@ -42,10 +42,17 @@ from font_logger import FontBuildLogger
 # Import character index for fast O(1) lookups
 from character_index import get_character_index
 
-EM = 1000
-PIXELS = 8
-CELL = EM // (PIXELS + 2)
-MARGIN = CELL
+# Import configuration system
+from config import get_config
+
+# Get global configuration (load from font-config.yaml if exists, else use defaults)
+CONFIG = get_config()
+
+# Grid configuration (backwards compatibility, but prefer CONFIG.grid.*)
+EM = CONFIG.grid.em
+PIXELS = CONFIG.grid.pixels
+CELL = CONFIG.grid.cell
+MARGIN = CONFIG.grid.margin
 
 
 def _glyph_from_bitmap(bitmap: List[str]) -> Tuple[object, int]:
