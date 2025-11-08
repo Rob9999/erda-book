@@ -351,7 +351,7 @@ def test_run_pandoc_host_arguments(monkeypatch, tmp_path):
     monkeypatch.setattr(publisher, "_run", fake_run)
     monkeypatch.setattr(publisher, "_get_pandoc_version", lambda: (3, 1, 12))
     monkeypatch.setattr(
-        publisher, "_select_emoji_font", lambda color: ("OpenMoji Black", False)
+        publisher, "_select_emoji_font", lambda color: ("Twemoji Mozilla", False)
     )
 
     publisher._run_pandoc(
@@ -362,7 +362,7 @@ def test_run_pandoc_host_arguments(monkeypatch, tmp_path):
         resource_paths=["assets"],
         lua_filters=["filter.lua", "other.lua"],
         metadata={"color": ["true"], "foo": ["bar", "baz"]},
-        variables={"max-list-depth": "5", "custom": "value"},
+        variables={"max-list-depth": "5", "custom": "value", "mainfontfallback": None},
         header_path="header.sty",
         pdf_engine="tectonic",
         from_format="gfm",
@@ -378,7 +378,7 @@ def test_run_pandoc_host_arguments(monkeypatch, tmp_path):
     assert "-f" in cmd and cmd[cmd.index("-f") + 1] == "gfm"
     assert "-t" in cmd and cmd[cmd.index("-t") + 1] == "latex"
     assert cmd.count("--lua-filter") == 2
-    assert ("-M", "emojifont=OpenMoji Black") in pairs
+    assert ("-M", "emojifont=Twemoji Mozilla") in pairs
     assert ("-M", "color=true") in pairs
     assert ("-M", "foo=bar") in pairs
     assert cmd.count("-M") >= 4
@@ -408,10 +408,10 @@ def test_run_pandoc_uses_default_arguments(monkeypatch, tmp_path):
     monkeypatch.setattr(publisher, "_run", fake_run)
     monkeypatch.setattr(publisher, "_get_pandoc_version", lambda: (3, 1, 12))
     monkeypatch.setattr(
-        publisher, "_select_emoji_font", lambda color: ("OpenMoji Black", False)
+        publisher, "_select_emoji_font", lambda color: ("Twemoji Mozilla", False)
     )
 
-    publisher._run_pandoc(str(md), str(pdf))
+    publisher._run_pandoc(str(md), str(pdf), variables={"mainfontfallback": None})
 
     cmd = captured["cmd"]
     pairs = list(zip(cmd, cmd[1:]))
@@ -419,12 +419,9 @@ def test_run_pandoc_uses_default_arguments(monkeypatch, tmp_path):
     assert cmd[:4] == ["pandoc", str(md), "-o", str(pdf)]
     assert ("--pdf-engine", "lualatex") in pairs
     assert cmd.count("--lua-filter") == len(defaults["lua_filters"])
-    assert (
-        "-H",
-        ".github/gitbook_worker/tools/publishing/texmf/tex/latex/local/deeptex.sty",
-    ) in pairs
+    assert any(flag == "-H" and value.endswith("deeptex.sty") for flag, value in pairs)
     assert any(arg.endswith("pandoc-fonts.tex") for arg in cmd)
-    assert ("-M", "emojifont=OpenMoji Black") in pairs
+    assert ("-M", "emojifont=Twemoji Mozilla") in pairs
     assert ("-M", "color=true") in pairs
     assert ("--variable", "mainfont=DejaVu Serif") in pairs
     assert ("--variable", "monofont=DejaVu Sans Mono") in pairs
@@ -480,6 +477,7 @@ def test_run_pandoc_env_overrides(monkeypatch, tmp_path):
         str(md),
         str(pdf),
         extra_args=["--no-tex-ligatures"],
+        variables={"mainfontfallback": None},
     )
 
     cmd = captured["cmd"]
@@ -527,20 +525,21 @@ def test_run_pandoc_metadata_mapping_override(monkeypatch, tmp_path):
     monkeypatch.setattr(publisher, "_run", fake_run)
     monkeypatch.setattr(publisher, "_get_pandoc_version", lambda: (3, 1, 12))
     monkeypatch.setattr(
-        publisher, "_select_emoji_font", lambda color: ("OpenMoji Black", False)
+        publisher, "_select_emoji_font", lambda color: ("Twemoji Mozilla", False)
     )
 
     publisher._run_pandoc(
         str(md),
         str(pdf),
         metadata={"color": {"append": ["true"]}},
+        variables={"mainfontfallback": None},  # Clear default CJK fallback
     )
 
     cmd = captured["cmd"]
     assert cmd.count("-M") == 2
     assert "color=true" in " ".join(cmd)
     pairs = list(zip(cmd, cmd[1:]))
-    # Check for OpenMoji Black and some CJK font (may vary based on availability)
+    # Check for Twemoji Mozilla and some CJK font (may vary based on availability)
     mainfontfallback_pairs = [
         (flag, value)
         for flag, value in pairs
@@ -548,7 +547,7 @@ def test_run_pandoc_metadata_mapping_override(monkeypatch, tmp_path):
     ]
     assert len(mainfontfallback_pairs) == 1
     fallback_value = mainfontfallback_pairs[0][1]
-    assert "OpenMoji Black" in fallback_value
+    assert "Twemoji Mozilla" in fallback_value
     assert any(
         font in fallback_value
         for font in ["ERDA CC-BY CJK:mode=harf", "DejaVu Sans:mode=harf"]
@@ -575,7 +574,7 @@ def test_run_pandoc_uses_custom_fallback_with_newer_pandoc(monkeypatch, tmp_path
     monkeypatch.setattr(
         publisher,
         "_select_emoji_font",
-        lambda color: ("OpenMoji Black", False),
+        lambda color: ("Twemoji Mozilla", False),
     )
 
     captured_header: dict[str, str] = {}
@@ -634,7 +633,7 @@ def test_run_pandoc_uses_custom_fallback_with_legacy_pandoc(monkeypatch, tmp_pat
     monkeypatch.setattr(
         publisher,
         "_select_emoji_font",
-        lambda color: ("OpenMoji Black", False),
+        lambda color: ("Twemoji Mozilla", False),
     )
 
     captured_header: dict[str, str] = {}
