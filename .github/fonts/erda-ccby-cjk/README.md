@@ -6,8 +6,8 @@ Dieser Font ist eine minimalistische CC BY 4.0-lizenzierte Fallback-Schrift für
 
 **Lizenz**: CC BY 4.0 (Creative Commons Attribution 4.0 International)  
 **Design**: 8×8 Pixel Monospace Bitmaps  
-**Dateigröße**: ~90 KB  
-**Zeichenabdeckung**: 303 Glyphen (363 Dataset-Zeichen)
+**Dateigröße**: ~141 KB  
+**Zeichenabdeckung**: 543 Glyphen (inkl. Devanagari/Hindi)
 
 ---
 
@@ -20,11 +20,13 @@ erda-ccby-cjk/
 ├── generator/                # Font-Generierungs-Skripte
 │   ├── build_ccby_cjk_font.py      # Haupt-Build-Skript
 │   ├── font_logger.py              # Logging und Metriken
-│   ├── katakana.py                 # Katakana Zeichen (27)
-│   ├── hiragana.py                 # Hiragana Zeichen (27)
-│   ├── hangul.py                   # Hangul Jamo-Muster
-│   ├── hanzi.py                    # Hanzi/Kanji Zeichen (137)
-│   └── punctuation.py              # Interpunktion (11)
+│   ├── katakana.py                 # Katakana Zeichen (84)
+│   ├── hiragana.py                 # Hiragana Zeichen (35)
+│   ├── hangul.py                   # Hangul Jamo-Muster (11.172 Silben)
+│   ├── hanzi.py                    # Hanzi/Kanji Zeichen (206)
+│   ├── devanagari.py               # Devanagari/Hindi Zeichen (38)
+│   ├── punctuation.py              # Interpunktion (46)
+│   └── character_index.py          # Fast O(1) lookup index
 │
 ├── dataset/                  # Test-Daten (Lizenztext-Übersetzungen)
 │   ├── japanese.md                 # Japanische Übersetzung
@@ -141,23 +143,26 @@ python build_ccby_cjk_font.py --install --refresh-cache
 
 ### Statistik (aktueller Build)
 
-| Kategorie    | Anzahl | Prozent | Beschreibung                          |
-|--------------|--------|---------|---------------------------------------|
-| Hanzi/Kanji  | 137    | 45.2%   | Handgefertigte 8×8 Bitmaps           |
-| Hangul       | 91     | 30.0%   | Algorithmisch generiert (11.172 möglich) |
-| Katakana     | 27     | 8.9%    | Basis + Klein + Dakuten-Varianten    |
-| Hiragana     | 27     | ~9%     | Explizit definiert                   |
-| Interpunktion| 11     | 3.6%    | CJK + Fullwidth-Formen               |
-| Fallback     | 10     | 3.3%    | ASCII + Platzhalter                  |
+| Kategorie      | Anzahl | Prozent | Beschreibung                          |
+|----------------|--------|---------|---------------------------------------|
+| Hanzi/Kanji    | 206    | 37.9%   | Handgefertigte 8×8 Bitmaps           |
+| Hangul         | 124    | 22.8%   | Algorithmisch generiert (11.172 möglich) |
+| Katakana       | 84     | 15.5%   | Basis + Klein + Dakuten-Varianten    |
+| Interpunktion  | 46     | 8.5%    | CJK + Fullwidth-Formen               |
+| Hiragana       | 35     | 6.4%    | Explizit definiert                   |
+| Devanagari     | 38     | 7.0%    | Hindi Basis + Erweitert              |
+| Fallback       | 10     | 1.8%    | ASCII + Platzhalter                  |
 
-**Dataset-Coverage**: 363/363 Zeichen (100%) ✅
+**Gesamt**: 543 Zeichen ✅  
+**Dateigröße**: 141 KB
 
 ### Unterstützte Zeichenbereiche
 
 - **Katakana**: U+30A0 - U+30FF (Base + Small + Dakuten)
-- **Hiragana**: U+3040 - U+309F (27 definierte Zeichen)
+- **Hiragana**: U+3040 - U+309F (35 definierte Zeichen)
 - **Hangul**: U+AC00 - U+D7A3 (11.172 Silben algorithmisch)
-- **CJK Unified Ideographs**: U+4E00 - U+9FFF (137 handgefertigte + Fallback)
+- **CJK Unified Ideographs**: U+4E00 - U+9FFF (206 handgefertigte + Fallback)
+- **Devanagari**: U+0900 - U+097F (38 Hindi-Zeichen: Basis + Erweitert)
 - **Interpunktion**: Diverse CJK + Fullwidth-Formen
 
 ---
@@ -322,7 +327,21 @@ HANZI_KANJI = {
 }
 ```
 
-#### 3. Interpunktion
+#### 3. Devanagari (Hindi)
+
+Datei: `generator/devanagari.py`
+
+```python
+DEVANAGARI = {
+    "ह": [  # ha
+        "########",
+        "#......#",
+        # ... 8 Zeilen
+    ],
+}
+```
+
+#### 4. Interpunktion
 
 Datei: `generator/punctuation.py`
 
@@ -397,9 +416,11 @@ cat ../logs/font-build-*.log | tail -50
 
 ## 🎯 Qualitätssicherung
 
-- [x] 100% Dataset-Coverage (363/363 Zeichen)
+- [x] 543 Zeichen (Katakana, Hiragana, Hangul, Hanzi, Devanagari, Interpunktion)
+- [x] Devanagari/Hindi-Unterstützung (38 Zeichen)
 - [x] Keine Duplikate in Zeichen-Dictionaries
 - [x] Modulare Architektur (Separation of Concerns)
+- [x] Fast O(1) Character Index für effiziente Lookups
 - [x] Timestamped Logging mit Metriken
 - [x] Automatisierte Validierungs-Tools
 - [x] CC BY 4.0 Lizenz-Compliance
@@ -411,13 +432,13 @@ cat ../logs/font-build-*.log | tail -50
 Der Font wird als Fallback für CJK-Zeichen in GitBook PDF-Exporten verwendet:
 
 1. **Ziel**: Anhang J.8 (Lizenz-Übersetzungen) korrekt darstellen
-2. **Sprachen**: Japanisch, Koreanisch, Chinesisch (Traditionell)
+2. **Sprachen**: Japanisch, Koreanisch, Chinesisch (Traditionell), Hindi
 3. **Integration**: Über GitBook Font-Konfiguration
 4. **Validierung**: PDF-Probelauf zeigt korrekte Darstellung
 
 ---
 
-**Letzte Aktualisierung**: 2025-11-05  
-**Font-Version**: 1.0  
-**Build**: font-build-20251105-174433  
-**Status**: ✅ Production Ready
+**Letzte Aktualisierung**: 2025-11-08  
+**Font-Version**: 1.1  
+**Build**: font-build-20251108-223605  
+**Status**: ✅ Production Ready (mit Devanagari/Hindi-Unterstützung)

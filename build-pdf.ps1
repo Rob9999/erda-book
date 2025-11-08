@@ -1,63 +1,42 @@
 #!/usr/bin/env pwsh
 <#
 .SYNOPSIS
-    Build ERDA PDF with correct Python environment
+    Wrapper for ERDA PDF build script
 .DESCRIPTION
-    Sets correct PYTHONPATH and runs the workflow orchestrator to build the PDF
-.EXAMPLE
-    .\build-pdf.ps1
+    This is a convenience wrapper that calls the actual build script in .github/gitbook_worker/scripts/
+    Maintained for backward compatibility.
+.NOTES
+    The actual implementation is in: .github/gitbook_worker/scripts/build-pdf.ps1
 #>
 
-$ErrorActionPreference = "Stop"
-
-# Get script directory (ERDA repository root)
-$RepoRoot = $PSScriptRoot
-
-# Set correct PYTHONPATH to avoid conflicts with other projects
-$env:PYTHONPATH = Join-Path $RepoRoot ".github"
-
-# Change to repository root
-Set-Location $RepoRoot
-
-Write-Host "================================================" -ForegroundColor Cyan
-Write-Host "ERDA PDF Build" -ForegroundColor Cyan
-Write-Host "================================================" -ForegroundColor Cyan
-Write-Host "Repository Root: $RepoRoot" -ForegroundColor Green
-Write-Host "PYTHONPATH:      $env:PYTHONPATH" -ForegroundColor Green
-Write-Host ""
-
-# Run workflow orchestrator
-try {
-    python -m gitbook_worker.tools.workflow_orchestrator
+[CmdletBinding()]
+param(
+    [Parameter()]
+    [ValidateSet('default', 'local', 'publisher')]
+    [string]$WorkflowProfile = 'local',
     
-    if ($LASTEXITCODE -eq 0) {
-        Write-Host ""
-        Write-Host "================================================" -ForegroundColor Green
-        Write-Host "SUCCESS: PDF Build erfolgreich!" -ForegroundColor Green
-        Write-Host "================================================" -ForegroundColor Green
-        
-        $pdfPath = Join-Path $RepoRoot "publish\das-erda-buch.pdf"
-        if (Test-Path $pdfPath) {
-            $pdfInfo = Get-Item $pdfPath
-            Write-Host "PDF: $pdfPath" -ForegroundColor Green
-            Write-Host "Groesse: $([math]::Round($pdfInfo.Length / 1MB, 2)) MB" -ForegroundColor Green
-            Write-Host "Erstellt: $($pdfInfo.LastWriteTime)" -ForegroundColor Green
-        }
-    }
-    else {
-        Write-Host ""
-        Write-Host "================================================" -ForegroundColor Red
-        Write-Host "FEHLER: PDF Build fehlgeschlagen (Exit Code: $LASTEXITCODE)" -ForegroundColor Red
-        Write-Host "================================================" -ForegroundColor Red
-        Write-Host "Pruefe die Logs in: .github\logs\" -ForegroundColor Yellow
-        exit $LASTEXITCODE
-    }
-}
-catch {
-    Write-Host ""
-    Write-Host "================================================" -ForegroundColor Red
-    Write-Host "✗ Fehler beim PDF Build" -ForegroundColor Red
-    Write-Host "================================================" -ForegroundColor Red
-    Write-Host $_.Exception.Message -ForegroundColor Red
+    [Parameter()]
+    [string]$Manifest = 'publish.yml',
+    
+    [Parameter()]
+    [switch]$DryRun
+)
+
+$ScriptPath = Join-Path $PSScriptRoot ".github\gitbook_worker\scripts\build-pdf.ps1"
+
+if (-not (Test-Path $ScriptPath)) {
+    Write-Error "Build script not found: $ScriptPath"
     exit 1
 }
+
+$params = @{
+    WorkflowProfile = $WorkflowProfile
+    Manifest        = $Manifest
+}
+
+if ($DryRun) {
+    $params['DryRun'] = $true
+}
+
+& $ScriptPath @params
+exit $LASTEXITCODE

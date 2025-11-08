@@ -39,6 +39,7 @@ from urllib.parse import urlparse
 
 from tools.logging_config import get_logger
 
+from tools.publishing.font_config import get_font_config
 from tools.publishing.markdown_combiner import (
     add_geometry_package,
     combine_markdown,
@@ -143,25 +144,76 @@ _MANIFEST_VERSION_MIN = (0, 1, 0)
 _MANIFEST_VERSION_CURRENT = (0, 1, 0)
 
 
+# Helper function to resolve paths relative to this module's directory
+def _resolve_module_path(relative_path: str) -> str:
+    """Resolve a path relative to the publisher module directory.
+
+    This makes the package portable and independent of repository structure.
+    lua/ and texmf/ directories are part of the tools.publishing package.
+
+    Args:
+        relative_path: Path relative to publisher.py directory (e.g., 'lua/filter.lua')
+
+    Returns:
+        Absolute path as string
+    """
+    module_dir = Path(__file__).resolve().parent
+    return str((module_dir / relative_path).resolve())
+
+
 _DEFAULT_LUA_FILTERS: List[str] = [
-    ".github/gitbook_worker/tools/publishing/lua/image-path-resolver.lua",
-    ".github/gitbook_worker/tools/publishing/lua/emoji-span.lua",
-    ".github/gitbook_worker/tools/publishing/lua/latex-emoji.lua",
+    _resolve_module_path("lua/image-path-resolver.lua"),
+    _resolve_module_path("lua/emoji-span.lua"),
+    _resolve_module_path("lua/latex-emoji.lua"),
 ]
-_DEFAULT_HEADER_PATH = (
-    ".github/gitbook_worker/tools/publishing/texmf/tex/latex/local/deeptex.sty"
-)
+_DEFAULT_HEADER_PATH = _resolve_module_path("texmf/tex/latex/local/deeptex.sty")
 _DEFAULT_METADATA: Dict[str, List[str]] = {
     "color": ["true"],
 }
-_DEFAULT_VARIABLES: Dict[str, str] = {
-    "mainfont": "DejaVu Serif",
-    "sansfont": "DejaVu Sans",
-    "monofont": "DejaVu Sans Mono",
-    "geometry": "margin=1in",
-    "longtable": "true",
-    "max-list-depth": "9",
-}
+
+
+def _get_default_variables() -> Dict[str, str]:
+    """Get default Pandoc variables with font names from configuration.
+
+    Returns:
+        Dictionary of default Pandoc variables
+    """
+    try:
+        font_config = get_font_config()
+        default_fonts = font_config.get_default_fonts()
+        # Get CJK font name for mainfontfallback
+        cjk_font_name = font_config.get_font_name("CJK")
+    except Exception as e:
+        logger.warning(
+            "Konnte Font-Konfiguration nicht laden: %s. Verwende Fallback-Fonts.", e
+        )
+        default_fonts = {
+            "serif": "DejaVu Serif",
+            "sans": "DejaVu Sans",
+            "mono": "DejaVu Sans Mono",
+        }
+        cjk_font_name = None
+
+    variables = {
+        "mainfont": default_fonts["serif"],
+        "sansfont": default_fonts["sans"],
+        "monofont": default_fonts["mono"],
+        "geometry": "margin=1in",
+        "longtable": "true",
+        "max-list-depth": "9",
+    }
+
+    # Add CJK font as mainfontfallback if available
+    if cjk_font_name:
+        # Use HarfBuzz renderer for proper CJK rendering
+        variables["mainfontfallback"] = f"{cjk_font_name}:mode=harf"
+
+    return variables
+
+
+# Initialize default variables from configuration
+_DEFAULT_VARIABLES: Dict[str, str] = _get_default_variables()
+
 _DEFAULT_EXTRA_ARGS: Tuple[str, ...] = ()
 
 EMOJI_RANGES = (
@@ -229,6 +281,8 @@ def _run(
 ) -> subprocess.CompletedProcess:
     kwargs: Dict[str, Any] = {
         "text": True,
+        "encoding": "utf-8",
+        "errors": "replace",  # Replace problematic bytes instead of crashing
         "stdout": subprocess.PIPE,
         "stderr": subprocess.PIPE,
     }
@@ -241,8 +295,42 @@ def _run(
     if cp.stderr:
         logger.error(cp.stderr)
     if check and cp.returncode != 0:
-        raise subprocess.CalledProcessError(cp.returncode, cmd)
+        # Include stdout/stderr in the exception so error handlers can access them
+        raise subprocess.CalledProcessError(
+            cp.returncode, cmd, output=cp.stdout, stderr=cp.stderr
+        )
     return cp
+
+
+def _escape_latex(value: str) -> str:
+    """Escape common LaTeX special characters in a string used in -V title=...
+
+    This is a conservative escape for values injected into LaTeX via Pandoc
+    variables (e.g. title). We escape the characters that commonly break
+    LaTeX alignment or maths: & % $ # _ { } and backslash. We keep the
+    result simple (use standard TeX escapes) so Pandoc forwards a safe value
+    into the PDF engine.
+    """
+    if not value:
+        return value
+
+    # Replace backslash first
+    esc = value.replace("\\", "\\textbackslash{}")
+
+    replacements = {
+        "&": r"\\&",
+        "%": r"\\%",
+        "$": r"\\$",
+        "#": r"\\#",
+        "_": r"\\_",
+        "{": r"\\{",
+        "}": r"\\}",
+    }
+
+    for k, v in replacements.items():
+        esc = esc.replace(k, v)
+
+    return esc
 
 
 def _which(name: str) -> Optional[str]:
@@ -1179,7 +1267,7 @@ def prepare_publishing(
                     manifest_data.get("fonts"), manifest_dir
                 )
 
-    font_dir = ".github/gitbook_worker/tools/publishing/fonts/truetype/openmoji"
+    # OpenMoji removed per AGENTS.md (license compliance - only Twemoji CC BY 4.0 allowed)
     font_cache_refreshed = False
 
     def _maybe_refresh_font_cache() -> None:
@@ -1267,11 +1355,28 @@ def prepare_publishing(
     # No manual download required - as per AGENTS.md requirement (Twemoji CC BY 4.0 only)
     # OpenMoji references removed to ensure license compliance
 
-    # Register ERDA CC-BY CJK font from multiple possible locations
-    erda_font_locations = [
-        ".github/fonts/erda-ccby-cjk.ttf",  # Primary location
-        ".github/gitbook_worker/tools/publishing/fonts/truetype/erdafont/erda-ccby-cjk.ttf",  # Legacy
-    ]
+    # Load font configuration with smart merge (fonts.yml + publish.yml overrides)
+    font_config = get_font_config()
+
+    # Apply manifest font overrides if provided
+    if manifest_specs:
+        logger.info("Wende Manifest-Font-Overrides an (%d Fonts)", len(manifest_specs))
+        # Convert FontSpec list to dict format for merge
+        manifest_fonts = []
+        for spec in manifest_specs:
+            font_dict = {}
+            if spec.name:
+                font_dict["name"] = spec.name
+            if spec.path:
+                font_dict["path"] = str(spec.path)
+            if spec.url:
+                font_dict["url"] = spec.url
+            manifest_fonts.append(font_dict)
+
+        font_config = font_config.merge_manifest_fonts(manifest_fonts)
+
+    # Register CJK font from merged configuration
+    erda_font_locations = font_config.get_font_paths("CJK")
 
     erda_font_found = False
     for erda_font_path in erda_font_locations:
@@ -1282,9 +1387,10 @@ def prepare_publishing(
             erda_font_found = True
             break
 
-    if not erda_font_found:
+    if not erda_font_found and erda_font_locations:
         logger.warning("⚠ ERDA CJK Font nicht gefunden in: %s", erda_font_locations)
 
+    # Register additional fonts from repo .github/fonts directory
     repo_font_dir = _resolve_repo_root() / ".github" / "fonts"
     if repo_font_dir.exists():
         for pattern in ("*.ttf", "*.otf"):
@@ -1292,6 +1398,7 @@ def prepare_publishing(
                 _register_font(str(font_path))
         _remember_font_dir(repo_font_dir)
 
+    # Register legacy manifest fonts (for backward compatibility)
     if manifest_specs:
         cache_dir = Path.home() / ".cache" / "erda-publisher" / "fonts"
         for spec in manifest_specs:
@@ -1332,7 +1439,7 @@ def prepare_publishing(
                 _register_font(target)
 
     # latex-emoji.lua Filter
-    lua_dir = ".github/gitbook_worker/tools/publishing/lua"
+    lua_dir = _resolve_module_path("lua")
     lua_path = os.path.join(lua_dir, "latex-emoji.lua")
     if not os.path.exists(lua_path):
         try:
@@ -1522,8 +1629,49 @@ def _run_pandoc(
         )
         header_file.write_text(font_header_content, encoding="utf-8")
 
+        # If a title was provided, inject a small LaTeX header that sets the
+        # document title using a LaTeX-safe, escaped value. This avoids issues
+        # where Pandoc templates copy unescaped headings into the LaTeX
+        # 	itle{} which can break with characters like '&'. We add the
+        # title header before the font header so it takes effect in the preamble.
+        # When a title header is injected we MUST avoid also passing the title
+        # to Pandoc via variables or metadata (both can cause the template to
+        # re-insert an unescaped title). If a header is used, we therefore
+        # remove any title metadata and skip adding a -V title=... argument.
+        title_header_path = None
+        try:
+            if title:
+                title_header_path = Path(temp_dir) / "pandoc-title.tex"
+                # escape for LaTeX and also provide a plain fallback for
+                # bookmarks using \texorpdfstring{<latex>}{<plain>}
+                safe_title = _escape_latex(str(title))
+                # plain fallback: remove backslashes and braces to avoid
+                # accidental TeX in the second argument
+                import re as _re
+
+                plain_title = _re.sub(r"[\\{}]", "", str(title))
+                title_header_path.write_text(
+                    f"\\title{{\\texorpdfstring{{{safe_title}}}{{{plain_title}}}}}\\author{{}}\\date{{}}\n",
+                    encoding="utf-8",
+                )
+                # Ensure Pandoc doesn't also inject the title via metadata
+                # (some templates prefer metadata->\title). Remove any title
+                # key from the metadata_map so the header file is authoritative.
+                try:
+                    metadata_map.pop("title", None)
+                except Exception:
+                    pass
+        except Exception:
+            title_header_path = None
+
         header_args = _combine_header_paths(
-            header_defaults, header_override, [str(header_file)]
+            header_defaults,
+            header_override,
+            [
+                str(p)
+                for p in ([title_header_path] if title_header_path else [])
+                + [str(header_file)]
+            ],
         )
 
         cmd: List[str] = ["pandoc", md_path, "-o", pdf_out]
@@ -1544,13 +1692,25 @@ def _run_pandoc(
             for value in values:
                 cmd.extend(["-M", f"{key}={value}"])
         for key, value in variable_map.items():
+            # If we injected a title header, avoid passing a title variable
+            # to Pandoc as this can create duplicate/unescaped title output
+            # in some templates.
+            if title_header_path and key == "title":
+                continue
             cmd.extend(["--variable", f"{key}={value}"])
         if add_toc:
             cmd.append("--toc")
             if toc_depth is not None:
                 cmd.extend(["--toc-depth", str(toc_depth)])
-        if title:
-            cmd.extend(["-V", f"title={title}"])
+        # Only pass the title via -V if we did not create a title header.
+        # When a title header exists we rely on the header file and must not
+        # also pass the title to Pandoc (see rationale above).
+        if title and not title_header_path:
+            # Escape LaTeX special characters to avoid errors like
+            # "Misplaced alignment tab character &" when the title contains
+            # an ampersand or other special chars.
+            safe_title = _escape_latex(str(title))
+            cmd.extend(["-V", f"title={safe_title}"])
         cmd.extend(additional_args)
 
         _run(cmd)
@@ -1671,6 +1831,25 @@ def convert_a_file(
         normalized,
         paper_format=paper_format,
     )
+    # Escape the first/top-level Markdown heading's text for LaTeX safety so
+    # that characters like '&' don't break the LaTeX title generation.
+    try:
+        import re
+
+        m = re.search(r"(?m)^(#\s+)(.+)$", content)
+        if m:
+            heading_prefix = m.group(1)
+            heading_text = m.group(2)
+            safe_heading = _escape_latex(heading_text)
+            content = (
+                content[: m.start()]
+                + heading_prefix
+                + safe_heading
+                + content[m.end() :]
+            )
+    except Exception:
+        # best-effort only; on any error keep original content
+        pass
     with tempfile.NamedTemporaryFile(
         "w", suffix=".md", delete=False, encoding="utf-8"
     ) as tmp:
@@ -1679,9 +1858,22 @@ def convert_a_file(
     try:
         options = emoji_options or EmojiOptions()
         _emit_emoji_report(tmp_md, Path(pdf_out), options)
+
+        # Extract title from markdown file frontmatter or filename
+        title = None
+        try:
+            with open(md_file, "r", encoding="utf-8") as f:
+                first_line = f.readline().strip()
+                if first_line.startswith("# "):
+                    title = first_line[2:].strip()
+        except Exception:
+            pass
+
         _run_pandoc(
             tmp_md,
             pdf_out,
+            add_toc=False,  # Single files typically don't need TOC
+            title=title,
             resource_paths=resource_paths,
             emoji_options=options,
             variables=variables,
@@ -1749,6 +1941,24 @@ def convert_a_folder(
     combined = add_geometry_package(
         combine_markdown(md_files, paper_format=paper_format), paper_format=paper_format
     )
+    # Escape the first/top-level Markdown heading in the combined document to
+    # avoid LaTeX errors (e.g. unescaped '&' in titles).
+    try:
+        import re
+
+        m = re.search(r"(?m)^(#\s+)(.+)$", combined)
+        if m:
+            prefix = m.group(1)
+            txt = m.group(2)
+            combined = (
+                combined[: m.start()]
+                + prefix
+                + _escape_latex(txt)
+                + combined[m.end() :]
+            )
+    except Exception:
+        # best-effort only
+        pass
     with tempfile.NamedTemporaryFile(
         "w", suffix=".md", delete=False, encoding="utf-8"
     ) as tmp:
@@ -1889,12 +2099,56 @@ def build_pdf(
         return True, None
     except subprocess.CalledProcessError as e:
         logger.error("Pandoc/LaTeX Build fehlgeschlagen (rc=%s).", e.returncode)
-        return False, str(e) + "\n" + (e.stdout or "") + "\n" + (e.stderr or "")
+        error_details = [f"Command failed with exit code {e.returncode}"]
+        error_details.append(
+            f"Command: {' '.join(e.cmd) if hasattr(e, 'cmd') else 'unknown'}"
+        )
+
+        if e.stdout:
+            stdout_str = (
+                e.stdout
+                if isinstance(e.stdout, str)
+                else e.stdout.decode("utf-8", errors="replace")
+            )
+            logger.error("STDOUT:\n%s", stdout_str)
+            error_details.append(f"STDOUT:\n{stdout_str}")
+
+        if e.stderr:
+            stderr_str = (
+                e.stderr
+                if isinstance(e.stderr, str)
+                else e.stderr.decode("utf-8", errors="replace")
+            )
+            logger.error("STDERR:\n%s", stderr_str)
+            error_details.append(f"STDERR:\n{stderr_str}")
+
+        return False, "\n".join(error_details)
     except Exception as e:
         logger.error("Build-Fehler: %s", e)
+        error_details = [f"Exception: {type(e).__name__}: {e}"]
+
         stdout = getattr(e, "stdout", "")
         stderr = getattr(e, "stderr", "")
-        return False, f"{e}\n{stdout}\n{stderr}"
+
+        if stdout:
+            stdout_str = (
+                stdout
+                if isinstance(stdout, str)
+                else stdout.decode("utf-8", errors="replace")
+            )
+            logger.error("STDOUT:\n%s", stdout_str)
+            error_details.append(f"STDOUT:\n{stdout_str}")
+
+        if stderr:
+            stderr_str = (
+                stderr
+                if isinstance(stderr, str)
+                else stderr.decode("utf-8", errors="replace")
+            )
+            logger.error("STDERR:\n%s", stderr_str)
+            error_details.append(f"STDERR:\n{stderr_str}")
+
+        return False, "\n".join(error_details)
 
 
 # -------------------------------- Main (D) --------------------------------- #

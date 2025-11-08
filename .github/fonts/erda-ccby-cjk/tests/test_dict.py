@@ -8,7 +8,7 @@ from pathlib import Path
 parent_dir = Path(__file__).parent.parent
 sys.path.insert(0, str(parent_dir))
 
-from build_ccby_cjk_font import HANZI_KANJI
+from generator.build_ccby_cjk_font import HANZI_KANJI
 
 test_chars = ["語", "以", "下"]
 

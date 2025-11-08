@@ -95,6 +95,73 @@
             "console": "integratedTerminal",
             "justMyCode": true,
             "envFile": "${workspaceFolder}/.env"
-        }
+        },
+        {
+            "name": "Test: Unit Tests",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "pytest",
+            "cwd": "${workspaceFolder}",
+            "env": {
+                "PYTHONPATH": "${workspaceFolder};${workspaceFolder}/.github;${workspaceFolder}/.github/gitbook_worker",
+                "PYTHONIOENCODING": "utf-8",
+                "PYTHONUTF8": "1"
+            },
+            "args": [
+                ".github/gitbook_worker/tests",
+                "-v",
+                "-m",
+                "not slow",
+                "--tb=short",
+                "--no-cov"
+            ],
+            "console": "integratedTerminal",
+            "justMyCode": false,
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "name": "Test: Integration Tests",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "pytest",
+            "cwd": "${workspaceFolder}",
+            "env": {
+                "PYTHONPATH": "${workspaceFolder};${workspaceFolder}/.github;${workspaceFolder}/.github/gitbook_worker",
+                "PYTHONIOENCODING": "utf-8",
+                "PYTHONUTF8": "1"
+            },
+            "args": [
+                ".github/gitbook_worker/tests",
+                "-v",
+                "-m",
+                "slow",
+                "--tb=long",
+                "--showlocals",
+                "--no-cov"
+            ],
+            "console": "integratedTerminal",
+            "justMyCode": false,
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "name": "Build Font (with cache refresh)",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/.github/fonts/erda-ccby-cjk/generator/build_ccby_cjk_font.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}/.github/fonts/erda-ccby-cjk/generator",
+            "args": [
+                "--refresh-cache"
+            ]
+        },
+        {
+            "name": "Build Font (no cache refresh)",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/.github/fonts/erda-ccby-cjk/generator/build_ccby_cjk_font.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}/.github/fonts/erda-ccby-cjk/generator",
+            "args": []
+        },
     ]
 }

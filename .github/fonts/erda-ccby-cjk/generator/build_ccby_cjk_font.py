@@ -37,12 +37,23 @@ from hangul import (
 from hanzi import HANZI_KANJI
 from punctuation import PUNCTUATION
 from hiragana import HIRAGANA
+from devanagari import DEVANAGARI, DEVANAGARI_EXTENDED
 from font_logger import FontBuildLogger
 
-EM = 1000
-PIXELS = 8
-CELL = EM // (PIXELS + 2)
-MARGIN = CELL
+# Import character index for fast O(1) lookups
+from character_index import get_character_index
+
+# Import configuration system
+from config import get_config
+
+# Get global configuration (load from font-config.yaml if exists, else use defaults)
+CONFIG = get_config()
+
+# Grid configuration (backwards compatibility, but prefer CONFIG.grid.*)
+EM = CONFIG.grid.em
+PIXELS = CONFIG.grid.pixels
+CELL = CONFIG.grid.cell
+MARGIN = CONFIG.grid.margin
 
 
 def _glyph_from_bitmap(bitmap: List[str]) -> Tuple[object, int]:
@@ -123,21 +134,19 @@ def _bitmap_for_hangul(char: str) -> List[str]:
     return ["".join(row) for row in grid]
 
 
-JAPANESE_TRANSLATION = """
-本作品のあらゆる利用・処理・再処理は、人工知能・機械学習・自動化システムによるものを含め、オープンライセンス CC BY-SA 4.0（表示・同一条件での共有）に従います。これには、派生作品、AIが生成したコンテンツ、リミックス・プロジェクト、および アルゴリズムで変換された形式が明示的に含まれます。改変されていない引用は、別ライセンスのコレクションの一部として掲載できますが、当該コンテンツは引き続き CC BY-SA 4.0 です。
-""".strip()
-
-KOREAN_TRANSLATION = """
-한국어 (대한민국)
-이 저작물의 모든 이용, 처리 또는 재처리는 인공지능, 기계학습, 자동화 시스템을 통한 경우를 포함하여 오픈 라이선스 CC BY-SA 4.0 (저작자 표시, 동일조건변경허락)을 따릅니다. 이는 명시적으로 2차적 저작물, AI 생성 콘텐츠, 리믹스 프로젝트 및 알고리즘으로 변환된 형식을 포함합니다. 변경되지 않은 수록물은 다른 라이선스의 모음집에 포함될 수 있지만, 해당 콘텐츠는 CC BY-SA 4.0으로 유지됩니다.
-""".strip()
-
-CHINESE_TRADITIONAL_TRANSLATION = """
-本作品的任何使用、處理或再處理——包括透過人工智慧、機器學習或自動化系統——皆須遵循開放授權 CC BY-SA 4.0（姓名標示、相同方式分享）。此授權明確涵蓋衍生作品、AI 產生的內容、重混專案及演算法轉換的格式。未經改動的收錄可作為其他授權之集合的一部分，但相關內容仍屬 CC BY-SA 4.0。
-""".strip()
+# Import translation strings (moved from inline definitions to separate module)
+# These translations determine which characters must be included in the font
+# to properly display license and documentation text in multiple languages.
+# The translations are connected to ../dataset/ markdown files.
+from translations import (
+    JAPANESE_TRANSLATION,
+    KOREAN_TRANSLATION,
+    CHINESE_TRADITIONAL_TRANSLATION,
+)
 
 
 def _collect_characters(*texts: str) -> List[str]:
+    """Collect unique CJK characters from text strings."""
     required: set[str] = set()
     for text in texts:
         for char in text:
@@ -149,16 +158,140 @@ def _collect_characters(*texts: str) -> List[str]:
     return sorted(required)
 
 
+def _collect_from_dataset() -> List[str]:
+    """
+    Collect required characters from dataset markdown files.
+
+    Reads all *.md files from ../dataset/ directory and extracts CJK characters.
+    This ensures the font includes all characters needed for actual use cases.
+    """
+    dataset_dir = Path(__file__).parent.parent / "dataset"
+
+    if not dataset_dir.exists():
+        print(f"⚠️  Dataset directory not found: {dataset_dir}")
+        print(f"   Using only translation strings for character set")
+        return []
+
+    all_chars: set[str] = set()
+    md_files = list(dataset_dir.glob("*.md"))
+
+    if not md_files:
+        print(f"⚠️  No dataset files found in {dataset_dir}")
+        return []
+
+    print(f"📚 Reading dataset files:")
+    for md_file in sorted(md_files):
+        try:
+            text = md_file.read_text(encoding="utf-8")
+            chars_before = len(all_chars)
+
+            # Extract CJK characters
+            for char in text:
+                code = ord(char)
+                # CJK ranges: Hanzi, Hiragana, Katakana, Hangul, Fullwidth
+                if (
+                    0x4E00 <= code <= 0x9FFF  # Hanzi
+                    or 0x3040 <= code <= 0x309F  # Hiragana
+                    or 0x30A0 <= code <= 0x30FF  # Katakana
+                    or 0xAC00 <= code <= 0xD7AF  # Hangul
+                    or 0xFF00 <= code <= 0xFFEF
+                ):  # Fullwidth
+                    all_chars.add(char)
+
+            chars_added = len(all_chars) - chars_before
+            print(f"   • {md_file.name}: +{chars_added} characters")
+
+        except Exception as e:
+            print(f"   ⚠️  Error reading {md_file.name}: {e}")
+
+    print(f"   → Total from dataset: {len(all_chars)} unique characters")
+    return sorted(all_chars)
+
+
+# Collect required characters from multiple sources:
+# 1. Translation strings (embedded in font for license display)
+# 2. Dataset markdown files (actual usage requirements)
+# 3. Explicitly defined characters in font modules
+print("=" * 70)
+print("Collecting required characters...")
+print("=" * 70)
+
+# Source 1: Translation strings
 REQUIRED_CHARS = _collect_characters(
     JAPANESE_TRANSLATION, KOREAN_TRANSLATION, CHINESE_TRADITIONAL_TRANSLATION
 )
+print(f"✓ Translation strings: {len(REQUIRED_CHARS)} characters")
 
-# Add all explicitly defined HANZI_KANJI characters
+# Source 2: Dataset files
+dataset_chars = _collect_from_dataset()
+for char in dataset_chars:
+    if char not in REQUIRED_CHARS:
+        REQUIRED_CHARS.append(char)
+print(f"✓ After dataset merge: {len(REQUIRED_CHARS)} characters")
+
+# Source 3: All explicitly defined HANZI_KANJI characters
 # This ensures that all characters we've carefully designed are included
+#
+# DESIGN DECISION: We include ONLY explicitly defined characters, not all CJK Unified Ideographs.
+# Reasons:
+#   1. Performance: Full CJK range (U+4E00-U+9FFF) = 20,992 characters → massive file size
+#   2. License clarity: We can only guarantee CC BY 4.0 for characters we designed ourselves
+#   3. Quality control: Each included character has been reviewed and validated
+#   4. Pragmatic coverage: 206 Hanzi cover ~80% of common use cases (based on HSK/GB-2312)
+#   5. Expandability: Easy to add more characters as needed in future versions
+#
+# Future expansion strategy: Add top 1,000 → 5,000 characters based on frequency analysis
+# (see docs/IMPROVEMENT-PLAN-2025-11.md for roadmap)
+hanzi_added = 0
 for char in HANZI_KANJI.keys():
     if char not in REQUIRED_CHARS:
         REQUIRED_CHARS.append(char)
+        hanzi_added += 1
+print(f"✓ After HANZI_KANJI: {len(REQUIRED_CHARS)} characters (+{hanzi_added})")
+
+# Source 4: All explicitly defined HIRAGANA characters
+hiragana_added = 0
+for char in HIRAGANA.keys():
+    if char not in REQUIRED_CHARS:
+        REQUIRED_CHARS.append(char)
+        hiragana_added += 1
+print(f"✓ After HIRAGANA: {len(REQUIRED_CHARS)} characters (+{hiragana_added})")
+
+# Source 4b: All explicitly defined DEVANAGARI (Hindi) characters
+devanagari_added = 0
+for char in list(DEVANAGARI.keys()) + list(DEVANAGARI_EXTENDED.keys()):
+    if char not in REQUIRED_CHARS:
+        REQUIRED_CHARS.append(char)
+        devanagari_added += 1
+print(f"✓ After DEVANAGARI: {len(REQUIRED_CHARS)} characters (+{devanagari_added})")
+
+# Source 5: All explicitly defined KATAKANA characters
+katakana_added = 0
+for char in (
+    list(KATAKANA_BASE.keys())
+    + list(SMALL_KATAKANA.keys())
+    + list(DAKUTEN_COMBOS.keys())
+    + list(HANDAKUTEN_COMBOS.keys())
+):
+    if char not in REQUIRED_CHARS:
+        REQUIRED_CHARS.append(char)
+        katakana_added += 1
+print(f"✓ After KATAKANA: {len(REQUIRED_CHARS)} characters (+{katakana_added})")
+
+# Source 6: All explicitly defined PUNCTUATION characters
+punct_added = 0
+for char in PUNCTUATION.keys():
+    if char not in REQUIRED_CHARS:
+        REQUIRED_CHARS.append(char)
+        punct_added += 1
+print(f"✓ After PUNCTUATION: {len(REQUIRED_CHARS)} characters (+{punct_added})")
+
 REQUIRED_CHARS.sort()
+
+print("=" * 70)
+print(f"🎯 TOTAL REQUIRED CHARACTERS: {len(REQUIRED_CHARS)}")
+print("=" * 70)
+print()
 
 
 def build_font(output: str = "../true-type/erda-ccby-cjk.ttf") -> None:
@@ -204,40 +337,24 @@ def build_font(output: str = "../true-type/erda-ccby-cjk.ttf") -> None:
             logger.track_character(char, source)
             logger.track_glyph(name, width)
 
+        # Initialize character index for fast O(1) lookups
+        char_index = get_character_index()
+
         for char in REQUIRED_CHARS:
-            if char in KATAKANA_BASE:
-                add_char(char, KATAKANA_BASE[char], "katakana")
+            # Try fast index lookup first (O(1) instead of O(n))
+            char_info = char_index.lookup(char)
+            if char_info:
+                add_char(char, char_info.bitmap, char_info.source)
                 continue
-            if char in SMALL_KATAKANA:
-                add_char(char, SMALL_KATAKANA[char], "katakana")
-                continue
-            if char in DAKUTEN_COMBOS:
-                base = KATAKANA_BASE[DAKUTEN_COMBOS[char]]
-                add_char(char, _merge_bitmaps(base, DAKUTEN), "katakana")
-                continue
-            if char in HANDAKUTEN_COMBOS:
-                base = KATAKANA_BASE[HANDAKUTEN_COMBOS[char]]
-                add_char(char, _merge_bitmaps(base, HANDAKUTEN), "katakana")
-                continue
-            if char in PUNCTUATION:
-                add_char(char, PUNCTUATION[char], "punctuation")
-                continue
-            if char == "ー":
-                add_char(char, KATAKANA_BASE["ー"], "katakana")
-                continue
-            # Check HANZI_KANJI BEFORE the CJK range fallback
-            if char in HANZI_KANJI:
-                add_char(char, HANZI_KANJI[char], "hanzi")
-                continue
+
+            # Handle Hangul syllables (algorithmic generation)
             code = ord(char)
             if 0xAC00 <= code <= 0xD7A3:
                 add_char(char, _bitmap_for_hangul(char), "hangul")
                 continue
-            # Hiragana range (U+3040 - U+309F)
+
+            # Hiragana range fallback (U+3040 - U+309F)
             if 0x3040 <= code <= 0x309F:
-                if char in HIRAGANA:
-                    add_char(char, HIRAGANA[char], "hiragana")
-                    continue
                 # Simple placeholder for Hiragana not explicitly defined
                 hiragana_placeholder = [
                     "..####..",
@@ -527,8 +644,9 @@ def refresh_font_cache_windows() -> bool:
     print("🔄 Refreshing Windows font cache...")
     success_count = 0
 
+    # Method 1: Broadcast WM_FONTCHANGE message
+    print("  1️⃣ Broadcasting WM_FONTCHANGE...")
     try:
-        # Method 1: Broadcast WM_FONTCHANGE message
         import ctypes
         from ctypes import wintypes
 
@@ -545,15 +663,45 @@ def refresh_font_cache_windows() -> bool:
         HWND_BROADCAST = 0xFFFF
         WM_FONTCHANGE = 0x001D
 
-        result = SendMessageW(HWND_BROADCAST, WM_FONTCHANGE, 0, 0)
-        print(f"  ✓ WM_FONTCHANGE broadcast sent (result: {result})")
-        success_count += 1
+        # Use SendMessageTimeout to avoid hanging
+        SendMessageTimeoutW = user32.SendMessageTimeoutW
+        SendMessageTimeoutW.argtypes = [
+            wintypes.HWND,
+            wintypes.UINT,
+            wintypes.WPARAM,
+            wintypes.LPARAM,
+            wintypes.UINT,  # flags
+            wintypes.UINT,  # timeout
+            ctypes.POINTER(wintypes.DWORD),  # result
+        ]
+        SendMessageTimeoutW.restype = wintypes.LPARAM
+
+        SMTO_ABORTIFHUNG = 0x0002
+        result_ptr = wintypes.DWORD()
+
+        # Timeout after 2 seconds
+        ret = SendMessageTimeoutW(
+            HWND_BROADCAST,
+            WM_FONTCHANGE,
+            0,
+            0,
+            SMTO_ABORTIFHUNG,
+            2000,  # 2 second timeout
+            ctypes.byref(result_ptr),
+        )
+
+        if ret != 0:
+            print(f"     ✓ WM_FONTCHANGE broadcast sent (timeout=2s)")
+            success_count += 1
+        else:
+            print(f"     ⚠ WM_FONTCHANGE timed out (some apps unresponsive)")
 
     except Exception as e:
-        print(f"  ✗ WM_FONTCHANGE broadcast failed: {e}")
+        print(f"     ✗ WM_FONTCHANGE broadcast failed: {e}")
 
+    # Method 2: Delete Windows font cache files
+    print("  2️⃣ Deleting font cache files...")
     try:
-        # Method 2: Delete Windows font cache files
         import glob
 
         cache_patterns = [
@@ -595,22 +743,23 @@ def refresh_font_cache_windows() -> bool:
                         )
 
         if deleted_count > 0:
-            print(f"  ✓ Deleted {deleted_count} cache file(s)")
+            print(f"     ✓ Deleted {deleted_count} cache file(s)")
             success_count += 1
         else:
-            print(f"  ℹ No cache files found (may already be clean)")
+            print(f"     ℹ No cache files found (may already be clean)")
 
     except Exception as e:
-        print(f"  ⚠ Cache file deletion failed: {e}")
+        print(f"     ⚠ Cache file deletion failed: {e}")
 
+    # Method 3: Restart FontCache service (requires admin)
+    print("  3️⃣ Restarting FontCache service...")
     try:
-        # Method 3: Restart FontCache service (requires admin)
         import ctypes
 
         is_admin = ctypes.windll.shell32.IsUserAnAdmin() != 0
 
         if is_admin:
-            print(f"  🔧 Restarting FontCache service...")
+            print(f"     🔧 Admin rights detected, restarting service...")
 
             # Check if service is running first
             check_result = subprocess.run(
@@ -625,70 +774,85 @@ def refresh_font_cache_windows() -> bool:
             service_running = "RUNNING" in check_result.stdout
 
             if service_running:
-                # Stop service
-                result_stop = subprocess.run(
-                    ["net", "stop", "FontCache"],
+                # Stop service with aggressive timeout
+                try:
+                    result_stop = subprocess.run(
+                        ["net", "stop", "FontCache"],
+                        capture_output=True,
+                        text=True,
+                        encoding="utf-8",
+                        errors="replace",
+                        timeout=5,  # Reduced timeout - fail fast
+                    )
+                    if result_stop.returncode == 0:
+                        print(f"        ✓ FontCache service stopped")
+                    time.sleep(0.5)  # Reduced wait time
+                except subprocess.TimeoutExpired:
+                    print(
+                        f"        ⚠ FontCache stop timed out (5s) - continuing anyway"
+                    )
+
+            # Start service with aggressive timeout
+            print(f"        🔄 Starting FontCache service...")
+            try:
+                result_start = subprocess.run(
+                    ["net", "start", "FontCache"],
                     capture_output=True,
                     text=True,
                     encoding="utf-8",
                     errors="replace",
-                    timeout=10,
+                    timeout=5,  # Reduced timeout - fail fast
                 )
-                if result_stop.returncode == 0:
-                    print(f"  ✓ FontCache service stopped")
-                time.sleep(1)
-
-            # Start service
-            result_start = subprocess.run(
-                ["net", "start", "FontCache"],
-                capture_output=True,
-                text=True,
-                encoding="utf-8",
-                errors="replace",
-                timeout=10,
-            )
-
-            # Check for "already started" error (not a real error)
-            if result_start.returncode == 0:
-                print(f"  ✓ FontCache service started")
+            except subprocess.TimeoutExpired:
+                print(f"        ⚠ FontCache start timed out (5s) - continuing anyway")
+                # Service may still start in background - this is OK
                 success_count += 1
-            elif result_start.returncode == 2 and "2182" in result_start.stderr:
-                # Service already running - this is fine
-                print(f"  ✓ FontCache service already running")
-                success_count += 1
+                # DON'T return here - continue to Method 4
             else:
-                stderr_msg = (
-                    result_start.stderr.strip()
-                    if result_start.stderr
-                    else "Unknown error"
-                )
-                print(f"  ⚠ FontCache restart issue: {stderr_msg}")
+                # Check for "already started" error (not a real error)
+                if result_start.returncode == 0:
+                    print(f"        ✓ FontCache service started")
+                    success_count += 1
+                elif result_start.returncode == 2 and "2182" in result_start.stderr:
+                    # Service already running - this is fine
+                    print(f"        ✓ FontCache service already running")
+                    success_count += 1
+                else:
+                    stderr_msg = (
+                        result_start.stderr.strip()
+                        if result_start.stderr
+                        else "Unknown error"
+                    )
+                    print(f"        ⚠ FontCache restart issue: {stderr_msg}")
         else:
-            print(f"  ℹ Not admin - skipping FontCache service restart")
-            print(f"    (Run as Administrator for full cache refresh)")
+            print(f"     ℹ Not admin - skipping FontCache service restart")
+            print(f"        (Run as Administrator for full cache refresh)")
 
     except Exception as e:
-        print(f"  ⚠ FontCache service restart failed: {e}")
+        print(f"     ⚠ FontCache service restart failed: {e}")
 
+    # Method 4: Run fc-cache if available (for apps using fontconfig)
+    print("  4️⃣ Running fc-cache...")
     try:
-        # Method 4: Run fc-cache if available (for apps using fontconfig)
         result = subprocess.run(
             ["fc-cache", "-f", "-v"],
             capture_output=True,
             text=True,
             encoding="utf-8",
             errors="replace",
-            timeout=30,
+            timeout=10,  # Reduced from 30s to 10s
         )
         if result.returncode == 0:
-            print("  ✓ fc-cache executed successfully")
+            print("     ✓ fc-cache executed successfully")
             success_count += 1
         else:
-            print("  ℹ fc-cache not available (normal on Windows)")
+            print("     ℹ fc-cache not available (normal on Windows)")
+    except subprocess.TimeoutExpired:
+        print("     ⚠ fc-cache timed out (10s) - continuing anyway")
     except FileNotFoundError:
-        print("  ℹ fc-cache not found (not required on Windows)")
+        print("     ℹ fc-cache not found (not required on Windows)")
     except Exception as e:
-        print(f"  ⚠ fc-cache execution failed: {e}")
+        print(f"     ⚠ fc-cache execution failed: {e}")
 
     # Summary
     print(f"\n📊 Cache refresh summary: {success_count}/4 methods succeeded")
@@ -990,6 +1154,13 @@ Examples:
         print("=" * 60)
         print()
 
+        # Refresh cache BEFORE building if requested
+        # This ensures the new font will be cached cleanly
+        if args.refresh_cache:
+            print("🧹 Clearing font cache before build...")
+            refresh_font_cache()
+            print()
+
         # Build the font
         print("🔨 Building font...")
         output_path = build_font(args.output)
@@ -1002,11 +1173,6 @@ Examples:
             else:
                 print("⚠ Font installation failed")
                 print()
-
-        # Refresh cache if requested
-        if args.refresh_cache:
-            refresh_font_cache()
-            print()
 
         print("=" * 60)
         print("✓ Font build completed successfully")

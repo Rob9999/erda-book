@@ -216,9 +216,9 @@ def test_run_github_tests_in_docker(output_dir, artifact_dir, logger, request):
             "bash",
             "-c",
             (
-                "PYTHONPATH=/workspace/.github/gitbook_worker/tools/publishing "
+                "PYTHONPATH=/workspace/.github/gitbook_worker "
                 "pytest -v --tb=long --showlocals --no-header --capture=no "
-                "/workspace/.github/tests/test_documents_publishing.py"
+                "/workspace/.github/gitbook_worker/tests/test_documents_publishing.py"
             ),
         ],
         logger=logger,

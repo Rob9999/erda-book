@@ -8,11 +8,11 @@ GENERATOR_DIR = ROOT / "generator"
 sys.path.insert(0, str(GENERATOR_DIR))
 
 # Import data modules
-import hanzi as hanzi_mod
-import katakana as kata_mod
-import punctuation as punct_mod
-import hangul as hangul_mod
-import hiragana as hira_mod
+import generator.hanzi as hanzi_mod
+import generator.katakana as kata_mod
+import generator.punctuation as punct_mod
+import generator.hangul as hangul_mod
+import generator.hiragana as hira_mod
 
 
 def load_dataset_texts(dataset_dir):
