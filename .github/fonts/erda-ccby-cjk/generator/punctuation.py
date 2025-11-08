@@ -320,7 +320,7 @@ PUNCTUATION: Dict[str, List[str]] = {
         "........",
         "........",
     ],
-    """: [  # Left double quotation mark
+    "\u201c": [  # Left double quotation mark (U+201C)
         ".##.##..",
         ".#..#...",
         "#..#....",
@@ -330,7 +330,7 @@ PUNCTUATION: Dict[str, List[str]] = {
         "........",
         "........",
     ],
-    """: [  # Right double quotation mark
+    "\u201d": [  # Right double quotation mark (U+201D)
         ".##.##..",
         "..#..#..",
         "...#..#.",

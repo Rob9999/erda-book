@@ -7,7 +7,7 @@ from pathlib import Path
 GENERATOR_DIR = Path(__file__).resolve().parent.parent / "generator"
 sys.path.insert(0, str(GENERATOR_DIR))
 
-from hanzi import HANZI_KANJI
+from generator.hanzi import HANZI_KANJI
 
 chars = list(HANZI_KANJI.keys())
 print(f"Total characters in HANZI_KANJI: {len(chars)}")

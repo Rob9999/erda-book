@@ -59,26 +59,6 @@ def collect_markdown_files(base_dir: pathlib.Path) -> List[Dict[str, Any]]:
     return entries
 
 
-def test_publish_all_documents(logger: logging.Logger):
-    """Test publishing all documents from content directory to PDFs."""
-    # Get repo root
-    repo_root = pathlib.Path(__file__).resolve().parents[3]
-
-    # Use test output directory instead of actual publish directory
-    publish_dir = GH_TEST_OUTPUT_DIR / "publish-singles"
-
-    # Ensure publish directory exists
-    publish_dir.mkdir(parents=True, exist_ok=True)
-
-    # Collect all markdown files
-    publish_entries = collect_markdown_files(repo_root)
-    assert publish_entries, "No markdown files found in content directory"
-    # Sort entries by path length to process simpler documents first
-    publish_entries.sort(key=lambda x: len(pathlib.Path(x["path"]).parts))
-    # Build PDF
-    _build_pdf(publish_entries, publish_dir, logger)
-
-
 def test_publishing_using_publish_manifest(logger: logging.Logger):
     """Test publishing using a predefined publish manifest."""
     # Use isolated test data instead of real repository

@@ -123,21 +123,31 @@ def _bitmap_for_hangul(char: str) -> List[str]:
     return ["".join(row) for row in grid]
 
 
+# TODO put this in a separate file DataClass
+# Make clear that only those characters are included in the generated font
+# Figure out how to connect them with the ../dataset/ markdown files
 JAPANESE_TRANSLATION = """
 本作品のあらゆる利用・処理・再処理は、人工知能・機械学習・自動化システムによるものを含め、オープンライセンス CC BY-SA 4.0（表示・同一条件での共有）に従います。これには、派生作品、AIが生成したコンテンツ、リミックス・プロジェクト、および アルゴリズムで変換された形式が明示的に含まれます。改変されていない引用は、別ライセンスのコレクションの一部として掲載できますが、当該コンテンツは引き続き CC BY-SA 4.0 です。
 """.strip()
 
+# TODO put this in a separate file DataClass
+# Make clear that only those characters are included in the generated font
+# Figure out how to connect them with the ../dataset/ markdown files
 KOREAN_TRANSLATION = """
 한국어 (대한민국)
 이 저작물의 모든 이용, 처리 또는 재처리는 인공지능, 기계학습, 자동화 시스템을 통한 경우를 포함하여 오픈 라이선스 CC BY-SA 4.0 (저작자 표시, 동일조건변경허락)을 따릅니다. 이는 명시적으로 2차적 저작물, AI 생성 콘텐츠, 리믹스 프로젝트 및 알고리즘으로 변환된 형식을 포함합니다. 변경되지 않은 수록물은 다른 라이선스의 모음집에 포함될 수 있지만, 해당 콘텐츠는 CC BY-SA 4.0으로 유지됩니다.
 """.strip()
 
+# TODO put this in a separate file DataClass
+# Make clear that only those characters are included in the generated font
+# Figure out how to connect them with the ../dataset/ markdown files
 CHINESE_TRADITIONAL_TRANSLATION = """
 本作品的任何使用、處理或再處理——包括透過人工智慧、機器學習或自動化系統——皆須遵循開放授權 CC BY-SA 4.0（姓名標示、相同方式分享）。此授權明確涵蓋衍生作品、AI 產生的內容、重混專案及演算法轉換的格式。未經改動的收錄可作為其他授權之集合的一部分，但相關內容仍屬 CC BY-SA 4.0。
 """.strip()
 
 
 def _collect_characters(*texts: str) -> List[str]:
+    """Collect unique CJK characters from text strings."""
     required: set[str] = set()
     for text in texts:
         for char in text:
@@ -149,16 +159,122 @@ def _collect_characters(*texts: str) -> List[str]:
     return sorted(required)
 
 
+def _collect_from_dataset() -> List[str]:
+    """
+    Collect required characters from dataset markdown files.
+
+    Reads all *.md files from ../dataset/ directory and extracts CJK characters.
+    This ensures the font includes all characters needed for actual use cases.
+    """
+    dataset_dir = Path(__file__).parent.parent / "dataset"
+
+    if not dataset_dir.exists():
+        print(f"⚠️  Dataset directory not found: {dataset_dir}")
+        print(f"   Using only translation strings for character set")
+        return []
+
+    all_chars: set[str] = set()
+    md_files = list(dataset_dir.glob("*.md"))
+
+    if not md_files:
+        print(f"⚠️  No dataset files found in {dataset_dir}")
+        return []
+
+    print(f"📚 Reading dataset files:")
+    for md_file in sorted(md_files):
+        try:
+            text = md_file.read_text(encoding="utf-8")
+            chars_before = len(all_chars)
+
+            # Extract CJK characters
+            for char in text:
+                code = ord(char)
+                # CJK ranges: Hanzi, Hiragana, Katakana, Hangul, Fullwidth
+                if (
+                    0x4E00 <= code <= 0x9FFF  # Hanzi
+                    or 0x3040 <= code <= 0x309F  # Hiragana
+                    or 0x30A0 <= code <= 0x30FF  # Katakana
+                    or 0xAC00 <= code <= 0xD7AF  # Hangul
+                    or 0xFF00 <= code <= 0xFFEF
+                ):  # Fullwidth
+                    all_chars.add(char)
+
+            chars_added = len(all_chars) - chars_before
+            print(f"   • {md_file.name}: +{chars_added} characters")
+
+        except Exception as e:
+            print(f"   ⚠️  Error reading {md_file.name}: {e}")
+
+    print(f"   → Total from dataset: {len(all_chars)} unique characters")
+    return sorted(all_chars)
+
+
+# Collect required characters from multiple sources:
+# 1. Translation strings (embedded in font for license display)
+# 2. Dataset markdown files (actual usage requirements)
+# 3. Explicitly defined characters in font modules
+print("=" * 70)
+print("Collecting required characters...")
+print("=" * 70)
+
+# Source 1: Translation strings
 REQUIRED_CHARS = _collect_characters(
     JAPANESE_TRANSLATION, KOREAN_TRANSLATION, CHINESE_TRADITIONAL_TRANSLATION
 )
+print(f"✓ Translation strings: {len(REQUIRED_CHARS)} characters")
 
-# Add all explicitly defined HANZI_KANJI characters
+# Source 2: Dataset files
+dataset_chars = _collect_from_dataset()
+for char in dataset_chars:
+    if char not in REQUIRED_CHARS:
+        REQUIRED_CHARS.append(char)
+print(f"✓ After dataset merge: {len(REQUIRED_CHARS)} characters")
+
+# Source 3: All explicitly defined HANZI_KANJI characters
 # This ensures that all characters we've carefully designed are included
+# TODO are there really reasons to not include all modulated CJKs like here the HANZI_KANJI?
+hanzi_added = 0
 for char in HANZI_KANJI.keys():
     if char not in REQUIRED_CHARS:
         REQUIRED_CHARS.append(char)
+        hanzi_added += 1
+print(f"✓ After HANZI_KANJI: {len(REQUIRED_CHARS)} characters (+{hanzi_added})")
+
+# Source 4: All explicitly defined HIRAGANA characters
+hiragana_added = 0
+for char in HIRAGANA.keys():
+    if char not in REQUIRED_CHARS:
+        REQUIRED_CHARS.append(char)
+        hiragana_added += 1
+print(f"✓ After HIRAGANA: {len(REQUIRED_CHARS)} characters (+{hiragana_added})")
+
+# Source 5: All explicitly defined KATAKANA characters
+katakana_added = 0
+for char in (
+    list(KATAKANA_BASE.keys())
+    + list(SMALL_KATAKANA.keys())
+    + list(DAKUTEN_COMBOS.keys())
+    + list(HANDAKUTEN_COMBOS.keys())
+):
+    if char not in REQUIRED_CHARS:
+        REQUIRED_CHARS.append(char)
+        katakana_added += 1
+print(f"✓ After KATAKANA: {len(REQUIRED_CHARS)} characters (+{katakana_added})")
+
+# Source 6: All explicitly defined PUNCTUATION characters
+punct_added = 0
+for char in PUNCTUATION.keys():
+    if char not in REQUIRED_CHARS:
+        REQUIRED_CHARS.append(char)
+        punct_added += 1
+print(f"✓ After PUNCTUATION: {len(REQUIRED_CHARS)} characters (+{punct_added})")
+
 REQUIRED_CHARS.sort()
+
+print("=" * 70)
+print(f"🎯 TOTAL REQUIRED CHARACTERS: {len(REQUIRED_CHARS)}")
+print("=" * 70)
+print()
 
 
 def build_font(output: str = "../true-type/erda-ccby-cjk.ttf") -> None:
