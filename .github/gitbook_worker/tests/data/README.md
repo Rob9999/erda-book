@@ -55,7 +55,53 @@ Erwartetes Ergebnis:
 
 ---
 
-### Weitere Szenarien (geplant)
+### `scenario-3-single-file/`
+**Einzelne Markdown-Datei ohne GitBook-Struktur**
 
-- `scenario-3-single-file/` - Einzelne Markdown-Datei ohne GitBook-Struktur
-- `scenario-4-folder-without-gitbook/` - Ordner ohne `book.json` (Fallback-Modus)
+Testet:
+- Single-File-Konvertierung (kein GitBook, kein Ordner)
+- Dateiname mit Sonderzeichen (&, \_, @, !)
+- 8 verschiedene Schriftsysteme (CJK, Kyrillisch, Arabisch, Griechisch, Hindi, Thai)
+- Extreme Tabellen-Tests (1 bis 100 Spalten, 5 bis 50 Zeilen)
+- Tabellen mit und ohne Überschriften
+- LaTeX-Sonderzeichen, Emojis, Mathematik
+- Code mit Unicode-Kommentaren
+
+Dateien:
+- `publish.yml` - Manifest für single file
+- `complex-doc_with-special&chars@2024!.md` - Komplexe Test-Datei
+
+Erwartetes Ergebnis:
+- ✅ PDF erfolgreich generiert
+- ✅ Alle Schriftsysteme korrekt dargestellt
+- ✅ Breite Tabellen automatisch skaliert
+- ✅ Lange Tabellen über mehrere Seiten
+- ✅ Exit Code 0
+
+---
+
+### `scenario-4-folder-without-gitbook/`
+**Ordner ohne book.json (Fallback-Modus)**
+
+Testet:
+- Ordner ohne `book.json` und ohne `SUMMARY.md`
+- Automatisches Sammeln aller `.md` Dateien
+- README.md Priorisierung (erste Datei)
+- Alphabetische Sortierung der anderen Dateien
+- Mehrsprachige Inhalte (5 Sprachen)
+- API-Dokumentation mit REST/WebSocket
+- Fortgeschrittene Themen (Microservices, Security, Monitoring)
+
+Dateien:
+- `publish.yml` - Manifest für Ordner
+- `docs/README.md` - Wird zuerst eingefügt
+- `docs/01-getting-started.md` - Getting Started Guide
+- `docs/02-api-reference.md` - API Documentation
+- `docs/03-advanced-topics.md` - Advanced Topics
+
+Erwartetes Ergebnis:
+- ✅ PDF erfolgreich generiert
+- ✅ README.md an erster Stelle
+- ✅ Dateien alphabetisch sortiert (01, 02, 03)
+- ✅ Seitenumbrüche zwischen Dateien
+- ✅ Exit Code 0

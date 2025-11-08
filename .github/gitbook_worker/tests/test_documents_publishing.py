@@ -150,6 +150,87 @@ def test_publishing_multi_gitbook(logger: logging.Logger):
     assert pdf_b.stat().st_size > 10240, "Project B PDF too small"
 
 
+def test_publishing_single_file_complex(logger: logging.Logger):
+    """Test publishing a single complex markdown file with special characters,
+    multiple languages, and extensive tables."""
+    # Use isolated test data for single-file scenario
+    test_data_dir = (
+        pathlib.Path(__file__).resolve().parent / "data" / "scenario-3-single-file"
+    )
+
+    # Use test output directory
+    publish_dir = GH_TEST_OUTPUT_DIR / "publish-single-file"
+
+    # Ensure publish directory exists
+    publish_dir.mkdir(parents=True, exist_ok=True)
+
+    # Load publish manifest from test data
+    manifest_path = test_data_dir / "publish.yml"
+    manifest = find_publish_manifest(str(manifest_path))
+    targets = get_publish_list(manifest)
+    assert targets, "Keine zu publizierenden Einträge (build: true)."
+
+    # Should have 1 entry (single file)
+    assert len(targets) == 1, f"Expected 1 document, got {len(targets)}"
+
+    # Resolve paths relative to test_data_dir
+    for entry in targets:
+        entry_path = pathlib.Path(entry["path"])
+        if not entry_path.is_absolute():
+            entry["path"] = str(test_data_dir / entry["path"])
+
+    # Build PDF
+    _build_pdf(targets, publish_dir, logger)
+
+    # Verify PDF was created
+    pdf_file = publish_dir / "test-single-file.pdf"
+    assert pdf_file.exists(), f"Single file PDF not found: {pdf_file}"
+
+    # Verify PDF has content (size > 50KB due to complex content)
+    assert pdf_file.stat().st_size > 51200, "Single file PDF too small"
+
+
+def test_publishing_folder_without_gitbook(logger: logging.Logger):
+    """Test publishing a folder without book.json (fallback mode)."""
+    # Use isolated test data for folder-without-gitbook scenario
+    test_data_dir = (
+        pathlib.Path(__file__).resolve().parent
+        / "data"
+        / "scenario-4-folder-without-gitbook"
+    )
+
+    # Use test output directory
+    publish_dir = GH_TEST_OUTPUT_DIR / "publish-folder-fallback"
+
+    # Ensure publish directory exists
+    publish_dir.mkdir(parents=True, exist_ok=True)
+
+    # Load publish manifest from test data
+    manifest_path = test_data_dir / "publish.yml"
+    manifest = find_publish_manifest(str(manifest_path))
+    targets = get_publish_list(manifest)
+    assert targets, "Keine zu publizierenden Einträge (build: true)."
+
+    # Should have 1 entry (folder)
+    assert len(targets) == 1, f"Expected 1 document, got {len(targets)}"
+
+    # Resolve paths relative to test_data_dir
+    for entry in targets:
+        entry_path = pathlib.Path(entry["path"])
+        if not entry_path.is_absolute():
+            entry["path"] = str(test_data_dir / entry["path"])
+
+    # Build PDF
+    _build_pdf(targets, publish_dir, logger)
+
+    # Verify PDF was created
+    pdf_file = publish_dir / "test-folder-fallback.pdf"
+    assert pdf_file.exists(), f"Folder fallback PDF not found: {pdf_file}"
+
+    # Verify PDF has content (size > 30KB)
+    assert pdf_file.stat().st_size > 30720, "Folder fallback PDF too small"
+
+
 def _build_pdf(
     publish_entries: List[Dict[str, Any]],
     publish_dir: pathlib.Path,
