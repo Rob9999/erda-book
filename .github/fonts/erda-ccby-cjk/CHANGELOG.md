@@ -5,7 +5,40 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [1.1.0] - 2025-11-08 - Sprint 1 Foundation & Critical Fixes
+## [1.1.0] - 2025-11-08 - Devanagari/Hindi Support
+
+### Added
+- **Devanagari (Hindi) Script Support** (`generator/devanagari.py`)
+  - 38 Devanagari characters (base + extended)
+  - Essential Hindi characters: ह, ि, न, ्, द, ी, य, ं
+  - Extended consonants and vowels for comprehensive coverage
+  - Combining marks support (vowel signs, anusvara, virama)
+  - CC BY 4.0 licensed 8×8 monospace bitmaps
+  
+- **Character Index Updates**
+  - Added Devanagari source to character index
+  - Updated statistics output to include Devanagari count
+  - Extended character lookup to support Hindi characters
+
+### Changed
+- **Font Size**: Increased from ~90 KB to 141 KB
+- **Character Count**: Expanded from 303 to 543 glyphs
+- **Character Sources**:
+  - Hanzi/Kanji: 137 → 206 (37.9%)
+  - Hangul: 91 → 124 (22.8%)
+  - Katakana: 27 → 84 (15.5%)
+  - Hiragana: 27 → 35 (6.4%)
+  - Devanagari: 0 → 38 (7.0%) **NEW**
+  - Punctuation: 11 → 46 (8.5%)
+  - Fallback: 10 (1.8%)
+
+### Fixed
+- Missing Devanagari characters in PDF builds
+- Font warnings for Hindi license translations
+
+---
+
+## [1.0.0] - 2025-11-08 - Sprint 1 Foundation & Critical Fixes
 
 ### Added
 - **Character Index System** (`generator/character_index.py`, 210 LOC)

@@ -37,6 +37,7 @@ from hangul import (
 from hanzi import HANZI_KANJI
 from punctuation import PUNCTUATION
 from hiragana import HIRAGANA
+from devanagari import DEVANAGARI, DEVANAGARI_EXTENDED
 from font_logger import FontBuildLogger
 
 # Import character index for fast O(1) lookups
@@ -255,6 +256,14 @@ for char in HIRAGANA.keys():
         REQUIRED_CHARS.append(char)
         hiragana_added += 1
 print(f"✓ After HIRAGANA: {len(REQUIRED_CHARS)} characters (+{hiragana_added})")
+
+# Source 4b: All explicitly defined DEVANAGARI (Hindi) characters
+devanagari_added = 0
+for char in list(DEVANAGARI.keys()) + list(DEVANAGARI_EXTENDED.keys()):
+    if char not in REQUIRED_CHARS:
+        REQUIRED_CHARS.append(char)
+        devanagari_added += 1
+print(f"✓ After DEVANAGARI: {len(REQUIRED_CHARS)} characters (+{devanagari_added})")
 
 # Source 5: All explicitly defined KATAKANA characters
 katakana_added = 0

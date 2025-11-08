@@ -26,6 +26,7 @@ from katakana import (
 from hiragana import HIRAGANA
 from hanzi import HANZI_KANJI
 from punctuation import PUNCTUATION
+from devanagari import DEVANAGARI, DEVANAGARI_EXTENDED
 
 
 @dataclass
@@ -34,8 +35,12 @@ class CharacterInfo:
 
     char: str
     bitmap: List[int]
-    source: str  # "katakana", "hiragana", "hanzi", "punctuation", "hangul"
-    sub_source: Optional[str] = None  # e.g., "dakuten", "handakuten", "small"
+    source: (
+        str  # "katakana", "hiragana", "hanzi", "punctuation", "hangul", "devanagari"
+    )
+    sub_source: Optional[str] = (
+        None  # e.g., "dakuten", "handakuten", "small", "extended"
+    )
 
 
 class CharacterIndex:
@@ -96,6 +101,18 @@ class CharacterIndex:
         for char, bitmap in PUNCTUATION.items():
             self._index[char] = CharacterInfo(
                 char=char, bitmap=bitmap, source="punctuation"
+            )
+
+        # Index Devanagari (base)
+        for char, bitmap in DEVANAGARI.items():
+            self._index[char] = CharacterInfo(
+                char=char, bitmap=bitmap, source="devanagari"
+            )
+
+        # Index Devanagari (extended)
+        for char, bitmap in DEVANAGARI_EXTENDED.items():
+            self._index[char] = CharacterInfo(
+                char=char, bitmap=bitmap, source="devanagari", sub_source="extended"
             )
 
     def lookup(self, char: str) -> Optional[CharacterInfo]:
@@ -221,6 +238,7 @@ if __name__ == "__main__":
     print(f"  Katakana:        {stats.get('katakana', 0)}")
     print(f"  Hanzi/Kanji:     {stats.get('hanzi', 0)}")
     print(f"  Punctuation:     {stats.get('punctuation', 0)}")
+    print(f"  Devanagari:      {stats.get('devanagari', 0)}")
 
     # Test lookups
     print("\nTesting lookups:")
