@@ -108,6 +108,48 @@ def test_publishing_using_publish_manifest(logger: logging.Logger):
     _build_pdf(targets, publish_dir, logger)
 
 
+def test_publishing_multi_gitbook(logger: logging.Logger):
+    """Test publishing multiple GitBooks from a single manifest."""
+    # Use isolated test data for multi-gitbook scenario
+    test_data_dir = (
+        pathlib.Path(__file__).resolve().parent / "data" / "scenario-2-multi-gitbook"
+    )
+
+    # Use test output directory
+    publish_dir = GH_TEST_OUTPUT_DIR / "publish-multi-gitbook"
+
+    # Ensure publish directory exists
+    publish_dir.mkdir(parents=True, exist_ok=True)
+
+    # Load publish manifest from test data
+    manifest_path = test_data_dir / "publish.yml"
+    manifest = find_publish_manifest(str(manifest_path))
+    targets = get_publish_list(manifest)
+    assert targets, "Keine zu publizierenden Einträge (build: true)."
+
+    # Should have 2 entries (project-a and project-b)
+    assert len(targets) == 2, f"Expected 2 documents, got {len(targets)}"
+
+    # Resolve paths relative to test_data_dir
+    for entry in targets:
+        entry_path = pathlib.Path(entry["path"])
+        if not entry_path.is_absolute():
+            entry["path"] = str(test_data_dir / entry["path"])
+
+    # Build PDFs
+    _build_pdf(targets, publish_dir, logger)
+
+    # Verify both PDFs were created
+    pdf_a = publish_dir / "test-project-a.pdf"
+    pdf_b = publish_dir / "test-project-b.pdf"
+    assert pdf_a.exists(), f"Project A PDF not found: {pdf_a}"
+    assert pdf_b.exists(), f"Project B PDF not found: {pdf_b}"
+
+    # Verify PDFs have content (size > 10KB)
+    assert pdf_a.stat().st_size > 10240, "Project A PDF too small"
+    assert pdf_b.stat().st_size > 10240, "Project B PDF too small"
+
+
 def _build_pdf(
     publish_entries: List[Dict[str, Any]],
     publish_dir: pathlib.Path,

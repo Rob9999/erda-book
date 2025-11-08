@@ -32,8 +32,30 @@ Erwartetes Ergebnis:
 
 ---
 
+### `scenario-2-multi-gitbook/`
+**Mehrere GitBooks in einem Repository**
+
+Testet:
+- Zwei separate GitBook-Projekte (project-a, project-b)
+- Jedes Projekt mit eigener `book.json` und `content/`
+- Array von Dokumenten in `publish.yml`
+- Separate PDF-Generierung pro Projekt
+- Keine Vermischung der Inhalte
+
+Dateien:
+- `publish.yml` - Manifest mit 2 Dokumenten
+- `project-a/book.json` + `content/` - Backend-fokussiertes GitBook
+- `project-b/book.json` + `content/` - Frontend-fokussiertes GitBook
+
+Erwartetes Ergebnis:
+- ✅ Zwei separate PDFs (`test-project-a.pdf`, `test-project-b.pdf`)
+- ✅ Jedes PDF enthält nur eigene Inhalte
+- ✅ Korrekte Titel aus jeweiliger `book.json`
+- ✅ Exit Code 0
+
+---
+
 ### Weitere Szenarien (geplant)
 
-- `scenario-2-multi-gitbook/` - Mehrere GitBooks in einem Repository
 - `scenario-3-single-file/` - Einzelne Markdown-Datei ohne GitBook-Struktur
 - `scenario-4-folder-without-gitbook/` - Ordner ohne `book.json` (Fallback-Modus)
