@@ -142,6 +142,17 @@
             "console": "integratedTerminal",
             "justMyCode": false,
             "envFile": "${workspaceFolder}/.env"
-        }
+        },
+        {
+            "name": "Build Font (with cache refresh)",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/.github/fonts/erda-ccby-cjk/generator/build_ccby_cjk_font.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}/.github/fonts/erda-ccby-cjk/generator",
+            "args": [
+                "--refresh-cache"
+            ]
+        },
     ]
 }
