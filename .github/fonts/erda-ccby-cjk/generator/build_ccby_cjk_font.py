@@ -39,6 +39,9 @@ from punctuation import PUNCTUATION
 from hiragana import HIRAGANA
 from font_logger import FontBuildLogger
 
+# Import character index for fast O(1) lookups
+from character_index import get_character_index
+
 EM = 1000
 PIXELS = 8
 CELL = EM // (PIXELS + 2)
@@ -320,40 +323,24 @@ def build_font(output: str = "../true-type/erda-ccby-cjk.ttf") -> None:
             logger.track_character(char, source)
             logger.track_glyph(name, width)
 
+        # Initialize character index for fast O(1) lookups
+        char_index = get_character_index()
+
         for char in REQUIRED_CHARS:
-            if char in KATAKANA_BASE:
-                add_char(char, KATAKANA_BASE[char], "katakana")
+            # Try fast index lookup first (O(1) instead of O(n))
+            char_info = char_index.lookup(char)
+            if char_info:
+                add_char(char, char_info.bitmap, char_info.source)
                 continue
-            if char in SMALL_KATAKANA:
-                add_char(char, SMALL_KATAKANA[char], "katakana")
-                continue
-            if char in DAKUTEN_COMBOS:
-                base = KATAKANA_BASE[DAKUTEN_COMBOS[char]]
-                add_char(char, _merge_bitmaps(base, DAKUTEN), "katakana")
-                continue
-            if char in HANDAKUTEN_COMBOS:
-                base = KATAKANA_BASE[HANDAKUTEN_COMBOS[char]]
-                add_char(char, _merge_bitmaps(base, HANDAKUTEN), "katakana")
-                continue
-            if char in PUNCTUATION:
-                add_char(char, PUNCTUATION[char], "punctuation")
-                continue
-            if char == "ー":
-                add_char(char, KATAKANA_BASE["ー"], "katakana")
-                continue
-            # Check HANZI_KANJI BEFORE the CJK range fallback
-            if char in HANZI_KANJI:
-                add_char(char, HANZI_KANJI[char], "hanzi")
-                continue
+
+            # Handle Hangul syllables (algorithmic generation)
             code = ord(char)
             if 0xAC00 <= code <= 0xD7A3:
                 add_char(char, _bitmap_for_hangul(char), "hangul")
                 continue
-            # Hiragana range (U+3040 - U+309F)
+
+            # Hiragana range fallback (U+3040 - U+309F)
             if 0x3040 <= code <= 0x309F:
-                if char in HIRAGANA:
-                    add_char(char, HIRAGANA[char], "hiragana")
-                    continue
                 # Simple placeholder for Hiragana not explicitly defined
                 hiragana_placeholder = [
                     "..####..",
