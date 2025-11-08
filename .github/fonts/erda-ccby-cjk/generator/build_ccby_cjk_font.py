@@ -635,8 +635,9 @@ def refresh_font_cache_windows() -> bool:
     print("🔄 Refreshing Windows font cache...")
     success_count = 0
 
+    # Method 1: Broadcast WM_FONTCHANGE message
+    print("  1️⃣ Broadcasting WM_FONTCHANGE...")
     try:
-        # Method 1: Broadcast WM_FONTCHANGE message
         import ctypes
         from ctypes import wintypes
 
@@ -653,15 +654,45 @@ def refresh_font_cache_windows() -> bool:
         HWND_BROADCAST = 0xFFFF
         WM_FONTCHANGE = 0x001D
 
-        result = SendMessageW(HWND_BROADCAST, WM_FONTCHANGE, 0, 0)
-        print(f"  ✓ WM_FONTCHANGE broadcast sent (result: {result})")
-        success_count += 1
+        # Use SendMessageTimeout to avoid hanging
+        SendMessageTimeoutW = user32.SendMessageTimeoutW
+        SendMessageTimeoutW.argtypes = [
+            wintypes.HWND,
+            wintypes.UINT,
+            wintypes.WPARAM,
+            wintypes.LPARAM,
+            wintypes.UINT,  # flags
+            wintypes.UINT,  # timeout
+            ctypes.POINTER(wintypes.DWORD),  # result
+        ]
+        SendMessageTimeoutW.restype = wintypes.LPARAM
+
+        SMTO_ABORTIFHUNG = 0x0002
+        result_ptr = wintypes.DWORD()
+
+        # Timeout after 2 seconds
+        ret = SendMessageTimeoutW(
+            HWND_BROADCAST,
+            WM_FONTCHANGE,
+            0,
+            0,
+            SMTO_ABORTIFHUNG,
+            2000,  # 2 second timeout
+            ctypes.byref(result_ptr),
+        )
+
+        if ret != 0:
+            print(f"     ✓ WM_FONTCHANGE broadcast sent (timeout=2s)")
+            success_count += 1
+        else:
+            print(f"     ⚠ WM_FONTCHANGE timed out (some apps unresponsive)")
 
     except Exception as e:
-        print(f"  ✗ WM_FONTCHANGE broadcast failed: {e}")
+        print(f"     ✗ WM_FONTCHANGE broadcast failed: {e}")
 
+    # Method 2: Delete Windows font cache files
+    print("  2️⃣ Deleting font cache files...")
     try:
-        # Method 2: Delete Windows font cache files
         import glob
 
         cache_patterns = [
@@ -703,22 +734,23 @@ def refresh_font_cache_windows() -> bool:
                         )
 
         if deleted_count > 0:
-            print(f"  ✓ Deleted {deleted_count} cache file(s)")
+            print(f"     ✓ Deleted {deleted_count} cache file(s)")
             success_count += 1
         else:
-            print(f"  ℹ No cache files found (may already be clean)")
+            print(f"     ℹ No cache files found (may already be clean)")
 
     except Exception as e:
-        print(f"  ⚠ Cache file deletion failed: {e}")
+        print(f"     ⚠ Cache file deletion failed: {e}")
 
+    # Method 3: Restart FontCache service (requires admin)
+    print("  3️⃣ Restarting FontCache service...")
     try:
-        # Method 3: Restart FontCache service (requires admin)
         import ctypes
 
         is_admin = ctypes.windll.shell32.IsUserAnAdmin() != 0
 
         if is_admin:
-            print(f"  🔧 Restarting FontCache service...")
+            print(f"     🔧 Admin rights detected, restarting service...")
 
             # Check if service is running first
             check_result = subprocess.run(
@@ -733,70 +765,85 @@ def refresh_font_cache_windows() -> bool:
             service_running = "RUNNING" in check_result.stdout
 
             if service_running:
-                # Stop service
-                result_stop = subprocess.run(
-                    ["net", "stop", "FontCache"],
+                # Stop service with aggressive timeout
+                try:
+                    result_stop = subprocess.run(
+                        ["net", "stop", "FontCache"],
+                        capture_output=True,
+                        text=True,
+                        encoding="utf-8",
+                        errors="replace",
+                        timeout=5,  # Reduced timeout - fail fast
+                    )
+                    if result_stop.returncode == 0:
+                        print(f"        ✓ FontCache service stopped")
+                    time.sleep(0.5)  # Reduced wait time
+                except subprocess.TimeoutExpired:
+                    print(
+                        f"        ⚠ FontCache stop timed out (5s) - continuing anyway"
+                    )
+
+            # Start service with aggressive timeout
+            print(f"        🔄 Starting FontCache service...")
+            try:
+                result_start = subprocess.run(
+                    ["net", "start", "FontCache"],
                     capture_output=True,
                     text=True,
                     encoding="utf-8",
                     errors="replace",
-                    timeout=10,
+                    timeout=5,  # Reduced timeout - fail fast
                 )
-                if result_stop.returncode == 0:
-                    print(f"  ✓ FontCache service stopped")
-                time.sleep(1)
-
-            # Start service
-            result_start = subprocess.run(
-                ["net", "start", "FontCache"],
-                capture_output=True,
-                text=True,
-                encoding="utf-8",
-                errors="replace",
-                timeout=10,
-            )
-
-            # Check for "already started" error (not a real error)
-            if result_start.returncode == 0:
-                print(f"  ✓ FontCache service started")
+            except subprocess.TimeoutExpired:
+                print(f"        ⚠ FontCache start timed out (5s) - continuing anyway")
+                # Service may still start in background - this is OK
                 success_count += 1
-            elif result_start.returncode == 2 and "2182" in result_start.stderr:
-                # Service already running - this is fine
-                print(f"  ✓ FontCache service already running")
-                success_count += 1
+                # DON'T return here - continue to Method 4
             else:
-                stderr_msg = (
-                    result_start.stderr.strip()
-                    if result_start.stderr
-                    else "Unknown error"
-                )
-                print(f"  ⚠ FontCache restart issue: {stderr_msg}")
+                # Check for "already started" error (not a real error)
+                if result_start.returncode == 0:
+                    print(f"        ✓ FontCache service started")
+                    success_count += 1
+                elif result_start.returncode == 2 and "2182" in result_start.stderr:
+                    # Service already running - this is fine
+                    print(f"        ✓ FontCache service already running")
+                    success_count += 1
+                else:
+                    stderr_msg = (
+                        result_start.stderr.strip()
+                        if result_start.stderr
+                        else "Unknown error"
+                    )
+                    print(f"        ⚠ FontCache restart issue: {stderr_msg}")
         else:
-            print(f"  ℹ Not admin - skipping FontCache service restart")
-            print(f"    (Run as Administrator for full cache refresh)")
+            print(f"     ℹ Not admin - skipping FontCache service restart")
+            print(f"        (Run as Administrator for full cache refresh)")
 
     except Exception as e:
-        print(f"  ⚠ FontCache service restart failed: {e}")
+        print(f"     ⚠ FontCache service restart failed: {e}")
 
+    # Method 4: Run fc-cache if available (for apps using fontconfig)
+    print("  4️⃣ Running fc-cache...")
     try:
-        # Method 4: Run fc-cache if available (for apps using fontconfig)
         result = subprocess.run(
             ["fc-cache", "-f", "-v"],
             capture_output=True,
             text=True,
             encoding="utf-8",
             errors="replace",
-            timeout=30,
+            timeout=10,  # Reduced from 30s to 10s
         )
         if result.returncode == 0:
-            print("  ✓ fc-cache executed successfully")
+            print("     ✓ fc-cache executed successfully")
             success_count += 1
         else:
-            print("  ℹ fc-cache not available (normal on Windows)")
+            print("     ℹ fc-cache not available (normal on Windows)")
+    except subprocess.TimeoutExpired:
+        print("     ⚠ fc-cache timed out (10s) - continuing anyway")
     except FileNotFoundError:
-        print("  ℹ fc-cache not found (not required on Windows)")
+        print("     ℹ fc-cache not found (not required on Windows)")
     except Exception as e:
-        print(f"  ⚠ fc-cache execution failed: {e}")
+        print(f"     ⚠ fc-cache execution failed: {e}")
 
     # Summary
     print(f"\n📊 Cache refresh summary: {success_count}/4 methods succeeded")
@@ -1098,6 +1145,13 @@ Examples:
         print("=" * 60)
         print()
 
+        # Refresh cache BEFORE building if requested
+        # This ensures the new font will be cached cleanly
+        if args.refresh_cache:
+            print("🧹 Clearing font cache before build...")
+            refresh_font_cache()
+            print()
+
         # Build the font
         print("🔨 Building font...")
         output_path = build_font(args.output)
@@ -1110,11 +1164,6 @@ Examples:
             else:
                 print("⚠ Font installation failed")
                 print()
-
-        # Refresh cache if requested
-        if args.refresh_cache:
-            refresh_font_cache()
-            print()
 
         print("=" * 60)
         print("✓ Font build completed successfully")

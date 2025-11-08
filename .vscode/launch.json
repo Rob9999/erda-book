@@ -154,5 +154,14 @@
                 "--refresh-cache"
             ]
         },
+        {
+            "name": "Build Font (no cache refresh)",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/.github/fonts/erda-ccby-cjk/generator/build_ccby_cjk_font.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}/.github/fonts/erda-ccby-cjk/generator",
+            "args": []
+        },
     ]
 }
