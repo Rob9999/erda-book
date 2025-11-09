@@ -20073,7 +20073,7 @@ _Dieses Compendium bietet einen fokussierten Überblick über das ERDA-Buch in *
 * **Staatenarchitektur** (Konzentrische Kreise)
 * **Fahrplan Europa 2.0** und **Institut für demokratische Resilienz**
 * **Risiokobetrachtung und strategische Resilienz**
-* **Lizenz & Offenheit**
+* **Lizenz und Offenheit**
 
 > Kern: Praktische Arbeitsmittel, Checklisten, Glossar und interaktive Elemente zur direkten Umsetzung.
 
