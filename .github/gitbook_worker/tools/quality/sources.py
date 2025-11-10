@@ -7,7 +7,16 @@ import csv
 import re
 from dataclasses import dataclass
 from pathlib import Path
-from typing import Dict, Iterable, Iterator, List, Mapping, MutableMapping, Optional, Sequence
+from typing import (
+    Dict,
+    Iterable,
+    Iterator,
+    List,
+    Mapping,
+    MutableMapping,
+    Optional,
+    Sequence,
+)
 
 from tools.logging_config import get_logger
 
@@ -66,7 +75,9 @@ def get_header_pattern(language: str = "de", max_level: int = 6) -> re.Pattern[s
     unique_words = [w for w in words if not (w in seen or seen.add(w))]
     escaped = "|".join(re.escape(word) for word in unique_words)
     numbering = r"(?:\d+(?:\.\d+)*\.?)?"
-    return re.compile(rf"^(#{{1,{max_level}}})\s*{numbering}\s*(?:{escaped})", re.IGNORECASE)
+    return re.compile(
+        rf"^(#{{1,{max_level}}})\s*{numbering}\s*(?:{escaped})", re.IGNORECASE
+    )
 
 
 def get_list_item_pattern() -> re.Pattern[str]:
@@ -115,7 +126,9 @@ def extract_sources_from_file(
         if in_section and line.startswith("#"):
             level = len(line) - len(line.lstrip("#"))
             if current_level is not None and level <= current_level:
-                logger.debug("Leaving sources section in %s at line %s", md_file, lineno)
+                logger.debug(
+                    "Leaving sources section in %s at line %s", md_file, lineno
+                )
                 break
 
         list_match = list_pattern.match(line)
@@ -174,7 +187,9 @@ def write_sources_csv(entries: Iterable[SourceEntry], destination: Path) -> None
     destination.parent.mkdir(parents=True, exist_ok=True)
     with destination.open("w", encoding="utf-8", newline="") as csvfile:
         writer = csv.writer(csvfile)
-        writer.writerow(["File", "Name", "Link", "Numbering", "Comment", "Kind", "LineNo", "Line"])
+        writer.writerow(
+            ["File", "Name", "Link", "Numbering", "Comment", "Kind", "LineNo", "Line"]
+        )
         for entry in entries:
             writer.writerow(entry.to_csv_row())
     logger.info("Sources extracted to %s", destination)
@@ -215,10 +230,29 @@ def extract_to_csv(
 
 
 def _parse_args(argv: Optional[Sequence[str]] = None) -> argparse.Namespace:
-    parser = argparse.ArgumentParser(description="Extract source references from Markdown files.")
-    parser.add_argument("markdown", nargs="+", type=Path, help="Markdown files to scan.")
-    parser.add_argument("-o", "--output", required=True, type=Path, help="Destination CSV file.")
-    parser.add_argument("-l", "--language", default="de", help="Language used for the source headings (default: de).")
+    parser = argparse.ArgumentParser(
+        description="Extract source references from Markdown files."
+    )
+    parser.add_argument(
+        "markdown", nargs="*", type=Path, help="Markdown files to scan."
+    )
+    parser.add_argument(
+        "--root",
+        type=Path,
+        help=(
+            "Recursively discover Markdown files below this directory. "
+            "Positional Markdown arguments are merged with the discovered files."
+        ),
+    )
+    parser.add_argument(
+        "-o", "--output", required=True, type=Path, help="Destination CSV file."
+    )
+    parser.add_argument(
+        "-l",
+        "--language",
+        default="de",
+        help="Language used for the source headings (default: de).",
+    )
     parser.add_argument(
         "--max-level",
         type=int,
@@ -230,7 +264,44 @@ def _parse_args(argv: Optional[Sequence[str]] = None) -> argparse.Namespace:
 
 def main(argv: Optional[Sequence[str]] = None) -> int:
     args = _parse_args(argv)
-    extract_to_csv(args.markdown, args.output, language=args.language, max_level=args.max_level)
+
+    md_files: List[Path] = []
+
+    if args.markdown:
+        explicit_files = [path for path in args.markdown if path.is_file()]
+        skipped = set(args.markdown) - set(explicit_files)
+        for missing in skipped:
+            logger.warning("Skipping missing file: %s", missing)
+        md_files.extend(explicit_files)
+
+    if args.root:
+        root_path = args.root
+        if not root_path.exists():
+            logger.warning("Root path does not exist: %s", root_path)
+        else:
+            discovered = sorted(
+                path for path in root_path.rglob("*.md") if path.is_file()
+            )
+            logger.info(
+                "Discovered %s Markdown files under %s", len(discovered), root_path
+            )
+            md_files.extend(discovered)
+
+    # Deduplicate while preserving order (explicit files first, then discovered files).
+    seen: set[Path] = set()
+    ordered: List[Path] = []
+    for candidate in md_files:
+        if candidate not in seen:
+            seen.add(candidate)
+            ordered.append(candidate)
+
+    if not ordered:
+        logger.error("No Markdown files provided or discovered. Nothing to do.")
+        return 1
+
+    extract_to_csv(
+        ordered, args.output, language=args.language, max_level=args.max_level
+    )
     return 0
 
 
