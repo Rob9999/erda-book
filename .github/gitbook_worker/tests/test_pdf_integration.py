@@ -1,12 +1,15 @@
+"""Integration tests for PDF generation using the production toolchain.
+
+These tests use the REAL publisher._run_pandoc function (no mocks) to verify
+that PDF generation works correctly with the production code path, including
+proper LaTeX escaping, font handling, and table processing.
+"""
+
 import pathlib
 import shutil
-import subprocess
-import sys
 
 import pytest
 from tools.converter import convert_assets
-
-# Import von der Root des .github-Pakets
 from tools.publishing import publisher
 
 from . import GH_TEST_LOGS_DIR, GH_TEST_OUTPUT_DIR
@@ -16,63 +19,23 @@ pytestmark = [
         shutil.which("pandoc") is None or shutil.which("lualatex") is None,
         reason="pandoc or lualatex not installed",
     ),
+    pytest.mark.integration,  # Mark as integration tests
     pytest.mark.slow,  # These tests involve PDF generation
 ]
 
 
-def _escape_latex_simple(value: str) -> str:
-    """Escape LaTeX special characters for use in Pandoc -V variables.
-
-    Simplified version for test mock to handle special characters like &, %, $, #, _, {, }.
-    """
-    if not value:
-        return value
-
-    # Replace backslash first
-    esc = value.replace("\\", "\\textbackslash{}")
-
-    # Replace other special characters
-    replacements = {
-        "&": r"\&",
-        "%": r"\%",
-        "$": r"\$",
-        "#": r"\#",
-        "_": r"\_",
-        "{": r"\{",
-        "}": r"\}",
-        "~": r"\textasciitilde{}",
-        "^": r"\textasciicircum{}",
-    }
-
-    for k, v in replacements.items():
-        esc = esc.replace(k, v)
-
-    return esc
-
-
-def _run_lualatex(
-    md_path: str,
-    pdf_out: str,
-    add_toc: bool = False,
-    title: str | None = None,
-    resource_paths: list[str] | None = None,
-    **kwargs,
-) -> None:
-    """Mock for _run_pandoc that uses lualatex directly."""
-    cmd = ["pandoc", md_path, "-o", pdf_out, "--pdf-engine", "lualatex"]
-    if add_toc:
-        cmd.append("--toc")
-    if title:
-        # Escape LaTeX special characters in title to prevent LaTeX errors
-        safe_title = _escape_latex_simple(title)
-        cmd.extend(["-V", f"title={safe_title}"])
-    if resource_paths:
-        cmd.extend(["--resource-path", ":".join(resource_paths)])
-    subprocess.run(cmd, check=True)
+# ============================================================================
+# Integration Tests - Using Production Toolchain
+# ============================================================================
 
 
 def test_end_to_end_pdf_generation(tmp_path, monkeypatch):
-    monkeypatch.setattr(publisher, "_run_pandoc", _run_lualatex)
+    """Test end-to-end PDF generation with the production toolchain.
+
+    This test uses the real publisher._run_pandoc (no mocks) to verify
+    that PDF generation works correctly with the production code path,
+    including CSV conversion and table handling.
+    """
     data_dir = pathlib.Path(__file__).parent / "data"
     complex_md = data_dir / "evol00-decks-000-015-r-korr63-roehrenmodell-exakt-sli.md"
     csv_path = data_dir / "sample.csv"
@@ -80,15 +43,19 @@ def test_end_to_end_pdf_generation(tmp_path, monkeypatch):
     template_dir = tmp_path / "templates"
     template_dir.mkdir()
     (template_dir / "table.md").write_text("{table}", encoding="utf-8")
+
+    # Temporarily override template directory for this test
     monkeypatch.setattr(convert_assets, "TEMPLATES", template_dir)
     convert_assets.convert_csv(csv_path, assets_dir)
     generated_md = assets_dir / "tables" / "sample.md"
     assert "\\_" in generated_md.read_text()
+
     docs_dir = tmp_path / "docs"
     docs_dir.mkdir()
     shutil.copy(complex_md, docs_dir / "complex.md")
     shutil.copy(data_dir / "sample.md", docs_dir / "sample.md")
     shutil.copy(generated_md, docs_dir / "table.md")
+
     publish_dir = tmp_path / "publish"
     success, error = publisher.build_pdf(
         str(docs_dir), "out.pdf", typ="folder", publish_dir=str(publish_dir)
@@ -99,15 +66,14 @@ def test_end_to_end_pdf_generation(tmp_path, monkeypatch):
     assert pdf_path.stat().st_size > 0
 
 
-def test_documents_folder_to_pdf(tmp_path, monkeypatch, test_content_root):
-    """Test PDF generation from test scenario markdown files.
+def test_documents_folder_to_pdf(tmp_path, test_content_root):
+    """Test PDF generation from test scenario markdown files with production toolchain.
 
-    This test uses the test_content_root fixture to use controlled test data
-    from the scenario-1-single-gitbook test scenario instead of the full
-    repository content.
+    This test uses the REAL publisher._run_pandoc function (no mocks) to verify
+    that PDF generation works correctly with titles containing special characters
+    like & (ampersand), %, $, etc. The production code uses a LaTeX header file
+    with proper escaping via \\texorpdfstring{}.
     """
-    monkeypatch.setattr(publisher, "_run_pandoc", _run_lualatex)
-
     # Use test scenario content instead of repo content
     content_root = test_content_root / "scenario-1-single-gitbook" / "content"
 
