@@ -24,6 +24,11 @@ import yaml
 
 from tools.logging_config import get_logger
 from tools.utils import git as git_utils
+from tools.utils.smart_manifest import (
+    SmartManifestError,
+    detect_repo_root,
+    resolve_manifest,
+)
 
 LOGGER = get_logger(__name__)
 
@@ -305,14 +310,16 @@ def _detect_repo_visibility(explicit: str) -> str:
 
 
 def _resolve_paths(root: Path, manifest: Path | None) -> tuple[Path, Path]:
-    repo_root = root.resolve()
-    if manifest is None:
-        for candidate in (repo_root / "publish.yml", repo_root / "publish.yaml"):
-            if candidate.exists():
-                return repo_root, candidate.resolve()
-        raise FileNotFoundError("publish.yml oder publish.yaml nicht gefunden")
-    manifest_path = manifest if manifest.is_absolute() else (repo_root / manifest)
-    return repo_root, manifest_path.resolve()
+    repo_root = detect_repo_root(root.resolve())
+    try:
+        manifest_path = resolve_manifest(
+            explicit=manifest,
+            cwd=Path.cwd(),
+            repo_root=repo_root,
+        )
+    except SmartManifestError as exc:
+        raise FileNotFoundError(str(exc)) from exc
+    return repo_root, manifest_path
 
 
 def _split_publisher_args(values: Iterable[str] | None) -> tuple[str, ...]:

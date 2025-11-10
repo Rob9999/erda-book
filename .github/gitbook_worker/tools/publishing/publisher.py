@@ -38,6 +38,11 @@ from functools import lru_cache
 from urllib.parse import urlparse
 
 from tools.logging_config import get_logger
+from tools.utils.smart_manifest import (
+    SmartManifestError,
+    detect_repo_root,
+    resolve_manifest,
+)
 
 from tools.publishing.font_config import get_font_config
 from tools.publishing.markdown_combiner import (
@@ -946,13 +951,14 @@ def prepareYAML() -> None:
 
 
 def find_publish_manifest(explicit: Optional[str] = None) -> str:
-    if explicit and os.path.exists(explicit):
-        return explicit
-    for name in ("publish.yml", "publish.yaml"):
-        if os.path.exists(name):
-            return name
-    logger.error("publish.yml|yaml nicht im Repo-Root gefunden.")
-    sys.exit(2)
+    cwd = Path.cwd()
+    repo_root = detect_repo_root(cwd)
+    try:
+        manifest_path = resolve_manifest(explicit=explicit, cwd=cwd, repo_root=repo_root)
+    except SmartManifestError as exc:
+        logger.error(str(exc))
+        sys.exit(2)
+    return str(manifest_path)
 
 
 def _load_yaml(path: str) -> Dict[str, Any]:

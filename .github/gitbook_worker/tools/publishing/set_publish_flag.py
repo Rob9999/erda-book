@@ -20,9 +20,15 @@ import os
 import posixpath
 import subprocess
 import sys
+from pathlib import Path
 from typing import Any, Dict, List, Tuple
 
 from tools.logging_config import get_logger
+from tools.utils.smart_manifest import (
+    SmartManifestError,
+    detect_repo_root,
+    resolve_manifest,
+)
 
 logger = get_logger(__name__)
 
@@ -41,15 +47,15 @@ def run(cmd: List[str]) -> Tuple[int, str, str]:
     return p.returncode, out, err
 
 
-def find_publish_file(explicit: str = None) -> str:
-    if explicit and os.path.isfile(explicit):
-        return explicit
-    for name in ("publish.yaml", "publish.yml"):
-        candidate = os.path.join(os.getcwd(), name)
-        if os.path.isfile(candidate):
-            return candidate
-    logger.error("publish.yaml oder publish.yml im Repo-Root nicht gefunden.")
-    sys.exit(3)
+def find_publish_file(explicit: str = None) -> Path:
+    cwd = Path.cwd()
+    repo_root = detect_repo_root(cwd)
+    try:
+        manifest_path = resolve_manifest(explicit=explicit, cwd=cwd, repo_root=repo_root)
+    except SmartManifestError as exc:
+        logger.error(str(exc))
+        sys.exit(3)
+    return manifest_path
 
 
 def normalize_posix(path_str: str) -> str:
@@ -65,20 +71,6 @@ def get_entry_type(entry: Dict[str, Any]) -> str:
     if isinstance(value, str):
         return value.strip().lower()
     return str(value).strip().lower()
-
-
-def detect_repo_root(start_dir: str) -> str:
-    try:
-        result = subprocess.run(
-            ["git", "-C", start_dir, "rev-parse", "--show-toplevel"],
-            check=True,
-            capture_output=True,
-            text=True,
-        )
-        candidate = result.stdout.strip()
-        return candidate or os.path.abspath(start_dir)
-    except Exception:
-        return os.path.abspath(start_dir)
 
 
 def resolve_entry_path(entry_path: str, publish_dir: str, repo_root: str) -> str:
@@ -235,8 +227,8 @@ def main():
     args = parser.parse_args()
 
     publish_path = find_publish_file(args.publish_file)
-    publish_dir = os.path.dirname(publish_path)
-    repo_root = detect_repo_root(publish_dir)
+    publish_dir = publish_path.parent
+    repo_root_path = detect_repo_root(publish_dir)
 
     changed_files = git_changed_files(args.commit, args.base)
     if args.debug:
@@ -245,7 +237,7 @@ def main():
         for c in changed_files:
             logger.debug("  - %s", c)
 
-    data = load_publish(publish_path)
+    data = load_publish(str(publish_path))
     entries = data["publish"]
 
     touched_entries = []
@@ -256,7 +248,7 @@ def main():
             logger.warning("publish[%d] ohne 'path' – übersprungen.", idx)
             continue
 
-        resolved_ep = resolve_entry_path(ep, publish_dir, repo_root)
+        resolved_ep = resolve_entry_path(ep, str(publish_dir), str(repo_root_path))
         hit = any(is_match(resolved_ep, etype, cf) for cf in changed_files)
 
         # Baue altes/newes Flag
@@ -283,7 +275,7 @@ def main():
     if args.dry_run:
         logger.info("[DRY-RUN] Änderungen würden geschrieben werden.")
     else:
-        save_publish(publish_path, data)
+        save_publish(str(publish_path), data)
 
     # Menschlich lesbares Log
     logger.info("publish file: %s", publish_path)

@@ -40,11 +40,11 @@ from pathlib import Path
 from typing import Iterable, Mapping, MutableMapping, Sequence
 
 from tools.logging_config import get_logger
+from tools.utils.smart_manifest import detect_repo_root, resolve_manifest
 
 LOGGER = get_logger(__name__)
 
 SCRIPT_DIR = Path(__file__).resolve().parent
-DEFAULT_MANIFEST_NAMES = ("publish.yml", "publish.yaml")
 
 
 @dataclass(frozen=True)
@@ -102,19 +102,10 @@ def _run_command(
     return result
 
 
-def _detect_manifest(root: Path, explicit: Path | None) -> Path:
-    if explicit:
-        return explicit if explicit.is_absolute() else (root / explicit).resolve()
-    for name in DEFAULT_MANIFEST_NAMES:
-        candidate = root / name
-        if candidate.exists():
-            return candidate.resolve()
-    raise FileNotFoundError(f"Kein publish.yml|yaml im Verzeichnis {root} gefunden.")
-
-
 def _resolve_options(args: argparse.Namespace) -> PipelineOptions:
-    root = args.root.resolve()
-    manifest = _detect_manifest(root, args.manifest)
+    raw_root = args.root.resolve()
+    root = detect_repo_root(raw_root)
+    manifest = resolve_manifest(explicit=args.manifest, cwd=Path.cwd(), repo_root=root)
     publisher_args = tuple(args.publisher_args or ())
     return PipelineOptions(
         root=root,
@@ -221,7 +212,9 @@ def parse_args(argv: Iterable[str] | None = None) -> argparse.Namespace:
         description="Run the ERDA selective publishing pipeline",
     )
     parser.add_argument(
-        "--root", type=Path, help="Repository root (default: current working directory)"
+        "--root",
+        type=Path,
+        help="Repository root (default: automatisch über smart manifest Regeln)",
     )
     parser.add_argument(
         "--manifest",
@@ -275,7 +268,9 @@ def parse_args(argv: Iterable[str] | None = None) -> argparse.Namespace:
     )
     namespace = parser.parse_args(list(argv) if argv is not None else None)
     if namespace.root is None:
-        namespace.root = Path.cwd()
+        namespace.root = detect_repo_root(Path.cwd())
+    else:
+        namespace.root = detect_repo_root(namespace.root.resolve())
     namespace.publisher_args = _split_publisher_args(namespace.publisher_args)
     return namespace
 
