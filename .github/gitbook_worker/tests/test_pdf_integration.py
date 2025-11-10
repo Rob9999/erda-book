@@ -20,6 +20,36 @@ pytestmark = [
 ]
 
 
+def _escape_latex_simple(value: str) -> str:
+    """Escape LaTeX special characters for use in Pandoc -V variables.
+
+    Simplified version for test mock to handle special characters like &, %, $, #, _, {, }.
+    """
+    if not value:
+        return value
+
+    # Replace backslash first
+    esc = value.replace("\\", "\\textbackslash{}")
+
+    # Replace other special characters
+    replacements = {
+        "&": r"\&",
+        "%": r"\%",
+        "$": r"\$",
+        "#": r"\#",
+        "_": r"\_",
+        "{": r"\{",
+        "}": r"\}",
+        "~": r"\textasciitilde{}",
+        "^": r"\textasciicircum{}",
+    }
+
+    for k, v in replacements.items():
+        esc = esc.replace(k, v)
+
+    return esc
+
+
 def _run_lualatex(
     md_path: str,
     pdf_out: str,
@@ -33,7 +63,9 @@ def _run_lualatex(
     if add_toc:
         cmd.append("--toc")
     if title:
-        cmd.extend(["-V", f"title={title}"])
+        # Escape LaTeX special characters in title to prevent LaTeX errors
+        safe_title = _escape_latex_simple(title)
+        cmd.extend(["-V", f"title={safe_title}"])
     if resource_paths:
         cmd.extend(["--resource-path", ":".join(resource_paths)])
     subprocess.run(cmd, check=True)
