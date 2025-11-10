@@ -1,7 +1,7 @@
 version: 0.1.0
 
 publish:
-  - path: ./complex-doc_with-special&chars@2024!.md
+  - path: ./complex-doc_with-special&chars@2024 & !.md
     out: test-single-file.pdf
     build: true
     source_type: file

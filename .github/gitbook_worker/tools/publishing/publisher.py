@@ -1831,25 +1831,6 @@ def convert_a_file(
         normalized,
         paper_format=paper_format,
     )
-    # Escape the first/top-level Markdown heading's text for LaTeX safety so
-    # that characters like '&' don't break the LaTeX title generation.
-    try:
-        import re
-
-        m = re.search(r"(?m)^(#\s+)(.+)$", content)
-        if m:
-            heading_prefix = m.group(1)
-            heading_text = m.group(2)
-            safe_heading = _escape_latex(heading_text)
-            content = (
-                content[: m.start()]
-                + heading_prefix
-                + safe_heading
-                + content[m.end() :]
-            )
-    except Exception:
-        # best-effort only; on any error keep original content
-        pass
     with tempfile.NamedTemporaryFile(
         "w", suffix=".md", delete=False, encoding="utf-8"
     ) as tmp:

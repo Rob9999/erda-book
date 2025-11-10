@@ -272,5 +272,5 @@
 * [Anhang G: Risikobetrachtung und strategische Resilienz der ERDA-Initiative](anhang-g-risikobetrachtung-und-strategische-resilienz-der-erda-initiative.md)
 * [Anhang H: Fehlgeschlagene Machtstrukturen der Menschheit](anhang-h-fehlgeschlagene-machtstrukturen-der-menschheit.md)
 * [Anhang I: Zentrales ERDA-Glossar](anhang-i-zentrales-erda-glossar.md)
-* [Anhang J: Lizenz & Offenheit](anhang-j-lizenz-and-offenheit.md)
+* [Anhang J: Lizenz & Offenheit](anhang-j-lizenz-&-offenheit.md)
 * [Anhang K: Qualitätssicherung](anhang-k-qualitatssicherung.md)

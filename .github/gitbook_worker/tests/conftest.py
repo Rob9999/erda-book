@@ -91,12 +91,6 @@ def _find_repo_root(start_path: pathlib.Path | None = None) -> pathlib.Path:
 def _find_publish_yml(repo_root: pathlib.Path) -> pathlib.Path:
     """Resolve publish.yml path following the standard search order.
 
-    Search order:
-    1. REPO_ROOT/publish.yml
-    2. REPO_ROOT/publish.yaml
-    3. REPO_ROOT/docs/public/publish.yml (legacy layout)
-    4. Default to REPO_ROOT/publish.yml (may not exist)
-
     This matches the logic in convert_assets.py's _resolve_manifest_path().
     """
     # Check repo root for publish.yml or publish.yaml
@@ -104,11 +98,6 @@ def _find_publish_yml(repo_root: pathlib.Path) -> pathlib.Path:
         candidate = repo_root / name
         if candidate.exists():
             return candidate.resolve()
-
-    # Check legacy location
-    legacy = repo_root / "docs" / "public" / "publish.yml"
-    if legacy.exists():
-        return legacy.resolve()
 
     # Fallback (may not exist)
     return (repo_root / "publish.yml").resolve()
@@ -176,5 +165,20 @@ def book_json_data(book_json_path: pathlib.Path) -> dict:
 
 @pytest.fixture(scope="session")
 def content_root(book_json_path: pathlib.Path) -> pathlib.Path:
-    """Return the content root directory from book.json configuration."""
+    """Return the content root directory from book.json configuration.
+
+    For integration tests, this returns the actual repo content directory.
+    Individual tests should use their own test data fixtures if they need
+    controlled test content instead of the full repository content.
+    """
     return _get_content_root(book_json_path)
+
+
+@pytest.fixture
+def test_content_root() -> pathlib.Path:
+    """Return the test data directory for controlled test scenarios.
+
+    Use this fixture instead of content_root when tests need isolated
+    test data rather than the full repository content directory.
+    """
+    return pathlib.Path(__file__).parent / "data"
