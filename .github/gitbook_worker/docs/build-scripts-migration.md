@@ -1,3 +1,11 @@
+---
+version: 1.0.0
+created: 2025-11-07
+modified: 2025-11-10
+status: completed
+type: migration-documentation
+---
+
 # Build Scripts Migration Summary
 
 ## ✅ Abgeschlossen

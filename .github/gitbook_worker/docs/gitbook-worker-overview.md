@@ -1,4 +1,13 @@
 <!-- License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) -->
+---
+version: 1.0.0
+created: 2025-11-01
+modified: 2025-11-10
+status: stable
+type: overview-documentation
+license: CC BY 4.0
+---
+
 # `gitbook-worker` Package Overview
 
 The `gitbook-worker` toolkit streamlines publishing, quality assurance and asset

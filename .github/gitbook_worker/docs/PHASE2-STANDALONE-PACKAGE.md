@@ -1,3 +1,12 @@
+---
+version: 1.0.0
+created: 2025-11-09
+modified: 2025-11-10
+status: planning
+type: migration-plan
+target-date: Q1 2026
+---
+
 # Phase 2: Standalone Package Migration Plan
 
 **Goal:** Extract `gitbook_worker.tools` into independent `erda-workflow-tools` package

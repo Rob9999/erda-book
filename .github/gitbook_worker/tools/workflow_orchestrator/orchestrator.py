@@ -23,6 +23,7 @@ from typing import Iterable, Mapping, MutableMapping, Sequence
 import yaml
 
 from tools.logging_config import get_logger
+from tools.publishing.frontmatter_config import FrontMatterConfigLoader
 from tools.utils import git as git_utils
 from tools.utils.smart_manifest import (
     SmartManifestError,
@@ -93,10 +94,14 @@ class OrchestratorConfig:
 class RuntimeContext:
     """Mutable helper carrying derived runtime values."""
 
-    def __init__(self, config: OrchestratorConfig) -> None:
+    def __init__(
+        self, config: OrchestratorConfig, manifest_data: dict | None = None
+    ) -> None:
         self.config = config
         self.root = config.root
         self.python = sys.executable or "python"
+        self._manifest_data = manifest_data or {}
+        self._frontmatter_loader: FrontMatterConfigLoader | None = None
         github_dir = self.root / ".github"
         worker_dir = github_dir / "gitbook_worker"
         worker_tools_dir = worker_dir / "tools"
@@ -197,6 +202,40 @@ class RuntimeContext:
             return value or "1970-01-01"
         except Exception:
             return "1970-01-01"
+
+    def get_frontmatter_loader(self) -> FrontMatterConfigLoader:
+        """Lazy-load and cache the front matter configuration loader."""
+        if self._frontmatter_loader is None:
+            try:
+                self._frontmatter_loader = FrontMatterConfigLoader()
+            except FileNotFoundError:
+                LOGGER.warning(
+                    "Front matter configuration not found, using default (disabled)"
+                )
+                # Create a minimal default config
+                from tools.publishing.frontmatter_config import (
+                    FrontMatterConfig,
+                    FrontMatterPatterns,
+                )
+
+                self._frontmatter_loader = type(
+                    "DefaultFrontMatterConfigLoader",
+                    (),
+                    {
+                        "config": FrontMatterConfig(
+                            enabled=False,
+                            patterns=FrontMatterPatterns(include=[], exclude=[]),
+                            template={},
+                        ),
+                        "matches_patterns": lambda *args, **kwargs: False,
+                        "merge_with_override": lambda override: self._frontmatter_loader.config,
+                    },
+                )()
+        return self._frontmatter_loader
+
+    def get_frontmatter_override(self) -> dict | None:
+        """Extract frontmatter override from publish.yml manifest."""
+        return self._manifest_data.get("frontmatter")
 
 
 def _as_bool(value: object, default: bool = False) -> bool:
@@ -364,7 +403,9 @@ def build_config(args: argparse.Namespace) -> OrchestratorConfig:
 
 
 def run(config: OrchestratorConfig) -> None:
-    ctx = RuntimeContext(config)
+    # Load manifest data for access to frontmatter and other settings
+    manifest_data = _load_manifest(config.manifest)
+    ctx = RuntimeContext(config, manifest_data)
     steps = config.steps_override or config.profile.steps
     LOGGER.info(
         "Starte Orchestrator-Profil '%s' mit Schritten: %s",
@@ -510,67 +551,115 @@ def _step_converter(ctx: RuntimeContext) -> None:
     )
 
 
-_TEMPLATE_ORDER = (
-    ("id", '""'),
-    ("title", '""'),
-    ("version", "v0.0.0"),
-    ("state", "DRAFT"),
-    ("evolution", '""'),
-    ("discipline", '""'),
-    ("system", "[]"),
-    ("system_id", "[]"),
-    ("seq", "[]"),
-    ("owner", '""'),
-    ("reviewers", "[]"),
-    ("source_of_truth", "false"),
-    ("supersedes", "null"),
-    ("superseded_by", "null"),
-    ("rfc_links", "[]"),
-    ("adr_links", "[]"),
-    ("cr_links", "[]"),
-    ("date", "1970-01-01"),
-    ("lang", "EN"),
-)
-_TEMPLATE_MAP = dict(_TEMPLATE_ORDER)
+def _format_yaml_value(value: object) -> str:
+    """Format a Python value as a YAML-compatible string.
+
+    Args:
+        value: Python value (str, int, bool, list, dict, None)
+
+    Returns:
+        YAML-compatible string representation
+    """
+    if value is None:
+        return "null"
+    if isinstance(value, bool):
+        return str(value).lower()
+    if isinstance(value, (int, float)):
+        return str(value)
+    if isinstance(value, list):
+        if not value:
+            return "[]"
+        # Simple list formatting
+        return "[" + ", ".join(_format_yaml_value(v) for v in value) + "]"
+    if isinstance(value, dict):
+        if not value:
+            return "{}"
+        # Simple dict formatting (not used in our templates typically)
+        return str(value)
+    # Default: string value
+    if not isinstance(value, str):
+        value = str(value)
+    # Quote strings that contain special characters or are empty
+    if not value or any(
+        c in value
+        for c in [
+            ":",
+            "#",
+            "[",
+            "]",
+            "{",
+            "}",
+            ",",
+            "&",
+            "*",
+            "!",
+            "|",
+            ">",
+            "'",
+            '"',
+            "%",
+            "@",
+            "`",
+        ]
+    ):
+        return f'"{value}"'
+    return value
 
 
-def _ensure_yaml_header(path: Path, ctx: RuntimeContext) -> bool:
+def _ensure_yaml_header(path: Path, template: dict, ctx: RuntimeContext) -> bool:
+    """Ensure a markdown file has YAML front matter according to the template.
+
+    Args:
+        path: Path to the markdown file
+        template: Front matter template dictionary
+        ctx: Runtime context
+
+    Returns:
+        True if file was modified, False otherwise
+    """
     lines = path.read_text(encoding="utf-8").splitlines()
     changed = False
     if not lines:
         lines = []
+
+    # Replace {{date}} placeholder with actual git commit date
+    resolved_template = {}
+    for key, value in template.items():
+        if isinstance(value, str) and value == "{{date}}":
+            resolved_template[key] = ctx.git_last_commit_date(path)
+        else:
+            resolved_template[key] = value
+
     if not lines or lines[0].strip() != "---":
-        date = ctx.git_last_commit_date(path)
-        header = (
-            ["---"]
-            + [
-                f"{key}: {date if key == 'date' else default}"
-                for key, default in _TEMPLATE_ORDER
-            ]
-            + ["---", ""]
-        )
+        # No front matter exists, create it
+        header = ["---"]
+        for key, value in resolved_template.items():
+            header.append(f"{key}: {_format_yaml_value(value)}")
+        header.extend(["---", ""])
         lines = header + lines
         changed = True
     else:
+        # Front matter exists, check for missing fields
         end_idx = None
         for idx, line in enumerate(lines[1:], start=1):
             if line.strip() == "---":
                 end_idx = idx
                 break
         if end_idx is None:
+            # No closing ---, add it
             lines.append("---")
             lines.append("")
             end_idx = len(lines) - 2
             changed = True
+
         header_lines = lines[1:end_idx]
         existing = {
             entry.split(":", 1)[0].strip() for entry in header_lines if ":" in entry
         }
-        missing = [key for key, _ in _TEMPLATE_ORDER if key not in existing]
+        missing = [key for key in resolved_template.keys() if key not in existing]
         if missing:
-            date = ctx.git_last_commit_date(path)
             insert = [
-                f"{key}: {date if key == 'date' else _TEMPLATE_MAP[key]}"
+                f"{key}: {_format_yaml_value(resolved_template[key])}"
                 for key in missing
             ]
             lines = (
@@ -581,25 +670,53 @@ def _ensure_yaml_header(path: Path, ctx: RuntimeContext) -> bool:
                 + lines[end_idx + 1 :]
             )
             changed = True
+
     if changed and not ctx.config.dry_run:
         path.write_text("\n".join(lines) + "\n", encoding="utf-8")
     return changed
 
 
 def _step_engineering_docs(ctx: RuntimeContext) -> None:
+    """Apply front matter to markdown files according to configuration."""
+    frontmatter_loader = ctx.get_frontmatter_loader()
+
+    # Merge with per-publication overrides from publish.yml
+    override = ctx.get_frontmatter_override()
+    config = frontmatter_loader.merge_with_override(override)
+
+    if not config.enabled:
+        LOGGER.info("Front matter injection disabled in configuration")
+        return
+
+    if not config.template:
+        LOGGER.warning("Front matter enabled but no template defined, skipping")
+        return
+
     changed_files: list[Path] = []
+    skipped_pattern: list[Path] = []
+
     for path in ctx.root.rglob("*.md"):
         rel = path.relative_to(ctx.root)
+
+        # Skip directories that should always be excluded
         if any(part in _SKIP_DIRS for part in rel.parts):
             continue
-        if path.name.lower() == "readme.md":
+
+        # Use smart pattern matching from configuration
+        if not frontmatter_loader.matches_patterns(path, ctx.root):
+            skipped_pattern.append(path)
             continue
-        if _ensure_yaml_header(path, ctx):
+
+        if _ensure_yaml_header(path, config.template, ctx):
             changed_files.append(path)
+
     if changed_files:
-        LOGGER.info("YAML-Header für %d Dateien aktualisiert", len(changed_files))
+        LOGGER.info("YAML front matter updated for %d files", len(changed_files))
     else:
-        LOGGER.info("Alle Engineering-Dokumente besitzen gültige Header")
+        LOGGER.info("All matching files already have valid front matter")
+
+    if skipped_pattern:
+        LOGGER.debug("Skipped %d files (pattern exclusion)", len(skipped_pattern))
 
 
 def _step_publisher(ctx: RuntimeContext) -> None:

@@ -1,3 +1,11 @@
+---
+version: 1.0.0
+created: 2025-11-09
+modified: 2025-11-10
+status: stable
+type: architecture-documentation
+---
+
 # Package Architecture Overview
 
 ## Current State (Before Migration)

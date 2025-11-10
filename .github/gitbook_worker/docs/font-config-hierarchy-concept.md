@@ -1,3 +1,11 @@
+---
+version: 1.0.0
+created: 2025-11-07
+modified: 2025-11-10
+status: concept
+type: technical-concept
+---
+
 # Font Configuration Hierarchy Konzept
 
 ## Problem-Analyse
