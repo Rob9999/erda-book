@@ -195,12 +195,28 @@ def image_exists(tag: str) -> bool:
     return cp.returncode == 0
 
 
-def build_image(tag: str, dockerfile: Path, context: Path) -> int:
+def build_image(
+    tag: str,
+    dockerfile: Path,
+    context: Path,
+    *,
+    pull: bool = True,
+    no_cache: bool = False,
+) -> int:
     cmd = [
         "docker",
         "build",
         "-f",
         str(dockerfile),
+    ]
+
+    if pull:
+        cmd.append("--pull")
+
+    if no_cache:
+        cmd.append("--no-cache")
+
+    cmd += [
         "-t",
         tag,
         str(context),
@@ -286,6 +302,16 @@ def parse_args(argv: Sequence[str] | None = None) -> argparse.Namespace:
         help="Do not attempt to build image if missing",
     )
     p.add_argument(
+        "--rebuild",
+        action="store_true",
+        help="Build image even if it already exists",
+    )
+    p.add_argument(
+        "--no-cache",
+        action="store_true",
+        help="Disable Docker layer cache during build",
+    )
+    p.add_argument(
         "--wait",
         type=int,
         default=120,
@@ -337,8 +363,10 @@ def main(argv: Sequence[str] | None = None) -> int:
     context = Path(args.context)
     workdir = Path(args.workdir)
 
-    if not image_exists(tag):
-        if args.no_build:
+    needs_build = args.rebuild or not image_exists(tag)
+
+    if needs_build:
+        if args.no_build and not args.rebuild:
             log_error(f"Image '{tag}' not found and --no-build is set.")
             return 1
         if not dockerfile.exists():
@@ -347,8 +375,17 @@ def main(argv: Sequence[str] | None = None) -> int:
         if not context.exists():
             log_error(f"Build context not found: {context}")
             return 1
-        log_info(f"Building image '{tag}' from {dockerfile} with context {context}")
-        rc = build_image(tag, dockerfile, context)
+        log_info(
+            f"Building image '{tag}' from {dockerfile} with context {context}" +
+            (" (no cache)" if args.no_cache else "")
+        )
+        rc = build_image(
+            tag,
+            dockerfile,
+            context,
+            pull=True,
+            no_cache=args.no_cache,
+        )
         if rc != 0:
             log_error(f"docker build failed with code {rc}")
             return rc

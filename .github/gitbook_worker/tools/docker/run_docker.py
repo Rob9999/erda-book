@@ -7,11 +7,14 @@ Verwendung:
     python run_docker.py test-slow               # Nur Integrationstests
     python run_docker.py orchestrator            # Orchestrator mit Default-Profil
     python run_docker.py orchestrator --profile ci  # Mit spezifischem Profil
+    python run_docker.py orchestrator --rebuild     # Image neu bauen und Orchestrator starten
     python run_docker.py shell                   # Interaktive Shell im Container
     python run_docker.py build                   # Nur Image bauen
 
 Optionen:
     --no-build    Image nicht bauen, wenn es fehlt
+    --rebuild     Image vor Ausführung neu bauen (erzwingt --pull)
+    --no-cache    Docker-Build ohne Layer-Cache
     --profile     Profil für Orchestrator (default: local)
     --verbose     Mehr Logging-Output
 """
@@ -29,7 +32,12 @@ from utils.docker_runner import main as docker_runner_main
 
 
 def build_docker_args(
-    command: str, profile: str = "local", no_build: bool = False, verbose: bool = False
+    command: str,
+    profile: str = "local",
+    no_build: bool = False,
+    verbose: bool = False,
+    rebuild: bool = False,
+    no_cache: bool = False,
 ) -> list[str]:
     """Erstelle die Argumentliste für docker_runner."""
 
@@ -59,6 +67,12 @@ def build_docker_args(
     if verbose:
         args.append("--verbose")
 
+    if rebuild:
+        args.append("--rebuild")
+
+    if no_cache:
+        args.append("--no-cache")
+
     # Füge den Container-Befehl hinzu
     args.append("--it")
 
@@ -79,11 +93,22 @@ def build_docker_args(
             ]
         )
     elif command == "orchestrator":
+        font_guard = (
+            "fc-list | grep -qi 'Twemoji' || "
+            "{ echo 'ERROR: Twemoji font missing'; exit 45; }; "
+            "fc-list | grep -qi 'ERDA CC-BY CJK' || "
+            "{ echo 'ERROR: ERDA CC-BY CJK font missing'; exit 46; }; "
+        )
+        orchestrator_cmd = (
+            "python3 -m tools.workflow_orchestrator --root /workspace "
+            "--manifest publish.yml --profile "
+            f"{profile}"
+        )
         args.extend(
             [
                 "bash",
                 "-c",
-                f"cd /workspace && python3 -m tools.workflow_orchestrator --root /workspace --manifest publish.yml --profile {profile}",
+                f"cd /workspace && {font_guard}{orchestrator_cmd}",
             ]
         )
     elif command == "shell":
@@ -140,6 +165,18 @@ Beispiele:
         "--no-build", action="store_true", help="Image nicht bauen, wenn es fehlt"
     )
 
+    parser.add_argument(
+        "--rebuild",
+        action="store_true",
+        help="Image vor dem Start neu bauen (inkl. --pull)",
+    )
+
+    parser.add_argument(
+        "--no-cache",
+        action="store_true",
+        help="Docker-Build ohne Layer-Cache ausführen",
+    )
+
     parser.add_argument("--verbose", action="store_true", help="Mehr Logging-Output")
 
     args = parser.parse_args()
@@ -166,6 +203,9 @@ Beispiele:
         ]
         if args.verbose:
             docker_args.append("--verbose")
+        if args.no_cache:
+            docker_args.append("--no-cache")
+        docker_args.append("--rebuild")
         docker_args.extend(["--it", "true"])  # Dummy-Befehl, wird nicht ausgeführt
 
         # Baue das Image
@@ -182,6 +222,8 @@ Beispiele:
         profile=args.profile,
         no_build=args.no_build,
         verbose=args.verbose,
+        rebuild=args.rebuild,
+        no_cache=args.no_cache,
     )
 
     if args.verbose:

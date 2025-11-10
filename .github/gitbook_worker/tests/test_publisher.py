@@ -39,6 +39,17 @@ def test_font_available_uses_repo_fonts(monkeypatch, tmp_path):
     assert publisher._font_available("ERDA CC-BY CJK")
 
 
+def test_select_emoji_font_raises_when_twemoji_missing(monkeypatch, caplog):
+    caplog.set_level("ERROR")
+    monkeypatch.setattr(publisher, "_font_available", lambda name: False)
+
+    with pytest.raises(RuntimeError) as excinfo:
+        publisher._select_emoji_font(prefer_color=True)
+
+    assert "Twemoji" in str(excinfo.value)
+    assert any("Twemoji nicht gefunden" in message for message in caplog.messages)
+
+
 def test_get_publish_list(monkeypatch, tmp_path):
     manifest = tmp_path / "publish.yml"
     data = {
