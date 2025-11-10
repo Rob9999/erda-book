@@ -14,7 +14,7 @@ This shim re-exports gitbook_worker.tools for compatibility with:
 
 Migration guide:
 1. Update PYTHONPATH to include only .github/:
-   - PowerShell: $env:PYTHONPATH = "$PWD\.github"
+   - PowerShell: $env:PYTHONPATH = "$PWD\\.github"
    - Bash: export PYTHONPATH="${PWD}/.github"
 
 2. Change imports from 'tools.*' to 'gitbook_worker.tools.*'
