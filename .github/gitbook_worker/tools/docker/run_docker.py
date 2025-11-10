@@ -10,13 +10,15 @@ Verwendung:
     python run_docker.py orchestrator --rebuild     # Image neu bauen und Orchestrator starten
     python run_docker.py shell                   # Interaktive Shell im Container
     python run_docker.py build                   # Nur Image bauen
+    python run_docker.py info                    # Build-Informationen anzeigen
 
 Optionen:
-    --no-build    Image nicht bauen, wenn es fehlt
-    --rebuild     Image vor Ausführung neu bauen (erzwingt --pull)
-    --no-cache    Docker-Build ohne Layer-Cache
-    --profile     Profil für Orchestrator (default: local)
-    --verbose     Mehr Logging-Output
+    --no-build      Image nicht bauen, wenn es fehlt
+    --rebuild       Image vor Ausführung neu bauen (erzwingt --pull)
+    --no-cache      Docker-Build ohne Layer-Cache
+    --profile       Profil für Orchestrator (default: local)
+    --verbose       Mehr Logging-Output
+    --use-dynamic   Verwende Dockerfile.dynamic statt Dockerfile (empfohlen)
 """
 
 import argparse
@@ -24,7 +26,9 @@ import sys
 from pathlib import Path
 
 # Füge den tools-Pfad zum Python-Pfad hinzu
-REPO_ROOT = Path(__file__).resolve().parent
+# __file__ ist in .github/gitbook_worker/tools/docker/run_docker.py
+# Also: parent -> docker, parent.parent -> tools, parent.parent.parent -> gitbook_worker, etc.
+REPO_ROOT = Path(__file__).resolve().parent.parent.parent.parent.parent
 TOOLS_PATH = REPO_ROOT / ".github" / "gitbook_worker" / "tools"
 sys.path.insert(0, str(TOOLS_PATH))
 
@@ -38,13 +42,17 @@ def build_docker_args(
     verbose: bool = False,
     rebuild: bool = False,
     no_cache: bool = False,
+    use_dynamic: bool = False,
 ) -> list[str]:
     """Erstelle die Argumentliste für docker_runner."""
 
+    # Wähle Dockerfile basierend auf --use-dynamic Flag
+    dockerfile_name = "Dockerfile.dynamic" if use_dynamic else "Dockerfile"
     dockerfile = str(
-        REPO_ROOT / ".github" / "gitbook_worker" / "tools" / "docker" / "Dockerfile"
+        REPO_ROOT / ".github" / "gitbook_worker" / "tools" / "docker" / dockerfile_name
     )
-    tag = "erda-workflow-tools"
+    # "ERDA Smart Worker" für dynamisches Image, Legacy für statisches
+    tag = "erda-smart-worker" if use_dynamic else "erda-workflow-tools"
     context = str(REPO_ROOT)
     workdir = str(REPO_ROOT)
 
@@ -113,6 +121,9 @@ def build_docker_args(
         )
     elif command == "shell":
         args.extend(["bash"])
+    elif command == "info":
+        # Zeige Build-Informationen an
+        args.extend(["--info"])
     elif command == "build":
         # Nur bauen, nichts ausführen
         args = [
@@ -151,7 +162,7 @@ Beispiele:
 
     parser.add_argument(
         "command",
-        choices=["test", "test-slow", "orchestrator", "shell", "build"],
+        choices=["test", "test-slow", "orchestrator", "shell", "build", "info"],
         help="Auszuführender Befehl",
     )
 
@@ -179,11 +190,25 @@ Beispiele:
 
     parser.add_argument("--verbose", action="store_true", help="Mehr Logging-Output")
 
+    parser.add_argument(
+        "--use-dynamic",
+        action="store_true",
+        help="Verwende Dockerfile.dynamic statt Dockerfile (empfohlen für Best Practice)",
+    )
+
     args = parser.parse_args()
+
+    # Wähle Dockerfile
+    dockerfile_name = "Dockerfile.dynamic" if args.use_dynamic else "Dockerfile"
+    tag_name = "erda-smart-worker" if args.use_dynamic else "erda-workflow-tools"
+
+    if args.use_dynamic and args.verbose:
+        print("ℹ Using Dockerfile.dynamic (ERDA Smart Worker)")
 
     # Spezialfall: Nur bauen
     if args.command == "build":
-        print("Building Docker image...")
+        image_type = "ERDA Smart Worker" if args.use_dynamic else "Legacy"
+        print(f"Building Docker image ({image_type}) using {dockerfile_name}...")
         docker_args = [
             "--dockerfile",
             str(
@@ -192,10 +217,10 @@ Beispiele:
                 / "gitbook_worker"
                 / "tools"
                 / "docker"
-                / "Dockerfile"
+                / dockerfile_name
             ),
             "--tag",
-            "erda-workflow-tools",
+            tag_name,
             "--context",
             str(REPO_ROOT),
             "--workdir",
@@ -213,7 +238,7 @@ Beispiele:
             return docker_runner_main(docker_args)
         except SystemExit as e:
             if e.code == 0:
-                print("SUCCESS: Docker image built successfully!")
+                print(f"SUCCESS: Docker image built successfully (tag: {tag_name})!")
             return e.code
 
     # Normale Befehle
@@ -224,6 +249,7 @@ Beispiele:
         verbose=args.verbose,
         rebuild=args.rebuild,
         no_cache=args.no_cache,
+        use_dynamic=args.use_dynamic,
     )
 
     if args.verbose:
