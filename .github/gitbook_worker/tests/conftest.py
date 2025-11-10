@@ -22,6 +22,11 @@ for _path in (WORKER_DIR, GITHUB_DIR):
 
 from . import GH_TEST_ARTIFACTS_DIR, GH_TEST_LOGS_DIR, GH_TEST_OUTPUT_DIR
 from tools.logging_config import make_specific_logger
+from tools.utils.smart_manifest import (
+    SmartManifestError,
+    detect_repo_root,
+    resolve_manifest,
+)
 
 
 def _ensure(pkg: str) -> None:
@@ -68,39 +73,19 @@ def artifact_dir(request: pytest.FixtureRequest) -> pathlib.Path:
 
 
 def _find_repo_root(start_path: pathlib.Path | None = None) -> pathlib.Path:
-    """Find the repository root by looking for .git, publish.yml, or book.json.
+    """Find the repository root using the shared smart-manifest helper."""
 
-    This matches the logic used in publisher.py's _get_repo_root().
-    """
-    if start_path is None:
-        start_path = pathlib.Path(__file__).resolve()
-
-    parents = [start_path, *start_path.parents]
-    for candidate in parents:
-        if (candidate / ".git").is_dir():
-            return candidate
-        if (candidate / "publish.yml").exists() or (
-            candidate / "publish.yaml"
-        ).exists():
-            return candidate
-        if (candidate / "book.json").exists():
-            return candidate
-    return parents[-1]
+    base = start_path or pathlib.Path(__file__).resolve()
+    return detect_repo_root(base)
 
 
 def _find_publish_yml(repo_root: pathlib.Path) -> pathlib.Path:
-    """Resolve publish.yml path following the standard search order.
+    """Resolve the publish manifest using the smart manifest rules."""
 
-    This matches the logic in convert_assets.py's _resolve_manifest_path().
-    """
-    # Check repo root for publish.yml or publish.yaml
-    for name in ("publish.yml", "publish.yaml"):
-        candidate = repo_root / name
-        if candidate.exists():
-            return candidate.resolve()
-
-    # Fallback (may not exist)
-    return (repo_root / "publish.yml").resolve()
+    try:
+        return resolve_manifest(explicit=None, cwd=repo_root, repo_root=repo_root)
+    except SmartManifestError as exc:  # pragma: no cover - mirrors runtime behaviour
+        raise FileNotFoundError(str(exc)) from exc
 
 
 def _find_book_json(start_path: pathlib.Path) -> pathlib.Path:
