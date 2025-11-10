@@ -325,12 +325,12 @@ def parse_args(argv: Sequence[str] | None = None) -> argparse.Namespace:
     p.add_argument("--verbose", action="store_true", help="More logging")
     p.add_argument(
         "--it",
-        dest="--it",
+        dest="--",
         nargs=argparse.REMAINDER,
         help="Command to run inside the container",
     )
     args = p.parse_args(argv)
-    # argparse puts the command after "--" into args.-- as list including leading "--"; strip it.
+    # argparse puts the command after "--it" into args.-- as list; strip leading "--" if present.
     if args.__dict__.get("--"):
         if args.__dict__["--"] and args.__dict__["--"][0] == "--":
             args.__dict__["--"] = args.__dict__["--"][1:]
@@ -376,8 +376,8 @@ def main(argv: Sequence[str] | None = None) -> int:
             log_error(f"Build context not found: {context}")
             return 1
         log_info(
-            f"Building image '{tag}' from {dockerfile} with context {context}" +
-            (" (no cache)" if args.no_cache else "")
+            f"Building image '{tag}' from {dockerfile} with context {context}"
+            + (" (no cache)" if args.no_cache else "")
         )
         rc = build_image(
             tag,

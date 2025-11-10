@@ -82,6 +82,8 @@ def build_docker_args(
         args.append("--no-cache")
 
     # Füge den Container-Befehl hinzu
+    # WICHTIG: --it muss das LETZTE Argument vor dem Container-Befehl sein
+    # argparse.REMAINDER nimmt alle nachfolgenden Argumente automatisch auf
     args.append("--it")
 
     if command == "test":
@@ -101,6 +103,7 @@ def build_docker_args(
             ]
         )
     elif command == "orchestrator":
+        # Font-Check: Stelle sicher, dass die erforderlichen Fonts vorhanden sind
         font_guard = (
             "fc-list | grep -qi 'Twemoji' || "
             "{ echo 'ERROR: Twemoji font missing'; exit 45; }; "

@@ -386,14 +386,26 @@ class DockerEnvironmentValidator:
             cache_content = result.stdout.lower()
 
             for font_entry in manifest["installed_fonts"]:
-                font_name = font_entry["name"].lower()
+                font_name = font_entry["name"]
+                font_name_lower = font_name.lower()
 
-                if font_name not in cache_content:
+                # Also check for font file names in cache
+                font_files = [f["target"] for f in font_entry.get("files", [])]
+                font_file_names = [Path(f).stem.lower() for f in font_files]
+
+                # Check if font name or any file name is in cache
+                found = font_name_lower in cache_content or any(
+                    fname in cache_content for fname in font_file_names
+                )
+
+                if not found:
+                    # Only warning, not error - font might work even if not in fc-list
                     self.warnings.append(
-                        f"Font '{font_entry['name']}' not found in font cache"
+                        f"Font '{font_name}' not found in font cache (may still work)"
                     )
+                    logger.warning("  ⚠ %s not in cache (may still work)", font_name)
                 else:
-                    logger.info("  ✓ %s in cache", font_entry["name"])
+                    logger.info("  ✓ %s in cache", font_name)
 
         except subprocess.CalledProcessError as e:
             self.errors.append(f"Failed to query font cache: {e.stderr}")
@@ -452,6 +464,7 @@ class DockerEnvironmentValidator:
         logger.info("PYTHON PACKAGE VALIDATION")
         logger.info("=" * 70)
 
+        # Required packages for publishing and testing
         required_packages = [
             "yaml",
             "pytest",
