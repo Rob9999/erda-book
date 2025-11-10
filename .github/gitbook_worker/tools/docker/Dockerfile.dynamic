@@ -79,6 +79,7 @@ RUN apt-get update && apt-get install -y \
     fontconfig \
     # Base fonts (minimal system fonts only)
     fonts-dejavu \
+    fonts-noto-color-emoji \
     && apt-get clean \
     && rm -rf /var/lib/apt/lists/*
 

@@ -10,7 +10,8 @@ fonts:
 
   EMOJI:
     name: "Twemoji Mozilla"
-    paths: [] # System font
+    paths: []
+    download_url: "https://github.com/mozilla/twemoji-colr/releases/download/v0.7.0/Twemoji.Mozilla.ttf"
     license: "CC BY 4.0"
     license_url: "https://creativecommons.org/licenses/by/4.0/"
     source_url: "https://github.com/mozilla/twemoji-colr"

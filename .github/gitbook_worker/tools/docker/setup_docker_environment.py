@@ -118,6 +118,9 @@ class DockerFontInstaller:
             "cache": Path("/root/.cache/fontconfig"),
         }
         self.installed_fonts: List[Dict] = []
+        # Collect installation errors/warnings for manifest/report
+        self.install_errors: List[str] = []
+        self.install_warnings: List[str] = []
 
     def check_license_compliance(self) -> None:
         """Verify all fonts have compatible licenses (AGENTS.md compliance).
@@ -172,11 +175,23 @@ class DockerFontInstaller:
             font: FontConfig object
 
         Returns:
-            True if installed successfully, False if skipped (system font)
+            True if installed successfully, False if skipped (no path/url)
         """
-        if not font.paths:
-            logger.info(
-                "Font %s (%s): Using system font, skipping install", key, font.name
+        logger.info("=" * 70)
+        logger.info("Processing font: %s (%s)", key, font.name)
+        logger.info("  - Paths: %s", font.paths if font.paths else "(empty)")
+        logger.info(
+            "  - Download URL: %s",
+            font.download_url if font.download_url else "(not set)",
+        )
+        logger.info("  - License: %s", font.license)
+
+        # Check if font has either paths or download_url
+        if not font.paths and not font.download_url:
+            logger.warning(
+                "Font %s (%s): No paths or download_url specified, SKIPPING installation",
+                key,
+                font.name,
             )
             return False
 
@@ -188,16 +203,72 @@ class DockerFontInstaller:
 
         installed_files = []
 
+        # Download font from URL if specified (and no local path present)
+        if getattr(font, "download_url", None) and not font.paths:
+            logger.info("  → Downloading font from URL...")
+            logger.info("     URL: %s", font.download_url)
+            try:
+                import urllib.request
+
+                font_filename = font.download_url.split("/")[-1] or f"{key}.font"
+                temp_file = target_dir / font_filename
+
+                logger.info("     Target: %s", temp_file)
+                logger.info("     Filename: %s", font_filename)
+
+                urllib.request.urlretrieve(font.download_url, str(temp_file))
+
+                if not temp_file.exists():
+                    raise FileNotFoundError(
+                        f"Download succeeded but file not found: {temp_file}"
+                    )
+
+                # Calculate checksum
+                checksum = self._calculate_checksum(temp_file)
+                file_size = temp_file.stat().st_size
+
+                installed_files.append(
+                    {
+                        "source": font.download_url,
+                        "target": str(temp_file),
+                        "size": file_size,
+                        "sha256": checksum,
+                    }
+                )
+
+                logger.info("  ✓ Downloaded successfully!")
+                logger.info("     Size: %d bytes", file_size)
+                logger.info("     SHA256: %s", checksum[:16])
+
+            except Exception as e:
+                logger.error("  ✗ Download failed for %s: %s", font.download_url, e)
+                self.install_errors.append(
+                    f"Download failed for {font.name} ({key}): {e}"
+                )
+                return False
+
+        # Install fonts from local paths
+        if font.paths:
+            logger.info(
+                "  → Installing from local paths (%d files)...", len(font.paths)
+            )
+
         for font_path_str in font.paths:
             font_path = Path(font_path_str)
+            logger.info("     Processing: %s", font_path_str)
 
             # Handle relative paths (from repo root)
             if not font_path.is_absolute():
                 font_path = REPO_ROOT / font_path
+                logger.info("     Resolved to: %s", font_path)
 
             if not font_path.exists():
-                logger.error("Font file not found: %s", font_path)
-                raise FileNotFoundError(f"Font file not found: {font_path}")
+                logger.error("  ✗ Font file not found: %s", font_path)
+                self.install_errors.append(
+                    f"Font file not found for {font.name} ({key}): {font_path}"
+                )
+                # continue to next configured path rather than aborting whole install
+                continue
 
             # Copy to target directory
             target_file = target_dir / font_path.name
@@ -205,17 +276,25 @@ class DockerFontInstaller:
 
             # Calculate checksum for verification
             checksum = self._calculate_checksum(target_file)
+            file_size = target_file.stat().st_size
 
             installed_files.append(
                 {
                     "source": str(font_path),
                     "target": str(target_file),
-                    "size": target_file.stat().st_size,
+                    "size": file_size,
                     "sha256": checksum,
                 }
             )
 
             logger.info("  ✓ Installed: %s -> %s", font_path.name, target_file)
+            logger.info("     Size: %d bytes, SHA256: %s", file_size, checksum[:16])
+
+        # If nothing was installed (no downloaded or copied files) report and skip
+        if not installed_files:
+            logger.warning("No files installed for %s (%s)", key, font.name)
+            self.install_warnings.append(f"No files installed for {key} ({font.name})")
+            return False
 
         # Record installation
         self.installed_fonts.append(
@@ -240,17 +319,53 @@ class DockerFontInstaller:
         logger.info("=" * 70)
         logger.info("DOCKER FONT INSTALLATION")
         logger.info("=" * 70)
+        logger.info("Config source: %s", self.config._config_path)
+        logger.info("Config version: %s", self.config._version)
+        logger.info("Total fonts configured: %d", len(self.config.get_all_font_keys()))
+        logger.info("")
 
         # Check license compliance first
         self.check_license_compliance()
 
         count = 0
+        skipped = []
+        failed = []
+
         for key in self.config.get_all_font_keys():
             font = self.config.get_font(key)
-            if font and self.install_font(key, font):
-                count += 1
+            if not font:
+                logger.warning("Font key '%s' has no configuration, skipping", key)
+                skipped.append((key, "No configuration"))
+                continue
 
-        logger.info("✓ Installed %d font(s)", count)
+            try:
+                if self.install_font(key, font):
+                    count += 1
+                else:
+                    skipped.append((key, font.name))
+            except Exception as e:
+                logger.error("Failed to install font %s: %s", key, e)
+                failed.append((key, font.name, str(e)))
+
+        # Summary report
+        logger.info("")
+        logger.info("=" * 70)
+        logger.info("INSTALLATION SUMMARY")
+        logger.info("=" * 70)
+        logger.info("✓ Successfully installed: %d font(s)", count)
+
+        if skipped:
+            logger.info("⊘ Skipped: %d font(s)", len(skipped))
+            for key, name in skipped:
+                logger.info("   - %s (%s)", key, name)
+
+        if failed:
+            logger.error("✗ Failed: %d font(s)", len(failed))
+            for key, name, error in failed:
+                logger.error("   - %s (%s): %s", key, name, error)
+
+        logger.info("=" * 70)
+
         return count
 
     def update_font_cache(self) -> None:
@@ -280,6 +395,8 @@ class DockerFontInstaller:
             "config_source": str(self.config._config_path),
             "config_version": self.config.version,
             "installed_fonts": self.installed_fonts,
+            "install_errors": self.install_errors,
+            "install_warnings": self.install_warnings,
             "font_dirs": {k: str(v) for k, v in self.font_dirs.items()},
         }
 

@@ -30,6 +30,7 @@ class FontConfig:
     license: str
     license_url: str
     source_url: Optional[str] = None
+    download_url: Optional[str] = None
 
 
 class FontConfigLoader:
@@ -105,6 +106,7 @@ class FontConfigLoader:
                     license=config.get("license", ""),
                     license_url=config.get("license_url", ""),
                     source_url=config.get("source_url"),
+                    download_url=config.get("download_url") or config.get("url"),
                 )
 
             logger.info("✓ %d Font-Konfigurationen geladen", len(self._fonts))
@@ -269,6 +271,7 @@ class FontConfigLoader:
                 license=font.license,
                 license_url=font.license_url,
                 source_url=font.source_url,
+                download_url=getattr(font, "download_url", None),
             )
 
         # Apply manifest overrides
@@ -298,6 +301,7 @@ class FontConfigLoader:
                     license=merged._fonts[key].license,
                     license_url=merged._fonts[key].license_url,
                     source_url=merged._fonts[key].source_url,
+                    download_url=font_spec.get("url") or font_spec.get("download_url"),
                 )
             else:
                 logger.debug(

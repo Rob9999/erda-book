@@ -104,10 +104,11 @@ def build_docker_args(
         )
     elif command == "orchestrator":
         # Font-Check: Stelle sicher, dass die erforderlichen Fonts vorhanden sind
+        # Note: fc-list escapes some characters (e.g., 'ERDA CC\-BY CJK'), so we use more flexible patterns
         font_guard = (
             "fc-list | grep -qi 'Twemoji' || "
             "{ echo 'ERROR: Twemoji font missing'; exit 45; }; "
-            "fc-list | grep -qi 'ERDA CC-BY CJK' || "
+            "fc-list | grep -Ei 'ERDA.*CC.*BY.*CJK' || "
             "{ echo 'ERROR: ERDA CC-BY CJK font missing'; exit 46; }; "
         )
         orchestrator_cmd = (
