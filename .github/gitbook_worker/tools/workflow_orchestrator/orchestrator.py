@@ -453,17 +453,24 @@ def _step_ensure_readme(ctx: RuntimeContext) -> None:
             continue
         if rel == Path("."):
             continue
-        if any((directory / name).exists() for name in README_FILENAMES):
+        # Check if any README variant exists
+        existing_readme = None
+        for name in README_FILENAMES:
+            if (directory / name).exists():
+                existing_readme = name
+                break
+        if existing_readme:
             continue
-        target = directory / "readme.md"
+        # Create README.md (uppercase) to match repository convention
+        target = directory / "README.md"
         created.append(target)
         if ctx.config.dry_run:
             continue
         target.write_text(f"# {directory.name}\n", encoding="utf-8")
     if created:
-        LOGGER.info("%d neue readme.md-Dateien erstellt", len(created))
+        LOGGER.info("%d neue README.md-Dateien erstellt", len(created))
     else:
-        LOGGER.info("Alle Verzeichnisse besitzen bereits eine readme.md")
+        LOGGER.info("Alle Verzeichnisse besitzen bereits eine README.md")
 
 
 def _step_update_citation(ctx: RuntimeContext) -> None:
