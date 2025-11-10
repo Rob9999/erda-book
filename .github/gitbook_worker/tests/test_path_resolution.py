@@ -11,6 +11,7 @@ from pathlib import Path
 
 import pytest
 
+from .conftest import _find_book_json, _get_content_root
 from tools.utils.smart_manifest import (
     SmartManifestConfigError,
     SmartManifestError,
@@ -117,8 +118,6 @@ def test_book_json_path_resolution_order(tmp_path):
 
     # Test 1: book.json in root
     (test_repo / "book.json").write_text('{"root": "content/"}')
-    from tests.conftest import _find_book_json
-
     found = _find_book_json(test_repo)
     assert found == test_repo / "book.json"
 
@@ -142,8 +141,6 @@ def test_content_root_from_book_json(tmp_path):
     content_dir = test_repo / "my_content"
     content_dir.mkdir()
 
-    from tests.conftest import _find_book_json, _get_content_root
-
     book_json = _find_book_json(test_repo)
     content = _get_content_root(book_json)
 
@@ -159,8 +156,6 @@ def test_content_root_defaults_to_repo_root(tmp_path):
     # Create book.json with root as "."
     book_data = {"root": ".", "title": "Test Book"}
     (test_repo / "book.json").write_text(json.dumps(book_data))
-
-    from tests.conftest import _find_book_json, _get_content_root
 
     book_json = _find_book_json(test_repo)
     content = _get_content_root(book_json)
@@ -190,8 +185,6 @@ def test_content_root_trailing_slash_handling(tmp_path, root_value, expected_suf
     # Create the expected directory if needed
     if expected_suffix:
         (test_repo / expected_suffix).mkdir()
-
-    from tests.conftest import _find_book_json, _get_content_root
 
     book_json = _find_book_json(test_repo)
     content = _get_content_root(book_json)
