@@ -24,6 +24,7 @@ import yaml
 
 from tools.logging_config import get_logger
 from tools.publishing.frontmatter_config import FrontMatterConfigLoader
+from tools.publishing.readme_config import ReadmeConfigLoader
 from tools.utils import git as git_utils
 from tools.utils.smart_manifest import (
     SmartManifestError,
@@ -102,6 +103,7 @@ class RuntimeContext:
         self.python = sys.executable or "python"
         self._manifest_data = manifest_data or {}
         self._frontmatter_loader: FrontMatterConfigLoader | None = None
+        self._readme_loader: ReadmeConfigLoader | None = None
         github_dir = self.root / ".github"
         worker_dir = github_dir / "gitbook_worker"
         worker_tools_dir = worker_dir / "tools"
@@ -236,6 +238,56 @@ class RuntimeContext:
     def get_frontmatter_override(self) -> dict | None:
         """Extract frontmatter override from publish.yml manifest."""
         return self._manifest_data.get("frontmatter")
+
+    def get_readme_loader(self) -> ReadmeConfigLoader:
+        """Lazy-load and cache the README configuration loader."""
+        if self._readme_loader is None:
+            try:
+                self._readme_loader = ReadmeConfigLoader(repo_root=self.root)
+            except FileNotFoundError:
+                LOGGER.warning(
+                    "README configuration not found, using default (enabled)"
+                )
+                # Create a minimal default loader
+                from tools.publishing.readme_config import (
+                    ReadmeConfig,
+                    ReadmePatterns,
+                    ReadmeTemplate,
+                    ReadmeLogging,
+                )
+
+                # Use a simple fallback configuration
+                self._readme_loader = type(
+                    "DefaultReadmeConfigLoader",
+                    (),
+                    {
+                        "config": ReadmeConfig(
+                            enabled=True,
+                            patterns=ReadmePatterns(include=(), exclude=()),
+                            template=ReadmeTemplate(
+                                use_directory_name=True,
+                                header_level=1,
+                                footer="",
+                            ),
+                            readme_variants=("README.md", "readme.md", "Readme.md"),
+                            logging=ReadmeLogging(
+                                level="info",
+                                log_skipped=False,
+                                log_created=True,
+                            ),
+                        ),
+                        "repo_root": self.root,
+                        "matches_patterns": lambda *args, **kwargs: True,
+                        "has_readme": lambda directory: False,
+                        "generate_readme_content": lambda directory: f"# {directory.name}\n",
+                        "merge_with_override": lambda override: self._readme_loader.config,
+                    },
+                )()
+        return self._readme_loader
+
+    def get_readme_override(self) -> dict | None:
+        """Extract readme override from publish.yml manifest."""
+        return self._manifest_data.get("readme")
 
 
 def _as_bool(value: object, default: bool = False) -> bool:
@@ -442,35 +494,103 @@ def _step_check_if_to_publish(ctx: RuntimeContext) -> None:
 
 
 def _step_ensure_readme(ctx: RuntimeContext) -> None:
+    """Ensure all directories have a README file.
+
+    Uses smart configuration from readme.yml (with overrides from publish.yml).
+    - Only creates README.md in directories without ANY readme variant
+    - Case-insensitive check for existing READMEs
+    - Respects include/exclude patterns from configuration
+    - Never overwrites existing files
+
+    Configuration hierarchy:
+        1. publish.yml (readme: section) - highest priority
+        2. readme.yml (project root)
+        3. .github/gitbook_worker/defaults/readme.yml - default
+    """
+    # Load README configuration
+    readme_loader = ctx.get_readme_loader()
+
+    # Merge with overrides from publish.yml
+    override = ctx.get_readme_override()
+    config = readme_loader.merge_with_override(override)
+
+    # Check if README generation is enabled
+    if not config.enabled:
+        LOGGER.info("README auto-generation is disabled in configuration")
+        return
+
     created: list[Path] = []
+    skipped_existing: int = 0
+    skipped_pattern: int = 0
+
+    # Walk through all directories in repository
     for directory in ctx.root.rglob("*"):
         if not directory.is_dir():
             continue
+
+        # Skip root directory itself
+        if directory == ctx.root:
+            continue
+
+        # Skip hidden directories (starting with .)
         rel = directory.relative_to(ctx.root)
         if any(part.startswith(".") and part != "." for part in rel.parts):
             continue
-        if any(part in _SKIP_DIRS for part in rel.parts if part):
+
+        # Check pattern matching (smart exclude/include)
+        if not readme_loader.matches_patterns(directory, ctx.root):
+            skipped_pattern += 1
+            if config.logging.log_skipped:
+                LOGGER.debug("Skipped (pattern): %s", rel)
             continue
-        if rel == Path("."):
+
+        # Check if directory already has a README (case-insensitive)
+        if readme_loader.has_readme(directory):
+            skipped_existing += 1
+            if config.logging.log_skipped:
+                LOGGER.debug("Skipped (has README): %s", rel)
             continue
-        # Check if any README variant exists
-        existing_readme = None
-        for name in README_FILENAMES:
-            if (directory / name).exists():
-                existing_readme = name
-                break
-        if existing_readme:
-            continue
-        # Create README.md (uppercase) to match repository convention
+
+        # Generate README content from template
+        content = readme_loader.generate_readme_content(directory)
         target = directory / "README.md"
-        created.append(target)
-        if ctx.config.dry_run:
+
+        # Final safety check: Don't overwrite if file somehow exists
+        if target.exists():
+            LOGGER.warning("SAFETY: Skipping %s - target exists unexpectedly", target)
+            skipped_existing += 1
             continue
-        target.write_text(f"# {directory.name}\n", encoding="utf-8")
+
+        created.append(target)
+
+        # Dry-run mode: just log what would be done
+        if ctx.config.dry_run:
+            if config.logging.log_created:
+                LOGGER.info("Would create: %s", rel / "README.md")
+            continue
+
+        # Create the README file
+        try:
+            target.write_text(content, encoding="utf-8")
+            if config.logging.log_created:
+                LOGGER.info("Created: %s", rel / "README.md")
+        except OSError as exc:
+            LOGGER.error("Failed to create %s: %s", target, exc)
+
+    # Summary
     if created:
-        LOGGER.info("%d neue README.md-Dateien erstellt", len(created))
+        LOGGER.info(
+            "README generation: %d created, %d skipped (existing), %d skipped (pattern)",
+            len(created),
+            skipped_existing,
+            skipped_pattern,
+        )
     else:
-        LOGGER.info("Alle Verzeichnisse besitzen bereits eine README.md")
+        LOGGER.info(
+            "README generation: No new READMEs needed (%d existing, %d excluded)",
+            skipped_existing,
+            skipped_pattern,
+        )
 
 
 def _step_update_citation(ctx: RuntimeContext) -> None:
