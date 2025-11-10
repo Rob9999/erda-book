@@ -33,9 +33,34 @@ import sys
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple
 
+# Disable file logging for Docker build (stdout only)
+os.environ["GITBOOK_WORKER_LOG_STDOUT_ONLY"] = "1"
+
 # Ensure tools path is in Python path
-REPO_ROOT = Path(__file__).resolve().parent.parent.parent.parent.parent
-sys.path.insert(0, str(REPO_ROOT / ".github" / "gitbook_worker"))
+# Try to find the gitbook_worker directory
+_current_file = Path(__file__).resolve()
+_potential_roots = [
+    _current_file.parent.parent.parent.parent.parent,  # Normal: .../ERDA/
+    _current_file.parent.parent.parent,  # Docker: .../gitbook_worker/
+]
+
+REPO_ROOT = None
+for root in _potential_roots:
+    gitbook_worker_path = root / ".github" / "gitbook_worker"
+    if gitbook_worker_path.exists():
+        REPO_ROOT = root
+        sys.path.insert(0, str(gitbook_worker_path))
+        break
+    # Alternative: gitbook_worker direkt im Root
+    gitbook_worker_path = root / "gitbook_worker"
+    if gitbook_worker_path.exists():
+        REPO_ROOT = root
+        sys.path.insert(0, str(gitbook_worker_path))
+        break
+
+if REPO_ROOT is None:
+    # Fallback: Assume PYTHONPATH is set correctly
+    REPO_ROOT = Path.cwd()
 
 from tools.logging_config import get_logger
 from tools.publishing.font_config import FontConfigLoader, FontConfig

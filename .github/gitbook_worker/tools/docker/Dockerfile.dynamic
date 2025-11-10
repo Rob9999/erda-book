@@ -133,20 +133,20 @@ RUN pip3 install --no-cache-dir pytest pytest-cov
 # --- Dynamic Font Configuration ---
 # This is the key difference: fonts are configured dynamically!
 # Copy necessary configuration files and tools for setup
-COPY .github/gitbook_worker/defaults/ /tmp/gitbook_worker_setup/defaults/
-COPY .github/gitbook_worker/tools/ /tmp/gitbook_worker_setup/tools/
-COPY .github/fonts/ /tmp/gitbook_worker_setup/fonts/
+COPY .github/ /tmp/gitbook_worker_setup/.github/
 COPY publish.yml /tmp/gitbook_worker_setup/
 
-# Set Python path for setup script
-ENV PYTHONPATH=/tmp/gitbook_worker_setup
+# Set Python path for setup script to point to gitbook_worker
+ENV PYTHONPATH=/tmp/gitbook_worker_setup/.github/gitbook_worker
+# Enable stdout-only logging for Docker build (no file logging)
+ENV GITBOOK_WORKER_LOG_STDOUT_ONLY=1
 
 # Run dynamic font installation and configuration
 # This reads fonts.yml, installs all configured fonts, and validates setup
 RUN cd /tmp/gitbook_worker_setup && \
     python3 -m tools.docker.setup_docker_environment \
     --mode install \
-    --config /tmp/gitbook_worker_setup/defaults/fonts.yml \
+    --config /tmp/gitbook_worker_setup/.github/gitbook_worker/defaults/fonts.yml \
     --manifest /tmp/docker_font_installation.json \
     --verbose && \
     echo "✓ Font installation completed"
