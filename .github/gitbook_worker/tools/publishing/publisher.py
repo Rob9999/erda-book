@@ -643,8 +643,15 @@ def _select_emoji_font(prefer_color: bool) -> Tuple[Optional[str], bool]:
             logger.info("ℹ Verwende Emoji-Font %s", candidate)
             return candidate, _needs_harfbuzz(candidate)
 
-    logger.warning("⚠ Keine spezielle Emoji-Schrift gefunden – fallback auf Hauptfont")
-    return None, False
+    message = (
+        "❌ Twemoji nicht gefunden – bitte Docker-Image aktualisieren oder Fonts installieren"
+    )
+    logger.error(message)
+    raise RuntimeError(
+        "Twemoji font is not available in the current environment. "
+        "Run 'fc-list | grep -i twemoji' inside the container and rebuild the Docker image "
+        "if necessary."
+    )
 
 
 def _lua_escape_string(value: str) -> str:
@@ -1357,8 +1364,9 @@ def prepare_publishing(
             return found
         return False
 
-    # Twemoji is installed via system package (fonts-twemoji) in Dockerfile
-    # No manual download required - as per AGENTS.md requirement (Twemoji CC BY 4.0 only)
+    # Twemoji wird im Docker-Image aus dem offiziellen Release-Archiv installiert
+    # (siehe tools/docker/Dockerfile). Diese Runtime-Prüfung stellt sicher, dass der
+    # Font wirklich verfügbar ist und der Build andernfalls klar fehlschlägt.
     # OpenMoji references removed to ensure license compliance
 
     # Load font configuration with smart merge (fonts.yml + publish.yml overrides)

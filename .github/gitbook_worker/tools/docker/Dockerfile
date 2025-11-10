@@ -65,7 +65,7 @@ RUN mkdir -p /app/texmf/tex/latex/local && \
 RUN mkdir -p /usr/share/fonts/truetype/twemoji && \
     wget -O /tmp/twemoji-linux.tar.gz \
     https://github.com/13rac1/twemoji-color-font/releases/download/v15.1.0/TwitterColorEmoji-SVGinOT-Linux-15.1.0.tar.gz && \
-    test -f /tmp/twemoji-linux.tar.gz && \
+    echo "c8a5302ee4e4c2188ce785edd84c50c616a07f6e99fe1b91aecba4e1db341295  /tmp/twemoji-linux.tar.gz" | sha256sum -c - && \
     tar -xzf /tmp/twemoji-linux.tar.gz -C /tmp && \
     test -f /tmp/TwitterColorEmoji-SVGinOT-Linux-15.1.0/TwitterColorEmoji-SVGinOT.ttf && \
     cp /tmp/TwitterColorEmoji-SVGinOT-Linux-15.1.0/TwitterColorEmoji-SVGinOT.ttf \

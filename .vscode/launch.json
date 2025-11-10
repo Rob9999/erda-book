@@ -24,6 +24,46 @@
             "envFile": "${workspaceFolder}/.env"
         },
         {
+            "name": "Orchestrator (Docker image)",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "gitbook_worker.tools.docker.run_docker",
+            "cwd": "${workspaceFolder}",
+            "args": [
+                "orchestrator",
+                "--profile",
+                "default"
+            ],
+            "env": {
+                "PYTHONPATH": "${workspaceFolder};${workspaceFolder}/.github;${workspaceFolder}/.github/gitbook_worker",
+                "PYTHONIOENCODING": "utf-8",
+                "PYTHONUTF8": "1"
+            },
+            "console": "integratedTerminal",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "name": "Orchestrator (Docker fresh rebuild)",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "gitbook_worker.tools.docker.run_docker",
+            "cwd": "${workspaceFolder}",
+            "args": [
+                "orchestrator",
+                "--profile",
+                "default",
+                "--rebuild",
+                "--no-cache"
+            ],
+            "env": {
+                "PYTHONPATH": "${workspaceFolder};${workspaceFolder}/.github;${workspaceFolder}/.github/gitbook_worker",
+                "PYTHONIOENCODING": "utf-8",
+                "PYTHONUTF8": "1"
+            },
+            "console": "integratedTerminal",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
             "name": "Emoji and Font Couverage",
             "type": "debugpy",
             "request": "launch",
