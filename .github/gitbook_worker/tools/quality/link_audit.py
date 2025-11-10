@@ -216,7 +216,21 @@ def list_todos(md_files: Iterable[Path]) -> List[TodoEntry]:
 
 def _parse_args(argv: Optional[Sequence[str]] = None) -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Audit Markdown documents for link quality issues.")
-    parser.add_argument("markdown", nargs="+", type=Path, help="Markdown files to inspect.")
+    parser.add_argument("markdown", nargs="*", type=Path, help="Markdown files to inspect.")
+    parser.add_argument(
+        "--root",
+        type=Path,
+        help=(
+            "Recursively discover Markdown files below this directory. "
+            "Positional Markdown arguments are merged with the discovered files."
+        ),
+    )
+    parser.add_argument(
+        "--format",
+        choices=["log"],
+        default="log",
+        help="Deprecated option retained for backward compatibility (no effect).",
+    )
     parser.add_argument("--http-report", type=Path, help="Write HTTP link check CSV report to this path.")
     parser.add_argument("--timeout", type=float, default=_DEFAULT_TIMEOUT, help="Request timeout in seconds (default: 5).")
     parser.add_argument("--no-progress", action="store_true", help="Disable progress bar output.")
@@ -229,10 +243,32 @@ def _parse_args(argv: Optional[Sequence[str]] = None) -> argparse.Namespace:
 
 def main(argv: Optional[Sequence[str]] = None) -> int:
     args = _parse_args(argv)
-    md_files = [path for path in args.markdown if path.is_file()]
-    skipped = set(args.markdown) - set(md_files)
-    for missing in skipped:
-        logger.warning("Skipping missing file: %s", missing)
+    md_files: List[Path] = []
+
+    if args.markdown:
+        explicit_files = [path for path in args.markdown if path.is_file()]
+        skipped = set(args.markdown) - set(explicit_files)
+        for missing in skipped:
+            logger.warning("Skipping missing file: %s", missing)
+        md_files.extend(explicit_files)
+
+    if args.root:
+        root_path = args.root
+        if not root_path.exists():
+            logger.warning("Root path does not exist: %s", root_path)
+        else:
+            discovered = sorted(path for path in root_path.rglob("*.md") if path.is_file())
+            logger.info("Discovered %s Markdown files under %s", len(discovered), root_path)
+            md_files.extend(discovered)
+
+    # Deduplicate while preserving order (explicit files first, then discovered files).
+    seen: set[Path] = set()
+    ordered: List[Path] = []
+    for candidate in md_files:
+        if candidate not in seen:
+            seen.add(candidate)
+            ordered.append(candidate)
+    md_files = ordered
 
     if args.http_report:
         broken, good = check_http_links(
