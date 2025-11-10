@@ -69,7 +69,7 @@ RUN mkdir -p /usr/share/fonts/truetype/twemoji && \
     tar -xzf /tmp/twemoji-linux.tar.gz -C /tmp && \
     test -f /tmp/TwitterColorEmoji-SVGinOT-Linux-15.1.0/TwitterColorEmoji-SVGinOT.ttf && \
     cp /tmp/TwitterColorEmoji-SVGinOT-Linux-15.1.0/TwitterColorEmoji-SVGinOT.ttf \
-       /usr/share/fonts/truetype/twemoji/ && \
+    /usr/share/fonts/truetype/twemoji/ && \
     rm -rf /tmp/twemoji-linux.tar.gz /tmp/TwitterColorEmoji-SVGinOT-Linux-15.1.0
 
 # Install additional fonts for better Unicode support
@@ -131,10 +131,13 @@ CMD ["sleep", "infinity"]
 RUN python3 -m venv /venv
 ENV PATH="/venv/bin:$PATH"
 
-# Install test requirements (project requirements will be installed at runtime)
+# Install test requirements
 RUN pip3 install --no-cache-dir pytest pytest-cov
 
-# Add pip install to entrypoint
-RUN sed -i '3i\    pip3 install --no-cache-dir -r $GITHUB_TOOLS/requirements.txt' /usr/local/bin/docker-entrypoint.sh
+# Copy requirements.txt for installation during build
+COPY .github/gitbook_worker/tools/requirements.txt /tmp/requirements.txt
+
+# Install project requirements during build
+RUN pip3 install --no-cache-dir -r /tmp/requirements.txt && rm /tmp/requirements.txt
 
 WORKDIR /workspace
