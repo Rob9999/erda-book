@@ -16,6 +16,7 @@ from typing import Dict, List, Optional
 import yaml
 
 from tools.logging_config import get_logger
+from tools.utils.semver import SemVerError, ensure_semver
 
 logger = get_logger(__name__)
 
@@ -41,6 +42,7 @@ class FontConfigLoader:
             config_path: Path to fonts.yml. If None, searches in standard locations.
         """
         self._config_path = config_path or self._find_config_file()
+        self._version: str = ""
         self._fonts: Dict[str, FontConfig] = {}
         self._load_config()
 
@@ -80,6 +82,17 @@ class FontConfigLoader:
             with open(self._config_path, "r", encoding="utf-8") as f:
                 data = yaml.safe_load(f)
 
+            data = data or {}
+
+            try:
+                self._version = ensure_semver(
+                    data.get("version"),
+                    field="fonts.yml version",
+                    default="1.0.0",
+                )
+            except SemVerError as exc:
+                raise ValueError(str(exc)) from exc
+
             fonts_data = data.get("fonts", {})
             for key, config in fonts_data.items():
                 paths = config.get("paths", [])
@@ -99,6 +112,12 @@ class FontConfigLoader:
         except Exception as e:
             logger.error("Fehler beim Laden der Font-Konfiguration: %s", e)
             raise
+
+    @property
+    def version(self) -> str:
+        """Return the semantic version declared in fonts.yml."""
+
+        return self._version
 
     def get_font(self, key: str) -> Optional[FontConfig]:
         """Get font configuration by key (e.g., 'CJK', 'SERIF').

@@ -21,6 +21,7 @@ def sample_fonts_yml(tmp_path):
     fonts_yml = tmp_path / "fonts.yml"
     fonts_yml.write_text(
         """
+version: 1.0.0
 fonts:
   CJK:
     name: "ERDA CC-BY CJK"
@@ -78,6 +79,7 @@ def test_font_config_loader_init(sample_fonts_yml):
     loader = FontConfigLoader(config_path=sample_fonts_yml)
     assert loader._config_path == sample_fonts_yml
     assert len(loader._fonts) == 5  # CJK, SERIF, SANS, MONO, EMOJI
+    assert loader.version == "1.0.0"
 
 
 def test_get_font(sample_fonts_yml):
@@ -383,3 +385,13 @@ def test_merge_manifest_fonts_creates_new_instance(sample_fonts_yml):
 
     # Merged should have override
     assert merged.get_font_paths("CJK") == ["/custom/font.ttf"]
+
+
+def test_font_config_requires_semver(tmp_path):
+    """fonts.yml must define a semantic version."""
+
+    fonts_yml = tmp_path / "fonts.yml"
+    fonts_yml.write_text("version: not-a-version\nfonts: {}\n", encoding="utf-8")
+
+    with pytest.raises(ValueError):
+        FontConfigLoader(config_path=fonts_yml)

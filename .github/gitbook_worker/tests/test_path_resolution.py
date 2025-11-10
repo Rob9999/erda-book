@@ -11,6 +11,12 @@ from pathlib import Path
 
 import pytest
 
+from tools.utils.smart_manifest import (
+    SmartManifestConfigError,
+    SmartManifestError,
+    resolve_manifest,
+)
+
 
 def test_repo_root_fixture(repo_root):
     """Test that repo_root fixture finds the repository root."""
@@ -69,37 +75,38 @@ def test_content_root_contains_markdown_files(content_root):
 
 
 def test_publish_yml_path_resolution_order(tmp_path):
-    """Test the resolution order for publish.yml."""
-    # This tests the expected search pattern:
-    # 1. explicit argument (tested via fixture override)
-    # 2. REPO_ROOT/publish.yml
-    # 3. REPO_ROOT/publish.yaml
-    # 4. REPO_ROOT/docs/public/publish.yml (legacy)
+    """Test the resolution order defined in smart.yml."""
 
-    # Create test structure
-    test_repo = tmp_path / "test_repo"
-    test_repo.mkdir()
+    repo_root = tmp_path / "repo"
+    repo_root.mkdir()
+    work_dir = repo_root / "work"
+    work_dir.mkdir()
 
-    # Test 1: publish.yml in root
-    (test_repo / "publish.yml").write_text("version: 0.1.0")
-    from tests.conftest import _find_publish_yml
+    # 1. Explicit argument always wins
+    explicit_dir = repo_root / "custom"
+    explicit_dir.mkdir()
+    explicit_manifest = explicit_dir / "publish.yml"
+    explicit_manifest.write_text("version: 0.1.0")
+    found = resolve_manifest(explicit=explicit_manifest, cwd=work_dir, repo_root=repo_root)
+    assert found == explicit_manifest
 
-    found = _find_publish_yml(test_repo)
-    assert found == test_repo / "publish.yml"
+    # 2. Local directory (work_dir) takes precedence if explicit not set
+    local_manifest = work_dir / "publish.yaml"
+    local_manifest.write_text("version: 0.1.0")
+    found = resolve_manifest(explicit=None, cwd=work_dir, repo_root=repo_root)
+    assert found == local_manifest
 
-    # Test 2: publish.yaml in root (when .yml doesn't exist)
-    (test_repo / "publish.yml").unlink()
-    (test_repo / "publish.yaml").write_text("version: 0.1.0")
-    found = _find_publish_yml(test_repo)
-    assert found == test_repo / "publish.yaml"
+    # 3. Repo root is used when local directory lacks a manifest
+    local_manifest.unlink()
+    root_manifest = repo_root / "publish.yml"
+    root_manifest.write_text("version: 0.1.0")
+    found = resolve_manifest(explicit=None, cwd=work_dir, repo_root=repo_root)
+    assert found == root_manifest
 
-    # Test 3: legacy location
-    (test_repo / "publish.yaml").unlink()
-    legacy_dir = test_repo / "docs" / "public"
-    legacy_dir.mkdir(parents=True)
-    (legacy_dir / "publish.yml").write_text("version: 0.1.0")
-    found = _find_publish_yml(test_repo)
-    assert found == legacy_dir / "publish.yml"
+    # No manifest should raise a SmartManifestError
+    root_manifest.unlink()
+    with pytest.raises(SmartManifestError):
+        resolve_manifest(explicit=None, cwd=work_dir, repo_root=repo_root)
 
 
 def test_book_json_path_resolution_order(tmp_path):
@@ -194,3 +201,26 @@ def test_content_root_trailing_slash_handling(tmp_path, root_value, expected_suf
         assert content.parent == test_repo
     else:
         assert content == test_repo
+
+
+def test_smart_manifest_requires_semver(tmp_path):
+    """smart.yml must provide a valid semantic version."""
+
+    smart_cfg = tmp_path / "smart.yml"
+    smart_cfg.write_text(
+        """
+version: invalid
+filenames:
+  - publish.yml
+search: []
+""",
+        encoding="utf-8",
+    )
+
+    with pytest.raises(SmartManifestConfigError):
+        resolve_manifest(
+            explicit=None,
+            cwd=tmp_path,
+            repo_root=tmp_path,
+            config_path=smart_cfg,
+        )

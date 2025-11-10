@@ -14,6 +14,8 @@ import pandas as pd
 import yaml
 from tools.logging_config import get_logger
 
+from tools.utils.smart_manifest import resolve_manifest
+
 from .csv2md_and_chart import save_chart, save_markdown
 
 logger = get_logger(__name__)
@@ -27,38 +29,17 @@ except ImportError:
     REPO_ROOT = Path(__file__).resolve().parents[2]
     logger.info("REPO_ROOT : %s", REPO_ROOT)
 
-# PUBLIC and TEMPLATES will be computed from the manifest path at runtime so the
-# converter can be used against any repository layout. They are set by
-# main() using the provided --manifest CLI option or by resolving a default
-# manifest under the repository root.
+# PUBLIC, TEMPLATES and MANIFEST will be populated at runtime so the converter
+# can be used against any repository layout. They are set by main() using the
+# provided --manifest CLI option or by resolving a manifest with the smart
+# manifest rules.
+MANIFEST = None
 PUBLIC = None
 TEMPLATES = None
 
 
-def _resolve_manifest(manifest_arg: str | None) -> Path:
-    """Resolve a manifest path. Preference order:
-    1. explicit CLI argument
-    2. REPO_ROOT/publish.yml or publish.yaml
-    3. REPO_ROOT/docs/public/publish.yml (legacy layout)
-    4. default to REPO_ROOT/publish.yml (may not exist)
-    """
-    if manifest_arg:
-        return Path(manifest_arg).resolve()
-    # check repo root
-    for name in ("publish.yml", "publish.yaml"):
-        candidate = REPO_ROOT / name
-        if candidate.exists():
-            return candidate.resolve()
-    # legacy location
-    legacy = REPO_ROOT / "docs" / "public" / "publish.yml"
-    if legacy.exists():
-        return legacy.resolve()
-    # fallback
-    return (REPO_ROOT / "publish.yml").resolve()
-
-
 def discover_asset_dirs() -> set:
-    cfg = yaml.safe_load((PUBLIC / "publish.yml").read_text())
+    cfg = yaml.safe_load(MANIFEST.read_text())
     assets = set()
     for item in cfg.get("publish", []):
         rel = item.get("path")
@@ -95,14 +76,14 @@ def convert_csv(csv_path: Path, assets_dir: Path):
         # get target path from template front matter
         front_matter = yaml.safe_load(out_text.split("---", 2)[1])
         target_str = front_matter.get("target") if front_matter else ""
-        target = Path(target_str).parent if target_str else ""
-        logger.info("Determined target: %s", target)
-        if target:
-            # resolve target
-            TARGET = target.resolve()
-            logger.info("Resolved target: %s", TARGET)
-            # check if table-*-{csv_path.stem}.md already exists in target directory
-            existing = list(TARGET.glob(f"table-*-{csv_path.stem}.md"))
+        target_path = Path(target_str) if target_str else None
+        logger.info("Determined target: %s", target_path)
+        if target_path:
+            if not target_path.is_absolute():
+                target_path = (PUBLIC / target_path).resolve()
+            target_dir = target_path.parent
+            logger.info("Resolved target directory: %s", target_dir)
+            existing = list(target_dir.glob(f"table-*-{csv_path.stem}.md"))
             if existing:
                 # overwrite existing file
                 table_path = existing[0]
@@ -113,10 +94,10 @@ def convert_csv(csv_path: Path, assets_dir: Path):
                 table_path.write_text(out_text)
             else:
                 # get count of "table-*" files in target directory
-                count = len(list(TARGET.glob("table-*.md")))
+                count = len(list(target_dir.glob("table-*.md")))
                 # replace table-number
                 out_text = out_text.replace("{table-number}", f"{count + 1:02d}")
-                table_path = TARGET / f"table-{count + 1}-{csv_path.stem}.md"
+                table_path = target_dir / f"table-{count + 1}-{csv_path.stem}.md"
                 table_path.parent.mkdir(parents=True, exist_ok=True)
                 logger.info(
                     "Writing table %s templated with %s to %s",
@@ -142,8 +123,9 @@ def main():
     )
     args = parser.parse_args()
 
-    manifest_path = _resolve_manifest(args.manifest)
-    global PUBLIC, TEMPLATES
+    manifest_path = resolve_manifest(explicit=args.manifest, cwd=Path.cwd(), repo_root=REPO_ROOT)
+    global MANIFEST, PUBLIC, TEMPLATES
+    MANIFEST = manifest_path
     PUBLIC = manifest_path.parent
     TEMPLATES = PUBLIC / "assets" / "templates"
 

@@ -21,9 +21,15 @@ import json
 import logging
 import os
 import sys
+from pathlib import Path
 from typing import Any, Dict, List
 
 from tools.logging_config import get_logger
+from tools.utils.smart_manifest import (
+    SmartManifestError,
+    detect_repo_root,
+    resolve_manifest,
+)
 
 logger = get_logger(__name__)
 
@@ -36,16 +42,15 @@ except ImportError:
     sys.exit(2)
 
 
-def find_publish_file(explicit: str = None) -> str:
-    if explicit and os.path.isfile(explicit):
-        return explicit
-    cwd = os.getcwd()
-    for name in ("publish.yaml", "publish.yml"):
-        candidate = os.path.join(cwd, name)
-        if os.path.isfile(candidate):
-            return candidate
-    logger.error("publish.yaml oder publish.yml im Repo-Root nicht gefunden.")
-    sys.exit(3)
+def find_publish_file(explicit: str = None) -> Path:
+    cwd = Path.cwd()
+    repo_root = detect_repo_root(cwd)
+    try:
+        manifest_path = resolve_manifest(explicit=explicit, cwd=cwd, repo_root=repo_root)
+    except SmartManifestError as exc:
+        logger.error(str(exc))
+        sys.exit(3)
+    return manifest_path
 
 
 def load_publish(publish_path: str) -> Dict[str, Any]:
@@ -121,7 +126,7 @@ def main():
         sys.exit(1)
 
     publish_path = find_publish_file(args.publish_file)
-    data = load_publish(publish_path)
+    data = load_publish(str(publish_path))
     entries: List[Dict[str, Any]] = data["publish"]
 
     # Index-Grenzen prüfen (falls übergeben)
@@ -183,7 +188,7 @@ def main():
     if args.dry_run:
         logger.info("[DRY-RUN] Änderungen würden geschrieben werden.")
     else:
-        save_publish(publish_path, data)
+        save_publish(str(publish_path), data)
 
     logger.info("publish file: %s", publish_path)
     if changed:
