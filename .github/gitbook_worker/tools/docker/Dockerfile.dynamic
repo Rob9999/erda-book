@@ -77,11 +77,16 @@ RUN apt-get update && apt-get install -y \
     wget \
     curl \
     fontconfig \
-    # Base fonts (minimal system fonts only)
+    # Base fonts (minimal system fonts only - NO Noto fonts, we use Twemoji)
     fonts-dejavu \
-    fonts-noto-color-emoji \
     && apt-get clean \
     && rm -rf /var/lib/apt/lists/*
+
+# --- Remove Noto Color Emoji font file (keep package for dependency, delete font) ---
+# texlive-full depends on fonts-noto-color-emoji, so we can't remove the package
+# Instead, we delete the font file and update font cache to prefer Twemoji
+RUN rm -f /usr/share/fonts/truetype/noto/NotoColorEmoji.ttf \
+    && fc-cache -f -v
 
 # --- LaTeX Configuration ---
 RUN mkdir -p /app/texmf/tex/latex/local && \
