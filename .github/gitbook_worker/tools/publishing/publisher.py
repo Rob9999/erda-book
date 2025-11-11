@@ -643,9 +643,7 @@ def _select_emoji_font(prefer_color: bool) -> Tuple[Optional[str], bool]:
             logger.info("ℹ Verwende Emoji-Font %s", candidate)
             return candidate, _needs_harfbuzz(candidate)
 
-    message = (
-        "❌ Twemoji nicht gefunden – bitte Docker-Image aktualisieren oder Fonts installieren"
-    )
+    message = "❌ Twemoji nicht gefunden – bitte Docker-Image aktualisieren oder Fonts installieren"
     logger.error(message)
     raise RuntimeError(
         "Twemoji font is not available in the current environment. "
@@ -961,7 +959,9 @@ def find_publish_manifest(explicit: Optional[str] = None) -> str:
     cwd = Path.cwd()
     repo_root = detect_repo_root(cwd)
     try:
-        manifest_path = resolve_manifest(explicit=explicit, cwd=cwd, repo_root=repo_root)
+        manifest_path = resolve_manifest(
+            explicit=explicit, cwd=cwd, repo_root=repo_root
+        )
     except SmartManifestError as exc:
         logger.error(str(exc))
         sys.exit(2)
@@ -1846,7 +1846,7 @@ def convert_a_file(
         paper_format=paper_format,
     )
     with tempfile.NamedTemporaryFile(
-        "w", suffix=".md", delete=False, encoding="utf-8"
+        "w", suffix=".md", delete=False, encoding="utf-8", newline="\n"
     ) as tmp:
         tmp.write(content)
         tmp_md = tmp.name
@@ -1955,7 +1955,7 @@ def convert_a_folder(
         # best-effort only
         pass
     with tempfile.NamedTemporaryFile(
-        "w", suffix=".md", delete=False, encoding="utf-8"
+        "w", suffix=".md", delete=False, encoding="utf-8", newline="\n"
     ) as tmp:
         tmp.write(combined)
         tmp_md = tmp.name
