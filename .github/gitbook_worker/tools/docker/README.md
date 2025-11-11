@@ -2,20 +2,40 @@
 
 Docker-basierte Tools für Tests, Publishing und Workflow-Orchestrierung des ERDA-Buchs.
 
+## 🎯 Strategie: Zwei-Image-Ansatz (Best Practice)
+
+**Empfehlung:** Nutze `Dockerfile.dynamic` für Production und `Dockerfile.python` für schnelle Tests.
+
+**Siehe auch:** 📚 `DOCKERFILE_STRATEGY.md` für vollständige Strategie-Dokumentation
+
 ## Images
 
-### ERDA Smart Worker ⭐ (Best Practice, empfohlen)
-* **`Dockerfile.dynamic`** – Intelligentes, dynamisch konfiguriertes Multi-Stage-Build
+### 1️⃣ ERDA Smart Worker ⭐ (Empfohlen für Production)
+* **`Dockerfile.dynamic`** – Intelligentes, dynamisch konfiguriertes Full-Stack-Image
   - **Docker Tag:** `erda-smart-worker`
+  - **Build-Zeit:** ~15 Minuten | **Image-Größe:** ~4 GB
+  - **Use Cases:** PDF-Publishing, Full Integration Tests, CI/CD Production
   - Liest Konfiguration aus `fonts.yml` (Single Source of Truth)
   - Automatische License-Compliance-Prüfung (AGENTS.md)
   - Integrierte Validierung (Fonts, Tools, Packages)
-  - Out-of-the-box ready mit dokumentierten Build-Artefakten
+  - Build-Artefakte dokumentiert in `/opt/gitbook_worker/reports/`
   - **Siehe:** `DOCKER_DYNAMIC_CONFIG_BEST_PRACTICE.md`
 
-### Legacy (deprecated)
-* `Dockerfile` – Multi-Stage-Build mit hardcodierten Fonts (Tag: `erda-workflow-tools`)
-* `Dockerfile.python` – Base Image mit LaTeX, Fonts und Pandoc
+### 2️⃣ Python Test Image ⚡ (Empfohlen für schnelle Tests)
+* **`Dockerfile.python`** – Leichtgewichtiges Test-Image
+  - **Docker Tag:** `erda-python-test`
+  - **Build-Zeit:** ~5 Minuten | **Image-Größe:** ~300 MB
+  - **Use Cases:** Unit-Tests, Code-Qualität (black), Pre-Commit Checks
+  - Nur Python 3.12 + pytest + git
+  - Kein LaTeX, kein Pandoc (schneller Build)
+  - Ideal für CI Fast-Feedback-Loop
+
+### ⚠️ Legacy (DEPRECATED - Nicht verwenden!)
+* **`Dockerfile`** – ❌ Multi-Stage-Build mit hardcodierten Fonts
+  - **Status:** DEPRECATED, wird entfernt
+  - **Docker Tag:** `erda-workflow-tools` (deprecated)
+  - **Probleme:** Hardcodiert, keine Validierung, manueller Wartungsaufwand
+  - **Migration:** Siehe `DOCKERFILE_STRATEGY.md`
 
 ## Schnellstart
 
