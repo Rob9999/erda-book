@@ -31,7 +31,7 @@ def _configure_root_logger() -> None:
 
     if stdout_only:
         # Docker build mode: only log to stdout
-        print("Logging to: stdout (Docker build mode)")
+        print("[LOG] stdout (Docker build mode)")
         stdout_handler = logging.StreamHandler(sys.stdout)
         stdout_handler.setLevel(logging.INFO)
         stdout_handler.setFormatter(formatter)
@@ -39,7 +39,7 @@ def _configure_root_logger() -> None:
     else:
         # Normal mode: log to file
         log_dir = GH_LOGS_DIR
-        print(f"Logging to: {log_dir}")
+        print(f"[LOG] {log_dir}")
         if log_dir:
             log_path = Path(log_dir)
             log_path.mkdir(parents=True, exist_ok=True)
@@ -85,7 +85,6 @@ def get_standard_logger_formatter() -> logging.Formatter:
 
 def get_logger(name: Optional[str] = None) -> logging.Logger:
     """Return a module-specific logger with default configuration."""
-    print("\n" + name + " called get_logger")
     _configure_root_logger()
     return logging.getLogger(name)
 
@@ -106,8 +105,6 @@ def make_specific_logger(
     Yields:
         logging.Logger: Configured logger instance.
     """
-    print("\n" + name + " called make_specific_logger")
-
     handler = logging.FileHandler(log_path, encoding="utf-8")
     handler.setFormatter(get_standard_logger_formatter())
 
