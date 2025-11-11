@@ -68,8 +68,13 @@ Nach dem Kopieren können Sie **alle Komponenten feinjustieren**:
 ├── defaults/                    # Standard-Konfigurationen
 │   └── docker_config.yml        # Docker-Naming-Defaults
 ├── docs/                        # Dokumentation
+│   ├── docker/                  # Docker-spezifische Dokumentation
+│   │   ├── README.md            # Docker-Dokumentations-Index
+│   │   ├── DOCKERFILE_STRATEGY.md   # Docker-Image-Strategie
+│   │   ├── LOGGING_STRATEGY.md      # Docker-Logging-Architektur
+│   │   ├── DEBUGGING.md             # Docker-Debugging-Guide
+│   │   └── IMPLEMENTATION_SUMMARY.md # Implementierungs-Zusammenfassung
 │   ├── docker-names-*.md        # Docker-Naming-System
-│   ├── DOCKERFILE_STRATEGY.md   # Docker-Image-Strategie
 │   └── ...                      # Weitere Dokumentation
 ├── scripts/                     # Ausführbare Skripte
 │   ├── docker-names.ps1         # Docker-Namen CLI (PowerShell)
@@ -115,7 +120,20 @@ Mehrere Dockerfile-Varianten für verschiedene Anwendungsfälle:
 - **Dockerfile.python** - Leichtgewichtig für Tests (~5 min Build, ~300 MB)
 - **Dockerfile** - Legacy (deprecated)
 
-Dokumentation: [DOCKERFILE_STRATEGY.md](docs/DOCKERFILE_STRATEGY.md)
+Dokumentation: [docs/docker/DOCKERFILE_STRATEGY.md](docs/docker/DOCKERFILE_STRATEGY.md)
+
+### Docker-Logging & Diagnostik
+
+Externes Log-Volume und Diagnostik-Tools für Docker-basierte Orchestrator-Läufe:
+
+- **Externes Log-Volume** - Logs persistieren in `.docker-logs/` außerhalb des Containers
+- **Diagnostik-Tool** - File-State-Tracking zur Identifizierung von Git-Status-Änderungen
+- **Automated Wrapper** - `diagnose-docker.ps1` für vollautomatische Analyse
+
+Dokumentation: [docs/docker/](docs/docker/) (Index)
+- [LOGGING_STRATEGY.md](docs/docker/LOGGING_STRATEGY.md) - Architektur und Strategie
+- [DEBUGGING.md](docs/docker/DEBUGGING.md) - Anwendungsguide und Troubleshooting
+- [IMPLEMENTATION_SUMMARY.md](docs/docker/IMPLEMENTATION_SUMMARY.md) - Implementierungsdetails
 
 ### Publishing-Tools
 
@@ -198,8 +216,8 @@ Bei Verbesserungen oder Erweiterungen des GitBook Workers:
 ## Support & Dokumentation
 
 - **Design-Entscheidungen**: Diese README.md
+- **Docker-Dokumentation**: `docs/docker/` (kompletter Index mit allen Docker-Themen)
 - **Docker-Naming**: `docs/docker-names-*.md`
-- **Docker-Strategie**: `docs/DOCKERFILE_STRATEGY.md`
 - **API-Referenz**: Docstrings in `tools/**/*.py`
 - **Beispiele**: Siehe `docs/*-INTEGRATION.md`
 

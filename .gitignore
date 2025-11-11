@@ -77,6 +77,9 @@ coverage.xml
 *.sqlite
 *.db
 
+# Docker external logs (created by run-in-docker scripts)
+.docker-logs/
+
 # OS generated files
 .DS_Store
 .DS_Store?

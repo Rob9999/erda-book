@@ -66,40 +66,54 @@ if [ "$COMMAND" = "build-only" ]; then
     exit 0
 fi
 
-# Run the desired command
+# Create external log directory for Docker
 WORKDIR=$(pwd)
+DOCKER_LOG_DIR="${WORKDIR}/.docker-logs"
+mkdir -p "$DOCKER_LOG_DIR"
+echo "Created external log directory: $DOCKER_LOG_DIR"
+
+# Run the desired command
 echo "Running command in Docker container..."
+echo "Logs will be available in: $DOCKER_LOG_DIR"
 
 case $COMMAND in
     test)
         docker run --rm \
             -v "${WORKDIR}:/workspace" \
+            -v "${DOCKER_LOG_DIR}:/docker-logs" \
             -w /workspace \
             -e PYTHONPATH=/workspace \
+            -e DOCKER_LOG_DIR=/docker-logs \
             "$IMAGE_TAG" \
             bash -c "cd /workspace && python3 -m pytest .github/gitbook_worker/tests -v --tb=short"
         ;;
     test-slow)
         docker run --rm \
             -v "${WORKDIR}:/workspace" \
+            -v "${DOCKER_LOG_DIR}:/docker-logs" \
             -w /workspace \
             -e PYTHONPATH=/workspace \
+            -e DOCKER_LOG_DIR=/docker-logs \
             "$IMAGE_TAG" \
             bash -c "cd /workspace && python3 -m pytest .github/gitbook_worker/tests -v -m slow --tb=short"
         ;;
     orchestrator)
         docker run --rm \
             -v "${WORKDIR}:/workspace" \
+            -v "${DOCKER_LOG_DIR}:/docker-logs" \
             -w /workspace \
             -e PYTHONPATH=/workspace \
+            -e DOCKER_LOG_DIR=/docker-logs \
             "$IMAGE_TAG" \
             bash -c "cd /workspace && python3 -m tools.workflow_orchestrator --root /workspace --manifest publish.yml --profile $PROFILE"
         ;;
     shell)
         docker run --rm -it \
             -v "${WORKDIR}:/workspace" \
+            -v "${DOCKER_LOG_DIR}:/docker-logs" \
             -w /workspace \
             -e PYTHONPATH=/workspace \
+            -e DOCKER_LOG_DIR=/docker-logs \
             "$IMAGE_TAG" \
             bash
         ;;
