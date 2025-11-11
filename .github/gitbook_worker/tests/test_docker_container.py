@@ -23,8 +23,8 @@ except ImportError:
     print("GH_DOCKER_DIR :", GH_DOCKER_DIR)
 from . import GH_TEST_LOGS_DIR
 
-IMAGE_NAME = "sphere-space-tests"
-CONTAINER_NAME = "sphere-space-tests-container"
+IMAGE_NAME = "erda-smart-worker-test"
+CONTAINER_NAME = "erda-smart-worker-test-container"
 
 
 def log_to_logger(logger, message, stdout=None, stderr=None):
@@ -141,38 +141,25 @@ def test_run_github_tests_in_docker(output_dir, artifact_dir, logger, request):
         ["docker", "rm", "-f", CONTAINER_NAME], check=False, logger=logger
     )
 
-    # Build fresh image
-    logger.info(f"Preparing to build Docker image {IMAGE_NAME}...")
-
-    # Copy requirements files to docker context
-    shutil.copy2(
-        req_dir / "requirements.txt",
-        docker_dir / "requirements.txt",
+    # Build fresh image using Dockerfile.dynamic (smart configuration)
+    logger.info(
+        f"Preparing to build Docker image {IMAGE_NAME} with Dockerfile.dynamic..."
     )
-    os.makedirs(docker_dir / "simulations", exist_ok=True)
 
-    try:
-        print("\nBuilding Docker image...")
-        run_docker_command(
-            [
-                "docker",
-                "build",
-                "-f",
-                ".github/gitbook_worker/tools/docker/Dockerfile",
-                "-t",
-                IMAGE_NAME,
-                str(REPO_ROOT),
-            ],
-            logger=logger,
-        )
-    finally:
-        # Cleanup temporary files
-        if (docker_dir / "requirements.txt").exists():
-            os.remove(docker_dir / "requirements.txt")
-        if (docker_dir / "simulations" / "requirements.txt").exists():
-            os.remove(docker_dir / "simulations" / "requirements.txt")
-        if (docker_dir / "simulations").exists():
-            os.rmdir(docker_dir / "simulations")
+    # No need to copy requirements - Dockerfile.dynamic handles this automatically
+    print("\nBuilding Docker image with smart configuration...")
+    run_docker_command(
+        [
+            "docker",
+            "build",
+            "-f",
+            ".github/gitbook_worker/tools/docker/Dockerfile.dynamic",
+            "-t",
+            IMAGE_NAME,
+            str(REPO_ROOT),
+        ],
+        logger=logger,
+    )
 
     print("\nStarting container...")
     run_docker_command(
@@ -185,7 +172,9 @@ def test_run_github_tests_in_docker(output_dir, artifact_dir, logger, request):
             "-v",
             f"{REPO_ROOT}:/workspace",
             "-e",
-            "PYTHONPATH=/workspace",
+            "PYTHONPATH=/workspace/.github/gitbook_worker",
+            "-e",
+            "GITHUB_TOOLS=/workspace/.github/gitbook_worker/tools",
             IMAGE_NAME,
             "sleep",
             "infinity",
