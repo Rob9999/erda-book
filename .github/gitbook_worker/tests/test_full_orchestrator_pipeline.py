@@ -13,8 +13,8 @@ REPO_ROOT = Path(__file__).resolve().parents[3]
 TEST_WORKSPACE = (
     REPO_ROOT / ".github" / "gitbook_worker" / "tests" / "data" / "workspace"
 )
-IMAGE_NAME = "erda-full-orchestrator-test"
-CONTAINER_NAME = "erda-full-orchestrator-test-container"
+IMAGE_NAME = "test-full-orchestrator"
+CONTAINER_NAME = "test-full-orchestrator-container"
 
 
 def run(cmd, check=True, **kwargs):

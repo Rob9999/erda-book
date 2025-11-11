@@ -10,8 +10,8 @@ REPO_ROOT = Path(__file__).resolve().parents[3]
 TEST_WORKSPACE = (
     REPO_ROOT / ".github" / "gitbook_worker" / "tests" / "data" / "workspace"
 )
-IMAGE_NAME = "erda-smart-worker-test"
-CONTAINER_NAME = "erda-smart-worker-readme-test"
+IMAGE_NAME = "test-smart-worker"
+CONTAINER_NAME = "test-smart-worker-readme-container"
 
 
 def run(cmd, check=True, **kwargs):
