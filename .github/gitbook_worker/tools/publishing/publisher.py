@@ -596,11 +596,6 @@ def _parse_font_specs(raw: Any, manifest_dir: Optional[Path]) -> List[FontSpec]:
 @lru_cache(maxsize=1)
 def _get_pandoc_version() -> Tuple[int, ...]:
     """Return the installed Pandoc version as a tuple or ``()`` if unknown."""
-
-    # TEMPORARY FIX: Force manual fallback mode for font configuration
-    # Pandoc 3.6+ CLI mainfontfallback seems broken, use Lua fallback instead
-    return ()
-
     pandoc = _which("pandoc")
     if not pandoc:
         return ()
@@ -1592,6 +1587,10 @@ def _run_pandoc(
     # For testing: force manual Lua fallback path (use LaTeX header) instead of
     # relying on Pandoc's CLI `mainfontfallback` handling. Set to False to
     # reproduce manual fallback behaviour quickly.
+    # Font fallback mode decision:
+    # Force manual LaTeX fallback (False) instead of Pandoc CLI fallback (True)
+    # Reason: Pandoc 3.6+ CLI -V mainfontfallback=... is broken (fonts don't load)
+    # Manual fallback uses \directlua{luaotfload.add_fallback(...)} which works reliably
     supports_mainfont_fallback = (
         False  # bool(pandoc_version and pandoc_version >= (3, 1, 12))
     )
@@ -1679,6 +1678,8 @@ def _run_pandoc(
                 import re as _re
 
                 plain_title = _re.sub(r"[\\{}]", "", str(title))
+                # Note: \AtBeginDocument{\maketitle} is required when using manual font fallback
+                # because Pandoc's template doesn't auto-trigger \maketitle without title metadata
                 title_header_path.write_text(
                     f"\\title{{\\texorpdfstring{{{safe_title}}}{{{plain_title}}}}}\\author{{}}\\date{{}}\\AtBeginDocument{{\\maketitle}}\n",
                     encoding="utf-8",
