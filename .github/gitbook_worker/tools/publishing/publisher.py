@@ -322,14 +322,17 @@ def _escape_latex(value: str) -> str:
     # Replace backslash first
     esc = value.replace("\\", "\\textbackslash{}")
 
+    # Escape LaTeX special characters
+    # NOTE: Use regular strings (not raw strings r"...") to ensure single backslash
+    # in output. r"\\&" would produce \\& (double backslash), but we need \& (single).
     replacements = {
-        "&": r"\\&",
-        "%": r"\\%",
-        "$": r"\\$",
-        "#": r"\\#",
-        "_": r"\\_",
-        "{": r"\\{",
-        "}": r"\\}",
+        "&": "\\&",
+        "%": "\\%",
+        "$": "\\$",
+        "#": "\\#",
+        "_": "\\_",
+        "{": "\\{",
+        "}": "\\}",
     }
 
     for k, v in replacements.items():
