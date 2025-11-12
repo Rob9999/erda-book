@@ -597,6 +597,10 @@ def _parse_font_specs(raw: Any, manifest_dir: Optional[Path]) -> List[FontSpec]:
 def _get_pandoc_version() -> Tuple[int, ...]:
     """Return the installed Pandoc version as a tuple or ``()`` if unknown."""
 
+    # TEMPORARY FIX: Force manual fallback mode for font configuration
+    # Pandoc 3.6+ CLI mainfontfallback seems broken, use Lua fallback instead
+    return ()
+
     pandoc = _which("pandoc")
     if not pandoc:
         return ()
@@ -631,12 +635,18 @@ def _select_emoji_font(prefer_color: bool) -> Tuple[Optional[str], bool]:
 
     Returns a tuple ``(font_name, needs_harfbuzz)`` describing the selected
     font and whether HarfBuzz rendering should be enabled for it.
+
+    TODO: Remove hardcoded font list! Violates AGENTS.md principles.
+          Should read from fonts.yml via setup_docker_environment.py
+          See: .github/gitbook_worker/tools/docker/fonts.yml
     """
 
+    # TEMPORARY HARDCODED LIST - TO BE REMOVED
+    # This is a violation of AGENTS.md and must be replaced with dynamic font discovery
     candidates: List[str] = []
     if prefer_color:
         candidates.append("Twemoji Mozilla")
-    candidates.extend(["Twemoji", "Segoe UI Emoji"])
+    candidates.extend(["Twemoji", "Twitter Color Emoji", "Segoe UI Emoji"])
 
     for candidate in candidates:
         if _font_available(candidate):
@@ -1579,7 +1589,12 @@ def _run_pandoc(
         variable_map.get("sansfont", _DEFAULT_VARIABLES["monofont"]),
     )
 
-    supports_mainfont_fallback = bool(pandoc_version and pandoc_version >= (3, 1, 12))
+    # For testing: force manual Lua fallback path (use LaTeX header) instead of
+    # relying on Pandoc's CLI `mainfontfallback` handling. Set to False to
+    # reproduce manual fallback behaviour quickly.
+    supports_mainfont_fallback = (
+        False  # bool(pandoc_version and pandoc_version >= (3, 1, 12))
+    )
     cli_fallback_spec: Optional[str] = None
     manual_fallback_spec: Optional[str] = None
     if fallback_override:
@@ -1665,7 +1680,7 @@ def _run_pandoc(
 
                 plain_title = _re.sub(r"[\\{}]", "", str(title))
                 title_header_path.write_text(
-                    f"\\title{{\\texorpdfstring{{{safe_title}}}{{{plain_title}}}}}\\author{{}}\\date{{}}\n",
+                    f"\\title{{\\texorpdfstring{{{safe_title}}}{{{plain_title}}}}}\\author{{}}\\date{{}}\\AtBeginDocument{{\\maketitle}}\n",
                     encoding="utf-8",
                 )
                 # Ensure Pandoc doesn't also inject the title via metadata

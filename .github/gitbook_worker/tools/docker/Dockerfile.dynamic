@@ -49,44 +49,86 @@ ENV LANG=C.UTF-8
 ENV GITHUB_TOOLS=/workspace/.github/gitbook_worker/tools
 VOLUME [ "/workspace" ]
 
-# --- System Dependencies ---
+# --- System Dependencies (without TeX Live and Pandoc - installed manually) ---
 # Install base system packages (fonts installed dynamically later)
 RUN apt-get update && apt-get install -y \
-    # Document processing
-    pandoc \
-    # LaTeX (full installation for comprehensive support)
-    texlive-full \
-    texlive-latex-base \
-    texlive-latex-extra \
-    texlive-fonts-recommended \
-    texlive-fonts-extra \
-    texlive-xetex \
-    texlive-luatex \
-    texlive-lang-german \
-    texlive-lang-all \
-    texlive-science \
-    lmodern \
-    cm-super \
     # Python environment
     python3 \
     python3-pip \
     python3-venv \
-    # Utilities
+    # Utilities for TeX Live installation
     git \
     make \
     wget \
     curl \
     fontconfig \
-    # Base fonts (minimal system fonts only - NO Noto fonts, we use Twemoji)
+    perl \
+    xz-utils \
+    # Base fonts (minimal system fonts + Unicode support)
     fonts-dejavu \
+    fonts-symbola \
+    fonts-liberation \
+    fonts-freefont-ttf \
     && apt-get clean \
     && rm -rf /var/lib/apt/lists/*
 
-# --- Remove Noto Color Emoji font file (keep package for dependency, delete font) ---
-# texlive-full depends on fonts-noto-color-emoji, so we can't remove the package
-# Instead, we delete the font file and update font cache to prefer Twemoji
-RUN rm -f /usr/share/fonts/truetype/noto/NotoColorEmoji.ttf \
-    && fc-cache -f -v
+# --- Install Latest Pandoc from GitHub (modern version) ---
+# Ubuntu 22.04 ships Pandoc 2.9.2.1 (2020) which is very old
+# Solution: Install latest Pandoc directly from GitHub releases
+RUN cd /tmp \
+    && PANDOC_VERSION=3.6 \
+    && wget -q https://github.com/jgm/pandoc/releases/download/${PANDOC_VERSION}/pandoc-${PANDOC_VERSION}-linux-amd64.tar.gz \
+    && tar -xzf pandoc-${PANDOC_VERSION}-linux-amd64.tar.gz \
+    && cp pandoc-${PANDOC_VERSION}/bin/pandoc /usr/local/bin/ \
+    && rm -rf pandoc-* \
+    && pandoc --version
+
+# --- Install TeX Live 2025 from CTAN (scheme-basic for stability) ---
+# Ubuntu 22.04 ships with TeX Live 2021/2022 which has UTF-8 issues in LuaLaTeX
+# Solution: Install TeX Live 2025 scheme-basic + selective packages (faster than full, stable)
+RUN cd /tmp \
+    && wget -q https://mirror.ctan.org/systems/texlive/tlnet/install-tl-unx.tar.gz \
+    && tar -xzf install-tl-unx.tar.gz \
+    && cd install-tl-* \
+    # Install scheme-basic (includes working LuaTeX, XeTeX, PDFTeX, ~5-7 minutes)
+    && perl ./install-tl --no-interaction --scheme=scheme-basic --no-doc-install --no-src-install \
+    && cd / \
+    && rm -rf /tmp/install-tl-* \
+    # Create initial symlinks in /usr/local/bin for TeX Live binaries (hardcode 2025)
+    && ln -s /usr/local/texlive/2025/bin/x86_64-linux/* /usr/local/bin/ || true \
+    # Install XeTeX engine and required LaTeX packages
+    # Note: fmtutil-sys may fail during language pattern updates, but binaries are still functional
+    && (tlmgr install \
+    xetex luatex lualatex-math \
+    fontspec polyglossia unicode-math \
+    babel-german hyphen-german \
+    fancyvrb mdwtools \
+    enumitem geometry \
+    xcolor \
+    booktabs longtable \
+    caption fancyhdr \
+    hyperref url \
+    graphicx graphics \
+    amsmath amsfonts \
+    ulem \
+    setspace \
+    etoolbox \
+    iftex \
+    infwarerr kvoptions kvsetkeys ltxcmds pdftexcmds || true) \
+    # Recreate symlinks after installing xetex (to pick up new binaries)
+    && rm -f /usr/local/bin/xelatex /usr/local/bin/xetex \
+    && ln -sf /usr/local/texlive/2025/bin/x86_64-linux/* /usr/local/bin/ \
+    # Verify installation
+    && lualatex --version \
+    && xelatex --version
+# Add TeX Live paths to environment (use 2025 as that's what CTAN installs)
+ENV PATH="/usr/local/texlive/2025/bin/x86_64-linux:$PATH" \
+    MANPATH="/usr/local/texlive/2025/texmf-dist/doc/man" \
+    INFOPATH="/usr/local/texlive/2025/texmf-dist/doc/info"
+
+# --- Font Configuration: Remove conflicting emoji fonts ---
+# Remove Noto Color Emoji if installed (system emoji fonts may conflict with Twemoji)
+RUN rm -f /usr/share/fonts/truetype/noto/NotoColorEmoji.ttf
 
 # --- LaTeX Configuration ---
 RUN mkdir -p /app/texmf/tex/latex/local && \

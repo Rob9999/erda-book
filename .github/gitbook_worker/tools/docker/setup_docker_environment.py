@@ -77,6 +77,8 @@ ALLOWED_LICENSES = {
     "Creative Commons Attribution 4.0 International (CC BY 4.0)",
     "MIT",
     "SIL Open Font License 1.1",
+    "Bitstream Vera License",
+    "Bitstream Vera License + Public Domain",
 }
 
 FORBIDDEN_LICENSES = {
