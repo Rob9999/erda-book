@@ -1,3 +1,25 @@
+# =============================================================================
+# ⚠️  DEPRECATED - DO NOT USE FOR NEW PROJECTS
+# =============================================================================
+# This Dockerfile is deprecated and will be removed in a future release.
+# 
+# ❌ Problems with this file:
+#   - Hardcoded font configurations (not in sync with fonts.yml)
+#   - No automatic license compliance checks (AGENTS.md)
+#   - No validation or integrity tests
+#   - Manual maintenance required for font updates
+#   - Risk of inconsistency with local development setup
+#
+# ✅ Please migrate to:
+#   - Dockerfile.dynamic (recommended, smart configuration)
+#   - Dockerfile.python (for lightweight Python tests only)
+#
+# 📚 Migration Guide: 
+#   See DOCKERFILE_STRATEGY.md for detailed instructions
+#
+# 🏷️  Docker Tag (deprecated): erda-workflow-tools:latest
+# =============================================================================
+
 # Python testing stage
 FROM python:3.12-slim AS python-test
 
@@ -65,7 +87,7 @@ RUN mkdir -p /app/texmf/tex/latex/local && \
 RUN mkdir -p /usr/share/fonts/truetype/twemoji && \
     wget -O /tmp/twemoji-linux.tar.gz \
     https://github.com/13rac1/twemoji-color-font/releases/download/v15.1.0/TwitterColorEmoji-SVGinOT-Linux-15.1.0.tar.gz && \
-    test -f /tmp/twemoji-linux.tar.gz && \
+    echo "c8a5302ee4e4c2188ce785edd84c50c616a07f6e99fe1b91aecba4e1db341295  /tmp/twemoji-linux.tar.gz" | sha256sum -c - && \
     tar -xzf /tmp/twemoji-linux.tar.gz -C /tmp && \
     test -f /tmp/TwitterColorEmoji-SVGinOT-Linux-15.1.0/TwitterColorEmoji-SVGinOT.ttf && \
     cp /tmp/TwitterColorEmoji-SVGinOT-Linux-15.1.0/TwitterColorEmoji-SVGinOT.ttf \

@@ -39,6 +39,17 @@ def test_font_available_uses_repo_fonts(monkeypatch, tmp_path):
     assert publisher._font_available("ERDA CC-BY CJK")
 
 
+def test_select_emoji_font_raises_when_twemoji_missing(monkeypatch, caplog):
+    caplog.set_level("ERROR")
+    monkeypatch.setattr(publisher, "_font_available", lambda name: False)
+
+    with pytest.raises(RuntimeError) as excinfo:
+        publisher._select_emoji_font(prefer_color=True)
+
+    assert "Twemoji" in str(excinfo.value)
+    assert any("Twemoji nicht gefunden" in message for message in caplog.messages)
+
+
 def test_get_publish_list(monkeypatch, tmp_path):
     manifest = tmp_path / "publish.yml"
     data = {
@@ -539,19 +550,24 @@ def test_run_pandoc_metadata_mapping_override(monkeypatch, tmp_path):
     assert cmd.count("-M") == 2
     assert "color=true" in " ".join(cmd)
     pairs = list(zip(cmd, cmd[1:]))
-    # Check for Twemoji Mozilla and some CJK font (may vary based on availability)
+
+    # NOTE: As of commit 1a41f98, we force manual LaTeX fallback (supports_mainfont_fallback=False)
+    # because Pandoc 3.6+ CLI -V mainfontfallback is broken. This means we NO LONGER use
+    # CLI fallback even for Pandoc 3.1.12+. Instead, fonts are configured via LaTeX header files.
+    # Test updated to reflect this architectural decision (manual fallback is more reliable).
     mainfontfallback_pairs = [
         (flag, value)
         for flag, value in pairs
         if flag == "-V" and "mainfontfallback=" in value
     ]
-    assert len(mainfontfallback_pairs) == 1
-    fallback_value = mainfontfallback_pairs[0][1]
-    assert "Twemoji Mozilla" in fallback_value
-    assert any(
-        font in fallback_value
-        for font in ["ERDA CC-BY CJK:mode=harf", "DejaVu Sans:mode=harf"]
-    )
+    # Expect 0 CLI fallback parameters (we use manual LaTeX fallback now)
+    assert (
+        len(mainfontfallback_pairs) == 0
+    ), "Expected manual fallback (no -V mainfontfallback)"
+
+    # Verify manual fallback is used: check for -H flag with font header
+    header_flags = [flag for flag in cmd if flag == "-H"]
+    assert len(header_flags) > 0, "Expected -H flag for manual font fallback header"
 
 
 def test_run_pandoc_uses_custom_fallback_with_newer_pandoc(monkeypatch, tmp_path):
@@ -595,22 +611,33 @@ def test_run_pandoc_uses_custom_fallback_with_newer_pandoc(monkeypatch, tmp_path
 
     cmd = captured["cmd"]
     pairs = list(zip(cmd, cmd[1:]))
-    # Check for mainfontfallback with Segoe UI Emoji and some CJK font
+
+    # NOTE: As of commit 1a41f98, we force manual LaTeX fallback (supports_mainfont_fallback=False)
+    # because Pandoc 3.6+ CLI -V mainfontfallback is broken. This means we NO LONGER use
+    # CLI fallback even for Pandoc 3.1.13+. Instead, fonts are configured via LaTeX header files.
+    # Test updated to reflect this architectural decision (manual fallback is more reliable).
     mainfontfallback_pairs = [
         (flag, value)
         for flag, value in pairs
         if flag == "-V" and "mainfontfallback=" in value
     ]
-    assert len(mainfontfallback_pairs) == 1
-    fallback_value = mainfontfallback_pairs[0][1]
-    assert "Segoe UI Emoji:mode=harf" in fallback_value
-    assert any(
-        font in fallback_value
-        for font in ["ERDA CC-BY CJK:mode=harf", "DejaVu Sans:mode=harf"]
-    )
-    assert all(pair != ("-V", "mainfontfallback=OpenMoji Black") for pair in pairs)
+    # Expect 0 CLI fallback parameters (we use manual LaTeX fallback now)
+    assert (
+        len(mainfontfallback_pairs) == 0
+    ), "Expected manual fallback (no -V mainfontfallback)"
+
+    # Verify manual fallback is used: check for -H flag with font header
+    header_flags = [flag for flag in cmd if flag == "-H"]
+    assert len(header_flags) > 0, "Expected -H flag for manual font fallback header"
+
+    # Verify manual fallback header contains luaotfload.add_fallback
     header_content = captured_header.get("text", "")
-    assert "luaotfload.add_fallback" not in header_content
+    assert (
+        "luaotfload.add_fallback" in header_content
+    ), "Expected manual LaTeX fallback in header"
+    assert (
+        "Segoe UI Emoji:mode=harf" in header_content
+    ), "Expected custom emoji font in fallback"
 
 
 def test_run_pandoc_uses_custom_fallback_with_legacy_pandoc(monkeypatch, tmp_path):

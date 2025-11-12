@@ -1,25 +1,29 @@
-# Docker Workflow Image
+﻿# Docker Tools
 
-Dockerfiles used to reproduce the CI environment for
-`.github/gitbook_worker/tools`.
+This directory contains Docker-related tools for the GitBook Worker.
 
-## Images
+## Tools
 
-* `Dockerfile` – multi-stage build that installs the tool suite along with the
-  test dependencies.  Use it to run pytest in a hermetic environment.
-* `Dockerfile.python` – base image with LaTeX tooling, fonts and Pandoc required
-  by the publishing pipeline.
+- **docker_diagnostics.py**: File state tracking tool for debugging Docker orchestrator runs
+- **setup_docker_environment.py**: Environment setup for Docker containers
 
-## Build commands
+## Documentation
 
-```bash
-# Build the main workflow image
-docker build -f .github/gitbook_worker/tools/docker/Dockerfile -t erda-workflow-tools .
+All documentation is centrally located in `.github/gitbook_worker/docs/docker/`:
 
-# Build the publishing base image
-docker build -f .github/gitbook_worker/tools/docker/Dockerfile.python -t erda-workflow-python .
-```
+- **[README.md](../../docs/docker/README.md)** - Docker documentation index and overview
+- **[DEBUGGING.md](../../docs/docker/DEBUGGING.md)** - Docker debugging and diagnostics guide
+- **[LOGGING_STRATEGY.md](../../docs/docker/LOGGING_STRATEGY.md)** - Logging strategy and architecture
+- **[DOCKERFILE_STRATEGY.md](../../docs/docker/DOCKERFILE_STRATEGY.md)** - Docker image strategy
+- **[IMPLEMENTATION_SUMMARY.md](../../docs/docker/IMPLEMENTATION_SUMMARY.md)** - Implementation summary
 
-Push images to GitHub Container Registry after verifying tests locally.  Keep
-this README in sync with the workflow definitions so contributors can reproduce
-CI behaviour on their machines.
+## Usage
+
+See the documentation files linked above for detailed usage instructions.
+
+## License
+
+- **Code**: MIT
+- **Documentation**: CC BY-SA 4.0
+
+Signed-off-by: ERDA GitBook Worker Team <team@erda-project.org>

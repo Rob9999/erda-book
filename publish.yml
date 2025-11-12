@@ -56,7 +56,7 @@ publish:
     main_font: DejaVu Serif
     sans_font: DejaVu Sans
     mono_font: DejaVu Sans Mono
-    mainfont_fallback: Twemoji Mozilla:mode=harf; [.github/fonts/erda-ccby-cjk/true-type/erda-ccby-cjk.ttf]:mode=harf
+    mainfont_fallback: Twemoji Mozilla:mode=harf; ERDA CC-BY CJK:mode=harf
   assets:
   - path: ./.gitbook/assets
     type: images

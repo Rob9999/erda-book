@@ -62,40 +62,56 @@ if ($Command -eq "build-only") {
     exit 0
 }
 
+# Erstelle externes Log-Verzeichnis für Docker
+$dockerLogDir = Join-Path $workDir ".docker-logs"
+if (-not (Test-Path $dockerLogDir)) {
+    New-Item -ItemType Directory -Force -Path $dockerLogDir | Out-Null
+    Write-Host "Created external log directory: $dockerLogDir" -ForegroundColor Green
+}
+
 # Führe den gewünschten Befehl aus
 $workDir = Get-Location
 Write-Host "Running command in Docker container..." -ForegroundColor Cyan
+Write-Host "Logs will be available in: $dockerLogDir" -ForegroundColor Cyan
 
 switch ($Command) {
     "test" {
         docker run --rm `
             -v "${workDir}:/workspace" `
+            -v "${dockerLogDir}:/docker-logs" `
             -w /workspace `
             -e PYTHONPATH=/workspace `
+            -e DOCKER_LOG_DIR=/docker-logs `
             $IMAGE_TAG `
             bash -c "cd /workspace && python3 -m pytest .github/gitbook_worker/tests -v --tb=short"
     }
     "test-slow" {
         docker run --rm `
             -v "${workDir}:/workspace" `
+            -v "${dockerLogDir}:/docker-logs" `
             -w /workspace `
             -e PYTHONPATH=/workspace `
+            -e DOCKER_LOG_DIR=/docker-logs `
             $IMAGE_TAG `
             bash -c "cd /workspace && python3 -m pytest .github/gitbook_worker/tests -v -m slow --tb=short"
     }
     "orchestrator" {
         docker run --rm `
             -v "${workDir}:/workspace" `
+            -v "${dockerLogDir}:/docker-logs" `
             -w /workspace `
             -e PYTHONPATH=/workspace `
+            -e DOCKER_LOG_DIR=/docker-logs `
             $IMAGE_TAG `
             bash -c "cd /workspace && python3 -m tools.workflow_orchestrator --root /workspace --manifest publish.yml --profile $Profile"
     }
     "shell" {
         docker run --rm -it `
             -v "${workDir}:/workspace" `
+            -v "${dockerLogDir}:/docker-logs" `
             -w /workspace `
             -e PYTHONPATH=/workspace `
+            -e DOCKER_LOG_DIR=/docker-logs `
             $IMAGE_TAG `
             bash
     }

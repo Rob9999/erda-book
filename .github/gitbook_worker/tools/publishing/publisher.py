@@ -322,14 +322,17 @@ def _escape_latex(value: str) -> str:
     # Replace backslash first
     esc = value.replace("\\", "\\textbackslash{}")
 
+    # Escape LaTeX special characters
+    # NOTE: Use regular strings (not raw strings r"...") to ensure single backslash
+    # in output. r"\\&" would produce \\& (double backslash), but we need \& (single).
     replacements = {
-        "&": r"\\&",
-        "%": r"\\%",
-        "$": r"\\$",
-        "#": r"\\#",
-        "_": r"\\_",
-        "{": r"\\{",
-        "}": r"\\}",
+        "&": "\\&",
+        "%": "\\%",
+        "$": "\\$",
+        "#": "\\#",
+        "_": "\\_",
+        "{": "\\{",
+        "}": "\\}",
     }
 
     for k, v in replacements.items():
@@ -596,7 +599,6 @@ def _parse_font_specs(raw: Any, manifest_dir: Optional[Path]) -> List[FontSpec]:
 @lru_cache(maxsize=1)
 def _get_pandoc_version() -> Tuple[int, ...]:
     """Return the installed Pandoc version as a tuple or ``()`` if unknown."""
-
     pandoc = _which("pandoc")
     if not pandoc:
         return ()
@@ -631,20 +633,31 @@ def _select_emoji_font(prefer_color: bool) -> Tuple[Optional[str], bool]:
 
     Returns a tuple ``(font_name, needs_harfbuzz)`` describing the selected
     font and whether HarfBuzz rendering should be enabled for it.
+
+    TODO: Remove hardcoded font list! Violates AGENTS.md principles.
+          Should read from fonts.yml via setup_docker_environment.py
+          See: .github/gitbook_worker/tools/docker/fonts.yml
     """
 
+    # TEMPORARY HARDCODED LIST - TO BE REMOVED
+    # This is a violation of AGENTS.md and must be replaced with dynamic font discovery
     candidates: List[str] = []
     if prefer_color:
         candidates.append("Twemoji Mozilla")
-    candidates.extend(["Twemoji", "Segoe UI Emoji"])
+    candidates.extend(["Twemoji", "Twitter Color Emoji", "Segoe UI Emoji"])
 
     for candidate in candidates:
         if _font_available(candidate):
             logger.info("ℹ Verwende Emoji-Font %s", candidate)
             return candidate, _needs_harfbuzz(candidate)
 
-    logger.warning("⚠ Keine spezielle Emoji-Schrift gefunden – fallback auf Hauptfont")
-    return None, False
+    message = "❌ Twemoji nicht gefunden – bitte Docker-Image aktualisieren oder Fonts installieren"
+    logger.error(message)
+    raise RuntimeError(
+        "Twemoji font is not available in the current environment. "
+        "Run 'fc-list | grep -i twemoji' inside the container and rebuild the Docker image "
+        "if necessary."
+    )
 
 
 def _lua_escape_string(value: str) -> str:
@@ -954,7 +967,9 @@ def find_publish_manifest(explicit: Optional[str] = None) -> str:
     cwd = Path.cwd()
     repo_root = detect_repo_root(cwd)
     try:
-        manifest_path = resolve_manifest(explicit=explicit, cwd=cwd, repo_root=repo_root)
+        manifest_path = resolve_manifest(
+            explicit=explicit, cwd=cwd, repo_root=repo_root
+        )
     except SmartManifestError as exc:
         logger.error(str(exc))
         sys.exit(2)
@@ -1357,8 +1372,9 @@ def prepare_publishing(
             return found
         return False
 
-    # Twemoji is installed via system package (fonts-twemoji) in Dockerfile
-    # No manual download required - as per AGENTS.md requirement (Twemoji CC BY 4.0 only)
+    # Twemoji wird im Docker-Image aus dem offiziellen Release-Archiv installiert
+    # (siehe tools/docker/Dockerfile). Diese Runtime-Prüfung stellt sicher, dass der
+    # Font wirklich verfügbar ist und der Build andernfalls klar fehlschlägt.
     # OpenMoji references removed to ensure license compliance
 
     # Load font configuration with smart merge (fonts.yml + publish.yml overrides)
@@ -1571,7 +1587,16 @@ def _run_pandoc(
         variable_map.get("sansfont", _DEFAULT_VARIABLES["monofont"]),
     )
 
-    supports_mainfont_fallback = bool(pandoc_version and pandoc_version >= (3, 1, 12))
+    # For testing: force manual Lua fallback path (use LaTeX header) instead of
+    # relying on Pandoc's CLI `mainfontfallback` handling. Set to False to
+    # reproduce manual fallback behaviour quickly.
+    # Font fallback mode decision:
+    # Force manual LaTeX fallback (False) instead of Pandoc CLI fallback (True)
+    # Reason: Pandoc 3.6+ CLI -V mainfontfallback=... is broken (fonts don't load)
+    # Manual fallback uses \directlua{luaotfload.add_fallback(...)} which works reliably
+    supports_mainfont_fallback = (
+        False  # bool(pandoc_version and pandoc_version >= (3, 1, 12))
+    )
     cli_fallback_spec: Optional[str] = None
     manual_fallback_spec: Optional[str] = None
     if fallback_override:
@@ -1656,8 +1681,10 @@ def _run_pandoc(
                 import re as _re
 
                 plain_title = _re.sub(r"[\\{}]", "", str(title))
+                # Note: \AtBeginDocument{\maketitle} is required when using manual font fallback
+                # because Pandoc's template doesn't auto-trigger \maketitle without title metadata
                 title_header_path.write_text(
-                    f"\\title{{\\texorpdfstring{{{safe_title}}}{{{plain_title}}}}}\\author{{}}\\date{{}}\n",
+                    f"\\title{{\\texorpdfstring{{{safe_title}}}{{{plain_title}}}}}\\author{{}}\\date{{}}\\AtBeginDocument{{\\maketitle}}\n",
                     encoding="utf-8",
                 )
                 # Ensure Pandoc doesn't also inject the title via metadata
@@ -1838,7 +1865,7 @@ def convert_a_file(
         paper_format=paper_format,
     )
     with tempfile.NamedTemporaryFile(
-        "w", suffix=".md", delete=False, encoding="utf-8"
+        "w", suffix=".md", delete=False, encoding="utf-8", newline="\n"
     ) as tmp:
         tmp.write(content)
         tmp_md = tmp.name
@@ -1947,7 +1974,7 @@ def convert_a_folder(
         # best-effort only
         pass
     with tempfile.NamedTemporaryFile(
-        "w", suffix=".md", delete=False, encoding="utf-8"
+        "w", suffix=".md", delete=False, encoding="utf-8", newline="\n"
     ) as tmp:
         tmp.write(combined)
         tmp_md = tmp.name

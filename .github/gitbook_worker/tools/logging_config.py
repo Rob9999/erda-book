@@ -16,32 +16,72 @@ except ModuleNotFoundError:  # pragma: no cover - fallback for local execution
 GH_LOGS_DIR = Path(GH_LOGS_DIR)
 
 
+def get_log_directory() -> Path:
+    """Determine the log directory based on environment.
+
+    Priority:
+    1. DOCKER_LOG_DIR env var (for external Docker log volumes)
+    2. GH_LOGS_DIR (default: .github/logs/)
+
+    Returns:
+        Path: Absolute path to the log directory.
+    """
+    import os
+
+    # Check for external Docker log directory
+    docker_log_dir = os.environ.get("DOCKER_LOG_DIR")
+    if docker_log_dir:
+        log_path = Path(docker_log_dir)
+        log_path.mkdir(parents=True, exist_ok=True)
+        return log_path
+
+    # Default: use .github/logs/
+    return GH_LOGS_DIR
+
+
 def _configure_root_logger() -> None:
     """Configure root logger with stdout/stderr handlers once."""
+    import os
+
     root_logger = get_root_logger()
     if root_logger.handlers:
         return
     root_logger.setLevel(logging.INFO)
     formatter = get_standard_logger_formatter()
-    log_dir = GH_LOGS_DIR
-    print(f"Logging to: {log_dir}")
-    if log_dir:
-        log_path = Path(log_dir)
-        log_path.mkdir(parents=True, exist_ok=True)
-        file_handler = logging.FileHandler(log_path / "workflow.log", encoding="utf-8")
-        file_handler.setLevel(logging.INFO)
-        file_handler.setFormatter(formatter)
-        root_logger.addHandler(file_handler)
-    else:
+
+    # Check if stdout-only mode is requested (e.g., during Docker build)
+    stdout_only = os.environ.get("GITBOOK_WORKER_LOG_STDOUT_ONLY", "0") == "1"
+
+    if stdout_only:
+        # Docker build mode: only log to stdout
+        print("[LOG] stdout (Docker build mode)")
         stdout_handler = logging.StreamHandler(sys.stdout)
         stdout_handler.setLevel(logging.INFO)
         stdout_handler.setFormatter(formatter)
         root_logger.addHandler(stdout_handler)
+    else:
+        # Normal mode: log to file
+        log_dir = get_log_directory()
+        print(f"[LOG] {log_dir}")
+        if log_dir:
+            log_path = Path(log_dir)
+            log_path.mkdir(parents=True, exist_ok=True)
+            file_handler = logging.FileHandler(
+                log_path / "workflow.log", encoding="utf-8"
+            )
+            file_handler.setLevel(logging.INFO)
+            file_handler.setFormatter(formatter)
+            root_logger.addHandler(file_handler)
+        else:
+            stdout_handler = logging.StreamHandler(sys.stdout)
+            stdout_handler.setLevel(logging.INFO)
+            stdout_handler.setFormatter(formatter)
+            root_logger.addHandler(stdout_handler)
 
-        stderr_handler = logging.StreamHandler(sys.stderr)
-        stderr_handler.setLevel(logging.WARNING)
-        stderr_handler.setFormatter(formatter)
-        root_logger.addHandler(stderr_handler)
+            stderr_handler = logging.StreamHandler(sys.stderr)
+            stderr_handler.setLevel(logging.WARNING)
+            stderr_handler.setFormatter(formatter)
+            root_logger.addHandler(stderr_handler)
 
 
 def get_root_logger() -> logging.Logger:
@@ -68,7 +108,6 @@ def get_standard_logger_formatter() -> logging.Formatter:
 
 def get_logger(name: Optional[str] = None) -> logging.Logger:
     """Return a module-specific logger with default configuration."""
-    print("\n" + name + " called get_logger")
     _configure_root_logger()
     return logging.getLogger(name)
 
@@ -89,8 +128,6 @@ def make_specific_logger(
     Yields:
         logging.Logger: Configured logger instance.
     """
-    print("\n" + name + " called make_specific_logger")
-
     handler = logging.FileHandler(log_path, encoding="utf-8")
     handler.setFormatter(get_standard_logger_formatter())
 

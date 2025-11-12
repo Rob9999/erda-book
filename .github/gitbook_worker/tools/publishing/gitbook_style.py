@@ -88,7 +88,9 @@ def _is_tracked(root: Path, rel_path: Path, *, is_dir: bool = False) -> bool:
             check=False,
         )
     except FileNotFoundError:
-        logger.debug("git executable not available – treating %s as untracked", rel_path)
+        logger.debug(
+            "git executable not available – treating %s as untracked", rel_path
+        )
         return False
 
     if is_dir:
@@ -111,9 +113,22 @@ def _remove_path(path: Path) -> None:
 
 
 def safe_git_mv(src: Path, dst: Path, *, use_git: bool = True) -> None:
-    """Move ``src`` to ``dst`` preserving Git history when possible."""
+    """Move ``src`` to ``dst`` preserving Git history when possible.
+
+    Handles case-insensitive filesystems (Windows) where src and dst differ only in case.
+    """
 
     if src == dst:
+        return
+
+    # Check if this is a case-only rename (README.md -> readme.md)
+    # We need to compare case-insensitively
+    if str(src).lower() == str(dst).lower() and str(src) != str(dst):
+        # This is a case-only rename which is problematic on Windows/in Docker
+        # Skip it completely - the file already exists with the correct content
+        logger.debug(
+            f"Skipping case-only rename (cross-platform incompatible): {src} -> {dst}"
+        )
         return
 
     dst.parent.mkdir(parents=True, exist_ok=True)
@@ -130,11 +145,25 @@ def safe_git_mv(src: Path, dst: Path, *, use_git: bool = True) -> None:
             _remove_path(dst)
 
     if use_git:
-        result = subprocess.run(["git", "mv", str(src), str(dst)], check=False)
+        result = subprocess.run(
+            ["git", "mv", str(src), str(dst)],
+            check=False,
+            capture_output=True,
+            text=True,
+        )
         if result.returncode == 0:
             return
 
-    src.rename(dst)
+        # Check if this is a "bad source" error (case-sensitivity issue)
+        if "fatal: bad source" in result.stderr:
+            logger.debug(
+                f"Skipping case-only rename: {src} -> {dst} (case-insensitive FS)"
+            )
+            return
+
+    # Only rename if source still exists and is different from destination
+    if src.exists() and src.resolve() != dst.resolve():
+        src.rename(dst)
 
 
 def is_appendix_line(line: str) -> bool:
@@ -173,9 +202,7 @@ def rename_to_gitbook_style(root: Path, *, use_git: bool = True) -> None:
                     dst = current_path / new_name
                     rel_dir = (current_path / directory).relative_to(root)
                     if use_git and not _is_tracked(root, rel_dir, is_dir=True):
-                        logger.debug(
-                            "Skipping untracked directory '%s'", rel_dir
-                        )
+                        logger.debug("Skipping untracked directory '%s'", rel_dir)
                         dirs.remove(directory)
                         continue
                     safe_git_mv(src, dst, use_git=use_git)

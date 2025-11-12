@@ -274,3 +274,4 @@
 * [Anhang I: Zentrales ERDA-Glossar](anhang-i-zentrales-erda-glossar.md)
 * [Anhang J: Lizenz & Offenheit](anhang-j-lizenz---offenheit.md)
 * [Anhang K: Qualitätssicherung](anhang-k-qualitatssicherung.md)
+* [Anhang L: Kolophon](anhang-l-kolophon.md)
