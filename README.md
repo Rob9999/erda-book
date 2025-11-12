@@ -1,5 +1,37 @@
 # ERDA Book
 
+## 📜 Attribution und Lizenzierung
+
+Dieses Projekt verwendet ein **Drei-Ebenen-System** für Transparenz und Rechtssicherheit:
+
+### Attribution-Hierarchie
+
+1. **`ATTRIBUTION.md`** (Repository) — **Primärquelle** für Compliance
+   - Maschinenlesbare Tabelle aller Drittinhalte (Fonts, Emojis, Assets)
+   - Wird von CI/CD-Tools geprüft
+   - **Zielgruppe:** Entwickler, Maintainer, Rechtsprüfung
+
+2. **`content/anhang-l-kolophon.md`** (PDF-Buch) — **Leserfreundlich**
+   - Narrative Font-Attribution für PDF-Leser
+   - Produktionsdetails (TeX Live, Pandoc, Build-Umgebung)
+   - **Zielgruppe:** Buchleser ohne Repo-Zugriff
+
+3. **`content/anhang-j-lizenz-and-offenheit.md`** (Konzept) — **Lizenzphilosophie**
+   - Rechtliche Rahmenbedingungen und Share-Alike-Prinzip
+   - **Zielgruppe:** Rechtsinteressierte, KI-Trainer, Remix-Projekte
+
+### ⚠️ Wichtig: Bei Änderungen an Fonts/Emojis/Assets
+
+**Alle drei Ebenen aktualisieren:**
+1. ✅ `ATTRIBUTION.md` → Neue Zeile in Tabelle
+2. ✅ `content/anhang-l-kolophon.md` → Abschnitt L.2 Typografie
+3. ✅ `content/anhang-j-lizenz-and-offenheit.md` → Lizenzmatrix prüfen
+4. ✅ Commit mit `Signed-off-by:` (DCO)
+
+Details siehe [`AGENTS.md`](AGENTS.md) → "Attribution-Hierarchie".
+
+---
+
 ## Schriftarten-Design
 
 ### PDF-Generierung

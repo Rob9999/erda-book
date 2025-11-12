@@ -19,5 +19,23 @@ Details: siehe **Anhang J: Lizenz & Offenheit** sowie die LICENSE-Dateien.
 > - Weitere Dritt-Assets bitte tabellarisch ergänzen (Quelle, Version, Lizenz) und Änderungen im Commit vermerken.
 
 ## Pflegehinweise
-- Bei neuen Assets **Tabelle erweitern** und in `content/README.md` verlinken.
-- Lizenz- und Quellenangaben müssen mit den tatsächlichen Dateien im Repo übereinstimmen.
+
+### ⚠️ Attribution-Hierarchie beachten
+
+Diese Datei ist **Primärquelle** für alle Drittinhalte. Bei Änderungen an Fonts, Emojis oder Assets müssen **drei Ebenen** synchron gehalten werden:
+
+1. **`ATTRIBUTION.md`** (diese Datei) — Tabelle erweitern
+2. **`content/anhang-l-kolophon.md`** — Abschnitt L.2 Typografie aktualisieren
+3. **`content/anhang-j-lizenz-and-offenheit.md`** — Lizenzmatrix prüfen (falls neue Lizenzkategorie)
+
+### Checkliste bei neuen Assets
+
+- [ ] Neue Zeile in obiger Tabelle mit allen Pflichtfeldern (Asset, Urheber, Lizenz, Quelle, Verwendung)
+- [ ] Lizenz kompatibel mit `AGENTS.md` (keine OFL/GPL/UFL/proprietär)
+- [ ] Version und Quelle exakt dokumentiert
+- [ ] `content/anhang-l-kolophon.md` Abschnitt L.2 ergänzt
+- [ ] `content/anhang-j-lizenz-and-offenheit.md` Lizenzmatrix (J.2) geprüft
+- [ ] Commit mit `Signed-off-by:` (DCO)
+- [ ] CI/CD-Compliance-Check erfolgreich
+
+**Hinweis:** Lizenz- und Quellenangaben müssen mit den tatsächlichen Dateien im Repo übereinstimmen.
