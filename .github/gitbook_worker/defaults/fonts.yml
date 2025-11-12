@@ -19,20 +19,26 @@ fonts:
   MONO:
     name: "DejaVu Sans Mono"
     paths: [] # System font
-    license: "SIL Open Font License 1.1"
-    license_url: "https://scripts.sil.org/cms/scripts/page.php?item_id=OFL"
+    license: "Bitstream Vera License + Public Domain"
+    license_url: "https://dejavu-fonts.github.io/License.html"
     source_url: "https://dejavu-fonts.github.io/"
+    copyright: "© 2003 Bitstream, Inc.; DejaVu changes are in public domain"
+    usage_note: "Font files may not be sold separately. Embedding in documents (PDF) is unrestricted."
 
   SANS:
     name: "DejaVu Sans"
     paths: [] # System font
-    license: "SIL Open Font License 1.1"
-    license_url: "https://scripts.sil.org/cms/scripts/page.php?item_id=OFL"
+    license: "Bitstream Vera License + Public Domain"
+    license_url: "https://dejavu-fonts.github.io/License.html"
     source_url: "https://dejavu-fonts.github.io/"
+    copyright: "© 2003 Bitstream, Inc.; DejaVu changes are in public domain"
+    usage_note: "Font files may not be sold separately. Embedding in documents (PDF) is unrestricted."
 
   SERIF:
     name: "DejaVu Serif"
     paths: [] # System font
-    license: "SIL Open Font License 1.1"
-    license_url: "https://scripts.sil.org/cms/scripts/page.php?item_id=OFL"
+    license: "Bitstream Vera License + Public Domain"
+    license_url: "https://dejavu-fonts.github.io/License.html"
     source_url: "https://dejavu-fonts.github.io/"
+    copyright: "© 2003 Bitstream, Inc.; DejaVu changes are in public domain"
+    usage_note: "Font files may not be sold separately. Embedding in documents (PDF) is unrestricted."
