@@ -91,17 +91,21 @@ RUN cd /tmp \
     && tar -xzf install-tl-unx.tar.gz \
     && cd install-tl-* \
     # Install scheme-basic (includes working LuaTeX, XeTeX, PDFTeX, ~5-7 minutes)
+    # Use a stable mirror repository to avoid mirror failures
     && perl ./install-tl --no-interaction --scheme=scheme-basic --no-doc-install --no-src-install \
+    --repository=https://ftp.tu-chemnitz.de/pub/tex/systems/texlive/tlnet/ \
     && cd / \
     && rm -rf /tmp/install-tl-* \
     # Create initial symlinks in /usr/local/bin for TeX Live binaries (hardcode 2025)
     && ln -s /usr/local/texlive/2025/bin/x86_64-linux/* /usr/local/bin/ || true \
+    # Configure tlmgr to use stable mirror
+    && tlmgr option repository https://ftp.tu-chemnitz.de/pub/tex/systems/texlive/tlnet/ \
     # Install XeTeX engine and required LaTeX packages
     # Note: fmtutil-sys may fail during language pattern updates, but binaries are still functional
     && (tlmgr install \
-    xetex luatex lualatex-math \
+    xetex luatex lualatex-math luatexbase \
     fontspec polyglossia unicode-math \
-    babel-german hyphen-german \
+    babel-german hyphen-german selnolig \
     fancyvrb mdwtools \
     enumitem geometry \
     xcolor \
