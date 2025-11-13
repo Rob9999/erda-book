@@ -1,7 +1,7 @@
 ---
-version: 1.0.0
+version: 1.1.0
 created: 2025-11-10
-modified: 2025-11-10
+modified: 2025-11-13
 status: stable
 type: index
 ---
@@ -9,6 +9,11 @@ type: index
 # Implementation Documentation
 
 ## Documents
+
+### content-discovery-implementation.md
+**Status:** Completed | **Created:** 2025-11-13
+
+Comprehensive implementation of the Smart Merge content discovery system for GitBook projects, plain folders, and single files. Provides unified API for discovering markdown content with graceful fallbacks. Includes 19 tests covering all scenarios and edge cases.
 
 ### font-refactoring-summary.md
 **Status:** Completed | **Created:** 2025-11-07
