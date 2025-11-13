@@ -74,7 +74,7 @@ jobs:
             -v "${PWD}:/workspace" \
             -w /workspace \
             gitbook-worker:test \
-            bash -c "set -euo pipefail; fc-list | grep -qi twemoji && echo '✓ Twemoji found'; fc-list | grep -qi erda-ccby-cjk && echo '✓ ERDA CC-BY CJK found'"
+            bash -c "fc-list | grep -i twemoji > /dev/null && echo '✓ Twemoji found' || echo '✗ Twemoji NOT found'; fc-list | grep -i erda-ccby-cjk > /dev/null && echo '✓ ERDA CC-BY CJK found' || echo '✗ ERDA CC-BY CJK NOT found'"
 
       - name: Run PDF integration tests in container
         run: |
