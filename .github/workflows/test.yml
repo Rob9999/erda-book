@@ -36,7 +36,7 @@ jobs:
         uses: docker/build-push-action@v6
         with:
           context: .
-          file: .github/gitbook_worker/tools/docker/Dockerfile
+          file: .github/gitbook_worker/tools/docker/Dockerfile.dynamic
           push: false
           load: true
           tags: gitbook-worker:test
@@ -46,7 +46,7 @@ jobs:
       - name: Run unit tests
         run: |
           docker run --rm -v ${PWD}:/workspace gitbook-worker:test \
-            bash -c "cd /workspace && pytest .github/gitbook_worker/tests -q -m 'not slow'"
+            bash -c "cd /workspace && pytest .github/gitbook_worker/tests -q -m 'not slow' --tb=short"
 
   integration-tests:
     if: ${{ github.event.inputs.test_suite == 'all' || github.event.inputs.test_suite == 'integration' || github.event_name == 'pull_request' }}
@@ -61,7 +61,7 @@ jobs:
         uses: docker/build-push-action@v6
         with:
           context: .
-          file: .github/gitbook_worker/tools/docker/Dockerfile
+          file: .github/gitbook_worker/tools/docker/Dockerfile.dynamic
           push: false
           load: true
           tags: gitbook-worker:test
@@ -82,7 +82,7 @@ jobs:
             -v "${PWD}:/workspace" \
             -w /workspace \
             gitbook-worker:test \
-            bash -c "set -euo pipefail; mkdir -p .github/gitbook_worker/tests/tmp/logs .github/gitbook_worker/tests/tmp/output .github/gitbook_worker/tests/tmp/artifacts artifacts; pytest .github/gitbook_worker/tests -q --cache-clear"
+            bash -c "set -euo pipefail; mkdir -p .github/gitbook_worker/tests/tmp/logs .github/gitbook_worker/tests/tmp/output .github/gitbook_worker/tests/tmp/artifacts artifacts; pytest .github/gitbook_worker/tests -q -m 'slow' --cache-clear"
 
       - name: Upload test artifacts
         if: always()
@@ -131,13 +131,12 @@ jobs:
           sudo rm -rf /usr/share/fonts/truetype/noto || true
           sudo rm -rf /usr/share/fonts/opentype/noto || true
 
-      - name: Install Twemoji font (CC BY 4.0)
+      - name: Install Twemoji Mozilla font (CC BY 4.0)
         run: |
           sudo mkdir -p /usr/share/fonts/truetype/twemoji
-          wget -O /tmp/twemoji-linux.tar.gz https://github.com/13rac1/twemoji-color-font/releases/download/v15.1.0/TwitterColorEmoji-SVGinOT-Linux-15.1.0.tar.gz
-          tar -xzf /tmp/twemoji-linux.tar.gz -C /tmp
-          sudo cp /tmp/TwitterColorEmoji-SVGinOT-Linux-15.1.0/TwitterColorEmoji-SVGinOT.ttf /usr/share/fonts/truetype/twemoji/
-          rm -rf /tmp/twemoji-linux.tar.gz /tmp/TwitterColorEmoji-SVGinOT-Linux-15.1.0
+          wget -O /tmp/twemoji-mozilla.tar.gz https://github.com/mozilla/twemoji-colr/releases/download/v0.7.0/Twemoji.Mozilla.ttf
+          sudo cp /tmp/Twemoji.Mozilla.ttf /usr/share/fonts/truetype/twemoji/
+          rm -f /tmp/twemoji-mozilla.tar.gz
 
       - name: Install ERDA CC-BY CJK font
         run: |
@@ -148,7 +147,7 @@ jobs:
         run: |
           sudo fc-cache -f -v
           echo "Installed fonts:"
-          fc-list | grep -E "Twemoji|erda-ccby-cjk" || echo "Warning: Required fonts not found"
+          fc-list | grep -E "Twemoji Mozilla|erda-ccby-cjk" || echo "Warning: Required fonts not found"
 
       - name: Run emoji harness
         run: bash .github/gitbook_worker/tools/run-emoji-harness.sh

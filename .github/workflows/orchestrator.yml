@@ -47,8 +47,7 @@ jobs:
         uses: docker/build-push-action@v6
         with:
           context: .
-          file: .github/gitbook_worker/tools/docker/Dockerfile
-          target: publisher
+          file: .github/gitbook_worker/tools/docker/Dockerfile.dynamic
           push: true
           tags: |
             ghcr.io/${{ steps.repository_slug.outputs.value }}/publisher:sha-${{ github.sha }}
@@ -80,8 +79,7 @@ jobs:
         uses: docker/build-push-action@v6
         with:
           context: .
-          file: .github/gitbook_worker/tools/docker/Dockerfile
-          target: publisher
+          file: .github/gitbook_worker/tools/docker/Dockerfile.dynamic
           push: false
           load: true
           tags: erda-publisher:local
