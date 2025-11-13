@@ -52,7 +52,7 @@ def _escape_latex_simple(value: str) -> str:
 
 @pytest.mark.unit
 def test_escape_latex_simple_ampersand():
-    """Test that ampersand is escaped with single backslash, not double.
+    r"""Test that ampersand is escaped with single backslash, not double.
 
     This verifies the escaping produces \& not \\& which would be double-escaped.
     """
