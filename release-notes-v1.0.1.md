@@ -130,5 +130,48 @@ Dieses Release wird automatisch auf Zenodo archiviert und erhält einen **dauerh
 
 ---
 
+## 🔧 Patch-Notizen — 2025-11-13 (CI & Build-Fixes)
+
+Diese Release-Notes wurden am 2025-11-13 erweitert, um die jüngsten technischen Korrekturen und CI-/Build-Verbesserungen zu dokumentieren. Die Änderungen betreffen vor allem die PDF-Build-Pipeline, Docker-Images, LaTeX-Toolchain und die GitHub Actions Workflows.
+
+Wesentliche Fixes (Kurzfassung):
+
+- Docker / Build
+  - Migration zu `Dockerfile.dynamic` für den Publisher-Build. Das neue Dockerfile installiert eine schlanke, reproduzierbare TeX-Live-Umgebung und richtet Fonts dynamisch ein.
+  - Stabiler CTAN-Mirror verwendet: `https://ftp.tu-chemnitz.de/pub/tex/systems/texlive/tlnet/` (reduziert Mirror-bedingte Installationsfehler).
+  - Zusätzliche LaTeX-Pakete ergänzt, die für die PDF-Erzeugung benötigt werden: `luatexbase`, `selnolig` (zusätzlich zu den zuvor ausgewählten ~25 Paketen).
+
+- LaTeX / Pandoc
+  - Pandoc-Workaround: Die CLI-Option `-V mainfontfallback=...` ist in Pandoc 3.6+ fehlerhaft. Daher wurde die manuelle LaTeX-Fallback-Implementierung aktiviert (statisch, robust).
+  - Titel-Rendering: `\\AtBeginDocument{\\maketitle}` wird nun in der generierten LaTeX-Header-Datei gesetzt, damit der Buchtitel zuverlässig im PDF erscheint.
+  - LaTeX-Escaping-Bug behoben: Rohstring-Fehler `r"\\&"` → korrigiert zu `"\\&"`, wodurch `&` in Titel/Metadaten korrekt als `\\&` escaped wird.
+
+- Workflows & CI
+  - `.github/workflows/test.yml` und `.github/workflows/orchestrator.yml` angepasst, damit CI dieselbe, getestete Umgebung verwendet (`Dockerfile.dynamic`) und nicht mehr die alte, unvollständige Docker-Konfiguration.
+  - `test.yml` Verbesserungen:
+    - Einheitliche Emoji-Fonts installiert (Twemoji Mozilla) für Konsistenz zwischen Umgebungen
+    - `pytest` Flags für bessere Fehlerausgaben (`--tb=short`) und bessere Test-Isolierung (Marker für langsame Tests)
+    - Verifikation der Fonts robuster gemacht (SIGPIPE-Problem mit `grep -q` behoben)
+  - `orchestrator.yml` Anpassungen:
+    - Build/Push konfiguriert auf `Dockerfile.dynamic` (GHCR-Images enthalten jetzt die Fixes)
+
+- Tests & Validierung
+  - Lokale und Container-geführte Tests:
+    - Unit-Tests: 147 passed, 7 skipped
+    - Integration-Tests: 6 passed, 4 skipped
+  - PDF-Erzeugung lokal und in Docker validiert (CJK, Emojis, Titel, Tabellen)
+
+- Commits / Audit
+  - Relevante Commits dieser Änderung (lokale Historie):
+    - 9720e01 — fix: Add missing LaTeX packages and stable CTAN mirror for reliable CI builds
+    - fe28777 — fix: Resolve SIGPIPE error in font verification check
+    - 5910bea — ci: Migrate workflows to Dockerfile.dynamic and improve test isolation
+    - db6dc05 — fix: Correct LaTeX escaping and update tests for manual fallback
+    - 11324c8 — fix: Force manual LaTeX fallback for Pandoc 3.6+ font handling
+
+Hinweis: Diese Notizen dokumentieren rein technische Änderungen an der Build-/CI-Infrastruktur und enthalten keine redaktionellen Änderungen am Buchtext selbst.
+
+---
+
 **Lizenz dieses Release-Dokuments:** CC BY-SA 4.0  
 **Copyright:** © 2025 Robert Alexander Massinger
