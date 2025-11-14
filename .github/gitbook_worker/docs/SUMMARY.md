@@ -204,10 +204,19 @@ ERROR: Checksum mismatch for font.ttf
 
 ## 📚 Weiterführende Dokumentation
 
+### Docker & Infrastructure
 - **Vollständige Dokumentation:** `DOCKER_DYNAMIC_CONFIG_BEST_PRACTICE.md`
 - **Schnellstart:** `README.md`
 - **Font-Konfiguration:** `../../defaults/fonts.yml`
 - **License Policy:** `../../../../../AGENTS.md`
+
+### Implementation Documentation
+- **[Content Discovery Implementation](./implementations/content-discovery-implementation.md)** - Unified content discovery with Smart Merge (v1.0.0)
+- **[Smart Publish Flag Management Implementation](./implementations/smart-manage-publish-flags-implementation.md)** - Unified flag management with book.json awareness (v1.0.0)
+
+### Smart Modules Overview
+- **[Smart Modules README](../tools/utils/README.md)** - Overview of all smart modules and architecture
+- **Smart Merge Philosophy:** Explicit → Convention → Fallback hierarchy across all modules
 
 ---
 
