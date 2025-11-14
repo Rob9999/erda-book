@@ -31,6 +31,7 @@ from tools.utils.smart_manifest import (
     detect_repo_root,
     resolve_manifest,
 )
+from tools.utils.smart_manage_publish_flags import set_publish_flags
 
 LOGGER = get_logger(__name__)
 
@@ -474,23 +475,36 @@ def run(config: OrchestratorConfig) -> None:
 
 
 def _step_check_if_to_publish(ctx: RuntimeContext) -> None:
-    script = ctx.tools_dir / "publishing" / "set_publish_flag.py"
-    if not script.exists():
-        LOGGER.warning("set_publish_flag.py nicht gefunden – Schritt wird übersprungen")
-        return
-    cmd = [
-        ctx.python,
-        str(script),
-        "--publish-file",
-        str(ctx.config.manifest),
-    ]
-    if ctx.config.commit:
-        cmd.extend(["--commit", ctx.config.commit])
-    if ctx.config.base:
-        cmd.extend(["--base", ctx.config.base])
-    if ctx.config.reset_others:
-        cmd.append("--reset-others")
-    ctx.run_command(cmd)
+    """Check which targets need to be published based on changed files.
+
+    Uses smart_manage_publish_flags directly instead of deprecated wrapper.
+    """
+    LOGGER.info("Checking publish flags using smart_manage_publish_flags...")
+
+    try:
+        result = set_publish_flags(
+            manifest_path=ctx.config.manifest,
+            commit=ctx.config.commit or "HEAD",
+            base=ctx.config.base,
+            reset_others=ctx.config.reset_others,
+            dry_run=False,
+            debug=False,
+        )
+
+        if result["any_build_true"]:
+            modified_count = len(result["modified_entries"])
+            LOGGER.info("Found %d modified target(s) to publish", modified_count)
+            for entry in result["modified_entries"]:
+                LOGGER.info(
+                    "  - %s: %s -> %s", entry["path"], entry["from"], entry["to"]
+                )
+        else:
+            LOGGER.warning("No targets to publish - exiting")
+            sys.exit(2)  # Exit code 2 = nothing to publish
+
+    except Exception as exc:
+        LOGGER.error("Failed to check publish flags: %s", exc, exc_info=True)
+        raise
 
 
 def _step_ensure_readme(ctx: RuntimeContext) -> None:
@@ -524,18 +538,30 @@ def _step_ensure_readme(ctx: RuntimeContext) -> None:
     skipped_pattern: int = 0
 
     # Walk through all directories in repository
-    for directory in ctx.root.rglob("*"):
-        if not directory.is_dir():
-            continue
+    # Use iterdir + recursion to avoid expensive is_dir() checks on large repos
+    def walk_dirs(base: Path) -> list[Path]:
+        """Recursively collect directories, skipping hidden ones early."""
+        dirs = []
+        try:
+            for item in base.iterdir():
+                # Skip hidden items (starting with .) except root
+                if item.name.startswith(".") and item != ctx.root:
+                    continue
+                if item.is_dir():
+                    dirs.append(item)
+                    # Recurse into subdirectory
+                    dirs.extend(walk_dirs(item))
+        except (OSError, PermissionError):
+            # Skip directories we can't read
+            pass
+        return dirs
 
+    for directory in walk_dirs(ctx.root):
         # Skip root directory itself
         if directory == ctx.root:
             continue
 
-        # Skip hidden directories (starting with .)
         rel = directory.relative_to(ctx.root)
-        if any(part.startswith(".") and part != "." for part in rel.parts):
-            continue
 
         # Check pattern matching (smart exclude/include)
         if not readme_loader.matches_patterns(directory, ctx.root):

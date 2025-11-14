@@ -1,7 +1,7 @@
 ---
-version: 1.0.0
+version: 1.1.0
 created: 2025-11-10
-modified: 2025-11-10
+modified: 2025-11-13
 status: stable
 type: index
 ---
@@ -19,6 +19,7 @@ System architecture and high-level overviews:
 
 ### 🔧 `implementations/`
 Implementation summaries and technical details:
+- `content-discovery-implementation.md` - Smart merge content discovery system
 - `font-refactoring-summary.md` - Font configuration refactoring details
 - `smart-merge-implementation.md` - Smart merge font configuration implementation
 

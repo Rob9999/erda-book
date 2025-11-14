@@ -1296,7 +1296,12 @@ def prepare_publishing(
         if font_cache_refreshed:
             return
         if _which("fc-cache"):
-            _run(["fc-cache", "-f", "-v"], check=False)
+            # Note: -v (verbose) flag causes fc-cache to hang on Windows TeX Live
+            # Use -v only on non-Windows platforms
+            cmd = ["fc-cache", "-f"]
+            if sys.platform != "win32":
+                cmd.append("-v")
+            _run(cmd, check=False)
             font_cache_refreshed = True
 
     if removed_fonts:
@@ -1480,7 +1485,12 @@ def prepare_publishing(
     if manifest_specs or removed_fonts or font_cache_refreshed:
         logger.info("🔄 Final fontconfig cache refresh...")
         if _which("fc-cache"):
-            _run(["fc-cache", "-f", "-v"], check=False)
+            # Note: -v (verbose) flag causes fc-cache to hang on Windows TeX Live
+            # Use -v only on non-Windows platforms
+            cmd = ["fc-cache", "-f"]
+            if sys.platform != "win32":
+                cmd.append("-v")
+            _run(cmd, check=False)
 
 
 # --------------------------- PDF Build (C) --------------------------------- #
