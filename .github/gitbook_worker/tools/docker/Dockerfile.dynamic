@@ -231,6 +231,11 @@ RUN echo '#!/bin/bash\n\
     export LUA_PATH="$GITHUB_TOOLS/publishing/lua/?.lua;;"\n\
     export PYTHONPATH="/workspace/.github/gitbook_worker:$PYTHONPATH"\n\
     \n\
+    # Fix Git safe.directory for GitHub Actions and Docker volumes\n\
+    if [ -d "/workspace/.git" ]; then\n\
+    git config --global --add safe.directory /workspace 2>/dev/null || true\n\
+    fi\n\
+    \n\
     # Display build information\n\
     if [ "$1" = "--info" ]; then\n\
     echo "============================================================="\n\
