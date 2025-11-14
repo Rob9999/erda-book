@@ -16,7 +16,10 @@ import argparse
 import json
 import sys
 
-from set_publish_flag import find_publish_file, load_publish
+from tools.utils.smart_manage_publish_flags import (
+    find_publish_file,
+    load_publish_manifest,
+)
 from publisher import get_publish_list
 
 
@@ -36,7 +39,7 @@ def main() -> None:
     manifest_path = find_publish_file(args.manifest)
 
     if args.all:
-        data = load_publish(manifest_path)
+        data = load_publish_manifest(manifest_path)
         entries = data.get("publish", [])
     else:
         entries = get_publish_list(manifest_path)
