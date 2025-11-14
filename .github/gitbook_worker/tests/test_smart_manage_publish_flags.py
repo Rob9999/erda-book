@@ -96,6 +96,20 @@ def temp_repo(tmp_path):
         capture_output=True,
     )
 
+    # Create second commit to ensure diff-tree works
+    # (diff-tree on first commit may return empty in some Git versions)
+    docs = repo / "docs"
+    docs.mkdir()
+    doc_file = docs / "example.md"
+    doc_file.write_text("# Example\n")
+    subprocess.run(["git", "add", "."], cwd=repo, check=True, capture_output=True)
+    subprocess.run(
+        ["git", "commit", "-m", "Add docs"],
+        cwd=repo,
+        check=True,
+        capture_output=True,
+    )
+
     return repo
 
 
@@ -289,8 +303,8 @@ class TestGitChangedFiles:
             os.chdir(temp_repo)
             # Use non-existent base to trigger fallback
             files = get_changed_files(head, "nonexistent_base")
-            # Should fallback to single commit analysis
-            assert "README.md" in files
+            # Should fallback to single commit analysis (HEAD is second commit)
+            assert "docs/example.md" in files
         finally:
             os.chdir(original_cwd)
 
@@ -298,7 +312,7 @@ class TestGitChangedFiles:
 class TestSetPublishFlags:
     """Tests for set_publish_flags function."""
 
-    @patch("tools.utils.smart_git.get_changed_files")
+    @patch("tools.utils.smart_manage_publish_flags.git_get_changed_files")
     @patch("tools.utils.smart_manage_publish_flags.load_publish_targets")
     @patch("tools.utils.smart_manage_publish_flags.get_target_content_root")
     def test_set_flags_with_book_json(
@@ -325,7 +339,7 @@ class TestSetPublishFlags:
         assert len(results["modified_entries"]) > 0
         assert results["any_build_true"] is True
 
-    @patch("tools.utils.smart_git.get_changed_files")
+    @patch("tools.utils.smart_manage_publish_flags.git_get_changed_files")
     @patch("tools.utils.smart_manage_publish_flags.load_publish_targets")
     def test_set_flags_without_book_json(
         self, mock_load_targets, mock_git_files, temp_manifest
@@ -343,7 +357,7 @@ class TestSetPublishFlags:
         # README.md entry should match
         assert any(e["path"] == "README.md" for e in results["modified_entries"])
 
-    @patch("tools.utils.smart_git.get_changed_files")
+    @patch("tools.utils.smart_manage_publish_flags.git_get_changed_files")
     @patch("tools.utils.smart_manage_publish_flags.load_publish_targets")
     def test_set_flags_root_path_matches_all(
         self, mock_load_targets, mock_git_files, temp_manifest

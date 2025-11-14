@@ -73,6 +73,25 @@ def temp_git_repo(tmp_path):
         capture_output=True,
     )
 
+    # Create second commit to ensure diff-tree works
+    # (diff-tree on first commit may return empty in some Git versions)
+    docs = repo / "docs"
+    docs.mkdir()
+    doc_file = docs / "example.md"
+    doc_file.write_text("# Example\n")
+    subprocess.run(
+        ["git", "add", "."],
+        cwd=repo,
+        check=True,
+        capture_output=True,
+    )
+    subprocess.run(
+        ["git", "commit", "-m", "Add docs"],
+        cwd=repo,
+        check=True,
+        capture_output=True,
+    )
+
     return repo
 
 
@@ -176,7 +195,8 @@ class TestGetChangedFiles:
         try:
             os.chdir(temp_git_repo)
             files = get_changed_files("HEAD")
-            assert "README.md" in files
+            # HEAD is second commit with docs/example.md
+            assert "docs/example.md" in files
         finally:
             os.chdir(original_cwd)
 
@@ -187,8 +207,8 @@ class TestGetChangedFiles:
             os.chdir(temp_git_repo)
             # Use nonexistent base
             files = get_changed_files("HEAD", "nonexistent_base_commit")
-            # Should fallback and still return files
-            assert "README.md" in files
+            # Should fallback and still return files from HEAD (second commit)
+            assert "docs/example.md" in files
         finally:
             os.chdir(original_cwd)
 
@@ -235,7 +255,8 @@ class TestCommitInfo:
         try:
             os.chdir(temp_git_repo)
             msg = get_commit_message("HEAD")
-            assert msg == "Initial commit"
+            # HEAD is second commit
+            assert msg == "Add docs"
         finally:
             os.chdir(original_cwd)
 
