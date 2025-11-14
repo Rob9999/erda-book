@@ -538,18 +538,30 @@ def _step_ensure_readme(ctx: RuntimeContext) -> None:
     skipped_pattern: int = 0
 
     # Walk through all directories in repository
-    for directory in ctx.root.rglob("*"):
-        if not directory.is_dir():
-            continue
+    # Use iterdir + recursion to avoid expensive is_dir() checks on large repos
+    def walk_dirs(base: Path) -> list[Path]:
+        """Recursively collect directories, skipping hidden ones early."""
+        dirs = []
+        try:
+            for item in base.iterdir():
+                # Skip hidden items (starting with .) except root
+                if item.name.startswith(".") and item != ctx.root:
+                    continue
+                if item.is_dir():
+                    dirs.append(item)
+                    # Recurse into subdirectory
+                    dirs.extend(walk_dirs(item))
+        except (OSError, PermissionError):
+            # Skip directories we can't read
+            pass
+        return dirs
 
+    for directory in walk_dirs(ctx.root):
         # Skip root directory itself
         if directory == ctx.root:
             continue
 
-        # Skip hidden directories (starting with .)
         rel = directory.relative_to(ctx.root)
-        if any(part.startswith(".") and part != "." for part in rel.parts):
-            continue
 
         # Check pattern matching (smart exclude/include)
         if not readme_loader.matches_patterns(directory, ctx.root):
