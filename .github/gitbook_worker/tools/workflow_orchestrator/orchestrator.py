@@ -492,7 +492,12 @@ def _step_check_if_to_publish(ctx: RuntimeContext) -> None:
         )
 
         if result["any_build_true"]:
-            LOGGER.info("Found %d target(s) to publish", result["targets_set"])
+            modified_count = len(result["modified_entries"])
+            LOGGER.info("Found %d modified target(s) to publish", modified_count)
+            for entry in result["modified_entries"]:
+                LOGGER.info(
+                    "  - %s: %s -> %s", entry["path"], entry["from"], entry["to"]
+                )
         else:
             LOGGER.warning("No targets to publish - exiting")
             sys.exit(2)  # Exit code 2 = nothing to publish
