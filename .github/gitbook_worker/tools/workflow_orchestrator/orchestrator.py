@@ -31,6 +31,7 @@ from tools.utils.smart_manifest import (
     detect_repo_root,
     resolve_manifest,
 )
+from tools.utils.smart_manage_publish_flags import set_publish_flags
 
 LOGGER = get_logger(__name__)
 
@@ -474,23 +475,31 @@ def run(config: OrchestratorConfig) -> None:
 
 
 def _step_check_if_to_publish(ctx: RuntimeContext) -> None:
-    script = ctx.tools_dir / "publishing" / "set_publish_flag.py"
-    if not script.exists():
-        LOGGER.warning("set_publish_flag.py nicht gefunden – Schritt wird übersprungen")
-        return
-    cmd = [
-        ctx.python,
-        str(script),
-        "--publish-file",
-        str(ctx.config.manifest),
-    ]
-    if ctx.config.commit:
-        cmd.extend(["--commit", ctx.config.commit])
-    if ctx.config.base:
-        cmd.extend(["--base", ctx.config.base])
-    if ctx.config.reset_others:
-        cmd.append("--reset-others")
-    ctx.run_command(cmd)
+    """Check which targets need to be published based on changed files.
+
+    Uses smart_manage_publish_flags directly instead of deprecated wrapper.
+    """
+    LOGGER.info("Checking publish flags using smart_manage_publish_flags...")
+
+    try:
+        result = set_publish_flags(
+            manifest_path=ctx.config.manifest,
+            commit=ctx.config.commit or "HEAD",
+            base=ctx.config.base,
+            reset_others=ctx.config.reset_others,
+            dry_run=False,
+            debug=False,
+        )
+
+        if result["any_build_true"]:
+            LOGGER.info("Found %d target(s) to publish", result["targets_set"])
+        else:
+            LOGGER.warning("No targets to publish - exiting")
+            sys.exit(2)  # Exit code 2 = nothing to publish
+
+    except Exception as exc:
+        LOGGER.error("Failed to check publish flags: %s", exc, exc_info=True)
+        raise
 
 
 def _step_ensure_readme(ctx: RuntimeContext) -> None:

@@ -8,6 +8,7 @@ import argparse
 def main():
     p = argparse.ArgumentParser()
     p.add_argument("--publish", default=None)
+    p.add_argument("--publish-file", dest="publish", default=None)  # Accept both old and new arg names
     p.add_argument("--commit", default="HEAD")
     p.add_argument("--base", default=None)
     p.add_argument("--reset-others", action="store_true")
