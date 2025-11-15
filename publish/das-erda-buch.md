@@ -21587,7 +21587,7 @@ Die vollständigen Lizenzbedingungen sind unter <https://creativecommons.org/lic
 ---
 
 Dieses Kapitel ist Teil des **ERDA‑Buches** und bildet die **verbindliche Grundlage** für alle Lizenzfragen rund um das Projekt.  
-Für weiterführende Fragen wenden Sie sich an die im **Impressum** angegebenen Ansprechpartner.
+Für weiterführende Fragen wenden Sie sich an den **Autor** (siehe Kontaktdaten in Kapitel J.1 oder am Ende der Staatenprofile).
 
 
 \newpage
