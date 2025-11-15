@@ -114,11 +114,11 @@ jobs:
           if [ -n "$BASE" ]; then
             EXTRA_ARGS="--base $BASE"
           fi
-          
+
           # Create temp file for GITHUB_OUTPUT in workspace (accessible from Docker)
           TEMP_OUTPUT="/tmp/github_output_$$"
           touch "$TEMP_OUTPUT"
-          
+
           # Run orchestrator with exit code 2 = success (nothing to publish)
           docker run --rm \
             -v "$PWD:/workspace" \
@@ -138,7 +138,7 @@ jobs:
               --commit "${GITHUB_SHA}" \
               ${EXTRA_ARGS} \
               --reset-others || EXIT_CODE=$?
-          
+
           # Handle exit codes: 0 = success, 2 = nothing to publish (also success)
           EXIT_CODE=${EXIT_CODE:-0}
           if [ $EXIT_CODE -eq 2 ]; then
@@ -151,7 +151,7 @@ jobs:
             rm -f "$TEMP_OUTPUT"
             exit $EXIT_CODE
           fi
-          
+
           # Success - copy output
           cat "$TEMP_OUTPUT" >> "${GITHUB_OUTPUT}"
           rm -f "$TEMP_OUTPUT"
