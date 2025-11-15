@@ -114,12 +114,19 @@ jobs:
           if [ -n "$BASE" ]; then
             EXTRA_ARGS="--base $BASE"
           fi
+          
+          # Create temp file for GITHUB_OUTPUT in workspace (accessible from Docker)
+          TEMP_OUTPUT="/tmp/github_output_$$"
+          touch "$TEMP_OUTPUT"
+          
+          # Run orchestrator with exit code 2 = success (nothing to publish)
           docker run --rm \
             -v "$PWD:/workspace" \
+            -v "$TEMP_OUTPUT:/tmp/github_output" \
             -w /workspace \
             -e GITHUB_SHA="${GITHUB_SHA}" \
             -e GITHUB_REPOSITORY="${GITHUB_REPOSITORY}" \
-            -e GITHUB_OUTPUT="${GITHUB_OUTPUT}" \
+            -e GITHUB_OUTPUT="/tmp/github_output" \
             -e ORCHESTRATOR_PROFILE="${PROFILE}" \
             -e ORCHESTRATOR_REPO_VISIBILITY="${REPO_VISIBILITY}" \
             "$IMAGE" \
@@ -130,4 +137,21 @@ jobs:
               --repo-visibility auto \
               --commit "${GITHUB_SHA}" \
               ${EXTRA_ARGS} \
-              --reset-others
+              --reset-others || EXIT_CODE=$?
+          
+          # Handle exit codes: 0 = success, 2 = nothing to publish (also success)
+          EXIT_CODE=${EXIT_CODE:-0}
+          if [ $EXIT_CODE -eq 2 ]; then
+            echo "Nothing to publish (exit code 2) - treating as success"
+            cat "$TEMP_OUTPUT" >> "${GITHUB_OUTPUT}"
+            rm -f "$TEMP_OUTPUT"
+            exit 0
+          elif [ $EXIT_CODE -ne 0 ]; then
+            echo "Orchestrator failed with exit code $EXIT_CODE"
+            rm -f "$TEMP_OUTPUT"
+            exit $EXIT_CODE
+          fi
+          
+          # Success - copy output
+          cat "$TEMP_OUTPUT" >> "${GITHUB_OUTPUT}"
+          rm -f "$TEMP_OUTPUT"
