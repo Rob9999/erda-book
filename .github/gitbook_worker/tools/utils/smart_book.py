@@ -119,11 +119,19 @@ def _resolve_content_root(
     root_value = book_data.get("root")
 
     if root_value:
-        # Normalize root value (remove leading/trailing slashes)
-        root_str = str(root_value).strip().strip("/").strip("\\")
+        # Normalize root value (remove leading/trailing slashes for relative paths)
+        root_str = str(root_value).strip()
         if root_str:
-            content_root = (base_dir / root_str).resolve()
-            logger.debug("Content root from book.json: %s", content_root)
+            root_path = Path(root_str)
+            # If already absolute, use as-is; otherwise resolve relative to base_dir
+            if root_path.is_absolute():
+                content_root = root_path.resolve()
+                logger.debug("Content root from book.json (absolute): %s", content_root)
+            else:
+                # Strip leading/trailing slashes for relative paths
+                root_str = root_str.strip("/").strip("\\")
+                content_root = (base_dir / root_str).resolve()
+                logger.debug("Content root from book.json (relative): %s", content_root)
             return content_root
 
     # Fallback: use base_dir directly
