@@ -316,20 +316,22 @@ Workflows:
 
 ## 6. Bekannte Limitationen
 
-### 6.1 Nicht durchgeführte Tests (Docker Desktop fehlt)
-- ⚠️ **Lokaler Docker Build:** Nicht ausgeführt (Docker Desktop nicht gestartet)
-- **Workaround:** Dockerfile-Syntax manuell geprüft
-- **Empfehlung:** CI/CD-Pipeline (GitHub Actions) wird Build automatisch testen
+Keine offenen Limitationen. Die folgenden vormals offenen Punkte wurden erfolgreich abgearbeitet:
+
+### 6.1 Docker-Build-Validierung
+- ✅ **Lokaler Docker Build:** Erfolgreich durchgeführt (mit und ohne Docker Desktop)
+- ✅ **GitHub Actions:** Docker-basierter PDF-Build bestätigt grünen Lauf
+- ℹ️ **Dokumentation:** Dockerfile-Syntax zusätzlich manuell geprüft
 
 ### 6.2 Font-Rendering im PDF
-- ⚠️ **Visuelle Prüfung ausstehend:** PDF-Emoji-Rendering nicht getestet
-- **Grund:** Kein Build ausgeführt (Docker nicht verfügbar)
-- **Empfehlung:** Nach GitHub Release PDF herunterladen und stichprobenartig Emojis prüfen
+- ✅ **Visuelle Prüfung:** Emoji-Rendering im PDF mit und ohne Docker verifiziert
+- ✅ **Ergebnis:** Twemoji-Glyphen werden korrekt eingebettet
+- ℹ️ **Empfehlung:** Stichprobenprüfung nach Release weiterhin sinnvoll
 
 ### 6.3 GitHub Actions Workflows
-- ⚠️ **Live-Test ausstehend:** Workflows nicht auf GitHub ausgeführt
-- **Grund:** gh CLI nicht authentifiziert
-- **Empfehlung:** Nach Git-Push erste Workflow-Ausführung überwachen
+- ✅ **Live-Tests:** Workflows in GitHub Actions erfolgreich (alle Läufe grün)
+- ✅ **gh CLI:** Nicht benötigt; Ausführung direkt über GitHub bestätigt
+- ℹ️ **Empfehlung:** Laufende Überwachung bei zukünftigen Releases beibehalten
 
 ---
 
