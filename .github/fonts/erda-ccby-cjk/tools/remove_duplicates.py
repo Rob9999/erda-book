@@ -156,5 +156,5 @@ def main():
     return remove_duplicates(hanzi_file, dry_run=not args.fix)
 
 
-if __name__ == "__main__":
+if __name__ == "__main__":  # pragma: no cover
     sys.exit(main())
