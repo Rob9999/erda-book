@@ -226,7 +226,7 @@ def get_character_bitmap(char: str) -> Optional[List[int]]:
     return get_character_index().get_bitmap(char)
 
 
-if __name__ == "__main__":
+if __name__ == "__main__":  # pragma: no cover
     # Test the index
     print("Building Character Index...")
     index = get_character_index()

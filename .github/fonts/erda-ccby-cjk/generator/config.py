@@ -334,7 +334,7 @@ def load_config(filepath: Path) -> FontConfig:
     return config
 
 
-if __name__ == "__main__":
+if __name__ == "__main__":  # pragma: no cover
     # Test configuration system
     print("Testing Font Configuration System...")
     print("=" * 70)

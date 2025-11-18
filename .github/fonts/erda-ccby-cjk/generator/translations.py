@@ -87,7 +87,7 @@ def get_all_translation_characters() -> set:
     return LICENSE_TRANSLATIONS.all_characters()
 
 
-if __name__ == "__main__":
+if __name__ == "__main__":  # pragma: no cover
     # Test translations
     print("Translation Character Analysis")
     print("=" * 70)
