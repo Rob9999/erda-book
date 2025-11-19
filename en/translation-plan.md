@@ -12,7 +12,7 @@ This document serves as my day-to-day reference for the ERDA book translation. I
 >
 > source: <relativer Pfad zum deutschen Original>
 > status: draft
-> -------------
+> ---
 >
 > ```
 > 2. **Stil & Terminologie:** Übersetze ins britische Englisch, verwende konsistente Fachbegriffe und behalte alle Überschriftenebenen, Tabellen, Nummerierungen, Links und Formatierungen bei. Deutsche Institutionen oder Eigenbegriffe (z. B. „CIVITAS“, „ARKTIS“, „ERDA“) bleiben unverändert; politische Begriffe übersetzt du einheitlich und führst bei Bedarf ein Glossar. Markiere Abweichungen oder Ergänzungen vom deutschen Original mit einem HTML‑Kommentar (`@-- note: … --`).
@@ -39,5 +39,17 @@ This document serves as my day-to-day reference for the ERDA book translation. I
 
 1. `content/1.-aktuelle-lage-europas-herausforderungen-und-chancen/1.2-wirtschaftlicher-druck-und-globale-systemkonkurrenz.md`
 2. `content/1.-aktuelle-lage-europas-herausforderungen-und-chancen/1.3-technologische-transformation-und-soziale-spaltung.md`
+3. `content/1.-aktuelle-lage-europas-herausforderungen-und-chancen/1.4-chancen-im-wandel.md`
 
 I will continue following the order in `content/SUMMARY.md`, updating this tracker after each translated file.
+
+### Chapter 1 Checklist
+
+| Section | Status  | Notes |
+| ------- | ------- | ----- |
+| 1.1 Demokratische Erosion und geopolitische Fragmentierung | Drafted | Delivered 2025-02-14 with YAML preamble. |
+| 1.2 Wirtschaftlicher Druck und globale Systemkonkurrenz | Queued  | Next immediate translation task. |
+| 1.3 Technologische Transformation und soziale Spaltung | Queued  | Translate right after 1.2 to keep thematic flow. |
+| 1.4 Chancen im Wandel | Backlog | Prep materials while handling earlier subsections. |
+| 1.5 Der strategische Imperativ | Backlog | Begin once Chapter 1 subsections 1.1–1.4 are approved. |
+
