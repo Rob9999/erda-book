@@ -37,10 +37,11 @@ This document serves as my day-to-day reference for the ERDA book translation. I
 | 2025-11-19 | 1.2 Wirtschaftlicher Druck und globale Systemkonkurrenz          | Drafted | Covered full section including boxes and quiz. |
 | 2025-11-19 | 1.3 Technologische Transformation und soziale Spaltung           | Drafted | Added full translation with tables and interactive elements. |
 | 2026-11-20 | 1.4 Chancen im Wandel                                            | Drafted | Completed full translation with YAML preamble and interactive elements. |
+| 2025-11-19 | 1.5 Der strategische Imperativ                                   | Drafted | Completed full section translation with YAML preamble and interactive elements. |
 
 ## Next Targets
 
-1. `content/1.-aktuelle-lage-europas-herausforderungen-und-chancen/1.5-der-strategische-imperativ.md`
+1. `content/2.-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation/2.1-pra-demokratische-zivilisation.md`
 
 I will continue following the order in `content/SUMMARY.md`, updating this tracker after each translated file.
 
@@ -52,5 +53,5 @@ I will continue following the order in `content/SUMMARY.md`, updating this track
 | 1.2 Wirtschaftlicher Druck und globale Systemkonkurrenz | Drafted | Completed 2025-11-19 including interactive elements. |
 | 1.3 Technologische Transformation und soziale Spaltung | Drafted | Completed 2025-11-19 with tables and calls to action. |
 | 1.4 Chancen im Wandel | Drafted | Completed 2026-11-20 with YAML preamble and full translation. |
-| 1.5 Der strategische Imperativ | Backlog | Begin once Chapter 1 subsections 1.1–1.4 are approved. |
+| 1.5 Der strategische Imperativ | Drafted | Completed 2025-11-19 with YAML preamble and interactive elements. |
 
