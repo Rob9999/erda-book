@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this translation draft, please cite it as below."
+title: "The ERDA Book – Strategy, Ethics and Europe's Future"
+version: 1.1.0
+date-released: '2025-11-19'
+authors:
+  - family-names: Massinger
+    given-names: Robert Alexander
+    affiliation: Munich, Germany
+  - name: "ERDA Community Translators"
+    affiliation: Europe-wide volunteer network
+abstract: >-
+  English translation workspace for the ERDA book. The German edition is treated as the
+  single source of truth and all deviations must be documented in translation_instruction.md.
+license: CC-BY-SA-4.0
+repository-code: "https://github.com/erda-org/erda-book"
+keywords:
+  - ERDA
+  - democratic resilience
+  - translation
+  - Europe
