@@ -1,4 +1,23 @@
-# ERDA Book
+# ERDA Book (Published Branch)
+
+Dieser Branch spiegelt den **veröffentlichten Stand** des ERDA Buches wider.
+
+- **Version:** 1.0.1
+- **Archivierung:** Zenodo (inkl. DOI)
+- **Veröffentlichte PDF-Datei:** liegt im Ordner `publish` als `das-erda-buch.pdf`.
+
+Offenes Buchprojekt zur strategischen, ethischen und technologischen Erneuerung Europas. Version 1.0.1 enthält ein technisch überarbeitetes PDF (konsistente Schriften, optimierte Typografie, saubere Inhaltsverzeichnisse) und reproduzierbare Quellen. Texte: CC BY-SA 4.0; Code: MIT; Fonts: CC BY 4.0 oder MIT (Dual-Lizenz). Details in `ATTRIBUTION.md` und Anhang J.
+
+> Hinweis: Für inhaltliche Weiterentwicklung (Version 2.0.0 ff.) ist der Branch `release_candidate` maßgeblich; `published` bleibt der eingefrorene, veröffentlichte Stand.
+
+## 📥 Zugriff auf die veröffentlichte PDF-Version
+
+- **Lokal im Repo:**
+   - `publish/das-erda-buch.pdf` -> [das-erda-buch.pdf](publish/das-erda-buch.pdf)
+- **Zenodo:**
+   - DOI: https://doi.org/10.5281/zenodo.17618845
+
+Der obige DOI verweist auf die bei Zenodo archivierte Version 1.0.1 des ERDA Buches.
 
 ## 📜 Attribution und Lizenzierung
 
@@ -48,6 +67,8 @@ pdf_options:
 Diese Konfiguration stellt sicher, dass das Dokumentendesign den Vorgaben entspricht.
 
 ## Docker-Namenskonfiguration
+
+Die folgende Sektion richtet sich primär an **Entwickler:innen und Maintainer:innen** und beschreibt die technische Toolchain zur PDF-Erstellung. Für Leser:innen, die nur das Buch bzw. den DOI nutzen möchten, ist dieser Abschnitt nicht relevant.
 
 Die Docker-Image- und Container-Namen für die GitBook Worker Toolchain sind jetzt vollständig konfigurierbar und verwenden ein mehrschichtiges Merge-System.
 
@@ -103,3 +124,13 @@ names = smart_merge.get_all_docker_names(
 print(f"Image: {names['image']}")
 print(f"Container: {names['container']}")
 ```
+
+---
+
+## Zitierempfehlung
+
+Wenn Sie das ERDA Buch zitieren möchten, verwenden Sie bitte vorzugsweise den Zenodo-Eintrag mit DOI:
+
+> ERDA-Initiative (2025): *Das ERDA Buch – Europäische Resilienz, Demokratie und Allmende*. Version 1.0.1. Zenodo. https://doi.org/10.5281/zenodo.17618845
+
+Für maschinelle Auswertungen (z. B. LaTeX/BibTeX) steht im Repository zusätzlich `CITATION.cff` zur Verfügung.
