@@ -3,7 +3,7 @@ source: content/5.-das-eda-konzept/README.md
 status: draft
 ---
 
-# 5. The EDA concept
+# 5. The EDA Concept
 
 ***
 
@@ -13,21 +13,21 @@ _A resilient security union of democratic constitutional states_
 
 _A Voice From April 2025_
 
-🛡️ **Call of Duty to the Coalition of the Willing:**  
-Form – without delay – a **European Democratic Defence Alliance (EDA)**.  
-To give Europe’s rule‑of‑law democracies – and those becoming such –  
-a future worth believing in.  
+🛡️ **Call of Duty to the Coalition of the Willing:**\
+Form – without delay – a **European Democratic Defence Alliance (EDA)**.\
+To give Europe’s rule‑of‑law democracies – and those becoming such –\
+a future worth believing in.\
 A safe place. A sovereign voice. A shared shield. A democratic tomorrow.
 
 Because:
 
-**Freedom must never be outsourced.**  
-**Security must never be silenced.**  
-**Democracy must never stand alone – and if necessary, be fought for.**  
-_(This shall no generation ever forget.)_
+**Freedom must never be outsourced.**\
+**Security must never be silenced.**\
+**Democracy must never stand alone – and if necessary, be fought for.**\
+&#xNAN;_(This shall no generation ever forget.)_
 
-The EU, Europe – and humanity’s future – need EDA.  
-Not to break away from the US –  
+The EU, Europe – and humanity’s future – need EDA.\
+Not to break away from the US –\
 but to stop breaking itself.
 
 **Now is the moment. Lead – or be led.**
@@ -38,7 +38,7 @@ but to stop breaking itself.
 
 ***
 
-🎯 **Aim of this chapter**  
+🎯 **Aim of this chapter**\
 This chapter outlines the basic architecture of a European Defence Alliance (EDA) that secures Europe’s security, sovereignty and democratic legitimacy in the 21st century. The goal is not only military capability, but the **systemic integration of defence, resilience and democratic control** – as an independent strategic pillar alongside NATO.
 
 ***

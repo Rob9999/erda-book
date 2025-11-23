@@ -1,46 +1,36 @@
----
-source: content/SUMMARY.md
-status: draft
----
-
-# Summary
+# Table of contents
 
 * [Homepage](README.md)
   * [Foreword](readme/vorwort.md)
-
 * [1. Current Situation of Europe: Challenges and Opportunities](1.-aktuelle-lage-europas-herausforderungen-und-chancen/README.md)
-  * [1.1 Democratic Erosion and Geopolitical Fragmentation](1.-aktuelle-lage-europas-herausforderungen-und-chancen/1.1-demokratische-erosion-und-geopolitische-fragmentierung.md) <!-- TODO: translation status to be verified -->
-  * [1.2 Economic Pressure and Global System Competition](1.-aktuelle-lage-europas-herausforderungen-und-chancen/1.2-wirtschaftlicher-druck-und-globale-systemkonkurrenz.md) <!-- TODO -->
-  * [1.3 Technological Transformation and Social Division](1.-aktuelle-lage-europas-herausforderungen-und-chancen/1.3-technologische-transformation-und-soziale-spaltung.md) <!-- TODO -->
-  * [1.4 Opportunities in Transition](1.-aktuelle-lage-europas-herausforderungen-und-chancen/1.4-chancen-im-wandel.md) <!-- TODO -->
-  * [1.5 The Strategic Imperative](1.-aktuelle-lage-europas-herausforderungen-und-chancen/1.5-der-strategische-imperativ.md) <!-- TODO -->
-
-* [2. Natural Desires and their Significance for Democracy and Civilisation](2.-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation/README.md) <!-- TODO: EN translation -->
-  * [2.1 Pre‑democratic civilisation](2.-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation/2.1-pra-demokratische-zivilisation.md) <!-- TODO -->
-  * [2.2 Democratic‑rule‑of‑law civilisation](2.-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation/2.2-demokratische-rechtsstaatliche-zivilisation.md) <!-- TODO -->
-  * [2.3 Post‑democratic civilisation](2.-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation/2.3-post-demokratische-zivilisation/README.md) <!-- TODO -->
-    * [2.3.1 Dystopian variant](2.-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation/2.3-post-demokratische-zivilisation/2.3.1-dystopische-variante.md) <!-- TODO -->
-    * [2.3.2 Ideal and best form of democracy](2.-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation/2.3-post-demokratische-zivilisation/2.3.2-ideale-und-beste-form-der-demokratie.md) <!-- TODO -->
-  * [2.4 Closing thought](2.-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation/2.4-schlussgedanke.md) <!-- TODO -->
-
-* [3. Democracy as an Evolutionary Process](3.-demokratie-als-evolutionarer-prozess/README.md) <!-- TODO: EN translation -->
-  * [3.1 Prologue](3.-demokratie-als-evolutionarer-prozess/3.1-prolog.md) <!-- TODO -->
-  * [3.2 A Reflection in the Spirit of Aristotle](3.-demokratie-als-evolutionarer-prozess/3.2-eine-reflexion-im-geiste-von-aristoteles.md) <!-- TODO -->
-  * [3.3 Democracy as Resonance Process](3.-demokratie-als-evolutionarer-prozess/3.3-demokratie-als-resonanzprozess.md) <!-- TODO -->
-  * [3.4 Democracy is Movement](3.-demokratie-als-evolutionarer-prozess/3.4-demokratie-ist-bewegung.md) <!-- TODO -->
-  * [3.5 Virtue as a Precondition for Democratic Shaping](3.-demokratie-als-evolutionarer-prozess/3.5-tugend-als-voraussetzung-demokratischer-gestaltung.md) <!-- TODO -->
-  * [3.6 Natural Desires of the Soul (reflexive)](3.-demokratie-als-evolutionarer-prozess/3.6-naturliche-verlangen-der-seele-reflexiv.md) <!-- TODO -->
-  * [3.7 Closing Thought](3.-demokratie-als-evolutionarer-prozess/3.7-schlussgedanke.md) <!-- TODO -->
-
-* [4. The ERDA Overall Concept](4.-das-erda-gesamtkonzept/README.md) <!-- TODO: EN translation -->
-* [5. The EDA Concept](5.-das-eda-konzept/README.md) <!-- TODO: EN translation -->
-* [6. The CIVITAS Concept](6.-das-civitas-konzept/README.md) <!-- TODO: EN translation -->
-* [7. The FORTERA Concept](7.-das-fortera-konzept/README.md) <!-- TODO: EN translation -->
-* [8. The ARKTIS Concept](8.-das-arktis-konzept/README.md) <!-- TODO: EN translation -->
-* [9. The SPACE Concept](9.-das-space-konzept/README.md) <!-- TODO: EN translation -->
-
+  * [1.1 Democratic Erosion and Geopolitical Fragmentation](1.-aktuelle-lage-europas-herausforderungen-und-chancen/1.1-demokratische-erosion-und-geopolitische-fragmentierung.md)
+  * [1.2 Economic Pressure and Global System Competition](1.-aktuelle-lage-europas-herausforderungen-und-chancen/1.2-wirtschaftlicher-druck-und-globale-systemkonkurrenz.md)
+  * [1.3 Technological Transformation and Social Division](1.-aktuelle-lage-europas-herausforderungen-und-chancen/1.3-technologische-transformation-und-soziale-spaltung.md)
+  * [1.4 Opportunities in Transition](1.-aktuelle-lage-europas-herausforderungen-und-chancen/1.4-chancen-im-wandel.md)
+  * [1.5 The Strategic Imperative](1.-aktuelle-lage-europas-herausforderungen-und-chancen/1.5-der-strategische-imperativ.md)
+* [2. Natural Desires and their Significance for Democracy and Civilisation](2.-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation/README.md)
+  * [2.1 Pre‑democratic civilisation](2.-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation/2.1-pra-demokratische-zivilisation.md)
+  * [2.2 Democratic‑rule‑of‑law civilisation](2.-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation/2.2-demokratische-rechtsstaatliche-zivilisation.md)
+  * [2.3 Post‑democratic civilisation](2.-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation/2.3-post-demokratische-zivilisation/README.md)
+    * [2.3.1 Dystopian variant](2.-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation/2.3-post-demokratische-zivilisation/2.3.1-dystopische-variante.md)
+    * [2.3.2 Ideal and best form of democracy](2.-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation/2.3-post-demokratische-zivilisation/2.3.2-ideale-und-beste-form-der-demokratie.md)
+  * [2.4 Closing thought](2.-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation/2.4-schlussgedanke.md)
+* [3. Democracy as an Evolutionary Process](3.-democracy-as-an-evolutionary-process/README.md)
+  * [3.1 Prologue](3.-demokratie-als-evolutionarer-prozess/3.1-prolog.md)
+  * [3.2 A Reflection in the Spirit of Aristotle](3.-demokratie-als-evolutionarer-prozess/3.2-eine-reflexion-im-geiste-von-aristoteles.md)
+  * [3.3 Democracy as Resonance Process](3.-demokratie-als-evolutionarer-prozess/3.3-demokratie-als-resonanzprozess.md)
+  * [3.4 Democracy is Movement](3.-demokratie-als-evolutionarer-prozess/3.4-demokratie-ist-bewegung.md)
+  * [3.5 Virtue as a Precondition for Democratic Shaping](3.-demokratie-als-evolutionarer-prozess/3.5-tugend-als-voraussetzung-demokratischer-gestaltung.md)
+  * [3.6 Natural Desires of the Soul (reflexive)](3.-demokratie-als-evolutionarer-prozess/3.6-naturliche-verlangen-der-seele-reflexiv.md)
+  * [3.7 Closing Thought](3.-democracy-as-an-evolutionary-process/3.7-closing-thought.md)
+* [4. The ERDA Overall Concept](4.-das-erda-gesamtkonzept/README.md)
+* [5. The EDA Concept](5.-das-eda-konzept/README.md)
+* [6. The CIVITAS Concept](6.-das-civitas-konzept/README.md)
+* [7. The FORTERA Concept](7.-das-fortera-konzept/README.md)
+* [8. The ARKTIS Concept](8.-das-arktis-konzept/README.md)
+* [9. The SPACE Concept](9.-das-space-konzept/README.md)
 * [Appendix A: ERDA State Architecture ("Concentric Circles")](appendix-a-erda-state-architecture-concentric-circles.md)
-* [Appendix B: ERDA State Profiles](../content/anhang-b-erda-staatenprofile/README.md) <!-- TODO: EN translation of appendix B -->
+* [Appendix B: ERDA State Profiles](appendix-b-erda-state-profiles.md)
 * [Appendix C: Europe 2.0 – Roadmap for a Livable, Resilient, and Leading Union](appendix-c-europe-2-0-roadmap-for-a-livable-resilient-and-leading-union.md)
 * [Appendix D: Executive Compendium for Decision‑Makers](appendix-d-executive-compendium-for-decision-makers.md)
 * [Appendix E: ERDA Book Toolbox](appendix-e-erda-book-toolbox.md)
