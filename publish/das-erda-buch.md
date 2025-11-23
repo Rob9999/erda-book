@@ -31,7 +31,6 @@ header-includes:
 _Strategie, Ethik und Zukunft Europas – Vom demokratischen Rechtsstaat zur resilienten Zivilisation_
 
 Willkommen im offiziellen Buch zur Vision und Strategie der ERDA.\
-\
 
 
 ![ERDA Logo](.gitbook/assets/ERDA_Logo_simple.png)
