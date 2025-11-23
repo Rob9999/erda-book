@@ -1,4 +1,4 @@
-# Block C – Sektorale Konzepte (Kapitel 5–9)
+# D.3 Block C – Sektorale Konzepte (Kapitel 5–9)
 
 ### 🛡️ Kapitel 5: Europäische Verteidigungsallianz (EDA)
 

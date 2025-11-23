@@ -1,6 +1,6 @@
-# 🪄 Template für ein standardisiertes ERDA-Quellenverzeichnis
+# E.7 🪄 Template für ein standardisiertes ERDA-Quellenverzeichnis
 
-🪄 _**Template für ein standardisiertes ERDA-Quellenverzeichnis (v1.0)**_
+🪄 _**E.7 Template für ein standardisiertes ERDA-Quellenverzeichnis (v1.0)**_
 
 ### 🎯 Ziel
 

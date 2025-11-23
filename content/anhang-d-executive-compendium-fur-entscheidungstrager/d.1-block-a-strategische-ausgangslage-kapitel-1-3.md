@@ -1,4 +1,4 @@
-# Block A – Strategische Ausgangslage (Kapitel 1–3)
+# D.1 Block A – Strategische Ausgangslage (Kapitel 1–3)
 
 ### 📘 Einleitung – Kapitel 1.1 bis 1.5: Herausforderungen, Chancen, strategischer Imperativ
 

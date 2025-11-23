@@ -1,6 +1,6 @@
-# 🪄 ERDA GitBook Kapitel-Template
+# E.3 🪄 ERDA GitBook Kapitel-Template
 
-_**🪄 ERDA GitBook Kapitel-Template**_
+_**E.3 🪄 ERDA GitBook Kapitel-Template**_
 
 ### Kapitelnummerierung
 
@@ -13,7 +13,8 @@ _**🪄 ERDA GitBook Kapitel-Template**_
 
 **Anweisung Frontmatter-Snippet:**
 
-> Füge am Anfang jedes Kapitels ein Frontmatter-Snippet nach folgendem Format ein.> \
+> Füge am Anfang jedes Kapitels ein Frontmatter-Snippet nach folgendem Format ein.
+> \
 > Siehe Beispiel:
 
 ```yaml

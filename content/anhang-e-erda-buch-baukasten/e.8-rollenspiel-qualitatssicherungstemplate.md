@@ -1,6 +1,6 @@
-# 🪄 Rollenspiel Qualitätssicherungstemplate
+# E.8 🪄 Rollenspiel Qualitätssicherungstemplate
 
-_**🪄Rollenspiel Qualitätssicherungstemplate**_
+_**E.8 🪄 Rollenspiel Qualitätssicherungstemplate**_
 
 Dieses Template dient dazu, im Rahmen eines **Rollenspiels** die Qualität von ERDA-Kapiteln, Vorlagen und Templates systematisch zu verbessern. Dabei übernehmen verschiedene **Reviewer-Rollen** die Aufgabe, kritische Perspektiven einzunehmen und konkrete Verbesserungsvorschläge zu liefern.
 

@@ -1,6 +1,6 @@
-# 🎛️ Boxen-Template (Zitate, Praxis, Kontraste, Visionen)
+# E.6 🎛️ Boxen-Template (Zitate, Praxis, Kontraste, Visionen)
 
-_**🎛️ Boxen-Template (Zitate, Praxis, Kontraste, Visionen)**_
+_**E.6 🎛️ Boxen-Template (Zitate, Praxis, Kontraste, Visionen)**_
 
 > 📌 **Beispielbox – z. B. Uruguay**\
 > In Uruguay ist die partizipative Budgetierung gesetzlich verankert.\

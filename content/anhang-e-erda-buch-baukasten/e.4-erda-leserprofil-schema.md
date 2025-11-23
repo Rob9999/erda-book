@@ -1,8 +1,8 @@
-# 🧭 ERDA-Leserprofil-Schema
+# E.4 🧭 ERDA-Leserprofil-Schema
 
 ***
 
-_**🧭 ERDA-Leserprofil-Schema**_
+_**E.4 🧭 ERDA-Leserprofil-Schema**_
 
 > _Für bewertende KIs, Co-Autoren und Transformationsteams_
 

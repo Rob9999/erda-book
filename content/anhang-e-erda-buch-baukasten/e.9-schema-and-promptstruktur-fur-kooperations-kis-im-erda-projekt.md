@@ -1,6 +1,6 @@
-# 🤖 Schema & Promptstruktur für Kooperations-KIs im ERDA Projekt
+# E.9 🤖 Schema & Promptstruktur für Kooperations-KIs im ERDA Projekt
 
-_**🤖 Schema & Promptstruktur für Kooperations-KIs im ERDA Projekt**_
+_**E.9 🤖 Schema & Promptstruktur für Kooperations-KIs im ERDA Projekt**_
 
 ### 🧭 Ziel dieses Schemas
 

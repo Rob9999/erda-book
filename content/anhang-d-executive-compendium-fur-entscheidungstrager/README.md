@@ -6,7 +6,7 @@ _Dieses Compendium bietet einen fokussierten Überblick über das ERDA-Buch in *
 
 ***
 
-### Block A – Strategische Ausgangslage (Kapitel 1–3)
+### D.1 Block A – Strategische Ausgangslage (Kapitel 1–3)
 
 #### A.1 Aktuelle Lage Europas
 
@@ -27,7 +27,7 @@ _Dieses Compendium bietet einen fokussierten Überblick über das ERDA-Buch in *
 
 ***
 
-### Block B – Institutionelle Architektur (Kapitel 4)
+### D.2 Block B – Institutionelle Architektur (Kapitel 4)
 
 #### B.1 Das ERDA-Gesamtkonzept
 
@@ -41,7 +41,7 @@ _Dieses Compendium bietet einen fokussierten Überblick über das ERDA-Buch in *
 
 ***
 
-### Block C – Sektorale Konzepte (Kapitel 5–9)
+### D.3 Block C – Sektorale Konzepte (Kapitel 5–9)
 
 #### C.1 Sicherheit & Verteidigung (EDA)
 
@@ -67,7 +67,7 @@ _Dieses Compendium bietet einen fokussierten Überblick über das ERDA-Buch in *
 
 ***
 
-### Appendix – Handlungsleitfäden & Tool‑Box
+### D.4 Handlungsleitfäden & Tool‑Box
 
 * **Executive Compendium für Entscheidungsträger** (Verdichtete Policy-Briefings)
 * **ERDA-Buch‑Baukasten** (Templates, Boxen, Quiz-Elemente)

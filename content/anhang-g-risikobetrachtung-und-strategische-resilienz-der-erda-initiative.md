@@ -2,11 +2,11 @@
 
 _**Risikobetrachtung und strategische Resilienz der ERDA-Initiative**_
 
-#### 1. Einleitung
+#### G.1 Einleitung
 
 Die erfolgreiche Umsetzung der ERDA-Vision erfordert eine frühzeitige und detaillierte Identifikation strategischer Risiken. Ziel dieses Kapitels ist es, potenzielle Risiken transparent zu machen, klare Handlungsempfehlungen abzuleiten und so die Resilienz und Handlungsfähigkeit Europas langfristig zu sichern.
 
-#### 2. Systemische Risiken
+#### G.2 Systemische Risiken
 
 **Demokratische Erosion**
 
@@ -18,7 +18,7 @@ Die erfolgreiche Umsetzung der ERDA-Vision erfordert eine frühzeitige und detai
 * **Risiko:** Externe Manipulation demokratischer Prozesse durch Cyberattacken und Desinformation.
 * **Gegenmaßnahme:** Ausbau von EU-Cyberabwehrstrukturen und Bewusstseinsbildungskampagnen (EU-CERT, CIVITAS-Sicherheitsinitiative).
 
-#### 3. Technologische Risiken
+#### G.3 Technologische Risiken
 
 **Digitale Spaltung**
 
@@ -30,7 +30,7 @@ Die erfolgreiche Umsetzung der ERDA-Vision erfordert eine frühzeitige und detai
 * **Risiko:** KI-Systeme verstärken unkontrolliert soziale Ungleichheiten und Diskriminierung.
 * **Gegenmaßnahme:** Einführung unabhängiger Audit-Gremien und Transparenzstandards für algorithmische Entscheidungsprozesse.
 
-#### 4. Ökonomische Risiken
+#### G.4 Ökonomische Risiken
 
 **Abhängigkeit von internationalen Lieferketten**
 
@@ -42,7 +42,7 @@ Die erfolgreiche Umsetzung der ERDA-Vision erfordert eine frühzeitige und detai
 * **Risiko:** Nationale Alleingänge und Uneinheitlichkeit reduzieren Europas globale Wettbewerbsfähigkeit.
 * **Gegenmaßnahme:** Stärkung gemeinsamer europäischer Wirtschaftsstrategien und Implementierung eines EU-Impact-Fonds.
 
-#### 5. Soziale und kulturelle Risiken
+#### G.5 Soziale und kulturelle Risiken
 
 **Verlust gesellschaftlicher Kohäsion**
 
@@ -54,7 +54,7 @@ Die erfolgreiche Umsetzung der ERDA-Vision erfordert eine frühzeitige und detai
 * **Risiko:** Mangelnde Beteiligungsmöglichkeiten führen zu Entfremdung und Demokratieverdrossenheit bei jungen Generationen.
 * **Gegenmaßnahme:** Ausbau digitaler und analoger Beteiligungsplattformen, speziell zugeschnitten auf junge Menschen (CIVITAS-Jugendinitiative).
 
-#### 6. Globale und geopolitische Risiken
+#### G.6 Globale und geopolitische Risiken
 
 **Geopolitische Instabilität und globale Fragmentierung**
 
@@ -66,7 +66,7 @@ Die erfolgreiche Umsetzung der ERDA-Vision erfordert eine frühzeitige und detai
 * **Risiko:** Zögerliches oder unkoordiniertes Handeln reduziert Europas globalen Einfluss langfristig.
 * **Gegenmaßnahme:** Etablierung eines Europäischen Sicherheitsrats (EDA), Festlegung klarer strategischer Ziele und umfassende internationale Abstimmung.
 
-#### 7. Interne institutionelle Risiken
+#### G.7 Interne institutionelle Risiken
 
 **Starre und bürokratische Entscheidungsstrukturen**
 
@@ -78,7 +78,7 @@ Die erfolgreiche Umsetzung der ERDA-Vision erfordert eine frühzeitige und detai
 * **Risiko:** Mangelnde Abstimmung zwischen ERDA, EDA, CIVITAS und FORTERA erschwert eine effektive Umsetzung.
 * **Gegenmaßnahme:** Schaffung integrierter Steuerungsorgane und Plattformen zur übergreifenden Koordination und Abstimmung der Projekte.
 
-#### 8. Strategische Handlungsempfehlungen
+#### G.8 Strategische Handlungsempfehlungen
 
 | Priorität | Handlungsempfehlung                                                                                      |
 | --------- | -------------------------------------------------------------------------------------------------------- |
@@ -89,13 +89,13 @@ Die erfolgreiche Umsetzung der ERDA-Vision erfordert eine frühzeitige und detai
 | Hoch      | Einführung strategischer Governance-Strukturen (Europäischer Sicherheitsrat)                             |
 | Mittel    | Aufbau einer europaweiten kulturellen Förderinitiative zur Stärkung des gesellschaftlichen Zusammenhalts |
 
-#### 9. Risikomonitoring und regelmäßige Evaluierung
+#### G.9 Risikomonitoring und regelmäßige Evaluierung
 
 Um sicherzustellen, dass Risiken frühzeitig erkannt und Gegenmaßnahmen effektiv umgesetzt werden, wird empfohlen:
 
 * **Einführung eines ERDA-Risikobarometers** für kontinuierliche Überwachung und transparente Berichterstattung.
 * **Regelmäßige Risikoevaluierungen und Anpassungen** der ERDA-Strategien durch unabhängige Expertengremien.
 
-#### 10. Fazit
+#### G.10 Fazit
 
 Eine vorausschauende Risikobetrachtung stärkt die langfristige Widerstandsfähigkeit und Handlungsfähigkeit der ERDA-Initiative. Durch klare Priorisierung und kontinuierliche Anpassung der Maßnahmen werden nachhaltige Erfolge und robuste Demokratien für kommende Generationen gesichert.

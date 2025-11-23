@@ -1,4 +1,4 @@
-# Appendix – Handlungsleitfäden & Tool‑Box
+# D.4 Handlungsleitfäden & Tool‑Box
 
 Dieser Appendix bündelt die operativen Abkürzungen für Entscheidungsträger:innen. Er verknüpft die Kapitel 5–9 mit den Werkstattmaterialien aus **Anhang E (ERDA Buch Baukasten)** und liefert einen klaren Einstieg in Pilotierungen, Skalierung und Qualitätskontrolle.
 
