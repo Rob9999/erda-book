@@ -12,7 +12,6 @@ description: >-
 
 _Strategy, Ethics and Future of Europe – From the democratic constitutional state to a resilient civilisation_
 
-Welcome to the official book on ERDA's vision and strategy.\\
-\\
+Welcome to the official book on ERDA's vision and strategy.\ \\
 
-<figure><img src=".gitbook/assets/ERDA_Logo_simple.png" alt="ERDA Logo"><figcaption><p>ERDA logo</p></figcaption></figure>
+<div><figure><img src=".gitbook/assets/ERDA_Logo_simple.png" alt="ERDA Logo"><figcaption><p>ERDA logo</p></figcaption></figure> <figure><img src=".gitbook/assets/ERDA_Logo_simple.png" alt=""><figcaption></figcaption></figure></div>
