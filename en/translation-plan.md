@@ -50,23 +50,28 @@ This document serves as my day-to-day reference for the ERDA book translation. I
 | 2025-11-23 | en/content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/il-staatenprofil-israel.md | Drafted | Israel profile translated with tech-partner narrative and defence metrics. |
 | 2025-11-23 | en/content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/md-staatenprofil-moldau.md | Drafted | Moldova profile translated with agrarian-to-digital storyline and indicator table. |
 | 2025-11-23 | en/content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/me-staatenprofil-montenegro.md | Drafted | Montenegro profile translated; Adriatic sustainability narrative preserved. |
+| 2025-11-23 | en/content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/mk-staatenprofil-nord-mazedonien.md | Drafted | North Macedonia profile translated with Balkan bridge-state storyline. |
+| 2025-11-23 | en/content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/mt-staatenprofil-malta.md | Drafted | Malta profile translated highlighting Mediterranean cyber-maritime role. |
+| 2025-11-23 | en/content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/no-staatenprofil-norwegen.md | Drafted | Norway profile translated focusing on Arctic energy hub role. |
+| 2025-11-23 | en/content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/rs-staatenprofil-serbien.md | Drafted | Serbia profile translated covering Balkan logistics and reform themes. |
+| 2025-11-23 | en/content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/tr-staatenprofil-tuerkei.md | Drafted | Türkiye profile translated with Eurasian energy-logistics focus. |
+| 2025-11-23 | en/content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/ua-staatenprofil-ukraine.md | Drafted | Ukraine profile translated emphasising reconstruction and security role. |
+| 2025-11-23 | en/content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/uk-staatenprofil-vereinigtes-koenigreich.md | Drafted | United Kingdom profile translated focusing on finance and maritime security roles. |
+| 2025-11-23 | en/content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/xk-staatenprofil-kosovo.md | Drafted | Kosovo profile translated highlighting digital-partner and stability narrative. |
+| 2025-11-23 | en/content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/README.md | Drafted | Introduced Global Associates overview with reference to concentric-circle architecture. |
+| 2025-11-23 | en/content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/au-staatenprofil-australien.md | Drafted | Australia profile translated with Indo-Pacific resource-tech focus. |
+| 2025-11-23 | en/content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/ca-staatenprofil-kanada.md | Drafted | Canada profile translated highlighting Arctic connector narrative. |
+| 2025-11-23 | en/content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/cl-staatenprofil-chile.md | Drafted | Chile profile translated with lithium-copper sustainability storyline. |
+| 2025-11-23 | en/content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/cr-staatenprofil-costa-rica.md | Drafted | Costa Rica profile translated emphasising sustainable tourism diplomacy. |
 
 ## Remaining chapters (not yet translated)
 
 **B.4 – EU/ERDA Extended Partnership**
 
-- content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/mk-staatenprofil-nord-mazedonien.md
-- content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/mt-staatenprofil-malta.md
-- content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/no-staatenprofil-norwegen.md
-- content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/rs-staatenprofil-serbien.md
-- content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/tr-staatenprofil-tuerkei.md
-- content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/ua-staatenprofil-ukraine.md
-- content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/uk-staatenprofil-vereinigtes-koenigreich.md
-- content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/xk-staatenprofil-kosovo.md
+- None – section completed; proceed with B.5 targets.
 
 **B.5 – ERDA Global Associates**
 
-- content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/README.md
 - content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/au-staatenprofil-australien.md
 - content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/ca-staatenprofil-kanada.md
 - content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/cl-staatenprofil-chile.md
