@@ -7979,7 +7979,7 @@ _**ERDA-Staatenprofile**_
 
 \newpage
 
-# 1. Einleitung zum Staatenprofil-Konzept
+# B.1 Einleitung zum Staatenprofil-Konzept
 
 _**Einleitung zum ERDA-Staatenprofil-Konzept**_
 
@@ -7988,7 +7988,7 @@ Die European Rights-Based Democratic Alliance (ERDA) versteht sich nicht nur als
 
 \newpage
 
-# 1.1. Ziel und Funktion der Staatenprofile
+# B.1.1 Ziel und Funktion der Staatenprofile
 
 _**Ziel und Funktion der Staatenprofile**_
 
@@ -8002,7 +8002,7 @@ Die ERDA-Staatenprofile erfassen systematisch die politischen, gesellschaftliche
 
 \newpage
 
-# 1.2. Modularer Aufbau
+# B.1.2 Modularer Aufbau
 
 _**Modularer Aufbau**_
 
@@ -8022,7 +8022,7 @@ Das Profil ist modular in zehn Abschnitte gegliedert:
 
 \newpage
 
-# 1.3. Einsatzmöglichkeiten
+# B.1.3 Einsatzmöglichkeiten
 
 _**Einsatzmöglichkeiten**_
 
@@ -8036,7 +8036,7 @@ Die Profile können von politischen Entscheidungsträger:innen, zivilgesellschaf
 
 \newpage
 
-# 1.4. Vielfalt anerkennen – Gemeinsamkeit gestalten
+# B.1.4 Vielfalt anerkennen – Gemeinsamkeit gestalten
 
 _**Vielfalt anerkennen – Gemeinsamkeit gestalten**_
 
@@ -8047,7 +8047,7 @@ Die Profile schaffen eine Balance zwischen Individualität und Integration. Sie 
 
 \newpage
 
-# 2. Schema für ERDA-Staatenprofile (v4, ausführliche Übersicht)
+# B.2. Schema für ERDA-Staatenprofile (v4, ausführliche Übersicht)
 
 _**Schema für ERDA-Staatenprofile (v4)**_
 
@@ -8280,7 +8280,7 @@ Letzte Änderung: {{YYYY-MM-DD}}
 
 \newpage
 
-# 3. Staatenprofile (EU/ERDA - Kernländer)
+# B.3 Staatenprofile (EU/ERDA - Kernländer)
 
 _**Alle ERDA Staatenprofile der Kernländer,**_\
 _**gemäß**_ [_**ERDA-Staatenarchitektur ("Konzentrische Kreise")**_](../../anhang-a-erda-staatenarchitektur-konzentrische-kreise.md#kern-erda-mitglieder-mit-verfassungsbindung)_**.**_
@@ -13447,7 +13447,7 @@ Letzte Änderung: 2025-06-10
 
 \newpage
 
-# 4. Staatenprofile (EU/ERDA - Erweiterte Partnerschaft)
+# B.4 Staatenprofile (EU/ERDA - Erweiterte Partnerschaft)
 
 _**ERDA Staatenprofile der Erweiterten Partnerschaft Länder,**_\
 _**gemäß**_ [_**ERDA-Staatenarchitektur ("Konzentrische Kreise")**_](../../anhang-a-erda-staatenarchitektur-konzentrische-kreise.md#erweiterte-partnerschaft-assoziierte-demokratien-europas-and-nachbarschaft)_**.**_
@@ -17178,7 +17178,7 @@ Letzte Änderung: 2025-06-10
 
 \newpage
 
-# 5. Staatenprofile (ERDA - Globale Assoziierte)
+# B.5 Staatenprofile (ERDA - Globale Assoziierte)
 
 _**ERDA Staatenprofile der weltweit assoziierten Demokratien,**_
 _**gemäß**_ [_**ERDA-Staatenarchitektur ("Konzentrische Kreise")**_](../../anhang-a-erda-staatenarchitektur-konzentrische-kreise.md#globale-assoziierte-demokratien)_**.**_
