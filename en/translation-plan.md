@@ -70,6 +70,8 @@ This document serves as my day-to-day reference for the ERDA book translation. I
 | 2025-11-23 | en/content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/nz-staatenprofil-neuseeland.md | Drafted | New Zealand profile translated with Pacific green-economy focus. |
 | 2025-11-23 | en/content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/sn-staatenprofil-senegal.md | Drafted | Senegal profile translated spotlighting West African bridge role and renewables. |
 | 2025-11-23 | en/content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/tn-staatenprofil-tunesien.md | Drafted | Tunisia profile translated with Mediterranean solar-hub storyline. |
+| 2025-11-23 | en/content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/tw-staatenprofil-taiwan.md | Drafted | Taiwan profile translated highlighting semiconductor leadership and civic resilience. |
+| 2025-11-23 | en/content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/uy-staatenprofil-uruguay.md | Drafted | Uruguay profile translated; emphasised Mercosur bridge role and sustainability focus. |
 
 ## Remaining chapters (not yet translated)
 
@@ -79,9 +81,4 @@ This document serves as my day-to-day reference for the ERDA book translation. I
 
 **B.5 – ERDA Global Associates**
 
-- content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/na-staatenprofil-namibia.md
-- content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/nz-staatenprofil-neuseeland.md
-- content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/sn-staatenprofil-senegal.md
-- content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/tn-staatenprofil-tunesien.md
-- content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/tw-staatenprofil-taiwan.md
-- content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/uy-staatenprofil-uruguay.md
+- None – section completed for current scope.
