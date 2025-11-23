@@ -1,4 +1,4 @@
-# 2. Schema für ERDA-Staatenprofile (v4, ausführliche Übersicht)
+# B.2. Schema für ERDA-Staatenprofile (v4, ausführliche Übersicht)
 
 _**Schema für ERDA-Staatenprofile (v4)**_
 

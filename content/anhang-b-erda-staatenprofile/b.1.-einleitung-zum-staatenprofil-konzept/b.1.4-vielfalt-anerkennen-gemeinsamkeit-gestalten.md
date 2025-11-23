@@ -1,4 +1,4 @@
-# 1.4. Vielfalt anerkennen – Gemeinsamkeit gestalten
+# B.1.4 Vielfalt anerkennen – Gemeinsamkeit gestalten
 
 _**Vielfalt anerkennen – Gemeinsamkeit gestalten**_
 

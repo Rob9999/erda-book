@@ -1,4 +1,4 @@
-# 1.2. Modularer Aufbau
+# B.1.2 Modularer Aufbau
 
 _**Modularer Aufbau**_
 
