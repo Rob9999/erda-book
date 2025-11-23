@@ -63,6 +63,13 @@ This document serves as my day-to-day reference for the ERDA book translation. I
 | 2025-11-23 | en/content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/ca-staatenprofil-kanada.md | Drafted | Canada profile translated highlighting Arctic connector narrative. |
 | 2025-11-23 | en/content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/cl-staatenprofil-chile.md | Drafted | Chile profile translated with lithium-copper sustainability storyline. |
 | 2025-11-23 | en/content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/cr-staatenprofil-costa-rica.md | Drafted | Costa Rica profile translated emphasising sustainable tourism diplomacy. |
+| 2025-11-23 | en/content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/in-staatenprofil-indien.md | Drafted | India profile translated with digital-hub and demographic scale storyline. |
+| 2025-11-23 | en/content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/jp-staatenprofil-japan.md | Drafted | Japan profile translated highlighting tech leadership and demographic adaptation. |
+| 2025-11-23 | en/content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/kr-staatenprofil-sued-korea.md | Drafted | South Korea profile translated emphasising semiconductor hub and democratic resilience. |
+| 2025-11-23 | en/content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/na-staatenprofil-namibia.md | Drafted | Namibia profile translated covering renewable potential and Walvis Bay logistics role. |
+| 2025-11-23 | en/content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/nz-staatenprofil-neuseeland.md | Drafted | New Zealand profile translated with Pacific green-economy focus. |
+| 2025-11-23 | en/content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/sn-staatenprofil-senegal.md | Drafted | Senegal profile translated spotlighting West African bridge role and renewables. |
+| 2025-11-23 | en/content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/tn-staatenprofil-tunesien.md | Drafted | Tunisia profile translated with Mediterranean solar-hub storyline. |
 
 ## Remaining chapters (not yet translated)
 
@@ -72,13 +79,6 @@ This document serves as my day-to-day reference for the ERDA book translation. I
 
 **B.5 – ERDA Global Associates**
 
-- content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/au-staatenprofil-australien.md
-- content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/ca-staatenprofil-kanada.md
-- content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/cl-staatenprofil-chile.md
-- content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/cr-staatenprofil-costa-rica.md
-- content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/in-staatenprofil-indien.md
-- content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/jp-staatenprofil-japan.md
-- content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/kr-staatenprofil-sued-korea.md
 - content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/na-staatenprofil-namibia.md
 - content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/nz-staatenprofil-neuseeland.md
 - content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/sn-staatenprofil-senegal.md
