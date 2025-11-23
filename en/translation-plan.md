@@ -133,6 +133,68 @@ This document serves as my day-to-day reference for the ERDA book translation. I
 | 2025-11-23 | 5.10.3 Mittelfristige Entwicklung (2030–2040)                        | Drafted | Medium-term development path for deterrence translated.      |
 | 2025-11-23 | 5.10.4 Langfristige Vision (2040–2050)                               | Drafted | Long-term ENDD vision and DSN linkage translated.            |
 | 2025-11-23 | 5.10.5 Öffentliche Kommunikation und ethische Grundlage              | Drafted | Public communication and ethical framing translated.         |
+| 2025-11-23 | 6. Das CIVITAS Konzept (README)                                      | Drafted | Executive summary for CIVITAS digital democracy translated.  |
+| 2025-11-23 | 6.1 Leitidee: Demokratie im digitalen Raum                           | Drafted | Section translated describing CIVITAS as digital agora.      |
+| 2025-11-23 | 6.2 Trägerschaft & demokratische Kontrolle                           | Drafted | Governance and oversight structure for CIVITAS translated.   |
+| 2025-11-23 | 6.3 Technische Architektur und Datenschutz                           | Drafted | Technical architecture and data-protection framing translated.|
+| 2025-11-23 | 6.4 Kernfunktionen von CIVITAS                                       | Drafted | Core functional modules and interfaces translated.           |
+| 2025-11-23 | 6.5 Schutzmechanismen & Rechtssicherheit                             | Drafted | Legal safeguards and protection mechanisms translated.       |
+| 2025-11-23 | 6.6 Partnerschaften & globale Integration                            | Drafted | Partnership and global integration section translated.       |
+| 2025-11-23 | 6.7 Bildung, Jugend & demokratische Partizipation                    | Drafted | Youth, education and participation section translated.       |
+| 2025-11-23 | 6.8 Schlussgedanken                                                   | Drafted | CIVITAS concluding reflections and strategic framing.        |
+| 2025-11-23 | 7. Das FORTERA Konzept (README)                                       | Drafted | Executive summary for FORTERA economic architecture translated. |
+| 2025-11-23 | 7.1 Ausgangslage und strategische Eckpfeiler                          | Drafted | Starting point and strategic cornerstones section translated. |
+| 2025-11-23 | 7.2 Ziel des Konzepts                                                 | Drafted | Aim of the FORTERA concept section translated.               |
+| 2025-11-23 | 7.3 Produktionssouveränität und strategische Industriepolitik (README) | Drafted | Production sovereignty & strategic industrial policy README translated. |
+| 2025-11-23 | 7.3.1 Übersicht: Strategische Produktionsziele Europas (Auszug)       | Drafted | Table of Europe’s strategic production goals translated.      |
+| 2025-11-23 | 2. Natürliche Verlangen und ihre Bedeutung für Demokratie und Zivilisation (README) | Drafted | Chapter 2 executive summary/README translated with YAML preamble. |
+| 2025-11-23 | 7.3.2 Quantifizierte Szenarien zur Produktionssouveränität im Rahmen von FORTERA | Drafted | Quantified production-sovereignty scenarios translated; YAML preamble added. |
+| 2025-11-23 | 7.3.3 Herausforderungen, Risiken und Lösungsansätze              | Drafted | Challenge, risk and solution section translated with YAML preamble. |
+| 2025-11-23 | 7.3.4 Übergangskosten und Finanzierungsstrategie                  | Drafted | Transition-cost and financing-strategy section translated; YAML added. |
+| 2025-11-23 | 7.3.5 Praktische Maßnahmen- und Meilensteinplanung (2025–2050)    | Drafted | Practical measures and milestones section translated; YAML added. |
+| 2025-11-23 | 7.3.6 Erfolgskontrolle und Anpassungsmechanismen                  | Drafted | Success-monitoring and adjustment-mechanisms section translated; YAML added. |
+| 2025-11-23 | 7.3.7 Gesamtausblick und Nutzen                                   | Drafted | Overall outlook and benefits section translated; YAML added. |
+| 2025-11-23 | 7.4 Aufbau demokratischer Handelsallianzen ("Democracy Trade Network") | Drafted | Section on democratic trade alliances translated; YAML preamble added. |
+| 2025-11-23 | 7.5 Transatlantische Partnerschaft neu denken                    | Drafted | Section on rethinking the transatlantic partnership translated; YAML preamble added. |
+| 2025-11-23 | 7.6 Defensivmechanismen gegen wirtschaftlichen Nationalismus     | Drafted | Section on defensive mechanisms against economic nationalism translated; YAML preamble added. |
+| 2025-11-23 | 7.7 Bürgerbeteiligung & demokratische Wirtschaftskultur          | Drafted | Section on citizen participation and democratic economic culture translated; YAML preamble added. |
+| 2025-11-23 | 7.8 Wirtschaftliche Resilienz und ethische Fundierung            | Drafted | Section on economic resilience and ethical foundations translated; YAML preamble added. |
+| 2025-11-23 | 7.9 Schlussgedanken                                               | Drafted | Concluding reflections of FORTERA chapter translated; YAML preamble added. |
+| 2025-11-23 | 8. Das ARKTIS Konzept (README)                                    | Drafted | ARKTIS chapter executive summary and glossary translated; YAML preamble added. |
+| 2025-11-23 | 8.1 ARKTIS Codex – Ethik der arktischen Verantwortung             | Drafted | ARKTIS Codex on ethics of Arctic responsibility translated; YAML preamble added. |
+| 2025-11-23 | 8.2 Ausgangslage                                                   | Drafted | ARKTIS section on the initial situation translated; YAML preamble added. |
+| 2025-11-23 | 8.3 Leitprinzipien                                                 | Drafted | ARKTIS guiding principles section translated; YAML preamble added. |
+| 2025-11-23 | 9. Das SPACE Konzept (README)                                      | Drafted | SPACE chapter executive summary translated; YAML preamble added. |
+| 2025-11-23 | 9.1 ERDA Codex für kosmische Verantwortung (README)               | Drafted | README for ERDA Codex for Cosmic Responsibility translated; YAML preamble added. |
+| 2025-11-23 | 9.1.1 Präambel                                                    | Drafted | Preamble of ERDA Codex for Cosmic Responsibility translated; YAML preamble added. |
+| 2025-11-23 | 9.1.2 Grundsätze (README)                                         | Drafted | Principles section README of ERDA Codex translated; YAML preamble added. |
+| 2025-11-23 | 9.1.2.1 Menschenwürde und Rechtsstaatlichkeit gelten auch im All  | Drafted | Principle on human dignity and rule of law in space translated; YAML preamble added. |
+| 2025-11-23 | 9.1.2.2 Der Weltraum ist Allmende – kein Privateigentum           | Drafted | Principle on space as commons and non-privatisation translated; YAML preamble added. |
+| 2025-11-23 | 9.1.2.3 Keine Militarisierung ohne demokratische Kontrolle         | Drafted | Principle on no militarisation without democratic control translated; YAML preamble added. |
+| 2025-11-23 | 9.1.2.4 Technologische Offenheit und Wissensfreiheit               | Drafted | Principle on technological openness and freedom of knowledge translated; YAML preamble added. |
+| 2025-11-23 | 9.1.2.5 Nachhaltigkeit über Generationen hinweg                     | Drafted | Principle on intergenerational sustainability of space missions translated; YAML preamble added. |
+| 2025-11-23 | 9.1.2.6 Gerechtigkeit für alle Lebensformen                         | Drafted | Principle on justice and development rights for all life forms translated; YAML preamble added. |
+| 2025-11-23 | 9.1.2.7 Besucherprinzip für außersolare Intelligenz                | Drafted | Principle on treating extrasolar intelligence as guests under democratic rule-of-law translated; YAML preamble added. |
+| 2025-11-23 | 9.1.2.8 Ressourcen gehören den natürlichen Inhabitanten            | Drafted | Principle on shared ownership of solar-system resources by natural inhabitants translated; YAML preamble added. |
+
+| 2025-11-23 | 9.1.3 Aufbau einer SOLAR ALLIANCE (README)                         | Drafted | Overview section on building a SOLAR ALLIANCE translated; YAML preamble added. |
+| 2025-11-23 | 9.1.3.1 Kodifizierung als Kosmosrecht                              | Drafted | Subsection on codifying the principles as cosmos law translated; YAML preamble added. |
+| 2025-11-23 | 9.1.3.2 Vorbereitung der Gründung bis 2028                         | Drafted | Subsection on preparing the founding of the SOLAR ALLIANCE by 2028 translated; YAML preamble added. |
+| 2025-11-23 | 9.1.4 Kosmisches Seerecht und Ordnung (README)                     | Drafted | README for cosmic law of the sea and order translated; YAML preamble added. |
+| 2025-11-23 | 9.1.4.1 Kodifizierung fundamentaler Prinzipien                     | Drafted | Subsection on codifying fundamental principles of cosmic law translated; YAML preamble added. |
+| 2025-11-23 | 9.1.5 Schlussformel                                                | Drafted | Closing formula of the ERDA Codex for Cosmic Responsibility translated; YAML preamble added. |
+| 2025-11-23 | 9.2 Vom Seerecht zum Kosmosrecht (README)                         | Drafted | Chapter 9.2 README on moving from the law of the sea to cosmos law translated; YAML preamble added. |
+| 2025-11-23 | 9.2.1 Natürliche Verlangen im offenen Raum (Meer oder All)        | Drafted | Subsection on natural longings in open space (sea or cosmos) translated; YAML preamble added. |
+| 2025-11-23 | 9.2.2 Die prä-demokratische Zivilisation                           | Drafted | Subsection on the pre-democratic civilisation in relation to open space translated; YAML preamble added. |
+| 2025-11-23 | 9.2.3 Die gegenwärtige Zivilisation – auch in ihrer demokratischen Reife | Drafted | Subsection on contemporary civilisation, including democratic maturity, and its contradictions in space translated; YAML preamble added. |
+| 2025-11-23 | 9.2.4 Überblick – Bisherige Rechtsordnungen im Vergleich           | Drafted | Comparative overview of law of the sea and existing space law translated, including table; YAML preamble added. |
+| 2025-11-23 | 9.2.5 Der Entwicklungsbogen zur Solar Alliance                      | Drafted | Subsection on the development arc towards the SOLAR ALLIANCE, including timeline to 2028, translated; YAML preamble added. |
+| 2025-11-23 | 9.3 Die Institutionen der SOLAR ALLIANCE (README)                   | Drafted | README for institutions of the SOLAR ALLIANCE translated; YAML preamble added. |
+| 2025-11-23 | 9.3.1 Legislative: Das SOLAR PARLAMENT                               | Drafted | Subsection on the SOLAR PARLIAMENT as the legislature of the SOLAR ALLIANCE translated; YAML preamble added. |
+| 2025-11-23 | 9.3.2 Exekutive: Der ALLIANZRAT                                      | Drafted | Subsection on the ALLIANCE COUNCIL as the executive leadership of the SOLAR ALLIANCE translated; YAML preamble added. |
+| 2025-11-23 | 9.3.3 Judikative: Die Raumrechtskammer                               | Drafted | Subsection on the independent Space Law Chamber as the judiciary of the SOLAR ALLIANCE translated; YAML preamble added. |
+| 2025-11-23 | 9.3.4 Sicherheitskräfte: Orbitaler Zivilschutz & Notfallkoordination  | Drafted | Subsection on the SOLAR ALLIANCE security forces for orbital civil protection and emergency coordination translated; YAML preamble added. |
+| 2025-11-23 | 9.3.5 Interplanetarer Rat für Lebensrechte                           | Drafted | Subsection on the Interplanetary Council for Rights of Life, covering dignity of life, biospheres and non-human intelligences in space, translated; YAML preamble added. |
 
 ## Next Targets
 
