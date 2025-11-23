@@ -33,3 +33,9 @@ This document serves as my day-to-day reference for the ERDA book translation. I
 | Date       | Section                                                          | Status  | Notes |
 | ---------- | ---------------------------------------------------------------- | ------- | ----- |
 | 2025-11-23 | en/content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/pl-staatenprofil-polen.md | Drafted | State profile translated and mirrored with metadata. |
+| 2025-11-23 | en/content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/pt-staatenprofil-republik-portugal.md | Drafted | English version created with YAML front matter and source links preserved. |
+| 2025-11-23 | en/content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/ro-staatenprofil-rumanien.md | Drafted | Romania profile translated; retained structure and metadata. |
+| 2025-11-23 | en/content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/se-staatenprofil-schweden.md | Drafted | Sweden profile translated with Arctic context and YAML metadata. |
+| 2025-11-23 | en/content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/si-staatenprofil-slowenien.md | Drafted | Slovenia profile translated; bridge-state narrative maintained. |
+| 2025-11-23 | en/content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/sk-staatenprofil-slowakei.md | Drafted | Slovakia profile translated with tech-corridor storyline and YAML preserved. |
+| 2025-11-23 | en/content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/staatenprofil-deutschland-de.md | Drafted | Germany profile translated; innovation/technology democracy framing retained. |
