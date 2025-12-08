@@ -1,9 +1,22 @@
 # Release History
 
-## 1.1.0 – 19 Nov 2025
+## 1.0.2 – mid to late December 2025 
 - **Responsible:** Robert Alexander Massinger (Lead) with the ERDA community translation workgroup.
-- **Goal:** Prepare the English translation workspace, align metadata with the next release cycle and document translation rules.
-- **Highlights:** Version bump to 1.1.0, dedicated `/en` pipeline (content, licenses, citation files, publisher config), formal translation workflow (`translation_instruction.md`) and repository-wide release history.
+- **Goal:** 
+  - Technical: 
+    - Build a translation workspace, align metadata with the next release cycle and document translation rules. 
+    - The gitbook_worker tool comes from a pip-installable package (WIP).
+    - Reorganize repository structure: `/de` for German version, `/en` for English version.
+  - Informational: 
+    - Publish the British English version "The ERDA Book".
+    - Each language version gets its own repo folder with dedicated Licensing, Citation, publish.yml, Attribution, certification, and publish description. 
+- **Highlights:** 
+  - Version bump to 1.0.2
+  - **Multi-language structure**: `/de` (German), `/en` (English)
+  - Dedicated pipelines per language (content, licenses, citation files, publisher config)
+  - Formal translation workflow (`translation_instruction.md`)
+  - Repository-wide release history
+  - Matrix-based CI/CD workflows for parallel language builds
 
 ## 1.0.1 – 15 Nov 2025
 - **Responsible:** Robert Alexander Massinger (Author) with support from ChatGPT/OpenAI for tooling guidance.
