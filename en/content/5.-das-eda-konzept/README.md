@@ -24,7 +24,7 @@ Because:
 **Freedom must never be outsourced.**\
 **Security must never be silenced.**\
 **Democracy must never stand alone – and if necessary, be fought for.**\
-&#xNAN;_(This shall no generation ever forget.)_
+_(This shall no generation ever forget.)_
 
 The EU, Europe – and humanity’s future – need EDA.\
 Not to break away from the US –\

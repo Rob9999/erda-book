@@ -2,7 +2,7 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Orchestrator (local)",
+            "name": "Orchestrator (local) - German",
             "type": "debugpy",
             "request": "launch",
             "module": "tools.workflow_orchestrator",
@@ -16,7 +16,29 @@
                 "--root",
                 "${workspaceFolder}",
                 "--manifest",
-                "publish.yml",
+                "de/publish.yml",
+                "--profile",
+                "local"
+            ],
+            "console": "integratedTerminal",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "name": "Orchestrator (local) - English",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "tools.workflow_orchestrator",
+            "cwd": "${workspaceFolder}",
+            "env": {
+                "PYTHONPATH": "${workspaceFolder};${workspaceFolder}/.github;${workspaceFolder}/.github/gitbook_worker",
+                "PYTHONIOENCODING": "utf-8",
+                "PYTHONUTF8": "1"
+            },
+            "args": [
+                "--root",
+                "${workspaceFolder}",
+                "--manifest",
+                "en/publish.yml",
                 "--profile",
                 "local"
             ],

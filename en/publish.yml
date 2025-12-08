@@ -38,9 +38,9 @@ fonts:
 - name: ERDA CC-BY CJK
   path: ../.github/fonts/erda-ccby-cjk/true-type/erda-ccby-cjk.ttf
 publish:
-- path: ./en
+- path: ./
   out_format: pdf
-  out_dir: ./en/publish
+  out_dir: ./publish
   out: the-erda-book.pdf
   source_type: folder
   source_format: markdown
