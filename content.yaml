@@ -1,0 +1,11 @@
+version: 1.0.0
+default: de
+contents:
+  - id: de
+    type: local
+    uri: de/
+    description: German baseline content
+  - id: en
+    type: local
+    uri: en/
+    description: English translation
