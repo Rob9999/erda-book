@@ -1,36 +1,42 @@
 {
-    "title": "ERDA – unsere demokratische Evolution: Strategie, Ethik und Zukunft Europas – Vom demokratischen Rechtsstaat zur resilienten Zivilisation",
+    "title": "The ERDA Book – Democratic Evolution: Strategy, Ethics and the Future of Europe",
     "upload_type": "publication",
     "publication_type": "book",
     "creators": [
         {
             "name": "Massinger, Robert Alexander",
-            "affiliation": "München, Deutschland"
+            "affiliation": "Munich, Germany"
         }
     ],
     "contributors": [
         {
             "name": "ChatGPT (OpenAI)",
             "type": "Other"
+        },
+        {
+            "name": "ERDA Community Translation Workgroup",
+            "type": "Other"
         }
     ],
-    "description": "Offenes Buchprojekt zur strategischen, ethischen und technologischen Erneuerung Europas. Version 1.0.1 enthält technisch überarbeitetes PDF (konsistente Schriften, optimierte Typografie, saubere Inhaltsverzeichnisse) und reproduzierbare Quellen. Texte: CC BY-SA 4.0; Code: MIT; Fonts: CC BY 4.0 oder MIT (Dual-Lizenz). Details in ATTRIBUTION.md und Anhang J.",
-    "version": "1.0.1",
+    "description": "Open-access book project on the strategic, ethical and technological renewal of Europe. Version 1.0.2 delivers the complete British English edition and establishes a robust multilingual repository structure (/de, /en) with dedicated pipelines, licensing, citation and publication metadata per language. The GitBook worker has been externalised as a pip-installable package, and a formal translation workflow has been documented. Texts: CC BY-SA 4.0; Code & toolchain: MIT; Fonts: CC BY 4.0 or MIT (dual licence). Full source files (GitBook Markdown), CI/CD configuration and build setup are available in the repository.",
+    "version": "1.0.2",
     "keywords": [
         "ERDA",
-        "Europa",
-        "Demokratie",
-        "Rechtsstaat",
-        "Resilienz",
-        "Ethik",
-        "Zukunft",
+        "Europe",
+        "Democracy",
+        "Rule of Law",
+        "Resilience",
+        "Ethics",
+        "Future",
         "Open Access",
-        "Zivilisation",
+        "Civilisation",
         "Transformation",
-        "Geopolitik"
+        "Geopolitics",
+        "Multilingual",
+        "Translation Workflow"
     ],
     "license": "CC-BY-SA-4.0",
-    "language": "deu",
+    "language": "eng",
     "access_right": "open",
     "communities": [
         {
@@ -54,5 +60,5 @@
             "resource_type": "publication-other"
         }
     ],
-    "notes": "Lizenzmatrix: Texte & Grafiken & Diagramme = CC BY-SA 4.0; Code & Toolchain & Skripte = MIT; Eigenentwickelte Fonts = CC BY 4.0 oder MIT (Dual-Lizenz); Emojis = Twemoji (CC BY 4.0). Vollständige Quelldateien (GitBook Markdown) und Build-Setup (publish.yml) im Repository verfügbar."
+    "notes": "Licence matrix: Texts, graphics and diagrams = CC BY-SA 4.0; Code, toolchain and scripts = MIT; self-developed fonts = CC BY 4.0 or MIT (dual licence); emojis = Twemoji (CC BY 4.0). Each language edition is maintained in its own repository folder with dedicated licensing, citation, attribution and publication configuration. CI/CD workflows support parallel multilingual builds."
 }
