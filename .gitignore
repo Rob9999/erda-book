@@ -3,6 +3,10 @@
 
 # temps
 tmp/
+temp/
+
+# fonts cache
+fonts-storage/
 
 # Python caches
 __pycache__/

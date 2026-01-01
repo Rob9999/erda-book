@@ -1,6 +1,12 @@
 # Summary
 
 * [Homepage](README.md)
+  * [3.1 Prologue](3.-demokratie-als-evolutionarer-prozess/3.1-prolog.md)
+  * [3.2 A reflection in the spirit of Aristotle](3.-demokratie-als-evolutionarer-prozess/3.2-eine-reflexion-im-geiste-von-aristoteles.md)
+  * [3.3 Democracy as a resonance process](3.-demokratie-als-evolutionarer-prozess/3.3-demokratie-als-resonanzprozess.md)
+  * [3.4 Democracy is movement](3.-demokratie-als-evolutionarer-prozess/3.4-demokratie-ist-bewegung.md)
+  * [3.5 Virtue as a precondition for democratic shaping](3.-demokratie-als-evolutionarer-prozess/3.5-tugend-als-voraussetzung-demokratischer-gestaltung.md)
+  * [3.6 Natural desires of the soul (reflexive)](3.-demokratie-als-evolutionarer-prozess/3.6-naturliche-verlangen-der-seele-reflexiv.md)
   * [Foreword](readme/vorwort.md)
 * [1. Current State of Europe: Challenges and Opportunities](1.-aktuelle-lage-europas-herausforderungen-und-chancen/README.md)
   * [1.1 Democratic Erosion and Geopolitical Fragmentation](1.-aktuelle-lage-europas-herausforderungen-und-chancen/1.1-demokratische-erosion-und-geopolitische-fragmentierung.md)

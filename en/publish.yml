@@ -1,4 +1,8 @@
 version: 0.1.0
+project:
+  name: The ERDA Book
+  license: CC-BY-SA-4.0
+  version: 1.0.2
 profiles:
   default:
     description: English pipeline for the ERDA Book translation draft.

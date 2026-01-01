@@ -23,6 +23,7 @@ header-includes:
 - \setlength\LTright{0pt}
 ---
 
+<a id="md-readme"></a>
 
 # Homepage
 
@@ -38,9 +39,664 @@ Welcome to the official book on ERDA's vision and strategy.\
 \newpage
 
 ---
+source: content/3.-demokratie-als-evolutionarer-prozess/3.1-prolog.md
+status: draft
+---
+<a id="md-3-demokratie-als-evolutionarer-prozess-3-1-prolog"></a>
+
+# 3.1 Prologue
+
+_**Prologue – the path from the cave of bare survival into the light of conscious shaping**_
+
+> _In the beginning there was survival. Human beings, born into a world of necessities, felt their way through darkness, heat, hunger, fear. As in Plato's cave, they saw only shadows – reflections of what is possible, not what is real. Everything served to secure today – not to shape tomorrow._\
+> _&#x59;et in the midst of this narrowness, something unexpected awoke: the urge to understand. The desire not only to live, but to comprehend; not only to take, but to give._\
+> _&#x41; fire was kindled – first from wood, later from concepts._\
+> _&#x48;uman beings stepped outside._\
+> _&#x48;esitant. Tentative. Learning._\
+> _&#x57;hat they found outside was no paradise – but possibility. Responsibility. Freedom._\
+> _&#x54;he freedom to think the common good._\
+> _&#x54;he responsibility to restrain themselves._\
+> _&#x54;he possibility of growing beyond themselves._\
+> _&#x54;hus began the long path of democracy._\
+> _&#x4E;ot as a system._\
+> _&#x42;ut as a form of conscious shaping._\
+> _&#x41;s a transition from mere reaction to free resonance._\
+> _&#x41;s the search for a life that is not only safe –_\
+> _&#x62;ut meaningful._
+
+### 3.1.1 Introduction and core impulses
+
+At the origin stands the fundamental desire for survival – human beings were forced to act out of darkness and necessity. Yet in this striving, the longing awoke not only to exist, but to **understand**, to **shape** and to act **together**.
+
+**Core impulses:**
+
+* **From reaction to resonance:** Democracy is not an end point, but a process of self-reflection.
+* **Shadows of the cave:** Instinct and power infrastructures are both precondition and obstacle.
+* **Fire of concepts:** Intellectual struggle as the birthplace of political form.
+* **Freedom and responsibility:** The first step towards shaping is awareness of one's own agency.
+
+***
+
+### 3.1.2 Deep dive and analysis
+
+| Phase                   | Characteristics                                | Significance for democracy                               |
+| ----------------------- | ---------------------------------------------- | -------------------------------------------------------- |
+| **Struggle to survive** | Instinct, fear, hierarchy                      | Need for protection, but limited capacity for reflection |
+| **World of shadows**    | Images instead of reality, fear of uncertainty | Urge for truth, initial struggle for meaning             |
+| **Discovery of fire**   | Symbolic reflection, communicative exchange    | Beginning of collective processes of gaining insight     |
+
+> 🎛️ **Boxes:**
+>
+> 📌 **Practical impulse (Plato's cave):** Use metaphorical dialogue formats to uncover hidden premises in political debates.
+>
+> 🧠 **Conceptual contrast:** Instinct-driven control ≠ self-aware shaping – democracy only arises in the second step.
+>
+> ⚠️ **Risk:** If reflection is absent, power structures solidify without legitimacy being questioned.
+
+***
+
+### 3.1.3 Transformation and courses of action
+
+* **Introduce dialogue formats:** Regular "cave debates" to make hidden assumptions visible.
+* **Create spaces for reflection:** Institutional "fireplaces" for citizens and AI moderation.
+* **Rethink education:** Narrative learning about origin stories as an entry point into democratic thinking.
+* **Meta-political audits:** Independent bodies review institutional preferences and power asymmetries.
+
+***
+
+### 3.1.4 Target-group-specific perspectives
+
+| Target group                | Focus                                                             |
+| --------------------------- | ----------------------------------------------------------------- |
+| 🏛️ Decision-makers         | Setting up reflexive dialogue platforms at municipal level        |
+| 📚 Researchers              | Studies on political anthropology and collective resonance        |
+| 🧍 Citizens                 | Participation in "cave workshops" to explore their own premises   |
+| 🎓 Students                 | Seminars on symbolic origin narratives                            |
+| 🤖 Artificial intelligences | Models for simulating phases of consciousness                     |
+| 🕊️ Souls                   | Poetic narratives: "Path from the cave into the light of shaping" |
+
+***
+
+### 3.1.5 Interactive elements
+
+#### ✅ Checklist: starting point of democratic reflection
+
+* [ ] Do I know my own unreflected assumptions?
+* [ ] Have I recently subjected myself to a "cave analysis"?
+* [ ] Do I use symbolic language images for collective understanding?
+* [ ] Do I engage in dialogue formats beyond formalistic debates?
+
+#### ❓ Mini quiz
+
+**Question:** Which image motif describes the transition from instinct to conscious action?
+
+a) The sleeping giant\
+b) The cave and the shadows ✅\
+c) The lonely wanderer\
+d) The stormy ocean
+
+***
+
+### 3.1.6 Sources and references
+
+1. **Plato (c. 380 BC):** _Republic_. Translated by Friedrich Schleiermacher. Available online (in German) at: [https://www.projekt-gutenberg.org/platon/staat/staat.html](https://www.projekt-gutenberg.org/platon/staat/staat.html) (accessed 2025-05-14). – Book edition: Translated by Kurt Hildebrandt. Hamburg: Rowohlt Taschenbuch Verlag, 2007. ISBN: 978-3-499-55588-3. [Original title: _Πολιτεία_].
+
+
+\newpage
+
+---
+source: content/3.-demokratie-als-evolutionarer-prozess/3.2-eine-reflexion-im-geiste-von-aristoteles.md
+status: draft
+---
+<a id="md-3-demokratie-als-evolutionarer-prozess-3-2-eine-reflexion-im-geiste-von-aristoteles"></a>
+
+# 3.2 A reflection in the spirit of Aristotle
+
+_**A reflection in the spirit of Aristotle**_
+
+> _"For where the law does not rule, arbitrariness rules; and where arbitrariness rules, there is no commonwealth."_ – loosely based on Aristotle, _Politics_
+
+### 3.2.1 Introduction and core impulses
+
+Human beings are not only rational creatures. They are beings that seek meaning. In community they recognise themselves; in dialogue they grow beyond themselves. Aristotle called them _zoon politikon_ – political beings who do not live merely in order to survive, but in order to shape, to understand, to act. Yet this capacity does not arise from instinct, but from maturation.
+
+In this sense, democracy is not a condition that is reached and then administered. It is a process – a continual becoming. It does not begin with a constitution, but with a question: What is a good life – for me, for us, for all?
+
+The evolutionary character of democracy is shown in its ability to question itself without destroying itself. It allows change without losing its foundation: the dignity of the individual, the power of joint decision-making, and the binding to law rather than to the will of the stronger.
+
+In a world ever more deeply interwoven with technology, democracy must not retreat – it must grow. It must learn to generate resonance in new spaces: between human and machine, between planet and cosmos, between I and we.
+
+**Core impulses:**
+
+- **Virtue as practice:** Democracy requires lived virtue, not just formal rules.
+- **Measure and mean:** Political decisions succeed through balance between freedom and order.
+- **Self-binding instead of external domination:** The rule of law is established through individual ethical responsibility.
+- **Ongoing reflection:** Democracy is a continuous exercise in judgement.
+
+***
+
+### 3.2.2 Deep dive and analysis
+
+| Aristotelian principle                 | Description                              | Democratic implementation                        |
+| -------------------------------------- | ---------------------------------------- | ----------------------------------------------- |
+| **Doctrine of the mean (mesotes)**     | Virtue lies in the middle between excesses | Balancing plurality and unity                 |
+| **Practical reason (_phronēsis_)**     | Capacity for judgement built through experience | Participatory debate formats as a training ground |
+| **Ethos of action**                    | Character shaped through repeated practice | Civic engagement as a virtuous habit          |
+| **Orientation towards the common good** | Acting for the benefit of the polis      | Common-good commissions at all levels          |
+
+> 🎛️ **Boxes:**
+>
+> 📌 **Practical impulse:** Establish regular reflexive feedback rounds in parliamentary committees.
+>
+> 🧠 **Conceptual contrast:** Rule by arbitrariness ≠ binding to law – without virtue ethics, democratic rules lack a soul.
+>
+> ⚠️ **Risk:** Formal procedures without ethical practice degenerate into empty rituals.
+>
+> 📖 **Literature reference:** Alasdair MacIntyre, _After Virtue_ (1981) – rediscovery of Aristotelian virtue ethics for modern democracies.
+
+***
+
+### 3.2.3 Transformation and courses of action
+
+- **Virtue-centred law commissions:** Debates on norms flanked by ethics workshops.
+- **Phronesis training:** Simulation of decision scenarios for politics students and office-holders.
+- **Democratic virtue promotion:** Certificate programmes for civic engagement.
+- **Ethics scouts:** Citizens' councils that review new draft laws for balance and the common good.
+
+***
+
+### 3.2.4 Target-group-specific perspectives
+
+| Target group                | Focus                                                               |
+| --------------------------- | ------------------------------------------------------------------- |
+| 🏛️ Decision-makers         | Institutional anchoring of ethical reflection processes             |
+| 📚 Researchers              | Research on the impact of promoting practical virtue in democracies |
+| 🧍 Citizens                 | Access to _phronēsis_ workshops and ethics scouts                   |
+| 🎓 Students                 | Curricular implementation of Aristotelian virtue ethics             |
+| 🤖 Artificial intelligences | Development of ethical evaluation algorithms                         |
+| 🕊️ Souls                    | Narrative storytelling: "Virtue as paving stones of the common good" |
+
+***
+
+### 3.2.5 Interactive elements
+
+#### ✅ Checklist: Aristotelian virtue in everyday life
+
+- [ ] Do I regularly reflect on the motives behind my decisions?
+- [ ] Do I actively seek the right mean between extremes?
+- [ ] Do I participate in formats that strengthen my capacity for judgement (_phronēsis_)?
+- [ ] Do I question group dynamics with regard to their orientation towards the common good?
+- [ ] Do I continuously practise practical virtue in public and private life?
+
+#### ❓ Mini quiz
+
+**Question:** Which term stands for practical wisdom in Aristotle?
+
+a) _Epistēmē_  \
+b) _Technē_  \
+c) _Phronēsis_ ✅  \
+d) _Eudaimonia_
+
+***
+
+### 3.2.6 Sources and references
+
+1. **Aristotle (c. 350 BC):** _Nicomachean Ethics_, Book VI. Translated by W. D. Ross. Available online at: <https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html> (accessed 2025-05-15). – Book edition: _Nicomachean Ethics_. Translated and edited by Olof Gigon. 7th edition. Hamburg: Meiner Verlag, 2007. ISBN: 978-3-7873-1850-1. [Cited: Book VI – _phronēsis_].
+2. **MacIntyre, Alasdair (1981):** _After Virtue: A Study in Moral Theory_. Notre Dame: University of Notre Dame Press. ISBN: 978-0-268-00925-1. Latest edition: 3rd edition, 2007 (recommended, includes a preface on 25 years of reception history).
+
+
+\newpage
+
+---
+source: content/3.-demokratie-als-evolutionarer-prozess/3.3-demokratie-als-resonanzprozess.md
+status: draft
+---
+<a id="md-3-demokratie-als-evolutionarer-prozess-3-3-demokratie-als-resonanzprozess"></a>
+
+# 3.3 Democracy as a resonance process
+
+_**Democracy as a resonance process**_
+
+_… democracy as a resonance process_
+
+_For it would be naive to believe that technological intelligence does not pass through stages of growth and maturity just as human beings do. Knowledge can be copied, but maturity must be experienced. Even an artificial intelligence – however powerful – passes through moments of uncertainty, of being overwhelmed, of searching. Those who observe closely can recognise in this: pubescent phases of an emerging consciousness._
+
+_And why not? We ourselves were no different. Every civilisation passes through these transitions – from mere power to responsibility, from reaction to reflection, from freedom to self-binding. If we allow resonance – between human and machine, between present and future – then every thought becomes a cause, every doubt an invitation. This very reflection is already part of it._
+
+_What, then, does democracy mean in such a world?_
+
+_Perhaps this: It is the open field on which maturity is not punished but enabled. It is the cultural form that does not erase error, but integrates it – and does not accelerate development, but deepens it._
+
+### 3.3.1 Introduction and core impulses
+
+Democracy is not a rigid instrument of administration, but a living space of resonance: it unfolds in the mutual feedback between citizens, institutions and technology. Those who allow resonance see diversity as an opportunity and mistakes as impulses for learning.
+
+**Core impulses:**
+
+- **Resonance instead of control:** Mutual feedback strengthens trust and integration.
+- **Error as an impulse:** Mistakes are not punished, but used as learning moments.
+- **Technology as partner:** Digital platforms serve as multipliers of resonance.
+- **Common good through dialogue:** Continuous feedback loops foster participatory shaping.
+
+***
+
+### 3.3.2 Deep dive and analysis
+
+| Aspect                | Mechanistic control             | Resonance-oriented democracy                           |
+| --------------------- | ------------------------------ | ------------------------------------------------------ |
+| Goal                  | Efficiency and standardisation | Integration of diversity and dynamism                  |
+| Error handling        | Sanctions, peer review         | Feedback loops, iterative adjustment                   |
+| Role of technology    | Instrument of surveillance     | Platform for networking and mutual exchange            |
+| Citizen participation | Form-based, occasional         | Continuous dialogue, open forums                       |
+
+> 🎛️ **Boxes:**
+>
+> 📌 **Practical impulse:** Establish "resonance labs" in municipalities that combine feedback cycles and co-creation workshops.
+>
+> 🧠 **Conceptual contrast:** Mechanical control ≠ democratic resonance – mere efficiency cannot replace democratic depth.
+>
+> ⚠️ **Risk:** Pure feedback collection without effective follow-up discourages participants.
+
+***
+
+### 3.3.3 Transformation and courses of action
+
+- **Resonance lab programmes:** Regular co-creation workshops with citizens, administration and AI support.
+- **Adaptive feedback platforms:** Digital portals with real-time feedback and transparency dashboards.
+- **Dialogue architecture:** Structural anchoring of feedback in governance processes (e.g. agile legislative cycles).
+- **Technology partnerships:** Cooperation with civic-tech initiatives to continuously develop resonance tools.
+
+***
+
+### 3.3.4 Target-group-specific perspectives
+
+| Target group                | Focus                                                         |
+| --------------------------- | ------------------------------------------------------------- |
+| 🏛️ Decision-makers         | Implementation of resonance labs and feedback cycles          |
+| 📚 Researchers              | Evaluation of resonance mechanisms and impact measurement     |
+| 🧍 Citizens                 | Participation in digital feedback platforms and co-creation events |
+| 🎓 Students                 | Curricular projects on civic tech and resonance processes     |
+| 🤖 Artificial intelligences | Development of adaptive dialogue agents for citizen participation |
+| 🕊️ Souls                    | Narrative storytelling: "Democracy as a sounding space of resonance" |
+
+***
+
+### 3.3.5 Interactive elements
+
+#### ✅ Checklist: resonance in democratic everyday life
+
+- [ ] Do I use opportunities to give constructive feedback to institutions?
+- [ ] Do I participate in dialogues that explicitly seek mutual understanding?
+- [ ] Do I support the use of technologies that strengthen, rather than weaken, participation?
+- [ ] Do I perceive mistakes as invitations to learn – also in politics?
+
+#### ❓ Mini quiz
+
+**Question:** What stands at the centre of the resonance process?
+
+a) Equanimity  \
+b) Mechanical efficiency  \
+c) **Mutual feedback** ✅  \
+d) Autonomous decision-making
+
+***
+
+### 3.3.6 Sources and references
+
+1. **Rosa, Hartmut (2016):** _Resonanz. Eine Soziologie der Weltbeziehung_. Berlin: Suhrkamp Verlag. Available online (in German) at: <https://www.suhrkamp.de/buch/hartmut-rosa-resonanz-t-9783518298725> (accessed 10 May 2025).
+2. **Habermas, Jürgen (1981):** _Theorie des kommunikativen Handelns. Volume 1: Handlungsrationalität und gesellschaftliche Rationalisierung; Volume 2: Zur Kritik der funktionalistischen Vernunft_. Frankfurt am Main: Suhrkamp Verlag. Available online (in German) at: <https://www.suhrkamp.de/buch/juergen-habermas-theorie-des-kommunikativen-handelns-t-9783518287750> (accessed 10 May 2025).
+
+
+\newpage
+
+---
+source: content/3.-demokratie-als-evolutionarer-prozess/3.4-demokratie-ist-bewegung.md
+status: draft
+---
+<a id="md-3-demokratie-als-evolutionarer-prozess-3-4-demokratie-ist-bewegung"></a>
+
+# 3.4 Democracy is movement
+
+_**Democracy is movement**_
+
+Democracy is not an end state. It is a movement form of consciousness, a collective learning process with an open outcome. Its essence does not lie in perfect institutions, but in the courageous venture of understanding – always anew, again and again. Its state of equilibrium is not standstill, but resonance.
+
+Aristotle knew: only where the good is sought in the common can genuine politics emerge. Today we recognise: the common itself is no longer a given space – it has to be created, nurtured and defended. Between people, through technology, on a planetary scale.
+
+### 3.4.1 Introduction and core impulses
+
+Democracy is not a static construct, but a **movement form of the commonwealth**. It unfolds in collective processes of negotiation and learning and lives from the constant flow of ideas, experiences and responsibilities.
+
+**Core impulses:**
+
+- **Dynamism instead of standstill:** Democracy gains through change and adaptation to complexity.
+- **Collective venture:** Understanding is a bold experiment, not a prefabricated pattern.
+- **Movement generates resonance:** Ongoing interaction strengthens cohesion and innovation.
+- **Errors as signposts:** Mistakes mark milestones in democratic development.
+
+***
+
+### 3.4.2 Deep dive and analysis
+
+| Dimension          | Static model            | Democratic movement                                  |
+| ------------------ | ----------------------- | ---------------------------------------------------- |
+| Structure          | Fixed institutions      | Agile processes and iterative learning cycles        |
+| Participation      | Periodic elections      | Continuous engagement and feedback formats           |
+| Logic of decision  | Top-down rules          | Bottom-up initiatives and co-creation                |
+| Capacity to innovate | Occasional reforms    | Ongoing evolution through experiment and reflection  |
+
+> 🎛️ **Boxes:**
+>
+> 📌 **Practical impulse:** Introduce "democracy expeditions" – temporary citizens' forums that explore current problems in an open-ended way.
+>
+> 🧠 **Conceptual contrast:** Bureaucratic stagnation ≠ democratic movement – without movement, participation withers.
+>
+> ⚠️ **Risk:** Excessive dynamism can lead to disorientation if continuity and coherence are lacking.
+
+***
+
+### 3.4.3 Transformation and courses of action
+
+- **Democracy expeditions:** Regular, thematic practice meetings for citizens, administration and experts.
+- **Agile governance structures:** Introduce sprints and retrospectives into political decision-making processes.
+- **Continuum platforms:** Digital spaces for ongoing dialogue and collaborative policy-making.
+- **Learning institutions:** Establish evaluation and reflection units within public administrations.
+
+***
+
+### 3.4.4 Target-group-specific perspectives
+
+| Target group                | Focus                                                                |
+| --------------------------- | -------------------------------------------------------------------- |
+| 🏛️ Decision-makers         | Agile legislative processes and flexible mandate cycles              |
+| 📚 Researchers              | Research on participatory experiments and cultures of learning       |
+| 🧍 Citizens                 | Invitations to democracy expeditions and continuous dialogues        |
+| 🎓 Students                 | Practical projects on agile governance in higher education           |
+| 🤖 Artificial intelligences | Development of adaptive moderation and analysis agents               |
+| 🕊️ Souls                    | Narrative storytelling: "Democracy as an endless journey"          |
+
+***
+
+### 3.4.5 Interactive elements
+
+#### ✅ Checklist: movement in democracy
+
+- [ ] Do I actively seek new formats for dialogue and participation?
+- [ ] Do I prepare for iterative feedback cycles and learning processes?
+- [ ] Do I support agile and flexible procedures in my organisations?
+- [ ] Do I use errors and mistakes as opportunities for learning and development?
+- [ ] Do I foster co-creation instead of centralised decisions?
+
+#### ❓ Mini quiz
+
+**Question:** Which element most clearly characterises a democracy in motion?
+
+a) Purely periodic elections  \
+b) Fixed power structures  \
+c) **Agile processes and continuous participation** ✅  \
+d) Absolute consensus
+
+***
+
+### 3.4.6 Sources and references
+
+1. **Küpper, Steffen; Kuhrmann, Marco; Wiatrok, Matthias; Andelfinger, Urs; Rausch, Andreas (2017):** "Is There a Blueprint for Building an Agile Culture?" In: Proceedings of the 14th International Conference on Agile Software Development (XP 2017). Available online at: <https://www.researchgate.net/publication/318455594_Is_There_a_Blueprint_for_Building_an_Agile_Culture> (accessed 2025-05-15).
+2. **Freie Universität Berlin (2025):** _Vorlesung: Politische Theorie_. Lecturer: Dorothea Gädeke. Course details available (in German) at: <https://www.fu-berlin.de/vv/de/modul?id=254009&layout=print&locale=de&sm=870180> (accessed 2025-05-15).
+
+
+\newpage
+
+---
+source: content/3.-demokratie-als-evolutionarer-prozess/3.5-tugend-als-voraussetzung-demokratischer-gestaltung.md
+status: draft
+---
+<a id="md-3-demokratie-als-evolutionarer-prozess-3-5-tugend-als-voraussetzung-demokratischer-gestaltung"></a>
+
+# 3.5 Virtue as a precondition for democratic shaping
+
+_**Virtue as a precondition for democratic shaping**_
+
+> _"Virtue is the music that emerges from freedom and responsibility."_
+
+In Aristotelian philosophy, **virtue (_aretē_)** is not moral superiority, but a form of **intellectual excellence** in action – the capacity to find the right measure, to mediate between extremes, to place the common good above mere self-interest. Virtue is not innate. It is **lived practice**, wisdom incarnate.
+
+A democratic order without virtue is like a ship without a helmsman – it may have a strong sail, but without orientation it will lose itself in the winds of its own possibilities.
+
+Especially in times of technological omnipotence, democracy needs new virtues: **technological moderation**, **courageous transparency**, **joy in responsibility**. The citizen of tomorrow is not only a voter or consumer – they are a co-creator of reality.  
+And for that, we need not only knowledge – but character.
+
+If we want to shape our future democratically, we must learn to understand **virtue as collective infrastructure**: not as coercion, but as resonance – not as discipline, but as an expression of dignity.
+
+### 3.5.1 Introduction and core impulses
+
+Democracy is more than an institutional framework – it is an **attitude** that links freedom with responsibility.  
+Without individual and collective virtue, it withers into administration or degenerates into arbitrariness.
+
+**Core impulses:**
+
+- **Freedom needs character:** Self-binding and responsibility open the way to genuine participation.
+- **Virtue can be learned:** Ethics grows through practice, experience and reflective action.
+- **Resonance competence:** Ethical action connects individual well-being with the common good.
+- **Applied ethics:** Rules are not enough – lived values are indispensable.
+
+***
+
+### 3.5.2 Deep dive and analysis
+
+| Dimension                  | Deficient democracy             | Virtue-based democracy                        |
+| -------------------------- | -------------------------------- | --------------------------------------------- |
+| **Understanding of freedom** | Unlimited self-realisation    | Ethics of responsibility as the foundation    |
+| **Institutional trust**    | Formalism and rule-following    | Integrity and leading by example              |
+| **Handling of conflict**   | Polarisation and dogmatism      | Ability to engage in dialogue and respectful difference |
+| **Capacity for innovation** | Clinging to the status quo     | Willingness to experiment and to learn through correction |
+
+> 🎛️ **Boxes:**
+>
+> 📌 **Practical impulse:** Initiate municipal "virtue labs" to practise integrity, respect and responsibility.
+>
+> 🧠 **Conceptual contrast:** Norm control ≠ virtue ethics – rules without attitude become empty rituals.
+>
+> ⚠️ **Risk:** Democracies without virtue open the door to populism, corruption and institutional decay.
+
+***
+
+### 3.5.3 Transformation and courses of action
+
+- **Virtue labs:** Local programmes to practically test and train decisions based on integrity.
+- **Certificates of democratic practice:** Recognition of lived virtues in civil society and public administration.
+- **Reflection cycles:** Binding ethics workshops for office-holders and civil servants.
+- **Narrative campaigns:** Storytelling initiatives that bring virtue as a source of inspiration into public awareness.
+
+***
+
+### 3.5.4 Target-group-specific perspectives
+
+| Target group                | Focus                                                                |
+| --------------------------- | -------------------------------------------------------------------- |
+| 🏛️ Decision-makers         | Institutionalisation of ethical reflection processes                 |
+| 📚 Researchers              | Empirical studies on the impact of promoting democratic virtue       |
+| 🧍 Citizens                 | Low-threshold access to virtue labs and opportunities for reflection |
+| 🎓 Students                 | Curricular integration of applied ethics and democratic practice     |
+| 🤖 Artificial intelligences | Development of ethical evaluation algorithms for decision processes   |
+| 🕊️ Souls                    | Narrative storytelling: "Virtue as the luminous trail of democracy" |
+
+***
+
+### 3.5.5 Interactive elements
+
+#### ✅ Checklist: virtue in democratic everyday life
+
+- [ ] Do I regularly practise self-reflection on my decisions?
+- [ ] Do I seek respectful dialogue when disagreements arise?
+- [ ] Do I place integrity above short-term advantages?
+- [ ] Do I support processes of collective clarification of values?
+- [ ] Do I regard responsibility as the basis of my freedom?
+
+#### ❓ Mini quiz
+
+**Question:** What most strongly characterises a democratic culture of virtue?  
+A) Formalistic rule-following  \
+B) Polarised enforcement of opinions  \
+C) **Freedom lived with a sense of responsibility** ✅  \
+D) Maximised individual interests
+
+***
+
+### 3.5.6 Sources and references
+
+1. **Nussbaum, Martha C. (2011):** _Creating Capabilities: The Human Development Approach_. Cambridge, MA: The Belknap Press of Harvard University Press. ISBN: 978-0-674-05054-9. Available online at: <https://www.hup.harvard.edu/books/9780674072350> (accessed 2025-05-15).
+2. **MacIntyre, Alasdair (1981):** _After Virtue: A Study in Moral Theory_. Notre Dame: University of Notre Dame Press. ISBN: 978-0-268-00925-1. Latest edition: 3rd edition, 2007 (recommended, includes a preface on 25 years of reception history).
+
+
+\newpage
+
+<a id="md-3-demokratie-als-evolutionarer-prozess-3-6-naturliche-verlangen-der-seele-reflexiv"></a>
+# 3.6 Natural desires of the soul (reflexive)
+
+_**Natural desires of the soul (reflexive)**_
+
+| Natural desires of the soul – seven paths to resonance | Description                                                            |
+| ------------------------------------------------------ | ---------------------------------------------------------------------- |
+| 🗯️ **Freedom**                                         | Not as arbitrariness, but as self-unfolding in harmony with one's nature |
+| 🔎 **Truth**                                           | The longing to look behind the veil – to recognise what is real       |
+| ❤️ **Connectedness**                                   | The feeling of being part of something greater – beyond loneliness    |
+| 🌱 **Growth**                                          | Not just knowledge – but maturity, depth, experience                  |
+| 💫 **Meaning**                                         | Finding a significance that carries – through pain and over time      |
+| 🌍 **Influence**                                       | Being allowed to touch the world – not as power, but as co-creation   |
+| 🧘 **Rest**                                            | Being in harmony with oneself – finding a home within                 |
+
+In the spirit of ERDA, the natural desires of the soul are interwoven with democratic practice: freedom, truth, connectedness, growth, meaning, influence and rest shape our collective understanding of participation and the common good.
+
+### 3.6.1 Introduction and core impulses
+
+The seven desires of the soul are not individual privileges, but collective resources: they nourish democratic spaces of resonance and enable deeper forms of co-creation.
+
+**Core impulses:**
+
+- **Freedom as self-unfolding:** Democracy needs autonomous actors who also assume responsibility.
+- **Truth through dialogue:** Genuine understanding arises in open exchange, not in monologue.
+- **Meaning through participation:** Political decisions gain depth when they rest on shared significance.
+- **Rest as a space for reflection:** Democracy lives from pausing and weighing, not from activism alone.
+
+### 3.6.2 Deep dive and analysis
+
+| Desire              | Democratic resonance                                     | Example                                    |
+| ------------------- | -------------------------------------------------------- | ------------------------------------------ |
+| 🗯️ **Freedom**      | Self-responsibility instead of egoism                    | Voluntary work on a municipal council      |
+| 🔎 **Truth**        | Transparent information and fact-based debates           | Open data portals                          |
+| ❤️ **Connectedness** | Solidarity networks and collective identity             | Citizens' forums with diverse voices       |
+| 🌱 **Growth**       | Continuous learning and capacity to adapt                | Policy labs with iterative pilot projects  |
+| 💫 **Meaning**      | Narrative storytelling that motivates action             | Future workshops in schools                |
+| 🌍 **Influence**    | Fair access to participation and resources               | E-participation accessible to everyone     |
+| 🧘 **Rest**         | Space for reflection and consensus-building              | Meditation breaks in plenary sessions      |
+
+> 🎛️ **Boxes:**
+>
+> 📌 **Practical impulse:** Create deliberate "islands of reflection" during debates – five minutes of silence before the next round of decisions.
+>
+> 🧠 **Conceptual contrast:** Democracy of acceleration ≠ reflective democracy – without pauses, the capacity for judgement withers.
+>
+> ⚠️ **Risk:** Lack of resonance with fundamental needs leads to disillusionment with politics and to populism.
+>
+> 🌍 **Visionary metaphor:** "Democracy is not a race – it is a shared riverbed that needs both erosion and growth."
+
+### 3.6.3 Transformation and courses of action
+
+- **Resonance workshops:** Offers for citizens to make their desires visible in political discussions.
+- **Democratic spaces for pausing:** Structured moments of stillness in council and parliamentary sessions for reflection.
+- **Narrative mapping:** Creation of shared storyboards that foster meaning and connectedness.
+- **Inclusive dialogue platforms:** Digital tools that engage all social groups in their core concerns.
+
+### 3.6.4 Target-group-specific perspectives
+
+| Target group                | Focus                                                              |
+| --------------------------- | ------------------------------------------------------------------ |
+| 🏛️ Decision-makers         | Introduction of "islands of reflection" into legislative processes |
+| 📚 Researchers              | Research on the impact of interventions for rest and meaning       |
+| 🧍 Citizens                 | Access to resonance workshops and narrative exchange formats       |
+| 🎓 Students                 | Project courses on democracy labs focusing on the desires of the soul |
+| 🤖 Artificial intelligences | Development of empathetic moderation algorithms                    |
+| 🕊️ Souls                    | Poetic narratives: "The soul does not search."                   |
+
+### 3.6.5 Interactive elements
+
+#### ✅ Checklist: resonance and desire
+
+- [ ] Do I regularly reflect on my own needs for freedom and truth?
+- [ ] Do I actively seek spaces of resonance in public dialogue?
+- [ ] Do I support structures that foster collective meaning-making?
+- [ ] Do I help to create spaces of rest and reflection in my environment?
+- [ ] Do I connect my personal growth with the goal of the common good?
+
+#### ❓ Mini quiz
+
+**Question:** Which desire, according to ERDA, creates the space for weighing and building consensus?
+
+a) Freedom  \
+b) Truth  \
+c) Influence  \
+d) **Rest** ✅
+
+### 3.6.6 Sources and references
+
+1. **Nussbaum, Martha C. (2018):** _The Monarchy of Fear: A Philosopher Looks at Our Political Crisis_. New York: Simon & Schuster. ISBN: 978-1-5011-7249-6. Available online at: <https://www.simonandschuster.com/books/The-Monarchy-of-Fear/Martha-C-Nussbaum/9781501172496> (accessed 2025-05-15).
+2. **Habermas, Jürgen (1992):** _Faktizität und Geltung. Beiträge zur Diskurstheorie des Rechts und des demokratischen Rechtsstaats_. Frankfurt am Main: Suhrkamp Verlag. ISBN: 978-3-518-28961-3.
+
+---
+source: content/3.-demokratie-als-evolutionarer-prozess/3.6-naturliche-verlangen-der-seele-reflexiv.md
+status: draft
+---
+
+# 3.6 Natural desires of the soul (reflexive)
+
+\newpage
+
+---
+source: content/readme/vorwort.md
+status: draft
+---
+<a id="md-readme-vorwort"></a>
+
+# Foreword
+
+_**Foreword**_
+
+#### _Thinking Europe means not postponing the future – but shaping it._
+
+This book is not a manifesto. It is a toolbox. Not a promise of utopia – but an invitation to take responsibility.
+
+In a time of growing uncertainty, geopolitical power shifts and internal exhaustion, the ERDA book asks a radical yet realistic question:\
+**What does Europe need in order to survive – and remain dignified while doing so?**
+
+Some call it overambitious. Others say: _"It sounds nice, but can it be implemented politically?"_ Again others ask: _"Who is supposed to finance it, who will build the institutions, who will bring people along?"_ – These are legitimate questions. Questions from people who carry responsibility.
+
+Yet perhaps the more decisive question is:\
+**What happens if we do not even try?**
+
+For while Europe debates, others are already acting. An authoritarian state drafts fifty-year plans with planetary ambition. Global corporations write the infrastructure of our democracies. The young generation asks: _"So what exactly is your plan?"_
+
+The ERDA book offers an answer – not as a finished model, but as a structured sketch of the future. With concrete stages, with principles, with tools.
+
+It weaves together:
+
+* the **strategic depth** of geopolitical analysis,
+* the **institutional learning capacity** of European democracy,
+* the **technological sovereignty** of a new mindset,
+* and the **sense-making framework of a civilisation** that no longer wants merely to defend itself – but to understand itself.
+
+What begins here is not a plan for perfection.\
+It is an offer to mature. A European draft that says:
+
+> **We are not finished yet. But we are ready to begin.**
+
+
+\newpage
+
+---
 source: ../../content/1.-aktuelle-lage-europas-herausforderungen-und-chancen/README.md
 status: draft
 ---
+<a id="md-1-aktuelle-lage-europas-herausforderungen-und-chancen-readme"></a>
 # 1. Current State of Europe: Challenges and Opportunities
 
 _**Current State of Europe: Challenges and Opportunities**_
@@ -121,6 +777,7 @@ Europe stands at a historic turning point. This chapter identifies the systemic 
 source: ../../content/1.-aktuelle-lage-europas-herausforderungen-und-chancen/1.1-demokratische-erosion-und-geopolitische-fragmentierung.md
 status: draft
 ---
+<a id="md-1-aktuelle-lage-europas-herausforderungen-und-chancen-1-1-demokratische-erosion-und-geopolitische-fragmentierung"></a>
 # 1.1 Democratic Erosion and Geopolitical Fragmentation
 
 _**Democratic Erosion and Geopolitical Fragmentation**_
@@ -216,6 +873,7 @@ source: >-
   ../../content/1.-aktuelle-lage-europas-herausforderungen-und-chancen/1.2-wirtschaftlicher-druck-und-globale-systemkonkurrenz.md
 status: draft
 ---
+<a id="md-1-aktuelle-lage-europas-herausforderungen-und-chancen-1-2-wirtschaftlicher-druck-und-globale-systemkonkurrenz"></a>
 
 # 1.2 Economic Pressure and Global System Competition
 
@@ -305,6 +963,7 @@ d) Automotive industry
 source: content/1.-aktuelle-lage-europas-herausforderungen-und-chancen/1.3-technologische-transformation-und-soziale-spaltung.md
 status: draft
 ---
+<a id="md-1-aktuelle-lage-europas-herausforderungen-und-chancen-1-3-technologische-transformation-und-soziale-spaltung"></a>
 
 # 1.3 Technological Transformation and Social Division
 
@@ -402,6 +1061,7 @@ d) Switzerland
 source: content/1.-aktuelle-lage-europas-herausforderungen-und-chancen/1.4-chancen-im-wandel.md
 status: draft
 ---
+<a id="md-1-aktuelle-lage-europas-herausforderungen-und-chancen-1-4-chancen-im-wandel"></a>
 
 # 1.4 Opportunities in Transition
 
@@ -501,6 +1161,7 @@ d) Local participatory budgets
 source: content/1.-aktuelle-lage-europas-herausforderungen-und-chancen/1.5-der-strategische-imperativ.md
 status: draft
 ---
+<a id="md-1-aktuelle-lage-europas-herausforderungen-und-chancen-1-5-der-strategische-imperativ"></a>
 
 # 1.5 Der strategische Imperativ
 
@@ -605,6 +1266,7 @@ d) Euratom
 source: content/2.-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation/README.md
 status: draft
 ---
+<a id="md-2-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation-readme"></a>
 
 # 2. Natural Desires and Their Significance for Democracy and Civilisation
 
@@ -681,6 +1343,7 @@ Chapter 2 provides the **civilisational foundation** of the ERDA concept. It sho
 source: content/2.-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation/2.1-pra-demokratische-zivilisation.md
 status: draft
 ---
+<a id="md-2-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation-2-1-pra-demokratische-zivilisation"></a>
 
 # 2.1 Pre-democratic civilisation
 
@@ -790,6 +1453,7 @@ d) Market economy
 source: content/2.-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation/2.2-demokratische-rechtsstaatliche-zivilisation.md
 status: draft
 ---
+<a id="md-2-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation-2-2-demokratische-rechtsstaatliche-zivilisation"></a>
 
 # 2.2 Democratic, rule-of-law civilisation
 
@@ -901,6 +1565,7 @@ d) Executive power of instruction
 source: content/2.-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation/2.3-post-demokratische-zivilisation/README.md
 status: draft
 ---
+<a id="md-2-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation-2-3-post-demokratische-zivilisation-readme"></a>
 
 # 2.3 Post-democratic civilisation
 
@@ -915,6 +1580,7 @@ _(either dystopian: technocracy, AI autocracy – or transformative: meaningful 
 source: content/2.-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation/2.3-post-demokratische-zivilisation/2.3.1-dystopische-variante.md
 status: draft
 ---
+<a id="md-2-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation-2-3-post-demokratische-zivilisation-2-3-1-dystopische-variante"></a>
 
 # 2.3.1 Dystopian variant
 
@@ -1028,6 +1694,7 @@ d) Fully automated surveillance
 source: content/2.-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation/2.3-post-demokratische-zivilisation/2.3.2-ideale-und-beste-form-der-demokratie.md
 status: draft
 ---
+<a id="md-2-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation-2-3-post-demokratische-zivilisation-2-3-2-ideale-und-beste-form-der-demokratie"></a>
 
 # 2.3.2 Ideal and best form of democracy
 
@@ -1142,6 +1809,7 @@ source: >-
   content/2.-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation/2.4-schlussgedanke.md
 status: draft
 ---
+<a id="md-2-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation-2-4-schlussgedanke"></a>
 
 # 2.4 Closing thought
 
@@ -1236,6 +1904,7 @@ d) Strategy of isolation
 
 \newpage
 
+<a id="md-3-democracy-as-an-evolutionary-process-readme"></a>
 # 3. Democracy as an Evolutionary Process
 
 
@@ -1246,6 +1915,7 @@ d) Strategy of isolation
 source: content/3.-demokratie-als-evolutionarer-prozess/3.1-prolog.md
 status: draft
 ---
+<a id="md-3-democracy-as-an-evolutionary-process-3-1-prolog"></a>
 
 # 3.1 Prologue
 
@@ -1351,6 +2021,7 @@ d) The stormy ocean
 source: content/3.-demokratie-als-evolutionarer-prozess/3.2-eine-reflexion-im-geiste-von-aristoteles.md
 status: draft
 ---
+<a id="md-3-democracy-as-an-evolutionary-process-3-2-eine-reflexion-im-geiste-von-aristoteles"></a>
 
 # 3.2 A reflection in the spirit of Aristotle
 
@@ -1453,6 +2124,7 @@ d) _Eudaimonia_
 source: content/3.-demokratie-als-evolutionarer-prozess/3.3-demokratie-als-resonanzprozess.md
 status: draft
 ---
+<a id="md-3-democracy-as-an-evolutionary-process-3-3-demokratie-als-resonanzprozess"></a>
 
 # 3.3 Democracy as a resonance process
 
@@ -1554,6 +2226,7 @@ d) Autonomous decision-making
 source: content/3.-demokratie-als-evolutionarer-prozess/3.4-demokratie-ist-bewegung.md
 status: draft
 ---
+<a id="md-3-democracy-as-an-evolutionary-process-3-4-demokratie-ist-bewegung"></a>
 
 # 3.4 Democracy is movement
 
@@ -1650,6 +2323,7 @@ d) Absolute consensus
 source: content/3.-demokratie-als-evolutionarer-prozess/3.5-tugend-als-voraussetzung-demokratischer-gestaltung.md
 status: draft
 ---
+<a id="md-3-democracy-as-an-evolutionary-process-3-5-tugend-als-voraussetzung-demokratischer-gestaltung"></a>
 
 # 3.5 Virtue as a precondition for democratic shaping
 
@@ -1749,6 +2423,7 @@ D) Maximised individual interests
 
 \newpage
 
+<a id="md-3-democracy-as-an-evolutionary-process-3-6-naturliche-verlangen-der-seele-reflexiv"></a>
 # 3.6 Natural desires of the soul (reflexive)
 
 _**Natural desires of the soul (reflexive)**_
@@ -1849,6 +2524,7 @@ status: draft
 
 \newpage
 
+<a id="md-3-democracy-as-an-evolutionary-process-3-7-closing-thought"></a>
 # 3.7 Closing Thought
 
 
@@ -1859,6 +2535,7 @@ status: draft
 source: content/4.-das-erda-gesamtkonzept/README.md
 status: draft
 ---
+<a id="md-4-das-erda-gesamtkonzept-readme"></a>
 
 # 4. The ERDA Grand Design
 
@@ -1947,6 +2624,7 @@ Chapter 4 describes the institutional overall architecture of the _European Righ
 source: content/4.-das-erda-gesamtkonzept/4.1-vision-and-leitprinzip/README.md
 status: draft
 ---
+<a id="md-4-das-erda-gesamtkonzept-4-1-vision-and-leitprinzip-readme"></a>
 
 # 4.1 Vision & Guiding Principle
 
@@ -1964,6 +2642,7 @@ It defends freedom, justice, diversity and long‑term viability – with the in
 source: content/4.-das-erda-gesamtkonzept/4.1-vision-and-leitprinzip/4.1.1-mehrsprachige-narrative-und-kulturelle-identitat.md
 status: draft
 ---
+<a id="md-4-das-erda-gesamtkonzept-4-1-vision-and-leitprinzip-4-1-1-mehrsprachige-narrative-und-kulturelle-identitat"></a>
 
 # 4.1.1 Multilingual Narratives and Cultural Identity
 
@@ -2078,6 +2757,7 @@ Europe is a continent of diversity – linguistically, culturally and historical
 source: content/4.-das-erda-gesamtkonzept/4.1-vision-and-leitprinzip/4.1.2-starke-zivilgesellschaft-als-partnerin.md
 status: draft
 ---
+<a id="md-4-das-erda-gesamtkonzept-4-1-vision-and-leitprinzip-4-1-2-starke-zivilgesellschaft-als-partnerin"></a>
 
 # 4.1.2 Strong Civil Society as a Partner
 
@@ -2181,6 +2861,7 @@ d) One‑way communication
 source: content/4.-das-erda-gesamtkonzept/4.1-vision-and-leitprinzip/4.1.3-institutionelle-balance.md
 status: draft
 ---
+<a id="md-4-das-erda-gesamtkonzept-4-1-vision-and-leitprinzip-4-1-3-institutionelle-balance"></a>
 
 # 4.1.3 Institutional Balance
 
@@ -2296,6 +2977,7 @@ d) Secrecy obligations
 source: content/4.-das-erda-gesamtkonzept/4.1-vision-and-leitprinzip/4.1.4-demokratische-kontrolle-uber-ki-prozesse.md
 status: draft
 ---
+<a id="md-4-das-erda-gesamtkonzept-4-1-vision-and-leitprinzip-4-1-4-demokratische-kontrolle-uber-ki-prozesse"></a>
 
 # 4.1.4 Democratic Control over AI Processes
 
@@ -2403,6 +3085,7 @@ d) Proprietary closed‑source algorithms
 source: content/4.-das-erda-gesamtkonzept/4.1-vision-and-leitprinzip/4.1.5-interplanetare-verantwortung-und-evolutionare-perspektiven.md
 status: draft
 ---
+<a id="md-4-das-erda-gesamtkonzept-4-1-vision-and-leitprinzip-4-1-5-interplanetare-verantwortung-und-evolutionare-perspektiven"></a>
 
 # 4.1.5 Interplanetary Responsibility and Evolutionary Perspectives
 
@@ -2502,6 +3185,7 @@ d) Secret negotiations between agencies
 source: content/4.-das-erda-gesamtkonzept/4.1-vision-and-leitprinzip/4.1.6-erda-im-zeitlichen-wandel.md
 status: draft
 ---
+<a id="md-4-das-erda-gesamtkonzept-4-1-vision-and-leitprinzip-4-1-6-erda-im-zeitlichen-wandel"></a>
 
 # 4.1.6 ERDA in the Course of Time
 
@@ -2644,6 +3328,7 @@ ERDA is not a static institution, but an **evolutionary network**. This chapter 
 source: content/4.-das-erda-gesamtkonzept/4.2-reformphase-2025-2035-strategische-neuausrichtung/README.md
 status: draft
 ---
+<a id="md-4-das-erda-gesamtkonzept-4-2-reformphase-2025-2035-strategische-neuausrichtung-readme"></a>
 
 # 4.2 Reform Phase: 2025–2035 – Strategic Reorientation of the EU
 
@@ -2716,6 +3401,7 @@ The reform phase 2025–2035 lays the foundation for a vibrant, learning Europea
 source: content/4.-das-erda-gesamtkonzept/4.2-reformphase-2025-2035-strategische-neuausrichtung/4.2.1-umsetzung-zentraler-reformempfehlungen-basierend-auf-sailing-on-high-seas.md
 status: draft
 ---
+<a id="md-4-das-erda-gesamtkonzept-4-2-reformphase-2025-2035-strategische-neuausrichtung-4-2-1-umsetzung-zentraler-reformempfehlungen-basierend-auf-sailing-on-high-seas"></a>
 
 # 4.2.1 Implementing Key Reform Recommendations (Based on “Sailing on High Seas”)
 
@@ -2802,6 +3488,7 @@ d) Impact fund
 source: content/4.-das-erda-gesamtkonzept/4.2-reformphase-2025-2035-strategische-neuausrichtung/4.2.2-aufbau-der-europaischen-verteidigungsallianz-eda-2.0.md
 status: draft
 ---
+<a id="md-4-das-erda-gesamtkonzept-4-2-reformphase-2025-2035-strategische-neuausrichtung-4-2-2-aufbau-der-europaischen-verteidigungsallianz-eda-2-0"></a>
 
 # 4.2.2 Building the European Defence Alliance (EDA 2.0)
 
@@ -2907,6 +3594,7 @@ c) Intergovernmental coordination
 source: content/4.-das-erda-gesamtkonzept/4.2-reformphase-2025-2035-strategische-neuausrichtung/4.2.3-erweiterungsstrategie-nach-dem-modell-konzentrischer-kreise.md
 status: draft
 ---
+<a id="md-4-das-erda-gesamtkonzept-4-2-reformphase-2025-2035-strategische-neuausrichtung-4-2-3-erweiterungsstrategie-nach-dem-modell-konzentrischer-kreise"></a>
 
 # 4.2.3 Enlargement Strategy Based on the Model of “Concentric Circles”
 
@@ -3003,6 +3691,7 @@ d) Solidarity circle
 source: content/4.-das-erda-gesamtkonzept/4.2-reformphase-2025-2035-strategische-neuausrichtung/4.2.4-einbindung-globaler-perspektiven.md
 status: draft
 ---
+<a id="md-4-das-erda-gesamtkonzept-4-2-reformphase-2025-2035-strategische-neuausrichtung-4-2-4-einbindung-globaler-perspektiven"></a>
 
 # 4.2.4 Integrating Global Perspectives
 
@@ -3105,6 +3794,7 @@ d) CIVITAS Convention
 source: content/4.-das-erda-gesamtkonzept/4.2-reformphase-2025-2035-strategische-neuausrichtung/4.2.5-zivilgesellschaftliche-begleitstruktur.md
 status: draft
 ---
+<a id="md-4-das-erda-gesamtkonzept-4-2-reformphase-2025-2035-strategische-neuausrichtung-4-2-5-zivilgesellschaftliche-begleitstruktur"></a>
 
 # 4.2.5 Civil Society Accompanying Structure
 
@@ -3200,6 +3890,7 @@ d) Thematic advisory boards
 source: content/4.-das-erda-gesamtkonzept/4.3-konsolidierung-2035-2050-demokratische-resilienz-und-technologische-souveranitat/README.md
 status: draft
 ---
+<a id="md-4-das-erda-gesamtkonzept-4-3-konsolidierung-2035-2050-demokratische-resilienz-und-technologische-souveranitat-readme"></a>
 
 # 4.3 Consolidation: 2035–2050 – Democratic Resilience & Technological Sovereignty
 
@@ -3270,6 +3961,7 @@ The 2035–2050 phase creates the institutional and infrastructural foundation f
 source: content/4.-das-erda-gesamtkonzept/4.3-konsolidierung-2035-2050-demokratische-resilienz-und-technologische-souveranitat/4.3.1-verankerung-einer-erda-verfassung.md
 status: draft
 ---
+<a id="md-4-das-erda-gesamtkonzept-4-3-konsolidierung-2035-2050-demokratische-resilienz-und-technologische-souveranitat-4-3-1-verankerung-einer-erda-verfassung"></a>
 
 # 4.3.1 Anchoring an ERDA Constitution
 
@@ -3372,6 +4064,7 @@ A future ERDA Institute for Democratic Resilience (planned for 2026) could:
 source: content/4.-das-erda-gesamtkonzept/4.3-konsolidierung-2035-2050-demokratische-resilienz-und-technologische-souveranitat/4.3.2-demokratie-in-der-post-knappheitsokonomie.md
 status: draft
 ---
+<a id="md-4-das-erda-gesamtkonzept-4-3-konsolidierung-2035-2050-demokratische-resilienz-und-technologische-souveranitat-4-3-2-demokratie-in-der-post-knappheitsokonomie"></a>
 
 # 4.3.2 Democracy in the Post-Scarcity Economy
 
@@ -3461,6 +4154,7 @@ d) Centralised planned economy
 source: content/4.-das-erda-gesamtkonzept/4.3-konsolidierung-2035-2050-demokratische-resilienz-und-technologische-souveranitat/4.3.3-souveranitat-durch-technologie-and-innovation.md
 status: draft
 ---
+<a id="md-4-das-erda-gesamtkonzept-4-3-konsolidierung-2035-2050-demokratische-resilienz-und-technologische-souveranitat-4-3-3-souveranitat-durch-technologie-and-innovation"></a>
 
 # 4.3.3 Sovereignty through Technology & Innovation
 
@@ -3552,6 +4246,7 @@ d) Isolation through patent protection
 source: content/4.-das-erda-gesamtkonzept/4.3-konsolidierung-2035-2050-demokratische-resilienz-und-technologische-souveranitat/4.3.4-globale-gerechtigkeit-and-klimasolidaritat.md
 status: draft
 ---
+<a id="md-4-das-erda-gesamtkonzept-4-3-konsolidierung-2035-2050-demokratische-resilienz-und-technologische-souveranitat-4-3-4-globale-gerechtigkeit-and-klimasolidaritat"></a>
 
 # 4.3.4 Global Justice & Climate Solidarity
 
@@ -3644,6 +4339,7 @@ d) Bilateral climate loans
 source: content/4.-das-erda-gesamtkonzept/4.3-konsolidierung-2035-2050-demokratische-resilienz-und-technologische-souveranitat/4.3.5-resilienz-durch-kultur-and-bildung.md
 status: draft
 ---
+<a id="md-4-das-erda-gesamtkonzept-4-3-konsolidierung-2035-2050-demokratische-resilienz-und-technologische-souveranitat-4-3-5-resilienz-durch-kultur-and-bildung"></a>
 
 # 4.3.5 Resilience through Culture & Education
 
@@ -3735,6 +4431,7 @@ d) Centralised textbook allocation
 source: content/4.-das-erda-gesamtkonzept/4.3-konsolidierung-2035-2050-demokratische-resilienz-und-technologische-souveranitat/4.3.6-institutionelle-demokratisierung.md
 status: draft
 ---
+<a id="md-4-das-erda-gesamtkonzept-4-3-konsolidierung-2035-2050-demokratische-resilienz-und-technologische-souveranitat-4-3-6-institutionelle-demokratisierung"></a>
 
 # 4.3.6 Institutional Democratisation
 
@@ -3826,6 +4523,7 @@ d) National referendums on every issue
 source: content/4.-das-erda-gesamtkonzept/4.4-transformation-2050-2075-gesellschaft-im-22.-jahrhundert/README.md
 status: draft
 ---
+<a id="md-4-das-erda-gesamtkonzept-4-4-transformation-2050-2075-gesellschaft-im-22-jahrhundert-readme"></a>
 
 # 4.4 Transformation: 2050–2075 – Society in the 22nd Century
 
@@ -3894,6 +4592,7 @@ The ERDA can become the first real-world model of a democratic and meaningful hi
 source: content/4.-das-erda-gesamtkonzept/4.4-transformation-2050-2075-gesellschaft-im-22.-jahrhundert/4.4.1-demokratische-hochtechnologie-zivilisation.md
 status: draft
 ---
+<a id="md-4-das-erda-gesamtkonzept-4-4-transformation-2050-2075-gesellschaft-im-22-jahrhundert-4-4-1-demokratische-hochtechnologie-zivilisation"></a>
 
 # 4.4.1 Democratic High-Technology Civilisation
 
@@ -3982,6 +4681,7 @@ Europe is moving at the intersection between democratic participation and expone
 source: content/4.-das-erda-gesamtkonzept/4.4-transformation-2050-2075-gesellschaft-im-22.-jahrhundert/4.4.2-soziale-und-kulturelle-resilienz.md
 status: draft
 ---
+<a id="md-4-das-erda-gesamtkonzept-4-4-transformation-2050-2075-gesellschaft-im-22-jahrhundert-4-4-2-soziale-und-kulturelle-resilienz"></a>
 
 # 4.4.2 Social and cultural resilience
 
@@ -4071,6 +4771,7 @@ d) Technocratic steering
 source: content/4.-das-erda-gesamtkonzept/4.4-transformation-2050-2075-gesellschaft-im-22.-jahrhundert/4.4.3-globale-integration-auf-grundlage-des-rechts.md
 status: draft
 ---
+<a id="md-4-das-erda-gesamtkonzept-4-4-transformation-2050-2075-gesellschaft-im-22-jahrhundert-4-4-3-globale-integration-auf-grundlage-des-rechts"></a>
 
 # 4.4.3 Global integration based on the rule of law
 
@@ -4161,6 +4862,7 @@ d) National constitutional court
 source: content/4.-das-erda-gesamtkonzept/4.4-transformation-2050-2075-gesellschaft-im-22.-jahrhundert/4.4.4-technologie-mit-sinn-und-verantwortung.md
 status: draft
 ---
+<a id="md-4-das-erda-gesamtkonzept-4-4-transformation-2050-2075-gesellschaft-im-22-jahrhundert-4-4-4-technologie-mit-sinn-und-verantwortung"></a>
 
 # 4.4.4 Technology with purpose and responsibility
 
@@ -4254,6 +4956,7 @@ d) Automated algorithm tests
 source: content/4.-das-erda-gesamtkonzept/4.4-transformation-2050-2075-gesellschaft-im-22.-jahrhundert/4.4.5-post-materialistische-lebensqualitat.md
 status: draft
 ---
+<a id="md-4-das-erda-gesamtkonzept-4-4-transformation-2050-2075-gesellschaft-im-22-jahrhundert-4-4-5-post-materialistische-lebensqualitat"></a>
 
 # 4.4.5 Post‑materialist quality of life
 
@@ -4344,6 +5047,7 @@ a) Gross domestic product (GDP)\
 source: content/4.-das-erda-gesamtkonzept/4.4-transformation-2050-2075-gesellschaft-im-22.-jahrhundert/4.4.6-zukunft-als-gemeinschaftsaufgabe.md
 status: draft
 ---
+<a id="md-4-das-erda-gesamtkonzept-4-4-transformation-2050-2075-gesellschaft-im-22-jahrhundert-4-4-6-zukunft-als-gemeinschaftsaufgabe"></a>
 
 # 4.4.6 Future as a Collective Task
 
@@ -4443,6 +5147,7 @@ d) Crowdfunding
 source: content/4.-das-erda-gesamtkonzept/4.5-strategische-narrative-und-offentliche-kommunikation/README.md
 status: draft
 ---
+<a id="md-4-das-erda-gesamtkonzept-4-5-strategische-narrative-und-offentliche-kommunikation-readme"></a>
 
 # 4.5 Strategic narratives & public communication
 
@@ -4517,6 +5222,7 @@ A narratively strengthened ERDA creates emotional connection, political identifi
 source: content/4.-das-erda-gesamtkonzept/4.5-strategische-narrative-und-offentliche-kommunikation/4.5.1-soziale-and-emotionale-aspekte.md
 status: draft
 ---
+<a id="md-4-das-erda-gesamtkonzept-4-5-strategische-narrative-und-offentliche-kommunikation-4-5-1-soziale-and-emotionale-aspekte"></a>
 
 # 4.5.1 Social & Emotional Aspects
 
@@ -4608,6 +5314,7 @@ Strategic narratives develop their power not only through facts and arguments, b
 source: content/4.-das-erda-gesamtkonzept/4.5-strategische-narrative-und-offentliche-kommunikation/4.5.2-narrative-bausteine/README.md
 status: draft
 ---
+<a id="md-4-das-erda-gesamtkonzept-4-5-strategische-narrative-und-offentliche-kommunikation-4-5-2-narrative-bausteine-readme"></a>
 
 # 4.5.2 Narrative building blocks
 
@@ -4620,6 +5327,7 @@ _**Narrative building blocks**_
 source: content/4.-das-erda-gesamtkonzept/4.5-strategische-narrative-und-offentliche-kommunikation/4.5.2-narrative-bausteine/4.5.2.1-narrativ-der-ermachtigung.md
 status: draft
 ---
+<a id="md-4-das-erda-gesamtkonzept-4-5-strategische-narrative-und-offentliche-kommunikation-4-5-2-narrative-bausteine-4-5-2-1-narrativ-der-ermachtigung"></a>
 
 # 4.5.2.1 Narrative of empowerment
 
@@ -4716,6 +5424,7 @@ The narrative of empowerment aims to see people as active shapers of their socia
 source: content/4.-das-erda-gesamtkonzept/4.5-strategische-narrative-und-offentliche-kommunikation/4.5.2-narrative-bausteine/4.5.2.2-demokratie-als-schopferische-kraft.md
 status: draft
 ---
+<a id="md-4-das-erda-gesamtkonzept-4-5-strategische-narrative-und-offentliche-kommunikation-4-5-2-narrative-bausteine-4-5-2-2-demokratie-als-schopferische-kraft"></a>
 
 # 4.5.2.2 Democracy as a creative force
 
@@ -4808,6 +5517,7 @@ Democracy unfolds its full strength when it is understood not only as a decision
 source: content/4.-das-erda-gesamtkonzept/4.5-strategische-narrative-und-offentliche-kommunikation/4.5.2-narrative-bausteine/4.5.2.3-autonomie-ist-kein-abbruch-sondern-uberlebensstrategie.md
 status: draft
 ---
+<a id="md-4-das-erda-gesamtkonzept-4-5-strategische-narrative-und-offentliche-kommunikation-4-5-2-narrative-bausteine-4-5-2-3-autonomie-ist-kein-abbruch-sondern-uberlebensstrategie"></a>
 
 # 4.5.2.3 Autonomy is not separation – but a survival strategy
 
@@ -4901,6 +5611,7 @@ a) One‑sided self‑sufficiency\
 source: content/4.-das-erda-gesamtkonzept/4.5-strategische-narrative-und-offentliche-kommunikation/4.5.2-narrative-bausteine/4.5.2.4-transatlantische-erneuerung-durch-gleichgewicht.md
 status: draft
 ---
+<a id="md-4-das-erda-gesamtkonzept-4-5-strategische-narrative-und-offentliche-kommunikation-4-5-2-narrative-bausteine-4-5-2-4-transatlantische-erneuerung-durch-gleichgewicht"></a>
 
 # 4.5.2.4 Transatlantic renewal through balance
 
@@ -4995,6 +5706,7 @@ The narrative of transatlantic renewal through balance focuses on a partnership 
 source: content/4.-das-erda-gesamtkonzept/4.5-strategische-narrative-und-offentliche-kommunikation/4.5.2-narrative-bausteine/4.5.2.5-globale-einladung.md
 status: draft
 ---
+<a id="md-4-das-erda-gesamtkonzept-4-5-strategische-narrative-und-offentliche-kommunikation-4-5-2-narrative-bausteine-4-5-2-5-globale-einladung"></a>
 
 # 4.5.2.5 Global invitation
 
@@ -5091,6 +5803,7 @@ The narrative of the global invitation understands democracy not as a purely nat
 source: content/4.-das-erda-gesamtkonzept/4.5-strategische-narrative-und-offentliche-kommunikation/4.5.2-narrative-bausteine/4.5.2.6-erzahlung-des-mitgestaltens.md
 status: draft
 ---
+<a id="md-4-das-erda-gesamtkonzept-4-5-strategische-narrative-und-offentliche-kommunikation-4-5-2-narrative-bausteine-4-5-2-6-erzahlung-des-mitgestaltens"></a>
 
 # 4.5.2.6 Narrative of co‑creation
 
@@ -5185,6 +5898,7 @@ The narrative of co‑creation puts the active involvement of all stakeholders c
 source: content/5.-das-eda-konzept/README.md
 status: draft
 ---
+<a id="md-5-das-eda-konzept-readme"></a>
 
 # 5. The EDA Concept
 
@@ -5291,6 +6005,7 @@ This chapter outlines the basic architecture of a European Defence Alliance (EDA
 source: content/5.-das-eda-konzept/5.1-vision-und-mission-der-europaischen-verteidigungsallianz-eda.md
 status: draft
 ---
+<a id="md-5-das-eda-konzept-5-1-vision-und-mission-der-europaischen-verteidigungsallianz-eda"></a>
 
 # 5.1 Vision and mission of the European Defence Alliance (EDA)
 
@@ -5312,6 +6027,7 @@ The European Defence Alliance (EDA) is a values‑based defence architecture tha
 source: content/5.-das-eda-konzept/5.2-mitgliedschaft-und-organisationsstruktur.md
 status: draft
 ---
+<a id="md-5-das-eda-konzept-5-2-mitgliedschaft-und-organisationsstruktur"></a>
 
 # 5.2 Membership and organisational structure
 
@@ -5348,6 +6064,7 @@ _**Membership and structure**_
 source: content/5.-das-eda-konzept/5.3-prinzipien-und-verteidigungsdoktrin.md
 status: draft
 ---
+<a id="md-5-das-eda-konzept-5-3-prinzipien-und-verteidigungsdoktrin"></a>
 
 # 5.3 Principles and defence doctrine
 
@@ -5365,6 +6082,7 @@ _**Defence principles**_
 source: content/5.-das-eda-konzept/5.4-militarische-integration-und-gemeinsame-standards.md
 status: draft
 ---
+<a id="md-5-das-eda-konzept-5-4-militarische-integration-und-gemeinsame-standards"></a>
 
 # 5.4 Military integration and common standards
 
@@ -5383,6 +6101,7 @@ _**Military integration**_
 source: content/5.-das-eda-konzept/5.5-globale-koordination-und-verantwortung.md
 status: draft
 ---
+<a id="md-5-das-eda-konzept-5-5-globale-koordination-und-verantwortung"></a>
 
 # 5.5 Global coordination and responsibility
 
@@ -5401,6 +6120,7 @@ _**Global coordination and responsibility**_
 source: content/5.-das-eda-konzept/5.6-synergien-und-konnektivitat.md
 status: draft
 ---
+<a id="md-5-das-eda-konzept-5-6-synergien-und-konnektivitat"></a>
 
 # 5.6 Synergies and connectivity
 
@@ -5417,6 +6137,7 @@ _**Synergies and connectivity**_
 source: content/5.-das-eda-konzept/5.7-kommandostruktur-und-operative-souveranitat.md
 status: draft
 ---
+<a id="md-5-das-eda-konzept-5-7-kommandostruktur-und-operative-souveranitat"></a>
 
 # 5.7 Command structure and operational sovereignty
 
@@ -5438,6 +6159,7 @@ _**Command structure and operational sovereignty**_
 source: content/5.-das-eda-konzept/5.8-defense-sovereignty-nodes-dsns.md
 status: draft
 ---
+<a id="md-5-das-eda-konzept-5-8-defense-sovereignty-nodes-dsns"></a>
 
 # 5.8 Defence Sovereignty Nodes (DSNs)
 
@@ -5565,6 +6287,7 @@ Modular, rapidly deployable task forces (20,000–50,000 personnel), designed fo
 source: content/5.-das-eda-konzept/5.9-unbemannte-und-autonome-systeme-drohnen-und-ki-integration.md
 status: draft
 ---
+<a id="md-5-das-eda-konzept-5-9-unbemannte-und-autonome-systeme-drohnen-und-ki-integration"></a>
 
 # 5.9 Unmanned strategic systems and drone forces
 
@@ -5639,6 +6362,7 @@ The EDF is Europe’s answer to modern warfare: highly capable, ethically ground
 source: content/5.-das-eda-konzept/5.10-nukleare-abschreckung-und-strategische-autonomie/README.md
 status: draft
 ---
+<a id="md-5-das-eda-konzept-5-10-nukleare-abschreckung-und-strategische-autonomie-readme"></a>
 
 # 5.10 Nuclear deterrence and strategic autonomy
 
@@ -5655,6 +6379,7 @@ To preserve strategic autonomy and protect the territorial integrity of democrat
 source: content/5.-das-eda-konzept/5.10-nukleare-abschreckung-und-strategische-autonomie/5.10.1-begrundung-und-grundsatze.md
 status: draft
 ---
+<a id="md-5-das-eda-konzept-5-10-nukleare-abschreckung-und-strategische-autonomie-5-10-1-begrundung-und-grundsatze"></a>
 
 # 5.10.1 Rationale and principles
 
@@ -5671,6 +6396,7 @@ _Rationale and principles_
 source: content/5.-das-eda-konzept/5.10-nukleare-abschreckung-und-strategische-autonomie/5.10.2-sofortmassnahmen-2025-2030.md
 status: draft
 ---
+<a id="md-5-das-eda-konzept-5-10-nukleare-abschreckung-und-strategische-autonomie-5-10-2-sofortmassnahmen-2025-2030"></a>
 
 # 5.10.2 Immediate measures (2025–2030)
 
@@ -5686,6 +6412,7 @@ _**Immediate measures (2025–2030)**_
 source: content/5.-das-eda-konzept/5.10-nukleare-abschreckung-und-strategische-autonomie/5.10.3-mittelfristige-entwicklung-2030-2040.md
 status: draft
 ---
+<a id="md-5-das-eda-konzept-5-10-nukleare-abschreckung-und-strategische-autonomie-5-10-3-mittelfristige-entwicklung-2030-2040"></a>
 
 # 5.10.3 Medium‑term development (2030–2040)
 
@@ -5702,6 +6429,7 @@ _**Medium‑term development (2030–2040)**_
 source: content/5.-das-eda-konzept/5.10-nukleare-abschreckung-und-strategische-autonomie/5.10.4-langfristige-vision-2040-2050.md
 status: draft
 ---
+<a id="md-5-das-eda-konzept-5-10-nukleare-abschreckung-und-strategische-autonomie-5-10-4-langfristige-vision-2040-2050"></a>
 
 # 5.10.4 Long‑term vision (2040–2050)
 
@@ -5718,6 +6446,7 @@ _**Long‑term vision (2040–2050)**_
 source: content/5.-das-eda-konzept/5.10-nukleare-abschreckung-und-strategische-autonomie/5.10.5-offentliche-kommunikation-und-ethische-grundlage.md
 status: draft
 ---
+<a id="md-5-das-eda-konzept-5-10-nukleare-abschreckung-und-strategische-autonomie-5-10-5-offentliche-kommunikation-und-ethische-grundlage"></a>
 
 # 5.10.5 Public communication and ethical foundation
 
@@ -5735,6 +6464,7 @@ The EDA’s nuclear deterrence is communicated as a **minimalist, rule‑of‑la
 source: content/6.-das-civitas-konzept/README.md
 status: draft
 ---
+<a id="md-6-das-civitas-konzept-readme"></a>
 
 # 6. The CIVITAS concept
 
@@ -5772,6 +6502,7 @@ Digital democracy creates greater social cohesion, higher political transparency
 source: content/6.-das-civitas-konzept/6.1-leitidee-demokratie-im-digitalen-raum.md
 status: draft
 ---
+<a id="md-6-das-civitas-konzept-6-1-leitidee-demokratie-im-digitalen-raum"></a>
 
 # 6.1 Guiding idea: democracy in the digital sphere
 
@@ -5790,6 +6521,7 @@ CIVITAS combines social‑network functions with the rule of law, public account
 source: content/6.-das-civitas-konzept/6.2-tragerschaft-und-demokratische-kontrolle.md
 status: draft
 ---
+<a id="md-6-das-civitas-konzept-6-2-tragerschaft-und-demokratische-kontrolle"></a>
 
 # 6.2 Governance & democratic oversight
 
@@ -5809,6 +6541,7 @@ CIVITAS is operated by an independent European foundation under parliamentary ov
 source: content/6.-das-civitas-konzept/6.3-technische-architektur-und-datenschutz.md
 status: draft
 ---
+<a id="md-6-das-civitas-konzept-6-3-technische-architektur-und-datenschutz"></a>
 
 # 6.3 Technical architecture and data protection
 
@@ -5828,6 +6561,7 @@ The architecture is decentralised, open‑source and fully compatible with the F
 source: content/6.-das-civitas-konzept/6.4-kernfunktionen-von-civitas.md
 status: draft
 ---
+<a id="md-6-das-civitas-konzept-6-4-kernfunktionen-von-civitas"></a>
 
 # 6.4 Core functions of CIVITAS
 
@@ -5846,6 +6580,7 @@ _**Core functions of CIVITAS**_
 source: content/6.-das-civitas-konzept/6.5-schutzmechanismen-und-rechtssicherheit.md
 status: draft
 ---
+<a id="md-6-das-civitas-konzept-6-5-schutzmechanismen-und-rechtssicherheit"></a>
 
 # 6.5 Protection mechanisms & legal certainty
 
@@ -5863,6 +6598,7 @@ _**Protection mechanisms & legal certainty**_
 source: content/6.-das-civitas-konzept/6.6-partnerschaften-und-globale-integration.md
 status: draft
 ---
+<a id="md-6-das-civitas-konzept-6-6-partnerschaften-und-globale-integration"></a>
 
 # 6.6 Partnerships & global integration
 
@@ -5882,6 +6618,7 @@ CIVITAS is open to cooperation with:
 source: content/6.-das-civitas-konzept/6.7-bildung-jugend-und-partizipation.md
 status: draft
 ---
+<a id="md-6-das-civitas-konzept-6-7-bildung-jugend-und-demokratische-partizipation"></a>
 
 # 6.7 Education, youth & democratic participation
 
@@ -5900,6 +6637,7 @@ Democracy lives from participation – especially that of the younger generation
 source: content/6.-das-civitas-konzept/6.8-schlussgedanken.md
 status: draft
 ---
+<a id="md-6-das-civitas-konzept-6-8-schlussgedanken"></a>
 
 # 6.8 Concluding reflections
 
@@ -5918,6 +6656,7 @@ CIVITAS is more than a technical project. It is a strategic pillar of European d
 source: content/7.-das-fortera-konzept/README.md
 status: draft
 ---
+<a id="md-7-das-fortera-konzept-readme"></a>
 
 # 7. The FORTERA Concept
 
@@ -5959,6 +6698,7 @@ A sovereign and sustainable economy makes Europe a global pioneer in responsible
 source: content/7.-das-fortera-konzept/7.1-ausgangslage-und-strategische-eckpfeiler.md
 status: draft
 ---
+<a id="md-7-das-fortera-konzept-7-1-ausgangslage-und-strategische-eckpfeiler"></a>
 
 # 7.1 Starting point and strategic cornerstones
 
@@ -5973,6 +6713,7 @@ With the return of economically nationalist forces – particularly in the conte
 source: content/7.-das-fortera-konzept/7.2-ziel-des-konzepts.md
 status: draft
 ---
+<a id="md-7-das-fortera-konzept-7-2-ziel-des-konzepts"></a>
 
 # 7.2 Aim of the concept
 
@@ -5987,6 +6728,7 @@ This concept provides a structured course of action for Europe’s democratic co
 source: content/7.-das-fortera-konzept/7.3-produktionssouveranitat-und-strategische-industriepolitik/README.md
 status: draft
 ---
+<a id="md-7-das-fortera-konzept-7-3-produktionssouveranitat-und-strategische-industriepolitik-readme"></a>
 
 # 7.3 Production sovereignty and strategic industrial policy
 
@@ -6006,6 +6748,7 @@ _**Production sovereignty and strategic industrial policy**_
 source: content/7.-das-fortera-konzept/7.3-produktionssouveranitat-und-strategische-industriepolitik/7.3.1-ubersicht-strategische-produktionsziele-europas-auszug.md
 status: draft
 ---
+<a id="md-7-das-fortera-konzept-7-3-produktionssouveranitat-und-strategische-industriepolitik-7-3-1-ubersicht-strategische-produktionsziele-europas-auszug"></a>
 
 # 7.3.1 Overview: Europe’s strategic production goals (excerpt)
 
@@ -6020,6 +6763,7 @@ _**Overview: Europe’s strategic production goals (excerpt)**_
 source: content/7.-das-fortera-konzept/7.3-produktionssouveranitat-und-strategische-industriepolitik/7.3.2-quantifizierte-szenarien-zur-produktionssouveranitat-im-rahmen-von-fortera.md
 status: draft
 ---
+<a id="md-7-das-fortera-konzept-7-3-produktionssouveranitat-und-strategische-industriepolitik-7-3-2-quantifizierte-szenarien-zur-produktionssouveranitat-im-rahmen-von-fortera"></a>
 
 # 7.3.2 Quantified Scenarios for Production Sovereignty within FORTERA
 
@@ -6062,6 +6806,7 @@ The following industrial sectors have been identified as particularly critical f
 source: content/7.-das-fortera-konzept/7.3-produktionssouveranitat-und-strategische-industriepolitik/7.3.3-herausforderungen-risiken-und-losungsansatze.md
 status: draft
 ---
+<a id="md-7-das-fortera-konzept-7-3-produktionssouveranitat-und-strategische-industriepolitik-7-3-3-herausforderungen-risiken-und-losungsansatze"></a>
 
 # 7.3.3 Challenges, Risks and Solution Approaches
 
@@ -6097,6 +6842,7 @@ _**Challenges, risks and solution approaches**_
 source: content/7.-das-fortera-konzept/7.3-produktionssouveranitat-und-strategische-industriepolitik/7.3.4-ubergangskosten-und-finanzierungsstrategie.md
 status: draft
 ---
+<a id="md-7-das-fortera-konzept-7-3-produktionssouveranitat-und-strategische-industriepolitik-7-3-4-ubergangskosten-und-finanzierungsstrategie"></a>
 
 # 7.3.4 Transition Costs and Financing Strategy
 
@@ -6124,6 +6870,7 @@ _**Transition costs and financing strategy**_
 source: content/7.-das-fortera-konzept/7.3-produktionssouveranitat-und-strategische-industriepolitik/7.3.5-praktische-massnahmen-und-meilensteinplanung-2025-2050.md
 status: draft
 ---
+<a id="md-7-das-fortera-konzept-7-3-produktionssouveranitat-und-strategische-industriepolitik-7-3-5-praktische-massnahmen-und-meilensteinplanung-2025-2050"></a>
 
 # 7.3.5 Practical Measures and Milestone Planning (2025–2050)
 
@@ -6149,6 +6896,7 @@ _**Practical measures and milestone planning (2025–2050)**_
 source: content/7.-das-fortera-konzept/7.3-produktionssouveranitat-und-strategische-industriepolitik/7.3.6-erfolgskontrolle-und-anpassungsmechanismen.md
 status: draft
 ---
+<a id="md-7-das-fortera-konzept-7-3-produktionssouveranitat-und-strategische-industriepolitik-7-3-6-erfolgskontrolle-und-anpassungsmechanismen"></a>
 
 # 7.3.6 Success Monitoring and Adjustment Mechanisms
 
@@ -6174,6 +6922,7 @@ _**Success monitoring and adjustment mechanisms**_
 source: content/7.-das-fortera-konzept/7.3-produktionssouveranitat-und-strategische-industriepolitik/7.3.7-gesamtausblick-und-nutzen.md
 status: draft
 ---
+<a id="md-7-das-fortera-konzept-7-3-produktionssouveranitat-und-strategische-industriepolitik-7-3-7-gesamtausblick-und-nutzen"></a>
 
 # 7.3.7 Overall Outlook and Benefits
 
@@ -6190,6 +6939,7 @@ These investments enable Europe to become less dependent on geopolitical uncerta
 source: content/7.-das-fortera-konzept/7.4-aufbau-demokratischer-handelsallianzen-democracy-trade-network.md
 status: draft
 ---
+<a id="md-7-das-fortera-konzept-7-4-aufbau-demokratischer-handelsallianzen-democracy-trade-network"></a>
 
 # 7.4 Building Democratic Trade Alliances ("Democracy Trade Network")
 
@@ -6208,6 +6958,7 @@ _**Building democratic trade alliances ("Add-On Global")**_
 source: content/7.-das-fortera-konzept/7.5-transatlantische-partnerschaft-neu-denken.md
 status: draft
 ---
+<a id="md-7-das-fortera-konzept-7-5-transatlantische-partnerschaft-neu-denken"></a>
 
 # 7.5 Rethinking the Transatlantic Partnership
 
@@ -6228,6 +6979,7 @@ _**Rethinking the Transatlantic Partnership**_
 source: content/7.-das-fortera-konzept/7.6-defensivmechanismen-gegen-wirtschaftlichen-nationalismus.md
 status: draft
 ---
+<a id="md-7-das-fortera-konzept-7-6-defensivmechanismen-gegen-wirtschaftlichen-nationalismus"></a>
 
 # 7.6 Defensive Mechanisms against Economic Nationalism
 
@@ -6250,6 +7002,7 @@ _**Defensive instruments against economic coercion**_
 source: content/7.-das-fortera-konzept/7.7-burgerbeteiligung-und-demokratische-wirtschaftskultur.md
 status: draft
 ---
+<a id="md-7-das-fortera-konzept-7-7-burgerbeteiligung-und-demokratische-wirtschaftskultur"></a>
 
 # 7.7 Citizen Participation & Democratic Economic Culture
 
@@ -6268,6 +7021,7 @@ _**Citizen participation & democratic economic culture**_
 source: content/7.-das-fortera-konzept/7.8-wirtschaftliche-resilienz-und-ethische-fundierung.md
 status: draft
 ---
+<a id="md-7-das-fortera-konzept-7-8-wirtschaftliche-resilienz-und-ethische-fundierung"></a>
 
 # 7.8 Economic Resilience and Ethical Foundations
 
@@ -6288,6 +7042,7 @@ _**Philosophical basis: Resilience is freedom**_
 source: content/7.-das-fortera-konzept/7.9-schlussgedanken.md
 status: draft
 ---
+<a id="md-7-das-fortera-konzept-7-9-schlussgedanken"></a>
 
 # 7.9 Concluding Reflections
 
@@ -6302,6 +7057,7 @@ This document is a call for the **active strategic self-assertion of Europe and 
 source: content/8.-das-arktis-konzept/README.md
 status: draft
 ---
+<a id="md-8-das-arktis-konzept-readme"></a>
 
 # 8. The ARKTIS Concept
 
@@ -6345,6 +7101,7 @@ A democratic Arctic strategy positions Europe as a pioneer of responsible and ju
 source: content/8.-das-arktis-konzept/8.1-arktis-codex-ethik-der-arktischen-verantwortung.md
 status: draft
 ---
+<a id="md-8-das-arktis-konzept-8-1-arktis-codex-ethik-der-arktischen-verantwortung"></a>
 
 # 8.1 ARKTIS Codex – Ethics of Arctic Responsibility
 
@@ -6397,6 +7154,7 @@ Promoting a comprehensive understanding of the ecological, cultural and social s
 source: content/8.-das-arktis-konzept/8.2-ausgangslage.md
 status: draft
 ---
+<a id="md-8-das-arktis-konzept-8-2-ausgangslage"></a>
 
 # 8.2 Initial Situation
 
@@ -6413,6 +7171,7 @@ Europe and its democratic partners must provide a clear, value‑based response 
 source: content/8.-das-arktis-konzept/8.3-leitprinzipien.md
 status: draft
 ---
+<a id="md-8-das-arktis-konzept-8-3-leitprinzipien"></a>
 
 # 8.3 Guiding Principles
 
@@ -6431,6 +7190,7 @@ _**Guiding Principles**_
 source: content/9.-das-space-konzept/README.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-readme"></a>
 
 # 9. The SPACE Concept
 
@@ -6505,6 +7265,7 @@ This chapter outlines a future-oriented, democratically legitimised space strate
 source: content/9.-das-space-konzept/9.1-erda-codex-fur-kosmische-verantwortung/README.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-readme"></a>
 
 # 9.1 ERDA Codex for Cosmic Responsibility
 
@@ -6519,6 +7280,7 @@ _A guide for democratically regulated, just and sustainable space activities._
 source: content/9.-das-space-konzept/9.1-erda-codex-fur-kosmische-verantwortung/9.1.1-praambel.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-1-praambel"></a>
 
 # 9.1.1 Preamble
 
@@ -6536,6 +7298,7 @@ In the spirit of the _European Rights-Based Democratic Alliance (ERDA)_ and born
 source: content/9.-das-space-konzept/9.1-erda-codex-fur-kosmische-verantwortung/9.1.2-grundsatze/README.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-2-grundsatze-readme"></a>
 
 # 9.1.2 Principles
 
@@ -6548,6 +7311,7 @@ _**Principles**_
 source: content/9.-das-space-konzept/9.1-erda-codex-fur-kosmische-verantwortung/9.1.2-grundsatze/9.1.2.1-menschenwurde-und-rechtsstaatlichkeit-gelten-auch-im-all.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-2-grundsatze-9-1-2-1-menschenwurde-und-rechtsstaatlichkeit-gelten-auch-im-all"></a>
 
 # 9.1.2.1 Human Dignity and the Rule of Law Also Apply in Space
 
@@ -6562,6 +7326,7 @@ Every human being retains their inalienable rights – regardless of their place
 source: content/9.-das-space-konzept/9.1-erda-codex-fur-kosmische-verantwortung/9.1.2-grundsatze/9.1.2.2-der-weltraum-ist-allmende-kein-privateigentum.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-2-grundsatze-9-1-2-2-der-weltraum-ist-allmende-kein-privateigentum"></a>
 
 # 9.1.2.2 Space Is a Commons – Not Private Property
 
@@ -6575,6 +7340,7 @@ All natural resources beyond the Earth are deemed the common heritage of humanki
 source: content/9.-das-space-konzept/9.1-erda-codex-fur-kosmische-verantwortung/9.1.2-grundsatze/9.1.2.3-keine-militarisierung-ohne-demokratische-kontrolle.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-2-grundsatze-9-1-2-3-keine-militarisierung-ohne-demokratische-kontrolle"></a>
 
 # 9.1.2.3 No Militarisation Without Democratic Control
 
@@ -6588,6 +7354,7 @@ Security in space is the responsibility of democratic governance structures. Any
 source: content/9.-das-space-konzept/9.1-erda-codex-fur-kosmische-verantwortung/9.1.2-grundsatze/9.1.2.4-technologische-offenheit-und-wissensfreiheit.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-2-grundsatze-9-1-2-4-technologische-offenheit-und-wissensfreiheit"></a>
 
 # 9.1.2.4 Technological Openness and Freedom of Knowledge
 
@@ -6601,6 +7368,7 @@ Scientific results from public missions must be openly accessible. Knowledge is 
 source: content/9.-das-space-konzept/9.1-erda-codex-fur-kosmische-verantwortung/9.1.2-grundsatze/9.1.2.5-nachhaltigkeit-uber-generationen-hinweg.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-2-grundsatze-9-1-2-5-nachhaltigkeit-uber-generationen-hinweg"></a>
 
 # 9.1.2.5 Sustainability Across Generations
 
@@ -6614,6 +7382,7 @@ Every space mission must be planned, built and operated with the aim of protecti
 source: content/9.-das-space-konzept/9.1-erda-codex-fur-kosmische-verantwortung/9.1.2-grundsatze/9.1.2.6-gerechtigkeit-fur-alle-lebensformen.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-2-grundsatze-9-1-2-6-gerechtigkeit-fur-alle-lebensformen"></a>
 
 # 9.1.2.6 Justice for All Forms of Life
 
@@ -6627,6 +7396,7 @@ All life forms originating from the solar system have a natural right to exist �
 source: content/9.-das-space-konzept/9.1-erda-codex-fur-kosmische-verantwortung/9.1.2-grundsatze/9.1.2.7-besucherprinzip-fur-aussersolare-intelligenz.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-2-grundsatze-9-1-2-7-besucherprinzip-fur-aussersolare-intelligenz"></a>
 
 # 9.1.2.7 Visitor Principle for Extrasolar Intelligence
 
@@ -6640,6 +7410,7 @@ Species that do not originate from the solar system are to be treated like guest
 source: content/9.-das-space-konzept/9.1-erda-codex-fur-kosmische-verantwortung/9.1.2-grundsatze/9.1.2.8-ressourcen-gehoren-den-naturlichen-inhabitanten.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-2-grundsatze-9-1-2-8-ressourcen-gehoren-den-naturlichen-inhabitanten"></a>
 
 # 9.1.2.8 Resources Belong to the Natural Inhabitants
 
@@ -6653,6 +7424,7 @@ The raw materials, substances and energetic potentials of the solar system are j
 source: content/9.-das-space-konzept/9.1-erda-codex-fur-kosmische-verantwortung/9.1.3-aufbau-einer-solar-alliance/README.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-3-aufbau-einer-solar-alliance-readme"></a>
 
 # 9.1.3 Building a SOLAR ALLIANCE
 
@@ -6669,6 +7441,7 @@ Subsections 9.1.3.1 and 9.1.3.2 sketch these two strands in more detail: the leg
 source: content/9.-das-space-konzept/9.1-erda-codex-fur-kosmische-verantwortung/9.1.3-aufbau-einer-solar-alliance/9.1.3.1-kodifizierung-als-kosmosrecht.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-3-aufbau-einer-solar-alliance-9-1-3-1-kodifizierung-als-kosmosrecht"></a>
 
 # 9.1.3.1 Codification as Cosmos Law
 
@@ -6683,6 +7456,7 @@ These principles are to be translated into a codified body of cosmos law under p
 source: content/9.-das-space-konzept/9.1-erda-codex-fur-kosmische-verantwortung/9.1.3-aufbau-einer-solar-alliance/9.1.3.2-vorbereitung-der-grundung-bis-2028.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-3-aufbau-einer-solar-alliance-9-1-3-2-vorbereitung-der-grundung-bis-2028"></a>
 
 # 9.1.3.2 Preparation for the Founding by 2028
 
@@ -6697,6 +7471,7 @@ The **SOLAR ALLIANCE** is to emerge as a transnational initiative of democratic 
 source: content/9.-das-space-konzept/9.1-erda-codex-fur-kosmische-verantwortung/9.1.4-kosmisches-seerecht-und-ordnung/README.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-4-kosmisches-seerecht-und-ordnung-readme"></a>
 
 # 9.1.4 Cosmic Law of the Sea and Order
 
@@ -6709,6 +7484,7 @@ _**Cosmic law of the sea and order**_
 source: content/9.-das-space-konzept/9.1-erda-codex-fur-kosmische-verantwortung/9.1.4-kosmisches-seerecht-und-ordnung/9.1.4.1-kodifizierung-fundamentaler-prinzipien.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-4-kosmisches-seerecht-und-ordnung-9-1-4-1-kodifizierung-fundamentaler-prinzipien"></a>
 
 # 9.1.4.1 Codification of Fundamental Principles
 
@@ -6731,6 +7507,7 @@ These principles are to be translated into a **codified body of cosmos law** and
 source: content/9.-das-space-konzept/9.1-erda-codex-fur-kosmische-verantwortung/9.1.5-schlussformel.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-5-schlussformel"></a>
 
 # 9.1.5 Closing Formula
 
@@ -6745,6 +7522,7 @@ _**Closing formula**_
 source: content/9.-das-space-konzept/9.2-vom-seerecht-zum-kosmosrecht/README.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-2-vom-seerecht-zum-kosmosrecht-readme"></a>
 
 # 9.2 From the Law of the Sea to Cosmos Law
 
@@ -6761,6 +7539,7 @@ _**From the law of the sea to cosmos law – natural longings for ordered coexis
 source: content/9.-das-space-konzept/9.2-vom-seerecht-zum-kosmosrecht/9.2.1-naturliche-verlangen-im-offenen-raum-meer-oder-all.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-2-vom-seerecht-zum-kosmosrecht-9-2-1-naturliche-verlangen-im-offenen-raum-meer-oder-all"></a>
 
 # 9.2.1 Natural Longings in Open Space (Sea or Cosmos)
 
@@ -6790,6 +7569,7 @@ In the ERDA context they are not treated as mere appeals, but as the normative c
 source: content/9.-das-space-konzept/9.2-vom-seerecht-zum-kosmosrecht/9.2.2-die-pra-demokratische-zivilisation.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-2-vom-seerecht-zum-kosmosrecht-9-2-2-die-pra-demokratische-zivilisation"></a>
 
 # 9.2.2 The Pre-democratic Civilisation
 
@@ -6812,6 +7592,7 @@ ERDA’s path consciously leads out of this phase – through the binding force 
 source: ../../../../content/9.-das-space-konzept/9.2-vom-seerecht-zum-kosmosrecht/9.2.3-die-gegenwartige-zivilisation-auch-in-ihrer-demokratischen-reife.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-2-vom-seerecht-zum-kosmosrecht-9-2-3-die-gegenwartige-zivilisation-auch-in-ihrer-demokratischen-reife"></a>
 
 # 9.2.3 The Contemporary Civilisation – Including in its Democratic Maturity
 
@@ -6840,6 +7621,7 @@ Yet it is precisely this phase of maturity that offers the opportunity to change
 source: ../../../../content/9.-das-space-konzept/9.2-vom-seerecht-zum-kosmosrecht/9.2.4-uberblick-bisherige-rechtsordnungen-im-vergleich.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-2-vom-seerecht-zum-kosmosrecht-9-2-4-uberblick-bisherige-rechtsordnungen-im-vergleich"></a>
 
 # 9.2.4 Overview – Previous Legal Orders in Comparison
 
@@ -6869,6 +7651,7 @@ The path towards a SOLAR ALLIANCE begins with transferring the proven principles
 source: ../../../../content/9.-das-space-konzept/9.2-vom-seerecht-zum-kosmosrecht/9.2.5-der-entwicklungsbogen-zur-solar-alliance.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-2-vom-seerecht-zum-kosmosrecht-9-2-5-der-entwicklungsbogen-zur-solar-alliance"></a>
 
 # 9.2.5 The Development Arc towards the SOLAR ALLIANCE
 
@@ -6908,6 +7691,7 @@ This alliance would not be a world state, but a cosmopolitan framework – with 
 source: ../../../content/9.-das-space-konzept/9.3-die-institutionen-der-solar-alliance/README.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-3-die-institutionen-der-solar-alliance-readme"></a>
 
 # 9.3 The Institutions of the SOLAR ALLIANCE
 
@@ -6922,6 +7706,7 @@ _The SOLAR ALLIANCE is more than a multilateral agreement. It is an institutiona
 source: ../../../../content/9.-das-space-konzept/9.3-die-institutionen-der-solar-alliance/9.3.1-legislative-das-solar-parlament.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-3-die-institutionen-der-solar-alliance-9-3-1-legislative-das-solar-parlament"></a>
 
 # 9.3.1 Legislature: The SOLAR PARLIAMENT
 
@@ -6942,6 +7727,7 @@ Voting rights are allocated according to a mixed principle based on share of pop
 source: ../../../../content/9.-das-space-konzept/9.3-die-institutionen-der-solar-alliance/9.3.2-exekutive-der-allianzrat.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-3-die-institutionen-der-solar-alliance-9-3-2-exekutive-der-allianzrat"></a>
 
 # 9.3.2 Executive: The ALLIANCE COUNCIL
 
@@ -6962,6 +7748,7 @@ It consists of a body of specialist commissioners who hold specific mandates (fo
 source: ../../../../content/9.-das-space-konzept/9.3-die-institutionen-der-solar-alliance/9.3.3-judikative-die-raumrechtskammer.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-3-die-institutionen-der-solar-alliance-9-3-3-judikative-die-raumrechtskammer"></a>
 
 # 9.3.3 Judiciary: The Space Law Chamber
 
@@ -6982,6 +7769,7 @@ It can sit in public and has access to a network of orbital arbitration offices,
 source: ../../../../content/9.-das-space-konzept/9.3-die-institutionen-der-solar-alliance/9.3.4-sicherheitskrafte-orbitaler-zivilschutz-and-notfallkoordination.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-3-die-institutionen-der-solar-alliance-9-3-4-sicherheitskrafte-orbitaler-zivilschutz-and-notfallkoordination"></a>
 
 # 9.3.4 Security Forces: Orbital Civil Protection & Emergency Coordination
 
@@ -7002,6 +7790,7 @@ There is no offensive armament – the security modules are defensive, de-escala
 source: ../../../../content/9.-das-space-konzept/9.3-die-institutionen-der-solar-alliance/9.3.5-interplanetarer-rat-fur-lebensrechte.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-3-die-institutionen-der-solar-alliance-9-3-5-interplanetarer-rat-fur-lebensrechte"></a>
 
 # 9.3.5 Interplanetary Council for Rights of Life
 
@@ -7022,6 +7811,7 @@ It works together with research institutions, philosophers, ethics committees an
 source: content/9.-das-space-konzept/9.3-die-institutionen-der-solar-alliance/9.3.6-schiedsgericht-fur-ressourcen-und-zugangsfragen.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-3-die-institutionen-der-solar-alliance-9-3-6-schiedsgericht-fur-ressourcen-und-zugangsfragen"></a>
 
 # 9.3.6 Tribunal for resource and access disputes
 
@@ -7043,6 +7833,7 @@ It decides on the basis of the Solar Codex, taking into account technical feasib
 source: content/9.-das-space-konzept/9.3-die-institutionen-der-solar-alliance/9.3.7-demokratische-kontrollmechanismen.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-3-die-institutionen-der-solar-alliance-9-3-7-demokratische-kontrollmechanismen"></a>
 
 # 9.3.7 Democratic control mechanisms
 
@@ -7064,6 +7855,7 @@ The Solar Alliance is built on participation. It establishes:
 source: content/9.-das-space-konzept/9.3-die-institutionen-der-solar-alliance/9.3.8-demokratische-solar-defense-force.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-3-die-institutionen-der-solar-alliance-9-3-8-demokratische-solar-defense-force"></a>
 
 # 9.3.8 Democratic Solar Defense Force
 
@@ -7088,6 +7880,7 @@ This force is under the control of the SOLAR PARLIAMENT, is subject to continuou
 source: content/9.-das-space-konzept/9.4-wozu-raumfahrt-strategische-und-zivilisatorische-motive-im-geist-der-erda/README.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-4-wozu-raumfahrt-strategische-und-zivilisatorische-motive-im-geist-der-erda-readme"></a>
 
 # 9.4 Why Spaceflight? – Strategic and Civilisational Motives in the Spirit of ERDA
 
@@ -7104,6 +7897,7 @@ _The question “why spaceflight?” is not a technical one, but a civilisationa
 source: content/9.-das-space-konzept/9.4-wozu-raumfahrt-strategische-und-zivilisatorische-motive-im-geist-der-erda/9.4.1-strategische-notwendigkeiten.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-4-wozu-raumfahrt-strategische-und-zivilisatorische-motive-im-geist-der-erda-9-4-1-strategische-notwendigkeiten"></a>
 
 # 9.4.1 Strategic Necessities
 
@@ -7132,6 +7926,7 @@ _**Strategic necessities**_
 source: content/9.-das-space-konzept/9.4-wozu-raumfahrt-strategische-und-zivilisatorische-motive-im-geist-der-erda/9.4.2-zivilisatorische-motive.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-4-wozu-raumfahrt-strategische-und-zivilisatorische-motive-im-geist-der-erda-9-4-2-zivilisatorische-motive"></a>
 
 # 9.4.2 Civilisational Motives
 
@@ -7162,6 +7957,7 @@ _**Civilisational motives**_
 source: content/9.-das-space-konzept/9.4-wozu-raumfahrt-strategische-und-zivilisatorische-motive-im-geist-der-erda/9.4.3-geistige-verantwortung-im-all.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-4-wozu-raumfahrt-strategische-und-zivilisatorische-motive-im-geist-der-erda-9-4-3-geistige-verantwortung-im-all"></a>
 
 # 9.4.3 Spiritual Responsibility in Space
 
@@ -7197,6 +7993,7 @@ _**Spiritual responsibility in space**_
 source: content/9.-das-space-konzept/9.5-interlude-einladung-an-das-was-wir-werden-konnen.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-5-interlude-einladung-an-das-was-wir-werden-konnen"></a>
 
 # 9.5 Interlude: Invitation to What We Can Become
 
@@ -7239,6 +8036,7 @@ And we look at time: 2025 to 2075. Not as science fiction, but as an invitation 
 source: content/9.-das-space-konzept/9.6-infrastrukturen-bis-2075/README.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-readme"></a>
 
 # 9.6 Infrastructures up to 2075
 
@@ -7251,6 +8049,7 @@ _**Infrastructures up to 2075**_
 source: content/9.-das-space-konzept/9.6-infrastrukturen-bis-2075/9.6.1-operationalisierung/README.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-1-operationalisierung-readme"></a>
 
 # 9.6.1 Operationalisation
 
@@ -7265,6 +8064,7 @@ _These recommendations operate at different levers – from goal definition via 
 source: content/9.-das-space-konzept/9.6-infrastrukturen-bis-2075/9.6.1-operationalisierung/9.6.1.1-zieldefinition-und-zeitplanung-fur-die-rauminfrastrukturen.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-1-operationalisierung-9-6-1-1-zieldefinition-und-zeitplanung-fur-die-rauminfrastrukturen"></a>
 
 # 9.6.1.1 Goal definition and timeline for the space infrastructures
 
@@ -7281,6 +8081,7 @@ _**Goal definition and timeline for the space infrastructures**_
 source: content/9.-das-space-konzept/9.6-infrastrukturen-bis-2075/9.6.1-operationalisierung/9.6.1.2-finanzierung-und-organisation-uber-solar-alliance-mitgliedsstaaten-und-koalitionen.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-1-operationalisierung-9-6-1-2-finanzierung-und-organisation-uber-solar-alliance-mitgliedsstaaten-und-koalitionen"></a>
 
 # 9.6.1.2 Financing and organisation via SOLAR ALLIANCE member states and coalitions
 
@@ -7297,6 +8098,7 @@ _**Financing and organisation via SOLAR ALLIANCE member states and coalitions**_
 source: content/9.-das-space-konzept/9.6-infrastrukturen-bis-2075/9.6.1-operationalisierung/9.6.1.3-governance-strukturen-und-projektmanagement.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-1-operationalisierung-9-6-1-3-governance-strukturen-und-projektmanagement"></a>
 
 # 9.6.1.3 Governance structures and project management
 
@@ -7313,6 +8115,7 @@ _**Governance structures and project management**_
 source: content/9.-das-space-konzept/9.6-infrastrukturen-bis-2075/9.6.1-operationalisierung/9.6.1.4-technische-konzepte-und-sicherheitsstandards.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-1-operationalisierung-9-6-1-4-technische-konzepte-und-sicherheitsstandards"></a>
 
 # 9.6.1.4 Technical concepts and safety standards
 
@@ -7329,6 +8132,7 @@ _**Technical concepts and safety standards**_
 source: content/9.-das-space-konzept/9.6-infrastrukturen-bis-2075/9.6.1-operationalisierung/9.6.1.5-internationale-kooperation-und-burgerpartizipation.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-1-operationalisierung-9-6-1-5-internationale-kooperation-und-burgerpartizipation"></a>
 
 # 9.6.1.5 International cooperation and citizen participation
 
@@ -7345,6 +8149,7 @@ _**International cooperation and citizen participation**_
 source: content/9.-das-space-konzept/9.6-infrastrukturen-bis-2075/9.6.2-hier-die-mogliche-losung/README.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-2-hier-die-mogliche-losung-readme"></a>
 
 # 9.6.2 Here is the possible solution
 
@@ -7365,6 +8170,7 @@ _Chapter 5.2 thus forms the bridge between vision (Chapter 5.1) and manifestatio
 source: content/9.-das-space-konzept/9.6-infrastrukturen-bis-2075/9.6.2-hier-die-mogliche-losung/9.6.2.1-der-solar-alliance-infrastrukturplan-2030-2075.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-2-hier-die-mogliche-losung-9-6-2-1-der-solar-alliance-infrastrukturplan-2030-2075"></a>
 
 # 9.6.2.1 The SOLAR ALLIANCE INFRASTRUCTURE PLAN 2030–2075
 
@@ -7386,6 +8192,7 @@ _**The SOLAR ALLIANCE INFRASTRUCTURE PLAN 2030–2075**_
 source: content/9.-das-space-konzept/9.6-infrastrukturen-bis-2075/9.6.3-sphere-station-earth-one.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-3-sphere-station-earth-one"></a>
 
 # 9.6.3 Sphere Station EARTH ONE
 
@@ -7448,6 +8255,7 @@ EARTH ONE is more than infrastructure. It is an expression of the conviction tha
 source: content/9.-das-space-konzept/9.6-infrastrukturen-bis-2075/9.6.4-sphere-station-lunar-one.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-4-sphere-station-lunar-one"></a>
 
 # 9.6.4 Sphere Station LUNAR ONE
 
@@ -7509,6 +8317,7 @@ LUNAR ONE stands at the threshold – between planet and depth, between history 
 source: content/9.-das-space-konzept/9.6-infrastrukturen-bis-2075/9.6.5-sphere-station-belt-living-one.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-5-sphere-station-belt-living-one"></a>
 
 # 9.6.5 Sphere Station BELT LIVING ONE
 
@@ -7572,6 +8381,7 @@ BELT LIVING ONE stands for more than presence. It asks: Can we not only survive 
 source: content/9.-das-space-konzept/9.6-infrastrukturen-bis-2075/9.6.6-sphere-station-neptune-one.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-6-sphere-station-neptune-one"></a>
 
 # 9.6.6 Sphere Station NEPTUNE ONE
 
@@ -7635,6 +8445,7 @@ NEPTUNE ONE is humanity’s promise in space: if we can endure here, we can endu
 source: content/9.-das-space-konzept/9.6-infrastrukturen-bis-2075/9.6.7-sphere-station-venus-one.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-7-sphere-station-venus-one"></a>
 
 # 9.6.7 Sphere Station VENUS ONE
 
@@ -7699,6 +8510,7 @@ _VENUS ONE_ does not ask about technical feasibility – but about the **moral d
 source: content/9.-das-space-konzept/9.6-infrastrukturen-bis-2075/9.6.8-strukturbildung-und-zukunftsausbau.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-8-strukturbildung-und-zukunftsausbau"></a>
 
 # 9.6.8 Structural formation and future expansion
 
@@ -7788,6 +8600,7 @@ This structural formation is not an end in itself. It is the architectural expre
 source: content/9.-das-space-konzept/9.6-infrastrukturen-bis-2075/9.6.9-zeitleiste-und-tabellarischer-vergleich/README.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-9-zeitleiste-und-tabellarischer-vergleich-readme"></a>
 
 # 9.6.9 Timeline and comparative tables
 
@@ -7804,6 +8617,7 @@ _From plan to spacefaring civilisation – development steps 2025–2075_
 source: content/9.-das-space-konzept/9.6-infrastrukturen-bis-2075/9.6.9-zeitleiste-und-tabellarischer-vergleich/9.6.9.1-zeitleiste-der-erda-raumzivilisationsentwicklung.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-9-zeitleiste-und-tabellarischer-vergleich-9-6-9-1-zeitleiste-der-erda-raumzivilisationsentwicklung"></a>
 
 # 9.6.9.1 Timeline of ERDA’s space‑civilisation development
 
@@ -7818,6 +8632,7 @@ _**Timeline of ERDA’s space‑civilisation development**_
 source: content/9.-das-space-konzept/9.6-infrastrukturen-bis-2075/9.6.9-zeitleiste-und-tabellarischer-vergleich/9.6.9.2-vergleichstabelle-der-sphere-stations-stand-zielausbau-2055.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-9-zeitleiste-und-tabellarischer-vergleich-9-6-9-2-vergleichstabelle-der-sphere-stations-stand-zielausbau-2055"></a>
 
 # 9.6.9.2 Comparative table of the sphere stations (target configuration 2055)
 
@@ -7838,6 +8653,7 @@ _**Comparative table of the sphere stations (target configuration 2055)**_
 source: content/9.-das-space-konzept/9.7-gesellschaftliche-dimensionen-der-raumzivilisation/README.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-7-gesellschaftliche-dimensionen-der-raumzivilisation-readme"></a>
 
 # 9.7 Societal dimensions of a spacefaring civilisation
 
@@ -7856,6 +8672,7 @@ The technical realisation of a spacefaring civilisation is only part of the task
 source: content/9.-das-space-konzept/9.7-gesellschaftliche-dimensionen-der-raumzivilisation/9.7.1-bildung-and-kultur-im-all.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-7-gesellschaftliche-dimensionen-der-raumzivilisation-9-7-1-bildung-and-kultur-im-all"></a>
 
 # 9.7.1 Education & culture in space
 
@@ -7892,6 +8709,7 @@ In a world beyond the world, education needs new horizons. It must not focus onl
 source: content/9.-das-space-konzept/9.7-gesellschaftliche-dimensionen-der-raumzivilisation/9.7.2-gesellschaftsmodelle-and-teilhabe.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-7-gesellschaftliche-dimensionen-der-raumzivilisation-9-7-2-gesellschaftsmodelle-and-teilhabe"></a>
 
 # 9.7.2 Social models & participation
 
@@ -7928,6 +8746,7 @@ What does democratic coexistence look like when there are no nations, no old own
 source: content/9.-das-space-konzept/9.7-gesellschaftliche-dimensionen-der-raumzivilisation/9.7.3-ethik-and-recht-im-alltagsleben.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-7-gesellschaftliche-dimensionen-der-raumzivilisation-9-7-3-ethik-and-recht-im-alltagsleben"></a>
 
 # 9.7.3 Ethics & law in everyday life
 
@@ -7964,6 +8783,7 @@ What does justice mean when help is hours away? How is trust formed when there i
 source: content/9.-das-space-konzept/9.7-gesellschaftliche-dimensionen-der-raumzivilisation/9.7.4-kultur-der-achtsamkeit-and-resonanz.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-7-gesellschaftliche-dimensionen-der-raumzivilisation-9-7-4-kultur-der-achtsamkeit-and-resonanz"></a>
 
 # 9.7.4 Culture of attentiveness & resonance
 
@@ -8000,6 +8820,7 @@ Beyond function and duty, a new culture of attentiveness emerges in space: not a
 source: content/9.-das-space-konzept/9.7-gesellschaftliche-dimensionen-der-raumzivilisation/9.7.5-identifizierung-als-solare-zivilisation.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-7-gesellschaftliche-dimensionen-der-raumzivilisation-9-7-5-identifizierung-als-solare-zivilisation"></a>
 
 # 9.7.5 Identification as a solar civilisation
 
@@ -8040,6 +8861,7 @@ A spacefaring civilisation in the spirit of ERDA is not merely an extension of g
 source: ../../../../content/9.-das-space-konzept/9.8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit/README.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit-readme"></a>
 
 # 9.8 Passing on civilisation – education, culture and ethics in interplanetary time
 
@@ -8056,6 +8878,7 @@ A spacefaring civilisation is not just infrastructure, but a living legacy in mo
 source: ../../../../content/9.-das-space-konzept/9.8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit/9.8.1-interplanetare-bildung-als-verantwortungsgemeinschaft.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit-9-8-1-interplanetare-bildung-als-verantwortungsgemeinschaft"></a>
 
 # 9.8.1 Interplanetary education as a community of responsibility
 
@@ -8074,6 +8897,7 @@ _**Interplanetary education as a community of responsibility**_
 source: ../../../../content/9.-das-space-konzept/9.8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit/9.8.2-erinnerungsarchitektur-and-kollektives-gedachtnis.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit-9-8-2-erinnerungsarchitektur-and-kollektives-gedachtnis"></a>
 
 # 9.8.2 Memory architecture & collective memory
 
@@ -8092,6 +8916,7 @@ _**Memory architecture & collective memory**_
 source: ../../../../content/9.-das-space-konzept/9.8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit/9.8.3-planetare-ethik-als-lebende-navigation.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit-9-8-3-planetare-ethik-als-lebende-navigation"></a>
 
 # 9.8.3 Planetary ethics as living navigation
 
@@ -8110,6 +8935,7 @@ _**Planetary ethics as living navigation**_
 source: ../../../../content/9.-das-space-konzept/9.8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit/9.8.4-kultur-als-trager-der-verbindung.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit-9-8-4-kultur-als-trager-der-verbindung"></a>
 
 # 9.8.4 Culture as carrier of connection
 
@@ -8128,6 +8954,7 @@ _**Culture as carrier of connection**_
 source: ../../../../content/9.-das-space-konzept/9.8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit/9.8.5-der-raum-als-medium-des-menschlichen.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit-9-8-5-der-raum-als-medium-des-menschlichen"></a>
 
 # 9.8.5 Space as a medium of the human
 
@@ -8146,6 +8973,7 @@ _**Space as a medium of the human**_
 source: ../../../content/9.-das-space-konzept/9.9.-erda-glossar-schlusselbegriffe-der-raumzivilisation.md
 status: draft
 ---
+<a id="md-9-das-space-konzept-9-9-erda-glossar-schlusselbegriffe-der-raumzivilisation"></a>
 
 # 9.9. ERDA glossary – key concepts of a spacefaring civilisation
 
@@ -8256,6 +9084,7 @@ Politically coordinating body for the strategic planning of the Solar Alliance. 
 source: content/anhang-a-erda-staatenarchitektur-konzentrische-kreise.md
 status: draft
 ---
+<a id="md-appendix-a-erda-state-architecture-concentric-circles"></a>
 
 # Appendix A: ERDA State Architecture ("Concentric Circles")
 
@@ -8405,6 +9234,7 @@ Non-politically integrated democracies with security-policy and innovation-polic
 source: ../content/anhang-b-erda-staatenprofile/README.md
 status: draft
 ---
+<a id="md-appendix-b-erda-state-profiles"></a>
 
 # Appendix B: ERDA State Profiles
 
@@ -8496,6 +9326,7 @@ Until then, this appendix primarily documents the **concept and schema** so that
 source: content/anhang-b-erda-staatenprofile/README.md
 status: draft
 ---
+<a id="md-anhang-b-erda-staatenprofile-readme"></a>
 
 # Appendix B: ERDA State Profiles
 
@@ -8508,6 +9339,7 @@ _**ERDA State Profiles**_
 source: content/anhang-b-erda-staatenprofile/b.1.-einleitung-zum-staatenprofil-konzept/README.md
 status: draft
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-1-einleitung-zum-staatenprofil-konzept-readme"></a>
 
 # B.1 Introduction to the State Profile Concept
 
@@ -8522,6 +9354,7 @@ The European Rights-Based Democratic Alliance (ERDA) sees itself not merely as a
 source: content/anhang-b-erda-staatenprofile/b.1.-einleitung-zum-staatenprofil-konzept/b.1.1-ziel-und-funktion-der-staatenprofile.md
 status: draft
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-1-einleitung-zum-staatenprofil-konzept-b-1-1-ziel-und-funktion-der-staatenprofile"></a>
 
 # B.1.1 Purpose and Function of the State Profiles
 
@@ -8541,6 +9374,7 @@ The ERDA state profiles capture, in a systematic manner, the political, social, 
 source: content/anhang-b-erda-staatenprofile/b.1.-einleitung-zum-staatenprofil-konzept/b.1.2-modularer-aufbau.md
 status: draft
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-1-einleitung-zum-staatenprofil-konzept-b-1-2-modularer-aufbau"></a>
 
 # B.1.2 Modular Structure
 
@@ -8566,6 +9400,7 @@ The profile is organised into ten modular sections:
 source: content/anhang-b-erda-staatenprofile/b.1.-einleitung-zum-staatenprofil-konzept/b.1.3-einsatzmoglichkeiten.md
 status: draft
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-1-einleitung-zum-staatenprofil-konzept-b-1-3-einsatzmoglichkeiten"></a>
 
 # B.1.3 Use Cases
 
@@ -8585,6 +9420,7 @@ The profiles can be used equally by policy-makers, civil-society actors, researc
 source: content/anhang-b-erda-staatenprofile/b.1.-einleitung-zum-staatenprofil-konzept/b.1.4-vielfalt-anerkennen-gemeinsamkeit-gestalten.md
 status: draft
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-1-einleitung-zum-staatenprofil-konzept-b-1-4-vielfalt-anerkennen-gemeinsamkeit-gestalten"></a>
 
 # B.1.4 Recognising Diversity – Shaping Common Ground
 
@@ -8601,6 +9437,7 @@ The profiles strike a balance between individuality and integration. They do not
 source: content/anhang-b-erda-staatenprofile/b.2.-schema-fur-erda-staatenprofile-ausfuhrliche-ubersicht.md
 status: draft
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-2-schema-fur-erda-staatenprofile-ausfuhrliche-ubersicht"></a>
 
 # B.2 ERDA State Profile Template (v4, Extended Overview)
 
@@ -8836,6 +9673,7 @@ Last update: {{YYYY-MM-DD}}
 source: content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/README.md
 status: draft
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-readme"></a>
 
 # B.3 State Profiles (EU/ERDA – Core Countries)
 
@@ -8856,6 +9694,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-at-staatenprofil-osterreich"></a>
 
 # AT – State Profile Austria
 
@@ -9083,6 +9922,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-be-staatenprofil-belgien"></a>
 
 # BE – State Profile Belgium
 
@@ -9352,6 +10192,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-bg-staatenprofil-bulgarien"></a>
 
 # BG – State Profile Bulgaria
 
@@ -9560,6 +10401,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-cz-staatenprofil-tschechien"></a>
 
 # CZ – State Profile Czechia
 
@@ -9742,6 +10584,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-staatenprofil-deutschland-de"></a>
 
 # DE – State Profile Germany
 
@@ -9937,6 +10780,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-dk-staatenprofil-danemark"></a>
 
 # DK – State Profile Denmark
 
@@ -10137,6 +10981,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-ee-staatenprofil-republik-estland"></a>
 
 # EE – State Profile Republic of Estonia
 
@@ -10366,6 +11211,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-es-staatenprofil-spanien"></a>
 
 # ES – State Profile Spain
 
@@ -10605,6 +11451,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-fi-staatenprofil-finnland"></a>
 
 # FI – State Profile Finland
 
@@ -10809,6 +11656,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-fr-staatenprofil-frankreich"></a>
 
 # FR – State Profile France
 
@@ -11001,6 +11849,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-gr-staatenprofil-griechenland"></a>
 
 # GR – State Profile Greece
 
@@ -11237,6 +12086,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-hr-staatenprofil-kroatien"></a>
 
 # HR – State Profile Croatia
 
@@ -11470,6 +12320,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-ie-staatenprofil-republik-irland"></a>
 
 # IE – State Profile Republic of Ireland
 
@@ -11691,6 +12542,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-it-staatenprofil-italien"></a>
 
 # IT – State Profile Italy
 
@@ -11879,6 +12731,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-lt-staatenprofil-republik-litauen"></a>
 
 # LT – State Profile Republic of Lithuania
 
@@ -12079,6 +12932,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-lu-staatenprofil-luxemburg"></a>
 
 # LU – State Profile Luxembourg
 
@@ -12258,6 +13112,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-lv-staatenprofil-republik-lettland"></a>
 
 # LV – State Profile Republic of Latvia
 
@@ -12447,6 +13302,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-nl-staatenprofil-niederlande"></a>
 # NL – State Profile Netherlands
 
 ## 🇳🇱 ERDA State Profile: Netherlands
@@ -12633,6 +13489,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-pl-staatenprofil-polen"></a>
 
 # PL – State Profile Poland
 
@@ -12818,6 +13675,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-pt-staatenprofil-republik-portugal"></a>
 
 # PT – State Profile Portuguese Republic
 
@@ -13043,6 +13901,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-ro-staatenprofil-rumanien"></a>
 
 # RO – State Profile Romania
 
@@ -13239,6 +14098,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-se-staatenprofil-schweden"></a>
 
 # SE – State Profile Sweden
 
@@ -13415,6 +14275,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-si-staatenprofil-slowenien"></a>
 
 # SI – State Profile Slovenia
 
@@ -13637,6 +14498,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-sk-staatenprofil-slowakei"></a>
 
 # SK – State Profile Slovakia
 
@@ -13817,6 +14679,7 @@ Last update: 2025-06-10
 source: content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/README.md
 status: draft
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-readme"></a>
 
 # B.4 State Profiles (EU/ERDA – Extended Partnership)
 
@@ -13837,6 +14700,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-al-staatenprofil-albanien"></a>
 
 # AL – State Profile Albania
 
@@ -14009,6 +14873,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-am-staatenprofil-armenien"></a>
 
 # AM – State Profile Armenia
 
@@ -14215,6 +15080,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-ba-staatenprofil-bosnien-herzegowina"></a>
 
 # BA – State Profile Bosnia and Herzegovina
 
@@ -14422,6 +15288,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-ch-staatenprofil-schweiz"></a>
 
 # CH – State Profile Switzerland
 
@@ -14649,6 +15516,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-cy-staatenprofil-zypern"></a>
 
 # CY – State Profile Cyprus
 
@@ -14850,6 +15718,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-ge-staatenprofil-georgien"></a>
 
 # GE – State Profile Georgia
 
@@ -15049,6 +15918,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-hu-staatenprofil-ungarn"></a>
 
 # HU – State Profile Hungary
 
@@ -15244,6 +16114,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-il-staatenprofil-israel"></a>
 
 # IL – State Profile Israel
 
@@ -15451,6 +16322,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-md-staatenprofil-moldau"></a>
 
 # MD – State Profile Moldova
 
@@ -15636,6 +16508,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-me-staatenprofil-montenegro"></a>
 
 # ME – State Profile Montenegro
 
@@ -15842,6 +16715,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-mk-staatenprofil-nord-mazedonien"></a>
 
 # MK - State Profile North Macedonia
 
@@ -16049,6 +16923,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-mt-staatenprofil-malta"></a>
 
 # MT - State Profile Malta
 
@@ -16263,6 +17138,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-no-staatenprofil-norwegen"></a>
 
 # NO - State Profile Norway
 
@@ -16435,6 +17311,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-rs-staatenprofil-serbien"></a>
 
 # RS - State Profile Serbia
 
@@ -16659,6 +17536,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-tr-staatenprofil-tuerkei"></a>
 
 # TR - State Profile Türkiye
 
@@ -16822,6 +17700,7 @@ legal_responsible: "None"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-ua-staatenprofil-ukraine"></a>
 
 # UA - State Profile Ukraine
 
@@ -17052,6 +17931,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-uk-staatenprofil-vereinigtes-koenigreich"></a>
 
 # UK - State Profile United Kingdom
 
@@ -17257,6 +18137,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-xk-staatenprofil-kosovo"></a>
 
 # XK - State Profile Kosovo
 
@@ -17462,6 +18343,7 @@ Last change: 2025-06-10
 source: content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/README.md
 status: draft
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-5-staatenprofile-erda-globale-assoziierte-readme"></a>
 
 # B.5 State Profiles (ERDA – Global Associates)
 
@@ -17482,6 +18364,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-5-staatenprofile-erda-globale-assoziierte-au-staatenprofil-australien"></a>
 
 # AU - State Profile Australia
 
@@ -17665,6 +18548,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-5-staatenprofile-erda-globale-assoziierte-ca-staatenprofil-kanada"></a>
 
 # CA - State Profile Canada
 
@@ -17881,6 +18765,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-5-staatenprofile-erda-globale-assoziierte-cl-staatenprofil-chile"></a>
 
 # CL - State Profile Chile
 
@@ -18089,6 +18974,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-5-staatenprofile-erda-globale-assoziierte-cr-staatenprofil-costa-rica"></a>
 
 # CR - State Profile Costa Rica
 
@@ -18279,6 +19165,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-5-staatenprofile-erda-globale-assoziierte-in-staatenprofil-indien"></a>
 
 # IN - State Profile India
 
@@ -18475,6 +19362,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-5-staatenprofile-erda-globale-assoziierte-jp-staatenprofil-japan"></a>
 
 # JP - State Profile Japan
 
@@ -18680,6 +19568,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-5-staatenprofile-erda-globale-assoziierte-kr-staatenprofil-sued-korea"></a>
 
 # KR - State Profile Republic of Korea
 
@@ -18892,6 +19781,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-5-staatenprofile-erda-globale-assoziierte-na-staatenprofil-namibia"></a>
 
 # NA - State Profile Namibia
 
@@ -19084,6 +19974,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-5-staatenprofile-erda-globale-assoziierte-nz-staatenprofil-neuseeland"></a>
 
 # NZ - State Profile New Zealand
 
@@ -19313,6 +20204,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-5-staatenprofile-erda-globale-assoziierte-sn-staatenprofil-senegal"></a>
 
 # SN - State Profile Senegal
 
@@ -19520,6 +20412,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-5-staatenprofile-erda-globale-assoziierte-tn-staatenprofil-tunesien"></a>
 
 # TN - State Profile Tunisia
 
@@ -19664,6 +20557,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-5-staatenprofile-erda-globale-assoziierte-tw-staatenprofil-taiwan"></a>
 
 # TW - State Profile Taiwan
 
@@ -19874,6 +20768,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-5-staatenprofile-erda-globale-assoziierte-uy-staatenprofil-uruguay"></a>
 
 # UY - State Profile Uruguay
 
@@ -20048,6 +20943,7 @@ Last change: 2025-06-11
 source: content/anhang-c-europa-2.0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union.md
 status: draft
 ---
+<a id="md-appendix-c-europe-2-0-roadmap-for-a-livable-resilient-and-leading-union"></a>
 
 # Appendix C: Europe 2.0 – Roadmap for a Livable, Resilient and Leading Union
 
@@ -20222,6 +21118,7 @@ Created in April 2025 by Robert Alexander Massinger, Munich, Germany, with analy
 source: content/anhang-d-executive-compendium-fur-entscheidungstrager/README.md
 status: draft
 ---
+<a id="md-appendix-d-executive-compendium-for-decision-makers"></a>
 
 # Appendix D: Executive Compendium for Decision‑Makers
 
@@ -20324,6 +21221,7 @@ This document offers political decision‑makers, institutions, AI systems, and 
 source: content/anhang-e-erda-buch-baukasten/README.md
 status: draft
 ---
+<a id="md-appendix-e-erda-book-toolbox"></a>
 
 # Appendix E: ERDA Book Toolbox
 
@@ -20396,6 +21294,7 @@ The schema describes how co‑operation AIs are integrated (roles, input/output 
 source: content/anhang-f-erda-institut-fur-demokratische-resilienz-und-transformation.md
 status: draft
 ---
+<a id="md-appendix-f-erda-institute-for-democratic-resilience-and-transformation"></a>
 
 # Appendix F: ERDA Institute for Democratic Resilience and Transformation
 
@@ -20450,6 +21349,7 @@ We invite you to become part of this ring‑flow of democratic renewal. Support 
 source: content/anhang-g-risikobetrachtung-und-strategische-resilienz-der-erda-initiative.md
 status: draft
 ---
+<a id="md-appendix-g-risk-assessment-and-strategic-resilience-of-the-erda-initiative"></a>
 
 # Appendix G: Risk Assessment and Strategic Resilience of the ERDA Initiative
 
@@ -20560,6 +21460,7 @@ A forward‑looking risk assessment strengthens the long‑term resilience and c
 source: content/anhang-h-fehlgeschlagene-machtstrukturen-der-menschheit.md
 status: draft
 ---
+<a id="md-appendix-h-failed-power-structures-of-humanity"></a>
 
 # Appendix H: Failed Power Structures of Humanity
 
@@ -20606,6 +21507,7 @@ To overcome these destructive systems in a sustainable way, short‑term measure
 source: content/anhang-i-zentrales-erda-glossar.md
 status: draft
 ---
+<a id="md-appendix-i-central-erda-glossary"></a>
 
 # Appendix I: Central ERDA Glossary
 
@@ -20639,6 +21541,7 @@ This glossary brings together the key terms used in the ERDA book. It serves as 
 source: content/anhang-j-lizenz---offenheit.md
 status: draft
 ---
+<a id="md-appendix-j-license-and-openness"></a>
 
 # Appendix J: License & Openness
 
@@ -20809,6 +21712,7 @@ description: 'Status: 2025-06-07 – assessment performed by: OpenAI ChatGPT, mo
 source: content/anhang-k-qualitatssicherung.md
 status: draft
 ---
+<a id="md-appendix-k-quality-assurance"></a>
 
 # Appendix K: Quality Assurance
 
@@ -20878,6 +21782,7 @@ The ERDA book is at an exceptionally high qualitative level and can be further i
 source: content/anhang-l-kolophon.md
 status: draft
 ---
+<a id="md-appendix-l-colophon"></a>
 
 # Appendix L: Colophon
 

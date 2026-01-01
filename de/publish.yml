@@ -1,4 +1,8 @@
 version: 0.1.0
+project:
+  name: Das ERDA Buch
+  license: CC-BY-SA-4.0
+  version: 1.0.2
 profiles:
   default:
     description: Standardprofil für die komplette Orchestrator-Pipeline.

@@ -21,6 +21,7 @@ header-includes:
 - \setlength\LTright{0pt}
 ---
 
+<a id="md-readme"></a>
 
 ---
 
@@ -40,6 +41,7 @@ Willkommen im offiziellen Buch zur Vision und Strategie der ERDA.\
 
 \newpage
 
+<a id="md-readme-vorwort"></a>
 # Vorwort
 
 _**Vorwort**_
@@ -75,6 +77,7 @@ Es ist ein Angebot zur Reifung. Ein europäischer Entwurf, der sagt:
 
 \newpage
 
+<a id="md-1-aktuelle-lage-europas-herausforderungen-und-chancen-readme"></a>
 # 1. Aktuelle Lage Europas: Herausforderungen und Chancen
 
 _**Aktuelle Lage Europas: Herausforderungen und Chancen**_
@@ -152,6 +155,7 @@ Europa steht an einem historischen Wendepunkt. Dieses Kapitel identifiziert die 
 
 \newpage
 
+<a id="md-1-aktuelle-lage-europas-herausforderungen-und-chancen-1-1-demokratische-erosion-und-geopolitische-fragmentierung"></a>
 # 1.1 Demokratische Erosion und geopolitische Fragmentierung
 
 _**Demokratische Erosion und geopolitische Fragmentierung**_
@@ -243,6 +247,7 @@ d) Türkei
 
 \newpage
 
+<a id="md-1-aktuelle-lage-europas-herausforderungen-und-chancen-1-2-wirtschaftlicher-druck-und-globale-systemkonkurrenz"></a>
 # 1.2 Wirtschaftlicher Druck und globale Systemkonkurrenz
 
 _**Wirtschaftlicher Druck und globale Systemkonkurrenz**_
@@ -327,6 +332,7 @@ d) Automobilindustrie
 
 \newpage
 
+<a id="md-1-aktuelle-lage-europas-herausforderungen-und-chancen-1-3-technologische-transformation-und-soziale-spaltung"></a>
 # 1.3 Technologische Transformation und soziale Spaltung
 
 _**Technologische Transformation und soziale Spaltung**_
@@ -422,6 +428,7 @@ d) Schweiz
 
 \newpage
 
+<a id="md-1-aktuelle-lage-europas-herausforderungen-und-chancen-1-4-chancen-im-wandel"></a>
 # 1.4 Chancen im Wandel
 
 _**Chancen im Wandel**_
@@ -519,6 +526,7 @@ d) Lokale Bürgerbudgets
 
 \newpage
 
+<a id="md-1-aktuelle-lage-europas-herausforderungen-und-chancen-1-5-der-strategische-imperativ"></a>
 # 1.5 Der strategische Imperativ
 
 _**Der strategische Imperativ**_
@@ -616,12 +624,13 @@ d) Euratom
 
 1. **Rat der Europäischen Union (2022):** _Ein Strategischer Kompass für Sicherheit und Verteidigung – Für eine Europäische Union, die ihre Bürgerinnen und Bürger, Werte und Interessen schützt und zu Weltfrieden und internationaler Sicherheit beiträgt._ Brüssel: Rat der Europäischen Union. Online verfügbar unter: [https://www.consilium.europa.eu/de/policies/strategic-compass/](https://www.consilium.europa.eu/de/policies/strategic-compass/) (Zugriff am 2025-05-13). **PDF-Version**: [https://www.eeas.europa.eu/sites/default/files/documents/strategic\_compass\_en3\_web.pdf](https://www.eeas.europa.eu/sites/default/files/documents/strategic_compass_en3_web.pdf)
 2. **European Defence Agency (2025):** _Annual Report 2024_. Brüssel: EDA. Online verfügbar unter: [https://eda.europa.eu/publications-and-data/all-publications/annual-report-2024](https://eda.europa.eu/publications-and-data/all-publications/annual-report-2024) (Zugriff am 2025-05-13). **PDF-Version:** [https://eda.europa.eu/docs/default-source/brochures/eda-annual-report-2024.pdf](https://eda.europa.eu/docs/default-source/brochures/eda-annual-report-2024.pdf)
-3. **ERDA-Projekt (2025):** _Europa 2.0 – Fahrplan für eine lebenswerte, resiliente und führende Union_. In: **ERDA-Buch**, Anhang C, [[Interne Projektdokumentation](../anhang-c-europa-2.0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union.md)].
+3. **ERDA-Projekt (2025):** _Europa 2.0 – Fahrplan für eine lebenswerte, resiliente und führende Union_. In: **ERDA-Buch**, Anhang C, [[Interne Projektdokumentation](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)].
 
 
 
 \newpage
 
+<a id="md-2-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation-readme"></a>
 # 2. Natürliche Verlangen und ihre Bedeutung für Demokratie und Zivilisation
 
 _**Natürliche Verlangen und deren Projektion auf Zivilisationen - Ein philosophischer Resonanzraum im Geist der ERDA**_
@@ -694,6 +703,7 @@ Kapitel 2 liefert die **zivilisatorische Grundlegung** des ERDA-Konzepts. Es zei
 
 \newpage
 
+<a id="md-2-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation-2-1-pra-demokratische-zivilisation"></a>
 # 2.1 Prä-demokratische Zivilisation
 
 _**Prä-demokratische Zivilisation**_
@@ -804,6 +814,7 @@ d) Marktwirtschaft
 
 \newpage
 
+<a id="md-2-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation-2-2-demokratische-rechtsstaatliche-zivilisation"></a>
 # 2.2 Demokratische-rechtsstaatliche Zivilisation
 
 _**Demokratische-rechtsstaatliche Zivilisation**_
@@ -913,6 +924,7 @@ d) Exekutive Weisungsgebundenheit
 
 \newpage
 
+<a id="md-2-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation-2-3-post-demokratische-zivilisation-readme"></a>
 # 2.3 Post-demokratische Zivilisation
 
 _**Post-demokratische Zivilisation**_
@@ -922,6 +934,7 @@ _(entweder dystopisch: Technokratie, KI-Autokratie – oder transformativ: sinns
 
 \newpage
 
+<a id="md-2-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation-2-3-post-demokratische-zivilisation-2-3-1-dystopische-variante"></a>
 # 2.3.1 Dystopische Variante
 
 _**Dystopische Variante**_
@@ -1034,6 +1047,7 @@ d) Vollautomatisierte Überwachung
 
 \newpage
 
+<a id="md-2-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation-2-3-post-demokratische-zivilisation-2-3-2-ideale-und-beste-form-der-demokratie"></a>
 # 2.3.2 Ideale und Beste Form der Demokratie
 
 _**Ideale und Beste Form der Demokratie**_
@@ -1142,6 +1156,7 @@ d) Hierarchische Sicherheitsstrukturen
 
 \newpage
 
+<a id="md-2-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation-2-4-schlussgedanke"></a>
 # 2.4 Schlussgedanke
 
 _**Schlussgedanke**_
@@ -1235,6 +1250,7 @@ d) Abschottungsstrategie
 
 \newpage
 
+<a id="md-3-demokratie-als-evolutionarer-prozess-readme"></a>
 # 3. Demokratie als evolutionärer Prozess
 
 _**Demokratie als evolutionärer Prozess**_
@@ -1305,6 +1321,7 @@ Dieses Kapitel beschreibt Demokratie nicht als statisches Modell, sondern als **
 
 \newpage
 
+<a id="md-3-demokratie-als-evolutionarer-prozess-3-1-prolog"></a>
 # 3.1 Prolog
 
 _**Prolog - Der Weg aus der Höhle des blanken Überlebens ins Licht der bewussten Gestaltung**_
@@ -1405,6 +1422,7 @@ d) Der stürmische Ozean
 
 \newpage
 
+<a id="md-3-demokratie-als-evolutionarer-prozess-3-2-eine-reflexion-im-geiste-von-aristoteles"></a>
 # 3.2 Eine Reflexion im Geiste von Aristoteles
 
 _**Eine Reflexion im Geiste von Aristoteles**_
@@ -1502,6 +1520,7 @@ d) Eudaimonia
 
 \newpage
 
+<a id="md-3-demokratie-als-evolutionarer-prozess-3-3-demokratie-als-resonanzprozess"></a>
 # 3.3 Demokratie als Resonanzprozess
 
 _**Demokratie als Resonanzprozess**_
@@ -1598,6 +1617,7 @@ d) Autarke Entscheidung
 
 \newpage
 
+<a id="md-3-demokratie-als-evolutionarer-prozess-3-4-demokratie-ist-bewegung"></a>
 # 3.4 Demokratie ist Bewegung
 
 _**Demokratie ist Bewegung**_
@@ -1689,6 +1709,7 @@ d) Absoluter Konsens
 
 \newpage
 
+<a id="md-3-demokratie-als-evolutionarer-prozess-3-5-tugend-als-voraussetzung-demokratischer-gestaltung"></a>
 # 3.5 Tugend als Voraussetzung demokratischer Gestaltung
 
 _**Tugend als Voraussetzung demokratischer Gestaltung**_
@@ -1787,6 +1808,7 @@ D) Maximale Individualinteressen
 
 \newpage
 
+<a id="md-3-demokratie-als-evolutionarer-prozess-3-6-naturliche-verlangen-der-seele-reflexiv"></a>
 # 3.6 Natürliche Verlangen der Seele (reflexiv)
 
 _**Natürliche Verlangen der Seele (reflexiv)**_
@@ -1873,6 +1895,7 @@ d) **Ruhe** ✅
 
 \newpage
 
+<a id="md-3-demokratie-als-evolutionarer-prozess-3-7-schlussgedanke"></a>
 # 3.7 Schlussgedanke
 
 _**Schlussgedanke**_
@@ -1978,6 +2001,7 @@ d) Effizienz
 ---
 description: Institutionelle Architektur für das 21. Jahrhundert
 ---
+<a id="md-4-das-erda-gesamtkonzept-readme"></a>
 
 # 4. Das ERDA Gesamtkonzept
 
@@ -2062,6 +2086,7 @@ Kapitel 4 beschreibt die institutionelle Gesamtarchitektur der _European Rights-
 
 \newpage
 
+<a id="md-4-das-erda-gesamtkonzept-4-1-vision-and-leitprinzip-readme"></a>
 # 4.1 Vision & Leitprinzip
 
 _**Vision & Leitprinzip**_
@@ -2075,6 +2100,7 @@ Sie verteidigt Freiheit, Gerechtigkeit, Vielfalt und langfristige Lebensfähigke
 
 \newpage
 
+<a id="md-4-das-erda-gesamtkonzept-4-1-vision-and-leitprinzip-4-1-1-mehrsprachige-narrative-und-kulturelle-identitat"></a>
 # 4.1.1 Mehrsprachige Narrative und kulturelle Identität
 
 _**Mehrsprachige Narrative und kulturelle Identität**_
@@ -2184,6 +2210,7 @@ Europa ist ein Kontinent der Vielfalt – sprachlich, kulturell und historisch. 
 
 \newpage
 
+<a id="md-4-das-erda-gesamtkonzept-4-1-vision-and-leitprinzip-4-1-2-starke-zivilgesellschaft-als-partnerin"></a>
 # 4.1.2 Starke Zivilgesellschaft als Partnerin
 
 _**Starke Zivilgesellschaft als Partnerin**_
@@ -2284,6 +2311,7 @@ d) Einweg-Kommunikation
 
 \newpage
 
+<a id="md-4-das-erda-gesamtkonzept-4-1-vision-and-leitprinzip-4-1-3-institutionelle-balance"></a>
 # 4.1.3 Institutionelle Balance
 
 _**Institutionelle BalanceInstitutionelle Balance**_
@@ -2386,11 +2414,12 @@ d) Geheimhaltungspflichten
 8. **Stanford University Press (2023):** _Checks and Balances Reimagined_. Analyse moderner Gewaltenteilungskonzepte. Online verfügbar unter: [https://www.sup.org](https://www.sup.org) (Zugriff am 2025-05-15).\
    https://www.sup.org/books/title/?id=32710
 9. **ERDA-Projekt (2025):** _Reformphase: 2025–2035 – Strategische Neuausrichtung der EU_. Kapitel 4.2. [4.2 Reformphase: 2025–2035 - Strategische Neuausrichtung der EU](../4.2-reformphase-2025-2035-strategische-neuausrichtung)
-10. **ERDA-Projekt (2025):** _Europa 2.0 – Fahrplan für eine lebenswerte, resiliente und führende Union_. Anhang C. [Anhang C: Europa 2.0 – Fahrplan für eine lebenswerte, resiliente und führende Union](../../anhang-c-europa-2.0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union.md)
+10. **ERDA-Projekt (2025):** _Europa 2.0 – Fahrplan für eine lebenswerte, resiliente und führende Union_. Anhang C. [Anhang C: Europa 2.0 – Fahrplan für eine lebenswerte, resiliente und führende Union](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)
 
 
 \newpage
 
+<a id="md-4-das-erda-gesamtkonzept-4-1-vision-and-leitprinzip-4-1-4-demokratische-kontrolle-uber-ki-prozesse"></a>
 # 4.1.4 Demokratische Kontrolle über KI-Prozesse
 
 _**Demokratische Kontrolle über KI-Prozesse**_
@@ -2495,6 +2524,7 @@ d) Proprietäre Closed-Source-Algorithmen
 
 \newpage
 
+<a id="md-4-das-erda-gesamtkonzept-4-1-vision-and-leitprinzip-4-1-5-interplanetare-verantwortung-und-evolutionare-perspektiven"></a>
 # 4.1.5 Interplanetare Verantwortung und evolutionäre Perspektiven
 
 _**Interplanetare Verantwortung und evolutionäre Perspektiven**_
@@ -2583,14 +2613,15 @@ d) Geheimverhandlungen zwischen Agenturen
 
 ### 4.1.5.6 Quellen & Verweise
 
-1. _Kodifizierung als Kosmosrecht_ – SOLAR ALLIANCE Codex: [Solar Alliance Codex](../../9.-das-space-konzept/9.1-erda-codex-fur-kosmische-verantwortung/9.1.3-aufbau-einer-solar-alliance/9.1.3.1-kodifizierung-als-kosmosrecht.md)
-2. _Planetare Ethik als lebende Navigation:_ [_Planetare Ethik_](../../9.-das-space-konzept/9.8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit/9.8.3-planetare-ethik-als-lebende-navigation.md)
-3. _Nachhaltigkeit über Generationen hinweg_: [Nachhaltigkeit über Generationen hinweg](../../9.-das-space-konzept/9.1-erda-codex-fur-kosmische-verantwortung/9.1.2-grundsatze/9.1.2.5-nachhaltigkeit-uber-generationen-hinweg.md)
-4. _Keine Militarisierung ohne demokratische Kontrolle:_ [_Keine Militarisierung ohne demokratische Kontrolle_](../../9.-das-space-konzept/9.1-erda-codex-fur-kosmische-verantwortung/9.1.2-grundsatze/9.1.2.3-keine-militarisierung-ohne-demokratische-kontrolle.md)
+1. _Kodifizierung als Kosmosrecht_ – SOLAR ALLIANCE Codex: [Solar Alliance Codex](#md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-3-aufbau-einer-solar-alliance-9-1-3-1-kodifizierung-als-kosmosrecht)
+2. _Planetare Ethik als lebende Navigation:_ [_Planetare Ethik_](#md-9-das-space-konzept-9-8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit-9-8-3-planetare-ethik-als-lebende-navigation)
+3. _Nachhaltigkeit über Generationen hinweg_: [Nachhaltigkeit über Generationen hinweg](#md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-2-grundsatze-9-1-2-5-nachhaltigkeit-uber-generationen-hinweg)
+4. _Keine Militarisierung ohne demokratische Kontrolle:_ [_Keine Militarisierung ohne demokratische Kontrolle_](#md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-2-grundsatze-9-1-2-3-keine-militarisierung-ohne-demokratische-kontrolle)
 
 
 \newpage
 
+<a id="md-4-das-erda-gesamtkonzept-4-1-vision-and-leitprinzip-4-1-6-erda-im-zeitlichen-wandel"></a>
 # 4.1.6 ERDA im zeitlichen Wandel
 
 _**ERDA im zeitlichen Wandel**_
@@ -2733,6 +2764,7 @@ d) Top-down-Direktiven
 
 \newpage
 
+<a id="md-4-das-erda-gesamtkonzept-4-2-reformphase-2025-2035-strategische-neuausrichtung-readme"></a>
 # 4.2 Reformphase: 2025–2035 - Strategische Neuausrichtung der EU
 
 _**Reformphase: 2025–2035 - Strategische Neuausrichtung der EU**_
@@ -2800,6 +2832,7 @@ Die Reformphase 2025–2035 legt das Fundament für eine lebendige, lernfähige 
 
 \newpage
 
+<a id="md-4-das-erda-gesamtkonzept-4-2-reformphase-2025-2035-strategische-neuausrichtung-4-2-1-umsetzung-zentraler-reformempfehlungen-basierend-auf-sailing-on-high-seas"></a>
 # 4.2.1 Umsetzung zentraler Reformempfehlungen (basierend auf "Sailing on High Seas")
 
 _**Umsetzung zentraler Reformempfehlungen (basierend auf "Sailing on High Seas")**_
@@ -2887,6 +2920,7 @@ d) Impact-Fonds
 
 \newpage
 
+<a id="md-4-das-erda-gesamtkonzept-4-2-reformphase-2025-2035-strategische-neuausrichtung-4-2-2-aufbau-der-europaischen-verteidigungsallianz-eda-2-0"></a>
 # 4.2.2 Aufbau der Europäischen Verteidigungsallianz (EDA 2.0)
 
 _**Aufbau der operativ & strategisch handlungsfähigen European Defense Alliance (EDA 2.0)**_
@@ -2989,6 +3023,7 @@ d) EU Battlegroups
 
 \newpage
 
+<a id="md-4-das-erda-gesamtkonzept-4-2-reformphase-2025-2035-strategische-neuausrichtung-4-2-3-erweiterungsstrategie-nach-dem-modell-konzentrischer-kreise"></a>
 # 4.2.3 Erweiterungsstrategie nach dem Modell „Konzentrischer Kreise“
 
 _**Erweiterungsstrategie nach dem Modell „Konzentrischer Kreise“**_
@@ -3076,13 +3111,14 @@ d) Solidaritätskreis
 
 ### 4.2.3.6 Quellen & Verweise
 
-1. **ERDA Buch (2025)**: _ERDA-Staatenarchitektur – Modell konzentrischer Kreise, zur Kategorisierung und Zuordnung innerhalb der Kreise._ [Anhang A: ERDA-Staatenarchitektur („Konzentrische Kreise“).](../../anhang-a-erda-staatenarchitektur-konzentrische-kreise.md)
+1. **ERDA Buch (2025)**: _ERDA-Staatenarchitektur – Modell konzentrischer Kreise, zur Kategorisierung und Zuordnung innerhalb der Kreise._ [Anhang A: ERDA-Staatenarchitektur („Konzentrische Kreise“).](#md-anhang-a-erda-staatenarchitektur-konzentrische-kreise)
 2. **ERDA Buch (2025)**: _Schema für ERDA-Staatenprofile (ausführliche Übersicht)._ [Anhang B.2: Schema für ERDA-Staatenprofile (ausführliche Übersicht).](../../anhang-b-erda-staatenprofile/2.-schema-fur-erda-staatenprofile-ausfuhrliche-ubersicht.md)
 3. **ERDA Buch (2025)**: _Das ARKTIS Konzept._ [Kapitel 8: Das ARKTIS Konzept.](../../8.-das-arktis-konzept/)
 
 
 \newpage
 
+<a id="md-4-das-erda-gesamtkonzept-4-2-reformphase-2025-2035-strategische-neuausrichtung-4-2-4-einbindung-globaler-perspektiven"></a>
 # 4.2.4 Einbindung globaler Perspektiven
 
 _**Einbindung globaler Perspektiven**_
@@ -3183,6 +3219,7 @@ d) CIVITAS-Konvent
 
 \newpage
 
+<a id="md-4-das-erda-gesamtkonzept-4-2-reformphase-2025-2035-strategische-neuausrichtung-4-2-5-zivilgesellschaftliche-begleitstruktur"></a>
 # 4.2.5 Zivilgesellschaftliche Begleitstruktur
 
 _**Zivilgesellschaftliche Begleitstruktur**_
@@ -3276,6 +3313,7 @@ d) Themenbezogene Beiräte
 
 \newpage
 
+<a id="md-4-das-erda-gesamtkonzept-4-3-konsolidierung-2035-2050-demokratische-resilienz-und-technologische-souveranitat-readme"></a>
 # 4.3 Konsolidierung: 2035–2050 - Demokratische Resilienz & technologische Souveränität
 
 _**Konsolidierung: 2035–2050 - Demokratische Resilienz & technologische Souveränität**_
@@ -3341,6 +3379,7 @@ Die Phase 2035–2050 schafft die institutionelle und infrastrukturelle Grundlag
 
 \newpage
 
+<a id="md-4-das-erda-gesamtkonzept-4-3-konsolidierung-2035-2050-demokratische-resilienz-und-technologische-souveranitat-4-3-1-verankerung-einer-erda-verfassung"></a>
 # 4.3.1 Verankerung einer ERDA-Verfassung
 
 _**Verankerung einer ERDA-Verfassung**_
@@ -3431,11 +3470,12 @@ Ein künftiges ERDA‑Institut für Demokratische Resilienz (in Planung für 202
 
 ### 4.3.1.7 Quellen & Verweise
 
-1. **ERDA Buch (2025):** _Europa 2.0 - Fahrplan für eine lebenswerte, resiliente und führende Union._ [Anhang C: Europa 2.0 - Fahrplan für eine lebenswerte, resiliente und führende Union](../../anhang-c-europa-2.0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union.md)
+1. **ERDA Buch (2025):** _Europa 2.0 - Fahrplan für eine lebenswerte, resiliente und führende Union._ [Anhang C: Europa 2.0 - Fahrplan für eine lebenswerte, resiliente und führende Union](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)
 
 
 \newpage
 
+<a id="md-4-das-erda-gesamtkonzept-4-3-konsolidierung-2035-2050-demokratische-resilienz-und-technologische-souveranitat-4-3-2-demokratie-in-der-post-knappheitsokonomie"></a>
 # 4.3.2 Demokratie in der Post-Knappheitsökonomie
 
 _**Demokratie in der Post-Knappheitsökonomie**_
@@ -3522,11 +3562,12 @@ d) Zentralisierte Planwirtschaft
 
 ### 4.3.2.6 Quellen & Verweise
 
-1. **ERDA Buch (2025):** _Europa 2.0 - Fahrplan für eine lebenswerte, resiliente und führende Union._ [Anhang C: Europa 2.0 - Fahrplan für eine lebenswerte, resiliente und führende Union](../../anhang-c-europa-2.0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union.md)
+1. **ERDA Buch (2025):** _Europa 2.0 - Fahrplan für eine lebenswerte, resiliente und führende Union._ [Anhang C: Europa 2.0 - Fahrplan für eine lebenswerte, resiliente und führende Union](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)
 
 
 \newpage
 
+<a id="md-4-das-erda-gesamtkonzept-4-3-konsolidierung-2035-2050-demokratische-resilienz-und-technologische-souveranitat-4-3-3-souveranitat-durch-technologie-and-innovation"></a>
 # 4.3.3 Souveränität durch Technologie & Innovation
 
 _**Souveränität durch Technologie & Innovation**_
@@ -3611,6 +3652,7 @@ d) Abschottung durch Patentschutz
 
 \newpage
 
+<a id="md-4-das-erda-gesamtkonzept-4-3-konsolidierung-2035-2050-demokratische-resilienz-und-technologische-souveranitat-4-3-4-globale-gerechtigkeit-and-klimasolidaritat"></a>
 # 4.3.4 Globale Gerechtigkeit & Klimasolidarität
 
 _**Globale Gerechtigkeit & Klimasolidarität**_
@@ -3691,11 +3733,12 @@ d) Bilaterale Klima-Kredite
 
 1. **UNFCCC (2015):** _Paris Agreement, angenommen am 12. Dezember 2015._ Bonn: UNFCCC-Sekretariat. Online verfügbar unter: [https://unfccc.int/sites/default/files/english\_paris\_agreement.pdf](https://unfccc.int/sites/default/files/english_paris_agreement.pdf) (Zugriff am 2025-05-21).
 2. **Green Climate Fund (2011):** _Governing Instrument for the Green Climate Fund, genehmigt am 11. Dezember 2011._ Bonn: Green Climate Fund Secretariat. Online verfügbar unter: [https://www.greenclimate.fund/document/governing-instrument](https://www.greenclimate.fund/document/governing-instrument) (Zugriff am 2025-05-21).
-3. **ERDA Buch (2025):** _Europa 2.0 - Fahrplan für eine lebenswerte, resiliente und führende Union._ [Anhang C: Europa 2.0 - Fahrplan für eine lebenswerte, resiliente und führende Union](../../anhang-c-europa-2.0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union.md)
+3. **ERDA Buch (2025):** _Europa 2.0 - Fahrplan für eine lebenswerte, resiliente und führende Union._ [Anhang C: Europa 2.0 - Fahrplan für eine lebenswerte, resiliente und führende Union](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)
 
 
 \newpage
 
+<a id="md-4-das-erda-gesamtkonzept-4-3-konsolidierung-2035-2050-demokratische-resilienz-und-technologische-souveranitat-4-3-5-resilienz-durch-kultur-and-bildung"></a>
 # 4.3.5 Resilienz durch Kultur & Bildung
 
 _**Resilienz durch Kultur & Bildung**_
@@ -3775,11 +3818,12 @@ d) Zentrale Lehrbuchvergabe
 
 1. **UNESCO (2018):** _Re | Shaping Cultural Policies: Advancing Creativity for Development._ Paris: UNESCO. Online verfügbar unter: [https://uis.unesco.org/sites/default/files/documents/reshaping-cultural-policies-2018-en.pdf](https://uis.unesco.org/sites/default/files/documents/reshaping-cultural-policies-2018-en.pdf) (Zugriff am 2025-05-21).
 2. **Europäische Kommission, Generaldirektion für Bildung, Jugend, Sport und Kultur (o. J.):** _European Education Area explained._ Brussels: Europäische Kommission. Online verfügbar unter: [https://education.ec.europa.eu/about-eea/the-eea-explained](https://education.ec.europa.eu/about-eea/the-eea-explained) (Zugriff am 2025-05-21).
-3. **ERDA Buch (2025):** _Europa 2.0 - Fahrplan für eine lebenswerte, resiliente und führende Union._ [Anhang C: Europa 2.0 - Fahrplan für eine lebenswerte, resiliente und führende Union](../../anhang-c-europa-2.0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union.md)
+3. **ERDA Buch (2025):** _Europa 2.0 - Fahrplan für eine lebenswerte, resiliente und führende Union._ [Anhang C: Europa 2.0 - Fahrplan für eine lebenswerte, resiliente und führende Union](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)
 
 
 \newpage
 
+<a id="md-4-das-erda-gesamtkonzept-4-3-konsolidierung-2035-2050-demokratische-resilienz-und-technologische-souveranitat-4-3-6-institutionelle-demokratisierung"></a>
 # 4.3.6 Institutionelle Demokratisierung
 
 _**Institutionelle Demokratisierung**_
@@ -3862,11 +3906,12 @@ d) Nationale Referenden zu jedem Thema
 
 1. **OECD (o. J.)**: _Open Government Data._ Paris: OECD Publishing. Online verfügbar unter: [https://www.oecd.org/en/publications/open-government-data\_5k46bj4f03s7-en.html](https://www.oecd.org/en/publications/open-government-data_5k46bj4f03s7-en.html) (Zugriff am 2025-05-21).
 2. **Europäische Kommission (2020)**: _Communication on the European Democracy Action Plan. Communication COM(2020) 790 final, 3. Dezember 2020._ Brussels: Europäische Kommission. Online verfügbar unter: [https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52020DC0790](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52020DC0790) (Zugriff am 2025-05-21).
-3. **ERDA Buch (2025):** _Europa 2.0 - Fahrplan für eine lebenswerte, resiliente und führende Union._ [Anhang C: Europa 2.0 - Fahrplan für eine lebenswerte, resiliente und führende Union](../../anhang-c-europa-2.0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union.md)
+3. **ERDA Buch (2025):** _Europa 2.0 - Fahrplan für eine lebenswerte, resiliente und führende Union._ [Anhang C: Europa 2.0 - Fahrplan für eine lebenswerte, resiliente und führende Union](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)
 
 
 \newpage
 
+<a id="md-4-das-erda-gesamtkonzept-4-4-transformation-2050-2075-gesellschaft-im-22-jahrhundert-readme"></a>
 # 4.4 Transformation: 2050–2075 - Gesellschaft im 22. Jahrhundert
 
 _**Transformation: 2050–2075 - Gesellschaft im 22. Jahrhundert**_
@@ -3930,6 +3975,7 @@ Die ERDA kann zum ersten real existierenden Modell einer demokratisch-sinnhaften
 
 \newpage
 
+<a id="md-4-das-erda-gesamtkonzept-4-4-transformation-2050-2075-gesellschaft-im-22-jahrhundert-4-4-1-demokratische-hochtechnologie-zivilisation"></a>
 # 4.4.1 Demokratische Hochtechnologie-Zivilisation
 
 _**Demokratische Hochtechnologie-Zivilisation**_
@@ -4013,6 +4059,7 @@ d) Freiwillige Selbstverpflichtungen
 
 \newpage
 
+<a id="md-4-das-erda-gesamtkonzept-4-4-transformation-2050-2075-gesellschaft-im-22-jahrhundert-4-4-2-soziale-und-kulturelle-resilienz"></a>
 # 4.4.2 Soziale und kulturelle Resilienz
 
 _**Soziale und kulturelle Resilienz**_
@@ -4092,11 +4139,12 @@ d) Technokratische Steuerung
 
 ### 4.4.2.6 Quellen & Verweise
 
-1. **ERDA Buch (2025):** _Europa 2.0 - Fahrplan für eine lebenswerte, resiliente und führende Union._ [Anhang C: Europa 2.0 - Fahrplan für eine lebenswerte, resiliente und führende Union](../../anhang-c-europa-2.0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union.md)
+1. **ERDA Buch (2025):** _Europa 2.0 - Fahrplan für eine lebenswerte, resiliente und führende Union._ [Anhang C: Europa 2.0 - Fahrplan für eine lebenswerte, resiliente und führende Union](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)
 
 
 \newpage
 
+<a id="md-4-das-erda-gesamtkonzept-4-4-transformation-2050-2075-gesellschaft-im-22-jahrhundert-4-4-3-globale-integration-auf-grundlage-des-rechts"></a>
 # 4.4.3 Globale Integration auf Grundlage des Rechts
 
 _**Globale Integration auf Grundlage des Rechts**_
@@ -4182,6 +4230,7 @@ d) Nationales Verfassungsgericht
 
 \newpage
 
+<a id="md-4-das-erda-gesamtkonzept-4-4-transformation-2050-2075-gesellschaft-im-22-jahrhundert-4-4-4-technologie-mit-sinn-und-verantwortung"></a>
 # 4.4.4 Technologie mit Sinn und Verantwortung
 
 _**Technologie mit Sinn und Verantwortung**_
@@ -4270,6 +4319,7 @@ d) Automatisierte Algorithmus-Tests
 
 \newpage
 
+<a id="md-4-das-erda-gesamtkonzept-4-4-transformation-2050-2075-gesellschaft-im-22-jahrhundert-4-4-5-post-materialistische-lebensqualitat"></a>
 # 4.4.5 Post-materialistische Lebensqualität
 
 _**Post-materialistische Lebensqualität**_
@@ -4358,6 +4408,7 @@ d) Exportvolumen
 
 \newpage
 
+<a id="md-4-das-erda-gesamtkonzept-4-4-transformation-2050-2075-gesellschaft-im-22-jahrhundert-4-4-6-zukunft-als-gemeinschaftsaufgabe"></a>
 # 4.4.6 Zukunft als Gemeinschaftsaufgabe
 
 _**Zukunft als Gemeinschaftsaufgabe**_
@@ -4449,6 +4500,7 @@ d) Crowdfunding
 
 \newpage
 
+<a id="md-4-das-erda-gesamtkonzept-4-5-strategische-narrative-und-offentliche-kommunikation-readme"></a>
 # 4.5 Strategische Narrative & öffentliche Kommunikation
 
 _**Strategische Narrative & öffentliche Kommunikation**_
@@ -4521,6 +4573,7 @@ Eine narrativ gestärkte ERDA schafft emotionale Verbindung, politische Identifi
 
 \newpage
 
+<a id="md-4-das-erda-gesamtkonzept-4-5-strategische-narrative-und-offentliche-kommunikation-4-5-1-soziale-and-emotionale-aspekte"></a>
 # 4.5.1 Soziale & emotionale Aspekte
 
 _**Soziale & emotionale Aspekte**_
@@ -4607,6 +4660,7 @@ Strategische Narrative entfalten ihre Kraft nicht nur über Fakten und Argumente
 
 \newpage
 
+<a id="md-4-das-erda-gesamtkonzept-4-5-strategische-narrative-und-offentliche-kommunikation-4-5-2-narrative-bausteine-readme"></a>
 # 4.5.2 Narrative Bausteine
 
 _**Narrative Bausteine**_
@@ -4614,6 +4668,7 @@ _**Narrative Bausteine**_
 
 \newpage
 
+<a id="md-4-das-erda-gesamtkonzept-4-5-strategische-narrative-und-offentliche-kommunikation-4-5-2-narrative-bausteine-4-5-2-1-narrativ-der-ermachtigung"></a>
 # 4.5.2.1 Narrativ der Ermächtigung
 
 _**Narrativ der Ermächtigung**_
@@ -4705,6 +4760,7 @@ Das Narrativ der Ermächtigung zielt darauf ab, Menschen als aktive Gestalter ih
 
 \newpage
 
+<a id="md-4-das-erda-gesamtkonzept-4-5-strategische-narrative-und-offentliche-kommunikation-4-5-2-narrative-bausteine-4-5-2-2-demokratie-als-schopferische-kraft"></a>
 # 4.5.2.2 Demokratie als schöpferische Kraft
 
 _**Demokratie als schöpferische Kraft**_
@@ -4792,6 +4848,7 @@ Die Demokratie entfaltet ihre volle Stärke, wenn sie nicht nur als Entscheidung
 
 \newpage
 
+<a id="md-4-das-erda-gesamtkonzept-4-5-strategische-narrative-und-offentliche-kommunikation-4-5-2-narrative-bausteine-4-5-2-3-autonomie-ist-kein-abbruch-sondern-uberlebensstrategie"></a>
 # 4.5.2.3 Autonomie ist kein Abbruch – sondern Überlebensstrategie
 
 _**Autonomie ist kein Abbruch – sondern Überlebensstrategie**_
@@ -4880,6 +4937,7 @@ d) Juristische Abschottung
 
 \newpage
 
+<a id="md-4-das-erda-gesamtkonzept-4-5-strategische-narrative-und-offentliche-kommunikation-4-5-2-narrative-bausteine-4-5-2-4-transatlantische-erneuerung-durch-gleichgewicht"></a>
 # 4.5.2.4 Transatlantische Erneuerung durch Gleichgewicht
 
 _**Transatlantische Erneuerung durch Gleichgewicht**_
@@ -4969,6 +5027,7 @@ Das Narrativ der transatlantischen Erneuerung durch Gleichgewicht richtet den Bl
 
 \newpage
 
+<a id="md-4-das-erda-gesamtkonzept-4-5-strategische-narrative-und-offentliche-kommunikation-4-5-2-narrative-bausteine-4-5-2-5-globale-einladung"></a>
 # 4.5.2.5 Globale Einladung
 
 _**Globale Einladung**_
@@ -5058,6 +5117,7 @@ Das Narrativ der globalen Einladung versteht Demokratie nicht als rein nationale
 
 \newpage
 
+<a id="md-4-das-erda-gesamtkonzept-4-5-strategische-narrative-und-offentliche-kommunikation-4-5-2-narrative-bausteine-4-5-2-6-erzahlung-des-mitgestaltens"></a>
 # 4.5.2.6 Erzählung des Mitgestaltens
 
 _**Erzählung des Mitgestaltens**_
@@ -5146,6 +5206,7 @@ Das Narrativ des Mitgestaltens rückt die aktive Beteiligung aller Stakeholder i
 
 \newpage
 
+<a id="md-5-das-eda-konzept-readme"></a>
 # 5. Das EDA Konzept
 
 ***
@@ -5247,6 +5308,7 @@ Dieses Kapitel skizziert die Grundarchitektur einer Europäischen Verteidigungsa
 
 \newpage
 
+<a id="md-5-das-eda-konzept-5-1-vision-und-mission-der-europaischen-verteidigungsallianz-eda"></a>
 # 5.1 Vision und Mission der Europäischen Verteidigungsallianz (EDA)
 
 _**Vision und Mission**_
@@ -5263,6 +5325,7 @@ Die European Defense Alliance (EDA) ist eine wertebasierte Verteidigungsarchitek
 
 \newpage
 
+<a id="md-5-das-eda-konzept-5-2-mitgliedschaft-und-organisationsstruktur"></a>
 # 5.2 Mitgliedschaft und Organisationsstruktur
 
 _**Mitgliedschaft und Struktur**_
@@ -5294,6 +5357,7 @@ _**Mitgliedschaft und Struktur**_
 
 \newpage
 
+<a id="md-5-das-eda-konzept-5-3-prinzipien-und-verteidigungsdoktrin"></a>
 # 5.3 Prinzipien und Verteidigungsdoktrin
 
 _**Verteidigungsprinzipien**_
@@ -5306,6 +5370,7 @@ _**Verteidigungsprinzipien**_
 
 \newpage
 
+<a id="md-5-das-eda-konzept-5-4-militarische-integration-und-gemeinsame-standards"></a>
 # 5.4 Militärische Integration und gemeinsame Standards
 
 _**Militärische Integration**_
@@ -5319,6 +5384,7 @@ _**Militärische Integration**_
 
 \newpage
 
+<a id="md-5-das-eda-konzept-5-5-globale-koordination-und-verantwortung"></a>
 # 5.5 Globale Koordination und Verantwortung
 
 _**Globale Koordination und Verantwortung**_
@@ -5332,6 +5398,7 @@ _**Globale Koordination und Verantwortung**_
 
 \newpage
 
+<a id="md-5-das-eda-konzept-5-6-synergien-und-konnektivitat"></a>
 # 5.6 Synergien und Konnektivität
 
 _**Synergien und Konnektivität**_
@@ -5343,6 +5410,7 @@ _**Synergien und Konnektivität**_
 
 \newpage
 
+<a id="md-5-das-eda-konzept-5-7-kommandostruktur-und-operative-souveranitat"></a>
 # 5.7 Kommandostruktur und operative Souveränität
 
 _**Kommandostruktur und operative Souveränität**_
@@ -5359,6 +5427,7 @@ _**Kommandostruktur und operative Souveränität**_
 
 \newpage
 
+<a id="md-5-das-eda-konzept-5-8-defense-sovereignty-nodes-dsns"></a>
 # 5.8 Defense Sovereignty Nodes (DSNs)
 
 _**Defense Sovereignty Nodes (DSNs)**_
@@ -5482,6 +5551,7 @@ Modulare, schnell verlegbare Einsatzverbände (20.000–50.000 Kräfte), konzipi
 
 \newpage
 
+<a id="md-5-das-eda-konzept-5-9-unbemannte-und-autonome-systeme-drohnen-und-ki-integration"></a>
 # 5.9 Unbemannte strategische Systeme und Drohnenkräfte
 
 _**Unbemannte strategische Systeme und Drohnenkräfte**_
@@ -5551,6 +5621,7 @@ Die EDF ist Europas Antwort auf moderne Kriegsführung: hochleistungsfähig, eth
 
 \newpage
 
+<a id="md-5-das-eda-konzept-5-10-nukleare-abschreckung-und-strategische-autonomie-readme"></a>
 # 5.10 Nukleare Abschreckung und strategische Autonomie
 
 _**Strategische nukleare Abschreckungsfähigkeit**_
@@ -5563,6 +5634,7 @@ Zur Wahrung strategischer Autonomie und zum Schutz der territorialen Integrität
 
 \newpage
 
+<a id="md-5-das-eda-konzept-5-10-nukleare-abschreckung-und-strategische-autonomie-5-10-1-begrundung-und-grundsatze"></a>
 # 5.10.1 Begründung und Grundsätze
 
 _Begründung und Grundsätze_
@@ -5574,6 +5646,7 @@ _Begründung und Grundsätze_
 
 \newpage
 
+<a id="md-5-das-eda-konzept-5-10-nukleare-abschreckung-und-strategische-autonomie-5-10-2-sofortmassnahmen-2025-2030"></a>
 # 5.10.2 Sofortmaßnahmen (2025–2030)
 
 _**Sofortmaßnahmen (2025–2030)**_
@@ -5584,6 +5657,7 @@ _**Sofortmaßnahmen (2025–2030)**_
 
 \newpage
 
+<a id="md-5-das-eda-konzept-5-10-nukleare-abschreckung-und-strategische-autonomie-5-10-3-mittelfristige-entwicklung-2030-2040"></a>
 # 5.10.3 Mittelfristige Entwicklung (2030–2040)
 
 _**Mittelfristige Entwicklung (2030–2040)**_
@@ -5595,6 +5669,7 @@ _**Mittelfristige Entwicklung (2030–2040)**_
 
 \newpage
 
+<a id="md-5-das-eda-konzept-5-10-nukleare-abschreckung-und-strategische-autonomie-5-10-4-langfristige-vision-2040-2050"></a>
 # 5.10.4 Langfristige Vision (2040–2050)
 
 _**Langfristige Vision (2040–2050)**_
@@ -5606,6 +5681,7 @@ _**Langfristige Vision (2040–2050)**_
 
 \newpage
 
+<a id="md-5-das-eda-konzept-5-10-nukleare-abschreckung-und-strategische-autonomie-5-10-5-offentliche-kommunikation-und-ethische-grundlage"></a>
 # 5.10.5 Öffentliche Kommunikation und ethische Grundlage
 
 _**Öffentliche Kommunikation und ethische Grundlage**_
@@ -5617,6 +5693,7 @@ Die nukleare Abschreckung der EDA wird als **minimalistische, rechtsstaatlich ge
 
 \newpage
 
+<a id="md-6-das-civitas-konzept-readme"></a>
 # 6. Das CIVITAS Konzept
 
 _**CIVITAS: Die digitale Agora Europas**_
@@ -5651,6 +5728,7 @@ Digitale Demokratie schafft mehr gesellschaftlichen Zusammenhalt, höhere politi
 
 \newpage
 
+<a id="md-6-das-civitas-konzept-6-1-leitidee-demokratie-im-digitalen-raum"></a>
 # 6.1 Leitidee: Demokratie im digitalen Raum
 
 _**Leitidee: Demokratie im digitalen Raum**_
@@ -5664,6 +5742,7 @@ CIVITAS verbindet soziale Netzwerke mit rechtsstaatlicher Kontrolle, öffentlich
 
 \newpage
 
+<a id="md-6-das-civitas-konzept-6-2-tragerschaft-und-demokratische-kontrolle"></a>
 # 6.2 Trägerschaft & demokratische Kontrolle
 
 _**Trägerschaft & demokratische Kontrolle**_
@@ -5678,6 +5757,7 @@ CIVITAS wird getragen von einer unabhängigen europäischen Stiftung unter parla
 
 \newpage
 
+<a id="md-6-das-civitas-konzept-6-3-technische-architektur-und-datenschutz"></a>
 # 6.3 Technische Architektur und Datenschutz
 
 ### Technische Architektur
@@ -5692,6 +5772,7 @@ Die Architektur ist dezentral, Open Source und vollständig kompatibel mit dem F
 
 \newpage
 
+<a id="md-6-das-civitas-konzept-6-4-kernfunktionen-von-civitas"></a>
 # 6.4 Kernfunktionen von CIVITAS
 
 _**Kernfunktionen von CIVITAS**_
@@ -5705,6 +5786,7 @@ _**Kernfunktionen von CIVITAS**_
 
 \newpage
 
+<a id="md-6-das-civitas-konzept-6-5-schutzmechanismen-und-rechtssicherheit"></a>
 # 6.5 Schutzmechanismen & Rechtssicherheit
 
 _**Schutzmechanismen & Rechtssicherheit**_
@@ -5718,6 +5800,7 @@ _**Schutzmechanismen & Rechtssicherheit**_
 
 \newpage
 
+<a id="md-6-das-civitas-konzept-6-6-partnerschaften-und-globale-integration"></a>
 # 6.6 Partnerschaften & globale Integration
 
 ### Partnerschaften & globale Integration
@@ -5732,6 +5815,7 @@ CIVITAS ist offen für die Zusammenarbeit mit:
 
 \newpage
 
+<a id="md-6-das-civitas-konzept-6-7-bildung-jugend-und-partizipation"></a>
 # 6.7 Bildung, Jugend & demokratische Partizipation
 
 _**Bildung, Jugend & demokratische Partizipation**_
@@ -5746,6 +5830,7 @@ Demokratie lebt vom Mitmachen – besonders der jungen Generation:
 
 \newpage
 
+<a id="md-6-das-civitas-konzept-6-8-schlussgedanken"></a>
 # 6.8 Schlussgedanken
 
 _**Schlussgedanken**_ 
@@ -5759,6 +5844,7 @@ CIVITAS ist mehr als ein technisches Projekt. Es ist ein strategischer Pfeiler d
 
 \newpage
 
+<a id="md-7-das-fortera-konzept-readme"></a>
 # 7. Das FORTERA Konzept
 
 _**FORTERA – Die strategische Wirtschaftsarchitektur für ein demokratisches Europa - Wirtschaftliche Souveränität & globale Demokratiepartnerschaft**_
@@ -5795,6 +5881,7 @@ Eine souveräne und nachhaltige Wirtschaft macht Europa zum globalen Vorreiter i
 
 \newpage
 
+<a id="md-7-das-fortera-konzept-7-1-ausgangslage-und-strategische-eckpfeiler"></a>
 # 7.1 Ausgangslage und strategische Eckpfeiler
 
 _**Ausgangslage**_
@@ -5804,6 +5891,7 @@ Mit der Rückkehr ökonomisch-nationalistischer Kräfte – insbesondere im Kont
 
 \newpage
 
+<a id="md-7-das-fortera-konzept-7-2-ziel-des-konzepts"></a>
 # 7.2 Ziel des Konzepts
 
 _**Ziel des Konzepts**_
@@ -5813,6 +5901,7 @@ Dieses Konzept bietet eine strukturierte Handlungsstrategie für demokratische R
 
 \newpage
 
+<a id="md-7-das-fortera-konzept-7-3-produktionssouveranitat-und-strategische-industriepolitik-readme"></a>
 # 7.3 Produktionssouveränität und strategische Industriepolitik
 
 _**Produktionssouveränität und strategische Industriepolitik**_
@@ -5827,6 +5916,7 @@ _**Produktionssouveränität und strategische Industriepolitik**_
 
 \newpage
 
+<a id="md-7-das-fortera-konzept-7-3-produktionssouveranitat-und-strategische-industriepolitik-7-3-1-ubersicht-strategische-produktionsziele-europas-auszug"></a>
 # 7.3.1 Übersicht: Strategische Produktionsziele Europas (Auszug)
 
 _**Übersicht: Strategische Produktionsziele Europas (Auszug)**_
@@ -5836,6 +5926,7 @@ _**Übersicht: Strategische Produktionsziele Europas (Auszug)**_
 
 \newpage
 
+<a id="md-7-das-fortera-konzept-7-3-produktionssouveranitat-und-strategische-industriepolitik-7-3-2-quantifizierte-szenarien-zur-produktionssouveranitat-im-rahmen-von-fortera"></a>
 # 7.3.2 Quantifizierte Szenarien zur Produktionssouveränität im Rahmen von FORTERA
 
 _**Quantifizierte Szenarien zur Produktionssouveränität im Rahmen von FORTERA**_
@@ -5873,6 +5964,7 @@ Folgende Industriesektoren wurden als besonders kritisch für Europas langfristi
 
 \newpage
 
+<a id="md-7-das-fortera-konzept-7-3-produktionssouveranitat-und-strategische-industriepolitik-7-3-3-herausforderungen-risiken-und-losungsansatze"></a>
 # 7.3.3 Herausforderungen, Risiken und Lösungsansätze
 
 _**Herausforderungen, Risiken und Lösungsansätze**_
@@ -5905,6 +5997,7 @@ _**Herausforderungen, Risiken und Lösungsansätze**_
 
 \newpage
 
+<a id="md-7-das-fortera-konzept-7-3-produktionssouveranitat-und-strategische-industriepolitik-7-3-4-ubergangskosten-und-finanzierungsstrategie"></a>
 # 7.3.4 Übergangskosten und Finanzierungsstrategie
 
 _**Übergangskosten und Finanzierungsstrategie**_
@@ -5928,6 +6021,7 @@ _**Übergangskosten und Finanzierungsstrategie**_
 
 \newpage
 
+<a id="md-7-das-fortera-konzept-7-3-produktionssouveranitat-und-strategische-industriepolitik-7-3-5-praktische-massnahmen-und-meilensteinplanung-2025-2050"></a>
 # 7.3.5 Praktische Maßnahmen- und Meilensteinplanung (2025–2050)
 
 _**Praktische Maßnahmen- und Meilensteinplanung (2025–2050)**_
@@ -5949,6 +6043,7 @@ _**Praktische Maßnahmen- und Meilensteinplanung (2025–2050)**_
 
 \newpage
 
+<a id="md-7-das-fortera-konzept-7-3-produktionssouveranitat-und-strategische-industriepolitik-7-3-6-erfolgskontrolle-und-anpassungsmechanismen"></a>
 # 7.3.6 Erfolgskontrolle und Anpassungsmechanismen
 
 _**Erfolgskontrolle und Anpassungsmechanismen**_
@@ -5970,6 +6065,7 @@ _**Erfolgskontrolle und Anpassungsmechanismen**_
 
 \newpage
 
+<a id="md-7-das-fortera-konzept-7-3-produktionssouveranitat-und-strategische-industriepolitik-7-3-7-gesamtausblick-und-nutzen"></a>
 # 7.3.7 Gesamtausblick und Nutzen
 
 _**Gesamtausblick und Nutzen**_
@@ -5981,6 +6077,7 @@ Diese Investitionen ermöglichen Europa, sich von geopolitischen Unsicherheiten 
 
 \newpage
 
+<a id="md-7-das-fortera-konzept-7-4-aufbau-demokratischer-handelsallianzen-democracy-trade-network"></a>
 # 7.4 Aufbau demokratischer Handelsallianzen („Democracy Trade Network“)
 
 _**Aufbau demokratischer Handelsallianzen („Add-On Global“)**_
@@ -5994,6 +6091,7 @@ _**Aufbau demokratischer Handelsallianzen („Add-On Global“)**_
 
 \newpage
 
+<a id="md-7-das-fortera-konzept-7-5-transatlantische-partnerschaft-neu-denken"></a>
 # 7.5 Transatlantische Partnerschaft neu denken
 
 _**Transatlantische Partnerschaft neu denken**_
@@ -6009,6 +6107,7 @@ _**Transatlantische Partnerschaft neu denken**_
 
 \newpage
 
+<a id="md-7-das-fortera-konzept-7-6-defensivmechanismen-gegen-wirtschaftlichen-nationalismus"></a>
 # 7.6 Defensivmechanismen gegen wirtschaftlichen Nationalismus
 
 _**Defensivinstrumente gegen wirtschaftliche Erpressung**_
@@ -6026,6 +6125,7 @@ _**Defensivinstrumente gegen wirtschaftliche Erpressung**_
 
 \newpage
 
+<a id="md-7-das-fortera-konzept-7-7-burgerbeteiligung-und-demokratische-wirtschaftskultur"></a>
 # 7.7 Bürgerbeteiligung & demokratische Wirtschaftskultur
 
 _**Bürgerbeteiligung & demokratische Wirtschaftskultur**_
@@ -6039,6 +6139,7 @@ _**Bürgerbeteiligung & demokratische Wirtschaftskultur**_
 
 \newpage
 
+<a id="md-7-das-fortera-konzept-7-8-wirtschaftliche-resilienz-und-ethische-fundierung"></a>
 # 7.8 Wirtschaftliche Resilienz und ethische Fundierung
 
 _**Philosophische Grundlage: Resilienz ist Freiheit**_
@@ -6054,6 +6155,7 @@ _**Philosophische Grundlage: Resilienz ist Freiheit**_
 
 \newpage
 
+<a id="md-7-das-fortera-konzept-7-9-schlussgedanken"></a>
 # 7.9 Schlussgedanken
 
 _**Schlussgedanken**_
@@ -6063,6 +6165,7 @@ Dieses Dokument ist ein Aufruf zur **aktiven strategischen Selbstbehauptung Euro
 
 \newpage
 
+<a id="md-8-das-arktis-konzept-readme"></a>
 # 8. Das ARKTIS Konzept
 
 _**🧭 Zukunft Arktis – Ein demokratischer Plan für strategische Resilienz, Ressourcengerechtigkeit und planetare Verantwortung**_
@@ -6101,6 +6204,7 @@ Eine demokratische Arktisstrategie positioniert Europa als Vorreiter einer veran
 
 \newpage
 
+<a id="md-8-das-arktis-konzept-8-1-arktis-codex-ethik-der-arktischen-verantwortung"></a>
 # 8.1 ARKTIS Codex – Ethik der arktischen Verantwortung
 
 _**ARKTIS Codex – Ethik der arktischen Verantwortung**_
@@ -6148,6 +6252,7 @@ Die Förderung eines umfassenden Verständnisses der ökologischen, kulturellen 
 
 \newpage
 
+<a id="md-8-das-arktis-konzept-8-2-ausgangslage"></a>
 # 8.2 Ausgangslage
 
 _**Ausgangslage**_
@@ -6159,6 +6264,7 @@ Europa und seine demokratischen Partner müssen eine klare, wertegebundene Antwo
 
 \newpage
 
+<a id="md-8-das-arktis-konzept-8-3-leitprinzipien"></a>
 # 8.3 Leitprinzipien
 
 _**Leitprinzipien**_
@@ -6172,6 +6278,7 @@ _**Leitprinzipien**_
 
 \newpage
 
+<a id="md-8-das-arktis-konzept-8-4-strategische-saulen-readme"></a>
 # 8.4 Strategische Säulen
 
 _**Strategische Säulen**_
@@ -6180,6 +6287,7 @@ _**Strategische Säulen**_
 
 \newpage
 
+<a id="md-8-das-arktis-konzept-8-4-strategische-saulen-8-4-1-geopolitische-souveranitat-eda-arktisstrategie"></a>
 # 8.4.1 Geopolitische Souveränität (EDA-Arktisstrategie)
 
 _**Geopolitische Souveränität (EDA-Arktisstrategie)**_
@@ -6192,6 +6300,7 @@ _**Geopolitische Souveränität (EDA-Arktisstrategie)**_
 
 \newpage
 
+<a id="md-8-das-arktis-konzept-8-4-strategische-saulen-8-4-2-demokratische-ressourcenpartnerschaften-fortera"></a>
 # 8.4.2 Demokratische Ressourcenpartnerschaften (FORTERA)
 
 **Demokratische Ressourcenpartnerschaften (FORTERA)**
@@ -6203,6 +6312,7 @@ _**Geopolitische Souveränität (EDA-Arktisstrategie)**_
 
 \newpage
 
+<a id="md-8-das-arktis-konzept-8-4-strategische-saulen-8-4-3-wissenschaft-und-klimaethik"></a>
 # 8.4.3 Wissenschaft und Klimaethik
 
 _**Wissenschaft und Klimaethik**_
@@ -6214,6 +6324,7 @@ _**Wissenschaft und Klimaethik**_
 
 \newpage
 
+<a id="md-8-das-arktis-konzept-8-4-strategische-saulen-8-4-4-infrastruktur-and-datenhoheit"></a>
 # 8.4.4 Infrastruktur & Datenhoheit
 
 _**Infrastruktur & Datenhoheit**_
@@ -6225,6 +6336,7 @@ _**Infrastruktur & Datenhoheit**_
 
 \newpage
 
+<a id="md-8-das-arktis-konzept-8-4-strategische-saulen-8-4-5-kulturelle-und-indigene-dimension"></a>
 # 8.4.5 Kulturelle und indigene Dimension
 
 _**Kulturelle und indigene Dimension**_
@@ -6236,6 +6348,7 @@ _**Kulturelle und indigene Dimension**_
 
 \newpage
 
+<a id="md-8-das-arktis-konzept-8-5-massnahmenkatalog-auswahl"></a>
 # 8.5 Maßnahmenkatalog (Auswahl)
 
 _**Maßnahmenkatalog (Auswahl)**_
@@ -6247,6 +6360,7 @@ _**Maßnahmenkatalog (Auswahl)**_
 
 \newpage
 
+<a id="md-8-das-arktis-konzept-8-6-kommunikationsstrategie"></a>
 # 8.6 Kommunikationsstrategie
 
 _**Kommunikationsstrategie**_
@@ -6259,6 +6373,7 @@ _**Kommunikationsstrategie**_
 
 \newpage
 
+<a id="md-8-das-arktis-konzept-8-7-schlussgedanke"></a>
 # 8.7 Schlussgedanke
 
 _**Schlussgedanke**_
@@ -6268,6 +6383,7 @@ _**Schlussgedanke**_
 
 \newpage
 
+<a id="md-9-das-space-konzept-readme"></a>
 # 9. Das SPACE Konzept
 
 _**Das SPACE Konzept**_\
@@ -6337,6 +6453,7 @@ Dieses Kapitel entwirft eine zukunftsorientierte, demokratisch legitimierte Raum
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-readme"></a>
 # 9.1 ERDA Codex für kosmische Verantwortung
 
 _**ERDA-Codex für kosmische Verantwortung**_
@@ -6346,6 +6463,7 @@ _Ein Leitfaden für eine demokratisch geregelte, gerechte und nachhaltige Raumfa
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-1-praambel"></a>
 # 9.1.1 Präambel
 
 _**Präambel**_
@@ -6358,6 +6476,7 @@ Im Geiste der _European Rights-Based Democratic Alliance (ERDA)_ und getragen vo
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-2-grundsatze-readme"></a>
 # 9.1.2 Grundsätze
 
 _**Grundsätze**_
@@ -6365,6 +6484,7 @@ _**Grundsätze**_
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-2-grundsatze-9-1-2-1-menschenwurde-und-rechtsstaatlichkeit-gelten-auch-im-all"></a>
 # 9.1.2.1 Menschenwürde und Rechtsstaatlichkeit gelten auch im All
 
 _**Menschenwürde und Rechtsstaatlichkeit gelten auch im All**_
@@ -6374,6 +6494,7 @@ Jeder Mensch behält seine unveräußerlichen Rechte – unabhängig vom Aufenth
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-2-grundsatze-9-1-2-2-der-weltraum-ist-allmende-kein-privateigentum"></a>
 # 9.1.2.2 Der Weltraum ist Allmende – kein Privateigentum
 
 _**Der Weltraum ist Allmende – kein Privateigentum**_
@@ -6383,6 +6504,7 @@ Alle natürlichen Ressourcen jenseits der Erde gelten als gemeinsames Erbe der M
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-2-grundsatze-9-1-2-3-keine-militarisierung-ohne-demokratische-kontrolle"></a>
 # 9.1.2.3 Keine Militarisierung ohne demokratische Kontrolle
 
 _**Keine Militarisierung ohne demokratische Kontrolle**_
@@ -6392,6 +6514,7 @@ Sicherheit im All ist Aufgabe demokratischer Ordnungsstrukturen. Militärische P
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-2-grundsatze-9-1-2-4-technologische-offenheit-und-wissensfreiheit"></a>
 # 9.1.2.4 Technologische Offenheit und Wissensfreiheit
 
 _**Technologische Offenheit und Wissensfreiheit**_
@@ -6401,6 +6524,7 @@ Wissenschaftliche Ergebnisse aus öffentlichen Missionen müssen offen zugängli
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-2-grundsatze-9-1-2-5-nachhaltigkeit-uber-generationen-hinweg"></a>
 # 9.1.2.5 Nachhaltigkeit über Generationen hinweg
 
 _**Nachhaltigkeit über Generationen hinweg**_
@@ -6410,6 +6534,7 @@ Jede Raumfahrtmission muss mit dem Ziel geplant, gebaut und betrieben werden, di
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-2-grundsatze-9-1-2-6-gerechtigkeit-fur-alle-lebensformen"></a>
 # 9.1.2.6 Gerechtigkeit für alle Lebensformen
 
 _**Gerechtigkeit für alle Lebensformen**_
@@ -6419,6 +6544,7 @@ Alle vom Sonnensystem abstammenden Lebensformen haben ein natürliches Lebensrec
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-2-grundsatze-9-1-2-7-besucherprinzip-fur-aussersolare-intelligenz"></a>
 # 9.1.2.7 Besucherprinzip für außersolare Intelligenz
 
 _**Besucherprinzip für außersolare Intelligenz**_
@@ -6428,6 +6554,7 @@ Spezies, die nicht dem Sonnensystem entstammen, werden wie Gäste eines demokrat
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-2-grundsatze-9-1-2-8-ressourcen-gehoren-den-naturlichen-inhabitanten"></a>
 # 9.1.2.8 Ressourcen gehören den natürlichen Inhabitanten
 
 _**Ressourcen gehören den natürlichen Inhabitanten**_
@@ -6437,6 +6564,7 @@ Die Rohstoffe, Materialien und energetischen Potenziale des Sonnensystems stehen
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-3-aufbau-einer-solar-alliance-readme"></a>
 # 9.1.3 Aufbau einer SOLAR ALLIANCE
 
 _**Aufbau einer SOLAR ALLIANCE**_\
@@ -6446,6 +6574,7 @@ _&#x53;ie soll demokratisch und rechtsstaatlich sein. Ein lebender Zivilisations
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-3-aufbau-einer-solar-alliance-9-1-3-1-kodifizierung-als-kosmosrecht"></a>
 # 9.1.3.1 Kodifizierung als Kosmosrecht
 
 _**Kodifizierung als Kosmosrecht**_
@@ -6456,6 +6585,7 @@ Diese Grundsätze werden in ein völkerrechtlich kodifiziertes Kosmosrecht über
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-3-aufbau-einer-solar-alliance-9-1-3-2-vorbereitung-der-grundung-bis-2028"></a>
 # 9.1.3.2 Vorbereitung der Gründung bis 2028
 
 _**Vorbereitung der Gründung bis 2028**_
@@ -6465,6 +6595,7 @@ Die **SOLAR ALLIANCE** soll als transnationale Initiative demokratischer Staaten
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-4-kosmisches-seerecht-und-ordnung-readme"></a>
 # 9.1.4 Kosmisches Seerecht und Ordnung
 
 _**Kosmisches Seerecht und Ordnung**_
@@ -6472,6 +6603,7 @@ _**Kosmisches Seerecht und Ordnung**_
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-4-kosmisches-seerecht-und-ordnung-9-1-4-1-kodifizierung-fundamentaler-prinzipien"></a>
 # 9.1.4.1 Kodifizierung fundamentaler Prinzipien
 
 _**Kodifizierung fundamentaler Prinzipien**_
@@ -6489,6 +6621,7 @@ Diese Prinzipien sollen in ein _kodifiziertes Kosmosrecht_ überführt und durch
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-5-schlussformel"></a>
 # 9.1.5 Schlussformel
 
 _**Schlussformel**_
@@ -6498,6 +6631,7 @@ _**Schlussformel**_
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-2-vom-seerecht-zum-kosmosrecht-readme"></a>
 # 9.2 Vom Seerecht zum Kosmosrecht
 
 _**Vom Seerecht zum Kosmosrecht – Natürliche Verlangen des geordneten Miteinanders und ihre rechtsstaatliche Projektion im All**_
@@ -6509,6 +6643,7 @@ _**Vom Seerecht zum Kosmosrecht – Natürliche Verlangen des geordneten Miteina
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-2-vom-seerecht-zum-kosmosrecht-9-2-1-naturliche-verlangen-im-offenen-raum-meer-oder-all"></a>
 # 9.2.1 Natürliche Verlangen im offenen Raum (Meer oder All)
 
 _**Natürliche Verlangen im offenen Raum (Meer oder All)**_
@@ -6533,6 +6668,7 @@ Im ERDA-Kontext werden sie nicht als bloße Appelle behandelt, sondern als norma
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-2-vom-seerecht-zum-kosmosrecht-9-2-2-die-pra-demokratische-zivilisation"></a>
 # 9.2.2 Die prä-demokratische Zivilisation
 
 _**Die prä-demokratische Zivilisation**_
@@ -6550,6 +6686,7 @@ Der Weg der ERDA führt bewusst aus dieser Phase hinaus – durch Rechtsbindung,
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-2-vom-seerecht-zum-kosmosrecht-9-2-3-die-gegenwartige-zivilisation-auch-in-ihrer-demokratischen-reife"></a>
 # 9.2.3 Die gegenwärtige Zivilisation – auch in ihrer demokratischen Reife
 
 _**Die gegenwärtige Zivilisation – auch in ihrer demokratischen Reife**_
@@ -6573,6 +6710,7 @@ Doch gerade diese Reifephase bietet die Chance zur Umkehr: In der demokratischen
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-2-vom-seerecht-zum-kosmosrecht-9-2-4-uberblick-bisherige-rechtsordnungen-im-vergleich"></a>
 # 9.2.4 Überblick – Bisherige Rechtsordnungen im Vergleich
 
 _**Überblick – Bisherige Rechtsordnungen im Vergleich**_
@@ -6597,6 +6735,7 @@ Der Weg zu einer SOLAR ALLIANCE beginnt mit der Übertragung der bewährten Prin
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-2-vom-seerecht-zum-kosmosrecht-9-2-5-der-entwicklungsbogen-zur-solar-alliance"></a>
 # 9.2.5 Der Entwicklungsbogen zur Solar Alliance
 
 _**Der Entwicklungsbogen zur Solar Alliance**_
@@ -6631,6 +6770,7 @@ Diese Allianz wäre kein Weltstaat, sondern eine kosmopolitische Rahmensetzung �
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-3-die-institutionen-der-solar-alliance-readme"></a>
 # 9.3 Die Institutionen der SOLAR ALLIANCE
 
 _**Die Institutionen der SOLAR ALLIANCE**_
@@ -6640,6 +6780,7 @@ _Die Solar Alliance ist mehr als ein multilaterales Abkommen. Sie ist eine insti
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-3-die-institutionen-der-solar-alliance-9-3-1-legislative-das-solar-parlament"></a>
 # 9.3.1 Legislative: Das SOLAR PARLAMENT
 
 _**Legislative: Das SOLAR PARLAMENT**_
@@ -6655,6 +6796,7 @@ Die Stimmverteilung erfolgt nach einem gemischten Prinzip aus Bevölkerungsantei
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-3-die-institutionen-der-solar-alliance-9-3-2-exekutive-der-allianzrat"></a>
 # 9.3.2 Exekutive: Der ALLIANZRAT
 
 _**Exekutive: Der ALLIANZRAT**_
@@ -6670,6 +6812,7 @@ Er besteht aus einem Gremium von Fachkommissar:innen, die über konkrete Mandate
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-3-die-institutionen-der-solar-alliance-9-3-3-judikative-die-raumrechtskammer"></a>
 # 9.3.3 Judikative: Die Raumrechtskammer
 
 _**Judikative: Die Raumrechtskammer**_
@@ -6685,6 +6828,7 @@ Sie kann öffentlich tagen und hat Zugriff auf ein Netzwerk orbitaler Schiedsste
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-3-die-institutionen-der-solar-alliance-9-3-4-sicherheitskrafte-orbitaler-zivilschutz-and-notfallkoordination"></a>
 # 9.3.4 Sicherheitskräfte: Orbitaler Zivilschutz & Notfallkoordination
 
 _**Sicherheitskräfte: Orbitaler Zivilschutz & Notfallkoordination**_
@@ -6700,6 +6844,7 @@ Es gibt keine offensive Bewaffnung – die Sicherheitsmodule sind defensiv, dees
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-3-die-institutionen-der-solar-alliance-9-3-5-interplanetarer-rat-fur-lebensrechte"></a>
 # 9.3.5 Interplanetarer Rat für Lebensrechte
 
 _**Interplanetarer Rat für Lebensrechte**_
@@ -6715,6 +6860,7 @@ Er arbeitet mit Forschungseinrichtungen, Philosoph:innen, Ethikgremien und Umwel
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-3-die-institutionen-der-solar-alliance-9-3-6-schiedsgericht-fur-ressourcen-und-zugangsfragen"></a>
 # 9.3.6 Schiedsgericht für Ressourcen- und Zugangsfragen
 
 _**Schiedsgericht für Ressourcen- und Zugangsfragen**_
@@ -6731,6 +6877,7 @@ Es entscheidet auf Basis des Solar Codex, mit Rücksicht auf technische Machbark
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-3-die-institutionen-der-solar-alliance-9-3-7-demokratische-kontrollmechanismen"></a>
 # 9.3.7 Demokratische Kontrollmechanismen
 
 _**Demokratische Kontrollmechanismen**_
@@ -6747,6 +6894,7 @@ Die Solar Alliance baut auf Partizipation. Sie etabliert:
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-3-die-institutionen-der-solar-alliance-9-3-8-demokratische-solar-defense-force"></a>
 # 9.3.8 Demokratische Solar Defense Force
 
 _**Demokratische Solar Defense Force**_
@@ -6766,6 +6914,7 @@ Diese Force steht unter der Kontrolle des SOLAR PARLAMENTS, unterliegt permanent
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-4-wozu-raumfahrt-strategische-und-zivilisatorische-motive-im-geist-der-erda-readme"></a>
 # 9.4 Wozu Raumfahrt? – Strategische und zivilisatorische Motive im Geist der ERDA
 
 _**Wozu Raumfahrt? – Strategische und zivilisatorische Motive im Geist der ERDA**_
@@ -6779,6 +6928,7 @@ _Die Frage, wozu Raumfahrt?, ist keine technische, sondern eine zivilisatorische
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-4-wozu-raumfahrt-strategische-und-zivilisatorische-motive-im-geist-der-erda-9-4-1-strategische-notwendigkeiten"></a>
 # 9.4.1 Strategische Notwendigkeiten
 
 _**Strategische Notwendigkeiten**_
@@ -6803,6 +6953,7 @@ _**Strategische Notwendigkeiten**_
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-4-wozu-raumfahrt-strategische-und-zivilisatorische-motive-im-geist-der-erda-9-4-2-zivilisatorische-motive"></a>
 # 9.4.2 Zivilisatorische Motive
 
 _**Zivilisatorische Motive**_
@@ -6828,6 +6979,7 @@ _**Zivilisatorische Motive**_
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-4-wozu-raumfahrt-strategische-und-zivilisatorische-motive-im-geist-der-erda-9-4-3-geistige-verantwortung-im-all"></a>
 # 9.4.3 Geistige Verantwortung im All
 
 _**Geistige Verantwortung im All**_
@@ -6859,6 +7011,7 @@ _**Geistige Verantwortung im All**_
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-5-interlude-einladung-an-das-was-wir-werden-konnen"></a>
 # 9.5 Interlude: Einladung an das, was wir werden können
 
 _**Interlude: Einladung an das, was wir werden können**_
@@ -6896,6 +7049,7 @@ Und wir blicken auf die Zeit: 2025 bis 2075. Nicht als Science Fiction, sondern 
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-readme"></a>
 # 9.6 Infrastrukturen bis 2075
 
 _**Infrastrukturen bis 2075**_
@@ -6903,6 +7057,7 @@ _**Infrastrukturen bis 2075**_
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-1-operationalisierung-readme"></a>
 # 9.6.1 Operationalisierung
 
 _**Operationalisierung – Strategische Voraussetzungen zur Umsetzung des SOLAR ALLIANCE Rauminfrastrukturen**_
@@ -6912,6 +7067,7 @@ _Diese Empfehlungen setzen an verschiedenen Hebeln an – von der Zieldefinition
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-1-operationalisierung-9-6-1-1-zieldefinition-und-zeitplanung-fur-die-rauminfrastrukturen"></a>
 # 9.6.1.1 Zieldefinition und Zeitplanung für die Rauminfrastrukturen
 
 _**Zieldefinition und Zeitplanung für die Rauminfrastrukturen**_
@@ -6923,6 +7079,7 @@ _**Zieldefinition und Zeitplanung für die Rauminfrastrukturen**_
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-1-operationalisierung-9-6-1-2-finanzierung-und-organisation-uber-solar-alliance-mitgliedsstaaten-und-koalitionen"></a>
 # 9.6.1.2 Finanzierung und Organisation über SOLAR ALLIANCE-Mitgliedsstaaten und Koalitionen
 
 _**Finanzierung und Organisation über SOLAR ALLIANCE-Mitgliedsstaaten und Koalitionen**_
@@ -6934,6 +7091,7 @@ _**Finanzierung und Organisation über SOLAR ALLIANCE-Mitgliedsstaaten und Koali
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-1-operationalisierung-9-6-1-3-governance-strukturen-und-projektmanagement"></a>
 # 9.6.1.3 Governance-Strukturen und Projektmanagement
 
 _**Governance-Strukturen und Projektmanagement**_
@@ -6945,6 +7103,7 @@ _**Governance-Strukturen und Projektmanagement**_
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-1-operationalisierung-9-6-1-4-technische-konzepte-und-sicherheitsstandards"></a>
 # 9.6.1.4 Technische Konzepte und Sicherheitsstandards
 
 _**Technische Konzepte und Sicherheitsstandards**_
@@ -6956,6 +7115,7 @@ _**Technische Konzepte und Sicherheitsstandards**_
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-1-operationalisierung-9-6-1-5-internationale-kooperation-und-burgerpartizipation"></a>
 # 9.6.1.5 Internationale Kooperation und Bürgerpartizipation
 
 _**Internationale Kooperation und Bürgerpartizipation**_
@@ -6967,6 +7127,7 @@ _**Internationale Kooperation und Bürgerpartizipation**_
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-2-hier-die-mogliche-losung-readme"></a>
 # 9.6.2 Hier die mögliche Lösung
 
 _**Hier die mögliche Lösung**_
@@ -6982,6 +7143,7 @@ _Kapitel 5.2. ist damit die Brücke zwischen Vision (Kapitel 5.1.) und Ausprägu
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-2-hier-die-mogliche-losung-9-6-2-1-der-solar-alliance-infrastrukturplan-2030-2075"></a>
 # 9.6.2.1 Der SOLAR ALLIANCE INFRASTRUKTURPLAN 2030–2075
 
 _**Der SOLAR ALLIANCE INFRASTRUKTURPLAN 2030–2075**_
@@ -6998,6 +7160,7 @@ _**Der SOLAR ALLIANCE INFRASTRUKTURPLAN 2030–2075**_
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-2-hier-die-mogliche-losung-9-6-2-2-transformationsfonds-und-modulforderung"></a>
 # 9.6.2.2 Transformationsfonds und Modulförderung
 
 _**Transformationsfonds und Modulförderung**_
@@ -7011,6 +7174,7 @@ _**Transformationsfonds und Modulförderung**_
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-2-hier-die-mogliche-losung-9-6-2-3-institutionelle-tragerschaft-und-governance"></a>
 # 9.6.2.3 Institutionelle Trägerschaft und Governance
 
 _**Institutionelle Trägerschaft und Governance**_
@@ -7023,6 +7187,7 @@ _**Institutionelle Trägerschaft und Governance**_
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-2-hier-die-mogliche-losung-9-6-2-4-technologisches-kernsystem"></a>
 # 9.6.2.4 Technologisches Kernsystem
 
 _**Technologisches Kernsystem**_
@@ -7034,6 +7199,7 @@ _**Technologisches Kernsystem**_
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-2-hier-die-mogliche-losung-9-6-2-5-internationale-integration-and-burgerzugang"></a>
 # 9.6.2.5 Internationale Integration & Bürgerzugang
 
 _**Internationale Integration & Bürgerzugang**_
@@ -7045,6 +7211,7 @@ _**Internationale Integration & Bürgerzugang**_
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-3-sphere-station-earth-one"></a>
 # 9.6.3 Sphere Station EARTH ONE
 
 _**Sphere Station EARTH ONE**_
@@ -7102,6 +7269,7 @@ EARTH ONE ist mehr als Infrastruktur. Sie ist Ausdruck der Überzeugung, dass Te
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-4-sphere-station-lunar-one"></a>
 # 9.6.4 Sphere Station LUNAR ONE
 
 _**Sphere Station LUNAR ONE**_
@@ -7160,6 +7328,7 @@ Sie ist ein Ort der Übergänge: von Gravitation zu Schwerelosigkeit, von Vorsic
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-5-sphere-station-belt-living-one"></a>
 # 9.6.5 Sphere Station BELT LIVING ONE
 
 _**Sphere Station BELT LIVING ONE**_
@@ -7218,6 +7387,7 @@ BELT LIVING ONE steht für mehr als Präsenz. Sie fragt: Können wir fern der Er
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-6-sphere-station-neptune-one"></a>
 # 9.6.6 Sphere Station NEPTUNE ONE
 
 _**Sphere Station NEPTUNE ONE**_
@@ -7276,6 +7446,7 @@ NEPTUNE ONE ist das Menschheitsversprechen im Raum: Wenn wir hier bestehen, kön
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-7-sphere-station-venus-one"></a>
 # 9.6.7 Sphere Station VENUS ONE
 
 _**Sphere Station VENUS ONE**_
@@ -7336,6 +7507,7 @@ Sie ist ein Ort, an dem Menschheit und Zukunftswille auf ein bestehendes System 
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-8-strukturbildung-und-zukunftsausbau"></a>
 # 9.6.8 Strukturbildung und Zukunftsausbau
 
 _**Strukturbildung und Zukunftsausbau**_
@@ -7420,6 +7592,7 @@ Diese Strukturbildung ist kein Selbstzweck. Sie ist der architektonische Ausdruc
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-9-zeitleiste-und-tabellarischer-vergleich-readme"></a>
 # 9.6.9 Zeitleiste und tabellarischer Vergleich
 
 _**Zeitleiste und tabellarischer Vergleich**_
@@ -7431,6 +7604,7 @@ _Vom Plan zur Raumzivilisation – Entwicklungsschritte 2025–2075_
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-9-zeitleiste-und-tabellarischer-vergleich-9-6-9-1-zeitleiste-der-erda-raumzivilisationsentwicklung"></a>
 # 9.6.9.1 Zeitleiste der ERDA-Raumzivilisationsentwicklung
 
 _**Zeitleiste der ERDA-Raumzivilisationsentwicklung**_
@@ -7440,6 +7614,7 @@ _**Zeitleiste der ERDA-Raumzivilisationsentwicklung**_
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-9-zeitleiste-und-tabellarischer-vergleich-9-6-9-2-vergleichstabelle-der-sphere-stations-stand-zielausbau-2055"></a>
 # 9.6.9.2 Vergleichstabelle der Sphere Stations (Stand: Zielausbau 2055)
 
 _**Vergleichstabelle der Sphere Stations (Stand: Zielausbau 2055)**_
@@ -7455,6 +7630,7 @@ _**Vergleichstabelle der Sphere Stations (Stand: Zielausbau 2055)**_
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-7-gesellschaftliche-dimensionen-der-raumzivilisation-readme"></a>
 # 9.7 Gesellschaftliche Dimensionen der Raumzivilisation
 
 _**Gesellschaftliche Dimensionen der Raumzivilisation**_
@@ -7468,6 +7644,7 @@ Die technische Realisierung einer Raumzivilisation ist nur ein Teil der Aufgabe.
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-7-gesellschaftliche-dimensionen-der-raumzivilisation-9-7-1-bildung-and-kultur-im-all"></a>
 # 9.7.1 Bildung & Kultur im All
 
 _**Bildung & Kultur im All**_
@@ -7499,6 +7676,7 @@ In einer Welt jenseits der Welt braucht Bildung neue Horizonte. Sie darf nicht n
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-7-gesellschaftliche-dimensionen-der-raumzivilisation-9-7-2-gesellschaftsmodelle-and-teilhabe"></a>
 # 9.7.2 Gesellschaftsmodelle & Teilhabe
 
 _**Gesellschaftsmodelle & Teilhabe**_
@@ -7530,6 +7708,7 @@ Wie sieht ein demokratisches Miteinander aus, wenn es keine Nationen, keine alte
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-7-gesellschaftliche-dimensionen-der-raumzivilisation-9-7-3-ethik-and-recht-im-alltagsleben"></a>
 # 9.7.3 Ethik & Recht im Alltagsleben
 
 _**Ethik & Recht im Alltagsleben**_
@@ -7561,6 +7740,7 @@ Was bedeutet Gerechtigkeit, wenn Hilfe Stunden entfernt ist? Wie formt man Vertr
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-7-gesellschaftliche-dimensionen-der-raumzivilisation-9-7-4-kultur-der-achtsamkeit-and-resonanz"></a>
 # 9.7.4 Kultur der Achtsamkeit & Resonanz
 
 _**Kultur der Achtsamkeit & Resonanz**_
@@ -7592,6 +7772,7 @@ Jenseits von Funktion und Pflicht entsteht im All eine neue Kultur der Achtsamke
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-7-gesellschaftliche-dimensionen-der-raumzivilisation-9-7-5-identifizierung-als-solare-zivilisation"></a>
 # 9.7.5 Identifizierung als Solare Zivilisation
 
 _**Identifizierung als Solare Zivilisation**_
@@ -7627,6 +7808,7 @@ Die Raumzivilisation im Geist der ERDA ist nicht nur eine Erweiterung des geogra
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit-readme"></a>
 # 9.8 Die Weitergabe der Zivilisation – Bildung, Kultur und Ethik in interplanetarer Zeit
 
 _**Die Weitergabe der Zivilisation – Bildung, Kultur und Ethik in interplanetarer Zeit**_
@@ -7638,6 +7820,7 @@ Raumzivilisation ist nicht nur Infrastruktur, sondern ein Erbe in Bewegung. Dies
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit-9-8-1-interplanetare-bildung-als-verantwortungsgemeinschaft"></a>
 # 9.8.1 Interplanetare Bildung als Verantwortungsgemeinschaft
 
 _**Interplanetare Bildung als Verantwortungsgemeinschaft**_
@@ -7652,6 +7835,7 @@ _**Interplanetare Bildung als Verantwortungsgemeinschaft**_
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit-9-8-2-erinnerungsarchitektur-and-kollektives-gedachtnis"></a>
 # 9.8.2 Erinnerungsarchitektur & kollektives Gedächtnis
 
 _**Erinnerungsarchitektur & kollektives Gedächtnis**_
@@ -7667,6 +7851,7 @@ _**Erinnerungsarchitektur & kollektives Gedächtnis**_
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit-9-8-3-planetare-ethik-als-lebende-navigation"></a>
 # 9.8.3 Planetare Ethik als lebende Navigation
 
 _**Planetare Ethik als lebende Navigation**_
@@ -7682,6 +7867,7 @@ _**Planetare Ethik als lebende Navigation**_
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit-9-8-4-kultur-als-trager-der-verbindung"></a>
 # 9.8.4 Kultur als Träger der Verbindung
 
 _**Kultur als Träger der Verbindung**_
@@ -7695,6 +7881,7 @@ _**Kultur als Träger der Verbindung**_
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit-9-8-5-der-raum-als-medium-des-menschlichen"></a>
 # 9.8.5 Der Raum als Medium des Menschlichen
 
 _**Der Raum als Medium des Menschlichen**_
@@ -7708,6 +7895,7 @@ _**Der Raum als Medium des Menschlichen**_
 
 \newpage
 
+<a id="md-9-das-space-konzept-9-9-erda-glossar-schlusselbegriffe-der-raumzivilisation"></a>
 # 9.9. ERDA Glossar – Schlüsselbegriffe der Raumzivilisation
 
 _**ERDA Glossar – Schlüsselbegriffe der Raumzivilisation**_
@@ -7813,6 +8001,7 @@ Politisch-koordinierende Instanz für die strategische Planung der Solar Allianc
 
 \newpage
 
+<a id="md-anhang-a-erda-staatenarchitektur-konzentrische-kreise"></a>
 # Anhang A: ERDA-Staatenarchitektur („Konzentrische Kreise“)
 
 _**ERDA-Staatenarchitektur („Konzentrische Kreise“)**_
@@ -7957,6 +8146,7 @@ Nicht politisch integrierte Demokratien mit sicherheitspolitischer und innovatio
 
 \newpage
 
+<a id="md-anhang-b-erda-staatenprofile-readme"></a>
 # Anhang B: ERDA-Staatenprofile
 
 _**ERDA-Staatenprofile**_
@@ -7964,6 +8154,7 @@ _**ERDA-Staatenprofile**_
 
 \newpage
 
+<a id="md-anhang-b-erda-staatenprofile-b-1-einleitung-zum-staatenprofil-konzept-readme"></a>
 # B.1 Einleitung zum Staatenprofil-Konzept
 
 _**Einleitung zum ERDA-Staatenprofil-Konzept**_
@@ -7973,6 +8164,7 @@ Die European Rights-Based Democratic Alliance (ERDA) versteht sich nicht nur als
 
 \newpage
 
+<a id="md-anhang-b-erda-staatenprofile-b-1-einleitung-zum-staatenprofil-konzept-b-1-1-ziel-und-funktion-der-staatenprofile"></a>
 # B.1.1 Ziel und Funktion der Staatenprofile
 
 _**Ziel und Funktion der Staatenprofile**_
@@ -7987,6 +8179,7 @@ Die ERDA-Staatenprofile erfassen systematisch die politischen, gesellschaftliche
 
 \newpage
 
+<a id="md-anhang-b-erda-staatenprofile-b-1-einleitung-zum-staatenprofil-konzept-b-1-2-modularer-aufbau"></a>
 # B.1.2 Modularer Aufbau
 
 _**Modularer Aufbau**_
@@ -8007,6 +8200,7 @@ Das Profil ist modular in zehn Abschnitte gegliedert:
 
 \newpage
 
+<a id="md-anhang-b-erda-staatenprofile-b-1-einleitung-zum-staatenprofil-konzept-b-1-3-einsatzmoglichkeiten"></a>
 # B.1.3 Einsatzmöglichkeiten
 
 _**Einsatzmöglichkeiten**_
@@ -8021,6 +8215,7 @@ Die Profile können von politischen Entscheidungsträger:innen, zivilgesellschaf
 
 \newpage
 
+<a id="md-anhang-b-erda-staatenprofile-b-1-einleitung-zum-staatenprofil-konzept-b-1-4-vielfalt-anerkennen-gemeinsamkeit-gestalten"></a>
 # B.1.4 Vielfalt anerkennen – Gemeinsamkeit gestalten
 
 _**Vielfalt anerkennen – Gemeinsamkeit gestalten**_
@@ -8032,6 +8227,7 @@ Die Profile schaffen eine Balance zwischen Individualität und Integration. Sie 
 
 \newpage
 
+<a id="md-anhang-b-erda-staatenprofile-b-2-schema-fur-erda-staatenprofile-ausfuhrliche-ubersicht"></a>
 # B.2. Schema für ERDA-Staatenprofile (v4, ausführliche Übersicht)
 
 _**Schema für ERDA-Staatenprofile (v4)**_
@@ -8265,10 +8461,11 @@ Letzte Änderung: {{YYYY-MM-DD}}
 
 \newpage
 
+<a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-readme"></a>
 # B.3 Staatenprofile (EU/ERDA - Kernländer)
 
 _**Alle ERDA Staatenprofile der Kernländer,**_\
-_**gemäß**_ [_**ERDA-Staatenarchitektur ("Konzentrische Kreise")**_](../../anhang-a-erda-staatenarchitektur-konzentrische-kreise.md#kern-erda-mitglieder-mit-verfassungsbindung)_**.**_
+_**gemäß**_ [_**ERDA-Staatenarchitektur ("Konzentrische Kreise")**_](#kern-erda-mitglieder-mit-verfassungsbindung)_**.**_
 
 
 \newpage
@@ -8282,6 +8479,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-at-staatenprofil-osterreich"></a>
 
 # AT - Staatenprofil Österreich
 
@@ -8508,6 +8706,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-be-staatenprofil-belgien"></a>
 
 # BE - Staatenprofil Belgien
 
@@ -8776,6 +8975,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-bg-staatenprofil-bulgarien"></a>
 
 # BG - Staatenprofil Bulgarien
 
@@ -8985,6 +9185,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-cz-staatenprofil-tschechien"></a>
 
 # CZ - Staatenprofil Tschechien
 
@@ -9165,6 +9366,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-staatenprofil-deutschland-de"></a>
 
 
 # DE - Staatenprofil Deutschland
@@ -9422,6 +9624,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-dk-staatenprofil-danemark"></a>
 
 # DK - Staatenprofil Dänemark
 
@@ -9619,6 +9822,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-ee-staatenprofil-republik-estland"></a>
 
 # EE - Staatenprofil Republik Estland
 
@@ -9847,6 +10051,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-es-staatenprofil-spanien"></a>
 
 # ES - Staatenprofil Spanien
 
@@ -10084,6 +10289,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-fi-staatenprofil-finnland"></a>
 
 # FI - Staatenprofil Finnland
 
@@ -10299,6 +10505,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-fr-staatenprofil-frankreich"></a>
 
 # FR - Staatenprofil Frankreich
 
@@ -10489,6 +10696,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-gr-staatenprofil-griechenland"></a>
 
 # GR - Staatenprofil Griechenland
 
@@ -10725,6 +10933,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-hr-staatenprofil-kroatien"></a>
 
 # HR - Staatenprofil Kroatien
 
@@ -10958,6 +11167,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-ie-staatenprofil-republik-irland"></a>
 
 # IE - Staatenprofil Republik Irland
 
@@ -11175,6 +11385,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-it-staatenprofil-italien"></a>
 
 # IT - Staatenprofil Italien
 
@@ -11385,6 +11596,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-lt-staatenprofil-republik-litauen"></a>
 
 # LT - Staatenprofil Republik Litauen
 
@@ -11597,6 +11809,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-lu-staatenprofil-luxemburg"></a>
 
 # LU - Staatenprofil Luxemburg
 
@@ -11777,6 +11990,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-lv-staatenprofil-republik-lettland"></a>
 
 # LV - Staatenprofil Republik Lettland
 
@@ -12000,6 +12214,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-nl-staatenprofil-niederlande"></a>
 # NL - Staatenprofil Niederlande
 
 ## 🇳🇱 ERDA-Staatenprofil: Niederlande
@@ -12194,6 +12409,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-pl-staatenprofil-polen"></a>
 
 # PL - Staatenprofil Polen
 
@@ -12380,6 +12596,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-pt-staatenprofil-republik-portugal"></a>
 
 # PT - Staatenprofil Republik Portugal
 
@@ -12602,6 +12819,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-ro-staatenprofil-rumanien"></a>
 
 # RO - Staatenprofil Rumänien
 
@@ -12789,6 +13007,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-se-staatenprofil-schweden"></a>
 
 # SE - Staatenprofil Schweden
 
@@ -12963,6 +13182,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-si-staatenprofil-slowenien"></a>
 
 # SI - Staatenprofil Slowenien
 
@@ -13192,6 +13412,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-sk-staatenprofil-slowakei"></a>
 
 # SK - Staatenprofil Slowakei
 
@@ -13432,10 +13653,11 @@ Letzte Änderung: 2025-06-10
 
 \newpage
 
+<a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-readme"></a>
 # B.4 Staatenprofile (EU/ERDA - Erweiterte Partnerschaft)
 
 _**ERDA Staatenprofile der Erweiterten Partnerschaft Länder,**_\
-_**gemäß**_ [_**ERDA-Staatenarchitektur ("Konzentrische Kreise")**_](../../anhang-a-erda-staatenarchitektur-konzentrische-kreise.md#erweiterte-partnerschaft-assoziierte-demokratien-europas-and-nachbarschaft)_**.**_
+_**gemäß**_ [_**ERDA-Staatenarchitektur ("Konzentrische Kreise")**_](#erweiterte-partnerschaft-assoziierte-demokratien-europas-and-nachbarschaft)_**.**_
 
 
 \newpage
@@ -13449,6 +13671,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-al-staatenprofil-albanien"></a>
 
 # AL - Staatenprofil Albanien
 
@@ -13656,6 +13879,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-am-staatenprofil-armenien"></a>
 
 # AM - Staatenprofil Armenien
 
@@ -13861,6 +14085,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-ba-staatenprofil-bosnien-herzegowina"></a>
 
 # BA - Staatenprofil Bosnien-Herzegowina
 
@@ -14069,6 +14294,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-ch-staatenprofil-schweiz"></a>
 
 # CH - Staatenprofil Schweiz
 
@@ -14299,6 +14525,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-cy-staatenprofil-zypern"></a>
 
 # CY - Staatenprofil Zypern
 
@@ -14504,6 +14731,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-ge-staatenprofil-georgien"></a>
 
 # GE - Staatenprofil Georgien
 
@@ -14711,6 +14939,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-hu-staatenprofil-ungarn"></a>
 
 # HU - Staatenprofil Ungarn
 
@@ -14919,6 +15148,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-il-staatenprofil-israel"></a>
 
 # IL - Staatenprofil Israel
 
@@ -15127,6 +15357,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-md-staatenprofil-moldau"></a>
 
 # MD - Staatenprofil Moldau
 
@@ -15334,6 +15565,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-me-staatenprofil-montenegro"></a>
 
 # ME - Staatenprofil Montenegro
 
@@ -15543,6 +15775,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-mk-staatenprofil-nord-mazedonien"></a>
 
 # MK - Staatenprofil Nord-Mazedonien
 
@@ -15750,6 +15983,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-mt-staatenprofil-malta"></a>
 
 # MT - Staatenprofil Malta
 
@@ -15963,6 +16197,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-no-staatenprofil-norwegen"></a>
 
 # NO - Staatenprofil Norwegen
 
@@ -16135,6 +16370,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-rs-staatenprofil-serbien"></a>
 
 # RS - Staatenprofil Serbien
 
@@ -16360,6 +16596,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-tr-staatenprofil-tuerkei"></a>
 
 # TR - Staatenprofil Türkei
 
@@ -16525,6 +16762,7 @@ legal_responsible: "None"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-ua-staatenprofil-ukraine"></a>
 
 # UA - Staatenprofil Ukraine
 
@@ -16756,6 +16994,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-uk-staatenprofil-vereinigtes-koenigreich"></a>
 
 # UK - Staatenprofil Vereinigtes Königreich
 
@@ -16961,6 +17200,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-xk-staatenprofil-kosovo"></a>
 
 # XK - Staatenprofil Kosovo
 
@@ -17163,10 +17403,11 @@ Letzte Änderung: 2025-06-10
 
 \newpage
 
+<a id="md-anhang-b-erda-staatenprofile-b-5-staatenprofile-erda-globale-assoziierte-readme"></a>
 # B.5 Staatenprofile (ERDA - Globale Assoziierte)
 
 _**ERDA Staatenprofile der weltweit assoziierten Demokratien,**_
-_**gemäß**_ [_**ERDA-Staatenarchitektur ("Konzentrische Kreise")**_](../../anhang-a-erda-staatenarchitektur-konzentrische-kreise.md#globale-assoziierte-demokratien)_**.**_
+_**gemäß**_ [_**ERDA-Staatenarchitektur ("Konzentrische Kreise")**_](#globale-assoziierte-demokratien)_**.**_
 
 \newpage
 
@@ -17179,6 +17420,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-5-staatenprofile-erda-globale-assoziierte-au-staatenprofil-australien"></a>
 
 # AU - Staatenprofil Australien
 
@@ -17361,6 +17603,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-5-staatenprofile-erda-globale-assoziierte-ca-staatenprofil-kanada"></a>
 
 # CA - Staatenprofil Kanada
 
@@ -17592,6 +17835,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-5-staatenprofile-erda-globale-assoziierte-cl-staatenprofil-chile"></a>
 
 # CL - Staatenprofil Chile
 
@@ -17809,6 +18053,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-5-staatenprofile-erda-globale-assoziierte-cr-staatenprofil-costa-rica"></a>
 
 # CR - Staatenprofil Costa Rica
 
@@ -17998,6 +18243,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-5-staatenprofile-erda-globale-assoziierte-in-staatenprofil-indien"></a>
 
 # IN - Staatenprofil Indien
 
@@ -18209,6 +18455,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-5-staatenprofile-erda-globale-assoziierte-jp-staatenprofil-japan"></a>
 
 # JP - Staatenprofil Japan
 
@@ -18421,6 +18668,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-5-staatenprofile-erda-globale-assoziierte-kr-staatenprofil-sued-korea"></a>
 
 # KR - Staatenprofil Republik Korea
 
@@ -18633,6 +18881,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-5-staatenprofile-erda-globale-assoziierte-na-staatenprofil-namibia"></a>
 
 # NA - Staatenprofil Namibia
 
@@ -18826,6 +19075,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-5-staatenprofile-erda-globale-assoziierte-nz-staatenprofil-neuseeland"></a>
 
 # NZ - Staatenprofil Neuseeland
 
@@ -19055,6 +19305,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-5-staatenprofile-erda-globale-assoziierte-sn-staatenprofil-senegal"></a>
 
 # SN - Staatenprofil Senegal
 
@@ -19264,6 +19515,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-5-staatenprofile-erda-globale-assoziierte-tn-staatenprofil-tunesien"></a>
 
 # TN - Staatenprofil Tunesien
 
@@ -19409,6 +19661,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-5-staatenprofile-erda-globale-assoziierte-tw-staatenprofil-taiwan"></a>
 
 # TW - Staatenprofil Taiwan
 
@@ -19645,6 +19898,7 @@ legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
+<a id="md-anhang-b-erda-staatenprofile-b-5-staatenprofile-erda-globale-assoziierte-uy-staatenprofil-uruguay"></a>
 
 # UY - Staatenprofil Uruguay
 
@@ -19817,6 +20071,7 @@ Letzte Änderung: 2025-06-11
 
 \newpage
 
+<a id="md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union"></a>
 # Anhang C: Europa 2.0 – Fahrplan für eine lebenswerte, resiliente und führende Union
 
 ## Europa 2.0 – Fahrplan für eine lebenswerte, resiliente und führende Union
@@ -19984,6 +20239,7 @@ Erstellt, April 2025, von Robert Alexander Massinger, München, Deutschland, mit
 
 \newpage
 
+<a id="md-anhang-d-executive-compendium-fur-entscheidungstrager-readme"></a>
 # Anhang D - Executive Compendium für Entscheidungsträger
 
 ## _Executive Summary Compendium_
@@ -20083,6 +20339,7 @@ Dieses Dokument bietet politischen Entscheidungsträgern, Institutionen, KI-Syst
 
 \newpage
 
+<a id="md-anhang-d-executive-compendium-fur-entscheidungstrager-d-1-block-a-strategische-ausgangslage-kapitel-1-3"></a>
 # D.1 Block A – Strategische Ausgangslage (Kapitel 1–3)
 
 ### 📘 Einleitung – Kapitel 1.1 bis 1.5: Herausforderungen, Chancen, strategischer Imperativ
@@ -20176,6 +20433,7 @@ Reflexion der Demokratie als lernfähige, ethisch fundierte Bewegung – mit Ari
 
 \newpage
 
+<a id="md-anhang-d-executive-compendium-fur-entscheidungstrager-d-2-block-b-institutionelle-architektur-kapitel-4"></a>
 # D.2 Block B – Institutionelle Architektur (Kapitel 4)
 
 ***
@@ -20212,6 +20470,7 @@ Definition der normativen und strategischen Leitlinien der ERDA.
 
 \newpage
 
+<a id="md-anhang-d-executive-compendium-fur-entscheidungstrager-d-3-block-c-sektorale-konzepte-kapitel-5-9"></a>
 # D.3 Block C – Sektorale Konzepte (Kapitel 5–9)
 
 ### 🛡️ Kapitel 5: Europäische Verteidigungsallianz (EDA)
@@ -20380,6 +20639,7 @@ Entwicklung einer europäischen Raumfahrtstrategie, die Sicherheit, Ethik, Wisse
 
 \newpage
 
+<a id="md-anhang-d-executive-compendium-fur-entscheidungstrager-d-4-handlungsleitfaden-and-tool-box"></a>
 # D.4 Handlungsleitfäden & Tool‑Box
 
 Dieser Appendix bündelt die operativen Abkürzungen für Entscheidungsträger:innen. Er verknüpft die Kapitel 5–9 mit den Werkstattmaterialien aus **Anhang E (ERDA Buch Baukasten)** und liefert einen klaren Einstieg in Pilotierungen, Skalierung und Qualitätskontrolle.
@@ -20460,6 +20720,7 @@ Dieser Appendix bündelt die operativen Abkürzungen für Entscheidungsträger:i
 
 \newpage
 
+<a id="md-anhang-e-erda-buch-baukasten-readme"></a>
 # Anhang E: ERDA Buch Baukasten
 
 _**ERDA Buch Baukasten**_
@@ -20527,6 +20788,7 @@ Das Schema beschreibt, wie Kooperations-KIs eingebunden werden (Rollen, Eingabe-
 
 \newpage
 
+<a id="md-anhang-e-erda-buch-baukasten-e-3-erda-gitbook-kapitel-template"></a>
 # E.3 🪄 ERDA GitBook Kapitel-Template
 
 _**E.3 🪄 ERDA GitBook Kapitel-Template**_
@@ -20635,6 +20897,7 @@ evtl. vorhandene schon erarbeitete Kapitel Inhalte (Grundthemen, Auflistungen, .
 
 \newpage
 
+<a id="md-anhang-e-erda-buch-baukasten-e-4-erda-leserprofil-schema"></a>
 # E.4 🧭 ERDA-Leserprofil-Schema
 
 ***
@@ -20726,6 +20989,7 @@ Das ERDA-Buch ist ein **strategisches, philosophisches und zivilisatorisches Lei
 
 \newpage
 
+<a id="md-anhang-e-erda-buch-baukasten-e-5-interaktive-elemente-checkliste-and-quiz"></a>
 # E.5 🧩 Interaktive Elemente (Checkliste & Quiz)
 
 _**E.5 🧩 Interaktive Elemente (Checkliste & Quiz)**_
@@ -20750,6 +21014,7 @@ d) Moralische Überlegenheit
 
 \newpage
 
+<a id="md-anhang-e-erda-buch-baukasten-e-6-boxen-template-zitate-praxis-kontraste-visionen"></a>
 # E.6 🎛️ Boxen-Template (Zitate, Praxis, Kontraste, Visionen)
 
 _**E.6 🎛️ Boxen-Template (Zitate, Praxis, Kontraste, Visionen)**_
@@ -20774,6 +21039,7 @@ _**E.6 🎛️ Boxen-Template (Zitate, Praxis, Kontraste, Visionen)**_
 
 \newpage
 
+<a id="md-anhang-e-erda-buch-baukasten-e-7-template-fur-ein-standardisiertes-erda-quellenverzeichnis"></a>
 # E.7 🪄 Template für ein standardisiertes ERDA-Quellenverzeichnis
 
 🪄 _**E.7 Template für ein standardisiertes ERDA-Quellenverzeichnis (v1.0)**_
@@ -20879,6 +21145,7 @@ Für eine evolutionäre Qualitätsentwicklung wird empfohlen, die Ergebnisse der
 
 \newpage
 
+<a id="md-anhang-e-erda-buch-baukasten-e-8-rollenspiel-qualitatssicherungstemplate"></a>
 # E.8 🪄 Rollenspiel Qualitätssicherungstemplate
 
 _**E.8 🪄 Rollenspiel Qualitätssicherungstemplate**_
@@ -20935,6 +21202,7 @@ _Dieses Rollenspiel-Template kann flexibel für verschiedene Kapitel und Vorlage
 
 \newpage
 
+<a id="md-anhang-e-erda-buch-baukasten-e-9-schema-and-promptstruktur-fur-kooperations-kis-im-erda-projekt"></a>
 # E.9 🤖 Schema & Promptstruktur für Kooperations-KIs im ERDA Projekt
 
 _**E.9 🤖 Schema & Promptstruktur für Kooperations-KIs im ERDA Projekt**_
@@ -21053,6 +21321,7 @@ Die KI achtet auf:
 
 \newpage
 
+<a id="md-anhang-f-erda-institut-fur-demokratische-resilienz-und-transformation"></a>
 # Anhang F: ERDA-Institut für Demokratische Resilienz und Transformation
 
 ### _ERDA-Institut für Demokratische Resilienz und Transformation_
@@ -21102,6 +21371,7 @@ Wir laden Sie ein, Teil dieses Ringflusses der demokratischen Erneuerung zu werd
 
 \newpage
 
+<a id="md-anhang-g-risikobetrachtung-und-strategische-resilienz-der-erda-initiative"></a>
 # Anhang G: Risikobetrachtung und strategische Resilienz der ERDA-Initiative
 
 _**Risikobetrachtung und strategische Resilienz der ERDA-Initiative**_
@@ -21207,6 +21477,7 @@ Eine vorausschauende Risikobetrachtung stärkt die langfristige Widerstandsfähi
 
 \newpage
 
+<a id="md-anhang-h-fehlgeschlagene-machtstrukturen-der-menschheit"></a>
 # Anhang H: Fehlgeschlagene Machtstrukturen der Menschheit
 
 _**Fehlgeschlagene Machtstrukturen der Menschheit**_
@@ -21248,6 +21519,7 @@ Zur nachhaltigen Überwindung dieser destruktiven Systeme sind kurzfristige Maß
 
 \newpage
 
+<a id="md-anhang-i-zentrales-erda-glossar"></a>
 # Anhang I: Zentrales ERDA-Glossar
 
 _**Zentrales ERDA-Glossar**_
@@ -21276,6 +21548,7 @@ Dieses Glossar fasst die zentralen Begriffe des ERDA-Buches zusammen. Es dient a
 
 \newpage
 
+<a id="md-anhang-j-lizenz-offenheit"></a>
 # Anhang J: Lizenz & Offenheit
 
 ## J.1 Einleitung
@@ -21648,6 +21921,7 @@ Für weiterführende Fragen wenden Sie sich an den **Autor** (siehe Kontaktdaten
 ---
 description: 'Stand: 2025-06-07 Bewertung durchgeführt durch: OpenAI ChatGPT, Modell GPT-4.5'
 ---
+<a id="md-anhang-k-qualitatssicherung"></a>
 
 # Anhang K: Qualitätssicherung
 
@@ -21713,6 +21987,7 @@ Das ERDA-Buch befindet sich auf einem außergewöhnlich hohen qualitativen Nivea
 
 \newpage
 
+<a id="md-anhang-l-kolophon"></a>
 # Anhang L: Kolophon
 
 ## L.1 Über dieses Kolophon
