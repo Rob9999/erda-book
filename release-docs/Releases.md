@@ -1,11 +1,11 @@
 # Release History
 
-## 1.0.2 – mid to late December 2025 
+## 1.0.2 – 1 Jan 2026
 - **Responsible:** Robert Alexander Massinger (Lead) with the ERDA community translation workgroup.
 - **Goal:** 
   - Technical: 
     - Build a translation workspace, align metadata with the next release cycle and document translation rules. 
-    - The gitbook_worker tool comes from a pip-installable package (WIP).
+    - The gitbook_worker tool comes from a pip-installable package.
     - Reorganize repository structure: `/de` for German version, `/en` for English version.
   - Informational: 
     - Publish the British English version "The ERDA Book".
