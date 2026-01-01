@@ -88,12 +88,12 @@ jobs:
         id: langs
         run: |
           set -euo pipefail
-          langs=$(grep -E '^\s*- id:' content.yaml | awk '{print $3}')
+          langs=$(grep -E '^\s*- id:' content.yaml | awk '{print $3}' | tr '\n' ' ' | sed 's/[[:space:]]*$//')
           if [ -z "$langs" ]; then
             echo "No content ids found" >&2
             exit 1
           fi
-          echo "list=$langs" >> "$GITHUB_OUTPUT"
+          echo "list=${langs}" >> "$GITHUB_OUTPUT"
           echo "Detected: $langs"
 
       - name: Set up Docker Buildx (fallback build)
