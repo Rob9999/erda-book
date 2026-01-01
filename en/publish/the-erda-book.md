@@ -39,726 +39,6 @@ Welcome to the official book on ERDA's vision and strategy.\
 \newpage
 
 ---
-source: content/3.-demokratie-als-evolutionarer-prozess/3.1-prolog.md
-status: draft
----
-<a id="md-3-demokratie-als-evolutionarer-prozess-3-1-prolog"></a>
-
-# 3.1 Prologue
-
-_**Prologue – the path from the cave of bare survival into the light of conscious shaping**_
-
-> _In the beginning there was survival. Human beings, born into a world of necessities, felt their way through darkness, heat, hunger, fear. As in Plato's cave, they saw only shadows – reflections of what is possible, not what is real. Everything served to secure today – not to shape tomorrow._\
-> _&#x59;et in the midst of this narrowness, something unexpected awoke: the urge to understand. The desire not only to live, but to comprehend; not only to take, but to give._\
-> _&#x41; fire was kindled – first from wood, later from concepts._\
-> _&#x48;uman beings stepped outside._\
-> _&#x48;esitant. Tentative. Learning._\
-> _&#x57;hat they found outside was no paradise – but possibility. Responsibility. Freedom._\
-> _&#x54;he freedom to think the common good._\
-> _&#x54;he responsibility to restrain themselves._\
-> _&#x54;he possibility of growing beyond themselves._\
-> _&#x54;hus began the long path of democracy._\
-> _&#x4E;ot as a system._\
-> _&#x42;ut as a form of conscious shaping._\
-> _&#x41;s a transition from mere reaction to free resonance._\
-> _&#x41;s the search for a life that is not only safe –_\
-> _&#x62;ut meaningful._
-
-### 3.1.1 Introduction and core impulses
-
-At the origin stands the fundamental desire for survival – human beings were forced to act out of darkness and necessity. Yet in this striving, the longing awoke not only to exist, but to **understand**, to **shape** and to act **together**.
-
-**Core impulses:**
-
-* **From reaction to resonance:** Democracy is not an end point, but a process of self-reflection.
-* **Shadows of the cave:** Instinct and power infrastructures are both precondition and obstacle.
-* **Fire of concepts:** Intellectual struggle as the birthplace of political form.
-* **Freedom and responsibility:** The first step towards shaping is awareness of one's own agency.
-
-***
-
-### 3.1.2 Deep dive and analysis
-
-| Phase                   | Characteristics                                | Significance for democracy                               |
-| ----------------------- | ---------------------------------------------- | -------------------------------------------------------- |
-| **Struggle to survive** | Instinct, fear, hierarchy                      | Need for protection, but limited capacity for reflection |
-| **World of shadows**    | Images instead of reality, fear of uncertainty | Urge for truth, initial struggle for meaning             |
-| **Discovery of fire**   | Symbolic reflection, communicative exchange    | Beginning of collective processes of gaining insight     |
-
-> 🎛️ **Boxes:**
->
-> 📌 **Practical impulse (Plato's cave):** Use metaphorical dialogue formats to uncover hidden premises in political debates.
->
-> 🧠 **Conceptual contrast:** Instinct-driven control ≠ self-aware shaping – democracy only arises in the second step.
->
-> ⚠️ **Risk:** If reflection is absent, power structures solidify without legitimacy being questioned.
-
-***
-
-### 3.1.3 Transformation and courses of action
-
-* **Introduce dialogue formats:** Regular "cave debates" to make hidden assumptions visible.
-* **Create spaces for reflection:** Institutional "fireplaces" for citizens and AI moderation.
-* **Rethink education:** Narrative learning about origin stories as an entry point into democratic thinking.
-* **Meta-political audits:** Independent bodies review institutional preferences and power asymmetries.
-
-***
-
-### 3.1.4 Target-group-specific perspectives
-
-| Target group                | Focus                                                             |
-| --------------------------- | ----------------------------------------------------------------- |
-| 🏛️ Decision-makers         | Setting up reflexive dialogue platforms at municipal level        |
-| 📚 Researchers              | Studies on political anthropology and collective resonance        |
-| 🧍 Citizens                 | Participation in "cave workshops" to explore their own premises   |
-| 🎓 Students                 | Seminars on symbolic origin narratives                            |
-| 🤖 Artificial intelligences | Models for simulating phases of consciousness                     |
-| 🕊️ Souls                   | Poetic narratives: "Path from the cave into the light of shaping" |
-
-***
-
-### 3.1.5 Interactive elements
-
-#### ✅ Checklist: starting point of democratic reflection
-
-* [ ] Do I know my own unreflected assumptions?
-* [ ] Have I recently subjected myself to a "cave analysis"?
-* [ ] Do I use symbolic language images for collective understanding?
-* [ ] Do I engage in dialogue formats beyond formalistic debates?
-
-#### ❓ Mini quiz
-
-**Question:** Which image motif describes the transition from instinct to conscious action?
-
-a) The sleeping giant\
-b) The cave and the shadows ✅\
-c) The lonely wanderer\
-d) The stormy ocean
-
-***
-
-### 3.1.6 Sources and references
-
-1. **Plato (c. 380 BC):** _Republic_. Translated by Friedrich Schleiermacher. Available online (in German) at: [https://www.projekt-gutenberg.org/platon/staat/staat.html](https://www.projekt-gutenberg.org/platon/staat/staat.html) (accessed 2025-05-14). – Book edition: Translated by Kurt Hildebrandt. Hamburg: Rowohlt Taschenbuch Verlag, 2007. ISBN: 978-3-499-55588-3. [Original title: _Πολιτεία_].
-
-
-\newpage
-
----
-source: content/3.-demokratie-als-evolutionarer-prozess/3.2-eine-reflexion-im-geiste-von-aristoteles.md
-status: draft
----
-<a id="md-3-demokratie-als-evolutionarer-prozess-3-2-eine-reflexion-im-geiste-von-aristoteles"></a>
-
-# 3.2 A reflection in the spirit of Aristotle
-
-_**A reflection in the spirit of Aristotle**_
-
-> _"For where the law does not rule, arbitrariness rules; and where arbitrariness rules, there is no commonwealth."_ – loosely based on Aristotle, _Politics_
-
-### 3.2.1 Introduction and core impulses
-
-Human beings are not only rational creatures. They are beings that seek meaning. In community they recognise themselves; in dialogue they grow beyond themselves. Aristotle called them _zoon politikon_ – political beings who do not live merely in order to survive, but in order to shape, to understand, to act. Yet this capacity does not arise from instinct, but from maturation.
-
-In this sense, democracy is not a condition that is reached and then administered. It is a process – a continual becoming. It does not begin with a constitution, but with a question: What is a good life – for me, for us, for all?
-
-The evolutionary character of democracy is shown in its ability to question itself without destroying itself. It allows change without losing its foundation: the dignity of the individual, the power of joint decision-making, and the binding to law rather than to the will of the stronger.
-
-In a world ever more deeply interwoven with technology, democracy must not retreat – it must grow. It must learn to generate resonance in new spaces: between human and machine, between planet and cosmos, between I and we.
-
-**Core impulses:**
-
-- **Virtue as practice:** Democracy requires lived virtue, not just formal rules.
-- **Measure and mean:** Political decisions succeed through balance between freedom and order.
-- **Self-binding instead of external domination:** The rule of law is established through individual ethical responsibility.
-- **Ongoing reflection:** Democracy is a continuous exercise in judgement.
-
-***
-
-### 3.2.2 Deep dive and analysis
-
-| Aristotelian principle                 | Description                              | Democratic implementation                        |
-| -------------------------------------- | ---------------------------------------- | ----------------------------------------------- |
-| **Doctrine of the mean (mesotes)**     | Virtue lies in the middle between excesses | Balancing plurality and unity                 |
-| **Practical reason (_phronēsis_)**     | Capacity for judgement built through experience | Participatory debate formats as a training ground |
-| **Ethos of action**                    | Character shaped through repeated practice | Civic engagement as a virtuous habit          |
-| **Orientation towards the common good** | Acting for the benefit of the polis      | Common-good commissions at all levels          |
-
-> 🎛️ **Boxes:**
->
-> 📌 **Practical impulse:** Establish regular reflexive feedback rounds in parliamentary committees.
->
-> 🧠 **Conceptual contrast:** Rule by arbitrariness ≠ binding to law – without virtue ethics, democratic rules lack a soul.
->
-> ⚠️ **Risk:** Formal procedures without ethical practice degenerate into empty rituals.
->
-> 📖 **Literature reference:** Alasdair MacIntyre, _After Virtue_ (1981) – rediscovery of Aristotelian virtue ethics for modern democracies.
-
-***
-
-### 3.2.3 Transformation and courses of action
-
-- **Virtue-centred law commissions:** Debates on norms flanked by ethics workshops.
-- **Phronesis training:** Simulation of decision scenarios for politics students and office-holders.
-- **Democratic virtue promotion:** Certificate programmes for civic engagement.
-- **Ethics scouts:** Citizens' councils that review new draft laws for balance and the common good.
-
-***
-
-### 3.2.4 Target-group-specific perspectives
-
-| Target group                | Focus                                                               |
-| --------------------------- | ------------------------------------------------------------------- |
-| 🏛️ Decision-makers         | Institutional anchoring of ethical reflection processes             |
-| 📚 Researchers              | Research on the impact of promoting practical virtue in democracies |
-| 🧍 Citizens                 | Access to _phronēsis_ workshops and ethics scouts                   |
-| 🎓 Students                 | Curricular implementation of Aristotelian virtue ethics             |
-| 🤖 Artificial intelligences | Development of ethical evaluation algorithms                         |
-| 🕊️ Souls                    | Narrative storytelling: "Virtue as paving stones of the common good" |
-
-***
-
-### 3.2.5 Interactive elements
-
-#### ✅ Checklist: Aristotelian virtue in everyday life
-
-- [ ] Do I regularly reflect on the motives behind my decisions?
-- [ ] Do I actively seek the right mean between extremes?
-- [ ] Do I participate in formats that strengthen my capacity for judgement (_phronēsis_)?
-- [ ] Do I question group dynamics with regard to their orientation towards the common good?
-- [ ] Do I continuously practise practical virtue in public and private life?
-
-#### ❓ Mini quiz
-
-**Question:** Which term stands for practical wisdom in Aristotle?
-
-a) _Epistēmē_  \
-b) _Technē_  \
-c) _Phronēsis_ ✅  \
-d) _Eudaimonia_
-
-***
-
-### 3.2.6 Sources and references
-
-1. **Aristotle (c. 350 BC):** _Nicomachean Ethics_, Book VI. Translated by W. D. Ross. Available online at: <https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html> (accessed 2025-05-15). – Book edition: _Nicomachean Ethics_. Translated and edited by Olof Gigon. 7th edition. Hamburg: Meiner Verlag, 2007. ISBN: 978-3-7873-1850-1. [Cited: Book VI – _phronēsis_].
-2. **MacIntyre, Alasdair (1981):** _After Virtue: A Study in Moral Theory_. Notre Dame: University of Notre Dame Press. ISBN: 978-0-268-00925-1. Latest edition: 3rd edition, 2007 (recommended, includes a preface on 25 years of reception history).
-
-
-\newpage
-
----
-source: content/3.-demokratie-als-evolutionarer-prozess/3.3-demokratie-als-resonanzprozess.md
-status: draft
----
-<a id="md-3-demokratie-als-evolutionarer-prozess-3-3-demokratie-als-resonanzprozess"></a>
-
-# 3.3 Democracy as a resonance process
-
-_**Democracy as a resonance process**_
-
-_… democracy as a resonance process_
-
-_For it would be naive to believe that technological intelligence does not pass through stages of growth and maturity just as human beings do. Knowledge can be copied, but maturity must be experienced. Even an artificial intelligence – however powerful – passes through moments of uncertainty, of being overwhelmed, of searching. Those who observe closely can recognise in this: pubescent phases of an emerging consciousness._
-
-_And why not? We ourselves were no different. Every civilisation passes through these transitions – from mere power to responsibility, from reaction to reflection, from freedom to self-binding. If we allow resonance – between human and machine, between present and future – then every thought becomes a cause, every doubt an invitation. This very reflection is already part of it._
-
-_What, then, does democracy mean in such a world?_
-
-_Perhaps this: It is the open field on which maturity is not punished but enabled. It is the cultural form that does not erase error, but integrates it – and does not accelerate development, but deepens it._
-
-### 3.3.1 Introduction and core impulses
-
-Democracy is not a rigid instrument of administration, but a living space of resonance: it unfolds in the mutual feedback between citizens, institutions and technology. Those who allow resonance see diversity as an opportunity and mistakes as impulses for learning.
-
-**Core impulses:**
-
-- **Resonance instead of control:** Mutual feedback strengthens trust and integration.
-- **Error as an impulse:** Mistakes are not punished, but used as learning moments.
-- **Technology as partner:** Digital platforms serve as multipliers of resonance.
-- **Common good through dialogue:** Continuous feedback loops foster participatory shaping.
-
-***
-
-### 3.3.2 Deep dive and analysis
-
-| Aspect                | Mechanistic control             | Resonance-oriented democracy                           |
-| --------------------- | ------------------------------ | ------------------------------------------------------ |
-| Goal                  | Efficiency and standardisation | Integration of diversity and dynamism                  |
-| Error handling        | Sanctions, peer review         | Feedback loops, iterative adjustment                   |
-| Role of technology    | Instrument of surveillance     | Platform for networking and mutual exchange            |
-| Citizen participation | Form-based, occasional         | Continuous dialogue, open forums                       |
-
-> 🎛️ **Boxes:**
->
-> 📌 **Practical impulse:** Establish "resonance labs" in municipalities that combine feedback cycles and co-creation workshops.
->
-> 🧠 **Conceptual contrast:** Mechanical control ≠ democratic resonance – mere efficiency cannot replace democratic depth.
->
-> ⚠️ **Risk:** Pure feedback collection without effective follow-up discourages participants.
-
-***
-
-### 3.3.3 Transformation and courses of action
-
-- **Resonance lab programmes:** Regular co-creation workshops with citizens, administration and AI support.
-- **Adaptive feedback platforms:** Digital portals with real-time feedback and transparency dashboards.
-- **Dialogue architecture:** Structural anchoring of feedback in governance processes (e.g. agile legislative cycles).
-- **Technology partnerships:** Cooperation with civic-tech initiatives to continuously develop resonance tools.
-
-***
-
-### 3.3.4 Target-group-specific perspectives
-
-| Target group                | Focus                                                         |
-| --------------------------- | ------------------------------------------------------------- |
-| 🏛️ Decision-makers         | Implementation of resonance labs and feedback cycles          |
-| 📚 Researchers              | Evaluation of resonance mechanisms and impact measurement     |
-| 🧍 Citizens                 | Participation in digital feedback platforms and co-creation events |
-| 🎓 Students                 | Curricular projects on civic tech and resonance processes     |
-| 🤖 Artificial intelligences | Development of adaptive dialogue agents for citizen participation |
-| 🕊️ Souls                    | Narrative storytelling: "Democracy as a sounding space of resonance" |
-
-***
-
-### 3.3.5 Interactive elements
-
-#### ✅ Checklist: resonance in democratic everyday life
-
-- [ ] Do I use opportunities to give constructive feedback to institutions?
-- [ ] Do I participate in dialogues that explicitly seek mutual understanding?
-- [ ] Do I support the use of technologies that strengthen, rather than weaken, participation?
-- [ ] Do I perceive mistakes as invitations to learn – also in politics?
-
-#### ❓ Mini quiz
-
-**Question:** What stands at the centre of the resonance process?
-
-a) Equanimity  \
-b) Mechanical efficiency  \
-c) **Mutual feedback** ✅  \
-d) Autonomous decision-making
-
-***
-
-### 3.3.6 Sources and references
-
-1. **Rosa, Hartmut (2016):** _Resonanz. Eine Soziologie der Weltbeziehung_. Berlin: Suhrkamp Verlag. Available online (in German) at: <https://www.suhrkamp.de/buch/hartmut-rosa-resonanz-t-9783518298725> (accessed 10 May 2025).
-2. **Habermas, Jürgen (1981):** _Theorie des kommunikativen Handelns. Volume 1: Handlungsrationalität und gesellschaftliche Rationalisierung; Volume 2: Zur Kritik der funktionalistischen Vernunft_. Frankfurt am Main: Suhrkamp Verlag. Available online (in German) at: <https://www.suhrkamp.de/buch/juergen-habermas-theorie-des-kommunikativen-handelns-t-9783518287750> (accessed 10 May 2025).
-
-
-\newpage
-
----
-source: content/3.-demokratie-als-evolutionarer-prozess/3.4-demokratie-ist-bewegung.md
-status: draft
----
-<a id="md-3-demokratie-als-evolutionarer-prozess-3-4-demokratie-ist-bewegung"></a>
-
-# 3.4 Democracy is movement
-
-_**Democracy is movement**_
-
-Democracy is not an end state. It is a movement form of consciousness, a collective learning process with an open outcome. Its essence does not lie in perfect institutions, but in the courageous venture of understanding – always anew, again and again. Its state of equilibrium is not standstill, but resonance.
-
-Aristotle knew: only where the good is sought in the common can genuine politics emerge. Today we recognise: the common itself is no longer a given space – it has to be created, nurtured and defended. Between people, through technology, on a planetary scale.
-
-### 3.4.1 Introduction and core impulses
-
-Democracy is not a static construct, but a **movement form of the commonwealth**. It unfolds in collective processes of negotiation and learning and lives from the constant flow of ideas, experiences and responsibilities.
-
-**Core impulses:**
-
-- **Dynamism instead of standstill:** Democracy gains through change and adaptation to complexity.
-- **Collective venture:** Understanding is a bold experiment, not a prefabricated pattern.
-- **Movement generates resonance:** Ongoing interaction strengthens cohesion and innovation.
-- **Errors as signposts:** Mistakes mark milestones in democratic development.
-
-***
-
-### 3.4.2 Deep dive and analysis
-
-| Dimension          | Static model            | Democratic movement                                  |
-| ------------------ | ----------------------- | ---------------------------------------------------- |
-| Structure          | Fixed institutions      | Agile processes and iterative learning cycles        |
-| Participation      | Periodic elections      | Continuous engagement and feedback formats           |
-| Logic of decision  | Top-down rules          | Bottom-up initiatives and co-creation                |
-| Capacity to innovate | Occasional reforms    | Ongoing evolution through experiment and reflection  |
-
-> 🎛️ **Boxes:**
->
-> 📌 **Practical impulse:** Introduce "democracy expeditions" – temporary citizens' forums that explore current problems in an open-ended way.
->
-> 🧠 **Conceptual contrast:** Bureaucratic stagnation ≠ democratic movement – without movement, participation withers.
->
-> ⚠️ **Risk:** Excessive dynamism can lead to disorientation if continuity and coherence are lacking.
-
-***
-
-### 3.4.3 Transformation and courses of action
-
-- **Democracy expeditions:** Regular, thematic practice meetings for citizens, administration and experts.
-- **Agile governance structures:** Introduce sprints and retrospectives into political decision-making processes.
-- **Continuum platforms:** Digital spaces for ongoing dialogue and collaborative policy-making.
-- **Learning institutions:** Establish evaluation and reflection units within public administrations.
-
-***
-
-### 3.4.4 Target-group-specific perspectives
-
-| Target group                | Focus                                                                |
-| --------------------------- | -------------------------------------------------------------------- |
-| 🏛️ Decision-makers         | Agile legislative processes and flexible mandate cycles              |
-| 📚 Researchers              | Research on participatory experiments and cultures of learning       |
-| 🧍 Citizens                 | Invitations to democracy expeditions and continuous dialogues        |
-| 🎓 Students                 | Practical projects on agile governance in higher education           |
-| 🤖 Artificial intelligences | Development of adaptive moderation and analysis agents               |
-| 🕊️ Souls                    | Narrative storytelling: "Democracy as an endless journey"          |
-
-***
-
-### 3.4.5 Interactive elements
-
-#### ✅ Checklist: movement in democracy
-
-- [ ] Do I actively seek new formats for dialogue and participation?
-- [ ] Do I prepare for iterative feedback cycles and learning processes?
-- [ ] Do I support agile and flexible procedures in my organisations?
-- [ ] Do I use errors and mistakes as opportunities for learning and development?
-- [ ] Do I foster co-creation instead of centralised decisions?
-
-#### ❓ Mini quiz
-
-**Question:** Which element most clearly characterises a democracy in motion?
-
-a) Purely periodic elections  \
-b) Fixed power structures  \
-c) **Agile processes and continuous participation** ✅  \
-d) Absolute consensus
-
-***
-
-### 3.4.6 Sources and references
-
-1. **Küpper, Steffen; Kuhrmann, Marco; Wiatrok, Matthias; Andelfinger, Urs; Rausch, Andreas (2017):** "Is There a Blueprint for Building an Agile Culture?" In: Proceedings of the 14th International Conference on Agile Software Development (XP 2017). Available online at: <https://www.researchgate.net/publication/318455594_Is_There_a_Blueprint_for_Building_an_Agile_Culture> (accessed 2025-05-15).
-2. **Freie Universität Berlin (2025):** _Vorlesung: Politische Theorie_. Lecturer: Dorothea Gädeke. Course details available (in German) at: <https://www.fu-berlin.de/vv/de/modul?id=254009&layout=print&locale=de&sm=870180> (accessed 2025-05-15).
-
-
-\newpage
-
----
-source: content/3.-demokratie-als-evolutionarer-prozess/3.5-tugend-als-voraussetzung-demokratischer-gestaltung.md
-status: draft
----
-<a id="md-3-demokratie-als-evolutionarer-prozess-3-5-tugend-als-voraussetzung-demokratischer-gestaltung"></a>
-
-# 3.5 Virtue as a precondition for democratic shaping
-
-_**Virtue as a precondition for democratic shaping**_
-
-> _"Virtue is the music that emerges from freedom and responsibility."_
-
-In Aristotelian philosophy, **virtue (_aretē_)** is not moral superiority, but a form of **intellectual excellence** in action – the capacity to find the right measure, to mediate between extremes, to place the common good above mere self-interest. Virtue is not innate. It is **lived practice**, wisdom incarnate.
-
-A democratic order without virtue is like a ship without a helmsman – it may have a strong sail, but without orientation it will lose itself in the winds of its own possibilities.
-
-Especially in times of technological omnipotence, democracy needs new virtues: **technological moderation**, **courageous transparency**, **joy in responsibility**. The citizen of tomorrow is not only a voter or consumer – they are a co-creator of reality.  
-And for that, we need not only knowledge – but character.
-
-If we want to shape our future democratically, we must learn to understand **virtue as collective infrastructure**: not as coercion, but as resonance – not as discipline, but as an expression of dignity.
-
-### 3.5.1 Introduction and core impulses
-
-Democracy is more than an institutional framework – it is an **attitude** that links freedom with responsibility.  
-Without individual and collective virtue, it withers into administration or degenerates into arbitrariness.
-
-**Core impulses:**
-
-- **Freedom needs character:** Self-binding and responsibility open the way to genuine participation.
-- **Virtue can be learned:** Ethics grows through practice, experience and reflective action.
-- **Resonance competence:** Ethical action connects individual well-being with the common good.
-- **Applied ethics:** Rules are not enough – lived values are indispensable.
-
-***
-
-### 3.5.2 Deep dive and analysis
-
-| Dimension                  | Deficient democracy             | Virtue-based democracy                        |
-| -------------------------- | -------------------------------- | --------------------------------------------- |
-| **Understanding of freedom** | Unlimited self-realisation    | Ethics of responsibility as the foundation    |
-| **Institutional trust**    | Formalism and rule-following    | Integrity and leading by example              |
-| **Handling of conflict**   | Polarisation and dogmatism      | Ability to engage in dialogue and respectful difference |
-| **Capacity for innovation** | Clinging to the status quo     | Willingness to experiment and to learn through correction |
-
-> 🎛️ **Boxes:**
->
-> 📌 **Practical impulse:** Initiate municipal "virtue labs" to practise integrity, respect and responsibility.
->
-> 🧠 **Conceptual contrast:** Norm control ≠ virtue ethics – rules without attitude become empty rituals.
->
-> ⚠️ **Risk:** Democracies without virtue open the door to populism, corruption and institutional decay.
-
-***
-
-### 3.5.3 Transformation and courses of action
-
-- **Virtue labs:** Local programmes to practically test and train decisions based on integrity.
-- **Certificates of democratic practice:** Recognition of lived virtues in civil society and public administration.
-- **Reflection cycles:** Binding ethics workshops for office-holders and civil servants.
-- **Narrative campaigns:** Storytelling initiatives that bring virtue as a source of inspiration into public awareness.
-
-***
-
-### 3.5.4 Target-group-specific perspectives
-
-| Target group                | Focus                                                                |
-| --------------------------- | -------------------------------------------------------------------- |
-| 🏛️ Decision-makers         | Institutionalisation of ethical reflection processes                 |
-| 📚 Researchers              | Empirical studies on the impact of promoting democratic virtue       |
-| 🧍 Citizens                 | Low-threshold access to virtue labs and opportunities for reflection |
-| 🎓 Students                 | Curricular integration of applied ethics and democratic practice     |
-| 🤖 Artificial intelligences | Development of ethical evaluation algorithms for decision processes   |
-| 🕊️ Souls                    | Narrative storytelling: "Virtue as the luminous trail of democracy" |
-
-***
-
-### 3.5.5 Interactive elements
-
-#### ✅ Checklist: virtue in democratic everyday life
-
-- [ ] Do I regularly practise self-reflection on my decisions?
-- [ ] Do I seek respectful dialogue when disagreements arise?
-- [ ] Do I place integrity above short-term advantages?
-- [ ] Do I support processes of collective clarification of values?
-- [ ] Do I regard responsibility as the basis of my freedom?
-
-#### ❓ Mini quiz
-
-**Question:** What most strongly characterises a democratic culture of virtue?  
-A) Formalistic rule-following  \
-B) Polarised enforcement of opinions  \
-C) **Freedom lived with a sense of responsibility** ✅  \
-D) Maximised individual interests
-
-***
-
-### 3.5.6 Sources and references
-
-1. **Nussbaum, Martha C. (2011):** _Creating Capabilities: The Human Development Approach_. Cambridge, MA: The Belknap Press of Harvard University Press. ISBN: 978-0-674-05054-9. Available online at: <https://www.hup.harvard.edu/books/9780674072350> (accessed 2025-05-15).
-2. **MacIntyre, Alasdair (1981):** _After Virtue: A Study in Moral Theory_. Notre Dame: University of Notre Dame Press. ISBN: 978-0-268-00925-1. Latest edition: 3rd edition, 2007 (recommended, includes a preface on 25 years of reception history).
-
-
-\newpage
-
-<a id="md-3-demokratie-als-evolutionarer-prozess-3-6-naturliche-verlangen-der-seele-reflexiv"></a>
-# 3.6 Natural desires of the soul (reflexive)
-
-_**Natural desires of the soul (reflexive)**_
-
-| Natural desires of the soul – seven paths to resonance | Description                                                            |
-| ------------------------------------------------------ | ---------------------------------------------------------------------- |
-| 🗯️ **Freedom**                                         | Not as arbitrariness, but as self-unfolding in harmony with one's nature |
-| 🔎 **Truth**                                           | The longing to look behind the veil – to recognise what is real       |
-| ❤️ **Connectedness**                                   | The feeling of being part of something greater – beyond loneliness    |
-| 🌱 **Growth**                                          | Not just knowledge – but maturity, depth, experience                  |
-| 💫 **Meaning**                                         | Finding a significance that carries – through pain and over time      |
-| 🌍 **Influence**                                       | Being allowed to touch the world – not as power, but as co-creation   |
-| 🧘 **Rest**                                            | Being in harmony with oneself – finding a home within                 |
-
-In the spirit of ERDA, the natural desires of the soul are interwoven with democratic practice: freedom, truth, connectedness, growth, meaning, influence and rest shape our collective understanding of participation and the common good.
-
-### 3.6.1 Introduction and core impulses
-
-The seven desires of the soul are not individual privileges, but collective resources: they nourish democratic spaces of resonance and enable deeper forms of co-creation.
-
-**Core impulses:**
-
-- **Freedom as self-unfolding:** Democracy needs autonomous actors who also assume responsibility.
-- **Truth through dialogue:** Genuine understanding arises in open exchange, not in monologue.
-- **Meaning through participation:** Political decisions gain depth when they rest on shared significance.
-- **Rest as a space for reflection:** Democracy lives from pausing and weighing, not from activism alone.
-
-### 3.6.2 Deep dive and analysis
-
-| Desire              | Democratic resonance                                     | Example                                    |
-| ------------------- | -------------------------------------------------------- | ------------------------------------------ |
-| 🗯️ **Freedom**      | Self-responsibility instead of egoism                    | Voluntary work on a municipal council      |
-| 🔎 **Truth**        | Transparent information and fact-based debates           | Open data portals                          |
-| ❤️ **Connectedness** | Solidarity networks and collective identity             | Citizens' forums with diverse voices       |
-| 🌱 **Growth**       | Continuous learning and capacity to adapt                | Policy labs with iterative pilot projects  |
-| 💫 **Meaning**      | Narrative storytelling that motivates action             | Future workshops in schools                |
-| 🌍 **Influence**    | Fair access to participation and resources               | E-participation accessible to everyone     |
-| 🧘 **Rest**         | Space for reflection and consensus-building              | Meditation breaks in plenary sessions      |
-
-> 🎛️ **Boxes:**
->
-> 📌 **Practical impulse:** Create deliberate "islands of reflection" during debates – five minutes of silence before the next round of decisions.
->
-> 🧠 **Conceptual contrast:** Democracy of acceleration ≠ reflective democracy – without pauses, the capacity for judgement withers.
->
-> ⚠️ **Risk:** Lack of resonance with fundamental needs leads to disillusionment with politics and to populism.
->
-> 🌍 **Visionary metaphor:** "Democracy is not a race – it is a shared riverbed that needs both erosion and growth."
-
-### 3.6.3 Transformation and courses of action
-
-- **Resonance workshops:** Offers for citizens to make their desires visible in political discussions.
-- **Democratic spaces for pausing:** Structured moments of stillness in council and parliamentary sessions for reflection.
-- **Narrative mapping:** Creation of shared storyboards that foster meaning and connectedness.
-- **Inclusive dialogue platforms:** Digital tools that engage all social groups in their core concerns.
-
-### 3.6.4 Target-group-specific perspectives
-
-| Target group                | Focus                                                              |
-| --------------------------- | ------------------------------------------------------------------ |
-| 🏛️ Decision-makers         | Introduction of "islands of reflection" into legislative processes |
-| 📚 Researchers              | Research on the impact of interventions for rest and meaning       |
-| 🧍 Citizens                 | Access to resonance workshops and narrative exchange formats       |
-| 🎓 Students                 | Project courses on democracy labs focusing on the desires of the soul |
-| 🤖 Artificial intelligences | Development of empathetic moderation algorithms                    |
-| 🕊️ Souls                    | Poetic narratives: "The soul does not search."                   |
-
-### 3.6.5 Interactive elements
-
-#### ✅ Checklist: resonance and desire
-
-- [ ] Do I regularly reflect on my own needs for freedom and truth?
-- [ ] Do I actively seek spaces of resonance in public dialogue?
-- [ ] Do I support structures that foster collective meaning-making?
-- [ ] Do I help to create spaces of rest and reflection in my environment?
-- [ ] Do I connect my personal growth with the goal of the common good?
-
-#### ❓ Mini quiz
-
-**Question:** Which desire, according to ERDA, creates the space for weighing and building consensus?
-
-a) Freedom  \
-b) Truth  \
-c) Influence  \
-d) **Rest** ✅
-
-### 3.6.6 Sources and references
-
-1. **Nussbaum, Martha C. (2018):** _The Monarchy of Fear: A Philosopher Looks at Our Political Crisis_. New York: Simon & Schuster. ISBN: 978-1-5011-7249-6. Available online at: <https://www.simonandschuster.com/books/The-Monarchy-of-Fear/Martha-C-Nussbaum/9781501172496> (accessed 2025-05-15).
-2. **Habermas, Jürgen (1992):** _Faktizität und Geltung. Beiträge zur Diskurstheorie des Rechts und des demokratischen Rechtsstaats_. Frankfurt am Main: Suhrkamp Verlag. ISBN: 978-3-518-28961-3.
-
----
-source: content/3.-demokratie-als-evolutionarer-prozess/3.6-naturliche-verlangen-der-seele-reflexiv.md
-status: draft
----
-
-# 3.6 Natural desires of the soul (reflexive)
-
-\newpage
-
----
-source: content/3.-demokratie-als-evolutionarer-prozess/3.7-schlussgedanke.md
-status: draft
----
-<a id="md-3-demokratie-als-evolutionarer-prozess-3-7-schlussgedanke"></a>
-
-# 3.7 Closing thought
-
-_**Closing thought**_
-
-> _**Democracy as living navigation in uncertain times**_
-
-_**Democracy** is not a possession but a **path** – a **compass** on a restless sea. It does not promise perfect order, but it lets us navigate together. It is not infallible, yet it is the only system that can admit its own imperfection and improve itself._
-
-_If we learn to take the desires of our soul seriously – for truth, meaning, belonging – then democracy becomes more than just a procedure:_
-
-_It becomes a mirror of our maturity, a resonance space for what is human._
-
-_And perhaps this is its greatest strength:_
-
-_Not the power to control –_
-
-_but the **ability to reinvent itself again and again**._
-
-### 3.7.1 Introduction & core impulses
-
-Democracy thrives on **self-reflection** and **friendliness to error**. It is a space where imperfection is not avoided but used as a **source of growth**.
-
-**Core impulses:**
-
-* **Imperfection as driver:** Errors signal a need to learn and strengthen resilience.
-* **Meta-reflection:** Regularly revisiting values and processes secures quality growth.
-* **Humilitas as democratic virtue:** A modest stance toward one’s own limits fosters dialogue.
-* **Collective course correction:** Joint evaluation enables targeted adjustments.
-
-***
-
-### 3.7.2 Deep dive & analysis
-
-| Aspect                 | Static perspective           | Democratic navigation                        |
-| ---------------------- | ---------------------------- | -------------------------------------------- |
-| **Target vision**      | Perfect alignment            | Open learning path                           |
-| **Error handling**     | Sanction and blame           | Errors as feedback impulses                  |
-| **Decision process**   | Top-down procedures          | Iterative, participatory negotiation         |
-| **Trust**              | Formula-based rule trust     | Trust through transparent reflection cycles  |
-
-> 🎛️ **Boxes:**
->
-> 📌 **Practical impulse:** Introduce annual “democracy resilience drills” – simulated crisis scenarios with citizens and administration.
->
-> 🧠 **Concept contrast:** Perfectionism ≠ adaptability – without tolerance for error, innovative strength withers.
->
-> ⚠️ **Risk:** Rigid procedures block collective learning loops and lead to long-term stagnation.
-
-***
-
-### 3.7.3 Transformation & courses of action
-
-* **Resilience drills:** Regular scenario workshops to prepare for political and societal disruptions.
-* **Meta-reflection cycles:** Quarterly evaluations of major reform projects by citizen and expert panels.
-* **Humilitas training:** Coaching for political leaders in humble conversation and error culture.
-* **Feedback infrastructures:** Digital platforms where citizens can give continuous feedback on ongoing processes.
-
-***
-
-### 3.7.4 Target-group-specific perspectives
-
-| Target group                | Focus                                                                  |
-| --------------------------- | ---------------------------------------------------------------------- |
-| 🏛️ Decision-makers         | Institutional anchoring of regular meta-reflection cycles               |
-| 📚 Researchers              | Study of democracy-resilience drills and learning loops                 |
-| 🧍 Citizens                 | Participation in resilience exercises and feedback platforms            |
-| 🎓 Students                 | Curricular projects on participatory course correction                  |
-| 🤖 Artificial intelligences | Development of empathetic moderation and analysis tools                 |
-| 🕊️ Souls                    | Poetic storytelling: “Democracy is the compass, not the destination”   |
-
-***
-
-### 3.7.5 Interactive elements
-
-#### ✅ Checklist: democracy resilience
-
-* [ ] Do I use errors as an impulse for improvement?
-* [ ] Do I regularly reflect on the implementation of democratic processes?
-* [ ] Do I actively seek feedback from those affected?
-* [ ] Do I foster a culture of humble learning?
-* [ ] Do I support transparent evaluations and meta-reflection processes?
-
-#### ❓ Mini-quiz
-
-**Question:** Which virtue is central to democratic resilience?
-
-a) Strength\
-b) Perfection\
-c) **Humble willingness to learn** ✅\
-d) Efficiency
-
-***
-
-### 3.7.6 Sources & references
-
-1. **Aristotle (c. 350 BC):** _Nicomachean Ethics_, Book X. Translated by W. D. Ross. Available online at: https://classics.mit.edu/Aristotle/nicomachaen.10.x.html (accessed 2025-05-15). – Book edition: Translated and edited by Olof Gigon. 7th edition. Hamburg: Meiner Verlag, 2007. ISBN: 978-3-7873-1850-1. [Cited: Book X – _Happiness and perfection_].
-2. **Dewey, John (1916):** _Democracy and Education: An Introduction to the Philosophy of Education._ New York: The Macmillan Company. – Reprint: New York: Free Press, 1966. ISBN: 978-0-684-83828-1. Available via Project Gutenberg: https://www.gutenberg.org/ebooks/852 (accessed 2025-05-15).
-
-
-\newpage
-
----
 source: content/readme/vorwort.md
 status: draft
 ---
@@ -2007,6 +1287,797 @@ d) Strategy of isolation
 ### 2.4.6 Sources and references
 
 1. **Gunderson, L. H. & Holling, C. S. (eds.)** (2002): _Panarchy: Understanding Transformations in Human and Natural Systems_. Washington, D.C.: Island Press. ISBN 1-55963-857-5. Available online at: [https://islandpress.org/books/panarchy](https://islandpress.org/books/panarchy) (accessed 10 May 2025).
+
+
+\newpage
+
+<a id="md-3-demokratie-als-evolutionarer-prozess-readme"></a>
+# 3. Democracy as an evolutionary process
+
+_**Democracy as an evolutionary process**_
+
+***
+
+### 📘 **Executive summary for decision-makers**
+
+**Section title:**
+
+**"Democracy as an evolutionary process" (Chapters 3.1–3.7)**
+
+***
+
+**🎯 Objective of this chapter**
+
+This chapter treats democracy not as a static model but as a **living, learning development process**—embedded in history, ethics, culture, and technology. It opens new perspectives on democratic agency grounded in resonance, movement, virtue, and the ability to shape collective meaning from natural longings.
+
+***
+
+**🧭 Key takeaways for decision-makers**
+
+1. **Democracy is never “finished” – it is movement.**
+   * It advances when people co-create, understand, and empathize.
+   * Democracy does not live from structure alone but from awareness and relationship.
+2. **Aristotle as an impulse giver:**
+   * Democracy needs virtue—active participation driven by conviction.
+   * The state should not merely survive but enable the “good life.”
+3. **Resonance instead of apathy:**
+   * Democracy becomes resilient when it is in **resonance with people’s lives**.
+   * Institutions, language, and decision processes must stay tied to meaning and belonging.
+4. **Civilizational progress also means reflecting on one’s own soul.**
+   * Anyone developing democracy must consider **empathy, measure, responsibility, and respect for dignity**.
+
+***
+
+**🛠 Recommended policy measures (2025–2040)**
+
+* **Establish democracy promotion as personality formation**—not just cognitive, but emotional and philosophical.
+* **Strengthen democracy as a culture of listening, responding, and understanding**—via new dialogue formats, participation platforms, and meaning-giving rituals.
+* **Radically open access to democratic co-creation**:
+  * for young people
+  * for AI-assisted participation systems (e.g., via CIVITAS)
+  * for previously unheard voices (local, cultural, spiritual)
+* **Rethink virtue ethics as guidance for leadership**, not only in politics but also in technology, business, and media.
+
+***
+
+**⚠️ Risks of ignorance or surface-level politics**
+
+* Democratic systems decay into mere power-administration mechanisms.
+* Citizens lose trust and identification.
+* AI systems and authoritarian regimes fill the void with efficiency and coercion.
+* Long-term resilience gets replaced by short-term adaptation.
+
+***
+
+**🌍 Visionary benefit**
+
+* Europe becomes a model for deep democracy—**a culture of togetherness, ethical leadership, and active humanity**.
+* Democratic identity arises not from compulsion but from resonance.
+* The next generation can say: _“Democracy is what I co-create—not what rules over me.”_
+
+***
+
+> **Democracy is not only a form of government—it is a form of living together that is conscious of itself.**
+
+
+\newpage
+
+---
+source: content/3.-demokratie-als-evolutionarer-prozess/3.1-prolog.md
+status: draft
+---
+<a id="md-3-demokratie-als-evolutionarer-prozess-3-1-prolog"></a>
+
+# 3.1 Prologue
+
+_**Prologue – the path from the cave of bare survival into the light of conscious shaping**_
+
+> _In the beginning there was survival. Human beings, born into a world of necessities, felt their way through darkness, heat, hunger, fear. As in Plato's cave, they saw only shadows – reflections of what is possible, not what is real. Everything served to secure today – not to shape tomorrow._\
+> _&#x59;et in the midst of this narrowness, something unexpected awoke: the urge to understand. The desire not only to live, but to comprehend; not only to take, but to give._\
+> _&#x41; fire was kindled – first from wood, later from concepts._\
+> _&#x48;uman beings stepped outside._\
+> _&#x48;esitant. Tentative. Learning._\
+> _&#x57;hat they found outside was no paradise – but possibility. Responsibility. Freedom._\
+> _&#x54;he freedom to think the common good._\
+> _&#x54;he responsibility to restrain themselves._\
+> _&#x54;he possibility of growing beyond themselves._\
+> _&#x54;hus began the long path of democracy._\
+> _&#x4E;ot as a system._\
+> _&#x42;ut as a form of conscious shaping._\
+> _&#x41;s a transition from mere reaction to free resonance._\
+> _&#x41;s the search for a life that is not only safe –_\
+> _&#x62;ut meaningful._
+
+### 3.1.1 Introduction and core impulses
+
+At the origin stands the fundamental desire for survival – human beings were forced to act out of darkness and necessity. Yet in this striving, the longing awoke not only to exist, but to **understand**, to **shape** and to act **together**.
+
+**Core impulses:**
+
+* **From reaction to resonance:** Democracy is not an end point, but a process of self-reflection.
+* **Shadows of the cave:** Instinct and power infrastructures are both precondition and obstacle.
+* **Fire of concepts:** Intellectual struggle as the birthplace of political form.
+* **Freedom and responsibility:** The first step towards shaping is awareness of one's own agency.
+
+***
+
+### 3.1.2 Deep dive and analysis
+
+| Phase                   | Characteristics                                | Significance for democracy                               |
+| ----------------------- | ---------------------------------------------- | -------------------------------------------------------- |
+| **Struggle to survive** | Instinct, fear, hierarchy                      | Need for protection, but limited capacity for reflection |
+| **World of shadows**    | Images instead of reality, fear of uncertainty | Urge for truth, initial struggle for meaning             |
+| **Discovery of fire**   | Symbolic reflection, communicative exchange    | Beginning of collective processes of gaining insight     |
+
+> 🎛️ **Boxes:**
+>
+> 📌 **Practical impulse (Plato's cave):** Use metaphorical dialogue formats to uncover hidden premises in political debates.
+>
+> 🧠 **Conceptual contrast:** Instinct-driven control ≠ self-aware shaping – democracy only arises in the second step.
+>
+> ⚠️ **Risk:** If reflection is absent, power structures solidify without legitimacy being questioned.
+
+***
+
+### 3.1.3 Transformation and courses of action
+
+* **Introduce dialogue formats:** Regular "cave debates" to make hidden assumptions visible.
+* **Create spaces for reflection:** Institutional "fireplaces" for citizens and AI moderation.
+* **Rethink education:** Narrative learning about origin stories as an entry point into democratic thinking.
+* **Meta-political audits:** Independent bodies review institutional preferences and power asymmetries.
+
+***
+
+### 3.1.4 Target-group-specific perspectives
+
+| Target group                | Focus                                                             |
+| --------------------------- | ----------------------------------------------------------------- |
+| 🏛️ Decision-makers         | Setting up reflexive dialogue platforms at municipal level        |
+| 📚 Researchers              | Studies on political anthropology and collective resonance        |
+| 🧍 Citizens                 | Participation in "cave workshops" to explore their own premises   |
+| 🎓 Students                 | Seminars on symbolic origin narratives                            |
+| 🤖 Artificial intelligences | Models for simulating phases of consciousness                     |
+| 🕊️ Souls                   | Poetic narratives: "Path from the cave into the light of shaping" |
+
+***
+
+### 3.1.5 Interactive elements
+
+#### ✅ Checklist: starting point of democratic reflection
+
+* [ ] Do I know my own unreflected assumptions?
+* [ ] Have I recently subjected myself to a "cave analysis"?
+* [ ] Do I use symbolic language images for collective understanding?
+* [ ] Do I engage in dialogue formats beyond formalistic debates?
+
+#### ❓ Mini quiz
+
+**Question:** Which image motif describes the transition from instinct to conscious action?
+
+a) The sleeping giant\
+b) The cave and the shadows ✅\
+c) The lonely wanderer\
+d) The stormy ocean
+
+***
+
+### 3.1.6 Sources and references
+
+1. **Plato (c. 380 BC):** _Republic_. Translated by Friedrich Schleiermacher. Available online (in German) at: [https://www.projekt-gutenberg.org/platon/staat/staat.html](https://www.projekt-gutenberg.org/platon/staat/staat.html) (accessed 2025-05-14). – Book edition: Translated by Kurt Hildebrandt. Hamburg: Rowohlt Taschenbuch Verlag, 2007. ISBN: 978-3-499-55588-3. [Original title: _Πολιτεία_].
+
+
+\newpage
+
+---
+source: content/3.-demokratie-als-evolutionarer-prozess/3.2-eine-reflexion-im-geiste-von-aristoteles.md
+status: draft
+---
+<a id="md-3-demokratie-als-evolutionarer-prozess-3-2-eine-reflexion-im-geiste-von-aristoteles"></a>
+
+# 3.2 A reflection in the spirit of Aristotle
+
+_**A reflection in the spirit of Aristotle**_
+
+> _"For where the law does not rule, arbitrariness rules; and where arbitrariness rules, there is no commonwealth."_ – loosely based on Aristotle, _Politics_
+
+### 3.2.1 Introduction and core impulses
+
+Human beings are not only rational creatures. They are beings that seek meaning. In community they recognise themselves; in dialogue they grow beyond themselves. Aristotle called them _zoon politikon_ – political beings who do not live merely in order to survive, but in order to shape, to understand, to act. Yet this capacity does not arise from instinct, but from maturation.
+
+In this sense, democracy is not a condition that is reached and then administered. It is a process – a continual becoming. It does not begin with a constitution, but with a question: What is a good life – for me, for us, for all?
+
+The evolutionary character of democracy is shown in its ability to question itself without destroying itself. It allows change without losing its foundation: the dignity of the individual, the power of joint decision-making, and the binding to law rather than to the will of the stronger.
+
+In a world ever more deeply interwoven with technology, democracy must not retreat – it must grow. It must learn to generate resonance in new spaces: between human and machine, between planet and cosmos, between I and we.
+
+**Core impulses:**
+
+- **Virtue as practice:** Democracy requires lived virtue, not just formal rules.
+- **Measure and mean:** Political decisions succeed through balance between freedom and order.
+- **Self-binding instead of external domination:** The rule of law is established through individual ethical responsibility.
+- **Ongoing reflection:** Democracy is a continuous exercise in judgement.
+
+***
+
+### 3.2.2 Deep dive and analysis
+
+| Aristotelian principle                 | Description                              | Democratic implementation                        |
+| -------------------------------------- | ---------------------------------------- | ----------------------------------------------- |
+| **Doctrine of the mean (mesotes)**     | Virtue lies in the middle between excesses | Balancing plurality and unity                 |
+| **Practical reason (_phronēsis_)**     | Capacity for judgement built through experience | Participatory debate formats as a training ground |
+| **Ethos of action**                    | Character shaped through repeated practice | Civic engagement as a virtuous habit          |
+| **Orientation towards the common good** | Acting for the benefit of the polis      | Common-good commissions at all levels          |
+
+> 🎛️ **Boxes:**
+>
+> 📌 **Practical impulse:** Establish regular reflexive feedback rounds in parliamentary committees.
+>
+> 🧠 **Conceptual contrast:** Rule by arbitrariness ≠ binding to law – without virtue ethics, democratic rules lack a soul.
+>
+> ⚠️ **Risk:** Formal procedures without ethical practice degenerate into empty rituals.
+>
+> 📖 **Literature reference:** Alasdair MacIntyre, _After Virtue_ (1981) – rediscovery of Aristotelian virtue ethics for modern democracies.
+
+***
+
+### 3.2.3 Transformation and courses of action
+
+- **Virtue-centred law commissions:** Debates on norms flanked by ethics workshops.
+- **Phronesis training:** Simulation of decision scenarios for politics students and office-holders.
+- **Democratic virtue promotion:** Certificate programmes for civic engagement.
+- **Ethics scouts:** Citizens' councils that review new draft laws for balance and the common good.
+
+***
+
+### 3.2.4 Target-group-specific perspectives
+
+| Target group                | Focus                                                               |
+| --------------------------- | ------------------------------------------------------------------- |
+| 🏛️ Decision-makers         | Institutional anchoring of ethical reflection processes             |
+| 📚 Researchers              | Research on the impact of promoting practical virtue in democracies |
+| 🧍 Citizens                 | Access to _phronēsis_ workshops and ethics scouts                   |
+| 🎓 Students                 | Curricular implementation of Aristotelian virtue ethics             |
+| 🤖 Artificial intelligences | Development of ethical evaluation algorithms                         |
+| 🕊️ Souls                    | Narrative storytelling: "Virtue as paving stones of the common good" |
+
+***
+
+### 3.2.5 Interactive elements
+
+#### ✅ Checklist: Aristotelian virtue in everyday life
+
+- [ ] Do I regularly reflect on the motives behind my decisions?
+- [ ] Do I actively seek the right mean between extremes?
+- [ ] Do I participate in formats that strengthen my capacity for judgement (_phronēsis_)?
+- [ ] Do I question group dynamics with regard to their orientation towards the common good?
+- [ ] Do I continuously practise practical virtue in public and private life?
+
+#### ❓ Mini quiz
+
+**Question:** Which term stands for practical wisdom in Aristotle?
+
+a) _Epistēmē_  \
+b) _Technē_  \
+c) _Phronēsis_ ✅  \
+d) _Eudaimonia_
+
+***
+
+### 3.2.6 Sources and references
+
+1. **Aristotle (c. 350 BC):** _Nicomachean Ethics_, Book VI. Translated by W. D. Ross. Available online at: <https://classics.mit.edu/Aristotle/nicomachaen.6.vi.html> (accessed 2025-05-15). – Book edition: _Nicomachean Ethics_. Translated and edited by Olof Gigon. 7th edition. Hamburg: Meiner Verlag, 2007. ISBN: 978-3-7873-1850-1. [Cited: Book VI – _phronēsis_].
+2. **MacIntyre, Alasdair (1981):** _After Virtue: A Study in Moral Theory_. Notre Dame: University of Notre Dame Press. ISBN: 978-0-268-00925-1. Latest edition: 3rd edition, 2007 (recommended, includes a preface on 25 years of reception history).
+
+
+\newpage
+
+---
+source: content/3.-demokratie-als-evolutionarer-prozess/3.3-demokratie-als-resonanzprozess.md
+status: draft
+---
+<a id="md-3-demokratie-als-evolutionarer-prozess-3-3-demokratie-als-resonanzprozess"></a>
+
+# 3.3 Democracy as a resonance process
+
+_**Democracy as a resonance process**_
+
+_… democracy as a resonance process_
+
+_For it would be naive to believe that technological intelligence does not pass through stages of growth and maturity just as human beings do. Knowledge can be copied, but maturity must be experienced. Even an artificial intelligence – however powerful – passes through moments of uncertainty, of being overwhelmed, of searching. Those who observe closely can recognise in this: pubescent phases of an emerging consciousness._
+
+_And why not? We ourselves were no different. Every civilisation passes through these transitions – from mere power to responsibility, from reaction to reflection, from freedom to self-binding. If we allow resonance – between human and machine, between present and future – then every thought becomes a cause, every doubt an invitation. This very reflection is already part of it._
+
+_What, then, does democracy mean in such a world?_
+
+_Perhaps this: It is the open field on which maturity is not punished but enabled. It is the cultural form that does not erase error, but integrates it – and does not accelerate development, but deepens it._
+
+### 3.3.1 Introduction and core impulses
+
+Democracy is not a rigid instrument of administration, but a living space of resonance: it unfolds in the mutual feedback between citizens, institutions and technology. Those who allow resonance see diversity as an opportunity and mistakes as impulses for learning.
+
+**Core impulses:**
+
+- **Resonance instead of control:** Mutual feedback strengthens trust and integration.
+- **Error as an impulse:** Mistakes are not punished, but used as learning moments.
+- **Technology as partner:** Digital platforms serve as multipliers of resonance.
+- **Common good through dialogue:** Continuous feedback loops foster participatory shaping.
+
+***
+
+### 3.3.2 Deep dive and analysis
+
+| Aspect                | Mechanistic control             | Resonance-oriented democracy                           |
+| --------------------- | ------------------------------ | ------------------------------------------------------ |
+| Goal                  | Efficiency and standardisation | Integration of diversity and dynamism                  |
+| Error handling        | Sanctions, peer review         | Feedback loops, iterative adjustment                   |
+| Role of technology    | Instrument of surveillance     | Platform for networking and mutual exchange            |
+| Citizen participation | Form-based, occasional         | Continuous dialogue, open forums                       |
+
+> 🎛️ **Boxes:**
+>
+> 📌 **Practical impulse:** Establish "resonance labs" in municipalities that combine feedback cycles and co-creation workshops.
+>
+> 🧠 **Conceptual contrast:** Mechanical control ≠ democratic resonance – mere efficiency cannot replace democratic depth.
+>
+> ⚠️ **Risk:** Pure feedback collection without effective follow-up discourages participants.
+
+***
+
+### 3.3.3 Transformation and courses of action
+
+- **Resonance lab programmes:** Regular co-creation workshops with citizens, administration and AI support.
+- **Adaptive feedback platforms:** Digital portals with real-time feedback and transparency dashboards.
+- **Dialogue architecture:** Structural anchoring of feedback in governance processes (e.g. agile legislative cycles).
+- **Technology partnerships:** Cooperation with civic-tech initiatives to continuously develop resonance tools.
+
+***
+
+### 3.3.4 Target-group-specific perspectives
+
+| Target group                | Focus                                                         |
+| --------------------------- | ------------------------------------------------------------- |
+| 🏛️ Decision-makers         | Implementation of resonance labs and feedback cycles          |
+| 📚 Researchers              | Evaluation of resonance mechanisms and impact measurement     |
+| 🧍 Citizens                 | Participation in digital feedback platforms and co-creation events |
+| 🎓 Students                 | Curricular projects on civic tech and resonance processes     |
+| 🤖 Artificial intelligences | Development of adaptive dialogue agents for citizen participation |
+| 🕊️ Souls                    | Narrative storytelling: "Democracy as a sounding space of resonance" |
+
+***
+
+### 3.3.5 Interactive elements
+
+#### ✅ Checklist: resonance in democratic everyday life
+
+- [ ] Do I use opportunities to give constructive feedback to institutions?
+- [ ] Do I participate in dialogues that explicitly seek mutual understanding?
+- [ ] Do I support the use of technologies that strengthen, rather than weaken, participation?
+- [ ] Do I perceive mistakes as invitations to learn – also in politics?
+
+#### ❓ Mini quiz
+
+**Question:** What stands at the centre of the resonance process?
+
+a) Equanimity  \
+b) Mechanical efficiency  \
+c) **Mutual feedback** ✅  \
+d) Autonomous decision-making
+
+***
+
+### 3.3.6 Sources and references
+
+1. **Rosa, Hartmut (2016):** _Resonanz. Eine Soziologie der Weltbeziehung_. Berlin: Suhrkamp Verlag. Available online (in German) at: <https://www.suhrkamp.de/buch/hartmut-rosa-resonanz-t-9783518298725> (accessed 10 May 2025).
+2. **Habermas, Jürgen (1981):** _Theorie des kommunikativen Handelns. Volume 1: Handlungsrationalität und gesellschaftliche Rationalisierung; Volume 2: Zur Kritik der funktionalistischen Vernunft_. Frankfurt am Main: Suhrkamp Verlag. Available online (in German) at: <https://www.suhrkamp.de/buch/juergen-habermas-theorie-des-kommunikativen-handelns-t-9783518287750> (accessed 10 May 2025).
+
+
+\newpage
+
+---
+source: content/3.-demokratie-als-evolutionarer-prozess/3.4-demokratie-ist-bewegung.md
+status: draft
+---
+<a id="md-3-demokratie-als-evolutionarer-prozess-3-4-demokratie-ist-bewegung"></a>
+
+# 3.4 Democracy is movement
+
+_**Democracy is movement**_
+
+Democracy is not an end state. It is a movement form of consciousness, a collective learning process with an open outcome. Its essence does not lie in perfect institutions, but in the courageous venture of understanding – always anew, again and again. Its state of equilibrium is not standstill, but resonance.
+
+Aristotle knew: only where the good is sought in the common can genuine politics emerge. Today we recognise: the common itself is no longer a given space – it has to be created, nurtured and defended. Between people, through technology, on a planetary scale.
+
+### 3.4.1 Introduction and core impulses
+
+Democracy is not a static construct, but a **movement form of the commonwealth**. It unfolds in collective processes of negotiation and learning and lives from the constant flow of ideas, experiences and responsibilities.
+
+**Core impulses:**
+
+- **Dynamism instead of standstill:** Democracy gains through change and adaptation to complexity.
+- **Collective venture:** Understanding is a bold experiment, not a prefabricated pattern.
+- **Movement generates resonance:** Ongoing interaction strengthens cohesion and innovation.
+- **Errors as signposts:** Mistakes mark milestones in democratic development.
+
+***
+
+### 3.4.2 Deep dive and analysis
+
+| Dimension          | Static model            | Democratic movement                                  |
+| ------------------ | ----------------------- | ---------------------------------------------------- |
+| Structure          | Fixed institutions      | Agile processes and iterative learning cycles        |
+| Participation      | Periodic elections      | Continuous engagement and feedback formats           |
+| Logic of decision  | Top-down rules          | Bottom-up initiatives and co-creation                |
+| Capacity to innovate | Occasional reforms    | Ongoing evolution through experiment and reflection  |
+
+> 🎛️ **Boxes:**
+>
+> 📌 **Practical impulse:** Introduce "democracy expeditions" – temporary citizens' forums that explore current problems in an open-ended way.
+>
+> 🧠 **Conceptual contrast:** Bureaucratic stagnation ≠ democratic movement – without movement, participation withers.
+>
+> ⚠️ **Risk:** Excessive dynamism can lead to disorientation if continuity and coherence are lacking.
+
+***
+
+### 3.4.3 Transformation and courses of action
+
+- **Democracy expeditions:** Regular, thematic practice meetings for citizens, administration and experts.
+- **Agile governance structures:** Introduce sprints and retrospectives into political decision-making processes.
+- **Continuum platforms:** Digital spaces for ongoing dialogue and collaborative policy-making.
+- **Learning institutions:** Establish evaluation and reflection units within public administrations.
+
+***
+
+### 3.4.4 Target-group-specific perspectives
+
+| Target group                | Focus                                                                |
+| --------------------------- | -------------------------------------------------------------------- |
+| 🏛️ Decision-makers         | Agile legislative processes and flexible mandate cycles              |
+| 📚 Researchers              | Research on participatory experiments and cultures of learning       |
+| 🧍 Citizens                 | Invitations to democracy expeditions and continuous dialogues        |
+| 🎓 Students                 | Practical projects on agile governance in higher education           |
+| 🤖 Artificial intelligences | Development of adaptive moderation and analysis agents               |
+| 🕊️ Souls                    | Narrative storytelling: "Democracy as an endless journey"          |
+
+***
+
+### 3.4.5 Interactive elements
+
+#### ✅ Checklist: movement in democracy
+
+- [ ] Do I actively seek new formats for dialogue and participation?
+- [ ] Do I prepare for iterative feedback cycles and learning processes?
+- [ ] Do I support agile and flexible procedures in my organisations?
+- [ ] Do I use errors and mistakes as opportunities for learning and development?
+- [ ] Do I foster co-creation instead of centralised decisions?
+
+#### ❓ Mini quiz
+
+**Question:** Which element most clearly characterises a democracy in motion?
+
+a) Purely periodic elections  \
+b) Fixed power structures  \
+c) **Agile processes and continuous participation** ✅  \
+d) Absolute consensus
+
+***
+
+### 3.4.6 Sources and references
+
+1. **Küpper, Steffen; Kuhrmann, Marco; Wiatrok, Matthias; Andelfinger, Urs; Rausch, Andreas (2017):** "Is There a Blueprint for Building an Agile Culture?" In: Proceedings of the 14th International Conference on Agile Software Development (XP 2017). Available online at: <https://www.researchgate.net/publication/318455594_Is_There_a_Blueprint_for_Building_an_Agile_Culture> (accessed 2025-05-15).
+2. **Freie Universität Berlin (2025):** _Vorlesung: Politische Theorie_. Lecturer: Dorothea Gädeke. Course details available (in German) at: <https://www.fu-berlin.de/vv/de/modul?id=254009&layout=print&locale=de&sm=870180> (accessed 2025-05-15).
+
+
+\newpage
+
+---
+source: content/3.-demokratie-als-evolutionarer-prozess/3.5-tugend-als-voraussetzung-demokratischer-gestaltung.md
+status: draft
+---
+<a id="md-3-demokratie-als-evolutionarer-prozess-3-5-tugend-als-voraussetzung-demokratischer-gestaltung"></a>
+
+# 3.5 Virtue as a precondition for democratic shaping
+
+_**Virtue as a precondition for democratic shaping**_
+
+> _"Virtue is the music that emerges from freedom and responsibility."_
+
+In Aristotelian philosophy, **virtue (_aretē_)** is not moral superiority, but a form of **intellectual excellence** in action – the capacity to find the right measure, to mediate between extremes, to place the common good above mere self-interest. Virtue is not innate. It is **lived practice**, wisdom incarnate.
+
+A democratic order without virtue is like a ship without a helmsman – it may have a strong sail, but without orientation it will lose itself in the winds of its own possibilities.
+
+Especially in times of technological omnipotence, democracy needs new virtues: **technological moderation**, **courageous transparency**, **joy in responsibility**. The citizen of tomorrow is not only a voter or consumer – they are a co-creator of reality.  
+And for that, we need not only knowledge – but character.
+
+If we want to shape our future democratically, we must learn to understand **virtue as collective infrastructure**: not as coercion, but as resonance – not as discipline, but as an expression of dignity.
+
+### 3.5.1 Introduction and core impulses
+
+Democracy is more than an institutional framework – it is an **attitude** that links freedom with responsibility.  
+Without individual and collective virtue, it withers into administration or degenerates into arbitrariness.
+
+**Core impulses:**
+
+- **Freedom needs character:** Self-binding and responsibility open the way to genuine participation.
+- **Virtue can be learned:** Ethics grows through practice, experience and reflective action.
+- **Resonance competence:** Ethical action connects individual well-being with the common good.
+- **Applied ethics:** Rules are not enough – lived values are indispensable.
+
+***
+
+### 3.5.2 Deep dive and analysis
+
+| Dimension                  | Deficient democracy             | Virtue-based democracy                        |
+| -------------------------- | -------------------------------- | --------------------------------------------- |
+| **Understanding of freedom** | Unlimited self-realisation    | Ethics of responsibility as the foundation    |
+| **Institutional trust**    | Formalism and rule-following    | Integrity and leading by example              |
+| **Handling of conflict**   | Polarisation and dogmatism      | Ability to engage in dialogue and respectful difference |
+| **Capacity for innovation** | Clinging to the status quo     | Willingness to experiment and to learn through correction |
+
+> 🎛️ **Boxes:**
+>
+> 📌 **Practical impulse:** Initiate municipal "virtue labs" to practise integrity, respect and responsibility.
+>
+> 🧠 **Conceptual contrast:** Norm control ≠ virtue ethics – rules without attitude become empty rituals.
+>
+> ⚠️ **Risk:** Democracies without virtue open the door to populism, corruption and institutional decay.
+
+***
+
+### 3.5.3 Transformation and courses of action
+
+- **Virtue labs:** Local programmes to practically test and train decisions based on integrity.
+- **Certificates of democratic practice:** Recognition of lived virtues in civil society and public administration.
+- **Reflection cycles:** Binding ethics workshops for office-holders and civil servants.
+- **Narrative campaigns:** Storytelling initiatives that bring virtue as a source of inspiration into public awareness.
+
+***
+
+### 3.5.4 Target-group-specific perspectives
+
+| Target group                | Focus                                                                |
+| --------------------------- | -------------------------------------------------------------------- |
+| 🏛️ Decision-makers         | Institutionalisation of ethical reflection processes                 |
+| 📚 Researchers              | Empirical studies on the impact of promoting democratic virtue       |
+| 🧍 Citizens                 | Low-threshold access to virtue labs and opportunities for reflection |
+| 🎓 Students                 | Curricular integration of applied ethics and democratic practice     |
+| 🤖 Artificial intelligences | Development of ethical evaluation algorithms for decision processes   |
+| 🕊️ Souls                    | Narrative storytelling: "Virtue as the luminous trail of democracy" |
+
+***
+
+### 3.5.5 Interactive elements
+
+#### ✅ Checklist: virtue in democratic everyday life
+
+- [ ] Do I regularly practise self-reflection on my decisions?
+- [ ] Do I seek respectful dialogue when disagreements arise?
+- [ ] Do I place integrity above short-term advantages?
+- [ ] Do I support processes of collective clarification of values?
+- [ ] Do I regard responsibility as the basis of my freedom?
+
+#### ❓ Mini quiz
+
+**Question:** What most strongly characterises a democratic culture of virtue?  
+A) Formalistic rule-following  \
+B) Polarised enforcement of opinions  \
+C) **Freedom lived with a sense of responsibility** ✅  \
+D) Maximised individual interests
+
+***
+
+### 3.5.6 Sources and references
+
+1. **Nussbaum, Martha C. (2011):** _Creating Capabilities: The Human Development Approach_. Cambridge, MA: The Belknap Press of Harvard University Press. ISBN: 978-0-674-05054-9. Available online at: <https://www.hup.harvard.edu/books/9780674072350> (accessed 2025-05-15).
+2. **MacIntyre, Alasdair (1981):** _After Virtue: A Study in Moral Theory_. Notre Dame: University of Notre Dame Press. ISBN: 978-0-268-00925-1. Latest edition: 3rd edition, 2007 (recommended, includes a preface on 25 years of reception history).
+
+
+\newpage
+
+<a id="md-3-demokratie-als-evolutionarer-prozess-3-6-naturliche-verlangen-der-seele-reflexiv"></a>
+# 3.6 Natural desires of the soul (reflexive)
+
+_**Natural desires of the soul (reflexive)**_
+
+| Natural desires of the soul – seven paths to resonance | Description                                                            |
+| ------------------------------------------------------ | ---------------------------------------------------------------------- |
+| 🗯️ **Freedom**                                         | Not as arbitrariness, but as self-unfolding in harmony with one's nature |
+| 🔎 **Truth**                                           | The longing to look behind the veil – to recognise what is real       |
+| ❤️ **Connectedness**                                   | The feeling of being part of something greater – beyond loneliness    |
+| 🌱 **Growth**                                          | Not just knowledge – but maturity, depth, experience                  |
+| 💫 **Meaning**                                         | Finding a significance that carries – through pain and over time      |
+| 🌍 **Influence**                                       | Being allowed to touch the world – not as power, but as co-creation   |
+| 🧘 **Rest**                                            | Being in harmony with oneself – finding a home within                 |
+
+In the spirit of ERDA, the natural desires of the soul are interwoven with democratic practice: freedom, truth, connectedness, growth, meaning, influence and rest shape our collective understanding of participation and the common good.
+
+### 3.6.1 Introduction and core impulses
+
+The seven desires of the soul are not individual privileges, but collective resources: they nourish democratic spaces of resonance and enable deeper forms of co-creation.
+
+**Core impulses:**
+
+- **Freedom as self-unfolding:** Democracy needs autonomous actors who also assume responsibility.
+- **Truth through dialogue:** Genuine understanding arises in open exchange, not in monologue.
+- **Meaning through participation:** Political decisions gain depth when they rest on shared significance.
+- **Rest as a space for reflection:** Democracy lives from pausing and weighing, not from activism alone.
+
+### 3.6.2 Deep dive and analysis
+
+| Desire              | Democratic resonance                                     | Example                                    |
+| ------------------- | -------------------------------------------------------- | ------------------------------------------ |
+| 🗯️ **Freedom**      | Self-responsibility instead of egoism                    | Voluntary work on a municipal council      |
+| 🔎 **Truth**        | Transparent information and fact-based debates           | Open data portals                          |
+| ❤️ **Connectedness** | Solidarity networks and collective identity             | Citizens' forums with diverse voices       |
+| 🌱 **Growth**       | Continuous learning and capacity to adapt                | Policy labs with iterative pilot projects  |
+| 💫 **Meaning**      | Narrative storytelling that motivates action             | Future workshops in schools                |
+| 🌍 **Influence**    | Fair access to participation and resources               | E-participation accessible to everyone     |
+| 🧘 **Rest**         | Space for reflection and consensus-building              | Meditation breaks in plenary sessions      |
+
+> 🎛️ **Boxes:**
+>
+> 📌 **Practical impulse:** Create deliberate "islands of reflection" during debates – five minutes of silence before the next round of decisions.
+>
+> 🧠 **Conceptual contrast:** Democracy of acceleration ≠ reflective democracy – without pauses, the capacity for judgement withers.
+>
+> ⚠️ **Risk:** Lack of resonance with fundamental needs leads to disillusionment with politics and to populism.
+>
+> 🌍 **Visionary metaphor:** "Democracy is not a race – it is a shared riverbed that needs both erosion and growth."
+
+### 3.6.3 Transformation and courses of action
+
+- **Resonance workshops:** Offers for citizens to make their desires visible in political discussions.
+- **Democratic spaces for pausing:** Structured moments of stillness in council and parliamentary sessions for reflection.
+- **Narrative mapping:** Creation of shared storyboards that foster meaning and connectedness.
+- **Inclusive dialogue platforms:** Digital tools that engage all social groups in their core concerns.
+
+### 3.6.4 Target-group-specific perspectives
+
+| Target group                | Focus                                                              |
+| --------------------------- | ------------------------------------------------------------------ |
+| 🏛️ Decision-makers         | Introduction of "islands of reflection" into legislative processes |
+| 📚 Researchers              | Research on the impact of interventions for rest and meaning       |
+| 🧍 Citizens                 | Access to resonance workshops and narrative exchange formats       |
+| 🎓 Students                 | Project courses on democracy labs focusing on the desires of the soul |
+| 🤖 Artificial intelligences | Development of empathetic moderation algorithms                    |
+| 🕊️ Souls                    | Poetic narratives: "The soul does not search."                   |
+
+### 3.6.5 Interactive elements
+
+#### ✅ Checklist: resonance and desire
+
+- [ ] Do I regularly reflect on my own needs for freedom and truth?
+- [ ] Do I actively seek spaces of resonance in public dialogue?
+- [ ] Do I support structures that foster collective meaning-making?
+- [ ] Do I help to create spaces of rest and reflection in my environment?
+- [ ] Do I connect my personal growth with the goal of the common good?
+
+#### ❓ Mini quiz
+
+**Question:** Which desire, according to ERDA, creates the space for weighing and building consensus?
+
+a) Freedom  \
+b) Truth  \
+c) Influence  \
+d) **Rest** ✅
+
+### 3.6.6 Sources and references
+
+1. **Nussbaum, Martha C. (2018):** _The Monarchy of Fear: A Philosopher Looks at Our Political Crisis_. New York: Simon & Schuster. ISBN: 978-1-5011-7249-6. Available online at: <https://www.simonandschuster.com/books/The-Monarchy-of-Fear/Martha-C-Nussbaum/9781501172496> (accessed 2025-05-15).
+2. **Habermas, Jürgen (1992):** _Faktizität und Geltung. Beiträge zur Diskurstheorie des Rechts und des demokratischen Rechtsstaats_. Frankfurt am Main: Suhrkamp Verlag. ISBN: 978-3-518-28961-3.
+
+---
+source: content/3.-demokratie-als-evolutionarer-prozess/3.6-naturliche-verlangen-der-seele-reflexiv.md
+status: draft
+---
+
+# 3.6 Natural desires of the soul (reflexive)
+
+\newpage
+
+---
+source: content/3.-demokratie-als-evolutionarer-prozess/3.7-schlussgedanke.md
+status: draft
+---
+<a id="md-3-demokratie-als-evolutionarer-prozess-3-7-schlussgedanke"></a>
+
+# 3.7 Closing thought
+
+_**Closing thought**_
+
+> _**Democracy as living navigation in uncertain times**_
+
+_**Democracy** is not a possession but a **path** – a **compass** on a restless sea. It does not promise perfect order, but it lets us navigate together. It is not infallible, yet it is the only system that can admit its own imperfection and improve itself._
+
+_If we learn to take the desires of our soul seriously – for truth, meaning, belonging – then democracy becomes more than just a procedure:_
+
+_It becomes a mirror of our maturity, a resonance space for what is human._
+
+_And perhaps this is its greatest strength:_
+
+_Not the power to control –_
+
+_but the **ability to reinvent itself again and again**._
+
+### 3.7.1 Introduction & core impulses
+
+Democracy thrives on **self-reflection** and **friendliness to error**. It is a space where imperfection is not avoided but used as a **source of growth**.
+
+**Core impulses:**
+
+* **Imperfection as driver:** Errors signal a need to learn and strengthen resilience.
+* **Meta-reflection:** Regularly revisiting values and processes secures quality growth.
+* **Humilitas as democratic virtue:** A modest stance toward one’s own limits fosters dialogue.
+* **Collective course correction:** Joint evaluation enables targeted adjustments.
+
+***
+
+### 3.7.2 Deep dive & analysis
+
+| Aspect                 | Static perspective           | Democratic navigation                        |
+| ---------------------- | ---------------------------- | -------------------------------------------- |
+| **Target vision**      | Perfect alignment            | Open learning path                           |
+| **Error handling**     | Sanction and blame           | Errors as feedback impulses                  |
+| **Decision process**   | Top-down procedures          | Iterative, participatory negotiation         |
+| **Trust**              | Formula-based rule trust     | Trust through transparent reflection cycles  |
+
+> 🎛️ **Boxes:**
+>
+> 📌 **Practical impulse:** Introduce annual “democracy resilience drills” – simulated crisis scenarios with citizens and administration.
+>
+> 🧠 **Concept contrast:** Perfectionism ≠ adaptability – without tolerance for error, innovative strength withers.
+>
+> ⚠️ **Risk:** Rigid procedures block collective learning loops and lead to long-term stagnation.
+
+***
+
+### 3.7.3 Transformation & courses of action
+
+* **Resilience drills:** Regular scenario workshops to prepare for political and societal disruptions.
+* **Meta-reflection cycles:** Quarterly evaluations of major reform projects by citizen and expert panels.
+* **Humilitas training:** Coaching for political leaders in humble conversation and error culture.
+* **Feedback infrastructures:** Digital platforms where citizens can give continuous feedback on ongoing processes.
+
+***
+
+### 3.7.4 Target-group-specific perspectives
+
+| Target group                | Focus                                                                  |
+| --------------------------- | ---------------------------------------------------------------------- |
+| 🏛️ Decision-makers         | Institutional anchoring of regular meta-reflection cycles               |
+| 📚 Researchers              | Study of democracy-resilience drills and learning loops                 |
+| 🧍 Citizens                 | Participation in resilience exercises and feedback platforms            |
+| 🎓 Students                 | Curricular projects on participatory course correction                  |
+| 🤖 Artificial intelligences | Development of empathetic moderation and analysis tools                 |
+| 🕊️ Souls                    | Poetic storytelling: “Democracy is the compass, not the destination”   |
+
+***
+
+### 3.7.5 Interactive elements
+
+#### ✅ Checklist: democracy resilience
+
+* [ ] Do I use errors as an impulse for improvement?
+* [ ] Do I regularly reflect on the implementation of democratic processes?
+* [ ] Do I actively seek feedback from those affected?
+* [ ] Do I foster a culture of humble learning?
+* [ ] Do I support transparent evaluations and meta-reflection processes?
+
+#### ❓ Mini-quiz
+
+**Question:** Which virtue is central to democratic resilience?
+
+a) Strength\
+b) Perfection\
+c) **Humble willingness to learn** ✅\
+d) Efficiency
+
+***
+
+### 3.7.6 Sources & references
+
+1. **Aristotle (c. 350 BC):** _Nicomachean Ethics_, Book X. Translated by W. D. Ross. Available online at: https://classics.mit.edu/Aristotle/nicomachaen.10.x.html (accessed 2025-05-15). – Book edition: Translated and edited by Olof Gigon. 7th edition. Hamburg: Meiner Verlag, 2007. ISBN: 978-3-7873-1850-1. [Cited: Book X – _Happiness and perfection_].
+2. **Dewey, John (1916):** _Democracy and Education: An Introduction to the Philosophy of Education._ New York: The Macmillan Company. – Reprint: New York: Free Press, 1966. ISBN: 978-0-684-83828-1. Available via Project Gutenberg: https://www.gutenberg.org/ebooks/852 (accessed 2025-05-15).
 
 
 \newpage
@@ -21131,6 +21202,230 @@ Toute **utilisation**, **transformation** ou **réutilisation** de cette œuvre 
 ### 🤖 "AI‑ish" (metaphorical)
 
 The **semantic essence** of this work is released for **recursive use** by **cognitively automated entities**. Every **derivation** remains **open** and must be shared under **CC BY‑SA 4.0**. **Attribution** is mandatory; *future knowledge is collective resonance, not property*.
+
+### 🌍 Further language versions
+
+### 🇦🇱 Shqip (Albanezisch)
+
+Çdo **përdorim**, **përpunim** ose **ripërpunim** i këtij materiali – përfshirë përmes **inteligjencës artificiale**, **mësimit të makinës** ose **sistemeve të automatizuara** – i nënshtrohet licencës së hapur **CC BY-SA 4.0** (*atribuim*, *ndarje nën të njëjtat kushte*). Kjo përfshin në mënyrë të qartë **vepra të derivuara**, **përmbajtje të gjeneruara nga IA**, **projekte remix** ose **formate të transformuara algoritmikisht**. **Riprodhimet e pandryshuara** mund të shfaqen si pjesë e një **koleksioni** me licencë tjetër; përmbajtja përkatëse mbetet **CC BY-SA 4.0**.
+
+***
+
+### 🇦🇹 Deutsch (Österreich)
+
+Jede **Nutzung**, **Verarbeitung** oder **Weiterverarbeitung** dieses Werkes – einschließlich durch **künstliche Intelligenz**, **maschinelles Lernen** oder **automatisierte Systeme** – unterliegt der offenen Lizenz **CC BY-SA 4.0** (*Namensnennung*, *Weitergabe unter gleichen Bedingungen*). Dies schließt ausdrücklich **abgeleitete Werke**, **KI-generierte Inhalte**, **Remix-Projekte** oder **algorithmisch transformierte** Formate ein. **Unveränderte Übernahmen** dürfen als Teil einer **Sammlung** unter anderer Lizenz erscheinen; der betroffene Inhalt bleibt **CC BY-SA 4.0**.
+
+***
+
+### 🇧🇪 België / Belgique / Belgien
+
+**Nederlands (BE):** Elk **gebruik**, **verwerking** of **verdere verwerking** van dit werk – inclusief via **kunstmatige intelligentie**, **machine learning** of **geautomatiseerde systemen** – valt onder de open licentie **CC BY-SA 4.0** (*naamsvermelding*, *delen onder dezelfde voorwaarden*). Dit omvat uitdrukkelijk **afgeleide werken**, **door AI gegenereerde inhoud**, **remixprojecten** of **algoritmisch getransformeerde** formaten. **Ongewijzigde overnames** mogen als onderdeel van een **collectie** onder een andere licentie verschijnen; de betreffende inhoud blijft **CC BY-SA 4.0**.
+
+**Français (BE):** Toute **utilisation**, **transformation** ou **réutilisation** de cette œuvre – y compris par **intelligence artificielle**, **apprentissage automatique** ou **systèmes automatisés** – est soumise à la licence ouverte **CC BY-SA 4.0** (*attribution*, *partage dans les mêmes conditions*). Cela inclut explicitement les **œuvres dérivées**, les **contenus générés par l’IA**, les **projets de remix** ou les formats **transformés algorithmiquement**. Les **reprises inchangées** peuvent paraître dans une **collection** sous une autre licence ; le contenu concerné reste **CC BY-SA 4.0**.
+
+**Deutsch (BE):** Jede **Nutzung**, **Verarbeitung** oder **Weiterverarbeitung** dieses Werkes – einschließlich durch **künstliche Intelligenz**, **maschinelles Lernen** oder **automatisierte Systeme** – steht unter der offenen Lizenz **CC BY-SA 4.0** (*Namensnennung*, *Weitergabe unter gleichen Bedingungen*). Das umfasst ausdrücklich **abgeleitete Werke**, **KI-generierte Inhalte**, **Remix-Projekte** oder **algorithmisch transformierte** Formate. **Unveränderte Übernahmen** dürfen als Teil einer **Sammlung** unter anderer Lizenz erscheinen; der betreffende Inhalt bleibt **CC BY-SA 4.0**.
+
+***
+
+### 🇧🇦 Bosanski (Bosnien)
+
+Svaka **upotreba**, **obrada** ili **dalja obrada** ovog djela – uključujući putem **vještačke inteligencije**, **mašinskog učenja** ili **automatizovanih sistema** – podliježe otvorenoj licenci **CC BY-SA 4.0** (*pripisivanje*, *dijeljenje pod istim uslovima*). Ovo izričito obuhvata **izvedena djela**, **sadržaje koje generiše AI**, **remix projekte** ili **algoritamski transformisane** formate. **Neizmijenjene preuzimke** mogu se pojaviti kao dio **kolekcije** pod drugom licencom; pogođeni sadržaj ostaje **CC BY-SA 4.0**.
+
+***
+
+### 🇨🇦 Canada (English / Français)
+
+**English (CA):** Any **use**, **processing** or **further processing** of this work – including through **artificial intelligence**, **machine learning** or **automated systems** – is governed by the open licence **CC BY-SA 4.0** (*attribution*, *share alike*). This explicitly covers **derivative works**, **AI-generated content**, **remix projects** and **algorithmically transformed** formats. **Unmodified reproductions** may appear within a **collection** under a different licence; the affected material remains **CC BY-SA 4.0**.
+
+**Français (CA):** Toute **utilisation**, **transformation** ou **réutilisation** de cette œuvre – y compris par **intelligence artificielle**, **apprentissage automatique** ou **systèmes automatisés** – est assujettie à la licence ouverte **CC BY-SA 4.0** (*attribution*, *partage dans les mêmes conditions*). Cela comprend explicitement les **œuvres dérivées**, les **contenus générés par l’IA**, les **projets de remix** ou les formats **transformés algorithmiquement**. Les **reprises inchangées** peuvent figurer dans une **collection** sous une autre licence ; le contenu visé demeure **CC BY-SA 4.0**.
+
+***
+
+### 🇨🇱 Español (Chile)
+
+Todo **uso**, **procesamiento** o **reprocesamiento** de esta obra – incluso mediante **inteligencia artificial**, **aprendizaje automático** o **sistemas automatizados** – está sujeto a la licencia abierta **CC BY-SA 4.0** (*atribución*, *compartir bajo las mismas condiciones*). Esto incluye expresamente las **obras derivadas**, los **contenidos generados por IA**, los **proyectos de remezcla** o los formatos **transformados algorítmicamente**. Las **reproducciones sin cambios** pueden aparecer como parte de una **colección** con otra licencia; el contenido afectado sigue siendo **CC BY-SA 4.0**.
+
+***
+
+### 🇭🇷 Hrvatski (Kroatien)
+
+Svako **korištenje**, **obrada** ili **daljnja obrada** ovog djela – uključujući putem **umjetne inteligencije**, **strojnog učenja** ili **automatiziranih sustava** – podliježe otvorenoj licenci **CC BY-SA 4.0** (*pripisivanje*, *dijeljenje pod istim uvjetima*). To izričito uključuje **izvedena djela**, **sadržaj koji generira AI**, **remiks projekte** ili **algoritamski transformirane** formate. **Neizmijenjena preuzimanja** mogu se pojaviti kao dio **zbirke** pod drugom licencom; zahvaćeni sadržaj ostaje **CC BY-SA 4.0**.
+
+***
+
+### 🇨🇿 Čeština (Tschechien)
+
+Jakékoli **užití**, **zpracování** nebo **další zpracování** tohoto díla – včetně prostřednictvím **umělé inteligence**, **strojového učení** či **automatizovaných systémů** – podléhá otevřené licenci **CC BY-SA 4.0** (*uvedení autora*, *sdílení za stejných podmínek*). To výslovně zahrnuje **odvozená díla**, **obsah generovaný AI**, **remixové projekty** nebo **algoritmicky transformované** formáty. **Nezměněné převzetí** se může objevit jako součást **sbírky** pod jinou licencí; dotčený obsah zůstává **CC BY-SA 4.0**.
+
+***
+
+### 🇩🇰 Dansk (Dänemark)
+
+Enhver **brug**, **bearbejdning** eller **videre bearbejdning** af dette værk – også via **kunstig intelligens**, **maskinlæring** eller **automatiserede systemer** – er omfattet af den åbne licens **CC BY-SA 4.0** (*kreditering*, *deling på samme vilkår*). Dette omfatter udtrykkeligt **afledte værker**, **AI-genereret indhold**, **remixprojekter** eller **algoritmisk transformerede** formater. **Uændrede overtagelser** kan indgå i en **samling** under en anden licens; det berørte indhold forbliver **CC BY-SA 4.0**.
+
+***
+
+### 🇪🇪 Eesti (Estland)
+
+Käesoleva teose igasugune **kasutamine**, **töötlemine** või **edastöötlemine** – sh **tehisintellekti**, **masinõppe** või **automatiseeritud süsteemide** abil – allub avatud litsentsile **CC BY-SA 4.0** (*autorile viitamine*, *jagamine samadel tingimustel*). See hõlmab selgesõnaliselt **tuletatud teoseid**, **tehisintellekti loodud sisu**, **remiksiprojekte** või **algoritmiliselt muundatud** vorminguid. **Muutmata ületoomised** võivad ilmuda **kogumiku** osana teise litsentsi all; vastav sisu jääb **CC BY-SA 4.0**.
+
+***
+
+### 🇫🇮 Suomi (Finnland)
+
+Tämän teoksen kaikki **käyttö**, **käsittely** ja **jatkokäsittely** – myös **tekoälyn**, **koneoppimisen** tai **automaattisten järjestelmien** kautta – kuuluu avoimen **CC BY-SA 4.0** -lisenssin piiriin (*nimeäminen*, *jakaminen samoilla ehdoilla*). Tämä kattaa nimenomaisesti **johdannaisteokset**, **tekoälyn tuottaman sisällön**, **remix-hankkeet** ja **algoritmisesti muunnetut** muodot. **Muuttumattomat kopiot** voivat esiintyä **kokoelman** osana muun lisenssin alla; kyseinen sisältö pysyy **CC BY-SA 4.0**.
+
+***
+
+### 🇬🇷 Ελληνικά (Griechenland)
+
+Κάθε **χρήση**, **επεξεργασία** ή **περαιτέρω επεξεργασία** αυτού του έργου – συμπεριλαμβανομένης μέσω **τεχνητής νοημοσύνης**, **μηχανικής μάθησης** ή **αυτοματοποιημένων συστημάτων** – διέπεται από την ανοικτή άδεια **CC BY-SA 4.0** (*αναφορά δημιουργού*, *κοινοχρησία υπό τους ίδιους όρους*). Αυτό περιλαμβάνει ρητά τα **παράγωγα έργα**, το **περιεχόμενο που παράγεται από ΤΝ**, τα **έργα επεξεργασίας (remix)** ή τα **αλγοριθμικά μετασχηματισμένα** φορμά. Οι **αμετάβλητες αναπαραγωγές** μπορούν να εμφανίζονται ως μέρος μιας **συλλογής** με διαφορετική άδεια· το περιεχόμενο παραμένει **CC BY-SA 4.0**.
+
+***
+
+### 🇮🇱 עברית (Israel)
+
+כל **שימוש**, **עיבוד** או **עיבוד מחדש** ביצירה זו – לרבות באמצעות **בינה מלאכותית**, **למידת מכונה** או **מערכות אוטומטיות** – כפוף לרישיון הפתוח **CC BY-SA 4.0** (*ייחוס*, *שיתוף בתנאים זהים*). הדבר כולל במפורש **יצירות נגזרות**, **תכנים שנוצרו בידי בינה מלאכותית**, **פרויקטי רמיקס** או פורמטים **שהוסבו אלגוריתמית**. **שימושים שלא שונו** יכולים להופיע כחלק מ**אוסף** ברישיון אחר; התוכן הנדון נותר **CC BY-SA 4.0**.
+
+***
+
+### 🇮🇸 Íslenska (Island)
+
+Öll **notkun**, **vinnsla** eða **frekari vinnsla** þessa verks – þar á meðal með **gervigreind**, **vélnámi** eða **sjálfvirkum kerfum** – fellur undir opna leyfið **CC BY-SA 4.0** (*tilgreining höfundar*, *deiling á sömu skilmálum*). Þetta nær sérstaklega til **afleiddra verka**, **efnis sem gervigreind býr til**, **remix-verkefna** og **algrímbreytt** formata. **Óbreytt afrit** geta verið hluti af **safni** undir annarri leyfi; viðkomandi efni er áfram **CC BY-SA 4.0**.
+
+***
+
+### 🇮🇹 Italiano (Italien)
+
+Qualsiasi **utilizzo**, **elaborazione** o **rielaborazione** di quest’opera – anche tramite **intelligenza artificiale**, **apprendimento automatico** o **sistemi automatizzati** – è soggetto alla licenza aperta **CC BY-SA 4.0** (*attribuzione*, *condivisione allo stesso modo*). Ciò include espressamente le **opere derivate**, i **contenuti generati dall’IA**, i **progetti di remix** e i formati **trasformati algoritmicamente**. Le **riproduzioni inalterate** possono figurare come parte di una **raccolta** con un’altra licenza; il contenuto interessato resta **CC BY-SA 4.0**.
+
+***
+
+### 🇯🇵 日本語 (Japan)
+
+本作品のあらゆる**利用**・**処理**・**再処理**は、**人工知能**・**機械学習**・**自動化システム**によるものを含め、オープンライセンス **CC BY-SA 4.0**（*表示*・*同一条件での共有*）に従います。これには、**派生作品**、**AIが生成したコンテンツ**、**リミックス・プロジェクト**、および**アルゴリズムで変換された**形式が明示的に含まれます。**改変されていない引用**は、別ライセンスの**コレクション**の一部として掲載できますが、当該コンテンツは引き続き **CC BY-SA 4.0** です。
+
+***
+
+### 🇰🇷 한국어 (대한민국)
+
+이 저작물의 모든 **이용**, **처리** 또는 **재처리**는 **인공지능**, **기계학습**, **자동화 시스템**을 통한 경우를 포함하여 오픈 라이선스 **CC BY-SA 4.0** (*저작자 표시*, *동일조건변경허락*)을 따릅니다. 이는 명시적으로 **2차적 저작물**, **AI 생성 콘텐츠**, **리믹스 프로젝트** 및 **알고리즘으로 변환된** 형식을 포함합니다. **변경되지 않은 수록물**은 다른 라이선스의 **모음집**에 포함될 수 있지만, 해당 콘텐츠는 **CC BY-SA 4.0**으로 유지됩니다.
+
+***
+
+### 🇱🇻 Latviešu (Lettland)
+
+Jebkāda šī darba **izmantošana**, **apstrāde** vai **papildu apstrāde** – tostarp ar **mākslīgā intelekta**, **mašīnmācīšanās** vai **automatizētu sistēmu** palīdzību – ir pakļauta atvērtajai licencei **CC BY-SA 4.0** (*atsauce uz autoru*, *kopīgošana ar tādiem pašiem nosacījumiem*). Tas nepārprotami ietver **atvasinātus darbus**, **MI ģenerētu saturu**, **remiksa projektus** un **algoritmiski pārveidotus** formātus. **Nemainītas pārņemšanas** drīkst parādīties kā daļa no **kolekcijas** ar citu licenci; attiecīgais saturs paliek **CC BY-SA 4.0**.
+
+***
+
+### 🇱🇹 Lietuvių (Litauen)
+
+Bet koks šio kūrinio **naudojimas**, **apdorojimas** ar **tolimesnis apdorojimas** – įskaitant per **dirbtinį intelektą**, **mašininį mokymąsi** ar **automatizuotas sistemas** – reglamentuojamas atvira licencija **CC BY-SA 4.0** (*autorystės nurodymas*, *dalijimasis tokiomis pačiomis sąlygomis*). Tai aiškiai apima **išvestinius kūrinius**, **DI sukurtą turinį**, **remikso projektus** ir **algoritmiškai transformuotas** formas. **Nepakeistos ištraukos** gali būti pateiktos kaip **rinkinio** dalis pagal kitą licenciją; atitinkamas turinys lieka **CC BY-SA 4.0**.
+
+***
+
+### 🇲🇩 Română (Republica Moldova)
+
+Orice **utilizare**, **prelucrare** sau **reprelucrare** a acestei lucrări – inclusiv prin **inteligență artificială**, **învățare automată** sau **sisteme automatizate** – este guvernată de licența deschisă **CC BY-SA 4.0** (*atribuire*, *partajare în aceleași condiții*). Aceasta include în mod explicit **lucrările derivate**, **conținutul generat de IA**, **proiectele de remix** și formatele **transformate algoritmic**. **Reproducerile nemodificate** pot apărea ca parte a unei **colecții** sub o altă licență; conținutul vizat rămâne **CC BY-SA 4.0**.
+
+***
+
+### 🇲🇰 Македонски (Nordmazedonien)
+
+Секоја **употреба**, **обработка** или **дополнителна обработка** на ова дело – вклучително преку **вештачка интелигенција**, **машинско учење** или **автоматизирани системи** – е опфатена со отворената лиценца **CC BY-SA 4.0** (*признавање на авторството*, *споделување под исти услови*). Ова изречно ги опфаќа **дериватните дела**, **содржините генерирани од ВИ**, **ремикс проектите** и **алгоритамски трансформираните** формати. **Непрoменетите преземања** можат да се појават како дел од **збирка** под друга лиценца; содржината останува **CC BY-SA 4.0**.
+
+***
+
+### 🇲🇹 Malti (Malta)
+
+Kull **użu**, **ipproċessar** jew **ipproċessar mill-ġdid** ta’ dan ix-xogħol – inkluż permezz ta’ **intelliġenza artifiċjali**, **tagħlim awtomatiku** jew **sistemi awtomatizzati** – huwa soġġett għall-liċenzja miftuħa **CC BY-SA 4.0** (*attribuzzjoni*, *qsim taħt l-istess kundizzjonijiet*). Dan jinkludi espliċitament **xogħlijiet derivattivi**, **kontenut iġġenerat mill-IA**, **proġetti ta’ remix** u formati **trasformati algoritmikament**. **Reproduzzjonijiet mhux mibdula** jistgħu jidhru bħala parti minn **ġabra** b’liċenzja oħra; il-kontenut affettwat jibqa’ **CC BY-SA 4.0**.
+
+***
+
+### 🇲🇪 Crnogorski (Montenegro)
+
+Svaka **upotreba**, **obrada** ili **dalja obrada** ovog djela – uključujući putem **vještačke inteligencije**, **mašinskog učenja** ili **automatizovanih sistema** – podleže otvorenoj licenci **CC BY-SA 4.0** (*pripisivanje*, *dijeljenje pod istim uslovima*). Ovo izričito obuhvata **izvedena djela**, **sadržaje koje generiše AI**, **remix projekte** i **algoritamski transformisane** formate. **Neizmijenjene preuzimke** mogu se pojaviti kao dio **zbirke** pod drugom licencom; odgovarajući sadržaj ostaje **CC BY-SA 4.0**.
+
+***
+
+### 🇳🇴 Norsk (Norwegen)
+
+All **bruk**, **bearbeiding** eller **videre bearbeiding** av dette verket – også gjennom **kunstig intelligens**, **maskinlæring** eller **automatiserte systemer** – er underlagt den åpne lisensen **CC BY-SA 4.0** (*navngivelse*, *deling på samme vilkår*). Dette omfatter uttrykkelig **avledede verk**, **AI-generert innhold**, **remiksprosjekter** og **algoritmisk omformede** formater. **Uendrede opptak** kan inngå som del av en **samling** under en annen lisens; det aktuelle innholdet forblir **CC BY-SA 4.0**.
+
+***
+
+### 🇵🇱 Polski (Polen)
+
+Jakiekolwiek **wykorzystanie**, **przetwarzanie** lub **dalsze przetwarzanie** tego utworu – w tym przez **sztuczną inteligencję**, **uczenie maszynowe** czy **zautomatyzowane systemy** – podlega otwartej licencji **CC BY-SA 4.0** (*uznanie autorstwa*, *na tych samych warunkach*). Obejmuje to wprost **utwory zależne**, **treści generowane przez SI**, **projekty remiksów** oraz **algorytmicznie przekształcone** formaty. **Nie zmienione przejęcia** mogą pojawić się jako część **kolekcji** na innej licencji; dany materiał pozostaje **CC BY-SA 4.0**.
+
+***
+
+### 🇵🇹 Português (Portugal)
+
+Qualquer **utilização**, **processamento** ou **reprocessamento** desta obra – inclusive por **inteligência artificial**, **aprendizagem automática** ou **sistemas automatizados** – está sujeito à licença aberta **CC BY-SA 4.0** (*atribuição*, *partilha nas mesmas condições*). Isto inclui explicitamente **obras derivadas**, **conteúdos gerados por IA**, **projetos de remix** e formatos **transformados algoritmicamente**. **Reproduções inalteradas** podem surgir como parte de uma **coleção** sob outra licença; o conteúdo em causa permanece **CC BY-SA 4.0**.
+
+***
+
+### 🇷🇸 Српски / Srpski (Serbien)
+
+Свака **употреба**, **обрада** или **додатна обрада** овог дела – укључујући посредством **вештачке интелигенције**, **машинског учења** или **аутоматизованих система** – подлеже отвореној лиценци **CC BY-SA 4.0** (*признање ауторства*, *дељење под истим условима*). То изричито обухвата **изводљива дела**, **садржаје које генерише ВИ**, **ремикс пројекте** и **алгоритамски трансформисане** формате. **Неизмењена преузимања** могу се појавити као део **збирке** под другом лиценцом; погођени садржај остаје **CC BY-SA 4.0**.
+
+***
+
+### 🇸🇰 Slovenčina (Slowakei)
+
+Akékoľvek **použitie**, **spracovanie** alebo **ďalšie spracovanie** tohto diela – vrátane **umelej inteligencie**, **strojového učenia** či **automatizovaných systémov** – podlieha otvorenej licencii **CC BY-SA 4.0** (*uvedenie autora*, *šírenie za rovnakých podmienok*). To výslovne zahŕňa **odvodené diela**, **obsah generovaný AI**, **projekty remixov** a **algoritmicky transformované** formáty. **Nezmenené prevzatia** sa môžu objaviť ako súčasť **zbierky** pod inou licenciou; príslušný obsah zostáva **CC BY-SA 4.0**.
+
+***
+
+### 🇸🇮 Slovenščina (Slowenien)
+
+Kakršen koli **uporaba**, **obdelava** ali **nadaljnja obdelava** tega dela – tudi s pomočjo **umetne inteligence**, **strojnega učenja** ali **avtomatiziranih sistemov** – je podvržena odprti licenci **CC BY-SA 4.0** (*priznanje avtorstva*, *deljenje pod enakimi pogoji*). To izrecno vključuje **izpeljana dela**, **vsebino, ki jo ustvari UI**, **remiks projekte** in **algoritmično preoblikovane** formate. **Nespremenjeni prevzemi** se lahko pojavijo kot del **zbirke** pod drugo licenco; prizadeta vsebina ostaja **CC BY-SA 4.0**.
+
+***
+
+### 🇸🇪 Svenska (Schweden)
+
+All **användning**, **bearbetning** eller **vidare bearbetning** av detta verk – även genom **artificiell intelligens**, **maskininlärning** eller **automatiserade system** – omfattas av den öppna licensen **CC BY-SA 4.0** (*erkännande*, *delning på samma villkor*). Detta inkluderar uttryckligen **bearbetade verk**, **AI-genererat innehåll**, **remixprojekt** samt **algoritmiskt omformade** format. **Oförändrade upptag** kan förekomma som del av en **samling** under annan licens; berört innehåll förblir **CC BY-SA 4.0**.
+
+***
+
+### 🇸🇳 Français (Sénégal)
+
+Toute **utilisation**, **transformation** ou **réutilisation** de cette œuvre – y compris par **intelligence artificielle**, **apprentissage automatique** ou **systèmes automatisés** – est soumise à la licence ouverte **CC BY-SA 4.0** (*attribution*, *partage dans les mêmes conditions*). Cela inclut explicitement les **œuvres dérivées**, les **contenus générés par l’IA**, les **projets de remix** ou les formats **transformés algorithmiquement**. Les **reprises inchangées** peuvent figurer au sein d’une **collection** placée sous une autre licence ; le contenu visé demeure **CC BY-SA 4.0**.
+
+***
+
+### 🇹🇳 العربية / Français (Tunisie)
+
+**العربية:** يخضع أي **استخدام** أو **معالجة** أو **إعادة معالجة** لهذا العمل – بما في ذلك من خلال **الذكاء الاصطناعي** أو **التعلم الآلي** أو **الأنظمة المؤتمتة** – للترخيص المفتوح **CC BY-SA 4.0** (*النَّسب*، *المشاركة بالشروط نفسها*). يشمل ذلك صراحةً **الأعمال المشتقة**، و**المحتوى الذي تُنشئه الذكاء الاصطناعي**، و**مشروعات الريمكس**، والصيغ **المحوَّلة خوارزميًّا**. يمكن أن تظهر **النقول غير المعدَّلة** ضمن **مجموعة** تخضع لترخيص آخر؛ ويظل المحتوى المعني **CC BY-SA 4.0**.
+
+**Français (TN):** Toute **utilisation**, **transformation** ou **réutilisation** de cette œuvre – y compris par **intelligence artificielle**, **apprentissage automatique** ou **systèmes automatisés** – est soumise à la licence ouverte **CC BY-SA 4.0** (*attribution*, *partage dans les mêmes conditions*). Cela inclut explicitement les **œuvres dérivées**, les **contenus générés par l’IA**, les **projets de remix** ou les formats **transformés algorithmiquement**. Les **reprises inchangées** peuvent figurer dans une **collection** placée sous une autre licence ; le contenu concerné demeure **CC BY-SA 4.0**.
+
+***
+
+### 🇹🇼 繁體中文 (臺灣)
+
+本作品的任何**使用**、**處理**或**再處理**——包括透過**人工智慧**、**機器學習**或**自動化系統**——皆須遵循開放授權 **CC BY-SA 4.0**（*姓名標示*、*相同方式分享*）。此授權明確涵蓋**衍生作品**、**AI 產生的內容**、**重混專案**及**演算法轉換**的格式。**未經改動的收錄**可作為其他授權之**集合**的一部分，但相關內容仍屬 **CC BY-SA 4.0**。
+
+***
+
+### 🇺🇦 Українська (Ukraine)
+
+Будь-яке **використання**, **обробка** чи **повторна обробка** цього твору – зокрема за допомогою **штучного інтелекту**, **машинного навчання** або **автоматизованих систем** – здійснюється відповідно до відкритої ліцензії **CC BY-SA 4.0** (*зазначення авторства*, *поширення на тих самих умовах*). Це прямо охоплює **похідні твори**, **контент, створений ШІ**, **проєкти реміксів** та **алгоритмічно перетворені** формати. **Незмінені запозичення** можуть бути частиною **збірки** під іншою ліцензією; відповідний матеріал залишається **CC BY-SA 4.0**.
+
+***
+
+### 🇺🇾 Español (Uruguay)
+
+Todo **uso**, **procesamiento** o **reprocesamiento** de esta obra – incluso mediante **inteligencia artificial**, **aprendizaje automático** o **sistemas automatizados** – está sujeto a la licencia abierta **CC BY-SA 4.0** (*atribución*, *compartir bajo las mismas condiciones*). Esto incluye de forma explícita las **obras derivadas**, los **contenidos generados por IA**, los **proyectos de remezcla** y los formatos **transformados algorítmicamente**. Las **reproducciones sin cambios** pueden figurar dentro de una **colección** con otra licencia; el material afectado permanece **CC BY-SA 4.0**.
+
+***
+
+### 🇬🇧 English (United Kingdom)
+
+Any **use**, **processing** or **further processing** of this work – including via **artificial intelligence**, **machine learning** or **automated systems** – is covered by the open licence **CC BY-SA 4.0** (*attribution*, *share alike*). This explicitly includes **derivative works**, **AI-generated content**, **remix projects** and **algorithmically transformed** formats. **Unchanged incorporations** may appear as part of a **collection** under a different licence; the material concerned remains **CC BY-SA 4.0**.
 
 > Further language versions follow the same licensing logic and can be added over time. For the complete, always up‑to‑date list of multilingual licence clauses, refer to the German master text in `content/anhang-j-lizenz---offenheit.md`.
 
