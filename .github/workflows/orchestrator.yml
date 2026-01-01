@@ -21,14 +21,10 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    strategy:
-      matrix:
-        lang: [de, en]
     env:
       PROFILE: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.profile || 'default' }}
       BASE_SHA: ${{ github.event.before }}
       REPO_VISIBILITY: ${{ github.event.repository.private && 'private' || 'public' }}
-      LANG_DIR: ${{ matrix.lang }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -49,67 +45,140 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Prepare fonts
+      - name: Prepare gitbook_worker sources for Docker build
+        run: |
+          tar -xzf packages/gitbook-worker/gitbook-worker-2.0.4-hotfix.tar.gz \
+            --strip-components=1 \
+            gitbook-worker-release-v.2.0.4-hotfix/gitbook_worker
+
+      - name: Determine content variants from content.yaml
+        id: contents
+        run: |
+          python - <<'PY'
+import json
+import yaml
+from pathlib import Path
+
+data = yaml.safe_load(Path("content.yaml").read_text())
+langs = [c["id"] for c in data.get("contents", [])]
+if not langs:
+    raise SystemExit("No content ids found in content.yaml")
+
+with open("$GITHUB_OUTPUT", "a", encoding="utf-8") as fh:
+    fh.write(f"langs={json.dumps(langs)}\n")
+
+print(f"Detected content variants: {', '.join(langs)}")
+PY
+
+      - name: Prepare fonts for all variants
         env:
           GITBOOK_WORKER_LOG_STDOUT_ONLY: "1"
+          LANGS_JSON: ${{ steps.contents.outputs.langs }}
         run: |
           set -euo pipefail
+          langs=$(python - <<'PY'
+import json, os
+langs = json.loads(os.environ["LANGS_JSON"])
+print(" ".join(langs))
+PY
+)
           mkdir -p fonts-storage
-          python -m gitbook_worker.tools.publishing.fonts_cli sync \
-            --manifest ${LANG_DIR}/publish.yml \
-            --repo-root . \
-            --search-path .github/fonts
+          for lang in $langs; do
+            echo "Syncing fonts for ${lang}"
+            python -m gitbook_worker.tools.publishing.fonts_cli sync \
+              --manifest ${lang}/publish.yml \
+              --repo-root . \
+              --search-path .github/fonts
+          done
 
-      - name: Run workflow orchestrator
+      - name: Build Docker image (Dockerfile.dynamic)
+        run: |
+          docker build -f gitbook_worker/tools/docker/Dockerfile.dynamic \
+            -t erda-smart-worker:latest .
+
+      - name: Run workflow orchestrator for all variants (Docker)
+        env:
+          LANGS_JSON: ${{ steps.contents.outputs.langs }}
         run: |
           set -euo pipefail
+          langs=$(python - <<'PY'
+import json, os
+langs = json.loads(os.environ["LANGS_JSON"])
+print(" ".join(langs))
+PY
+)
+
           BASE="$BASE_SHA"
           EXTRA_ARGS=""
           if [ -n "$BASE" ]; then
             EXTRA_ARGS="--base $BASE"
           fi
 
-          python -m gitbook_worker.tools.workflow_orchestrator run \
-            --root . \
-            --manifest ${LANG_DIR}/publish.yml \
-            --content-config content.yaml \
-            --lang ${LANG_DIR} \
-            --profile ${PROFILE} \
-            --repo-visibility ${REPO_VISIBILITY} \
-            --repository ${GITHUB_REPOSITORY} \
-            --commit ${GITHUB_SHA} \
-            ${EXTRA_ARGS} \
-            --reset-others || EXIT_CODE=$?
+          for lang in $langs; do
+            echo "Running orchestrator for ${lang}"
+            docker run --rm \
+              -v "${PWD}":/workspace \
+              -e GITHUB_SHA \
+              -e GITHUB_REPOSITORY \
+              erda-smart-worker:latest \
+              python3 -m gitbook_worker.tools.workflow_orchestrator run \
+                --root /workspace \
+                --manifest ${lang}/publish.yml \
+                --content-config content.yaml \
+                --lang ${lang} \
+                --profile ${PROFILE} \
+                --repo-visibility ${REPO_VISIBILITY} \
+                --repository ${GITHUB_REPOSITORY} \
+                --commit ${GITHUB_SHA} \
+                ${EXTRA_ARGS} \
+                --reset-others || EXIT_CODE=$?
 
-          EXIT_CODE=${EXIT_CODE:-0}
-          if [ $EXIT_CODE -eq 2 ]; then
-            echo "Nothing to publish (exit code 2) - treating as success"
-            exit 0
-          elif [ $EXIT_CODE -ne 0 ]; then
-            echo "Orchestrator failed with exit code $EXIT_CODE"
-            exit $EXIT_CODE
-          fi
+            EXIT_CODE=${EXIT_CODE:-0}
+            if [ $EXIT_CODE -eq 2 ]; then
+              echo "Nothing to publish for ${lang} (exit code 2) - treating as success"
+              EXIT_CODE=0
+            fi
+
+            if [ $EXIT_CODE -ne 0 ]; then
+              echo "Orchestrator failed for ${lang} with exit code $EXIT_CODE"
+              exit $EXIT_CODE
+            fi
+            unset EXIT_CODE
+          done
 
       - name: Commit and push generated artifacts
         if: success()
+        env:
+          LANGS_JSON: ${{ steps.contents.outputs.langs }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
+          langs=$(python - <<'PY'
+import json, os
+langs = json.loads(os.environ["LANGS_JSON"])
+print(" ".join(langs))
+PY
+)
+
+          paths=""
+          for lang in $langs; do
+            paths="$paths ${lang}/publish"
+          done
+
           # Check if there are changes to commit
-          if git diff --quiet ${LANG_DIR}/publish/; then
-            echo "No changes to commit in ${LANG_DIR}/publish/"
+          if git diff --quiet -- $paths; then
+            echo "No changes to commit in publish outputs"
             exit 0
           fi
 
           # Add and commit PDF artifacts
-          git add ${LANG_DIR}/publish/*.pdf ${LANG_DIR}/publish/*.md ${LANG_DIR}/publish/CITATION.cff ${LANG_DIR}/publish/ATTRIBUTION.md 2>/dev/null || true
+          git add $paths
 
-          # Create commit with details
-          COMMIT_MSG="chore: Update published artifacts (${LANG_DIR}) [skip ci]
+          COMMIT_MSG="chore: Update published artifacts ($langs) [skip ci]
 
           Generated by orchestrator workflow
-          Language: ${LANG_DIR}
+          Languages: $langs
           Profile: ${PROFILE}
           Commit: ${GITHUB_SHA}
           Repository: ${GITHUB_REPOSITORY}
@@ -121,5 +190,4 @@ jobs:
             exit 0
           }
 
-          # Push to current branch
           git push origin "HEAD:${GITHUB_REF#refs/heads/}"
