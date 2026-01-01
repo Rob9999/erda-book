@@ -15,12 +15,60 @@ on:
 
 permissions:
   contents: write
+  packages: write
 
 jobs:
+  build_image:
+    if: ${{ !github.event.repository.private || (github.event_name == 'workflow_dispatch' && github.event.inputs.force_push_to_ghcr == 'true') }}
+    runs-on: ubuntu-latest
+    outputs:
+      digest: ${{ steps.build.outputs.digest }}
+      repository: ${{ steps.repository_slug.outputs.value }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Unpack gitbook_worker (Docker context)
+        run: |
+          tar -xzf packages/gitbook-worker/gitbook-worker-2.0.4-hotfix.tar.gz \
+            --strip-components=1 \
+            gitbook-worker-release-v.2.0.4-hotfix/gitbook_worker
+
+      - name: Derive lowercase repository slug
+        id: repository_slug
+        run: echo "value=${GITHUB_REPOSITORY,,}" >> "$GITHUB_OUTPUT"
+
+      - uses: docker/setup-qemu-action@v3
+
+      - uses: docker/setup-buildx-action@v3
+
+      - name: Log in to GHCR
+        uses: docker/login-action@v3
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Build & push orchestrator image
+        id: build
+        uses: docker/build-push-action@v6
+        with:
+          context: .
+          file: gitbook_worker/tools/docker/Dockerfile.dynamic
+          push: true
+          tags: |
+            ghcr.io/${{ steps.repository_slug.outputs.value }}/publisher:sha-${{ github.sha }}
+            ghcr.io/${{ steps.repository_slug.outputs.value }}/publisher:main
+          cache-from: |
+            type=registry,ref=ghcr.io/${{ steps.repository_slug.outputs.value }}/publisher:buildcache
+          cache-to: |
+            type=registry,ref=ghcr.io/${{ steps.repository_slug.outputs.value }}/publisher:buildcache,mode=max
+
   orchestrate:
+    needs: [build_image]
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      packages: read
     env:
       PROFILE: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.profile || 'default' }}
       BASE_SHA: ${{ github.event.before }}
@@ -28,90 +76,82 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 2 # Fetch HEAD and previous commit for git diff
+          fetch-depth: 2
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-
-      - name: Install system dependencies (LaTeX, Pandoc, fonts, cairo)
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y \
-            pandoc texlive-luatex texlive-fonts-recommended texlive-latex-extra texlive-lang-cjk poppler-utils wget \
-            libcairo2 libcairo2-dev pkg-config
-
-      - name: Install Python dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
-
-      - name: Prepare gitbook_worker sources for Docker build
+      - name: Unpack gitbook_worker (Docker context)
         run: |
           tar -xzf packages/gitbook-worker/gitbook-worker-2.0.4-hotfix.tar.gz \
             --strip-components=1 \
             gitbook-worker-release-v.2.0.4-hotfix/gitbook_worker
 
-      - name: Determine content variants from content.yaml
-        id: contents
-        run: |
-          python -c "import json, yaml, pathlib, os; data=yaml.safe_load(pathlib.Path('content.yaml').read_text()); langs=[c['id'] for c in data.get('contents', [])];\nif not langs: raise SystemExit('No content ids found in content.yaml');\nwith open(os.environ['GITHUB_OUTPUT'],'a',encoding='utf-8') as fh: fh.write(f'langs={json.dumps(langs)}\\n');\nprint('Detected content variants: ' + ', '.join(langs))"
-
-      - name: Prepare fonts for all variants
-        env:
-          GITBOOK_WORKER_LOG_STDOUT_ONLY: "1"
-          LANGS_JSON: ${{ steps.contents.outputs.langs }}
+      - name: Extract language ids from content.yaml
+        id: langs
         run: |
           set -euo pipefail
-          langs=$(python -c "import json, os; print(' '.join(json.loads(os.environ['LANGS_JSON'])))")
-          mkdir -p fonts-storage
-          for lang in $langs; do
-            echo "Syncing fonts for ${lang}"
-            python -m gitbook_worker.tools.publishing.fonts_cli sync \
-              --manifest ${lang}/publish.yml \
-              --repo-root . \
-              --search-path .github/fonts
-          done
+          langs=$(grep -E '^\s*- id:' content.yaml | awk '{print $3}')
+          if [ -z "$langs" ]; then
+            echo "No content ids found" >&2
+            exit 1
+          fi
+          echo "list=$langs" >> "$GITHUB_OUTPUT"
+          echo "Detected: $langs"
 
-      - name: Set up Docker Buildx (cached)
+      - name: Set up Docker Buildx (fallback build)
+        if: ${{ needs.build_image.result != 'success' }}
         uses: docker/setup-buildx-action@v3
 
-      - name: Build Docker image (Dockerfile.dynamic)
-        run: |
-          docker buildx build \
-            --cache-from type=gha,scope=erda-smart-worker-dynamic \
-            --cache-to type=gha,scope=erda-smart-worker-dynamic,mode=max \
-            --load \
-            -f gitbook_worker/tools/docker/Dockerfile.dynamic \
-            -t erda-smart-worker:latest .
+      - name: Build orchestrator image locally
+        if: ${{ needs.build_image.result != 'success' }}
+        uses: docker/build-push-action@v6
+        with:
+          context: .
+          file: gitbook_worker/tools/docker/Dockerfile.dynamic
+          push: false
+          load: true
+          tags: erda-publisher:local
+          cache-from: type=gha
+          cache-to: type=gha,mode=max
 
-      - name: Run workflow orchestrator for all variants (Docker)
+      - name: Log in to GHCR
+        if: ${{ needs.build_image.result == 'success' }}
+        uses: docker/login-action@v3
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Pull published image
+        if: ${{ needs.build_image.result == 'success' }}
+        run: |
+          docker pull ghcr.io/${{ needs.build_image.outputs.repository }}/publisher@${{ needs.build_image.outputs.digest }}
+
+      - name: Run workflow orchestrator per language
         env:
-          LANGS_JSON: ${{ steps.contents.outputs.langs }}
+          IMAGE_REF: ${{ needs.build_image.result == 'success' && format('ghcr.io/{0}/publisher@{1}', needs.build_image.outputs.repository, needs.build_image.outputs.digest) || 'erda-publisher:local' }}
+          LANGS: ${{ steps.langs.outputs.list }}
         run: |
           set -euo pipefail
-          langs=$(python -c "import json, os; print(' '.join(json.loads(os.environ['LANGS_JSON'])))")
-
+          IMAGE="$IMAGE_REF"
           BASE="$BASE_SHA"
           EXTRA_ARGS=""
           if [ -n "$BASE" ]; then
             EXTRA_ARGS="--base $BASE"
           fi
 
-          for lang in $langs; do
+          for lang in $LANGS; do
             echo "Running orchestrator for ${lang}"
             docker run --rm \
-              -v "${PWD}":/workspace \
-              -e GITHUB_SHA \
-              -e GITHUB_REPOSITORY \
-              erda-smart-worker:latest \
-              python3 -m gitbook_worker.tools.workflow_orchestrator run \
+              -v "$PWD:/workspace" \
+              -w /workspace \
+              -e GITHUB_SHA="$GITHUB_SHA" \
+              -e GITHUB_REPOSITORY="$GITHUB_REPOSITORY" \
+              "$IMAGE" \
+              python -m gitbook_worker.tools.workflow_orchestrator run \
                 --root /workspace \
                 --manifest ${lang}/publish.yml \
                 --content-config content.yaml \
                 --lang ${lang} \
-                --profile ${PROFILE} \
+                --profile "${PROFILE}" \
                 --repo-visibility ${REPO_VISIBILITY} \
                 --repository ${GITHUB_REPOSITORY} \
                 --commit ${GITHUB_SHA} \
@@ -120,10 +160,9 @@ jobs:
 
             EXIT_CODE=${EXIT_CODE:-0}
             if [ $EXIT_CODE -eq 2 ]; then
-              echo "Nothing to publish for ${lang} (exit code 2) - treating as success"
+              echo "Nothing to publish for ${lang}"
               EXIT_CODE=0
             fi
-
             if [ $EXIT_CODE -ne 0 ]; then
               echo "Orchestrator failed for ${lang} with exit code $EXIT_CODE"
               exit $EXIT_CODE
@@ -134,31 +173,27 @@ jobs:
       - name: Commit and push generated artifacts
         if: success()
         env:
-          LANGS_JSON: ${{ steps.contents.outputs.langs }}
+          LANGS: ${{ steps.langs.outputs.list }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          langs=$(python -c "import json, os; print(' '.join(json.loads(os.environ['LANGS_JSON'])))")
-
           paths=""
-          for lang in $langs; do
+          for lang in $LANGS; do
             paths="$paths ${lang}/publish"
           done
 
-          # Check if there are changes to commit
           if git diff --quiet -- $paths; then
-            echo "No changes to commit in publish outputs"
+            echo "No changes to commit"
             exit 0
           fi
 
-          # Add and commit PDF artifacts
           git add $paths
 
-          COMMIT_MSG="chore: Update published artifacts ($langs) [skip ci]
+          COMMIT_MSG="chore: Update published artifacts ($LANGS) [skip ci]
 
           Generated by orchestrator workflow
-          Languages: $langs
+          Languages: $LANGS
           Profile: ${PROFILE}
           Commit: ${GITHUB_SHA}
           Repository: ${GITHUB_REPOSITORY}
