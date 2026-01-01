@@ -1,7 +1,7 @@
 # Release History
 
 ## 1.0.2 – 1 Jan 2026
-- **Responsible:** Robert Alexander Massinger (Lead) with the ERDA community translation workgroup.
+- **Responsible:** Robert Alexander Massinger (Lead) with support from ChatGPT/OpenAI for translation.
 - **Goal:** 
   - Technical: 
     - Build a translation workspace, align metadata with the next release cycle and document translation rules. 

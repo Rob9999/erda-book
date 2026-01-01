@@ -1,3 +1,8 @@
+---
+description: "Vorwort"
+date: "2026-01-01"
+---
+
 # Vorwort
 
 _**Vorwort**_
