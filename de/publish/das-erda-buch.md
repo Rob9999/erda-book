@@ -41,7 +41,12 @@ Willkommen im offiziellen Buch zur Vision und Strategie der ERDA.\
 
 \newpage
 
+---
+description: "Vorwort"
+date: "2026-01-01"
+---
 <a id="md-readme-vorwort"></a>
+
 # Vorwort
 
 _**Vorwort**_
@@ -8969,7 +8974,7 @@ Letzte Änderung: 2025-05-28
 ---
 description: "State: BG, Date: 2025-06-11, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "BG"
-date: "2025-06-11"
+date: "2026-01-01"
 author: "Robert Alexander Massinger"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
@@ -11803,7 +11808,7 @@ Letzte Änderung: 2025-06-10
 ---
 description: "State: LU, Date: 2025-06-11, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "LU"
-date: "2025-06-11"
+date: "2026-01-01"
 author: "Robert Alexander Massinger"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
@@ -12813,7 +12818,7 @@ Letzte Änderung: 2025-06-10
 ---
 description: "State: RO, Date: 2025-06-11, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "RO"
-date: "2025-06-11"
+date: "2026-01-01"
 author: "Robert Alexander Massinger"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
@@ -13665,7 +13670,7 @@ _**gemäß**_ [_**ERDA-Staatenarchitektur ("Konzentrische Kreise")**_](#erweiter
 ---
 description: "State: AL, Date: 2025-06-11, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "AL"
-date: "2025-06-11"
+date: "2026-01-01"
 author: "Robert Alexander Massinger"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
@@ -13873,7 +13878,7 @@ Letzte Änderung: 2025-06-11
 ---
 description: "State: AM, Date: 2025-06-11, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "AM"
-date: "2025-06-11"
+date: "2026-01-01"
 author: "Robert Alexander Massinger"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
@@ -14288,7 +14293,7 @@ Letzte Änderung: 2025-06-10
 ---
 description: "State: CH, Date: 2025-06-11, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "CH"
-date: "2025-06-11"
+date: "2026-01-01"
 author: "Robert Alexander Massinger"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
@@ -14519,7 +14524,7 @@ Letzte Änderung: 2025-06-11
 ---
 description: "State: CY, Date: 2025-06-11, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "CY"
-date: "2025-06-11"
+date: "2026-01-01"
 author: "Robert Alexander Massinger"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
@@ -14725,7 +14730,7 @@ Letzte Änderung: 2025-06-11
 ---
 description: "State: GE, Date: 2025-06-11, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "GE"
-date: "2025-06-11"
+date: "2026-01-01"
 author: "Robert Alexander Massinger"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
@@ -15142,7 +15147,7 @@ Letzte Änderung: 2025-06-10
 ---
 description: "State: IL, Date: 2025-06-11, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "IL"
-date: "2025-06-11"
+date: "2026-01-01"
 author: "Robert Alexander Massinger"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
@@ -15769,7 +15774,7 @@ Letzte Änderung: 2025-06-10
 ---
 description: "State: MK, Date: 2025-06-11, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "MK"
-date: "2025-06-11"
+date: "2026-01-01"
 author: "Robert Alexander Massinger"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
@@ -15977,7 +15982,7 @@ Letzte Änderung: 2025-06-11
 ---
 description: "State: MT, Date: 2025-06-11, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "MT"
-date: "2025-06-11"
+date: "2026-01-01"
 author: "Robert Alexander Massinger"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
@@ -16590,7 +16595,7 @@ Letzte Änderung: 2025-06-10
 ---
 description: "State: TR, Date: 2025-06-11, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "TR"
-date: "2025-06-11"
+date: "2026-01-01"
 author: "Robert Alexander Massinger"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
@@ -17414,7 +17419,7 @@ _**gemäß**_ [_**ERDA-Staatenarchitektur ("Konzentrische Kreise")**_](#globale-
 ---
 description: "State: AU, Date: 2025-06-11, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "AU"
-date: "2025-06-11"
+date: "2026-01-01"
 author: "Robert Alexander Massinger"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
@@ -17597,7 +17602,7 @@ Letzte Änderung: 2025-06-11
 ---
 description: "State: CA, Date: 2025-06-11, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "CA"
-date: "2025-06-11"
+date: "2026-01-01"
 author: "Robert Alexander Massinger"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
@@ -17829,7 +17834,7 @@ Letzte Änderung: 2025-06-11
 ---
 description: "State: CL, Date: 2025-06-11, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "CL"
-date: "2025-06-11"
+date: "2026-01-01"
 author: "Robert Alexander Massinger"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
@@ -18237,7 +18242,7 @@ Letzte Änderung: 2025-06-12
 ---
 description: "State: IN, Date: 2025-06-11, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "IN"
-date: "2025-06-11"
+date: "2026-01-01"
 author: "Robert Alexander Massinger"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
@@ -18875,7 +18880,7 @@ Letzte Änderung: 2025-06-10
 ---
 description: "State: NA, Date: 2025-06-11, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "NA"
-date: "2025-06-11"
+date: "2026-01-01"
 author: "Robert Alexander Massinger"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
@@ -19069,7 +19074,7 @@ Letzte Änderung: 2025-06-11
 ---
 description: "State: NZ, Date: 2025-06-11, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "NZ"
-date: "2025-06-11"
+date: "2026-01-01"
 author: "Robert Alexander Massinger"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
@@ -19299,7 +19304,7 @@ Letzte Änderung: 2025-06-11
 ---
 description: "State: SN, Date: 2025-06-11, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "SN"
-date: "2025-06-11"
+date: "2026-01-01"
 author: "Robert Alexander Massinger"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
@@ -19509,7 +19514,7 @@ Letzte Änderung: 2025-06-11
 ---
 description: "State: TN, Date: 2025-06-11, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "TN"
-date: "2025-06-11"
+date: "2026-01-01"
 author: "Robert Alexander Massinger"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
@@ -19655,7 +19660,7 @@ Letzte Änderung: 2025-06-11
 ---
 description: "State: TW, Date: 2025-06-11, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "TW"
-date: "2025-06-11"
+date: "2026-01-01"
 author: "Robert Alexander Massinger"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
@@ -19892,7 +19897,7 @@ Letzte Änderung: 2025-06-11
 ---
 description: "State: UY, Date: 2025-06-11, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "UY"
-date: "2025-06-11"
+date: "2026-01-01"
 author: "Robert Alexander Massinger"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"

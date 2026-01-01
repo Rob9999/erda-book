@@ -1,7 +1,7 @@
 ---
 description: "State: RO, Date: 2025-06-11, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "RO"
-date: "2025-06-11"
+date: "2026-01-01"
 author: "Robert Alexander Massinger"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
