@@ -1,4 +1,8 @@
 version: 0.1.0
+project:
+  name: The ERDA Book
+  license: CC-BY-SA-4.0
+  version: 1.0.2
 profiles:
   default:
     description: English pipeline for the ERDA Book translation draft.
@@ -36,11 +40,11 @@ meta:
     keep_days: 7
 fonts:
 - name: ERDA CC-BY CJK
-  path: .github/fonts/erda-ccby-cjk/true-type/erda-ccby-cjk.ttf
+  path: ../.github/fonts/erda-ccby-cjk/true-type/erda-ccby-cjk.ttf
 publish:
-- path: ./en
+- path: ./
   out_format: pdf
-  out_dir: ./en/publish
+  out_dir: ./publish
   out: the-erda-book.pdf
   source_type: folder
   source_format: markdown

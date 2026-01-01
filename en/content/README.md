@@ -1,5 +1,17 @@
-# The ERDA Book (English Draft)
+---
+source: content/README.md
+status: draft
+description: >-
+  "Strategy, Ethics and Future of Europe – From the democratic constitutional
+  state to a resilient civilisation"
+---
 
-The German original under `../content` is the single source of truth. Every section copied into
-this folder must be translated faithfully and accompanied by bilingual review notes as defined in
-`translation_instruction.md`.
+# Homepage
+
+## ERDA – our democratic evolution
+
+_Strategy, Ethics and Future of Europe – From the democratic constitutional state to a resilient civilisation_
+
+Welcome to the official book on ERDA's vision and strategy.\
+
+<div><figure><img src=".gitbook/assets/ERDA_Logo_simple.png" alt="ERDA Logo"><figcaption><p>ERDA logo</p></figcaption></figure></div>

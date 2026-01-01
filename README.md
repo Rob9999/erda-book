@@ -1,5 +1,9 @@
 # ERDA Book
 
+**Multi-language democratic resilience framework**  
+🇩🇪 Deutsche Fassung: [`de/`](de/)  
+🇬🇧 English version: [`en/`](en/)
+
 ## 📜 Attribution und Lizenzierung
 
 Dieses Projekt verwendet ein **Drei-Ebenen-System** für Transparenz und Rechtssicherheit:
@@ -11,12 +15,12 @@ Dieses Projekt verwendet ein **Drei-Ebenen-System** für Transparenz und Rechtss
    - Wird von CI/CD-Tools geprüft
    - **Zielgruppe:** Entwickler, Maintainer, Rechtsprüfung
 
-2. **`content/anhang-l-kolophon.md`** (PDF-Buch) — **Leserfreundlich**
+2. **`de/content/anhang-l-kolophon.md`** / **`en/content/appendix-l-colophon.md`** (PDF-Buch) — **Leserfreundlich**
    - Narrative Font-Attribution für PDF-Leser
    - Produktionsdetails (TeX Live, Pandoc, Build-Umgebung)
    - **Zielgruppe:** Buchleser ohne Repo-Zugriff
 
-3. **`content/anhang-j-lizenz-and-offenheit.md`** (Konzept) — **Lizenzphilosophie**
+3. **`de/content/anhang-j-lizenz-and-offenheit.md`** / **`en/content/appendix-j-license-openness.md`** (Konzept) — **Lizenzphilosophie**
    - Rechtliche Rahmenbedingungen und Share-Alike-Prinzip
    - **Zielgruppe:** Rechtsinteressierte, KI-Trainer, Remix-Projekte
 
@@ -24,8 +28,8 @@ Dieses Projekt verwendet ein **Drei-Ebenen-System** für Transparenz und Rechtss
 
 **Alle drei Ebenen aktualisieren:**
 1. ✅ `ATTRIBUTION.md` → Neue Zeile in Tabelle
-2. ✅ `content/anhang-l-kolophon.md` → Abschnitt L.2 Typografie
-3. ✅ `content/anhang-j-lizenz-and-offenheit.md` → Lizenzmatrix prüfen
+2. ✅ `de/content/anhang-l-kolophon.md` / `en/content/appendix-l-colophon.md` → Abschnitt L.2 Typografie
+3. ✅ `de/content/anhang-j-lizenz-and-offenheit.md` / `en/content/appendix-j-license-openness.md` → Lizenzmatrix prüfen
 4. ✅ Commit mit `Signed-off-by:` (DCO)
 
 Details siehe [`AGENTS.md`](AGENTS.md) → "Attribution-Hierarchie".
