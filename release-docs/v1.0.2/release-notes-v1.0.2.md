@@ -46,13 +46,13 @@ Keine Aenderung der Lizenzmatrix:
 ---
 
 ## 🐛 Bekannte Einschraenkungen
-- CI-Workflows fuer 1.0.2 noch nicht erneut gelaufen.
+- Tag/Zenodo stehen noch aus.
 
 ---
 
 ## 🔜 Naechste Schritte
-1. Orchestrator mit korrektem PYTHONPATH aus `.venv` fuer EN/DE laufen lassen und PDF neu erzeugen.
-2. CI-Workflows auf `release_candidate` fuer 1.0.2 durchlaufen lassen.
+1. ✅ Orchestrator lokal (PYTHONPATH aus `.venv`) fuer EN/DE gelaufen; PDFs aktuell.
+2. ✅ GitHub-Workflow-Orchestrator angepasst und lauffaehig.
 3. Tag `v1.0.2` setzen und auf Zenodo veroeffentlichen.
 
 ---

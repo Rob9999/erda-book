@@ -46,13 +46,13 @@ No changes to the licensing matrix:
 ---
 
 ## 🐛 Known Limitations
-- CI workflows for 1.0.2 have not yet been re-run.
+- Tag/Zenodo publication is still pending.
 
 ---
 
 ## 🔜 Next Steps
-1. Run the orchestrator with the correct `PYTHONPATH` from `.venv` for EN/DE and regenerate the PDF.
-2. Execute CI workflows on `release_candidate` for 1.0.2.
+1. ✅ Orchestrator run locally (PYTHONPATH from `.venv`) for EN/DE; PDFs are current.
+2. ✅ GitHub workflow orchestrator adjusted and running.
 3. Set tag `v1.0.2` and publish on Zenodo.
 
 ---
