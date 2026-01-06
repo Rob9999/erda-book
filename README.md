@@ -1,8 +1,8 @@
 # ERDA Book
 
 **Multi-language democratic resilience framework**  
-🇩🇪 Deutsche Fassung: [`de/`](de/)  
-🇬🇧 English version: [`en/`](en/)
+🇩🇪 Deutsche Fassung: [`de/`](de/publish/das-erda-buch.pdf)  
+🇬🇧 English version: [`en/`](en/publish/the-erda-book.pdf)
 
 ## 📜 Attribution und Lizenzierung
 
