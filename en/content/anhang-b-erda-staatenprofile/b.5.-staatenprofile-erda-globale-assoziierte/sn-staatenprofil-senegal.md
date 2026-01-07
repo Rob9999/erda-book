@@ -1,10 +1,10 @@
 ---
 source: content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/sn-staatenprofil-senegal.md
 status: draft
-description: "State: SN, Date: 2025-06-11, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: SN, Date: 2025-06-11, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "SN"
 date: "2026-01-01"
-author: "Robert Alexander Massinger"
+author: "ERDA Book editorial team"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
@@ -178,8 +178,8 @@ Senegal is a comparatively stable democracy in West Africa with rapid population
 This profile uses public and modelled data. Representatives of the Republic of Senegal and interested expert communities are invited to contribute updates for a shared view of a resilient, democratic future.
 
 #### 12.1 Last responsible point of contact
-Author: Robert Alexander Massinger  
-Contact: [robert.alexander.massinger@outlook.de](mailto:robert.alexander.massinger@outlook.de)  
+Author: ERDA Book editorial team (see [Appendix L: Colophon](../../appendix-l-colophon.md#l1-about-this-colophon)).
+Contact: see [Appendix L: Colophon](../../appendix-l-colophon.md#l1-about-this-colophon).
 Platform: [GitBook ERDA portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)  
 Last change: 2025-06-11
 

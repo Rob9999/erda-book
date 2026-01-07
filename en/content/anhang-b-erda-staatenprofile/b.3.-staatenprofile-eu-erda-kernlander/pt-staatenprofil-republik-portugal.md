@@ -1,10 +1,10 @@
 ---
 source: content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/pt-staatenprofil-republik-portugal.md
 status: draft
-description: "State: PT, Date: 2025-06-10, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: PT, Date: 2025-06-10, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "PT"
 date: "2025-06-10"
-author: "Robert Alexander Massinger"
+author: "ERDA Book editorial team"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
@@ -215,7 +215,7 @@ Portugal is a maritime EU state with rich culture and a growing focus on renewab
 This profile is based on publicly available and modelled data. Representatives of the Portuguese Republic and interested expert bodies are invited to contribute their perspectives.
 
 #### 12.1 Last responsible point of contact
-Author: Robert Alexander Massinger  
-Contact: [robert.alexander.massinger@outlook.de](mailto:robert.alexander.massinger@outlook.de)  
+Author: ERDA Book editorial team (see [Appendix L: Colophon](../../appendix-l-colophon.md#l1-about-this-colophon)).
+Contact: see [Appendix L: Colophon](../../appendix-l-colophon.md#l1-about-this-colophon).
 Platform: [GitBook ERDA portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)  
 Last update: 2025-06-10

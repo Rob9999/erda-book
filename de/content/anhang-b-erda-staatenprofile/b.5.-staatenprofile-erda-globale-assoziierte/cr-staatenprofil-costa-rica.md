@@ -1,8 +1,8 @@
 ---
-description: "State: CR, Date: 2025-06-12, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: CR, Date: 2025-06-12, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "CR"
 date: "2025-06-12"
-author: "Robert Alexander Massinger"
+author: "ERDA Buch Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
@@ -179,7 +179,7 @@ Costa Rica gilt als Vorreiter für nachhaltige Entwicklung und stabile Demokrati
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Costa Rica sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 #### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: Robert Alexander Massinger
-Kontakt: [robert.alexander.massinger@outlook.de](mailto:robert.alexander.massinger@outlook.de)
+Autor: ERDA Buch Redaktion (siehe [Anhang L: Kolophon](../../anhang-l-kolophon.md#l1-uber-dieses-kolophon)).
+Kontakt: siehe [Anhang L: Kolophon](../../anhang-l-kolophon.md#l1-uber-dieses-kolophon).
 Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
 Letzte Änderung: 2025-06-12

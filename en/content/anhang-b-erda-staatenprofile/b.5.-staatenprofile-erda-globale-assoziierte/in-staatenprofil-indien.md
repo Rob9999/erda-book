@@ -1,10 +1,10 @@
 ---
 source: content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/in-staatenprofil-indien.md
 status: draft
-description: "State: IN, Date: 2025-06-11, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: IN, Date: 2025-06-11, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "IN"
 date: "2026-01-01"
-author: "Robert Alexander Massinger"
+author: "ERDA Book editorial team"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
@@ -186,7 +186,7 @@ India is a dynamic democracy with rapid economic development and a young populat
 This profile uses public and modelled data. Representatives of the Republic of India and subject-matter experts are invited to add perspectives so we can uphold a shared vision of a resilient, democratic future.
 
 #### 12.1 Last responsible point of contact
-Author: Robert Alexander Massinger  
-Contact: [robert.alexander.massinger@outlook.de](mailto:robert.alexander.massinger@outlook.de)  
+Author: ERDA Book editorial team (see [Appendix L: Colophon](../../appendix-l-colophon.md#l1-about-this-colophon)).
+Contact: see [Appendix L: Colophon](../../appendix-l-colophon.md#l1-about-this-colophon).
 Platform: [GitBook ERDA portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)  
 Last change: 2025-06-11

@@ -1,10 +1,10 @@
 ---
 source: content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/be-staatenprofil-belgien.md
 status: draft
-description: "State: BE, Date: 2025-05-28, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: BE, Date: 2025-05-28, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "BE"
 date: "2025-05-28"
-author: "Robert Alexander Massinger"
+author: "ERDA Book editorial team"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
@@ -259,7 +259,7 @@ _"By 2075 Belgium is a leading cyber and cultural hub within ERDA, with particul
 This profile is based on publicly accessible and modelled data. Representatives of the Kingdom of Belgium and interested expert bodies are warmly invited to contribute their own perspectives, additions and updates – to create a shared picture of a resilient, democratic future for Europe.
 
 #### 12.1 Last responsible point of contact
-Author: Robert Alexander Massinger  
-Contact: [robert.alexander.massinger@outlook.de](mailto:robert.alexander.massinger@outlook.de)  
+Author: ERDA Book editorial team (see [Appendix L: Colophon](../../appendix-l-colophon.md#l1-about-this-colophon)).
+Contact: see [Appendix L: Colophon](../../appendix-l-colophon.md#l1-about-this-colophon).
 Platform: [GitBook ERDA portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)  
 Last update: 2025-05-28

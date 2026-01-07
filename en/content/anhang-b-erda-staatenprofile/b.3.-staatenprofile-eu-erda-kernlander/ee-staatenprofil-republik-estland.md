@@ -1,10 +1,10 @@
 ---
 source: content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/ee-staatenprofil-republik-estland.md
 status: draft
-description: "State: EE, Date: 2025-06-10, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: EE, Date: 2025-06-10, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "EE"
 date: "2025-06-10"
-author: "Robert Alexander Massinger"
+author: "ERDA Book editorial team"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
@@ -219,7 +219,7 @@ Estonia combines agile digital administration with an engaged civil society. By 
 This profile is based on publicly available and modelled data. Representatives of the Republic of Estonia and interested expert bodies are warmly invited to add their perspectives, updates and corrections – building a shared picture of a resilient democratic future for Europe.
 
 #### 12.1 Last responsible point of contact
-Author: Robert Alexander Massinger  
-Contact: [robert.alexander.massinger@outlook.de](mailto:robert.alexander.massinger@outlook.de)  
+Author: ERDA Book editorial team (see [Appendix L: Colophon](../../appendix-l-colophon.md#l1-about-this-colophon)).
+Contact: see [Appendix L: Colophon](../../appendix-l-colophon.md#l1-about-this-colophon).
 Platform: [GitBook ERDA portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)  
 Last update: 2025-06-10

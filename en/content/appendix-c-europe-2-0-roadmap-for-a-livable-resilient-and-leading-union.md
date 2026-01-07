@@ -167,4 +167,4 @@ A sustainable transformation of Europe towards a technologically leading, democr
 
 ### Authorship
 
-Created in April 2025 by Robert Alexander Massinger, Munich, Germany, with analytical support from AI‑assisted research systems (ChatGPT, 2025).
+Created in April 2025 by the **ERDA Book editorial team** (LLM-assisted language editing under editorial control). Author and editor are specified in the **colophon (Appendix L)**.

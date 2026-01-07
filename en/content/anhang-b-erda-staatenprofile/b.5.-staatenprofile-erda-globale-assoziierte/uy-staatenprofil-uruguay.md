@@ -1,10 +1,10 @@
 ---
 source: content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/uy-staatenprofil-uruguay.md
 status: draft
-description: "State: UY, Date: 2025-06-11, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: UY, Date: 2025-06-11, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "UY"
 date: "2026-01-01"
-author: "Robert Alexander Massinger"
+author: "ERDA Book editorial team"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
@@ -171,7 +171,7 @@ Uruguay is a stable, prosperous democracy in South America. With a well-develope
 This profile draws on public and modelled data. Representatives of the Oriental Republic of Uruguay and interested specialist bodies are warmly invited to contribute their own perspectives, additions, and updates—for a shared understanding of a resilient, democratic future for Europe.
 
 #### 12.1 Last responsible point of contact
-Author: Robert Alexander Massinger
-Contact: [robert.alexander.massinger@outlook.de](mailto:robert.alexander.massinger@outlook.de)
+Author: ERDA Book editorial team (see [Appendix L: Colophon](../../appendix-l-colophon.md#l1-about-this-colophon)).
+Contact: see [Appendix L: Colophon](../../appendix-l-colophon.md#l1-about-this-colophon).
 Platform: [GitBook ERDA portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
 Last change: 2025-06-11

@@ -160,4 +160,4 @@ Eine nachhaltige Transformation Europas hin zu einem technologisch führenden, d
 
 ### Autorenschaft
 
-Erstellt, April 2025, von Robert Alexander Massinger, München, Deutschland, mit analytischer Unterstützung durch KI-gestützte Recherchesysteme (ChatGPT, 2025).
+Erstellt im April 2025 durch die **ERDA Buch Redaktion** (LLM-gestützte sprachliche Überarbeitung unter redaktioneller Kontrolle). Autor und Herausgeber sind im **Kolophon (Anhang L)** ausgewiesen.

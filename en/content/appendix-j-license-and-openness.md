@@ -7,7 +7,7 @@ status: draft
 
 ## J.1 Introduction
 
-This book was structured, edited and developed by **Robert Alexander Massinger** (Munich, Germany) in collaboration with **ChatGPT (OpenAI)**.  
+This book was structured, edited and developed by the **ERDA Book editorial team** (LLM-assisted language editing under editorial control). Author and editor are specified in the **colophon (Appendix L)**.  
 To create a sustainable, open knowledge base, the various components of the book are published under **open licences**. This chapter explains the exact licensing terms, describes the meaning of share‑alike reuse, and provides guidance for using, adapting and redistributing the material.
 
 ---

@@ -1,8 +1,8 @@
 ---
-description: "State: CZ, Date: 2025-06-10, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: CZ, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "CZ"
 date: "2025-06-10"
-author: "Robert Alexander Massinger"
+author: "ERDA Buch Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v4"
 version: "1.0"
@@ -170,7 +170,7 @@ Tschechien ist ein mitteleuropäischer Industriestaat mit starker Bildungsidenti
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Tschechischen Republik sowie interessierte Fachstellen sind eingeladen, Ergänzungen einzubringen.
 
 #### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: Robert Alexander Massinger
-Kontakt: [robert.alexander.massinger@outlook.de](mailto:robert.alexander.massinger@outlook.de)
+Autor: ERDA Buch Redaktion (siehe [Anhang L: Kolophon](../../anhang-l-kolophon.md#l1-uber-dieses-kolophon)).
+Kontakt: siehe [Anhang L: Kolophon](../../anhang-l-kolophon.md#l1-uber-dieses-kolophon).
 Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
 Letzte Änderung: 2025-06-10

@@ -9,6 +9,12 @@ status: draft
 
 This colophon documents the **technical and typographic details** of the production of the ERDA book. It serves **transparency** and fulfils the **attribution obligations** for the fonts, tools and resources used. All components listed here are available under **open or compatible licences** and were selected in accordance with the licensing principles defined in **Appendix J**.
 
+Author and editor: Robert Alexander Massinger.
+
+Author email: [robert.alexander.massinger@outlook.de](mailto:robert.alexander.massinger@outlook.de)
+
+Editorial work: ERDA Book editorial team (LLM-assisted language editing under editorial control).
+
 ---
 
 ## L.2 Typography and fonts
