@@ -6,6 +6,8 @@
 ---
 
 ## 🎯 Scope (geplant)
+- Normative Schärfung des ERDA-Leitbilds:
+ERDA als evolutive, verfassungsgemäß gebundene Weiterentwicklung der EU – explizit, konsistent und kapitelübergreifend verankert.
 - Neues Kapitel **10. Das KI Konzept** (Konzept, Governance, Ethik, Architektur, Use-Cases).
 - Überarbeitung **EDA Konzept** (Kap. 5) inhaltlich und strukturell.
 - Lektorale, inhaltsschärfende Überarbeitungen (DE/EN), Konsistenz in Terminologie & Narrative.
@@ -45,6 +47,7 @@
 - Lektorats-Guidelines/Terminologie-Liste aktualisieren.
 
 ## ⚠️ Risiken & Beobachtung
+- Missverständnisrisiko „ERDA = Bruch mit der EU“ → durch explizite Leitformeln und Wiederholungen minimieren.
 - Umfang Kap. 10 könnte Zeitplan strecken.
 - Übersetzungsdrift DE/EN bei späten Änderungen.
 - Build/Fonts/Orchestrator: sicherstellen, dass Docker-Image und CI grün bleiben.
