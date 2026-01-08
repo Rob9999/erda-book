@@ -205,8 +205,7 @@ Canada is a resource-rich, highly developed country with a stable democracy and 
 
 This profile relies on public and modelled data. Representatives of Canada and interested stakeholders are invited to share perspectives to maintain a common view of a resilient, democratic future.
 
-#### 12.1 Last responsible point of contact
-Author: ERDA Book editorial team (see [Appendix L: Colophon](../../appendix-l-colophon.md#l1-about-this-colophon)).
-Contact: see [Appendix L: Colophon](../../appendix-l-colophon.md#l1-about-this-colophon).
-Platform: [GitBook ERDA portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)  
-Last change: 2025-06-11
+#### 12.1 Last responsible points of contact
+Author: ERDA Book editorial team
+Contact: ERDA Book editorial team
+Last update: 2026-01-08

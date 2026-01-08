@@ -214,10 +214,8 @@ Austria combines tradition, social stability and cultural depth with a strong in
 
 This profile draws on publicly available data. Representatives of the Republic of Austria and interested expert bodies are warmly invited to contribute additions and updates – for a shared, future-proof portrait of democracy in Europe.
 
-#### 12.1 Last responsible point of contact
-Author: ERDA Book editorial team (see [Appendix L: Colophon](../../appendix-l-colophon.md#l1-about-this-colophon)).
-Contact: see [Appendix L: Colophon](../../appendix-l-colophon.md#l1-about-this-colophon).
-Last update: 2025-06-09
+#### 12.1 Last responsible points of contact
+Author: ERDA Book editorial team
+Contact: ERDA Book editorial team
+Last update: 2026-01-08
 
-Contact: see [Appendix L: Colophon](../../appendix-l-colophon.md#l1-about-this-colophon).
-Platform: [GitBook ERDA portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)

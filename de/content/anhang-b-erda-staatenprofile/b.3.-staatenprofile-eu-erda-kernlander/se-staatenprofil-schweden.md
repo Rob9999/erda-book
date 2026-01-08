@@ -163,8 +163,7 @@ Schweden verbindet hohe Innovationskraft mit einer starken Zivilgesellschaft und
 
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen des Königreichs Schweden sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
-#### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: ERDA Buch Redaktion (siehe [Anhang L: Kolophon](../../anhang-l-kolophon.md#l1-uber-dieses-kolophon)).
-Kontakt: siehe [Anhang L: Kolophon](../../anhang-l-kolophon.md#l1-uber-dieses-kolophon).
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
-Letzte Änderung: 2025-06-10
+#### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08

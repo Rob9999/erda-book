@@ -211,10 +211,9 @@ Serbia is a dynamic country in the heart of the Balkans with deepening ties to E
 
 This profile is based on public and modelled data. Representatives of the Republic of Serbia and interested stakeholders are invited to contribute perspectives, additions, and updates—building a shared view of a resilient, democratic Europe.
 
-#### 12.1 Last responsible point of contact
-Author: ERDA Book editorial team (see [Appendix L: Colophon](../../appendix-l-colophon.md#l1-about-this-colophon)).
-Contact: see [Appendix L: Colophon](../../appendix-l-colophon.md#l1-about-this-colophon).
-Platform: [GitBook ERDA portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)  
-Last change: 2025-06-10
+#### 12.1 Last responsible points of contact
+Author: ERDA Book editorial team
+Contact: ERDA Book editorial team
+Last update: 2026-01-08
 
 \* Status of Kosovo disputed; Serbia does not recognise Kosovo as an independent state.

@@ -189,8 +189,7 @@ Denmark combines high living standards with consistent sustainability and is amo
 
 This profile uses publicly accessible and modelled data. Representatives of the Kingdom of Denmark and interested expert bodies are warmly invited to add their perspectives, updates and corrections – for a shared image of a resilient democratic future for Europe.
 
-#### 12.1 Last responsible point of contact
-Author: ERDA Book editorial team (see [Appendix L: Colophon](../../appendix-l-colophon.md#l1-about-this-colophon)).
-Contact: see [Appendix L: Colophon](../../appendix-l-colophon.md#l1-about-this-colophon).
-Platform: [GitBook ERDA portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)  
-Last update: 2025-06-10
+#### 12.1 Last responsible points of contact
+Author: ERDA Book editorial team
+Contact: ERDA Book editorial team
+Last update: 2026-01-08

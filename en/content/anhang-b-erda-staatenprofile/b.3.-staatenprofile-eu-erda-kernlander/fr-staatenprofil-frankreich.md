@@ -181,8 +181,7 @@ France is a globally connected EU core state with an advanced industrial base, s
 
 This profile uses public and modelled data. Representatives of the French Republic and interested expert bodies are invited to add perspectives and updates for a joint vision of a resilient, democratic Europe.
 
-#### 12.1 Last responsible point of contact
-Author: ERDA Book editorial team (see [Appendix L: Colophon](../../appendix-l-colophon.md#l1-about-this-colophon)).
-Contact: see [Appendix L: Colophon](../../appendix-l-colophon.md#l1-about-this-colophon).
-Platform: [GitBook ERDA portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)  
-Last update: 2025-06-10
+#### 12.1 Last responsible points of contact
+Author: ERDA Book editorial team
+Contact: ERDA Book editorial team
+Last update: 2026-01-08

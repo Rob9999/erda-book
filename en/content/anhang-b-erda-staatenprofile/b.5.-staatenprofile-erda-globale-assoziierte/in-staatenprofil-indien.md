@@ -185,8 +185,7 @@ India is a dynamic democracy with rapid economic development and a young populat
 
 This profile uses public and modelled data. Representatives of the Republic of India and subject-matter experts are invited to add perspectives so we can uphold a shared vision of a resilient, democratic future.
 
-#### 12.1 Last responsible point of contact
-Author: ERDA Book editorial team (see [Appendix L: Colophon](../../appendix-l-colophon.md#l1-about-this-colophon)).
-Contact: see [Appendix L: Colophon](../../appendix-l-colophon.md#l1-about-this-colophon).
-Platform: [GitBook ERDA portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)  
-Last change: 2025-06-11
+#### 12.1 Last responsible points of contact
+Author: ERDA Book editorial team
+Contact: ERDA Book editorial team
+Last update: 2026-01-08

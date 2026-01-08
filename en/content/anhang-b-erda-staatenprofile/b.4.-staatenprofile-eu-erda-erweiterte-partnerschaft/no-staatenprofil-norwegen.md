@@ -161,8 +161,7 @@ Norway combines Scandinavian quality of life and robust democracy with a resourc
 
 This profile draws on public data and modelled assumptions. Representatives of the Kingdom of Norway and subject-matter partners are invited to provide updates so we can keep a shared picture of a resilient, democratic Europe.
 
-#### 12.1 Last responsible point of contact
-Author: ERDA Book editorial team (see [Appendix L: Colophon](../../appendix-l-colophon.md#l1-about-this-colophon)).
-Contact: see [Appendix L: Colophon](../../appendix-l-colophon.md#l1-about-this-colophon).
-Platform: [GitBook ERDA portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)  
-Last update: 2025-06-10
+#### 12.1 Last responsible points of contact
+Author: ERDA Book editorial team
+Contact: ERDA Book editorial team
+Last update: 2026-01-08
