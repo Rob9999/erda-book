@@ -104,6 +104,30 @@ Only a capable Union can assume global responsibility.
 
 ***
 
+## 🟦 Five reality-check questions for Europe’s politics
+
+Democratic Europeans must be aware of their responsibility for humanity and for liberal-democratic values.
+No legitimisation and no rewarding of imperial claims.
+
+1. **Why are there no democratically legitimised international order-enforcement missions to dismantle terrorism, organised crime and mafia-like structures?**
+   _Quick check: In what way does an imperial aggressor differ from this — other than rhetoric?_
+
+2. **Why is there no European-led NATO presence in Greenland, ecologically responsible (e.g. ~500 personnel), scalable up to ~10,000 in a crisis?**
+   _Quick check: A defensive, democratically legitimised Arctic Defence Security Node (DSN)._
+
+3. **Why are there no European Defence Security Nodes within Europe, regionally distributed (North, South, East, West, Centre — and prospectively also Space), able to operate autonomously for at least 90 days?**
+   _Quick check: resilience instead of dependency._
+
+4. **Why is there no constitutional, rule-of-law European democracy alliance?**
+   _Quick check: no revolution — but the natural, evolutionary development of the EU._
+
+5. **Why is there no genuine strategic autonomy for Europe?**
+   Strengthen Europe’s own key industries: chips, AI, software, robotics, drones, space, science, education, media — instead of continuing to fund authoritarian or imperial systems.
+
+If democracies want to survive, they must be capable of action — resilient, governed by the rule of law, and responsible.
+
+***
+
 ### 6. Culture of trust and solidarity
 
 A shared identity and lived solidarity strengthen cohesion.

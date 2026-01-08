@@ -7,6 +7,10 @@ Diese Anweisungen gelten für den gesamten Inhalt dieses Repositories (GitBook, 
 - Keine Rechts-, Steuer- oder sonstige professionelle Beratung. Inhalte „as is“, ohne Gewähr. Datenschutz-, Sicherheits- und Exportkontrollvorgaben beachten.
 - Nachvollziehbare Dokumentation von Abweichungen und Entscheidungen (Commit-Nachricht, Issue-Referenz).
 
+## Übersetzungssynchronisation (DE ↔ EN)
+- Änderungen an Inhalten in `de/` sind gemäß `translation-instruction.md` zeitnah nach `en/` nachzuziehen (und vice versa), idealerweise im **gleichen Commit**.
+- Wenn eine synchrone Übersetzung nicht möglich ist (z. B. wegen Review-Requirement), muss mindestens der `status:` in EN angepasst und der/die Writer/Redakteur:in aktiv darauf hingewiesen werden.
+
 ## Lizenzpolitik (verbindlich)
 - **Texte/Grafiken/Diagramme:** **CC BY-SA 4.0** (Share-Alike für Bearbeitungen).
 - **Code/Build-Skripte/Toolchain:** **MIT** (separat in `LICENSE-CODE`).
