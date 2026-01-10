@@ -29,9 +29,11 @@ jobs:
 
       - name: Unpack gitbook_worker (Docker context)
         run: |
-          tar -xzf packages/gitbook-worker/gitbook-worker-2.0.4-hotfix.tar.gz \
-            --strip-components=1 \
-            gitbook-worker-release-v.2.0.4-hotfix/gitbook_worker
+          rm -rf gitbook_worker .tmp-gitbook-worker
+          mkdir -p .tmp-gitbook-worker
+          tar -xzf packages/gitbook-worker/gitbook-worker-2.0.6-hotfix.tar.gz -C .tmp-gitbook-worker
+          cp -a .tmp-gitbook-worker/*/gitbook_worker ./
+          rm -rf .tmp-gitbook-worker
 
       - name: Derive lowercase repository slug
         id: repository_slug
@@ -81,9 +83,11 @@ jobs:
 
       - name: Unpack gitbook_worker (Docker context)
         run: |
-          tar -xzf packages/gitbook-worker/gitbook-worker-2.0.4-hotfix.tar.gz \
-            --strip-components=1 \
-            gitbook-worker-release-v.2.0.4-hotfix/gitbook_worker
+          rm -rf gitbook_worker .tmp-gitbook-worker
+          mkdir -p .tmp-gitbook-worker
+          tar -xzf packages/gitbook-worker/gitbook-worker-2.0.6-hotfix.tar.gz -C .tmp-gitbook-worker
+          cp -a .tmp-gitbook-worker/*/gitbook_worker ./
+          rm -rf .tmp-gitbook-worker
 
       - name: Extract language ids from content.yaml
         id: langs

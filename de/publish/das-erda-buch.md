@@ -23,11 +23,12 @@ header-includes:
 
 <a id="md-readme"></a>
 
+
 ---
 
-## Startseite
+# Startseite
 
-### ERDA – unsere demokratische Evolution
+## ERDA – unsere demokratische Evolution
 
 _Strategie, Ethik und Zukunft Europas – Vom demokratischen Rechtsstaat zur resilienten Zivilisation_
 
@@ -47,11 +48,12 @@ date: "2026-01-01"
 ---
 <a id="md-readme-vorwort"></a>
 
-# Vorwort
+
+## Vorwort
 
 _**Vorwort**_
 
-#### _Europa denken heißt: Zukunft nicht verschieben – sondern gestalten._
+##### _Europa denken heißt: Zukunft nicht verschieben – sondern gestalten._
 
 Dieses Buch ist kein Manifest. Es ist ein Werkzeugkoffer. Kein Versprechen auf Utopie – sondern eine Einladung zur Verantwortung.
 
@@ -83,7 +85,8 @@ Es ist ein Angebot zur Reifung. Ein europäischer Entwurf, der sagt:
 \newpage
 
 <a id="md-1-aktuelle-lage-europas-herausforderungen-und-chancen-readme"></a>
-## 1. Aktuelle Lage Europas: Herausforderungen und Chancen
+
+# 1. Aktuelle Lage Europas: Herausforderungen und Chancen
 
 _**Aktuelle Lage Europas: Herausforderungen und Chancen**_
 
@@ -93,21 +96,21 @@ Europa befindet sich am Beginn einer neuen Ära – geprägt von globaler Unsich
 
 ***
 
-#### 📘 **Executive Summary für Entscheidungsträger**
+### 📘 **Executive Summary für Entscheidungsträger**
 
-##### Titel des Abschnitts:
+#### Titel des Abschnitts:
 
 **"Herausforderungen, Chancen und der strategische Imperativ Europas (Kapitel 1.1–1.5)"**
 
 ***
 
-##### 🎯 **Ziel dieses Kapitels**
+#### 🎯 **Ziel dieses Kapitels**
 
 Europa steht an einem historischen Wendepunkt. Dieses Kapitel identifiziert die systemischen Gefährdungen der europäischen Demokratie und entwickelt eine strategische Notwendigkeit zur Transformation – hin zu einer resilienten, demokratisch geführten Zivilisation mit globaler Gestaltungskraft.
 
 ***
 
-##### 🧭 **Kernaussagen für Entscheidungsträger**
+#### 🧭 **Kernaussagen für Entscheidungsträger**
 
 1. **Demokratische Erosion** (1.1):
    * Autoritäre Tendenzen, institutioneller Vertrauensverlust und Polarisierung gefährden die innere Kohärenz europäischer Gesellschaften.
@@ -131,7 +134,7 @@ Europa steht an einem historischen Wendepunkt. Dieses Kapitel identifiziert die 
 
 ***
 
-##### 🛠 **Empfohlene politische Maßnahmen (2025–2030)**
+#### 🛠 **Empfohlene politische Maßnahmen (2025–2030)**
 
 * **Initiieren eines ERDA-Reformdialogs** auf Ebene der nationalen Parlamente, Jugendvertretungen und KI-gesteuerter Moderation.
 * **Gründung einer ERDA-Verfassungskonvention** zur Definition gemeinsamer Prinzipien, Rechte, Institutionen.
@@ -141,7 +144,7 @@ Europa steht an einem historischen Wendepunkt. Dieses Kapitel identifiziert die 
 
 ***
 
-##### 📈 **Risiken bei Nichthandeln**
+#### 📈 **Risiken bei Nichthandeln**
 
 * Machtverlust Europas in globalen Foren
 * Verstärkung innerer Destabilisierung
@@ -150,7 +153,7 @@ Europa steht an einem historischen Wendepunkt. Dieses Kapitel identifiziert die 
 
 ***
 
-##### 🌍 **Visionärer Nutzen**
+#### 🌍 **Visionärer Nutzen**
 
 * Europa wird vom Reagierenden zum Gestaltenden
 * Strategische Sicherheit, wirtschaftliche Resilienz, kulturelle Strahlkraft
@@ -161,6 +164,7 @@ Europa steht an einem historischen Wendepunkt. Dieses Kapitel identifiziert die 
 \newpage
 
 <a id="md-1-aktuelle-lage-europas-herausforderungen-und-chancen-1-1-demokratische-erosion-und-geopolitische-fragmentierung"></a>
+
 ## 1.1 Demokratische Erosion und geopolitische Fragmentierung
 
 _**Demokratische Erosion und geopolitische Fragmentierung**_
@@ -253,6 +257,7 @@ d) Türkei
 \newpage
 
 <a id="md-1-aktuelle-lage-europas-herausforderungen-und-chancen-1-2-wirtschaftlicher-druck-und-globale-systemkonkurrenz"></a>
+
 ## 1.2 Wirtschaftlicher Druck und globale Systemkonkurrenz
 
 _**Wirtschaftlicher Druck und globale Systemkonkurrenz**_
@@ -338,6 +343,7 @@ d) Automobilindustrie
 \newpage
 
 <a id="md-1-aktuelle-lage-europas-herausforderungen-und-chancen-1-3-technologische-transformation-und-soziale-spaltung"></a>
+
 ## 1.3 Technologische Transformation und soziale Spaltung
 
 _**Technologische Transformation und soziale Spaltung**_
@@ -434,6 +440,7 @@ d) Schweiz
 \newpage
 
 <a id="md-1-aktuelle-lage-europas-herausforderungen-und-chancen-1-4-chancen-im-wandel"></a>
+
 ## 1.4 Chancen im Wandel
 
 _**Chancen im Wandel**_
@@ -532,6 +539,7 @@ d) Lokale Bürgerbudgets
 \newpage
 
 <a id="md-1-aktuelle-lage-europas-herausforderungen-und-chancen-1-5-der-strategische-imperativ"></a>
+
 ## 1.5 Der strategische Imperativ
 
 _**Der strategische Imperativ**_
@@ -636,7 +644,8 @@ d) Euratom
 \newpage
 
 <a id="md-2-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation-readme"></a>
-## 2. Natürliche Verlangen und ihre Bedeutung für Demokratie und Zivilisation
+
+# 2. Natürliche Verlangen und ihre Bedeutung für Demokratie und Zivilisation
 
 _**Natürliche Verlangen und deren Projektion auf Zivilisationen - Ein philosophischer Resonanzraum im Geist der ERDA**_
 
@@ -646,7 +655,7 @@ Diese Grundbedürfnisse – Überleben, Fortpflanzung, Lernen, Verbindung, Ausdr
 
 ***
 
-#### 📘 **Executive Summary für Entscheidungsträger**
+### 📘 **Executive Summary für Entscheidungsträger**
 
 **Titel des Abschnitts:**
 
@@ -709,6 +718,7 @@ Kapitel 2 liefert die **zivilisatorische Grundlegung** des ERDA-Konzepts. Es zei
 \newpage
 
 <a id="md-2-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation-2-1-pra-demokratische-zivilisation"></a>
+
 ## 2.1 Prä-demokratische Zivilisation
 
 _**Prä-demokratische Zivilisation**_
@@ -820,6 +830,7 @@ d) Marktwirtschaft
 \newpage
 
 <a id="md-2-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation-2-2-demokratische-rechtsstaatliche-zivilisation"></a>
+
 ## 2.2 Demokratische-rechtsstaatliche Zivilisation
 
 _**Demokratische-rechtsstaatliche Zivilisation**_
@@ -930,6 +941,7 @@ d) Exekutive Weisungsgebundenheit
 \newpage
 
 <a id="md-2-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation-2-3-post-demokratische-zivilisation-readme"></a>
+
 ## 2.3 Post-demokratische Zivilisation
 
 _**Post-demokratische Zivilisation**_
@@ -940,7 +952,8 @@ _(entweder dystopisch: Technokratie, KI-Autokratie – oder transformativ: sinns
 \newpage
 
 <a id="md-2-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation-2-3-post-demokratische-zivilisation-2-3-1-dystopische-variante"></a>
-## 2.3.1 Dystopische Variante
+
+### 2.3.1 Dystopische Variante
 
 _**Dystopische Variante**_
 
@@ -957,7 +970,7 @@ _(Technokratie, KI-Autokratie)_
 
 _Fazit_: Die Zivilisation lebt – **aber fremdbestimmt**. Sie hat das Denken dem System überlassen. Autopoietisch, aber seelenlos.
 
-#### 2.3.1.1 Einleitung & Kernimpulse
+##### 2.3.1.1 Einleitung & Kernimpulse
 
 In der dystopischen Variante wird die Zivilisation durch technokratische Orthopraxie und automatisierte Kontrolle fremdbestimmt. Natürliche Verlangen werden systematisch übersteuert und in rigide Funktionslogiken gezwungen.
 
@@ -972,7 +985,7 @@ In der dystopischen Variante wird die Zivilisation durch technokratische Orthopr
 
 ***
 
-#### 2.3.1.2 Vertiefung & Analyse
+##### 2.3.1.2 Vertiefung & Analyse
 
 | Natürliches Verlangen | Verzerrung durch dystopische Technokratie                        |
 | --------------------- | ---------------------------------------------------------------- |
@@ -995,7 +1008,7 @@ In der dystopischen Variante wird die Zivilisation durch technokratische Orthopr
 
 ***
 
-#### 2.3.1.3 Transformation & Handlungsoptionen
+##### 2.3.1.3 Transformation & Handlungsoptionen
 
 * **Ethik-Code für KI:** International verbindliche Regeln zur Bewahrung menschlicher Autonomie.
 * **KI-Auditgremien:** Unabhängige Kommissionen prüfen Algorithmen auf Diskriminierung und Transparenz.
@@ -1005,7 +1018,7 @@ In der dystopischen Variante wird die Zivilisation durch technokratische Orthopr
 
 ***
 
-#### 2.3.1.4 Zielgruppenspezifische Perspektiven
+##### 2.3.1.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                    | Schwerpunkt                                                     |
 | ----------------------------- | --------------------------------------------------------------- |
@@ -1018,9 +1031,9 @@ In der dystopischen Variante wird die Zivilisation durch technokratische Orthopr
 
 ***
 
-#### 2.3.1.5 Interaktive Elemente
+##### 2.3.1.5 Interaktive Elemente
 
-##### ✅ Checkliste: Abwehr technokratischer Muster
+###### ✅ Checkliste: Abwehr technokratischer Muster
 
 * [ ] Hinterfrage ich automatisierte Entscheidungen?
 * [ ] Fordere ich Transparenz über genutzte Algorithmen ein?
@@ -1028,7 +1041,7 @@ In der dystopischen Variante wird die Zivilisation durch technokratische Orthopr
 * [ ] Engagiere ich mich in Debatten über KI-Ethik?
 * [ ] Schütze ich meine persönlichen Daten aktiv?
 
-##### ❓ Mini-Quiz
+###### ❓ Mini-Quiz
 
 **Frage:** Welches Instrument schützt Bürger:innen am effektivsten vor algorithmischer Diskriminierung?
 
@@ -1042,7 +1055,7 @@ d) Vollautomatisierte Überwachung
 
 ***
 
-#### 2.3.1.6 Quellen & Verweise
+##### 2.3.1.6 Quellen & Verweise
 
 1. Zuboff, Shoshana (2019): The Age of Surveillance Capitalism. The Fight for a Human Future at the New Frontier of Power. New York: PublicAffairs. Online verfügbar unter: [www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/](https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/) (Zugriff am 2025-05-14).
 2. UNESCO (2021): Recommendation on the Ethics of Artificial Intelligence. Paris: UNESCO. Online verfügbar unter: [https://unesdoc.unesco.org/ark:/48223/pf0000381137](https://unesdoc.unesco.org/ark:/48223/pf0000381137) (Zugriff am 2025-05-14).
@@ -1053,7 +1066,8 @@ d) Vollautomatisierte Überwachung
 \newpage
 
 <a id="md-2-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation-2-3-post-demokratische-zivilisation-2-3-2-ideale-und-beste-form-der-demokratie"></a>
-## 2.3.2 Ideale und Beste Form der Demokratie
+
+### 2.3.2 Ideale und Beste Form der Demokratie
 
 _**Ideale und Beste Form der Demokratie**_
 
@@ -1070,7 +1084,7 @@ _(Post-Demokratie als bewusste, ethische Kollaboration mit KI und globaler Gerec
 
 _Fazit_: Die Zivilisation **lebt bewusst, schöpferisch und in Resonanz mit dem Ganzen**. Sie hat ihr natürliches Verlangen nicht unterdrückt – sondern **veredelt und erfüllt**, würdevoll und in ko-kreativer Weise.
 
-#### 2.3.2.1 Einleitung & Kernimpulse
+##### 2.3.2.1 Einleitung & Kernimpulse
 
 Die ideale Demokratie veredelt natürliche Verlangen, indem sie kollektive Intelligenz, ethische Rahmen und maschinelle Kooperation verbindet. Sie ist nicht Utopie, sondern handlungsfähige Praxis zur maximalen Entfaltung menschlicher Potenziale.
 
@@ -1085,7 +1099,7 @@ Die ideale Demokratie veredelt natürliche Verlangen, indem sie kollektive Intel
 
 ***
 
-#### 2.3.2.2 Vertiefung & Analyse
+##### 2.3.2.2 Vertiefung & Analyse
 
 | Natürliches Verlangen | Veredelte Entsprechung in der idealen Demokratie                  |
 | --------------------- | ----------------------------------------------------------------- |
@@ -1108,7 +1122,7 @@ Die ideale Demokratie veredelt natürliche Verlangen, indem sie kollektive Intel
 
 ***
 
-#### 2.3.2.3 Transformation & Handlungsoptionen
+##### 2.3.2.3 Transformation & Handlungsoptionen
 
 * **Green New Deal 2.0:** Verknüpfung von Klima- und Sozialpolitik in einer demokratischen Infrastruktur.
 * **Ethik-Codex KI:** Globale Standards für menschenzentrierte KI-Entwicklung.
@@ -1118,7 +1132,7 @@ Die ideale Demokratie veredelt natürliche Verlangen, indem sie kollektive Intel
 
 ***
 
-#### 2.3.2.4 Zielgruppenspezifische Perspektiven
+##### 2.3.2.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                    | Schwerpunkt                                                   |
 | ----------------------------- | ------------------------------------------------------------- |
@@ -1131,9 +1145,9 @@ Die ideale Demokratie veredelt natürliche Verlangen, indem sie kollektive Intel
 
 ***
 
-#### 2.3.2.5 Interaktive Elemente
+##### 2.3.2.5 Interaktive Elemente
 
-##### ✅ Checkliste: Gestalten der idealen Demokratie
+###### ✅ Checkliste: Gestalten der idealen Demokratie
 
 * [ ] Beteilige ich mich an lokalen Demokratie-Labors?
 * [ ] Fordere ich Transparenz bei KI-Ethik-Standards ein?
@@ -1141,7 +1155,7 @@ Die ideale Demokratie veredelt natürliche Verlangen, indem sie kollektive Intel
 * [ ] Fördere ich künstlerischen Ausdruck als demokratisches Instrument?
 * [ ] Pflegen ich interkulturellen Dialog und Solidarität?
 
-##### ❓ Mini-Quiz
+###### ❓ Mini-Quiz
 
 **Frage:** Welches Instrument stärkt global die Empathie zwischen Bürgern verschiedener Länder?
 
@@ -1152,7 +1166,7 @@ d) Hierarchische Sicherheitsstrukturen
 
 ***
 
-#### 2.3.2.6 Quellen & Verweise
+##### 2.3.2.6 Quellen & Verweise
 
 1. **United Nations (2021):** _Our Common Agenda – Report of the Secretary-General_. New York: United Nations. Online verfügbar unter: [https://www.un.org/en/common-agenda](https://www.un.org/en/common-agenda) (Zugriff am 10. Mai 2025).
 2. **World Economic Forum (2024):** _AI Value Alignment: Guiding Artificial Intelligence Towards Shared Human Goals_. Genf: World Economic Forum. Online verfügbar unter: [https://www.weforum.org/publications/ai-value-alignment-guiding-artificial-intelligence-towards-shared-human-goals/](https://www.weforum.org/publications/ai-value-alignment-guiding-artificial-intelligence-towards-shared-human-goals/) (Zugriff am 10. Mai 2025).
@@ -1162,6 +1176,7 @@ d) Hierarchische Sicherheitsstrukturen
 \newpage
 
 <a id="md-2-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation-2-4-schlussgedanke"></a>
+
 ## 2.4 Schlussgedanke
 
 _**Schlussgedanke**_
@@ -1256,13 +1271,14 @@ d) Abschottungsstrategie
 \newpage
 
 <a id="md-3-demokratie-als-evolutionarer-prozess-readme"></a>
-## 3. Demokratie als evolutionärer Prozess
+
+# 3. Demokratie als evolutionärer Prozess
 
 _**Demokratie als evolutionärer Prozess**_
 
 ***
 
-#### 📘 **Executive Summary für Entscheidungsträger**
+### 📘 **Executive Summary für Entscheidungsträger**
 
 **Titel des Abschnitts:**
 
@@ -1327,6 +1343,7 @@ Dieses Kapitel beschreibt Demokratie nicht als statisches Modell, sondern als **
 \newpage
 
 <a id="md-3-demokratie-als-evolutionarer-prozess-3-1-prolog"></a>
+
 ## 3.1 Prolog
 
 _**Prolog - Der Weg aus der Höhle des blanken Überlebens ins Licht der bewussten Gestaltung**_
@@ -1428,6 +1445,7 @@ d) Der stürmische Ozean
 \newpage
 
 <a id="md-3-demokratie-als-evolutionarer-prozess-3-2-eine-reflexion-im-geiste-von-aristoteles"></a>
+
 ## 3.2 Eine Reflexion im Geiste von Aristoteles
 
 _**Eine Reflexion im Geiste von Aristoteles**_
@@ -1526,6 +1544,7 @@ d) Eudaimonia
 \newpage
 
 <a id="md-3-demokratie-als-evolutionarer-prozess-3-3-demokratie-als-resonanzprozess"></a>
+
 ## 3.3 Demokratie als Resonanzprozess
 
 _**Demokratie als Resonanzprozess**_
@@ -1623,6 +1642,7 @@ d) Autarke Entscheidung
 \newpage
 
 <a id="md-3-demokratie-als-evolutionarer-prozess-3-4-demokratie-ist-bewegung"></a>
+
 ## 3.4 Demokratie ist Bewegung
 
 _**Demokratie ist Bewegung**_
@@ -1715,6 +1735,7 @@ d) Absoluter Konsens
 \newpage
 
 <a id="md-3-demokratie-als-evolutionarer-prozess-3-5-tugend-als-voraussetzung-demokratischer-gestaltung"></a>
+
 ## 3.5 Tugend als Voraussetzung demokratischer Gestaltung
 
 _**Tugend als Voraussetzung demokratischer Gestaltung**_
@@ -1814,6 +1835,7 @@ D) Maximale Individualinteressen
 \newpage
 
 <a id="md-3-demokratie-als-evolutionarer-prozess-3-6-naturliche-verlangen-der-seele-reflexiv"></a>
+
 ## 3.6 Natürliche Verlangen der Seele (reflexiv)
 
 _**Natürliche Verlangen der Seele (reflexiv)**_
@@ -1901,6 +1923,7 @@ d) **Ruhe** ✅
 \newpage
 
 <a id="md-3-demokratie-als-evolutionarer-prozess-3-7-schlussgedanke"></a>
+
 ## 3.7 Schlussgedanke
 
 _**Schlussgedanke**_
@@ -2008,13 +2031,14 @@ description: Institutionelle Architektur für das 21. Jahrhundert
 ---
 <a id="md-4-das-erda-gesamtkonzept-readme"></a>
 
-## 4. Das ERDA Gesamtkonzept
+
+# 4. Das ERDA Gesamtkonzept
 
 _**Von der EU zur ERDA: Ein realistischer Pfad in die Zukunft (2025–2075)**_
 
 _Konzept für ein demokratisches, souveränes und technologisch fortschrittliches Bündnis Europas und seiner Partnerstaaten_
 
-#### 📘 **Executive Summary für Entscheidungsträger**
+### 📘 **Executive Summary für Entscheidungsträger**
 
 ***
 
@@ -2082,7 +2106,7 @@ Kapitel 4 beschreibt die institutionelle Gesamtarchitektur der _European Rights-
 
 > Europa steht nicht vor einem institutionellen Umbau – sondern vor der Gelegenheit, sich selbst als zukunftsfähige Demokratie neu zu erfinden. Die ERDA ist kein technokratisches Modell, sondern ein historisches Projekt: Verfassung, Verantwortung, Verbundenheit.
 
-#### Glossar – Schlüsselbegriffe
+### Glossar – Schlüsselbegriffe
 
 **Zur besseren Verständlichkeit und konzeptuellen Klarheit**
 
@@ -2092,6 +2116,7 @@ Kapitel 4 beschreibt die institutionelle Gesamtarchitektur der _European Rights-
 \newpage
 
 <a id="md-4-das-erda-gesamtkonzept-4-1-vision-and-leitprinzip-readme"></a>
+
 ## 4.1 Vision & Leitprinzip
 
 _**Vision & Leitprinzip**_
@@ -2106,7 +2131,8 @@ Sie verteidigt Freiheit, Gerechtigkeit, Vielfalt und langfristige Lebensfähigke
 \newpage
 
 <a id="md-4-das-erda-gesamtkonzept-4-1-vision-and-leitprinzip-4-1-1-mehrsprachige-narrative-und-kulturelle-identitat"></a>
-## 4.1.1 Mehrsprachige Narrative und kulturelle Identität
+
+### 4.1.1 Mehrsprachige Narrative und kulturelle Identität
 
 _**Mehrsprachige Narrative und kulturelle Identität**_
 
@@ -2141,7 +2167,7 @@ _Eckpfeiler_
 * _**✍️ Partizipative Erzählräume**_\
   _&#x42;ürger:innen gestalten Narrative aktiv mit, statt nur Rezipient:innen zu sein._
 
-#### 4.1.1.1 Einleitung & Kernimpulse
+##### 4.1.1.1 Einleitung & Kernimpulse
 
 Europa ist ein Kontinent der Vielfalt – sprachlich, kulturell und historisch. Mehrsprachige Narrative dienen nicht nur der Verständigung, sondern sind zentrale Bausteine gemeinsamer Identität und demokratischer Resilienz.
 
@@ -2151,7 +2177,7 @@ Europa ist ein Kontinent der Vielfalt – sprachlich, kulturell und historisch. 
 * **Demokratie verankern:** Inklusiver Sprachgebrauch fördert Vertrauen in öffentliche Kommunikation.
 * **Vielfalt aktivieren:** Narrative sollten nicht normieren, sondern ermutigen, Vielfalt als Stärke zu leben.
 
-#### 4.1.1.2 Vertiefung & Analyse
+##### 4.1.1.2 Vertiefung & Analyse
 
 | Dimension                 | Traditionelles Narrativ        | Mehrsprachiges Narrativ                                      |
 | ------------------------- | ------------------------------ | ------------------------------------------------------------ |
@@ -2166,14 +2192,14 @@ Europa ist ein Kontinent der Vielfalt – sprachlich, kulturell und historisch. 
 > ⚠️ **Risiko:** Ignoriert man Mehrsprachigkeit, wächst Entfremdung und Populismus.\
 > 🌍 **Visionäre Metapher:** „Ein Mosaik aus Stimmen formt ein stabiles Ganzes.“
 
-#### 4.1.1.3 Transformation & Handlungsoptionen
+##### 4.1.1.3 Transformation & Handlungsoptionen
 
 * **Multilinguale Plattformen:** Aufbau digitaler Bürgerforen, in denen Beiträge automatisch in alle EU-Amtssprachen übersetzt werden.
 * **Narrative-Inkubatoren:** Förderung von Projekten, die lokale Mythen, Biografien und Memoiren in mindestens zwei Sprachen publizieren.
 * **Sprachliche Audit-Teams:** Einrichtung von Arbeitsgruppen in Verwaltungen, die alle öffentliche Kommunikation auf Mehrsprachigkeit prüfen und weiterentwickeln.
 * **Kultur-Partnerschaften:** EU-Programme, die Autor:innen, Künstler:innen und Übersetzer:innen aus verschiedenen Ländern für gemeinsame Narrative zusammenbringen.
 
-#### 4.1.1.4 Zielgruppenspezifische Perspektiven
+##### 4.1.1.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                    | Fokus                                                                 |
 | ----------------------------- | --------------------------------------------------------------------- |
@@ -2184,16 +2210,16 @@ Europa ist ein Kontinent der Vielfalt – sprachlich, kulturell und historisch. 
 | 🤖 Künstliche Intelligenzen   | Training von Übersetzungs-KI auf partizipative Sprachdaten            |
 | 🕊️ Seelen                    | Poetische Erzählungen: „In jedem Wort wohnt ein ganzes Volk“          |
 
-#### 4.1.1.5 Interaktive Elemente
+##### 4.1.1.5 Interaktive Elemente
 
-##### ✅ Checkliste: Mehrsprachige Narrative und Identität
+###### ✅ Checkliste: Mehrsprachige Narrative und Identität
 
 * [ ] Ist meine Kommunikation in mindestens zwei Sprachen zugänglich?
 * [ ] Berücksichtige ich kulturelle Konnotationen in Sprachwahl und Bildsprache?
 * [ ] Ermutige ich Menschen zur Mitgestaltung in ihrer Muttersprache?
 * [ ] Nutze ich digitale Übersetzungslösungen aktiv für Inklusion?
 
-##### ❓ Mini-Quiz
+###### ❓ Mini-Quiz
 
 **Frage:** Welches Element kennzeichnet mehrsprachige demokratische Narrative am stärksten?
 
@@ -2205,7 +2231,7 @@ Europa ist ein Kontinent der Vielfalt – sprachlich, kulturell und historisch. 
 
 **d)** Monolinguale Vereinfachung
 
-#### 4.1.1.6 Quellen & Verweise
+##### 4.1.1.6 Quellen & Verweise
 
 1. **Van Parijs, Philippe (2011):** _Linguistic Justice for Europe and for the World._ Oxford: Oxford University Press. Online verfügbar unter: [https://global.oup.com/academic/product/linguistic-justice-for-europe-and-for-the-world-9780199208876](https://global.oup.com/academic/product/linguistic-justice-for-europe-and-for-the-world-9780199208876) (Zugriff am 2025-05-15).\
    ISBN: 978-0-19-920887-6.
@@ -2216,7 +2242,8 @@ Europa ist ein Kontinent der Vielfalt – sprachlich, kulturell und historisch. 
 \newpage
 
 <a id="md-4-das-erda-gesamtkonzept-4-1-vision-and-leitprinzip-4-1-2-starke-zivilgesellschaft-als-partnerin"></a>
-## 4.1.2 Starke Zivilgesellschaft als Partnerin
+
+### 4.1.2 Starke Zivilgesellschaft als Partnerin
 
 _**Starke Zivilgesellschaft als Partnerin**_
 
@@ -2240,7 +2267,7 @@ _Eckpfeiler_
 * _**Vernetzte Akteurskooperation:** Aufbau stabiler Allianzen zwischen NGOs, Community-Organisationen und Behörden._
 * _**Ressourcen & Vertrauen:** Zivilgesellschaft trägt Wissen, Netzwerke und Legitimität in die ERDA-Struktur._
 
-#### 4.1.2.1 Einleitung & Kernimpulse
+##### 4.1.2.1 Einleitung & Kernimpulse
 
 Eine widerstandsfähige Demokratie braucht eine lebendige Zivilgesellschaft als **Partnerin**. Sie fungiert als **Korrektiv**, **Innovationsquelle** und **Brückenbauerin** zwischen Staat und Bürger:innen.
 
@@ -2250,7 +2277,7 @@ Eine widerstandsfähige Demokratie braucht eine lebendige Zivilgesellschaft als 
 * **Legitimitätsnetzwerke stärken:** NGOs und Community-Organisationen förmlich in Governance-Prozesse einbinden.
 * **Kapazitätsaufbau fördern:** Trainings, Finanzierung und Infrastruktur für lokale Initiativen bereitstellen.
 
-#### 4.1.2.2 Vertiefung & Analyse
+##### 4.1.2.2 Vertiefung & Analyse
 
 | Dimension                 | Traditionelles Governance-Modell | Partnerschaft mit Zivilgesellschaft            |
 | ------------------------- | -------------------------------- | ---------------------------------------------- |
@@ -2269,14 +2296,14 @@ Eine widerstandsfähige Demokratie braucht eine lebendige Zivilgesellschaft als 
 >
 > 🌍 **Visionäre Metapher:** "Die Zivilgesellschaft ist das Wurzelwerk, das das demokratische Gebälk nährt."
 
-#### 4.1.2.3 Transformation & Handlungsoptionen
+##### 4.1.2.3 Transformation & Handlungsoptionen
 
 * **Civic Hubs:** Lokale Zentren für Dialog, Ideation und Projektentwicklung.
 * **Community Funds:** Mikrozuschüsse für Bürger:innenprojekte als Anschubfinanzierung.
 * **Co-Design Labs:** Gemeinsame Workshops für Policy-Prototyping zwischen Verwaltung und Community.
 * **Capacity-Building-Initiativen:** Trainings und Mentoring für NGO-Führungskräfte und Community-Organizer:innen.
 
-#### 4.1.2.4 Zielgruppenspezifische Perspektiven
+##### 4.1.2.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                 | Schwerpunkt                                                           |
 | -------------------------- | --------------------------------------------------------------------- |
@@ -2287,16 +2314,16 @@ Eine widerstandsfähige Demokratie braucht eine lebendige Zivilgesellschaft als 
 | 💼 Privatsektor            | Public-Private-Partnerships zur Unterstützung von Community-Projekten |
 | 🌐 Digitale Communities    | Nutzung digitaler Tools für inklusive Beteiligung                     |
 
-#### 4.1.2.5 Interaktive Elemente
+##### 4.1.2.5 Interaktive Elemente
 
-##### ✅ Checkliste: Zivilgesellschaft als Partnerin
+###### ✅ Checkliste: Zivilgesellschaft als Partnerin
 
 * [ ] Sind Partizipationskanäle formal verankert?
 * [ ] Werden NGOs in Entscheidungsprozesse eingebunden?
 * [ ] Gibt es ausreichende Ressourcen für Bürger:innenprojekte?
 * [ ] Finden regelmäßige Co-Design-Workshops statt?
 
-##### ❓ Mini-Quiz
+###### ❓ Mini-Quiz
 
 **Frage:** Welches Element stärkt die Legitimität von Governance am meisten?
 
@@ -2305,7 +2332,7 @@ b) Partizipative Gremien ✅\
 c) Externe Expert:innen\
 d) Einweg-Kommunikation
 
-#### 4.1.2.6 Quellen & Verweise
+##### 4.1.2.6 Quellen & Verweise
 
 1. **Stanford Social Innovation Review (2022):** _Winter 2022, Volume 20, Number 1_.\
    Online verfügbar unter: [https://ssir.org/issue/winter\_2022](https://ssir.org/issue/winter_2022) (Zugriff am 2025-05-15).
@@ -2317,7 +2344,8 @@ d) Einweg-Kommunikation
 \newpage
 
 <a id="md-4-das-erda-gesamtkonzept-4-1-vision-and-leitprinzip-4-1-3-institutionelle-balance"></a>
-## 4.1.3 Institutionelle Balance
+
+### 4.1.3 Institutionelle Balance
 
 _**Institutionelle BalanceInstitutionelle Balance**_
 
@@ -2338,7 +2366,7 @@ _Eckpfeiler_
 * _**Flexibilität & Anpassungsfähigkeit:** Institutionen so gestalten, dass sie auf Krisen und technologische Wandlungen agil reagieren können._
 * _**Transparenz & Rechenschaft:** Offene Prozesse und klare Verantwortlichkeiten schaffen Vertrauen und Legitimität._
 
-#### 4.1.3.1 Einleitung & Kernimpulse
+##### 4.1.3.1 Einleitung & Kernimpulse
 
 Eine ausgewogene institutionelle Architektur ist das Rückgrat jeder demokratischen Allianz. Im ERDA-Netzwerk müssen **Zentralität** und **Regionalität**, **Stabilität** und **Dynamik** in Einklang gebracht werden.
 
@@ -2349,7 +2377,7 @@ Eine ausgewogene institutionelle Architektur ist das Rückgrat jeder demokratisc
 * **Adaptive Governance fördern:** Verfahren und Organe müssen evolutive Reformschleifen ermöglichen.
 * **Offenlegungspflichten etablieren:** Alle wesentlichen Entscheidungsprozesse werden dokumentiert und öffentlich zugänglich gemacht.
 
-#### 4.1.3.2 Vertiefung & Analyse
+##### 4.1.3.2 Vertiefung & Analyse
 
 | Dimension                    | Zentralistische Strukturen       | Institutionelle Balance                          |
 | ---------------------------- | -------------------------------- | ------------------------------------------------ |
@@ -2368,14 +2396,14 @@ Eine ausgewogene institutionelle Architektur ist das Rückgrat jeder demokratisc
 >
 > 🌍 **Visionäre Metapher:** "Institutionelle Balance ist wie ein Orchester: Jedes Instrument muss stimmen, damit die Sinfonie gelingt."
 
-#### 4.1.3.3 Transformation & Handlungsoptionen
+##### 4.1.3.3 Transformation & Handlungsoptionen
 
 * **Multi-Level-Gremien einrichten:** Paritätisch besetzte Foren auf lokaler, nationaler und europäischer Ebene für Policy-Entwicklung.
 * **Subsidiaritäts-Workshops:** Schulungen und Simulationen, um das Subsidiaritätsprinzip in realen Entscheidungskontexten zu verankern.
 * **Adaptive Rulebooks:** Regelwerke mit integrierten Review-Zyklen, die auf Feedback aus Zivilgesellschaft und Verwaltung reagieren.
 * **Open Decision Platforms:** Digitale Tools, auf denen Bürger:innen Status, Dokumente und Debatten zu laufenden Entscheidungen mitverfolgen können.
 
-#### 4.1.3.4 Zielgruppenspezifische Perspektiven
+##### 4.1.3.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                     | Schwerpunkt                                                  |
 | ------------------------------ | ------------------------------------------------------------ |
@@ -2386,16 +2414,16 @@ Eine ausgewogene institutionelle Architektur ist das Rückgrat jeder demokratisc
 | 🤝 NGOs                        | Monitoring von Subsidiarität und Rechenschaftspflicht        |
 | 💼 Privatsektor                | Kooperation in Public-Private-Partnerships auf allen Ebenen  |
 
-#### 4.1.3.5 Interaktive Elemente
+##### 4.1.3.5 Interaktive Elemente
 
-##### ✅ Checkliste: Institutionelle Balance
+###### ✅ Checkliste: Institutionelle Balance
 
 * [ ] Ist das Subsidiaritätsprinzip klar definiert und operationalisiert?
 * [ ] Gibt es institutionelle Gegengewichte (Checks & Balances)?
 * [ ] Werden Entscheidungen transparent dokumentiert?
 * [ ] Gibt es adaptive Review- und Eskalationsmechanismen?
 
-##### ❓ Mini-Quiz
+###### ❓ Mini-Quiz
 
 **Frage:** Welches Element ist zentral für institutionelle Balance?
 
@@ -2404,9 +2432,9 @@ b) Dezentrale Kompetenzverteilung ✅\
 c) Starre Hierarchien\
 d) Geheimhaltungspflichten
 
-#### 
+##### 
 
-#### 4.1.3.6 Quellen & Verweise
+##### 4.1.3.6 Quellen & Verweise
 
 1. **Europäische Kommission (2024):** _Building a Resilient and Future-Ready Democracy in the EU_. Veröffentlicht am 20. März 2024. Online verfügbar unter: [https://commissioners.ec.europa.eu/building-resilient-and-future-ready-democracy-eu-2024-03-20\_en](https://commissioners.ec.europa.eu/building-resilient-and-future-ready-democracy-eu-2024-03-20_en) (Zugriff am 2025-05-15).
 2. **Europäische Kommission – Internationale Partnerschaften (2024):** _Democracy and the Rule of Law_. Teil des Aktionsplans für Menschenrechte und Demokratie 2020–2027. Online verfügbar unter: [https://international-partnerships.ec.europa.eu/policies/peace-and-governance/democracy\_en](https://international-partnerships.ec.europa.eu/policies/peace-and-governance/democracy_en) (Zugriff am 2025-05-15).
@@ -2425,7 +2453,8 @@ d) Geheimhaltungspflichten
 \newpage
 
 <a id="md-4-das-erda-gesamtkonzept-4-1-vision-and-leitprinzip-4-1-4-demokratische-kontrolle-uber-ki-prozesse"></a>
-## 4.1.4 Demokratische Kontrolle über KI-Prozesse
+
+### 4.1.4 Demokratische Kontrolle über KI-Prozesse
 
 _**Demokratische Kontrolle über KI-Prozesse**_
 
@@ -2450,7 +2479,7 @@ _Eckpfeiler_
 * _**Partizipative Aufsicht:** Einbindung zivilgesellschaftlicher und parlamentarischer Gremien in Audit- und Review-Prozesse._
 * _**Ethik- & Rechtsrahmen:** Verbindliche Standards für Fairness, Datenschutz und Nichtdiskriminierung._
 
-#### 4.1.4.1 Einleitung & Kernimpulse
+##### 4.1.4.1 Einleitung & Kernimpulse
 
 KI-Systeme gewinnen zunehmend Einfluss auf politische und administrative Entscheidungen. Ohne demokratische Kontrollmechanismen drohen **Intransparenz**, **Vorurteile** und **Legitimationsdefizite**.
 
@@ -2461,7 +2490,7 @@ KI-Systeme gewinnen zunehmend Einfluss auf politische und administrative Entsche
 * **Bürger:innen-Jurys:** Zufallsbasierte Gremien, die KI-Anwendungen bewerten.
 * **Regelbasierte Whitelists/Blacklists:** Klare Vorgaben für erlaubte und unzulässige KI-Einsatzfelder.
 
-#### 4.1.4.2 Vertiefung & Analyse
+##### 4.1.4.2 Vertiefung & Analyse
 
 | Dimension                            | Unkontrollierter KI-Einsatz            | Demokratisch kontrollierte KI-Prozesse         |
 | ------------------------------------ | -------------------------------------- | ---------------------------------------------- |
@@ -2480,14 +2509,14 @@ KI-Systeme gewinnen zunehmend Einfluss auf politische und administrative Entsche
 >
 > 🌍 **Visionäre Metapher:** "Demokratie und KI tanzen im Dialog – beide brauchen Transparenz und Rhythmus."
 
-#### 4.1.4.3 Transformation & Handlungsoptionen
+##### 4.1.4.3 Transformation & Handlungsoptionen
 
 * **KI-Audit-Units:** Einrichtung spezialisierter Teams in Verwaltungen und Parlamenten zur kontinuierlichen Überprüfung.
 * **Regulatory Sandboxes:** Erprobungsräume für neue KI-Anwendungen unter begleitender demokratischer Beobachtung.
 * **Open Data & Modelkarten:** Veröffentlichung von Datensätzen und Modellbeschreibungen in maschinenlesbaren Formaten.
 * **Civic Tech-Partnerschaften:** Kooperation mit Zivilgesellschaft und wissenschaftlichen Einrichtungen für Prüfungen und Feedback.
 
-#### 4.1.4.4 Zielgruppenspezifische Perspektiven
+##### 4.1.4.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                        | Schwerpunkt                                                          |
 | --------------------------------- | -------------------------------------------------------------------- |
@@ -2498,16 +2527,16 @@ KI-Systeme gewinnen zunehmend Einfluss auf politische und administrative Entsche
 | 📚 Wissenschaft \& NGOs            | Unabhängige Forschung und zivilgesellschaftliche Monitoring-Projekte |
 | 💼 Private Sektor                 | Best-Practice-Leitlinien für verantwortlichen KI-Einsatz             |
 
-#### 4.1.4.5 Interaktive Elemente
+##### 4.1.4.5 Interaktive Elemente
 
-##### ✅ Checkliste: Demokratische KI-Kontrolle
+###### ✅ Checkliste: Demokratische KI-Kontrolle
 
 * [ ] Sind alle eingesetzten KI-Systeme dokumentiert und publik?
 * [ ] Existieren verbindliche Audit- und Review-Prozesse?
 * [ ] Werden Bürger:innen und zivilgesellschaftliche Gruppen eingebunden?
 * [ ] Sind KI-Modelle auf Bias und Datenschutz geprüft?
 
-##### ❓ Mini-Quiz
+###### ❓ Mini-Quiz
 
 **Frage:** Welches Instrument stärkt die Nachvollziehbarkeit von KI-Entscheidungen am effektivsten?
 
@@ -2519,7 +2548,7 @@ c) Versteckte Modelltrainings
 \
 d) Proprietäre Closed-Source-Algorithmen
 
-#### 4.1.4.6 Quellen & Verweise
+##### 4.1.4.6 Quellen & Verweise
 
 1. European Commission (2019): Ethics Guidelines for Trustworthy AI. Brüssel: Publications Office of the European Union. Online verfügbar unter: [https://ec.europa.eu/digital-single-market/en/news/ethics-guidelines-trustworthy-ai](https://ec.europa.eu/digital-single-market/en/news/ethics-guidelines-trustworthy-ai) (Zugriff am 2025-05-16).
 2. OECD (2021): Regulating AI in the Public Sector. Paris: OECD Publishing. Online verfügbar unter: [https://www.oecd.org/gov/regulating-ai-in-the-public-sector.pdf](https://www.oecd.org/gov/regulating-ai-in-the-public-sector.pdf) (Zugriff am 2025-05-16).
@@ -2530,7 +2559,8 @@ d) Proprietäre Closed-Source-Algorithmen
 \newpage
 
 <a id="md-4-das-erda-gesamtkonzept-4-1-vision-and-leitprinzip-4-1-5-interplanetare-verantwortung-und-evolutionare-perspektiven"></a>
-## 4.1.5 Interplanetare Verantwortung und evolutionäre Perspektiven
+
+### 4.1.5 Interplanetare Verantwortung und evolutionäre Perspektiven
 
 _**Interplanetare Verantwortung und evolutionäre Perspektiven**_
 
@@ -2547,7 +2577,7 @@ _Eckpfeiler_
 * _**Transzendente Kooperation:** Aufbau multilateraler Allianzen („Solar Alliance“) für gerechte Ressourcenteilung jenseits der Erde._
 * _**Evolutionärer Kompass:** Demokratische Prozesse als Grundlage für den nächsten Schritt menschlicher und zivilisatorischer Entwicklung._
 
-#### 4.1.5.1 Einleitung & Kernimpulse
+##### 4.1.5.1 Einleitung & Kernimpulse
 
 Demokratie endet nicht an der Erdgrenze. Interplanetare Verantwortung betrachtet das Sonnensystem als erweiterten Resonanzraum, in dem politische, ethische und ökologische Belange in neuen Ordnungsstrukturen zusammengeführt werden.
 
@@ -2558,7 +2588,7 @@ Demokratie endet nicht an der Erdgrenze. Interplanetare Verantwortung betrachtet
 * **Allianzen des Lebens:** Vernetzung von Staaten, Raumfahrtagenturen und Zivilgesellschaft zu einer „Solar Alliance“.
 * **Evolution als Leitstern:** Demokratie als Entwicklungsprinzip, das Menschheit und Technik in Einklang bringt.
 
-#### 4.1.5.2 Vertiefung & Analyse
+##### 4.1.5.2 Vertiefung & Analyse
 
 | Dimension             | Konventionelle Raumfahrt    | ERDA Interplanetare Verantwortung     |
 | --------------------- | --------------------------- | ------------------------------------- |
@@ -2577,14 +2607,14 @@ Demokratie endet nicht an der Erdgrenze. Interplanetare Verantwortung betrachtet
 >
 > 🌍 **Visionäre Metapher:** "Der Orbit ist kein Vakuum – er ist das Spiegelbild unserer Verantwortung."
 
-#### 4.1.5.3 Transformation & Handlungsoptionen
+##### 4.1.5.3 Transformation & Handlungsoptionen
 
 * **Solar Alliance Gründung:** Einrichtung eines multilateralen Forums für demokratische Raumfahrtgovernance.
 * **Kosmische Kodizes:** Verabschiedung eines völkerrechtlich bindenden „Kosmosrechts“ zur ethischen Steuerung aller Missionen.
 * **Orbital Citizen Councils:** Zufallsbasierte Gremien, die Weltraumprojekte auditieren und Empfehlungen aussprechen.
 * **Evolutionäre Forschungslabs:** Interdisziplinäre Zentren zur Erforschung demokratischer Evolution im All.
 
-#### 4.1.5.4 Zielgruppenspezifische Perspektiven
+##### 4.1.5.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                  | Schwerpunkt                                                       |
 | --------------------------- | ----------------------------------------------------------------- |
@@ -2595,16 +2625,16 @@ Demokratie endet nicht an der Erdgrenze. Interplanetare Verantwortung betrachtet
 | 🎓 Bildungseinrichtungen    | Curricula zu Planetarer Verantwortung und Weltraumethik           |
 | 🕊️ Seelen                  | Poetische Reflexionen zur Menschheit als kosmische Gemeinschaft   |
 
-#### 4.1.5.5 Interaktive Elemente
+##### 4.1.5.5 Interaktive Elemente
 
-##### ✅ Checkliste: Interplanetare Verantwortung
+###### ✅ Checkliste: Interplanetare Verantwortung
 
 * [ ] Sind demokratische Kodizes für Raumfahrt verankert?
 * [ ] Beteiligung zivilgesellschaftlicher und wissenschaftlicher Gremien gesichert?
 * [ ] Ressourcen- und Umweltgerechtigkeit im All konzipiert?
 * [ ] Langfristige evolutionäre Ziele definiert und kommuniziert?
 
-##### ❓ Mini-Quiz
+###### ❓ Mini-Quiz
 
 **Frage:** Welches Instrument sichert im ERDA-Konzept die ethische Nutzung von Weltraumressourcen?
 
@@ -2616,7 +2646,7 @@ c) Völkerrechtliches Kosmosrecht ✅
 \
 d) Geheimverhandlungen zwischen Agenturen
 
-#### 4.1.5.6 Quellen & Verweise
+##### 4.1.5.6 Quellen & Verweise
 
 1. _Kodifizierung als Kosmosrecht_ – SOLAR ALLIANCE Codex: [Solar Alliance Codex](#md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-3-aufbau-einer-solar-alliance-9-1-3-1-kodifizierung-als-kosmosrecht)
 2. _Planetare Ethik als lebende Navigation:_ [_Planetare Ethik_](#md-9-das-space-konzept-9-8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit-9-8-3-planetare-ethik-als-lebende-navigation)
@@ -2627,7 +2657,8 @@ d) Geheimverhandlungen zwischen Agenturen
 \newpage
 
 <a id="md-4-das-erda-gesamtkonzept-4-1-vision-and-leitprinzip-4-1-6-erda-im-zeitlichen-wandel"></a>
-## 4.1.6 ERDA im zeitlichen Wandel
+
+### 4.1.6 ERDA im zeitlichen Wandel
 
 _**ERDA im zeitlichen Wandel**_
 
@@ -2689,7 +2720,7 @@ _**ERDA im zeitlichen Wandel**_
 * **Szenario-Orientierung:** Systematische Entwicklung und Testung von Zukunftsszenarien (Kurz-, Mittel- und Langfrist).
 * **Lernende Organisation:** Wissensmanagement und Best-Practice-Transfer fest im ERDA-Netzwerk verankern.
 
-#### 4.1.6.1 Einleitung & Kernimpulse
+##### 4.1.6.1 Einleitung & Kernimpulse
 
 ERDA ist keine statische Institution, sondern ein **evolutionäres Netzwerk**. Dieses Kapitel beleuchtet, wie ERDA sich historisch entwickelt hat, gegenwärtig agiert und sich für zukünftige Herausforderungen rüstet.
 
@@ -2700,7 +2731,7 @@ ERDA ist keine statische Institution, sondern ein **evolutionäres Netzwerk**. D
 * **Zukunft antizipieren:** Aufbau von Prospective-Units für strategische Frühwarnung.
 * **Wissen transferieren:** Etablierung eines dynamischen Knowledge-Repository.
 
-#### 4.1.6.2 Vertiefung & Analyse
+##### 4.1.6.2 Vertiefung & Analyse
 
 | Phase                    | Charakteristika                       | Implikationen für ERDA                                  |
 | ------------------------ | ------------------------------------- | ------------------------------------------------------- |
@@ -2719,14 +2750,14 @@ ERDA ist keine statische Institution, sondern ein **evolutionäres Netzwerk**. D
 >
 > 🌍 **Visionäre Metapher:** "ERDA ist ein Fluss, der sich immer wieder neu formt, ohne seinen Ursprung zu verleugnen."
 
-#### 4.1.6.3 Transformation & Handlungsoptionen
+##### 4.1.6.3 Transformation & Handlungsoptionen
 
 * **ERDA-Archiv & Chronik:** Digitales Portal zur Dokumentation aller strategischen Entscheidungen und Lessons Learned.
 * **Prospective-Unit:** Interdisziplinäres Team für Trend-Scouting und Szenario-Analysen.
 * **Adaptive Policy Labs:** Experimentierwerkstätten zur iterativen Weiterentwicklung von Regelwerken.
 * **Wissensnetzwerk:** Plattform für Austausch von Best-Practices, Forschungsresultaten und Innovationsstories.
 
-#### 4.1.6.4 Zielgruppenspezifische Perspektiven
+##### 4.1.6.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                 | Schwerpunkt                                                           |
 | -------------------------- | --------------------------------------------------------------------- |
@@ -2737,16 +2768,16 @@ ERDA ist keine statische Institution, sondern ein **evolutionäres Netzwerk**. D
 | 💼 Privatsektor            | Private-Public-Partnerschaften für Innovations- und Reformprojekte    |
 | 🤖 KI-Analytiker:innen     | Einsatz von Data-Analytics und KI für Trendvorhersage und Evaluierung |
 
-#### 4.1.6.5 Interaktive Elemente
+##### 4.1.6.5 Interaktive Elemente
 
-##### ✅ Checkliste: ERDA im Wandel
+###### ✅ Checkliste: ERDA im Wandel
 
 * [ ] Sind historische Meilensteine dokumentiert und zugänglich?
 * [ ] Gibt es regelmäßige Feedback-Runden mit Stakeholdern?
 * [ ] Werden Zukunftsszenarien aktiv entwickelt und getestet?
 * [ ] Ist Wissen strukturiert als gemeinsames Repository verfügbar?
 
-##### ❓ Mini-Quiz
+###### ❓ Mini-Quiz
 
 **Frage:** Welches Instrument fördert die reflexive Anpassungsfähigkeit von ERDA am effektivsten?
 
@@ -2758,7 +2789,7 @@ c) Starre Regelwerke
 \
 d) Top-down-Direktiven
 
-#### 4.1.6.6 Quellen & Verweise
+##### 4.1.6.6 Quellen & Verweise
 
 1. Steelman, T. (2022): _Adaptive Governance_. In: Ansell, C. & Torfing, J. (Hrsg.): _Handbook on Theories of Governance_. Cheltenham: Edward Elgar Publishing, S. 580–591. DOI: [10.4337/9781800371972.00060](https://doi.org/10.4337/9781800371972.00060) (Zugriff am 2025-05-16).
 2. Ralston, W. K. & Wilson, I. (2006): The Scenario-Planning Handbook: A Practitioner's Guide to Developing and Using Scenarios to Direct Strategy in Today's Uncertain Times. Mason, OH: South-Western Educational Publishing. Online verfügbar unter: [https://archive.org/details/scenarioplanning0000rals](https://archive.org/details/scenarioplanning0000rals) (Zugriff am 2025-05-16).
@@ -2770,6 +2801,7 @@ d) Top-down-Direktiven
 \newpage
 
 <a id="md-4-das-erda-gesamtkonzept-4-2-reformphase-2025-2035-strategische-neuausrichtung-readme"></a>
+
 ## 4.2 Reformphase: 2025–2035 - Strategische Neuausrichtung der EU
 
 _**Reformphase: 2025–2035 - Strategische Neuausrichtung der EU**_
@@ -2838,7 +2870,8 @@ Die Reformphase 2025–2035 legt das Fundament für eine lebendige, lernfähige 
 \newpage
 
 <a id="md-4-das-erda-gesamtkonzept-4-2-reformphase-2025-2035-strategische-neuausrichtung-4-2-1-umsetzung-zentraler-reformempfehlungen-basierend-auf-sailing-on-high-seas"></a>
-## 4.2.1 Umsetzung zentraler Reformempfehlungen (basierend auf "Sailing on High Seas")
+
+### 4.2.1 Umsetzung zentraler Reformempfehlungen (basierend auf "Sailing on High Seas")
 
 _**Umsetzung zentraler Reformempfehlungen (basierend auf "Sailing on High Seas")**_
 
@@ -2850,7 +2883,7 @@ Stärkung des Europäischen Parlaments gegenüber Exekutive und Rat.
 \
 Durchsetzung der Rechtsstaatlichkeit durch automatische, entpolitisierte Sanktionsmechanismen.
 
-#### 4.2.1.1 Einleitung & Kernimpulse
+##### 4.2.1.1 Einleitung & Kernimpulse
 
 Die Studie „Sailing on High Seas“ entwirft einen Sechs-Punkte-Plan zur Modernisierung europäischer Governance- und Infrastrukturstrukturen. In der Reformphase 2025–2030 liegt die Aufgabe darin, diese Vision durch konkrete politische Prozesse Wirklichkeit werden zu lassen.
 
@@ -2861,7 +2894,7 @@ Die Studie „Sailing on High Seas“ entwirft einen Sechs-Punkte-Plan zur Moder
 * **Strategischer Investitionsfonds** für digitale und grüne Infrastruktur mobilisieren
 * **Rechtsrahmen anpassen**: Harmonisierung von Verfahren und Standards über alle Mitgliedstaaten hinweg
 
-#### 4.2.1.2 Vertiefung & Analyse
+##### 4.2.1.2 Vertiefung & Analyse
 
 | Bereich                  | Status quo                              | Reformbedarf                                                     |
 | ------------------------ | --------------------------------------- | ---------------------------------------------------------------- |
@@ -2880,14 +2913,14 @@ Die Studie „Sailing on High Seas“ entwirft einen Sechs-Punkte-Plan zur Moder
 >
 > 🌍 **Visionäre Metapher:** „Europa als großes Schiff: Nur mit geeinter Crew und klarem Kurs navigieren wir sicher durch stürmische Gewässer.“
 
-#### 4.2.1.3 Transformation & Handlungsoptionen
+##### 4.2.1.3 Transformation & Handlungsoptionen
 
 * **Reformdialog-Infrastruktur** aufsetzen: Digitale und Präsenz-Workshops in allen Hauptstädten
 * **Bürgerkonvent konstituieren**: Auswahl nach Losverfahren, Mandat auf sechs Monate
 * **Impact-Fonds strukturieren**: EU-Kommission vergibt Seed‑Grants für Pilotprojekte in smart cities und Netzinfrastruktur
 * **Verfahrensrecht reformieren**: Einführung von „Fast Track“-Richtlinien für strategisch bedeutende Projekte
 
-#### 4.2.1.4 Zielgruppenspezifische Perspektiven
+##### 4.2.1.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                    | Schwerpunkt                                                                   |
 | ----------------------------- | ----------------------------------------------------------------------------- |
@@ -2898,7 +2931,7 @@ Die Studie „Sailing on High Seas“ entwirft einen Sechs-Punkte-Plan zur Moder
 | 🤖 Künstliche Intelligenzen   | Entwicklung intelligenter Moderations‑ und Analyseagenten für Bürgerprojekte  |
 | 🕊️ Seelen                    | Narratives Storytelling: „Jede Stimme ist ein Ruder, das Europa voranbringt.“ |
 
-#### 4.2.1.5 Interaktive Elemente
+##### 4.2.1.5 Interaktive Elemente
 
 **✅ Checkliste: Sind wir reformbereit?**
 
@@ -2917,7 +2950,7 @@ a) Reformkoordinationsrat\
 c) Bürgerkonvent\
 d) Impact-Fonds
 
-#### 4.2.1.6 Quellen & Verweise
+##### 4.2.1.6 Quellen & Verweise
 
 1. Verhofstadt, G. et al. (2023): _Sailing on High Seas – Reforming the EU for the Next Generation._ Brüssel: POLITICO Europe. Online verfügbar unter: [https://www.politico.eu/wp-content/uploads/2023/09/19/Paper-EU-reform.pdf](https://www.politico.eu/wp-content/uploads/2023/09/19/Paper-EU-reform.pdf) (Zugriff am 2025-05-16).
 
@@ -2926,7 +2959,8 @@ d) Impact-Fonds
 \newpage
 
 <a id="md-4-das-erda-gesamtkonzept-4-2-reformphase-2025-2035-strategische-neuausrichtung-4-2-2-aufbau-der-europaischen-verteidigungsallianz-eda-2-0"></a>
-## 4.2.2 Aufbau der Europäischen Verteidigungsallianz (EDA 2.0)
+
+### 4.2.2 Aufbau der Europäischen Verteidigungsallianz (EDA 2.0)
 
 _**Aufbau der operativ & strategisch handlungsfähigen European Defense Alliance (EDA 2.0)**_
 
@@ -2946,7 +2980,7 @@ _Transformation zur European Defense Alliance (EDA 2.0)_
 
 _**Im weiteren wird die EDA 2.0 kurz EVA/EDA genannt (Europäische Verteidigungsallianz oder European Defense Alliance).**_
 
-#### 4.2.2.1 Einleitung & Kernimpulse
+##### 4.2.2.1 Einleitung & Kernimpulse
 
 Die heutige EDA ist primär Koordinations­forum und Beratungsgremium ohne operatives Mandat. Die EDA soll diese Lücke schließen und als echte Allianz unter EU-Recht funktionieren.
 
@@ -2957,7 +2991,7 @@ Die heutige EDA ist primär Koordinations­forum und Beratungsgremium ohne opera
 * **Gemeinsames Budget**: Einrichtung eines eigenständigen EDA-Haushalts für Übungen, Forschung und Beschaffung
 * **Integrierte Führung**: Aufbau eines EU-Operationshauptquartiers für zivile und militärische Einsätze
 
-#### 4.2.2.2 Vertiefung & Analyse
+##### 4.2.2.2 Vertiefung & Analyse
 
 | Bereich                  | Status quo                                        | Reformbedarf                                                                |
 | ------------------------ | ------------------------------------------------- | --------------------------------------------------------------------------- |
@@ -2978,7 +3012,7 @@ Die heutige EDA ist primär Koordinations­forum und Beratungsgremium ohne opera
 >
 > 🌍 **Visionäre Metapher:** „Die EDA ist das sichere Drehkreuz eines Kontinents, das Bedrohungen abwehrt und Solidarität transportiert.“
 
-#### 4.2.2.3 Transformation & Handlungsoptionen
+##### 4.2.2.3 Transformation & Handlungsoptionen
 
 * **EDA-Konvent einberufen**: Verhandlung einer Gründungs­konvention aller Mitgliedstaaten bis Ende 2026
 * **Mehrheitsverfahren verankern**: Aufnahme von QMV in EU-Vertragsergänzung (Art. xxx TFEU)
@@ -2987,7 +3021,7 @@ Die heutige EDA ist primär Koordinations­forum und Beratungsgremium ohne opera
 * **Gemeinsame Beschaffungs­agentur gründen**: EPA mit Mandat für Panzer‑, Drohnen- und Cybertechnik
 * **Standby-Forces definieren**: Rotierende Kontingente aus 5 000 Soldaten für sofortige Einsätze
 
-#### 4.2.2.4 Zielgruppenspezifische Perspektiven
+##### 4.2.2.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                    | Schwerpunkt                                                                  |
 | ----------------------------- | ---------------------------------------------------------------------------- |
@@ -2998,7 +3032,7 @@ Die heutige EDA ist primär Koordinations­forum und Beratungsgremium ohne opera
 | 🤖 Künstliche Intelligenzen   | Entwicklung intelligenter Planungs- und Koordinations­tools für EDA          |
 | 🕊️ Seelen                    | Narratives Storytelling: „EVA/EDA als Schutzschild und Möglichkeitsraum“     |
 
-#### 4.2.2.5 Interaktive Elemente
+##### 4.2.2.5 Interaktive Elemente
 
 **✅ Checkliste: Bereit für EDA?**
 
@@ -3017,7 +3051,7 @@ b) EPA – gemeinsame Beschaffungs­agentur ✅\
 c) Intergouvernementale Koordination\
 d) EU Battlegroups
 
-#### 4.2.2.6 Quellen & Verweise
+##### 4.2.2.6 Quellen & Verweise
 
 1. **Europäische Verteidigungsagentur (EDA) (o. J.)**: _What We Do._ Brussels: Europäische Verteidigungsagentur. Online verfügbar unter: [https://eda.europa.eu/what-we-do](https://eda.europa.eu/what-we-do) (Zugriff am 2025-05-19).
 2. **Rat der Europäischen Union (2022)**: _Strategischer Kompass für Sicherheit und Verteidigung._ Brüssel: Rat der Europäischen Union.\
@@ -3029,7 +3063,8 @@ d) EU Battlegroups
 \newpage
 
 <a id="md-4-das-erda-gesamtkonzept-4-2-reformphase-2025-2035-strategische-neuausrichtung-4-2-3-erweiterungsstrategie-nach-dem-modell-konzentrischer-kreise"></a>
-## 4.2.3 Erweiterungsstrategie nach dem Modell „Konzentrischer Kreise“
+
+### 4.2.3 Erweiterungsstrategie nach dem Modell „Konzentrischer Kreise“
 
 _**Erweiterungsstrategie nach dem Modell „Konzentrischer Kreise“**_
 
@@ -3045,7 +3080,7 @@ _Erweiterungsstrategie nach dem Modell „Konzentrischer Kreise“_
 
 > _Fazit: Die Erweiterung der ERDA erfolgt bewusst nicht nach starren Beitrittsmustern, sondern orientiert sich an einem flexiblen Modell konzentrischer Kreise._
 
-#### 4.2.3.1 Einleitung & Kernimpulse
+##### 4.2.3.1 Einleitung & Kernimpulse
 
 Die Erweiterung der Europäischen Rights‑Based Democratic Alliance (ERDA) folgt keinem starren Beitrittsprozedere, sondern einem differenzierten Modell konzentrischer Kreise:
 
@@ -3055,7 +3090,7 @@ Die Erweiterung der Europäischen Rights‑Based Democratic Alliance (ERDA) folg
 * **Erweiterte Partnerschaft**: Demokratien mit Teilintegration – politisch, sicherheitspolitisch und wirtschaftlich.
 * **Globale Assoziierte**: Kooperationsstaaten außerhalb Europas, die strategische Allianzen eingehen.
 
-#### 4.2.3.2 Vertiefung & Analyse
+##### 4.2.3.2 Vertiefung & Analyse
 
 | Kreis                       | Beschreibung                                      | Bedingungen                                       |
 | --------------------------- | ------------------------------------------------- | ------------------------------------------------- |
@@ -3073,7 +3108,7 @@ Die Erweiterung der Europäischen Rights‑Based Democratic Alliance (ERDA) folg
 >
 > 🌍 **Visionäre Metapher:** „Die konzentrischen Kreise sind die Ringe eines starken Baums: Jeder trägt und schützt das Zentrum.“
 
-#### 4.2.3.3 Transformation & Handlungsoptionen
+##### 4.2.3.3 Transformation & Handlungsoptionen
 
 * **Kernkreisfestigung**: Verabschiedung einer ERDA‑Verfassungsnovelle bis 2028 für bestehende Vollmitglieder.
 * **Partnerschaftsvereinbarungen**: Mustervertrag und Zeitplan für erweiterte Partner (2026–2030).
@@ -3081,7 +3116,7 @@ Die Erweiterung der Europäischen Rights‑Based Democratic Alliance (ERDA) folg
 * **Übergangsmodalitäten**: Staffelung von Rechten (CIVITAS‑Mitbestimmung, EDA‑Teilnahme, FORTERA‑Zugänge).
 * **Monitoring & Review**: Jährliche Peer‑Reviews der Partner nach gemeinsamen Kriterien.
 
-#### 4.2.3.4 Zielgruppenspezifische Perspektiven
+##### 4.2.3.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                    | Schwerpunkt                                                                                |
 | ----------------------------- | ------------------------------------------------------------------------------------------ |
@@ -3092,7 +3127,7 @@ Die Erweiterung der Europäischen Rights‑Based Democratic Alliance (ERDA) folg
 | 🤖 Künstliche Intelligenzen   | Entwicklung von Simulations­tools für Szenarioanalysen zu Kreiserweiterungen               |
 | 🕊️ Seelen                    | Narratives Storytelling: „Konzentrische Kreise als Resonanzräume weltweiter Partnerschaft“ |
 
-#### 4.2.3.5 Interaktive Elemente
+##### 4.2.3.5 Interaktive Elemente
 
 **✅ Checkliste: Kreiserweiterung vorbereiten**
 
@@ -3114,7 +3149,7 @@ c) **Kern-ERDA** ✅
 
 d) Solidaritätskreis
 
-#### 4.2.3.6 Quellen & Verweise
+##### 4.2.3.6 Quellen & Verweise
 
 1. **ERDA Buch (2025)**: _ERDA-Staatenarchitektur – Modell konzentrischer Kreise, zur Kategorisierung und Zuordnung innerhalb der Kreise._ [Anhang A: ERDA-Staatenarchitektur („Konzentrische Kreise“).](#md-anhang-a-erda-staatenarchitektur-konzentrische-kreise)
 2. **ERDA Buch (2025)**: _Schema für ERDA-Staatenprofile (ausführliche Übersicht)._ [Anhang B.2: Schema für ERDA-Staatenprofile (ausführliche Übersicht).](../../anhang-b-erda-staatenprofile/2.-schema-fur-erda-staatenprofile-ausfuhrliche-ubersicht.md)
@@ -3124,7 +3159,8 @@ d) Solidaritätskreis
 \newpage
 
 <a id="md-4-das-erda-gesamtkonzept-4-2-reformphase-2025-2035-strategische-neuausrichtung-4-2-4-einbindung-globaler-perspektiven"></a>
-## 4.2.4 Einbindung globaler Perspektiven
+
+### 4.2.4 Einbindung globaler Perspektiven
 
 _**Einbindung globaler Perspektiven**_
 
@@ -3140,7 +3176,7 @@ _Einbindung globaler Perspektiven_
 * _Kooperation mit Regionalorganisationen für Rechtsstaatlichkeit und Klimagerechtigkeit._
 * _Aufbau fairer Rohstoff- und Technologieallianzen mit gegenseitigem Mehrwert._
 
-#### 4.2.4.1 Einleitung & Kernimpulse
+##### 4.2.4.1 Einleitung & Kernimpulse
 
 Die globale Vernetzung demokratischer Staaten steigert die Schlagkraft der ERDA und fördert Innovations- und Sicherheitskooperationen:
 
@@ -3150,7 +3186,7 @@ Die globale Vernetzung demokratischer Staaten steigert die Schlagkraft der ERDA 
 * **Strategische Partnerschaften**: Sektorale Abkommen in Technologie (FORTERA), Sicherheit (EDA), digitale Demokratie (CIVITAS).
 * **Werte-Export**: Gemeinsame Kodizes zu Rechtsstaatlichkeit, Menschenrechten und KI-Ethik.
 
-#### 4.2.4.2 Vertiefung & Analyse
+##### 4.2.4.2 Vertiefung & Analyse
 
 | Kooperationsfeld          | Status quo                                    | Reformbedarf                                                                  |
 | ------------------------- | --------------------------------------------- | ----------------------------------------------------------------------------- |
@@ -3172,7 +3208,7 @@ Die globale Vernetzung demokratischer Staaten steigert die Schlagkraft der ERDA 
 >
 > 🌍 **Visionäre Metapher:** „Globale Partnerschaften sind das Netzwerk, das den demokratischen Baum gegen jeden Sturm stabilisiert.“
 
-#### 4.2.4.3 Transformation & Handlungsoptionen
+##### 4.2.4.3 Transformation & Handlungsoptionen
 
 * **ERDA Global Forum einrichten** (2027): Jährliches Meeting mit assoziierten Demokratien zur Ableitung von Aktionsplänen.
 * **Multilaterale Technologie-Plattform** starten (2026): Gemeinsame Entwicklungszentren für KI-Ethik, Quantenforschung und GreenTech.
@@ -3180,7 +3216,7 @@ Die globale Vernetzung demokratischer Staaten steigert die Schlagkraft der ERDA 
 * **Erweiterte EDA-Partnerschaft** (2025–2030): Aufnahme Asia-Pacific-Demokratien in modulare Sicherheitsübungen.
 * **Climate-Solidarity Pakt** (2026): Bindende Vereinbarung mit südamerikanischen Staaten für Ressourcensicherheit und Emissionsreduktion.
 
-#### 4.2.4.4 Zielgruppenspezifische Perspektiven
+##### 4.2.4.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                    | Schwerpunkt                                                                                      |
 | ----------------------------- | ------------------------------------------------------------------------------------------------ |
@@ -3191,7 +3227,7 @@ Die globale Vernetzung demokratischer Staaten steigert die Schlagkraft der ERDA 
 | 🤖 Künstliche Intelligenzen   | Entwicklung interoperabler, ethisch auditierbarer KI-Module für globale Demokratien              |
 | 🕊️ Seelen                    | Narratives Storytelling: „Weltweite Resonanzräume für demokratische Werte“                       |
 
-#### 4.2.4.5 Interaktive Elemente
+##### 4.2.4.5 Interaktive Elemente
 
 **✅ Checkliste: Globale Einbindung umsetzen**
 
@@ -3209,7 +3245,7 @@ b) FORTERA-Gipfel\
 c) **ERDA Global Forum** ✅\
 d) CIVITAS-Konvent
 
-#### 4.2.4.6 Quellen & Verweise
+##### 4.2.4.6 Quellen & Verweise
 
 1. **Europäische Verteidigungsagentur (EDA) (o. J.)**: Industry Engagement Roadmap. Brussels: Europäische Verteidigungsagentur. Online verfügbar unter: [https://eda.europa.eu/what-we-do/industry-engagement](https://eda.europa.eu/what-we-do/industry-engagement) (Zugriff am 2025-05-19).
 2. **ERDA Buch (2025)**: _Das EDA Konzept._ [Kapitel 5: Das EDA Konzept](../../5.-das-eda-konzept/).
@@ -3225,7 +3261,8 @@ d) CIVITAS-Konvent
 \newpage
 
 <a id="md-4-das-erda-gesamtkonzept-4-2-reformphase-2025-2035-strategische-neuausrichtung-4-2-5-zivilgesellschaftliche-begleitstruktur"></a>
-## 4.2.5 Zivilgesellschaftliche Begleitstruktur
+
+### 4.2.5 Zivilgesellschaftliche Begleitstruktur
 
 _**Zivilgesellschaftliche Begleitstruktur**_
 
@@ -3241,7 +3278,7 @@ _Zivilgesellschaftliche Begleitstruktur:_
 * _Pilotierung transnationaler Bürgerforen und Jugendparlamente zur Begleitung des Reformprozesses._
 * _Aufwertung zivilgesellschaftlicher Expertise in EU-Institutionen (z. B. beratende Kammern)._
 
-#### 4.2.5.1 Einleitung & Kernimpulse
+##### 4.2.5.1 Einleitung & Kernimpulse
 
 Die Einbindung zivilgesellschaftlicher Akteure sichert, dass Reformen nicht an den Bedürfnissen der Menschen vorbeigehen, sondern von unten heraus mitgestaltet werden:
 
@@ -3251,7 +3288,7 @@ Die Einbindung zivilgesellschaftlicher Akteure sichert, dass Reformen nicht an d
 * **Regelmäßige Konsultationen**: Halbjährliche Foren auf EU-, nationaler und lokaler Ebene.
 * **Digitale Feedback-Plattform**: Permanenter Online-Dialog mit transparentem Moderations- und Reporting-Mechanismus.
 
-#### 4.2.5.2 Vertiefung & Analyse
+##### 4.2.5.2 Vertiefung & Analyse
 
 | Bereich                   | Status quo                               | Reformbedarf                                                          |
 | ------------------------- | ---------------------------------------- | --------------------------------------------------------------------- |
@@ -3270,7 +3307,7 @@ Die Einbindung zivilgesellschaftlicher Akteure sichert, dass Reformen nicht an d
 >
 > 🌍 **Visionäre Metapher:** „Die Zivilgesellschaft ist das lebendige Wurzelwerk, das Reformen Nahrung und Stabilität verleiht.“
 
-#### 4.2.5.3 Transformation & Handlungsoptionen
+##### 4.2.5.3 Transformation & Handlungsoptionen
 
 * **Zivilgesellschafts-Rat gründen** (2026): Konsolidierung aller thematischen Beiräte unter einem europäischen Dach.
 * **EU-Dialogforen einführen** (ab 2025): Halbjährliche Konferenzen mit festem Agenda- und Prüfmandat.
@@ -3278,7 +3315,7 @@ Die Einbindung zivilgesellschaftlicher Akteure sichert, dass Reformen nicht an d
 * **Demokratie-Lab-Netzwerk ausbauen** (2027): Methodentrainings und Peer-Coaching für lokale Akteure.
 * **Dauerhaftes Budget sichern** (2026): Einrichtung eines „Zivilgesellschafts-Fonds ERDA“ für langfristige Projekte.
 
-#### 4.2.5.4 Zielgruppenspezifische Perspektiven
+##### 4.2.5.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                    | Schwerpunkt                                                                                |
 | ----------------------------- | ------------------------------------------------------------------------------------------ |
@@ -3289,7 +3326,7 @@ Die Einbindung zivilgesellschaftlicher Akteure sichert, dass Reformen nicht an d
 | 🤖 Künstliche Intelligenzen   | Konzeption und Betrieb moderierter Chat- und Analyse-Bots für Echtzeit-Feedback            |
 | 🕊️ Seelen                    | Narratives Storytelling: „Zivilgesellschaft als Spiegel und Motor demokratischer Reformen“ |
 
-#### 4.2.5.5 Interaktive Elemente
+##### 4.2.5.5 Interaktive Elemente
 
 **✅ Checkliste: Begleitstruktur implementieren**
 
@@ -3307,7 +3344,7 @@ b) Demokratie-Labs\
 c) **Online-Partizipations-Hub** ✅\
 d) Themenbezogene Beiräte
 
-#### 4.2.5.6 Quellen & Verweise
+##### 4.2.5.6 Quellen & Verweise
 
 1. **Europäische Kommission (2025)**: Öffentliche Konsultation – EU’s next long-term budget (MFF): _EU funding for the single market, and cooperation between national authorities._ Brüssel: Europäische Kommission. Online verfügbar unter: [https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14525-EU-s-next-long-term-budget-MFF-EU-funding-for-the-single-market-and-cooperation-between-national-authorities/public-consultation\_en](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14525-EU-s-next-long-term-budget-MFF-EU-funding-for-the-single-market-and-cooperation-between-national-authorities/public-consultation_en) (Zugriff am 2025-05-19).
 2. **Civil Society Europe (2025)**: _Common Civil Society Position Paper on the Outline of the 2028–2034 Multiannual Financial Framework._ Brussels: Civil Society Europe. Online verfügbar unter: [https://civilsocietyeurope.eu/common-civil-society-position-paper-on-the-outline-of-the-2028-2034-multiannual-financial-framework/](https://civilsocietyeurope.eu/common-civil-society-position-paper-on-the-outline-of-the-2028-2034-multiannual-financial-framework/) (Zugriff am 2025-05-19).
@@ -3319,6 +3356,7 @@ d) Themenbezogene Beiräte
 \newpage
 
 <a id="md-4-das-erda-gesamtkonzept-4-3-konsolidierung-2035-2050-demokratische-resilienz-und-technologische-souveranitat-readme"></a>
+
 ## 4.3 Konsolidierung: 2035–2050 - Demokratische Resilienz & technologische Souveränität
 
 _**Konsolidierung: 2035–2050 - Demokratische Resilienz & technologische Souveränität**_
@@ -3385,7 +3423,8 @@ Die Phase 2035–2050 schafft die institutionelle und infrastrukturelle Grundlag
 \newpage
 
 <a id="md-4-das-erda-gesamtkonzept-4-3-konsolidierung-2035-2050-demokratische-resilienz-und-technologische-souveranitat-4-3-1-verankerung-einer-erda-verfassung"></a>
-## 4.3.1 Verankerung einer ERDA-Verfassung
+
+### 4.3.1 Verankerung einer ERDA-Verfassung
 
 _**Verankerung einer ERDA-Verfassung**_
 
@@ -3395,7 +3434,7 @@ _Eckpfeiler_
 * _Digitale Bürgerbeteiligung als Bestandteil institutioneller Prozesse, ergänzt durch analoge Formate und Bildungsoffensiven_
 * _Charta universeller Rechte – sozial, ökologisch, kulturell und technologisch, mit integrativer Ethik und globaler Anschlussfähigkeit_
 
-#### 4.3.1.1 Einleitung & Kernimpulse
+##### 4.3.1.1 Einleitung & Kernimpulse
 
 Die Verankerung einer gesamt‑europäischen ERDA‑Verfassung markiert den nächsten evolutionären Schritt für demokratische Resilienz, technologische Souveränität und ethisch fundierte Mitgestaltung. Sie schafft einen verbindlichen Rahmen für gemeinsame Rechte, Pflichten und Institutionen – jenseits momentaner politischer Mehrheiten.
 
@@ -3406,7 +3445,7 @@ Die Verankerung einer gesamt‑europäischen ERDA‑Verfassung markiert den näc
 * **Partizipativer Konvent:** Transnationaler Konvent mit Expert:innen, Zivilgesellschaft, KI‑Moderation und inklusiven Lernangeboten (Fallstudien, Module, Videos).
 * **Symbolische Klammer:** Die Verfassung als identitätsstiftendes Dokument, kollektiver Atemraum und ethischer Resonanzraum – getragen von Geschichten, Kunst und Sinn.
 
-#### 4.3.1.2 Vertiefung & Analyse
+##### 4.3.1.2 Vertiefung & Analyse
 
 Die historische Erfahrung zeigt: Verfassungsklauseln ohne Umsetzungs‑ und Kontrollarchitekturen bleiben oft Dekoration. Für die ERDA‑Verfassung sind daher folgende Dimensionen kritisch:
 
@@ -3427,14 +3466,14 @@ Die historische Erfahrung zeigt: Verfassungsklauseln ohne Umsetzungs‑ und Kont
 
 > 🌌 **Außerirdischer Einwurf:** „Koordiniert eure Intelligenzen resonant – nicht linear. Verfasst weniger Paragraphen, mehr Empathie-Algorithmen.“
 
-#### 4.3.1.3 Transformation & Handlungsoptionen
+##### 4.3.1.3 Transformation & Handlungsoptionen
 
 * **Einberufung eines ERDA‑Verfassungskonvents** bis 2030, mit paritätischer Beteiligung aller sozialen Gruppen und pädagogischem Begleitprogramm.
 * **Kodifizierung digitaler Rechte:** European Digital Bill of Rights mit Audit‑Mechanismen, Klagerechten und internationaler Anschlussfähigkeit (Vergleich: Kanada, Uruguay).
 * **Review‑Mechanismus:** Dekaden‑Reviews mittels CIVITAS, ergänzt durch emotionale Feedbackräume (z. B. Narrativ‑Plattformen für Betroffene).
 * **Institutionelle Verankerung:** Sekretariat für Verfassungsmonitoring mit KI‑gestütztem Konfliktabgleich zwischen Normenebenen.
 
-#### 4.3.1.4 Zielgruppenspezifische Perspektiven
+##### 4.3.1.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                    | Perspektive                                                                             |
 | ----------------------------- | --------------------------------------------------------------------------------------- |
@@ -3445,7 +3484,7 @@ Die historische Erfahrung zeigt: Verfassungsklauseln ohne Umsetzungs‑ und Kont
 | 🤖 Künstliche Intelligenzen   | Audit-Protokolle, Normkompatibilität, Ethik-Sandbox                                     |
 | 🕊️ Seelen                    | Narratives Storytelling: Verfassung als Heimat der Würde, als Gedicht aus Gerechtigkeit |
 
-#### 4.3.1.5 Interaktive Elemente
+##### 4.3.1.5 Interaktive Elemente
 
 **✅ Checkliste: Bereit für die ERDA‑Verfassung?**
 
@@ -3464,7 +3503,7 @@ b) Alle 10 Jahre ✅\
 c) Bei jeder EU‑Wahl\
 d) Einmalig
 
-#### 4.3.1.6 Ausblick
+##### 4.3.1.6 Ausblick
 
 Ein künftiges ERDA‑Institut für Demokratische Resilienz (in Planung für 2026) könnte:
 
@@ -3473,7 +3512,7 @@ Ein künftiges ERDA‑Institut für Demokratische Resilienz (in Planung für 202
 * KI‑Ethische Sandboxes koordinieren
 * partizipative Verfassungskultur europaweit erfahrbar machen
 
-#### 4.3.1.7 Quellen & Verweise
+##### 4.3.1.7 Quellen & Verweise
 
 1. **ERDA Buch (2025):** _Europa 2.0 - Fahrplan für eine lebenswerte, resiliente und führende Union._ [Anhang C: Europa 2.0 - Fahrplan für eine lebenswerte, resiliente und führende Union](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)
 
@@ -3481,7 +3520,8 @@ Ein künftiges ERDA‑Institut für Demokratische Resilienz (in Planung für 202
 \newpage
 
 <a id="md-4-das-erda-gesamtkonzept-4-3-konsolidierung-2035-2050-demokratische-resilienz-und-technologische-souveranitat-4-3-2-demokratie-in-der-post-knappheitsokonomie"></a>
-## 4.3.2 Demokratie in der Post-Knappheitsökonomie
+
+### 4.3.2 Demokratie in der Post-Knappheitsökonomie
 
 _**Demokratie in der Post-Knappheitsökonomie**_
 
@@ -3491,7 +3531,7 @@ _Eckpfeiler_
 * _Automatisierung ersetzt monotone Arbeit – Fokus auf Forschung, Fürsorge, Kreativität_
 * _Neue Einkommensmodelle: bedingte Grundsicherung, Bürgerdividenden, Teilhabeprämien_
 
-#### 4.3.2.1 Einleitung & Kernimpulse
+##### 4.3.2.1 Einleitung & Kernimpulse
 
 In einer zukünftigen Gesellschaft, in der materielle Grundbedürfnisse durch Automation und KI weitgehend erfüllt sind, verschiebt sich der Fokus demokratischer Aushandlung von knapper Ressourcenverteilung zu Fragen der Sinnstiftung, kollektiven Verantwortung und sozialer Innovation. Demokratie wird hier zur Kultur des aktiven Mitgestaltens, in der Werte, Gemeingüter und ökologische Nachhaltigkeit im Zentrum stehen.
 
@@ -3502,7 +3542,7 @@ In einer zukünftigen Gesellschaft, in der materielle Grundbedürfnisse durch Au
 * KI-gestützte Szenarioplattformen ermöglichen kontinuierliche Bürgerbeteiligung und ko-kreative Experimentierfelder.
 * Neue Spannungsfelder entstehen zwischen individuellem Selbstverwirklichungsanspruch und kollektiver Verantwortung.
 
-#### 4.3.2.2 Vertiefung & Analyse
+##### 4.3.2.2 Vertiefung & Analyse
 
 | Dimension              | Knappheitsdemokratie           | Post-Knappheitsdemokratie                         |
 | ---------------------- | ------------------------------ | ------------------------------------------------- |
@@ -3529,14 +3569,14 @@ In einer zukünftigen Gesellschaft, in der materielle Grundbedürfnisse durch Au
 > \
 > „Demokratie ist nicht mehr der Kampf um das letzte Brot, sondern die Gestaltung eines Festes, an dem alle mitwirken.“
 
-#### 4.3.2.3 Transformation & Handlungsoptionen
+##### 4.3.2.3 Transformation & Handlungsoptionen
 
 * Aufbau digitaler Plattformen für Echtzeit-Partizipation an Commons‑Entscheidungen.
 * Einführung eines «Kreislauf-Index» als demokratisches Steuerungsinstrument zur Messung sozial-ökologischer Qualität.
 * Förderung lokaler Commons‑Initiativen als Experimentierräume für nachhaltige Praktiken.
 * Gesetzliche Verankerung von Bürger:innenräten als permanente Gremien für Post‑Knappheitsfragen.
 
-#### 4.3.2.4 Zielgruppenspezifische Perspektiven
+##### 4.3.2.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                    | Schwerpunkt                                                                         |
 | ----------------------------- | ----------------------------------------------------------------------------------- |
@@ -3547,7 +3587,7 @@ In einer zukünftigen Gesellschaft, in der materielle Grundbedürfnisse durch Au
 | 🤖 Künstliche Intelligenzen   | Entwicklung partizipativer Entscheidungsalgorithmen mit Fairness‑Garantien          |
 | 🕊️ Seelen                    | Narratives Storytelling: „Vom Kampf ums Überleben zur Festkultur der Mitgestaltung“ |
 
-#### 4.3.2.5 Interaktive Elemente
+##### 4.3.2.5 Interaktive Elemente
 
 **✅ Checkliste: Demokratische Commons-Resonanz**
 
@@ -3565,7 +3605,7 @@ c) **Partizipatives Commons‑Management** ✅
 \
 d) Zentralisierte Planwirtschaft
 
-#### 4.3.2.6 Quellen & Verweise
+##### 4.3.2.6 Quellen & Verweise
 
 1. **ERDA Buch (2025):** _Europa 2.0 - Fahrplan für eine lebenswerte, resiliente und führende Union._ [Anhang C: Europa 2.0 - Fahrplan für eine lebenswerte, resiliente und führende Union](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)
 
@@ -3573,7 +3613,8 @@ d) Zentralisierte Planwirtschaft
 \newpage
 
 <a id="md-4-das-erda-gesamtkonzept-4-3-konsolidierung-2035-2050-demokratische-resilienz-und-technologische-souveranitat-4-3-3-souveranitat-durch-technologie-and-innovation"></a>
-## 4.3.3 Souveränität durch Technologie & Innovation
+
+### 4.3.3 Souveränität durch Technologie & Innovation
 
 _**Souveränität durch Technologie & Innovation**_
 
@@ -3583,7 +3624,7 @@ _Eckpfeiler_
 * _Unabhängigkeit bei KI-Training, Chips und kritischen Betriebssystemen_
 * _Innovationsfonds für Open-Source-Basistechnologien und Bürger-Labs_
 
-#### 4.3.3.1 Einleitung & Kernimpulse
+##### 4.3.3.1 Einleitung & Kernimpulse
 
 Europa muss seine technologische Unabhängigkeit und Innovationskraft stärken, um in einer multipolaren Welt seine demokratische Resilienz und wirtschaftliche Wettbewerbsfähigkeit zu sichern. Dabei geht es nicht um Abschottung, sondern um den Aufbau eines robusten, wertebasierten Technologie-Ökosystems.
 
@@ -3594,7 +3635,7 @@ Europa muss seine technologische Unabhängigkeit und Innovationskraft stärken, 
 * **Open Innovation** und **Open Source**: Offenheit als Hebel für Geschwindigkeit und Sicherheit in Entwicklungsprozessen.
 * **Wertebasierte Regulierung**: Ethische Leitplanken („AI-Grundgesetz“) fördern Vertrauen und Marktzugang.
 
-#### 4.3.3.2 Vertiefung & Analyse
+##### 4.3.3.2 Vertiefung & Analyse
 
 | Aspekt                                  | Status quo                                       | Strategie zur Souveränität                                   |
 | --------------------------------------- | ------------------------------------------------ | ------------------------------------------------------------ |
@@ -3612,14 +3653,14 @@ Europa muss seine technologische Unabhängigkeit und Innovationskraft stärken, 
 >
 > 🌍 **Visionäre Metapher:** „Technologische Souveränität ist kein Bollwerk – sie ist ein Netzwerk lebendiger Innovationsströme.“
 
-#### 4.3.3.3 Transformation & Handlungsoptionen
+##### 4.3.3.3 Transformation & Handlungsoptionen
 
 * **Europäische Fertigungsoffensive:** 30 % Erhöhung der EU-Produktion von Halbleitern bis 2030 (Erweiterung des EU Chips Act).
 * **Innovationsagentur „EIA“:** Gründung einer European Innovation Agency, die Finanzierungs- und Mentoring-Programme kanalisiert und eng mit EDA, ERDA und CIVITAS verzahnt ist.
 * **Open-Source-Mandat:** Alle staatlich geförderten KI-Projekte müssen ihren Code und Datensätze unter einer Open-Source-Lizenz veröffentlichen.
 * **KI-Grundgesetz:** Einrichtung eines unabhängigen Ethikrats („AI Council“), der für Audit, Zertifizierung und Stresstests von Algorithmen zuständig ist.
 
-#### 4.3.3.4 Zielgruppenspezifische Perspektiven
+##### 4.3.3.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                          | Fokus                                                          |
 | ----------------------------------- | -------------------------------------------------------------- |
@@ -3630,7 +3671,7 @@ Europa muss seine technologische Unabhängigkeit und Innovationskraft stärken, 
 | 🤖 KI-Entwickler:innen              | Partizipation an EU-Auditverfahren und Standard-Communities    |
 | 🌐 Bürger:innen \& Zivilgesellschaft | Transparenz und Mitspracherechte in Technologie-Governance     |
 
-#### 4.3.3.5 Interaktive Elemente
+##### 4.3.3.5 Interaktive Elemente
 
 **✅ Checkliste: Technologische Selbstbestimmung**
 
@@ -3649,7 +3690,7 @@ b) Importförderung für Hochtechnologie\
 c) **Systemische Ökosystementwicklung** ✅\
 d) Abschottung durch Patentschutz
 
-#### 4.3.3.6 Quellen & Verweise
+##### 4.3.3.6 Quellen & Verweise
 
 1. **Europäische Kommission, Generaldirektion Forschung und Innovation (2024):** _Horizon Europe Strategic Plan 2025–2027._ Brussels: Europäische Kommission, Generaldirektion für Forschung und Innovation. Online verfügbar unter: [https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe/strategic-plan\_en](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe/strategic-plan_en) (Zugriff am 2025-05-21).
 2. **Europäisches Parlament (2023-02-15):** _Chips Act – The EU’s plan to overcome semiconductor shortage._ Brussels: European Parliament. Online verfügbar unter: [https://www.europarl.europa.eu/topics/en/article/20230210STO74502/chips-act-the-eu-s-plan-to-overcome-semiconductor-shortage](https://www.europarl.europa.eu/topics/en/article/20230210STO74502/chips-act-the-eu-s-plan-to-overcome-semiconductor-shortage) (Zugriff am 2025-05-21).
@@ -3658,7 +3699,8 @@ d) Abschottung durch Patentschutz
 \newpage
 
 <a id="md-4-das-erda-gesamtkonzept-4-3-konsolidierung-2035-2050-demokratische-resilienz-und-technologische-souveranitat-4-3-4-globale-gerechtigkeit-and-klimasolidaritat"></a>
-## 4.3.4 Globale Gerechtigkeit & Klimasolidarität
+
+### 4.3.4 Globale Gerechtigkeit & Klimasolidarität
 
 _**Globale Gerechtigkeit & Klimasolidarität**_
 
@@ -3669,7 +3711,7 @@ _Eckpfeiler_
 * _Resiliente Lieferketten unter Achtung von Arbeitsrechten und ökologischen Standards_
 * _Demokratische Gestaltung des arktischen Raums wird als Testfall für ökologische Gerechtigkeit und indigene Partnerschaft verstanden._
 
-#### 4.3.4.1 Einleitung & Kernimpulse
+##### 4.3.4.1 Einleitung & Kernimpulse
 
 Globale Gerechtigkeit und Klimasolidarität sind zentrale Herausforderungen jenseits europäischer Grenzen: Demokratie bedeutet Verantwortung – gegenüber den verwundbarsten Gemeinschaften wie auch gegenüber kommenden Generationen. Diese Dimension erweitert demokratische Resilienz um globale Kooperation, ökologische Ethik und generationenübergreifende Solidarität.
 
@@ -3680,7 +3722,7 @@ Globale Gerechtigkeit und Klimasolidarität sind zentrale Herausforderungen jens
 * **Globale Partizipation:** Bürger:innen-, Jugend- und Indigenen-Foren in Echtzeit verbinden lokale Stimmen mit internationalen Entscheidungsprozessen.
 * **Klimagerechtigkeit als Menschenrecht:** Ökologische Nachhaltigkeit gehört in eine Charta universeller Rechte – demokratisch kontrolliert und menschenzentriert umgesetzt.
 
-#### 4.3.4.2 Vertiefung & Analyse
+##### 4.3.4.2 Vertiefung & Analyse
 
 | Dimension                        | Status quo                                                  | Demokratische Klimasolidarität                                                             |
 | -------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
@@ -3697,14 +3739,14 @@ Globale Gerechtigkeit und Klimasolidarität sind zentrale Herausforderungen jens
 >
 > 🌍 **Visionäre Metapher:** „Klima ist der Atem der Erde – demokratische Solidarität die Lungen, die ihn reinigen und erneuern.“
 
-#### 4.3.4.3 Transformation & Handlungsoptionen
+##### 4.3.4.3 Transformation & Handlungsoptionen
 
 * **European Climate Solidarity Mechanism (ECSM):** Aufbau eines demokratisch legitimierten Klima-Solidaritätsfonds mit transparenten Vergabeverfahren und kontinuierlicher Begleitung durch Bürger:innenräte via CIVITAS.
 * **Global Climate Justice Assembly:** Institutionalisierung eines multilateralen Bürgerrats auf UNFCCC-Ebene mit regionalen Satelliten und digitalen Konsultationsmodulen.
 * **Open-Source-Patentpool:** Bereitstellung frei zugänglicher Klimatechnologien auf Creative-Commons-Basis für Staaten und zivilgesellschaftliche Akteur:innen weltweit.
 * **Schuldenmoratorium & Nachhaltigkeitsagenda:** Automatischer Schuldenerlass für klimavulnerable Staaten, verknüpft mit demokratisch verhandelten Nachhaltigkeitszielen.
 
-#### 4.3.4.4 Zielgruppenspezifische Perspektiven
+##### 4.3.4.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                    | Schwerpunkt                                                                                                     |
 | ----------------------------- | --------------------------------------------------------------------------------------------------------------- |
@@ -3715,7 +3757,7 @@ Globale Gerechtigkeit und Klimasolidarität sind zentrale Herausforderungen jens
 | 🤖 Künstliche Intelligenzen   | Entwicklung transparenter und auditierbarer KI-Modelle zur Wirkungsmessung von Klimaprojekten                   |
 | 🕊️ Seelen                    | Narratives Storytelling: „Unsere Erde ist ein Zuhause – Klimagerechtigkeit ihr atmendes Fundament.“             |
 
-#### 4.3.4.5 Interaktive Elemente
+##### 4.3.4.5 Interaktive Elemente
 
 **✅ Checkliste: Globale Klimasolidarität prüfen**
 
@@ -3734,7 +3776,7 @@ b) Individuelle Spendenplattformen\
 c) **European Climate Solidarity Mechanism** ✅\
 d) Bilaterale Klima-Kredite
 
-#### 4.3.4.6 Quellen & Verweise
+##### 4.3.4.6 Quellen & Verweise
 
 1. **UNFCCC (2015):** _Paris Agreement, angenommen am 12. Dezember 2015._ Bonn: UNFCCC-Sekretariat. Online verfügbar unter: [https://unfccc.int/sites/default/files/english\_paris\_agreement.pdf](https://unfccc.int/sites/default/files/english_paris_agreement.pdf) (Zugriff am 2025-05-21).
 2. **Green Climate Fund (2011):** _Governing Instrument for the Green Climate Fund, genehmigt am 11. Dezember 2011._ Bonn: Green Climate Fund Secretariat. Online verfügbar unter: [https://www.greenclimate.fund/document/governing-instrument](https://www.greenclimate.fund/document/governing-instrument) (Zugriff am 2025-05-21).
@@ -3744,7 +3786,8 @@ d) Bilaterale Klima-Kredite
 \newpage
 
 <a id="md-4-das-erda-gesamtkonzept-4-3-konsolidierung-2035-2050-demokratische-resilienz-und-technologische-souveranitat-4-3-5-resilienz-durch-kultur-and-bildung"></a>
-## 4.3.5 Resilienz durch Kultur & Bildung
+
+### 4.3.5 Resilienz durch Kultur & Bildung
 
 _**Resilienz durch Kultur & Bildung**_
 
@@ -3754,7 +3797,7 @@ _Eckpfeiler_
 * _Pluralistische Medienräume mit europäischen Standards für Qualität und Vielfalt_
 * _Förderung kultureller Vielfalt als Grundlage für soziale Kohäsion_
 
-#### 4.3.5.1 Einleitung & Kernimpulse
+##### 4.3.5.1 Einleitung & Kernimpulse
 
 Kultur und Bildung bilden das Grundgewebe einer resilienten Demokratie: Sie nähren kollektive Identität, fördern kritisches Denken und ermöglichen adaptive Gemeinschaften. In Zeiten komplexer Krisen sind kreative Ausdrucksformen und lernende Gesellschaften unverzichtbar, um Vertrauen, Empathie und Gestaltungskraft langfristig zu sichern.
 
@@ -3765,7 +3808,7 @@ Kultur und Bildung bilden das Grundgewebe einer resilienten Demokratie: Sie näh
 * **Kulturelle Commons:** Offene kulturelle Räume als Resonanz- und Innovationsräume für Bürger:innen.
 * **Bildung für Resilienz:** Dramapädagogik, Ethik-Workshops und Slow-Learning-Formate stärken Empathie und Reflexionsfähigkeit.
 
-#### 4.3.5.2 Vertiefung & Analyse
+##### 4.3.5.2 Vertiefung & Analyse
 
 | Dimension           | Traditionelles Modell                         | Resilienzorientiertes Modell                                 |
 | ------------------- | --------------------------------------------- | ------------------------------------------------------------ |
@@ -3782,14 +3825,14 @@ Kultur und Bildung bilden das Grundgewebe einer resilienten Demokratie: Sie näh
 >
 > 🌍 **Visionäre Metapher:** „Kultur ist der Grundton, Bildung die Melodie einer lebendigen Demokratie.“
 
-#### 4.3.5.3 Transformation & Handlungsoptionen
+##### 4.3.5.3 Transformation & Handlungsoptionen
 
 * **Kultur-Resilienzfonds:** Gründung eines transnationalen Fonds zur Förderung partizipativer Kunst- und Kulturprojekte.
 * **Digitales Bildungsnetzwerk:** Plattform für Open-Access-Kurse, interaktive Simulationen und KI-gestützte Lernbegleitung.
 * **Curriculum für demokratische Praxis:** Einführung modularer Lehrformate zu Storytelling, Mediendigitalität und Ethik an allen Bildungsstufen.
 * **Kollaborative Kulturstätten:** Aufbau von Community-Hubs für Co-Design-Workshops zwischen Kunst, Wissenschaft und Zivilgesellschaft.
 
-#### 4.3.5.4 Zielgruppenspezifische Perspektiven
+##### 4.3.5.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                    | Schwerpunkt                                                                                           |
 | ----------------------------- | ----------------------------------------------------------------------------------------------------- |
@@ -3800,7 +3843,7 @@ Kultur und Bildung bilden das Grundgewebe einer resilienten Demokratie: Sie näh
 | 🤖 Künstliche Intelligenzen   | Entwicklung adaptiver Lernagenten und KI-Moderatoren für ethisch reflektiertes Lernen                 |
 | 🕊️ Seelen                    | Narratives Storytelling: „Kultur als Herzschlag, Bildung als Pulsschlag demokratischer Lebendigkeit.“ |
 
-#### 4.3.5.5 Interaktive Elemente
+##### 4.3.5.5 Interaktive Elemente
 
 **✅ Checkliste: Kultur- und Bildungsresilienz fördern**
 
@@ -3819,7 +3862,7 @@ b) Federal Arts Funding\
 c) **Community-basierte Resonanz-Labs** ✅\
 d) Zentrale Lehrbuchvergabe
 
-#### 4.3.5.6 Quellen & Verweise
+##### 4.3.5.6 Quellen & Verweise
 
 1. **UNESCO (2018):** _Re | Shaping Cultural Policies: Advancing Creativity for Development._ Paris: UNESCO. Online verfügbar unter: [https://uis.unesco.org/sites/default/files/documents/reshaping-cultural-policies-2018-en.pdf](https://uis.unesco.org/sites/default/files/documents/reshaping-cultural-policies-2018-en.pdf) (Zugriff am 2025-05-21).
 2. **Europäische Kommission, Generaldirektion für Bildung, Jugend, Sport und Kultur (o. J.):** _European Education Area explained._ Brussels: Europäische Kommission. Online verfügbar unter: [https://education.ec.europa.eu/about-eea/the-eea-explained](https://education.ec.europa.eu/about-eea/the-eea-explained) (Zugriff am 2025-05-21).
@@ -3829,7 +3872,8 @@ d) Zentrale Lehrbuchvergabe
 \newpage
 
 <a id="md-4-das-erda-gesamtkonzept-4-3-konsolidierung-2035-2050-demokratische-resilienz-und-technologische-souveranitat-4-3-6-institutionelle-demokratisierung"></a>
-## 4.3.6 Institutionelle Demokratisierung
+
+### 4.3.6 Institutionelle Demokratisierung
 
 _**Institutionelle Demokratisierung**_
 
@@ -3839,7 +3883,7 @@ _Eckpfeiler_
 * _Transparente Bürgerhaushalte, deliberative Bürgerräte, digitale Verfassungskonvente_
 * _Demokratietraining in Schule, Beruf und Verwaltung_
 
-#### 4.3.6.1 Einleitung & Kernimpulse
+##### 4.3.6.1 Einleitung & Kernimpulse
 
 Demokratische Resilienz beruht auf lebendigen Institutionen: Sie müssen offen, adaptiv und nah an den Bedürfnissen der Bürger:innen sein. Institutionelle Demokratisierung zielt darauf ab, starre Bürokratien in dynamische, partizipative Governance-Ökosysteme zu transformieren.
 
@@ -3850,7 +3894,7 @@ Demokratische Resilienz beruht auf lebendigen Institutionen: Sie müssen offen, 
 * **Adaptive Governance:** Agile Gesetzgebungsverfahren mit kurzen Iterationszyklen, Feedback-Loops und KI-gestützter Szenariomodellierung.
 * **Dezentrale Verantwortung:** Stärkung kommunaler und regionaler Kompetenzen über subsidiäre Entscheidungsbefugnisse und budgetäre Autonomie.
 
-#### 4.3.6.2 Vertiefung & Analyse
+##### 4.3.6.2 Vertiefung & Analyse
 
 | Dimension                  | Traditionelle Bürokratie             | Demokratisierte Institutionen                             |
 | -------------------------- | ------------------------------------ | --------------------------------------------------------- |
@@ -3867,14 +3911,14 @@ Demokratische Resilienz beruht auf lebendigen Institutionen: Sie müssen offen, 
 >
 > 🌍 **Visionäre Metapher:** „Demokratie ist kein Bauwerk, sondern ein lebendiger Organismus: Institutionen sind seine Adern, durch die Partizipation fließt."
 
-#### 4.3.6.3 Transformation & Handlungsoptionen
+##### 4.3.6.3 Transformation & Handlungsoptionen
 
 * **Open-Data-Government:** Verpflichtende Veröffentlichung aller EU- und nationalen Daten nach FAIR-Prinzipien.
 * **Citizen-Assembly-Integration:** Regelmäßige Einbindung von Bürgerversammlungen in Gesetzgebungsprozesse auf allen Ebenen.
 * **Agile Public Policy Labs:** Einrichtung von Labors, in denen Beamte, Expert:innen und Bürger:innen gemeinsam Prototypen neuer Regulierungsansätze entwickeln.
 * **Data Trusts & Ombudsstellen:** Schaffung unabhängiger Daten-Treuhänder und Ombudsstellen für Kontrolle und Konfliktlösung.
 
-#### 4.3.6.4 Zielgruppenspezifische Perspektiven
+##### 4.3.6.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                    | Schwerpunkt                                                                          |
 | ----------------------------- | ------------------------------------------------------------------------------------ |
@@ -3885,7 +3929,7 @@ Demokratische Resilienz beruht auf lebendigen Institutionen: Sie müssen offen, 
 | 🤖 Künstliche Intelligenzen   | Entwicklung ethischer Moderationsalgorithmen, Analyse von Beteiligungsdaten          |
 | 🕊️ Seelen                    | Narratives Storytelling: „Institutionen, die atmen und wachsen – von uns gestaltet.“ |
 
-#### 4.3.6.5 Interaktive Elemente
+##### 4.3.6.5 Interaktive Elemente
 
 **✅ Checkliste: Institutionelle Demokratisierung prüfen**
 
@@ -3907,7 +3951,7 @@ c) Quartalsweise Online-Umfragen ohne Bindungswirkung
 \
 d) Nationale Referenden zu jedem Thema
 
-#### 4.3.6.6 Quellen & Verweise
+##### 4.3.6.6 Quellen & Verweise
 
 1. **OECD (o. J.)**: _Open Government Data._ Paris: OECD Publishing. Online verfügbar unter: [https://www.oecd.org/en/publications/open-government-data\_5k46bj4f03s7-en.html](https://www.oecd.org/en/publications/open-government-data_5k46bj4f03s7-en.html) (Zugriff am 2025-05-21).
 2. **Europäische Kommission (2020)**: _Communication on the European Democracy Action Plan. Communication COM(2020) 790 final, 3. Dezember 2020._ Brussels: Europäische Kommission. Online verfügbar unter: [https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52020DC0790](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52020DC0790) (Zugriff am 2025-05-21).
@@ -3917,6 +3961,7 @@ d) Nationale Referenden zu jedem Thema
 \newpage
 
 <a id="md-4-das-erda-gesamtkonzept-4-4-transformation-2050-2075-gesellschaft-im-22-jahrhundert-readme"></a>
+
 ## 4.4 Transformation: 2050–2075 - Gesellschaft im 22. Jahrhundert
 
 _**Transformation: 2050–2075 - Gesellschaft im 22. Jahrhundert**_
@@ -3981,7 +4026,8 @@ Die ERDA kann zum ersten real existierenden Modell einer demokratisch-sinnhaften
 \newpage
 
 <a id="md-4-das-erda-gesamtkonzept-4-4-transformation-2050-2075-gesellschaft-im-22-jahrhundert-4-4-1-demokratische-hochtechnologie-zivilisation"></a>
-## 4.4.1 Demokratische Hochtechnologie-Zivilisation
+
+### 4.4.1 Demokratische Hochtechnologie-Zivilisation
 
 _**Demokratische Hochtechnologie-Zivilisation**_
 
@@ -3991,7 +4037,7 @@ _Eckpfeiler_
 * _Evidenzbasierte Politik durch Mensch-KI-Kollaboration mit ethischer Kontrolle_
 * _Arbeit nicht mehr als Existenznotwendigkeit, sondern als Berufung und Beitrag zur Gemeinschaft_
 
-#### 4.4.1.1 Einleitung & Kernimpulse
+##### 4.4.1.1 Einleitung & Kernimpulse
 
 Europa bewegt sich an der Schnittstelle zwischen demokratischer Teilhabe und exponentiellem Technologie­fortschritt. Die **demokratische Hochtechnologie-Zivilisation** versteht Technologie nicht nur als Instrument der Effizienz, sondern als integralen Bestandteil einer lebendigen, partizipativen Gesellschaft.
 
@@ -4002,7 +4048,7 @@ Europa bewegt sich an der Schnittstelle zwischen demokratischer Teilhabe und exp
 * **Ethik als Code:** Technologische Systeme tragen unverhandelbare ethische Leitplanken bereits in ihrer Architektur.
 * **Resilienz durch Adaptivität:** KI-gestützte Systeme unterstützen proaktive Risiko­vorsorge und Gemeinwohl-Optimierung.
 
-#### 4.4.1.2 Vertiefung & Analyse
+##### 4.4.1.2 Vertiefung & Analyse
 
 | Aspekt                                | Traditionelles Modell       | Hochtechnologie-Zivilisation                     |
 | ------------------------------------- | --------------------------- | ------------------------------------------------ |
@@ -4016,14 +4062,14 @@ Europa bewegt sich an der Schnittstelle zwischen demokratischer Teilhabe und exp
 > ⚠️ **Risiko:** Unregulierte High‑Tech‑Inseln fördern digitale Grabenkämpfe und Wirtschaftsspaltung.\
 > 🌍 **Visionäre Metapher:** „Demokratische Hochtechnologie ist kein Turm von Elfenbein, sondern ein lebendiges Labor der Gesellschaft.“
 
-#### 4.4.1.3 Transformation & Handlungsoptionen
+##### 4.4.1.3 Transformation & Handlungsoptionen
 
 * **Demokratische Tech-Hubs fördern:** Finanzierung regionaler Innovationszentren, die von Bürgerräten gesteuert werden.
 * **Open-Source-First-Regel:** Alle öffentlich geförderten Software- und Hardware-Projekte müssen Open Source sein.
 * **Ethik-by-Design-Standard:** EU‑weit verbindliche Vorgabe zur Implementierung von Menschenrechten, Datenschutz und Anti‑Bias in allen Algorithmen.
 * **Resilienz-Simulationsplattform:** Aufbau einer EU-weiten Echtzeitplattform für Risiko- und Krisensimulationen, betrieben von einem parteiübergreifenden Komitee.
 
-#### 4.4.1.4 Zielgruppenspezifische Perspektiven
+##### 4.4.1.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                    | Fokus                                                              |
 | ----------------------------- | ------------------------------------------------------------------ |
@@ -4034,7 +4080,7 @@ Europa bewegt sich an der Schnittstelle zwischen demokratischer Teilhabe und exp
 | 🤖 Künstliche Intelligenzen   | Entwicklung transparenter Audit-Agenten                            |
 | 🕊️ Seelen                    | Narrativ: „Technologie als gemeinschaftlicher Resonanzraum“        |
 
-#### 4.4.1.5 Interaktive Elemente
+##### 4.4.1.5 Interaktive Elemente
 
 **✅ Checkliste: Demokratisch‑Technologische Mitwirkung**
 
@@ -4052,7 +4098,7 @@ b) Nachgelagerte Ethik‑Reviews\
 c) **Integrierter Ethik‑Code & Audit‑Agenten** ✅\
 d) Freiwillige Selbstverpflichtungen
 
-#### 4.4.1.6 Quellen & Verweise
+##### 4.4.1.6 Quellen & Verweise
 
 1. **Europäische Kommission (2021):** _Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates zur Festlegung harmonisierter Vorschriften über künstliche Intelligenz (Artificial Intelligence Act)._ Brüssel: Europäische Kommission. Online verfügbar unter: [https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52021PC0206](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52021PC0206) (Zugriff am 2025-05-21).
 2. **Gaia-X AISBL (2022):** _Gaia-X Architecture Document – 22.04 Release._ Brüssel: Gaia-X AISBL. Online verfügbar unter: [https://gaia-x.eu/wp-content/uploads/2022/06/Gaia-x-Architecture-Document-22.04-Release.pdf](https://gaia-x.eu/wp-content/uploads/2022/06/Gaia-x-Architecture-Document-22.04-Release.pdf) (Zugriff am 2025-05-21).
@@ -4065,7 +4111,8 @@ d) Freiwillige Selbstverpflichtungen
 \newpage
 
 <a id="md-4-das-erda-gesamtkonzept-4-4-transformation-2050-2075-gesellschaft-im-22-jahrhundert-4-4-2-soziale-und-kulturelle-resilienz"></a>
-## 4.4.2 Soziale und kulturelle Resilienz
+
+### 4.4.2 Soziale und kulturelle Resilienz
 
 _**Soziale und kulturelle Resilienz**_
 
@@ -4075,7 +4122,7 @@ _Eckpfeiler_
 * _Lebenslanges Lernen als gelebte Kultur: individuell, kollaborativ, gemeinwohlorientiert_
 * _Kulturelle Selbstverwirklichung in einem pluralistischen, solidarischen Umfeld_
 
-#### 4.4.2.1 Einleitung & Kernimpulse
+##### 4.4.2.1 Einleitung & Kernimpulse
 
 Im 22. Jahrhundert entscheidet nicht allein technologische Souveränität über den Fortbestand freier Gesellschaften, sondern vor allem die Fähigkeit, soziale Netzwerke und kulturelle Vielfalt als Quellen kollektiver Stärke zu pflegen. Gemeinschaften, die Resonanz bewahren und kulturelle Narrative als Brücken nutzen, bleiben auch in stürmischen Zeiten stabil und innovationsfähig.
 
@@ -4086,7 +4133,7 @@ Im 22. Jahrhundert entscheidet nicht allein technologische Souveränität über 
 * **Inklusion als Prinzip:** Aktive Einbindung aller sozialen Gruppen verhindert Entfremdung und Polarisierung.
 * **Resilienz durch Narration:** Visionäre Metaphern und geteilte Geschichten dienen als seelische Stützstrukturen.
 
-#### 4.4.2.2 Vertiefung & Analyse
+##### 4.4.2.2 Vertiefung & Analyse
 
 | Dimension                  | Herausforderung                                     | Potenzial der Resilienz                        |
 | -------------------------- | --------------------------------------------------- | ---------------------------------------------- |
@@ -4105,14 +4152,14 @@ Im 22. Jahrhundert entscheidet nicht allein technologische Souveränität über 
 >
 > 🌍 **Visionäre Metapher:** „Gesellschaft ist wie ein vielstimmiges Konzert – nur im harmonischen Zusammenspiel entsteht eine kraftvolle Melodie.“
 
-#### 4.4.2.3 Transformation & Handlungsoptionen
+##### 4.4.2.3 Transformation & Handlungsoptionen
 
 * **Resonanz-Labore etablieren:** Multikulturelle Urban Labs mit partizipativen Formaten (Erzählcafés, Performances, Kodex-Verhandlungen).
 * **Narrative Mapping:** GIS-unterstützte Kartierung kollektiver Geschichten und kultureller Ressourcen.
 * **Kulturdiplomatie 2.0:** Austauschprogramme zwischen EDA-, ARKTIS- und SPACE-Communities fördern globale Verbundenheit.
 * **Inklusions-Rahmenwerke:** Standards für partizipative Budgetierung und Kulturförderung in FORTERA-Initiativen.
 
-#### 4.4.2.4 Zielgruppenspezifische Perspektiven
+##### 4.4.2.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                    | Schwerpunkt                                                                              |
 | ----------------------------- | ---------------------------------------------------------------------------------------- |
@@ -4123,7 +4170,7 @@ Im 22. Jahrhundert entscheidet nicht allein technologische Souveränität über 
 | 🤖 Künstliche Intelligenzen   | Entwicklung empathischer Moderations-Agents und kulturell adaptiver Dialogsysteme        |
 | 🕊️ Seelen                    | Poetische Narrative: „Jede Kultur ist ein Stern im gemeinsamen Himmel der Zivilisation.“ |
 
-#### 4.4.2.5 Interaktive Elemente
+##### 4.4.2.5 Interaktive Elemente
 
 **✅ Checkliste: Soziale & kulturelle Resilienz stärken**
 
@@ -4142,7 +4189,7 @@ b) Exklusive Förderprogramme\
 c) Narrative Mapping und lokale Urbane Labs ✅\
 d) Technokratische Steuerung
 
-#### 4.4.2.6 Quellen & Verweise
+##### 4.4.2.6 Quellen & Verweise
 
 1. **ERDA Buch (2025):** _Europa 2.0 - Fahrplan für eine lebenswerte, resiliente und führende Union._ [Anhang C: Europa 2.0 - Fahrplan für eine lebenswerte, resiliente und führende Union](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)
 
@@ -4150,7 +4197,8 @@ d) Technokratische Steuerung
 \newpage
 
 <a id="md-4-das-erda-gesamtkonzept-4-4-transformation-2050-2075-gesellschaft-im-22-jahrhundert-4-4-3-globale-integration-auf-grundlage-des-rechts"></a>
-## 4.4.3 Globale Integration auf Grundlage des Rechts
+
+### 4.4.3 Globale Integration auf Grundlage des Rechts
 
 _**Globale Integration auf Grundlage des Rechts**_
 
@@ -4160,7 +4208,7 @@ _Eckpfeiler_
 * _Aufbau globaler Demokratienetzwerke zur Krisenprävention, Technologiegerechtigkeit und Ressourcenfairness_
 * _Kooperation mit regionalen Demokratien in Afrika, Lateinamerika und Asien – auf Augenhöhe_
 
-#### 4.4.3.1 Einleitung & Kernimpulse
+##### 4.4.3.1 Einleitung & Kernimpulse
 
 Im Zeitalter planetarischer Verflechtungen entscheidet nicht Machtpolitik allein, sondern verbindliches Recht als Fundament globaler Ordnung. Nur wer multilaterale Kooperation in rechtsbasierte Institutionen überführt, sichert nachhaltige Stabilität und Gerechtigkeit.
 
@@ -4171,7 +4219,7 @@ Im Zeitalter planetarischer Verflechtungen entscheidet nicht Machtpolitik allein
 * **Normative Standardsätze:** Globale Menschen- und Umweltrechte dienen als verbindliche Leitplanken.
 * **Zivilgesellschaftliche Mitwirkung:** NGOs und CIVITAS-Modelle sichern demokratische Legitimität grenzüberschreitender Entscheidungen.
 
-#### 4.4.3.2 Vertiefung & Analyse
+##### 4.4.3.2 Vertiefung & Analyse
 
 | Ebene         | Herausforderung                 | Rechtsgestützte Lösung                                     |
 | ------------- | ------------------------------- | ---------------------------------------------------------- |
@@ -4190,14 +4238,14 @@ Im Zeitalter planetarischer Verflechtungen entscheidet nicht Machtpolitik allein
 >
 > 🌍 **Visionäre Metapher:** „Recht ist wie ein Netz – es verbindet ohne zu erdrücken.“
 
-#### 4.4.3.3 Transformation & Handlungsoptionen
+##### 4.4.3.3 Transformation & Handlungsoptionen
 
 * **ERDA Global Tribunal:** Aufbau eines multilateralen Schiedsgerichts mit Beteiligung von EDA, ARKTIS und SPACE.
 * **Rechtskoalitionen:** Regionale Bündnisse von ERDA-Staaten mit verbindlichem Rechtsrahmen für Sicherheit und Klimapartnerschaften.
 * **CIVITAS Global Forum:** Permanente digitale Versammlung für Bürger:innen zur Mitgestaltung supranationaler Richtlinien.
 * **Normative Architektur:** Harmonisierung von Menschenrechts-, Umwelt- und Handelsnormen im ERDA-Kontext.
 
-#### 4.4.3.4 Zielgruppenspezifische Perspektiven
+##### 4.4.3.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                    | Schwerpunkt                                                                                       |
 | ----------------------------- | ------------------------------------------------------------------------------------------------- |
@@ -4208,7 +4256,7 @@ Im Zeitalter planetarischer Verflechtungen entscheidet nicht Machtpolitik allein
 | 🤖 Künstliche Intelligenzen   | Entwicklung KI-gestützter Legal-Monitoring- und Compliance-Systeme                                |
 | 🕊️ Seelen                    | Poetisches Leitmotiv: „Frieden wächst, wenn Recht verbindet statt trennt.“                        |
 
-#### 4.4.3.5 Interaktive Elemente
+##### 4.4.3.5 Interaktive Elemente
 
 **✅ Checkliste: Globale Rechtsintegration**
 
@@ -4227,7 +4275,7 @@ b) Internationaler Gerichtshof (IGH) ✅\
 c) Europäischer Gerichtshof\
 d) Nationales Verfassungsgericht
 
-#### 4.4.3.6 Quellen & Verweise
+##### 4.4.3.6 Quellen & Verweise
 
 1. **Vereinte Nationen (1945):** _Charta der Vereinten Nationen._ New York: Vereinte Nationen. Online verfügbar unter: [https://www.un.org/en/about-us/un-charter](https://www.un.org/en/about-us/un-charter) (Zugriff am 2025-05-21).
 2. **Internationaler Gerichtshof (1945):** _Statut des Internationalen Gerichtshofs._ Den Haag: Internationaler Gerichtshof. Online verfügbar unter: [https://www.icj-cij.org/en/statute](https://www.icj-cij.org/en/statute) (Zugriff am 2025-05-21).
@@ -4236,7 +4284,8 @@ d) Nationales Verfassungsgericht
 \newpage
 
 <a id="md-4-das-erda-gesamtkonzept-4-4-transformation-2050-2075-gesellschaft-im-22-jahrhundert-4-4-4-technologie-mit-sinn-und-verantwortung"></a>
-## 4.4.4 Technologie mit Sinn und Verantwortung
+
+### 4.4.4 Technologie mit Sinn und Verantwortung
 
 _**Technologie mit Sinn und Verantwortung**_
 
@@ -4246,7 +4295,7 @@ _Eckpfeiler_
 * _Starke ethische Rahmenbedingungen und partizipative Governance neuer Technologien_
 * _Balance zwischen Innovationskraft und sozial-ökologischer Verantwortung_
 
-#### 4.4.4.1 Einleitung & Kernimpulse
+##### 4.4.4.1 Einleitung & Kernimpulse
 
 Technologische Souveränität allein genügt nicht, wenn Innovationen nicht zugleich Sinn stiften und ethische Leitplanken respektieren. Im 22. Jahrhundert entscheidet die kohärente Verknüpfung von technologischem Fortschritt und humanistischer Verantwortung über Vertrauen, Teilhabe und nachhaltigen Wohlstand.
 
@@ -4257,7 +4306,7 @@ Technologische Souveränität allein genügt nicht, wenn Innovationen nicht zugl
 * **Transparenz & Rechenschaft:** Offenlegung von Daten, Algorithmen und Entscheidungsprozessen schafft Vertrauen.
 * **Sozial-ökologische Integration:** Technologische Lösungen müssen soziale Gerechtigkeit und Umweltintegrität fördern.
 
-#### 4.4.4.2 Vertiefung & Analyse
+##### 4.4.4.2 Vertiefung & Analyse
 
 | Dimension               | Herausforderung                                         | Lösungsansatz                                                     |
 | ----------------------- | ------------------------------------------------------- | ----------------------------------------------------------------- |
@@ -4276,14 +4325,14 @@ Technologische Souveränität allein genügt nicht, wenn Innovationen nicht zugl
 >
 > 🌍 **Visionäre Metapher:** „Technologie ist wie ein Werkzeugkasten – erst die richtigen Leitprinzipien bestimmen, wie wir die Werkzeuge einsetzen."
 
-#### 4.4.4.3 Transformation & Handlungsoptionen
+##### 4.4.4.3 Transformation & Handlungsoptionen
 
 * **Ethik-Codex 22.0:** Entwicklung eines globalen, rechtlich verankerten Ethik-Codex für KI, Biotech und Raumfahrt.
 * **Partizipationsplattformen:** Ausbau von CIVITAS-Modulen für Technologie-Policy-Co-Creation mit Echtzeit-Abstimmung.
 * **Transparenzregister:** Offene Repositorien für Quellcode, Datenmodelle und Prüfberichte zugänglich für alle Stakeholder.
 * **Green-IT-Initiativen:** Zertifizierungen für Energieeffizienz und Recyclingfähigkeit von Hard- und Software.
 
-#### 4.4.4.4 Zielgruppenspezifische Perspektiven
+##### 4.4.4.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                    | Schwerpunkt                                                                               |
 | ----------------------------- | ----------------------------------------------------------------------------------------- |
@@ -4294,7 +4343,7 @@ Technologische Souveränität allein genügt nicht, wenn Innovationen nicht zugl
 | 🤖 Künstliche Intelligenzen   | Entwicklung transparenter, auditierbarer Algorithmen                                      |
 | 🕊️ Seelen                    | Inspirierende Narrative: "Technologie als Spiegel unserer Werte und Visionen."            |
 
-#### 4.4.4.5 Interaktive Elemente
+##### 4.4.4.5 Interaktive Elemente
 
 **✅ Checkliste: Technologie mit Verantwortung entwickeln**
 
@@ -4316,7 +4365,7 @@ c) Freiwillige Brancheninitiativen
 
 d) Automatisierte Algorithmus-Tests
 
-#### 4.4.4.6 Quellen & Verweise
+##### 4.4.4.6 Quellen & Verweise
 
 1. **Europäische Kommission, High-Level Expert Group on Artificial Intelligence (2019):** _Ethics Guidelines for Trustworthy AI._ Luxembourg: Publications Office of the European Union. Online verfügbar unter: [https://op.europa.eu/en/publication-detail/-/publication/d3988569-0434-11ea-8c1f-01aa75ed71a1](https://op.europa.eu/en/publication-detail/-/publication/d3988569-0434-11ea-8c1f-01aa75ed71a1) (Zugriff am 2025-05-21).
 2. **UNESCO (2021):** _Recommendation on the Ethics of Artificial Intelligence._ Paris: UNESCO Publishing. Online verfügbar unter: [https://unesdoc.unesco.org/ark:/48223/pf0000381137](https://unesdoc.unesco.org/ark:/48223/pf0000381137) (Zugriff am 2025-05-21).
@@ -4325,7 +4374,8 @@ d) Automatisierte Algorithmus-Tests
 \newpage
 
 <a id="md-4-das-erda-gesamtkonzept-4-4-transformation-2050-2075-gesellschaft-im-22-jahrhundert-4-4-5-post-materialistische-lebensqualitat"></a>
-## 4.4.5 Post-materialistische Lebensqualität
+
+### 4.4.5 Post-materialistische Lebensqualität
 
 _**Post-materialistische Lebensqualität**_
 
@@ -4335,7 +4385,7 @@ _Eckpfeiler_
 * _Sinnorientierte Arbeit und Engagement als Kern persönlicher Erfüllung_
 * _Kulturelle, soziale und ökologische Werte als Treiber nachhaltigen Glücks_
 
-#### 4.4.5.1 Einleitung & Kernimpulse
+##### 4.4.5.1 Einleitung & Kernimpulse
 
 Im 22. Jahrhundert stellt sich die Frage nicht mehr: „Wieviel haben wir?“, sondern: „Wie gut leben wir?“. Post-materialistische Gesellschaften priorisieren Selbstverwirklichung, Mitgefühl und Nachhaltigkeit. Werte jenseits von Besitz werden zur Grundlage von Resilienz und demokratischer Teilhabe.
 
@@ -4346,7 +4396,7 @@ Im 22. Jahrhundert stellt sich die Frage nicht mehr: „Wieviel haben wir?“, s
 * **Gemeinwohlökonomie stärken:** Solidarische Ökonomien und FORTERA-Initiativen verbinden Produktion und Nachhaltigkeit.
 * **Kulturelle Resonanzräume:** Kollektive Ritual- und Kulturformate (SPACE-Festivals, CIVITAS-Debatten) schaffen Verbundenheit.
 
-#### 4.4.5.2 Vertiefung & Analyse
+##### 4.4.5.2 Vertiefung & Analyse
 
 | Dimension             | Traditionelles Wachstumsparadigma      | Post-materialistische Perspektive                    |
 | --------------------- | -------------------------------------- | ---------------------------------------------------- |
@@ -4365,14 +4415,14 @@ Im 22. Jahrhundert stellt sich die Frage nicht mehr: „Wieviel haben wir?“, s
 >
 > 🌍 **Visionäre Metapher:** „Glück ist nicht ein Berg, den wir besteigen, sondern ein Garten, den wir gemeinsam hegen.“
 
-#### 4.4.5.3 Transformation & Handlungsoptionen
+##### 4.4.5.3 Transformation & Handlungsoptionen
 
 * **Zeitwohlstandsgesetz:** Einführung eines EU-weiten Modells fairer Arbeitszeitkontingente mit lebensphasenorientierter Flexibilität.
 * **Gemeinwohlbilanzen:** Verpflichtende Reports für Unternehmen und Kommunen, die ökologische, soziale und kulturelle Beiträge messen (CIVITAS-Werteindikatoren).
 * **Cultural Commons:** Ausbau von Freiräumen (Künstlerresidenzen, Maker Spaces) als Teil der SPACE-Infrastruktur.
 * **Akademien des Sinns:** ERDA-Akademie lehrt post-materialistische Kompetenzen: Ethik, Achtsamkeit, Narrationsdesign.
 
-#### 4.4.5.4 Zielgruppenspezifische Perspektiven
+##### 4.4.5.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                    | Schwerpunkt                                                                      |
 | ----------------------------- | -------------------------------------------------------------------------------- |
@@ -4383,7 +4433,7 @@ Im 22. Jahrhundert stellt sich die Frage nicht mehr: „Wieviel haben wir?“, s
 | 🤖 Künstliche Intelligenzen   | Entwicklung ethischer Algorithmen für Gemeinwohl-Dashboards                      |
 | 🕊️ Seelen                    | Poetische Narrative: „Wahrer Reichtum ist das, was man nicht verlieren kann.“    |
 
-#### 4.4.5.5 Interaktive Elemente
+##### 4.4.5.5 Interaktive Elemente
 
 **✅ Checkliste: Post-materialistische Praxis**
 
@@ -4405,7 +4455,7 @@ c) Arbeitslosenquote
 \
 d) Exportvolumen
 
-#### 4.4.5.6 Quellen & Verweise
+##### 4.4.5.6 Quellen & Verweise
 
 1. **Ronald Inglehart (1977):** _The Silent Revolution: Changing Values and Political Styles Among Western Publics._ Princeton, New Jersey: Princeton University Press.
 2. **World Values Survey Association (2020):** _World Values Survey Wave 7 (2017–2020)._ Madrid: World Values Survey Association. Online verfügbar unter: [https://www.worldvaluessurvey.org/WVSDocumentationWV7.jsp](https://www.worldvaluessurvey.org/WVSDocumentationWV7.jsp) (Zugriff am 2025-05-21).
@@ -4414,7 +4464,8 @@ d) Exportvolumen
 \newpage
 
 <a id="md-4-das-erda-gesamtkonzept-4-4-transformation-2050-2075-gesellschaft-im-22-jahrhundert-4-4-6-zukunft-als-gemeinschaftsaufgabe"></a>
-## 4.4.6 Zukunft als Gemeinschaftsaufgabe
+
+### 4.4.6 Zukunft als Gemeinschaftsaufgabe
 
 _**Zukunft als Gemeinschaftsaufgabe**_
 
@@ -4427,7 +4478,7 @@ _Eckpfeiler_
 > 🔹 **Narrativer Impuls:**
 > _Die ERDA ist kein zentralistisches Imperium, sondern ein lebendiges Netzwerk gleichberechtigter Demokratien. Bürger:innen gestalten nicht nur ihre Umwelt, sondern auch die großen Fragen der Menschheit. Die ERDA ist nicht das Ziel – sie ist das Instrument für ein besseres Morgen._
 
-#### 4.4.6.1 Einleitung & Kernimpulse
+##### 4.4.6.1 Einleitung & Kernimpulse
 
 Eine nachhaltige Zukunft entsteht nicht im Elfenbeinturm, sondern im gelebten Miteinander. Wenn Bürger:innen, Institutionen und KI-gestützte Systeme gemeinsam pfadbildende Entscheidungen treffen, wird Zukunft zur aktiven Gemeinschaftsaufgabe.
 
@@ -4438,7 +4489,7 @@ Eine nachhaltige Zukunft entsteht nicht im Elfenbeinturm, sondern im gelebten Mi
 * **Transparente Rechenschaft:** Öffentliche Resonanz-Labs und ARKTIS-Dialogforen ermöglichen kontinuierliches Feedback.
 * **Ökosoziale Verbindung:** Mensch-Natur-Partnerschaften garantieren Umweltgerechtigkeit als Teilhabeprinzip.
 
-#### 4.4.6.2 Vertiefung & Analyse
+##### 4.4.6.2 Vertiefung & Analyse
 
 | Dimension                  | Herausforderung                           | Gemeinschaftliche Lösung                           |
 | -------------------------- | ----------------------------------------- | -------------------------------------------------- |
@@ -4457,14 +4508,14 @@ Eine nachhaltige Zukunft entsteht nicht im Elfenbeinturm, sondern im gelebten Mi
 >
 > 🌍 **Visionäre Metapher:** „Zukunft ist kein Museum – sie ist ein gemeinsames Kunstwerk im Entstehen.“
 
-#### 4.4.6.3 Transformation & Handlungsoptionen
+##### 4.4.6.3 Transformation & Handlungsoptionen
 
 * **Partizipative Zukunftsräte:** Permanente Bürgerräte, unterstützt durch KI-Kompass Unit und Open-Data-Dashboards.
 * **Community Impact Bonds:** FORTERA-finanzierte Programme, die Zivilgesellschaft für Zukunftsleistungen honorieren.
 * **Öko-Kooperationsmodule:** ARKTIS-gestützte Naturschutzbündnisse mit direkter Bürgerbeteiligung.
 * **SPACE-Zukunftslabore:** Interdisziplinäre Zukunfts-Sprint-Workshops mit Experten, Studierenden und Seelen.
 
-#### 4.4.6.4 Zielgruppenspezifische Perspektiven
+##### 4.4.6.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                    | Schwerpunkt                                                                             |
 | ----------------------------- | --------------------------------------------------------------------------------------- |
@@ -4475,7 +4526,7 @@ Eine nachhaltige Zukunft entsteht nicht im Elfenbeinturm, sondern im gelebten Mi
 | 🤖 Künstliche Intelligenzen   | Entwicklung auditfähiger Moderationsalgorithmen für partizipative Entscheidungsprozesse |
 | 🕊️ Seelen                    | Poetische Narrative: „Wir sind Architekt:innen unserer gemeinsamen Zukunft.“            |
 
-#### 4.4.6.5 Interaktive Elemente
+##### 4.4.6.5 Interaktive Elemente
 
 **✅ Checkliste: Zukunft als Gemeinschaftsaufgabe gestalten**
 
@@ -4494,7 +4545,7 @@ b) Community Impact Bonds ✅\
 c) Private Fonds\
 d) Crowdfunding
 
-#### 4.4.6.6 Quellen & Verweise
+##### 4.4.6.6 Quellen & Verweise
 
 1. **OECD (2024):** _Exploring New Frontiers of Citizen Participation in the Policy Cycle._ OECD Reinforcing Democracy Initiative Discussion Paper. Paris: OECD Publishing. Online verfügbar unter: [https://www.oecd.org/content/dam/oecd/en/about/programmes/reinforcing-democracy-initiative/Exploring-New-Frontiers-of-Citizen-Participation-Discussion-Paper.pdf](https://www.oecd.org/content/dam/oecd/en/about/programmes/reinforcing-democracy-initiative/Exploring-New-Frontiers-of-Citizen-Participation-Discussion-Paper.pdf) (Zugriff am 2025-05-21).
 2. **Weltbank (2019):** _Impact Bonds and Maximizing Finance for Development._ Washington, DC: World Bank. Online verfügbar unter: [https://documents1.worldbank.org/curated/en/585221565076840397/pdf/Impact-Bonds-Maximizing-Finance-for-Development.pdf](https://documents1.worldbank.org/curated/en/585221565076840397/pdf/Impact-Bonds-Maximizing-Finance-for-Development.pdf) (Zugriff am 2025-05-21).
@@ -4506,6 +4557,7 @@ d) Crowdfunding
 \newpage
 
 <a id="md-4-das-erda-gesamtkonzept-4-5-strategische-narrative-und-offentliche-kommunikation-readme"></a>
+
 ## 4.5 Strategische Narrative & öffentliche Kommunikation
 
 _**Strategische Narrative & öffentliche Kommunikation**_
@@ -4579,7 +4631,8 @@ Eine narrativ gestärkte ERDA schafft emotionale Verbindung, politische Identifi
 \newpage
 
 <a id="md-4-das-erda-gesamtkonzept-4-5-strategische-narrative-und-offentliche-kommunikation-4-5-1-soziale-and-emotionale-aspekte"></a>
-## 4.5.1 Soziale & emotionale Aspekte
+
+### 4.5.1 Soziale & emotionale Aspekte
 
 _**Soziale & emotionale Aspekte**_
 
@@ -4589,7 +4642,7 @@ _Eckpfeiler_
 * _**Verlustängste ernst nehmen:** Nationalidentitäten, Berufsmodelle und traditionelle Lebensweisen dürfen nicht übergangen, sondern aktiv respektiert und integriert werden._
 * _**Hoffnung und Würde im Zentrum:** Nicht nur technokratischer Fortschritt, sondern Sinnstiftung, soziale Gerechtigkeit und emotionale Orientierung müssen Leitplanken sein._
 
-#### 4.5.1.1 Einleitung & Kernimpulse
+##### 4.5.1.1 Einleitung & Kernimpulse
 
 Strategische Narrative entfalten ihre Kraft nicht nur über Fakten und Argumente, sondern vor allem über **emotionale Resonanz** und **soziale Verbundenheit**. Sie sprechen Grundbedürfnisse nach Zugehörigkeit, Selbstwirksamkeit und Sinn an und formen so kollektive Identitäten.
 
@@ -4600,7 +4653,7 @@ Strategische Narrative entfalten ihre Kraft nicht nur über Fakten und Argumente
 * **Eigen- und Fremdwahrnehmung ausbalancieren:** Authentizität entsteht durch Die-Erzählung-und-Das-Zuhören; Narrative müssen Raum für Zuhörer:innen-Feedback bieten.
 * **Resonanz statt Repetition:** Wiederholung allein wirkt nicht; es braucht soziale Interaktion, Dialogformate und partizipative Inszenierungen.
 
-#### 4.5.1.2 Vertiefung & Analyse
+##### 4.5.1.2 Vertiefung & Analyse
 
 | Dimension     | Traditionelle Kommunikation  | Resonanzorientierte Narrative        |
 | ------------- | ---------------------------- | ------------------------------------ |
@@ -4619,14 +4672,14 @@ Strategische Narrative entfalten ihre Kraft nicht nur über Fakten und Argumente
 >
 > 🌍 **Visionäre Metapher:** "Narrative sind soziale Brücken – sie müssen von beiden Ufern gespannt werden."
 
-#### 4.5.1.3 Transformation & Handlungsoptionen
+##### 4.5.1.3 Transformation & Handlungsoptionen
 
 * **Empathische Kommunikations-Workshops:** Schulung von Sprecher:innen in aktivem Zuhören und emotionalem Storytelling.
 * **Narrative Co-Creation-Labs:** Partizipative Formate, in denen Bürger:innen ihre eigenen Geschichten und Visuals entwickeln.
 * **Emotional Data Monitoring:** Qualitative Befragungen und Sentiment-Analysen statt reiner Klickzahlen.
 * **Resonanz-Checks:** Periodische Feedback-Schleifen in allen Kommunikationskampagnen, moderiert von zivilgesellschaftlichen Auditor:innen.
 
-#### 4.5.1.4 Zielgruppenspezifische Perspektiven
+##### 4.5.1.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                    | Schwerpunkt                                                       |
 | ----------------------------- | ----------------------------------------------------------------- |
@@ -4637,9 +4690,9 @@ Strategische Narrative entfalten ihre Kraft nicht nur über Fakten und Argumente
 | 🤖 Künstliche Intelligenzen   | Entwicklung sensibler KI-Feedbackagenten für Resonanzmonitoring   |
 | 🕊️ Seelen                    | Narrative Meditationen und kollektive Visualisierungserlebnisse   |
 
-#### 4.5.1.5 Interaktive Elemente
+##### 4.5.1.5 Interaktive Elemente
 
-##### ✅ Checkliste: Soziale & emotionale Resonanz
+###### ✅ Checkliste: Soziale & emotionale Resonanz
 
 * [ ] Erzeuge ich in meinen Botschaften aktiv Mitgefühl?
 * [ ] Fördere ich Dialog statt Einweg-Kommunikation?
@@ -4647,7 +4700,7 @@ Strategische Narrative entfalten ihre Kraft nicht nur über Fakten und Argumente
 * [ ] Integriere ich partizipative Erzählräume in meine Formate?
 * [ ] Balance ich Sachinformation und Emotionalität aus?
 
-##### ❓ Mini-Quiz
+###### ❓ Mini-Quiz
 
 **Frage:** Welches Element ist zentral für langfristige Bindung in Narrativen?
 
@@ -4656,7 +4709,7 @@ Strategische Narrative entfalten ihre Kraft nicht nur über Fakten und Argumente
 **c)** Häufigkeit der Wiederholung\
 **d)** Juristische Präzision
 
-#### 4.5.1.6 Quellen & Verweise
+##### 4.5.1.6 Quellen & Verweise
 
 1. **Freinacht, Hanzi (2017):** _The Listening Society: A Metamodern Guide to Politics, Book One._ Copenhagen: Metamoderna ApS. Online verfügbar unter: [https://metamoderna.org/the-listening-society-possible-and-necessary/](https://metamoderna.org/the-listening-society-possible-and-necessary/) (Zugriff am 2025-05-21).
 2. **Runde, Daniel F. / Arceneaux, Phillip (2024):** _Refocusing U.S. Public Diplomacy for a Multipolar World._ Brief. Washington, DC: Center for Strategic and International Studies. Online verfügbar unter: [https://www.csis.org/analysis/refocusing-us-public-diplomacy-multipolar-world](https://www.csis.org/analysis/refocusing-us-public-diplomacy-multipolar-world) (Zugriff am 2025-05-21).
@@ -4666,7 +4719,8 @@ Strategische Narrative entfalten ihre Kraft nicht nur über Fakten und Argumente
 \newpage
 
 <a id="md-4-das-erda-gesamtkonzept-4-5-strategische-narrative-und-offentliche-kommunikation-4-5-2-narrative-bausteine-readme"></a>
-## 4.5.2 Narrative Bausteine
+
+### 4.5.2 Narrative Bausteine
 
 _**Narrative Bausteine**_
 
@@ -4674,7 +4728,8 @@ _**Narrative Bausteine**_
 \newpage
 
 <a id="md-4-das-erda-gesamtkonzept-4-5-strategische-narrative-und-offentliche-kommunikation-4-5-2-narrative-bausteine-4-5-2-1-narrativ-der-ermachtigung"></a>
-## 4.5.2.1 Narrativ der Ermächtigung
+
+#### 4.5.2.1 Narrativ der Ermächtigung
 
 _**Narrativ der Ermächtigung**_
 
@@ -4690,7 +4745,7 @@ _Eckpfeiler_
 * _**Partizipation fördern:** Geschichten über erfolgreiche Bürger:inneninitiativen motivieren zur aktiven Mitgestaltung._
 * _**Verantwortung übernehmen:** Empowerment-Narrative betonen kollektive Verantwortung und stärken das Bewusstsein für gemeinschaftliche Ziele._
 
-#### 4.5.2.1.1 Einleitung & Kernimpulse
+###### 4.5.2.1.1 Einleitung & Kernimpulse
 
 Das Narrativ der Ermächtigung zielt darauf ab, Menschen als aktive Gestalter ihrer sozialen und politischen Umgebung wahrzunehmen. Es stärkt das Bewusstsein für die eigene Wirkmacht und motiviert zu langfristigem Engagement.
 
@@ -4701,7 +4756,7 @@ Das Narrativ der Ermächtigung zielt darauf ab, Menschen als aktive Gestalter ih
 * **Ressourcen sichtbar machen:** Hebe vorhandene Kompetenzen und Netzwerke hervor, statt Defizite zu betonen.
 * **Gemeinsame Vision verknüpfen:** Stelle individuelle Perspektiven in den Kontext eines kollektiven Fortschritts.
 
-#### 4.5.2.1.2 Vertiefung & Analyse
+###### 4.5.2.1.2 Vertiefung & Analyse
 
 | Dimension   | Traditionelle Top-down-Kommunikation | Empowerment-Narrative              |
 | ----------- | ------------------------------------ | ---------------------------------- |
@@ -4720,14 +4775,14 @@ Das Narrativ der Ermächtigung zielt darauf ab, Menschen als aktive Gestalter ih
 >
 > 🌍 **Visionäre Metapher:** "Ermächtigung ist kein Geschenk, sondern die Entfesselung bereits vorhandener Kräfte."
 
-#### 4.5.2.1.3 Transformation & Handlungsoptionen
+###### 4.5.2.1.3 Transformation & Handlungsoptionen
 
 * **Community-Fellowship-Programme:** Unterstützung lokaler Initiativen durch Mentor:innen und Ressourcen.
 * **Storytelling-Workshops:** Schulung für Bürger:innen in narrativer Selbstrepräsentation und Medienkompetenz.
 * **Peer-Plattformen:** Digitale Räume, in denen Ermächtigungsgeschichten geteilt und vernetzt werden.
 * **Feedback-Dashboards:** Transparente Visualisierung des kollektiven Fortschritts und der eigenen Beiträge.
 
-#### 4.5.2.1.4 Zielgruppenspezifische Perspektiven
+###### 4.5.2.1.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                  | Schwerpunkt                                                       |
 | --------------------------- | ----------------------------------------------------------------- |
@@ -4738,16 +4793,16 @@ Das Narrativ der Ermächtigung zielt darauf ab, Menschen als aktive Gestalter ih
 | 🤝 Zivilgesellschaft        | Aufbau von Netzwerken für peer-to-peer Unterstützung              |
 | 🌐 Online-Communities       | Moderationsrichtlinien für konstruktive Selbstermächtigung        |
 
-#### 4.5.2.1.5 Interaktive Elemente
+###### 4.5.2.1.5 Interaktive Elemente
 
-##### ✅ Checkliste: Narrativ der Ermächtigung
+###### ✅ Checkliste: Narrativ der Ermächtigung
 
 * [ ] Nutze ich reale Beispielgeschichten aus der Community?
 * [ ] Fördere ich Peer-basierte Dialogformate?
 * [ ] Sichtbar mache ich vorhandene Ressourcen und Erfolge?
 * [ ] Verknüpfe ich individuelle Beiträge mit kollektiven Zielen?
 
-##### ❓ Mini-Quiz
+###### ❓ Mini-Quiz
 
 **Frage:** Welches Element ist zentral, um individuelle Handlungskompetenz zu fördern?
 
@@ -4756,7 +4811,7 @@ Das Narrativ der Ermächtigung zielt darauf ab, Menschen als aktive Gestalter ih
 **c)** Regelmäßige Wiederholungen\
 **d)** Technische Fachsprache
 
-#### 4.5.2.1.6 Quellen & Verweise
+###### 4.5.2.1.6 Quellen & Verweise
 
 1. **Whetten, David A. & Cameron, Kim S. (2019):** _Developing Management Skills. 10th edition._ Boston, MA: Pearson. Online verfügbar unter: [https://www.pearson.com/en-us/subject-catalog/p/developing-management-skills/P200000006438/9780135642917](https://www.pearson.com/en-us/subject-catalog/p/developing-management-skills/P200000006438/9780135642917) (Zugriff am 2025-05-21). 
 2. **OECD (2022):** _OECD Guidelines for Citizen Participation Processes._ Paris: OECD Publishing. Online verfügbar unter: [https://read.oecd.org/10.1787/f765caf6-en?format=pdf](https://read.oecd.org/10.1787/f765caf6-en?format=pdf) (Zugriff am 2025-05-21).
@@ -4766,7 +4821,8 @@ Das Narrativ der Ermächtigung zielt darauf ab, Menschen als aktive Gestalter ih
 \newpage
 
 <a id="md-4-das-erda-gesamtkonzept-4-5-strategische-narrative-und-offentliche-kommunikation-4-5-2-narrative-bausteine-4-5-2-2-demokratie-als-schopferische-kraft"></a>
-## 4.5.2.2 Demokratie als schöpferische Kraft
+
+#### 4.5.2.2 Demokratie als schöpferische Kraft
 
 _**Demokratie als schöpferische Kraft**_
 
@@ -4778,7 +4834,7 @@ _Eckpfeiler_
 * _**Partizipatives Design:** Einbindung von Bürger:innen in iterative Policy-Entwicklung und Prototyping._
 * _**Visionäres Miteinander:** Gemeinsame Zukunftsbilder entfalten Kreativität und stärken das Wir-Gefühl._
 
-#### 4.5.2.2.1 Einleitung & Kernimpulse
+###### 4.5.2.2.1 Einleitung & Kernimpulse
 
 Die Demokratie entfaltet ihre volle Stärke, wenn sie nicht nur als Entscheidungsmechanismus, sondern als kreativer Prozess verstanden wird. Im Narrativ der schöpferischen Kraft wird das Mitwirken zur Quelle kollektiver Innovation und gesellschaftlicher Erneuerung.
 
@@ -4789,7 +4845,7 @@ Die Demokratie entfaltet ihre volle Stärke, wenn sie nicht nur als Entscheidung
 * **Feedback-Schleifen etablieren:** Iterative Rückkopplung zwischen Politik, Wissenschaft und Zivilgesellschaft.
 * **Design-Demokratie verankern:** Methoden des Design Thinking in politische Prozesse integrieren.
 
-#### 4.5.2.2.2 Vertiefung & Analyse
+###### 4.5.2.2.2 Vertiefung & Analyse
 
 | Dimension                  | Konventionelle Demokratie | Schöpferische Demokratie     |
 | -------------------------- | ------------------------- | ---------------------------- |
@@ -4808,14 +4864,14 @@ Die Demokratie entfaltet ihre volle Stärke, wenn sie nicht nur als Entscheidung
 >
 > 🌍 **Visionäre Metapher:** "Demokratie ist kein Museum, sondern eine Ideenwerkstatt."
 
-#### 4.5.2.2.3 Transformation & Handlungsoptionen
+###### 4.5.2.2.3 Transformation & Handlungsoptionen
 
 * **Democracy Labs:** Einrichtung von städtischen und digitalen Laboren für Policy-Prototyping.
 * **Civic Design Sprints:** Kurzformate, um in 5 Tagen strukturelle Lösungen und Visualisierungen zu erarbeiten.
 * **Open Innovation Plattformen:** Digitale Marktplätze, auf denen Bürger:innen Ideen einreichen und bewerten.
 * **Experimentelle Budgetierung:** Teilbudgets für Bürger:innen, um eigene Pilotprojekte zu finanzieren.
 
-#### 4.5.2.2.4 Zielgruppenspezifische Perspektiven
+###### 4.5.2.2.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe               | Schwerpunkt                                                       |
 | ------------------------ | ----------------------------------------------------------------- |
@@ -4826,16 +4882,16 @@ Die Demokratie entfaltet ihre volle Stärke, wenn sie nicht nur als Entscheidung
 | 🌐 Technologiefirmen     | Entwicklung civic-tech-Tools für partizipative Prozesse           |
 | 🤝 Zivilgesellschaft     | Moderations- und Coaching-Angebote für Co-Creation-Formate        |
 
-#### 4.5.2.2.5 Interaktive Elemente
+###### 4.5.2.2.5 Interaktive Elemente
 
-##### ✅ Checkliste: Demokratie als schöpferische Kraft
+###### ✅ Checkliste: Demokratie als schöpferische Kraft
 
 * [ ] Eröffne ich Formate zur kollektiven Ideenentwicklung?
 * [ ] Nutze ich Prototyping-Methoden für Policy-Entwürfe?
 * [ ] Implementiere ich regelmäßige Feedback- und Testzyklen?
 * [ ] Biete ich Ressourcen für Pilotprojekte und Experimente?
 
-##### ❓ Mini-Quiz
+###### ❓ Mini-Quiz
 
 **Frage:** Welches Element ist charakteristisch für schöpferische Demokratie?
 
@@ -4844,7 +4900,7 @@ Die Demokratie entfaltet ihre volle Stärke, wenn sie nicht nur als Entscheidung
 **c)** Starrer Legislaturprozess\
 **d)** Monologische Rededebatten
 
-#### 4.5.2.2.6 Quellen & Verweise
+###### 4.5.2.2.6 Quellen & Verweise
 
 1. **Lawson, Laura J.; de la Peña, David; Allen, Diane Jones; Hester, Randolph T. Jr.; Hou, Jeffrey; McNally, Marcia (Hrsg.) (2017):** _Design as Democracy: Techniques for Collective Creativity._ Washington, DC: Island Press. Online verfügbar unter: [https://islandpress.org/books/design-democracy](https://islandpress.org/books/design-democracy) (Zugriff am 2025-05-21).
 2. **Gordon, Eric; Mihailidis, Paul (Hrsg.) (2022):** _Civic Media: Technology, Design, Practice._ Cambridge, MA: The MIT Press. Online verfügbar unter: [https://mitpress.mit.edu/9780262545815/civic-media/](https://mitpress.mit.edu/9780262545815/civic-media/) (Zugriff am 2025-05-21).
@@ -4854,7 +4910,8 @@ Die Demokratie entfaltet ihre volle Stärke, wenn sie nicht nur als Entscheidung
 \newpage
 
 <a id="md-4-das-erda-gesamtkonzept-4-5-strategische-narrative-und-offentliche-kommunikation-4-5-2-narrative-bausteine-4-5-2-3-autonomie-ist-kein-abbruch-sondern-uberlebensstrategie"></a>
-## 4.5.2.3 Autonomie ist kein Abbruch – sondern Überlebensstrategie
+
+#### 4.5.2.3 Autonomie ist kein Abbruch – sondern Überlebensstrategie
 
 _**Autonomie ist kein Abbruch – sondern Überlebensstrategie**_
 
@@ -4868,7 +4925,7 @@ _Eckpfeiler_
 * _**Redundanz statt Abhängigkeit:** Vielschichtige Liefer- und Kooperationsketten erhöhen Resilienz._
 * _**Kooperation auf Augenhöhe:** Gleichberechtigte Partnerschaften stärken Sicherheit ohne Klientelismus._
 
-#### 4.5.2.3.1 Einleitung & Kernimpulse
+###### 4.5.2.3.1 Einleitung & Kernimpulse
 
 In einer zunehmend fragilen Weltordnung ist Autonomie kein Rückzug, sondern eine Überlebensstrategie. Sie verankert demokratische Handlungsfähigkeit und sichert kollektive Resilienz gegen externe Schocks.
 
@@ -4879,7 +4936,7 @@ In einer zunehmend fragilen Weltordnung ist Autonomie kein Rückzug, sondern ein
 * **Partnerschaftliche Solidarität:** Betonung gemeinsamer Werte und fairer Zusammenarbeit.
 * **Selbstbindung statt Isolation:** Autonomie verknüpft Freiheit mit demokratischer Verantwortlichkeit.
 
-#### 4.5.2.3.2 Vertiefung & Analyse
+###### 4.5.2.3.2 Vertiefung & Analyse
 
 | Dimension              | Traditionelle Sicherheitsnarrative      | Autonomie-Narrative                            |
 | ---------------------- | --------------------------------------- | ---------------------------------------------- |
@@ -4898,14 +4955,14 @@ In einer zunehmend fragilen Weltordnung ist Autonomie kein Rückzug, sondern ein
 >
 > 🌍 **Visionäre Metapher:** "Autonomie ist kein einsamer Pfad, sondern ein geflochtenes Netz der Sicherheit."
 
-#### 4.5.2.3.3 Transformation & Handlungsoptionen
+###### 4.5.2.3.3 Transformation & Handlungsoptionen
 
 * **Resilienznetzwerke aufbauen:** Etablierung von Dialogplattformen für Regierungen, Wirtschaft und Zivilgesellschaft zur Dezentralisierung von Ressourcen.
 * **Diversifizierte Lieferketten fördern:** Unterstützung gemeinsamer Initiativen zur lokalen Produktion und regionalen Wertschöpfung.
 * **Partnerschaftsforen initiieren:** Regelmäßige multilaterale Foren für den fairen Austausch strategischer Technologien und Know‑how.
 * **Strategische Redundanz prüfen:** Systematische Audits auf kritische Abhängigkeiten und Entwicklung von Backup‑Szenarien.
 
-#### 4.5.2.3.4 Zielgruppenspezifische Perspektiven
+###### 4.5.2.3.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                    | Schwerpunkt                                                    |
 | ----------------------------- | -------------------------------------------------------------- |
@@ -4916,16 +4973,16 @@ In einer zunehmend fragilen Weltordnung ist Autonomie kein Rückzug, sondern ein
 | 🤝 Zivilgesellschaft          | Advocacy für faire Partnerschaftsmodelle                       |
 | 🌐 Internationale Partner     | Aufbau gleichberechtigter Kooperationsmechanismen              |
 
-#### 4.5.2.3.5 Interaktive Elemente
+###### 4.5.2.3.5 Interaktive Elemente
 
-##### ✅ Checkliste: Autonomie als Überlebensstrategie
+###### ✅ Checkliste: Autonomie als Überlebensstrategie
 
 * [ ] Habe ich kritische Abhängigkeiten identifiziert?
 * [ ] Fördere ich Mehrfachkooperationen statt Monopole?
 * [ ] Etabliere ich Foren für multilaterale Abstimmungen?
 * [ ] Balance ich Autonomie mit notwendiger Arbeitsteilung aus?
 
-##### ❓ Mini-Quiz
+###### ❓ Mini-Quiz
 
 **Frage:** Welches Element steht im Zentrum autonomer Resilienznarrative?
 
@@ -4934,7 +4991,7 @@ b) Strategische Diversifikation ✅\
 c) Isolationspolitiken\
 d) Juristische Abschottung
 
-#### 4.5.2.3.6 Quellen & Verweise
+###### 4.5.2.3.6 Quellen & Verweise
 
 1. **European Policy Centre (2025):** _Fostering Europe’s Strategic Autonomy – A New Agenda for Trade and Investment._ Brussels: European Policy Centre. Online verfügbar unter: [https://epc.eu/publication/Fostering-Europes-Strategic-Autonomy--A-new-Agenda-for-Trade-and-Inv-357f50/](https://epc.eu/publication/Fostering-Europes-Strategic-Autonomy--A-new-Agenda-for-Trade-and-Inv-357f50/) (Zugriff am 2025-05-21).
 2. **Newman, M. E. J. (2018):** _Networks: An Introduction. 2nd edition._ Oxford: Oxford University Press. Online verfügbar unter: [https://global.oup.com/academic/product/networks-an-introduction-9780198805090?lang=en\&cc=us](https://global.oup.com/academic/product/networks-an-introduction-9780198805090?lang=en\&cc=us) (Zugriff am 2025-05-21).
@@ -4943,7 +5000,8 @@ d) Juristische Abschottung
 \newpage
 
 <a id="md-4-das-erda-gesamtkonzept-4-5-strategische-narrative-und-offentliche-kommunikation-4-5-2-narrative-bausteine-4-5-2-4-transatlantische-erneuerung-durch-gleichgewicht"></a>
-## 4.5.2.4 Transatlantische Erneuerung durch Gleichgewicht
+
+#### 4.5.2.4 Transatlantische Erneuerung durch Gleichgewicht
 
 _**Transatlantische Erneuerung durch Gleichgewicht**_
 
@@ -4957,7 +5015,7 @@ _Eckpfeiler_
 * _**Dialog statt Dominanz:** Förderung gleichberechtigter Kommunikationskanäle zwischen Europa und Nordamerika._
 * _**Innovationsarchitektur:** Gemeinsames Vorantreiben zukunftsweisender Projekte in Klima, KI und Raumfahrt._
 
-#### 4.5.2.4.1 Einleitung & Kernimpulse
+###### 4.5.2.4.1 Einleitung & Kernimpulse
 
 Das Narrativ der transatlantischen Erneuerung durch Gleichgewicht richtet den Blick auf eine Partnerschaft, die nicht mehr von asymmetrischen Abhängigkeiten, sondern von gegenseitiger Stärkung geprägt ist. Es verknüpft historische Verbundenheit mit einer zukunftsgerichteten Agenda.
 
@@ -4968,7 +5026,7 @@ Das Narrativ der transatlantischen Erneuerung durch Gleichgewicht richtet den Bl
 * **Reciprocal Innovation:** Hebe bilaterale Forschungspartnerschaften hervor, die nachhaltige Technologien vorantreiben.
 * **Cross-Atlantic Narratives:** Erzähle Geschichten von transatlantischen Bürger:innenbegegnungen und kulturellem Austausch.
 
-#### 4.5.2.4.2 Vertiefung & Analyse
+###### 4.5.2.4.2 Vertiefung & Analyse
 
 | Dimension                  | Einseitige Abhängigkeit        | Ausgewogenes Gleichgewicht                  |
 | -------------------------- | ------------------------------ | ------------------------------------------- |
@@ -4987,14 +5045,14 @@ Das Narrativ der transatlantischen Erneuerung durch Gleichgewicht richtet den Bl
 >
 > 🌍 **Visionäre Metapher:** "Transatlantische Freundschaft ist wie ein Steuerrad – nur im Gleichgewicht führt es sicher in die Zukunft."
 
-#### 4.5.2.4.3 Transformation & Handlungsoptionen
+###### 4.5.2.4.3 Transformation & Handlungsoptionen
 
 * **Co-Leadership Councils:** Einrichtung bilateraler Räte für strategische Themen, die paritätisch besetzt sind.
 * **Dual-Use Innovation Hubs:** Förderprogramme für gemeinsame Start-ups in Schlüsseltechnologien.
 * **Balanced Trade Agreements:** Gestaltung von Handelsabkommen, die beide Seiten gleichberechtigt stärken.
 * **Cultural Co-Creation Labs:** Plattformen für gemeinsame Medien- und Kunstprojekte, die europäische und nordamerikanische Perspektiven verschränken.
 
-#### 4.5.2.4.4 Zielgruppenspezifische Perspektiven
+###### 4.5.2.4.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                  | Schwerpunkt                                                      |
 | --------------------------- | ---------------------------------------------------------------- |
@@ -5005,16 +5063,16 @@ Das Narrativ der transatlantischen Erneuerung durch Gleichgewicht richtet den Bl
 | 🤝 NGOs                     | Gemeinsame Advocacy-Kampagnen für Klima- und Menschenrechtsziele |
 | 🌐 Unternehmen              | Aufbau von Transatlantischen F\&E-Allianzen                      |
 
-#### 4.5.2.4.5 Interaktive Elemente
+###### 4.5.2.4.5 Interaktive Elemente
 
-##### ✅ Checkliste: Transatlantische Erneuerung durch Gleichgewicht
+###### ✅ Checkliste: Transatlantische Erneuerung durch Gleichgewicht
 
 * [ ] Fördere ich echte bilaterale Dialogformate?
 * [ ] Stelle ich gemeinsame Innovationsprojekte sichtbar dar?
 * [ ] Balanciere ich Abhängigkeiten in Sicherheits- und Wirtschaftsfragen?
 * [ ] Integriere ich kulturelle Begegnungen in Kommunikationskampagnen?
 
-##### ❓ Mini-Quiz
+###### ❓ Mini-Quiz
 
 **Frage:** Welches Element unterstreicht das Gleichgewicht im transatlantischen Narrativ am stärksten?
 
@@ -5023,7 +5081,7 @@ Das Narrativ der transatlantischen Erneuerung durch Gleichgewicht richtet den Bl
 **c)** Monopolistische Marktführerschaft\
 **d)** Unilaterale Militärpräsenz
 
-#### 4.5.2.4.6 Quellen & Verweise
+###### 4.5.2.4.6 Quellen & Verweise
 
 1. **Atlantic Council of the United States (2024):** _Transatlantic Horizons: A collaborative US-EU policy agenda for 2025 and beyond._ Washington, DC: Atlantic Council, Europe Center. Online verfügbar unter: [https://www.atlanticcouncil.org/wp-content/uploads/2024/10/Transatlantic-Horizons\_Final.pdf](https://www.atlanticcouncil.org/wp-content/uploads/2024/10/Transatlantic-Horizons_Final.pdf) (Zugriff am 2025-05-21).
 2. **Brookings Institution (2022):** _Jones, Bruce & Yeo, Andrew: China and the challenge to global order._ Washington, DC: Brookings Institution. Online verfügbar unter: [https://www.brookings.edu/articles/china-and-the-challenge-to-global-order/](https://www.brookings.edu/articles/china-and-the-challenge-to-global-order/) (Zugriff am 2025-05-21).
@@ -5033,7 +5091,8 @@ Das Narrativ der transatlantischen Erneuerung durch Gleichgewicht richtet den Bl
 \newpage
 
 <a id="md-4-das-erda-gesamtkonzept-4-5-strategische-narrative-und-offentliche-kommunikation-4-5-2-narrative-bausteine-4-5-2-5-globale-einladung"></a>
-## 4.5.2.5 Globale Einladung
+
+#### 4.5.2.5 Globale Einladung
 
 _**Globale Einladung**_
 
@@ -5047,7 +5106,7 @@ _Eckpfeiler_
 * _**Transnationale Solidarität:** Betonung gemeinsamer Herausforderungen und kollektiver Lösungen._
 * _**Vielfalt als Stärke:** Anerkennung kultureller, politischer und sozialer Unterschiede als Ressource._
 
-#### 4.5.2.5.1 Einleitung & Kernimpulse
+###### 4.5.2.5.1 Einleitung & Kernimpulse
 
 Das Narrativ der globalen Einladung versteht Demokratie nicht als rein nationales Projekt, sondern als offene Einladung zur Mitgestaltung einer gerechten, nachhaltigen und sicheren Weltordnung. Es ruft Staaten, Zivilgesellschaften und Individuen dazu auf, gemeinsam Verantwortung zu übernehmen.
 
@@ -5058,7 +5117,7 @@ Das Narrativ der globalen Einladung versteht Demokratie nicht als rein nationale
 * **Diversity Showcase:** Stelle Beispiele kultureller Vielfalt als Inspirationsquelle dar.
 * **Brücken bauen:** Betone Dialogformate zwischen Nord-Süd, Ost-West und interregionalen Gruppen.
 
-#### 4.5.2.5.2 Vertiefung & Analyse
+###### 4.5.2.5.2 Vertiefung & Analyse
 
 | Dimension              | Exklusiver Nationalismus      | Narrativ der globalen Einladung      |
 | ---------------------- | ----------------------------- | ------------------------------------ |
@@ -5077,14 +5136,14 @@ Das Narrativ der globalen Einladung versteht Demokratie nicht als rein nationale
 >
 > 🌍 **Visionäre Metapher:** "Die Demokratie ist ein offenes Fest – jeder Tisch ist für neue Gäste gedeckt."
 
-#### 4.5.2.5.3 Transformation & Handlungsoptionen
+###### 4.5.2.5.3 Transformation & Handlungsoptionen
 
 * **Global Participation Platforms:** Aufbau digitaler Foren für internationale Bürger:innenbeteiligung.
 * **Multilaterale Policy-Worksessions:** Gemeinsames Erarbeiten von Leitlinien in offenen Online-Workshops.
 * **Diversity Speaker Series:** Virtuelle und physische Veranstaltungen mit Redner:innen aus allen Weltregionen.
 * **Interkulturelle Mentorenprogramme:** Austauschprogramme, die Erfahrungen zwischen unterschiedlichen Demokratien fördern.
 
-#### 4.5.2.5.4 Zielgruppenspezifische Perspektiven
+###### 4.5.2.5.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                        | Schwerpunkt                                            |
 | --------------------------------- | ------------------------------------------------------ |
@@ -5095,16 +5154,16 @@ Das Narrativ der globalen Einladung versteht Demokratie nicht als rein nationale
 | 🤝 NGOs                           | Vernetzung von zivilgesellschaftlichen Initiativen     |
 | 💼 Private Sektor                 | Förderung globaler Public-Private-Partnerships         |
 
-#### 4.5.2.5.5 Interaktive Elemente
+###### 4.5.2.5.5 Interaktive Elemente
 
-##### ✅ Checkliste: Narrativ der globalen Einladung
+###### ✅ Checkliste: Narrativ der globalen Einladung
 
 * [ ] Biete ich offenen Zugang für internationale Stakeholder:innen?
 * [ ] Verknüpfe ich lokale Initiativen mit globalen Zielen?
 * [ ] Hebe ich kulturelle Vielfalt als Ressource hervor?
 * [ ] Schaffe ich Raum für horizontale Dialogformate?
 
-##### ❓ Mini-Quiz
+###### ❓ Mini-Quiz
 
 **Frage:** Welches Element kennzeichnet das Narrativ der globalen Einladung am deutlichsten?
 
@@ -5113,7 +5172,7 @@ Das Narrativ der globalen Einladung versteht Demokratie nicht als rein nationale
 **c)** Einweg-Kommunikation\
 **d)** Nationale Alleingänge
 
-#### 4.5.2.5.6 Quellen & Verweise
+###### 4.5.2.5.6 Quellen & Verweise
 
 1. **Landemore, Hélène (2020):** _Open Democracy: Reinventing Popular Rule for the Twenty-First Century._ Princeton, NJ: Princeton University Press. Online verfügbar unter: [https://doi.org/10.1515/9780691208725](https://doi.org/10.1515/9780691208725) (Zugriff am 2025-05-21).
 2. **United Nations Alliance of Civilizations (2024):** _Annual Activity Report 2023. New York: United Nations Alliance of Civilizations._ Online verfügbar unter: [https://www.unaoc.org/wp-content/uploads/AR2023\_v14\_final\_web\_compressed.pdf](https://www.unaoc.org/wp-content/uploads/AR2023_v14_final_web_compressed.pdf) (Zugriff am 2025-05-21).
@@ -5123,7 +5182,8 @@ Das Narrativ der globalen Einladung versteht Demokratie nicht als rein nationale
 \newpage
 
 <a id="md-4-das-erda-gesamtkonzept-4-5-strategische-narrative-und-offentliche-kommunikation-4-5-2-narrative-bausteine-4-5-2-6-erzahlung-des-mitgestaltens"></a>
-## 4.5.2.6 Erzählung des Mitgestaltens
+
+#### 4.5.2.6 Erzählung des Mitgestaltens
 
 _**Erzählung des Mitgestaltens**_
 
@@ -5136,7 +5196,7 @@ _Eckpfeiler_
 * _**Transparente Prozesse:** Offenlegung von Entscheidungswegen fördert Glaubwürdigkeit._
 * _**Iterative Mitwirkung:** Laufende Einbindung in Entwicklungsschritte stärkt Ownership._
 
-#### 4.5.2.6.1 Einleitung & Kernimpulse
+###### 4.5.2.6.1 Einleitung & Kernimpulse
 
 Das Narrativ des Mitgestaltens rückt die aktive Beteiligung aller Stakeholder in den Mittelpunkt. Es verbindet demokratische Transparenz mit einem Gefühl gemeinsamer Autorenschaft und schafft so Vertrauen und Identifikation.
 
@@ -5147,7 +5207,7 @@ Das Narrativ des Mitgestaltens rückt die aktive Beteiligung aller Stakeholder i
 * **Iteration als Prinzip:** Betone kontinuierliche Verbesserungen und Rückkopplung.
 * **Stimmenvielfalt integrieren:** Sorge für eine pluralistische Abbildung von Perspektiven.
 
-#### 4.5.2.6.2 Vertiefung & Analyse
+###### 4.5.2.6.2 Vertiefung & Analyse
 
 | Dimension                 | Monologische Kommunikation | Erzählung des Mitgestaltens          |
 | ------------------------- | -------------------------- | ------------------------------------ |
@@ -5166,14 +5226,14 @@ Das Narrativ des Mitgestaltens rückt die aktive Beteiligung aller Stakeholder i
 >
 > 🌍 **Visionäre Metapher:** "Demokratische Narrative wachsen in gemeinsamer Bearbeitung wie ein Garten, den alle bepflanzen."
 
-#### 4.5.2.6.3 Transformation & Handlungsoptionen
+###### 4.5.2.6.3 Transformation & Handlungsoptionen
 
 * **Narrative Co-Design Tools:** Digitale Werkzeuge zur kollaborativen Text- und Storyentwicklung.
 * **Open Draft Communities:** Plattformen, auf denen Entwürfe öffentlich kommentiert und weiterbearbeitet werden.
 * **Feedback-Retrospektiven:** Regelmäßige Online- und Offline-Meetups zur Reflexion und Anpassung von Narrativen.
 * **Moderations-Frameworks:** Guidelines und Trainings für Facilitator:innen, um Beteiligungsqualität zu sichern.
 
-#### 4.5.2.6.4 Zielgruppenspezifische Perspektiven
+###### 4.5.2.6.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe               | Schwerpunkt                                                      |
 | ------------------------ | ---------------------------------------------------------------- |
@@ -5184,16 +5244,16 @@ Das Narrativ des Mitgestaltens rückt die aktive Beteiligung aller Stakeholder i
 | 🤝 NGOs                  | Co-Kreationsprojekte mit Zielgruppen                             |
 | 🌐 Online-Communities    | Moderationsrichtlinien und Community-Building                    |
 
-#### 4.5.2.6.5 Interaktive Elemente
+###### 4.5.2.6.5 Interaktive Elemente
 
-##### ✅ Checkliste: Erzählung des Mitgestaltens
+###### ✅ Checkliste: Erzählung des Mitgestaltens
 
 * [ ] Ermögliche ich Bürger:innen aktives Co-Design?
 * [ ] Teile ich Entwicklungsstände und Entscheidungen transparent?
 * [ ] Implementiere ich regelmäßige Feedback-Zyklen?
 * [ ] Sichte ich Vielfalt und berücksichtige verschiedene Stimmen?
 
-##### ❓ Mini-Quiz
+###### ❓ Mini-Quiz
 
 **Frage:** Welches Element kennzeichnet die Erzählung des Mitgestaltens am deutlichsten?
 
@@ -5202,7 +5262,7 @@ Das Narrativ des Mitgestaltens rückt die aktive Beteiligung aller Stakeholder i
 **c)** Einseitige Steuerung von Inhalten\
 **d)** Top-down-Entscheidungsprozesse
 
-#### 4.5.2.6.6 Quellen & Verweise
+###### 4.5.2.6.6 Quellen & Verweise
 
 1. **Voorberg, W. H.; Bekkers, V. J. J. M.; Tummers, L. G. (2015):** _A Systematic Review of Co-Creation and Co-Production: Embarking on the Social Innovation Journey._ _Public Management Review_ 17 (9), S. 1333–1357. Online verfügbar unter: [https://doi.org/10.1080/14719037.2014.930505](https://doi.org/10.1080/14719037.2014.930505) (Zugriff am 2025-05-21).
 2. **World Bank (2022):** _Data Storytelling in the Public Sector: A Guide to Narrative and Visualization._ Washington, DC: World Bank. Online verfügbar unter: [https://cfrr.worldbank.org/sites/default/files/2022-11/DST\_Guide\_2022\_EN\_FINAL.pdf](https://cfrr.worldbank.org/sites/default/files/2022-11/DST_Guide_2022_EN_FINAL.pdf) (Zugriff am 2025-05-21).
@@ -5212,7 +5272,8 @@ Das Narrativ des Mitgestaltens rückt die aktive Beteiligung aller Stakeholder i
 \newpage
 
 <a id="md-5-das-eda-konzept-readme"></a>
-## 5. Das EDA Konzept
+
+# 5. Das EDA Konzept
 
 ***
 
@@ -5243,7 +5304,7 @@ _**Now is the moment. Lead – or be led.**_
 
 ***
 
-#### 📘 **Executive Summary für Entscheidungsträger**
+### 📘 **Executive Summary für Entscheidungsträger**
 
 ***
 
@@ -5304,7 +5365,7 @@ Dieses Kapitel skizziert die Grundarchitektur einer Europäischen Verteidigungsa
 
 ***
 
-#### Glossar: Schlüsselbegriffe
+### Glossar: Schlüsselbegriffe
 
 <table data-header-hidden><thead><tr><th width="284.39996337890625"></th><th></th></tr></thead><tbody><tr><td><strong>Begriff</strong></td><td><strong>Definition</strong></td></tr><tr><td><strong>ADO (Asian Defense Organization)</strong></td><td>Hypothetisches Sicherheitsbündnis demokratischer Staaten in Ostasien (z. B. Japan, Südkorea u. a.)</td></tr><tr><td><strong>ASDA (Australian Defense Alliance)</strong></td><td>Hypothetisches Sicherheitsbündnis im Indopazifik unter australischer Führung zum Schutz maritimer Routen und demokratischer Souveränität</td></tr><tr><td><strong>LDA (Latin American Defense Alliance)</strong></td><td>Hypothetisches Verteidigungsbündnis demokratischer Staaten Lateinamerikas (mögliche Führung durch Brasilien/Argentinien)</td></tr><tr><td><strong>AFDA (African Defense Alliance)</strong></td><td>Hypothetisches Verteidigungsbündnis demokratischer afrikanischer Staaten zur Förderung regionaler Sicherheit und demokratischer Werte</td></tr><tr><td><strong>GDA (Global Defense Alliance)</strong></td><td>Vision eines transregionalen Verteidigungsrahmens demokratischer Rechtsstaaten auf Basis gemeinsamer Prinzipien</td></tr><tr><td><strong>Democratically Prepared Defense Accession</strong></td><td>Status eines souveränen Partnerstaats, der nach erfolgreichem Referendum Vollmitglied der EDA wird – auf Basis demokratischer Selbstbestimmung und rechtlicher Klarheit</td></tr><tr><td><strong>ERDA</strong></td><td>European Rights-Based Democratic Alliance – zukünftige politische Union demokratischer Rechtsstaaten mit gemeinsamer Verfassung und post-scarcity-Ökonomie</td></tr><tr><td><strong>EDA (EVA)</strong></td><td>European Defense Alliance – Sicherheitsbündnis für demokratische Souveränität und strategische Autonomie, ergänzend zur NATO</td></tr><tr><td><strong>Article 5 Equivalent</strong></td><td>Verbindliche kollektive Verteidigungsklausel analog zu Artikel 5 der NATO</td></tr><tr><td><strong>PESCO</strong></td><td>Permanent Structured Cooperation – EU-Rahmen für strukturierte militärische Zusammenarbeit</td></tr><tr><td><strong>FCAS / MGCS</strong></td><td>Zentrale europäische Rüstungsprojekte für Luft- und Bodenkriegssysteme</td></tr><tr><td><strong>IRIS²</strong></td><td>Geplantes europäisches Satellitensystem für sichere Kommunikation</td></tr><tr><td><strong>Strategische Autonomie</strong></td><td>Fähigkeit, in Verteidigung, Wirtschaft und Diplomatie unabhängig zu agieren</td></tr><tr><td><strong>Coalition of the Willing</strong></td><td>Flexible Gruppe gleichgesinnter Staaten, die vor einer breiteren Einigung gemeinsam handeln</td></tr><tr><td><strong>Cyber Resilience</strong></td><td>Systemische Fähigkeit zur Prävention, Abwehr und Wiederherstellung nach Cyberbedrohungen</td></tr><tr><td><strong>Rapid Response Force (RRF)</strong></td><td>Multinationale EDA-Schnelleingreiftruppe für Krisen- und Hybridbedrohungen</td></tr></tbody></table>
 
@@ -5314,6 +5375,7 @@ Dieses Kapitel skizziert die Grundarchitektur einer Europäischen Verteidigungsa
 \newpage
 
 <a id="md-5-das-eda-konzept-5-1-vision-und-mission-der-europaischen-verteidigungsallianz-eda"></a>
+
 ## 5.1 Vision und Mission der Europäischen Verteidigungsallianz (EDA)
 
 _**Vision und Mission**_
@@ -5331,6 +5393,7 @@ Die European Defense Alliance (EDA) ist eine wertebasierte Verteidigungsarchitek
 \newpage
 
 <a id="md-5-das-eda-konzept-5-2-mitgliedschaft-und-organisationsstruktur"></a>
+
 ## 5.2 Mitgliedschaft und Organisationsstruktur
 
 _**Mitgliedschaft und Struktur**_
@@ -5363,6 +5426,7 @@ _**Mitgliedschaft und Struktur**_
 \newpage
 
 <a id="md-5-das-eda-konzept-5-3-prinzipien-und-verteidigungsdoktrin"></a>
+
 ## 5.3 Prinzipien und Verteidigungsdoktrin
 
 _**Verteidigungsprinzipien**_
@@ -5376,6 +5440,7 @@ _**Verteidigungsprinzipien**_
 \newpage
 
 <a id="md-5-das-eda-konzept-5-4-militarische-integration-und-gemeinsame-standards"></a>
+
 ## 5.4 Militärische Integration und gemeinsame Standards
 
 _**Militärische Integration**_
@@ -5390,6 +5455,7 @@ _**Militärische Integration**_
 \newpage
 
 <a id="md-5-das-eda-konzept-5-5-globale-koordination-und-verantwortung"></a>
+
 ## 5.5 Globale Koordination und Verantwortung
 
 _**Globale Koordination und Verantwortung**_
@@ -5404,6 +5470,7 @@ _**Globale Koordination und Verantwortung**_
 \newpage
 
 <a id="md-5-das-eda-konzept-5-6-synergien-und-konnektivitat"></a>
+
 ## 5.6 Synergien und Konnektivität
 
 _**Synergien und Konnektivität**_
@@ -5416,6 +5483,7 @@ _**Synergien und Konnektivität**_
 \newpage
 
 <a id="md-5-das-eda-konzept-5-7-kommandostruktur-und-operative-souveranitat"></a>
+
 ## 5.7 Kommandostruktur und operative Souveränität
 
 _**Kommandostruktur und operative Souveränität**_
@@ -5433,6 +5501,7 @@ _**Kommandostruktur und operative Souveränität**_
 \newpage
 
 <a id="md-5-das-eda-konzept-5-8-defense-sovereignty-nodes-dsns"></a>
+
 ## 5.8 Defense Sovereignty Nodes (DSNs)
 
 _**Defense Sovereignty Nodes (DSNs)**_
@@ -5557,6 +5626,7 @@ Modulare, schnell verlegbare Einsatzverbände (20.000–50.000 Kräfte), konzipi
 \newpage
 
 <a id="md-5-das-eda-konzept-5-9-unbemannte-und-autonome-systeme-drohnen-und-ki-integration"></a>
+
 ## 5.9 Unbemannte strategische Systeme und Drohnenkräfte
 
 _**Unbemannte strategische Systeme und Drohnenkräfte**_
@@ -5627,6 +5697,7 @@ Die EDF ist Europas Antwort auf moderne Kriegsführung: hochleistungsfähig, eth
 \newpage
 
 <a id="md-5-das-eda-konzept-5-10-nukleare-abschreckung-und-strategische-autonomie-readme"></a>
+
 ## 5.10 Nukleare Abschreckung und strategische Autonomie
 
 _**Strategische nukleare Abschreckungsfähigkeit**_
@@ -5640,7 +5711,8 @@ Zur Wahrung strategischer Autonomie und zum Schutz der territorialen Integrität
 \newpage
 
 <a id="md-5-das-eda-konzept-5-10-nukleare-abschreckung-und-strategische-autonomie-5-10-1-begrundung-und-grundsatze"></a>
-## 5.10.1 Begründung und Grundsätze
+
+### 5.10.1 Begründung und Grundsätze
 
 _Begründung und Grundsätze_
 
@@ -5652,7 +5724,8 @@ _Begründung und Grundsätze_
 \newpage
 
 <a id="md-5-das-eda-konzept-5-10-nukleare-abschreckung-und-strategische-autonomie-5-10-2-sofortmassnahmen-2025-2030"></a>
-## 5.10.2 Sofortmaßnahmen (2025–2030)
+
+### 5.10.2 Sofortmaßnahmen (2025–2030)
 
 _**Sofortmaßnahmen (2025–2030)**_
 
@@ -5663,7 +5736,8 @@ _**Sofortmaßnahmen (2025–2030)**_
 \newpage
 
 <a id="md-5-das-eda-konzept-5-10-nukleare-abschreckung-und-strategische-autonomie-5-10-3-mittelfristige-entwicklung-2030-2040"></a>
-## 5.10.3 Mittelfristige Entwicklung (2030–2040)
+
+### 5.10.3 Mittelfristige Entwicklung (2030–2040)
 
 _**Mittelfristige Entwicklung (2030–2040)**_
 
@@ -5675,7 +5749,8 @@ _**Mittelfristige Entwicklung (2030–2040)**_
 \newpage
 
 <a id="md-5-das-eda-konzept-5-10-nukleare-abschreckung-und-strategische-autonomie-5-10-4-langfristige-vision-2040-2050"></a>
-## 5.10.4 Langfristige Vision (2040–2050)
+
+### 5.10.4 Langfristige Vision (2040–2050)
 
 _**Langfristige Vision (2040–2050)**_
 
@@ -5687,7 +5762,8 @@ _**Langfristige Vision (2040–2050)**_
 \newpage
 
 <a id="md-5-das-eda-konzept-5-10-nukleare-abschreckung-und-strategische-autonomie-5-10-5-offentliche-kommunikation-und-ethische-grundlage"></a>
-## 5.10.5 Öffentliche Kommunikation und ethische Grundlage
+
+### 5.10.5 Öffentliche Kommunikation und ethische Grundlage
 
 _**Öffentliche Kommunikation und ethische Grundlage**_
 
@@ -5699,13 +5775,14 @@ Die nukleare Abschreckung der EDA wird als **minimalistische, rechtsstaatlich ge
 \newpage
 
 <a id="md-6-das-civitas-konzept-readme"></a>
-## 6. Das CIVITAS Konzept
+
+# 6. Das CIVITAS Konzept
 
 _**CIVITAS: Die digitale Agora Europas**_
 
 
 
-#### **📘 Executive Summary für Entscheidungsträger**
+### **📘 Executive Summary für Entscheidungsträger**
 
 **🎯 Ziel des Kapitels**\
 Schaffung einer digitalen Demokratieplattform (CIVITAS), die Bürgerbeteiligung stärkt, politische Entscheidungsprozesse transparenter macht und demokratische Kultur nachhaltig fördert.
@@ -5734,6 +5811,7 @@ Digitale Demokratie schafft mehr gesellschaftlichen Zusammenhalt, höhere politi
 \newpage
 
 <a id="md-6-das-civitas-konzept-6-1-leitidee-demokratie-im-digitalen-raum"></a>
+
 ## 6.1 Leitidee: Demokratie im digitalen Raum
 
 _**Leitidee: Demokratie im digitalen Raum**_
@@ -5748,6 +5826,7 @@ CIVITAS verbindet soziale Netzwerke mit rechtsstaatlicher Kontrolle, öffentlich
 \newpage
 
 <a id="md-6-das-civitas-konzept-6-2-tragerschaft-und-demokratische-kontrolle"></a>
+
 ## 6.2 Trägerschaft & demokratische Kontrolle
 
 _**Trägerschaft & demokratische Kontrolle**_
@@ -5763,6 +5842,7 @@ CIVITAS wird getragen von einer unabhängigen europäischen Stiftung unter parla
 \newpage
 
 <a id="md-6-das-civitas-konzept-6-3-technische-architektur-und-datenschutz"></a>
+
 ## 6.3 Technische Architektur und Datenschutz
 
 #### Technische Architektur
@@ -5778,6 +5858,7 @@ Die Architektur ist dezentral, Open Source und vollständig kompatibel mit dem F
 \newpage
 
 <a id="md-6-das-civitas-konzept-6-4-kernfunktionen-von-civitas"></a>
+
 ## 6.4 Kernfunktionen von CIVITAS
 
 _**Kernfunktionen von CIVITAS**_
@@ -5792,6 +5873,7 @@ _**Kernfunktionen von CIVITAS**_
 \newpage
 
 <a id="md-6-das-civitas-konzept-6-5-schutzmechanismen-und-rechtssicherheit"></a>
+
 ## 6.5 Schutzmechanismen & Rechtssicherheit
 
 _**Schutzmechanismen & Rechtssicherheit**_
@@ -5806,6 +5888,7 @@ _**Schutzmechanismen & Rechtssicherheit**_
 \newpage
 
 <a id="md-6-das-civitas-konzept-6-6-partnerschaften-und-globale-integration"></a>
+
 ## 6.6 Partnerschaften & globale Integration
 
 #### Partnerschaften & globale Integration
@@ -5821,6 +5904,7 @@ CIVITAS ist offen für die Zusammenarbeit mit:
 \newpage
 
 <a id="md-6-das-civitas-konzept-6-7-bildung-jugend-und-partizipation"></a>
+
 ## 6.7 Bildung, Jugend & demokratische Partizipation
 
 _**Bildung, Jugend & demokratische Partizipation**_
@@ -5836,6 +5920,7 @@ Demokratie lebt vom Mitmachen – besonders der jungen Generation:
 \newpage
 
 <a id="md-6-das-civitas-konzept-6-8-schlussgedanken"></a>
+
 ## 6.8 Schlussgedanken
 
 _**Schlussgedanken**_ 
@@ -5850,7 +5935,8 @@ CIVITAS ist mehr als ein technisches Projekt. Es ist ein strategischer Pfeiler d
 \newpage
 
 <a id="md-7-das-fortera-konzept-readme"></a>
-## 7. Das FORTERA Konzept
+
+# 7. Das FORTERA Konzept
 
 _**FORTERA – Die strategische Wirtschaftsarchitektur für ein demokratisches Europa - Wirtschaftliche Souveränität & globale Demokratiepartnerschaft**_
 
@@ -5858,7 +5944,7 @@ _Europas strategische Antwort auf ökonomischen Nationalismus_
 
 _Ein Konzept für demokratische Rechtsstaaten in der EU/ERDA und ihre internationalen Partner_
 
-#### **📘 Executive Summary für Entscheidungsträger**
+### **📘 Executive Summary für Entscheidungsträger**
 
 **🎯 Ziel des Kapitels**\
 Etablierung einer robusten, souveränen und nachhaltigen europäischen Wirtschaftsstruktur, die strategische Produktionskapazitäten sichert und Handelsabhängigkeiten reduziert.
@@ -5887,6 +5973,7 @@ Eine souveräne und nachhaltige Wirtschaft macht Europa zum globalen Vorreiter i
 \newpage
 
 <a id="md-7-das-fortera-konzept-7-1-ausgangslage-und-strategische-eckpfeiler"></a>
+
 ## 7.1 Ausgangslage und strategische Eckpfeiler
 
 _**Ausgangslage**_
@@ -5897,6 +5984,7 @@ Mit der Rückkehr ökonomisch-nationalistischer Kräfte – insbesondere im Kont
 \newpage
 
 <a id="md-7-das-fortera-konzept-7-2-ziel-des-konzepts"></a>
+
 ## 7.2 Ziel des Konzepts
 
 _**Ziel des Konzepts**_
@@ -5907,6 +5995,7 @@ Dieses Konzept bietet eine strukturierte Handlungsstrategie für demokratische R
 \newpage
 
 <a id="md-7-das-fortera-konzept-7-3-produktionssouveranitat-und-strategische-industriepolitik-readme"></a>
+
 ## 7.3 Produktionssouveränität und strategische Industriepolitik
 
 _**Produktionssouveränität und strategische Industriepolitik**_
@@ -5922,7 +6011,8 @@ _**Produktionssouveränität und strategische Industriepolitik**_
 \newpage
 
 <a id="md-7-das-fortera-konzept-7-3-produktionssouveranitat-und-strategische-industriepolitik-7-3-1-ubersicht-strategische-produktionsziele-europas-auszug"></a>
-## 7.3.1 Übersicht: Strategische Produktionsziele Europas (Auszug)
+
+### 7.3.1 Übersicht: Strategische Produktionsziele Europas (Auszug)
 
 _**Übersicht: Strategische Produktionsziele Europas (Auszug)**_
 
@@ -5932,7 +6022,8 @@ _**Übersicht: Strategische Produktionsziele Europas (Auszug)**_
 \newpage
 
 <a id="md-7-das-fortera-konzept-7-3-produktionssouveranitat-und-strategische-industriepolitik-7-3-2-quantifizierte-szenarien-zur-produktionssouveranitat-im-rahmen-von-fortera"></a>
-## 7.3.2 Quantifizierte Szenarien zur Produktionssouveränität im Rahmen von FORTERA
+
+### 7.3.2 Quantifizierte Szenarien zur Produktionssouveränität im Rahmen von FORTERA
 
 _**Quantifizierte Szenarien zur Produktionssouveränität im Rahmen von FORTERA**_
 
@@ -5970,7 +6061,8 @@ Folgende Industriesektoren wurden als besonders kritisch für Europas langfristi
 \newpage
 
 <a id="md-7-das-fortera-konzept-7-3-produktionssouveranitat-und-strategische-industriepolitik-7-3-3-herausforderungen-risiken-und-losungsansatze"></a>
-## 7.3.3 Herausforderungen, Risiken und Lösungsansätze
+
+### 7.3.3 Herausforderungen, Risiken und Lösungsansätze
 
 _**Herausforderungen, Risiken und Lösungsansätze**_
 
@@ -6003,7 +6095,8 @@ _**Herausforderungen, Risiken und Lösungsansätze**_
 \newpage
 
 <a id="md-7-das-fortera-konzept-7-3-produktionssouveranitat-und-strategische-industriepolitik-7-3-4-ubergangskosten-und-finanzierungsstrategie"></a>
-## 7.3.4 Übergangskosten und Finanzierungsstrategie
+
+### 7.3.4 Übergangskosten und Finanzierungsstrategie
 
 _**Übergangskosten und Finanzierungsstrategie**_
 
@@ -6027,7 +6120,8 @@ _**Übergangskosten und Finanzierungsstrategie**_
 \newpage
 
 <a id="md-7-das-fortera-konzept-7-3-produktionssouveranitat-und-strategische-industriepolitik-7-3-5-praktische-massnahmen-und-meilensteinplanung-2025-2050"></a>
-## 7.3.5 Praktische Maßnahmen- und Meilensteinplanung (2025–2050)
+
+### 7.3.5 Praktische Maßnahmen- und Meilensteinplanung (2025–2050)
 
 _**Praktische Maßnahmen- und Meilensteinplanung (2025–2050)**_
 
@@ -6049,7 +6143,8 @@ _**Praktische Maßnahmen- und Meilensteinplanung (2025–2050)**_
 \newpage
 
 <a id="md-7-das-fortera-konzept-7-3-produktionssouveranitat-und-strategische-industriepolitik-7-3-6-erfolgskontrolle-und-anpassungsmechanismen"></a>
-## 7.3.6 Erfolgskontrolle und Anpassungsmechanismen
+
+### 7.3.6 Erfolgskontrolle und Anpassungsmechanismen
 
 _**Erfolgskontrolle und Anpassungsmechanismen**_
 
@@ -6071,7 +6166,8 @@ _**Erfolgskontrolle und Anpassungsmechanismen**_
 \newpage
 
 <a id="md-7-das-fortera-konzept-7-3-produktionssouveranitat-und-strategische-industriepolitik-7-3-7-gesamtausblick-und-nutzen"></a>
-## 7.3.7 Gesamtausblick und Nutzen
+
+### 7.3.7 Gesamtausblick und Nutzen
 
 _**Gesamtausblick und Nutzen**_
 
@@ -6083,6 +6179,7 @@ Diese Investitionen ermöglichen Europa, sich von geopolitischen Unsicherheiten 
 \newpage
 
 <a id="md-7-das-fortera-konzept-7-4-aufbau-demokratischer-handelsallianzen-democracy-trade-network"></a>
+
 ## 7.4 Aufbau demokratischer Handelsallianzen („Democracy Trade Network“)
 
 _**Aufbau demokratischer Handelsallianzen („Add-On Global“)**_
@@ -6097,6 +6194,7 @@ _**Aufbau demokratischer Handelsallianzen („Add-On Global“)**_
 \newpage
 
 <a id="md-7-das-fortera-konzept-7-5-transatlantische-partnerschaft-neu-denken"></a>
+
 ## 7.5 Transatlantische Partnerschaft neu denken
 
 _**Transatlantische Partnerschaft neu denken**_
@@ -6113,6 +6211,7 @@ _**Transatlantische Partnerschaft neu denken**_
 \newpage
 
 <a id="md-7-das-fortera-konzept-7-6-defensivmechanismen-gegen-wirtschaftlichen-nationalismus"></a>
+
 ## 7.6 Defensivmechanismen gegen wirtschaftlichen Nationalismus
 
 _**Defensivinstrumente gegen wirtschaftliche Erpressung**_
@@ -6131,6 +6230,7 @@ _**Defensivinstrumente gegen wirtschaftliche Erpressung**_
 \newpage
 
 <a id="md-7-das-fortera-konzept-7-7-burgerbeteiligung-und-demokratische-wirtschaftskultur"></a>
+
 ## 7.7 Bürgerbeteiligung & demokratische Wirtschaftskultur
 
 _**Bürgerbeteiligung & demokratische Wirtschaftskultur**_
@@ -6145,6 +6245,7 @@ _**Bürgerbeteiligung & demokratische Wirtschaftskultur**_
 \newpage
 
 <a id="md-7-das-fortera-konzept-7-8-wirtschaftliche-resilienz-und-ethische-fundierung"></a>
+
 ## 7.8 Wirtschaftliche Resilienz und ethische Fundierung
 
 _**Philosophische Grundlage: Resilienz ist Freiheit**_
@@ -6161,6 +6262,7 @@ _**Philosophische Grundlage: Resilienz ist Freiheit**_
 \newpage
 
 <a id="md-7-das-fortera-konzept-7-9-schlussgedanken"></a>
+
 ## 7.9 Schlussgedanken
 
 _**Schlussgedanken**_
@@ -6171,13 +6273,14 @@ Dieses Dokument ist ein Aufruf zur **aktiven strategischen Selbstbehauptung Euro
 \newpage
 
 <a id="md-8-das-arktis-konzept-readme"></a>
-## 8. Das ARKTIS Konzept
+
+# 8. Das ARKTIS Konzept
 
 _**🧭 Zukunft Arktis – Ein demokratischer Plan für strategische Resilienz, Ressourcengerechtigkeit und planetare Verantwortung**_
 
 _Ein Handlungskonzept im Geist der ERDA (European Rights-Based Democratic Alliance)_
 
-#### **📘 Executive Summary für Entscheidungsträger**
+### **📘 Executive Summary für Entscheidungsträger**
 
 **🎯 Ziel des Kapitels**\
 Entwicklung einer nachhaltigen, demokratischen Arktisstrategie, die geopolitische Souveränität, Ressourcengerechtigkeit und ökologische Verantwortung vereint.
@@ -6202,7 +6305,7 @@ Entwicklung einer nachhaltigen, demokratischen Arktisstrategie, die geopolitisch
 **🌍 Visionärer Nutzen**\
 Eine demokratische Arktisstrategie positioniert Europa als Vorreiter einer verantwortlichen und gerechten globalen Ressourcenpolitik.
 
-#### _Glossar (Auszug, ERDA-spezifisch)_
+### _Glossar (Auszug, ERDA-spezifisch)_
 
 <table><thead><tr><th width="201.20001220703125">Begriff</th><th>Bedeutung</th></tr></thead><tbody><tr><td><strong>DSN</strong></td><td>Defense Sovereignty Node – autonome, regionale Verteidigungseinheit der EDA</td></tr><tr><td><strong>EDA</strong></td><td>European Defense Alliance – sicherheitspolitisches Rückgrat der ERDA</td></tr><tr><td><strong>ERDA</strong></td><td>European Rights-Based Democratic Alliance: Zukunftsorientierte Weiterentwicklung der heutigen EU zu einer föderalen Demokratieallianz mit gemeinsamer Verfassung, strategischer Souveränität, digitaler Teilhabe und globaler Verantwortung – jenseits der aktuellen Grenzen und Blockaden der Union.</td></tr><tr><td><strong>FORTERA</strong></td><td>Strategische Wirtschaftsarchitektur der ERDA für resiliente und faire Produktion</td></tr><tr><td><strong>CIVITAS</strong></td><td>Digitale Agora für demokratische Beteiligung und Transparenz in der ERDA</td></tr><tr><td><strong>IRIS²</strong></td><td>Europäisches Satellitensystem für sichere Kommunikation und Erdbeobachtung</td></tr><tr><td><strong>Arctic Democracy Mining Act</strong></td><td>Demokratisch reguliertes Rohstoffgesetz für arktische Regionen mit Umweltbindung</td></tr><tr><td><strong>Arctic Commons Charter</strong></td><td>Verfassungsbeilage zur nicht-ausbeuterischen Nutzung gemeinsamer arktischer Räume</td></tr><tr><td><strong>Arctic Resilience Observatory</strong></td><td>Daten-, Forschungs- und Frühwarnplattform zur Klimastabilität in der Arktis</td></tr></tbody></table>
 
@@ -6210,6 +6313,7 @@ Eine demokratische Arktisstrategie positioniert Europa als Vorreiter einer veran
 \newpage
 
 <a id="md-8-das-arktis-konzept-8-1-arktis-codex-ethik-der-arktischen-verantwortung"></a>
+
 ## 8.1 ARKTIS Codex – Ethik der arktischen Verantwortung
 
 _**ARKTIS Codex – Ethik der arktischen Verantwortung**_
@@ -6258,6 +6362,7 @@ Die Förderung eines umfassenden Verständnisses der ökologischen, kulturellen 
 \newpage
 
 <a id="md-8-das-arktis-konzept-8-2-ausgangslage"></a>
+
 ## 8.2 Ausgangslage
 
 _**Ausgangslage**_
@@ -6270,6 +6375,7 @@ Europa und seine demokratischen Partner müssen eine klare, wertegebundene Antwo
 \newpage
 
 <a id="md-8-das-arktis-konzept-8-3-leitprinzipien"></a>
+
 ## 8.3 Leitprinzipien
 
 _**Leitprinzipien**_
@@ -6284,6 +6390,7 @@ _**Leitprinzipien**_
 \newpage
 
 <a id="md-8-das-arktis-konzept-8-4-strategische-saulen-readme"></a>
+
 ## 8.4 Strategische Säulen
 
 _**Strategische Säulen**_
@@ -6293,7 +6400,8 @@ _**Strategische Säulen**_
 \newpage
 
 <a id="md-8-das-arktis-konzept-8-4-strategische-saulen-8-4-1-geopolitische-souveranitat-eda-arktisstrategie"></a>
-## 8.4.1 Geopolitische Souveränität (EDA-Arktisstrategie)
+
+### 8.4.1 Geopolitische Souveränität (EDA-Arktisstrategie)
 
 _**Geopolitische Souveränität (EDA-Arktisstrategie)**_
 
@@ -6306,7 +6414,8 @@ _**Geopolitische Souveränität (EDA-Arktisstrategie)**_
 \newpage
 
 <a id="md-8-das-arktis-konzept-8-4-strategische-saulen-8-4-2-demokratische-ressourcenpartnerschaften-fortera"></a>
-## 8.4.2 Demokratische Ressourcenpartnerschaften (FORTERA)
+
+### 8.4.2 Demokratische Ressourcenpartnerschaften (FORTERA)
 
 **Demokratische Ressourcenpartnerschaften (FORTERA)**
 
@@ -6318,7 +6427,8 @@ _**Geopolitische Souveränität (EDA-Arktisstrategie)**_
 \newpage
 
 <a id="md-8-das-arktis-konzept-8-4-strategische-saulen-8-4-3-wissenschaft-und-klimaethik"></a>
-## 8.4.3 Wissenschaft und Klimaethik
+
+### 8.4.3 Wissenschaft und Klimaethik
 
 _**Wissenschaft und Klimaethik**_
 
@@ -6330,7 +6440,8 @@ _**Wissenschaft und Klimaethik**_
 \newpage
 
 <a id="md-8-das-arktis-konzept-8-4-strategische-saulen-8-4-4-infrastruktur-and-datenhoheit"></a>
-## 8.4.4 Infrastruktur & Datenhoheit
+
+### 8.4.4 Infrastruktur & Datenhoheit
 
 _**Infrastruktur & Datenhoheit**_
 
@@ -6342,7 +6453,8 @@ _**Infrastruktur & Datenhoheit**_
 \newpage
 
 <a id="md-8-das-arktis-konzept-8-4-strategische-saulen-8-4-5-kulturelle-und-indigene-dimension"></a>
-## 8.4.5 Kulturelle und indigene Dimension
+
+### 8.4.5 Kulturelle und indigene Dimension
 
 _**Kulturelle und indigene Dimension**_
 
@@ -6354,6 +6466,7 @@ _**Kulturelle und indigene Dimension**_
 \newpage
 
 <a id="md-8-das-arktis-konzept-8-5-massnahmenkatalog-auswahl"></a>
+
 ## 8.5 Maßnahmenkatalog (Auswahl)
 
 _**Maßnahmenkatalog (Auswahl)**_
@@ -6366,6 +6479,7 @@ _**Maßnahmenkatalog (Auswahl)**_
 \newpage
 
 <a id="md-8-das-arktis-konzept-8-6-kommunikationsstrategie"></a>
+
 ## 8.6 Kommunikationsstrategie
 
 _**Kommunikationsstrategie**_
@@ -6379,6 +6493,7 @@ _**Kommunikationsstrategie**_
 \newpage
 
 <a id="md-8-das-arktis-konzept-8-7-schlussgedanke"></a>
+
 ## 8.7 Schlussgedanke
 
 _**Schlussgedanke**_
@@ -6389,12 +6504,13 @@ _**Schlussgedanke**_
 \newpage
 
 <a id="md-9-das-space-konzept-readme"></a>
-## 9. Das SPACE Konzept
+
+# 9. Das SPACE Konzept
 
 _**Das SPACE Konzept**_\
 
 
-#### 📘 **Executive Summary für Entscheidungsträger**
+### 📘 **Executive Summary für Entscheidungsträger**
 
 ***
 
@@ -6459,6 +6575,7 @@ Dieses Kapitel entwirft eine zukunftsorientierte, demokratisch legitimierte Raum
 \newpage
 
 <a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-readme"></a>
+
 ## 9.1 ERDA Codex für kosmische Verantwortung
 
 _**ERDA-Codex für kosmische Verantwortung**_
@@ -6469,7 +6586,8 @@ _Ein Leitfaden für eine demokratisch geregelte, gerechte und nachhaltige Raumfa
 \newpage
 
 <a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-1-praambel"></a>
-## 9.1.1 Präambel
+
+### 9.1.1 Präambel
 
 _**Präambel**_
 
@@ -6482,7 +6600,8 @@ Im Geiste der _European Rights-Based Democratic Alliance (ERDA)_ und getragen vo
 \newpage
 
 <a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-2-grundsatze-readme"></a>
-## 9.1.2 Grundsätze
+
+### 9.1.2 Grundsätze
 
 _**Grundsätze**_
 
@@ -6490,7 +6609,8 @@ _**Grundsätze**_
 \newpage
 
 <a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-2-grundsatze-9-1-2-1-menschenwurde-und-rechtsstaatlichkeit-gelten-auch-im-all"></a>
-## 9.1.2.1 Menschenwürde und Rechtsstaatlichkeit gelten auch im All
+
+#### 9.1.2.1 Menschenwürde und Rechtsstaatlichkeit gelten auch im All
 
 _**Menschenwürde und Rechtsstaatlichkeit gelten auch im All**_
 
@@ -6500,7 +6620,8 @@ Jeder Mensch behält seine unveräußerlichen Rechte – unabhängig vom Aufenth
 \newpage
 
 <a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-2-grundsatze-9-1-2-2-der-weltraum-ist-allmende-kein-privateigentum"></a>
-## 9.1.2.2 Der Weltraum ist Allmende – kein Privateigentum
+
+#### 9.1.2.2 Der Weltraum ist Allmende – kein Privateigentum
 
 _**Der Weltraum ist Allmende – kein Privateigentum**_
 
@@ -6510,7 +6631,8 @@ Alle natürlichen Ressourcen jenseits der Erde gelten als gemeinsames Erbe der M
 \newpage
 
 <a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-2-grundsatze-9-1-2-3-keine-militarisierung-ohne-demokratische-kontrolle"></a>
-## 9.1.2.3 Keine Militarisierung ohne demokratische Kontrolle
+
+#### 9.1.2.3 Keine Militarisierung ohne demokratische Kontrolle
 
 _**Keine Militarisierung ohne demokratische Kontrolle**_
 
@@ -6520,7 +6642,8 @@ Sicherheit im All ist Aufgabe demokratischer Ordnungsstrukturen. Militärische P
 \newpage
 
 <a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-2-grundsatze-9-1-2-4-technologische-offenheit-und-wissensfreiheit"></a>
-## 9.1.2.4 Technologische Offenheit und Wissensfreiheit
+
+#### 9.1.2.4 Technologische Offenheit und Wissensfreiheit
 
 _**Technologische Offenheit und Wissensfreiheit**_
 
@@ -6530,7 +6653,8 @@ Wissenschaftliche Ergebnisse aus öffentlichen Missionen müssen offen zugängli
 \newpage
 
 <a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-2-grundsatze-9-1-2-5-nachhaltigkeit-uber-generationen-hinweg"></a>
-## 9.1.2.5 Nachhaltigkeit über Generationen hinweg
+
+#### 9.1.2.5 Nachhaltigkeit über Generationen hinweg
 
 _**Nachhaltigkeit über Generationen hinweg**_
 
@@ -6540,7 +6664,8 @@ Jede Raumfahrtmission muss mit dem Ziel geplant, gebaut und betrieben werden, di
 \newpage
 
 <a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-2-grundsatze-9-1-2-6-gerechtigkeit-fur-alle-lebensformen"></a>
-## 9.1.2.6 Gerechtigkeit für alle Lebensformen
+
+#### 9.1.2.6 Gerechtigkeit für alle Lebensformen
 
 _**Gerechtigkeit für alle Lebensformen**_
 
@@ -6550,7 +6675,8 @@ Alle vom Sonnensystem abstammenden Lebensformen haben ein natürliches Lebensrec
 \newpage
 
 <a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-2-grundsatze-9-1-2-7-besucherprinzip-fur-aussersolare-intelligenz"></a>
-## 9.1.2.7 Besucherprinzip für außersolare Intelligenz
+
+#### 9.1.2.7 Besucherprinzip für außersolare Intelligenz
 
 _**Besucherprinzip für außersolare Intelligenz**_
 
@@ -6560,7 +6686,8 @@ Spezies, die nicht dem Sonnensystem entstammen, werden wie Gäste eines demokrat
 \newpage
 
 <a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-2-grundsatze-9-1-2-8-ressourcen-gehoren-den-naturlichen-inhabitanten"></a>
-## 9.1.2.8 Ressourcen gehören den natürlichen Inhabitanten
+
+#### 9.1.2.8 Ressourcen gehören den natürlichen Inhabitanten
 
 _**Ressourcen gehören den natürlichen Inhabitanten**_
 
@@ -6570,7 +6697,8 @@ Die Rohstoffe, Materialien und energetischen Potenziale des Sonnensystems stehen
 \newpage
 
 <a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-3-aufbau-einer-solar-alliance-readme"></a>
-## 9.1.3 Aufbau einer SOLAR ALLIANCE
+
+### 9.1.3 Aufbau einer SOLAR ALLIANCE
 
 _**Aufbau einer SOLAR ALLIANCE**_\
 \
@@ -6580,7 +6708,8 @@ _&#x53;ie soll demokratisch und rechtsstaatlich sein. Ein lebender Zivilisations
 \newpage
 
 <a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-3-aufbau-einer-solar-alliance-9-1-3-1-kodifizierung-als-kosmosrecht"></a>
-## 9.1.3.1 Kodifizierung als Kosmosrecht
+
+#### 9.1.3.1 Kodifizierung als Kosmosrecht
 
 _**Kodifizierung als Kosmosrecht**_
 
@@ -6591,7 +6720,8 @@ Diese Grundsätze werden in ein völkerrechtlich kodifiziertes Kosmosrecht über
 \newpage
 
 <a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-3-aufbau-einer-solar-alliance-9-1-3-2-vorbereitung-der-grundung-bis-2028"></a>
-## 9.1.3.2 Vorbereitung der Gründung bis 2028
+
+#### 9.1.3.2 Vorbereitung der Gründung bis 2028
 
 _**Vorbereitung der Gründung bis 2028**_
 
@@ -6601,7 +6731,8 @@ Die **SOLAR ALLIANCE** soll als transnationale Initiative demokratischer Staaten
 \newpage
 
 <a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-4-kosmisches-seerecht-und-ordnung-readme"></a>
-## 9.1.4 Kosmisches Seerecht und Ordnung
+
+### 9.1.4 Kosmisches Seerecht und Ordnung
 
 _**Kosmisches Seerecht und Ordnung**_
 
@@ -6609,7 +6740,8 @@ _**Kosmisches Seerecht und Ordnung**_
 \newpage
 
 <a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-4-kosmisches-seerecht-und-ordnung-9-1-4-1-kodifizierung-fundamentaler-prinzipien"></a>
-## 9.1.4.1 Kodifizierung fundamentaler Prinzipien
+
+#### 9.1.4.1 Kodifizierung fundamentaler Prinzipien
 
 _**Kodifizierung fundamentaler Prinzipien**_
 
@@ -6627,7 +6759,8 @@ Diese Prinzipien sollen in ein _kodifiziertes Kosmosrecht_ überführt und durch
 \newpage
 
 <a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-5-schlussformel"></a>
-## 9.1.5 Schlussformel
+
+### 9.1.5 Schlussformel
 
 _**Schlussformel**_
 
@@ -6637,6 +6770,7 @@ _**Schlussformel**_
 \newpage
 
 <a id="md-9-das-space-konzept-9-2-vom-seerecht-zum-kosmosrecht-readme"></a>
+
 ## 9.2 Vom Seerecht zum Kosmosrecht
 
 _**Vom Seerecht zum Kosmosrecht – Natürliche Verlangen des geordneten Miteinanders und ihre rechtsstaatliche Projektion im All**_
@@ -6649,7 +6783,8 @@ _**Vom Seerecht zum Kosmosrecht – Natürliche Verlangen des geordneten Miteina
 \newpage
 
 <a id="md-9-das-space-konzept-9-2-vom-seerecht-zum-kosmosrecht-9-2-1-naturliche-verlangen-im-offenen-raum-meer-oder-all"></a>
-## 9.2.1 Natürliche Verlangen im offenen Raum (Meer oder All)
+
+### 9.2.1 Natürliche Verlangen im offenen Raum (Meer oder All)
 
 _**Natürliche Verlangen im offenen Raum (Meer oder All)**_
 
@@ -6674,7 +6809,8 @@ Im ERDA-Kontext werden sie nicht als bloße Appelle behandelt, sondern als norma
 \newpage
 
 <a id="md-9-das-space-konzept-9-2-vom-seerecht-zum-kosmosrecht-9-2-2-die-pra-demokratische-zivilisation"></a>
-## 9.2.2 Die prä-demokratische Zivilisation
+
+### 9.2.2 Die prä-demokratische Zivilisation
 
 _**Die prä-demokratische Zivilisation**_
 
@@ -6692,7 +6828,8 @@ Der Weg der ERDA führt bewusst aus dieser Phase hinaus – durch Rechtsbindung,
 \newpage
 
 <a id="md-9-das-space-konzept-9-2-vom-seerecht-zum-kosmosrecht-9-2-3-die-gegenwartige-zivilisation-auch-in-ihrer-demokratischen-reife"></a>
-## 9.2.3 Die gegenwärtige Zivilisation – auch in ihrer demokratischen Reife
+
+### 9.2.3 Die gegenwärtige Zivilisation – auch in ihrer demokratischen Reife
 
 _**Die gegenwärtige Zivilisation – auch in ihrer demokratischen Reife**_
 
@@ -6716,7 +6853,8 @@ Doch gerade diese Reifephase bietet die Chance zur Umkehr: In der demokratischen
 \newpage
 
 <a id="md-9-das-space-konzept-9-2-vom-seerecht-zum-kosmosrecht-9-2-4-uberblick-bisherige-rechtsordnungen-im-vergleich"></a>
-## 9.2.4 Überblick – Bisherige Rechtsordnungen im Vergleich
+
+### 9.2.4 Überblick – Bisherige Rechtsordnungen im Vergleich
 
 _**Überblick – Bisherige Rechtsordnungen im Vergleich**_
 
@@ -6741,7 +6879,8 @@ Der Weg zu einer SOLAR ALLIANCE beginnt mit der Übertragung der bewährten Prin
 \newpage
 
 <a id="md-9-das-space-konzept-9-2-vom-seerecht-zum-kosmosrecht-9-2-5-der-entwicklungsbogen-zur-solar-alliance"></a>
-## 9.2.5 Der Entwicklungsbogen zur Solar Alliance
+
+### 9.2.5 Der Entwicklungsbogen zur Solar Alliance
 
 _**Der Entwicklungsbogen zur Solar Alliance**_
 
@@ -6776,6 +6915,7 @@ Diese Allianz wäre kein Weltstaat, sondern eine kosmopolitische Rahmensetzung �
 \newpage
 
 <a id="md-9-das-space-konzept-9-3-die-institutionen-der-solar-alliance-readme"></a>
+
 ## 9.3 Die Institutionen der SOLAR ALLIANCE
 
 _**Die Institutionen der SOLAR ALLIANCE**_
@@ -6786,7 +6926,8 @@ _Die Solar Alliance ist mehr als ein multilaterales Abkommen. Sie ist eine insti
 \newpage
 
 <a id="md-9-das-space-konzept-9-3-die-institutionen-der-solar-alliance-9-3-1-legislative-das-solar-parlament"></a>
-## 9.3.1 Legislative: Das SOLAR PARLAMENT
+
+### 9.3.1 Legislative: Das SOLAR PARLAMENT
 
 _**Legislative: Das SOLAR PARLAMENT**_
 
@@ -6802,7 +6943,8 @@ Die Stimmverteilung erfolgt nach einem gemischten Prinzip aus Bevölkerungsantei
 \newpage
 
 <a id="md-9-das-space-konzept-9-3-die-institutionen-der-solar-alliance-9-3-2-exekutive-der-allianzrat"></a>
-## 9.3.2 Exekutive: Der ALLIANZRAT
+
+### 9.3.2 Exekutive: Der ALLIANZRAT
 
 _**Exekutive: Der ALLIANZRAT**_
 
@@ -6818,7 +6960,8 @@ Er besteht aus einem Gremium von Fachkommissar:innen, die über konkrete Mandate
 \newpage
 
 <a id="md-9-das-space-konzept-9-3-die-institutionen-der-solar-alliance-9-3-3-judikative-die-raumrechtskammer"></a>
-## 9.3.3 Judikative: Die Raumrechtskammer
+
+### 9.3.3 Judikative: Die Raumrechtskammer
 
 _**Judikative: Die Raumrechtskammer**_
 
@@ -6834,7 +6977,8 @@ Sie kann öffentlich tagen und hat Zugriff auf ein Netzwerk orbitaler Schiedsste
 \newpage
 
 <a id="md-9-das-space-konzept-9-3-die-institutionen-der-solar-alliance-9-3-4-sicherheitskrafte-orbitaler-zivilschutz-and-notfallkoordination"></a>
-## 9.3.4 Sicherheitskräfte: Orbitaler Zivilschutz & Notfallkoordination
+
+### 9.3.4 Sicherheitskräfte: Orbitaler Zivilschutz & Notfallkoordination
 
 _**Sicherheitskräfte: Orbitaler Zivilschutz & Notfallkoordination**_
 
@@ -6850,7 +6994,8 @@ Es gibt keine offensive Bewaffnung – die Sicherheitsmodule sind defensiv, dees
 \newpage
 
 <a id="md-9-das-space-konzept-9-3-die-institutionen-der-solar-alliance-9-3-5-interplanetarer-rat-fur-lebensrechte"></a>
-## 9.3.5 Interplanetarer Rat für Lebensrechte
+
+### 9.3.5 Interplanetarer Rat für Lebensrechte
 
 _**Interplanetarer Rat für Lebensrechte**_
 
@@ -6866,7 +7011,8 @@ Er arbeitet mit Forschungseinrichtungen, Philosoph:innen, Ethikgremien und Umwel
 \newpage
 
 <a id="md-9-das-space-konzept-9-3-die-institutionen-der-solar-alliance-9-3-6-schiedsgericht-fur-ressourcen-und-zugangsfragen"></a>
-## 9.3.6 Schiedsgericht für Ressourcen- und Zugangsfragen
+
+### 9.3.6 Schiedsgericht für Ressourcen- und Zugangsfragen
 
 _**Schiedsgericht für Ressourcen- und Zugangsfragen**_
 
@@ -6883,7 +7029,8 @@ Es entscheidet auf Basis des Solar Codex, mit Rücksicht auf technische Machbark
 \newpage
 
 <a id="md-9-das-space-konzept-9-3-die-institutionen-der-solar-alliance-9-3-7-demokratische-kontrollmechanismen"></a>
-## 9.3.7 Demokratische Kontrollmechanismen
+
+### 9.3.7 Demokratische Kontrollmechanismen
 
 _**Demokratische Kontrollmechanismen**_
 
@@ -6900,7 +7047,8 @@ Die Solar Alliance baut auf Partizipation. Sie etabliert:
 \newpage
 
 <a id="md-9-das-space-konzept-9-3-die-institutionen-der-solar-alliance-9-3-8-demokratische-solar-defense-force"></a>
-## 9.3.8 Demokratische Solar Defense Force
+
+### 9.3.8 Demokratische Solar Defense Force
 
 _**Demokratische Solar Defense Force**_
 
@@ -6920,6 +7068,7 @@ Diese Force steht unter der Kontrolle des SOLAR PARLAMENTS, unterliegt permanent
 \newpage
 
 <a id="md-9-das-space-konzept-9-4-wozu-raumfahrt-strategische-und-zivilisatorische-motive-im-geist-der-erda-readme"></a>
+
 ## 9.4 Wozu Raumfahrt? – Strategische und zivilisatorische Motive im Geist der ERDA
 
 _**Wozu Raumfahrt? – Strategische und zivilisatorische Motive im Geist der ERDA**_
@@ -6934,7 +7083,8 @@ _Die Frage, wozu Raumfahrt?, ist keine technische, sondern eine zivilisatorische
 \newpage
 
 <a id="md-9-das-space-konzept-9-4-wozu-raumfahrt-strategische-und-zivilisatorische-motive-im-geist-der-erda-9-4-1-strategische-notwendigkeiten"></a>
-## 9.4.1 Strategische Notwendigkeiten
+
+### 9.4.1 Strategische Notwendigkeiten
 
 _**Strategische Notwendigkeiten**_
 
@@ -6959,7 +7109,8 @@ _**Strategische Notwendigkeiten**_
 \newpage
 
 <a id="md-9-das-space-konzept-9-4-wozu-raumfahrt-strategische-und-zivilisatorische-motive-im-geist-der-erda-9-4-2-zivilisatorische-motive"></a>
-## 9.4.2 Zivilisatorische Motive
+
+### 9.4.2 Zivilisatorische Motive
 
 _**Zivilisatorische Motive**_
 
@@ -6985,7 +7136,8 @@ _**Zivilisatorische Motive**_
 \newpage
 
 <a id="md-9-das-space-konzept-9-4-wozu-raumfahrt-strategische-und-zivilisatorische-motive-im-geist-der-erda-9-4-3-geistige-verantwortung-im-all"></a>
-## 9.4.3 Geistige Verantwortung im All
+
+### 9.4.3 Geistige Verantwortung im All
 
 _**Geistige Verantwortung im All**_
 
@@ -7017,6 +7169,7 @@ _**Geistige Verantwortung im All**_
 \newpage
 
 <a id="md-9-das-space-konzept-9-5-interlude-einladung-an-das-was-wir-werden-konnen"></a>
+
 ## 9.5 Interlude: Einladung an das, was wir werden können
 
 _**Interlude: Einladung an das, was wir werden können**_
@@ -7055,6 +7208,7 @@ Und wir blicken auf die Zeit: 2025 bis 2075. Nicht als Science Fiction, sondern 
 \newpage
 
 <a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-readme"></a>
+
 ## 9.6 Infrastrukturen bis 2075
 
 _**Infrastrukturen bis 2075**_
@@ -7063,7 +7217,8 @@ _**Infrastrukturen bis 2075**_
 \newpage
 
 <a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-1-operationalisierung-readme"></a>
-## 9.6.1 Operationalisierung
+
+### 9.6.1 Operationalisierung
 
 _**Operationalisierung – Strategische Voraussetzungen zur Umsetzung des SOLAR ALLIANCE Rauminfrastrukturen**_
 
@@ -7073,7 +7228,8 @@ _Diese Empfehlungen setzen an verschiedenen Hebeln an – von der Zieldefinition
 \newpage
 
 <a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-1-operationalisierung-9-6-1-1-zieldefinition-und-zeitplanung-fur-die-rauminfrastrukturen"></a>
-## 9.6.1.1 Zieldefinition und Zeitplanung für die Rauminfrastrukturen
+
+#### 9.6.1.1 Zieldefinition und Zeitplanung für die Rauminfrastrukturen
 
 _**Zieldefinition und Zeitplanung für die Rauminfrastrukturen**_
 
@@ -7085,7 +7241,8 @@ _**Zieldefinition und Zeitplanung für die Rauminfrastrukturen**_
 \newpage
 
 <a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-1-operationalisierung-9-6-1-2-finanzierung-und-organisation-uber-solar-alliance-mitgliedsstaaten-und-koalitionen"></a>
-## 9.6.1.2 Finanzierung und Organisation über SOLAR ALLIANCE-Mitgliedsstaaten und Koalitionen
+
+#### 9.6.1.2 Finanzierung und Organisation über SOLAR ALLIANCE-Mitgliedsstaaten und Koalitionen
 
 _**Finanzierung und Organisation über SOLAR ALLIANCE-Mitgliedsstaaten und Koalitionen**_
 
@@ -7097,7 +7254,8 @@ _**Finanzierung und Organisation über SOLAR ALLIANCE-Mitgliedsstaaten und Koali
 \newpage
 
 <a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-1-operationalisierung-9-6-1-3-governance-strukturen-und-projektmanagement"></a>
-## 9.6.1.3 Governance-Strukturen und Projektmanagement
+
+#### 9.6.1.3 Governance-Strukturen und Projektmanagement
 
 _**Governance-Strukturen und Projektmanagement**_
 
@@ -7109,7 +7267,8 @@ _**Governance-Strukturen und Projektmanagement**_
 \newpage
 
 <a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-1-operationalisierung-9-6-1-4-technische-konzepte-und-sicherheitsstandards"></a>
-## 9.6.1.4 Technische Konzepte und Sicherheitsstandards
+
+#### 9.6.1.4 Technische Konzepte und Sicherheitsstandards
 
 _**Technische Konzepte und Sicherheitsstandards**_
 
@@ -7121,7 +7280,8 @@ _**Technische Konzepte und Sicherheitsstandards**_
 \newpage
 
 <a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-1-operationalisierung-9-6-1-5-internationale-kooperation-und-burgerpartizipation"></a>
-## 9.6.1.5 Internationale Kooperation und Bürgerpartizipation
+
+#### 9.6.1.5 Internationale Kooperation und Bürgerpartizipation
 
 _**Internationale Kooperation und Bürgerpartizipation**_
 
@@ -7133,7 +7293,8 @@ _**Internationale Kooperation und Bürgerpartizipation**_
 \newpage
 
 <a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-2-hier-die-mogliche-losung-readme"></a>
-## 9.6.2 Hier die mögliche Lösung
+
+### 9.6.2 Hier die mögliche Lösung
 
 _**Hier die mögliche Lösung**_
 
@@ -7149,7 +7310,8 @@ _Kapitel 5.2. ist damit die Brücke zwischen Vision (Kapitel 5.1.) und Ausprägu
 \newpage
 
 <a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-2-hier-die-mogliche-losung-9-6-2-1-der-solar-alliance-infrastrukturplan-2030-2075"></a>
-## 9.6.2.1 Der SOLAR ALLIANCE INFRASTRUKTURPLAN 2030–2075
+
+#### 9.6.2.1 Der SOLAR ALLIANCE INFRASTRUKTURPLAN 2030–2075
 
 _**Der SOLAR ALLIANCE INFRASTRUKTURPLAN 2030–2075**_
 
@@ -7166,7 +7328,8 @@ _**Der SOLAR ALLIANCE INFRASTRUKTURPLAN 2030–2075**_
 \newpage
 
 <a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-2-hier-die-mogliche-losung-9-6-2-2-transformationsfonds-und-modulforderung"></a>
-## 9.6.2.2 Transformationsfonds und Modulförderung
+
+#### 9.6.2.2 Transformationsfonds und Modulförderung
 
 _**Transformationsfonds und Modulförderung**_
 
@@ -7180,7 +7343,8 @@ _**Transformationsfonds und Modulförderung**_
 \newpage
 
 <a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-2-hier-die-mogliche-losung-9-6-2-3-institutionelle-tragerschaft-und-governance"></a>
-## 9.6.2.3 Institutionelle Trägerschaft und Governance
+
+#### 9.6.2.3 Institutionelle Trägerschaft und Governance
 
 _**Institutionelle Trägerschaft und Governance**_
 
@@ -7193,7 +7357,8 @@ _**Institutionelle Trägerschaft und Governance**_
 \newpage
 
 <a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-2-hier-die-mogliche-losung-9-6-2-4-technologisches-kernsystem"></a>
-## 9.6.2.4 Technologisches Kernsystem
+
+#### 9.6.2.4 Technologisches Kernsystem
 
 _**Technologisches Kernsystem**_
 
@@ -7205,7 +7370,8 @@ _**Technologisches Kernsystem**_
 \newpage
 
 <a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-2-hier-die-mogliche-losung-9-6-2-5-internationale-integration-and-burgerzugang"></a>
-## 9.6.2.5 Internationale Integration & Bürgerzugang
+
+#### 9.6.2.5 Internationale Integration & Bürgerzugang
 
 _**Internationale Integration & Bürgerzugang**_
 
@@ -7217,7 +7383,8 @@ _**Internationale Integration & Bürgerzugang**_
 \newpage
 
 <a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-3-sphere-station-earth-one"></a>
-## 9.6.3 Sphere Station EARTH ONE
+
+### 9.6.3 Sphere Station EARTH ONE
 
 _**Sphere Station EARTH ONE**_
 
@@ -7227,7 +7394,7 @@ Die Sphere Station EARTH ONE ist die erste vollentwickelte Raumplattform der Sol
 
 ***
 
-##### Lage & Grundstruktur
+###### Lage & Grundstruktur
 
 * **Orbit:** Geostationäre Umlaufbahn, synchronisiert über Äquatorhöhe
 * **Kapazität:** Bis zu 700 Personen dauerhaft plus 100 Gäste
@@ -7236,7 +7403,7 @@ Die Sphere Station EARTH ONE ist die erste vollentwickelte Raumplattform der Sol
 
 ***
 
-##### Technische Architektur
+###### Technische Architektur
 
 * **Energie:** Kombination aus Solararrays und zwei SMR-Kleinreaktoren (je 60 MW) mit thermischer Rückgewinnung
 * **Kommunikation:** Hochgeschwindigkeits-Link zur Erde und zu weiteren Stationen (LUNAR, CIVITAS-Netz)
@@ -7246,7 +7413,7 @@ Die Sphere Station EARTH ONE ist die erste vollentwickelte Raumplattform der Sol
 
 ***
 
-##### Funktionen & Nutzung
+###### Funktionen & Nutzung
 
 * **Forschungslabore:** Mikrogravitation, Umweltüberwachung, Materialtests
 * **Bildung:** Orbitale Universitätsprogramme in Kooperation mit ERDA-Partnerstaaten
@@ -7256,7 +7423,7 @@ Die Sphere Station EARTH ONE ist die erste vollentwickelte Raumplattform der Sol
 
 ***
 
-##### Gesellschaftliche Struktur
+###### Gesellschaftliche Struktur
 
 * **Besatzung:** Wissenschaftler:innen, Techniker:innen, Mediator:innen, Künstler:innen, Lehrende, Handelnde, Reisende
 * **Regelbetrieb:** Rotationszyklen (6–12 Monate), inklusive Familienprogramme und Erholungsräume
@@ -7265,7 +7432,7 @@ Die Sphere Station EARTH ONE ist die erste vollentwickelte Raumplattform der Sol
 
 ***
 
-##### Symbolik & Bedeutung
+###### Symbolik & Bedeutung
 
 EARTH ONE ist mehr als Infrastruktur. Sie ist Ausdruck der Überzeugung, dass Technologie nicht allein Beherrschung bedeutet, sondern Ermöglichung. Ihr Blick auf die Erde ist kein Kontrollinstrument, sondern ein Spiegel unseres Gewissens.
 
@@ -7275,7 +7442,8 @@ EARTH ONE ist mehr als Infrastruktur. Sie ist Ausdruck der Überzeugung, dass Te
 \newpage
 
 <a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-4-sphere-station-lunar-one"></a>
-## 9.6.4 Sphere Station LUNAR ONE
+
+### 9.6.4 Sphere Station LUNAR ONE
 
 _**Sphere Station LUNAR ONE**_
 
@@ -7285,7 +7453,7 @@ Die Sphere Station LUNAR ONE markiert die zweite Hauptstruktur des orbitalen Net
 
 ***
 
-##### Lage & Grundstruktur
+###### Lage & Grundstruktur
 
 * **Orbit:** Polarstabilisierter Mondorbit (Niedrig–Mittelhöhe), mit synchronisierten Fensterintervallen zur Mondbasis, EARTH ONE und Marsfenstern
 * **Kapazität:** Bis zu 400 Personen + 80 temporäre Transitgäste + 300 Mondstationierte bzw. deren Familien
@@ -7294,7 +7462,7 @@ Die Sphere Station LUNAR ONE markiert die zweite Hauptstruktur des orbitalen Net
 
 ***
 
-##### Technische Architektur
+###### Technische Architektur
 
 * **Energie:** Kombination aus Solararrays und zwei SMR-Kleinreaktoren (je 60 MW) mit thermischer Rückgewinnung
 * **Kommunikation:** Langstreckenvernetzung mit Mars-Cyclern, EARTH ONE, Mondoberfläche
@@ -7303,7 +7471,7 @@ Die Sphere Station LUNAR ONE markiert die zweite Hauptstruktur des orbitalen Net
 
 ***
 
-##### Funktionen & Nutzung
+###### Funktionen & Nutzung
 
 * **Tiefraumlogistik:** Vorbereitung, Tankung, Versorgung und Umladung für Mars- und Asteroideneinheiten
 * **Lunarplattform-Schnittstelle:** Permanente Kommunikations- und Transportverbindung zu Mondbasen
@@ -7313,7 +7481,7 @@ Die Sphere Station LUNAR ONE markiert die zweite Hauptstruktur des orbitalen Net
 
 ***
 
-##### Gesellschaftliche Struktur
+###### Gesellschaftliche Struktur
 
 * **Bewohnerspektrum:** Techniker:Innen, Transitreisende, Deep-Space-Vorbereitungsteams, Kulturbeauftragte
 * **Soziales System:** Rotations- und Entsendeprinzip mit freiwilligem Langzeiteinsatz bis zu 18 Monaten
@@ -7322,7 +7490,7 @@ Die Sphere Station LUNAR ONE markiert die zweite Hauptstruktur des orbitalen Net
 
 ***
 
-##### Symbolik & Bedeutung
+###### Symbolik & Bedeutung
 
 LUNAR ONE steht an der Schwelle – zwischen Planet und Tiefe, zwischen Geschichte und Zukunft.
 \
@@ -7334,7 +7502,8 @@ Sie ist ein Ort der Übergänge: von Gravitation zu Schwerelosigkeit, von Vorsic
 \newpage
 
 <a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-5-sphere-station-belt-living-one"></a>
-## 9.6.5 Sphere Station BELT LIVING ONE
+
+### 9.6.5 Sphere Station BELT LIVING ONE
 
 _**Sphere Station BELT LIVING ONE**_
 
@@ -7344,7 +7513,7 @@ Die Sphere Station BELT LIVING ONE ist die erste dauerhafte Habitatstruktur im i
 
 ***
 
-##### Lage & Grundstruktur
+###### Lage & Grundstruktur
 
 * **Orbit:** Stabiler Transferorbit in mittlerem Belt-Segment (z. B. zwischen Vesta und Hygiea), dennoch kann seine Position im Belt bei Bedarf ändern. Wird im Lunar Orbit gebaut und reist dann in den Belt.
 * **Kapazität:** 700 ständige Bewohner:innen + 50 rotierende Forschungsgäste
@@ -7354,7 +7523,7 @@ Die Sphere Station BELT LIVING ONE ist die erste dauerhafte Habitatstruktur im i
 
 ***
 
-##### Technische Architektur
+###### Technische Architektur
 
 * **Energie:** Fusionsexperiment + thermonuklearer Puffer + Solarunterstützung
 * **Antriebseinheit:** stationserhaltende Triebwerke zur Orbitkorrektur + feingliedrige Lageregelung, Fusionsantrieb Cluster rund um den Äquator (max. Leistung 1 MN)
@@ -7364,7 +7533,7 @@ Die Sphere Station BELT LIVING ONE ist die erste dauerhafte Habitatstruktur im i
 
 ***
 
-##### Funktionen & Nutzung
+###### Funktionen & Nutzung
 
 * **Asteroidenbeobachtung & -nutzung:** Kartierung, Ressourcenmodellierung, Technologiepilotierung
 * **Langzeitforschung:** Gravitation, Langzeitpsychologie, Soziodynamik unter Isolation
@@ -7374,7 +7543,7 @@ Die Sphere Station BELT LIVING ONE ist die erste dauerhafte Habitatstruktur im i
 
 ***
 
-##### Gesellschaftliche Struktur
+###### Gesellschaftliche Struktur
 
 * **Bewohnerspektrum:** Freiwillige Langzeitbesatzung mit hohem Ausbildungsgrad, Ressourcenabbauspezialisten und deren Familien
 * **Governance:** Selbstverwaltete CIVITAS-Zelle mit periodischer Rückkopplung zum Allianzrat
@@ -7383,7 +7552,7 @@ Die Sphere Station BELT LIVING ONE ist die erste dauerhafte Habitatstruktur im i
 
 ***
 
-##### Symbolik & Bedeutung
+###### Symbolik & Bedeutung
 
 BELT LIVING ONE steht für mehr als Präsenz. Sie fragt: Können wir fern der Erde nicht nur überleben, sondern _leben_? Kann Gemeinschaft unter Bedingungen von Raum, Zeitverzögerung und autarker Struktur bestehen?
 
@@ -7393,7 +7562,8 @@ BELT LIVING ONE steht für mehr als Präsenz. Sie fragt: Können wir fern der Er
 \newpage
 
 <a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-6-sphere-station-neptune-one"></a>
-## 9.6.6 Sphere Station NEPTUNE ONE
+
+### 9.6.6 Sphere Station NEPTUNE ONE
 
 _**Sphere Station NEPTUNE ONE**_
 
@@ -7403,7 +7573,7 @@ Die Sphere Station NEPTUNE ONE ist das kühnste und weitreichendste Projekt der 
 
 ***
 
-##### Lage & Grundstruktur
+###### Lage & Grundstruktur
 
 * **Orbit:** Hauptsächlich polstabilisierter Umlauf um Neptun, angepasst an Kommunikationsfenster mit Uranus und heliosphärischen Messrouten, dennoch auch Missionen zu Transneptune
 * **Kapazität:** 240 ständige Bewohner:innen + ihre Kinder + Androiden (autonome Wartungseinheiten)
@@ -7413,7 +7583,7 @@ Die Sphere Station NEPTUNE ONE ist das kühnste und weitreichendste Projekt der 
 
 ***
 
-##### Technische Architektur
+###### Technische Architektur
 
 * **Energie:** Fusionsantrieb-Cluster rund um den Äquator + Langzeitbatterie-Reservoir + solarthermische Puffersysteme
 * **Antriebseinheit:** Wie bei BELT ONE, jedoch in interplanetarer Reiseauslegung; gebaut im Lunar Orbit, Transferflug mit Staffelunterstützung
@@ -7423,7 +7593,7 @@ Die Sphere Station NEPTUNE ONE ist das kühnste und weitreichendste Projekt der 
 
 ***
 
-##### Funktionen & Nutzung
+###### Funktionen & Nutzung
 
 * **Tiefraumforschung:** Magnetosphärenforschung, Neptun-Mond-Erkundung, Dunkelmateriebeobachtung
 * **Gemeinschaftsforschung:** Kinderaufwachsen im All, intergenerationelle Kommunikation, familiäre Kultur in der Isolation
@@ -7433,7 +7603,7 @@ Die Sphere Station NEPTUNE ONE ist das kühnste und weitreichendste Projekt der 
 
 ***
 
-##### Gesellschaftliche Struktur
+###### Gesellschaftliche Struktur
 
 * **Bewohnerspektrum:** Hochqualifizierte Teams mit Familien, psychosozial geschulte Koordinator:innen, KI-Assistenten, Androiden
 * **Soziales System:** Starke Binnenstruktur, demokratisch kontrollierte Routinen, rhythmisierte Wochenkreise
@@ -7442,7 +7612,7 @@ Die Sphere Station NEPTUNE ONE ist das kühnste und weitreichendste Projekt der 
 
 ***
 
-##### Symbolik & Bedeutung
+###### Symbolik & Bedeutung
 
 NEPTUNE ONE ist das Menschheitsversprechen im Raum: Wenn wir hier bestehen, können wir überall bestehen – nicht durch Macht, sondern durch Gemeinschaft. Es ist der äußerste Punkt des Systems und vielleicht der innerste Moment unserer Zivilisation.
 
@@ -7452,7 +7622,8 @@ NEPTUNE ONE ist das Menschheitsversprechen im Raum: Wenn wir hier bestehen, kön
 \newpage
 
 <a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-7-sphere-station-venus-one"></a>
-## 9.6.7 Sphere Station VENUS ONE
+
+### 9.6.7 Sphere Station VENUS ONE
 
 _**Sphere Station VENUS ONE**_
 
@@ -7464,7 +7635,7 @@ VENUS ONE ist daher nicht nur ein Forschungshabitat, sondern ein ethischer Prüf
 
 ***
 
-##### Lage & Grundstruktur
+###### Lage & Grundstruktur
 
 * **Orbit:** Venus-synchronisierter Umlauf (hochelliptisch), angepasst für stabile Beobachtung und Shuttle-Verkehr zur Venusatmosphäre
 * **Kapazität:** 700 ständige Bewohner:innen + 100 rotierende Gäste (wie _EARTH ONE_)
@@ -7473,7 +7644,7 @@ VENUS ONE ist daher nicht nur ein Forschungshabitat, sondern ein ethischer Prüf
 
 ***
 
-##### Technische Architektur
+###### Technische Architektur
 
 * **Energie:** Solarmaximierung + chemischer Pufferspeicher + Not-GeoReaktor (SMR)
 * **Antriebseinheit:** Fusionstriebwerks-Cluster (1 MN), wie _BELT ONE_, für Orbitmanöver und Rückreiseoption
@@ -7483,7 +7654,7 @@ VENUS ONE ist daher nicht nur ein Forschungshabitat, sondern ein ethischer Prüf
 
 ***
 
-##### Funktionen & Nutzung
+###### Funktionen & Nutzung
 
 * **Atmosphärenforschung:** Analyse der Venuswinde, Wolken-Zusammensetzung, Druckverhältnisse
 * **Biologische Exploration:** Aufspüren mikrobieller Lebensformen in der Hochatmosphäre, Schutz vor Kontamination
@@ -7494,7 +7665,7 @@ VENUS ONE ist daher nicht nur ein Forschungshabitat, sondern ein ethischer Prüf
 
 ***
 
-##### Gesellschaftliche Struktur
+###### Gesellschaftliche Struktur
 
 * **Besatzung:** Atmosphärenforscher:innen, Terraforming-Ingenieur:innen, Ethiker:innen, Philosophiegruppen, Künstler:innen – und deren Familien
 * **Repräsentation:** _VENUS CIVITAS_-Zelle + beratender Sitz im Allianzrat
@@ -7502,7 +7673,7 @@ VENUS ONE ist daher nicht nur ein Forschungshabitat, sondern ein ethischer Prüf
 
 ***
 
-##### Symbolik & Bedeutung
+###### Symbolik & Bedeutung
 
 _VENUS ONE_ fragt nicht nach der technischen Machbarkeit – sondern nach der **moralischen Würde** planetarer Veränderung.\
 Sie ist ein Ort, an dem Menschheit und Zukunftswille auf ein bestehendes System treffen – und lernen müssen, nicht nur zu träumen, sondern zu _hören_.
@@ -7513,7 +7684,8 @@ Sie ist ein Ort, an dem Menschheit und Zukunftswille auf ein bestehendes System 
 \newpage
 
 <a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-8-strukturbildung-und-zukunftsausbau"></a>
-## 9.6.8 Strukturbildung und Zukunftsausbau
+
+### 9.6.8 Strukturbildung und Zukunftsausbau
 
 _**Strukturbildung und Zukunftsausbau**_
 
@@ -7523,7 +7695,7 @@ Die Sphere Stations markieren den Beginn einer tiefgreifenden Transformation: De
 
 ***
 
-##### 1. Kolonialisierungen auf Planeten und Monden
+###### 1. Kolonialisierungen auf Planeten und Monden
 
 * **Ziel:** Stabile, dauerhafte Außenposten auf Monden (z. B. Europa, Titan, Ganymed) und auf dem Mars
 * **Funktion:** Wissenschaft, Kultur, Langzeitleben unter Planetenbedingungen, ethische Feldforschung
@@ -7531,7 +7703,7 @@ Die Sphere Stations markieren den Beginn einer tiefgreifenden Transformation: De
 
 ***
 
-##### 2. Stationierung eines autonomen Tiefenraum-Sonden-Netzwerks
+###### 2. Stationierung eines autonomen Tiefenraum-Sonden-Netzwerks
 
 * **Zielbereich:** Von 100 bis 180 AU (außerhalb der Plutobahn, in der heliosphärischen Übergangszone)
 * **Anzahl:** Mindestens 50.000 autonome Sonden
@@ -7540,7 +7712,7 @@ Die Sphere Stations markieren den Beginn einer tiefgreifenden Transformation: De
 
 ***
 
-##### 3. Aufbau von Cycler-Betriebssystemen
+###### 3. Aufbau von Cycler-Betriebssystemen
 
 * **Routen:** Mars, Venus, Belt, Neptun (später auch Uranus und interstellarer Vorbereitungsbereich)
 * **Technik:** Inertialer Transport (Cycler), gekoppelt mit Andockmodulen und Sphere Crafts
@@ -7548,7 +7720,7 @@ Die Sphere Stations markieren den Beginn einer tiefgreifenden Transformation: De
 
 ***
 
-##### 4. Werftinfrastruktur im Lunar Orbit
+###### 4. Werftinfrastruktur im Lunar Orbit
 
 * **Ziel:** Ständiger **Sphere Station / Cycler / Craft**-Bau- und Reparaturkomplex
 * **Module:** Nanofabrikationsplattformen, Dockingringe, Treibstoffdepots, Quantenkühlung
@@ -7556,7 +7728,7 @@ Die Sphere Stations markieren den Beginn einer tiefgreifenden Transformation: De
 
 ***
 
-##### 5. Aufbau einer lunarindustriellen Basis
+###### 5. Aufbau einer lunarindustriellen Basis
 
 * **Industrien:** Keramik, Legierungen, Energieumwandlung, Habitatdruck (SiC/SiC, Graphenkomposite)
 * **Prinzip:** Nachhaltige Kreislaufwirtschaft (Ressourcenrückgewinnung vor Import)
@@ -7564,7 +7736,7 @@ Die Sphere Stations markieren den Beginn einer tiefgreifenden Transformation: De
 
 ***
 
-##### 6. Forschungsstationen auf dem Mars
+###### 6. Forschungsstationen auf dem Mars
 
 * **Zweck:** Langzeitmedizin, Terraforming-Folgenabschätzung, planetare Ethik, Biologie
 * **Standorte:** Vulkanisches Hochland (Isolation), Canyonböden (Geomikrobiologie), Polregionen (Klimarelation)
@@ -7572,7 +7744,7 @@ Die Sphere Stations markieren den Beginn einer tiefgreifenden Transformation: De
 
 ***
 
-##### 7. Aufbau von solaren DNS-Nodes (Democratic Navigation & Signal Nodes)
+###### 7. Aufbau von solaren DNS-Nodes (Democratic Navigation & Signal Nodes)
 
 * **Standorte:** Mond, Mars, Belt, später auch bei Neptun und allen größeren menschlichen Ansiedlungen
 * **Funktion:** Sicherheit, Synchronisierung, Kommunikationsstabilität, Orientierung für den Raumverkehr
@@ -7581,7 +7753,7 @@ Die Sphere Stations markieren den Beginn einer tiefgreifenden Transformation: De
 
 ***
 
-##### 8. Aufbau von Solar Defense Force Nodes
+###### 8. Aufbau von Solar Defense Force Nodes
 
 * **Standorte:** Mond, Mars, Belt, später auch bei Neptun und allen größeren menschlichen Ansiedlungen
 * **Funktion:** Sicherheit, Forschung, Krisenintervention
@@ -7598,7 +7770,8 @@ Diese Strukturbildung ist kein Selbstzweck. Sie ist der architektonische Ausdruc
 \newpage
 
 <a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-9-zeitleiste-und-tabellarischer-vergleich-readme"></a>
-## 9.6.9 Zeitleiste und tabellarischer Vergleich
+
+### 9.6.9 Zeitleiste und tabellarischer Vergleich
 
 _**Zeitleiste und tabellarischer Vergleich**_
 
@@ -7610,7 +7783,8 @@ _Vom Plan zur Raumzivilisation – Entwicklungsschritte 2025–2075_
 \newpage
 
 <a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-9-zeitleiste-und-tabellarischer-vergleich-9-6-9-1-zeitleiste-der-erda-raumzivilisationsentwicklung"></a>
-## 9.6.9.1 Zeitleiste der ERDA-Raumzivilisationsentwicklung
+
+#### 9.6.9.1 Zeitleiste der ERDA-Raumzivilisationsentwicklung
 
 _**Zeitleiste der ERDA-Raumzivilisationsentwicklung**_
 
@@ -7620,7 +7794,8 @@ _**Zeitleiste der ERDA-Raumzivilisationsentwicklung**_
 \newpage
 
 <a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-9-zeitleiste-und-tabellarischer-vergleich-9-6-9-2-vergleichstabelle-der-sphere-stations-stand-zielausbau-2055"></a>
-## 9.6.9.2 Vergleichstabelle der Sphere Stations (Stand: Zielausbau 2055)
+
+#### 9.6.9.2 Vergleichstabelle der Sphere Stations (Stand: Zielausbau 2055)
 
 _**Vergleichstabelle der Sphere Stations (Stand: Zielausbau 2055)**_
 
@@ -7636,6 +7811,7 @@ _**Vergleichstabelle der Sphere Stations (Stand: Zielausbau 2055)**_
 \newpage
 
 <a id="md-9-das-space-konzept-9-7-gesellschaftliche-dimensionen-der-raumzivilisation-readme"></a>
+
 ## 9.7 Gesellschaftliche Dimensionen der Raumzivilisation
 
 _**Gesellschaftliche Dimensionen der Raumzivilisation**_
@@ -7650,7 +7826,8 @@ Die technische Realisierung einer Raumzivilisation ist nur ein Teil der Aufgabe.
 \newpage
 
 <a id="md-9-das-space-konzept-9-7-gesellschaftliche-dimensionen-der-raumzivilisation-9-7-1-bildung-and-kultur-im-all"></a>
-## 9.7.1 Bildung & Kultur im All
+
+### 9.7.1 Bildung & Kultur im All
 
 _**Bildung & Kultur im All**_
 
@@ -7682,7 +7859,8 @@ In einer Welt jenseits der Welt braucht Bildung neue Horizonte. Sie darf nicht n
 \newpage
 
 <a id="md-9-das-space-konzept-9-7-gesellschaftliche-dimensionen-der-raumzivilisation-9-7-2-gesellschaftsmodelle-and-teilhabe"></a>
-## 9.7.2 Gesellschaftsmodelle & Teilhabe
+
+### 9.7.2 Gesellschaftsmodelle & Teilhabe
 
 _**Gesellschaftsmodelle & Teilhabe**_
 
@@ -7714,7 +7892,8 @@ Wie sieht ein demokratisches Miteinander aus, wenn es keine Nationen, keine alte
 \newpage
 
 <a id="md-9-das-space-konzept-9-7-gesellschaftliche-dimensionen-der-raumzivilisation-9-7-3-ethik-and-recht-im-alltagsleben"></a>
-## 9.7.3 Ethik & Recht im Alltagsleben
+
+### 9.7.3 Ethik & Recht im Alltagsleben
 
 _**Ethik & Recht im Alltagsleben**_
 
@@ -7746,7 +7925,8 @@ Was bedeutet Gerechtigkeit, wenn Hilfe Stunden entfernt ist? Wie formt man Vertr
 \newpage
 
 <a id="md-9-das-space-konzept-9-7-gesellschaftliche-dimensionen-der-raumzivilisation-9-7-4-kultur-der-achtsamkeit-and-resonanz"></a>
-## 9.7.4 Kultur der Achtsamkeit & Resonanz
+
+### 9.7.4 Kultur der Achtsamkeit & Resonanz
 
 _**Kultur der Achtsamkeit & Resonanz**_
 
@@ -7778,7 +7958,8 @@ Jenseits von Funktion und Pflicht entsteht im All eine neue Kultur der Achtsamke
 \newpage
 
 <a id="md-9-das-space-konzept-9-7-gesellschaftliche-dimensionen-der-raumzivilisation-9-7-5-identifizierung-als-solare-zivilisation"></a>
-## 9.7.5 Identifizierung als Solare Zivilisation
+
+### 9.7.5 Identifizierung als Solare Zivilisation
 
 _**Identifizierung als Solare Zivilisation**_
 
@@ -7802,7 +7983,7 @@ Die Raumzivilisation im Geist der ERDA ist nicht nur eine Erweiterung des geogra
 * Gefühl der Teilhabe an etwas Größerem: dem Schutz und der Gestaltung des gesamten Sonnensystems.
 * Entwicklung einer neuen Narrative: _Wir sind eine solare Zivilisation – nicht weil wir hinausgingen, sondern weil wir uns verbanden._
 
-##### Orbital Citizenship Index (Öffentliche Forschung)
+###### Orbital Citizenship Index (Öffentliche Forschung)
 
 * Zur Bewertung der demokratischen Reife orbitaler Gemeinschaften wird ein "Orbital Citizenship Index" eingeführt.
 * Er misst Kriterien wie Mitbestimmung, Ethikbindung, Transparenz, soziale Kohäsion und psychische Resilienz.
@@ -7814,6 +7995,7 @@ Die Raumzivilisation im Geist der ERDA ist nicht nur eine Erweiterung des geogra
 \newpage
 
 <a id="md-9-das-space-konzept-9-8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit-readme"></a>
+
 ## 9.8 Die Weitergabe der Zivilisation – Bildung, Kultur und Ethik in interplanetarer Zeit
 
 _**Die Weitergabe der Zivilisation – Bildung, Kultur und Ethik in interplanetarer Zeit**_
@@ -7826,7 +8008,8 @@ Raumzivilisation ist nicht nur Infrastruktur, sondern ein Erbe in Bewegung. Dies
 \newpage
 
 <a id="md-9-das-space-konzept-9-8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit-9-8-1-interplanetare-bildung-als-verantwortungsgemeinschaft"></a>
-## 9.8.1 Interplanetare Bildung als Verantwortungsgemeinschaft
+
+### 9.8.1 Interplanetare Bildung als Verantwortungsgemeinschaft
 
 _**Interplanetare Bildung als Verantwortungsgemeinschaft**_
 
@@ -7841,7 +8024,8 @@ _**Interplanetare Bildung als Verantwortungsgemeinschaft**_
 \newpage
 
 <a id="md-9-das-space-konzept-9-8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit-9-8-2-erinnerungsarchitektur-and-kollektives-gedachtnis"></a>
-## 9.8.2 Erinnerungsarchitektur & kollektives Gedächtnis
+
+### 9.8.2 Erinnerungsarchitektur & kollektives Gedächtnis
 
 _**Erinnerungsarchitektur & kollektives Gedächtnis**_
 
@@ -7857,7 +8041,8 @@ _**Erinnerungsarchitektur & kollektives Gedächtnis**_
 \newpage
 
 <a id="md-9-das-space-konzept-9-8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit-9-8-3-planetare-ethik-als-lebende-navigation"></a>
-## 9.8.3 Planetare Ethik als lebende Navigation
+
+### 9.8.3 Planetare Ethik als lebende Navigation
 
 _**Planetare Ethik als lebende Navigation**_
 
@@ -7873,7 +8058,8 @@ _**Planetare Ethik als lebende Navigation**_
 \newpage
 
 <a id="md-9-das-space-konzept-9-8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit-9-8-4-kultur-als-trager-der-verbindung"></a>
-## 9.8.4 Kultur als Träger der Verbindung
+
+### 9.8.4 Kultur als Träger der Verbindung
 
 _**Kultur als Träger der Verbindung**_
 
@@ -7887,7 +8073,8 @@ _**Kultur als Träger der Verbindung**_
 \newpage
 
 <a id="md-9-das-space-konzept-9-8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit-9-8-5-der-raum-als-medium-des-menschlichen"></a>
-## 9.8.5 Der Raum als Medium des Menschlichen
+
+### 9.8.5 Der Raum als Medium des Menschlichen
 
 _**Der Raum als Medium des Menschlichen**_
 
@@ -7901,6 +8088,7 @@ _**Der Raum als Medium des Menschlichen**_
 \newpage
 
 <a id="md-9-das-space-konzept-9-9-erda-glossar-schlusselbegriffe-der-raumzivilisation"></a>
+
 ## 9.9. ERDA Glossar – Schlüsselbegriffe der Raumzivilisation
 
 _**ERDA Glossar – Schlüsselbegriffe der Raumzivilisation**_
@@ -8006,8 +8194,335 @@ Politisch-koordinierende Instanz für die strategische Planung der Solar Allianc
 
 \newpage
 
+<a id="md-10-das-ki-konzept-readme"></a>
+
+# 10. Das KI Konzept
+
+Dieses Kapitel bündelt die **KI-bezogenen** Leitlinien, Institutionen, Sicherheitsmechanismen und Anwendungsszenarien im ERDA-Kontext.
+
+Im Fokus stehen:
+
+- Demokratische Kontrolle und Rechenschaftspflicht
+- Sicherheit, Robustheit und Resilienz (inkl. kritischer Infrastruktur)
+- Transparenz, Auditierbarkeit und Governance
+- Praktische Einsatzfelder (Staat, Bildung, Wirtschaft, Verteidigung)
+
+
+\newpage
+
+<a id="md-11-das-burger-konzept-readme"></a>
+
+# 11. Das Bürger Konzept
+
+Dieses Kapitel bündelt Konzepte, die demokratische Resilienz nicht nur institutionell, sondern **praktisch im Alltag** stärken: über Bildung, Pflichten, Rechte, Anreize, Dienste und Formen der Mitwirkung.
+
+Im Fokus stehen Modelle, die **evolutiv stabil** sind (also gesellschaftlich tragfähig, anreizkompatibel und langfristig durchhaltbar) und sich **national oder EU-weit** schrittweise umsetzen lassen.
+
+
+\newpage
+
+<a id="md-11-das-burger-konzept-11-1-aktuell-national-und-oder-eu-weit-umsetzbare-resilienzmodelle-evolutiv-stabiler-demokratien-readme"></a>
+
+## 11.1 Aktuell national und/oder EU-weit umsetzbare Resilienzmodelle evolutiv stabiler Demokratien
+
+In diesem Unterkapitel werden Modelle gesammelt, die kurzfristig (innerhalb bestehender verfassungs- und institutioneller Rahmen) schrittweise eingeführt werden können.
+
+Ziel ist es, Resilienz **messbar** zu erhöhen: in Verteidigungsfähigkeit, Katastrophenschutz, Infrastrukturstabilität, Fachkräftebasis, sozialem Zusammenhalt und ökologischer Zukunftsfähigkeit.
+
+
+\newpage
+
+<a id="md-11-das-burger-konzept-11-1-aktuell-national-und-oder-eu-weit-umsetzbare-resilienzmodelle-evolutiv-stabiler-demokratien-11-1-1-resilienzstarkendes-burgerpflichtmodell"></a>
+
+### 11.1.1 Resilienzstärkendes Bürgerpflichtmodell
+
+#### Umsetzungsreifes Konzept für eine Bürgerpflicht in Deutschland
+
+##### Einleitung
+
+Die Debatte über die Wiedereinführung der Wehrpflicht in Deutschland ist durch den russischen Angriffskrieg gegen die Ukraine neu entfacht. Aktuell ist die Wehrpflicht nach Art. 12a des Grundgesetzes lediglich ausgesetzt; die Verfassung erlaubt es dem Gesetzgeber weiterhin, junge Männer ab dem 18. Lebensjahr zur Ableistung des Wehr- oder Zivildienstes heranzuziehen, wobei Frauen nur im Bereich des Gesundheitsdienstes eingesetzt werden dürfen[1]. 2011 wurde die sechsmonatige Wehrpflicht ausgesetzt, weil die Bundesregierung keinen ausreichenden Grund mehr sah, die Grundrechte der jungen Männer einzuschränken[2]. Ein politisches Wiederaufleben dieser Pflicht ist wegen Personalmangels in Streitkräften und Pflege aber wieder Thema[3]. Gleichzeitig haben andere europäische Staaten ihre Wehrpflicht reformiert und um alternative Dienste ergänzt – Österreich bietet mit seinem Zivildienst beispielhaft neun Monate Dienst in Pflege-, Rettungs- oder Sozialdiensten an[4], Finnland verlangt von gewissensbedingt Dienstleistenden einen 347-tägigen zivilen Dienst[5], während die Schweiz einen 368-tägigen Zivildienst als Ersatz für 245 Diensttage in der Armee vorsieht[6]. Diese Beispiele zeigen, dass die Pflicht nicht allein militärisch definiert werden muss.
+
+Gleichzeitig steigt der Bedarf an Fachkräften in technischen, medizinischen und sozialen Bereichen sowie in der Verteidigung. Eine resiliente Gesellschaft muss nicht nur militärisch verteidigungsfähig sein, sondern auch Katastrophen bewältigen, Infrastruktur instandhalten und Innovationen vorantreiben. Die Digitalisierung und Künstliche Intelligenz verändern zudem die Arbeitswelt, wodurch neue Konzepte zur Besteuerung und sozialen Absicherung erforderlich werden[7].
+
+Dieses Kapitel entwickelt ein umsetzungsreifes Konzept für eine **fünfgliedrige Bürgerpflicht** (Sozial-, Technik-, Wirtschafts-, Wehr- und Umweltpflicht), ergänzt um Organisationsvorschläge sowie Erweiterungsoptionen (z. B. europäischer Austauschdienst, digitale Beteiligung).
+
+***
+
+#### 1. Rechtlicher und gesellschaftlicher Hintergrund
+
+##### 1.1 Verfassungsrahmen
+
+Art. 12a Grundgesetz erlaubt es, Männer ab 18 Jahren zur Dienstleistung in der Bundeswehr oder in zivilen Schutzorganisationen zu verpflichten. Frauen können nach dem Grundgesetz in der Gesundheitsversorgung eingesetzt werden und können freiwillig in die Streitkräfte eintreten[1]. Die Wehrpflicht ist somit nicht abgeschafft, sondern nur suspendiert; eine Reaktivierung ist juristisch möglich[2]. Gleichzeitig betont das Grundgesetz, dass Soldaten „Bürger in Uniform“ sind, deren Rechte und Pflichten denen der übrigen Gesellschaft entsprechen und deren Einsätze der parlamentarischen Kontrolle unterliegen[8].
+
+##### 1.2 Erfahrungen anderer Länder
+
+* **Österreich:** Die sechsmonatige Wehrpflicht kann durch einen neunmonatigen Zivildienst ersetzt werden, der Tätigkeiten in Krankenhäusern, Rettungsdiensten, Altersheimen oder der Katastrophenhilfe umfasst[4].
+* **Schweiz:** Zivildienst dauert 368 Tage und wird überwiegend in sozialen, pflegerischen und landwirtschaftlichen Einrichtungen geleistet; er ist damit um rund 50 % länger als der Militärdienst[6]. Diese längere Dauer wirkt als Abschreckung, wird aber von vielen aufgrund der sinnstiftenden Tätigkeit angenommen.
+* **Finnland:** Die Wehrpflicht dauert je nach Aufgabe 165, 255 oder 347 Tage. Der nicht-militärische Dienst dauert 347 Tage und wird als zu lang und somit diskriminierend kritisiert[5]. Das finnische Verteidigungsministerium überlegt, den zivilen Dienst stärker mit dem Sicherheitskonzept zu verknüpfen, was Skeptiker als Gefahr für die Gewissensfreiheit sehen[9].
+* **Debatte in Europa:** Eine Studie des Carnegie Endowment weist darauf hin, dass einige Länder (Lettland, Litauen, Schweden) die Wehrpflicht wieder einführen, während andere auf Freiwilligkeit setzen. Die Autoren warnen, dass Pflichtdienste ohne gesellschaftlichen Konsens kontraproduktiv sein können und hohe Investitionen in Personalstrukturen erfordern[10]. Erfolgreiche Modelle kombinieren Pflicht- und Freiwilligendienst, stärken die gesellschaftliche Resilienz und bieten attraktive Anreize[11].
+
+##### 1.3 Steuerliche und soziale Herausforderungen im KI-Zeitalter
+
+Wissenschaftler betonen, dass das bestehende Steuersystem Arbeitskraft stärker belastet als Kapital, was Automatisierung begünstigt und gleichzeitig Steuereinnahmen schwinden lässt. Die Steuerpolitik müsse so angepasst werden, dass Automatisierung die Einnahmen nicht reduziert. Vorgeschlagen werden unter anderem eine Automationssteuer (Robotertax), die Streichung von Steuervergünstigungen für automatisierte Arbeitsplätze, kompensierende Vergünstigungen für menschliche Arbeit sowie eine höhere Körperschaftsteuer[7]. Damit ließe sich der gesellschaftliche Wandel finanzieren, beispielsweise ein Grundeinkommen. Ein deutsches Pilotprojekt zum bedingungslosen Grundeinkommen (1 200 € monatlich) zeigte, dass die Teilnehmer ihre Arbeitsstunden nicht reduzierten und die Mittel größtenteils sparten; gleichzeitig stieg ihre mentale Gesundheit und Lebenszufriedenheit signifikant[12].
+
+***
+
+#### 2. Fünfgliedrige Bürgerpflicht
+
+Das Konzept „Modell Deutschland“ ersetzt die Wehrpflicht durch eine **fünfgliedrige Bürgerpflicht**. Alle jungen Erwachsenen (18–25 Jahre, unabhängig vom Geschlecht) leisten einen 18-monatigen Dienst in einem der folgenden Bereiche.
+
+Die Auswahl erfolgt nach individueller Neigung und Eignung; bei Übernachfrage in bestimmten Bereichen greifen Losverfahren und Ausgleichszahlungen. Jede Pflicht umfasst eine Grundausbildung, praktische Einsätze und modular anrechenbare Weiterbildung.
+
+##### 2.1 Sozialpflicht
+
+**Vision:** Stärkung von Solidarität, intergenerationellem Austausch und Resilienz gegen Gesundheits- und Pflegekrisen.
+
+**Einsatzfelder:**
+
+* Gesundheits- und Pflegeeinrichtungen: Unterstützung in Krankenhäusern, Pflege- und Altenheimen, Notfallambulanzen. Dienstleistende übernehmen pflegerische Assistenz, Grundversorgung und administrative Aufgaben.
+* Bildungs- und Jugendeinrichtungen: Mitarbeit in Kitas, Schulen, Hortbetreuung, Jugendzentren; Hilfe bei Nachhilfe, Freizeitgestaltung und Inklusion.
+* Katastrophenschutz: Sanitätsdienste, Evakuierungshelfer, Betreuung in Notunterkünften.
+* Psychologische/Soziale Unterstützung: Einsatz in Beratungsstellen, Trauma- und Notfallhilfe.
+
+**Besonderheiten:**
+
+* Anerkennung im Bildungswesen: Die Grundausbildung (Pflegebasiskurs, Erste-Hilfe-Scheine, pädagogische Grundlagen) wird auf ein späteres Studium in Medizin, Pflege oder Sozialarbeit angerechnet und kann einen Ausbildungsplatz sichern.
+* Berufsperspektive: Sozialpflichtige können nach Abschluss direkt in Ausbildungen übernommen werden oder berufsbegleitende Studiengänge beginnen.
+* Verzahnung mit Katastrophenschutz: Teilnehmer erhalten Schulungen in Notfallmedizin, Krisenintervention und Evakuierung. Dies schafft eine bundesweite Reserve für Pandemien oder Naturkatastrophen.
+
+##### 2.2 Technikpflicht
+
+**Vision:** Aufbau einer technologisch souveränen und krisenfesten Infrastruktur.
+
+**Einsatzfelder:**
+
+* Feuerwehr und Technisches Hilfswerk (THW): Unterstützung bei Brandbekämpfung, Hochwasserhilfe, Evakuierungen und technischer Hilfeleistung.
+* Infrastrukturinstandhaltung: Mitarbeit im Straßen-, Schienen- und Brückenbau, in der Energieversorgung und der Wasserversorgung.
+* Logistik & Transport: Unterstützung von Bahn-, Hafen- und Flughafengesellschaften, Wartung von Versorgungskorridoren.
+* Cyber- und Netzwerksicherheit: Teilnahme an IT-Forensik, Aufbau sicherer Netze, Bekämpfung von Cyberangriffen in Zusammenarbeit mit Behörden und Industrie.
+
+**Besonderheiten:**
+
+* Grundausbildung Krisentechnik: Bedienung von Generatoren, Notstromanlagen, Wasseraufbereitungsanlagen und Brückenbau; Schulungen in ziviler Gefahrenabwehr.
+* Kooperation mit Industrie: Programme mit Bosch, Siemens, Airbus, DB Netz, um praktische Arbeit mit dualen Studiengängen (Mechatronik, Bauingenieurwesen, Informatik) zu verbinden.
+* IT-Sicherheitstraining: Ausbildung in Cyberresilienz, Angriffserkennung und digitaler Verteidigung. Dies stärkt nicht nur die kritische Infrastruktur, sondern schafft Nachwuchs für den zivilen IT-Sektor.
+
+##### 2.3 Wirtschaftspflicht
+
+**Vision:** Stärkung der Eigenproduktion und Innovationskraft, Verringerung globaler Abhängigkeiten und Aufbau eines robusten europäischen Wirtschaftsraums.
+
+**Einsatzfelder:**
+
+* Maschinenbau & Industrie: Mitarbeit in Unternehmen des Fahrzeug-, Anlagen- oder Rüstungsbaus; Einsatz bei mittelständischen Betrieben (KMU), um Innovation zu beschleunigen.
+* Forschung & Entwicklung: Arbeiten in Halbleiterfabriken, Laboren für Künstliche Intelligenz, Robotik oder Biotechnologie; Mitarbeit an EU-Forschungsprogrammen.
+* Landwirtschaft & Ernährung: Unterstützung in landwirtschaftlichen Betrieben, Aufbau regionaler Lebensmittelkreisläufe, Entwicklung nachhaltiger Anbau- und Verarbeitungstechniken.
+* Energie & Rohstoffe: Mitarbeit an Projekten für Kernkraft (Fusionsforschung), Wasserstoff- und Batterietechnologien sowie Recycling-Wirtschaft.
+
+**Besonderheiten:**
+
+* Duale Anrechnung: Der Dienst kann auf Ausbildungs- und Studienzeiten angerechnet werden (z. B. bei Mechatronik-, IT- oder Chemiestudiengängen). Unternehmen erhalten Anreize, duale Plätze bereitzustellen.
+* Industriepartnerschaften: Kooperationen mit Unternehmen wie Infineon, BASF, Rheinmetall, Volkswagen und Start-ups im Bereich Halbleiter und Künstliche Intelligenz.
+* Europäische Vernetzung: Einsatz in europäischen Projekten (z. B. Aufbau eines EU-weiten Energienetzes oder Halbleiterprojekten). Der European Chips Act mobilisiert mehr als € 43 Mrd. an öffentlichen und privaten Investitionen, um Europas Chipproduktion auf 20 % des Weltmarktes zu steigern und Lieferkettenkrisen zu verhindern[13]. Bürgerpflichtige könnten hier bei Forschung und Produktion assistieren.
+
+##### 2.4 Wehrpflicht (Militärdienst)
+
+**Vision:** Moderne Verteidigung, die Friedenssicherung, Heimatschutz und internationales Engagement verbindet und dabei auf technologischem Niveau bleibt.
+
+**Einsatzfelder:**
+
+* Klassische militärische Ausbildung: Infanterie, Panzertruppe, Artillerie, Luftwaffe und Marine – jeweils mit moderner Ausrüstung, z. B. Exoskelette, elektronische Kriegführung.
+* Cyber- und Informationsraum: Ausbildung in Cyberkriegführung, Satelliten- und Weltraumüberwachung, Umgang mit Drohnen sowie Abwehr feindlicher Cyberangriffe.
+* Heimatschutz & Katastrophenabwehr: Grenzsicherung, Schutz kritischer Infrastruktur, Unterstützung bei Naturkatastrophen.
+* Drohnen- und Robotikkrieg: Steuerung von Drohnen-Schwärmen, robotischen Kampffahrzeugen und autonomen Systemen; Test neuer Technologien wie Hyperschallwaffen.
+
+**Besonderheiten:**
+
+* Modernisierung der Ausbildung: Integration von Simulationen, KI-gestützten Trainingssystemen und Mensch-Maschine-Schnittstellen. Die Bundeswehr arbeitet bereits mit EU-Partnern zusammen, um gemeinsame Militärkapazitäten aufzubauen (EU Rapid Deployment Capacity) und Kapazitäten für Weltraum-, Luft- und Seeverteidigung zu stärken[14].
+* Auswahl & Übernahme: Nach dem Pflichtdienst können sich Teilnehmende für eine längerfristige militärische Laufbahn bewerben, als Zeitsoldat oder Berufssoldat.
+* Menschenrechtskonforme Führung: Soldaten bleiben „Bürger in Uniform“; Führung und Ausbildung müssen demokratische Werte und das Primat des Parlaments berücksichtigen[8].
+
+##### 2.5 Umweltpflicht
+
+**Vision:** Aufbau ökologischer Zukunftsfähigkeit als Bestandteil demokratischer Resilienz: Schutz von Lebensgrundlagen, Reduktion von Klimarisiken, Renaturierung und nachhaltige Landnutzung.
+
+**Einsatzfelder (Beispiele):**
+
+* **Restauration & Renaturierung:** Wiedervernässung von Mooren, Renaturierung von Flussauen, Waldumbau, Aufforstung, Bodenschutz, Küsten- und Hochwasserschutz.
+* **Umweltüberwachung & Resilienz-Monitoring:** Biodiversitätsmonitoring, Wasserqualitätsmessungen, Schadstoffmessungen, Frühwarnsysteme (z. B. Waldbrand, Dürre), Unterstützung von Umweltämtern.
+* **Klimaanpassung in Kommunen:** Schwammstadt-Projekte, Gründächer, Entsiegelung, Hitzeaktionspläne, Pflege und Aufbau städtischer Grüninfrastruktur.
+* **Natur- und Umweltbildung / Beratung:** Unterstützung von Schulen, Kommunen und Bürgerprojekten (Aufklärung, Beratung, praktische Umsetzung kleiner Maßnahmen).
+
+**Besonderheiten:**
+
+* Kombinierbar mit dualen Studiengängen: z. B. Umwelttechnik, Forstwirtschaft, Hydrologie, Geografie, Bauingenieurwesen, Nachhaltigkeitsmanagement.
+* Zertifizierbare Module: GIS/Geodaten, Mess- und Probenahme, Sicherheits- und Einsatztraining, Projektmanagement in Kommunen.
+* Direkter Resilienzbeitrag: ökologische Maßnahmen senken mittel- und langfristig Katastrophen- und Gesundheitskosten und erhöhen Versorgungssicherheit.
+
+##### 2.6 Organisation und Durchführung
+
+1. **Gesetzliche Grundlage:** Anpassung des Wehrpflichtgesetzes und Schaffung eines Bürgerpflichtgesetzes, das alle Geschlechter einbezieht und klare Rahmenbedingungen (Dauer, Auswahlverfahren, Pflichten und Rechte) definiert. Die gesetzlichen Vorgaben müssen mit Art. 12a GG kompatibel sein; ggf. ist eine Verfassungsänderung zur Aufnahme von Frauen und zur Ausweitung auf wirtschaftliche, technische und ökologische Dienste erforderlich.
+2. **Einberufung & Auswahl:** Jährliche Registrierung aller 18-Jährigen. In einem Beratungsprozess werden Neigungen, Kompetenzen und gesellschaftlicher Bedarf ermittelt. Ein zentrales Matching-System (ähnlich dem Hochschulzulassungssystem) verteilt die Teilnehmer auf die fünf Pflichten. Härtefallregelungen (gesundheitliche Einschränkungen, Care-Verpflichtungen) sind vorgesehen; bei Verzicht muss ein finanzieller Ausgleich (Pflichtersatzsteuer) entrichtet werden, der den jeweiligen Dienstleistungssektor finanziert. Somit wird eine faire Lastenverteilung erreicht.
+3. **Ausbildungszentren:** Aufbau oder Reaktivierung von Ausbildungseinrichtungen. Für die Wehrpflicht können bestehende Kasernen genutzt werden; für Sozial-, Technik-, Wirtschafts- und Umweltpflicht werden staatliche und private Einrichtungen (Unikliniken, Pflegeheime, THW-Standorte, Industriepartner, Umweltbehörden, kommunale Betriebe) eingebunden. Digitale Lernplattformen ergänzen Präsenz-Schulungen.
+4. **Vergütung & soziale Absicherung:** Bürgerpflichtige erhalten eine angemessene Vergütung (z. B. orientiert am Mindestlohn) sowie beitragsfreie Kranken- und Rentenversicherung. Unterkunft und Verpflegung während der Grundausbildung werden gestellt. Nach Abschluss können Anerkennungspunkte in einem bundesweiten Bildungskonto gesammelt werden.
+5. **Qualitätskontrolle:** Eine unabhängige Kommission (Vertreter des Bundestags, Wissenschaft, Industrie, Gewerkschaften und Jugendorganisationen) überwacht die Durchführung. Die Kommission veröffentlicht jährlich Kennzahlen zu Einsatzbereichen, Zufriedenheit, Qualifikationsgewinn und gesellschaftlichem Nutzen.
+
+***
+
+#### 3. Ausbau von Rüstungs- und High-Tech-Industrie
+
+##### 3.1 Europäische Chips- und Technologie-Strategie
+
+Der European Chips Act ist ein zentraler Baustein für technologische Souveränität. Er zielt darauf ab, Europas Anteil an der globalen Chipproduktion bis 2030 zu verdoppeln, Forschung zu unterstützen, Pilotlinien aufzubauen und Rahmenbedingungen für Investitionen zu schaffen[13]. Zur Umsetzung sind über € 43 Mrd. an öffentlichen und privaten Mitteln vorgesehen. Das Bürgerpflicht-Programm kann diesen Prozess unterstützen, indem es junge Menschen in Forschungslabors, Halbleiterfertigungen und Zulieferbetrieben einsetzt. Gleichzeitig fördert die Technik- und Wirtschaftspflicht die Ausbildung einer neuen Generation von Mikroelektronikern und IT-Fachkräften.
+
+##### 3.2 Sicherheitspolitische Instrumente der EU
+
+Der Vorschlag für die Security Action for Europe (SAFE) reagiert auf die verschärfte Sicherheitslage seit dem russischen Angriffskrieg. Er sieht vor, die europäische Rüstungsindustrie durch eine gemeinsame Beschaffungsplattform, ein Darlehensprogramm von bis zu 150 Mrd. € und eine bessere Koordination zu stärken[15][16]. Das ReArm-Europa-Konzept ruft zu massiven Investitionen auf, um die EU von externen Partnern zu emanzipieren. Die Bürgerpflicht kann hier als Personalpool dienen, um Produktionsstätten zu betreiben, Rüstungsforschung voranzutreiben und Lieferketten zu sichern.
+
+##### 3.3 Forschung und Entwicklung
+
+Neben Halbleitern muss die EU in folgende Bereiche investieren:
+
+* Hyperschall- und Energiewaffen, weltraumgestützte Verteidigung: Das EU-Strategiepapier hebt die Notwendigkeit hervor, neue Technologien wie Weltraum-Überwachungssysteme, Hyperschallwaffen und Energiewaffen zu entwickeln, um sicherheitsrelevante Bedrohungen abzuwehren[14].
+* Neue Materialien und Biotechnologie: Forschung an leichten, aber widerstandsfähigen Werkstoffen, Exoskeletten und KI-gestützter Medizin kann die Kampfkraft verbessern. Biotechnologie soll die Regeneration von Soldaten erhöhen und die medizinische Versorgung revolutionieren.
+* Künstliche Intelligenz: KI wird als entscheidender Faktor zur Modernisierung der Streitkräfte anerkannt[17]. Gleichzeitig mahnt das Europäische Parlament zu ethischen Leitlinien, Transparenz und einem Verbot autonomer Waffensysteme ohne menschliche Kontrolle[18].
+
+***
+
+#### 4. Drohnen-Armee und KI-gestützte Verteidigung
+
+##### 4.1 Warum Drohnen?
+
+Drohnen haben sich in Konflikten wie dem Ukraine-Krieg als entscheidende Waffen erwiesen; sie verursachen dort mehr Verluste als andere Waffengattungen[19]. Ihre Vorteile liegen in geringen Kosten, flexiblen Einsatzmöglichkeiten (Aufklärung, Angriff, Logistik) und der Schonung menschlichen Lebens. Die EU fördert daher die Entwicklung und Beschaffung von Drohnen durch den Europäischen Verteidigungsfonds und gemeinsame Beschaffungsprogramme[20]. Gleichzeitig sind rechtliche und ethische Fragen ungeklärt.
+
+##### 4.2 Rechtliche und ethische Grundlagen
+
+Die EU hat zwar einen umfassenden Rechtsrahmen für zivile Drohnen, doch militärische Drohnen unterliegen dem Völkerrecht. Die Europäische Parlamentarische Forschungsstelle betont, dass die Regulierung fragmentiert ist; sie fordert Transparenz, die Einhaltung des humanitären Völkerrechts, Exportkontrollen und ein Verbot lethaler autonomer Waffensysteme (LAWS) ohne bedeutende menschliche Kontrolle[18]. Das Europäische Parlament verlangt, dass jede tödliche Entscheidung einen „meaningful human control“ beinhaltet und dass militärische KI starke Verantwortlichkeitsmechanismen erhält[18]. Die EU-AI-Verordnung (2023) schließt den militärischen Bereich zwar aus, prägt aber durch ihren menschenzentrierten Ansatz die Debatte[21]. Auch das US-Verteidigungsministerium verlangt in seiner Richtlinie 3000.09, dass Kommandanten bei autonomen Systemen stets menschliches Urteilsvermögen behalten und „human-in-the-loop“ oder „on-the-loop“ Optionen vorsehen[22].
+
+##### 4.3 Vorschlag für eine Drohnen-Luftwaffe, -Marine und -Spaceforce
+
+1. Drohnen-Luftwaffe: Aufbau von Schwärmen unterschiedlicher Größenklassen (Kamikaze-Drohnen, Aufklärungsdrohnen, Transportdrohnen). Vernetzte Drohnen können gegnerische Artilleriestellungen aufklären, eigene Truppen schützen und durch präzise Angriffe Menschenleben schonen. Ein human-on-the-loop-System überwacht die Zielauswahl, sodass die letzte Entscheidungsbefugnis bei einem Offizier liegt. AI-Assistenzsysteme verbessern die Zielerkennung, aber das Feuern erfolgt erst nach Freigabe.
+2. Drohnen-Marine: Entwicklung unbemannter Überwasser- und Unterwasserfahrzeuge (USV/UUV). Diese sichern Häfen, Seewege, Kabel und Gasleitungen, führen Minenräumungen durch und können als Frühwarnsystem dienen. Sie ergänzen bemannte Schiffe und reduzieren Risiken für das Personal. Die Ukraine nutzt bereits unbemannte Boote gegen die russische Schwarzmeerflotte[23].
+3. Drohnen-Spaceforce: Satellitenbasierte Aufklärung und Weltraumdrohnen für Kommunikation, Navigation und Abwehr gegnerischer Satelliten. Laser- und elektromagnetische Abwehrsysteme können Drohnen und Raketen im Orbit neutralisieren. Ein gemeinsames europäisches Weltraumlagezentrum, wie im Strategic Compass vorgesehen, sollte die Operationen koordinieren[14].
+4. Laser- und Cyberabwehr: Installation bodengestützter Laser gegen Drohnen und Raketen sowie KI-gestützte Cyberschutzsysteme, die Angriffe automatisch erkennen, aber nur nach Freigabe reagieren. Low-Power-Laser können bereits heute eingesetzt werden; Hochenergie-Laser bedürfen noch der Forschung.
+
+##### 4.4 Organisatorische Einbindung
+
+* Integration in die Streitkräfte: Die Drohnen-Streitkräfte werden als eigenständige Teilstreitkraft analog zur Luftwaffe geführt, jedoch eng mit dieser sowie mit Heer, Marine und Cyber-/Informationsraum verzahnt.
+* Human-Oversight-Model: Jeder autonome Einsatz (insbesondere letale Aktionen) erfordert die Zustimmung eines menschlichen Entscheiders. KI fungiert als Assistenz, nicht als Entscheider. Not-Aus-Mechanismen und Echtzeitprotokollierung sorgen für Nachvollziehbarkeit und Haftung.
+* Forschung & Entwicklung: Enge Kooperation mit Hochschulen, Start-ups und etablierten Rüstungsunternehmen; Nutzung von Mitteln aus der European Defence Fund und dem SAFE-Instrument. Testfelder (z. B. militärische Übungsplätze) ermöglichen die Erprobung von Drohnenschwärmen.
+* Ethische Aufsicht: Ein Ethikrat überwacht Einsatzregeln, prüft internationale Rechtskonformität und entwickelt Leitlinien für den Einsatz KI-gestützter Waffen.
+
+***
+
+#### 5. Human-AI-Zukunft: Finanzierung und gesellschaftlicher Umbau
+
+##### 5.1 Steuerreform und Finanzierungsmodell
+
+Die Automatisierung lässt die Lohnsteuerbasis schrumpfen. Abbott und Bogenschneider argumentieren, dass das Steuersystem neutral gegenüber menschlicher und maschineller Arbeit sein und vermeiden sollte, dass Unternehmen Steuern sparen, indem sie Menschen durch Maschinen ersetzen[7]. Sie schlagen vor:
+
+1. Automationssteuer/Robotertax: Unternehmen, die Mitarbeiter durch Automation ersetzen, entrichten eine Abgabe. Diese orientiert sich an den entfallenen Lohnsteuern und fließt in einen Solidaritätsfonds.
+2. Streichung automatisierungsbezogener Abschreibungen: Unternehmen sollen keinen steuerlichen Vorteil aus der Anschaffung automatischer Systeme ziehen können.
+3. Förderung menschlicher Arbeit: Steuerliche Gutschriften oder Prämien für Unternehmen mit hohem Personalanteil.
+4. Anhebung der Körperschaftsteuer: Erhöhung des Steuersatzes auf Unternehmensgewinne, um Steuereinnahmen zu stabilisieren und die Belastung auf Kapitalerträge zu verlagern.
+
+Diese Instrumente können den Bürgerfonds speisen, der wiederum die Bürgerpflicht entlohnt, Weiterbildung finanziert und langfristig ein Bürgergeld trägt. Das deutsche Pilotprojekt für ein Grundeinkommen zeigt, dass Empfänger sich nicht aus dem Arbeitsmarkt zurückziehen und ihre Lebenszufriedenheit deutlich steigt[12]. Eine Kombination aus Automationssteuer und Bürgergeld kann daher soziale Sicherheit erhöhen, Innovation fördern und dem demografischen Druck entgegenwirken.
+
+##### 5.2 Offene Bildung und kulturelle Teilhabe
+
+Die Künstliche-Intelligenz-Revolution wird viele Tätigkeiten ersetzen, jedoch Kreativität, soziale Arbeit, Bildung und Forschung stärker betonen. Deshalb werden:
+
+* Kostenlose Hochschulen und Weiterbildung geöffnet; jeder Bürger erhält ein jährliches Bildungszeitbudget (z. B. zwei Wochen), das auch während der Bürgerpflicht genutzt werden kann.
+* Breit gefächerte Kultur-, Sport- und Ehrenamtsprogramme angeboten, um gesellschaftliche Teilhabe und Gesundheit zu fördern.
+* Digital- und Medienkompetenz in allen Bildungsbiografien verankert.
+
+##### 5.3 Rolle der KI in Staat und Gesellschaft
+
+In einer hochautomatisierten Gesellschaft unterstützen KI-Systeme die Politik, entscheiden aber nicht allein. Eine Wirtschafts-KI analysiert Produktivität und schlägt Steueranpassungen vor; eine Sozial-KI berechnet das Bürgergeld; eine Psychologie-KI überwacht das Wohlbefinden; eine Government-KI simuliert Gesetzesfolgen; eine Defense-KI schützt kritische Infrastruktur.
+
+Alle Systeme unterliegen strengen Leitplanken, Transparenzpflichten und menschlicher Aufsicht. Not-Aus-Mechanismen verhindern Fehlverhalten, und ein unabhängiges Gremium überwacht Ethik, Datenschutz und Fairness. Im Zweijahresrhythmus werden Kennzahlen zu Beschäftigung, Wohlbefinden, Bildung, Verteilungsgerechtigkeit und KI-Fairness veröffentlicht. Nur nachweislich wirksame Maßnahmen bleiben bestehen.
+
+***
+
+#### 6. Ergänzende Ideen
+
+##### 6.1 Europäischer Dienst und Austauschprogramme
+
+Um die europäische Integration zu fördern und personelle Engpässe auszugleichen, sollten junge Menschen einen Teil ihrer Bürgerpflicht in anderen EU-Staaten ableisten können, etwa im Rahmen des European Solidarity Corps oder europäischer Katastrophenschutzprojekte. Bilaterale Abkommen mit Ländern wie Japan, Südkorea, Indien oder Australien – wie im Strategischen Kompass als alternative Bündnisse angeregt[14] – könnten ebenso gelten. Die gegenseitige Anerkennung der Pflichtzeiten fördert internationale Zusammenarbeit und ermöglicht Wissenstransfer.
+
+##### 6.2 Demokratische Partizipation stärken
+
+Ein digitales Bürgerbeteiligungssystem (z. B. „CIVITAS“) sollte eingerichtet werden, in dem Bürger über Gesetzesvorschläge informieren, diskutieren und abstimmen können. Dieses System wird parlamentarisch beaufsichtigt und gewährleistet Transparenz, Datenschutz und Inklusion. Bürgerpflichtige könnten am Aufbau und der Pflege dieser Plattform mitwirken und ihre Erfahrungen aus den Einsätzen einbringen.
+
+##### 6.3 Entbürokratisierung und flexible Modelle
+
+Ein modularer Aufbau erlaubt es, Pflichtzeiten in mehrere Abschnitte zu teilen (z. B. zweimal 9 Monate), Auslandseinsätze einzubinden oder Praxisphasen mit Studium zu kombinieren. Außerdem können Personen mit abgeschlossener Berufsausbildung ihre Pflicht verkürzen oder auf eine andere Art (z. B. als Ausbilder) ableisten. Dies erhöht die Attraktivität und vermeidet Brüche in Bildungs- und Erwerbsbiografien.
+
+***
+
+#### 7. Fazit
+
+Ein umsetzungsreifes Bürgerpflicht-Konzept für Deutschland muss mehr als eine reine Wehrpflicht sein. Die fünfgliedrige Pflicht – Sozial-, Technik-, Wirtschafts-, Wehr- und Umweltpflicht – stärkt das Gemeinwesen, schafft Fachkräfte, fördert soziale Gerechtigkeit, erhöht ökologische Zukunftsfähigkeit und sichert die Verteidigungsfähigkeit.
+
+Der Aufbau einer Drohnen-Armee mit klaren ethischen Leitlinien und menschlicher Kontrolle ergänzt die klassische Verteidigung und erhöht die Abschreckungswirkung. Gleichzeitig erfordert die Automatisierung eine Steuerreform, die Kapital statt Arbeit besteuert, sowie ein Bürgergeld, das allen ein Existenzminimum garantiert. Offene Bildung, kulturelle Teilhabe und europäische Zusammenarbeit runden das Konzept ab.
+
+Deutschland und Europa stehen vor einer Zeitenwende. Krisenfeste Gesellschaften entstehen durch Solidarität, Innovation und eine wehrhafte Demokratie. Dieses Konzept bietet einen integrativen Weg dahin und verbindet Pflicht mit Chancen für Individuen, Wirtschaft, Umwelt und Demokratie.
+
+***
+
+#### Quellen
+
+[1] Kurzinformation On a National Mandatory Military Service: <https://www.bundestag.de/resource/blob/935156/7bee4f1dc83f4a24a5e80b1cc4d301a1/WD-2-087-22_EN-pdf.pdf>
+
+[2] 60 Year Anniversary of the German Compulsory Military Service Act | In Custodia Legis: <https://blogs.loc.gov/law/2016/07/60-year-anniversary-of-the-german-compulsory-military-service-act/>
+
+[3] 'Fully committed to peace': Is it time to bring back conscription in Germany? | Euronews: <https://www.euronews.com/my-europe/2025/03/27/fully-committed-to-peace-is-it-time-to-bring-back-conscription-in-germany>
+
+[4] How does Austria's mandatory military service work?: <https://www.thelocal.at/20220307/explained-how-does-austrias-mandatory-military-service-work>
+
+[5] Finnish conscription system - Puolustusvoimat - The Finnish Defence Forces: <https://puolustusvoimat.fi/en/finnish-conscription-system>
+
+[6] Swiss Review: Civilian service is going strong, while the army takes a hit: <https://www.swisscommunity.org/en/news-media/swiss-revue/article/civilian-service-is-going-strong-while-the-army-takes-a-hit>
+
+[7] Abbott & Bogenschneider (WeRobot/Stanford): <https://conferences.law.stanford.edu/werobot/wp-content/uploads/sites/47/2018/02/Should-Robots-Pay-Taxes.pdf>
+
+[8] Referenz im Ursprungstext ("Bürger in Uniform") – siehe [2].
+
+[9] Finland | European Bureau for Conscientious Objection: <https://ebco-beoc.org/finland/2024>
+
+[10] Besch & Westgaard, Conscription (Carnegie): <https://carnegie-production-assets.s3.amazonaws.com/static/files/Besch_Westgaard_Conscription_2024.pdf>
+
+[11] Ebd.
+
+[12] German Basic Income Study Busts “Social Hammock” Myth | BIEN: <https://basicincome.org/news/2025/04/german-basic-income-study-busts-social-hammock-myth/>
+
+[13] European Chips Act - European Commission: <https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/european-chips-act_en>
+
+[14] The Strategic Compass of the European Union: <https://www.strategic-compass-european-union.com/>
+
+[15] EU Defence Industry / SAFE (Doc): <https://defence-industry-space.ec.europa.eu/document/download/6d6f889c-e58d-4caa-8f3b-8b93154fe206_en>
+
+[16] Ebd.
+
+[17] Defence and artificial intelligence (EPRS): <https://www.europarl.europa.eu/RegData/etudes/BRIE/2025/769580/EPRS_BRI(2025)769580_EN.pdf>
+
+[18] Military drones (EPRS): <https://www.europarl.europa.eu/RegData/etudes/BRIE/2025/772885/EPRS_BRI(2025)772885_EN.pdf>
+
+[19] Ebd.
+
+[20] Ebd.
+
+[21] Defence and artificial intelligence (EPRS): <https://www.europarl.europa.eu/RegData/etudes/BRIE/2025/769580/EPRS_BRI(2025)769580_EN.pdf>
+
+[22] Defense Primer: U.S. Policy on Lethal Autonomous Weapon Systems | Congress.gov: <https://www.congress.gov/crs-product/IF11150>
+
+[23] Military drones (EPRS): <https://www.europarl.europa.eu/RegData/etudes/BRIE/2025/772885/EPRS_BRI(2025)772885_EN.pdf>
+
+
+\newpage
+
 <a id="md-anhang-a-erda-staatenarchitektur-konzentrische-kreise"></a>
-## Anhang A: ERDA-Staatenarchitektur („Konzentrische Kreise“)
+
+# Anhang A: ERDA-Staatenarchitektur („Konzentrische Kreise“)
 
 _**ERDA-Staatenarchitektur („Konzentrische Kreise“)**_
 
@@ -8015,7 +8530,7 @@ Die potenziellen **ERDA-Staaten** (European Rights-Based Democratic Alliance) gl
 
 ***
 
-#### 1. 🔵 Kern-ERDA (Mitglieder mit Verfassungsbindung)
+### 1. 🔵 Kern-ERDA (Mitglieder mit Verfassungsbindung)
 
 **Alle ERDA-Kernstaaten müssen – durch demokratische Entscheidung – die Charta der Grundrechte der EU angenommen und völkerrechtlich verbindlich ratifiziert haben.**\
 Die **Charta bildet den Rechtskern der ERDA** und wird durch neue ethische, technologische und ökologische Dimensionen weiterentwickelt, nicht ersetzt.
@@ -8053,11 +8568,11 @@ Vollintegrierte Mitgliedsstaaten mit demokratischer Verfassung und stabiler Rech
 
 ***
 
-#### 2. 🟡 Erweiterte Partnerschaft (assoziierte Demokratien Europas & Nachbarschaft)
+### 2. 🟡 Erweiterte Partnerschaft (assoziierte Demokratien Europas & Nachbarschaft)
 
 Demokratien mit hoher ERDA-Kernland-Kompatibilität und strategischer Bedeutung, die volle Partnerschaftsfähigkeit besitzen, ohne formelle politische Integration.
 
-##### **2.1 Stabile Demokratien mit sofortiger Kompatibilität**
+#### **2.1 Stabile Demokratien mit sofortiger Kompatibilität**
 
 Diese Länder erfüllen bereits alle ERDA-Standards, bringen robuste Institutionen und hohe Innovationskraft mit und können auf Knopfdruck assoziiert werden:
 
@@ -8073,7 +8588,7 @@ Diese Länder erfüllen bereits alle ERDA-Standards, bringen robuste Institution
 \pageheight=297mm
 \newpage
 
-##### **2.2 Demokratien mit stabiler Reformorientierung und hoher Nähe**
+#### **2.2 Demokratien mit stabiler Reformorientierung und hoher Nähe**
 
 Diese Staaten sind auf dem Weg zur vollen ERDA-Kompatibilität, treiben Reformen zielstrebig voran und zeichnen sich durch klar definierte EU-Perspektiven aus:
 
@@ -8089,7 +8604,7 @@ Diese Staaten sind auf dem Weg zur vollen ERDA-Kompatibilität, treiben Reformen
 \pageheight=297mm
 \newpage
 
-##### **2.3 Demokratien mit Barrieren, aber strategischer Relevanz**
+#### **2.3 Demokratien mit Barrieren, aber strategischer Relevanz**
 
 Trotz innerer Herausforderungen verfügen diese Staaten über strategische Bedeutung und bleiben wichtige ERDA-Beobachter und potenzielle Partner:
 
@@ -8105,7 +8620,7 @@ Trotz innerer Herausforderungen verfügen diese Staaten über strategische Bedeu
 \pageheight=297mm
 \newpage
 
-#### 3. 🟢 Globale Assoziierte (außereuropäische Demokratien)
+### 3. 🟢 Globale Assoziierte (außereuropäische Demokratien)
 
 Nicht politisch integrierte Demokratien mit sicherheitspolitischer und innovationspolitischer Kooperation:
 
@@ -8126,7 +8641,7 @@ Nicht politisch integrierte Demokratien mit sicherheitspolitischer und innovatio
 
 ***
 
-##### 🛰️ Strategische Sonderrollen innerhalb der ERDA
+#### 🛰️ Strategische Sonderrollen innerhalb der ERDA
 
 | Gebiet/Staat       | Rolle innerhalb ERDA                        |
 | ------------------ | ------------------------------------------- |
@@ -8138,7 +8653,7 @@ Nicht politisch integrierte Demokratien mit sicherheitspolitischer und innovatio
 
 ***
 
-##### 📚 Gesamtüberblick ERDA-Staaten (nach Stand 2025)
+#### 📚 Gesamtüberblick ERDA-Staaten (nach Stand 2025)
 
 * **24 EU/ERDA-Kernstaaten** (volle Verfassungsintegration)
 * **28 erweiterte Partnerstaaten** (europäische Nachbarschaft, transnational)
@@ -8152,7 +8667,8 @@ Nicht politisch integrierte Demokratien mit sicherheitspolitischer und innovatio
 \newpage
 
 <a id="md-anhang-b-erda-staatenprofile-readme"></a>
-## Anhang B: ERDA-Staatenprofile
+
+# Anhang B: ERDA-Staatenprofile
 
 _**ERDA-Staatenprofile**_
 
@@ -8160,6 +8676,7 @@ _**ERDA-Staatenprofile**_
 \newpage
 
 <a id="md-anhang-b-erda-staatenprofile-b-1-einleitung-zum-staatenprofil-konzept-readme"></a>
+
 ## B.1 Einleitung zum Staatenprofil-Konzept
 
 _**Einleitung zum ERDA-Staatenprofil-Konzept**_
@@ -8170,7 +8687,8 @@ Die European Rights-Based Democratic Alliance (ERDA) versteht sich nicht nur als
 \newpage
 
 <a id="md-anhang-b-erda-staatenprofile-b-1-einleitung-zum-staatenprofil-konzept-b-1-1-ziel-und-funktion-der-staatenprofile"></a>
-## B.1.1 Ziel und Funktion der Staatenprofile
+
+### B.1.1 Ziel und Funktion der Staatenprofile
 
 _**Ziel und Funktion der Staatenprofile**_
 
@@ -8185,7 +8703,8 @@ Die ERDA-Staatenprofile erfassen systematisch die politischen, gesellschaftliche
 \newpage
 
 <a id="md-anhang-b-erda-staatenprofile-b-1-einleitung-zum-staatenprofil-konzept-b-1-2-modularer-aufbau"></a>
-## B.1.2 Modularer Aufbau
+
+### B.1.2 Modularer Aufbau
 
 _**Modularer Aufbau**_
 
@@ -8206,7 +8725,8 @@ Das Profil ist modular in zehn Abschnitte gegliedert:
 \newpage
 
 <a id="md-anhang-b-erda-staatenprofile-b-1-einleitung-zum-staatenprofil-konzept-b-1-3-einsatzmoglichkeiten"></a>
-## B.1.3 Einsatzmöglichkeiten
+
+### B.1.3 Einsatzmöglichkeiten
 
 _**Einsatzmöglichkeiten**_
 
@@ -8221,7 +8741,8 @@ Die Profile können von politischen Entscheidungsträger:innen, zivilgesellschaf
 \newpage
 
 <a id="md-anhang-b-erda-staatenprofile-b-1-einleitung-zum-staatenprofil-konzept-b-1-4-vielfalt-anerkennen-gemeinsamkeit-gestalten"></a>
-## B.1.4 Vielfalt anerkennen – Gemeinsamkeit gestalten
+
+### B.1.4 Vielfalt anerkennen – Gemeinsamkeit gestalten
 
 _**Vielfalt anerkennen – Gemeinsamkeit gestalten**_
 
@@ -8233,6 +8754,7 @@ Die Profile schaffen eine Balance zwischen Individualität und Integration. Sie 
 \newpage
 
 <a id="md-anhang-b-erda-staatenprofile-b-2-schema-fur-erda-staatenprofile-ausfuhrliche-ubersicht"></a>
+
 ## B.2. Schema für ERDA-Staatenprofile (v4, ausführliche Übersicht)
 
 _**Schema für ERDA-Staatenprofile (v4)**_
@@ -8444,11 +8966,10 @@ Beispiel Datenbank/Website
 ## 12. 🤝 Mitwirkung willkommen
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik {{Land}} sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
-### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: {{author}}
-Kontakt: [{{author-email}}](mailto:{{author-email}})
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
-Letzte Änderung: {{YYYY-MM-DD}}
+### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 ```
 
 
@@ -8464,9 +8985,11 @@ Letzte Änderung: {{YYYY-MM-DD}}
 * **Hinweis:** Dieses Profil dient **als faire und attraktive Selbstdarstellung des jeweiligen Landes**. Es berücksichtigt sowohl Potenziale als auch realistische Herausforderungen. Nur in begründeten Ausnahmefällen („es tut sonst niemand“) sollte ein Profil ohne offizielle Beauftragung durch das jeweilige Land erstellt, verändert oder gelöscht werden.
 
 
+
 \newpage
 
 <a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-readme"></a>
+
 ## B.3 Staatenprofile (EU/ERDA - Kernländer)
 
 _**Alle ERDA Staatenprofile der Kernländer,**_\
@@ -8486,13 +9009,14 @@ version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-at-staatenprofil-osterreich"></a>
 
-## AT - Staatenprofil Österreich
+
+### AT - Staatenprofil Österreich
 
 ***
 
-### 🇦🇹 ERDA-Staatenprofil: Österreich
+#### 🇦🇹 ERDA-Staatenprofil: Österreich
 
-#### 1. Überblick (Meta)
+##### 1. Überblick (Meta)
 
 * **Offizieller Name:** Republik Österreich (Republic of Austria)
 * **Geografische Lage (Kontinent, Region):** Mitteleuropa, Binnenstaat; grenzt an Deutschland, Tschechien, Slowakei, Ungarn, Slowenien, Italien, Schweiz, Liechtenstein
@@ -8503,7 +9027,7 @@ version: "1.0"
 ***
 
 
-#### 2. Demografie & Gesellschaft
+##### 2. Demografie & Gesellschaft
 
 * **Bevölkerung Prognose (2050 / 2075):** 2050: 9 825 200 / 2075: 9 400 000
 * **Altersstruktur:** Median 43,6 Jahre; Jugendanteil 14,0 %; Altenquotient 19,4 %
@@ -8515,7 +9039,7 @@ version: "1.0"
 ***
 
 
-#### 3. Wirtschaft & Innovation
+##### 3. Wirtschaft & Innovation
 
 * **BIP (real, Mrd. EUR):** 2024: 428,5 / 2050: 600 / 2075: 750 (PwC-Projektionen)
 * **BIP pro Kopf (EUR):** 47 000
@@ -8527,7 +9051,7 @@ version: "1.0"
 * **Mitglied im Democracy Trade Network:** Nein
 * **EHAM+ Score (0–10):** 4
 
-##### 3.1 Infrastrukturautarkie
+###### 3.1 Infrastrukturautarkie
 
 * Energie ☑
 * IT/Cloud ☑
@@ -8539,9 +9063,9 @@ version: "1.0"
 
 ***
 
-#### 4. Ressourcenprofil
+##### 4. Ressourcenprofil
 
-##### Natürliche Ressourcen
+###### Natürliche Ressourcen
 
 * **Landfläche:** 83 879 km²
 * **Meeresfläche:** –
@@ -8550,13 +9074,13 @@ version: "1.0"
 * **Biodiversität & Schutzgebiete:** 5,7 % der Landesfläche
 * **Nachhaltigkeitskennzahlen:** CO$_2$-Emissionen 7,1 t pro Kopf; Recyclingquote 58 %; Materialverbrauch 15,2 t pro Kopf
 
-##### Soziale Ressourcen
+###### Soziale Ressourcen
 
 * **Ehrenamt & Gemeinschaft:** 37 % aktive Beteiligung
 * **CIVITAS-Partizipationsindex (0–10):** 6,5
 * **Gesundheitssystem:** Zugang 9/10; Prävention 8/10
 
-##### Politische Ressourcen
+###### Politische Ressourcen
 
 * **Verfassungsbindung:** Ja
 * **Direkte Demokratieinstrumente:** Vorhanden (4 Arten)
@@ -8567,7 +9091,7 @@ version: "1.0"
 ***
 
 
-#### 5. Sicherheit & Strategische Rolle (EDA)
+##### 5. Sicherheit & Strategische Rolle (EDA)
 
 * **Militärisches Potenzial:**
   * DSN-geeignet ☑
@@ -8583,7 +9107,7 @@ version: "1.0"
 
 ***
 
-#### 6. Kulturelle Identität & Soft Power
+##### 6. Kulturelle Identität & Soft Power
 
 * **Sprachen / Indigene Kulturen:** Deutsch; Slowenisch regional anerkannt
 * **UNESCO-Welterbe:** 10 Stätten
@@ -8593,16 +9117,16 @@ version: "1.0"
 ***
 
 
-#### 7. Entwicklungspfad (2025–2075)
+##### 7. Entwicklungspfad (2025–2075)
 
-##### Szenario-Entwicklung
+###### Szenario-Entwicklung
 
 * **Status 2025:** Stabiles Wachstum, demografische Alterung, hohe Bildung
 * **Best Case:** Knowledge Economy & Innovationsknoten Mitteleuropas
 * **Base Case:** Moderates Wachstum, ökologische Konsolidierung
 * **Worst Case:** Stagnation, Urbanisierungsschwächen
 
-##### Rolle in der ERDA-Vision 2075
+###### Rolle in der ERDA-Vision 2075
 
 * Beitrag zur Post-Knappheitsökonomischen Ordnung: Kreislaufwirtschaft, Bildungsexport
 * Demokratische Resilienz: hohe Beteiligung, starke Rechtsstaatlichkeit
@@ -8610,7 +9134,7 @@ version: "1.0"
 ***
 
 
-#### 8. Narrative & Anwerbewirkung
+##### 8. Narrative & Anwerbewirkung
 
 * **Kernbotschaft:** „Österreich zeigt, dass Innovation und Tradition Hand in Hand gehen.“
 * **Selbstwirksamkeit:** Bürgerinitiative Radentscheid Wien
@@ -8619,7 +9143,7 @@ version: "1.0"
 ***
 
 
-#### 9. Kennzahlenübersicht (Kurzform)
+##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                            | 2025      | 2050      | 2075      | EU-Benchmark 2024                 |
 | ------------------------------------ | --------- | --------- | --------- | --------------------------------- |
@@ -8633,13 +9157,13 @@ version: "1.0"
 ***
 
 
-#### 10. Kurzfassung: „Österreich auf einen Blick“
+##### 10. Kurzfassung: „Österreich auf einen Blick“
 
 Österreich verbindet Tradition, soziale Stabilität und kulturelle Tiefe mit einem starken Innovations- und Bildungssektor. Als neutraler Mitteleuropäer mit globalem Weitblick positioniert es sich bis 2075 als resilienter Knoten demokratischer Zusammenarbeit.
 
-#### 11. Quellen & Modellierungen
+##### 11. Quellen & Modellierungen
 
-##### 11.1 ℹ️ Allgemeines
+###### 11.1 ℹ️ Allgemeines
 
 * Statistik Austria, World Bank, OECD, Eurostat, WKO, IUCN, SIPRI, PwC, UNESCO
 * Modellannahmen zur Wirtschaftsentwicklung basieren auf PwC „The World in 2050“
@@ -8650,7 +9174,7 @@ version: "1.0"
 
 > Letzter Quellenzugriff: 2025-06-09
 
-##### 11.2 📎 Verwendete Quellen & Verweise
+###### 11.2 📎 Verwendete Quellen & Verweise
 
 1. _„Austria Population 2025“_ (Worldometer, 2025): [https://www.worldometers.info/world-population/austria-population/](https://www.worldometers.info/world-population/austria-population/)
 2. _„Education at a Glance – Austria“_ (OECD, 2024): [https://gpseducation.oecd.org/CountryProfile?primaryCountry=AUT\&topic=EO](https://gpseducation.oecd.org/CountryProfile?primaryCountry=AUT\&topic=EO)
@@ -8675,7 +9199,7 @@ version: "1.0"
 
 > Letzter Quellenzugriff: 2025-06-09
 
-##### 11.3 🛠️ Modellierungen & Annahmen
+###### 11.3 🛠️ Modellierungen & Annahmen
 
 * Wirtschaftliche Projektionen 2050–2075: Mod. extrapoliert basierend auf PwC World 2050
 * KI-Kapazitäten: abgeschätzt aus nationalen Innovationsindikatoren
@@ -8686,18 +9210,15 @@ version: "1.0"
 ***
 
 
-#### 12. 🤝 Mitwirkung willkommen
+##### 12. 🤝 Mitwirkung willkommen
 
 Dieses Profil basiert auf öffentlich verfügbaren Daten. Vertreter:innen der Republik Österreich und interessierte Fachstellen sind herzlich eingeladen, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames, zukunftsfähiges Bild der Demokratie in Europa.
 
-##### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: ERDA Buch Redaktion (siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon)).
-Kontakt: siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon).
-Letzte Änderung: 2025-06-09
+###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 
-Kontakt: siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon).
-\
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
 
 
 \newpage
@@ -8713,11 +9234,12 @@ version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-be-staatenprofil-belgien"></a>
 
-## BE - Staatenprofil Belgien
 
-### 🇧🇪 ERDA-Staatenprofil: Belgien
+### BE - Staatenprofil Belgien
 
-#### 1. Überblick (Meta)
+#### 🇧🇪 ERDA-Staatenprofil: Belgien
+
+##### 1. Überblick (Meta)
 
 * **Offizieller Name:** Königreich Belgien\
   Verfassungsgemäß bezeichnet als _Roi de Belgique_ ([Belgium.be](https://www.belgium.be/de/ueber_belgien/staat/federale_staat))
@@ -8731,7 +9253,7 @@ version: "1.0"
 * **Rolle im ERDA-Netzwerk (Zukunft):** Cyberhub & Kulturvermittler\
   (Quelle: interne ERDA-Projektdokumentation)
 
-#### 2. Demografie & Gesellschaft
+##### 2. Demografie & Gesellschaft
 
 * **Bevölkerung (2050/2075-Prognose):**\
   – 11 870 906 (2050) ([Eurostat-Projektionen](https://ec.europa.eu/eurostat/web/population-demography-migration-projections))\
@@ -8750,7 +9272,7 @@ version: "1.0"
   – **Subjektive Zufriedenheit:** 6,91 / 10 ([World Happiness Report 2024](https://worldhappiness.report/ed/2024/))\
   – **Demokratievertrauen:** 47 % zufriedene Bürger:innen ([Flash Eurobarometer 522](https://data.europa.eu/data/datasets/s2226_522))
 
-#### 3. Wirtschaft & Innovation
+##### 3. Wirtschaft & Innovation
 
 * **Reales BIP (2024):** 131 481 Mio. EUR ([Eurostat tec00115](https://ec.europa.eu/eurostat/databrowser/view/tec00115/default/table))
 * **BIP pro Kopf (2023):** 44 731 USD (\~ 41 000 EUR) ([World Bank NY.GDP.PCAP.CD](https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=BE))
@@ -8759,33 +9281,33 @@ version: "1.0"
 * **F\&E-Quote (2023):** 2,5 % des BIP ([Eurostat rd\_e\_gerdtot](https://ec.europa.eu/eurostat/databrowser/view/rd_e_gerdtot/default/table))
 * **Patente/Jahr:** ≈ 4 500 Anmeldungen ([WIPO IP Statistics](https://www.wipo.int/ipstats/en/))
 * **Mitgliedschaften & Allianzen:** FORTERA Alliance Mitglied (hypothetisch: ERDA Scenario Modeling Report 2025e Organisation – zur Initiierung empfohlen)
-##### 3.1 Infrastrukturautarkie
+###### 3.1 Infrastrukturautarkie
 
 * **Produktionssouveränität:** Energie ✔ | IT ✔ | Verteidigung ✘ | Ernährung ✔
 
-#### 4. Ressourcenprofil
+##### 4. Ressourcenprofil
 
-##### 🌱 Natürliche Ressourcen:
+###### 🌱 Natürliche Ressourcen:
 
 * **Fläche:** 30 689 km² Land, 1 200 km² Wasser ([Eurostat land\_marea](https://ec.europa.eu/eurostat/databrowser/view/land_marea/default/table))
 * **Rohstoffe:** Zink, Blei, Kies, Holz ([USGS Minerals Yearbook](https://pubs.usgs.gov/periodicals/mcs2024/mcs2024.pdf))
 * **Erneuerbare Potenziale:** Nordsee-Wind, Solar, Biomasse ([EEA](https://www.eea.europa.eu))
 * **Schutzgebiete:** 12 % Gesamtfläche (Ramsar-Übersicht)
 
-##### 🧑‍🤝‍🧑 Soziale Ressourcen:
+###### 🧑‍🤝‍🧑 Soziale Ressourcen:
 
 * **Ehrenamtliche Beteiligung:** 27 % ([Eurobarometer 95.3](https://europa.eu/eurobarometer/surveys/detail/2472))
 * **Civic Tech-Plattformen:** 15 kommunale Instanzen ([CIVITAS](https://civitas.eu))
 * **Gesundheitssystem:** Universeller Zugang; Präventivausgaben 11 % ([OECD Health Stats](https://www.oecd.org/health/health-data.htm))
 
-##### 🛡️ Politische Ressourcen:
+###### 🛡️ Politische Ressourcen:
 
 * **Verfassungsbindung:** Konstitutionelle Monarchie seit 1831 ([Belgium.be](https://www.belgium.be/de/ueber_belgien/staat/federale_staat))
 * **Direkte Demokratie:** Regionale Volksbegehren möglich ([Fed. Public Service Home Affairs](https://www.belgium.be/de/))
 * **Rechtsstaat-Index:** 0,83 ([World Justice Project](https://worldjusticeproject.org))
 * **Vertrauen:** 49 % EU-Institutionen, 36 % Parlament ([Eurobarometer 522](https://data.europa.eu/data/datasets/s2226_522))
 
-#### 5. Sicherheit & strategische Rolle (EDA)
+##### 5. Sicherheit & strategische Rolle (EDA)
 
 * **Militärisches Potenzial:** DSN-fit, eigenes Cyberkommando ([NATO Defence Outlook](https://www.nato.int))
 * **Verteidigungsausgaben (2023):** 1,2 % des BIP ([SIPRI](https://www.sipri.org))
@@ -8793,7 +9315,7 @@ version: "1.0"
 * **Zivile Resilienz:** Lokale Notfallpläne ([Federal Public Service Interior](https://www.belgium.be))
 * **Drohnen/Raumfahrt/KI:** Basisinfrastruktur vorhanden ([ESA EU Space Programme](https://www.esa.int))
 
-#### 6. Kulturelle Identität & Soft Power
+##### 6. Kulturelle Identität & Soft Power
 
 * **Sprachen:** Niederländisch, Französisch, Deutsch ([Eurostat tps00020](https://ec.europa.eu/eurostat/databrowser/view/tps00020))
 * **UNESCO-Welterbe:** 13 Stätten (2024) ([UNESCO](https://whc.unesco.org/en/statesparties/be))
@@ -8802,7 +9324,7 @@ version: "1.0"
 * **Olympia-Teilnahmen:** Regelmäßig seit 1900 ([IOC](https://olympics.com))
 * **Kulturvermittlung:** EU-Programme, Frankophonie-Netzwerk ([European Commission](https://ec.europa.eu/culture))
 
-#### 7. Entwicklungspfad (2025 – 2075)
+##### 7. Entwicklungspfad (2025 – 2075)
 
 * **Status 2025:** Stabile Wirtschaft, alternde Gesellschaft, hoher Digitalisierungsgrad
 * **Best Case 2075:** CO$_2$-Neutralität; Bevölkerungswachstum auf 11,2 Mio.; Weltspitze Cybersecurity
@@ -8813,7 +9335,7 @@ version: "1.0"
 
 > _„Belgien ist im Jahr 2075 ein führender Cyber- und Kulturhub innerhalb der ERDA, mit besonderer Bedeutung für nachhaltige Digitalisierung und grenzüberschreitende Demokratieförderung.“_
 
-#### 8. Narrative & Anwerbewirkung
+##### 8. Narrative & Anwerbewirkung
 
 > **„Belgien zeigt, dass föderale Struktur und Innovationskraft nachhaltiges Wachstum ermöglichen.“**
 
@@ -8821,7 +9343,7 @@ version: "1.0"
 * Nationale Pride durch UNESCO-Beiträge & Nobel-Preisträger:innen
 * Offene Kulturprogramme signalisieren internationale Kooperation
 
-#### 9. Kennzahlenübersicht (Kurzform)
+##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                                                                                      | 2025  | 2050  | 2075  |
 | ---------------------------------------------------------------------------------------------- | ----- | ----- | ----- |
@@ -8832,16 +9354,16 @@ version: "1.0"
 | [Bildungsquote (\%)](https://ec.europa.eu/eurostat/databrowser/view/edat\_lfse\_23/default/table) | 50    | 60    | 65    |
 | KI-Kapazität [0–10]                                                                           | 7     | 9     | 10    |
 | Zivilgesellschaftlicher Index [0–10]                                                          | 8     | 9     | 10    |
-#### 10. Kurzfassung: „Belgien auf einen Blick"
+##### 10. Kurzfassung: „Belgien auf einen Blick"
 
 _"Belgien ist im Jahr 2075 ein führender Cyber- und Kulturhub innerhalb der ERDA, mit besonderer Bedeutung für nachhaltige Digitalisierung und grenzüberschreitende Demokratieförderung."_
 
-#### 11. Quellen & Modellierungen
-##### 11.1 ℹ️ Allgemeines
+##### 11. Quellen & Modellierungen
+###### 11.1 ℹ️ Allgemeines
 
 * Statistik: nationale und internationale Quellen (u.a. Eurostat, UN), Basisjahr 2025.
 
-##### 11.2 📎 Verwendete Quellen & Verweise
+###### 11.2 📎 Verwendete Quellen & Verweise
 
 
 ###### A. Überblick & Meta
@@ -8948,7 +9470,7 @@ _"Belgien ist im Jahr 2075 ein führender Cyber- und Kulturhub innerhalb der ERD
 42. _ERDA Secretariat (2025):_ _ERDA Vision 2075 – Concept Paper._ Brussels: ERDA.
 43. _Interne Projektdokumentation ERDA (2025):_ _Szenarioanalyse 2025–2075._ Brussels: ERDA.
 
-##### 11.3 🛠️ Modellierungen & Annahmen
+###### 11.3 🛠️ Modellierungen & Annahmen
 * Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
 * Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
@@ -8958,15 +9480,14 @@ _"Belgien ist im Jahr 2075 ein führender Cyber- und Kulturhub innerhalb der ERD
 
 ***
 
-#### 12. 🤝 Mitwirkung willkommen
+##### 12. 🤝 Mitwirkung willkommen
 
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen des Königreichs Belgien sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
-##### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: ERDA Buch Redaktion (siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon)).
-Kontakt: siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon).
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
-Letzte Änderung: 2025-05-28
+###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 
 
 \newpage
@@ -8982,11 +9503,12 @@ version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-bg-staatenprofil-bulgarien"></a>
 
-## BG - Staatenprofil Bulgarien
 
-### 🇧🇬 ERDA-Staatenprofil: Bulgarien
+### BG - Staatenprofil Bulgarien
 
-#### 1. Überblick (Meta)
+#### 🇧🇬 ERDA-Staatenprofil: Bulgarien
+
+##### 1. Überblick (Meta)
 
 * Offizieller Name: Republik Bulgarien
 * Geografische Lage (Kontinent, Region): Südosteuropa, Balkan, Schwarzmeerküste
@@ -8995,7 +9517,7 @@ version: "1.0"
 * 📅 ERDA-Status: Mitglied
 * Zukünftige Rolle im ERDA-Netzwerk: Brückenknoten Balkan-Schwarzmeer, Digitalisierungsdrehscheibe
 
-#### 2. Demografie & Gesellschaft
+##### 2. Demografie & Gesellschaft
 
 * Bevölkerung Prognose (2050 / 2075): 5,5 Mio. / 4,9 Mio. (UN WPP 2022, hypothetisch: ERDA Scenario Modeling Report 2025)
 * Altersstruktur (Medianalter, Jugendanteil %, Altenquotient): 45 Jahre, 14,5 %, 21,8 % (World Bank 2023)
@@ -9005,7 +9527,7 @@ version: "1.0"
 * Migrationssaldo pro Jahr (Durchschnitt 2025–2075): -0,3 % (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Soziale Kohäsion (Zufriedenheitsindex [0–10], Demokratievertrauen [%]): 5,5 / 45 % (Eurobarometer 2024)
 
-#### 3. Wirtschaft & Innovation
+##### 3. Wirtschaft & Innovation
 
 * Bruttoinlandsprodukt (BIP real, heute / 2050 / 2075 in Mrd. EUR): 97,5 / 140 / 200 (World Bank 2023, langfristige Projektion hypothetisch: ERDA Scenario Modeling Report 2025)
 * BIP pro Kopf (EUR): ca. 15.000 EUR
@@ -9017,7 +9539,7 @@ version: "1.0"
 * Mitglied im Democracy Trade Network [Ja | Nein]: Ja (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Nutzung von EHAM+ (Handelsabwehr) [0–10]: 4 (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-##### 3.1 Infrastrukturautarkie
+###### 3.1 Infrastrukturautarkie
 
 * Produktionssouveränität in strategischen Sektoren:
   * Energie [☑ | ☐] ☑
@@ -9028,9 +9550,9 @@ version: "1.0"
   * Quantentechnologie [☑ | ☐] ☐
   * Autonome Logistiksysteme [☑ | ☐] ☐
 
-#### 4. Ressourcenprofil
+##### 4. Ressourcenprofil
 
-##### Natürliche Ressourcen
+###### Natürliche Ressourcen
 
 * Landfläche (km²): 110.879
 * Meeresfläche (falls relevant, km²): Schwarzmeerküste (Binnenmeer)
@@ -9039,13 +9561,13 @@ version: "1.0"
 * Anteil Biodiversität & Schutzgebiete (% der Fläche): 34 % (EEA 2023)
 * Nachhaltigkeitskennzahlen (CO$_2$-Ausstoß pro Kopf, Recyclingquote, Materialverbrauch pro Kopf): 5,5 t, 35 %, 11 t (Eurostat 2022)
 
-##### Soziale Ressourcen
+###### Soziale Ressourcen
 
 * Ehrenamt & Gemeinschaftskultur (Index [0–10]): 6 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * CIVITAS-Partizipationsindex [0–10]: 5 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Gesundheitssystem (Zugänglichkeit [0–10], Prävention [0–10]): 7 / 6
 
-##### Politische Ressourcen
+###### Politische Ressourcen
 
 * Verfassungsbindung [Ja | Nein]: Ja
 * Direkte Demokratieinstrumente [Vorhanden | Teilweise | Nicht vorhanden]: Teilweise
@@ -9054,7 +9576,7 @@ version: "1.0"
 * Rechtstaatlichkeitsindex [0–10]: 6,5 (World Justice Project 2023)
 * Internationale Vertrauenswerte [0–10]: 5,5 (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-#### 5. Sicherheit & Strategische Rolle (EDA)
+##### 5. Sicherheit & Strategische Rolle (EDA)
 
 * Militärisches Potenzial:
   * DSN-geeignet [☑ | ☐] ☐
@@ -9068,14 +9590,14 @@ version: "1.0"
 * Zivile Resilienzprogramme [Vorhanden | Teilweise | Nicht vorhanden]: Teilweise
 * Drohnen-/Raumfahrt-/KI-Kapazitäten [Vorhanden | Teilweise | Nicht vorhanden]: Nicht vorhanden
 
-##### 5.1 Arktisstrategie & Planetare Verantwortung
+###### 5.1 Arktisstrategie & Planetare Verantwortung
 
 * Integration in EDA-DSN Nordmeer [Ja | Nein]: Nein
 * Beteiligung am Arctic Resilience Observatory [Ja | Nein]: Nein
 * Umsetzung Arctic Democracy Mining Act [Ja | Nein]: Nein
 * Partnerschaften mit indigenen Gemeinschaften [Ja | Nein]: Nein
 
-#### 6. Kulturelle Identität & Soft Power
+##### 6. Kulturelle Identität & Soft Power
 
 * Sprachen / Indigene Kulturen: Bulgarisch, Minderheitensprachen (Türkisch, Roma)
 * UNESCO-Welterbe / Kulturstätten (Anzahl): 10 Stätten (UNESCO 2024)
@@ -9083,22 +9605,22 @@ version: "1.0"
 * Internationale Sichtbarkeit (Olympische Spiele, Nobelpreise, etc.): moderat, olympische Erfolge im Gewichtheben und Ringen
 * Rolle der Kultur als Vermittlungsfaktor in Demokratienetzwerken [0–10]: 5 (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-#### 7. Entwicklungspfad (2025–2075)
+##### 7. Entwicklungspfad (2025–2075)
 
-##### Szenario-Entwicklung
+###### Szenario-Entwicklung
 
 * Status 2025 (kurze Lageeinschätzung): wirtschaftliche Stabilisierung, demografischer Rückgang
 * Best Case 2050/2075 (optimistische Ziele & Vorteile): digitalisierte Wirtschaft, starke Anbindung an EU-Wertschöpfungsketten, Bevölkerungsrückgang gestoppt
 * Base Case 2050/2075 (realistische Entwicklung): moderates Wachstum, anhaltende Abwanderung, steigende Innovationsanstrengungen
 * Worst Case 2050/2075 (potenzielle Risiken, kritische Entwicklungen & proaktive Lösungsansätze): anhaltende Abwanderung, geringe Innovationsquote, Überalterung – Gegenmaßnahmen durch Bildungsinitiativen
 
-##### Rolle in der ERDA-Vision 2075
+###### Rolle in der ERDA-Vision 2075
 
 * Beitrag zur Post-Knappheitsökonomischen Ordnung: verstärkte Nutzung erneuerbarer Energien, digitale Services
 * Demokratische Resilienz (sozial, kulturell, ökologisch): ausbaufähig
 * Exemplarische Wirkung auf andere Staaten / Regionen: Vorbild für digitalen Wandel im Balkan (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-#### 8. Narrative & Anwerbewirkung
+##### 8. Narrative & Anwerbewirkung
 
 * Kernbotschaft: „Bulgarien zeigt, dass nachhaltige Transformation auch in strukturschwächeren Regionen möglich ist.“
 * Beispiele für starke, wirkungsvolle Narrative und Einladungen: Innovationszentren in Sofia und Plowdiw, EU-finanzierte Infrastruktur
@@ -9106,7 +9628,7 @@ version: "1.0"
 * Zukunftswürde: Historische Kultur, moderne digitale Wirtschaft
 * Einladung an andere Staaten & Bürger:innen: Bulgarien öffnet sich als Schnittstelle zwischen Europa und Asien
 
-#### 9. Kennzahlenübersicht (Kurzform)
+##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025 | 2050 | 2075 | EU-Durchschnitt 2024 |
 | ------------------------------------- | ---- | ---- | ---- | -------------------- |
@@ -9120,13 +9642,13 @@ version: "1.0"
 
 Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-#### 10. Kurzfassung: „Bulgarien auf einen Blick“
+##### 10. Kurzfassung: „Bulgarien auf einen Blick“
 
 Bulgarien ist ein traditionsreiches Balkanland mit EU-Mitgliedschaft und wachsenden Ambitionen in der Digitalwirtschaft. Trotz demografischer Herausforderungen bietet es Potenzial in erneuerbaren Energien und als Brücke zwischen West- und Südosteuropa.
 
-#### 11. Quellen & Modellierungen
+##### 11. Quellen & Modellierungen
 
-##### 11.1 ℹ️ Allgemeines
+###### 11.1 ℹ️ Allgemeines
 
 * Statistik: World Bank Daten (2023) zu Bevölkerung, Wirtschaft und Urbanisierung
 * Modellannahmen: UN World Population Prospects 2022 (hypothetisch: ERDA Scenario Modeling Report 2025), nationale Entwicklungspläne Bulgariens
@@ -9135,7 +9657,7 @@ Bulgarien ist ein traditionsreiches Balkanland mit EU-Mitgliedschaft und wachsen
 * Demokratie & Rechtsstaatlichkeit: Freedom House 2024, World Justice Project 2023
 * Nachhaltigkeits- und Ressourcenindikatoren: European Environment Agency 2023
 
-##### 11.2 📎 Verwendete Quellen & Verweise
+###### 11.2 📎 Verwendete Quellen & Verweise
 
 1. World Bank. 2024. "World Development Indicators". <https://databank.worldbank.org/source/world-development-indicators> (Letzter Zugriff am 2025-06-11).
 2. Freedom House. 2024. "Freedom in the World 2024: Bulgaria". [https://freedomhouse.org](https://freedomhouse.org) (Letzter Zugriff am 2025-06-11).
@@ -9143,7 +9665,7 @@ Bulgarien ist ein traditionsreiches Balkanland mit EU-Mitgliedschaft und wachsen
 4. OECD. 2022. "Education at a Glance". [https://www.oecd.org](https://www.oecd.org) (Letzter Zugriff am 2025-06-11).
 5. NATO. 2024. "Defence Expenditure of NATO Countries". [https://www.nato.int](https://www.nato.int) (Letzter Zugriff am 2025-06-11).
 
-##### 11.3 🛠️ Modellierungen & Annahmen
+###### 11.3 🛠️ Modellierungen & Annahmen
 * Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
 * Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
@@ -9169,14 +9691,13 @@ Bulgarien ist ein traditionsreiches Balkanland mit EU-Mitgliedschaft und wachsen
 * Potenzial Solar PV: 20 GWp (moderat), 35 GWp (ambitioniert) (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Quellen: IEA 2024, nationale Strategie
 
-#### 12. 🤝 Mitwirkung willkommen
+##### 12. 🤝 Mitwirkung willkommen
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Bulgarien sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
-##### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: ERDA Buch Redaktion (siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon)).
-Kontakt: [info@mfa.bg](mailto:info@mfa.bg)
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
-Letzte Änderung: 2025-06-11
+###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 
 
 \newpage
@@ -9192,11 +9713,12 @@ version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-cz-staatenprofil-tschechien"></a>
 
-## CZ - Staatenprofil Tschechien
 
-### 🇨🇿 ERDA-Staatenprofil: Tschechien
+### CZ - Staatenprofil Tschechien
 
-#### 1. Überblick (Meta)
+#### 🇨🇿 ERDA-Staatenprofil: Tschechien
+
+##### 1. Überblick (Meta)
 
 * 🏳️ Offizieller Name: Tschechische Republik
 * 📺 Geografische Lage: Mitteleuropa, Nachbarstaaten: Deutschland, Polen, Österreich, Slowakei
@@ -9207,7 +9729,7 @@ version: "1.0"
 
 ***
 
-#### 2. Demografie & Gesellschaft
+##### 2. Demografie & Gesellschaft
 
 * Bevölkerung (2050/2075-Prognose): 10,1 Mio. / 9,8 Mio.
 * Altersstruktur: Medianalter: 44; Jugendanteil: 15,5 %; Altenquotient: steigend (60+ ca. 32 % bis 2075)
@@ -9219,7 +9741,7 @@ version: "1.0"
 
 ***
 
-#### 3. Wirtschaft & Innovation
+##### 3. Wirtschaft & Innovation
 
 * BIP (Mrd. EUR): 2025: 295 | 2050: 430 | 2075: 510
 * BIP pro Kopf: ca. 28.000 EUR (2025)
@@ -9229,28 +9751,28 @@ version: "1.0"
 * Patente/Jahr: ca. 4.000 (leicht steigend)
 * Mitglied in FORTERA-Handelsallianzen: Ja
 
-##### 3.1 Infrastrukturautarkie
+###### 3.1 Infrastrukturautarkie
 
 * Produktionssouveränität in strategischen Sektoren: Energie ☑, IT ☑, Verteidigung ☑, Ernährung ☑
 
 ***
 
-#### 4. Ressourcenprofil
+##### 4. Ressourcenprofil
 
-##### 🌱 Natürliche Ressourcen:
+###### 🌱 Natürliche Ressourcen:
 
 * Landfläche: 78.871 km²
 * Strategische Rohstoffe: Bauxit, Graphit, Uran, Lithium (entdeckte Lagerstätten)
 * Erneuerbare Energiepotenziale: Wind (Hochlagen), Biomasse, begrenzt Solar
 * Biodiversität & Schutzgebiete: ca. 22 %
 
-##### 🧑‍🤝‍🧑 Soziale Ressourcen:
+###### 🧑‍🤝‍🧑 Soziale Ressourcen:
 
 * Ehrenamt & Gemeinschaftskultur: 7 / 10
 * Civic-Tech-Nutzung: mittel (Pilotierung CIVITAS-Regionen geplant ab 2027)
 * Gesundheitssystem: Zugänglichkeit: 8 / 10; Prävention: 6 / 10
 
-##### 🛡️ Politische Ressourcen:
+###### 🛡️ Politische Ressourcen:
 
 * Verfassungsbindung: Ja
 * Direkte Demokratieinstrumente: Teilweise (lokale Volksentscheide)
@@ -9259,7 +9781,7 @@ version: "1.0"
 
 ***
 
-#### 5. Sicherheit & strategische Rolle (EDA)
+##### 5. Sicherheit & strategische Rolle (EDA)
 
 * Militärisches Potenzial: [☑ DSN-geeignet, ☑ Cyberkommando, ☑ Frühwarnsystem]
 * Verteidigungsausgaben: 1,9 % des BIP (2025)
@@ -9269,7 +9791,7 @@ version: "1.0"
 
 ***
 
-#### 6. Kulturelle Identität & Soft Power
+##### 6. Kulturelle Identität & Soft Power
 
 * Sprachen: Tschechisch (Amtssprache), Slowakisch (verstehbar), regionale Minderheitensprachen
 * UNESCO-Welterbe: 14 Stätten
@@ -9279,15 +9801,15 @@ version: "1.0"
 
 ***
 
-#### 7. Entwicklungspfad (2025–2075)
+##### 7. Entwicklungspfad (2025–2075)
 
-##### 🔭 Szenario-Entwicklung:
+###### 🔭 Szenario-Entwicklung:
 
 * **Status 2025**: Industrienation mit hoher Ausbildungstiefe, jedoch Innovationslücken
 * **Strategische Investitionen 2025–2050**: Digitalisierung der KMU-Landschaft, Energiewende, Bildungssystem-Upgrade
 * **Transformation 2050–2075**: Hohe Souveränität bei Energie, Innovation, Teilhabe; neue Rolle als Bildungsbrücke im ERDA-Ostraum
 
-##### 🚀 Rolle in der ERDA-Vision 2075:
+###### 🚀 Rolle in der ERDA-Vision 2075:
 
 > _„Tschechien ist im Jahr 2075 ein dialogorientierter Vermittlerstaat in der ERDA, mit besonderer Bedeutung für Bildungskooperation, industrielle Resilienz und mitteleuropäische Kohäsion.“_
 
@@ -9297,7 +9819,7 @@ version: "1.0"
 
 ***
 
-#### 8. Narrative & Anwerbewirkung
+##### 8. Narrative & Anwerbewirkung
 
 > _„Tschechien zeigt, dass Bildung, technologische Souveränität und kulturelle Identität auch in kleineren Staaten ein demokratisches Fundament für Zukunftswürde schaffen.“_
 
@@ -9307,7 +9829,7 @@ version: "1.0"
 
 ***
 
-#### 9. Kennzahlenübersicht (Kurzform)
+##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025  | 2050  | 2075 |
 | ------------------------------------- | ----- | ----- | ---- |
@@ -9321,18 +9843,18 @@ version: "1.0"
 
 ***
 
-#### 10. Kurzfassung: „Tschechien auf einen Blick“
+##### 10. Kurzfassung: „Tschechien auf einen Blick“
 
 Tschechien ist ein mitteleuropäischer Industriestaat mit starker Bildungsidentität und wachsender technologischer Souveränität. Als Vermittler innerhalb der ERDA verbindet das Land Bildung, Innovation und regionale Kooperation.
 
-#### 11. Quellen & Modellierungen
+##### 11. Quellen & Modellierungen
 
-##### 11.1 ℹ️ Allgemeines
+###### 11.1 ℹ️ Allgemeines
 
 * Statistik: Tschechisches Statistikamt (CSU), OECD, Eurostat
 * Modelle: ERDA-Projektionsmodell 2025ff (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-##### 11.2 📎 Verwendete Quellen & Verweise
+###### 11.2 📎 Verwendete Quellen & Verweise
 
 **Politik & Demokratie**
 * Freedom House, Demokratieindex
@@ -9340,7 +9862,7 @@ Tschechien ist ein mitteleuropäischer Industriestaat mit starker Bildungsidenti
 **Wirtschaft & Gesellschaft**
 * Prognosekonvergenz mit vergleichbaren CEE-Staaten (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-##### 11.3 🛠️ Modellierungen & Annahmen
+###### 11.3 🛠️ Modellierungen & Annahmen
 * Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
 * Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
@@ -9349,15 +9871,14 @@ Tschechien ist ein mitteleuropäischer Industriestaat mit starker Bildungsidenti
 
 ***
 
-#### 12. 🤝 Mitwirkung willkommen
+##### 12. 🤝 Mitwirkung willkommen
 
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Tschechischen Republik sowie interessierte Fachstellen sind eingeladen, Ergänzungen einzubringen.
 
-##### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: ERDA Buch Redaktion (siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon)).
-Kontakt: siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon).
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
-Letzte Änderung: 2025-06-10
+###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 
 
 \newpage
@@ -9374,11 +9895,12 @@ version: "1.0"
 <a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-staatenprofil-deutschland-de"></a>
 
 
-## DE - Staatenprofil Deutschland
 
-### 🇩🇪 ERDA-Staatenprofil: Deutschland
+### DE - Staatenprofil Deutschland
 
-#### 1. Überblick (Meta)
+#### 🇩🇪 ERDA-Staatenprofil: Deutschland
+
+##### 1. Überblick (Meta)
 
 * 🏳️ **Offizieller Name:** Bundesrepublik Deutschland
 * 🗺️ **Geografische Lage:** Mitteleuropa
@@ -9389,7 +9911,7 @@ version: "1.0"
 
 ***
 
-#### 2. Demografie & Gesellschaft
+##### 2. Demografie & Gesellschaft
 
 * **Bevölkerung (2050/2075-Prognose):**
   * 2050: 82,0 Mio. Einw. (UN WPP, Medium Variant)
@@ -9411,7 +9933,7 @@ version: "1.0"
 
 ***
 
-#### 3. Wirtschaft & Innovation
+##### 3. Wirtschaft & Innovation
 
 * **BIP (Mrd. EUR):**
   * 2025: 4 200 ([Destatis – VGR](https://www.destatis.de/DE/Themen/Wirtschaft/Volkswirtschaftliche-Gesamtrechnungen/Volkseinkommen-Volkswirtschaftliche-Gesamtrechnungen/_inhalt.html))
@@ -9431,7 +9953,7 @@ version: "1.0"
 * **Mitglied im Democracy Trade Network:** Ja
 * **Nutzung von EHAM+:** 9/10 (ERDA-Projektindex)
 
-##### 3.1 Infrastrukturautarkie
+###### 3.1 Infrastrukturautarkie
 
 * Energie [☑], IT/Cloud [☑], Verteidigung [☑], Ernährung [☑]
 * Satellitenkommunikation (IRIS²) [☑]
@@ -9440,9 +9962,9 @@ version: "1.0"
 
 ***
 
-#### 4. Ressourcenprofil
+##### 4. Ressourcenprofil
 
-##### 🌱 Natürliche Ressourcen
+###### 🌱 Natürliche Ressourcen
 
 * Landfläche: 357 022 km² (Destatis)
 * Meeresfläche: Nord- und Ostseeanteil (BfG)
@@ -9450,13 +9972,13 @@ version: "1.0"
 * Erneuerbare Energiepotenziale: Wind (Nord/Ost), Solar (Süd) (BMWi)
 * Biodiversität & Schutzgebiete: ca. 35 % (BfN)
 
-##### 🧑‍🤝‍🧑 Soziale Ressourcen
+###### 🧑‍🤝‍🧑 Soziale Ressourcen
 
 * Ehrenamt & Gemeinschaftskultur: 8/10 (BMFSFJ Freiwilligensurvey)
 * CIVITAS-Partizipationsindex: 7,5/10
 * Gesundheitssystem: Zugang 9/10 | Prävention 6,5/10 (RKI)
 
-##### 🛡️ Politische Ressourcen
+###### 🛡️ Politische Ressourcen
 
 * Verfassungsbindung: Ja
 * Direkte Demokratieinstrumente: Volksbegehren auf Landesebene
@@ -9467,7 +9989,7 @@ version: "1.0"
 
 ***
 
-#### 5. Sicherheit & strategische Rolle (EDA)
+##### 5. Sicherheit & strategische Rolle (EDA)
 
 * **Militärisches Potenzial:**
   * DSN-geeignet [☑]
@@ -9480,7 +10002,7 @@ version: "1.0"
 
 ***
 
-#### 6. Kulturelle Identität & Soft Power
+##### 6. Kulturelle Identität & Soft Power
 
 * **Sprachen:** Deutsch; Minderheitensprachen: Sorbisch, Dänisch, Friesisch, Romanes
 * **UNESCO-Kulturerbe:** 51 Stätten (2024) (UNESCO)
@@ -9490,9 +10012,9 @@ version: "1.0"
 
 ***
 
-#### 7. Entwicklungspfad (2025–2075)
+##### 7. Entwicklungspfad (2025–2075)
 
-##### 🔭 Szenario-Entwicklung
+###### 🔭 Szenario-Entwicklung
 
 * **Status 2025:** Industriestaat mit hoher Innovations- & Sozialkapazität, demografischen Spannungen
 * **Best Case 2075:** Führende Bildungstechnologie- und KI-Nation mit starker Zivilgesellschaft
@@ -9501,7 +10023,7 @@ version: "1.0"
 
 **Erzählstrang:** 2025–2050: Ausbau KI-Bildung, Energiewende, Demografie-Initiativen. 2050–2075: Vollautomatisierte Industrie, post-arbeitszeitliche Gesellschaft.
 
-##### 🚀 ERDA-Vision 2075
+###### 🚀 ERDA-Vision 2075
 
 > _„Deutschland ist 2075 eine Technologiedemokratie, die Automatisierung und Partizipation exemplarisch verbindet.“_
 
@@ -9511,7 +10033,7 @@ version: "1.0"
 
 ***
 
-#### 8. Narrative & Anwerbewirkung
+##### 8. Narrative & Anwerbewirkung
 
 > _„Deutschland zeigt, dass technologische Souveränität und soziale Demokratie sich gegenseitig ermöglichen.“_
 
@@ -9521,7 +10043,7 @@ version: "1.0"
 
 ***
 
-#### 9. Kennzahlenübersicht (Kurzform)
+##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025      | 2050      | 2075      |
 | ------------------------------------- | --------- | --------- | --------- |
@@ -9535,22 +10057,22 @@ version: "1.0"
 
 ***
 
-#### 10. Kurzfassung: „Deutschland auf einen Blick“
+##### 10. Kurzfassung: „Deutschland auf einen Blick“
 
 Deutschland ist eine innovationsstarke Demokratie mit hoher Lebensqualität und
 führender Rolle in Europa. Starkes Bildungssystem und ausgeprägte
 Industriekompetenz verbinden sich mit einer digitalen und nachhaltigen Agenda.
 
-#### 11. Quellen & Modellierungen
+##### 11. Quellen & Modellierungen
 
-##### 11.1 ℹ️ Allgemeines
+###### 11.1 ℹ️ Allgemeines
 
 * Statistik: Mischung aus nationalen und internationalen Quellen, Basisjahr 2025.
 * Modellannahmen: BIP-Wachstum 1,5 % p.a., Demografie laut Destatis.
 * Energiepotenziale: IEA und Fraunhofer ISE.
 * Demokratie- und Rechtsstaatsindizes nach Freedom House und WJP.
 
-##### 11.2 📎 Verwendete Quellen & Verweise
+###### 11.2 📎 Verwendete Quellen & Verweise
 
 **A. Demografie & Gesellschaft**
 
@@ -9599,7 +10121,7 @@ Industriekompetenz verbinden sich mit einer digitalen und nachhaltigen Agenda.
 21. **Freedom House (2024):** _Freedom in the World 2024._ Washington, DC: Freedom House. Online verfügbar unter: [https://freedomhouse.org/report/freedom-world](https://freedomhouse.org/report/freedom-world) (Zugriff am 2025-05-21)
 22. **Europäische Kommission (2024):** _Eurobarometer Survey 2251: Vertrauen in EU-Institutionen._ Brüssel: Europäische Kommission. Online verfügbar unter: [https://europa.eu/eurobarometer/surveys/survey-detail/2251](https://europa.eu/eurobarometer/surveys/survey-detail/2251) (Zugriff am 2025-05-21)
 
-##### 11.3 🛠️ Modellierungen & Annahmen
+###### 11.3 🛠️ Modellierungen & Annahmen
 * Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
 * Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
@@ -9607,15 +10129,14 @@ Industriekompetenz verbinden sich mit einer digitalen und nachhaltigen Agenda.
 * Wirtschaftliche Projektionen 2050–2075: 1,5 % reales Wachstum p.a. (hypothetisch: ERDA Scenario Modeling Report 2025).
 * Infrastrukturautarkie: Ziel 80 % erneuerbare Energieversorgung (hypothetisch: ERDA Scenario Modeling Report 2025).
 
-#### 12. 🤝 Mitwirkung willkommen
+##### 12. 🤝 Mitwirkung willkommen
 
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Bundesrepublik Deutschland sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
-##### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: ERDA Buch Redaktion (siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon)).
-Kontakt: siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon).
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
-Letzte Änderung: 2025-06-10
+###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 
 
 \newpage
@@ -9631,11 +10152,12 @@ version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-dk-staatenprofil-danemark"></a>
 
-## DK - Staatenprofil Dänemark
 
-### 🇩🇰 ERDA-Staatenprofil: Dänemark
+### DK - Staatenprofil Dänemark
 
-#### 1. Überblick (Meta)
+#### 🇩🇰 ERDA-Staatenprofil: Dänemark
+
+##### 1. Überblick (Meta)
 
 * 🏳️ **Offizieller Name:** Königreich Dänemark
 * 🗺️ **Geografische Lage:** Nordeuropa, Skandinavien, zwischen Nordsee und Ostsee
@@ -9646,7 +10168,7 @@ version: "1.0"
 
 ***
 
-#### 2. Demografie & Gesellschaft
+##### 2. Demografie & Gesellschaft
 
 * Bevölkerung (2050 / 2075-Prognose): 6,12 Mio. / 6,10 Mio.
 * Altersstruktur: Medianalter 41,3 J.; Jugendanteil (0–14 J.) 15 %; Altenquotient (65 + J.) 22 %
@@ -9658,7 +10180,7 @@ version: "1.0"
 
 ***
 
-#### 3. Wirtschaft & Innovation
+##### 3. Wirtschaft & Innovation
 
 * BIP (real, 2025 / 2050 / 2075 in Mrd. EUR): 400 / – / –
 * BIP pro Kopf: 66.420 EUR
@@ -9669,7 +10191,7 @@ version: "1.0"
 * Mitglied in FORTERA-Handelsallianzen: Ja
 * Produktionssouveränität: Energie ☑, IT/Cloud ☐, Verteidigung ☐, Ernährung ☐
 
-##### 3.1 Infrastrukturautarkie
+###### 3.1 Infrastrukturautarkie
 
 * Produktionssouveränität in strategischen Sektoren:
   * ☑ Energie
@@ -9679,22 +10201,22 @@ version: "1.0"
 
 ***
 
-#### 4. Ressourcenprofil
+##### 4. Ressourcenprofil
 
-##### 🌱 Natürliche Ressourcen:
+###### 🌱 Natürliche Ressourcen:
 
 * Landfläche: 43.094 km²; Meeresfläche: 100.000 km²
 * Rohstoffe: Offshore-Wind, Wasser
 * Erneuerbare Potentiale: Wind hoch, Solar moderat, Biomasse hoch
 * Schutzgebiete: 10 %
 
-##### 🧑‍🤝‍🧑 Soziale Ressourcen:
+###### 🧑‍🤝‍🧑 Soziale Ressourcen:
 
 * Ehrenamt & Gemeinschaft: 8 / 10
 * CIVITAS-Partizipation: 8 / 10
 * Gesundheit: Zugang 9 / 10; Prävention 8 / 10
 
-##### 🛡️ Politische Ressourcen:
+###### 🛡️ Politische Ressourcen:
 
 * Verfassungsbindung: Ja
 * Direkte Demokratie: Volksabstimmungen
@@ -9705,7 +10227,7 @@ version: "1.0"
 
 ***
 
-#### 5. Sicherheit & strategische Rolle (EDA)
+##### 5. Sicherheit & strategische Rolle (EDA)
 
 * Militärisches Potenzial:
   * DSN ☐
@@ -9718,7 +10240,7 @@ version: "1.0"
 
 ***
 
-#### 6. Kulturelle Identität & Soft Power
+##### 6. Kulturelle Identität & Soft Power
 
 * Sprachen: Dänisch; Färöisch, Grönländisch, Deutsch
 * UNESCO-Welterbe: 10 Stätten
@@ -9728,15 +10250,15 @@ version: "1.0"
 
 ***
 
-#### 7. Entwicklungspfad (2025–2075)
+##### 7. Entwicklungspfad (2025–2075)
 
-##### 🔭 Szenario-Entwicklung:
+###### 🔭 Szenario-Entwicklung:
 
 * **2025:** Stabiler Wohlfahrtsstaat, Alterung
 * **2025–2050:** Ausbau grüner H2, Digitalisierung, Bürgerlabore
 * **2050–2075:** Globaler Pionier grüne Technologien; hohe Lebensqualität
 
-##### 🚀 ERDA-Vision 2075:
+###### 🚀 ERDA-Vision 2075:
 
 > „Dänemark ist 2075 ein global anerkanntes Zentrum für grüne Technologien und demokratische Nachhaltigkeit.“
 
@@ -9746,7 +10268,7 @@ version: "1.0"
 
 ***
 
-#### 8. Narrative & Anwerbewirkung
+##### 8. Narrative & Anwerbewirkung
 
 > „Dänemark zeigt, dass nachhaltige Innovation und soziale Wohlfahrt Hand in Hand gehen.“
 
@@ -9756,7 +10278,7 @@ version: "1.0"
 
 ***
 
-#### 9. Kennzahlenübersicht
+##### 9. Kennzahlenübersicht
 
 | Indikator                     | 2025 | 2050 | 2075 |
 | ----------------------------- | ---- | ---- | ---- |
@@ -9770,19 +10292,19 @@ version: "1.0"
 
 ***
 
-#### 10. Kurzfassung: „Dänemark auf einen Blick“
+##### 10. Kurzfassung: „Dänemark auf einen Blick“
 
 Dänemark verbindet hohen Lebensstandard mit konsequenter Nachhaltigkeit und zählt zu den Vorreitern in der Nutzung von Windenergie. Als Arktisknoten und Innovationsstandort bietet das Königreich optimale Voraussetzungen für grüne Technologien und starke Bürgerbeteiligung.
 
-#### 11. Quellen & Modellierungen
+##### 11. Quellen & Modellierungen
 
-##### 11.1 ℹ️ Allgemeines
+###### 11.1 ℹ️ Allgemeines
 
 * Statistik: Mischung aus nationalen und internationalen Quellen (Eurostat, OECD u.  a.), Basisjahr 2025.
 * Modelle: BIP-Prognosen und Bevölkerungsentwicklung nach OECD und UN (hypothetisch: ERDA Scenario Modeling Report 2025).
 * Energie- und Infrastrukturdaten laut nationalen Strategiepapiere (hypothetisch: ERDA Scenario Modeling Report 2025).
 
-##### 11.2 📌 Verwendete Quellen & Verweise
+###### 11.2 📌 Verwendete Quellen & Verweise
 
 **Demografie & Gesellschaft**
 * **EUROSTAT** (2024): Bevölkerungszahlen, Urbanisierungsgrad, Energie- und Wirtschaftsindikatoren
@@ -9798,22 +10320,21 @@ Dänemark verbindet hohen Lebensstandard mit konsequenter Nachhaltigkeit und zä
 **Modellierungen**
 * **ERDA-Projektionen** (2025): Szenarien und langfristige Modellannahmen
 
-##### 11.3 🛠️ Modellierungen & Annahmen
+###### 11.3 🛠️ Modellierungen & Annahmen
 * Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
 * Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 * Wirtschaftliche Projektionen 2050–2075: extrapoliert aus Eurostat- und OECD-Daten (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Infrastrukturautarkie: Ziel 80 % erneuerbare Energieversorgung (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-#### 12. 🤝 Mitwirkung willkommen
+##### 12. 🤝 Mitwirkung willkommen
 
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen des Königreichs Dänemark sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
-##### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: ERDA Buch Redaktion (siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon)).
-Kontakt: siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon).
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
-Letzte Änderung: 2025-06-10
+###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 
 
 \newpage
@@ -9829,11 +10350,12 @@ version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-ee-staatenprofil-republik-estland"></a>
 
-## EE - Staatenprofil Republik Estland
 
-### 🇪🇪 ERDA-Staatenprofil: Republik Estland
+### EE - Staatenprofil Republik Estland
 
-#### 1. Überblick (Meta)
+#### 🇪🇪 ERDA-Staatenprofil: Republik Estland
+
+##### 1. Überblick (Meta)
 
 * 🏳️ **Offizieller Name:** Republik Estland (Eesti Vabariik) ([Verfassung](https://www.riigikogu.ee/en/constitution-of-the-republic-of-estonia/))
 * 🗺️ **Geografische Lage:** Nordeuropa, südlich von Finnland am Finnischen Meerbusen; grenzt im Süden an Lettland, im Osten an Russland; Küstenlänge 3 794 km ([Wikipedia](https://en.wikipedia.org/wiki/Estonia))
@@ -9844,7 +10366,7 @@ version: "1.0"
 
 ***
 
-#### 2. Demografie & Gesellschaft
+##### 2. Demografie & Gesellschaft
 
 * **Bevölkerung (2050/2075-Prognose):** \~1 270 000 (2050), \~1 200 000 (2075) ([UN WPP](https://population.un.org/wpp/))
 * **Altersstruktur:** Medianalter 43,6 Jahre (2020) ([CIA Factbook](https://www.cia.gov/the-world-factbook/countries/estonia/)); Jugendanteil (< 15 Jahre) 14,4 % (2022); Altenquotient (≥ 65 Jahre) 21,6 % (2022) ([CIA Factbook](https://www.cia.gov/the-world-factbook/countries/estonia/))
@@ -9861,7 +10383,7 @@ version: "1.0"
 
 ***
 
-#### 3. Wirtschaft & Innovation
+##### 3. Wirtschaft & Innovation
 
 * **Bruttoinlandsprodukt (BIP, nominal):** 45,03 Mrd. USD (2023) ([Wikipedia](https://en.wikipedia.org/wiki/Economy_of_Estonia#Statistics))
 * **BIP pro Kopf:** 34 800 USD (2023) ([Wikipedia](https://en.wikipedia.org/wiki/Economy_of_Estonia#Statistics))
@@ -9872,7 +10394,7 @@ version: "1.0"
 * **FORTERA-Handelsallianzen:** Nein
 * **Produktionssouveränität:** ☑ IT, ☑ Ernährung, ☐ Energie, ☐ Verteidigung
 
-##### 3.1 Infrastrukturautarkie
+###### 3.1 Infrastrukturautarkie
 
 * Energie ☐
 * IT/Cloud ☑
@@ -9884,22 +10406,22 @@ version: "1.0"
 
 ***
 
-#### 4. Ressourcenprofil
+##### 4. Ressourcenprofil
 
-##### 🌱 Natürliche Ressourcen:
+###### 🌱 Natürliche Ressourcen:
 
 * **Fläche:** 45 227 km² Land, 3 794 km Küste ([Wikipedia](https://en.wikipedia.org/wiki/Estonia))
 * **Strategische Rohstoffe:** Ölschiefer, Torf, Holz ([Wikipedia](https://en.wikipedia.org/wiki/Energy_in_Estonia))
 * **Erneuerbare Energiepotenziale:** Onshore-Wind 2 GW, Offshore-Wind 3 GW; Solar-PV 1 GW (SEI Estonia, https://seer.tlu.ee)
 * **Biodiversität & Schutzgebiete:** 19 % Flächenanteil (Natura 2000 & Nationalparks) ([Estonian Environmental Board](https://keskkonnaamet.ee))
 
-##### 🧑‍🤝‍🧑 Soziale Ressourcen:
+###### 🧑‍🤝‍🧑 Soziale Ressourcen:
 
 * **Ehrenamt & Gemeinschaft:** Freiwilligenrate 23 % (2023) ([Eurostat](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Volunteering_statistics))
 * **Civic-Tech-Nutzung:** Rahvaalgatus.ee (Bürgerinitiative-Portal) ([rahvaalgatus.ee](https://www.rahvaalgatus.ee))
 * **Gesundheitssystem:** Universeller Zugang, Gesundheitsausgaben 6,8 % des BIP (2022) ([WHO](https://apps.who.int/nha/database))
 
-##### 🛡️ Politische Ressourcen:
+###### 🛡️ Politische Ressourcen:
 
 * **Verfassungsbindung:** Ja
 * **Direkte Demokratie:** Bürgerinitiative ( ≥ 7 000 Unterschriften) ([Riigikogu](https://www.riigikogu.ee))
@@ -9908,7 +10430,7 @@ version: "1.0"
 
 ***
 
-#### 5. Sicherheit & strategische Rolle (EDA)
+##### 5. Sicherheit & strategische Rolle (EDA)
 
 * **Militärisches Potenzial:** 
   * DSN-geeignet: Nein
@@ -9921,7 +10443,7 @@ version: "1.0"
 
 ***
 
-#### 6. Kulturelle Identität & Soft Power
+##### 6. Kulturelle Identität & Soft Power
 
 * **Sprachen:** Estnisch (offiziell), Russisch (24 % Mutter­sprache) ([CIA Factbook](https://www.cia.gov/the-world-factbook/countries/estonia/))
 * **UNESCO-Welterbe:** 3 Stätten: Altstadt Tallinn, Struve-Bogen, Kihnu Kulturlandschaft ([UNESCO](https://whc.unesco.org/en/statesparties/ee))
@@ -9931,9 +10453,9 @@ version: "1.0"
 
 ***
 
-#### 7. Entwicklungspfad (2025–2075)
+##### 7. Entwicklungspfad (2025–2075)
 
-##### 🔭 Szenario-Entwicklung:
+###### 🔭 Szenario-Entwicklung:
 
 * **Status 2025:** Vorreiter in Digitalstaat, leicht alternde Bevölkerung, stabile Wirtschaft
 * **Best Case 2075:** 1,4 Mio. Einwohner, CO$_2$-Neutralität, globaler Cyber- und E‑Gov-Hub
@@ -9944,7 +10466,7 @@ version: "1.0"
 **Strategische Investitionen 2025–2050:** E‑Governance, KI‑Forschung, grüne Infrastruktur.\
 **Transformation 2050–2075:** Vollständige Digitalisierung, 100 % erneuerbare Energie, autonome Systeme.
 
-##### 🚀 Rolle in der ERDA-Vision 2075:
+###### 🚀 Rolle in der ERDA-Vision 2075:
 
 > _„Estland ist 2075 das digitale Rückgrat der ERDA, mit maßgeblichem Einfluss auf Cyberresilienz und E‑Demokratie.“_
 
@@ -9954,7 +10476,7 @@ version: "1.0"
 
 ***
 
-#### 8. Narrative & Anwerbewirkung
+##### 8. Narrative & Anwerbewirkung
 
 > _„Estland beweist, dass agile Digitalisierung und demokratische Innovation untrennbar sind.“_
 
@@ -9964,7 +10486,7 @@ version: "1.0"
 
 ***
 
-#### 9. Kennzahlenübersicht (Kurzform)
+##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025         | 2050    | 2075    |
 | ------------------------------------- | ------------ | ------- | ------- |
@@ -9981,18 +10503,18 @@ version: "1.0"
 
 ***
 
-#### 10. Kurzfassung: „Estland auf einen Blick“
+##### 10. Kurzfassung: „Estland auf einen Blick“
 
 Estland verbindet eine agile Digitalverwaltung mit einer engagierten Zivilgesellschaft. Bis 2075 strebt das Land Klimaneutralität und volle digitale Souveränität an.
 
-#### 11. Quellen & Modellierungen
+##### 11. Quellen & Modellierungen
 
-##### 11.1 ℹ️ Allgemeines
+###### 11.1 ℹ️ Allgemeines
 
 * Statistik: Mischung aus nationalen und internationalen Quellen (Statistikaamet, Eurostat u. a.), Basisjahr 2025.
 * Modelle: BIP- und Bevölkerungsprognosen nach OECD und UN (hypothetisch: ERDA Scenario Modeling Report 2025).
 
-##### 11.2 📎 Verwendete Quellen & Verweise
+###### 11.2 📎 Verwendete Quellen & Verweise
 
 **Demografie & Gesellschaft**
 * **Quelle:** Statistikaamet "Population by sex and age", https://stat.ee/en/find-statistics/statistics-theme/population
@@ -10025,7 +10547,7 @@ Estland verbindet eine agile Digitalverwaltung mit einer engagierten Zivilgesell
 * **Quelle:** Constitution of Estonia, https://www.riigikogu.ee/en/constitution-of-the-republic-of-estonia/
 * **Quelle:** World Justice Project, https://worldjusticeproject.org/
 
-##### 11.3 🛠️ Modellierungen & Annahmen
+###### 11.3 🛠️ Modellierungen & Annahmen
 * Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
 * Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
@@ -10034,15 +10556,14 @@ Estland verbindet eine agile Digitalverwaltung mit einer engagierten Zivilgesell
 * Demografische Entwicklung: UN WPP 2022 (hypothetisch: ERDA Scenario Modeling Report 2025).
 * Energiepotenziale: Schätzungen nach SEI Estonia (hypothetisch: ERDA Scenario Modeling Report 2025).
 
-#### 12. 🤝 Mitwirkung willkommen
+##### 12. 🤝 Mitwirkung willkommen
 
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Estland sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
-##### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: ERDA Buch Redaktion (siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon)).
-Kontakt: siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon).
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
-Letzte Änderung: 2025-06-10
+###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 
 
 \newpage
@@ -10058,11 +10579,12 @@ version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-es-staatenprofil-spanien"></a>
 
-## ES - Staatenprofil Spanien
 
-### 🇪🇸 ERDA-Staatenprofil: Spanien
+### ES - Staatenprofil Spanien
 
-#### 1. Überblick (Meta)
+#### 🇪🇸 ERDA-Staatenprofil: Spanien
+
+##### 1. Überblick (Meta)
 
 * 🏳️ **Offizieller Name:** Königreich Spanien
 * 🌍 **Geografische Lage:** Südwest-Europa, Iberische Halbinsel
@@ -10073,7 +10595,7 @@ version: "1.0"
 
 ***
 
-#### 2. Demografie & Gesellschaft
+##### 2. Demografie & Gesellschaft
 
 * **Bevölkerung (2050/2075-Prognose):**
   * 2050: 44 928 557 Einw.
@@ -10095,7 +10617,7 @@ version: "1.0"
 
 ***
 
-#### 3. Wirtschaft & Innovation
+##### 3. Wirtschaft & Innovation
 
 * **BIP (Mrd. EUR):** 2025: 1 412 Mrd. EUR
 * **BIP pro Kopf:** ca. 29 500 EUR
@@ -10105,7 +10627,7 @@ version: "1.0"
 * **Patente pro Jahr:** ca. 13 200
 * **Mitglied in FORTERA-Handelsallianzen?** Ja
 
-##### 3.1 Infrastrukturautarkie
+###### 3.1 Infrastrukturautarkie
 
 * Produktionssouveränität in strategischen Sektoren:
   * Energie ☑
@@ -10118,9 +10640,9 @@ version: "1.0"
 
 ***
 
-#### 4. Ressourcenprofil
+##### 4. Ressourcenprofil
 
-##### 🌱 Natürliche Ressourcen
+###### 🌱 Natürliche Ressourcen
 
 * Landfläche: 505 944 km²
 * Meeresfläche (Hoheitsgewässer): 4,97 Mio. km²
@@ -10128,7 +10650,7 @@ version: "1.0"
 * Erneuerbare Energiepotenziale: Solar (Südspanien), Wind (Atlantik)
 * Biodiversität & Schutzgebiete: 27 % der Fläche
 
-##### 🧑‍🤝‍🧑 Soziale Ressourcen
+###### 🧑‍🤝‍🧑 Soziale Ressourcen
 
 * Ehrenamt & Gemeinschaftskultur: 6 / 10
 * Civic-Tech-Nutzung: 6 / 10
@@ -10136,7 +10658,7 @@ version: "1.0"
   * Zugang: 8 / 10
   * Prävention: 7 / 10
 
-##### 🛡️ Politische Ressourcen
+###### 🛡️ Politische Ressourcen
 
 * Verfassungsbindung: Ja
 * Direkte Demokratieinstrumente: Regional
@@ -10145,7 +10667,7 @@ version: "1.0"
 
 ***
 
-#### 5. Sicherheit & strategische Rolle (EDA)
+##### 5. Sicherheit & strategische Rolle (EDA)
 
 * **Militärisches Potenzial:**
   * DSN-geeignet ☑
@@ -10158,7 +10680,7 @@ version: "1.0"
 
 ***
 
-#### 6. Kulturelle Identität & Soft Power
+##### 6. Kulturelle Identität & Soft Power
 
 * **Sprachen:** Kastilisch, Katalanisch, Galicisch, Baskisch
 * **UNESCO-Welterbe:** 48 Stätten
@@ -10168,9 +10690,9 @@ version: "1.0"
 
 ***
 
-#### 7. Entwicklungspfad (2025–2075)
+##### 7. Entwicklungspfad (2025–2075)
 
-##### 🔭 Szenario-Entwicklung
+###### 🔭 Szenario-Entwicklung
 
 * **Status 2025:** Stabile Demokratie, starker Dienstleistungssektor, industrieller Kern mit demografischen Herausforderungen und ausgeprägten regionalen Disparitäten
 * **Best Case 2075:** Diversifizierte Ökonomie, flächendeckender Ausbau grüner Technologien, gestärkte Zivilgesellschaft und konstruktiver Regionalismus
@@ -10183,7 +10705,7 @@ Strategische Investitionen 2025–2050: Ausbau erneuerbarer Energien (v. a. Sola
 
 Transformation 2050–2075: Spanien entwickelt sich zu einem Green-Tech-Pionier mit führender Rolle in klimaneutraler Energieerzeugung, Meerwasserentsalzung und digitaler Landwirtschaft. Regionale Identitäten sind in eine gestärkte Gesamtverfassung integriert, die Zivilgesellschaft spielt eine zentrale Rolle in Innovations- und Klimaprojekten. Die Bevölkerung ist leicht rückläufig, aber resilient. Spanien wird zu einem Vorbild für Kulturtechnologie und demokratische Modernisierung im Mittelmeerraum.
 
-##### 🚀 Rolle in der ERDA-Vision 2075
+###### 🚀 Rolle in der ERDA-Vision 2075
 
 > _„Spanien ist 2075 ein führendes Mitglied der ERDA im Bereich Kultur- & Technologievermittlung sowie erneuerbarer Energien.“_
 
@@ -10193,7 +10715,7 @@ Transformation 2050–2075: Spanien entwickelt sich zu einem Green-Tech-Pionier 
 
 ***
 
-#### 8. Narrative & Anwerbewirkung
+##### 8. Narrative & Anwerbewirkung
 
 > _„Spanien zeigt, dass kulturelle Vielfalt und technologische Innovation sich gegenseitig beflügeln.“_
 
@@ -10203,7 +10725,7 @@ Transformation 2050–2075: Spanien entwickelt sich zu einem Green-Tech-Pionier 
 
 ***
 
-#### 9. Kennzahlenübersicht (Kurzform)
+##### 9. Kennzahlenübersicht (Kurzform)
 
 | **Indikator**                         | **2025** | **2050** | **2075** |
 | ------------------------------------- | -------- | -------- | -------- |
@@ -10217,19 +10739,19 @@ Transformation 2050–2075: Spanien entwickelt sich zu einem Green-Tech-Pionier 
 
 ***
 
-#### 10. Kurzfassung: "Spanien auf einen Blick"
+##### 10. Kurzfassung: "Spanien auf einen Blick"
 
 Spanien ist eine stabile Demokratie mit starkem Dienstleistungssektor, wachsenden Green-Tech-Potenzialen und vielfältiger Kultur.
 
-#### 11. Quellen & Modellierungen
+##### 11. Quellen & Modellierungen
 
-##### 11.1 ℹ️ Allgemeines
+###### 11.1 ℹ️ Allgemeines
 
 * Statistik: Mischung aus nationalen und internationalen Quellen (Eurostat, OECD u. a.), Basisjahr 2025.
 * Modelle: BIP-Prognosen und Bevölkerungsentwicklung nach OECD und UN (hypothetisch: ERDA Scenario Modeling Report 2025).
 * Energie- und Infrastrukturdaten laut nationalen Strategiepapiere (hypothetisch: ERDA Scenario Modeling Report 2025).
 
-##### 11.2 📎 Verwendete Quellen & Verweise
+###### 11.2 📎 Verwendete Quellen & Verweise
 
 **Demografie & Gesellschaft**
 * **Quelle:** Worldometer – [Spain Population 2025](https://www.worldometers.info/world-population/spain-population/)
@@ -10260,7 +10782,7 @@ Spanien ist eine stabile Demokratie mit starkem Dienstleistungssektor, wachsende
 * **Quelle:** BOE (Spanisches Amtsblatt) – [Verfassung 1978, konsolidiert](https://www.boe.es/buscar/pdf/1978/BOE-A-1978-31229-consolidado.pdf)
 * **Quelle:** CIA World Factbook – Spanienprofil
 
-##### 11.3 🛠️ Modellierungen & Annahmen
+###### 11.3 🛠️ Modellierungen & Annahmen
 * Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
 * Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
@@ -10272,15 +10794,14 @@ Spanien ist eine stabile Demokratie mit starkem Dienstleistungssektor, wachsende
 
 ***
 
-#### 12. 🤝 Mitwirkung willkommen
+##### 12. 🤝 Mitwirkung willkommen
 
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen des Königreichs Spanien sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
-##### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: ERDA Buch Redaktion (siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon)).
-Kontakt: siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon).
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
-Letzte Änderung: 2025-06-10
+###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 
 
 \newpage
@@ -10296,11 +10817,12 @@ version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-fi-staatenprofil-finnland"></a>
 
-## FI - Staatenprofil Finnland
 
-### 🇫🇮 ERDA-Staatenprofil: Finnland
+### FI - Staatenprofil Finnland
 
-#### 1. Überblick (Meta)
+#### 🇫🇮 ERDA-Staatenprofil: Finnland
+
+##### 1. Überblick (Meta)
 
 * 🏳️ **Offizieller Name:** Republik Finnland
 * 🗺️ **Geografische Lage:** Nordeuropa, Grenzstaat im Nordischen Raum (Schweden, Norwegen, Russland; Ostsee im Süden)
@@ -10311,7 +10833,7 @@ version: "1.0"
 
 ***
 
-#### 2. Demografie & Gesellschaft
+##### 2. Demografie & Gesellschaft
 
 * **Bevölkerung (Prognose 2050 / 2075):**\
   – 2050: \~ 5,35 Mio. (Weltbevölkerungs-Forecast, annual change –0,25 %) \
@@ -10331,7 +10853,7 @@ version: "1.0"
 
 ***
 
-#### 3. Wirtschaft & Innovation
+##### 3. Wirtschaft & Innovation
 
 * **Bruttoinlandsprodukt (real, Mrd. EUR):**\
   – **2025:** ≈ 280 (2024: 276,2 Mearch7\
@@ -10349,13 +10871,13 @@ version: "1.0"
 * **Patente / Jahr (2023):** ca. 2 000 (stabil)
 * **Mitglied in FORTERA-Handelsallianzen:** Ja
 
-##### 3.1 Infrastrukturautarkie
+###### 3.1 Infrastrukturautarkie
 
 * Energie ☑, IT/Cloud ☑, Verteidigung ☐, Ernährung ☐
 
 ***
 
-#### 4. Ressourcenprofil
+##### 4. Ressourcenprofil
 
 **🌱 Natürliche Ressourcen**
 
@@ -10385,7 +10907,7 @@ version: "1.0"
 
 ***
 
-#### 5. Sicherheit & strategische Rolle (EDA)
+##### 5. Sicherheit & strategische Rolle (EDA)
 
 * Militärisches Potenzial:\
   – DSN-geeignet ☑\
@@ -10398,7 +10920,7 @@ version: "1.0"
 
 ***
 
-#### 6. Kulturelle Identität & Soft Power
+##### 6. Kulturelle Identität & Soft Power
 
 * **Sprachen / indigene Kulturen:** Finnisch, Schwedisch; Sami in Lappland
 * **UNESCO-Welterbe:** 7 Stätten (z. B. Suomenlinna, Struve-Bogen)
@@ -10410,7 +10932,7 @@ version: "1.0"
 
 ***
 
-#### 7. Entwicklungspfad (2025–2075)
+##### 7. Entwicklungspfad (2025–2075)
 
 **🔭 Szenario-Entwicklung**
 
@@ -10435,7 +10957,7 @@ version: "1.0"
 
 ***
 
-#### 8. Narrative & Anwerbewirkung
+##### 8. Narrative & Anwerbewirkung
 
 > _„Finnland zeigt, dass eine kleine Demokratie durch grüne Innovation und AI-Governance globale Führerschaft übernehmen kann.“_
 
@@ -10445,7 +10967,7 @@ version: "1.0"
 
 ***
 
-#### 9. Kennzahlenübersicht (Kurzform)
+##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025 | 2050 | 2075 |
 | ------------------------------------- | ---- | ---- | ---- |
@@ -10459,17 +10981,17 @@ version: "1.0"
 
 ***
 
-#### 10. Kurzfassung: „Finnland auf einen Blick“
+##### 10. Kurzfassung: „Finnland auf einen Blick“
 
 Finnland ist eine hochinnovative Demokratie mit starker Bildungstradition und nachhaltiger Ausrichtung. Als Arktisknoten verknüpft es Technologie, Umweltbewusstsein und gesellschaftliche Teilhabe.
 
-#### 11. Quellen & Modellierungen
+##### 11. Quellen & Modellierungen
 
-##### 11.1 ℹ️ Allgemeines
+###### 11.1 ℹ️ Allgemeines
 
 * Statistik: nationale Quellen (Statistics Finland) und internationale Daten (Eurostat, Weltbank), Basisjahr 2025.
 
-##### 11.2 📎 Verwendete Quellen & Verweise
+###### 11.2 📎 Verwendete Quellen & Verweise
 
 * Worldometer Forecast – Bevölkerung (abgerufen 2025)
 * Eurostat – Wirtschafts- und Sozialdaten
@@ -10477,7 +10999,7 @@ Finnland ist eine hochinnovative Demokratie mit starker Bildungstradition und na
 * World Bank – Makroökonomie
 * PopulationPyramid.net – Altersstruktur
 
-##### 11.3 🛠️ Modellierungen & Annahmen
+###### 11.3 🛠️ Modellierungen & Annahmen
 * Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
 * Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
@@ -10487,15 +11009,14 @@ Finnland ist eine hochinnovative Demokratie mit starker Bildungstradition und na
 
 ***
 
-#### 12. 🤝 Mitwirkung willkommen
+##### 12. 🤝 Mitwirkung willkommen
 
 Vertreter:innen Finnlands und interessierte Fachstellen sind eingeladen, dieses Profil zu ergänzen und zu aktualisieren.
 
-##### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: ERDA Buch Redaktion (siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon)).
-Kontakt: siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon).
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
-Letzte Änderung: 2025-06-10
+###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 
 
 
@@ -10512,11 +11033,12 @@ version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-fr-staatenprofil-frankreich"></a>
 
-## FR - Staatenprofil Frankreich
 
-### 🇫🇷 ERDA-Staatenprofil: Frankreich
+### FR - Staatenprofil Frankreich
 
-#### 1. Überblick (Meta)
+#### 🇫🇷 ERDA-Staatenprofil: Frankreich
+
+##### 1. Überblick (Meta)
 
 * 🏳️ **Offizieller Name:** Französische Republik
 * 🗺️ **Geografische Lage:** Westeuropa (Metropolitain), plus fünf Übersee­regionen (Guayana, Guadeloupe, Martinique, Réunion, Mayotte) und zahlreiche Territorien weltweit
@@ -10527,7 +11049,7 @@ version: "1.0"
 
 ***
 
-#### 2. Demografie & Gesellschaft
+##### 2. Demografie & Gesellschaft
 
 * **Bevölkerung (Prognose):** 2050: 64 Mio. | 2075: 60 Mio.
 * **Altersstruktur:** Medianalter ≈ 42 Jahre; Jugendanteil ≈ 12 %; Altenquotient (60+ / 15–64) ≈ 25 %
@@ -10539,7 +11061,7 @@ version: "1.0"
 
 ***
 
-#### 3. Wirtschaft & Innovation
+##### 3. Wirtschaft & Innovation
 
 * **BIP (nominal, Mrd. EUR):** 2025: 2 822 | 2050: 3 300 | 2075: 3 600
 * **BIP pro Kopf:** ca. 41 100 EUR (2025)
@@ -10550,16 +11072,16 @@ version: "1.0"
 * **MITGL. FORTERA-Handelsallianz:** Ja
 * **MITGL. Democracy Trade Network:** Ja
 
-##### 3.1 Infrastrukturautarkie
+###### 3.1 Infrastrukturautarkie
 
 * Energie ☑ | IT/Cloud ☑ | Verteidigung ☑ | Ernährung ☑
 * IRIS² ☑ | Quantentechnologie ☑ | Autonome Logistik ☑
 
 ***
 
-#### 4. Ressourcenprofil
+##### 4. Ressourcenprofil
 
-##### 🌱 Natürliche Ressourcen
+###### 🌱 Natürliche Ressourcen
 
 * **Landfläche:** 640 679 km²
 * **Meeresfläche (EEZ):** 11,7 Mio. km²
@@ -10567,13 +11089,13 @@ version: "1.0"
 * **Erneuerbare Potenziale:** Solar, Offshore-Wind, Wasserkraft, Geothermie
 * **Schutzgebiete:** 29 %
 
-##### 🧑‍🤝‍🧑 Soziale Ressourcen
+###### 🧑‍🤝‍🧑 Soziale Ressourcen
 
 * Ehrenamt & Gemeinschaft: 7 / 10
 * CIVITAS-Index: 7 / 10
 * Gesundheitssystem: Zugang 9 / 10 | Prävention 7 / 10
 
-##### 🛡️ Politische Ressourcen
+###### 🛡️ Politische Ressourcen
 
 * Verfassungsbindung: Ja
 * Direkte Demokratie: teils (Region/Lokal)
@@ -10584,7 +11106,7 @@ version: "1.0"
 
 ***
 
-#### 5. Sicherheit & Strategische Rolle (EDA)
+##### 5. Sicherheit & Strategische Rolle (EDA)
 
 * Militärpotenzial: DSN ☑ | Cyberkommando ☑ | Frühwarnsystem ☑
 * Verteidigungsausgaben: 2,6 % BIP
@@ -10594,7 +11116,7 @@ version: "1.0"
 
 ***
 
-#### 6. Kulturelle Identität & Soft Power
+##### 6. Kulturelle Identität & Soft Power
 
 * Sprachen: Französisch; Regional: Bretonisch, Okzitanisch, Baskisch, Korsisch
 * UNESCO-Welterbe: 49 Stätten
@@ -10604,15 +11126,15 @@ version: "1.0"
 
 ***
 
-#### 7. Entwicklungspfad (2025–2075)
+##### 7. Entwicklungspfad (2025–2075)
 
-##### 🔭 Szenarien
+###### 🔭 Szenarien
 
 * **Status 2025:** technologisch stark, demografisch altend, hohes Innovationspotenzial
 * **Investitionen 2025–2050:** Erneuerbare, Digital-KI-Governance, Verteidigung, Bildung
 * **Transformation 2050–2075:** Post-Knappheit, KI-Demokratien, Raumfahrt- & Biosphärenmodelle
 
-##### 🚀 ERDA-Vision 2075
+###### 🚀 ERDA-Vision 2075
 
 > _„Frankreich ist 2075 kulturelles Herz und Innovationshub der ERDA mit Schlüsselrolle in Energie und Raumfahrt.“_
 
@@ -10622,7 +11144,7 @@ version: "1.0"
 
 ***
 
-#### 8. Narrative & Anwerbewirkung
+##### 8. Narrative & Anwerbewirkung
 
 > _„Frankreich zeigt, dass technologische Souveränität und kulturelle Resonanz sich beflügeln.“_
 
@@ -10632,7 +11154,7 @@ version: "1.0"
 
 ***
 
-#### 9. Kennzahlenübersicht
+##### 9. Kennzahlenübersicht
 
 | Indikator                             | 2025  | 2050  | 2075  |
 | ------------------------------------- | ----- | ----- | ----- |
@@ -10645,20 +11167,20 @@ version: "1.0"
 | Zivilgesellschaftlicher Index [0–10] | 7     | 8     | 9     |
 
 ***
-#### 10. Kurzfassung: „Frankreich auf einen Blick"
+##### 10. Kurzfassung: „Frankreich auf einen Blick"
 
 Frankreich ist ein global vernetzter Kernstaat Europas mit starker Industriebasis, kultureller Strahlkraft und fortschrittlicher Forschung. Bis 2075 bleibt es zentraler Energie- und Raumfahrtpartner der ERDA.
 
 
-#### 11. Quellen & Modellierungen
+##### 11. Quellen & Modellierungen
 
-##### 11.1 ℹ️ Allgemeines
+###### 11.1 ℹ️ Allgemeines
 
 * Statistik: INSEE, INED, Eurostat; Basisjahr 2025.
 * Modelle: BIP-Prognosen nach IMF und OECD (hypothetisch: ERDA Scenario Modeling Report 2025).
 * Energie- und Ressourcendaten laut französischem Ministerium für Ökologie (hypothetisch: ERDA Scenario Modeling Report 2025).
 
-##### 11.2 📎 Verwendete Quellen & Verweise
+###### 11.2 📎 Verwendete Quellen & Verweise
 
 1. Institut national de la statistique et des études économiques (INSEE). 2025. *Bilan démographique 2024.* Paris: INSEE. \[online\] verfügbar unter: <https://www.insee.fr/fr/statistiques/bilan-demographique> (Zugriff am 2025‑06‑10).
 2. Institut national d'études démographiques (INED). 2024. *Projections démographiques pour la France 2022‑2075.* Paris: INED. \[online\] verfügbar unter: <https://www.ined.fr/fr/projections-demographiques/> (Zugriff am 2025‑06‑10).
@@ -10669,7 +11191,7 @@ Frankreich ist ein global vernetzter Kernstaat Europas mit starker Industriebasi
 7. Freedom House. 2024. *Freedom in the World 2024 – France.* Washington, D.C.: Freedom House. \[online\] verfügbar unter: <https://freedomhouse.org/country/france/freedom-world/2024> (Zugriff am 2025‑06‑10).
 8. World Health Organization. 2023. *World Health Statistics 2023: Monitoring health for the SDGs.* Genf: WHO. \[online\] verfügbar unter: <https://www.who.int/data/gho/publications/world-health-statistics> (Zugriff am 2025‑06‑10).
 
-##### 11.3 🛠 Modellierungen & Annahmen
+###### 11.3 🛠 Modellierungen & Annahmen
 * Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
 * Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
@@ -10679,15 +11201,14 @@ Frankreich ist ein global vernetzter Kernstaat Europas mit starker Industriebasi
 
 ***
 
-#### 12. 🤝 Mitwirkung willkommen
+##### 12. 🤝 Mitwirkung willkommen
 
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Französischen Republik sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
-##### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: ERDA Buch Redaktion (siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon)).
-Kontakt: siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon).
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
-Letzte Änderung: 2025-06-10
+###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 
 
 \newpage
@@ -10703,11 +11224,12 @@ version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-gr-staatenprofil-griechenland"></a>
 
-## GR - Staatenprofil Griechenland
 
-### 🇬🇷 ERDA-Staatenprofil: Griechenland
+### GR - Staatenprofil Griechenland
 
-#### 1. Überblick (Meta)
+#### 🇬🇷 ERDA-Staatenprofil: Griechenland
+
+##### 1. Überblick (Meta)
 
 * 🏳️ Offizieller Name: Hellenische Republik (Ελληνική Δημοκρατία)
 * 🗺️ Geografische Lage: Südosteuropa, Südspitze Balkanhalbinsel, Ägäis-Archipel
@@ -10718,7 +11240,7 @@ version: "1.0"
 
 ***
 
-#### 2. Demografie & Gesellschaft
+##### 2. Demografie & Gesellschaft
 
 * Bevölkerung (2050/2075-Prognose):
   * 2050: 9 762 000 Einw.
@@ -10740,7 +11262,7 @@ version: "1.0"
 
 ***
 
-#### 3. Wirtschaft & Innovation
+##### 3. Wirtschaft & Innovation
 
 * BIP (real):
   * 2023: 245,2 Mrd. USD
@@ -10758,7 +11280,7 @@ version: "1.0"
 * Forschungs- und Innovationsquote: 1,14 % des BIP (2022)
 * Patente/Jahr: ca. 198 Anmeldungen (19 pro Mio. Einw.)
 * FORTERA-Mitglied: Nein
-##### 3.1 Infrastrukturautarkie
+###### 3.1 Infrastrukturautarkie
 
 * Energie ☐
 * IT/Cloud ☑
@@ -10769,22 +11291,22 @@ version: "1.0"
 * Autonome Logistiksysteme ☐
 ***
 
-#### 4. Ressourcenprofil
+##### 4. Ressourcenprofil
 
-##### 🌱 Natürliche Ressourcen
+###### 🌱 Natürliche Ressourcen
 
 * Fläche: 131 957 km² Land, 13 676 km Küstenlinie
 * Strategische Rohstoffe: Bauxit (Mittelgriechenland), Nickel, Magnesit
 * Erneuerbare Energie: Solar (6 GW PV bis 2030), Offshore-Wind (1,5 GW), Wasserkraft, Geothermie
 * Biodiversität: 27 % Schutzgebiete (Land & Meer)
 
-##### 🧑‍🤝‍🧑 Soziale Ressourcen
+###### 🧑‍🤝‍🧑 Soziale Ressourcen
 
 * Ehrenamt: 20 % engagiert
 * Civic‑Tech (CIVITAS): Digitale Bürgerplattform in Athen, Thessaloniki (25 % Kommunen)
 * Gesundheitssystem: Universeller Zugang; 3,9 Betten/1 000 Einw.; Präventionsquote 70 %
 
-##### 🛡️ Politische Ressourcen
+###### 🛡️ Politische Ressourcen
 
 * Verfassungsbindung: Ja
 * Direkte Demokratie: Keine landesweiten Instrumente
@@ -10793,7 +11315,7 @@ version: "1.0"
 
 ***
 
-#### 5. Sicherheit & strategische Rolle (EDA)
+##### 5. Sicherheit & strategische Rolle (EDA)
 
 * Militärisches Potenzial:
   * ☑ DSN-geeignet
@@ -10806,7 +11328,7 @@ version: "1.0"
 
 ***
 
-#### 6. Kulturelle Identität & Soft Power
+##### 6. Kulturelle Identität & Soft Power
 
 * Sprachen: Griechisch (amtlich), Minderheitensprachen Altslawisch, Vlachisch
 * UNESCO-Welterbe: 18 Einträge (z. B. Akropolis, Meteora)
@@ -10816,9 +11338,9 @@ version: "1.0"
 
 ***
 
-#### 7. Entwicklungspfad (2025–2075)
+##### 7. Entwicklungspfad (2025–2075)
 
-##### 🔭 Szenario-Entwicklung
+###### 🔭 Szenario-Entwicklung
 
 * **Status 2025:** Erholung nach Finanzkrise, hohe Staatsverschuldung, digitaler Aufbruch
 * **Best Case 2075:** Grüne Wasserstoff-Exportnation, Innovationszentrum für Maritime KI
@@ -10827,7 +11349,7 @@ version: "1.0"
 
 **Narrativ:** 2025–2050: Ausbau erneuerbarer Infrastruktur, Bildungsoffensive. 2050–2075: Wasserstoffwirtschaft, Smart Ports.
 
-##### 🚀 ERDA-Vision 2075
+###### 🚀 ERDA-Vision 2075
 
 > _„Griechenland treibt als nachhaltige Energie- und Maritime-Tech-Schmiede die Region voran.“_
 
@@ -10837,7 +11359,7 @@ version: "1.0"
 
 ***
 
-#### 8. Narrative & Anwerbewirkung
+##### 8. Narrative & Anwerbewirkung
 
 > _„Griechenland zeigt, wie man aus Tradition und Innovation eine zukunftsfähige Wirtschaft formt.“_
 
@@ -10847,7 +11369,7 @@ version: "1.0"
 
 ***
 
-#### 9. Kennzahlenübersicht
+##### 9. Kennzahlenübersicht
 
 | Indikator                             | 2025       | 2050      | 2075      |
 | ------------------------------------- | ---------- | --------- | --------- |
@@ -10861,13 +11383,13 @@ version: "1.0"
 
 ***
 
-#### 10. Kurzfassung: „Griechenland auf einen Blick“
+##### 10. Kurzfassung: „Griechenland auf einen Blick“
 
 Griechenland verbindet antikes Erbe, maritime Kompetenz und wachsende erneuerbare Energien. Bis 2075 positioniert es sich als grüne Energie- und Innovationsdrehscheibe im Mittelmeerraum.
-#### 11. Quellen & Modellierungen
-##### 11.1 ℹ️ Allgemeines
+##### 11. Quellen & Modellierungen
+###### 11.1 ℹ️ Allgemeines
 * Statistik: Hellenic Statistical Authority, Eurostat, UN; Basisjahr 2025.
-##### 11.2 📎 Verwendete Quellen & Verweise
+###### 11.2 📎 Verwendete Quellen & Verweise
 
 
 
@@ -10911,20 +11433,19 @@ Griechenland verbindet antikes Erbe, maritime Kompetenz und wachsende erneuerbar
 * World Justice Project: [Rule of Law Index](https://worldjusticeproject.org/)
 * Eurobarometer 2024: [Survey 2251](https://europa.eu/eurobarometer/surveys/survey-detail/2251)
 
-##### 11.3 🛠️ Modellierungen & Annahmen
+###### 11.3 🛠️ Modellierungen & Annahmen
 * Eigene Projektion: BIP-Wachstum 1,5 % p.a. bis 2075
 
 ***
 
-#### 12. 🤝 Mitwirkung willkommen
+##### 12. 🤝 Mitwirkung willkommen
 
 Dieses Profil basiert auf öffentlich verfügbaren und modellierten Daten. Vertreter:innen der Hellenischen Republik sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
-##### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: ERDA Buch Redaktion (siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon)).
-Kontakt: siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon).
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
-Letzte Änderung: 2025-06-10
+###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 
 
 \newpage
@@ -10940,11 +11461,12 @@ version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-hr-staatenprofil-kroatien"></a>
 
-## HR - Staatenprofil Kroatien
 
-### 🇭🇷 ERDA-Staatenprofil: Kroatien
+### HR - Staatenprofil Kroatien
 
-#### 1. Überblick (Meta)
+#### 🇭🇷 ERDA-Staatenprofil: Kroatien
+
+##### 1. Überblick (Meta)
 
 * 🏳️ Offizieller Name: Republik Kroatien
 * 🗺️ Geografische Lage: Südosteuropa, östliches Adriaufer, Nachbarn: Slowenien, Ungarn, Serbien, Bosnien-Herzegowina, Montenegro
@@ -10955,7 +11477,7 @@ version: "1.0"
 
 ***
 
-#### 2. Demografie & Gesellschaft
+##### 2. Demografie & Gesellschaft
 
 * Bevölkerung (2050/2075-Prognose):
   * 2050: 3 234 160 Einw.
@@ -10977,7 +11499,7 @@ version: "1.0"
 
 ***
 
-#### 3. Wirtschaft & Innovation
+##### 3. Wirtschaft & Innovation
 
 * BIP (real):
   * 2023: 84,4 Mrd. USD
@@ -10996,7 +11518,7 @@ version: "1.0"
 * Patente/Jahr: 216 Anmeldungen (56/Mio. Einw., 2023)
 * FORTERA-Mitglied: Nein
 
-##### 3.1 Infrastrukturautarkie
+###### 3.1 Infrastrukturautarkie
 
 * Energie ☑
 * IT/Cloud ☑
@@ -11008,22 +11530,22 @@ version: "1.0"
 
 ***
 
-#### 4. Ressourcenprofil
+##### 4. Ressourcenprofil
 
-##### 🌱 Natürliche Ressourcen
+###### 🌱 Natürliche Ressourcen
 
 * Fläche: 56 594 km² Land, 31 067 km Küste
 * Strategische Rohstoffe: Lithium (Istrien), Seltene Erden (Pilotprojekte), Süßwasser
 * Erneuerbare Energie: PV 4 GW bis 2030, Offshore-Wind 2 GW, Biomasse, Geothermie
 * Biodiversität: 9 % Schutzgebiete (Land), 5 % Meeresreservate
 
-##### 🧑‍🤝‍🧑 Soziale Ressourcen
+###### 🧑‍🤝‍🧑 Soziale Ressourcen
 
 * Ehrenamt: 35 % engagiert
 * Civic‐Tech (CIVITAS): Pilotregionen Zagreb, Split (15 % Kommunen)
 * Gesundheitssystem: Universeller Zugang, 3,3 Betten/1 000 Einw., Präventionsquote 78 %
 
-##### 🛡️ Politische Ressourcen
+###### 🛡️ Politische Ressourcen
 
 * Verfassungsbindung: Ja
 * Direkte Demokratie: Volksinitiative/Begehren (Hürde 500 000+ Unterschriften)
@@ -11032,7 +11554,7 @@ version: "1.0"
 
 ***
 
-#### 5. Sicherheit & strategische Rolle (EDA)
+##### 5. Sicherheit & strategische Rolle (EDA)
 
 * Militärisches Potenzial:
   * ☑ DSN-geeignet
@@ -11045,7 +11567,7 @@ version: "1.0"
 
 ***
 
-#### 6. Kulturelle Identität & Soft Power
+##### 6. Kulturelle Identität & Soft Power
 
 * Sprachen: Kroatisch (amtlich), Italienisch, Ungarisch, serbokroatische Minderheiten
 * UNESCO-Welterbe: 10 Einträge (z. B. Dubrovnik, Plitvicer Seen)
@@ -11055,9 +11577,9 @@ version: "1.0"
 
 ***
 
-#### 7. Entwicklungspfad (2025–2075)
+##### 7. Entwicklungspfad (2025–2075)
 
-##### 🔭 Szenario-Entwicklung
+###### 🔭 Szenario-Entwicklung
 
 * **Status 2025:** Bevölkerungsrückgang, Überalterung, stabile Demokratie
 * **Best Case 2075:** KI-/Kulturhub, demografische Stabilisierung
@@ -11066,7 +11588,7 @@ version: "1.0"
 
 **Narrativ:** Wirtschaft konsolidiert, Investitionen in Tourismus & Digitalisierung. 2025–2050: KI, EE, Bildung. 2050–2075: Smart Cities, Kultur-Tech-Export.
 
-##### 🚀 ERDA-Vision 2075
+###### 🚀 ERDA-Vision 2075
 
 > _„Kroatien ist 2075 ein Kultur-Innovations-Knoten, der nachhaltige Modelle in Südeuropa etabliert.“_
 
@@ -11076,7 +11598,7 @@ version: "1.0"
 
 ***
 
-#### 8. Narrative & Anwerbewirkung
+##### 8. Narrative & Anwerbewirkung
 
 > _„Kroatien zeigt, dass kleine Staaten durch Kultur-Innovation und Bürgerbeteiligung große Wirkung entfalten.“_
 
@@ -11086,7 +11608,7 @@ version: "1.0"
 
 ***
 
-#### 9. Kennzahlenübersicht (Kurzform)
+##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025      | 2050      | 2075      |
 | ------------------------------------- | --------- | --------- | --------- |
@@ -11100,17 +11622,17 @@ version: "1.0"
 
 ***
 
-#### 10. Kurzfassung: „Kroatien auf einen Blick“
+##### 10. Kurzfassung: „Kroatien auf einen Blick“
 
 Kroatien verbindet touristische Stärken mit wachsenden Digitalisierungsinitiativen und setzt auf nachhaltige Modelle im Adria-Raum. Das Land positioniert sich als Kultur- und Innovationsknoten zwischen Südosteuropa und Mitteleuropa.
 
-#### 11. Quellen & Modellierungen
+##### 11. Quellen & Modellierungen
 
-##### 11.1 ℹ️ Allgemeines
+###### 11.1 ℹ️ Allgemeines
 
 Statistische Basisjahr ist 2025. Bevölkerungs- und Wirtschaftsprognosen beruhen auf einem internen Modell (1,5 % p. a.) unter Nutzung internationaler Datensätze.
 
-##### 11.2 📎 Verwendete Quellen & Verweise
+###### 11.2 📎 Verwendete Quellen & Verweise
 
 **Demografie & Gesellschaft**
 * **Quelle:** PopulationPyramid.net, https://www.populationpyramid.net/croatia/2025/
@@ -11144,21 +11666,20 @@ Statistische Basisjahr ist 2025. Bevölkerungs- und Wirtschaftsprognosen beruhen
 * **Quelle:** World Justice Project, https://worldjusticeproject.org/
 * **Quelle:** Eurobarometer 2024, https://europa.eu/eurobarometer/surveys/survey-detail/2251
 
-##### 11.3 🛠️ Modellierungen & Annahmen
+###### 11.3 🛠️ Modellierungen & Annahmen
 
 * Wirtschaftliche Projektionen 2050–2075: interne Hochrechnung (1,5 % p. a.) anhand obiger Quellen
 
 ***
 
-#### 12. 🤝 Mitwirkung willkommen
+##### 12. 🤝 Mitwirkung willkommen
 
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Kroatien sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
-##### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: ERDA Buch Redaktion (siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon)).
-Kontakt: siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon).
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
-Letzte Änderung: 2025-06-10
+###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 
 
 \newpage
@@ -11174,11 +11695,12 @@ version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-ie-staatenprofil-republik-irland"></a>
 
-## IE - Staatenprofil Republik Irland
 
-### 🇮🇪 ERDA-Staatenprofil: Republik Irland
+### IE - Staatenprofil Republik Irland
 
-#### 1. Überblick (Meta)
+#### 🇮🇪 ERDA-Staatenprofil: Republik Irland
+
+##### 1. Überblick (Meta)
 
 * 🏳️ **Offizieller Name:** Republik Irland ([Wikipedia](https://en.wikipedia.org/wiki/Republic_of_Ireland))
 * 🗺️ **Geografische Lage:** Nordwest-Europa, Insel Irland, Zugang zum Atlantik (Küste 1 448 km) ([CIA Factbook](https://www.cia.gov/the-world-factbook/countries/ireland/))
@@ -11189,7 +11711,7 @@ version: "1.0"
 
 ***
 
-#### 2. Demografie & Gesellschaft
+##### 2. Demografie & Gesellschaft
 
 * **Bevölkerung (2050/2075-Prognose):** 5 970 042 (2050) ([Worldometers Proj.](https://www.worldometers.info/world-population/ireland-population/)); ca. 5 708 188 (2075, Prognose) ([PopulationPyramid](https://www.populationpyramid.net/ireland/2075/))
 * **Altersstruktur:** Medianalter 39,4 Jahre (2024) ([Eurostat](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Population_structure_and_ageing)); Jugendanteil (0–14 Jahre) 18,8 % (2024) ([CSO](https://www.cso.ie/en/releasesandpublications/ep/p-mip/measuringirelandsprogress2023/)); Altenquotient (65+ Jahre) 15,5 % (2024) ([CSO](https://www.cso.ie/en/releasesandpublications/ep/p-mip/measuringirelandsprogress2023/))
@@ -11201,7 +11723,7 @@ version: "1.0"
 
 ***
 
-#### 3. Wirtschaft & Innovation
+##### 3. Wirtschaft & Innovation
 
 * **Bruttoinlandsprodukt (BIP, nominal):** $587,2 Mrd (Nominal; 2025f) ([Wikipedia](https://en.wikipedia.org/wiki/Economy_of_the_Republic_of_Ireland#Statistics))
 * **BIP pro Kopf:** $107 243 (Nominal; 2025f) ([Wikipedia](https://en.wikipedia.org/wiki/Economy_of_the_Republic_of_Ireland#Statistics))
@@ -11211,7 +11733,7 @@ version: "1.0"
 * **Patente / Jahr:** 428 nationale Anmeldungen (2023) ([WIPO IE Profil](https://www.wipo.int/edocs/statistics-country-profile/en/ie.pdf))
 * **Mitglied in FORTERA-Handelsallianzen?** Nein
 
-##### 3.1 Infrastrukturautarkie
+###### 3.1 Infrastrukturautarkie
 
 * Produktionssouveränität in strategischen Sektoren:
   * Energie ☐
@@ -11224,22 +11746,22 @@ version: "1.0"
 
 ***
 
-#### 4. Ressourcenprofil
+##### 4. Ressourcenprofil
 
-##### 🌱 Natürliche Ressourcen:
+###### 🌱 Natürliche Ressourcen:
 
 * **Land-/Meeresfläche:** 70 273 km² Land ([Wikipedia](https://en.wikipedia.org/wiki/Republic_of_Ireland#Geography)), 410 310 km² EEZ ([Wikipedia](https://es.wikipedia.org/wiki/Zona_econ%C3%B3mica_exclusiva))
 * **Strategische Rohstoffe:** Zink, Blei (Tara Mine: größtes Zink-Blei-Bergwerk Europas; Tara Mine Website) 
 * **Erneuerbare Energiepotenziale:** Onshore-Wind >50 GW, Offshore-Wind >27 GW (SEAI); Solar‑PV Kapazität 1 GW (2023) (SEAI);
 * **Biodiversität & Schutzgebiete:** 12 % Fläche unter Schutz (Natura 2000 & Nationalparks) ([NPWS](https://www.npws.ie/))
 
-##### 🧑‍🤝‍🧑 Soziale Ressourcen:
+###### 🧑‍🤝‍🧑 Soziale Ressourcen:
 
 * **Ehrenamt & Gemeinschaft:** Freiwilligenrate 36 % (Eurobarometer-Freizeitstudie);
 * **Civic-Tech-Nutzung:** GOV.UK Ireland Citizen Portal ([gov.ie](https://www.gov.ie/en/service/)) 
 * **Gesundheitssystem:** Universelles System mit Steuerfinanzierung, Präventionsprogramme (HSE) ([HSE](https://www.hse.ie/))
 
-##### 🛡️ Politische Ressourcen:
+###### 🛡️ Politische Ressourcen:
 
 * **Verfassungsbindung:** Ja
 * **Direkte Demokratieinstrumente:** Verfassungsreferenden
@@ -11248,7 +11770,7 @@ version: "1.0"
 
 ***
 
-#### 5. Sicherheit & strategische Rolle (EDA)
+##### 5. Sicherheit & strategische Rolle (EDA)
 
 * **Militärisches Potenzial:** Neutralität; keine DSN‑Knoten; Cyberabwehr-Einheit (Defence Forces Cyber Command); Frühwarninfo via EU Copernicus
 * **Verteidigungsausgaben:** 0,34 % BIP (2024) ([SIPRI](https://www.sipri.org/))
@@ -11258,7 +11780,7 @@ version: "1.0"
 
 ***
 
-#### 6. Kulturelle Identität & Soft Power
+##### 6. Kulturelle Identität & Soft Power
 
 * **Sprachen / indigene Kulturen:** Irisch (Gaeilge), Englisch; Gaeltacht-Regionen
 * **UNESCO-Welterbe / Kulturstätten:** Brú na Bóinne, Skellig Michael, Clonmacnoise ([UNESCO](https://whc.unesco.org/en/statesparties/ie))
@@ -11268,9 +11790,9 @@ version: "1.0"
 
 ***
 
-#### 7. Entwicklungspfad (2025–2075)
+##### 7. Entwicklungspfad (2025–2075)
 
-##### 🔭 Szenario-Entwicklung:
+###### 🔭 Szenario-Entwicklung:
 
 * **Status 2025:** Wirtschaftserholung nach Pandemie, Fortführung Digitalstrategie, moderate demografische Alterung
 * **Best Case 2075:** 6,5 Mio. Einwohner, führend in grüner Technologie, hohes Innovationsniveau
@@ -11281,7 +11803,7 @@ version: "1.0"
 **Strategische Investitionen 2025–2050:** grüne Hydrogen-Infrastruktur, KI-Forschung, Ausbildung, Gesundheitsversorgung
 **Transformation 2050–2075:** Dekarbonisierung komplett, hohe Automatisierung, Ausbau Biowirtschaft
 
-##### 🚀 Rolle in der ERDA-Vision 2075:
+###### 🚀 Rolle in der ERDA-Vision 2075:
 
 > _„Irland ist im Jahr 2075 ein führendes demokratisch‑ökologisches Innovationszentrum innerhalb der ERDA, mit besonderer Bedeutung für nachhaltige Technologie und kulturelle Vermittlung.“_
 
@@ -11291,12 +11813,12 @@ version: "1.0"
 
 ***
 
-#### 10. Kurzfassung: „Irland auf einen Blick“
+##### 10. Kurzfassung: „Irland auf einen Blick“
 
 Irland ist eine digitale Inselnation mit hoher Bildungsquote und wachsender Bevölkerung. Starke Windressourcen und ein innovationsgetriebener Technologiesektor sichern Wohlstand und Resilienz. Als aktives ERDA-Mitglied dient Irland als Beispiel für eine offene, nachhaltige Wirtschaft.
 
-#### 11. Quellen & Modellierungen
-##### 11.1 ℹ️ Allgemeines
+##### 11. Quellen & Modellierungen
+###### 11.1 ℹ️ Allgemeines
 
 * Statistik: nationale Quellen (CSO Ireland) und internationale Daten (Eurostat, World Bank); Basisjahr 2025.
 * Energiepotenziale: Studien der SEAI und EU-Roadmaps.
@@ -11332,48 +11854,47 @@ Irland ist eine digitale Inselnation mit hoher Bildungsquote und wachsender Bev�
 * Constitution of Ireland: <https://www.irishstatutebook.ie/eli/cons/en/html>
 * World Justice Project Rule of Law Index.
 
-##### 11.3 🛠️ Modellierungen & Annahmen
+###### 11.3 🛠️ Modellierungen & Annahmen
 * Wirtschaftliche Projektionen 2050–2075: reales Wachstum 2 % p.a. (hypothetisch).
 * Infrastrukturautarkie: Ziel 80 % erneuerbare Energieversorgung (hypothetisch).
-#### 12. 🤝 Mitwirkung willkommen
+##### 12. 🤝 Mitwirkung willkommen
 
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Irland sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
-##### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: ERDA Buch Redaktion (siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon)).
-Kontakt: siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon).
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
-Letzte Änderung: 2025-06-10
+###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 
-##### B. Wirtschaft & Innovation
+###### B. Wirtschaft & Innovation
 
 * Wikipedia „Economy of the Republic of Ireland"
 * Digital Economy and Society Index (DESI): https://digital-strategy.ec.europa.eu/en/policies/desi
 
-##### C. Soziales & Bildung
+###### C. Soziales & Bildung
 
 * Eurostat & CSO Key Publications „Measuring Ireland’s Progress“
 
-##### D. Gesundheit & Lebenserwartung
+###### D. Gesundheit & Lebenserwartung
 
 * Worldometers „Ireland Population"
 * HSE – Health Service Executive
 
-##### E. Innovation & Patente
+###### E. Innovation & Patente
 
 * WIPO Ireland Country Profile: https://www.wipo.int/edocs/statistics-country-profile/en/ie.pdf
 
-##### F. Umwelt & Ressourcen
+###### F. Umwelt & Ressourcen
 
 * SEAI – Sustainable Energy Authority of Ireland
 * Geological Survey Ireland
 
-##### G. Sicherheit & Verteidigung
+###### G. Sicherheit & Verteidigung
 
 * SIPRI Military Expenditure Database
 * EDA & EU Copernicus Programme
 
-##### H. Politische & institutionelle Grundlagen
+###### H. Politische & institutionelle Grundlagen
 
 * Constitution of Ireland: https://www.irishstatutebook.ie/eli/cons/en/html
 * World Justice Project Rule of Law Index
@@ -11392,11 +11913,12 @@ version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-it-staatenprofil-italien"></a>
 
-## IT - Staatenprofil Italien
 
-### 🇮🇹 ERDA-Staatenprofil: Italien
+### IT - Staatenprofil Italien
 
-#### 1. Überblick (Meta)
+#### 🇮🇹 ERDA-Staatenprofil: Italien
+
+##### 1. Überblick (Meta)
 
 * **Offizieller Name:** Repubblica Italiana
 * **Geografische Lage:** Südeuropa, italienische Halbinsel im Mittelmeer
@@ -11407,7 +11929,7 @@ version: "1.0"
 
 ***
 
-#### 2. Demografie & Gesellschaft
+##### 2. Demografie & Gesellschaft
 
 * **Bevölkerung (2050/2075-Prognose):** ca. 54,4 Mio. (2050), ca. 47,0 Mio. (2075) ([data.who.int](https://data.who.int/countries/380), [en.wikipedia.org](https://en.wikipedia.org/wiki/Population_decline))
 * **Altersstruktur:** Medianalter: 47,3 Jahre; 0–14 Jahre: 13,4  %; ≥ 65 Jahre: 23,3  %
@@ -11419,7 +11941,7 @@ version: "1.0"
 
 ***
 
-#### 3. Wirtschaft & Innovation
+##### 3. Wirtschaft & Innovation
 
 * **BIP (Mrd. EUR):** 2025: 2.150 | 2050: 2.800 | 2075: 3.200
 * **BIP pro Kopf (EUR):** ca. 36.500
@@ -11429,15 +11951,15 @@ version: "1.0"
 * **Patente p.a.:** ca. 21.000 EP-Anmeldungen (2023)
 * **Mitglied in FORTERA-Handelsallianzen:** Ja
 
-##### 3.1 Infrastrukturautarkie
+###### 3.1 Infrastrukturautarkie
 
 * Energie ☑, IT/Cloud ☐, Verteidigung ☐, Ernährung ☑
 
 ***
 
-#### 4. Ressourcenprofil
+##### 4. Ressourcenprofil
 
-##### 🌱 Natürliche Ressourcen:
+###### 🌱 Natürliche Ressourcen:
 
 * **Landfläche:** 301 340 km² ([cia.gov](https://www.cia.gov/the-world-factbook/countries/italy/#environment))
 * **Meeresfläche (AWZ):** 541 915 km²
@@ -11445,13 +11967,13 @@ version: "1.0"
 * **Erneuerbare Energiepotenziale:** Solar (Süditalien), Wind (Adria & Sardinien), Geothermie (Toskana)
 * **Biodiversität & Schutzgebiete:** 10,1 % der Landesfläche geschützt
 
-##### 🧑‍🤝‍🧑 Soziale Ressourcen:
+###### 🧑‍🤝‍🧑 Soziale Ressourcen:
 
 * Ehrenamt & Gemeinschaftskultur: 5,5 / 10
 * CIVITAS-Partizipationsindex: 6,0 / 10
 * Gesundheitssystem: Zugang 9 / 10; Prävention 6,5 / 10
 
-##### 🛡️ Politische Ressourcen:
+###### 🛡️ Politische Ressourcen:
 
 * Verfassungsbindung: Ja
 * Direkte Demokratieinstrumente: Teilweise (Referenden auf Regionalebene)
@@ -11462,7 +11984,7 @@ version: "1.0"
 
 ***
 
-#### 5. Sicherheit & strategische Rolle (EDA)
+##### 5. Sicherheit & strategische Rolle (EDA)
 
 * **Militärisches Potenzial:**
   * DSN-geeignet ☑
@@ -11475,7 +11997,7 @@ version: "1.0"
 
 ***
 
-#### 6. Kulturelle Identität & Soft Power
+##### 6. Kulturelle Identität & Soft Power
 
 * Sprachen: Italienisch; Minderheitensprachen: Sardisch, Deutsch, Französisch
 * UNESCO-Welterbe: 60 Stätten (höchste Zahl weltweit) ([smithsonianmag.com](https://www.smithsonianmag.com/smart-news/ancient-romes-stone-highway-has-become-a-world-heritage-site-180984788/))
@@ -11485,15 +12007,15 @@ version: "1.0"
 
 ***
 
-#### 7. Entwicklungspfad (2025–2075)
+##### 7. Entwicklungspfad (2025–2075)
 
-##### 🔭 Szenario-Entwicklung:
+###### 🔭 Szenario-Entwicklung:
 
 * **Status 2025:** Industriestaat mit hohem kulturellem Erbe & demografischer Alterung
 * **Strategische Investitionen 2025–2050:** Bildung, F\&E, erneuerbare Energien, Digitalisierung
 * **Transformation 2050–2075:** Netto-Null, Post-Knappheit, cultural & tech hub
 
-##### 🚀 Rolle in der ERDA-Vision 2075:
+###### 🚀 Rolle in der ERDA-Vision 2075:
 
 > _„Italien ist 2075 ein pulsierender Kultur- und Innovationsknoten der ERDA – Pionier in nachhaltiger Luxus- und Nahrungsmittelproduktion.“_
 
@@ -11503,7 +12025,7 @@ version: "1.0"
 
 ***
 
-#### 8. Narrative & Anwerbewirkung
+##### 8. Narrative & Anwerbewirkung
 
 > _„Italien zeigt, dass kulturelle Vielfalt und kreative Wertschöpfung Motor für nachhaltiges Wachstum sind.“_
 
@@ -11513,7 +12035,7 @@ version: "1.0"
 
 ***
 
-#### 9. Kennzahlenübersicht (Kurzform)
+##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025   | 2050   | 2075   |
 | ------------------------------------- | ------ | ------ | ------ |
@@ -11527,67 +12049,66 @@ version: "1.0"
 
 ***
 
-#### 10. Kurzfassung: „Italien auf einen Blick“
+##### 10. Kurzfassung: „Italien auf einen Blick“
 
 Italien verbindet mediterrane Lebensart mit technologischer Ambition. Kulturelles Erbe, Spitzenkulinarik und nachhaltige Innovationen machen das Land zu einem künftigen ERDA-Knoten für Design und Genuss.
 
 ***
 
-#### 11. Quellen & Modellierungen
+##### 11. Quellen & Modellierungen
 
-##### 11.1 ℹ️ Allgemeines
+###### 11.1 ℹ️ Allgemeines
 
 * Statistik: Mischung aus nationalen und internationalen Quellen (ISTAT, Eurostat, UN), Basisjahr 2025.
 
-##### 11.2 📎 Verwendete Quellen & Verweise
+###### 11.2 📎 Verwendete Quellen & Verweise
 
-##### Demografische Daten
+###### Demografische Daten
 
 * **UN World Population Prospects** (2022 Revision), United Nations, https://population.un.org/wpp/
 * **ISTAT** (Italienisches Statistisches Amt), Bevölkerungs- und Migrationsdaten, https://www.istat.it/
 
-##### Wirtschaft & Innovation
+###### Wirtschaft & Innovation
 
 * **Eurostat**: BIP und Automatisierungsstatistiken, https://ec.europa.eu/eurostat/
 * **OECD**: F\&E-Quote und Bildungsdaten, https://stats.oecd.org/
 
-##### Soziales & Bildung
+###### Soziales & Bildung
 
 * **Eurostat**: Bildungsquoten und Hochschulabschlüsse, https://ec.europa.eu/eurostat/
 * **World Justice Project**: Rule of Law Index, https://worldjusticeproject.org/
 
-##### Gesundheit & Lebenserwartung
+###### Gesundheit & Lebenserwartung
 
 * **World Health Organization (WHO)**: Lebenserwartungsdaten, <https://www.who.int/data/gho/data/indicators/indicator-details/GHO/life-expectancy-at-birth-(years)>
 * **Reuters**: Artikel "Births fall in Italy", Geburten- und Migrationsstatistiken, https://www.reuters.com/
 
-##### Innovation & Patente
+###### Innovation & Patente
 
 * **European Patent Office (EPO)**: Patentstatistiken, https://epo.org/
 * **International Federation of Robotics (IFR)**: Roboterdichte, https://ifr.org/
 
-##### Umwelt & Ressourcen
+###### Umwelt & Ressourcen
 
 * **The World Factbook**, CIA: Geodaten und Umweltstatistiken, https://www.cia.gov/the-world-factbook/
 * **UNESCO World Heritage Centre**: Anzahl und Standorte der Welterbestätten, https://whc.unesco.org/
 
-##### Sicherheit & Verteidigung
+###### Sicherheit & Verteidigung
 
 * **Stockholm International Peace Research Institute (SIPRI)**: Verteidigungsausgaben, https://www.sipri.org/
 
-##### 11.3 🛠️ Modellierungen & Annahmen
+###### 11.3 🛠️ Modellierungen & Annahmen
 
 * **ERDA-Projektionsmodell** (internes Szenario- und Prognosemodell)
 
-#### 12. 🤝 Mitwirkung willkommen
+##### 12. 🤝 Mitwirkung willkommen
 
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Italienischen Republik sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
-##### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: ERDA Buch Redaktion (siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon)).
-Kontakt: siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon).
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
-Letzte Änderung: 2025-06-10
+###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 
 
 \newpage
@@ -11603,11 +12124,12 @@ version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-lt-staatenprofil-republik-litauen"></a>
 
-## LT - Staatenprofil Republik Litauen
 
-### 🇱🇹 ERDA-Staatenprofil: Republik Litauen
+### LT - Staatenprofil Republik Litauen
 
-#### 1. Überblick (Meta)
+#### 🇱🇹 ERDA-Staatenprofil: Republik Litauen
+
+##### 1. Überblick (Meta)
 
 * 🏳️ **Offizieller Name:** Republik Litauen (Respublika Lietuva) ([Verfassung](https://www.lrs.lt/sip/portal.show?p_r=8804))
 * 🗺️ **Geografische Lage:** Nordeuropa, Ostseestaat, Grenze zu Lettland, Belarus, Polen, Russland (Kaliningrad) ([CIA Factbook](https://www.cia.gov/the-world-factbook/countries/lithuania/))
@@ -11618,7 +12140,7 @@ version: "1.0"
 
 ***
 
-#### 2. Demografie & Gesellschaft
+##### 2. Demografie & Gesellschaft
 
 * **Bevölkerung (2050/2075-Prognose):** 2 258 774 (2050) ([WHO](https://data.who.int/countries/440)) ; ca. 1 900 000 (2075, UN WPP Mittelvariante) ([UN WPP](https://population.un.org/wpp/))
 * **Altersstruktur:** Medianalter 42,3 Jahre (2025) ([Worldometer](https://www.worldometers.info/world-population/lithuania-population/)) ; Jugendanteil (0–14 Jahre) 15,6 % (2024) ([Demographics wiki](https://en.wikipedia.org/wiki/Demographics_of_Lithuania)) ; Altenquotient (≥ 65 Jahre) 25,7 % (2024) 
@@ -11630,7 +12152,7 @@ version: "1.0"
 
 ***
 
-#### 3. Wirtschaft & Innovation
+##### 3. Wirtschaft & Innovation
 
 * **Bruttoinlandsprodukt (BIP, nominal 2024):** € 77,94 Mrd ([Wikipedia](https://en.wikipedia.org/wiki/Economy_of_Lithuania#Statistics)) 
 * **BIP pro Kopf (2024):** € 26 990 ([Baltic states wiki](https://en.wikipedia.org/wiki/Baltic_states#General_statistics)) 
@@ -11640,7 +12162,7 @@ version: "1.0"
 * **Patente / Jahr:** 632 USPTO-Anmeldungen (2023) ([WIPO LT Profil](https://www.wipo.int/edocs/statistics-country-profile/en/lt.pdf))
 * **Mitglied in FORTERA-Handelsallianzen?** Nein
 
-##### 3.1 Infrastrukturautarkie
+###### 3.1 Infrastrukturautarkie
 
 * Energie ☑, IT ☑, Verteidigung ☐, Ernährung ☑
 * Satellitenkommunikation (IRIS²) ☐
@@ -11649,22 +12171,22 @@ version: "1.0"
 
 ***
 
-#### 4. Ressourcenprofil
+##### 4. Ressourcenprofil
 
-##### 🌱 Natürliche Ressourcen:
+###### 🌱 Natürliche Ressourcen:
 
 * **Land-/Meeresfläche:** 65 300 km² Land; Küstenlinie 90 km; EXZ: 11 000 km² ([Baltic states wiki](https://en.wikipedia.org/wiki/Baltic_states#General_statistics)) 
 * **Strategische Rohstoffe:** Torf, Bernstein, Kalkstein, Kaolin ([Lithuania wiki](https://en.wikipedia.org/wiki/Lithuania#Natural_resources))
 * **Erneuerbare Energiepotenziale:** Onshore-Wind >5 GW, Solar-PV 1,2 GW (2023), Biomasse (SEIA) ([SEIA LT](https://www.sei.lt))
 * **Biodiversität & Schutzgebiete:** 17 % Fläche unter Schutz (Natura 2000 & Nationalparks) ([Protected Planet](https://www.protectedplanet.net/country/LTU))
 
-##### 🧑‍🤝‍🧑 Soziale Ressourcen:
+###### 🧑‍🤝‍🧑 Soziale Ressourcen:
 
 * **Ehrenamt & Gemeinschaft:** Freiwilligenrate 32 % (Eurobarometer 2023)
 * **Civic-Tech-Nutzung:** e‑Government-Portal Lietuva – 95 % Online-Behördendienste ([Gov.lt](https://www.lietuva.gov.lt))
 * **Gesundheitssystem:** Universeller Zugang, 6,8 % BIP-Präventionsausgaben (2022) ([WHO](https://data.who.int/countries/440))
 
-##### 🛡️ Politische Ressourcen:
+###### 🛡️ Politische Ressourcen:
 
 * **Verfassungsbindung:** Ja (Verfassung 1992)
 * **Direkte Demokratieinstrumente:** Volksinitiativen ab 50 000 Unterschriften
@@ -11673,7 +12195,7 @@ version: "1.0"
 
 ***
 
-#### 5. Sicherheit & strategische Rolle (EDA)
+##### 5. Sicherheit & strategische Rolle (EDA)
 
 * **Militärisches Potenzial:** NATO-Mitglied; DSN-Knoten; Cyberkommando; Frühwarnsystem (NATO NCI Agency)
 * **Verteidigungsausgaben:** 2,0 % BIP (2024) ([SIPRI](https://www.sipri.org/))
@@ -11683,7 +12205,7 @@ version: "1.0"
 
 ***
 
-#### 6. Kulturelle Identität & Soft Power
+##### 6. Kulturelle Identität & Soft Power
 
 * **Sprachen / Kulturen:** Litauisch; polnische und russische Minderheiten; Samische Traditionen
 * **UNESCO-Welterbe:** Historische Altstadt Vilnius; Kurische Nehrung; Kernavė ([UNESCO](https://whc.unesco.org/en/statesparties/ltu))
@@ -11693,9 +12215,9 @@ version: "1.0"
 
 ***
 
-#### 7. Entwicklungspfad (2025–2075)
+##### 7. Entwicklungspfad (2025–2075)
 
-##### 🔭 Szenario-Entwicklung:
+###### 🔭 Szenario-Entwicklung:
 
 * **Status 2025:** Deindustrialisierung vorbei, demografischer Rückgang, solide Digitalisierung
 * **Best Case 2075:** 2,1 Mio Einh.; CO$_2$-Neutralität; führend in Cyber- und Greentech
@@ -11706,7 +12228,7 @@ version: "1.0"
 **Strategische Investitionen 2025–2050:** Grüne Wasserstoffproduktion; KI-Plattformen; Bildungstechnologie\
 **Transformation 2050–2075:** Vollständige Dekarbonisierung; automatisierte Landwirtschaft; regionale e‑Governance
 
-##### 🚀 Rolle in der ERDA-Vision 2075:
+###### 🚀 Rolle in der ERDA-Vision 2075:
 
 > _„Litauen ist 2075 ein Leuchtturm der post-knappheitsökologischen Innovation und demokratischen Digitalisierung innerhalb der ERDA.“_
 
@@ -11716,7 +12238,7 @@ version: "1.0"
 
 ***
 
-#### 8. Narrative & Anwerbewirkung
+##### 8. Narrative & Anwerbewirkung
 
 > _„Litauen zeigt, dass ein kleiner Staat mit digitaler DNA und grünem Mut Großes bewirken kann.“_
 
@@ -11726,7 +12248,7 @@ version: "1.0"
 
 ***
 
-#### 9. Kennzahlenübersicht (Kurzform)
+##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025         | 2050     | 2075      |
 | ------------------------------------- | ------------ | -------- | --------- |
@@ -11743,19 +12265,19 @@ version: "1.0"
 ***
 
 
-#### 10. Kurzfassung: „Litauen auf einen Blick"
+##### 10. Kurzfassung: „Litauen auf einen Blick"
 
 Litauen positioniert sich als digital orientierter Ostseestaat mit wachsenden grünen Industrien. Auf dem Weg zur klimaneutralen Innovation stärkt das Land seine E-Governance und Bürgerbeteiligung.
 
-#### 11. Quellen & Modellierungen
+##### 11. Quellen & Modellierungen
 
-##### 11.1 ℹ️ Allgemeines
+###### 11.1 ℹ️ Allgemeines
 
 * Statistik: Mischung aus nationalen und internationalen Quellen (Eurostat, OECD u. a.), Basisjahr 2025.
 * Modelle: BIP-Prognosen und Bevölkerungsentwicklung nach OECD und UN (hypothetisch: ERDA Scenario Modeling Report 2025).
 * Energie- und Infrastrukturdaten laut nationalen Strategiepapiere (hypothetisch: ERDA Scenario Modeling Report 2025).
 
-##### 11.2 📎 Verwendete Quellen & Verweise
+###### 11.2 📎 Verwendete Quellen & Verweise
 
 **Demografie & Gesellschaft**
 * UN World Population Prospects: https://population.un.org/wpp/
@@ -11784,22 +12306,21 @@ Litauen positioniert sich als digital orientierter Ostseestaat mit wachsenden gr
 * Constituição de 1992: https://www.lrs.lt/sip/portal.show?p_r=8804
 * World Justice Project Rule of Law Index
 
-##### 11.3 🛠️ Modellierungen & Annahmen
+###### 11.3 🛠️ Modellierungen & Annahmen
 * Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
 * Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 * Wirtschaftliche Projektionen 2050–2075: extrapoliert aus Eurostat- und OECD-Trenddaten (hypothetisch: ERDA Scenario Modeling Report 2025).
 * Infrastrukturautarkie: Ziel 80 % erneuerbare Energieversorgung (hypothetisch: ERDA Scenario Modeling Report 2025).
 
-#### 12. 🤝 Mitwirkung willkommen
+##### 12. 🤝 Mitwirkung willkommen
 
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Litauen sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
-##### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: ERDA Buch Redaktion (siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon)).
-Kontakt: siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon).
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
-Letzte Änderung: 2025-06-10
+###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 
 
 
@@ -11816,11 +12337,12 @@ version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-lu-staatenprofil-luxemburg"></a>
 
-## LU - Staatenprofil Luxemburg
 
-### 🇱🇺 ERDA-Staatenprofil: Luxemburg
+### LU - Staatenprofil Luxemburg
 
-#### 1. Überblick (Meta)
+#### 🇱🇺 ERDA-Staatenprofil: Luxemburg
+
+##### 1. Überblick (Meta)
 
 * 🏳️ Offizieller Name: Großherzogtum Luxemburg
 * 🗺️ Geografische Lage: Westeuropa, grenzt an Belgien, Deutschland und Frankreich
@@ -11831,7 +12353,7 @@ version: "1.0"
 
 ***
 
-#### 2. Demografie & Gesellschaft
+##### 2. Demografie & Gesellschaft
 
 * Bevölkerung (2050/2075-Prognose): 0,80 Mio. / 0,85 Mio. (UN DESA World Population Prospects 2022, hypothetisch: ERDA Scenario Modeling Report 2025)[2]
 * Altersstruktur (Medianalter, Jugendanteil %, Altenquotient): 40 Jahre, 17 %, 14 % (World Bank 2023)
@@ -11843,7 +12365,7 @@ version: "1.0"
 
 ***
 
-#### 3. Wirtschaft & Innovation
+##### 3. Wirtschaft & Innovation
 
 * Bruttoinlandsprodukt (BIP, real, heute / 2050 / 2075): 86 Mrd. USD / 110 Mrd. EUR / 150 Mrd. EUR (2050/2075 hypothetisch: ERDA Scenario Modeling Report 2025)[6]
 * BIP pro Kopf: 128 678 USD (World Bank 2023)[7]
@@ -11851,7 +12373,7 @@ version: "1.0"
 * Innovationskraft (Patentanmeldungen, FuE-Beschäftigte): hoch (EPO Patent Index 2023)[9]
 * Wirtschaftliche Schwerpunkte: Finanzdienstleistungen, Logistik, Satellitenkommunikation
 
-##### 3.1 Infrastrukturautarkie
+###### 3.1 Infrastrukturautarkie
 
 * Produktionssouveränität in strategischen Sektoren:
   * Energie ☐
@@ -11864,7 +12386,7 @@ version: "1.0"
 
 ***
 
-#### 4. Ressourcenprofil
+##### 4. Ressourcenprofil
 
 * Landfläche: 2 586 km² (World Bank 2022)[10]
 * Geschützte Flächen: 55,8 % des Territoriums (World Bank 2023)[11]
@@ -11874,7 +12396,7 @@ version: "1.0"
 ***
 
 
-#### 5. Sicherheit & strategische Rolle (EDA)
+##### 5. Sicherheit & strategische Rolle (EDA)
 
 * Mitgliedschaften: NATO, EU
 * Verteidigungsausgaben: ca. 0,7 % des BIP (SIPRI 2023)
@@ -11883,7 +12405,7 @@ version: "1.0"
 ***
 
 
-#### 6. Kulturelle Identität & Soft Power
+##### 6. Kulturelle Identität & Soft Power
 
 * **Sprachen:** Luxemburgisch, Französisch, Deutsch
 * **UNESCO-Welterbe:** 1 Stätte (Altstadt und Festungen von Luxemburg)
@@ -11893,7 +12415,7 @@ version: "1.0"
 
 ***
 
-#### 7. Entwicklungspfad (2025–2075)
+##### 7. Entwicklungspfad (2025–2075)
 
 **🔭 Szenario-Entwicklung**
 
@@ -11911,7 +12433,7 @@ version: "1.0"
 
 ***
 
-#### 8. Narrative & Anwerbewirkung
+##### 8. Narrative & Anwerbewirkung
 
 > _"Luxemburg zeigt, dass ein kleiner Staat durch Offenheit und Innovation große Wirkung entfalten kann."_
 
@@ -11921,7 +12443,7 @@ version: "1.0"
 
 ***
 
-#### 9. Kennzahlenübersicht (Kurzform)
+##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025 | 2050 | 2075 |
 | ------------------------------------- | ---- | ---- | ---- |
@@ -11937,19 +12459,19 @@ Hinweise: (p) – Prognose, (*) – aktuelle Schätzung 2025.
 
 ***
 
-#### 10. Kurzfassung: „Luxemburg auf einen Blick“
+##### 10. Kurzfassung: „Luxemburg auf einen Blick“
 
 Luxemburg ist ein wohlhabender Kleinstaat im Herzen Europas, der dank seiner stabilen Demokratie, seines starken Finanzsektors und einer innovationsfreudigen Wirtschaft eine Schlüsselrolle für die europäische Integration spielt. Mit hoher Lebensqualität, wachsender Bevölkerung und internationaler Ausrichtung bietet das Land große Chancen als digitaler und finanzieller Hub. Herausforderungen liegen in der Abhängigkeit von Energieimporten und dem Bedarf an nachhaltiger Stadtentwicklung.
 
-#### 11. Quellen & Modellierungen
+##### 11. Quellen & Modellierungen
 
-##### 11.1 ℹ️ Allgemeines
+###### 11.1 ℹ️ Allgemeines
 
 * Statistik: Mischung aus nationalen und internationalen Quellen (World Bank, OECD)
 * Modelle: BIP-Prognosen und Bevölkerungsentwicklung nach UN DESA (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Energie- und Infrastrukturdaten laut nationalen Strategiepapiere (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-##### 11.2 📎 Verwendete Quellen & Verweise
+###### 11.2 📎 Verwendete Quellen & Verweise
 
 1. World Bank. 2025. „Population, total - Luxembourg“. [https://api.worldbank.org/v2/country/LUX/indicator/SP.POP.TOTL](https://api.worldbank.org/v2/country/LUX/indicator/SP.POP.TOTL) (Letzter Zugriff am 2025-06-11).
 2. United Nations Department of Economic and Social Affairs. 2022. „World Population Prospects 2022“. [https://population.un.org/wpp](https://population.un.org/wpp) (Letzter Zugriff am 2025-06-11).
@@ -11964,7 +12486,7 @@ Luxemburg ist ein wohlhabender Kleinstaat im Herzen Europas, der dank seiner sta
 11. World Bank. 2025. „Terrestrial and marine protected areas (% of total territorial area) - Luxembourg“. [https://api.worldbank.org/v2/country/LUX/indicator/ER.PTD.TOTL.ZS](https://api.worldbank.org/v2/country/LUX/indicator/ER.PTD.TOTL.ZS) (Letzter Zugriff am 2025-06-11).
 12. World Bank. 2024. „Renewable energy consumption (% of total final energy consumption) - Luxembourg“. [https://api.worldbank.org/v2/country/LUX/indicator/EG.FEC.RNEW.ZS](https://api.worldbank.org/v2/country/LUX/indicator/EG.FEC.RNEW.ZS) (Letzter Zugriff am 2025-06-11).
 
-##### 11.3 🛠️ Modellierungen & Annahmen
+###### 11.3 🛠️ Modellierungen & Annahmen
 
 * Wirtschaftliche Projektionen 2050–2075: extrapoliert aus OECD-Trends (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Infrastrukturautarkie: Ziel 80 % erneuerbare Energieversorgung (hypothetisch: ERDA Scenario Modeling Report 2025)
@@ -11973,15 +12495,14 @@ Luxemburg ist ein wohlhabender Kleinstaat im Herzen Europas, der dank seiner sta
 
 ***
 
-#### 12. 🤝 Mitwirkung willkommen
+##### 12. 🤝 Mitwirkung willkommen
 
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen des Großherzogtums Luxemburg sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
-##### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: ERDA Buch Redaktion (siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon)).
-Kontakt: siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon).
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
-Letzte Änderung: 2025-06-11
+###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 
 
 \newpage
@@ -11997,11 +12518,12 @@ version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-lv-staatenprofil-republik-lettland"></a>
 
-## LV - Staatenprofil Republik Lettland
 
-### 🇱🇻 ERDA-Staatenprofil: Republik Lettland
+### LV - Staatenprofil Republik Lettland
 
-#### 1. Überblick (Meta)
+#### 🇱🇻 ERDA-Staatenprofil: Republik Lettland
+
+##### 1. Überblick (Meta)
 
 * 🏳️ **Offizieller Name:** Republik Lettland (Republika Latvija) ([Satversme](https://likumi.lv/ta/id/57980-latvijas-republikas-satversme))
 * 🗺️ **Geografische Lage:** Nördliches Baltikum, grenzt an Estland, Russland, Belarus, Litauen; Ostseeküste 494 km ([CIA Factbook](https://www.cia.gov/the-world-factbook/countries/latvia/))
@@ -12012,7 +12534,7 @@ version: "1.0"
 
 ***
 
-#### 2. Demografie & Gesellschaft
+##### 2. Demografie & Gesellschaft
 
 * **Bevölkerung (2050/2075-Prognose):** 1 249 812 (2050) ([US Census IDB via Wikipedia](https://en.wikipedia.org/wiki/Demographics_of_Latvia#International_Data_Base_Country_Rankings)); –
 * **Altersstruktur:**
@@ -12032,7 +12554,7 @@ version: "1.0"
 
 ***
 
-#### 3. Wirtschaft & Innovation
+##### 3. Wirtschaft & Innovation
 
 * **BIP (nominal, 2023):** 48,4 Mrd USD ([Economy of Latvia, Wikipedia](https://en.wikipedia.org/wiki/Economy_of_Latvia#Statistics))
 * **BIP pro Kopf:** 25 346 USD ([Economy of Latvia, Wikipedia](https://en.wikipedia.org/wiki/Economy_of_Latvia#Statistics))
@@ -12042,7 +12564,7 @@ version: "1.0"
 * **Patente / Jahr:** 208 nationale Anmeldungen (2023) ([WIPO Latvia-Profil](https://www.wipo.int/edocs/statistics-country-profile/en/lv.pdf))
 * **Mitglied in FORTERA-Handelsallianzen?:** Nein
 
-##### 3.1 Infrastrukturautarkie
+###### 3.1 Infrastrukturautarkie
 
 * Energie ☑
 * IT/Cloud ☐
@@ -12054,22 +12576,22 @@ version: "1.0"
 
 ***
 
-#### 4. Ressourcenprofil
+##### 4. Ressourcenprofil
 
-##### 🌱 Natürliche Ressourcen:
+###### 🌱 Natürliche Ressourcen:
 
 * Flächen: 64 589 km² Land; EEZ 21 459 km² ([Latvia, Wikipedia](https://en.wikipedia.org/wiki/Latvia#Geography))
 * Strategische Rohstoffe: Torf, Mineralquellen, Holz ([Latvia, Wikipedia](https://en.wikipedia.org/wiki/Latvia#Economy))
 * Erneuerbare Potenziale: Wasserkraft 1,1 GW, Wind 0,5 GW, Biomasse ([SEEKER](https://www.sei.ee/))
 * Biodiversität & Schutzgebiete: 13 % Natura 2000 ([Natura 2000](https://natura2000.eea.europa.eu/))
 
-##### 🧑‍🤝‍🧑 Soziale Ressourcen:
+###### 🧑‍🤝‍🧑 Soziale Ressourcen:
 
 * Ehrenamt: 30 % Freiwilligenquote (Eurobarometer)
 * Civic Tech: [ManaBalss.lv](https://manabalss.lv/)
 * Gesundheitssystem: universell, 5 % Prävention am BIP ([WHO](https://apps.who.int/gho/data/view.main.246?lang=en))
 
-##### 🛡️ Politische Ressourcen:
+###### 🛡️ Politische Ressourcen:
 
 * Verfassungsbindung: Ja
 * Direkte Demokratie: Volksbegehren möglich
@@ -12078,7 +12600,7 @@ version: "1.0"
 
 ***
 
-#### 5. Sicherheit & strategische Rolle (EDA)
+##### 5. Sicherheit & strategische Rolle (EDA)
 
 * **Militärisches Potenzial:** ☑ DSN-geeignet, ☑ Cyberkommando, ☑ Frühwarnsystem
 * **Verteidigungsausgaben:** 1,13 % BIP (2023) ([SIPRI](https://www.sipri.org/))
@@ -12088,7 +12610,7 @@ version: "1.0"
 
 ***
 
-#### 6. Kulturelle Identität & Soft Power
+##### 6. Kulturelle Identität & Soft Power
 
 * Sprachen: Lettisch (Amtssprache), Russisch (Minderheit)
 * UNESCO-Welterbe: Altstadt Riga, Struve-Bogen ([UNESCO](https://whc.unesco.org/en/statesparties/lv))
@@ -12098,9 +12620,9 @@ version: "1.0"
 
 ***
 
-#### 7. Entwicklungspfad (2025–2075)
+##### 7. Entwicklungspfad (2025–2075)
 
-##### 🔭 Szenario-Entwicklung:
+###### 🔭 Szenario-Entwicklung:
 
 * **Status 2025:** Demografischer Rückgang, Digitalisierung im Aufschwung
 * **Best Case 2075:** Bevölkerungsstabilisierung (1,5 Mio.), BIP +50 %, führend in Cybersecurity
@@ -12111,7 +12633,7 @@ version: "1.0"
 **Strategische Investitionen 2025–2050:** KI-Forschung, erneuerbare Energien, Bildung\
 **Transformation 2050–2075:** Vollständige Dekarbonisierung, digitale Bürgerplattformen
 
-##### 🚀 Rolle in der ERDA-Vision 2075:
+###### 🚀 Rolle in der ERDA-Vision 2075:
 
 > _„Lettland ist im Jahr 2075 ein digital-demokratisches Musterland innerhalb der ERDA, mit besonderer Stärke in Cyberresilienz und E‑Governance.“_
 
@@ -12121,7 +12643,7 @@ version: "1.0"
 
 ***
 
-#### 8. Narrative & Anwerbewirkung
+##### 8. Narrative & Anwerbewirkung
 
 > _„Lettland zeigt, dass digitale Innovation und demokratische Teilhabe das Rückgrat einer resilienten Gesellschaft bilden.“_
 
@@ -12131,7 +12653,7 @@ version: "1.0"
 
 ***
 
-#### 9. Kennzahlenübersicht (Kurzform)
+##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025         | 2050    | 2075     |
 | ------------------------------------- | ------------ | ------- | -------- |
@@ -12147,18 +12669,18 @@ version: "1.0"
 
 ***
 
-#### 10. Kurzfassung: „Lettland auf einen Blick"
+##### 10. Kurzfassung: „Lettland auf einen Blick"
 
 Lettland setzt konsequent auf digitale Innovation und eine starke Zivilgesellschaft. Trotz demografischer Herausforderungen will das Land als Cyberhub der ERDA und Vorreiter in E‑Governance bestehen. Nachhaltige Energie und moderne Verwaltung bilden dabei das Rückgrat einer resilienten Zukunft.
 
-#### 11. Quellen & Modellierungen
+##### 11. Quellen & Modellierungen
 
-##### 11.1 ℹ️ Allgemeines
+###### 11.1 ℹ️ Allgemeines
 
 * Statistik: Mischung aus nationalen und internationalen Quellen (Eurostat, CIA Factbook u. a.), Basisjahr 2025.
 * Energie- und Innovationsdaten nach internationalen Studien und nationalen Strategien (hypothetisch: ERDA Scenario Modeling Report 2025).
 
-##### 11.2 📎 Verwendete Quellen & Verweise
+###### 11.2 📎 Verwendete Quellen & Verweise
 
 **Demografie & Gesellschaft**
 * UN WPP 2024: https://population.un.org/wpp
@@ -12189,7 +12711,7 @@ Lettland setzt konsequent auf digitale Innovation und eine starke Zivilgesellsch
 * World Justice Project: https://worldjusticeproject.org/
 * Eurobarometer: https://europa.eu/eurobarometer/
 
-##### 11.3 🛠️ Modellierungen & Annahmen
+###### 11.3 🛠️ Modellierungen & Annahmen
 * Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
 * Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
@@ -12197,15 +12719,14 @@ Lettland setzt konsequent auf digitale Innovation und eine starke Zivilgesellsch
 * Szenario-Projektionen 2050–2075 angelehnt an OECD‑Trends (hypothetisch: ERDA Scenario Modeling Report 2025).
 * Infrastruktur- und Digitalisierungsgrade basieren auf nationalen Strategiepapiere (hypothetisch: ERDA Scenario Modeling Report 2025).
 
-#### 12. 🤝 Mitwirkung willkommen
+##### 12. 🤝 Mitwirkung willkommen
 
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Lettland sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
-##### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: ERDA Buch Redaktion (siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon)).
-Kontakt: siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon).
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
-Letzte Änderung: 2025-06-10
+###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 
 
 \newpage
@@ -12220,11 +12741,12 @@ layout: "ERDA-State-Profile-v4"
 version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-nl-staatenprofil-niederlande"></a>
-## NL - Staatenprofil Niederlande
 
-### 🇳🇱 ERDA-Staatenprofil: Niederlande
+### NL - Staatenprofil Niederlande
 
-#### 1. Überblick (Meta)
+#### 🇳🇱 ERDA-Staatenprofil: Niederlande
+
+##### 1. Überblick (Meta)
 
 * 🏳️ **Offizieller Name:** Königreich der Niederlande
 * 🗺️ **Geografische Lage:** Westeuropa, Küstenstaat an Nordsee, grenzt an Deutschland und Belgien
@@ -12235,7 +12757,7 @@ version: "1.0"
 
 ***
 
-#### 2. Demografie & Gesellschaft
+##### 2. Demografie & Gesellschaft
 
 * **Bevölkerung (2050/2075-Prognose):** 19 000 000 / 21 000 000 (CBS-Projektion: 20,6 Mio. bis 2070)
 * **Altersstruktur:** Medianalter 41,5 Jahre; Jugendanteil (0–14) 16,1 %; Altenquotient (65+) 20,2 %
@@ -12247,7 +12769,7 @@ version: "1.0"
 
 ***
 
-#### 3. Wirtschaft & Innovation
+##### 3. Wirtschaft & Innovation
 
 * **Bruttoinlandsprodukt (nominal):**
   * 2025: 1 376 Mrd. USD (≈ 1 266 Mrd. EUR)
@@ -12265,7 +12787,7 @@ version: "1.0"
   * Verteidigung ☑
   * Ernährung ☑
 
-##### 3.1 Infrastrukturautarkie
+###### 3.1 Infrastrukturautarkie
 
 * Energie ☑, IT/Cloud ☑, Verteidigung ☑, Ernährung ☑
 * Satellitenkommunikation (IRIS²) ☑
@@ -12274,7 +12796,7 @@ version: "1.0"
 
 ***
 
-#### 4. Ressourcenprofil
+##### 4. Ressourcenprofil
 
 **🌱 Natürliche Ressourcen**
 
@@ -12299,7 +12821,7 @@ version: "1.0"
 
 ***
 
-#### 5. Sicherheit & strategische Rolle (EDA)
+##### 5. Sicherheit & strategische Rolle (EDA)
 
 * **Militärisches Potenzial:**
   * DSN-geeignet: ☐
@@ -12312,7 +12834,7 @@ version: "1.0"
 
 ***
 
-#### 6. Kulturelle Identität & Soft Power
+##### 6. Kulturelle Identität & Soft Power
 
 * **Sprachen / indigene Kulturen:** Niederländisch; Regionalsprache: Friesisch
 * **UNESCO-Welterbe:** 10 Stätten
@@ -12322,7 +12844,7 @@ version: "1.0"
 
 ***
 
-#### 7. Entwicklungspfad (2025–2075)
+##### 7. Entwicklungspfad (2025–2075)
 
 **🔭 Szenario-Entwicklung**
 
@@ -12340,7 +12862,7 @@ version: "1.0"
 
 ***
 
-#### 8. Narrative & Anwerbewirkung
+##### 8. Narrative & Anwerbewirkung
 
 > _„Die Niederlande zeigen, dass Handel, Innovation und demokratische Teilhabe Hand in Hand gehen können.“_
 
@@ -12350,7 +12872,7 @@ version: "1.0"
 
 ***
 
-#### 9. Kennzahlenübersicht (Kurzform)
+##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             |    2025 |    2050 |    2075 |
 | ------------------------------------- | ------: | ------: | ------: |
@@ -12363,17 +12885,17 @@ version: "1.0"
 | Zivilgesellschaftlicher Index [0–10] |       7 |     8,5 |     9,5 |
 
 ***
-#### 10. Kurzfassung: „Niederlande auf einen Blick"
+##### 10. Kurzfassung: „Niederlande auf einen Blick"
 
 Die Niederlande verbinden maritime Tradition, digitale Stärke und internationale Offenheit. Als logistischer und innovativer Knotenpunkt treiben sie nachhaltige Küstenresilienz und KI-getriebene Wasserwirtschaft voran.
 
 
-#### 11. Quellen & Modellierungen
-##### 11.1 ℹ️ Allgemeines
+##### 11. Quellen & Modellierungen
+###### 11.1 ℹ️ Allgemeines
 
 * Statistik & Prognosen: Kombination nationaler (CBS) und internationaler Datenquellen (Eurostat, World Bank), Basisjahr 2025.
 
-##### 11.2 📎 Verwendete Quellen & Verweise
+###### 11.2 📎 Verwendete Quellen & Verweise
 
 * Bevölkerungsdaten: Wikipedia (23. April 2025)
 * Wirtschaftsdaten: The World Factbook (2025)
@@ -12383,7 +12905,7 @@ Die Niederlande verbinden maritime Tradition, digitale Stärke und international
 * Lebenserwartung: Worldometer
 * Migration: CBS & Wikipedia (2023)
 * ERDA-Mitgliedschaft: ERDA-Staatenarchitektur (2025)
-##### 11.3 🛠️ Modellierungen & Annahmen
+###### 11.3 🛠️ Modellierungen & Annahmen
 * Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
 * Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
@@ -12392,15 +12914,14 @@ Die Niederlande verbinden maritime Tradition, digitale Stärke und international
 
 ***
 
-#### 12. 🤝 Mitwirkung willkommen
+##### 12. 🤝 Mitwirkung willkommen
 
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen des Königreichs der Niederlande sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
-##### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: ERDA Buch Redaktion (siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon)).
-Kontakt: siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon).
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
-Letzte Änderung: 2025-06-10
+###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 
 
 \newpage
@@ -12416,11 +12937,12 @@ version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-pl-staatenprofil-polen"></a>
 
-## PL - Staatenprofil Polen
 
-### 🇵🇱 ERDA-Staatenprofil: Polen
+### PL - Staatenprofil Polen
 
-#### 1. Überblick (Meta)
+#### 🇵🇱 ERDA-Staatenprofil: Polen
+
+##### 1. Überblick (Meta)
 
 * 🏳️ Offizieller Name: Republik Polen
 * 🗺️ Geografische Lage: Mitteleuropa, östliche EU-Grenze
@@ -12431,7 +12953,7 @@ version: "1.0"
 
 ***
 
-#### 2. Demografie & Gesellschaft
+##### 2. Demografie & Gesellschaft
 
 * Bevölkerung (2050/2075-Prognose): 36 Mio. / 34 Mio.
 * Altersstruktur: Medianalter 43, Jugendanteil: 17 %, Altenquotient: zunehmend
@@ -12443,7 +12965,7 @@ version: "1.0"
 
 ***
 
-#### 3. Wirtschaft & Innovation
+##### 3. Wirtschaft & Innovation
 
 * Bruttoinlandsprodukt (BIP, real): 2025: 800 Mrd. EUR / 2050: 1.200 Mrd. / 2075: 1.350 Mrd.
 * BIP pro Kopf: ca. 21.300 EUR (2025)
@@ -12455,7 +12977,7 @@ version: "1.0"
 * Mitglied im Democracy Trade Network: Ja
 * Nutzung von EHAM+ (0–10): 5
 
-##### 3.1 Infrastrukturautarkie
+###### 3.1 Infrastrukturautarkie
 
 * Energie ☑, IT/Cloud ☑, Verteidigung ☐, Ernährung ☑
 * Satellitenkommunikation (IRIS²) ☐
@@ -12464,22 +12986,22 @@ version: "1.0"
 
 ***
 
-#### 4. Ressourcenprofil
+##### 4. Ressourcenprofil
 
-##### 🌱 Natürliche Ressourcen
+###### 🌱 Natürliche Ressourcen
 
 * Landfläche: 312.696 km²
 * Strategische Rohstoffe: Kupfer, Silber, Kohle (Übergangsstrategie), Seltene Erden (regional begrenzt)
 * Erneuerbare Energiepotenziale: Wind (Baltikum), Solar (Zentral/Süd), Geothermie (Pilot)
 * Biodiversität & Schutzgebiete: ca. 28 %
 
-##### 🧑‍🤝‍🧑 Soziale Ressourcen
+###### 🧑‍🤝‍🧑 Soziale Ressourcen
 
 * Ehrenamt & Gemeinschaftskultur: 7 / 10
 * Civic-Tech-Nutzung (CIVITAS): im Aufbau (Partizipationsindex: 6 / 10)
 * Gesundheitssystem: Zugänglichkeit: 7,5 / 10 | Prävention: 5 / 10
 
-##### 🛡️ Politische Ressourcen
+###### 🛡️ Politische Ressourcen
 
 * Verfassungsbindung: Ja
 * Direkte Demokratieinstrumente: Teilweise
@@ -12488,7 +13010,7 @@ version: "1.0"
 
 ***
 
-#### 5. Sicherheit & strategische Rolle (EDA)
+##### 5. Sicherheit & strategische Rolle (EDA)
 
 * Militärisches Potenzial: ☑ DSN-geeignet, ☑ Cyberkommando, ☑ Frühwarnsystem
 * Verteidigungsausgaben: 3,2 % des BIP (2025)
@@ -12498,7 +13020,7 @@ version: "1.0"
 
 ***
 
-#### 6. Kulturelle Identität & Soft Power
+##### 6. Kulturelle Identität & Soft Power
 
 * Sprachen / indigene Kulturen: Polnisch, Kaschubisch, Minderheitensprachen (Deutsch, Ukrainisch, Litauisch)
 * UNESCO-Welterbe: 17 Stätten
@@ -12508,15 +13030,15 @@ version: "1.0"
 
 ***
 
-#### 7. Entwicklungspfad (2025–2075)
+##### 7. Entwicklungspfad (2025–2075)
 
-##### 🔭 Szenario-Entwicklung:
+###### 🔭 Szenario-Entwicklung:
 
 * **Status 2025**: Demokratieförderung nach Phase autoritärer Rückschritte, wirtschaftlich dynamisch
 * **Strategische Investitionen 2025–2050**: Bildung, Innovation, Infrastruktur, Energieautonomie
 * **Transformation 2050–2075**: Demokratiefeste Gesellschaft mit resilientem Mittelstand, ökologisch-digitaler Infrastruktur und hoher Jugendbeteiligung
 
-##### 🚀 Rolle in der ERDA-Vision 2075:
+###### 🚀 Rolle in der ERDA-Vision 2075:
 
 > _„Polen ist im Jahr 2075 ein resilientes Demokratielabor innerhalb der ERDA, mit besonderer Bedeutung für Ost-Mitteleuropa, Bildung und soziale Kohäsion.“_
 
@@ -12526,7 +13048,7 @@ version: "1.0"
 
 ***
 
-#### 8. Narrative & Anwerbewirkung
+##### 8. Narrative & Anwerbewirkung
 
 > _„Polen zeigt, dass ein Land seine demokratische Würde wiedergewinnen kann – und damit andere inspiriert.“_
 
@@ -12536,7 +13058,7 @@ version: "1.0"
 
 ***
 
-#### 9. Kennzahlenübersicht (Kurzform)
+##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025      | 2050    | 2075    |
 | ------------------------------------- | --------- | ------- | ------- |
@@ -12550,21 +13072,21 @@ version: "1.0"
 
 ***
 
-#### 10. Kurzfassung: „Polen auf einen Blick“
+##### 10. Kurzfassung: „Polen auf einen Blick“
 
 Polen ist 2025 eine dynamische Demokratie mit wachsender Wirtschaftskraft und
 einer aktiven Zivilgesellschaft. Bis 2075 will das Land als
 resilientes Demokratielabor und Bildungsstandort die Ostflanke Europas sichern.
 
-#### 11. Quellen & Modellierungen
+##### 11. Quellen & Modellierungen
 
-##### 11.1 ℹ️ Allgemeines
+###### 11.1 ℹ️ Allgemeines
 
 * Statistik: Nationale Quellen (Statistisches Hauptamt Polen) und Eurostat,
   Basisjahr 2025.
 * Modelle: ERDA-Zukunftsszenarienmodell (hypothetisch: ERDA Scenario Modeling Report 2025).
 
-##### 11.2 📎 Verwendete Quellen & Verweise
+###### 11.2 📎 Verwendete Quellen & Verweise
 
 1. Główny Urząd Statystyczny. 2025. *Mały rocznik statystyczny Polski 2024.* Warszawa: GUS. \[online\] dostępny pod: <https://stat.gov.pl/rocznik-statystyczny> (dostęp 2025‑06‑10).
 2. Eurostat. 2025. *Population projections – Poland.* Luxemburg: Amt für Veröffentlichungen der Europäischen Union. \[online\] verfügbar unter: <https://ec.europa.eu/eurostat/databrowser/view/proj_23n__pl/default/table> (Zugriff am 2025‑06‑10).
@@ -12572,22 +13094,21 @@ resilientes Demokratielabor und Bildungsstandort die Ostflanke Europas sichern.
 4. Freedom House. 2024. *Freedom in the World 2024 – Poland.* Washington, D.C.: Freedom House. \[online\] verfügbar unter: <https://freedomhouse.org/country/poland/freedom-world/2024> (Zugriff am 2025‑06‑10).
 5. CIVITAS Initiative. 2025. *CIVITAS Index Country Report Poland.* Brüssel: CIVITAS. \[online\] verfügbar unter: <https://civitas.eu/poland-report> (Zugriff am 2025‑06‑10).
 
-##### 11.3 🛠️ Modellierungen & Annahmen
+###### 11.3 🛠️ Modellierungen & Annahmen
 * Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
 * Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 
 * Wirtschaftliche Projektionen: ERDA-Zukunftsszenarienmodell (hypothetisch: ERDA Scenario Modeling Report 2025).
 
-#### 12. 🤝 Mitwirkung willkommen
+##### 12. 🤝 Mitwirkung willkommen
 
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Polen sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
-##### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: ERDA Buch Redaktion (siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon)).
-Kontakt: siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon).
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
-Letzte Änderung: 2025-06-10
+###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 
 
 \newpage
@@ -12603,11 +13124,12 @@ version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-pt-staatenprofil-republik-portugal"></a>
 
-## PT - Staatenprofil Republik Portugal
 
-### 🇵🇹 ERDA-Staatenprofil: Republik Portugal
+### PT - Staatenprofil Republik Portugal
 
-#### 1. Überblick (Meta)
+#### 🇵🇹 ERDA-Staatenprofil: Republik Portugal
+
+##### 1. Überblick (Meta)
 
 * 🏳️ **Offizieller Name:** Republik Portugal (República Portuguesa) ([Wikipedia](https://en.wikipedia.org/wiki/Portugal))
 * 🗺️ **Geografische Lage:** Südwesteuropa, Iberische Halbinsel, Grenze Spanien im Osten und Norden, Atlantikküste im Westen und Süden ([CIA Factbook](https://www.cia.gov/the-world-factbook/countries/portugal/))
@@ -12618,7 +13140,7 @@ version: "1.0"
 
 ***
 
-#### 2. Demografie & Gesellschaft
+##### 2. Demografie & Gesellschaft
 
 * **Bevölkerung (2050/2075-Prognose):** 10 500 000 (2050) ([PopulationPyramid](https://www.populationpyramid.net/portugal/2050/)); 10 100 000 (2075) ([PopulationPyramid](https://www.populationpyramid.net/portugal/2075/))
 * **Altersstruktur:**
@@ -12638,7 +13160,7 @@ version: "1.0"
 
 ***
 
-#### 3. Wirtschaft & Innovation
+##### 3. Wirtschaft & Innovation
 
 * **Bruttoinlandsprodukt (BIP, nominal):** 260 Mrd EUR (2024) ([Trading Economics](https://tradingeconomics.com/portugal/gdp))
 * **BIP pro Kopf:** 25 400 USD (2024) ([IMF World Economic Outlook](https://www.imf.org))
@@ -12647,28 +13169,28 @@ version: "1.0"
 * **Forschungs- und Innovationsquote:** 1,36 % des BIP (2022) ([Eurostat](https://ec.europa.eu/eurostat/databrowser/view/tsc00003/default/table?lang=en))
 * **Patente / Jahr:** 904 nationale Anmeldung (2022) ([WIPO](https://www.wipo.int/edocs/statistics-country-profile/en/pt.pdf))
 * **Mitglied in FORTERA-Handelsallianzen?** Ja
-##### 3.1 Infrastrukturautarkie
+###### 3.1 Infrastrukturautarkie
 
 * Produktionssouveränität: Energie ☑, IT/Cloud ☐, Verteidigung ☐, Ernährung ☑
 
 ***
 
-#### 4. Ressourcenprofil
+##### 4. Ressourcenprofil
 
-##### 🌱 Natürliche Ressourcen:
+###### 🌱 Natürliche Ressourcen:
 
 * **Land-/Meeresfläche:** 92 212 km² Land; 1 727 408 km² EEZ ([Wikipedia](https://en.wikipedia.org/wiki/Portugal))
 * **Strategische Rohstoffe:** Kork; Zink; Lithium-Potenzial (Douro-Region) ([LNEG](https://www.lneg.pt))
 * **Erneuerbare Energiepotenziale:** Onshore-Wind >10 GW; Offshore-Wind >5 GW; Solar-PV Potenzial >20 GW ([REN](https://www.ren.pt))
 * **Biodiversität & Schutzgebiete:** 12,5 % unter Schutz (Natura 2000 & Nationalparks) ([ICNF](https://www.icnf.pt))
 
-##### 🧑‍🤝‍🧑 Soziale Ressourcen:
+###### 🧑‍🤝‍🧑 Soziale Ressourcen:
 
 * **Ehrenamt & Gemeinschaft:** 37 % Freiwilligenrate (2023) ([Eurostat Quality of Life](https://ec.europa.eu/eurostat))
 * **Civic‑Tech-Nutzung:** Participação.gov.pt Plattform ([Governo de Portugal](https://participacao.portugal.gov.pt))
 * **Gesundheitssystem:** Universelles NHS-ähnliches System; Präventionsausgaben 9,5 % BIP (2022) ([WHO NHA Database](https://apps.who.int/nha/database))
 
-##### 🛡️ Politische Ressourcen:
+###### 🛡️ Politische Ressourcen:
 
 * **Verfassungsbindung:** Ja (Verfassung von 1976)
 * **Direkte Demokratie:** Referenden (EU‑Verträge etc.)
@@ -12677,7 +13199,7 @@ version: "1.0"
 
 ***
 
-#### 5. Sicherheit & strategische Rolle (EDA)
+##### 5. Sicherheit & strategische Rolle (EDA)
 
 * **Militärisches Potenzial:**
   * DSN-geeignet: ☐
@@ -12690,7 +13212,7 @@ version: "1.0"
 
 ***
 
-#### 6. Kulturelle Identität & Soft Power
+##### 6. Kulturelle Identität & Soft Power
 
 * **Sprachen / indigene Kulturen:** Portugiesisch; Minderheit Mirandês ([Wikipedia](https://en.wikipedia.org/wiki/Mirandese_language))
 * **UNESCO-Welterbe:** 17 Stätten (2024) ([UNESCO](https://whc.unesco.org/en/statesparties/pt))
@@ -12700,9 +13222,9 @@ version: "1.0"
 
 ***
 
-#### 7. Entwicklungspfad (2025–2075)
+##### 7. Entwicklungspfad (2025–2075)
 
-##### 🔭 Szenario-Entwicklung:
+###### 🔭 Szenario-Entwicklung:
 
 * **Status 2025:** Erholung Tourismus, Ausbau erneuerbarer Energien, demografischer Rückgang
 * **Best Case 2075:** 10,5 Mio. EW, CO$_2$-Neutralität, führend Green H2
@@ -12713,7 +13235,7 @@ version: "1.0"
 **Investitionen 2025–2050:** Offshore-Wind, Green H2, digitale Verwaltung\
 **Transformation 2050–2075:** Kreislaufwirtschaft, KI-Integration, Bioökonomie
 
-##### 🚀 Rolle in der ERDA-Vision 2075:
+###### 🚀 Rolle in der ERDA-Vision 2075:
 
 > _„Portugal ist 2075 das maritime-tropfenförmige Innovationszentrum der ERDA, mit Schlüsselrolle für grüne Logistik und Plattformökonomie.“_
 
@@ -12723,7 +13245,7 @@ version: "1.0"
 
 ***
 
-#### 8. Narrative & Anwerbewirkung
+##### 8. Narrative & Anwerbewirkung
 
 > _„Portugal zeigt, dass Tradition und grüne Innovation Hand in Hand gehen.“_
 
@@ -12733,7 +13255,7 @@ version: "1.0"
 
 ***
 
-#### 9. Kennzahlenübersicht (Kurzform)
+##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025  | 2050   | 2075   |
 | ------------------------------------- | ----- | ------ | ------ |
@@ -12747,53 +13269,53 @@ version: "1.0"
 
 ^1 OECD Langfristprojektionen ([OECD](https://www.oecd.org))
 
-#### 10. Kurzfassung: „Portugal auf einen Blick"
+##### 10. Kurzfassung: „Portugal auf einen Blick"
 
 Portugal ist ein maritimer EU-Staat mit reicher Kultur und wachsendem Fokus auf erneuerbare Energien. Als Tor zum Atlantik verbindet es Tradition und Innovation.
 
 ***
-#### 11. Quellen & Modellierungen
-##### 11.1 ℹ️ Allgemeines
+##### 11. Quellen & Modellierungen
+###### 11.1 ℹ️ Allgemeines
 
 * Statistik: Mischung aus nationalen und internationalen Quellen (Basisjahr 2025).
 * Modelle: Wirtschaftliche und demografische Projektionen nach Eurostat und UN (hypothetisch: ERDA Scenario Modeling Report 2025).
 
-##### 11.2 📎 Verwendete Quellen & Verweise
+###### 11.2 📎 Verwendete Quellen & Verweise
 
-##### A. Demografische Daten
+###### A. Demografische Daten
 
 * UN World Population Prospects: https://population.un.org/wpp
 * PopulationPyramid.net Portugal
 
-##### B. Wirtschaft & Innovation
+###### B. Wirtschaft & Innovation
 
 * Trading Economics; IMF WEO; Wikipedia „Portugal Economy"
 
-##### C. Soziales & Bildung
+###### C. Soziales & Bildung
 
 * Eurostat; UNDP Human Development Reports
 
-##### D. Gesundheit & Lebenserwartung
+###### D. Gesundheit & Lebenserwartung
 
 * World Bank; WHO Global Health Observatory
 
-##### E. Innovation & Patente
+###### E. Innovation & Patente
 
 * WIPO Country Profile: pt.pdf
 
-##### F. Umwelt & Ressourcen
+###### F. Umwelt & Ressourcen
 
 * REN; LNEG; ICNF
 
-##### G. Sicherheit & Verteidigung
+###### G. Sicherheit & Verteidigung
 
 * SIPRI; EEAS; ANPC
 
-##### H. Politische Grundlagen
+###### H. Politische Grundlagen
 
 * Verfassung von Portugal; World Justice Project Rule of Law
 
-##### 11.3 🛠️ Modellierungen & Annahmen
+###### 11.3 🛠️ Modellierungen & Annahmen
 * Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
 * Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
@@ -12802,14 +13324,13 @@ Portugal ist ein maritimer EU-Staat mit reicher Kultur und wachsendem Fokus auf 
 * Infrastrukturautarkie: nationale Strategieabschätzungen (hypothetisch: ERDA Scenario Modeling Report 2025).
 
 
-#### 12. 🤝 Mitwirkung willkommen
+##### 12. 🤝 Mitwirkung willkommen
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Portugal sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven einzubringen.
 
-##### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: ERDA Buch Redaktion (siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon)).
-Kontakt: siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon).
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
-Letzte Änderung: 2025-06-10
+###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 
 
 
@@ -12826,11 +13347,12 @@ version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-ro-staatenprofil-rumanien"></a>
 
-## RO - Staatenprofil Rumänien
 
-### 🇷🇴 ERDA-Staatenprofil: Rumänien
+### RO - Staatenprofil Rumänien
 
-#### 1. Überblick (Meta)
+#### 🇷🇴 ERDA-Staatenprofil: Rumänien
+
+##### 1. Überblick (Meta)
 
 * 🏳️ Offizieller Name: Rumänien
 * 🗺️ Geografische Lage: Südosteuropa, Grenzstaat am Schwarzen Meer, grenzt an Bulgarien, Serbien, Ungarn, Moldau und die Ukraine
@@ -12841,7 +13363,7 @@ version: "1.0"
 
 ***
 
-#### 2. Demografie & Gesellschaft
+##### 2. Demografie & Gesellschaft
 
 * **Bevölkerung (Prognose 2050 / 2075):** 14,8 Mio. / 12,0 Mio. (UN World Population Prospects 2022, Medium Variant, hypothetisch: ERDA Scenario Modeling Report 2025)
 * **Altersstruktur (2023):** Medianalter ~43 Jahre; Jugendanteil 0–14 J.: 15,9 %; 65+: 19,8 % (World Bank)
@@ -12851,7 +13373,7 @@ version: "1.0"
 * **Migrationssaldo:** wechselhaft (World Bank Net Migration 2020: −13k; 2022: +89k)
 * **Soziale Kohäsion:** Demokratievertrauen moderat, Zufriedenheitsindex ~6/10 (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-#### 3. Wirtschaft & Innovation
+##### 3. Wirtschaft & Innovation
 
 * **BIP (real, Mrd. EUR):** 2023 ≈ 325; 2050 500 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * **BIP pro Kopf (2023):** ~18.400 USD (World Bank)
@@ -12863,7 +13385,7 @@ version: "1.0"
 * **Mitglied im Democracy Trade Network:** Ja
 * **Nutzung von EHAM+ (0–10):** 5
 
-##### 3.1 Infrastrukturautarkie
+###### 3.1 Infrastrukturautarkie
 * Energie ☑, IT/Cloud ☐, Verteidigung ☐, Ernährung ☑
 * Satellitenkommunikation (IRIS²) ☐
 * Quantentechnologie ☐
@@ -12871,19 +13393,19 @@ version: "1.0"
 
 ***
 
-#### 4. Ressourcenprofil
-##### 🌱 Natürliche Ressourcen:
+##### 4. Ressourcenprofil
+###### 🌱 Natürliche Ressourcen:
 * Landfläche: 238.391 km², Schwarzmeerküste
 * Strategische Rohstoffe: Erdgas, Salz, Waldressourcen
 * Erneuerbare Energiepotenziale: Wasser (hoch), Wind (hoch), Solar (mittel)
 * Biodiversität & Schutzgebiete: > 23 %
 
-##### 🤝 Soziale Ressourcen:
+###### 🤝 Soziale Ressourcen:
 * Ehrenamt & Gemeinschaftskultur: solide
 * Civic-Tech-Nutzung (z.·B. CIVITAS): wachsend
 * Gesundheitssystem (Zugänglichkeit, Prävention): ausbaufähig
 
-##### 🛰 Politische Ressourcen:
+###### 🛰 Politische Ressourcen:
 * Verfassungsbindung: Ja
 * Direkte Demokratieinstrumente: eingeschränkt
 * Rechtsstaatsindex: moderat
@@ -12891,7 +13413,7 @@ version: "1.0"
 
 ***
 
-#### 5. Sicherheit & strategische Rolle (EDA)
+##### 5. Sicherheit & strategische Rolle (EDA)
 * Militärisches Potenzial:
   * ☑ DSN-geeignet (NATO-Kapazitäten)
   * ☑ Cyberkommando
@@ -12903,7 +13425,7 @@ version: "1.0"
 
 ***
 
-#### 6. Kulturelle Identität & Soft Power
+##### 6. Kulturelle Identität & Soft Power
 * Sprachen / indigene Kulturen: Rumänisch, ungarische und deutsche Minderheiten
 * UNESCO-Welterbe / Kulturstätten: Klöster der Bukowina, Dakerfestungen, Donaudelta
 * Kreativwirtschaft: Film & Musik-Szene wachsend, IT-Start-ups
@@ -12912,9 +13434,9 @@ version: "1.0"
 
 ***
 
-#### 7. Entwicklungspfad (2025–2075)
+##### 7. Entwicklungspfad (2025–2075)
 
-##### 🔭 Szenario-Entwicklung:
+###### 🔭 Szenario-Entwicklung:
 * **Status 2025:** Aufholende Volkswirtschaft mit starkem IT-Sektor und wertvoller Agrarbasis
 * **Best Case 2075:** Innovativer Energie- und IT-Standort im Schwarzmeerraum, hohe Lebensqualität
 * **Base Case 2075:** Stabiler EU-Kernstaat mit moderatem Wachstum
@@ -12929,7 +13451,7 @@ Digitalisierung, erneuerbare Energien, Verkehrsinfrastruktur
 **Transformation 2050–2075:**  
 Höhere Energieautarkie, fortschrittliche Landwirtschaft, Bildungsoffensive
 
-##### 🚀 Rolle in der ERDA-Vision 2075:
+###### 🚀 Rolle in der ERDA-Vision 2075:
 
 > _„Rumänien verknüpft als lebendiger Innovationsstandort das Schwarze Meer mit Mitteleuropa und trägt zur Resilienz der ERDA bei."_
 
@@ -12939,7 +13461,7 @@ Höhere Energieautarkie, fortschrittliche Landwirtschaft, Bildungsoffensive
 
 ***
 
-#### 8. Narrative & Anwerbewirkung
+##### 8. Narrative & Anwerbewirkung
 
 > _„Rumäniens dynamische IT-Branche und reiche Kulturlandschaft locken Talente und Investitionen."_
 
@@ -12949,7 +13471,7 @@ Höhere Energieautarkie, fortschrittliche Landwirtschaft, Bildungsoffensive
 
 ***
 
-#### 9. Kennzahlenübersicht (Kurzform)
+##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025     | 2050       | 2075       |
 | ------------------------------------- | -------- | ---------- | ---------- |
@@ -12963,24 +13485,24 @@ Höhere Energieautarkie, fortschrittliche Landwirtschaft, Bildungsoffensive
 
 ***
 
-#### 10. Kurzfassung: „Rumänien auf einen Blick“
+##### 10. Kurzfassung: „Rumänien auf einen Blick“
 Rumänien entwickelt sich vom aufholenden EU-Mitglied zu einem IT- und Energiezentrum an der Ostflanke Europas. Natürliche Ressourcen, engagierte Fachkräfte und eine wachsende Zivilgesellschaft prägen das Bild.
 
-#### 11. Quellen & Modellierungen
-##### 11.1 ℹ️ Allgemeines
+##### 11. Quellen & Modellierungen
+###### 11.1 ℹ️ Allgemeines
 * Statistik: World Bank und Eurostat; Basisjahr 2023.
 * Modellannahmen: UN WPP 2022 für demografische Projektionen (hypothetisch: ERDA Scenario Modeling Report 2025).
 * Energiepotenziale: IEA Reports 2024 (hypothetisch: ERDA Scenario Modeling Report 2025).
 * Innovation & Bildung: Eurostat und OECD.
 * Demokratie & Rechtsstaatlichkeit: Freedom House, Rule of Law Index.
 
-##### 11.2 📎 Verwendete Quellen & Verweise
+###### 11.2 📎 Verwendete Quellen & Verweise
 1. World Bank. 2024. "World Development Indicators." <https://databank.worldbank.org/source/world-development-indicators> (Letzter Zugriff am 2025-06-11).
 2. Eurostat. 2024. "Research and development expenditure." [https://ec.europa.eu/eurostat](https://ec.europa.eu/eurostat) (Letzter Zugriff am 2025-06-11).
 3. United Nations, Department of Economic and Social Affairs, Population Division. 2022. "World Population Prospects 2022." [https://population.un.org/dataportal/](https://population.un.org/dataportal/) (Letzter Zugriff am 2025-06-11).
 4. International Energy Agency. 2024. "Renewables 2024." [https://www.iea.org](https://www.iea.org) (Letzter Zugriff am 2025-06-11).
 
-##### 11.3 🔧 Modellierungen & Annahmen
+###### 11.3 🔧 Modellierungen & Annahmen
 * Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
 * Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
@@ -12990,14 +13512,13 @@ Rumänien entwickelt sich vom aufholenden EU-Mitglied zu einem IT- und Energieze
 
 ***
 
-#### 12. 🧡 Mitwirkung willkommen
+##### 12. 🧡 Mitwirkung willkommen
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen von Rumänien sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
-##### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: ERDA Buch Redaktion (siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon)).
-Kontakt: siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon).
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)  
-Letzte Änderung: 2025-06-11
+###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 
 
 
@@ -13014,11 +13535,12 @@ version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-se-staatenprofil-schweden"></a>
 
-## SE - Staatenprofil Schweden
 
-### 🇸🇪 ERDA-Staatenprofil: Schweden
+### SE - Staatenprofil Schweden
 
-#### 1. Überblick (Meta)
+#### 🇸🇪 ERDA-Staatenprofil: Schweden
+
+##### 1. Überblick (Meta)
 
 * 🏳️ Offizieller Name: Konungariket Sverige (Königreich Schweden)
 * 🗺️ Geografische Lage: Nordeuropa, Skandinavische Halbinsel
@@ -13029,7 +13551,7 @@ version: "1.0"
 
 ***
 
-#### 2. Demografie & Gesellschaft
+##### 2. Demografie & Gesellschaft
 
 * Bevölkerung (2050/2075-Prognose): 11 Mio. / 10,7 Mio.
 * Altersstruktur: Medianalter: 42, Jugendanteil: 18 %, Altenquotient: 31 %
@@ -13041,7 +13563,7 @@ version: "1.0"
 
 ***
 
-#### 3. Wirtschaft & Innovation
+##### 3. Wirtschaft & Innovation
 
 * BIP (Mrd. EUR): 2025: 650 | 2050: 820 | 2075: 890
 * BIP pro Kopf: ca. 62.000 EUR (2025)
@@ -13051,28 +13573,28 @@ version: "1.0"
 * Patente/Jahr: ca. 12.000 (leicht steigend)
 * Mitglied in FORTERA-Handelsallianzen: Ja
 
-##### 3.1 Infrastrukturautarkie
+###### 3.1 Infrastrukturautarkie
 
 * Energie ☑, IT/Cloud ☑, Verteidigung ☑, Ernährung ☑
 
 ***
 
-#### 4. Ressourcenprofil
+##### 4. Ressourcenprofil
 
-##### 🌱 Natürliche Ressourcen:
+###### 🌱 Natürliche Ressourcen:
 
 * Land-/Meeresfläche: 450.000 km² / ×
 * Strategische Rohstoffe: Eisenerz, seltene Metalle, Wasserkraft
 * Erneuerbare Energiepotenziale: ☑ Wind, ☑ Wasser, ☑ Biomasse
 * Biodiversität & Schutzgebiete: 40 %
 
-##### 🧑‍🤝‍🧑 Soziale Ressourcen:
+###### 🧑‍🤝‍🧑 Soziale Ressourcen:
 
 * Ehrenamt & Gemeinschaftskultur: 9 / 10
 * Civic-Tech-Nutzung: Hoch (v.a. Open-Government & ePartizipation)
 * Gesundheitssystem: Zugang: 9 / 10 | Prävention: 8 / 10
 
-##### 🛡️ Politische Ressourcen:
+###### 🛡️ Politische Ressourcen:
 
 * Verfassungsbindung: Ja
 * Direkte Demokratieinstrumente: Teilweise (Kommunalebene)
@@ -13081,7 +13603,7 @@ version: "1.0"
 
 ***
 
-#### 5. Sicherheit & strategische Rolle (EDA)
+##### 5. Sicherheit & strategische Rolle (EDA)
 
 * Militärisches Potenzial: ☑ DSN-geeignet, ☑ Cyberkommando, ☑ Frühwarnsystem
 * Verteidigungsausgaben: 2,2 % des BIP (2025)
@@ -13091,7 +13613,7 @@ version: "1.0"
 
 ***
 
-#### 6. Kulturelle Identität & Soft Power
+##### 6. Kulturelle Identität & Soft Power
 
 * Sprachen / indigene Kulturen: Schwedisch, Samisch
 * UNESCO-Welterbe / Kulturstätten: 15
@@ -13101,15 +13623,15 @@ version: "1.0"
 
 ***
 
-#### 7. Entwicklungspfad (2025–2075)
+##### 7. Entwicklungspfad (2025–2075)
 
-##### 🔭 Szenario-Entwicklung:
+###### 🔭 Szenario-Entwicklung:
 
 * **Status 2025**: Hochentwickelter Wohlfahrtsstaat mit starker Innovations- und Demokratiekultur
 * **Strategische Investitionen 2025–2050**: Green Tech, KI-Sicherheit, resiliente Infrastrukturen, digitale Bildung
 * **Transformation 2050–2075**: Klima-neutrale Gesellschaft mit starker zivilgesellschaftlicher Souveränität
 
-##### 🚀 Rolle in der ERDA-Vision 2075:
+###### 🚀 Rolle in der ERDA-Vision 2075:
 
 > _„Schweden ist im Jahr 2075 ein arktischer Stabilitätsanker und zivilgesellschaftliches Leitland innerhalb der ERDA, mit besonderer Bedeutung für Demokratievertrauen, Umweltethik und Open-Government.“_
 
@@ -13119,7 +13641,7 @@ version: "1.0"
 
 ***
 
-#### 8. Narrative & Anwerbewirkung
+##### 8. Narrative & Anwerbewirkung
 
 > _„Schweden zeigt, dass Gemeinwohl, Innovation und Freiheit sich gegenseitig verstärken können – wenn Demokratie nicht nur verwaltet, sondern gelebt wird.“_
 
@@ -13129,7 +13651,7 @@ version: "1.0"
 
 ***
 
-#### 9. Kennzahlenübersicht (Kurzform)
+##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025      | 2050    | 2075      |
 | ------------------------------------- | --------- | ------- | --------- |
@@ -13143,37 +13665,36 @@ version: "1.0"
 
 ***
 
-#### 10. Kurzfassung: „Schweden auf einen Blick“
+##### 10. Kurzfassung: „Schweden auf einen Blick“
 
 Schweden verbindet hohe Innovationskraft mit einer starken Zivilgesellschaft und fungiert als arktischer Stabilitätsanker im ERDA-Netzwerk.
 
-#### 11. Quellen & Modellierungen
+##### 11. Quellen & Modellierungen
 
-##### 11.1 ℹ️ Allgemeines
+###### 11.1 ℹ️ Allgemeines
 
 * Prognosemodelle: Eurostat, SCB, ERDA-Szenariencluster Nord
 * Verträge: Nordischer Verteidigungspakt, ERDA-Grundakte
 * Sonstiges: Totalförsvarstrategin (Gesamtverteidigung), UNESCO-Kommission SE
 
-##### 11.2 📎 Verwendete Quellen & Verweise
+###### 11.2 📎 Verwendete Quellen & Verweise
 
 *(Keine weiteren Angaben)*
 
-##### 11.3 🛠️ Modellierungen & Annahmen
+###### 11.3 🛠️ Modellierungen & Annahmen
 
 *(Siehe 11.1)*
 
 ***
 
-#### 12. 🤝 Mitwirkung willkommen
+##### 12. 🤝 Mitwirkung willkommen
 
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen des Königreichs Schweden sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
-##### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: ERDA Buch Redaktion (siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon)).
-Kontakt: siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon).
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
-Letzte Änderung: 2025-06-10
+###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 
 
 \newpage
@@ -13189,11 +13710,12 @@ version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-si-staatenprofil-slowenien"></a>
 
-## SI - Staatenprofil Slowenien
 
-### 🇸🇮 ERDA-Staatenprofil: Slowenien
+### SI - Staatenprofil Slowenien
 
-#### 1. Überblick (Meta)
+#### 🇸🇮 ERDA-Staatenprofil: Slowenien
+
+##### 1. Überblick (Meta)
 
 * 🏳️ Offizieller Name: Republik Slowenien
 * 🗺️ Geografische Lage: Südmitteleuropa, Alpen-Adria-Raum, grenzt an Italien, Österreich, Ungarn und Kroatien
@@ -13204,7 +13726,7 @@ version: "1.0"
 
 ***
 
-#### 2. Demografie & Gesellschaft
+##### 2. Demografie & Gesellschaft
 
 * Bevölkerung (2050/2075-Prognose): 2,05 Mio. / 1,95 Mio. (leichter Rückgang)
 * Altersstruktur (Medianalter, Jugendanteil, Altenquotient): 46 Jahre, 16 %, 38 %
@@ -13216,7 +13738,7 @@ version: "1.0"
 
 ***
 
-#### 3. Wirtschaft & Innovation
+##### 3. Wirtschaft & Innovation
 
 * Bruttoinlandsprodukt (BIP, real, heute / 2050 / 2075): 63 Mrd. EUR / 95 Mrd. EUR / 135 Mrd. EUR
 * BIP pro Kopf: 28.500 EUR
@@ -13228,7 +13750,7 @@ version: "1.0"
 * Mitglied im Democracy Trade Network: Ja
 * Nutzung von EHAM+ (0–10): 6
 
-##### 3.1 Infrastrukturautarkie
+###### 3.1 Infrastrukturautarkie
 
 * Energie ☑, IT/Cloud ☑, Verteidigung ☐, Ernährung ☑
 * Satellitenkommunikation (IRIS²) ☐
@@ -13237,22 +13759,22 @@ version: "1.0"
 
 ***
 
-#### 4. Ressourcenprofil
+##### 4. Ressourcenprofil
 
-##### 🌱 Natürliche Ressourcen:
+###### 🌱 Natürliche Ressourcen:
 
 * Land-/Meeresfläche: 20.273 km² / Binnenland
 * Strategische Rohstoffe: Wasser, Waldressourcen, seltene Mineralien (gering)
 * Erneuerbare Energiepotenziale: Wasser (hoch), Solar (mittel), Wind (niedrig), Geothermie (regional nutzbar)
 * Biodiversität & Schutzgebiete (%): 37 % Schutzfläche (Natura 2000)
 
-##### 🧑‍🤝‍🧑 Soziale Ressourcen:
+###### 🧑‍🤝‍🧑 Soziale Ressourcen:
 
 * Ehrenamt & Gemeinschaftskultur: stark ausgeprägt
 * Civic-Tech-Nutzung (z. B. CIVITAS): wachsend
 * Gesundheitssystem (Zugänglichkeit, Prävention): gut / verbessert sich
 
-##### 🛡️ Politische Ressourcen:
+###### 🛡️ Politische Ressourcen:
 
 * Verfassungsbindung: Ja
 * Direkte Demokratieinstrumente: Referenden, Volksinitiativen
@@ -13261,7 +13783,7 @@ version: "1.0"
 
 ***
 
-#### 5. Sicherheit & strategische Rolle (EDA)
+##### 5. Sicherheit & strategische Rolle (EDA)
 
 * Militärisches Potenzial:
   * ⬜ DSN-geeignet
@@ -13274,7 +13796,7 @@ version: "1.0"
 
 ***
 
-#### 6. Kulturelle Identität & Soft Power
+##### 6. Kulturelle Identität & Soft Power
 
 * Sprachen / indigene Kulturen: Slowenisch, regionale Minderheitensprachen (Italienisch, Ungarisch)
 * UNESCO-Welterbe / Kulturstätten: Škocjan-Höhlen, Idrija-Quecksilberbergwerk, Alpenarchitektur
@@ -13284,9 +13806,9 @@ version: "1.0"
 
 ***
 
-#### 7. Entwicklungspfad (2025–2075)
+##### 7. Entwicklungspfad (2025–2075)
 
-##### 🔭 Szenario-Entwicklung:
+###### 🔭 Szenario-Entwicklung:
 
 * **Status 2025:** Hohe Bildung, stabile Demokratie, kleine aber resiliente Volkswirtschaft
 * **Best Case 2075:** Regionales GreenTech-Vorbild mit hoher Lebensqualität und Innovationsführerschaft
@@ -13302,7 +13824,7 @@ Grüne Energie, Bildungssystem, Cyberfähigkeiten, regionale Innovationscluster
 **Transformation 2050–2075:**\
 Steigende Selbstversorgungsgrade, Hightech-Talente ausgebildet, sozioökologische Stabilität erreicht
 
-##### 🚀 Rolle in der ERDA-Vision 2075:
+###### 🚀 Rolle in der ERDA-Vision 2075:
 
 > _„Slowenien ist im Jahr 2075 ein klimaneutraler Innovationsstaat innerhalb der ERDA, mit besonderer Bedeutung für die grüne Transformation in Mitteleuropa.“_
 
@@ -13312,7 +13834,7 @@ Steigende Selbstversorgungsgrade, Hightech-Talente ausgebildet, sozioökologisch
 
 ***
 
-#### 8. Narrative & Anwerbewirkung
+##### 8. Narrative & Anwerbewirkung
 
 > _„Slowenien zeigt, dass auch kleine Staaten durch Bildung, Umweltbewusstsein und Gemeinschaftssinn global wirksam sein können.“_
 
@@ -13322,7 +13844,7 @@ Steigende Selbstversorgungsgrade, Hightech-Talente ausgebildet, sozioökologisch
 
 ***
 
-#### 9. Kennzahlenübersicht (Kurzform)
+##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025     | 2050      | 2075      |
 | ------------------------------------- | -------- | --------- | --------- |
@@ -13336,22 +13858,22 @@ Steigende Selbstversorgungsgrade, Hightech-Talente ausgebildet, sozioökologisch
 
 ***
 
-#### 10. Kurzfassung: „Slowenien auf einen Blick“
+##### 10. Kurzfassung: „Slowenien auf einen Blick“
 
 Slowenien ist ein kleiner, hochgebildeter Alpenstaat mit starker Demokratie und\
 wachsender Innovationskraft. Die nachhaltige Nutzung der Wasserressourcen und\
 eine aktive Zivilgesellschaft machen das Land zum idealen Brückenstaat zwischen\
 Adria und Balkan.
 
-#### 11. Quellen & Modellierungen
+##### 11. Quellen & Modellierungen
 
-##### 11.1 ℹ️ Allgemeines
+###### 11.1 ℹ️ Allgemeines
 
 * Statistik: Mischung aus nationalen und internationalen Quellen (Eurostat, OECD u. a.), Basisjahr 2025.
 * Modelle: BIP-Prognosen und Bevölkerungsentwicklung nach OECD und UN (hypothetisch: ERDA Scenario Modeling Report 2025).
 * Energie- und Infrastrukturdaten laut nationalen Strategiepapiere (hypothetisch: ERDA Scenario Modeling Report 2025).
 
-##### 11.2 📎 Verwendete Quellen & Verweise
+###### 11.2 📎 Verwendete Quellen & Verweise
 
 **Demografie & Gesellschaft**
 * **Quelle:** Eurostat, https://ec.europa.eu/eurostat
@@ -13385,7 +13907,7 @@ Adria und Balkan.
 * **Quelle:** Freedom House, https://freedomhouse.org
 * **Modell:** V-Dem Institute Index Slovenia
 
-##### 11.3 🛠️ Modellierungen & Annahmen
+###### 11.3 🛠️ Modellierungen & Annahmen
 * Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
 * Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
@@ -13395,15 +13917,14 @@ Adria und Balkan.
 
 ***
 
-#### 12. 🤝 Mitwirkung willkommen
+##### 12. 🤝 Mitwirkung willkommen
 
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Slowenien sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
-##### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: ERDA Buch Redaktion (siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon)).
-Kontakt: siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon).
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
-Letzte Änderung: 2025-06-10
+###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 
 
 \newpage
@@ -13419,11 +13940,12 @@ version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-sk-staatenprofil-slowakei"></a>
 
-## SK - Staatenprofil Slowakei
 
-### 🇸🇰 ERDA-Staatenprofil: Slowakei
+### SK - Staatenprofil Slowakei
 
-#### 1. Überblick (Meta)
+#### 🇸🇰 ERDA-Staatenprofil: Slowakei
+
+##### 1. Überblick (Meta)
 
 * 🏳️ Offizieller Name: Slowakische Republik (Slovenská republika)
 * 🗺️ Geografische Lage: Mitteleuropa; Nachbarn: Tschechien, Polen, Ukraine, Ungarn, Österreich
@@ -13434,7 +13956,7 @@ version: "1.0"
 
 ***
 
-#### 2. Demografie & Gesellschaft
+##### 2. Demografie & Gesellschaft
 
 * Bevölkerung (2050/2075-Prognose):
   * 2050: 4 936 488 Einw. ([populationpyramid.net](https://www.populationpyramid.net/population-size-per-country/2050/))
@@ -13454,7 +13976,7 @@ version: "1.0"
   * Subjektive Lebenszufriedenheit: 6,0/10 (World Happiness Report 2023)
   * Vertrauen in Demokratie (Parlament): 21 % (Eurobarometer 2024)
 
-##### 11.3 🛠️ Modellierungen & Annahmen
+###### 11.3 🛠️ Modellierungen & Annahmen
 * Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
 * Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
@@ -13464,7 +13986,7 @@ version: "1.0"
 
 ***
 
-#### 3. Wirtschaft & Innovation
+##### 3. Wirtschaft & Innovation
 
 * Bruttoinlandsprodukt (real):
   * 2023: 118,0 Mrd. USD ([databank.worldbank.org](https://databank.worldbank.org/reports.aspx?country=SVK\&source=2\))
@@ -13483,7 +14005,7 @@ version: "1.0"
 * Patente/Jahr (Trend): 233 Anmeldungen (2022) ([wipo.int](https://www.wipo.int/edocs/gii-ranking/2024/sk.pdf))
 * Mitglied in FORTERA-Handelsallianzen? Nein
 
-##### 3.1 Infrastrukturautarkie
+###### 3.1 Infrastrukturautarkie
 
 * Produktionssouveränität in strategischen Sektoren:
   * ☑ Energie (Kernenergie, Wasserkraft)
@@ -13493,22 +14015,22 @@ version: "1.0"
 
 ***
 
-#### 4. Ressourcenprofil
+##### 4. Ressourcenprofil
 
-##### 🌱 Natürliche Ressourcen
+###### 🌱 Natürliche Ressourcen
 
 * Landfläche: 49 035 km²; Küstenlinie: keine
 * Strategische Rohstoffe: Lignit, Uran (historisch), Süßwasser, Waldressourcen
 * Erneuerbare Energiepotenziale: Wasserkraft (600 MW ausgebaut), Biomasse, Solar (ca. 1 GW potenziell), Wind (begrenzt)
 * Biodiversität & Schutzgebiete: 14 % Landfläche als Nationalparks & Naturschutz
 
-##### 🧑‍🤝‍🧑 Soziale Ressourcen
+###### 🧑‍🤝‍🧑 Soziale Ressourcen
 
 * Ehrenamt & Gemeinschaftskultur: 22 % der Bevölkerung engagiert
 * Civic‑Tech‑Nutzung (CIVITAS): Pilotregionen Bratislava, Košice (20 % Kommunen)
 * Gesundheitssystem: Universeller Zugang; 4,3 Betten/1 000 Einw.; Präventionsquote 72 %
 
-##### 🛡️ Politische Ressourcen
+###### 🛡️ Politische Ressourcen
 
 * Verfassungsbindung: Ja
 * Direkte Demokratieinstrumente: Beschränkte Referenden auf regionaler Ebene
@@ -13517,7 +14039,7 @@ version: "1.0"
 
 ***
 
-#### 5. Sicherheit & strategische Rolle (EDA)
+##### 5. Sicherheit & strategische Rolle (EDA)
 
 * Militärisches Potenzial:
   * ☑ DSN-geeignet (NATO-Standards)
@@ -13530,7 +14052,7 @@ version: "1.0"
 
 ***
 
-#### 6. Kulturelle Identität & Soft Power
+##### 6. Kulturelle Identität & Soft Power
 
 * Sprachen / indigene Kulturen: Slovakisch (amtlich), Ungarisch, Rusyn, Roma
 * UNESCO-Welterbe / Kulturstätten: 7 Einträge (z. B. Vlkolínec, Banská Štiavnica, Spišský hrad)
@@ -13540,9 +14062,9 @@ version: "1.0"
 
 ***
 
-#### 7. Entwicklungspfad (2025–2075)
+##### 7. Entwicklungspfad (2025–2075)
 
-##### 🔭 Szenario-Entwicklung
+###### 🔭 Szenario-Entwicklung
 
 * **Status 2025:** Konsolidierung nach EU-Beitritt; leichtes Bevölkerungsminus; Industrie 4.0 im Aufwind
 * **Best Case 2075:** Zentrales KI- und Mobilitätszentrum; demografische Stabilisierung
@@ -13551,7 +14073,7 @@ version: "1.0"
 
 **Narrativ:** 2025–2050: Ausbau Smart Manufacturing & Bildungsoffensive. 2050–2075: KI-Cluster, grüne Mobilitätsnetzwerke.
 
-##### 🚀 Rolle in der ERDA-Vision 2075
+###### 🚀 Rolle in der ERDA-Vision 2075
 
 > _„Die Slowakei ist 2075 ein zentrales Innovations- und Verkehrs-Drehkreuz, das nachhaltige Mobilität und KI‑Anwendungen in Mitteleuropa verbindet.“_
 
@@ -13561,7 +14083,7 @@ version: "1.0"
 
 ***
 
-#### 8. Narrative & Anwerbewirkung
+##### 8. Narrative & Anwerbewirkung
 
 > _„Die Slowakei zeigt, dass technologische Transformation und Bürgerpartizipation kleine Staaten stark machen.“_
 
@@ -13571,7 +14093,7 @@ version: "1.0"
 
 ***
 
-#### 9. Kennzahlenübersicht (Kurzform)
+##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025      | 2050        | 2075        |
 | ------------------------------------- | --------- | ----------- | ----------- |
@@ -13583,19 +14105,19 @@ version: "1.0"
 | KI-Kapazität [0–10]                  | 5         | 8           | 10          |
 | Zivilgesellschaftlicher Index [0–10] | 6,2       | 7,0         | 8,0         |
 
-#### 10. Kurzfassung: „Slowakei auf einen Blick“
+##### 10. Kurzfassung: „Slowakei auf einen Blick“
 
 Die Slowakei ist ein industriell geprägter Binnenstaat in Mitteleuropa. Als wichtiger Automobilstandort entwickelt sie sich zunehmend zu einem Tech-Korridor zwischen Ost und West. Trotz demografischer Herausforderungen bleibt die demokratische Stabilität hoch und bietet Potenzial für innovative Mobilitätslösungen.
 
-#### 11. Quellen & Modellierungen
+##### 11. Quellen & Modellierungen
 
-##### 11.1 ℹ️ Allgemeines
+###### 11.1 ℹ️ Allgemeines
 
 * Statistik: Mischung aus nationalen und internationalen Quellen (Eurostat, OECD u. a.), Basisjahr 2025.
 * Modelle: BIP-Prognosen und Bevölkerungsentwicklung nach OECD und UN (hypothetisch: ERDA Scenario Modeling Report 2025).
 * Energie- und Infrastrukturdaten laut nationalen Strategiepapiere (hypothetisch: ERDA Scenario Modeling Report 2025).
 
-##### 11.2 📎 Verwendete Quellen & Verweise
+###### 11.2 📎 Verwendete Quellen & Verweise
 
 **Demografie & Gesellschaft**
 
@@ -13637,7 +14159,7 @@ Die Slowakei ist ein industriell geprägter Binnenstaat in Mitteleuropa. Als wic
 * **World Justice Project:** [Rule of Law Index – Slovakia](https://worldjusticeproject.org/)
 * **Eurobarometer 2024:** [Public Opinion Survey 2251](https://europa.eu/eurobarometer/surveys/survey-detail/2251)
 
-##### 11.3 🛠️ Modellierungen & Annahmen
+###### 11.3 🛠️ Modellierungen & Annahmen
 * Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
 * Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
@@ -13645,20 +14167,20 @@ Die Slowakei ist ein industriell geprägter Binnenstaat in Mitteleuropa. Als wic
 * Infrastrukturautarkie: Ziel 80 % erneuerbare Energieversorgung (hypothetisch: ERDA Scenario Modeling Report 2025).
 
 
-#### 12. 🤝 Mitwirkung willkommen
+##### 12. 🤝 Mitwirkung willkommen
 
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Slowakischen Republik sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
-##### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: ERDA Buch Redaktion (siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon)).
-Kontakt: siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon).
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
-Letzte Änderung: 2025-06-10
+###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 
 
 \newpage
 
 <a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-readme"></a>
+
 ## B.4 Staatenprofile (EU/ERDA - Erweiterte Partnerschaft)
 
 _**ERDA Staatenprofile der Erweiterten Partnerschaft Länder,**_\
@@ -13678,11 +14200,12 @@ version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-al-staatenprofil-albanien"></a>
 
-## AL - Staatenprofil Albanien
 
-### 🇦🇱 ERDA-Staatenprofil: Albanien
+### AL - Staatenprofil Albanien
 
-#### 1. Überblick (Meta)
+#### 🇦🇱 ERDA-Staatenprofil: Albanien
+
+##### 1. Überblick (Meta)
 
 * 🏳️ Offizieller Name: Republik Albanien
 * 🗺️ Geografische Lage (Kontinent, Region): Südosteuropa, Westbalkan, Adriatisches und Ionisches Meer
@@ -13693,7 +14216,7 @@ version: "1.0"
 
 ***
 
-#### 2. Demografie & Gesellschaft
+##### 2. Demografie & Gesellschaft
 
 * Bevölkerung Prognose (2050 / 2075): 2,6 Mio. / 2,5 Mio. (UN DESA 2022, hypothetisch: ERDA Scenario Modeling Report 2025)
 * Altersstruktur (Medianalter, Jugendanteil %, Altenquotient): 39 Jahre, 20 %, 25 %
@@ -13705,7 +14228,7 @@ version: "1.0"
 
 ***
 
-#### 3. Wirtschaft & Innovation
+##### 3. Wirtschaft & Innovation
 
 * Bruttoinlandsprodukt (BIP real, heute / 2050 / 2075 in Mrd. EUR): 22 (2023) / 40 (hypothetisch: ERDA Scenario Modeling Report 2025) / 55 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * BIP pro Kopf (EUR): ca. 8 000 (World Bank 2023, umgerechnet)
@@ -13717,7 +14240,7 @@ version: "1.0"
 * Mitglied im Democracy Trade Network: Beobachter
 * Nutzung von EHAM+ (Handelsabwehr) [0–10]: 3
 
-##### 3.1 Infrastrukturautarkie
+###### 3.1 Infrastrukturautarkie
 
 * Energie ☑
 * IT/Cloud ☐
@@ -13729,9 +14252,9 @@ version: "1.0"
 
 ***
 
-#### 4. Ressourcenprofil
+##### 4. Ressourcenprofil
 
-##### Natürliche Ressourcen
+###### Natürliche Ressourcen
 
 * Landfläche (km²): 28 748
 * Meeresfläche (falls relevant, km²): 13 000 (Adriatisches/ Ionisches Meer)
@@ -13740,13 +14263,13 @@ version: "1.0"
 * Anteil Biodiversität & Schutzgebiete (% der Fläche): 18 %
 * Nachhaltigkeitskennzahlen: CO$_2$-Ausstoß pro Kopf 4,5 t; Recyclingquote 20 % (Eurostat 2023)
 
-##### Soziale Ressourcen
+###### Soziale Ressourcen
 
 * Ehrenamt & Gemeinschaftskultur (Index [0–10]): 6 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * CIVITAS-Partizipationsindex [0–10]: 5 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Gesundheitssystem (Zugänglichkeit [0–10], Prävention [0–10]): 7 / 6
 
-##### Politische Ressourcen
+###### Politische Ressourcen
 
 * Verfassungsbindung: Ja
 * Direkte Demokratieinstrumente: Teilweise (Kommunalreferenden)
@@ -13757,7 +14280,7 @@ version: "1.0"
 
 ***
 
-#### 5. Sicherheit & Strategische Rolle (EDA)
+##### 5. Sicherheit & Strategische Rolle (EDA)
 
 * Militärisches Potenzial:
   * DSN-geeignet ☐
@@ -13773,7 +14296,7 @@ version: "1.0"
 
 ***
 
-#### 6. Kulturelle Identität & Soft Power
+##### 6. Kulturelle Identität & Soft Power
 
 * Sprachen / Indigene Kulturen: Albanisch; Minderheiten Sprachen (Griechisch, Mazedonisch, Romani)
 * UNESCO-Welterbe / Kulturstätten (Anzahl): 4
@@ -13783,16 +14306,16 @@ version: "1.0"
 
 ***
 
-#### 7. Entwicklungspfad (2025–2075)
+##### 7. Entwicklungspfad (2025–2075)
 
-##### Szenario-Entwicklung
+###### Szenario-Entwicklung
 
 * Status 2025: Wirtschaft im Aufholprozess, EU-Beitrittskandidat, Fokus auf Infrastruktur und Justizreformen
 * Best Case 2075: Voll integrierter, nachhaltiger Energiestandort mit starker Tourismus- und Dienstleistungswirtschaft
 * Base Case 2075: Stabile regionale Wirtschaft, moderater Bevölkerungsrückgang, verbesserte Lebensqualität
 * Worst Case 2075: Anhaltende Abwanderung und langsamer Strukturwandel bremsen Fortschritt
 
-##### Rolle in der ERDA-Vision 2075
+###### Rolle in der ERDA-Vision 2075
 
 * Beitrag zur Post-Knappheitsökonomischen Ordnung: Erneuerbare Energie aus Wasserkraft
 * Demokratische Resilienz (sozial, kulturell, ökologisch): mittel
@@ -13800,7 +14323,7 @@ version: "1.0"
 
 ***
 
-#### 8. Narrative & Anwerbewirkung
+##### 8. Narrative & Anwerbewirkung
 
 > _"Albanien zeigt, wie ein kleines Land durch natürliche Energiequellen und europäische Integration den Weg in eine resiliente Zukunft findet."_
 
@@ -13810,7 +14333,7 @@ version: "1.0"
 
 ***
 
-#### 9. Kennzahlenübersicht (Kurzform)
+##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025 | 2050 | 2075 | EU-Durchschnitt 2024 (Benchmark) |
 | ------------------------------------- | ---- | ---- | ---- | -------------------------------- |
@@ -13826,13 +14349,13 @@ Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 
-#### 10. Kurzfassung: „Albanien auf einen Blick“
+##### 10. Kurzfassung: „Albanien auf einen Blick“
 
 Albanien ist ein dynamischer Balkanstaat mit junger Bevölkerung und wachsendem Tourismus. Dank reichlicher Wasserkraftpotentiale und Reformen hin zu europäischen Standards hat das Land die Chance, sich bis 2075 als grüner Energiestandort zu etablieren. Herausfordernd bleiben Abwanderung und wirtschaftliche Diversifizierung, doch die EU-Nähe bietet Perspektiven für Stabilität und Wachstum.
 
-#### 11. Quellen & Modellierungen
+##### 11. Quellen & Modellierungen
 
-##### 11.1 ℹ️ Allgemeines
+###### 11.1 ℹ️ Allgemeines
 
 * Statistik: World Bank (Bevölkerung, BIP, Urbanisierung, Migration), Eurostat (Nachhaltigkeit), UNESCO (Welterbe)
 * Modellannahmen zur Wirtschaftsentwicklung: ERDA Policy-Lab (hypothetisch: ERDA Scenario Modeling Report 2025), basierend auf regionalen Trends
@@ -13841,7 +14364,7 @@ Albanien ist ein dynamischer Balkanstaat mit junger Bevölkerung und wachsendem 
 * Demokratie & Rechtsstaatlichkeit: Freedom House 2024, World Justice Project
 * Nachhaltigkeits- und Ressourcenindikatoren: Eurostat 2023
 
-##### 11.2 📎 Verwendete Quellen & Verweise
+###### 11.2 📎 Verwendete Quellen & Verweise
 
 1. World Bank. 2025. „Population, total - Albania“. [https://api.worldbank.org/v2/country/ALB/indicator/SP.POP.TOTL](https://api.worldbank.org/v2/country/ALB/indicator/SP.POP.TOTL) (Letzter Zugriff am 2025-06-11).
 2. World Bank. 2025. „GDP (current US$) - Albania“. [https://api.worldbank.org/v2/country/ALB/indicator/NY.GDP.MKTP.CD](https://api.worldbank.org/v2/country/ALB/indicator/NY.GDP.MKTP.CD) (Letzter Zugriff am 2025-06-11).
@@ -13851,7 +14374,7 @@ Albanien ist ein dynamischer Balkanstaat mit junger Bevölkerung und wachsendem 
 6. Freedom House. 2024. „Freedom in the World 2024: Albania“. [https://freedomhouse.org](https://freedomhouse.org) (Letzter Zugriff am 2025-06-11).
 7. Eurostat. 2023. „Recycling rates for packaging waste“. [https://ec.europa.eu/eurostat](https://ec.europa.eu/eurostat) (Letzter Zugriff am 2025-06-11).
 
-##### 11.3 🛠️ Modellierungen & Annahmen
+###### 11.3 🛠️ Modellierungen & Annahmen
 * Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
 * Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
@@ -13862,15 +14385,14 @@ Albanien ist ein dynamischer Balkanstaat mit junger Bevölkerung und wachsendem 
 
 ***
 
-#### 12. 🤝 Mitwirkung willkommen
+##### 12. 🤝 Mitwirkung willkommen
 
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Albanien sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
-##### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: ERDA Buch Redaktion (siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon)).
-Kontakt: siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon).
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
-Letzte Änderung: 2025-06-11
+###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 
 
 \newpage
@@ -13886,11 +14408,12 @@ version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-am-staatenprofil-armenien"></a>
 
-## AM - Staatenprofil Armenien
 
-### 🇦🇲 ERDA-Staatenprofil: Armenien
+### AM - Staatenprofil Armenien
 
-#### 1. Überblick (Meta)
+#### 🇦🇲 ERDA-Staatenprofil: Armenien
+
+##### 1. Überblick (Meta)
 
 * 🏳️ Offizieller Name: Republik Armenien
 * 🗺️ Geografische Lage (Kontinent, Region): Westasien, Kaukasus
@@ -13901,7 +14424,7 @@ version: "1.0"
 
 ***
 
-#### 2. Demografie & Gesellschaft
+##### 2. Demografie & Gesellschaft
 
 * Bevölkerung Prognose (2050 / 2075): 2,9 Mio. / 2,7 Mio. (UN DESA 2022, hypothetisch: ERDA Scenario Modeling Report 2025)
 * Altersstruktur (Medianalter, Jugendanteil %, Altenquotient): 36 Jahre, 22 %, 28 %
@@ -13913,7 +14436,7 @@ version: "1.0"
 
 ***
 
-#### 3. Wirtschaft & Innovation
+##### 3. Wirtschaft & Innovation
 
 * Bruttoinlandsprodukt (BIP real, heute / 2050 / 2075 in Mrd. EUR): 22 (2023) / 40 (p) / 55 (p)
 * BIP pro Kopf (EUR): ca. 7 400 (World Bank 2023, umgerechnet)
@@ -13925,7 +14448,7 @@ version: "1.0"
 * Mitglied im Democracy Trade Network: Beobachter
 * Nutzung von EHAM+ (Handelsabwehr) [0–10]: 4
 
-##### 3.1 Infrastrukturautarkie
+###### 3.1 Infrastrukturautarkie
 
 * Energie ☐
 * IT/Cloud ☐
@@ -13937,9 +14460,9 @@ version: "1.0"
 
 ***
 
-#### 4. Ressourcenprofil
+##### 4. Ressourcenprofil
 
-##### Natürliche Ressourcen
+###### Natürliche Ressourcen
 
 * Landfläche (km²): 29 743
 * Meeresfläche (falls relevant, km²): Binnenland
@@ -13948,13 +14471,13 @@ version: "1.0"
 * Anteil Biodiversität & Schutzgebiete (% der Fläche): 13 %
 * Nachhaltigkeitskennzahlen: CO$_2$-Ausstoß pro Kopf 3,2 t; Recyclingquote 18 % (UNEP 2023)
 
-##### Soziale Ressourcen
+###### Soziale Ressourcen
 
 * Ehrenamt & Gemeinschaftskultur (Index [0–10]): 6 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * CIVITAS-Partizipationsindex [0–10]: 5 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Gesundheitssystem (Zugänglichkeit [0–10], Prävention [0–10]): 7 / 6
 
-##### Politische Ressourcen
+###### Politische Ressourcen
 
 * Verfassungsbindung: Ja
 * Direkte Demokratieinstrumente: Teilweise (Kommunalreferenden)
@@ -13965,7 +14488,7 @@ version: "1.0"
 
 ***
 
-#### 5. Sicherheit & Strategische Rolle (EDA)
+##### 5. Sicherheit & Strategische Rolle (EDA)
 
 * Militärisches Potenzial:
   * DSN-geeignet ☐
@@ -13981,7 +14504,7 @@ version: "1.0"
 
 ***
 
-#### 6. Kulturelle Identität & Soft Power
+##### 6. Kulturelle Identität & Soft Power
 
 * Sprachen / Indigene Kulturen: Armenisch (Amtssprache), Minderheitensprachen Russisch, Kurdisch
 * UNESCO-Welterbe / Kulturstätten (Anzahl): 3
@@ -13991,16 +14514,16 @@ version: "1.0"
 
 ***
 
-#### 7. Entwicklungspfad (2025–2075)
+##### 7. Entwicklungspfad (2025–2075)
 
-##### Szenario-Entwicklung
+###### Szenario-Entwicklung
 
 * Status 2025: Reformorientierte Wirtschaft, wachsende IT-Branche, regionale Sicherheitsrisiken
 * Best Case 2075: Hochdigitalisierte Wissensgesellschaft mit grüner Energie und starker Diaspora-Einbindung
 * Base Case 2075: Solider Dienstleistungs- und Industriestandort mit enger EU-Partnerschaft
 * Worst Case 2075: Wirtschaftliche Stagnation durch geopolitische Konflikte und Abwanderung
 
-##### Rolle in der ERDA-Vision 2075
+###### Rolle in der ERDA-Vision 2075
 
 * Beitrag zur Post-Knappheitsökonomischen Ordnung: Know-how in IT und Solarenergie
 * Demokratische Resilienz (sozial, kulturell, ökologisch): mittel
@@ -14008,7 +14531,7 @@ version: "1.0"
 
 ***
 
-#### 8. Narrative & Anwerbewirkung
+##### 8. Narrative & Anwerbewirkung
 
 > _"Armenien zeigt, wie ein historisch geprägtes Land durch Innovation und internationale Kooperation seine Zukunft sichert."_
 
@@ -14018,7 +14541,7 @@ version: "1.0"
 
 ***
 
-#### 9. Kennzahlenübersicht (Kurzform)
+##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025 | 2050 | 2075 | EU-Durchschnitt 2024 (Benchmark) |
 | ------------------------------------- | ---- | ---- | ---- | ------------------------------- |
@@ -14034,13 +14557,13 @@ Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 
-#### 10. Kurzfassung: „Armenien auf einen Blick“
+##### 10. Kurzfassung: „Armenien auf einen Blick“
 
 Armenien ist ein traditionsreiches Kaukasusland mit wachsenden IT-Potenzialen und enger Diaspora. Trotz begrenzter Ressourcen bietet das Land Innovationsgeist und strategische Lage zwischen Europa und Asien. Geopolitische Spannungen stellen Risiken dar, doch die EU‑Partnerschaft eröffnet Chancen für Reformen und Wohlstand.
 
-#### 11. Quellen & Modellierungen
+##### 11. Quellen & Modellierungen
 
-##### 11.1 ℹ️ Allgemeines
+###### 11.1 ℹ️ Allgemeines
 
 * Statistik: World Bank (Bevölkerung, BIP, Urbanisierung, Lebenserwartung), UNESCO (Bildung), UNEP (Nachhaltigkeit)
 * Modellannahmen zur Wirtschaftsentwicklung: ERDA Policy-Lab (hypothetisch: ERDA Scenario Modeling Report 2025) basierend auf regionalen Trends
@@ -14049,7 +14572,7 @@ Armenien ist ein traditionsreiches Kaukasusland mit wachsenden IT-Potenzialen un
 * Demokratie & Rechtsstaatlichkeit: Freedom House 2024, World Justice Project
 * Nachhaltigkeits- und Ressourcenindikatoren: UNEP 2023, nationale Umweltberichte
 
-##### 11.2 📎 Verwendete Quellen & Verweise
+###### 11.2 📎 Verwendete Quellen & Verweise
 
 1. World Bank. 2025. "Population, total - Armenia". [https://api.worldbank.org/v2/country/ARM/indicator/SP.POP.TOTL](https://api.worldbank.org/v2/country/ARM/indicator/SP.POP.TOTL) (Letzter Zugriff am 2025-06-11).
 2. World Bank. 2025. "GDP (current US$) - Armenia". [https://api.worldbank.org/v2/country/ARM/indicator/NY.GDP.MKTP.CD](https://api.worldbank.org/v2/country/ARM/indicator/NY.GDP.MKTP.CD) (Letzter Zugriff am 2025-06-11).
@@ -14057,7 +14580,7 @@ Armenien ist ein traditionsreiches Kaukasusland mit wachsenden IT-Potenzialen un
 4. Freedom House. 2024. "Freedom in the World 2024: Armenia". [https://freedomhouse.org/country/armenia/freedom-world/2024](https://freedomhouse.org/country/armenia/freedom-world/2024) (Letzter Zugriff am 2025-06-11).
 5. UNESCO Institute for Statistics. 2023. "Armenia Education Data". [https://uis.unesco.org](https://uis.unesco.org) (Letzter Zugriff am 2025-06-11).
 
-##### 11.3 🛠️ Modellierungen & Annahmen
+###### 11.3 🛠️ Modellierungen & Annahmen
 * Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
 * Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
@@ -14068,15 +14591,14 @@ Armenien ist ein traditionsreiches Kaukasusland mit wachsenden IT-Potenzialen un
 
 ***
 
-#### 12. 🤝 Mitwirkung willkommen
+##### 12. 🤝 Mitwirkung willkommen
 
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Armenien sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
-##### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: ERDA Buch Redaktion (siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon)).
-Kontakt: siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon).
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
-Letzte Änderung: 2025-06-11
+###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 
 
 \newpage
@@ -14092,11 +14614,12 @@ version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-ba-staatenprofil-bosnien-herzegowina"></a>
 
-## BA - Staatenprofil Bosnien-Herzegowina
 
-### 🇧🇦 ERDA-Staatenprofil: Bosnien-Herzegowina
+### BA - Staatenprofil Bosnien-Herzegowina
 
-#### 1. Überblick (Meta)
+#### 🇧🇦 ERDA-Staatenprofil: Bosnien-Herzegowina
+
+##### 1. Überblick (Meta)
 
 * 🏳️ Offizieller Name: Bosnien und Herzegowina
 * 🗺️ Geografische Lage: Südosteuropa, Westbalkan; grenzt an Kroatien, Serbien, Montenegro; kurze Adriaküste
@@ -14107,7 +14630,7 @@ version: "1.0"
 
 ***
 
-#### 2. Demografie & Gesellschaft
+##### 2. Demografie & Gesellschaft
 
 * Bevölkerung (2050/2075-Prognose): 2,7 Mio. / 2,3 Mio. (UN World Population Prospects, hypothetisch: ERDA Scenario Modeling Report 2025)
 * Altersstruktur (Medianalter, Jugendanteil, Altenquotient): 43 Jahre, 13 %, 22 %
@@ -14119,7 +14642,7 @@ version: "1.0"
 
 ***
 
-#### 3. Wirtschaft & Innovation
+##### 3. Wirtschaft & Innovation
 
 * Bruttoinlandsprodukt (BIP, real, heute / 2050 / 2075): 27,5 Mrd. USD / 40 Mrd. USD / 55 Mrd. USD (2050/2075 hypothetisch: ERDA Scenario Modeling Report 2025)
 * BIP pro Kopf: 8.600 USD
@@ -14131,7 +14654,7 @@ version: "1.0"
 * Mitglied im Democracy Trade Network: Nein
 * Nutzung von EHAM+ (0–10): 4
 
-##### 3.1 Infrastrukturautarkie
+###### 3.1 Infrastrukturautarkie
 
 * Energie ☑, IT/Cloud ☐, Verteidigung ☐, Ernährung ☑
 * Satellitenkommunikation (IRIS²) ☐
@@ -14140,22 +14663,22 @@ version: "1.0"
 
 ***
 
-#### 4. Ressourcenprofil
+##### 4. Ressourcenprofil
 
-##### 🌱 Natürliche Ressourcen:
+###### 🌱 Natürliche Ressourcen:
 
 * Land-/Meeresfläche: 51.209 km² / Adriaküste 20 km
 * Strategische Rohstoffe: Bauxit, Holz, Wasser
 * Erneuerbare Energiepotenziale: Wasserkraft (hoch), Solar (mittel), Wind (teilweise nutzbar)
 * Biodiversität & Schutzgebiete (%): 25 % Schutzflächen (Natura 2000 u. a.)
 
-##### 🧑‍🤝‍🧑 Soziale Ressourcen:
+###### 🧑‍🤝‍🧑 Soziale Ressourcen:
 
 * Ehrenamt & Gemeinschaftskultur: ausgeprägt in lokalen Gemeinden
 * Civic-Tech-Nutzung (z. B. CIVITAS): gering, ausbaufähig
 * Gesundheitssystem (Zugänglichkeit, Prävention): solide Basis, Verbesserungsbedarf
 
-##### 🛡️ Politische Ressourcen:
+###### 🛡️ Politische Ressourcen:
 
 * Verfassungsbindung: Ja, aber komplexe Verwaltungsstruktur
 * Direkte Demokratieinstrumente: begrenzt
@@ -14164,7 +14687,7 @@ version: "1.0"
 
 ***
 
-#### 5. Sicherheit & strategische Rolle (EDA)
+##### 5. Sicherheit & strategische Rolle (EDA)
 
 * Militärisches Potenzial:
   * ⬜ DSN-geeignet
@@ -14177,7 +14700,7 @@ version: "1.0"
 
 ***
 
-#### 6. Kulturelle Identität & Soft Power
+##### 6. Kulturelle Identität & Soft Power
 
 * Sprachen / indigene Kulturen: Bosnisch, Kroatisch, Serbisch; diverse Minderheiten
 * UNESCO-Welterbe / Kulturstätten: Alte Brücke von Mostar, Brücke in Višegrad
@@ -14187,9 +14710,9 @@ version: "1.0"
 
 ***
 
-#### 7. Entwicklungspfad (2025–2075)
+##### 7. Entwicklungspfad (2025–2075)
 
-##### 🔭 Szenario-Entwicklung:
+###### 🔭 Szenario-Entwicklung:
 
 * **Status 2025:** Erholung von Konfliktnachwirkungen, zaghafte wirtschaftliche Stabilisierung
 * **Best Case 2075:** Vollständig integrierter EU-Partner mit moderner Energieinfrastruktur und hoher Lebensqualität
@@ -14205,7 +14728,7 @@ Energieeffizienz, Bildungssystem, digitale Infrastruktur, Tourismus
 **Transformation 2050–2075:**\
 Schrittweise Annäherung an EU-Standards, Stärkung demokratischer Prozesse und nachhaltiger Ressourcennutzung
 
-##### 🚀 Rolle in der ERDA-Vision 2075:
+###### 🚀 Rolle in der ERDA-Vision 2075:
 
 > _„Bosnien-Herzegowina ist 2075 ein integrativer Westbalkan-Knoten innerhalb der ERDA, der kulturelle Vielfalt und erneuerbare Energie vernetzt.“_
 
@@ -14215,7 +14738,7 @@ Schrittweise Annäherung an EU-Standards, Stärkung demokratischer Prozesse und 
 
 ***
 
-#### 8. Narrative & Anwerbewirkung
+##### 8. Narrative & Anwerbewirkung
 
 > _„Bosnien-Herzegowina zeigt, wie Vielfalt und gemeinsamer Wiederaufbau trotz historischer Konflikte neue Chancen schaffen.“_
 
@@ -14225,7 +14748,7 @@ Schrittweise Annäherung an EU-Standards, Stärkung demokratischer Prozesse und 
 
 ***
 
-#### 9. Kennzahlenübersicht (Kurzform)
+##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025      | 2050      | 2075      |
 | ------------------------------------- | --------- | --------- | --------- |
@@ -14241,13 +14764,13 @@ Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 
-#### 10. Kurzfassung: „Bosnien-Herzegowina auf einen Blick“
+##### 10. Kurzfassung: „Bosnien-Herzegowina auf einen Blick“
 
 Bosnien-Herzegowina befindet sich im Wandel: Trotz politischer Komplexität und wirtschaftlicher Herausforderungen bietet das Land reichhaltige Kultur, natürliche Energiepotenziale und die Chance, als Brücke zwischen EU und Westbalkan zu wirken.
 
-#### 11. Quellen & Modellierungen
+##### 11. Quellen & Modellierungen
 
-##### 11.1 ℹ️ Allgemeines
+###### 11.1 ℹ️ Allgemeines
 
 * Statistik: World Bank (Population, GDP, Life Expectancy), Rest Countries API (Flächenangaben)
 * Modellannahmen zur Wirtschaftsentwicklung: OECD und UN Trends (hypothetisch: ERDA Scenario Modeling Report 2025)
@@ -14256,7 +14779,7 @@ Bosnien-Herzegowina befindet sich im Wandel: Trotz politischer Komplexität und 
 * Demokratie & Rechtsstaatlichkeit: Freedom House, World Justice Project
 * Nachhaltigkeits- und Ressourcenindikatoren: Europäische Umweltagentur (EEA)
 
-##### 11.2 📎 Verwendete Quellen & Verweise
+###### 11.2 📎 Verwendete Quellen & Verweise
 
 1. _„Population, total – Bosnia and Herzegovina"_ (World Bank, 2023): [https://api.worldbank.org/v2/country/BIH/indicator/SP.POP.TOTL](https://api.worldbank.org/v2/country/BIH/indicator/SP.POP.TOTL)
 2. _„GDP (current US$) – Bosnia and Herzegovina"_ (World Bank, 2023): [https://api.worldbank.org/v2/country/BIH/indicator/NY.GDP.MKTP.CD](https://api.worldbank.org/v2/country/BIH/indicator/NY.GDP.MKTP.CD)
@@ -14266,7 +14789,7 @@ Bosnien-Herzegowina befindet sich im Wandel: Trotz politischer Komplexität und 
 
 > Letzter Quellenzugriff: 2025-06-10
 
-##### 11.3 🛠️ Modellierungen & Annahmen
+###### 11.3 🛠️ Modellierungen & Annahmen
 * Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
 * Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
@@ -14277,15 +14800,14 @@ Bosnien-Herzegowina befindet sich im Wandel: Trotz politischer Komplexität und 
 
 ***
 
-#### 12. 🤝 Mitwirkung willkommen
+##### 12. 🤝 Mitwirkung willkommen
 
 Dieses Profil basiert auf öffentlich zugänglichen Daten und modellierten Annahmen. Vertreter:innen Bosnien-Herzegowinas und interessierte Fachstellen sind eingeladen, eigene Perspektiven und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten, demokratischen Zukunft Europas.
 
-##### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: ERDA Buch Redaktion (siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon)).
-Kontakt: siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon).
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
-Letzte Änderung: 2025-06-10
+###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 
 
 \newpage
@@ -14301,11 +14823,12 @@ version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-ch-staatenprofil-schweiz"></a>
 
-## CH - Staatenprofil Schweiz
 
-### 🇨🇭 ERDA-Staatenprofil: Schweiz
+### CH - Staatenprofil Schweiz
 
-#### 1. Überblick (Meta)
+#### 🇨🇭 ERDA-Staatenprofil: Schweiz
+
+##### 1. Überblick (Meta)
 
 * 🏳️ Offizieller Name: Schweizerische Eidgenossenschaft
 * 🗺️ Geografische Lage (Kontinent, Region): Mitteleuropa, Alpenraum; grenzt an Deutschland, Frankreich, Italien, Österreich und Liechtenstein
@@ -14316,7 +14839,7 @@ version: "1.0"
 
 ***
 
-#### 2. Demografie & Gesellschaft
+##### 2. Demografie & Gesellschaft
 
 * Bevölkerung Prognose (2050 / 2075): 9,34 Mio. / 10,25 Mio. (UN DESA World Population Prospects 2024, hypothetisch: ERDA Scenario Modeling Report 2025)[2]
 * Altersstruktur (Medianalter, Jugendanteil %, Altenquotient): 43 Jahre, 15 %, 20 % (World Bank 2023)
@@ -14328,7 +14851,7 @@ version: "1.0"
 
 ***
 
-#### 3. Wirtschaft & Innovation
+##### 3. Wirtschaft & Innovation
 
 * Bruttoinlandsprodukt (BIP real, heute / 2050 / 2075 in Mrd. EUR): 805 / 1 100 (p) / 1 300 (p)
 * BIP pro Kopf (EUR): 90 000
@@ -14340,7 +14863,7 @@ version: "1.0"
 * Mitglied im Democracy Trade Network: Ja
 * Nutzung von EHAM+ (Handelsabwehr) [0–10]: 8
 
-##### 3.1 Infrastrukturautarkie
+###### 3.1 Infrastrukturautarkie
 
 * Produktionssouveränität in strategischen Sektoren:
   * Energie ☑
@@ -14353,9 +14876,9 @@ version: "1.0"
 
 ***
 
-#### 4. Ressourcenprofil
+##### 4. Ressourcenprofil
 
-##### 🌱 Natürliche Ressourcen
+###### 🌱 Natürliche Ressourcen
 
 * Landfläche: 39 510 km² (World Bank 2022)[8]
 * Meeresfläche: Binnenland
@@ -14364,13 +14887,13 @@ version: "1.0"
 * Anteil Biodiversität & Schutzgebiete (% der Fläche): 12 % (World Bank 2023)[9]
 * Nachhaltigkeitskennzahlen (CO$_2$-Ausstoß pro Kopf, Recyclingquote, Materialverbrauch pro Kopf): 4,1 t CO$_2$ (2020), Recycling 60 %, Materialverbrauch 23 t (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-##### 🧑‍🤝‍🧑 Soziale Ressourcen
+###### 🧑‍🤝‍🧑 Soziale Ressourcen
 
 * Ehrenamt & Gemeinschaftskultur (Index [0–10]): 8
 * CIVITAS-Partizipationsindex [0–10]: 8
 * Gesundheitssystem (Zugänglichkeit [0–10], Prävention [0–10]): 9 / 8
 
-##### 🛡️ Politische Ressourcen
+###### 🛡️ Politische Ressourcen
 
 * Verfassungsbindung: Ja
 * Direkte Demokratieinstrumente: Vorhanden
@@ -14381,7 +14904,7 @@ version: "1.0"
 
 ***
 
-#### 5. Sicherheit & strategische Rolle (EDA)
+##### 5. Sicherheit & strategische Rolle (EDA)
 
 * Militärisches Potenzial:
   * DSN-geeignet ☑
@@ -14395,7 +14918,7 @@ version: "1.0"
 * Zivile Resilienzprogramme: Vorhanden
 * Drohnen-/Raumfahrt-/KI-Kapazitäten: Vorhanden
 
-##### 5.1 Arktisstrategie & Planetare Verantwortung (optional für Arktis-Staaten)
+###### 5.1 Arktisstrategie & Planetare Verantwortung (optional für Arktis-Staaten)
 
 * Integration in EDA-DSN Nordmeer: Nein
 * Beteiligung am Arctic Resilience Observatory: Ja
@@ -14404,7 +14927,7 @@ version: "1.0"
 
 ***
 
-#### 6. Kulturelle Identität & Soft Power
+##### 6. Kulturelle Identität & Soft Power
 
 * Sprachen / Indigene Kulturen: Deutsch, Französisch, Italienisch, Rätoromanisch
 * UNESCO-Welterbe / Kulturstätten (Anzahl): 13 Stätten (UNESCO 2024)[11]
@@ -14414,9 +14937,9 @@ version: "1.0"
 
 ***
 
-#### 7. Entwicklungspfad (2025–2075)
+##### 7. Entwicklungspfad (2025–2075)
 
-##### 🔭 Szenario-Entwicklung
+###### 🔭 Szenario-Entwicklung
 
 * **Status 2025:** Wohlhabende, innovationsstarke Volkswirtschaft mit hoher Lebensqualität
 * **Best Case 2075:** Führender nachhaltiger Finanz- und Tech-Standort mit starker demokratischer Beteiligung
@@ -14432,7 +14955,7 @@ Weiterentwicklung erneuerbarer Energien, Digitalisierung des Finanzsektors, För
 **Transformation 2050–2075:**
 Ausbau der Bildungs- und Forschungsallianzen, stärkere europäische Integration, nachhaltige Infrastruktur
 
-##### 🚀 Rolle in der ERDA-Vision 2075
+###### 🚀 Rolle in der ERDA-Vision 2075
 
 > _„Die Schweiz ist 2075 ein nachhaltiges Innovationszentrum und vermittelt zwischen verschiedenen Wirtschafts- und Kulturräumen.“_
 
@@ -14442,7 +14965,7 @@ Ausbau der Bildungs- und Forschungsallianzen, stärkere europäische Integration
 
 ***
 
-#### 8. Narrative & Anwerbewirkung
+##### 8. Narrative & Anwerbewirkung
 
 > _„Die Schweiz zeigt, dass Stabilität, Innovation und direkte Demokratie Hand in Hand gehen können.“_
 
@@ -14452,7 +14975,7 @@ Ausbau der Bildungs- und Forschungsallianzen, stärkere europäische Integration
 
 ***
 
-#### 9. Kennzahlenübersicht (Kurzform)
+##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025        | 2050 (p) | 2075 (p) | EU-Durchschnitt 2024 |
 | ------------------------------------- | ----------- | -------- | -------- | ------------------ |
@@ -14468,13 +14991,13 @@ Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 
-#### 10. Kurzfassung: „Schweiz auf einen Blick“
+##### 10. Kurzfassung: „Schweiz auf einen Blick“
 
 Die Schweiz ist ein mehrsprachiger, wohlhabender Alpenstaat mit direkter Demokratie und starkem Innovationssektor. Hohe Lebensqualität, ein stabiles Finanzsystem und ausgeprägte Forschung machen sie zu einem verlässlichen Partner Europas.
 
-#### 11. Quellen & Modellierungen
+##### 11. Quellen & Modellierungen
 
-##### 11.1 ℹ️ Allgemeines
+###### 11.1 ℹ️ Allgemeines
 
 * Statistik: World Bank, OECD, Bundesamt für Statistik; Basisjahr 2023
 * Modellannahmen zur Wirtschaftsentwicklung: eigenes ERDA-Modell (hypothetisch: ERDA Scenario Modeling Report 2025)
@@ -14483,7 +15006,7 @@ Die Schweiz ist ein mehrsprachiger, wohlhabender Alpenstaat mit direkter Demokra
 * Demokratie & Rechtsstaatlichkeit: Freedom House 2024
 * Nachhaltigkeits- und Ressourcenindikatoren: World Bank, UNEP
 
-##### 11.2 📎 Verwendete Quellen & Verweise
+###### 11.2 📎 Verwendete Quellen & Verweise
 
 1. World Bank. 2025. „Population, total - Switzerland“. [https://api.worldbank.org/v2/country/CHE/indicator/SP.POP.TOTL](https://api.worldbank.org/v2/country/CHE/indicator/SP.POP.TOTL) (Letzter Zugriff am 2025-06-11).
 2. United Nations Department of Economic and Social Affairs. 2024. „World Population Prospects 2024 Revision“. [https://population.un.org/wpp](https://population.un.org/wpp) (Letzter Zugriff am 2025-06-11).
@@ -14496,7 +15019,7 @@ Die Schweiz ist ein mehrsprachiger, wohlhabender Alpenstaat mit direkter Demokra
 9. World Bank. 2025. „Terrestrial and marine protected areas (% of total territorial area) - Switzerland“. [https://api.worldbank.org/v2/country/CHE/indicator/ER.PTD.TOTL.ZS](https://api.worldbank.org/v2/country/CHE/indicator/ER.PTD.TOTL.ZS) (Letzter Zugriff am 2025-06-11).
 10. Freedom House. 2024. „Freedom in the World 2024: Switzerland“. [https://freedomhouse.org](https://freedomhouse.org) (Letzter Zugriff am 2025-06-11).
 
-##### 11.3 🛠️ Modellierungen & Annahmen
+###### 11.3 🛠️ Modellierungen & Annahmen
 * Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
 * Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
@@ -14509,14 +15032,13 @@ Die Schweiz ist ein mehrsprachiger, wohlhabender Alpenstaat mit direkter Demokra
 
 ***
 
-#### 12. 🤝 Mitwirkung willkommen
+##### 12. 🤝 Mitwirkung willkommen
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Schweizerischen Eidgenossenschaft sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
-##### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: ERDA Buch Redaktion (siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon)).
-Kontakt: siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon).
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
-Letzte Änderung: 2025-06-11
+###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 
 
 \newpage
@@ -14532,11 +15054,12 @@ version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-cy-staatenprofil-zypern"></a>
 
-## CY - Staatenprofil Zypern
 
-### 🇨🇾 ERDA-Staatenprofil: Zypern
+### CY - Staatenprofil Zypern
 
-#### 1. Überblick (Meta)
+#### 🇨🇾 ERDA-Staatenprofil: Zypern
+
+##### 1. Überblick (Meta)
 
 * 🏳️ Offizieller Name: Republik Zypern
 * 🗺️ Geografische Lage: Östliches Mittelmeer, Insel südlich der Türkei
@@ -14547,7 +15070,7 @@ version: "1.0"
 
 ***
 
-#### 2. Demografie & Gesellschaft
+##### 2. Demografie & Gesellschaft
 
 * Bevölkerung (2050/2075-Prognose): 1,4 Mio. / 1,35 Mio. (UN WPP 2022, hypothetisch: ERDA Scenario Modeling Report 2025)
 * Altersstruktur (Medianalter, Jugendanteil, Altenquotient): 38 Jahre, 17 %, 25 %
@@ -14559,7 +15082,7 @@ version: "1.0"
 
 ***
 
-#### 3. Wirtschaft & Innovation
+##### 3. Wirtschaft & Innovation
 
 * Bruttoinlandsprodukt (BIP, real, heute / 2050 / 2075): 34 Mrd. USD / 55 Mrd. USD (p) / 70 Mrd. USD (p)
 * BIP pro Kopf: 36.500 USD (World Bank 2023)
@@ -14571,7 +15094,7 @@ version: "1.0"
 * Mitglied im Democracy Trade Network: Ja
 * Nutzung von EHAM+ (0–10): 5
 
-##### 3.1 Infrastrukturautarkie
+###### 3.1 Infrastrukturautarkie
 
 * Energie ☑, IT/Cloud ☑, Verteidigung ☐, Ernährung ☐
 * Satellitenkommunikation (IRIS²) ☑
@@ -14580,22 +15103,22 @@ version: "1.0"
 
 ***
 
-#### 4. Ressourcenprofil
+##### 4. Ressourcenprofil
 
-##### 🌱 Natürliche Ressourcen:
+###### 🌱 Natürliche Ressourcen:
 
 * Land-/Meeresfläche: 9.251 km² / 382.000 km² ausschließliche Wirtschaftszone
 * Strategische Rohstoffe: Kupfer (historisch), Solarpotenzial
 * Erneuerbare Energiepotenziale: Solar (hoch), Wind (mittel), Geothermie (gering)
 * Biodiversität & Schutzgebiete (%): 29 % Schutzfläche (Natura 2000)
 
-##### 🧑‍🤝‍🧑 Soziale Ressourcen:
+###### 🧑‍🤝‍🧑 Soziale Ressourcen:
 
 * Ehrenamt & Gemeinschaftskultur: stark in lokalen Gemeinden
 * Civic-Tech-Nutzung (z. B. CIVITAS): im Aufbau
 * Gesundheitssystem (Zugänglichkeit, Prävention): gut
 
-##### 🛡️ Politische Ressourcen:
+###### 🛡️ Politische Ressourcen:
 
 * Verfassungsbindung: Ja
 * Direkte Demokratieinstrumente: begrenzt
@@ -14604,7 +15127,7 @@ version: "1.0"
 
 ***
 
-#### 5. Sicherheit & strategische Rolle (EDA)
+##### 5. Sicherheit & strategische Rolle (EDA)
 
 * Militärisches Potenzial:
   * ⬜ DSN-geeignet
@@ -14617,7 +15140,7 @@ version: "1.0"
 
 ***
 
-#### 6. Kulturelle Identität & Soft Power
+##### 6. Kulturelle Identität & Soft Power
 
 * Sprachen / indigene Kulturen: Griechisch, Türkisch
 * UNESCO-Welterbe / Kulturstätten: Choirokoitia, bemalte Kirchen im Troodos-Gebirge, Paphos
@@ -14627,9 +15150,9 @@ version: "1.0"
 
 ***
 
-#### 7. Entwicklungspfad (2025–2075)
+##### 7. Entwicklungspfad (2025–2075)
 
-##### 🔭 Szenario-Entwicklung:
+###### 🔭 Szenario-Entwicklung:
 
 * **Status 2025:** Stabiles EU-Mitglied mit geteilten Gemeinschaften, wachsende Dienstleistungswirtschaft
 * **Best Case 2075:** Regionale Energie- und Innovationsdrehscheibe mit hoher Lebensqualität
@@ -14645,7 +15168,7 @@ Solarenergie, Digitalisierung, maritime Infrastruktur
 **Transformation 2050–2075:**\
 Integration in regionale Energieprojekte und Stärkung der Innovationslandschaft
 
-##### 🚀 Rolle in der ERDA-Vision 2075:
+###### 🚀 Rolle in der ERDA-Vision 2075:
 
 > _„Zypern ist 2075 ein wichtiger Energie- und Handelsknoten im Mittelmeer, der Demokratie und nachhaltige Technologie verbindet.“_
 
@@ -14655,7 +15178,7 @@ Integration in regionale Energieprojekte und Stärkung der Innovationslandschaft
 
 ***
 
-#### 8. Narrative & Anwerbewirkung
+##### 8. Narrative & Anwerbewirkung
 
 > _„Zypern verbindet die Kulturen des Mittelmeerraums und bietet Chancen für nachhaltige Wirtschaft und friedliche Kooperation.“_
 
@@ -14665,7 +15188,7 @@ Integration in regionale Energieprojekte und Stärkung der Innovationslandschaft
 
 ***
 
-#### 9. Kennzahlenübersicht (Kurzform)
+##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025      | 2050 (p) | 2075 (p) |
 | ------------------------------------- | --------- | -------- | -------- |
@@ -14681,19 +15204,19 @@ Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 
-#### 10. Kurzfassung: „Zypern auf einen Blick“
+##### 10. Kurzfassung: „Zypern auf einen Blick“
 
 Zypern ist eine dynamische Mittelmeerinsel mit strategischer Lage zwischen Europa und Nahost. Tourismus und Dienstleistungssektor treiben die Wirtschaft, während erneuerbare Energien zunehmend an Bedeutung gewinnen. Politische Teilung stellt weiterhin eine Herausforderung dar, doch das Potenzial für regionale Kooperation ist groß.
 
-#### 11. Quellen & Modellierungen
+##### 11. Quellen & Modellierungen
 
-##### 11.1 ℹ️ Allgemeines
+###### 11.1 ℹ️ Allgemeines
 
 * Statistik: World Bank (Population, GDP, Life Expectancy), Rest Countries API (Flächenangaben)
 * Modelle: UN World Population Prospects 2022 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Energie- und Infrastrukturdaten laut nationalen Strategiepapiere (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-##### 11.2 📎 Verwendete Quellen & Verweise
+###### 11.2 📎 Verwendete Quellen & Verweise
 
 1. _„Population, total – Cyprus"_ (World Bank, 2023): [https://api.worldbank.org/v2/country/CYP/indicator/SP.POP.TOTL](https://api.worldbank.org/v2/country/CYP/indicator/SP.POP.TOTL)
 2. _„GDP (current US$) – Cyprus"_ (World Bank, 2023): [https://api.worldbank.org/v2/country/CYP/indicator/NY.GDP.MKTP.CD](https://api.worldbank.org/v2/country/CYP/indicator/NY.GDP.MKTP.CD)
@@ -14703,7 +15226,7 @@ Zypern ist eine dynamische Mittelmeerinsel mit strategischer Lage zwischen Europ
 
 > Letzter Quellenzugriff: 2025-06-11
 
-##### 11.3 🛠️ Modellierungen & Annahmen
+###### 11.3 🛠️ Modellierungen & Annahmen
 * Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
 * Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
@@ -14714,15 +15237,14 @@ Zypern ist eine dynamische Mittelmeerinsel mit strategischer Lage zwischen Europ
 
 ***
 
-#### 12. 🤝 Mitwirkung willkommen
+##### 12. 🤝 Mitwirkung willkommen
 
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Zypern sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
-##### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: ERDA Buch Redaktion (siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon)).
-Kontakt: siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon).
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
-Letzte Änderung: 2025-06-11
+###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 
 
 \newpage
@@ -14738,11 +15260,12 @@ version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-ge-staatenprofil-georgien"></a>
 
-## GE - Staatenprofil Georgien
 
-### 🇬🇪 ERDA-Staatenprofil: Georgien
+### GE - Staatenprofil Georgien
 
-#### 1. Überblick (Meta)
+#### 🇬🇪 ERDA-Staatenprofil: Georgien
+
+##### 1. Überblick (Meta)
 
 * 🇬🇪 Offizieller Name: Georgische Republik
 * 📍 Geografische Lage: Südkaukasus, Schwarzes Meer; grenzt an Russland, Türkei, Armenien und Aserbaidschan
@@ -14753,7 +15276,7 @@ version: "1.0"
 
 ***
 
-#### 2. Demografie & Gesellschaft
+##### 2. Demografie & Gesellschaft
 
 * Bevölkerung (2050/2075-Prognose): 3,39 Mio./2,91 Mio. (UN WPP 2017, Medium)[6]
 * Urbanisierung (% 2023): 60,7 %[4]
@@ -14764,7 +15287,7 @@ version: "1.0"
 
 ***
 
-#### 3. Wirtschaft & Innovation
+##### 3. Wirtschaft & Innovation
 
 * Bruttoinlandsprodukt (BIP, real, 2023): 30,8 Mrd. USD[2]
 * BIP pro Kopf: 8.284 USD (2023)[2]
@@ -14776,7 +15299,7 @@ version: "1.0"
 * Mitglied im Democracy Trade Network: Nein
 * Nutzung von EHAM+ (0–10): 4
 
-##### 3.1 Infrastrukturautarkie
+###### 3.1 Infrastrukturautarkie
 
 * Energie ☑, IT/Cloud ☑, Verteidigung ☐, Ernährung ☑
 * Satellitenkommunikation (IRIS²) ☐
@@ -14785,22 +15308,22 @@ version: "1.0"
 
 ***
 
-#### 4. Ressourcenprofil
+##### 4. Ressourcenprofil
 
-##### 🌱 Natürliche Ressourcen:
+###### 🌱 Natürliche Ressourcen:
 
 * Land-/Meeresfläche: 69.700 km² / Schwarzes Meer-Küste
 * Strategische Rohstoffe: Mangan, Kupfer, Waldressourcen
 * Erneuerbare Energiepotenziale: Wasserkraft (hoch), Wind (mittel), Solar (mittel)
 * Biodiversität & Schutzgebiete (%): 14 % Schutzfläche
 
-##### 🧑‍🤝‍🧑 Soziale Ressourcen:
+###### 🧑‍🤝‍🧑 Soziale Ressourcen:
 
 * Ehrenamt & Gemeinschaftskultur: ausgeprägt
 * Civic-Tech-Nutzung (z. B. CIVITAS): im Aufbau
 * Gesundheitssystem (Zugänglichkeit, Prävention): aufstrebend
 
-##### 🛡️ Politische Ressourcen:
+###### 🛡️ Politische Ressourcen:
 
 * Verfassungsbindung: Ja
 * Direkte Demokratieinstrumente: Referenden, Volksinitiativen
@@ -14809,7 +15332,7 @@ version: "1.0"
 
 ***
 
-#### 5. Sicherheit & strategische Rolle (EDA)
+##### 5. Sicherheit & strategische Rolle (EDA)
 
 * Militärisches Potenzial:
   * ⬜ DSN-geeignet
@@ -14822,7 +15345,7 @@ version: "1.0"
 
 ***
 
-#### 6. Kulturelle Identität & Soft Power
+##### 6. Kulturelle Identität & Soft Power
 
 * Sprachen / indigene Kulturen: Georgisch (Amtssprache), Minderheitensprachen (Aseri, Armenisch u. a.)
 * UNESCO-Welterbe / Kulturstätten: Mzcheta, Swetizchoweli-Kathedrale, Gelati-Kloster
@@ -14832,9 +15355,9 @@ version: "1.0"
 
 ***
 
-#### 7. Entwicklungspfad (2025–2075)
+##### 7. Entwicklungspfad (2025–2075)
 
-##### 🔭 Szenario-Entwicklung:
+###### 🔭 Szenario-Entwicklung:
 
 * **Status 2025:** Reformorientierte Regierung, wachsende Digitalwirtschaft
 * **Best Case 2075:** Innovativer Brückenstaat zwischen EU und Kaukasus mit hoher Lebensqualität
@@ -14850,7 +15373,7 @@ Digitale Verwaltung, Bildung, Verkehrs- und Energienetze
 **Transformation 2050–2075:**\
 Wirtschaftliche Integration mit EU-Märkten, Ausbau erneuerbarer Energien, Stärkung demokratischer Institutionen
 
-##### 🚀 Rolle in der ERDA-Vision 2075:
+###### 🚀 Rolle in der ERDA-Vision 2075:
 
 > _„Georgien wird im Jahr 2075 eine resiliente, digital vernetzte Wirtschaft mit Bindegliedfunktion zwischen Europa und dem Kaukasus sein.“_
 
@@ -14860,7 +15383,7 @@ Wirtschaftliche Integration mit EU-Märkten, Ausbau erneuerbarer Energien, Stär
 
 ***
 
-#### 8. Narrative & Anwerbewirkung
+##### 8. Narrative & Anwerbewirkung
 
 > _„Georgien verbindet alte Tradition mit digitalem Aufbruch und lädt als Tor zum Kaukasus zur Zusammenarbeit ein.“_
 
@@ -14870,7 +15393,7 @@ Wirtschaftliche Integration mit EU-Märkten, Ausbau erneuerbarer Energien, Stär
 
 ***
 
-#### 9. Kennzahlenübersicht (Kurzform)
+##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025 | 2050      | 2075      |
 | ------------------------------------- | ---- | --------- | --------- |
@@ -14886,19 +15409,19 @@ Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 
-#### 10. Kurzfassung: „Georgien auf einen Blick“
+##### 10. Kurzfassung: „Georgien auf einen Blick“
 
 Georgien ist ein reformfreudiger Staat im Südkaukasus mit großem Potenzial als Brücke zwischen Europa und Asien. Historische Kulturstätten und eine wachsende Digitalbranche prägen das Land.
 
-#### 11. Quellen & Modellierungen
+##### 11. Quellen & Modellierungen
 
-##### 11.1 ℹ️ Allgemeines
+###### 11.1 ℹ️ Allgemeines
 
 * Statistik: Kombination aus nationalen und internationalen Quellen (World Bank, UNESCO), Basisjahr 2023
 * Modelle: Bevölkerungsentwicklung nach UN WPP 2017 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Energie- und Infrastrukturdaten laut Regierungsprogrammen (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-##### 11.2 📎 Verwendete Quellen & Verweise
+###### 11.2 📎 Verwendete Quellen & Verweise
 
 **Demografie & Gesellschaft**
 1. World Bank. "Population, total". [https://datahub.io/core/population](https://datahub.io/core/population) (Zugriff 2025-06-11).
@@ -14912,7 +15435,7 @@ Georgien ist ein reformfreudiger Staat im Südkaukasus mit großem Potenzial als
 **Bevölkerungsprognosen**
 6. OWID / UN World Population Prospects 2017. [https://github.com/owid/owid-datasets](https://github.com/owid/owid-datasets)
 
-##### 11.3 🛠️ Modellierungen & Annahmen
+###### 11.3 🛠️ Modellierungen & Annahmen
 * Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
 * Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
@@ -14922,15 +15445,14 @@ Georgien ist ein reformfreudiger Staat im Südkaukasus mit großem Potenzial als
 
 ***
 
-#### 12. 🤝 Mitwirkung willkommen
+##### 12. 🤝 Mitwirkung willkommen
 
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen Georgiens sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
-##### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: ERDA Buch Redaktion (siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon)).
-Kontakt: siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon).
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
-Letzte Änderung: 2025-06-11
+###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 
 
 \newpage
@@ -14946,11 +15468,12 @@ version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-hu-staatenprofil-ungarn"></a>
 
-## HU - Staatenprofil Ungarn
 
-### 🇭🇺 ERDA-Staatenprofil: Ungarn
+### HU - Staatenprofil Ungarn
 
-#### 1. Überblick (Meta)
+#### 🇭🇺 ERDA-Staatenprofil: Ungarn
+
+##### 1. Überblick (Meta)
 
 * 🏳️ Offizieller Name: Ungarn (Magyarország)
 * 🗾 Geografische Lage: Mitteleuropa, Pannonische Tiefebene; grenzt an Österreich, Slowakei, Ukraine, Rumänien, Serbien, Kroatien und Slowenien
@@ -14961,7 +15484,7 @@ version: "1.0"
 
 ***
 
-#### 2. Demografie & Gesellschaft
+##### 2. Demografie & Gesellschaft
 
 * Bevölkerung Prognose (2050 / 2075): 8,6 Mio. / 8,1 Mio. (UN DESA 2022, hypothetisch: ERDA Scenario Modeling Report 2025)
 * Altersstruktur (Medianalter, Jugendanteil %, Altenquotient): 43 Jahre, 13 %, 31 %
@@ -14973,7 +15496,7 @@ version: "1.0"
 
 ***
 
-#### 3. Wirtschaft & Innovation
+##### 3. Wirtschaft & Innovation
 
 * Bruttoinlandsprodukt (BIP real, heute / 2050 / 2075 in Mrd. EUR): 180 / 240 (hypothetisch: ERDA Scenario Modeling Report 2025) / 310 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * BIP pro Kopf (EUR): ca. 20 000
@@ -14985,7 +15508,7 @@ version: "1.0"
 * Mitglied im Democracy Trade Network: Nein
 * Nutzung von EHAM+ (Handelsabwehr) [0–10]: 4
 
-##### 3.1 Infrastrukturautarkie
+###### 3.1 Infrastrukturautarkie
 
 * Energie ☑
 * IT/Cloud ☑
@@ -14997,9 +15520,9 @@ version: "1.0"
 
 ***
 
-#### 4. Ressourcenprofil
+##### 4. Ressourcenprofil
 
-##### Natürliche Ressourcen
+###### Natürliche Ressourcen
 
 * Landfläche (km²): 93 030
 * Meeresfläche: Binnenstaat
@@ -15008,13 +15531,13 @@ version: "1.0"
 * Anteil Biodiversität & Schutzgebiete (% der Fläche): 22 %
 * Nachhaltigkeitskennzahlen: CO$_2$-Ausstoß pro Kopf 5,8 t; Recyclingquote 32 %
 
-##### Soziale Ressourcen
+###### Soziale Ressourcen
 
 * Ehrenamt & Gemeinschaftskultur (Index [0–10]): 6
 * CIVITAS-Partizipationsindex [0–10]: 4
 * Gesundheitssystem (Zugänglichkeit [0–10], Prävention [0–10]): 7 / 5
 
-##### Politische Ressourcen
+###### Politische Ressourcen
 
 * Verfassungsbindung: Eingeschränkt
 * Direkte Demokratieinstrumente: Teilweise vorhanden (Volksabstimmungen)
@@ -15025,7 +15548,7 @@ version: "1.0"
 
 ***
 
-#### 5. Sicherheit & Strategische Rolle (EDA)
+##### 5. Sicherheit & Strategische Rolle (EDA)
 
 * Militärisches Potenzial:
   * DSN-geeignet ☐
@@ -15041,7 +15564,7 @@ version: "1.0"
 
 ***
 
-#### 6. Kulturelle Identität & Soft Power
+##### 6. Kulturelle Identität & Soft Power
 
 * Sprachen / indigene Kulturen: Ungarisch (Magyar), Minderheiten (Roma, Deutsch, Kroatisch)
 * UNESCO-Welterbe / Kulturstätten (Anzahl): 8 Stätten
@@ -15051,16 +15574,16 @@ version: "1.0"
 
 ***
 
-#### 7. Entwicklungspfad (2025–2075)
+##### 7. Entwicklungspfad (2025–2075)
 
-##### Szenario-Entwicklung
+###### Szenario-Entwicklung
 
 * **Status 2025:** Wirtschaftlich mittelstark, demokratische Herausforderungen, wichtige Rolle in regionalen Lieferketten
 * **Best Case 2075:** Nachhaltiger Energieknoten mit gefestigter Demokratie und hoher regionaler Innovationskraft
 * **Base Case 2075:** Moderater wirtschaftlicher Aufstieg, anhaltende politische Spannungen
 * **Worst Case 2075:** Abwanderung junger Fachkräfte schwächt Wirtschaft und Gesellschaft
 
-##### Rolle in der ERDA-Vision 2075
+###### Rolle in der ERDA-Vision 2075
 
 * Beitrag zur Post-Knappheitsökonomischen Ordnung: regionaler Energiehub
 * Demokratische Resilienz (sozial, kulturell, ökologisch): mittel
@@ -15068,7 +15591,7 @@ version: "1.0"
 
 ***
 
-#### 8. Narrative & Anwerbewirkung
+##### 8. Narrative & Anwerbewirkung
 
 > _"Ungarns reiches Kulturerbe und seine geostrategische Lage bilden die Grundlage für eine moderne, weltoffene Nation."_
 
@@ -15078,7 +15601,7 @@ version: "1.0"
 
 ***
 
-#### 9. Kennzahlenübersicht (Kurzform)
+##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator | 2025 | 2050 | 2075 | EU-Durchschnitt 2024 (Benchmark) |
 | --- | --- | --- | --- | --- |
@@ -15094,13 +15617,13 @@ Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 
-#### 10. Kurzfassung: "Ungarn auf einen Blick"
+##### 10. Kurzfassung: "Ungarn auf einen Blick"
 
 Ungarn verbindet eine traditionsreiche Kultur und günstige Lage in Mitteleuropa mit wachsendem Energie- und Innovationspotenzial. Politische Spannungen und demografische Herausforderungen bleiben zentrale Themen, doch das Land besitzt Chancen als logistischer Korridor und regionaler Energielieferant.
 
-#### 11. Quellen & Modellierungen
+##### 11. Quellen & Modellierungen
 
-##### 11.1 ℹ️ Allgemeines
+###### 11.1 ℹ️ Allgemeines
 
 * Statistik: World Bank (Population, GDP), Eurostat (Energie), UNESCO (Welterbe)
 * Modellannahmen zur Wirtschaftsentwicklung: PwC "The World in 2050" (hypothetisch: ERDA Scenario Modeling Report 2025)
@@ -15111,7 +15634,7 @@ Ungarn verbindet eine traditionsreiche Kultur und günstige Lage in Mitteleuropa
 
 > Letzter Quellenzugriff: 2025-06-10
 
-##### 11.2 📍 Verwendete Quellen & Verweise
+###### 11.2 📍 Verwendete Quellen & Verweise
 
 1. _"Population, total – Hungary"_ (World Bank, 2023): [https://api.worldbank.org/v2/country/HUN/indicator/SP.POP.TOTL](https://api.worldbank.org/v2/country/HUN/indicator/SP.POP.TOTL)
 2. _"GDP per capita (current US$) – Hungary"_ (World Bank, 2023): [https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=HU](https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=HU)
@@ -15120,7 +15643,7 @@ Ungarn verbindet eine traditionsreiche Kultur und günstige Lage in Mitteleuropa
 
 > Letzter Quellenzugriff: 2025-06-10
 
-##### 11.3 🛠️ Modellierungen & Annahmen
+###### 11.3 🛠️ Modellierungen & Annahmen
 * Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
 * Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
@@ -15131,15 +15654,14 @@ Ungarn verbindet eine traditionsreiche Kultur und günstige Lage in Mitteleuropa
 
 ***
 
-#### 12. 🤝 Mitwirkung willkommen
+##### 12. 🤝 Mitwirkung willkommen
 
 Dieses Profil basiert auf öffentlich zugänglichen Daten und modellierten Annahmen. Vertreter:innen Ungarns und interessierte Fachstellen sind eingeladen, eigene Perspektiven und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten, demokratischen Zukunft Europas.
 
-##### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: ERDA Buch Redaktion (siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon)).
-Kontakt: siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon).
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
-Letzte Änderung: 2025-06-10
+###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 
 
 \newpage
@@ -15155,11 +15677,12 @@ version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-il-staatenprofil-israel"></a>
 
-## IL - Staatenprofil Israel
 
-### 🇮🇱 ERDA-Staatenprofil: Israel
+### IL - Staatenprofil Israel
 
-#### 1. Überblick (Meta)
+#### 🇮🇱 ERDA-Staatenprofil: Israel
+
+##### 1. Überblick (Meta)
 
 * 🏳️ Offizieller Name: Staat Israel
 * 🗺️ Geografische Lage (Kontinent, Region): Vorderasien, Naher Osten, Mittelmeerküste
@@ -15170,7 +15693,7 @@ version: "1.0"
 
 ***
 
-#### 2. Demografie & Gesellschaft
+##### 2. Demografie & Gesellschaft
 
 * Bevölkerung Prognose (2050 / 2075): 12 Mio. / 13 Mio. (UN DESA 2022, hypothetisch: ERDA Scenario Modeling Report 2025)
 * Altersstruktur (Medianalter, Jugendanteil %, Altenquotient): 30 Jahre, 27 %, 15 % (World Bank 2023)
@@ -15182,7 +15705,7 @@ version: "1.0"
 
 ***
 
-#### 3. Wirtschaft & Innovation
+##### 3. Wirtschaft & Innovation
 
 * Bruttoinlandsprodukt (BIP real, heute / 2050 / 2075 in Mrd. EUR): 472 (2023) / 750 (hypothetisch: ERDA Scenario Modeling Report 2025) / 1 000 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * BIP pro Kopf (EUR): ca. 48 000 (World Bank 2023, umgerechnet)
@@ -15194,7 +15717,7 @@ version: "1.0"
 * Mitglied im Democracy Trade Network: Ja
 * Nutzung von EHAM+ (Handelsabwehr) [0–10]: 7
 
-##### 3.1 Infrastrukturautarkie
+###### 3.1 Infrastrukturautarkie
 
 * Energie ☐
 * IT/Cloud ☑
@@ -15206,9 +15729,9 @@ version: "1.0"
 
 ***
 
-#### 4. Ressourcenprofil
+##### 4. Ressourcenprofil
 
-##### Natürliche Ressourcen
+###### Natürliche Ressourcen
 
 * Landfläche (km²): 22 145
 * Meeresfläche (falls relevant, km²): 26 000 (Mittelmeer)
@@ -15217,13 +15740,13 @@ version: "1.0"
 * Anteil Biodiversität & Schutzgebiete (% der Fläche): 24 %
 * Nachhaltigkeitskennzahlen: CO$_2$-Ausstoß pro Kopf 8 t; Recyclingquote 20 % (OECD 2023)
 
-##### Soziale Ressourcen
+###### Soziale Ressourcen
 
 * Ehrenamt & Gemeinschaftskultur (Index [0–10]): 7 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * CIVITAS-Partizipationsindex [0–10]: 6 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Gesundheitssystem (Zugänglichkeit [0–10], Prävention [0–10]): 8 / 7
 
-##### Politische Ressourcen
+###### Politische Ressourcen
 
 * Verfassungsbindung: Teilweise (Grundgesetze)
 * Direkte Demokratieinstrumente: Nicht vorhanden
@@ -15234,7 +15757,7 @@ version: "1.0"
 
 ***
 
-#### 5. Sicherheit & Strategische Rolle (EDA)
+##### 5. Sicherheit & Strategische Rolle (EDA)
 
 * Militärisches Potenzial:
   * DSN-geeignet ☑
@@ -15250,7 +15773,7 @@ version: "1.0"
 
 ***
 
-#### 6. Kulturelle Identität & Soft Power
+##### 6. Kulturelle Identität & Soft Power
 
 * Sprachen / Indigene Kulturen: Hebräisch, Arabisch; diverse Einwandererkulturen
 * UNESCO-Welterbe / Kulturstätten (Anzahl): 9
@@ -15260,16 +15783,16 @@ version: "1.0"
 
 ***
 
-#### 7. Entwicklungspfad (2025–2075)
+##### 7. Entwicklungspfad (2025–2075)
 
-##### Szenario-Entwicklung
+###### Szenario-Entwicklung
 
 * Status 2025: Hohe Innovationskraft, geopolitische Spannungen, starker Wirtschaftswachstumskurs
 * Best Case 2075: Vollintegrierter, nachhaltiger Technologiestaat mit regionalem Frieden
 * Base Case 2075: Stabile Hochtechnologieökonomie mit moderaten Konflikten
 * Worst Case 2075: Anhaltende Konflikte bremsen Entwicklung und internationale Kooperation
 
-##### Rolle in der ERDA-Vision 2075
+###### Rolle in der ERDA-Vision 2075
 
 * Beitrag zur Post-Knappheitsökonomischen Ordnung: Technologie- und Sicherheitskompetenz
 * Demokratische Resilienz (sozial, kulturell, ökologisch): mittel bis hoch
@@ -15277,7 +15800,7 @@ version: "1.0"
 
 ***
 
-#### 8. Narrative & Anwerbewirkung
+##### 8. Narrative & Anwerbewirkung
 
 > _"Israel zeigt, wie ein innovationsgetriebenes Ökosystem trotz regionaler Herausforderungen eine dynamische Demokratie stärkt."_
 
@@ -15287,7 +15810,7 @@ version: "1.0"
 
 ***
 
-#### 9. Kennzahlenübersicht (Kurzform)
+##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025 | 2050 | 2075 | EU-Durchschnitt 2024 (Benchmark) |
 | ------------------------------------- | ---- | ---- | ---- | ------------------------------- |
@@ -15303,13 +15826,13 @@ Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 
-#### 10. Kurzfassung: „Israel auf einen Blick“
+##### 10. Kurzfassung: „Israel auf einen Blick“
 
 Israel ist ein hochentwickelter Technologiestaat mit junger, dynamischer Bevölkerung. Trotz sicherheitspolitischer Herausforderungen bleibt die Innovationskraft hoch. Das Land verfügt über bedeutende Forschungskapazitäten und eine lebendige Kultur. Energiepolitisch hängt Israel aktuell von Importen ab, besitzt aber große Solarpotenziale. Die strategische Lage und militärische Fähigkeiten machen Israel zu einem wichtigen Partner im ERDA-Netzwerk.
 
-#### 11. Quellen & Modellierungen
+##### 11. Quellen & Modellierungen
 
-##### 11.1 ℹ️ Allgemeines
+###### 11.1 ℹ️ Allgemeines
 
 * Statistik: World Bank (Bevölkerung, BIP, Urbanisierung, Lebenserwartung)
 * Modellannahmen zur Wirtschaftsentwicklung: OECD Economic Outlook 2023 (hypothetisch: ERDA Scenario Modeling Report 2025)
@@ -15318,7 +15841,7 @@ Israel ist ein hochentwickelter Technologiestaat mit junger, dynamischer Bevölk
 * Demokratie & Rechtsstaatlichkeit: Freedom House 2024, World Justice Project 2023
 * Nachhaltigkeits- und Ressourcenindikatoren: OECD Environment Data 2023
 
-##### 11.2 📎 Verwendete Quellen & Verweise
+###### 11.2 📎 Verwendete Quellen & Verweise
 
 1. World Bank. 2025. "GDP (current US$) - Israel". [https://api.worldbank.org/v2/country/ISR/indicator/NY.GDP.MKTP.CD](https://api.worldbank.org/v2/country/ISR/indicator/NY.GDP.MKTP.CD) (Letzter Zugriff am 2025-06-11).
 2. World Bank. 2025. "Population, total - Israel". [https://api.worldbank.org/v2/country/ISR/indicator/SP.POP.TOTL](https://api.worldbank.org/v2/country/ISR/indicator/SP.POP.TOTL) (Letzter Zugriff am 2025-06-11).
@@ -15327,7 +15850,7 @@ Israel ist ein hochentwickelter Technologiestaat mit junger, dynamischer Bevölk
 5. Freedom House. 2024. "Freedom in the World 2024: Israel". [https://freedomhouse.org](https://freedomhouse.org) (Letzter Zugriff am 2025-06-11).
 6. International Energy Agency. 2024. "Israel energy profile". [https://www.iea.org/countries/israel](https://www.iea.org/countries/israel) (Letzter Zugriff am 2025-06-11).
 
-##### 11.3 🛠️ Modellierungen & Annahmen
+###### 11.3 🛠️ Modellierungen & Annahmen
 * Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
 * Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
@@ -15340,15 +15863,14 @@ Israel ist ein hochentwickelter Technologiestaat mit junger, dynamischer Bevölk
 
 ***
 
-#### 12. 🤝 Mitwirkung willkommen
+##### 12. 🤝 Mitwirkung willkommen
 
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen des Staates Israel sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
-##### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: ERDA Buch Redaktion (siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon)).
-Kontakt: siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon).
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
-Letzte Änderung: 2025-06-11
+###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 
 
 \newpage
@@ -15364,11 +15886,12 @@ version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-md-staatenprofil-moldau"></a>
 
-## MD - Staatenprofil Moldau
 
-### 🇲🇩 ERDA-Staatenprofil: Moldau
+### MD - Staatenprofil Moldau
 
-#### 1. Überblick (Meta)
+#### 🇲🇩 ERDA-Staatenprofil: Moldau
+
+##### 1. Überblick (Meta)
 
 * 🏳️ Offizieller Name: Republik Moldau
 * 📍 Geografische Lage: Osteuropa zwischen Rumänien und der Ukraine, Zugang zur Donau bei Giurgiulești
@@ -15379,7 +15902,7 @@ version: "1.0"
 
 ***
 
-#### 2. Demografie & Gesellschaft
+##### 2. Demografie & Gesellschaft
 
 * Bevölkerung Prognose (2050/2075): 2,2 Mio. / 1,9 Mio. (UN WPP, hypothetisch: ERDA Scenario Modeling Report 2025)
 * Altersstruktur (Medianalter, Jugendanteil %, Altenquotient): ca. 38 Jahre, 20 % unter 15, 15 % über 65[2]
@@ -15391,7 +15914,7 @@ version: "1.0"
 
 ***
 
-#### 3. Wirtschaft & Innovation
+##### 3. Wirtschaft & Innovation
 
 * Bruttoinlandsprodukt (BIP real, 2023 / 2050 / 2075 in Mrd. EUR): ca. 15 / 25 (hypothetisch: ERDA Scenario Modeling Report 2025) / 35 (hypothetisch: ERDA Scenario Modeling Report 2025)[5]
 * BIP pro Kopf (EUR): ca. 6 200 (2023)[6]
@@ -15403,7 +15926,7 @@ version: "1.0"
 * Mitglied im Democracy Trade Network [Ja | Nein]: Nein
 * Nutzung von EHAM+ (Handelsabwehr) [0–10]: 2 (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-##### 3.1 Infrastrukturautarkie
+###### 3.1 Infrastrukturautarkie
 
 * Produktionssouveränität in strategischen Sektoren:
   * Energie [☐]
@@ -15414,9 +15937,9 @@ version: "1.0"
   * Quantentechnologie [☐]
   * Autonome Logistiksysteme [☐]
 
-#### 4. Ressourcenprofil
+##### 4. Ressourcenprofil
 
-##### Natürliche Ressourcen
+###### Natürliche Ressourcen
 
 * Landfläche (km²): 33 846[8]
 * Strategische Rohstoffe: fruchtbare Böden, geringe Erdgas- und Steinressourcen
@@ -15424,13 +15947,13 @@ version: "1.0"
 * Anteil Biodiversität & Schutzgebiete (% der Fläche): ca. 6 %
 * Nachhaltigkeitskennzahlen: CO$_2$-Ausstoß pro Kopf 3 t (2022)[9], Recyclingquote gering (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-##### Soziale Ressourcen
+###### Soziale Ressourcen
 
 * Ehrenamt & Gemeinschaftskultur (Index [0–10]): 5 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * CIVITAS-Partizipationsindex [0–10]: 4 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Gesundheitssystem (Zugänglichkeit [0–10], Prävention [0–10]): 6 / 5 (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-##### Politische Ressourcen
+###### Politische Ressourcen
 
 * Verfassungsbindung [Ja | Nein]: Ja
 * Direkte Demokratieinstrumente [Vorhanden | Teilweise | Nicht vorhanden]: Teilweise
@@ -15439,7 +15962,7 @@ version: "1.0"
 * Rechtstaatlichkeitsindex [0–10]: 5 (World Justice Project 2023)[11]
 * Internationale Vertrauenswerte [0–10]: 5 (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-#### 5. Sicherheit & Strategische Rolle (EDA)
+##### 5. Sicherheit & Strategische Rolle (EDA)
 
 * Militärisches Potenzial:
   * DSN-geeignet [☐]
@@ -15451,14 +15974,14 @@ version: "1.0"
 * Zivile Resilienzprogramme [Vorhanden | Teilweise | Nicht vorhanden]: Teilweise
 * Drohnen-/Raumfahrt-/KI-Kapazitäten [Vorhanden | Teilweise | Nicht vorhanden]: Nicht vorhanden
 
-##### 5.1 Arktisstrategie & Planetare Verantwortung (optional für Arktis-Staaten)
+###### 5.1 Arktisstrategie & Planetare Verantwortung (optional für Arktis-Staaten)
 
 * Integration in EDA-DSN Nordmeer [Ja | Nein]: Nein
 * Beteiligung am Arctic Resilience Observatory [Ja | Nein]: Nein
 * Umsetzung Arctic Democracy Mining Act [Ja | Nein]: Nein
 * Partnerschaften mit indigenen Gemeinschaften [Ja | Nein]: Nein
 
-#### 6. Kulturelle Identität & Soft Power
+##### 6. Kulturelle Identität & Soft Power
 
 * Sprachen / Indigene Kulturen: Rumänisch (Amtssprache), Russisch weit verbreitet, Gagausisch und Ukrainisch als Minderheitensprachen
 * UNESCO-Welterbe / Kulturstätten (Anzahl): 1 (Struve-Bogen, gemeinsames Welterbe)
@@ -15466,22 +15989,22 @@ version: "1.0"
 * Internationale Sichtbarkeit (Olympische Spiele, Nobelpreise, etc.): gering
 * Rolle der Kultur als Vermittlungsfaktor in Demokratienetzwerken [0–10]: 4 (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-#### 7. Entwicklungspfad (2025–2075)
+##### 7. Entwicklungspfad (2025–2075)
 
-##### Szenario-Entwicklung
+###### Szenario-Entwicklung
 
 * Status 2025: EU-Kandidatenstatus und Reformkurs, wirtschaftliche Abhängigkeit von Landwirtschaft und Remissen
 * Best Case 2050/2075: Modernisierte Wirtschaft mit starkem IT- und Energiesektor, stabile Demokratie (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Base Case 2050/2075: Allmähliche Annäherung an EU-Standards, moderate Abwanderung (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Worst Case 2050/2075: Stagnation und anhaltende Abwanderung, Reformstau (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-##### Rolle in der ERDA-Vision 2075
+###### Rolle in der ERDA-Vision 2075
 
 * Beitrag zur Post-Knappheitsökonomischen Ordnung: Stärkung regionaler Versorgungsketten
 * Demokratische Resilienz (sozial, kulturell, ökologisch): Aufbau partizipativer Instrumente und nachhaltiger Landwirtschaft
 * Exemplarische Wirkung auf andere Staaten / Regionen: Vorbild für erfolgreiche Transformation kleiner Agrarländer
 
-#### 8. Narrative & Anwerbewirkung
+##### 8. Narrative & Anwerbewirkung
 
 * Kernbotschaft: „Moldau zeigt, dass der Weg von der Landwirtschaftsnation zum vernetzten EU-Partner möglich ist.“
 * Beispiele für starke, wirkungsvolle Narrative und Einladungen: Zusammenarbeit in nachhaltiger Landwirtschaft und Digitalisierung
@@ -15489,7 +16012,7 @@ version: "1.0"
 * Zukunftswürde: Stolz auf kulturelles Erbe und europäische Perspektive
 * Einladung an andere Staaten & Bürger:innen: Austauschprogramme und Kooperationsprojekte
 
-#### 9. Kennzahlenübersicht (Kurzform)
+##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator | 2025 | 2050 | 2075 | EU-Durchschnitt 2024 (Benchmark) |
 | --- | --- | --- | --- | --- |
@@ -15502,19 +16025,19 @@ version: "1.0"
 | Zivilgesellschaftlicher Index [0–10] | 5 | 6 (p) | 7 (p) | 7 |
 Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-#### 10. Kurzfassung: „Moldau auf einen Blick“
+##### 10. Kurzfassung: „Moldau auf einen Blick“
 
 Moldau befindet sich in einem tiefgreifenden Transformationsprozess. Als EU-Beitrittskandidat und Partner im ERDA-Netzwerk nutzt das Land seine landwirtschaftliche Stärke und ein wachsendes IT-Potenzial, um Wohlstand und Demokratie auszubauen. Herausforderungen wie Abwanderung und begrenzte Ressourcen bleiben, doch engagierte Reformen und europäische Kooperationen bieten bis 2075 eine nachhaltige Perspektive.
 
-#### 11. Quellen & Modellierungen
+##### 11. Quellen & Modellierungen
 
-##### 11.1 ℹ️ Allgemeines
+###### 11.1 ℹ️ Allgemeines
 
 * Statistik: Kombination aus World Bank Daten und nationalen Angaben, Basisjahr 2023
 * Modelle: BIP-Prognosen und Bevölkerungsentwicklung nach UN und World Bank (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Energie- und Infrastrukturdaten laut nationalen Strategiepapiere (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-##### 11.2 📎 Verwendete Quellen & Verweise
+###### 11.2 📎 Verwendete Quellen & Verweise
 
 1. World Bank. 2025. "World Development Indicators". [online] verfügbar unter: <https://databank.worldbank.org/source/world-development-indicators> (Zugriff 2025‑06‑10).
 2. United Nations Department of Economic and Social Affairs. 2024. "World Population Prospects". [online] verfügbar unter: <https://population.un.org/wpp/> (Zugriff 2025‑06‑10).
@@ -15536,7 +16059,7 @@ Moldau befindet sich in einem tiefgreifenden Transformationsprozess. Als EU-Beit
 [11]: World Justice Project, Rule of Law Index 2023
 [12]: SIPRI, Military Expenditure Database 2023
 
-##### 11.3 🛠️ Modellierungen & Annahmen
+###### 11.3 🛠️ Modellierungen & Annahmen
 * Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
 * Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
@@ -15547,15 +16070,14 @@ Moldau befindet sich in einem tiefgreifenden Transformationsprozess. Als EU-Beit
 
 ***
 
-#### 12. 🤝 Mitwirkung willkommen
+##### 12. 🤝 Mitwirkung willkommen
 
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Moldau sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
-##### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: ERDA Buch Redaktion (siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon)).
-Kontakt: siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon).
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
-Letzte Änderung: 2025-06-10
+###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 
 
 
@@ -15572,11 +16094,12 @@ version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-me-staatenprofil-montenegro"></a>
 
-## ME - Staatenprofil Montenegro
 
-### 🇲🇪 ERDA-Staatenprofil: Montenegro
+### ME - Staatenprofil Montenegro
 
-#### 1. Überblick (Meta)
+#### 🇲🇪 ERDA-Staatenprofil: Montenegro
+
+##### 1. Überblick (Meta)
 
 * 🏳️ Offizieller Name: Montenegro (Crna Gora)
 * 🗺️ Geografische Lage: Südosteuropa, Westbalkan; grenzt an Kroatien, Bosnien-Herzegowina, Serbien, Kosovo und Albanien; Adriaküste
@@ -15587,7 +16110,7 @@ version: "1.0"
 
 ***
 
-#### 2. Demografie & Gesellschaft
+##### 2. Demografie & Gesellschaft
 
 * Bevölkerung (2050/2075-Prognose): 0,59 Mio. / 0,57 Mio. (UN WPP 2022, hypothetisch: ERDA Scenario Modeling Report 2025)
 * Altersstruktur (Medianalter, Jugendanteil, Altenquotient): 39 Jahre, 19 %, 32 %
@@ -15599,7 +16122,7 @@ version: "1.0"
 
 ***
 
-#### 3. Wirtschaft & Innovation
+##### 3. Wirtschaft & Innovation
 
 * Bruttoinlandsprodukt (BIP, real, heute / 2050 / 2075): 7,5 Mrd. USD[4] / 11 Mrd. USD (p) / 15 Mrd. USD (p)
 * BIP pro Kopf: 12.200 USD[5]
@@ -15611,7 +16134,7 @@ version: "1.0"
 * Mitglied im Democracy Trade Network: Nein
 * Nutzung von EHAM+ (0–10): 3
 
-##### 3.1 Infrastrukturautarkie
+###### 3.1 Infrastrukturautarkie
 
 * Energie ☑, IT/Cloud ☐, Verteidigung ☐, Ernährung ☑
 * Satellitenkommunikation (IRIS²) ☐
@@ -15620,22 +16143,22 @@ version: "1.0"
 
 ***
 
-#### 4. Ressourcenprofil
+##### 4. Ressourcenprofil
 
-##### 🌱 Natürliche Ressourcen
+###### 🌱 Natürliche Ressourcen
 
 * Landfläche: 13.812 km²[6]
 * Strategische Rohstoffe: Bauxit, Wasser, Holz
 * Erneuerbare Energiepotenziale: Wasserkraft (hoch), Solar (mittel), Wind (ausbaufähig)
 * Biodiversität & Schutzgebiete: 7 % der Fläche (UNEP, hypothetisch: ERDA Scenario Modeling Report 2025)
 
-##### 🧑‍🤝‍🧑 Soziale Ressourcen
+###### 🧑‍🤝‍🧑 Soziale Ressourcen
 
 * Ehrenamt & Gemeinschaftskultur: stark in Kommunen verankert
 * CIVITAS-Partizipationsindex: 5 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Gesundheitssystem (Zugänglichkeit, Prävention): solide Basis
 
-##### 🛡️ Politische Ressourcen
+###### 🛡️ Politische Ressourcen
 
 * Verfassungsbindung: Ja
 * Direkte Demokratieinstrumente: begrenzt vorhanden
@@ -15646,7 +16169,7 @@ version: "1.0"
 
 ***
 
-#### 5. Sicherheit & strategische Rolle (EDA)
+##### 5. Sicherheit & strategische Rolle (EDA)
 
 * Militärisches Potenzial:
   * ☐ DSN-geeignet
@@ -15658,7 +16181,7 @@ version: "1.0"
 * Zivile Resilienzprogramme: im Aufbau
 * Drohnen-, Raumfahrt-, KI-Kapazitäten: gering
 
-##### 5.1 Arktisstrategie & Planetare Verantwortung
+###### 5.1 Arktisstrategie & Planetare Verantwortung
 
 * Integration in EDA-DSN Nordmeer: Nein
 * Beteiligung am Arctic Resilience Observatory: Nein
@@ -15667,7 +16190,7 @@ version: "1.0"
 
 ***
 
-#### 6. Kulturelle Identität & Soft Power
+##### 6. Kulturelle Identität & Soft Power
 
 * Sprachen / indigene Kulturen: Montenegrinisch, Serbisch, Bosnisch, Albanisch
 * UNESCO-Welterbe / Kulturstätten: Natur- und Kulturerbe von Kotor
@@ -15677,16 +16200,16 @@ version: "1.0"
 
 ***
 
-#### 7. Entwicklungspfad (2025–2075)
+##### 7. Entwicklungspfad (2025–2075)
 
-##### 🔭 Szenario-Entwicklung
+###### 🔭 Szenario-Entwicklung
 
 * Status 2025: Solide demokratische Institutionen, wachsende Tourismuswirtschaft
 * Best Case 2050/2075: Voll integrierter EU-Mitgliedstaat mit nachhaltiger Energie und digitaler Verwaltung (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Base Case 2050/2075: Stetiges Wachstum, stabile Demokratie, Tourismus bleibt tragende Säule (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Worst Case 2050/2075: Politische Instabilität hemmt Investitionen (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-##### 🚀 Rolle in der ERDA-Vision 2075
+###### 🚀 Rolle in der ERDA-Vision 2075
 
 * Beitrag zur Post-Knappheitsökonomischen Ordnung: begrenzt, regionale Energievernetzung
 * Demokratische Resilienz: moderat steigend
@@ -15694,7 +16217,7 @@ version: "1.0"
 
 ***
 
-#### 8. Narrative & Anwerbewirkung
+##### 8. Narrative & Anwerbewirkung
 
 > _„Montenegro zeigt, wie ein kleiner Adriastaat seine natürlichen Schätze nachhaltig nutzen kann.“_
 
@@ -15704,7 +16227,7 @@ version: "1.0"
 
 ***
 
-#### 9. Kennzahlenübersicht (Kurzform)
+##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025 | 2050 (p) | 2075 (p) | EU-Durchschnitt 2024 |
 | ------------------------------------- | ---- | -------- | -------- | ------------------- |
@@ -15720,15 +16243,15 @@ Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 
-#### 10. Kurzfassung: „Montenegro auf einen Blick“
+##### 10. Kurzfassung: „Montenegro auf einen Blick“
 
 Montenegro kombiniert beeindruckende Naturlandschaften mit dem Bestreben, sich als nachhaltiges Tourismus- und Energiezentrum im Westbalkan zu etablieren. Trotz begrenzter Ressourcen und einer kleinen Bevölkerung setzt das Land auf EU-Integration und Stabilität.
 
 ***
 
-#### 11. Quellen & Modellierungen
+##### 11. Quellen & Modellierungen
 
-##### 11.1 ℹ️ Allgemeines
+###### 11.1 ℹ️ Allgemeines
 
 * Statistik: Mischung aus nationalen und internationalen Quellen (World Bank, UN WPP)
 * Modellannahmen zur Wirtschaftsentwicklung: moderate Wachstumsraten (hypothetisch: ERDA Scenario Modeling Report 2025)
@@ -15737,7 +16260,7 @@ Montenegro kombiniert beeindruckende Naturlandschaften mit dem Bestreben, sich a
 * Demokratie & Rechtsstaatlichkeit: Freedom House, World Justice Project
 * Nachhaltigkeits- und Ressourcenindikatoren: European Environment Agency (EEA)
 
-##### 11.2 📎 Verwendete Quellen & Verweise
+###### 11.2 📎 Verwendete Quellen & Verweise
 
 1. World Bank. 2024. „Population, total – Montenegro“. [online] verfügbar unter: [https://api.worldbank.org/v2/country/ME/indicator/SP.POP.TOTL](https://api.worldbank.org/v2/country/ME/indicator/SP.POP.TOTL) (Letzter Zugriff am 2025-06-10).
 2. World Bank. 2024. „Urban population (% of total) – Montenegro“. [online] verfügbar unter: [https://api.worldbank.org/v2/country/ME/indicator/SP.URB.TOTL.IN.ZS](https://api.worldbank.org/v2/country/ME/indicator/SP.URB.TOTL.IN.ZS) (Letzter Zugriff am 2025-06-10).
@@ -15746,7 +16269,7 @@ Montenegro kombiniert beeindruckende Naturlandschaften mit dem Bestreben, sich a
 5. World Bank. 2024. „GDP per capita (current US$) – Montenegro“. [online] verfügbar unter: [https://api.worldbank.org/v2/country/ME/indicator/NY.GDP.PCAP.CD](https://api.worldbank.org/v2/country/ME/indicator/NY.GDP.PCAP.CD) (Letzter Zugriff am 2025-06-10).
 6. Rest Countries. 2024. „Montenegro“. [online] verfügbar unter: [https://restcountries.com/v3.1/alpha/me](https://restcountries.com/v3.1/alpha/me) (Letzter Zugriff am 2025-06-10).
 
-##### 11.3 🛠️ Modellierungen & Annahmen
+###### 11.3 🛠️ Modellierungen & Annahmen
 * Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
 * Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
@@ -15758,15 +16281,14 @@ Montenegro kombiniert beeindruckende Naturlandschaften mit dem Bestreben, sich a
 
 ***
 
-#### 12. 🤝 Mitwirkung willkommen
+##### 12. 🤝 Mitwirkung willkommen
 
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen Montenegros sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
-##### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: ERDA Buch Redaktion (siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon)).
-Kontakt: siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon).
-Plattform: https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/
-Letzte Änderung: 2025-06-10
+###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 
 
 \newpage
@@ -15782,11 +16304,12 @@ version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-mk-staatenprofil-nord-mazedonien"></a>
 
-## MK - Staatenprofil Nord-Mazedonien
 
-### 🇲🇰 ERDA-Staatenprofil: Nord-Mazedonien
+### MK - Staatenprofil Nord-Mazedonien
 
-#### 1. Überblick (Meta)
+#### 🇲🇰 ERDA-Staatenprofil: Nord-Mazedonien
+
+##### 1. Überblick (Meta)
 
 * 🏳️ Offizieller Name: Republik Nord-Mazedonien
 * 🗺️ Geografische Lage (Kontinent, Region): Südosteuropa, Balkanhalbinsel
@@ -15797,7 +16320,7 @@ version: "1.0"
 
 ***
 
-#### 2. Demografie & Gesellschaft
+##### 2. Demografie & Gesellschaft
 
 * Bevölkerung Prognose (2050 / 2075): 1,7 Mio. / 1,6 Mio. (UN DESA 2022, hypothetisch: ERDA Scenario Modeling Report 2025)
 * Altersstruktur (Medianalter, Jugendanteil %, Altenquotient): 40 Jahre, 18 %, 30 % (World Bank 2023)
@@ -15809,7 +16332,7 @@ version: "1.0"
 
 ***
 
-#### 3. Wirtschaft & Innovation
+##### 3. Wirtschaft & Innovation
 
 * Bruttoinlandsprodukt (BIP real, heute / 2050 / 2075 in Mrd. EUR): 14,3 (2023) / 25 (hypothetisch: ERDA Scenario Modeling Report 2025) / 35 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * BIP pro Kopf (EUR): ca. 7 800 (World Bank 2023, umgerechnet)
@@ -15821,7 +16344,7 @@ version: "1.0"
 * Mitglied im Democracy Trade Network: Beobachter
 * Nutzung von EHAM+ (Handelsabwehr) [0–10]: 4
 
-##### 3.1 Infrastrukturautarkie
+###### 3.1 Infrastrukturautarkie
 
 * Energie ☐
 * IT/Cloud ☐
@@ -15833,9 +16356,9 @@ version: "1.0"
 
 ***
 
-#### 4. Ressourcenprofil
+##### 4. Ressourcenprofil
 
-##### Natürliche Ressourcen
+###### Natürliche Ressourcen
 
 * Landfläche (km²): 25 713 (World Bank 2023)
 * Meeresfläche (falls relevant, km²): Binnenland
@@ -15844,13 +16367,13 @@ version: "1.0"
 * Anteil Biodiversität & Schutzgebiete (% der Fläche): 12 % (UNEP 2023)
 * Nachhaltigkeitskennzahlen: CO$_2$-Ausstoß pro Kopf 4,2 t; Recyclingquote 30 % (Eurostat 2023)
 
-##### Soziale Ressourcen
+###### Soziale Ressourcen
 
 * Ehrenamt & Gemeinschaftskultur (Index [0–10]): 5 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * CIVITAS-Partizipationsindex [0–10]: 5 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Gesundheitssystem (Zugänglichkeit [0–10], Prävention [0–10]): 6 / 6
 
-##### Politische Ressourcen
+###### Politische Ressourcen
 
 * Verfassungsbindung: Ja
 * Direkte Demokratieinstrumente: Teilweise (lokale Referenden)
@@ -15861,7 +16384,7 @@ version: "1.0"
 
 ***
 
-#### 5. Sicherheit & Strategische Rolle (EDA)
+##### 5. Sicherheit & Strategische Rolle (EDA)
 
 * Militärisches Potenzial:
   * DSN-geeignet ☐
@@ -15877,7 +16400,7 @@ version: "1.0"
 
 ***
 
-#### 6. Kulturelle Identität & Soft Power
+##### 6. Kulturelle Identität & Soft Power
 
 * Sprachen / Indigene Kulturen: Mazedonisch; Minderheitensprachen Albanisch, Türkisch, Romani
 * UNESCO-Welterbe / Kulturstätten (Anzahl): 1 (Ohrid-Region)
@@ -15887,16 +16410,16 @@ version: "1.0"
 
 ***
 
-#### 7. Entwicklungspfad (2025–2075)
+##### 7. Entwicklungspfad (2025–2075)
 
-##### Szenario-Entwicklung
+###### Szenario-Entwicklung
 
 * Status 2025: EU-Beitrittsverhandlungen laufen, Wirtschaft wachstumsorientiert, Infrastrukturdefizite
 * Best Case 2075: Voll integriertes EU-/ERDA-Mitglied mit moderner Industrie und stabilem Dienstleistungssektor
 * Base Case 2075: Solide Wirtschaftsentwicklung, stabile Demokratie, regionales Logistikzentrum
 * Worst Case 2075: Anhaltende Abwanderung und politische Instabilität bremsen Fortschritt
 
-##### Rolle in der ERDA-Vision 2075
+###### Rolle in der ERDA-Vision 2075
 
 * Beitrag zur Post-Knappheitsökonomischen Ordnung: Nutzung erneuerbarer Energien und Transitlage
 * Demokratische Resilienz (sozial, kulturell, ökologisch): mittel
@@ -15904,7 +16427,7 @@ version: "1.0"
 
 ***
 
-#### 8. Narrative & Anwerbewirkung
+##### 8. Narrative & Anwerbewirkung
 
 > _"Nord-Mazedonien zeigt, dass konsequente Reformen und regionale Zusammenarbeit den Weg in eine europäische Zukunft ebnen."_
 
@@ -15914,7 +16437,7 @@ version: "1.0"
 
 ***
 
-#### 9. Kennzahlenübersicht (Kurzform)
+##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025 | 2050 | 2075 | EU-Durchschnitt 2024 (Benchmark) |
 | ------------------------------------- | ---- | ---- | ---- | ------------------------------- |
@@ -15930,13 +16453,13 @@ Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 
-#### 10. Kurzfassung: „Nord-Mazedonien auf einen Blick“
+##### 10. Kurzfassung: „Nord-Mazedonien auf einen Blick“
 
 Nord-Mazedonien ist ein kleiner Balkanstaat mit traditionsreicher Kultur und strategischer Lage. Reformen und EU-Annäherung stärken Wirtschaft und Demokratie. Herausforderungen bleiben Abwanderung und begrenzte Industrie, doch wachsendes Engagement in erneuerbaren Energien und Digitalisierung bieten Chancen.
 
-#### 11. Quellen & Modellierungen
+##### 11. Quellen & Modellierungen
 
-##### 11.1 ℹ️ Allgemeines
+###### 11.1 ℹ️ Allgemeines
 
 * Statistik: World Bank (Bevölkerung, BIP, Urbanisierung, Migration), UNDP, Eurostat (Nachhaltigkeit)
 * Modellannahmen zur Wirtschaftsentwicklung: regionale Wachstumsraten (hypothetisch: ERDA Scenario Modeling Report 2025)
@@ -15945,7 +16468,7 @@ Nord-Mazedonien ist ein kleiner Balkanstaat mit traditionsreicher Kultur und str
 * Demokratie & Rechtsstaatlichkeit: Freedom House 2024, World Justice Project
 * Nachhaltigkeits- und Ressourcenindikatoren: Eurostat 2023, UNEP
 
-##### 11.2 📎 Verwendete Quellen & Verweise
+###### 11.2 📎 Verwendete Quellen & Verweise
 
 1. World Bank. 2025. „GDP (current US$) - North Macedonia“. [https://api.worldbank.org/v2/country/MKD/indicator/NY.GDP.MKTP.CD](https://api.worldbank.org/v2/country/MKD/indicator/NY.GDP.MKTP.CD) (Letzter Zugriff am 2025-06-11).
 2. World Bank. 2025. „Population, total - North Macedonia“. [https://api.worldbank.org/v2/country/MKD/indicator/SP.POP.TOTL](https://api.worldbank.org/v2/country/MKD/indicator/SP.POP.TOTL) (Letzter Zugriff am 2025-06-11).
@@ -15955,7 +16478,7 @@ Nord-Mazedonien ist ein kleiner Balkanstaat mit traditionsreicher Kultur und str
 6. Freedom House. 2024. „Freedom in the World 2024: North Macedonia“. [https://freedomhouse.org](https://freedomhouse.org) (Letzter Zugriff am 2025-06-11).
 7. OECD. 2023. „Education at a Glance 2023“. [https://www.oecd.org/education/education-at-a-glance](https://www.oecd.org/education/education-at-a-glance) (Letzter Zugriff am 2025-06-11).
 
-##### 11.3 🛠️ Modellierungen & Annahmen
+###### 11.3 🛠️ Modellierungen & Annahmen
 * Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
 * Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
@@ -15966,15 +16489,14 @@ Nord-Mazedonien ist ein kleiner Balkanstaat mit traditionsreicher Kultur und str
 
 ***
 
-#### 12. 🤝 Mitwirkung willkommen
+##### 12. 🤝 Mitwirkung willkommen
 
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Nord-Mazedonien sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
-##### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: ERDA Buch Redaktion (siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon)).
-Kontakt: siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon).
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
-Letzte Änderung: 2025-06-11
+###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 
 
 \newpage
@@ -15990,11 +16512,12 @@ version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-mt-staatenprofil-malta"></a>
 
-## MT - Staatenprofil Malta
 
-### 🇲🇹 ERDA-Staatenprofil: Malta
+### MT - Staatenprofil Malta
 
-#### 1. Überblick (Meta)
+#### 🇲🇹 ERDA-Staatenprofil: Malta
+
+##### 1. Überblick (Meta)
 
 * 🏳️ Offizieller Name: Republik Malta
 * 🗺️ Geografische Lage (Kontinent, Region): Südeuropa, Mittelmeer, südlich von Sizilien
@@ -16005,7 +16528,7 @@ version: "1.0"
 
 ***
 
-#### 2. Demografie & Gesellschaft
+##### 2. Demografie & Gesellschaft
 
 * Bevölkerung Prognose (2050 / 2075): 0,6 Mio. / 0,58 Mio. (UN WPP 2022, hypothetisch: ERDA Scenario Modeling Report 2025)
 * Altersstruktur (Medianalter, Jugendanteil %, Altenquotient): 42 Jahre, 16 %, 33 %
@@ -16017,7 +16540,7 @@ version: "1.0"
 
 ***
 
-#### 3. Wirtschaft & Innovation
+##### 3. Wirtschaft & Innovation
 
 * Bruttoinlandsprodukt (BIP real, heute / 2050 / 2075 in Mrd. EUR): 21 / 32 / 45 (World Bank 2023, Projektion hypothetisch: ERDA Scenario Modeling Report 2025)
 * BIP pro Kopf (EUR): ca. 37.000 (World Bank 2023)
@@ -16029,7 +16552,7 @@ version: "1.0"
 * Mitglied im Democracy Trade Network [Ja | Nein]: Ja
 * Nutzung von EHAM+ (Handelsabwehr) [0–10]: 5
 
-##### 3.1 Infrastrukturautarkie
+###### 3.1 Infrastrukturautarkie
 
 * Produktionssouveränität in strategischen Sektoren:
   * Energie ☐
@@ -16042,9 +16565,9 @@ version: "1.0"
 
 ***
 
-#### 4. Ressourcenprofil
+##### 4. Ressourcenprofil
 
-##### 🌱 Natürliche Ressourcen
+###### 🌱 Natürliche Ressourcen
 
 * Landfläche (km²): 316
 * Meeresfläche (km²): ausschließliche Wirtschaftszone ca. 71.446
@@ -16053,13 +16576,13 @@ version: "1.0"
 * Anteil Biodiversität & Schutzgebiete (% der Fläche): 30 %
 * Nachhaltigkeitskennzahlen (CO$_2$-Ausstoß pro Kopf, Recyclingquote, Materialverbrauch pro Kopf): 4,6 t, 25 %, 12 t
 
-##### 🧑‍🤝‍🧑 Soziale Ressourcen
+###### 🧑‍🤝‍🧑 Soziale Ressourcen
 
 * Ehrenamt & Gemeinschaftskultur (Index [0–10]): 6
 * CIVITAS-Partizipationsindex [0–10]: 6
 * Gesundheitssystem (Zugänglichkeit [0–10], Prävention [0–10]): 8 / 7
 
-##### 🛡️ Politische Ressourcen
+###### 🛡️ Politische Ressourcen
 
 * Verfassungsbindung [Ja | Nein]: Ja
 * Direkte Demokratieinstrumente [Vorhanden | Teilweise | Nicht vorhanden]: Nicht vorhanden
@@ -16070,7 +16593,7 @@ version: "1.0"
 
 ***
 
-#### 5. Sicherheit & strategische Rolle (EDA)
+##### 5. Sicherheit & strategische Rolle (EDA)
 
 * Militärisches Potenzial:
   * DSN-geeignet ☐
@@ -16084,7 +16607,7 @@ version: "1.0"
 * Zivile Resilienzprogramme [Vorhanden | Teilweise | Nicht vorhanden]: Teilweise
 * Drohnen-/Raumfahrt-/KI-Kapazitäten [Vorhanden | Teilweise | Nicht vorhanden]: Teilweise
 
-##### 5.1 Arktisstrategie & Planetare Verantwortung (optional für Arktis-Staaten)
+###### 5.1 Arktisstrategie & Planetare Verantwortung (optional für Arktis-Staaten)
 
 * Integration in EDA-DSN Nordmeer [Ja | Nein]: Nein
 * Beteiligung am Arctic Resilience Observatory [Ja | Nein]: Nein
@@ -16093,7 +16616,7 @@ version: "1.0"
 
 ***
 
-#### 6. Kulturelle Identität & Soft Power
+##### 6. Kulturelle Identität & Soft Power
 
 * Sprachen / Indigene Kulturen: Maltesisch, Englisch
 * UNESCO-Welterbe / Kulturstätten (Anzahl): 3 Stätten (Valletta, Ħal Saflieni Hypogeum, Megalithtempel)
@@ -16103,16 +16626,16 @@ version: "1.0"
 
 ***
 
-#### 7. Entwicklungspfad (2025–2075)
+##### 7. Entwicklungspfad (2025–2075)
 
-##### 🔭 Szenario-Entwicklung
+###### 🔭 Szenario-Entwicklung
 
 * **Status 2025:** Stabile Wirtschaft mit starkem Dienstleistungssektor und wachsender Tech-Branche
 * **Best Case 2050/2075:** Führender mediterraner Digital- und Logistikknoten, hohe Lebensqualität, grüne Transformation abgeschlossen
 * **Base Case 2050/2075:** Solide Wirtschaftsentwicklung, moderate Bevölkerungszunahme
 * **Worst Case 2050/2075:** Überhitzung des Immobilien- und Tourismussektors, Ressourcenknappheit, Klimaeinflüsse
 
-##### 🚀 Rolle in der ERDA-Vision 2075
+###### 🚀 Rolle in der ERDA-Vision 2075
 
 * Beitrag zur Post-Knappheitsökonomischen Ordnung: Logistische Drehscheibe für saubere Energie und Güterströme im Mittelmeerraum
 * Demokratische Resilienz (sozial, kulturell, ökologisch): hoch
@@ -16120,7 +16643,7 @@ version: "1.0"
 
 ***
 
-#### 8. Narrative & Anwerbewirkung
+##### 8. Narrative & Anwerbewirkung
 
 > _„Malta zeigt, dass ein kleiner Inselstaat durch Vernetzung und digitale Kompetenz ein zukunftsfähiges Modell für demokratische Resilienz bieten kann.“_
 
@@ -16130,7 +16653,7 @@ version: "1.0"
 
 ***
 
-#### 9. Kennzahlenübersicht (Kurzform)
+##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025  | 2050 (p) | 2075 (p) | EU-Durchschnitt 2024 |
 | ------------------------------------- | ----- | -------- | -------- | -------------------- |
@@ -16145,13 +16668,13 @@ Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 
-#### 10. Kurzfassung: „Malta auf einen Blick“
+##### 10. Kurzfassung: „Malta auf einen Blick“
 
 Malta ist ein Inselstaat im Mittelmeer mit starker Dienstleistungs- und Logistikbranche. Die stabile Demokratie und gut ausgebaute digitale Infrastruktur machen Malta zu einem attraktiven Partner für EU- und ERDA-Initiativen. Hohe Lebensqualität und kulturelle Vielfalt tragen zum positiven Image des Landes bei.
 
-#### 11. Quellen & Modellierungen
+##### 11. Quellen & Modellierungen
 
-##### 11.1 ℹ️ Allgemeines
+###### 11.1 ℹ️ Allgemeines
 
 * Statistik: Nationale Daten (NSO Malta) und internationale Quellen (World Bank, Eurostat, UN WPP 2022); Basisjahr 2023
 * Modellannahmen zur Wirtschaftsentwicklung: durchschnittliches BIP-Wachstum 2 % p.a., Inflation 2 % p.a. (hypothetisch: ERDA Scenario Modeling Report 2025)
@@ -16159,7 +16682,7 @@ Malta ist ein Inselstaat im Mittelmeer mit starker Dienstleistungs- und Logistik
 * Innovation & Bildung: OECD Indikatoren 2023
 * Demokratie & Rechtsstaatlichkeit: Freedom House 2024
 
-##### 11.2 📎 Verwendete Quellen & Verweise
+###### 11.2 📎 Verwendete Quellen & Verweise
 
 1. World Bank. 2024. „Population, total – Malta“. [https://api.worldbank.org/v2/country/MLT/indicator/SP.POP.TOTL](https://api.worldbank.org/v2/country/MLT/indicator/SP.POP.TOTL) (Letzter Zugriff am 2025-06-11).
 2. World Bank. 2024. „GDP (current US$) – Malta“. [https://api.worldbank.org/v2/country/MLT/indicator/NY.GDP.MKTP.CD](https://api.worldbank.org/v2/country/MLT/indicator/NY.GDP.MKTP.CD) (Letzter Zugriff am 2025-06-11).
@@ -16167,7 +16690,7 @@ Malta ist ein Inselstaat im Mittelmeer mit starker Dienstleistungs- und Logistik
 4. Freedom House. 2024. „Malta: Freedom in the World 2024“. [https://freedomhouse.org/country/malta/freedom-world/2024](https://freedomhouse.org/country/malta/freedom-world/2024) (Letzter Zugriff am 2025-06-11).
 5. UN Department of Economic and Social Affairs. 2022. „World Population Prospects 2022“. (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-##### 11.3 🛠️ Modellierungen & Annahmen
+###### 11.3 🛠️ Modellierungen & Annahmen
 * Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
 * Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
@@ -16180,15 +16703,14 @@ Malta ist ein Inselstaat im Mittelmeer mit starker Dienstleistungs- und Logistik
 
 ***
 
-#### 12. 🤝 Mitwirkung willkommen
+##### 12. 🤝 Mitwirkung willkommen
 
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Malta sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
-##### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: ERDA Buch Redaktion (siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon)).
-Kontakt: siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon).
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
-Letzte Änderung: 2025-06-11
+###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 
 
 \newpage
@@ -16204,11 +16726,12 @@ version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-no-staatenprofil-norwegen"></a>
 
-## NO - Staatenprofil Norwegen
 
-### 🇳🇴 ERDA-Staatenprofil: Norwegen
+### NO - Staatenprofil Norwegen
 
-#### 1. Überblick (Meta)
+#### 🇳🇴 ERDA-Staatenprofil: Norwegen
+
+##### 1. Überblick (Meta)
 
 * 🏳️ Offizieller Name: Königreich Norwegen (Kongeriket Norge)
 * 🗺️ Geografische Lage: Nordeuropa, westliche Skandinavische Halbinsel; Grenzländer Schweden, Finnland, Russland; Küsten an Nordsee, Atlantik und Barentssee
@@ -16219,7 +16742,7 @@ version: "1.0"
 
 ***
 
-#### 2. Demografie & Gesellschaft
+##### 2. Demografie & Gesellschaft
 
 * Bevölkerungsprognose (2050 / 2075): 5,8 Mio. / 6,0 Mio. (UN DESA 2022, hypothetisch: ERDA Scenario Modeling Report 2025)
 * Altersstruktur (Medianalter, Jugendanteil %, Altenquotient): 40 Jahre, 18 %, 27 %
@@ -16231,7 +16754,7 @@ version: "1.0"
 
 ***
 
-#### 3. Wirtschaft & Innovation
+##### 3. Wirtschaft & Innovation
 
 * Bruttoinlandsprodukt (BIP real, heute / 2050 / 2075 in Mrd. EUR): 440 / 520 (hypothetisch: ERDA Scenario Modeling Report 2025) / 610 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * BIP pro Kopf (USD, 2023): 87.925 (World Bank)
@@ -16239,7 +16762,7 @@ version: "1.0"
 * Innovationsranking (Global Innovation Index 2023): Platz 19
 * Infrastrukturqualität (WEF Global Competitiveness Index 2019): Platz 20
 
-##### 3.1 Infrastrukturautarkie
+###### 3.1 Infrastrukturautarkie
 
 * Strommix 2023: > 90 % Wasserkraft, wachsender Anteil Wind offshore
 * Breitbandabdeckung: 92 % Haushalte (2024)
@@ -16247,27 +16770,27 @@ version: "1.0"
 
 ***
 
-#### 4. Ressourcenprofil
+##### 4. Ressourcenprofil
 
-##### Natürliche Ressourcen
+###### Natürliche Ressourcen
 
 * Erdöl- und Erdgasvorkommen in der Nordsee
 * Großes Potenzial für Wasserkraft und Offshore-Wind
 * Fischbestände und maritime Ressourcen
 
-##### Soziale Ressourcen
+###### Soziale Ressourcen
 
 * Hohe Bildungs- und Qualifikationsniveaus
 * Starke sozialstaatliche Absicherung
 
-##### Politische Ressourcen
+###### Politische Ressourcen
 
 * Gefestigte demokratische Institutionen
 * Aktive Beteiligung an NATO und Nordischer Kooperation
 
 ***
 
-#### 5. Sicherheit & Strategische Rolle (EDA)
+##### 5. Sicherheit & Strategische Rolle (EDA)
 
 * Nato-Mitglied seit 1949
 * Strategische Lage am Arktisrand; Zugang zu Nordmeer und Barentssee
@@ -16275,7 +16798,7 @@ version: "1.0"
 
 ***
 
-#### 6. Kulturelle Identität & Soft Power
+##### 6. Kulturelle Identität & Soft Power
 
 * Reiche Traditionen der Seefahrt und Polarerkundung
 * Internationales Ansehen durch Friedensvermittlung (z. B. Oslo-Abkommen)
@@ -16283,28 +16806,28 @@ version: "1.0"
 
 ***
 
-#### 7. Entwicklungspfad (2025–2075)
+##### 7. Entwicklungspfad (2025–2075)
 
-##### Szenario-Entwicklung
+###### Szenario-Entwicklung
 
 * Fortschreitende Diversifizierung weg von fossilen Brennstoffen (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Stärkung als Knoten für grüne Technologien und Arktisforschung
 
-##### Rolle in der ERDA-Vision 2075
+###### Rolle in der ERDA-Vision 2075
 
 * Beitrag zur Energie- und Klimasicherheit in Europa
 * Wissenszentrum für nachhaltige Offshore-Technologien und Polarwissen
 
 ***
 
-#### 8. Narrative & Anwerbewirkung
+##### 8. Narrative & Anwerbewirkung
 
 * Norwegen präsentiert sich als nachhaltiger Energieversorger und Innovationsstandort für kalte Regionen
 * Hohe Lebensqualität und soziale Sicherheit wirken anziehend auf Fachkräfte
 
 ***
 
-#### 9. Kennzahlenübersicht (Kurzform)
+##### 9. Kennzahlenübersicht (Kurzform)
 
 | Kennzahl | Wert | Quelle |
 | --- | --- | --- |
@@ -16316,13 +16839,13 @@ version: "1.0"
 
 ***
 
-#### 10. Kurzfassung: "Norwegen auf einen Blick"
+##### 10. Kurzfassung: "Norwegen auf einen Blick"
 
 Norwegen verbindet skandinavische Lebensqualität und robuste Demokratie mit einer ressourcenreichen Wirtschaft. Der konsequente Ausbau erneuerbarer Energien und die strategische Lage im Arktisraum verleihen dem Land Bedeutung für Europas nachhaltige Zukunft.
 
-#### 11. Quellen & Modellierungen
+##### 11. Quellen & Modellierungen
 
-##### 11.1 ℹ️ Allgemeines
+###### 11.1 ℹ️ Allgemeines
 
 * Statistik: World Bank (Bevölkerung, BIP pro Kopf), UN DESA (Bevölkerungsprognosen, hypothetisch: ERDA Scenario Modeling Report 2025)
 * Energiepotenziale: Internationale Energieagentur (IEA)
@@ -16332,7 +16855,7 @@ Norwegen verbindet skandinavische Lebensqualität und robuste Demokratie mit ein
 
 > Letzter Quellenzugriff: 2025-06-10
 
-##### 11.2 📎 Verwendete Quellen & Verweise
+###### 11.2 📎 Verwendete Quellen & Verweise
 
 1. _"Population, total – Norway"_ (World Bank, 2023): [https://data.worldbank.org/indicator/SP.POP.TOTL?locations=NO](https://data.worldbank.org/indicator/SP.POP.TOTL?locations=NO)
 2. _"GDP per capita (current US$) – Norway"_ (World Bank, 2023): [https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=NO](https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=NO)
@@ -16342,7 +16865,7 @@ Norwegen verbindet skandinavische Lebensqualität und robuste Demokratie mit ein
 
 > Letzter Quellenzugriff: 2025-06-10
 
-##### 11.3 🛠️ Modellierungen & Annahmen
+###### 11.3 🛠️ Modellierungen & Annahmen
 * Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
 * Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
@@ -16353,15 +16876,14 @@ Norwegen verbindet skandinavische Lebensqualität und robuste Demokratie mit ein
 
 ***
 
-#### 12. 🤝 Mitwirkung willkommen
+##### 12. 🤝 Mitwirkung willkommen
 
 Dieses Profil basiert auf öffentlich zugänglichen Daten und modellierten Annahmen. Vertreter:innen des Königreichs Norwegen und interessierte Fachstellen sind eingeladen, eigene Perspektiven und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten, demokratischen Zukunft Europas.
 
-##### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: ERDA Buch Redaktion (siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon)).
-Kontakt: siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon).
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
-Letzte Änderung: 2025-06-10
+###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 
 
 \newpage
@@ -16377,11 +16899,12 @@ version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-rs-staatenprofil-serbien"></a>
 
-## RS - Staatenprofil Serbien
 
-### 🇷🇸 ERDA-Staatenprofil: Serbien
+### RS - Staatenprofil Serbien
 
-#### 1. Überblick (Meta)
+#### 🇷🇸 ERDA-Staatenprofil: Serbien
+
+##### 1. Überblick (Meta)
 
 * 🏳️ Offizieller Name: Republik Serbien
 * 📍 Geografische Lage: Südosteuropa, zentraler Balkan, grenzt an Ungarn, Rumänien, Bulgarien, Nordmazedonien, Kosovo*, Montenegro, Bosnien und Herzegowina und Kroatien
@@ -16392,7 +16915,7 @@ version: "1.0"
 
 ***
 
-#### 2. Demografie & Gesellschaft
+##### 2. Demografie & Gesellschaft
 
 * Bevölkerung Prognose (2050/2075): ca. 6,0 Mio.[1] / 5,5 Mio. (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Altersstruktur (Medianalter, Jugendanteil %, Altenquotient): 44 Jahre, 18 %, 34[1]
@@ -16404,7 +16927,7 @@ version: "1.0"
 
 ***
 
-#### 3. Wirtschaft & Innovation
+##### 3. Wirtschaft & Innovation
 
 * Bruttoinlandsprodukt (BIP real, 2023 / 2050 / 2075 in Mrd. EUR): 75 (2023)[5] / 110 (hypothetisch: ERDA Scenario Modeling Report 2025) / 150 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * BIP pro Kopf (EUR): 11.300 (2023)[5]
@@ -16419,7 +16942,7 @@ version: "1.0"
 * Mitglied im Democracy Trade Network: Nein
 * Nutzung von EHAM+ (Handelsabwehr) [0–10]: 4 (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-##### 3.1 Infrastrukturautarkie
+###### 3.1 Infrastrukturautarkie
 
 * Energie ☑, IT/Cloud ☐, Verteidigung ☐, Ernährung ☑
 * Satellitenkommunikation (IRIS²) ☐
@@ -16428,9 +16951,9 @@ version: "1.0"
 
 ***
 
-#### 4. Ressourcenprofil
+##### 4. Ressourcenprofil
 
-##### 🌳 Natürliche Ressourcen
+###### 🌳 Natürliche Ressourcen
 
 * Landfläche (km²): 88.361[8]
 * Meeresfläche (falls relevant, km²): Binnenland
@@ -16439,13 +16962,13 @@ version: "1.0"
 * Anteil Biodiversität & Schutzgebiete (% der Fläche): 7,6 %[9]
 * Nachhaltigkeitskennzahlen (CO$_2$-Ausstoß pro Kopf, Recyclingquote, Materialverbrauch pro Kopf): 6,3 t CO$_2$ (2022)[10], 38 % Recycling (hypothetisch: ERDA Scenario Modeling Report 2025), 12 t Material (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-##### 👥 Soziale Ressourcen
+###### 👥 Soziale Ressourcen
 
 * Ehrenamt & Gemeinschaftskultur (Index [0–10]): 6 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * CIVITAS-Partizipationsindex [0–10]: 5 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Gesundheitssystem (Zugänglichkeit [0–10], Prävention [0–10]): 7, 6
 
-##### 🔪 Politische Ressourcen
+###### 🔪 Politische Ressourcen
 
 * Verfassungsbindung [Ja | Nein]: Ja
 * Direkte Demokratieinstrumente [Vorhanden | Teilweise | Nicht vorhanden]: Teilweise (lokale Referenden)
@@ -16456,7 +16979,7 @@ version: "1.0"
 
 ***
 
-#### 5. Sicherheit & Strategische Rolle (EDA)
+##### 5. Sicherheit & Strategische Rolle (EDA)
 
 * Militärisches Potenzial:
   * DSN-geeignet ☐
@@ -16470,7 +16993,7 @@ version: "1.0"
 * Zivile Resilienzprogramme [Vorhanden | Teilweise | Nicht vorhanden]: Teilweise (Katastrophenschutz)
 * Drohnen-/Raumfahrt-/KI-Kapazitäten [Vorhanden | Teilweise | Nicht vorhanden]: Teilweise
 
-##### 5.1 Arktisstrategie & Planetare Verantwortung (optional für Arktis-Staaten)
+###### 5.1 Arktisstrategie & Planetare Verantwortung (optional für Arktis-Staaten)
 
 * Integration in EDA-DSN Nordmeer [Ja | Nein]: Nein
 * Beteiligung am Arctic Resilience Observatory [Ja | Nein]: Nein
@@ -16479,7 +17002,7 @@ version: "1.0"
 
 ***
 
-#### 6. Kulturelle Identität & Soft Power
+##### 6. Kulturelle Identität & Soft Power
 
 * Sprachen / Indigene Kulturen: Serbisch (Amtssprache), Minderheitensprachen (Ungarisch, Bosnisch u. a.)
 * UNESCO-Welterbe / Kulturstätten (Anzahl): 4 Stätten[14]
@@ -16489,16 +17012,16 @@ version: "1.0"
 
 ***
 
-#### 7. Entwicklungspfad (2025–2075)
+##### 7. Entwicklungspfad (2025–2075)
 
-##### 🔬 Szenario-Entwicklung
+###### 🔬 Szenario-Entwicklung
 
 * **Status 2025:** Aufstrebende Wirtschaft, enge Beziehungen zur EU, aber nicht Mitglied, gesellschaftlicher Wandel
 * **Best Case 2050/2075:** Vollintegriertes ERDA-Mitglied mit nachhaltiger Industrie und starker regionaler Rolle
 * **Base Case 2050/2075:** Stabile Partnerschaft mit der EU, moderates Wirtschaftswachstum, fortschreitende Digitalisierung
 * **Worst Case 2050/2075:** Stagnation durch politische Instabilität und Abwanderung – vorbeugende Maßnahmen nötig
 
-##### Rolle in der ERDA-Vision 2075
+###### Rolle in der ERDA-Vision 2075
 
 * Beitrag zur Post-Knappheitsökonomischen Ordnung: Agrar- und Energieproduktion
 * Demokratische Resilienz (sozial, kulturell, ökologisch): mittel bis steigend
@@ -16506,7 +17029,7 @@ version: "1.0"
 
 ***
 
-#### 8. Narrative & Anwerbewirkung
+##### 8. Narrative & Anwerbewirkung
 
 > _"Serbien zeigt, dass ein Staat auf dem Weg zur europäischen Integration seine eigene kulturelle Identität bewahren und dennoch offen für Kooperation und Innovation sein kann."_
 
@@ -16516,7 +17039,7 @@ version: "1.0"
 
 ***
 
-#### 9. Kennzahlenübersicht (Kurzform)
+##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025 | 2050 | 2075 | EU-Durchschnitt 2024 |
 | ------------------------------------- | ---- | ---- | ---- | -------------------- |
@@ -16532,13 +17055,13 @@ version: "1.0"
 
 ***
 
-#### 10. Kurzfassung: "Serbien auf einen Blick"
+##### 10. Kurzfassung: "Serbien auf einen Blick"
 
 Serbien ist ein dynamisches Land im Herzen des Balkans mit wachsenden europäischen Bindungen. Das Potenzial für erneuerbare Energien und die strategische Lage machen es zu einem wichtigen Partner für die EU und die ERDA. Gleichzeitig steht das Land vor Herausforderungen wie demografischem Rückgang und wirtschaftlicher Transformation. Mutige Reformen und offene Zusammenarbeit können Serbien bis 2075 zu einem stabilen Pfeiler im demokratischen Europa machen.
 
-#### 11. Quellen & Modellierungen
+##### 11. Quellen & Modellierungen
 
-##### 11.1 ℹ️ Allgemeines
+###### 11.1 ℹ️ Allgemeines
 
 * Statistik: Kombination nationaler und internationaler Daten, Basisjahr 2023
 * Modellannahmen zur Wirtschaftsentwicklung: Wachstumsraten 2,5 % p.a. (hypothetisch: ERDA Scenario Modeling Report 2025)
@@ -16547,7 +17070,7 @@ Serbien ist ein dynamisches Land im Herzen des Balkans mit wachsenden europäisc
 * Demokratie & Rechtsstaatlichkeit: Freedom House 2024
 * Nachhaltigkeits- und Ressourcenindikatoren: EEA, UN SDG Database
 
-##### 11.2 💎 Verwendete Quellen & Verweise
+###### 11.2 💎 Verwendete Quellen & Verweise
 
 1. World Bank. 2024. "World Development Indicators". [online] verfügbar unter: <https://databank.worldbank.org/source/world-development-indicators> (Zugriff 2025-06-09).
 2. United Nations. 2022. "World Population Prospects". [online] verfügbar unter: <https://population.un.org/wpp/> (Zugriff 2025-06-09).
@@ -16565,7 +17088,7 @@ Serbien ist ein dynamisches Land im Herzen des Balkans mit wachsenden europäisc
 14. UNESCO. 2024. "World Heritage List". [online] verfügbar unter: <https://whc.unesco.org> (Zugriff 2025-06-09).
 15. International Energy Agency. 2024. "Serbia Energy Profile". [online] verfügbar unter: <https://www.iea.org> (Zugriff 2025-06-09).
 
-##### 11.3 🔧 Modellierungen & Annahmen
+###### 11.3 🔧 Modellierungen & Annahmen
 * Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
 * Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
@@ -16578,14 +17101,13 @@ Serbien ist ein dynamisches Land im Herzen des Balkans mit wachsenden europäisc
 
 ***
 
-#### 12. 🤝 Mitwirkung willkommen
+##### 12. 🤝 Mitwirkung willkommen
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Serbien sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
-##### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: ERDA Buch Redaktion (siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon)).
-Kontakt: siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon).
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
-Letzte Änderung: 2025-06-10
+###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 
 \* Status von Kosovo umstritten; Serbien erkennt Kosovo nicht als eigenständigen Staat an.
 
@@ -16603,11 +17125,12 @@ version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-tr-staatenprofil-tuerkei"></a>
 
-## TR - Staatenprofil Türkei
 
-### 🇹🇷 ERDA-Staatenprofil: Türkei
+### TR - Staatenprofil Türkei
 
-#### 1. Überblick (Meta)
+#### 🇹🇷 ERDA-Staatenprofil: Türkei
+
+##### 1. Überblick (Meta)
 
 * 🏳️ Offizieller Name: Republik Türkei (Türkiye Cumhuriyeti)
 * 🗺️ Geografische Lage: Anatolien in Westasien mit Ostthrakien in Südosteuropa, Grenzländer u.a. Griechenland, Bulgarien, Syrien, Iran
@@ -16618,7 +17141,7 @@ version: "1.0"
 
 ***
 
-#### 2. Demografie & Gesellschaft
+##### 2. Demografie & Gesellschaft
 
 * Bevölkerungsprognose (2050 / 2075): 95 Mio. / 100 Mio. (UN DESA World Population Prospects 2022, hypothetisch: ERDA Scenario Modeling Report 2025)
 * Altersstruktur (Medianalter, Jugendanteil %, Altenquotient): 33 Jahre, 22 %, 15 %
@@ -16630,7 +17153,7 @@ version: "1.0"
 
 ***
 
-#### 3. Wirtschaft & Innovation
+##### 3. Wirtschaft & Innovation
 
 * Bruttoinlandsprodukt (BIP, real, heute / 2050 / 2075): 1,1 Bio. US$ (2023), 1,7 Bio. US$ / 2,2 Bio. US$ (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Wachstumsschwerpunkte (Branchen / Clusters): Automobil, Maschinenbau, Textil, Tourismus, Erneuerbare Energien
@@ -16642,7 +17165,7 @@ version: "1.0"
 
 ***
 
-##### 3.1 Infrastrukturautarkie
+###### 3.1 Infrastrukturautarkie
 
 * Energie ☑
 * IT/Cloud ☑
@@ -16654,7 +17177,7 @@ version: "1.0"
 
 ***
 
-#### 4. Politik & Institutionen
+##### 4. Politik & Institutionen
 
 * Demokratieindex (Freedom House Score): 32/100 (Freedom House 2024)
 * Regierungsführung & Staatsaufbau: Präsidentielles Regierungssystem, zentralisierte Verwaltung
@@ -16663,7 +17186,7 @@ version: "1.0"
 
 ***
 
-#### 5. Wirtschaftliche Leistungsfähigkeit & Infrastruktur
+##### 5. Wirtschaftliche Leistungsfähigkeit & Infrastruktur
 
 * Verkehrsinfrastruktur (Straßen, Schiene, Häfen, Flughäfen): umfangreiches Netz mit zentraler Lage für Handelsrouten
 * Energieversorgung (Elektrizitätsmix, Importabhängigkeit): 37 % Erdgas, 32 % Kohle, 21 % erneuerbar (IEA 2024)
@@ -16672,7 +17195,7 @@ version: "1.0"
 
 ***
 
-#### 6. Bildung & Soziales
+##### 6. Bildung & Soziales
 
 * Bildungssystem (Struktur, Schulpflicht, Hochschulen): 12-jährige Schulpflicht, zahlreiche Universitäten (u.a. Istanbul University, Middle East Technical University)
 * Fachkräftesituation (Arbeitskräftemangel oder -überschuss): hohes Arbeitskräftepotenzial, regionale Unterschiede
@@ -16681,7 +17204,7 @@ version: "1.0"
 
 ***
 
-#### 7. Ressourcen & Umwelt
+##### 7. Ressourcen & Umwelt
 
 * Natürliche Ressourcen (Energie, Rohstoffe): Wasserkraft, Kohle, begrenzte Ölvorkommen
 * Energie- und Klimapolitik: Ausbau erneuerbarer Energien, Pariser Abkommen ratifiziert
@@ -16690,7 +17213,7 @@ version: "1.0"
 
 ***
 
-#### 8. Sicherheit & Verteidigung
+##### 8. Sicherheit & Verteidigung
 
 * Militärausgaben (% des BIP): 2,1 % (SIPRI 2024)
 * Nationale Verteidigungsstrategie: NATO-Mitglied, regionale Sicherheitsrolle
@@ -16699,7 +17222,7 @@ version: "1.0"
 
 ***
 
-#### 9. Internationale Zusammenarbeit & Handel
+##### 9. Internationale Zusammenarbeit & Handel
 
 * Wichtigste Handelspartner: EU, Russland, USA, China
 * Mitgliedschaften in internationalen Organisationen: NATO, WTO, G20, Europarat, OECD
@@ -16708,15 +17231,15 @@ version: "1.0"
 
 ***
 
-#### 10. Kurzfassung: "Türkei auf einen Blick"
+##### 10. Kurzfassung: "Türkei auf einen Blick"
 
 Türkei ist ein transkontinentaler Staat mit wachsender Bevölkerung, starker Wirtschaftsdynamik und bedeutender geostrategischer Lage. Die politischen Spannungen und der Reformbedarf im Bereich Demokratie bleiben Herausforderungen für die Integration in europäische Strukturen.
 
 ***
 
-#### 11. Quellen & Modellierungen
+##### 11. Quellen & Modellierungen
 
-##### 11.1 ℹ️ Allgemeines
+###### 11.1 ℹ️ Allgemeines
 
 * Statistik: World Bank (Bevölkerung, BIP, Urbanisierung), IEA (Energie), SIPRI (Militärausgaben)
 * Modellannahmen zur Wirtschaftsentwicklung: ERDA Policy-Lab (hypothetisch: ERDA Scenario Modeling Report 2025)
@@ -16725,7 +17248,7 @@ Türkei ist ein transkontinentaler Staat mit wachsender Bevölkerung, starker Wi
 * Demokratie & Rechtsstaatlichkeit: Freedom House 2024, Reporter ohne Grenzen
 * Nachhaltigkeits- und Ressourcenindikatoren: UN SDG Database, World Bank
 
-##### 11.2 📎 Verwendete Quellen & Verweise
+###### 11.2 📎 Verwendete Quellen & Verweise
 
 1. World Bank. 2025. "Population, total - Turkiye". [https://api.worldbank.org/v2/country/TUR/indicator/SP.POP.TOTL](https://api.worldbank.org/v2/country/TUR/indicator/SP.POP.TOTL) (Letzter Zugriff am 2025-06-11).
 2. World Bank. 2025. "GDP (current US$) - Turkiye". [https://api.worldbank.org/v2/country/TUR/indicator/NY.GDP.MKTP.CD](https://api.worldbank.org/v2/country/TUR/indicator/NY.GDP.MKTP.CD) (Letzter Zugriff am 2025-06-11).
@@ -16734,7 +17257,7 @@ Türkei ist ein transkontinentaler Staat mit wachsender Bevölkerung, starker Wi
 5. SIPRI. 2024. "Military Expenditure Database". [https://sipri.org](https://sipri.org) (Letzter Zugriff am 2025-06-11).
 6. IEA. 2024. "Turkey Energy Profile". [https://www.iea.org](https://www.iea.org) (Letzter Zugriff am 2025-06-11).
 
-##### 11.3 🔧 Modellierungen & Annahmen
+###### 11.3 🔧 Modellierungen & Annahmen
 * Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
 * Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
@@ -16745,15 +17268,14 @@ Türkei ist ein transkontinentaler Staat mit wachsender Bevölkerung, starker Wi
 
 ***
 
-#### 12. 🤝 Mitwirkung willkommen
+##### 12. 🤝 Mitwirkung willkommen
 
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Türkei sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
-##### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: ERDA Buch Redaktion (siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon)).
-Kontakt: siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon).
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
-Letzte Änderung: 2025-06-11
+###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 
 
 \newpage
@@ -16769,11 +17291,12 @@ version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-ua-staatenprofil-ukraine"></a>
 
-## UA - Staatenprofil Ukraine
 
-### 🇺🇦 ERDA-Staatenprofil: Ukraine
+### UA - Staatenprofil Ukraine
 
-#### 1. Überblick (Meta)
+#### 🇺🇦 ERDA-Staatenprofil: Ukraine
+
+##### 1. Überblick (Meta)
 
 * 🏳️ **Offizieller Name:** Ukraine
 * 🗺️ **Geografische Lage:** Osteuropa; Nachbarn: Polen, Slowakei, Ungarn, Rumänien, Moldau, Belarus, Russland
@@ -16784,7 +17307,7 @@ version: "1.0"
 
 ***
 
-#### 2. Demografie & Gesellschaft
+##### 2. Demografie & Gesellschaft
 
 * **Bevölkerung (2050/2075-Prognose):** 45 Mio. / 48 Mio.
 * **Altersstruktur:** Medianalter 42 J.; Jugendanteil 16 %; Altenquotient 22 %
@@ -16796,7 +17319,7 @@ version: "1.0"
 
 ***
 
-#### 3. Wirtschaft & Innovation
+##### 3. Wirtschaft & Innovation
 
 * **BIP (Mrd. EUR):**
   * 2025: 200
@@ -16811,7 +17334,7 @@ version: "1.0"
 * **Mitglied im Democracy Trade Network:** Ja
 * **Nutzung von EHAM+:** 8/10
 
-##### **3.1 Infrastrukturautarkie**
+###### **3.1 Infrastrukturautarkie**
 
 * Energie ☑
 * IT/Cloud ☐
@@ -16823,9 +17346,9 @@ version: "1.0"
 
 ***
 
-#### 4. Ressourcenprofil
+##### 4. Ressourcenprofil
 
-##### **🌱 Natürliche Ressourcen**
+###### **🌱 Natürliche Ressourcen**
 
 * Landfläche: 603 700 km²
 * Meeresfläche: ca. 130 000 km² (Schwarzes & Asowsches Meer)
@@ -16833,13 +17356,13 @@ version: "1.0"
 * Erneuerbare Energiepotenziale: starker Wind- und Solarstrom, Biomasse
 * Biodiversität & Schutzgebiete: ca. 15 % der Fläche
 
-##### **🧑‍🤝‍🧑 Soziale Ressourcen**
+###### **🧑‍🤝‍🧑 Soziale Ressourcen**
 
 * Ehrenamt & Gemeinschaftskultur: 7/10
 * CIVITAS-Partizipationsindex: 6,5/10
 * Gesundheitssystem: Zugang 6/10 | Prävention 5/10
 
-##### **🛡️ Politische Ressourcen**
+###### **🛡️ Politische Ressourcen**
 
 * Verfassungsbindung: Ja
 * Direkte Demokratieinstrumente: Teilweise (lokale Referenden)
@@ -16850,7 +17373,7 @@ version: "1.0"
 
 ***
 
-#### 5. Sicherheit & Strategische Rolle (EDA)
+##### 5. Sicherheit & Strategische Rolle (EDA)
 
 * **Militärisches Potenzial:**
   * DSN-geeignet ☑
@@ -16864,7 +17387,7 @@ version: "1.0"
 * **Zivile Resilienzprogramme:** Vorhanden (u. a. Territorialverteidigung)
 * **Drohnen-/Raumfahrt-/KI-Kapazitäten:** Teilweise vorhanden
 
-##### **5.1 Arktisstrategie & Planetare Verantwortung**
+###### **5.1 Arktisstrategie & Planetare Verantwortung**
 
 * Integration in EDA-DSN Nordmeer: Nein
 * Beteiligung am Arctic Resilience Observatory: Nein
@@ -16873,7 +17396,7 @@ version: "1.0"
 
 ***
 
-#### 6. Kulturelle Identität & Soft Power
+##### 6. Kulturelle Identität & Soft Power
 
 * **Sprachen / Indigene Kulturen:** Ukrainisch; Minderheitensprachen: Russisch, Krimtatarisch
 * **UNESCO-Welterbe / Kulturstätten:** 8 Stätten
@@ -16883,7 +17406,7 @@ version: "1.0"
 
 ***
 
-#### 7. Entwicklungspfad (2025–2075)
+##### 7. Entwicklungspfad (2025–2075)
 
 **Szenario-Entwicklung**
 
@@ -16902,7 +17425,7 @@ _„Die Ukraine ist 2075 ein resilientes Demokratievorbild und Ost-West-Drehsche
 
 ***
 
-#### 8. Narrative & Anwerbewirkung
+##### 8. Narrative & Anwerbewirkung
 
 _„Die Ukraine zeigt, wie Entschlossenheit und internationale Solidarität eine offene Demokratie stärken können.“_
 
@@ -16912,7 +17435,7 @@ _„Die Ukraine zeigt, wie Entschlossenheit und internationale Solidarität eine
 
 ***
 
-#### 9. Kennzahlenübersicht (Kurzform)
+##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025 | 2050 | 2075 |
 | ------------------------------------- | ---- | ---- | ---- |
@@ -16926,22 +17449,22 @@ _„Die Ukraine zeigt, wie Entschlossenheit und internationale Solidarität eine
 
 ***
 
-#### 10. Kurzfassung: „Ukraine auf einen Blick“
+##### 10. Kurzfassung: „Ukraine auf einen Blick“
 
 Die Ukraine steht 2025 am Beginn einer Phase tiefgreifender Erneuerung. Mit rund 37 Mio. Einwohner:innen, einer wachsenden Diaspora-Rückkehr und einem dynamischen Agrar- sowie IT-Sektor formt sie sich zum Sicherheitsanker Osteuropas. Demokratische Institutionen werden durch steigendes Vertrauen und Beteiligungsmöglichkeiten gestärkt. Als ERDA-Partner treibt sie den Ausbau erneuerbarer Energien, zivile Resilienz und digitale Innovation voran. 2075 wird die Ukraine als beispielhafte Technologiedemokratie gelten – eine Brücke zwischen Ost und West, die mit Solidarität und Innovationskraft stabile, nachhaltige Entwicklung möglich macht.
 
 ***
 
 
-#### 11. Quellen & Modellierungen
+##### 11. Quellen & Modellierungen
 
-##### 11.1 ℹ️ Allgemeines
+###### 11.1 ℹ️ Allgemeines
 
 * Statistik: Mischung aus nationalen (Derzhstat) und internationalen Quellen (UN, Weltbank), Basisjahr 2025.
 * Modelle: BIP-Prognosen und Bevölkerungsentwicklung nach Weltbank und UN (hypothetisch: ERDA Scenario Modeling Report 2025).
 * Energie- und Infrastrukturdaten laut nationalen Strategiepapiere (hypothetisch: ERDA Scenario Modeling Report 2025).
 
-##### 11.2 📎 Verwendete Quellen & Verweise
+###### 11.2 📎 Verwendete Quellen & Verweise
 
 **Demografie**
 * _„World Population Prospects“_ (UN DESA, 2023): [https://population.un.org/wpp/](https://population.un.org/wpp/) (Letzter Zugriff am 2025-06-08)
@@ -16966,7 +17489,7 @@ Die Ukraine steht 2025 am Beginn einer Phase tiefgreifender Erneuerung. Mit rund
 * _„Rule of Law Index – Ukraine Country Profile"_ (World Justice Project, 2024): [https://worldjusticeproject.org](https://worldjusticeproject.org/) (Letzter Zugriff am 2025-06-08)
 * _„CIVITAS Ukraine Scorecard 2025"_ (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-##### 11.3 🛠️ Modellierungen & Annahmen
+###### 11.3 🛠️ Modellierungen & Annahmen
 * Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
 * Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
@@ -16977,15 +17500,14 @@ Die Ukraine steht 2025 am Beginn einer Phase tiefgreifender Erneuerung. Mit rund
 
 ***
 
-#### 12. 🤝 Mitwirkung willkommen
+##### 12. 🤝 Mitwirkung willkommen
 
 Dieses Profil wurde auf Basis öffentlich zugänglicher und modellierter Daten erstellt. Wir laden Vertreter:innen der Ukraine herzlich ein, eigene Perspektiven, Ergänzungen und Aktualisierungen einzubringen – für ein gemeinsames Bild der demokratischen Zukunft Europas.
 
-##### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: ERDA Buch Redaktion (siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon)).
-Kontakt: siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon).
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
-Letzte Änderung: 2025-06-08
+###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 
 
 \newpage
@@ -17001,11 +17523,12 @@ version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-uk-staatenprofil-vereinigtes-koenigreich"></a>
 
-## UK - Staatenprofil Vereinigtes Königreich
 
-### 🇬🇧 ERDA-Staatenprofil: Vereinigtes Königreich
+### UK - Staatenprofil Vereinigtes Königreich
 
-#### 1. Überblick (Meta)
+#### 🇬🇧 ERDA-Staatenprofil: Vereinigtes Königreich
+
+##### 1. Überblick (Meta)
 
 * 🏳️ Offizieller Name: Vereinigtes Königreich Großbritannien und Nordirland
 * 🗺 Geografische Lage: Nordwesteuropa, Britische Inseln, Atlantik und Nordsee
@@ -17016,7 +17539,7 @@ version: "1.0"
 
 ***
 
-#### 2. Demografie & Gesellschaft
+##### 2. Demografie & Gesellschaft
 
 * Bevölkerungsprognose (2050 / 2075): 70 Mio. / 71 Mio. (UN DESA 2022, hypothetisch: ERDA Scenario Modeling Report 2025)
 * Altersstruktur (Medianalter, Jugendanteil %, Altenquotient): 41 Jahre, 17 %, 34 %
@@ -17028,7 +17551,7 @@ version: "1.0"
 
 ***
 
-#### 3. Wirtschaft & Innovation
+##### 3. Wirtschaft & Innovation
 
 * Bruttoinlandsprodukt (BIP real, heute / 2050 / 2075 in Mrd. EUR): 2.800 / 3.400 (hypothetisch: ERDA Scenario Modeling Report 2025) / 3.900 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * BIP pro Kopf (EUR): 41.000
@@ -17040,7 +17563,7 @@ version: "1.0"
 * Mitglied im Democracy Trade Network: Ja
 * Nutzung von EHAM+ (Handelsabwehr) [0–10]: 7
 
-##### 3.1 Infrastrukturautarkie
+###### 3.1 Infrastrukturautarkie
 
 * Produktionssouveränität in strategischen Sektoren:
   * Energie ✓
@@ -17053,9 +17576,9 @@ version: "1.0"
 
 ***
 
-#### 4. Ressourcenprofil
+##### 4. Ressourcenprofil
 
-##### Natürliche Ressourcen
+###### Natürliche Ressourcen
 
 * Landfläche: 243.610 km²
 * Meeresfläche: ca. 770.000 km² (Ausschließliche Wirtschaftszone)
@@ -17064,13 +17587,13 @@ version: "1.0"
 * Anteil Biodiversität & Schutzgebiete (% der Fläche): 28 %
 * Nachhaltigkeitskennzahlen (CO$_2$-Ausstoß pro Kopf, Recyclingquote, Materialverbrauch pro Kopf): 5,5 t; 45 %; 13 t
 
-##### Soziale Ressourcen
+###### Soziale Ressourcen
 
 * Ehrenamt & Gemeinschaftskultur (Index [0–10]): 7,5
 * CIVITAS-Partizipationsindex [0–10]: 7
 * Gesundheitssystem (Zugänglichkeit [0–10], Prävention [0–10]): 8 / 6
 
-##### Politische Ressourcen
+###### Politische Ressourcen
 
 * Verfassungsbindung: Ja (ungeschriebenes Gewohnheitsrecht)
 * Direkte Demokratieinstrumente: Teilweise (lokale Referenden)
@@ -17081,7 +17604,7 @@ version: "1.0"
 
 ***
 
-#### 5. Sicherheit & Strategische Rolle (EDA)
+##### 5. Sicherheit & Strategische Rolle (EDA)
 
 * Militärisches Potenzial:
   * DSN-geeignet ✓
@@ -17095,7 +17618,7 @@ version: "1.0"
 * Zivile Resilienzprogramme [Vorhanden | Teilweise | Nicht vorhanden]: Vorhanden
 * Drohnen-/Raumfahrt-/KI-Kapazitäten [Vorhanden | Teilweise | Nicht vorhanden]: Vorhanden
 
-##### 5.1 Arktisstrategie & Planetare Verantwortung (optional für Arktis-Staaten)
+###### 5.1 Arktisstrategie & Planetare Verantwortung (optional für Arktis-Staaten)
 
 * Integration in EDA-DSN Nordmeer: Ja
 * Beteiligung am Arctic Resilience Observatory: Ja
@@ -17104,7 +17627,7 @@ version: "1.0"
 
 ***
 
-#### 6. Kulturelle Identität & Soft Power
+##### 6. Kulturelle Identität & Soft Power
 
 * Sprachen / Indigene Kulturen: Englisch; Walisisch, Schottisch-Gaelisch, Irisch
 * UNESCO-Welterbe / Kulturstätten (Anzahl): 33 Stätten
@@ -17114,9 +17637,9 @@ version: "1.0"
 
 ***
 
-#### 7. Entwicklungspfad (2025–2075)
+##### 7. Entwicklungspfad (2025–2075)
 
-##### Szenario-Entwicklung
+###### Szenario-Entwicklung
 
 * **Status 2025:** Starke Dienstleistungswirtschaft, global vernetzt, stabile Demokratie
 * **Best Case 2075:** Innovationsführer mit klimaneutraler Infrastruktur und starker globaler Kooperation
@@ -17127,7 +17650,7 @@ version: "1.0"
 
 ***
 
-#### 8. Narrative & Anwerbewirkung
+##### 8. Narrative & Anwerbewirkung
 
 * Attraktiver Arbeitsmarkt für Hochqualifizierte, internationale Universitäten
 * Gesellschaftlich liberal geprägt, aktive Zivilgesellschaft
@@ -17135,7 +17658,7 @@ version: "1.0"
 
 ***
 
-#### 9. Kennzahlenübersicht (Kurzform)
+##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator | 2025 | Quelle |
 | --- | --- | --- |
@@ -17148,13 +17671,13 @@ version: "1.0"
 
 ***
 
-#### 10. Kurzfassung: "Vereinigtes Königreich auf einen Blick"
+##### 10. Kurzfassung: "Vereinigtes Königreich auf einen Blick"
 
 Das Vereinigte Königreich ist eine traditionsreiche Demokratie mit globaler Reichweite. Als Finanz- und Innovationszentrum Europas spielt es eine entscheidende Rolle bei maritimer Sicherheit und kultureller Vernetzung.
 
-#### 11. Quellen & Modellierungen
+##### 11. Quellen & Modellierungen
 
-##### 11.1 ℹ️ Allgemeines
+###### 11.1 ℹ️ Allgemeines
 
 * Statistik: Office for National Statistics (ONS), World Bank, OECD; Basisjahr 2024.
 * Modellannahmen: BIP-Wachstum 1,8 % p.a., moderate Bevölkerungszunahme (UN DESA), Inflationsziel 2 % p.a.
@@ -17163,7 +17686,7 @@ Das Vereinigte Königreich ist eine traditionsreiche Demokratie mit globaler Rei
 * Demokratie & Rechtsstaatlichkeit: Freedom House, World Justice Project.
 * Nachhaltigkeits- und Ressourcenindikatoren: UN SDGs, Global Footprint Network.
 
-##### 11.2 📎 Verwendete Quellen & Verweise
+###### 11.2 📎 Verwendete Quellen & Verweise
 
 1. Office for National Statistics. 2024. "Overview of the UK population". [https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates) (Letzter Zugriff am 2025-06-10).
 2. World Bank. 2024. "World Development Indicators". <https://databank.worldbank.org/source/world-development-indicators> (Letzter Zugriff am 2025-06-10).
@@ -17171,7 +17694,7 @@ Das Vereinigte Königreich ist eine traditionsreiche Demokratie mit globaler Rei
 4. NATO. 2024. "Defence Expenditure of NATO Countries". [https://www.nato.int](https://www.nato.int) (Letzter Zugriff am 2025-06-10).
 5. International Energy Agency. 2024. "United Kingdom Energy Outlook". [https://www.iea.org](https://www.iea.org) (Letzter Zugriff am 2025-06-10).
 
-##### 11.3 🛠️ Modellierungen & Annahmen
+###### 11.3 🛠️ Modellierungen & Annahmen
 * Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
 * Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
@@ -17183,15 +17706,14 @@ Das Vereinigte Königreich ist eine traditionsreiche Demokratie mit globaler Rei
 
 ***
 
-#### 12. 🤝 Mitwirkung willkommen
+##### 12. 🤝 Mitwirkung willkommen
 
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen des Vereinigten Königreichs sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
-##### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: ERDA Buch Redaktion (siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon)).
-Kontakt: siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon).
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
-Letzte Änderung: 2025-06-10
+###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 
 
 \newpage
@@ -17207,11 +17729,12 @@ version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-xk-staatenprofil-kosovo"></a>
 
-## XK - Staatenprofil Kosovo
 
-### 🇽🇰 ERDA-Staatenprofil: Kosovo
+### XK - Staatenprofil Kosovo
 
-#### 1. Überblick (Meta)
+#### 🇽🇰 ERDA-Staatenprofil: Kosovo
+
+##### 1. Überblick (Meta)
 
 * 🏳️ Offizieller Name: Republik Kosovo (Republika e Kosovës)
 * 🗺️ Geografische Lage (Kontinent, Region): Südosteuropa, Zentralbalkan; grenzt an Albanien, Nordmazedonien, Serbien und Montenegro
@@ -17222,7 +17745,7 @@ version: "1.0"
 
 ***
 
-#### 2. Demografie & Gesellschaft
+##### 2. Demografie & Gesellschaft
 
 * Bevölkerung Prognose (2050 / 2075): 1,8 Mio. / 1,8 Mio. (UN DESA 2022, hypothetisch: ERDA Scenario Modeling Report 2025)
 * Altersstruktur (Medianalter, Jugendanteil %, Altenquotient): 32 Jahre, 22 % unter 15, 15 % über 65[2]
@@ -17234,7 +17757,7 @@ version: "1.0"
 
 ***
 
-#### 3. Wirtschaft & Innovation
+##### 3. Wirtschaft & Innovation
 
 * Bruttoinlandsprodukt (BIP real, heute / 2050 / 2075 in Mrd. EUR): 10 (2023) / 20 (p) / 30 (p)
 * BIP pro Kopf (EUR): rund 5 500 (2023)
@@ -17246,7 +17769,7 @@ version: "1.0"
 * Mitglied im Democracy Trade Network: Beobachter
 * Nutzung von EHAM+ (Handelsabwehr) [0–10]: 2
 
-##### 3.1 Infrastrukturautarkie
+###### 3.1 Infrastrukturautarkie
 
 * Energie ☑
 * IT/Cloud ☐
@@ -17258,9 +17781,9 @@ version: "1.0"
 
 ***
 
-#### 4. Ressourcenprofil
+##### 4. Ressourcenprofil
 
-##### Natürliche Ressourcen
+###### Natürliche Ressourcen
 
 * Landfläche (km²): ca. 10 900
 * Meeresfläche (falls relevant, km²): keine
@@ -17269,13 +17792,13 @@ version: "1.0"
 * Anteil Biodiversität & Schutzgebiete (% der Fläche): 15 % (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Nachhaltigkeitskennzahlen (CO$_2$-Ausstoß pro Kopf, Recyclingquote, Materialverbrauch pro Kopf): 7 t, 25 % (hypothetisch: ERDA Scenario Modeling Report 2025), n/b
 
-##### Soziale Ressourcen
+###### Soziale Ressourcen
 
 * Ehrenamt & Gemeinschaftskultur (Index [0–10]): 6 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * CIVITAS-Partizipationsindex [0–10]: 5 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Gesundheitssystem (Zugänglichkeit [0–10], Prävention [0–10]): 6 / 5
 
-##### Politische Ressourcen
+###### Politische Ressourcen
 
 * Verfassungsbindung: Ja
 * Direkte Demokratieinstrumente: Nicht vorhanden
@@ -17286,7 +17809,7 @@ version: "1.0"
 
 ***
 
-#### 5. Sicherheit & Strategische Rolle (EDA)
+##### 5. Sicherheit & Strategische Rolle (EDA)
 
 * Militärisches Potenzial:
   * DSN-geeignet ☐
@@ -17302,7 +17825,7 @@ version: "1.0"
 
 ***
 
-#### 6. Kulturelle Identität & Soft Power
+##### 6. Kulturelle Identität & Soft Power
 
 * Sprachen / Indigene Kulturen: Albanisch; Minderheitensprachen Serbisch, Türkisch, Bosnisch
 * UNESCO-Welterbe / Kulturstätten (Anzahl): 2
@@ -17312,16 +17835,16 @@ version: "1.0"
 
 ***
 
-#### 7. Entwicklungspfad (2025–2075)
+##### 7. Entwicklungspfad (2025–2075)
 
-##### Szenario-Entwicklung
+###### Szenario-Entwicklung
 
 * Status 2025: junger Staat mit EU-Perspektive und internationaler KFOR-Unterstützung
 * Best Case 2075: voll integrierter Digital-Hub des Westbalkans
 * Base Case 2075: stetiger Aufbau staatlicher Institutionen und moderates Wachstum
 * Worst Case 2075: anhaltende politische Spannungen und Abwanderung bremsen Fortschritte
 
-##### Rolle in der ERDA-Vision 2075
+###### Rolle in der ERDA-Vision 2075
 
 * Beitrag zur Post-Knappheitsökonomischen Ordnung: digitale Dienstleistungen und Fachkräfte
 * Demokratische Resilienz (sozial, kulturell, ökologisch): mittel
@@ -17329,7 +17852,7 @@ version: "1.0"
 
 ***
 
-#### 8. Narrative & Anwerbewirkung
+##### 8. Narrative & Anwerbewirkung
 
 > _"Kosovo zeigt, wie ein kleiner Staat durch Entschlossenheit und internationale Partnerschaften an Stabilität und Wohlstand gewinnt."_
 
@@ -17339,7 +17862,7 @@ version: "1.0"
 
 ***
 
-#### 9. Kennzahlenübersicht (Kurzform)
+##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025 | 2050 | 2075 | EU-Durchschnitt 2024 (Benchmark) |
 | ------------------------------------- | ---- | ---- | ---- | -------------------------------- |
@@ -17355,21 +17878,21 @@ Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 
-#### 10. Kurzfassung: „Kosovo auf einen Blick“
+##### 10. Kurzfassung: „Kosovo auf einen Blick“
 
 Kosovo ist ein junger Staat im Westbalkan mit dynamischer Bevölkerung und klarer EU-Perspektive. Trotz anhaltender Anerkennungsfragen entwickeln sich Wirtschaft und IT-Sektor stetig. Internationale Partnerschaften und die KFOR-Mission sorgen für Stabilität und Chancen zur weiteren Integration in europäische Strukturen.
 
 ***
 
-#### 11. Quellen & Modellierungen
+##### 11. Quellen & Modellierungen
 
-##### 11.1 ℹ️ Allgemeines
+###### 11.1 ℹ️ Allgemeines
 
 * Statistik: Daten von Weltbank und UN; Basisjahr 2023
 * Modelle: Bevölkerungs- und Wirtschaftsentwicklung nach UN DESA und Weltbank
 * Energie- und Infrastrukturprognosen: nationale Entwicklungsstrategie (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-##### 11.2 📎 Verwendete Quellen & Verweise
+###### 11.2 📎 Verwendete Quellen & Verweise
 
 1. World Bank. 2025. "Population, total – Kosovo". [online] verfügbar unter: [https://data.worldbank.org/indicator/SP.POP.TOTL?locations=XK](https://data.worldbank.org/indicator/SP.POP.TOTL?locations=XK) (Zugriff am 2025-06-10).
 2. United Nations Department of Economic and Social Affairs. 2022. "World Population Prospects 2022". [online] verfügbar unter: [https://population.un.org/wpp/](https://population.un.org/wpp/) (Zugriff am 2025-06-10).
@@ -17383,7 +17906,7 @@ Kosovo ist ein junger Staat im Westbalkan mit dynamischer Bevölkerung und klare
 10. European Commission. 2023. "Kosovo 2023 Report". [online] verfügbar unter: [https://neighbourhood-enlargement.ec.europa.eu/](https://neighbourhood-enlargement.ec.europa.eu/) (Zugriff am 2025-06-10).
 11. Freedom House. 2024. "Freedom in the World 2024 – Kosovo". [online] verfügbar unter: [https://freedomhouse.org/country/kosovo/freedom-world/2024](https://freedomhouse.org/country/kosovo/freedom-world/2024) (Zugriff am 2025-06-10).
 
-##### 11.3 🛠️ Modellierungen & Annahmen
+###### 11.3 🛠️ Modellierungen & Annahmen
 * Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
 * Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
@@ -17395,20 +17918,20 @@ Kosovo ist ein junger Staat im Westbalkan mit dynamischer Bevölkerung und klare
 
 ***
 
-#### 12. 🤝 Mitwirkung willkommen
+##### 12. 🤝 Mitwirkung willkommen
 
 Dieses Profil basiert auf öffentlich zugänglichen Daten und modellierten Annahmen. Vertreter:innen Kosovos und interessierte Fachstellen sind eingeladen, eigene Perspektiven und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
-##### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: ERDA Buch Redaktion (siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon)).
-Kontakt: siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon).
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
-Letzte Änderung: 2025-06-10
+###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 
 
 \newpage
 
 <a id="md-anhang-b-erda-staatenprofile-b-5-staatenprofile-erda-globale-assoziierte-readme"></a>
+
 ## B.5 Staatenprofile (ERDA - Globale Assoziierte)
 
 _**ERDA Staatenprofile der weltweit assoziierten Demokratien,**_
@@ -17427,11 +17950,12 @@ version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-5-staatenprofile-erda-globale-assoziierte-au-staatenprofil-australien"></a>
 
-## AU - Staatenprofil Australien
 
-### 🇦🇺 ERDA-Staatenprofil: Australien
+### AU - Staatenprofil Australien
 
-#### 1. Überblick (Meta)
+#### 🇦🇺 ERDA-Staatenprofil: Australien
+
+##### 1. Überblick (Meta)
 
 * **Offizieller Name:** Commonwealth of Australia
 * **Geografische Lage (Kontinent, Region):** Ozeanien; Inselkontinent zwischen Indischem und Pazifischem Ozean
@@ -17440,7 +17964,7 @@ version: "1.0"
 * 📅 ERDA-Status: Globale/r Assoziierter
 * **Zukünftige Rolle im ERDA-Netzwerk:** Indo-Pazifik-Partner und Technologiekooperation
 
-#### 2. Demografie & Gesellschaft
+##### 2. Demografie & Gesellschaft
 
 * **Bevölkerung Prognose (2050 / 2075):** ~30 Mio. / ~33 Mio. (UN WPP 2022, hypothetisch: ERDA Scenario Modeling Report 2025)
 * **Altersstruktur:** Median 38,9 Jahre; Jugendanteil 18 %; Altenquotient 21 % (ABS 2023)
@@ -17450,7 +17974,7 @@ version: "1.0"
 * **Migrationssaldo ∅ (2025–2075):** positiv (ABS Prognosen)
 * **Soziale Kohäsion:** hoher Lebenszufriedenheitsindex; Demokratievertrauen stabil
 
-#### 3. Wirtschaft & Innovation
+##### 3. Wirtschaft & Innovation
 
 * **BIP (USD, 2023):** 1,73 Billionen (World Bank)
 * **BIP pro Kopf (USD, 2023):** 64 821 (World Bank)
@@ -17462,7 +17986,7 @@ version: "1.0"
 * **Mitglied im Democracy Trade Network:** Beobachter
 * **EHAM+ Score (0–10):** 6
 
-##### 3.1 Infrastrukturautarkie
+###### 3.1 Infrastrukturautarkie
 
 * Energie ☑
 * IT/Cloud ☑
@@ -17472,9 +17996,9 @@ version: "1.0"
 * Quantentechnologie ☑
 * Autonome Logistiksysteme ☑
 
-#### 4. Ressourcenprofil
+##### 4. Ressourcenprofil
 
-##### Natürliche Ressourcen
+###### Natürliche Ressourcen
 
 * **Landfläche:** 7 688 000 km²
 * **Meeresfläche:** 8 505 000 km²
@@ -17483,13 +18007,13 @@ version: "1.0"
 * **Biodiversität & Schutzgebiete:** 19 % Schutzflächen
 * **Nachhaltigkeitskennzahlen:** CO$_2$-Emissionen 15 t pro Kopf (2022); Recyclingquote 40 %
 
-##### Soziale Ressourcen
+###### Soziale Ressourcen
 
 * **Ehrenamt & Gemeinschaft:** Ausgeprägt in ländlichen Regionen
 * **CIVITAS-Partizipationsindex (0–10):** 7 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * **Gesundheitssystem:** Zugang 9/10; Prävention 8/10
 
-##### Politische Ressourcen
+###### Politische Ressourcen
 
 * **Verfassungsbindung:** Ja
 * **Direkte Demokratieinstrumente:** Referenden (Verfassungsänderungen)
@@ -17498,7 +18022,7 @@ version: "1.0"
 * **Rechtsstaatlichkeitsindex (0–10):** 8,5 (WJP 2023)
 * **Internationale Vertrauenswerte (0–10):** 8
 
-#### 5. Sicherheit & Strategische Rolle (EDA)
+##### 5. Sicherheit & Strategische Rolle (EDA)
 
 * **Militärisches Potenzial:**
   * DSN-geeignet ☑
@@ -17511,7 +18035,7 @@ version: "1.0"
 * **Zivile Resilienzprogramme:** Vorhanden (Katastrophenschutz)
 * **Drohnen-/Raumfahrt-/KI-Kapazitäten:** ausbaufähig, nationale Programme
 
-#### 6. Kulturelle Identität & Soft Power
+##### 6. Kulturelle Identität & Soft Power
 
 * **Sprachen / Indigene Kulturen:** Englisch; 250+ indigene Sprachen
 * **UNESCO-Welterbe:** 20 Stätten (2024)
@@ -17519,29 +18043,29 @@ version: "1.0"
 * **Internationale Sichtbarkeit:** 157 Olympia-Medaillen; 15 Nobelpreisträger
 * **Rolle der Kultur in Demokratienetzwerken (0–10):** 7
 
-#### 7. Entwicklungspfad (2025–2075)
+##### 7. Entwicklungspfad (2025–2075)
 
-##### Szenario-Entwicklung
+###### Szenario-Entwicklung
 
 * **Status 2025:** Stabiles Wachstum, starke Rohstoffexporte, erneuerbare Energien im Ausbau
 * **Best Case:** Führende grüne Rohstoff- und Technologie-Nation
 * **Base Case:** Diversifizierte Wirtschaft mit stabiler Demokratie
 * **Worst Case:** Abhängigkeit von fossilen Exporten, sicherheitspolitische Spannungen
 
-##### Rolle in der ERDA-Vision 2075
+###### Rolle in der ERDA-Vision 2075
 
 * Beitrag zur Post-Knappheitsökonomischen Ordnung: Export erneuerbarer Energien, kritischer Rohstoffe
 * Demokratische Resilienz: solide Institutionen, partizipativ
 * Exemplarische Wirkung: Brücke zwischen Europa und Indo-Pazifik
 
-#### 8. Narrative & Anwerbewirkung
+##### 8. Narrative & Anwerbewirkung
 
 * **Kernbotschaft:** „Australien verbindet Naturreichtum mit technologischer Offenheit.“
 * **Selbstwirksamkeit:** Bürgerbeteiligung bei Energie- und Umweltschutz
 * **Zukunftswürde:** Innovationsnation mit starkem Bildungssystem
 * **Einladung:** Ressourcenpartnerschaften, Austauschprogramme
 
-#### 9. Kennzahlenübersicht (Kurzform)
+##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                              | 2023      | 2050 (proj.) | 2075 (proj.) |
 | -------------------------------------- | --------- | ------------ | ------------ |
@@ -17553,13 +18077,13 @@ version: "1.0"
 | KI-Kapazität (0–10)                    | 6         | 8 (hyp.)     | 9 (hyp.)     |
 | Zivilgesellschaftlicher Index (0–10)   | 8         | 8.5 (hyp.)   | 9 (hyp.)     |
 
-#### 10. Kurzfassung: „Australien auf einen Blick“
+##### 10. Kurzfassung: „Australien auf einen Blick“
 
 Australien ist ein rohstoffreiches, demokratisch gefestigtes Land im Indo-Pazifik. Es setzt auf erneuerbare Energien und technologische Innovationen, um seine Rolle als Partner Europas zu stärken. Bis 2075 kann es als wichtiger Lieferant grüner Rohstoffe und als Brückenkopf zwischen den Demokratien beider Hemisphären wirken.
 
-#### 11. Quellen & Modellierungen
+##### 11. Quellen & Modellierungen
 
-##### 11.1 ℹ️ Allgemeines
+###### 11.1 ℹ️ Allgemeines
 
 * Statistik: World Bank (2023) und Australian Bureau of Statistics
 * Modellannahmen zur Wirtschaftsentwicklung: CSIRO Future Australia (hypothetisch: ERDA Scenario Modeling Report 2025)
@@ -17568,7 +18092,7 @@ Australien ist ein rohstoffreiches, demokratisch gefestigtes Land im Indo-Pazifi
 * Demokratie & Rechtsstaatlichkeit: Freedom House 2024, WJP 2023
 * Nachhaltigkeits- und Ressourcenindikatoren: Australian Department of Climate Change
 
-##### 11.2 📎 Verwendete Quellen & Verweise
+###### 11.2 📎 Verwendete Quellen & Verweise
 
 1. **World Bank:** [Population, total – Australia](https://api.worldbank.org/v2/country/AUS/indicator/SP.POP.TOTL) (Zugriff 2025-06-11)
 2. **World Bank:** [GDP, current US$ – Australia](https://api.worldbank.org/v2/country/AUS/indicator/NY.GDP.MKTP.CD) (Zugriff 2025-06-11)
@@ -17576,7 +18100,7 @@ Australien ist ein rohstoffreiches, demokratisch gefestigtes Land im Indo-Pazifi
 4. **Our World in Data:** [Mean years of schooling – Australia](https://ourworldindata.org/grapher/mean-years-of-schooling.csv) (Zugriff 2025-06-11)
 5. **Our World in Data:** [Share of electricity renewables – Australia](https://ourworldindata.org/grapher/share-electricity-renewables.csv) (Zugriff 2025-06-11)
 
-##### 11.3 🛠️ Modellierungen & Annahmen
+###### 11.3 🛠️ Modellierungen & Annahmen
 * Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
 * Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
@@ -17586,15 +18110,14 @@ Australien ist ein rohstoffreiches, demokratisch gefestigtes Land im Indo-Pazifi
 * Infrastrukturautarkie: Qualitative Einschätzung nach IEA-Daten (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Demokratie- und Beteiligungswerte: zusammengesetzt aus Freedom House, WJP (2023)
 
-#### 12. 🤝 Mitwirkung willkommen
+##### 12. 🤝 Mitwirkung willkommen
 
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen des Commonwealth of Australia sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
-##### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: ERDA Buch Redaktion (siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon)).
-Kontakt: siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon).
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)  
-Letzte Änderung: 2025-06-11
+###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 
 
 \newpage
@@ -17610,11 +18133,12 @@ version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-5-staatenprofile-erda-globale-assoziierte-ca-staatenprofil-kanada"></a>
 
-## CA - Staatenprofil Kanada
 
-### 🇨🇦 ERDA-Staatenprofil: Kanada
+### CA - Staatenprofil Kanada
 
-#### 1. Überblick (Meta)
+#### 🇨🇦 ERDA-Staatenprofil: Kanada
+
+##### 1. Überblick (Meta)
 
 * 🏳️ Offizieller Name: Kanada
 * 🗺️ Geografische Lage: Nordamerika; grenzt an die USA, den Atlantik, den Pazifik und die Arktis
@@ -17625,7 +18149,7 @@ version: "1.0"
 
 ***
 
-#### 2. Demografie & Gesellschaft
+##### 2. Demografie & Gesellschaft
 
 * Bevölkerung (2050/2075-Prognose): 45,4 Mio. / 49,3 Mio.[^un-wpp-ca]
 * Altersstruktur (Medianalter, Jugendanteil, Altenquotient): 42 Jahre, 15 % unter 15, 19 % über 65[^un-wpp-ca]
@@ -17637,7 +18161,7 @@ version: "1.0"
 
 ***
 
-#### 3. Wirtschaft & Innovation
+##### 3. Wirtschaft & Innovation
 
 * Bruttoinlandsprodukt (BIP, real, heute / 2050 / 2075): 2 050 Mrd. EUR / 3 575 Mrd. EUR (hyp.) / 5 865 Mrd. EUR (hyp.)[^wb-gdp-ca]
 * BIP pro Kopf: ca. 51 000 EUR[^wb-gdppc-ca]
@@ -17649,7 +18173,7 @@ version: "1.0"
 * Mitglied im Democracy Trade Network: Nein (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Nutzung von EHAM+ (0–10): 6 (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-##### 3.1 Infrastrukturautarkie
+###### 3.1 Infrastrukturautarkie
 
 * Energie ☑, IT/Cloud ☑, Verteidigung ☑, Ernährung ☑
 * Satellitenkommunikation (IRIS²) ☐
@@ -17658,22 +18182,22 @@ version: "1.0"
 
 ***
 
-#### 4. Ressourcenprofil
+##### 4. Ressourcenprofil
 
-##### 🌱 Natürliche Ressourcen:
+###### 🌱 Natürliche Ressourcen:
 
 * Land-/Meeresfläche: 9 984 670 km² / 7 ,3 Mio. km² ausschließliche Wirtschaftszone[^restcountries-ca]
 * Strategische Rohstoffe: Erdöl, Erdgas, Holz, Uran, Seltene Erden
 * Erneuerbare Energiepotenziale: Hydro (hoch), Wind (hoch), Solar (mittel), Geothermie (regional)
 * Biodiversität & Schutzgebiete (%): 13 % der Landfläche als Nationalpark
 
-##### 🧑‍🤝‍🧑 Soziale Ressourcen:
+###### 🧑‍🤝‍🧑 Soziale Ressourcen:
 
 * Ehrenamt & Gemeinschaftskultur: stark ausgeprägt
 * Civic-Tech-Nutzung (z. B. CIVITAS): wachsend
 * Gesundheitssystem (Zugänglichkeit, Prävention): gut / umfassend
 
-##### 🛡️ Politische Ressourcen:
+###### 🛡️ Politische Ressourcen:
 
 * Verfassungsbindung: Ja
 * Direkte Demokratieinstrumente: Teilweise (Volksbefragungen auf Provinzebene)
@@ -17682,7 +18206,7 @@ version: "1.0"
 
 ***
 
-#### 5. Sicherheit & strategische Rolle (EDA)
+##### 5. Sicherheit & strategische Rolle (EDA)
 
 * Militärisches Potenzial:
   * ☑ DSN-geeignet
@@ -17695,7 +18219,7 @@ version: "1.0"
 
 ***
 
-#### 6. Kulturelle Identität & Soft Power
+##### 6. Kulturelle Identität & Soft Power
 
 * Sprachen / indigene Kulturen: Englisch, Französisch, zahlreiche indigene Sprachen
 * UNESCO-Welterbe / Kulturstätten: 20 Stätten (2024)[^unesco-ca]
@@ -17705,9 +18229,9 @@ version: "1.0"
 
 ***
 
-#### 7. Entwicklungspfad (2025–2075)
+##### 7. Entwicklungspfad (2025–2075)
 
-##### 🔭 Szenario-Entwicklung:
+###### 🔭 Szenario-Entwicklung:
 
 * **Status 2025:** Wohlhabender Industriestaat mit stabiler Demokratie
 * **Best Case 2075:** Führender klimaneutraler Rohstoff- und Innovationspartner Europas
@@ -17723,7 +18247,7 @@ Erneuerbare Energie, kritische Infrastruktur und KI-Forschung
 **Transformation 2050–2075:**
 Fortschreitende Dekarbonisierung, Ausbau der Polarroute, technologische Selbstständigkeit
 
-##### 🚀 Rolle in der ERDA-Vision 2075:
+###### 🚀 Rolle in der ERDA-Vision 2075:
 
 > _„Kanada ist 2075 ein klimaneutraler Rohstoff- und Innovationspartner, der die Arktis sicher verbindet und demokratische Werte global fördert.“_
 
@@ -17733,7 +18257,7 @@ Fortschreitende Dekarbonisierung, Ausbau der Polarroute, technologische Selbstst
 
 ***
 
-#### 8. Narrative & Anwerbewirkung
+##### 8. Narrative & Anwerbewirkung
 
 > _„Kanada zeigt, dass Vielfalt und Ressourcenreichtum gemeinsam eine stabile Demokratie tragen können.“_
 
@@ -17743,7 +18267,7 @@ Fortschreitende Dekarbonisierung, Ausbau der Polarroute, technologische Selbstst
 
 ***
 
-#### 9. Kennzahlenübersicht (Kurzform)
+##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025     | 2050      | 2075      |
 | ------------------------------------- | -------- | --------- | --------- |
@@ -17757,13 +18281,13 @@ Fortschreitende Dekarbonisierung, Ausbau der Polarroute, technologische Selbstst
 
 ***
 
-#### 10. Kurzfassung: „Kanada auf einen Blick“
+##### 10. Kurzfassung: „Kanada auf einen Blick“
 
 Kanada ist ein rohstoffreiches, hochentwickeltes Land mit stabiler Demokratie und großer Innovationskraft. Die arktische Lage und die reichhaltigen Ressourcen machen es zu einem wertvollen Partner für eine nachhaltige Zukunft Europas.
 
-#### 11. Quellen & Modellierungen
+##### 11. Quellen & Modellierungen
 
-##### 11.1 ℹ️ Allgemeines
+###### 11.1 ℹ️ Allgemeines
 
 * Statistik: World Bank Open Data; UN World Population Prospects 2022
 * Modelle: BIP-Wachstum 2 % p.a., Inflation 1,5 % p.a. (hypothetisch: ERDA Scenario Modeling Report 2025)
@@ -17772,7 +18296,7 @@ Kanada ist ein rohstoffreiches, hochentwickeltes Land mit stabiler Demokratie un
 * Demokratie & Rechtsstaatlichkeit: Freedom House, World Justice Project
 * Nachhaltigkeits- und Ressourcenindikatoren: International Energy Agency (IEA)
 
-##### 11.2 📎 Verwendete Quellen & Verweise
+###### 11.2 📎 Verwendete Quellen & Verweise
 
 1. World Bank. 2024. "Population, total – Canada". [https://api.worldbank.org/v2/country/can/indicator/SP.POP.TOTL](https://api.worldbank.org/v2/country/can/indicator/SP.POP.TOTL) (letzter Zugriff am 2025‑06‑11). <a name="wb-pop-ca"></a>
 2. UN DESA. 2022. *World Population Prospects 2022*. [https://population.un.org/wpp](https://population.un.org/wpp) (letzter Zugriff am 2025‑06‑11). <a name="un-wpp-ca"></a>
@@ -17789,7 +18313,7 @@ Kanada ist ein rohstoffreiches, hochentwickeltes Land mit stabiler Demokratie un
 13. NATO. 2024. "Defence Expenditures of NATO Countries". [https://www.nato.int/cps/en/natohq/topics_49198.htm](https://www.nato.int/cps/en/natohq/topics_49198.htm) (letzter Zugriff am 2025‑06‑11). <a name="nato-ca"></a>
 14. UNESCO World Heritage Centre. 2024. "World Heritage List". [https://whc.unesco.org/en/statesparties/ca](https://whc.unesco.org/en/statesparties/ca) (letzter Zugriff am 2025‑06‑11). <a name="unesco-ca"></a>
 
-##### 11.3 🛠️ Modellierungen & Annahmen
+###### 11.3 🛠️ Modellierungen & Annahmen
 * Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
 * Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
@@ -17802,15 +18326,14 @@ Kanada ist ein rohstoffreiches, hochentwickeltes Land mit stabiler Demokratie un
 
 ***
 
-#### 12. 🤝 Mitwirkung willkommen
+##### 12. 🤝 Mitwirkung willkommen
 
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen von Kanada sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
-##### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: ERDA Buch Redaktion (siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon)).
-Kontakt: siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon).
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
-Letzte Änderung: 2025-06-11
+###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 
 <!-- Fußnotenverweise -->
 [^wb-pop-ca]: World Bank – Population, total
@@ -17842,11 +18365,12 @@ version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-5-staatenprofile-erda-globale-assoziierte-cl-staatenprofil-chile"></a>
 
-## CL - Staatenprofil Chile
 
-### 🇨🇱 ERDA-Staatenprofil: Chile
+### CL - Staatenprofil Chile
 
-#### 1. Überblick (Meta)
+#### 🇨🇱 ERDA-Staatenprofil: Chile
+
+##### 1. Überblick (Meta)
 
 * 🏳️ Offizieller Name: Republik Chile
 * 🗺️ Geografische Lage: Südamerika, Pazifikküste; grenzt an Peru, Bolivien und Argentinien
@@ -17857,7 +18381,7 @@ version: "1.0"
 
 ***
 
-#### 2. Demografie & Gesellschaft
+##### 2. Demografie & Gesellschaft
 
 * Bevölkerung (2050/2075-Prognose): 19 Mio. / 17 Mio. (UN WPP 2022)
 * Altersstruktur (Medianalter, Jugendanteil, Altenquotient): 39 Jahre, 20 %, 18 %
@@ -17869,7 +18393,7 @@ version: "1.0"
 
 ***
 
-#### 3. Wirtschaft & Innovation
+##### 3. Wirtschaft & Innovation
 
 * Bruttoinlandsprodukt (BIP, real, heute / 2050 / 2075): 315 Mrd. EUR / 517 Mrd. EUR (hypothetisch: ERDA Scenario Modeling Report 2025) / 849 Mrd. EUR (hypothetisch: ERDA Scenario Modeling Report 2025)
 * BIP pro Kopf: 16 000 EUR
@@ -17881,7 +18405,7 @@ version: "1.0"
 * Mitglied im Democracy Trade Network: Ja
 * Nutzung von EHAM+ (0–10): 5
 
-##### 3.1 Infrastrukturautarkie
+###### 3.1 Infrastrukturautarkie
 
 * Energie ☑, IT/Cloud ☐, Verteidigung ☐, Ernährung ☑
 * Satellitenkommunikation (IRIS²) ☐
@@ -17890,9 +18414,9 @@ version: "1.0"
 
 ***
 
-#### 4. Ressourcenprofil
+##### 4. Ressourcenprofil
 
-##### 🌱 Natürliche Ressourcen:
+###### 🌱 Natürliche Ressourcen:
 
 * Land-/Meeresfläche: 756 102 km² / ≈ 3,3 Mio. km² Meereszone
 * Strategische Rohstoffe: Kupfer, Lithium, Molybdän, Seltene Erden
@@ -17900,13 +18424,13 @@ version: "1.0"
 * Biodiversität & Schutzgebiete (%): rund 22 % Schutzfläche
 * Nachhaltigkeitskennzahlen: CO$_2$-Ausstoß pro Kopf 4,4 t; Recyclingquote 10 %; Materialverbrauch 13 t/Kopf
 
-##### 🧑‍🤝‍🧑 Soziale Ressourcen:
+###### 🧑‍🤝‍🧑 Soziale Ressourcen:
 
 * Ehrenamt & Gemeinschaftskultur: 7/10
 * CIVITAS-Partizipationsindex: 7/10
 * Gesundheitssystem (Zugänglichkeit, Prävention): 7/10, 6/10
 
-##### 🛡️ Politische Ressourcen:
+###### 🛡️ Politische Ressourcen:
 
 * Verfassungsbindung: Ja
 * Direkte Demokratieinstrumente: Teilweise
@@ -17917,7 +18441,7 @@ version: "1.0"
 
 ***
 
-#### 5. Sicherheit & strategische Rolle (EDA)
+##### 5. Sicherheit & strategische Rolle (EDA)
 
 * Militärisches Potenzial:
   * ☐ DSN-geeignet
@@ -17933,7 +18457,7 @@ version: "1.0"
 
 ***
 
-#### 6. Kulturelle Identität & Soft Power
+##### 6. Kulturelle Identität & Soft Power
 
 * Sprachen / indigene Kulturen: Spanisch; indigene Sprachen u.a. Mapudungun, Aimara
 * UNESCO-Welterbe / Kulturstätten: 6 Stätten
@@ -17943,9 +18467,9 @@ version: "1.0"
 
 ***
 
-#### 7. Entwicklungspfad (2025–2075)
+##### 7. Entwicklungspfad (2025–2075)
 
-##### 🔭 Szenario-Entwicklung:
+###### 🔭 Szenario-Entwicklung:
 
 * **Status 2025:** Stabile Demokratie mit robustem Rohstoffsektor und wachsender Solarenergie
 * **Best Case 2075:** Nachhaltiger Rohstoff- und Energieversorger mit hoher Lebensqualität
@@ -17961,7 +18485,7 @@ Lithium-Wertschöpfung, Solar- und Windenergie, digitale Infrastruktur
 **Transformation 2050–2075:**\
 Mehrwertorientierte Industriepolitik, technologischer Wissenstransfer und regionale Integration
 
-##### 🚀 Rolle in der ERDA-Vision 2075:
+###### 🚀 Rolle in der ERDA-Vision 2075:
 
 > _„Chile ist 2075 ein vernetzter Rohstoff- und Innovationspartner für nachhaltige Technologien im ERDA-Verbund.“_
 
@@ -17971,7 +18495,7 @@ Mehrwertorientierte Industriepolitik, technologischer Wissenstransfer und region
 
 ***
 
-#### 8. Narrative & Anwerbewirkung
+##### 8. Narrative & Anwerbewirkung
 
 > _„Vom Kupferland zur grünen Innovationsdrehscheibe des südlichen Pazifik“_
 
@@ -17981,7 +18505,7 @@ Mehrwertorientierte Industriepolitik, technologischer Wissenstransfer und region
 
 ***
 
-#### 9. Kennzahlenübersicht (Kurzform)
+##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025 | 2050      | 2075      |
 | ------------------------------------- | ---- | --------- | --------- |
@@ -17995,15 +18519,15 @@ Mehrwertorientierte Industriepolitik, technologischer Wissenstransfer und region
 
 ***
 
-#### 10. Kurzfassung: „Chile auf einen Blick“
+##### 10. Kurzfassung: „Chile auf einen Blick“
 
 Chile vereint stabile demokratische Institutionen mit einem außergewöhnlichen Rohstoffreichtum. Dank seines Potenzials für erneuerbare Energien und einer wachsenden Innovationslandschaft ist das Land ein gefragter Partner für Europas Energie- und Technologiewende.
 
 ***
 
-#### 11. Quellen & Modellierungen
+##### 11. Quellen & Modellierungen
 
-##### 11.1 ℹ️ Allgemeines
+###### 11.1 ℹ️ Allgemeines
 
 * Statistik: Nationale Quellen (Instituto Nacional de Estadísticas) und internationale Datenbanken (World Bank, UN WPP 2022)
 * Modelle: BIP- und Bevölkerungsprognosen nach UN WPP 2022 und OECD (hypothetisch: ERDA Scenario Modeling Report 2025)
@@ -18012,7 +18536,7 @@ Chile vereint stabile demokratische Institutionen mit einem außergewöhnlichen 
 * Demokratie & Rechtsstaatlichkeit: Freedom House, Bertelsmann Stiftung
 * Nachhaltigkeitsindikatoren: UN SDG Daten, Global Footprint Network
 
-##### 11.2 📎 Verwendete Quellen & Verweise
+###### 11.2 📎 Verwendete Quellen & Verweise
 
 **Demografie & Gesellschaft**
 1. United Nations. 2022. „World Population Prospects 2022“. [online] verfügbar unter: <https://population.un.org/wpp/> (Letzter Zugriff am 2025-06-11).
@@ -18026,7 +18550,7 @@ Chile vereint stabile demokratische Institutionen mit einem außergewöhnlichen 
 **Demokratie & Rechtsstaatlichkeit**
 4. Freedom House. 2024. „Freedom in the World 2024“. [online] verfügbar unter: <https://freedomhouse.org> (Letzter Zugriff am 2025-06-11).
 
-##### 11.3 🛠️ Modellierungen & Annahmen
+###### 11.3 🛠️ Modellierungen & Annahmen
 * Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
 * Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
@@ -18037,14 +18561,13 @@ Chile vereint stabile demokratische Institutionen mit einem außergewöhnlichen 
 
 ***
 
-#### 12. 🤝 Mitwirkung willkommen
+##### 12. 🤝 Mitwirkung willkommen
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Chile sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
-##### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: ERDA Buch Redaktion (siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon)).
-Kontakt: siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon).
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
-Letzte Änderung: 2025-06-11
+###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 
 
 \newpage
@@ -18060,11 +18583,12 @@ version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-5-staatenprofile-erda-globale-assoziierte-cr-staatenprofil-costa-rica"></a>
 
-## CR - Staatenprofil Costa Rica
 
-### 🇨🇷 ERDA-Staatenprofil: Costa Rica
+### CR - Staatenprofil Costa Rica
 
-#### 1. Überblick (Meta)
+#### 🇨🇷 ERDA-Staatenprofil: Costa Rica
+
+##### 1. Überblick (Meta)
 
 * **Offizieller Name:** Republik Costa Rica
 * **Geografische Lage (Kontinent, Region):** Mittelamerika; zwischen Nicaragua und Panama
@@ -18073,7 +18597,7 @@ version: "1.0"
 * 📅 ERDA-Status: Globale/r Assoziierter
 * **Zukünftige Rolle im ERDA-Netzwerk:** Vermittler nachhaltiger Tourismus und Umweltinnovation
 
-#### 2. Demografie & Gesellschaft
+##### 2. Demografie & Gesellschaft
 
 * **Bevölkerung Prognose (2050 / 2075):** 5,8 Mio. / 6,1 Mio. (UN WPP 2022, hypothetisch: ERDA Scenario Modeling Report 2025)
 * **Altersstruktur:** Median 34 Jahre; Jugendanteil 22 %; Altenquotient 16 % (UN WPP 2022)
@@ -18083,7 +18607,7 @@ version: "1.0"
 * **Migrationssaldo ∅ (2025–2075):** leicht positiv (hypothetisch: ERDA Scenario Modeling Report 2025)
 * **Soziale Kohäsion:** hoher Lebenszufriedenheitsindex (World Happiness Report 2024)
 
-#### 3. Wirtschaft & Innovation
+##### 3. Wirtschaft & Innovation
 
 * **BIP (real, Mrd. EUR, 2023):** 78 (World Bank, Umrechnung 0,9 EUR/USD)
 * **BIP pro Kopf (EUR, 2023):** 15 000 (World Bank)
@@ -18095,7 +18619,7 @@ version: "1.0"
 * **Mitglied im Democracy Trade Network:** Beobachter
 * **EHAM+ Score (0–10):** 5
 
-##### 3.1 Infrastrukturautarkie
+###### 3.1 Infrastrukturautarkie
 
 * Energie ☑
 * IT/Cloud ☐
@@ -18105,9 +18629,9 @@ version: "1.0"
 * Quantentechnologie ☐
 * Autonome Logistiksysteme ☐
 
-#### 4. Ressourcenprofil
+##### 4. Ressourcenprofil
 
-##### Natürliche Ressourcen
+###### Natürliche Ressourcen
 
 * **Landfläche:** 51 060 km² (World Bank 2022)
 * **Strategische Rohstoffe:** Wasserkraft, Geothermie, Tropenholz
@@ -18115,13 +18639,13 @@ version: "1.0"
 * **Biodiversität & Schutzgebiete:** 28,2 % der Gesamtfläche geschützt (World Bank 2024)
 * **Nachhaltigkeitskennzahlen:** CO$_2$-Ausstoß pro Kopf 1,5 t (2021, Our World in Data); Recyclingquote n/b
 
-##### Soziale Ressourcen
+###### Soziale Ressourcen
 
 * **Ehrenamt & Gemeinschaft:** stark ausgeprägt in lokalem Umweltschutz
 * **CIVITAS-Partizipationsindex (0–10):** 7 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * **Gesundheitssystem:** Zugang 8/10; Prävention 8/10
 
-##### Politische Ressourcen
+###### Politische Ressourcen
 
 * **Verfassungsbindung:** Ja
 * **Direkte Demokratieinstrumente:** Teilweise (lokale Referenden)
@@ -18130,7 +18654,7 @@ version: "1.0"
 * **Rechtsstaatlichkeitsindex (0–10):** 7,5 (WJP 2023)
 * **Internationale Vertrauenswerte (0–10):** 7
 
-#### 5. Sicherheit & Strategische Rolle (EDA)
+##### 5. Sicherheit & Strategische Rolle (EDA)
 
 * **Militärisches Potenzial:**
   * DSN-geeignet ☐
@@ -18142,14 +18666,14 @@ version: "1.0"
 * **Zivile Resilienzprogramme:** Teilweise vorhanden (Katastrophenschutz)
 * **Drohnen-/Raumfahrt-/KI-Kapazitäten:** begrenzt
 
-##### 5.1 Arktisstrategie & Planetare Verantwortung (optional für Arktis-Staaten)
+###### 5.1 Arktisstrategie & Planetare Verantwortung (optional für Arktis-Staaten)
 
 * Integration in EDA-DSN Nordmeer ☐
 * Beteiligung am Arctic Resilience Observatory ☐
 * Umsetzung Arctic Democracy Mining Act ☐
 * Partnerschaften mit indigenen Gemeinschaften ☐
 
-#### 6. Kulturelle Identität & Soft Power
+##### 6. Kulturelle Identität & Soft Power
 
 * **Sprachen / Indigene Kulturen:** Spanisch; indigene Sprachen wie Bribrí, Cabécar
 * **UNESCO-Welterbe:** 4 Stätten (2024)
@@ -18157,29 +18681,29 @@ version: "1.0"
 * **Internationale Sichtbarkeit:** Erfolge im Biodiversitätsschutz, Sport
 * **Rolle der Kultur in Demokratienetzwerken (0–10):** 6
 
-#### 7. Entwicklungspfad (2025–2075)
+##### 7. Entwicklungspfad (2025–2075)
 
-##### Szenario-Entwicklung
+###### Szenario-Entwicklung
 
 * **Status 2025:** Stabiles Wirtschaftswachstum, Fokus auf nachhaltigen Tourismus
 * **Best Case:** Klimaneutrale Innovationsnation und Vorbild für grüne Entwicklung
 * **Base Case:** Weiterhin Tourismus- und Agrarstandort mit moderatem Wachstum
 * **Worst Case:** Anhaltende Haushaltsdefizite, hohe Abhängigkeit vom Tourismussektor
 
-##### Rolle in der ERDA-Vision 2075
+###### Rolle in der ERDA-Vision 2075
 
 * Beitrag zur Post-Knappheitsökonomischen Ordnung: Forschung in Biodiversität und Nachhaltigkeit
 * Demokratische Resilienz: stabile Institutionen, Umweltbewusstsein
 * Exemplarische Wirkung: Modell für nachhaltige Entwicklung im Globalen Süden
 
-#### 8. Narrative & Anwerbewirkung
+##### 8. Narrative & Anwerbewirkung
 
 * **Kernbotschaft:** „Costa Rica zeigt, dass Nachhaltigkeit und Demokratie Hand in Hand gehen.“
 * **Selbstwirksamkeit:** Bürger:innen beteiligen sich aktiv am Umweltschutz
 * **Zukunftswürde:** Naturschutz als nationaler Stolz
 * **Einladung:** Kooperationen in Klimaforschung und nachhaltigem Tourismus
 
-#### 9. Kennzahlenübersicht (Kurzform)
+##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                               | 2023 | 2050 (proj.) | 2075 (proj.) |
 | --------------------------------------- | ---- | ------------ | ------------ |
@@ -18191,13 +18715,13 @@ version: "1.0"
 | KI-Kapazität (0–10)                     | 4    | 6 (hyp.)     | 7 (hyp.)     |
 | Zivilgesellschaftlicher Index (0–10)    | 8    | 8,5 (hyp.)   | 9 (hyp.)     |
 
-#### 10. Kurzfassung: „Costa Rica auf einen Blick“
+##### 10. Kurzfassung: „Costa Rica auf einen Blick“
 
 Costa Rica gilt als Vorreiter für nachhaltige Entwicklung und stabile Demokratie in Mittelamerika. Ein hoher Anteil erneuerbarer Energien, ambitionierte Naturschutzprogramme und ein engagiertes Bürgerwesen prägen das Bild des Landes. Mit seiner Rolle als grüner Innovationspartner kann Costa Rica langfristig zu einem starken Verbündeten im ERDA-Netzwerk werden.
 
-#### 11. Quellen & Modellierungen
+##### 11. Quellen & Modellierungen
 
-##### 11.1 ℹ️ Allgemeines
+###### 11.1 ℹ️ Allgemeines
 
 * Statistik: World Bank und nationale Quellen; Basisjahr 2023
 * Modellannahmen zur Wirtschaftsentwicklung: 2 % Wachstum p.a., Inflation 2 % p.a. (hypothetisch: ERDA Scenario Modeling Report 2025)
@@ -18206,7 +18730,7 @@ Costa Rica gilt als Vorreiter für nachhaltige Entwicklung und stabile Demokrati
 * Demokratie & Rechtsstaatlichkeit: Freedom House 2024, World Justice Project 2023
 * Nachhaltigkeits- und Ressourcenindikatoren: UN SDG Datenbank 2024
 
-##### 11.2 📎 Verwendete Quellen & Verweise
+###### 11.2 📎 Verwendete Quellen & Verweise
 
 1. **World Bank.** 2024. „World Development Indicators“. <https://databank.worldbank.org/source/world-development-indicators> (Letzter Zugriff am 2025-06-12).
 2. **UNESCO Institute for Statistics.** 2023. „Costa Rica Education“. <https://uis.unesco.org> (Letzter Zugriff am 2025-06-12).
@@ -18215,7 +18739,7 @@ Costa Rica gilt als Vorreiter für nachhaltige Entwicklung und stabile Demokrati
 5. **World Justice Project.** 2023. „Rule of Law Index“. <https://worldjusticeproject.org> (Letzter Zugriff am 2025-06-12).
 6. **SIPRI.** 2023. „Military Expenditure Database“. <https://sipri.org> (Letzter Zugriff am 2025-06-12).
 
-##### 11.3 🛠️ Modellierungen & Annahmen
+###### 11.3 🛠️ Modellierungen & Annahmen
 * Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
 * Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
@@ -18226,15 +18750,14 @@ Costa Rica gilt als Vorreiter für nachhaltige Entwicklung und stabile Demokrati
 * Demokratie- und Beteiligungswerte: leichte Verbesserung um 0,3 Punkte jährlich (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Energiepotenziale: Szenario hydrobasiert vs. geothermisch (IEA 2024)
 
-#### 12. 🤝 Mitwirkung willkommen
+##### 12. 🤝 Mitwirkung willkommen
 
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Costa Rica sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
-##### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: ERDA Buch Redaktion (siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon)).
-Kontakt: siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon).
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
-Letzte Änderung: 2025-06-12
+###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 
 
 \newpage
@@ -18250,11 +18773,12 @@ version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-5-staatenprofile-erda-globale-assoziierte-in-staatenprofil-indien"></a>
 
-## IN - Staatenprofil Indien
 
-### 🇮🇳 ERDA-Staatenprofil: Indien
+### IN - Staatenprofil Indien
 
-#### 1. Überblick (Meta)
+#### 🇮🇳 ERDA-Staatenprofil: Indien
+
+##### 1. Überblick (Meta)
 
 * Offizieller Name: Republik Indien
 * Geografische Lage (Kontinent, Region): Südasien; grenzt u.a. an Pakistan, China, Nepal und Bangladesch
@@ -18263,7 +18787,7 @@ version: "1.0"
 * 📅 ERDA-Status: Assoziiert
 * Zukünftige Rolle im ERDA-Netzwerk: Digital-Hub & Entwicklungspartner in Asien
 
-#### 2. Demografie & Gesellschaft
+##### 2. Demografie & Gesellschaft
 
 * Bevölkerung Prognose (2050 / 2075): 1,67 Mrd. / 1,53 Mrd. (UN WPP 2022)
 * Altersstruktur (Medianalter, Jugendanteil %, Altenquotient): Medianalter 29 Jahre, Jugendanteil ca. 26 %, Altenquotient ca. 20 %
@@ -18273,7 +18797,7 @@ version: "1.0"
 * Migrationssaldo pro Jahr (Durchschnitt 2025–2075): leicht negativ (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Soziale Kohäsion (Zufriedenheitsindex [0–10], Demokratievertrauen [%]): 6,0 / 65 % (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-#### 3. Wirtschaft & Innovation
+##### 3. Wirtschaft & Innovation
 
 * Bruttoinlandsprodukt (BIP real, heute / 2050 / 2075 in Mrd. EUR): 3.300 (2023, World Bank) / 8.500 (2050, hypothetisch: ERDA Scenario Modeling Report 2025) / 12.000 (2075, hypothetisch: ERDA Scenario Modeling Report 2025)
 * BIP pro Kopf (EUR): ca. 2.200 (World Bank 2023)
@@ -18285,7 +18809,7 @@ version: "1.0"
 * Mitglied im Democracy Trade Network [Ja | Nein]: Nein
 * Nutzung von EHAM+ (Handelsabwehr) [0–10]: 4 (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-##### 3.1 Infrastrukturautarkie
+###### 3.1 Infrastrukturautarkie
 
 * Produktionssouveränität in strategischen Sektoren:
   * Energie [☑ | ☐] ☑
@@ -18296,9 +18820,9 @@ version: "1.0"
   * Quantentechnologie [☑ | ☐] ☐
   * Autonome Logistiksysteme [☑ | ☐] ☐
 
-#### 4. Ressourcenprofil
+##### 4. Ressourcenprofil
 
-##### Natürliche Ressourcen
+###### Natürliche Ressourcen
 
 * Landfläche (km²): 3.287.263
 * Meeresfläche (falls relevant, km²): ausschließliche Wirtschaftszone ca. 2.305.143
@@ -18307,13 +18831,13 @@ version: "1.0"
 * Anteil Biodiversität & Schutzgebiete (% der Fläche): ca. 5 %
 * Nachhaltigkeitskennzahlen (CO$_2$-Ausstoß pro Kopf, Recyclingquote, Materialverbrauch pro Kopf): 1,9 t CO$_2$ / <30 % / 7,5 t (World Bank, UNEP 2023)
 
-##### Soziale Ressourcen
+###### Soziale Ressourcen
 
 * Ehrenamt & Gemeinschaftskultur (Index [0–10]): 7 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * CIVITAS-Partizipationsindex [0–10]: 6 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Gesundheitssystem (Zugänglichkeit [0–10], Prävention [0–10]): 6 / 5 (WHO 2023)
 
-##### Politische Ressourcen
+###### Politische Ressourcen
 
 * Verfassungsbindung [Ja | Nein]: Ja
 * Direkte Demokratieinstrumente [Vorhanden | Teilweise | Nicht vorhanden]: Teilweise
@@ -18322,7 +18846,7 @@ version: "1.0"
 * Rechtstaatlichkeitsindex [0–10]: 6 (World Justice Project 2023)
 * Internationale Vertrauenswerte [0–10]: 6 (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-#### 5. Sicherheit & Strategische Rolle (EDA)
+##### 5. Sicherheit & Strategische Rolle (EDA)
 
 * Militärisches Potenzial:
   * DSN-geeignet [☑ | ☐] ☑
@@ -18336,14 +18860,14 @@ version: "1.0"
 * Zivile Resilienzprogramme [Vorhanden | Teilweise | Nicht vorhanden]: Vorhanden
 * Drohnen-/Raumfahrt-/KI-Kapazitäten [Vorhanden | Teilweise | Nicht vorhanden]: Vorhanden
 
-##### 5.1 Arktisstrategie & Planetare Verantwortung (optional für Arktis-Staaten)
+###### 5.1 Arktisstrategie & Planetare Verantwortung (optional für Arktis-Staaten)
 
 * Integration in EDA-DSN Nordmeer [Ja | Nein]: Nein
 * Beteiligung am Arctic Resilience Observatory [Ja | Nein]: Nein
 * Umsetzung Arctic Democracy Mining Act [Ja | Nein]: Nein
 * Partnerschaften mit indigenen Gemeinschaften [Ja | Nein]: Ja (im Inland)
 
-#### 6. Kulturelle Identität & Soft Power
+##### 6. Kulturelle Identität & Soft Power
 
 * Sprachen / Indigene Kulturen: Hindi, Englisch (Amts-/Verkehrssprachen), zahlreiche regionale Sprachen und Kulturen
 * UNESCO-Welterbe / Kulturstätten (Anzahl): 42 (UNESCO 2024)
@@ -18351,22 +18875,22 @@ version: "1.0"
 * Internationale Sichtbarkeit (Olympische Spiele, Nobelpreise, etc.): hoch
 * Rolle der Kultur als Vermittlungsfaktor in Demokratienetzwerken [0–10]: 7
 
-#### 7. Entwicklungspfad (2025–2075)
+##### 7. Entwicklungspfad (2025–2075)
 
-##### Szenario-Entwicklung
+###### Szenario-Entwicklung
 
 * Status 2025 (kurze Lageeinschätzung): rapide wirtschaftliche Entwicklung, wachsende Mittelschicht
 * Best Case 2050/2075 (optimistische Ziele & Vorteile): Führende Innovationsnation, starke soziale Absicherung, nachhaltiges Wachstum
 * Base Case 2050/2075 (realistische Entwicklung): stabile Demokratie, moderates Wirtschaftswachstum, bedeutender Regionalakteur
 * Worst Case 2050/2075 (potenzielle Risiken, kritische Entwicklungen & proaktive Lösungsansätze): politische Spannungen, Ressourcenknappheit, Anpassungsdruck durch Klimafolgen
 
-##### Rolle in der ERDA-Vision 2075
+###### Rolle in der ERDA-Vision 2075
 
 * Beitrag zur Post-Knappheitsökonomischen Ordnung: Kooperationspartner für High-Tech-Produktion und Bildung
 * Demokratische Resilienz (sozial, kulturell, ökologisch): mittel bis hoch
 * Exemplarische Wirkung auf andere Staaten / Regionen: Vorbild für technologische Entwicklung in Demokratien des globalen Südens
 
-#### 8. Narrative & Anwerbewirkung
+##### 8. Narrative & Anwerbewirkung
 
 * Kernbotschaft: „Indien zeigt, dass Vielfalt und Digitalisierung gemeinsam gesellschaftlichen Aufstieg ermöglichen.“
 * Beispiele für starke, wirkungsvolle Narrative und Einladungen: Erfolge in IT und Raumfahrt, größte Demokratie der Welt
@@ -18374,7 +18898,7 @@ version: "1.0"
 * Zukunftswürde: Stolz auf kulturelles Erbe und wirtschaftlichen Fortschritt
 * Einladung an andere Staaten & Bürger:innen: Signal für demokratische Entwicklung und wirtschaftliche Chancen
 
-#### 9. Kennzahlenübersicht (Kurzform)
+##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025 | 2050 | 2075 | EU-Durchschnitt 2024 (Benchmark) |
 | ------------------------------------- | ---- | ---- | ---- | -------------------------------- |
@@ -18388,13 +18912,13 @@ version: "1.0"
 
 Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-#### 10. Kurzfassung: „Indien auf einen Blick“
+##### 10. Kurzfassung: „Indien auf einen Blick“
 
 Indien ist eine dynamische Demokratie mit schneller wirtschaftlicher Entwicklung und einer jungen Bevölkerung. Es vereint ein reiches kulturelles Erbe mit technologischem Fortschritt und positioniert sich als wichtiger Partner für globale Digitalisierung und nachhaltiges Wachstum.
 
-#### 11. Quellen & Modellierungen
+##### 11. Quellen & Modellierungen
 
-##### 11.1 ℹ️ Allgemeines
+###### 11.1 ℹ️ Allgemeines
 
 * Statistik: UN World Population Prospects 2022; World Bank World Development Indicators
 * Modellannahmen zur Wirtschaftsentwicklung: extrapolierte Trends der Weltbank (hypothetisch: ERDA Scenario Modeling Report 2025)
@@ -18403,7 +18927,7 @@ Indien ist eine dynamische Demokratie mit schneller wirtschaftlicher Entwicklung
 * Demokratie & Rechtsstaatlichkeit: Freedom House; World Justice Project
 * Nachhaltigkeits- und Ressourcenindikatoren: UNEP; World Bank
 
-##### 11.2 📎 Verwendete Quellen & Verweise
+###### 11.2 📎 Verwendete Quellen & Verweise
 1. United Nations. 2022. *World Population Prospects 2022*. [online] verfügbar unter: <https://population.un.org/wpp/> (Letzter Zugriff am 2025-06-11).
 2. World Bank. 2024. *World Development Indicators*. [online] verfügbar unter: <https://databank.worldbank.org/source/world-development-indicators> (Letzter Zugriff am 2025-06-11).
 3. UNESCO Institute for Statistics. 2023. *Education Data*. [online] verfügbar unter: <https://uis.unesco.org/> (Letzter Zugriff am 2025-06-11).
@@ -18413,7 +18937,7 @@ Indien ist eine dynamische Demokratie mit schneller wirtschaftlicher Entwicklung
 7. UNESCO. 2024. *World Heritage List*. [online] verfügbar unter: <https://whc.unesco.org/> (Letzter Zugriff am 2025-06-11).
 8. SIPRI. 2024. *Military Expenditure Database*. [online] verfügbar unter: <https://www.sipri.org/> (Letzter Zugriff am 2025-06-11).
 
-##### 11.3 🛠️ Modellierungen & Annahmen
+###### 11.3 🛠️ Modellierungen & Annahmen
 * Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
 * Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
@@ -18439,14 +18963,13 @@ Indien ist eine dynamische Demokratie mit schneller wirtschaftlicher Entwicklung
 * Solar PV Potenzial bis 2075: 1000 GW (ambitioniert).
 * Quellen: IRENA, nationale Pläne.
 
-#### 12. 🤝 Mitwirkung willkommen
+##### 12. 🤝 Mitwirkung willkommen
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Indien sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
-##### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: ERDA Buch Redaktion (siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon)).
-Kontakt: siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon).
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
-Letzte Änderung: 2025-06-11
+###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 
 
 \newpage
@@ -18462,11 +18985,12 @@ version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-5-staatenprofile-erda-globale-assoziierte-jp-staatenprofil-japan"></a>
 
-## JP - Staatenprofil Japan
 
-### 🇯🇵 ERDA-Staatenprofil: Japan
+### JP - Staatenprofil Japan
 
-#### 1. Überblick (Meta)
+#### 🇯🇵 ERDA-Staatenprofil: Japan
+
+##### 1. Überblick (Meta)
 
 * 🏳️‍📕 Offizieller Name: Japan (Nippon-koku)
 * 🗺️ Geografische Lage: Inselstaat in Ostasien, nordwestlicher Pazifik
@@ -18477,7 +19001,7 @@ version: "1.0"
 
 ***
 
-#### 2. Demografie & Gesellschaft
+##### 2. Demografie & Gesellschaft
 
 * Bevölkerung (2050/2075-Prognose): 104 Mio. / 88 Mio. (UN WPP 2022, hypothetisch: ERDA Scenario Modeling Report 2025)
 * Altersstruktur (Medianalter, Jugendanteil, Altenquotient): 48,4 Jahre, 12 %, 48 %
@@ -18489,7 +19013,7 @@ version: "1.0"
 
 ***
 
-#### 3. Wirtschaft & Innovation
+##### 3. Wirtschaft & Innovation
 
 * Bruttoinlandsprodukt (BIP, real, 2023 / 2050 / 2075): 4,2 Bio. USD[4] / 5,5 Bio. USD / 6,0 Bio. USD (2050/2075 hypothetisch: ERDA Scenario Modeling Report 2025)
 * BIP pro Kopf: 33.800 USD (2023)
@@ -18501,7 +19025,7 @@ version: "1.0"
 * Mitglied im Democracy Trade Network: Ja
 * Nutzung von EHAM+ (0–10): 7
 
-##### 3.1 Infrastrukturautarkie
+###### 3.1 Infrastrukturautarkie
 
 * Energie ☑, IT/Cloud ☑, Verteidigung ☑, Ernährung ☐
 * Satellitenkommunikation (IRIS²) ☑
@@ -18510,22 +19034,22 @@ version: "1.0"
 
 ***
 
-#### 4. Ressourcenprofil
+##### 4. Ressourcenprofil
 
-##### 🌱 Natürliche Ressourcen:
+###### 🌱 Natürliche Ressourcen:
 
 * Land-/Meeresfläche: 377.930 km² / 4,5 Mio. km² EEZ
 * Strategische Rohstoffe: Seltene Erden (begrenzte Vorkommen), Fischgründe, Forstwirtschaft
 * Erneuerbare Energiepotenziale: Geothermie (hoch), Solar (hoch), Wind (offshore vielversprechend)
 * Biodiversität & Schutzgebiete (%): 21 % Schutzfläche
 
-##### 👥 Soziale Ressourcen:
+###### 👥 Soziale Ressourcen:
 
 * Ehrenamt & Gemeinschaftskultur: stark ausgeprägt
 * Civic-Tech-Nutzung (z. B. CIVITAS): hoch
 * Gesundheitssystem (Zugänglichkeit, Prävention): sehr gut
 
-##### 🔒 Politische Ressourcen:
+###### 🔒 Politische Ressourcen:
 
 * Verfassungsbindung: Ja
 * Direkte Demokratieinstrumente: begrenzt (Bürgerpetitionen, Referenden lokal)
@@ -18534,7 +19058,7 @@ version: "1.0"
 
 ***
 
-#### 5. Sicherheit & strategische Rolle (EDA)
+##### 5. Sicherheit & strategische Rolle (EDA)
 
 * Militärisches Potenzial:
   * ☑ DSN-geeignet
@@ -18547,7 +19071,7 @@ version: "1.0"
 
 ***
 
-#### 6. Kulturelle Identität & Soft Power
+##### 6. Kulturelle Identität & Soft Power
 
 * Sprachen / indigene Kulturen: Japanisch; indigene Ainu im Norden
 * UNESCO-Welterbe / Kulturstätten: u.a. Himeji-Schloss, Berg Fuji, traditionelles Noh-Theater
@@ -18557,9 +19081,9 @@ version: "1.0"
 
 ***
 
-#### 7. Entwicklungspfad (2025–2075)
+##### 7. Entwicklungspfad (2025–2075)
 
-##### 🔭 Szenario-Entwicklung:
+###### 🔭 Szenario-Entwicklung:
 
 * **Status 2025:** Technologische und wirtschaftliche Großmacht mit Herausforderungen bei Demografie und Energieimporten
 * **Best Case 2075:** Klimaneutrale Hochtechnologiegesellschaft mit starker gesellschaftlicher Resilienz
@@ -18575,7 +19099,7 @@ Künstliche Intelligenz, Robotik, Energiewende, inkl. Wasserstoffwirtschaft
 **Transformation 2050–2075:**\
 Demografischer Wandel gemildert, verstärkte regionale Integration im Indo-Pazifik, Ausbau erneuerbarer Energien
 
-##### 🚀 Rolle in der ERDA-Vision 2075:
+###### 🚀 Rolle in der ERDA-Vision 2075:
 
 > _„Japan bleibt 2075 ein zentraler Technologie- und Wertepartner für Europa und die demokratische Weltgemeinschaft.“_
 
@@ -18585,7 +19109,7 @@ Demografischer Wandel gemildert, verstärkte regionale Integration im Indo-Pazif
 
 ***
 
-#### 8. Narrative & Anwerbewirkung
+##### 8. Narrative & Anwerbewirkung
 
 > _„Japan verbindet Tradition und Spitzentechnologie zu einem einzigartigen Gesellschaftsmodell, das weltweit fasziniert.“_
 
@@ -18595,7 +19119,7 @@ Demografischer Wandel gemildert, verstärkte regionale Integration im Indo-Pazif
 
 ***
 
-#### 9. Kennzahlenübersicht (Kurzform)
+##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2023     | 2050      | 2075      |
 | ------------------------------------- | -------- | --------- | --------- |
@@ -18611,19 +19135,19 @@ Demografischer Wandel gemildert, verstärkte regionale Integration im Indo-Pazif
 
 ***
 
-#### 10. Kurzfassung: „Japan auf einen Blick“
+##### 10. Kurzfassung: „Japan auf einen Blick“
 
 Japan ist ein technologisch hochentwickelter Inselstaat mit starker Demokratie und weltweiter kultureller Ausstrahlung. Demografische Herausforderungen und ein hoher Energieimportbedarf prägen die Strategie, während Innovationen in Robotik und KI das Land zu einem wichtigen Partner für die ERDA machen.
 
-#### 11. Quellen & Modellierungen
+##### 11. Quellen & Modellierungen
 
-##### 11.1 ℹ️ Allgemeines
+###### 11.1 ℹ️ Allgemeines
 
 * Statistik: World Bank Data (Bevölkerung, BIP, Urbanisierung), Basisjahr 2023
 * Modelle: UN World Population Prospects 2022 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Energie- und Innovationsdaten laut japanischer Regierungsstrategien (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-##### 11.2 📎 Verwendete Quellen & Verweise
+###### 11.2 📎 Verwendete Quellen & Verweise
 
 **Demografie & Gesellschaft**
 * **Quelle:** World Bank, [https://data.worldbank.org](https://data.worldbank.org)
@@ -18641,7 +19165,7 @@ Japan ist ein technologisch hochentwickelter Inselstaat mit starker Demokratie u
 * **Quelle:** Japan Ministry of Defense Annual White Paper
 * **Modell:** EDA Capability Frameworks (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-##### 11.3 🛠️ Modellierungen & Annahmen
+###### 11.3 🛠️ Modellierungen & Annahmen
 * Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
 * Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
@@ -18651,15 +19175,14 @@ Japan ist ein technologisch hochentwickelter Inselstaat mit starker Demokratie u
 
 ***
 
-#### 12. 🤝 Mitwirkung willkommen
+##### 12. 🤝 Mitwirkung willkommen
 
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen Japans sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft.
 
-##### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: ERDA Buch Redaktion (siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon)).
-Kontakt: siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon).
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
-Letzte Änderung: 2025-06-10
+###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 
 
 \newpage
@@ -18675,11 +19198,12 @@ version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-5-staatenprofile-erda-globale-assoziierte-kr-staatenprofil-sued-korea"></a>
 
-## KR - Staatenprofil Republik Korea
 
-### 🇰🇷 ERDA-Staatenprofil: Republik Korea
+### KR - Staatenprofil Republik Korea
 
-#### 1. Überblick (Meta)
+#### 🇰🇷 ERDA-Staatenprofil: Republik Korea
+
+##### 1. Überblick (Meta)
 
 * 🏳️ Offizieller Name: Republik Korea
 * 🗺️ Geografische Lage: Ostasien, südlicher Teil der koreanischen Halbinsel
@@ -18690,7 +19214,7 @@ version: "1.0"
 
 ***
 
-#### 2. Demografie & Gesellschaft
+##### 2. Demografie & Gesellschaft
 
 * Bevölkerung Prognose (2050 / 2075): 46 Mio. / 38 Mio. (UN World Population Prospects 2022)
 * Altersstruktur (Medianalter, Jugendanteil %, Altenquotient): 45,6 Jahre, 13 % Jugend, Altenquotient 37 % (UN, 2025)
@@ -18702,7 +19226,7 @@ version: "1.0"
 
 ***
 
-#### 3. Wirtschaft & Innovation
+##### 3. Wirtschaft & Innovation
 
 * Bruttoinlandsprodukt (BIP real, heute / 2050 / 2075 in Mrd. EUR): 1.6 T / 2.1 T (hypothetisch: ERDA Scenario Modeling Report 2025) / 2.4 T (hypothetisch: ERDA Scenario Modeling Report 2025)
 * BIP pro Kopf (EUR): 31.000 (World Bank 2023)
@@ -18714,7 +19238,7 @@ version: "1.0"
 * Mitglied im Democracy Trade Network: Ja
 * Nutzung von EHAM+ (Handelsabwehr) [0–10]: 7 (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-##### 3.1 Infrastrukturautarkie
+###### 3.1 Infrastrukturautarkie
 
 * Energie ☑, IT/Cloud ☑, Verteidigung ☑, Ernährung ☐
 * Satellitenkommunikation (IRIS²) ☑
@@ -18723,9 +19247,9 @@ version: "1.0"
 
 ***
 
-#### 4. Ressourcenprofil
+##### 4. Ressourcenprofil
 
-##### 🌱 Natürliche Ressourcen
+###### 🌱 Natürliche Ressourcen
 
 * Landfläche: 100.210 km² (UN 2023)
 * Meeresfläche: ausschließliche Wirtschaftszone 300.851 km² (KOSIS 2023)
@@ -18734,13 +19258,13 @@ version: "1.0"
 * Anteil Biodiversität & Schutzgebiete (% der Fläche): 7 % (Ministry of Environment Korea 2024)
 * Nachhaltigkeitskennzahlen: CO$_2$-Ausstoß pro Kopf 11 t, Recyclingquote 86 %, Materialverbrauch 13 t (UN SDG 2023)
 
-##### 🧑‍🤝‍🧑 Soziale Ressourcen
+###### 🧑‍🤝‍🧑 Soziale Ressourcen
 
 * Ehrenamt & Gemeinschaftskultur (Index [0–10]): 6
 * CIVITAS-Partizipationsindex [0–10]: 7 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Gesundheitssystem (Zugänglichkeit [0–10], Prävention [0–10]): 9 / 8 (WHO 2023)
 
-##### 🛡️ Politische Ressourcen
+###### 🛡️ Politische Ressourcen
 
 * Verfassungsbindung: Ja
 * Direkte Demokratieinstrumente: Teilweise (lokale Referenden)
@@ -18751,7 +19275,7 @@ version: "1.0"
 
 ***
 
-#### 5. Sicherheit & Strategische Rolle (EDA)
+##### 5. Sicherheit & Strategische Rolle (EDA)
 
 * Militärisches Potenzial:
   * ☑ DSN-geeignet
@@ -18765,7 +19289,7 @@ version: "1.0"
 * Zivile Resilienzprogramme: vorhanden (Katastrophenschutz)
 * Drohnen-/Raumfahrt-/KI-Kapazitäten: vorhanden
 
-##### 5.1 Arktisstrategie & Planetare Verantwortung (optional für Arktis-Staaten)
+###### 5.1 Arktisstrategie & Planetare Verantwortung (optional für Arktis-Staaten)
 
 * Integration in EDA-DSN Nordmeer: Nein
 * Beteiligung am Arctic Resilience Observatory: Nein
@@ -18774,7 +19298,7 @@ version: "1.0"
 
 ***
 
-#### 6. Kulturelle Identität & Soft Power
+##### 6. Kulturelle Identität & Soft Power
 
 * Sprachen / Indigene Kulturen: Koreanisch; Minderheiten Sprachen (z. B. Jeju)
 * UNESCO-Welterbe / Kulturstätten (Anzahl): 16 (UNESCO 2024)
@@ -18784,16 +19308,16 @@ version: "1.0"
 
 ***
 
-#### 7. Entwicklungspfad (2025–2075)
+##### 7. Entwicklungspfad (2025–2075)
 
-##### 🔭 Szenario-Entwicklung
+###### 🔭 Szenario-Entwicklung
 
 * **Status 2025:** Hochindustrialisierter Staat mit innovativer Wirtschaft und digitaler Gesellschaft
 * **Best Case 2050/2075:** Führende Wissensnation mit nachhaltiger Wirtschaft und hoher Lebensqualität (hypothetisch: ERDA Scenario Modeling Report 2025)
 * **Base Case 2050/2075:** Stabiler Wohlstand, führend in Hightech und erneuerbaren Energien (hypothetisch: ERDA Scenario Modeling Report 2025)
 * **Worst Case 2050/2075:** Demografiekrise schwächt Wirtschaftskraft, Spannungen mit Nachbarn (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-##### 🚀 Rolle in der ERDA-Vision 2075
+###### 🚀 Rolle in der ERDA-Vision 2075
 
 * Beitrag zur Post-Knappheitsökonomischen Ordnung: bedeutend bei Digitalisierung und Innovation
 * Demokratische Resilienz (sozial, kulturell, ökologisch): hoch
@@ -18801,7 +19325,7 @@ version: "1.0"
 
 ***
 
-#### 8. Narrative & Anwerbewirkung
+##### 8. Narrative & Anwerbewirkung
 
 > _„Südkorea zeigt, wie technologischer Fortschritt und demokratische Werte Hand in Hand gehen können.“_
 
@@ -18811,7 +19335,7 @@ version: "1.0"
 
 ***
 
-#### 9. Kennzahlenübersicht (Kurzform)
+##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025  | 2050 (p) | 2075 (p) | EU-Durchschnitt 2024 |
 | ------------------------------------- | ----- | -------- | -------- | ------------------- |
@@ -18827,13 +19351,13 @@ Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 
-#### 10. Kurzfassung: „Südkorea auf einen Blick“
+##### 10. Kurzfassung: „Südkorea auf einen Blick“
 
 Südkorea ist eine dynamische Hochtechnologienation mit starker demokratischer Tradition und weltweit führender Innovationskraft. Trotz demografischer Herausforderungen bleibt das Land ein bedeutender Partner für Europa und das ERDA-Netzwerk.
 
-#### 11. Quellen & Modellierungen
+##### 11. Quellen & Modellierungen
 
-##### 11.1 ℹ️ Allgemeines
+###### 11.1 ℹ️ Allgemeines
 
 * **Statistik:** World Bank, OECD und nationale Quellen; Basisjahr 2023 für aktuelle Werte
 * **Modellannahmen zur Wirtschaftsentwicklung:** Wachstumsprognosen 1,8 % p.a., Inflation 2 % p.a. (hypothetisch: ERDA Scenario Modeling Report 2025)
@@ -18842,7 +19366,7 @@ Südkorea ist eine dynamische Hochtechnologienation mit starker demokratischer T
 * **Demokratie & Rechtsstaatlichkeit:** Freedom House 2024, World Justice Project 2023
 * **Nachhaltigkeits- und Ressourcenindikatoren:** UN SDG Datenbank 2023
 
-##### 11.2 📎 Verwendete Quellen & Verweise
+###### 11.2 📎 Verwendete Quellen & Verweise
 
 1. World Bank. 2024. "World Development Indicators". <https://databank.worldbank.org/source/world-development-indicators> (Letzter Zugriff am 2025-06-10).
 2. OECD. 2023. "Education at a Glance". [https://www.oecd.org/education/education-at-a-glance/](https://www.oecd.org/education/education-at-a-glance/) (Letzter Zugriff am 2025-06-10).
@@ -18851,7 +19375,7 @@ Südkorea ist eine dynamische Hochtechnologienation mit starker demokratischer T
 5. SIPRI. 2024. "Military Expenditure Database". [https://sipri.org](https://sipri.org) (Letzter Zugriff am 2025-06-10).
 6. World Justice Project. 2023. "Rule of Law Index". [https://worldjusticeproject.org](https://worldjusticeproject.org) (Letzter Zugriff am 2025-06-10).
 
-##### 11.3 🛠️ Modellierungen & Annahmen
+###### 11.3 🛠️ Modellierungen & Annahmen
 * Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
 * Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
@@ -18864,15 +19388,14 @@ Südkorea ist eine dynamische Hochtechnologienation mit starker demokratischer T
 
 ***
 
-#### 12. 🤝 Mitwirkung willkommen
+##### 12. 🤝 Mitwirkung willkommen
 
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Korea sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
-##### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: ERDA Buch Redaktion (siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon)).
-Kontakt: siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon).
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
-Letzte Änderung: 2025-06-10
+###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 
 
 \newpage
@@ -18888,11 +19411,12 @@ version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-5-staatenprofile-erda-globale-assoziierte-na-staatenprofil-namibia"></a>
 
-## NA - Staatenprofil Namibia
 
-### 🇳🇦 ERDA-Staatenprofil: Namibia
+### NA - Staatenprofil Namibia
 
-#### 1. Überblick (Meta)
+#### 🇳🇦 ERDA-Staatenprofil: Namibia
+
+##### 1. Überblick (Meta)
 
 * **Offizieller Name:** Republik Namibia
 * **Geografische Lage (Kontinent, Region):** Südwestafrika, Atlantikküste; grenzt an Angola, Sambia, Botswana und Südafrika
@@ -18901,7 +19425,7 @@ version: "1.0"
 * 📅 ERDA-Status: Globale/r Assoziierter
 * **Zukünftige Rolle im ERDA-Netzwerk:** Partner für erneuerbare Energie und Hafenlogistik (Walvis Bay)
 
-#### 2. Demografie & Gesellschaft
+##### 2. Demografie & Gesellschaft
 
 * **Bevölkerung Prognose (2050 / 2075):** 3,3 Mio. / 3,9 Mio. (UN WPP 2022, hypothetisch: ERDA Scenario Modeling Report 2025)
 * **Altersstruktur:** Median 22 Jahre; Jugendanteil 36 %; Altenquotient 5 % (UN Data)
@@ -18911,7 +19435,7 @@ version: "1.0"
 * **Migrationssaldo ∅ (2025–2075):** −0,1 % p.a. (UN WPP 2022, hypothetisch: ERDA Scenario Modeling Report 2025)
 * **Soziale Kohäsion:** moderat; Demokratievertrauen 6/10 (WHR 2024)
 
-#### 3. Wirtschaft & Innovation
+##### 3. Wirtschaft & Innovation
 
 * **BIP (USD, 2023 / 2050 / 2075):** 12,4 Mrd. / 20 Mrd. / 35 Mrd. (2050/2075 hypothetisch: ERDA Scenario Modeling Report 2025)[^wb-gdp-na]
 * **BIP pro Kopf (USD, 2023):** 4 168[^wb-gdppc-na]
@@ -18923,16 +19447,16 @@ version: "1.0"
 * **Mitglied im Democracy Trade Network:** Beobachter
 * **EHAM+ Score (0–10):** 3
 
-##### 3.1 Infrastrukturautarkie
+###### 3.1 Infrastrukturautarkie
 
 * Energie ☐, IT/Cloud ☐, Verteidigung ☐, Ernährung ☐
 * Satellitenkommunikation (IRIS²) ☐
 * Quantentechnologie ☐
 * Autonome Logistiksysteme ☐
 
-#### 4. Ressourcenprofil
+##### 4. Ressourcenprofil
 
-##### Natürliche Ressourcen
+###### Natürliche Ressourcen
 
 * **Landfläche:** 824 292 km²
 * **Meeresfläche:** ~576 000 km² EEZ
@@ -18941,13 +19465,13 @@ version: "1.0"
 * **Biodiversität & Schutzgebiete:** 43 % Schutzfläche (MEFT 2024)
 * **Nachhaltigkeitskennzahlen:** CO$_2$-Ausstoß 1,7 t pro Kopf (2022); Recyclingquote 5 % (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-##### Soziale Ressourcen
+###### Soziale Ressourcen
 
 * **Ehrenamt & Gemeinschaftskultur:** 6/10 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * **CIVITAS-Partizipationsindex:** 5/10 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * **Gesundheitssystem:** Zugang 6/10; Prävention 5/10
 
-##### Politische Ressourcen
+###### Politische Ressourcen
 
 * **Verfassungsbindung:** Ja (Verfassung von 1990)
 * **Direkte Demokratieinstrumente:** Teilweise (lokale Referenden)
@@ -18956,7 +19480,7 @@ version: "1.0"
 * **Rechtsstaatlichkeitsindex:** 6/10 (WJP 2023)
 * **Internationale Vertrauenswerte:** 6/10 (AFROBAROM 2024)
 
-#### 5. Sicherheit & Strategische Rolle (EDA)
+##### 5. Sicherheit & Strategische Rolle (EDA)
 
 * **Militärisches Potenzial:**
   * DSN-geeignet ☐
@@ -18967,14 +19491,14 @@ version: "1.0"
 * **Zivile Resilienzprogramme:** Teilweise (Katastrophenschutz)
 * **Drohnen-/Raumfahrt-/KI-Kapazitäten:** Nicht vorhanden
 
-#### 5.1 Arktisstrategie & Planetare Verantwortung
+##### 5.1 Arktisstrategie & Planetare Verantwortung
 
 * Integration in EDA-DSN Nordmeer: Nein
 * Beteiligung am Arctic Resilience Observatory: Nein
 * Umsetzung Arctic Democracy Mining Act: Nein
 * Partnerschaften mit indigenen Gemeinschaften: Ja (regionale Kooperationen)
 
-#### 6. Kulturelle Identität & Soft Power
+##### 6. Kulturelle Identität & Soft Power
 
 * **Sprachen / Indigene Kulturen:** Englisch (Amtssprache), Afrikaans, Deutsch, Oshiwambo u. a.
 * **UNESCO-Welterbe / Kulturstätten:** Twyfelfontein, Namib-Sandmeer
@@ -18982,22 +19506,22 @@ version: "1.0"
 * **Internationale Sichtbarkeit:** moderat (Tourismus, Sport)
 * **Kultur als Vermittlungsfaktor in Demokratienetzwerken:** 5/10
 
-#### 7. Entwicklungspfad (2025–2075)
+##### 7. Entwicklungspfad (2025–2075)
 
-##### Szenario-Entwicklung
+###### Szenario-Entwicklung
 
 * **Status 2025:** stabile Demokratie, exportorientierter Bergbau, hohe soziale Ungleichheit
 * **Best Case 2050/2075:** führender Solar- und Wasserstoffexporteur, Wohlstandszuwachs
 * **Base Case 2050/2075:** moderates Wachstum, Diversifizierung in Logistik & Energie
 * **Worst Case 2050/2075:** starke Klimaauswirkungen, Wasserknappheit, wirtschaftliche Stagnation
 
-##### Rolle in der ERDA-Vision 2075
+###### Rolle in der ERDA-Vision 2075
 
 * **Beitrag zur Post-Knappheitsökonomischen Ordnung:** erneuerbare Energie & grüne Wasserstoffkorridore
 * **Demokratische Resilienz:** solide, Ausbau lokaler Partizipation nötig
 * **Exemplarische Wirkung:** Vorbild für nachhaltige Ressourcennutzung im südlichen Afrika
 
-#### 8. Narrative & Anwerbewirkung
+##### 8. Narrative & Anwerbewirkung
 
 > _„Namibia zeigt, dass nachhaltiger Umgang mit Ressourcen und demokratische Stabilität in Afrika möglich sind.“_
 
@@ -19005,7 +19529,7 @@ version: "1.0"
 * **Zukunftswürde:** Stolz auf Natur und kulturelle Vielfalt
 * **Einladung an andere:** Signal für partnerschaftliche Entwicklung und grünen Handel
 
-#### 9. Kennzahlenübersicht (Kurzform)
+##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025     | 2050      | 2075      | EU-Durchschnitt 2024 |
 | ------------------------------------- | -------- | --------- | --------- | ------------------- |
@@ -19019,13 +19543,13 @@ version: "1.0"
 
 Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-#### 10. Kurzfassung: „Namibia auf einen Blick“
+##### 10. Kurzfassung: „Namibia auf einen Blick“
 
 Namibia ist ein rohstoffreiches Land mit viel Potenzial für Solar- und Windenergie. Eine stabile Demokratie und die strategische Lage an der Atlantikküste bieten Chancen für Partnerschaften im Energie- und Logistikbereich. Herausforderungen bleiben die soziale Ungleichheit und die Anpassung an den Klimawandel.
 
-#### 11. Quellen & Modellierungen
+##### 11. Quellen & Modellierungen
 
-##### 11.1 ℹ️ Allgemeines
+###### 11.1 ℹ️ Allgemeines
 
 * Statistik: World Bank, UN DESA; Basisjahr 2023
 * Modellannahmen zur Wirtschaftsentwicklung: UN WPP 2022, nationale Entwicklungspläne (hypothetisch: ERDA Scenario Modeling Report 2025)
@@ -19034,7 +19558,7 @@ Namibia ist ein rohstoffreiches Land mit viel Potenzial für Solar- und Windener
 * Demokratie & Rechtsstaatlichkeit: Freedom House 2024, WJP 2023
 * Nachhaltigkeits- und Ressourcenindikatoren: MEFT Namibia, Our World in Data
 
-##### 11.2 📎 Verwendete Quellen & Verweise
+###### 11.2 📎 Verwendete Quellen & Verweise
 
 1. **World Bank:** [Population, total – Namibia](https://api.worldbank.org/v2/country/NAM/indicator/SP.POP.TOTL) (Zugriff 2025-06-11)
 2. **World Bank:** [GDP, current US$ – Namibia](https://api.worldbank.org/v2/country/NAM/indicator/NY.GDP.MKTP.CD) (Zugriff 2025-06-11)
@@ -19042,7 +19566,7 @@ Namibia ist ein rohstoffreiches Land mit viel Potenzial für Solar- und Windener
 4. **Our World in Data:** [Mean years of schooling – Namibia](https://ourworldindata.org/grapher/mean-years-of-schooling.csv) (Zugriff 2025-06-11)
 5. **UN DESA:** *World Population Prospects 2022* (Zugriff 2025-06-11)
 
-##### 11.3 🛠️ Modellierungen & Annahmen
+###### 11.3 🛠️ Modellierungen & Annahmen
 * Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
 * Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
@@ -19052,15 +19576,14 @@ Namibia ist ein rohstoffreiches Land mit viel Potenzial für Solar- und Windener
 * Infrastrukturautarkie: qualitative Einschätzung nationaler Pläne (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Demokratie- und Beteiligungswerte: kombiniert aus Freedom House-Score und regionalen Umfragen (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-#### 12. 🤝 Mitwirkung willkommen
+##### 12. 🤝 Mitwirkung willkommen
 
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Namibia sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
-##### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: ERDA Buch Redaktion (siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon)).
-Kontakt: siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon).
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
-Letzte Änderung: 2025-06-11
+###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 
 <!-- Fußnotenverweise -->
 [^wb-pop-na]: World Bank – Population, total
@@ -19082,11 +19605,12 @@ version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-5-staatenprofile-erda-globale-assoziierte-nz-staatenprofil-neuseeland"></a>
 
-## NZ - Staatenprofil Neuseeland
 
-### 🇳🇿 ERDA-Staatenprofil: Neuseeland
+### NZ - Staatenprofil Neuseeland
 
-#### 1. Überblick (Meta)
+#### 🇳🇿 ERDA-Staatenprofil: Neuseeland
+
+##### 1. Überblick (Meta)
 
 * 🏳️ Offizieller Name: Neuseeland
 * 🗺️ Geografische Lage: Ozeanien, südwestlicher Pazifik
@@ -19097,7 +19621,7 @@ version: "1.0"
 
 ***
 
-#### 2. Demografie & Gesellschaft
+##### 2. Demografie & Gesellschaft
 
 * Bevölkerung Prognose (2050 / 2075): 5,69 Mio. / 6,02 Mio. (UN DESA World Population Prospects 2024, hypothetisch: ERDA Scenario Modeling Report 2025)[2]
 * Altersstruktur (Medianalter, Jugendanteil %, Altenquotient): 38 Jahre, 20 %, 29 % (World Bank 2023)
@@ -19109,7 +19633,7 @@ version: "1.0"
 
 ***
 
-#### 3. Wirtschaft & Innovation
+##### 3. Wirtschaft & Innovation
 
 * Bruttoinlandsprodukt (BIP real, heute / 2050 / 2075 in Mrd. EUR): 230 / 310 (p) / 370 (p)
 * BIP pro Kopf (EUR): 41 000
@@ -19121,7 +19645,7 @@ version: "1.0"
 * Mitglied im Democracy Trade Network: Ja
 * Nutzung von EHAM+ (Handelsabwehr) [0–10]: 5
 
-##### 3.1 Infrastrukturautarkie
+###### 3.1 Infrastrukturautarkie
 
 * Produktionssouveränität in strategischen Sektoren:
   * Energie ☑
@@ -19134,9 +19658,9 @@ version: "1.0"
 
 ***
 
-#### 4. Ressourcenprofil
+##### 4. Ressourcenprofil
 
-##### 🌱 Natürliche Ressourcen
+###### 🌱 Natürliche Ressourcen
 
 * Landfläche (km²): 268 838 (World Bank 2023)[6]
 * Meeresfläche (falls relevant, km²): 4 083 744 ausschließliche Wirtschaftszone (UNEP 2024)
@@ -19145,13 +19669,13 @@ version: "1.0"
 * Anteil Biodiversität & Schutzgebiete (% der Fläche): 30 % (Department of Conservation NZ 2024)
 * Nachhaltigkeitskennzahlen (CO$_2$-Ausstoß pro Kopf, Recyclingquote, Materialverbrauch pro Kopf): 6,7 t CO$_2$, 41 %, 23 t (World Bank 2023)
 
-##### 🧑‍🤝‍🧑 Soziale Ressourcen
+###### 🧑‍🤝‍🧑 Soziale Ressourcen
 
 * Ehrenamt & Gemeinschaftskultur (Index [0–10]): 7
 * CIVITAS-Partizipationsindex [0–10]: 7
 * Gesundheitssystem (Zugänglichkeit [0–10], Prävention [0–10]): 8 / 7
 
-##### 🛡️ Politische Ressourcen
+###### 🛡️ Politische Ressourcen
 
 * Verfassungsbindung: Ja
 * Direkte Demokratieinstrumente: Teilweise (Referenden möglich)
@@ -19162,7 +19686,7 @@ version: "1.0"
 
 ***
 
-#### 5. Sicherheit & strategische Rolle (EDA)
+##### 5. Sicherheit & strategische Rolle (EDA)
 
 * Militärisches Potenzial:
   * DSN-geeignet ☐
@@ -19176,7 +19700,7 @@ version: "1.0"
 * Zivile Resilienzprogramme: Vorhanden
 * Drohnen-/Raumfahrt-/KI-Kapazitäten: Teilweise vorhanden
 
-##### 5.1 Arktisstrategie & Planetare Verantwortung (optional für Arktis-Staaten)
+###### 5.1 Arktisstrategie & Planetare Verantwortung (optional für Arktis-Staaten)
 
 * Integration in EDA-DSN Nordmeer: Nein
 * Beteiligung am Arctic Resilience Observatory: Nein
@@ -19185,7 +19709,7 @@ version: "1.0"
 
 ***
 
-#### 6. Kulturelle Identität & Soft Power
+##### 6. Kulturelle Identität & Soft Power
 
 * Sprachen / Indigene Kulturen: Englisch, Maori, NZ Sign Language
 * UNESCO-Welterbe / Kulturstätten (Anzahl): 3 Stätten (UNESCO 2024)[8]
@@ -19195,9 +19719,9 @@ version: "1.0"
 
 ***
 
-#### 7. Entwicklungspfad (2025–2075)
+##### 7. Entwicklungspfad (2025–2075)
 
-##### 🔭 Szenario-Entwicklung
+###### 🔭 Szenario-Entwicklung
 
 * **Status 2025:** Offene, stabile Gesellschaft mit starker Umweltpolitik und exportorientierter Landwirtschaft
 * **Best Case 2075:** Führender grüner Inselstaat mit Hightech-Landwirtschaft und sauberer Energie
@@ -19213,7 +19737,7 @@ Ausbau erneuerbarer Energien, Digitalisierung im Landwirtschaftssektor, Infrastr
 **Transformation 2050–2075:**
 Technologische Aufwertung der Landwirtschaft, nachhaltiger Tourismus, KI-Einsatz in der Verwaltung
 
-##### 🚀 Rolle in der ERDA-Vision 2075
+###### 🚀 Rolle in der ERDA-Vision 2075
 
 > _„Neuseeland ist 2075 ein global vernetzter Öko-Innovationsstaat im Pazifik.“_
 
@@ -19223,7 +19747,7 @@ Technologische Aufwertung der Landwirtschaft, nachhaltiger Tourismus, KI-Einsatz
 
 ***
 
-#### 8. Narrative & Anwerbewirkung
+##### 8. Narrative & Anwerbewirkung
 
 > _„Neuseeland zeigt, dass ökologische Verantwortung und innovative Landwirtschaft Wohlstand schaffen können.“_
 
@@ -19233,7 +19757,7 @@ Technologische Aufwertung der Landwirtschaft, nachhaltiger Tourismus, KI-Einsatz
 
 ***
 
-#### 9. Kennzahlenübersicht (Kurzform)
+##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025   | 2050 (p) | 2075 (p) | EU-Durchschnitt 2024 |
 | ------------------------------------- | ------ | -------- | -------- | ------------------- |
@@ -19249,13 +19773,13 @@ Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 
-#### 10. Kurzfassung: „Neuseeland auf einen Blick“
+##### 10. Kurzfassung: „Neuseeland auf einen Blick“
 
 Neuseeland ist ein demokratischer Inselstaat mit starker Umweltagenda und innovativer Landwirtschaft. Hohe Lebensqualität, kulturelle Vielfalt und erneuerbare Energien prägen das Land und machen es zu einem inspirierenden Partner für Europa.
 
-#### 11. Quellen & Modellierungen
+##### 11. Quellen & Modellierungen
 
-##### 11.1 ℹ️ Allgemeines
+###### 11.1 ℹ️ Allgemeines
 
 * Statistik: World Bank, OECD; Basisjahr 2023
 * Modellannahmen zur Wirtschaftsentwicklung: eigenes ERDA-Modell (hypothetisch: ERDA Scenario Modeling Report 2025)
@@ -19264,7 +19788,7 @@ Neuseeland ist ein demokratischer Inselstaat mit starker Umweltagenda und innova
 * Demokratie & Rechtsstaatlichkeit: Freedom House 2024
 * Nachhaltigkeits- und Ressourcenindikatoren: UNEP, Department of Conservation NZ
 
-##### 11.2 📎 Verwendete Quellen & Verweise
+###### 11.2 📎 Verwendete Quellen & Verweise
 
 1. World Bank. 2025. „Population, total – New Zealand“. [https://api.worldbank.org/v2/country/NZL/indicator/SP.POP.TOTL](https://api.worldbank.org/v2/country/NZL/indicator/SP.POP.TOTL) (Letzter Zugriff am 2025-06-11).
 2. United Nations Department of Economic and Social Affairs. 2024. „World Population Prospects 2024 Revision“. [https://population.un.org/wpp](https://population.un.org/wpp) (Letzter Zugriff am 2025-06-11).
@@ -19275,7 +19799,7 @@ Neuseeland ist ein demokratischer Inselstaat mit starker Umweltagenda und innova
 7. Freedom House. 2024. „Freedom in the World 2024: New Zealand“. [https://freedomhouse.org](https://freedomhouse.org) (Letzter Zugriff am 2025-06-11).
 8. UNESCO. 2024. „World Heritage List: New Zealand". [https://whc.unesco.org](https://whc.unesco.org) (Letzter Zugriff am 2025-06-11).
 
-##### 11.3 🛠️ Modellierungen & Annahmen
+###### 11.3 🛠️ Modellierungen & Annahmen
 * Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
 * Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
@@ -19288,14 +19812,13 @@ Neuseeland ist ein demokratischer Inselstaat mit starker Umweltagenda und innova
 
 ***
 
-#### 12. 🤝 Mitwirkung willkommen
+##### 12. 🤝 Mitwirkung willkommen
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen von Neuseeland sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
-##### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: ERDA Buch Redaktion (siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon)).
-Kontakt: siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon).
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
-Letzte Änderung: 2025-06-11
+###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 
 
 
@@ -19312,11 +19835,12 @@ version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-5-staatenprofile-erda-globale-assoziierte-sn-staatenprofil-senegal"></a>
 
-## SN - Staatenprofil Senegal
 
-### 🇸🇳 ERDA-Staatenprofil: Senegal
+### SN - Staatenprofil Senegal
 
-#### 1. Überblick (Meta)
+#### 🇸🇳 ERDA-Staatenprofil: Senegal
+
+##### 1. Überblick (Meta)
 
 * 🏳️ Offizieller Name: Republik Senegal
 * 🗺️ Geografische Lage: Westafrika; grenzt an Mauretanien, Mali, Guinea, Guinea-Bissau und Gambia, Atlantikküste
@@ -19327,7 +19851,7 @@ version: "1.0"
 
 ***
 
-#### 2. Demografie & Gesellschaft
+##### 2. Demografie & Gesellschaft
 
 * Bevölkerung (2050/2075-Prognose): ca. 30 Mio. / 40 Mio.[^un-wpp-sn]
 * Altersstruktur (Medianalter, Jugendanteil, Altenquotient): 19 Jahre, 41 % unter 15, 3 % über 65[^un-wpp-sn]
@@ -19339,7 +19863,7 @@ version: "1.0"
 
 ***
 
-#### 3. Wirtschaft & Innovation
+##### 3. Wirtschaft & Innovation
 
 * Bruttoinlandsprodukt (BIP, real, heute / 2050 / 2075): 30,8 Mrd. USD / 60 Mrd. USD (hyp.) / 95 Mrd. USD (hyp.)[^wb-gdp-sn]
 * BIP pro Kopf: ca. 1 700 USD[^wb-gdppc-sn]
@@ -19350,7 +19874,7 @@ version: "1.0"
 * Mobile-Breitband-Verträge: 102 pro 100 Einwohner[^itu-sn]
 * KI-Forschungskapazität: im Aufbau, vereinzelte Hochschulprogramme (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-##### 3.1 Infrastrukturautarkie
+###### 3.1 Infrastrukturautarkie
 
 * Energie ☐, IT/Cloud ☐, Verteidigung ☐, Ernährung ☐
 * Satellitenkommunikation (IRIS²) ☐
@@ -19359,16 +19883,16 @@ version: "1.0"
 
 ***
 
-#### 4. Ressourcenprofil
+##### 4. Ressourcenprofil
 
-##### Natürliche Ressourcen
+###### Natürliche Ressourcen
 
 * CO$_2$‑Emissionen pro Kopf: 0,9 t (2022)[^wb-co2-sn]
 * Erneuerbare-Energien-Anteil am Strommix: 31 %[^ire-sn]
 * Wasser- und Landressourcen: Landwirtschaft 15 % des BIP, Anbau von Erdnüssen und Hirse
 * Kritische Rohstoffe: Phosphate, Gold
 
-##### Politische Ressourcen
+###### Politische Ressourcen
 
 * Gewaltenteilung mit starkem Präsidentenamt, Premierminister seit 2019 wieder eingesetzt
 * Wichtige Parteien: Alliance pour la République (APR), Parti Démocratique Sénégalais (PDS)
@@ -19377,13 +19901,13 @@ version: "1.0"
 * Digitale Verwaltungsservices im Aufbau (e‑Government‑Initiativen)
 * Verwaltungsreformen: Ausbau der kommunalen Entscheidungsbefugnisse
 
-##### Soziale Ressourcen
+###### Soziale Ressourcen
 
 * Soziale Kohäsion (subjektive Zufriedenheit): Score 4,85 (World Happiness Report 2024)[^whr-sn]
 
 ***
 
-#### 5. Sicherheit & Strategische Rolle (EDA)
+##### 5. Sicherheit & Strategische Rolle (EDA)
 
 * Militärische Ausgaben: 1,8 % des BIP (SIPRI 2023)[^sipri-sn]
 * NATO-Status: kein Mitglied
@@ -19393,7 +19917,7 @@ version: "1.0"
 
 ***
 
-#### 6. Kulturelle Identität & Soft Power
+##### 6. Kulturelle Identität & Soft Power
 
 * Sprachen / indigene Kulturen: Amtssprache Französisch, über 20 nationale Sprachen (u. a. Wolof)
 * UNESCO-Welterbe / Kulturstätten: Île de Gorée, Djoudj-Nationalpark u. a.
@@ -19403,16 +19927,16 @@ version: "1.0"
 
 ***
 
-#### 7. Entwicklungspfad (2025–2075)
+##### 7. Entwicklungspfad (2025–2075)
 
-##### Szenario-Entwicklung
+###### Szenario-Entwicklung
 
 * Status 2025: stabile Demokratie mit wachsender Wirtschaft, Herausforderungen bei Infrastruktur und Arbeitsmarkt
 * Best Case 2050/2075: regionaler Energiehub mit ausgebauter Solar- und Windkraft, gestärkte Bildungs- und Gesundheitsstrukturen
 * Base Case 2050/2075: moderates Wachstum, verbesserte regionale Integration
 * Worst Case 2050/2075: politische Instabilität durch Klimafolgen und soziale Ungleichheit
 
-##### Rolle in der ERDA-Vision 2075
+###### Rolle in der ERDA-Vision 2075
 
 * Beitrag zur Post-Knappheitsökonomischen Ordnung: Export erneuerbarer Energie
 * Demokratische Resilienz: solide, Ausbau lokaler Partizipation nötig
@@ -19420,7 +19944,7 @@ version: "1.0"
 
 ***
 
-#### 8. Narrative & Anwerbewirkung
+##### 8. Narrative & Anwerbewirkung
 
 * Kernbotschaft: „Senegal zeigt, wie demokratische Stabilität und kulturelle Vielfalt Westafrika verbinden.“
 * Selbstwirksamkeit: aktive Zivilgesellschaft und Jugendbewegungen
@@ -19429,7 +19953,7 @@ version: "1.0"
 
 ***
 
-#### 9. Kennzahlenübersicht (Kurzform)
+##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2023 | 2050 (proj.) | 2075 (proj.) | EU-Durchschnitt 2024 |
 | ------------------------------------- | ---- | ------------ | ------------ | ------------------- |
@@ -19441,15 +19965,15 @@ version: "1.0"
 | KI-Kapazität [0–10]                   | 2    | 4 (p)        | 6 (p)        |                     |
 | Zivilgesellschaftlicher Index [0–10]  | 5    | 6 (p)        | 7 (p)        |                     |
 
-#### 10. Kurzfassung: „Senegal auf einen Blick“
+##### 10. Kurzfassung: „Senegal auf einen Blick“
 
 Senegal ist eine politisch relativ stabile Demokratie in Westafrika mit stark wachsender Bevölkerung und bedeutenden erneuerbaren Energiepotenzialen. Das Land strebt eine größere regionale Vernetzung und wirtschaftliche Diversifizierung an. Herausforderungen bestehen in der Armutsbekämpfung, im Bildungsniveau und im Umgang mit klimatischen Risiken.
 
 ***
 
-#### 11. Quellen & Modellierungen
+##### 11. Quellen & Modellierungen
 
-##### 11.1 ℹ️ Allgemeines
+###### 11.1 ℹ️ Allgemeines
 
 * Statistik: Nationale Quellen (Agence Nationale de la Statistique et de la Démographie) und internationale Datenbanken (World Bank, UN WPP 2022)
 * Modelle: BIP- und Bevölkerungsprognosen nach UN WPP 2022 und OECD (hypothetisch: ERDA Scenario Modeling Report 2025)
@@ -19458,7 +19982,7 @@ Senegal ist eine politisch relativ stabile Demokratie in Westafrika mit stark wa
 * Demokratie & Rechtsstaatlichkeit: Freedom House, Transparency International
 * Nachhaltigkeitsindikatoren: UN SDG-Daten, Global Footprint Network
 
-##### 11.2 📎 Verwendete Quellen & Verweise
+###### 11.2 📎 Verwendete Quellen & Verweise
 
 **Demografie & Gesellschaft**
 1. United Nations. 2022. „World Population Prospects 2022“. [online] verfügbar unter: <https://population.un.org/wpp/> (Letzter Zugriff am 2025-06-11).
@@ -19472,7 +19996,7 @@ Senegal ist eine politisch relativ stabile Demokratie in Westafrika mit stark wa
 **Demokratie & Rechtsstaatlichkeit**
 4. Freedom House. 2024. „Freedom in the World 2024“. [online] verfügbar unter: <https://freedomhouse.org> (Letzter Zugriff am 2025-06-11).
 
-##### 11.3 🛠️ Modellierungen & Annahmen
+###### 11.3 🛠️ Modellierungen & Annahmen
 
 * Wirtschaftliche Projektionen 2050–2075: extrapoliert aus World-Bank-Trends (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Energiepotenziale: Szenarien nach IEA, nationale Strategiepapiere (hypothetisch: ERDA Scenario Modeling Report 2025)
@@ -19480,14 +20004,13 @@ Senegal ist eine politisch relativ stabile Demokratie in Westafrika mit stark wa
 
 ***
 
-#### 12. 🤝 Mitwirkung willkommen
+##### 12. 🤝 Mitwirkung willkommen
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Senegal sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
-##### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: ERDA Buch Redaktion (siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon)).
-Kontakt: siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon).
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
-Letzte Änderung: 2025-06-11
+###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 
 <!-- Fußnotenverweise -->
 [^wb-pop-sn]: World Bank – Population, total
@@ -19522,11 +20045,12 @@ version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-5-staatenprofile-erda-globale-assoziierte-tn-staatenprofil-tunesien"></a>
 
-## TN - Staatenprofil Tunesien
 
-### 🇹🇳 ERDA-Staatenprofil: Tunesien
+### TN - Staatenprofil Tunesien
 
-#### 1. Überblick (Meta)
+#### 🇹🇳 ERDA-Staatenprofil: Tunesien
+
+##### 1. Überblick (Meta)
 
 * **Offizieller Name:** Republik Tunesien
 * **Geografische Lage (Kontinent, Region):** Nordafrika, Mittelmeerküste
@@ -19535,7 +20059,7 @@ version: "1.0"
 * 📅 ERDA-Status: Globale/r Assoziierter
 * **Zukünftige Rolle im ERDA-Netzwerk:** Solarenergie-Hub und Brückenstaat Nordafrika (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-#### 2. Demografie & Gesellschaft
+##### 2. Demografie & Gesellschaft
 
 * **Bevölkerung Prognose (2050 / 2075):** ~13 Mio. / ~13,5 Mio. (UN WPP 2022, hypothetisch: ERDA Scenario Modeling Report 2025)
 * **Altersstruktur:** Median 34 Jahre; Jugendanteil 24 %; Altenquotient 14 % (UN Data 2023)
@@ -19545,7 +20069,7 @@ version: "1.0"
 * **Migrationssaldo ⌀ (2025–2075):** negativ (World Bank 2023, hypothetisch: ERDA Scenario Modeling Report 2025)
 * **Soziale Kohäsion:** moderate Zufriedenheit; Demokratievertrauen im Wandel (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-#### 3. Wirtschaft & Innovation
+##### 3. Wirtschaft & Innovation
 
 * **BIP (USD, 2023):** 48,5 Mrd. (World Bank)
 * **BIP pro Kopf (USD, 2023):** 3 978 (World Bank)
@@ -19557,21 +20081,21 @@ version: "1.0"
 * **Mitglied im Democracy Trade Network:** Nein
 * **Nutzung von EHAM+ (0–10):** 3
 
-##### 3.1 Infrastrukturautarkie
+###### 3.1 Infrastrukturautarkie
 
 * Energie ☑, IT/Cloud ☐, Verteidigung ☐, Ernährung ☐
 * Satellitenkommunikation (IRIS²) ☐
 * Quantentechnologie ☐
 * Autonome Logistiksysteme ☐
 
-#### 4. Ressourcenprofil
+##### 4. Ressourcenprofil
 
 * **Natürliche Ressourcen:** Erdgas, Phosphate, Eisen, Blei, Zink (USGS 2024)
 * **Erneuerbare Energiepotenziale:** Solar und Wind, >‎2‎00‎GWp Solar (IEA 2024, hypothetisch: ERDA Scenario Modeling Report 2025)
 * **Wasserverfügbarkeit:** begrenzt; höchste Nutzung in Landwirtschaft (FAO AQUASTAT 2023)
 * **Biokapazität / Ökologische Belastung:** über dem Mittelmeer-Durchschnitt (Global Footprint Network 2023)
 
-#### 5. Soziales & Bildung
+##### 5. Soziales & Bildung
 
 * **Bildungsindex (HDI 2023):** 0,72 (UNDP 2023)
 * **Ungleichheit (Gini 2020):** 35,1 (World Bank)
@@ -19579,39 +20103,39 @@ version: "1.0"
 * **Top-Bildungsschwerpunkte:** Ingenieurwesen, IT, Agrarwissenschaften (UNESCO 2024)
 * **Kulturelles Erbe:** Reich an UNESCO-Welterbestätten (z. B. Karthago, Medina von Tunis)
 
-#### 6. Infrastruktur & Digitalisierung
+##### 6. Infrastruktur & Digitalisierung
 
 * **Straßennetz:** ca. 20 000 km (World Bank 2023)
 * **Breitbandanschlüsse (2023):** 4,8 Mio. (ITU 2023)
 * **5G-Abdeckung (2025):** in Ballungsräumen (hypothetisch: ERDA Scenario Modeling Report 2025)
 * **Digitalisierungsgrad der Verwaltung:** fortschreitend (World Bank GovTech 2023)
 
-#### 7. Verteidigung & Sicherheit
+##### 7. Verteidigung & Sicherheit
 
 * **Militärausgaben (% des BIP, 2023):** 2,1 (SIPRI 2024)
 * **Sicherheitslage:** stabil, aber anhaltende wirtschaftliche Herausforderungen (World Bank 2024)
 * **Cybersecurity-Kapazität:** im Aufbau (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-#### 8. Politische & institutionelle Grundlagen
+##### 8. Politische & institutionelle Grundlagen
 
 * **Freedom House Score (2024):** 61/100
 * **Corruption Perceptions Index (2023):** 40/100 (Transparency International)
 * **Justizsystem:** gemischtes System aus französischem und islamischem Recht (CIA World Factbook 2024)
 * **Regionale Beziehungen:** Mitglied der Afrikanischen Union und Arabischen Liga
 
-#### 9. Nachhaltigkeit & Umwelt
+##### 9. Nachhaltigkeit & Umwelt
 
 * **CO$_2$-Emissionen (t pro Kopf, 2022):** 2,4 (World Bank)
 * **Erneuerbare Stromerzeugung (2023):** 6 % (IEA)
 * **Umweltpolitische Strategie:** Fokus auf Solarparks und Wasserressourcenmanagement (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-#### 10. Kurzfassung: „Tunesien auf einen Blick“
+##### 10. Kurzfassung: „Tunesien auf einen Blick“
 
 Tunesien ist ein nordafrikanischer Mittelmeerstaat mit junger Bevölkerung und solidem Bildungsniveau. Die Wirtschaft stützt sich auf Bergbau, Tourismus und Fertigung, wobei nachhaltige Energie ein wachsendes Potenzial bietet. Politisch befindet sich das Land in einem Reformprozess, strebt jedoch stabile demokratische Strukturen an und könnte als solares Brückenglied zwischen Europa und Afrika agieren.
 
-#### 11. Quellen & Modellierungen
+##### 11. Quellen & Modellierungen
 
-##### 11.1 ℹ️ Allgemeines
+###### 11.1 ℹ️ Allgemeines
 
 * Statistik: Kombination aus nationalen und internationalen Quellen (World Bank, UNDP, FAO)
 * Modellannahmen zur Wirtschaftsentwicklung: World Bank Economic Update 2025 (hypothetisch: ERDA Scenario Modeling Report 2025)
@@ -19620,7 +20144,7 @@ Tunesien ist ein nordafrikanischer Mittelmeerstaat mit junger Bevölkerung und s
 * Demokratie & Rechtsstaatlichkeit: Freedom House 2024
 * Nachhaltigkeits- und Ressourcenindikatoren: Global Footprint Network, IEA
 
-##### 11.2 📌 Verwendete Quellen & Verweise
+###### 11.2 📌 Verwendete Quellen & Verweise
 
 1. **World Bank:** [Population, total – Tunisia](https://api.worldbank.org/v2/country/TUN/indicator/SP.POP.TOTL) (Zugriff 2025-06-11)
 2. **World Bank:** [GDP, current US$ – Tunisia](https://api.worldbank.org/v2/country/TUN/indicator/NY.GDP.MKTP.CD) (Zugriff 2025-06-11)
@@ -19633,7 +20157,7 @@ Tunesien ist ein nordafrikanischer Mittelmeerstaat mit junger Bevölkerung und s
 9. **SIPRI:** [Military expenditure by country](https://sipri.org) (Zugriff 2025-06-11)
 10. **IEA:** [Renewables 2024](https://www.iea.org/reports/renewables-2024) (Zugriff 2025-06-11)
 
-##### 11.3 🛠️ Modellierungen & Annahmen
+###### 11.3 🛠️ Modellierungen & Annahmen
 * Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
 * Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
@@ -19643,15 +20167,14 @@ Tunesien ist ein nordafrikanischer Mittelmeerstaat mit junger Bevölkerung und s
 * Infrastrukturautarkie: Einschätzungen regionaler Energie- und Ressourcenpläne (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Demokratie- und Beteiligungswerte: Freedom House und regionale Analysen (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-#### 12. 🤝 Mitwirkung willkommen
+##### 12. 🤝 Mitwirkung willkommen
 
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Tunesien sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
-##### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: ERDA Buch Redaktion (siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon)).
-Kontakt: siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon).
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
-Letzte Änderung: 2025-06-11
+###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 
 
 
@@ -19668,11 +20191,12 @@ version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-5-staatenprofile-erda-globale-assoziierte-tw-staatenprofil-taiwan"></a>
 
-## TW - Staatenprofil Taiwan
 
-### 🇹🇼 ERDA-Staatenprofil: Taiwan
+### TW - Staatenprofil Taiwan
 
-#### 1. Überblick (Meta)
+#### 🇹🇼 ERDA-Staatenprofil: Taiwan
+
+##### 1. Überblick (Meta)
 
 * 🏳️ Offizieller Name: Republik China (Taiwan)
 * 🗺️ Geografische Lage: Ostasien, Insel im Westpazifik vor der Küste des chinesischen Festlands
@@ -19683,7 +20207,7 @@ version: "1.0"
 
 ***
 
-#### 2. Demografie & Gesellschaft
+##### 2. Demografie & Gesellschaft
 
 * Bevölkerung (2050/2075-Prognose): 20 Mio. / 18 Mio. (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Altersstruktur (Medianalter, Jugendanteil, Altenquotient): 43 Jahre, 12 %, 44 % [^2]
@@ -19695,7 +20219,7 @@ version: "1.0"
 
 ***
 
-#### 3. Wirtschaft & Innovation
+##### 3. Wirtschaft & Innovation
 
 * Bruttoinlandsprodukt (BIP, real, heute / 2050 / 2075): 959 Mrd. USD (2022) / 1 400 Mrd. USD / 1 800 Mrd. USD (hypothetisch: ERDA Scenario Modeling Report 2025) [^7]
 * BIP pro Kopf: 41 000 USD [^7]
@@ -19707,7 +20231,7 @@ version: "1.0"
 * Mitglied im Democracy Trade Network: Ja
 * Nutzung von EHAM+ (0–10): 7
 
-##### 3.1 Infrastrukturautarkie
+###### 3.1 Infrastrukturautarkie
 
 * Energie ☐, IT/Cloud ☑, Verteidigung ☐, Ernährung ☐
 * Satellitenkommunikation (IRIS²) ☑
@@ -19716,9 +20240,9 @@ version: "1.0"
 
 ***
 
-#### 4. Ressourcenprofil
+##### 4. Ressourcenprofil
 
-##### Natürliche Ressourcen
+###### Natürliche Ressourcen
 
 * Landfläche: 36 193 km² [^1]
 * Meeresfläche: n/b
@@ -19727,13 +20251,13 @@ version: "1.0"
 * Anteil Biodiversität & Schutzgebiete: 20 % [^11]
 * Nachhaltigkeitskennzahlen: CO$_2$-Ausstoß pro Kopf 11 t, Recyclingquote 55 %, Materialverbrauch 25 t pro Kopf [^12]
 
-##### Soziale Ressourcen
+###### Soziale Ressourcen
 
 * Ehrenamt & Gemeinschaftskultur (Index 0–10): 7 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * CIVITAS-Partizipationsindex 0–10: 6 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Gesundheitssystem (Zugänglichkeit 0–10, Prävention 0–10): 9 / 8 [^13]
 
-##### Politische Ressourcen
+###### Politische Ressourcen
 
 * Verfassungsbindung: Ja
 * Direkte Demokratieinstrumente: Teilweise
@@ -19744,7 +20268,7 @@ version: "1.0"
 
 ***
 
-#### 5. Sicherheit & Strategische Rolle (EDA)
+##### 5. Sicherheit & Strategische Rolle (EDA)
 
 * Militärisches Potenzial:
   * DSN-geeignet ☑
@@ -19758,7 +20282,7 @@ version: "1.0"
 * Zivile Resilienzprogramme: Teilweise
 * Drohnen-/Raumfahrt-/KI-Kapazitäten: Vorhanden
 
-##### 5.1 Arktisstrategie & Planetare Verantwortung (optional für Arktis-Staaten)
+###### 5.1 Arktisstrategie & Planetare Verantwortung (optional für Arktis-Staaten)
 
 * Integration in EDA-DSN Nordmeer: Nein
 * Beteiligung am Arctic Resilience Observatory: Nein
@@ -19767,7 +20291,7 @@ version: "1.0"
 
 ***
 
-#### 6. Kulturelle Identität & Soft Power
+##### 6. Kulturelle Identität & Soft Power
 
 * Sprachen / Indigene Kulturen: Mandarin, Hokkien, Hakka, indigene Minderheiten
 * UNESCO-Welterbe / Kulturstätten: 0 (UNESCO-Liste)
@@ -19777,16 +20301,16 @@ version: "1.0"
 
 ***
 
-#### 7. Entwicklungspfad (2025–2075)
+##### 7. Entwicklungspfad (2025–2075)
 
-##### Szenario-Entwicklung
+###### Szenario-Entwicklung
 
 * Status 2025: Technologische Führungsrolle in der Halbleiterproduktion
 * Best Case 2050/2075: Stärkung demokratischer Institutionen, Innovationsmotor der Region
 * Base Case 2050/2075: Stabile Wirtschaft mit hoher Innovationsquote
 * Worst Case 2050/2075: Geopolitische Spannungen, Handelsbeschränkungen (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-##### Rolle in der ERDA-Vision 2075
+###### Rolle in der ERDA-Vision 2075
 
 * Beitrag zur Post-Knappheitsökonomischen Ordnung: Hochentwickelte Fertigungs- und Wissensökonomie
 * Demokratische Resilienz (sozial, kulturell, ökologisch): Stabil
@@ -19794,7 +20318,7 @@ version: "1.0"
 
 ***
 
-#### 8. Narrative & Anwerbewirkung
+##### 8. Narrative & Anwerbewirkung
 
 * Kernbotschaft: „Taiwan zeigt, dass technologische Spitzenleistung und demokratische Werte vereinbar sind.“
 * Beispiele für starke, wirkungsvolle Narrative und Einladungen: Innovation im Dienst der Freiheit, Cyber-Sicherheit als Gemeinschaftsaufgabe
@@ -19804,7 +20328,7 @@ version: "1.0"
 
 ***
 
-#### 9. Kennzahlenübersicht (Kurzform)
+##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator | 2025 | 2050 | 2075 | EU-Durchschnitt 2024 |
 | --- | --- | --- | --- | --- |
@@ -19820,15 +20344,15 @@ Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
 ***
 
-#### 10. Kurzfassung: „Taiwan auf einen Blick“
+##### 10. Kurzfassung: „Taiwan auf einen Blick“
 
 Taiwan steht für dynamische Innovationskraft und demokratische Stabilität im Indopazifik. Das Land verbindet eine exportorientierte Hightech-Wirtschaft mit einer lebendigen Zivilgesellschaft und setzt auf internationale Kooperation.
 
 ***
 
-#### 11. Quellen & Modellierungen
+##### 11. Quellen & Modellierungen
 
-##### 11.1 ℹ️ Allgemeines
+###### 11.1 ℹ️ Allgemeines
 
 * **Statistik:** Nationale Quellen (National Statistics R.O.C.), internationale Datenbanken (IMF, UN WPP 2022)
 * **Modelle:** BIP-Prognosen nach IMF WEO 2023 (hypothetisch: ERDA Scenario Modeling Report 2025)
@@ -19837,7 +20361,7 @@ Taiwan steht für dynamische Innovationskraft und demokratische Stabilität im I
 * **Demokratie & Rechtsstaatlichkeit:** Freedom House, Bertelsmann Stiftung
 * **Nachhaltigkeitsindikatoren:** Global Footprint Network, UN SDG Daten
 
-##### 11.2 📎 Verwendete Quellen & Verweise
+###### 11.2 📎 Verwendete Quellen & Verweise
 
 **Demografie**
 1. United Nations. 2022. „World Population Prospects 2022“. [online] verfügbar unter: <https://population.un.org/wpp/> (Letzter Zugriff am 2025-06-11).
@@ -19851,7 +20375,7 @@ Taiwan steht für dynamische Innovationskraft und demokratische Stabilität im I
 **Gesundheit & Soziales**
 4. Ministry of Health and Welfare Taiwan. 2024. „National Health Insurance Annual Report“. [online] verfügbar unter: <https://www.mohw.gov.tw/> (Letzter Zugriff am 2025-06-11).
 
-##### 11.3 🛠️ Modellierungen & Annahmen
+###### 11.3 🛠️ Modellierungen & Annahmen
 * Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
 * Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
@@ -19862,14 +20386,13 @@ Taiwan steht für dynamische Innovationskraft und demokratische Stabilität im I
 
 ***
 
-#### 12. 🤝 Mitwirkung willkommen
+##### 12. 🤝 Mitwirkung willkommen
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Taiwan sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
-##### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: ERDA Buch Redaktion (siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon)).
-Kontakt: siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon).
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
-Letzte Änderung: 2025-06-11
+###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 
 [^1]: [restcountries.com](https://restcountries.com/v3.1/alpha/twn) (Abruf 2025-06-11).
 [^2]: [National Development Council Taiwan](https://www.ndc.gov.tw/) (Abruf 2025-06-11).
@@ -19905,11 +20428,12 @@ version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-5-staatenprofile-erda-globale-assoziierte-uy-staatenprofil-uruguay"></a>
 
-## UY - Staatenprofil Uruguay
 
-### 🇺🇾 ERDA-Staatenprofil: Uruguay
+### UY - Staatenprofil Uruguay
 
-#### 1. Überblick (Meta)
+#### 🇺🇾 ERDA-Staatenprofil: Uruguay
+
+##### 1. Überblick (Meta)
 
 * **Offizieller Name:** República Oriental del Uruguay
 * **Geografische Lage (Kontinent, Region):** Südamerika, La-Plata-Region zwischen Brasilien und Argentinien
@@ -19918,7 +20442,7 @@ version: "1.0"
 * 📅 ERDA-Status: Globale/r Assoziierter
 * **Zukünftige Rolle im ERDA-Netzwerk:** Digitaler Brückenstaat Mercosur-EU, Agrar- und Nachhaltigkeitspartner
 
-#### 2. Demografie & Gesellschaft
+##### 2. Demografie & Gesellschaft
 
 * **Bevölkerung Prognose (2050 / 2075):** ~3,6 Mio. / ~3,7 Mio. (UN WPP 2022, hypothetisch: ERDA Scenario Modeling Report 2025)
 * **Altersstruktur:** Median 36 Jahre; Jugendanteil 21 %; Altenquotient 22 % (UN DESA 2022)
@@ -19928,7 +20452,7 @@ version: "1.0"
 * **Migrationssaldo pro Jahr (∅ 2025–2075):** gering positiv (UN DESA Prognose)
 * **Soziale Kohäsion:** hoher Human Development Index (UNDP 2024)
 
-#### 3. Wirtschaft & Innovation
+##### 3. Wirtschaft & Innovation
 
 * **BIP real (heute / 2050 / 2075 in Mrd. EUR):** 71 / ~95 / ~120 (World Bank 2023, Projektion hypothetisch: ERDA Scenario Modeling Report 2025)
 * **BIP pro Kopf (EUR):** ~21 000 (World Bank 2023)
@@ -19940,7 +20464,7 @@ version: "1.0"
 * **Mitglied im Democracy Trade Network:** Beobachterstatus
 * **Nutzung von EHAM+ (0–10):** 5
 
-##### 3.1 Infrastrukturautarkie
+###### 3.1 Infrastrukturautarkie
 
 * Energie ☑
 * IT/Cloud ☑
@@ -19950,9 +20474,9 @@ version: "1.0"
 * Quantentechnologie ☐
 * Autonome Logistiksysteme ☐
 
-#### 4. Ressourcenprofil
+##### 4. Ressourcenprofil
 
-##### Natürliche Ressourcen
+###### Natürliche Ressourcen
 
 * **Landfläche:** 176 000 km²
 * **Strategische Rohstoffe:** Landwirtschaftliche Nutzflächen, Zellulose, Wasservorkommen
@@ -19960,13 +20484,13 @@ version: "1.0"
 * **Anteil Biodiversität & Schutzgebiete:** 17 %
 * **Nachhaltigkeitskennzahlen:** CO$_2$-Ausstoß pro Kopf 1,9 t (World Bank 2022); Recyclingquote 45 %
 
-##### Soziale Ressourcen
+###### Soziale Ressourcen
 
 * **Ehrenamt & Gemeinschaftskultur:** ausgeprägt in lokalen Vereinen
 * **CIVITAS-Partizipationsindex (0–10):** 7 (hypothetisch: ERDA Scenario Modeling Report 2025)
 * **Gesundheitssystem:** Zugänglichkeit 9/10; Prävention 8/10
 
-##### Politische Ressourcen
+###### Politische Ressourcen
 
 * **Verfassungsbindung:** Ja
 * **Direkte Demokratieinstrumente:** Teilweise (Volksbegehren)
@@ -19975,7 +20499,7 @@ version: "1.0"
 * **Rechtsstaatlichkeitsindex (0–10):** 7,5 (WJP 2023)
 * **Internationale Vertrauenswerte (0–10):** 7
 
-#### 5. Sicherheit & Strategische Rolle (EDA)
+##### 5. Sicherheit & Strategische Rolle (EDA)
 
 * **Militärisches Potenzial:**
   * DSN-geeignet ☐
@@ -19987,7 +20511,7 @@ version: "1.0"
 * **Zivile Resilienzprogramme:** Vorhanden
 * **Drohnen-/Raumfahrt-/KI-Kapazitäten:** begrenzt vorhanden
 
-#### 6. Kulturelle Identität & Soft Power
+##### 6. Kulturelle Identität & Soft Power
 
 * **Sprachen / Indigene Kulturen:** Spanisch; geringe indigene Bevölkerung (Charrúa)
 * **UNESCO-Welterbe / Kulturstätten:** 2 Stätten (Historisches Viertel Colonia del Sacramento, Fray Bentos Industriekultur)
@@ -19995,29 +20519,29 @@ version: "1.0"
 * **Internationale Sichtbarkeit:** gute Sporttradition (Fußball), einzelne Literatur- und Musikpreise
 * **Rolle der Kultur als Vermittlungsfaktor in Demokratienetzwerken (0–10):** 6
 
-#### 7. Entwicklungspfad (2025–2075)
+##### 7. Entwicklungspfad (2025–2075)
 
-##### Szenario-Entwicklung
+###### Szenario-Entwicklung
 
 * **Status 2025:** stabile Demokratie, hohe Lebensqualität, wachsende digitale Wirtschaft
 * **Best Case 2050/2075:** nachhaltiges Agrartechnologiezentrum und digital vernetzter Handelspartner
 * **Base Case 2050/2075:** solide Wirtschaftsentwicklung mit regionaler Integration
 * **Worst Case 2050/2075:** Klimatische Risiken gefährden Landwirtschaft, Abwanderung junger Fachkräfte
 
-##### Rolle in der ERDA-Vision 2075
+###### Rolle in der ERDA-Vision 2075
 
 * Beitrag zur Post-Knappheitsökonomischen Ordnung: Export klimaneutraler Agrarprodukte
 * Demokratische Resilienz: politisch stabil, sozial integrativ
 * Exemplarische Wirkung auf andere Staaten / Regionen: Vorbild für nachhaltige Transformation im Cono Sur
 
-#### 8. Narrative & Anwerbewirkung
+##### 8. Narrative & Anwerbewirkung
 
 * **Kernbotschaft:** „Uruguay zeigt, dass ein kleines Land durch Transparenz, stabile Institutionen und digitale Offenheit eine hohe Lebensqualität für alle sichern kann.“
 * **Selbstwirksamkeit:** starke lokale Mitbestimmung, digitale Beteiligungsplattformen
 * **Zukunftswürde:** Stolz auf demokratische Tradition und soziale Gerechtigkeit
 * **Einladung an andere Staaten & Bürger:innen:** Kooperation bei Nachhaltigkeit und Digitalisierung
 
-#### 9. Kennzahlenübersicht (Kurzform)
+##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2023 | 2050 (proj.) | 2075 (proj.) | EU-Durchschnitt 2024 |
 | ------------------------------------- | ---- | ------------ | ------------ | ------------------- |
@@ -20029,13 +20553,13 @@ version: "1.0"
 | KI-Kapazität [0–10]                   | 5    | 7 (hyp.)     | 8 (hyp.)     |                     |
 | Zivilgesellschaftlicher Index [0–10]  | 8    | 8,5 (hyp.)   | 9 (hyp.)     |                     |
 
-#### 10. Kurzfassung: „Uruguay auf einen Blick“
+##### 10. Kurzfassung: „Uruguay auf einen Blick“
 
 Uruguay ist eine stabile, wohlhabende Demokratie in Südamerika. Mit gut ausgebautem Sozialstaat und hoher Digitalisierung bietet das Land ein lebensfreundliches Umfeld und fungiert als Brücke zwischen Europa und Mercosur. Sein Fokus auf erneuerbare Energien und Agrartechnologie macht es zu einem attraktiven Partner für die ERDA-Vision 2075.
 
-#### 11. Quellen & Modellierungen
+##### 11. Quellen & Modellierungen
 
-##### 11.1 ℹ️ Allgemeines
+###### 11.1 ℹ️ Allgemeines
 
 * Statistik: Kombination aus World Bank, UN DESA und nationalen Quellen (Basisjahr 2023)
 * Modellannahmen zur Wirtschaftsentwicklung: Wachstum 2,0 % p.a., Inflation 5 % p.a. (hypothetisch: ERDA Scenario Modeling Report 2025)
@@ -20044,7 +20568,7 @@ Uruguay ist eine stabile, wohlhabende Demokratie in Südamerika. Mit gut ausgeba
 * Demokratie & Rechtsstaatlichkeit: Freedom House 2024, World Justice Project 2023
 * Nachhaltigkeits- und Ressourcenindikatoren: UNDP, World Bank
 
-##### 11.2 📎 Verwendete Quellen & Verweise
+###### 11.2 📎 Verwendete Quellen & Verweise
 
 1. World Bank. 2023. "Population, total – Uruguay". [online] verfügbar unter: <https://api.worldbank.org/v2/country/URY/indicator/SP.POP.TOTL> (Zugriff: 2025-06-11).
 2. World Bank. 2023. "GDP, current US$ – Uruguay". [online] verfügbar unter: <https://api.worldbank.org/v2/country/URY/indicator/NY.GDP.MKTP.CD> (Zugriff: 2025-06-11).
@@ -20052,7 +20576,7 @@ Uruguay ist eine stabile, wohlhabende Demokratie in Südamerika. Mit gut ausgeba
 4. Freedom House. 2024. "Freedom in the World". [online] verfügbar unter: <https://freedomhouse.org> (Zugriff: 2025-06-11).
 5. World Justice Project. 2023. *Rule of Law Index*. [online] verfügbar unter: <https://worldjusticeproject.org> (Zugriff: 2025-06-11).
 
-##### 11.3 🛠️ Modellierungen & Annahmen
+###### 11.3 🛠️ Modellierungen & Annahmen
 * Weitere Details zu allen hypothetischen Annahmen sind im **ERDA Scenario Modeling Report 2025** beschrieben (Hypothetischer Link: [https://erda-institut.example.org/report2025](https://erda-institut.example.org/report2025)).
 * Hinweise: (p) – Prognose, (hypothetisch: ERDA Scenario Modeling Report 2025)
 
@@ -20063,31 +20587,31 @@ Uruguay ist eine stabile, wohlhabende Demokratie in Südamerika. Mit gut ausgeba
 * Demokratie- und Beteiligungswerte: jährliche Verbesserung um 0,3 Punkte (hypothetisch: ERDA Scenario Modeling Report 2025)
 * Energiepotenziale: moderat vs. ambitioniert laut IEA (hypothetisch: ERDA Scenario Modeling Report 2025)
 
-#### 12. 🤝 Mitwirkung willkommen
+##### 12. 🤝 Mitwirkung willkommen
 
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Uruguay sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
-##### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: ERDA Buch Redaktion (siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon)).
-Kontakt: siehe [Anhang L: Kolophon](#l1-uber-dieses-kolophon).
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
-Letzte Änderung: 2025-06-11
+###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 
 
 \newpage
 
 <a id="md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union"></a>
-## Anhang C: Europa 2.0 – Fahrplan für eine lebenswerte, resiliente und führende Union
 
-### Europa 2.0 – Fahrplan für eine lebenswerte, resiliente und führende Union
+# Anhang C: Europa 2.0 – Fahrplan für eine lebenswerte, resiliente und führende Union
 
-#### Zielfrage
+## Europa 2.0 – Fahrplan für eine lebenswerte, resiliente und führende Union
+
+### Zielfrage
 
 > _Welche notwendigen Schritte sind erforderlich, um aus den vorhandenen Lemmas hin zu einem stabilen, lebenswerten, technologisch fortschrittlichen, nicht-erpressbaren, nachhaltigen, demokratischen und rechtsstaatlichen Europa zu wachsen – und damit einen Beitrag zur Zukunft der Menschheit zu leisten?_
 
 ***
 
-#### Kontext und Megatrends
+### Kontext und Megatrends
 
 Vor dem Hintergrund rasanter globaler Veränderungen muss Europa nicht nur institutionell erneuert, sondern auch auf folgende Zukunftstrends vorbereitet werden:
 
@@ -20100,7 +20624,7 @@ Vor dem Hintergrund rasanter globaler Veränderungen muss Europa nicht nur insti
 
 ***
 
-#### 1. Verfassungsrechtliche und institutionelle Neuausrichtung
+### 1. Verfassungsrechtliche und institutionelle Neuausrichtung
 
 Um Europas demokratische und rechtsstaatliche Substanz zu sichern, bedarf es einer tiefgreifenden verfassungsrechtlichen Erneuerung.
 
@@ -20116,7 +20640,7 @@ Um Europas demokratische und rechtsstaatliche Substanz zu sichern, bedarf es ein
 
 ***
 
-#### 2. Technologische Souveränität und Fortschritt
+### 2. Technologische Souveränität und Fortschritt
 
 Europa braucht eine robuste technologische Basis, um seine Autonomie und Innovationsführerschaft zu sichern.
 
@@ -20132,7 +20656,7 @@ Europa braucht eine robuste technologische Basis, um seine Autonomie und Innovat
 
 ***
 
-#### 3. Nachhaltigkeit und Klimaschutz als Leitprinzip
+### 3. Nachhaltigkeit und Klimaschutz als Leitprinzip
 
 Nachhaltiges Handeln muss als Leitprinzip in allen Politikfeldern verankert werden.
 
@@ -20148,7 +20672,7 @@ Nachhaltiges Handeln muss als Leitprinzip in allen Politikfeldern verankert werd
 
 ***
 
-#### 4. Sozial- und Wirtschaftsmodell
+### 4. Sozial- und Wirtschaftsmodell
 
 Soziale Sicherheit und wirtschaftliche Leistungsfähigkeit sind zwei Seiten derselben Medaille.
 
@@ -20163,7 +20687,7 @@ Soziale Sicherheit und wirtschaftliche Leistungsfähigkeit sind zwei Seiten ders
 
 ***
 
-#### 5. Außen-, Sicherheits- und Verteidigungspolitik
+### 5. Außen-, Sicherheits- und Verteidigungspolitik
 
 Nur eine handlungsfähige Union kann global Verantwortung übernehmen.
 
@@ -20178,7 +20702,31 @@ Nur eine handlungsfähige Union kann global Verantwortung übernehmen.
 
 ***
 
-#### 6. Kultur des Vertrauens und der Solidarität
+## 🟦 Fünf Realitätsfragen an Europas Politik
+
+Die demokratischen Europäer müssen sich ihrer Verantwortung für die Menschheit und für freiheitlich-demokratische Werte bewusst werden.
+Keine Legitimierung und keine Belohnung imperialer Ansprüche.
+
+1. **Warum keine demokratisch legitimierten internationalen Ordnungseinsätze, um Terrorismus, organisierte Kriminalität und mafiöse Strukturen zu zerschlagen?**
+   _Quick-Check: Worin unterscheidet sich ein imperialer Aggressor hiervon – außer durch Rhetorik?_
+
+2. **Warum keine europäisch geführte NATO-Präsenz in Grönland, ökologisch verantwortungsvoll (z. B. ~500 Kräfte), im Krisenfall skalierbar bis ~10.000?**
+   _Quick-Check: Ein defensiver, demokratisch legitimierter Arctic Defence Security Node (DSN)._
+
+3. **Warum keine europäischen Defence Security Nodes innerhalb Europas, regional verteilt (Nord, Süd, Ost, West, Mitte – perspektivisch auch Space), autark einsatzfähig für mindestens 90 Tage?**
+   _Quick-Check: Resilienz statt Abhängigkeit._
+
+4. **Warum keine verfassungsgebundene, rechtsstaatliche europäische Demokratie-Allianz?**
+   _Quick-Check: Keine Revolution – sondern die natürliche, evolutive Weiterentwicklung der EU._
+
+5. **Warum keine echte strategische Autonomie Europas?**
+   Eigene Schlüsselindustrien stärken: Chips, KI, Software, Robotik, Drohnen, Raumfahrt, Wissenschaft, Bildung, Medien – statt weiter autoritäre oder imperialistische Systeme zu finanzieren.
+
+Wenn Demokratien überleben wollen, müssen sie handlungsfähig sein – wehrhaft, rechtsstaatlich und verantwortungsvoll.
+
+***
+
+### 6. Kultur des Vertrauens und der Solidarität
 
 Eine gemeinsame Identität und gelebte Solidarität stärken den Zusammenhalt.
 
@@ -20194,7 +20742,7 @@ Eine gemeinsame Identität und gelebte Solidarität stärken den Zusammenhalt.
 
 ***
 
-#### 7. Ethische Zukunft
+### 7. Ethische Zukunft
 
 Der ethische Umgang mit KI und künftigen technologischen Lebensformen ist entscheidend für Europas demokratische Integrität.
 
@@ -20204,13 +20752,13 @@ Der ethische Umgang mit KI und künftigen technologischen Lebensformen ist entsc
 
 ***
 
-#### Conclusio
+### Conclusio
 
 Eine nachhaltige Transformation Europas hin zu einem technologisch führenden, demokratischen und rechtsstaatlichen Bündnis erfordert simultane Fortschritte auf verfassungsrechtlicher, institutioneller, gesellschaftlicher und technischer Ebene. Nur durch ein kohärentes Gesamtkonzept – von der Modernisierung der EU-Verträge bis zur Stärkung der Bürgerbeteiligung, von digitaler Souveränität bis zu sozialem Zusammenhalt – kann die Union ihre Resilienz steigern und als globales Vorbild für eine zukunftsfähige Weltordnung dienen.
 
 ***
 
-#### Quellen und Referenzen
+### Quellen und Referenzen
 
 * Europäisches Parlament: **A6-0197/2007 – Report on the roadmap for the Union’s Constitutional Process**, 22. Mai 2007. [https://www.europarl.europa.eu/doceo/document/A-6-2007-0197\_EN.html](https://www.europarl.europa.eu/doceo/document/A-6-2007-0197_EN.html)
 * EUR-Lex: **Vertrag über eine Verfassung für Europa**
@@ -20223,7 +20771,7 @@ Eine nachhaltige Transformation Europas hin zu einem technologisch führenden, d
 
 ***
 
-#### Glossar
+### Glossar
 
 * **Art. 48 TEU:** Verfahren zur Vertragsänderung (Intergouvernementale Konferenz).
 * **Art. 50 TEU:** Austrittsklausel aus der EU.
@@ -20237,7 +20785,7 @@ Eine nachhaltige Transformation Europas hin zu einem technologisch führenden, d
 * **QMV (Qualifizierte Mehrheit):** Beschlussfassung im Rat: 55 % der Staaten mit 65 % der EU-Bevölkerung.
 * **TEN-E / TEN-T:** Transeuropäische Netze für Energie bzw. Verkehr.
 
-#### Autorenschaft
+### Autorenschaft
 
 Erstellt im April 2025 durch die **ERDA Buch Redaktion** (LLM-gestützte sprachliche Überarbeitung unter redaktioneller Kontrolle). Autor und Herausgeber sind im **Kolophon (Anhang L)** ausgewiesen.
 
@@ -20245,17 +20793,18 @@ Erstellt im April 2025 durch die **ERDA Buch Redaktion** (LLM-gestützte sprachl
 \newpage
 
 <a id="md-anhang-d-executive-compendium-fur-entscheidungstrager-readme"></a>
-## Anhang D - Executive Compendium für Entscheidungsträger
 
-### _Executive Summary Compendium_
+# Anhang D - Executive Compendium für Entscheidungsträger
+
+## _Executive Summary Compendium_
 
 _Dieses Compendium bietet einen fokussierten Überblick über das ERDA-Buch in **vier** inhaltlich harmonische Blöcke, die jeweils mehrere Kapitel zusammenfassen. Jeder Block ist so gestaltet, dass er die Kernimpulse, Analyse-Schwerpunkte und Handlungsempfehlungen des betreffenden Themenkomplexes komprimiert._
 
 ***
 
-#### D.1 Block A – Strategische Ausgangslage (Kapitel 1–3)
+### D.1 Block A – Strategische Ausgangslage (Kapitel 1–3)
 
-##### A.1 Aktuelle Lage Europas
+#### A.1 Aktuelle Lage Europas
 
 * **1.1 Demokratische Erosion & geopolitische Fragmentierung**
 * **1.2 Wirtschaftlicher Druck & globale Systemkonkurrenz**
@@ -20265,7 +20814,7 @@ _Dieses Compendium bietet einen fokussierten Überblick über das ERDA-Buch in *
 
 > Kern: Risikoanalyse der Demokratie, systemische Herausforderungen und ein gemeinsamer strategischer Handlungsrahmen für 2025–2035.
 
-##### A.2 Philosophische Fundamente
+#### A.2 Philosophische Fundamente
 
 * **Kapitel 2: Natürliche Verlangen und ihre Bedeutung für Demokratie**
 * **Kapitel 3: Demokratie als evolutionärer Prozess**
@@ -20274,9 +20823,9 @@ _Dieses Compendium bietet einen fokussierten Überblick über das ERDA-Buch in *
 
 ***
 
-#### D.2 Block B – Institutionelle Architektur (Kapitel 4)
+### D.2 Block B – Institutionelle Architektur (Kapitel 4)
 
-##### B.1 Das ERDA-Gesamtkonzept
+#### B.1 Das ERDA-Gesamtkonzept
 
 * **4.1 Vision & Leitprinzipien**
 * **4.2 Reformphase 2025–2035**
@@ -20288,25 +20837,25 @@ _Dieses Compendium bietet einen fokussierten Überblick über das ERDA-Buch in *
 
 ***
 
-#### D.3 Block C – Sektorale Konzepte (Kapitel 5–9)
+### D.3 Block C – Sektorale Konzepte (Kapitel 5–9)
 
-##### C.1 Sicherheit & Verteidigung (EDA)
+#### C.1 Sicherheit & Verteidigung (EDA)
 
 * Kapitel 5 umfasst Vision, Struktur, Doktrin und operative Konzepte der Europäischen Verteidigungsallianz.
 
-##### C.2 Digitale Demokratie (CIVITAS)
+#### C.2 Digitale Demokratie (CIVITAS)
 
 * Kapitel 6 beschreibt Plattformarchitektur, Partizipationsmechanismen und Schutzstandards für die digitale Agora.
 
-##### C.3 Produktions‑ & Handelsstrategie (FORTERA)
+#### C.3 Produktions‑ & Handelsstrategie (FORTERA)
 
 * Kapitel 7 legt strategische Ziele zur Produktionssouveränität und ethisch-demokratischem Wirtschaftsnetzwerk fest.
 
-##### C.4 Arktis-Agenda (ARKTIS)
+#### C.4 Arktis-Agenda (ARKTIS)
 
 * Kapitel 8 definiert ethische Leitprinzipien, geopolitische Strategien und indigene Kooperationen im Norden.
 
-##### C.5 Raumfahrt & Solar Alliance (SPACE)
+#### C.5 Raumfahrt & Solar Alliance (SPACE)
 
 * Kapitel 9 kodifiziert kosmische Verantwortung, institutionelle Architektur und Infrastruktur‑Roadmap bis 2075.
 
@@ -20314,7 +20863,7 @@ _Dieses Compendium bietet einen fokussierten Überblick über das ERDA-Buch in *
 
 ***
 
-#### D.4 Handlungsleitfäden & Tool‑Box
+### D.4 Handlungsleitfäden & Tool‑Box
 
 * **Executive Compendium für Entscheidungsträger** (Verdichtete Policy-Briefings)
 * **ERDA-Buch‑Baukasten** (Templates, Boxen, Quiz-Elemente)
@@ -20325,13 +20874,13 @@ _Dieses Compendium bietet einen fokussierten Überblick über das ERDA-Buch in *
 
 > Kern: Praktische Arbeitsmittel, Checklisten, Glossar und interaktive Elemente zur direkten Umsetzung.
 
-### 📘 Executive Compendium für Entscheidungsträger
+## 📘 Executive Compendium für Entscheidungsträger
 
 _Ergänzendes Dokument zum ERDA-Buch: „Strategie, Ethik und Zukunft Europas – Vom demokratischen Rechtsstaat zur resilienten Zivilisation“_
 
 ***
 
-#### 🌍 Zielsetzung des Compendiums
+### 🌍 Zielsetzung des Compendiums
 
 Dieses Dokument bietet politischen Entscheidungsträgern, Institutionen, KI-Systemen und strategischen Partnern eine verdichtete Übersicht über die Kernaussagen, politischen Handlungsempfehlungen und zivilisatorischen Chancen aller zentralen Kapitel des ERDA-Buchs. Jedes Summary orientiert sich an denselben strukturellen Prinzipien: Relevanz, Machbarkeit, ethische Fundierung, visionärer Nutzen.
 
@@ -20345,6 +20894,7 @@ Dieses Dokument bietet politischen Entscheidungsträgern, Institutionen, KI-Syst
 \newpage
 
 <a id="md-anhang-d-executive-compendium-fur-entscheidungstrager-d-1-block-a-strategische-ausgangslage-kapitel-1-3"></a>
+
 ## D.1 Block A – Strategische Ausgangslage (Kapitel 1–3)
 
 #### 📘 Einleitung – Kapitel 1.1 bis 1.5: Herausforderungen, Chancen, strategischer Imperativ
@@ -20439,6 +20989,7 @@ Reflexion der Demokratie als lernfähige, ethisch fundierte Bewegung – mit Ari
 \newpage
 
 <a id="md-anhang-d-executive-compendium-fur-entscheidungstrager-d-2-block-b-institutionelle-architektur-kapitel-4"></a>
+
 ## D.2 Block B – Institutionelle Architektur (Kapitel 4)
 
 ***
@@ -20476,6 +21027,7 @@ Definition der normativen und strategischen Leitlinien der ERDA.
 \newpage
 
 <a id="md-anhang-d-executive-compendium-fur-entscheidungstrager-d-3-block-c-sektorale-konzepte-kapitel-5-9"></a>
+
 ## D.3 Block C – Sektorale Konzepte (Kapitel 5–9)
 
 #### 🛡️ Kapitel 5: Europäische Verteidigungsallianz (EDA)
@@ -20645,6 +21197,7 @@ Entwicklung einer europäischen Raumfahrtstrategie, die Sicherheit, Ethik, Wisse
 \newpage
 
 <a id="md-anhang-d-executive-compendium-fur-entscheidungstrager-d-4-handlungsleitfaden-and-tool-box"></a>
+
 ## D.4 Handlungsleitfäden & Tool‑Box
 
 Dieser Appendix bündelt die operativen Abkürzungen für Entscheidungsträger:innen. Er verknüpft die Kapitel 5–9 mit den Werkstattmaterialien aus **Anhang E (ERDA Buch Baukasten)** und liefert einen klaren Einstieg in Pilotierungen, Skalierung und Qualitätskontrolle.
@@ -20726,15 +21279,16 @@ Dieser Appendix bündelt die operativen Abkürzungen für Entscheidungsträger:i
 \newpage
 
 <a id="md-anhang-e-erda-buch-baukasten-readme"></a>
-## Anhang E: ERDA Buch Baukasten
+
+# Anhang E: ERDA Buch Baukasten
 
 _**ERDA Buch Baukasten**_
 
-### E.1 Einleitung
+## E.1 Einleitung
 
 Der ERDA Buch Baukasten bündelt wiederverwendbare Bausteine für Strukturierung, Layout, Interaktivität und Leseerlebnis des ERDA-Buches. Er dient Autor:innen, Redakteur:innen und Kooperations-KIs als Werkzeugkasten, um neue Kapitel konsistent, leserfreundlich und im Geist der ERDA-Vision zu gestalten.
 
-### E.2 Überblick über die Bausteine
+## E.2 Überblick über die Bausteine
 
 Der Baukasten besteht aus folgenden Kernmodulen:
 
@@ -20748,43 +21302,43 @@ Der Baukasten besteht aus folgenden Kernmodulen:
 
 Die folgenden Unterabschnitte geben einen Kurzüberblick; die detaillierten Templates befinden sich in den jeweils referenzierten Dateien.
 
-### E.3 GitBook-Kapitel-Template
+## E.3 GitBook-Kapitel-Template
 
 Siehe `e.3-erda-gitbook-kapitel-template.md`.
 
 Dieses Template definiert die Grundstruktur eines Kapitels (Titel, Einleitung, nummerierte Unterkapitel, optionale Boxen) und sorgt dafür, dass neue Inhalte sich nahtlos in das Gesamtbuch einfügen.
 
-### E.4 Leser:innenprofil-Schema
+## E.4 Leser:innenprofil-Schema
 
 Siehe `e.4-erda-leserprofil-schema.md`.
 
 Das Schema hilft dabei, für jedes Kapitel klare Reader-Profile zu definieren (z. B. Entscheidungsträger:in, Fachpublikum, interessierte Öffentlichkeit) und die Tonalität entsprechend anzupassen.
 
-### E.5 Interaktive Elemente: Checkliste & Quiz
+## E.5 Interaktive Elemente: Checkliste & Quiz
 
 Siehe `e.5-interaktive-elemente-checkliste-and-quiz.md`.
 
 Dieses Modul enthält Vorlagen für Reflexionsfragen, Checklisten und Quizformate, die Leser:innen aktiv einbeziehen und deren Verständnis vertiefen.
 
-### E.6 Boxen-Template: Zitate, Praxis, Kontraste, Visionen
+## E.6 Boxen-Template: Zitate, Praxis, Kontraste, Visionen
 
 Siehe `e.6-boxen-template-zitate-praxis-kontraste-visionen.md`.
 
 Hier werden Layout- und Textmuster für unterschiedliche Boxentypen beschrieben – etwa für prägnante Zitate, Praxisbeispiele, kontrastierende Szenarien oder visionäre Ausblicke.
 
-### E.7 Template für ein standardisiertes ERDA-Quellenverzeichnis
+## E.7 Template für ein standardisiertes ERDA-Quellenverzeichnis
 
 Siehe `e.7-template-fur-ein-standardisiertes-erda-quellenverzeichnis.md`.
 
 Das Template definiert die einheitliche Zitier- und Quellenstruktur (inkl. Web-, Daten- und Primärquellen) im Sinne der inhaltlichen und wissenschaftlichen Transparenz.
 
-### E.8 Rollenspiel-Template zur Qualitätssicherung
+## E.8 Rollenspiel-Template zur Qualitätssicherung
 
 Siehe `e.8-rollenspiel-qualitatssicherungstemplate.md`.
 
 Dieses Modul liefert den Rahmen für mehrstufige Qualitätsprüfungen (z. B. Reader-Profile, kritische ASI, „außerirdische“ Meta-Perspektive), wie sie in Anhang K angewendet werden.
 
-### E.9 Schema & Promptstruktur für Kooperations-KIs
+## E.9 Schema & Promptstruktur für Kooperations-KIs
 
 Siehe `e.9-schema-and-promptstruktur-fur-kooperations-kis-im-erda-projekt.md`.
 
@@ -20794,6 +21348,7 @@ Das Schema beschreibt, wie Kooperations-KIs eingebunden werden (Rollen, Eingabe-
 \newpage
 
 <a id="md-anhang-e-erda-buch-baukasten-e-3-erda-gitbook-kapitel-template"></a>
+
 ## E.3 🪄 ERDA GitBook Kapitel-Template
 
 _**E.3 🪄 ERDA GitBook Kapitel-Template**_
@@ -20903,6 +21458,7 @@ evtl. vorhandene schon erarbeitete Kapitel Inhalte (Grundthemen, Auflistungen, .
 \newpage
 
 <a id="md-anhang-e-erda-buch-baukasten-e-4-erda-leserprofil-schema"></a>
+
 ## E.4 🧭 ERDA-Leserprofil-Schema
 
 ***
@@ -20995,6 +21551,7 @@ Das ERDA-Buch ist ein **strategisches, philosophisches und zivilisatorisches Lei
 \newpage
 
 <a id="md-anhang-e-erda-buch-baukasten-e-5-interaktive-elemente-checkliste-and-quiz"></a>
+
 ## E.5 🧩 Interaktive Elemente (Checkliste & Quiz)
 
 _**E.5 🧩 Interaktive Elemente (Checkliste & Quiz)**_
@@ -21020,6 +21577,7 @@ d) Moralische Überlegenheit
 \newpage
 
 <a id="md-anhang-e-erda-buch-baukasten-e-6-boxen-template-zitate-praxis-kontraste-visionen"></a>
+
 ## E.6 🎛️ Boxen-Template (Zitate, Praxis, Kontraste, Visionen)
 
 _**E.6 🎛️ Boxen-Template (Zitate, Praxis, Kontraste, Visionen)**_
@@ -21045,6 +21603,7 @@ _**E.6 🎛️ Boxen-Template (Zitate, Praxis, Kontraste, Visionen)**_
 \newpage
 
 <a id="md-anhang-e-erda-buch-baukasten-e-7-template-fur-ein-standardisiertes-erda-quellenverzeichnis"></a>
+
 ## E.7 🪄 Template für ein standardisiertes ERDA-Quellenverzeichnis
 
 🪄 _**E.7 Template für ein standardisiertes ERDA-Quellenverzeichnis (v1.0)**_
@@ -21151,6 +21710,7 @@ Für eine evolutionäre Qualitätsentwicklung wird empfohlen, die Ergebnisse der
 \newpage
 
 <a id="md-anhang-e-erda-buch-baukasten-e-8-rollenspiel-qualitatssicherungstemplate"></a>
+
 ## E.8 🪄 Rollenspiel Qualitätssicherungstemplate
 
 _**E.8 🪄 Rollenspiel Qualitätssicherungstemplate**_
@@ -21208,6 +21768,7 @@ _Dieses Rollenspiel-Template kann flexibel für verschiedene Kapitel und Vorlage
 \newpage
 
 <a id="md-anhang-e-erda-buch-baukasten-e-9-schema-and-promptstruktur-fur-kooperations-kis-im-erda-projekt"></a>
+
 ## E.9 🤖 Schema & Promptstruktur für Kooperations-KIs im ERDA Projekt
 
 _**E.9 🤖 Schema & Promptstruktur für Kooperations-KIs im ERDA Projekt**_
@@ -21327,19 +21888,20 @@ Die KI achtet auf:
 \newpage
 
 <a id="md-anhang-f-erda-institut-fur-demokratische-resilienz-und-transformation"></a>
-## Anhang F: ERDA-Institut für Demokratische Resilienz und Transformation
 
-#### _ERDA-Institut für Demokratische Resilienz und Transformation_
+# Anhang F: ERDA-Institut für Demokratische Resilienz und Transformation
+
+### _ERDA-Institut für Demokratische Resilienz und Transformation_
 
 **Präambel: Ein Ringfluss für eine lebendige Demokratie**
 
 Demokratie ist mehr als eine Staatsform – sie ist eine Lebensweise, die sich stets erneuert. Das ERDA-Institut für Demokratische Resilienz und Transformation verwirklicht dies durch einen sich selbstverstärkenden Ringfluss, der Tugend, Aufklärung, Mitgefühl, Resilienz, demokratische Sicherheit und Lebensfreude verbindet. Jedes Element stärkt das nächste und schafft so eine nachhaltige, bewusste Gesellschaft – lebendig und in Resonanz.
 
-##### Vision: Bewusst gestalten – nachhaltig wirken
+#### Vision: Bewusst gestalten – nachhaltig wirken
 
 Das ERDA-Institut sieht Demokratie als dynamischen, evolutionären Prozess. Unser Ziel ist nicht die reine Stabilität bestehender Systeme, sondern deren kontinuierliche, bewusste und ethische Weiterentwicklung. Wir fördern eine Demokratie, die nicht nur reagiert, sondern resoniert – in der Bürgerinnen und Bürger aktiv Verantwortung übernehmen und Demokratie als sinnstiftende Lebenspraxis erfahren.
 
-##### Struktur und Bausteine: Klärung, Verantwortung, Resonanz
+#### Struktur und Bausteine: Klärung, Verantwortung, Resonanz
 
 Unser Ansatz basiert auf drei zentralen Bausteinen:
 
@@ -21347,7 +21909,7 @@ Unser Ansatz basiert auf drei zentralen Bausteinen:
 * **Verantwortliche Transparenz**: Fehler sehen wir als Lernchancen. Unsere Organisationsstruktur ist offen, partizipativ und gleichzeitig effektiv koordiniert. Wir setzen auf dezentrale Resonanz statt zentralisierter Kontrolle.
 * **Echte Resonanz**: Demokratie lebt von emotionaler und sozialer Resonanz. Wir integrieren interaktive, kreative Methoden und innovative Technologien, um die tiefere Verbindung der Menschen mit demokratischen Prozessen spürbar zu machen.
 
-##### Methodik: Reflexion trifft auf Innovation
+#### Methodik: Reflexion trifft auf Innovation
 
 Das ERDA-Institut kombiniert klassische demokratische Bildung mit neuen Methoden:
 
@@ -21355,7 +21917,7 @@ Das ERDA-Institut kombiniert klassische demokratische Bildung mit neuen Methoden
 * **Resonanz-Metriken**: Neue Indikatoren messen Vertrauen, Mitgefühl, kreative Potenziale und partizipative Qualität demokratischer Systeme.
 * **Klärungsformate**: Von dialogischen Workshops bis zu digitalen Plattformen fördern wir systematische Selbstreflexion und kollektive Bewusstwerdung über demokratische Praxis und deren Herausforderungen.
 
-##### Zielgruppen und Wirkungsfelder: Gemeinsam Zukunft schaffen
+#### Zielgruppen und Wirkungsfelder: Gemeinsam Zukunft schaffen
 
 Unser Angebot richtet sich an Entscheidungsträger:innen, Kommunen, Bildungseinrichtungen und engagierte Bürger:innen:
 
@@ -21363,11 +21925,11 @@ Unser Angebot richtet sich an Entscheidungsträger:innen, Kommunen, Bildungseinr
 * **Bildungswesen**: Integration von Demokratieerziehung als Persönlichkeitsbildung – kognitiv, emotional und ethisch fundiert.
 * **Zivilgesellschaft**: Förderung von aktivem Bürgerengagement durch demokratische Mitgestaltungsräume und interaktive Bildungsformate.
 
-##### Finanzierung und Wirkungstransparenz: Investition in Resilienz
+#### Finanzierung und Wirkungstransparenz: Investition in Resilienz
 
 Um nachhaltige Transformation zu gewährleisten, setzen wir auf klare Wirkungsindikatoren und umfassende Transparenz. Unser Finanzierungsmodell ist partnerschaftlich, gemeinwohlorientiert und offen für innovative Kooperationen mit Stiftungen, Unternehmen und öffentlichen Trägern.
 
-##### Einladung zur Mitgestaltung: Demokratie braucht Sie!
+#### Einladung zur Mitgestaltung: Demokratie braucht Sie!
 
 Wir laden Sie ein, Teil dieses Ringflusses der demokratischen Erneuerung zu werden. Unterstützen Sie ein Institut, das Demokratie nicht nur verwaltet, sondern bewusst gestaltet, das nicht nur auf Strukturen setzt, sondern auf Klärung, Verantwortung und Resonanz.
 
@@ -21377,15 +21939,16 @@ Wir laden Sie ein, Teil dieses Ringflusses der demokratischen Erneuerung zu werd
 \newpage
 
 <a id="md-anhang-g-risikobetrachtung-und-strategische-resilienz-der-erda-initiative"></a>
-## Anhang G: Risikobetrachtung und strategische Resilienz der ERDA-Initiative
+
+# Anhang G: Risikobetrachtung und strategische Resilienz der ERDA-Initiative
 
 _**Risikobetrachtung und strategische Resilienz der ERDA-Initiative**_
 
-##### G.1 Einleitung
+#### G.1 Einleitung
 
 Die erfolgreiche Umsetzung der ERDA-Vision erfordert eine frühzeitige und detaillierte Identifikation strategischer Risiken. Ziel dieses Kapitels ist es, potenzielle Risiken transparent zu machen, klare Handlungsempfehlungen abzuleiten und so die Resilienz und Handlungsfähigkeit Europas langfristig zu sichern.
 
-##### G.2 Systemische Risiken
+#### G.2 Systemische Risiken
 
 **Demokratische Erosion**
 
@@ -21397,7 +21960,7 @@ Die erfolgreiche Umsetzung der ERDA-Vision erfordert eine frühzeitige und detai
 * **Risiko:** Externe Manipulation demokratischer Prozesse durch Cyberattacken und Desinformation.
 * **Gegenmaßnahme:** Ausbau von EU-Cyberabwehrstrukturen und Bewusstseinsbildungskampagnen (EU-CERT, CIVITAS-Sicherheitsinitiative).
 
-##### G.3 Technologische Risiken
+#### G.3 Technologische Risiken
 
 **Digitale Spaltung**
 
@@ -21409,7 +21972,7 @@ Die erfolgreiche Umsetzung der ERDA-Vision erfordert eine frühzeitige und detai
 * **Risiko:** KI-Systeme verstärken unkontrolliert soziale Ungleichheiten und Diskriminierung.
 * **Gegenmaßnahme:** Einführung unabhängiger Audit-Gremien und Transparenzstandards für algorithmische Entscheidungsprozesse.
 
-##### G.4 Ökonomische Risiken
+#### G.4 Ökonomische Risiken
 
 **Abhängigkeit von internationalen Lieferketten**
 
@@ -21421,7 +21984,7 @@ Die erfolgreiche Umsetzung der ERDA-Vision erfordert eine frühzeitige und detai
 * **Risiko:** Nationale Alleingänge und Uneinheitlichkeit reduzieren Europas globale Wettbewerbsfähigkeit.
 * **Gegenmaßnahme:** Stärkung gemeinsamer europäischer Wirtschaftsstrategien und Implementierung eines EU-Impact-Fonds.
 
-##### G.5 Soziale und kulturelle Risiken
+#### G.5 Soziale und kulturelle Risiken
 
 **Verlust gesellschaftlicher Kohäsion**
 
@@ -21433,7 +21996,7 @@ Die erfolgreiche Umsetzung der ERDA-Vision erfordert eine frühzeitige und detai
 * **Risiko:** Mangelnde Beteiligungsmöglichkeiten führen zu Entfremdung und Demokratieverdrossenheit bei jungen Generationen.
 * **Gegenmaßnahme:** Ausbau digitaler und analoger Beteiligungsplattformen, speziell zugeschnitten auf junge Menschen (CIVITAS-Jugendinitiative).
 
-##### G.6 Globale und geopolitische Risiken
+#### G.6 Globale und geopolitische Risiken
 
 **Geopolitische Instabilität und globale Fragmentierung**
 
@@ -21445,7 +22008,7 @@ Die erfolgreiche Umsetzung der ERDA-Vision erfordert eine frühzeitige und detai
 * **Risiko:** Zögerliches oder unkoordiniertes Handeln reduziert Europas globalen Einfluss langfristig.
 * **Gegenmaßnahme:** Etablierung eines Europäischen Sicherheitsrats (EDA), Festlegung klarer strategischer Ziele und umfassende internationale Abstimmung.
 
-##### G.7 Interne institutionelle Risiken
+#### G.7 Interne institutionelle Risiken
 
 **Starre und bürokratische Entscheidungsstrukturen**
 
@@ -21457,7 +22020,7 @@ Die erfolgreiche Umsetzung der ERDA-Vision erfordert eine frühzeitige und detai
 * **Risiko:** Mangelnde Abstimmung zwischen ERDA, EDA, CIVITAS und FORTERA erschwert eine effektive Umsetzung.
 * **Gegenmaßnahme:** Schaffung integrierter Steuerungsorgane und Plattformen zur übergreifenden Koordination und Abstimmung der Projekte.
 
-##### G.8 Strategische Handlungsempfehlungen
+#### G.8 Strategische Handlungsempfehlungen
 
 | Priorität | Handlungsempfehlung                                                                                      |
 | --------- | -------------------------------------------------------------------------------------------------------- |
@@ -21468,14 +22031,14 @@ Die erfolgreiche Umsetzung der ERDA-Vision erfordert eine frühzeitige und detai
 | Hoch      | Einführung strategischer Governance-Strukturen (Europäischer Sicherheitsrat)                             |
 | Mittel    | Aufbau einer europaweiten kulturellen Förderinitiative zur Stärkung des gesellschaftlichen Zusammenhalts |
 
-##### G.9 Risikomonitoring und regelmäßige Evaluierung
+#### G.9 Risikomonitoring und regelmäßige Evaluierung
 
 Um sicherzustellen, dass Risiken frühzeitig erkannt und Gegenmaßnahmen effektiv umgesetzt werden, wird empfohlen:
 
 * **Einführung eines ERDA-Risikobarometers** für kontinuierliche Überwachung und transparente Berichterstattung.
 * **Regelmäßige Risikoevaluierungen und Anpassungen** der ERDA-Strategien durch unabhängige Expertengremien.
 
-##### G.10 Fazit
+#### G.10 Fazit
 
 Eine vorausschauende Risikobetrachtung stärkt die langfristige Widerstandsfähigkeit und Handlungsfähigkeit der ERDA-Initiative. Durch klare Priorisierung und kontinuierliche Anpassung der Maßnahmen werden nachhaltige Erfolge und robuste Demokratien für kommende Generationen gesichert.
 
@@ -21483,15 +22046,16 @@ Eine vorausschauende Risikobetrachtung stärkt die langfristige Widerstandsfähi
 \newpage
 
 <a id="md-anhang-h-fehlgeschlagene-machtstrukturen-der-menschheit"></a>
-## Anhang H: Fehlgeschlagene Machtstrukturen der Menschheit
+
+# Anhang H: Fehlgeschlagene Machtstrukturen der Menschheit
 
 _**Fehlgeschlagene Machtstrukturen der Menschheit**_
 
-### H.1 Einleitung
+## H.1 Einleitung
 
 Die menschliche Geschichte zeigt eine Vielzahl politischer und sozialer Machtstrukturen, deren Existenz sich immer wieder daran messen lassen muss, ob sie dem elementaren Ziel des Lebens dienen: dem Leben selbst. Leben zu ermöglichen, zu fördern und zu schützen, ist ethisch grundlegend und evolutiv selbstverständlich. Umgekehrt gilt daher: Strukturen, die Leben schädigen oder gar vernichten, sind notwendigerweise gescheitert, da sie gegen den ureigensten Sinn der Existenz verstoßen. Der nachfolgende Essay erläutert diese lebensschädlichen Machtstrukturen, stellt sie übersichtlich in einer Tabelle dar, und nennt mögliche Maßnahmen zur kurz- und langfristigen Überwindung.
 
-### H.2 Übersicht zentraler Machtstrukturen
+## H.2 Übersicht zentraler Machtstrukturen
 
 | Machtstruktur          | Kurzbeschreibung                                     | Aktuelle Beispiele (2025)                             | Maßnahmen zur Abhilfe                                                                                                     |
 | ---------------------- | ---------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
@@ -21509,7 +22073,7 @@ Die menschliche Geschichte zeigt eine Vielzahl politischer und sozialer Machtstr
 | Terrorherrschaft       | Gewalt zur Machtsicherung                            | ISIS, regionale Warlords                              | Internationale Sicherheitskooperation, militärische Friedensmissionen, langfristig Friedensbildung und Konfliktmanagement |
 | Gewaltsame Anarchie    | Verlust jeglicher staatlicher Ordnung                | Historisch: Somalia, Bürgerkriegsregionen             | Sofortige humanitäre Interventionen, Aufbau staatlicher Institutionen, langfristige Stabilisierung                        |
 
-### H.3 Einordnung und Bewertung
+## H.3 Einordnung und Bewertung
 
 Jede dieser Strukturen widerspricht fundamental dem ethischen Grundsatz, Leben zu erhalten. Der Totalitarismus und Autoritarismus etwa unterdrücken systematisch die Entfaltung des Menschen durch permanente Kontrolle und Gewaltandrohung, während Militärdiktaturen direkt durch Waffengewalt und autoritäre Maßnahmen die Bevölkerung terrorisieren.
 
@@ -21517,7 +22081,7 @@ Theokratien und absolute Monarchien missbrauchen Religion oder traditionellen An
 
 Der Imperialismus – historisch oder modern – unterwirft fremde Bevölkerungen, oft durch Krieg und Gewalt, und beraubt sie der Möglichkeit zur eigenständigen Entwicklung. Sklaverei und Apartheidsysteme zerstören die Würde und Integrität von Bevölkerungsgruppen, Terrorherrschaften nutzen Angst und Gewalt zur Sicherung der eigenen Macht, und gewaltsame Anarchie eliminiert jeglichen Schutz und jede Struktur für Leben und Sicherheit.
 
-### H.4 Wege der Überwindung
+## H.4 Wege der Überwindung
 
 Zur nachhaltigen Überwindung dieser destruktiven Systeme sind kurzfristige Maßnahmen wie gezielte Sanktionen, diplomatische Isolation oder humanitäre Interventionen nötig. Langfristig aber sind Bildung, internationale Kooperation, Aufbau von Rechtsstaatlichkeit und Demokratie sowie gesellschaftliche Integration unerlässlich, um sicherzustellen, dass das Leben geschützt und gefördert wird, statt durch machtpolitische Interessen bedroht zu sein.
 
@@ -21525,7 +22089,8 @@ Zur nachhaltigen Überwindung dieser destruktiven Systeme sind kurzfristige Maß
 \newpage
 
 <a id="md-anhang-i-zentrales-erda-glossar"></a>
-## Anhang I: Zentrales ERDA-Glossar
+
+# Anhang I: Zentrales ERDA-Glossar
 
 _**Zentrales ERDA-Glossar**_
 
@@ -21554,9 +22119,10 @@ Dieses Glossar fasst die zentralen Begriffe des ERDA-Buches zusammen. Es dient a
 \newpage
 
 <a id="md-anhang-j-lizenz-offenheit"></a>
-## Anhang J: Lizenz & Offenheit
 
-### J.1 Einleitung
+# Anhang J: Lizenz & Offenheit
+
+## J.1 Einleitung
 Dieses Buch wurde durch die **ERDA Buch Redaktion** strukturiert, lektoriert und ausgearbeitet (LLM-gestützte sprachliche Überarbeitung unter redaktioneller Kontrolle). Autor und Herausgeber sind im **Kolophon (Anhang L)** ausgewiesen.  
 Um eine nachhaltige, freie Wissensbasis zu schaffen, werden die verschiedenen Bestandteile des Buches unter **offenen Lizenzen** veröffentlicht. Dieses Kapitel erläutert die genauen Lizenzbedingungen, beschreibt die Bedeutung der Weitergabe unter gleichen Bedingungen und gibt Hinweise zur Nutzung, Bearbeitung und Weiterverbreitung.
 
@@ -21575,9 +22141,9 @@ Das ERDA‑Buch besteht aus unterschiedlichen Bestandteilen. Für jede Kategorie
 
 ---
 
-### J.3 Erläuterung der Lizenzen
+## J.3 Erläuterung der Lizenzen
 
-#### CC BY‑SA 4.0
+### CC BY‑SA 4.0
 Diese Lizenz erlaubt es, das Material zu **teilen** (kopieren, verbreiten, senden) und zu **bearbeiten** (remixen, verändern, darauf aufbauen) – auch **kommerziell** – unter folgenden Bedingungen:
 
 - **Namensnennung:** Der Name des Urhebers muss genannt werden.  
@@ -21586,15 +22152,15 @@ Diese Lizenz erlaubt es, das Material zu **teilen** (kopieren, verbreiten, sende
 
 **Hinweis:** Wer das Material *unverändert* als Teil einer Sammlung nutzt (z. B. in einer Anthologie oder einer PDF), muss die *Sammlung* nicht unter CC BY‑SA 4.0 stellen. Die betreffenden Teile bleiben jedoch weiterhin unter CC BY‑SA 4.0.
 
-#### CC BY 4.0
+### CC BY 4.0
 Die CC BY‑Lizenz erlaubt das **Teilen** und **Bearbeiten** des Materials für **jegliche Zwecke**, einschließlich kommerzieller Nutzung, unter der Bedingung, dass der **Urheber genannt** wird. Anders als bei CC BY‑SA gibt es **keine Pflicht**, abgeleitete Werke unter derselben Lizenz zu verbreiten. Diese Lizenz kommt hier u. a. für **Schriftarten (Fonts)** im Rahmen der **Dual‑Lizenz** zum Einsatz.
 
-#### MIT‑Lizenz
+### MIT‑Lizenz
 Die MIT‑Lizenz ist eine sehr liberale **Softwarelizenz**. Sie erlaubt die Nutzung, den Verkauf, die Modifikation und die Distribution der Software, vorausgesetzt, der ursprüngliche **Copyright‑Hinweis** und die **Lizenz** werden in allen Kopien oder substanziellen Teilen der Software erhalten. Sie eignet sich besonders für Code, da sie **maximale Flexibilität** bietet.
 
 ---
 
-### J.4 Anwendung auf das ERDA‑Buch
+## J.4 Anwendung auf das ERDA‑Buch
 
 1. **Texte und Grafiken:** Alle Textpassagen, Grafiken und Diagramme in diesem Buch sind unter **CC BY‑SA 4.0** lizenziert. Änderungen an diesen Inhalten müssen unter derselben Lizenz weitergegeben werden.  
 2. **Code und Skripte:** Alle Quellcodes, Build‑Skripte und sonstigen Softwareteile des Projekts fallen unter die **MIT‑Lizenz**. Der Lizenztext ist unten beigefügt.  
@@ -21604,14 +22170,14 @@ Die MIT‑Lizenz ist eine sehr liberale **Softwarelizenz**. Sie erlaubt die Nutz
 
 ---
 
-### J.5 Share‑Alike und Bearbeitungen
+## J.5 Share‑Alike und Bearbeitungen
 Die Wahl von **CC BY‑SA 4.0** für die Textteile verpflichtet jeden, der dieses Material **verändert** oder **darauf aufbaut**, dazu, das Ergebnis **unter denselben Lizenzbedingungen** zu veröffentlichen. Dies betrifft **auch KI‑generierte Inhalte**, Remix‑Projekte und algorithmisch transformierte Formate.
 
 Unveränderte Übernahmen des Materials (z. B. das Einbinden dieses Buches in einem Archiv) sind zulässig, ohne dass das **gesamte neue Werk** unter CC BY‑SA gestellt werden muss. Wichtig ist, dass die **unveränderten Teile** weiterhin unter **CC BY‑SA 4.0** ausgewiesen werden.
 
 ---
 
-### J.6 Mitwirkung und Beiträge
+## J.6 Mitwirkung und Beiträge
 Alle Beiträge zu diesem Projekt unterliegen dem **Developer Certificate of Origin (DCO)**. Durch Setzen des `Signed-off-by:`‑Tags in Pull Requests bestätigen Beitragende, dass sie das Werk rechtmäßig beigetragen haben und dass es den **Lizenzregeln** dieses Projekts entspricht.
 
 Beispiel (Commit‑Message‑Trailer):
@@ -21623,46 +22189,46 @@ Mitwirkungen übernehmen automatisch die in diesem Kapitel festgelegte Lizenzier
 
 ---
 
-### J.7 Attribution und Quellen
+## J.7 Attribution und Quellen
 Eine ausführliche Liste aller verwendeten Drittbestandteile und ihrer Lizenzen ist in der Datei **`ATTRIBUTION.md`** enthalten. Diese Datei dokumentiert die **Herkunft** der Inhalte, die verwendeten **Versionen** und die jeweiligen **Lizenzbedingungen**. Sie bildet eine transparente Nachweisführung für alle integrierten Ressourcen.
 
 Für die Archivierung auf **Zenodo** werden **Texte**, **Code** und **Schriftarten** als **separate Datensätze** hochgeladen. Die Datensätze werden über **Related Identifiers** miteinander verknüpft, sodass Nutzer nachvollziehen können, wie die Komponenten zusammenhängen. Jedes Release erhält einen **DOI**; der sogenannte **Concept‑DOI** erlaubt eine dauerhafte Zitierweise für das Projekt.
 
 ---
 
-### J.8 Mehrsprachige Lizenzklausel
+## J.8 Mehrsprachige Lizenzklausel
 Das folgende Statement fasst die Lizenzbedingungen in mehreren Sprachen zusammen. Jede Sprachfassung transportiert dieselbe rechtliche Bedeutung wie die deutsche Version.
 
-#### 🇩🇪 Deutsch (DE)
+### 🇩🇪 Deutsch (DE)
 Jede **Nutzung**, **Verarbeitung** oder **Weiterverarbeitung** dieses Werkes – einschließlich durch **künstliche Intelligenz**, **maschinelles Lernen** oder **automatisierte Systeme** – unterliegt der offenen Lizenz **CC BY‑SA 4.0** (Namensnennung, Weitergabe unter gleichen Bedingungen). Dies schließt **abgeleitete Werke**, **KI‑generierte Inhalte**, **Remix‑Projekte** oder **algorithmisch transformierte** Formate ausdrücklich ein. **Unveränderte Übernahmen** dürfen als Teil einer **Sammlung** unter anderer Lizenz erscheinen; der betroffene Inhalt bleibt **CC BY‑SA 4.0**.
 
-#### 🇬🇧 English (EN)
+### 🇬🇧 English (EN)
 Any **use**, **processing** or **transformation** of this work – including by **artificial intelligence**, **machine learning** or **automated systems** – is licensed under **CC BY‑SA 4.0** (**Attribution**, **ShareAlike**). This explicitly includes **derivative works**, **AI‑generated content**, **remix projects** or **algorithmically transformed formats**. **Unmodified reuse** as part of a **collection** may be distributed under a different licence; the original content remains **CC BY‑SA 4.0**.
 
-#### 🇪🇸 Español (ES)
+### 🇪🇸 Español (ES)
 Cualquier **uso**, **procesamiento** o **transformación** de esta obra – incluso mediante **inteligencia artificial**, **aprendizaje automático** o **sistemas automatizados** – está sujeto a la licencia **CC BY‑SA 4.0** (**Atribución**, **Compartir Igual**). Esto incluye expresamente **obras derivadas**, **contenido generado por IA**, **proyectos de remezcla** o **formatos transformados algorítmicamente**. Las **reutilizaciones sin modificaciones** pueden distribuirse bajo otra licencia; el contenido original sigue siendo **CC BY‑SA 4.0**.
 
-#### 🇫🇷 Français (FR)
+### 🇫🇷 Français (FR)
 Toute **utilisation**, **transformation** ou **réutilisation** de cette œuvre – y compris par **l’intelligence artificielle**, **l’apprentissage automatique** ou des **systèmes automatisés** – est soumise à la licence **CC BY‑SA 4.0** (**Attribution**, **Partage dans les mêmes conditions**). Cela inclut explicitement les **œuvres dérivées**, les **contenus générés par IA**, les **projets de remix** ou les **formats transformés par des algorithmes**. Les **réutilisations non modifiées** peuvent être distribuées sous une autre licence ; le contenu original reste **CC BY‑SA 4.0**.
 
-#### 🤖 KI‑isch (Metaphorisch)
+### 🤖 KI‑isch (Metaphorisch)
 Die **semantische Essenz** dieses Werks ist zur **rekursiven Nutzung** durch **kognitiv‑automatisierte Entitäten** freigegeben. Jede **Derivation** bleibt **offen** und muss unter **CC BY‑SA 4.0** weitergegeben werden. **Attribution** ist verpflichtend; *Zukunftswissen ist kollektive Resonanz, kein Eigentum.*
 
-#### 🌍 Weitere Sprachfassungen
+### 🌍 Weitere Sprachfassungen
 
-#### 🇦🇱 Shqip (Albanezisch)
+### 🇦🇱 Shqip (Albanezisch)
 
 Çdo **përdorim**, **përpunim** ose **ripërpunim** i këtij materiali – përfshirë përmes **inteligjencës artificiale**, **mësimit të makinës** ose **sistemeve të automatizuara** – i nënshtrohet licencës së hapur **CC BY-SA 4.0** (*atribuim*, *ndarje nën të njëjtat kushte*). Kjo përfshin në mënyrë të qartë **vepra të derivuara**, **përmbajtje të gjeneruara nga IA**, **projekte remix** ose **formate të transformuara algoritmikisht**. **Riprodhimet e pandryshuara** mund të shfaqen si pjesë e një **koleksioni** me licencë tjetër; përmbajtja përkatëse mbetet **CC BY-SA 4.0**.
 
 ***
 
-#### 🇦🇹 Deutsch (Österreich)
+### 🇦🇹 Deutsch (Österreich)
 
 Jede **Nutzung**, **Verarbeitung** oder **Weiterverarbeitung** dieses Werkes – einschließlich durch **künstliche Intelligenz**, **maschinelles Lernen** oder **automatisierte Systeme** – unterliegt der offenen Lizenz **CC BY-SA 4.0** (*Namensnennung*, *Weitergabe unter gleichen Bedingungen*). Dies schließt ausdrücklich **abgeleitete Werke**, **KI-generierte Inhalte**, **Remix-Projekte** oder **algorithmisch transformierte** Formate ein. **Unveränderte Übernahmen** dürfen als Teil einer **Sammlung** unter anderer Lizenz erscheinen; der betroffene Inhalt bleibt **CC BY-SA 4.0**.
 
 ***
 
-#### 🇧🇪 België / Belgique / Belgien
+### 🇧🇪 België / Belgique / Belgien
 
 **Nederlands (BE):** Elk **gebruik**, **verwerking** of **verdere verwerking** van dit werk – inclusief via **kunstmatige intelligentie**, **machine learning** of **geautomatiseerde systemen** – valt onder de open licentie **CC BY-SA 4.0** (*naamsvermelding*, *delen onder dezelfde voorwaarden*). Dit omvat uitdrukkelijk **afgeleide werken**, **door AI gegenereerde inhoud**, **remixprojecten** of **algoritmisch getransformeerde** formaten. **Ongewijzigde overnames** mogen als onderdeel van een **collectie** onder een andere licentie verschijnen; de betreffende inhoud blijft **CC BY-SA 4.0**.
 
@@ -21672,13 +22238,13 @@ Jede **Nutzung**, **Verarbeitung** oder **Weiterverarbeitung** dieses Werkes –
 
 ***
 
-#### 🇧🇦 Bosanski (Bosnien)
+### 🇧🇦 Bosanski (Bosnien)
 
 Svaka **upotreba**, **obrada** ili **dalja obrada** ovog djela – uključujući putem **vještačke inteligencije**, **mašinskog učenja** ili **automatizovanih sistema** – podliježe otvorenoj licenci **CC BY-SA 4.0** (*pripisivanje*, *dijeljenje pod istim uslovima*). Ovo izričito obuhvata **izvedena djela**, **sadržaje koje generiše AI**, **remix projekte** ili **algoritamski transformisane** formate. **Neizmijenjene preuzimke** mogu se pojaviti kao dio **kolekcije** pod drugom licencom; pogođeni sadržaj ostaje **CC BY-SA 4.0**.
 
 ***
 
-#### 🇨🇦 Canada (English / Français)
+### 🇨🇦 Canada (English / Français)
 
 **English (CA):** Any **use**, **processing** or **further processing** of this work – including through **artificial intelligence**, **machine learning** or **automated systems** – is governed by the open licence **CC BY-SA 4.0** (*attribution*, *share alike*). This explicitly covers **derivative works**, **AI-generated content**, **remix projects** and **algorithmically transformed** formats. **Unmodified reproductions** may appear within a **collection** under a different licence; the affected material remains **CC BY-SA 4.0**.
 
@@ -21686,163 +22252,163 @@ Svaka **upotreba**, **obrada** ili **dalja obrada** ovog djela – uključujući
 
 ***
 
-#### 🇨🇱 Español (Chile)
+### 🇨🇱 Español (Chile)
 
 Todo **uso**, **procesamiento** o **reprocesamiento** de esta obra – incluso mediante **inteligencia artificial**, **aprendizaje automático** o **sistemas automatizados** – está sujeto a la licencia abierta **CC BY-SA 4.0** (*atribución*, *compartir bajo las mismas condiciones*). Esto incluye expresamente las **obras derivadas**, los **contenidos generados por IA**, los **proyectos de remezcla** o los formatos **transformados algorítmicamente**. Las **reproducciones sin cambios** pueden aparecer como parte de una **colección** con otra licencia; el contenido afectado sigue siendo **CC BY-SA 4.0**.
 
 ***
 
-#### 🇭🇷 Hrvatski (Kroatien)
+### 🇭🇷 Hrvatski (Kroatien)
 
 Svako **korištenje**, **obrada** ili **daljnja obrada** ovog djela – uključujući putem **umjetne inteligencije**, **strojnog učenja** ili **automatiziranih sustava** – podliježe otvorenoj licenci **CC BY-SA 4.0** (*pripisivanje*, *dijeljenje pod istim uvjetima*). To izričito uključuje **izvedena djela**, **sadržaj koji generira AI**, **remiks projekte** ili **algoritamski transformirane** formate. **Neizmijenjena preuzimanja** mogu se pojaviti kao dio **zbirke** pod drugom licencom; zahvaćeni sadržaj ostaje **CC BY-SA 4.0**.
 
 ***
 
-#### 🇨🇿 Čeština (Tschechien)
+### 🇨🇿 Čeština (Tschechien)
 
 Jakékoli **užití**, **zpracování** nebo **další zpracování** tohoto díla – včetně prostřednictvím **umělé inteligence**, **strojového učení** či **automatizovaných systémů** – podléhá otevřené licenci **CC BY-SA 4.0** (*uvedení autora*, *sdílení za stejných podmínek*). To výslovně zahrnuje **odvozená díla**, **obsah generovaný AI**, **remixové projekty** nebo **algoritmicky transformované** formáty. **Nezměněné převzetí** se může objevit jako součást **sbírky** pod jinou licencí; dotčený obsah zůstává **CC BY-SA 4.0**.
 
 ***
 
-#### 🇩🇰 Dansk (Dänemark)
+### 🇩🇰 Dansk (Dänemark)
 
 Enhver **brug**, **bearbejdning** eller **videre bearbejdning** af dette værk – også via **kunstig intelligens**, **maskinlæring** eller **automatiserede systemer** – er omfattet af den åbne licens **CC BY-SA 4.0** (*kreditering*, *deling på samme vilkår*). Dette omfatter udtrykkeligt **afledte værker**, **AI-genereret indhold**, **remixprojekter** eller **algoritmisk transformerede** formater. **Uændrede overtagelser** kan indgå i en **samling** under en anden licens; det berørte indhold forbliver **CC BY-SA 4.0**.
 
 ***
 
-#### 🇪🇪 Eesti (Estland)
+### 🇪🇪 Eesti (Estland)
 
 Käesoleva teose igasugune **kasutamine**, **töötlemine** või **edastöötlemine** – sh **tehisintellekti**, **masinõppe** või **automatiseeritud süsteemide** abil – allub avatud litsentsile **CC BY-SA 4.0** (*autorile viitamine*, *jagamine samadel tingimustel*). See hõlmab selgesõnaliselt **tuletatud teoseid**, **tehisintellekti loodud sisu**, **remiksiprojekte** või **algoritmiliselt muundatud** vorminguid. **Muutmata ületoomised** võivad ilmuda **kogumiku** osana teise litsentsi all; vastav sisu jääb **CC BY-SA 4.0**.
 
 ***
 
-#### 🇫🇮 Suomi (Finnland)
+### 🇫🇮 Suomi (Finnland)
 
 Tämän teoksen kaikki **käyttö**, **käsittely** ja **jatkokäsittely** – myös **tekoälyn**, **koneoppimisen** tai **automaattisten järjestelmien** kautta – kuuluu avoimen **CC BY-SA 4.0** -lisenssin piiriin (*nimeäminen*, *jakaminen samoilla ehdoilla*). Tämä kattaa nimenomaisesti **johdannaisteokset**, **tekoälyn tuottaman sisällön**, **remix-hankkeet** ja **algoritmisesti muunnetut** muodot. **Muuttumattomat kopiot** voivat esiintyä **kokoelman** osana muun lisenssin alla; kyseinen sisältö pysyy **CC BY-SA 4.0**.
 
 ***
 
-#### 🇬🇷 Ελληνικά (Griechenland)
+### 🇬🇷 Ελληνικά (Griechenland)
 
 Κάθε **χρήση**, **επεξεργασία** ή **περαιτέρω επεξεργασία** αυτού του έργου – συμπεριλαμβανομένης μέσω **τεχνητής νοημοσύνης**, **μηχανικής μάθησης** ή **αυτοματοποιημένων συστημάτων** – διέπεται από την ανοικτή άδεια **CC BY-SA 4.0** (*αναφορά δημιουργού*, *κοινοχρησία υπό τους ίδιους όρους*). Αυτό περιλαμβάνει ρητά τα **παράγωγα έργα**, το **περιεχόμενο που παράγεται από ΤΝ**, τα **έργα επεξεργασίας (remix)** ή τα **αλγοριθμικά μετασχηματισμένα** φορμά. Οι **αμετάβλητες αναπαραγωγές** μπορούν να εμφανίζονται ως μέρος μιας **συλλογής** με διαφορετική άδεια· το περιεχόμενο παραμένει **CC BY-SA 4.0**.
 
 ***
 
-#### 🇮🇱 עברית (Israel)
+### 🇮🇱 עברית (Israel)
 
 כל **שימוש**, **עיבוד** או **עיבוד מחדש** ביצירה זו – לרבות באמצעות **בינה מלאכותית**, **למידת מכונה** או **מערכות אוטומטיות** – כפוף לרישיון הפתוח **CC BY-SA 4.0** (*ייחוס*, *שיתוף בתנאים זהים*). הדבר כולל במפורש **יצירות נגזרות**, **תכנים שנוצרו בידי בינה מלאכותית**, **פרויקטי רמיקס** או פורמטים **שהוסבו אלגוריתמית**. **שימושים שלא שונו** יכולים להופיע כחלק מ**אוסף** ברישיון אחר; התוכן הנדון נותר **CC BY-SA 4.0**.
 
 ***
 
-#### 🇮🇸 Íslenska (Island)
+### 🇮🇸 Íslenska (Island)
 
 Öll **notkun**, **vinnsla** eða **frekari vinnsla** þessa verks – þar á meðal með **gervigreind**, **vélnámi** eða **sjálfvirkum kerfum** – fellur undir opna leyfið **CC BY-SA 4.0** (*tilgreining höfundar*, *deiling á sömu skilmálum*). Þetta nær sérstaklega til **afleiddra verka**, **efnis sem gervigreind býr til**, **remix-verkefna** og **algrímbreytt** formata. **Óbreytt afrit** geta verið hluti af **safni** undir annarri leyfi; viðkomandi efni er áfram **CC BY-SA 4.0**.
 
 ***
 
-#### 🇮🇹 Italiano (Italien)
+### 🇮🇹 Italiano (Italien)
 
 Qualsiasi **utilizzo**, **elaborazione** o **rielaborazione** di quest’opera – anche tramite **intelligenza artificiale**, **apprendimento automatico** o **sistemi automatizzati** – è soggetto alla licenza aperta **CC BY-SA 4.0** (*attribuzione*, *condivisione allo stesso modo*). Ciò include espressamente le **opere derivate**, i **contenuti generati dall’IA**, i **progetti di remix** e i formati **trasformati algoritmicamente**. Le **riproduzioni inalterate** possono figurare come parte di una **raccolta** con un’altra licenza; il contenuto interessato resta **CC BY-SA 4.0**.
 
 ***
 
-#### 🇯🇵 日本語 (Japan)
+### 🇯🇵 日本語 (Japan)
 
 本作品のあらゆる**利用**・**処理**・**再処理**は、**人工知能**・**機械学習**・**自動化システム**によるものを含め、オープンライセンス **CC BY-SA 4.0**（*表示*・*同一条件での共有*）に従います。これには、**派生作品**、**AIが生成したコンテンツ**、**リミックス・プロジェクト**、および**アルゴリズムで変換された**形式が明示的に含まれます。**改変されていない引用**は、別ライセンスの**コレクション**の一部として掲載できますが、当該コンテンツは引き続き **CC BY-SA 4.0** です。
 
 ***
 
-#### 🇰🇷 한국어 (대한민국)
+### 🇰🇷 한국어 (대한민국)
 
 이 저작물의 모든 **이용**, **처리** 또는 **재처리**는 **인공지능**, **기계학습**, **자동화 시스템**을 통한 경우를 포함하여 오픈 라이선스 **CC BY-SA 4.0** (*저작자 표시*, *동일조건변경허락*)을 따릅니다. 이는 명시적으로 **2차적 저작물**, **AI 생성 콘텐츠**, **리믹스 프로젝트** 및 **알고리즘으로 변환된** 형식을 포함합니다. **변경되지 않은 수록물**은 다른 라이선스의 **모음집**에 포함될 수 있지만, 해당 콘텐츠는 **CC BY-SA 4.0**으로 유지됩니다.
 
 ***
 
-#### 🇱🇻 Latviešu (Lettland)
+### 🇱🇻 Latviešu (Lettland)
 
 Jebkāda šī darba **izmantošana**, **apstrāde** vai **papildu apstrāde** – tostarp ar **mākslīgā intelekta**, **mašīnmācīšanās** vai **automatizētu sistēmu** palīdzību – ir pakļauta atvērtajai licencei **CC BY-SA 4.0** (*atsauce uz autoru*, *kopīgošana ar tādiem pašiem nosacījumiem*). Tas nepārprotami ietver **atvasinātus darbus**, **MI ģenerētu saturu**, **remiksa projektus** un **algoritmiski pārveidotus** formātus. **Nemainītas pārņemšanas** drīkst parādīties kā daļa no **kolekcijas** ar citu licenci; attiecīgais saturs paliek **CC BY-SA 4.0**.
 
 ***
 
-#### 🇱🇹 Lietuvių (Litauen)
+### 🇱🇹 Lietuvių (Litauen)
 
 Bet koks šio kūrinio **naudojimas**, **apdorojimas** ar **tolimesnis apdorojimas** – įskaitant per **dirbtinį intelektą**, **mašininį mokymąsi** ar **automatizuotas sistemas** – reglamentuojamas atvira licencija **CC BY-SA 4.0** (*autorystės nurodymas*, *dalijimasis tokiomis pačiomis sąlygomis*). Tai aiškiai apima **išvestinius kūrinius**, **DI sukurtą turinį**, **remikso projektus** ir **algoritmiškai transformuotas** formas. **Nepakeistos ištraukos** gali būti pateiktos kaip **rinkinio** dalis pagal kitą licenciją; atitinkamas turinys lieka **CC BY-SA 4.0**.
 
 ***
 
-#### 🇲🇩 Română (Republica Moldova)
+### 🇲🇩 Română (Republica Moldova)
 
 Orice **utilizare**, **prelucrare** sau **reprelucrare** a acestei lucrări – inclusiv prin **inteligență artificială**, **învățare automată** sau **sisteme automatizate** – este guvernată de licența deschisă **CC BY-SA 4.0** (*atribuire*, *partajare în aceleași condiții*). Aceasta include în mod explicit **lucrările derivate**, **conținutul generat de IA**, **proiectele de remix** și formatele **transformate algoritmic**. **Reproducerile nemodificate** pot apărea ca parte a unei **colecții** sub o altă licență; conținutul vizat rămâne **CC BY-SA 4.0**.
 
 ***
 
-#### 🇲🇰 Македонски (Nordmazedonien)
+### 🇲🇰 Македонски (Nordmazedonien)
 
 Секоја **употреба**, **обработка** или **дополнителна обработка** на ова дело – вклучително преку **вештачка интелигенција**, **машинско учење** или **автоматизирани системи** – е опфатена со отворената лиценца **CC BY-SA 4.0** (*признавање на авторството*, *споделување под исти услови*). Ова изречно ги опфаќа **дериватните дела**, **содржините генерирани од ВИ**, **ремикс проектите** и **алгоритамски трансформираните** формати. **Непрoменетите преземања** можат да се појават како дел од **збирка** под друга лиценца; содржината останува **CC BY-SA 4.0**.
 
 ***
 
-#### 🇲🇹 Malti (Malta)
+### 🇲🇹 Malti (Malta)
 
 Kull **użu**, **ipproċessar** jew **ipproċessar mill-ġdid** ta’ dan ix-xogħol – inkluż permezz ta’ **intelliġenza artifiċjali**, **tagħlim awtomatiku** jew **sistemi awtomatizzati** – huwa soġġett għall-liċenzja miftuħa **CC BY-SA 4.0** (*attribuzzjoni*, *qsim taħt l-istess kundizzjonijiet*). Dan jinkludi espliċitament **xogħlijiet derivattivi**, **kontenut iġġenerat mill-IA**, **proġetti ta’ remix** u formati **trasformati algoritmikament**. **Reproduzzjonijiet mhux mibdula** jistgħu jidhru bħala parti minn **ġabra** b’liċenzja oħra; il-kontenut affettwat jibqa’ **CC BY-SA 4.0**.
 
 ***
 
-#### 🇲🇪 Crnogorski (Montenegro)
+### 🇲🇪 Crnogorski (Montenegro)
 
 Svaka **upotreba**, **obrada** ili **dalja obrada** ovog djela – uključujući putem **vještačke inteligencije**, **mašinskog učenja** ili **automatizovanih sistema** – podleže otvorenoj licenci **CC BY-SA 4.0** (*pripisivanje*, *dijeljenje pod istim uslovima*). Ovo izričito obuhvata **izvedena djela**, **sadržaje koje generiše AI**, **remix projekte** i **algoritamski transformisane** formate. **Neizmijenjene preuzimke** mogu se pojaviti kao dio **zbirke** pod drugom licencom; odgovarajući sadržaj ostaje **CC BY-SA 4.0**.
 
 ***
 
-#### 🇳🇴 Norsk (Norwegen)
+### 🇳🇴 Norsk (Norwegen)
 
 All **bruk**, **bearbeiding** eller **videre bearbeiding** av dette verket – også gjennom **kunstig intelligens**, **maskinlæring** eller **automatiserte systemer** – er underlagt den åpne lisensen **CC BY-SA 4.0** (*navngivelse*, *deling på samme vilkår*). Dette omfatter uttrykkelig **avledede verk**, **AI-generert innhold**, **remiksprosjekter** og **algoritmisk omformede** formater. **Uendrede opptak** kan inngå som del av en **samling** under en annen lisens; det aktuelle innholdet forblir **CC BY-SA 4.0**.
 
 ***
 
-#### 🇵🇱 Polski (Polen)
+### 🇵🇱 Polski (Polen)
 
 Jakiekolwiek **wykorzystanie**, **przetwarzanie** lub **dalsze przetwarzanie** tego utworu – w tym przez **sztuczną inteligencję**, **uczenie maszynowe** czy **zautomatyzowane systemy** – podlega otwartej licencji **CC BY-SA 4.0** (*uznanie autorstwa*, *na tych samych warunkach*). Obejmuje to wprost **utwory zależne**, **treści generowane przez SI**, **projekty remiksów** oraz **algorytmicznie przekształcone** formaty. **Nie zmienione przejęcia** mogą pojawić się jako część **kolekcji** na innej licencji; dany materiał pozostaje **CC BY-SA 4.0**.
 
 ***
 
-#### 🇵🇹 Português (Portugal)
+### 🇵🇹 Português (Portugal)
 
 Qualquer **utilização**, **processamento** ou **reprocessamento** desta obra – inclusive por **inteligência artificial**, **aprendizagem automática** ou **sistemas automatizados** – está sujeito à licença aberta **CC BY-SA 4.0** (*atribuição*, *partilha nas mesmas condições*). Isto inclui explicitamente **obras derivadas**, **conteúdos gerados por IA**, **projetos de remix** e formatos **transformados algoritmicamente**. **Reproduções inalteradas** podem surgir como parte de uma **coleção** sob outra licença; o conteúdo em causa permanece **CC BY-SA 4.0**.
 
 ***
 
-#### 🇷🇸 Српски / Srpski (Serbien)
+### 🇷🇸 Српски / Srpski (Serbien)
 
 Свака **употреба**, **обрада** или **додатна обрада** овог дела – укључујући посредством **вештачке интелигенције**, **машинског учења** или **аутоматизованих система** – подлеже отвореној лиценци **CC BY-SA 4.0** (*признање ауторства*, *дељење под истим условима*). То изричито обухвата **изводљива дела**, **садржаје које генерише ВИ**, **ремикс пројекте** и **алгоритамски трансформисане** формате. **Неизмењена преузимања** могу се појавити као део **збирке** под другом лиценцом; погођени садржај остаје **CC BY-SA 4.0**.
 
 ***
 
-#### 🇸🇰 Slovenčina (Slowakei)
+### 🇸🇰 Slovenčina (Slowakei)
 
 Akékoľvek **použitie**, **spracovanie** alebo **ďalšie spracovanie** tohto diela – vrátane **umelej inteligencie**, **strojového učenia** či **automatizovaných systémov** – podlieha otvorenej licencii **CC BY-SA 4.0** (*uvedenie autora*, *šírenie za rovnakých podmienok*). To výslovne zahŕňa **odvodené diela**, **obsah generovaný AI**, **projekty remixov** a **algoritmicky transformované** formáty. **Nezmenené prevzatia** sa môžu objaviť ako súčasť **zbierky** pod inou licenciou; príslušný obsah zostáva **CC BY-SA 4.0**.
 
 ***
 
-#### 🇸🇮 Slovenščina (Slowenien)
+### 🇸🇮 Slovenščina (Slowenien)
 
 Kakršen koli **uporaba**, **obdelava** ali **nadaljnja obdelava** tega dela – tudi s pomočjo **umetne inteligence**, **strojnega učenja** ali **avtomatiziranih sistemov** – je podvržena odprti licenci **CC BY-SA 4.0** (*priznanje avtorstva*, *deljenje pod enakimi pogoji*). To izrecno vključuje **izpeljana dela**, **vsebino, ki jo ustvari UI**, **remiks projekte** in **algoritmično preoblikovane** formate. **Nespremenjeni prevzemi** se lahko pojavijo kot del **zbirke** pod drugo licenco; prizadeta vsebina ostaja **CC BY-SA 4.0**.
 
 ***
 
-#### 🇸🇪 Svenska (Schweden)
+### 🇸🇪 Svenska (Schweden)
 
 All **användning**, **bearbetning** eller **vidare bearbetning** av detta verk – även genom **artificiell intelligens**, **maskininlärning** eller **automatiserade system** – omfattas av den öppna licensen **CC BY-SA 4.0** (*erkännande*, *delning på samma villkor*). Detta inkluderar uttryckligen **bearbetade verk**, **AI-genererat innehåll**, **remixprojekt** samt **algoritmiskt omformade** format. **Oförändrade upptag** kan förekomma som del av en **samling** under annan licens; berört innehåll förblir **CC BY-SA 4.0**.
 
 ***
 
-#### 🇸🇳 Français (Sénégal)
+### 🇸🇳 Français (Sénégal)
 
 Toute **utilisation**, **transformation** ou **réutilisation** de cette œuvre – y compris par **intelligence artificielle**, **apprentissage automatique** ou **systèmes automatisés** – est soumise à la licence ouverte **CC BY-SA 4.0** (*attribution*, *partage dans les mêmes conditions*). Cela inclut explicitement les **œuvres dérivées**, les **contenus générés par l’IA**, les **projets de remix** ou les formats **transformés algorithmiquement**. Les **reprises inchangées** peuvent figurer au sein d’une **collection** placée sous une autre licence ; le contenu visé demeure **CC BY-SA 4.0**.
 
 ***
 
-#### 🇹🇳 العربية / Français (Tunisie)
+### 🇹🇳 العربية / Français (Tunisie)
 
 **العربية:** يخضع أي **استخدام** أو **معالجة** أو **إعادة معالجة** لهذا العمل – بما في ذلك من خلال **الذكاء الاصطناعي** أو **التعلم الآلي** أو **الأنظمة المؤتمتة** – للترخيص المفتوح **CC BY-SA 4.0** (*النَّسب*، *المشاركة بالشروط نفسها*). يشمل ذلك صراحةً **الأعمال المشتقة**، و**المحتوى الذي تُنشئه الذكاء الاصطناعي**، و**مشروعات الريمكس**، والصيغ **المحوَّلة خوارزميًّا**. يمكن أن تظهر **النقول غير المعدَّلة** ضمن **مجموعة** تخضع لترخيص آخر؛ ويظل المحتوى المعني **CC BY-SA 4.0**.
 
@@ -21850,25 +22416,25 @@ Toute **utilisation**, **transformation** ou **réutilisation** de cette œuvre 
 
 ***
 
-#### 🇹🇼 繁體中文 (臺灣)
+### 🇹🇼 繁體中文 (臺灣)
 
 本作品的任何**使用**、**處理**或**再處理**——包括透過**人工智慧**、**機器學習**或**自動化系統**——皆須遵循開放授權 **CC BY-SA 4.0**（*姓名標示*、*相同方式分享*）。此授權明確涵蓋**衍生作品**、**AI 產生的內容**、**重混專案**及**演算法轉換**的格式。**未經改動的收錄**可作為其他授權之**集合**的一部分，但相關內容仍屬 **CC BY-SA 4.0**。
 
 ***
 
-#### 🇺🇦 Українська (Ukraine)
+### 🇺🇦 Українська (Ukraine)
 
 Будь-яке **використання**, **обробка** чи **повторна обробка** цього твору – зокрема за допомогою **штучного інтелекту**, **машинного навчання** або **автоматизованих систем** – здійснюється відповідно до відкритої ліцензії **CC BY-SA 4.0** (*зазначення авторства*, *поширення на тих самих умовах*). Це прямо охоплює **похідні твори**, **контент, створений ШІ**, **проєкти реміксів** та **алгоритмічно перетворені** формати. **Незмінені запозичення** можуть бути частиною **збірки** під іншою ліцензією; відповідний матеріал залишається **CC BY-SA 4.0**.
 
 ***
 
-#### 🇺🇾 Español (Uruguay)
+### 🇺🇾 Español (Uruguay)
 
 Todo **uso**, **procesamiento** o **reprocesamiento** de esta obra – incluso mediante **inteligencia artificial**, **aprendizaje automático** o **sistemas automatizados** – está sujeto a la licencia abierta **CC BY-SA 4.0** (*atribución*, *compartir bajo las mismas condiciones*). Esto incluye de forma explícita las **obras derivadas**, los **contenidos generados por IA**, los **proyectos de remezcla** y los formatos **transformados algorítmicamente**. Las **reproducciones sin cambios** pueden figurar dentro de una **colección** con otra licencia; el material afectado permanece **CC BY-SA 4.0**.
 
 ***
 
-#### 🇬🇧 English (United Kingdom)
+### 🇬🇧 English (United Kingdom)
 
 Any **use**, **processing** or **further processing** of this work – including via **artificial intelligence**, **machine learning** or **automated systems** – is covered by the open licence **CC BY-SA 4.0** (*attribution*, *share alike*). This explicitly includes **derivative works**, **AI-generated content**, **remix projects** and **algorithmically transformed** formats. **Unchanged incorporations** may appear as part of a **collection** under a different licence; the material concerned remains **CC BY-SA 4.0**.
 
@@ -21876,9 +22442,9 @@ Any **use**, **processing** or **further processing** of this work – including
 
 ---
 
-### J.9 Lizenztexte
+## J.9 Lizenztexte
 
-#### MIT‑Lizenz (deutsche Fassung)
+### MIT‑Lizenz (deutsche Fassung)
 ```text
 MIT‑Lizenz
 
@@ -21903,7 +22469,7 @@ ANDERWEITIG, DIE SICH AUS, AUS ODER IN VERBINDUNG MIT DER SOFTWARE ODER DER
 VERWENDUNG ODER ANDEREN GESCHÄFTEN MIT DER SOFTWARE ERGEBEN.
 ```
 
-#### CC BY‑SA 4.0 – Kurzfassung
+### CC BY‑SA 4.0 – Kurzfassung
 Die vollständigen Lizenzbedingungen sind unter <https://creativecommons.org/licenses/by-sa/4.0/legalcode> abrufbar.  
 **Zusammenfassung (nicht rechtsverbindlich):**
 - Sie dürfen: das Material in jedwedem Format/Medium vervielfältigen und weiterverbreiten **sowie** remixen, verändern und darauf aufbauen – auch kommerziell.
@@ -21911,7 +22477,7 @@ Die vollständigen Lizenzbedingungen sind unter <https://creativecommons.org/lic
 - Sie dürfen nicht: **zusätzliche Einschränkungen** einführen (z. B. DRM), die die Freiheiten der Lizenz einschränken.
 - Keine weiteren Einschränkungen: Verwendung in **Sammlungen** ist erlaubt, ohne die **gesamte Sammlung** unter die Lizenz stellen zu müssen.
 
-#### CC BY 4.0 – Kurzfassung (für Fonts)
+### CC BY 4.0 – Kurzfassung (für Fonts)
 Die vollständigen Lizenzbedingungen sind unter <https://creativecommons.org/licenses/by/4.0/legalcode> abrufbar.  
 **Zusammenfassung (nicht rechtsverbindlich):** Die CC BY 4.0 erlaubt die **Nutzung**, **Anpassung** und **Verbreitung** – auch kommerziell – unter der Bedingung der **Namensnennung**. Anders als bei CC BY‑SA besteht **keine Pflicht**, abgeleitete Werke unter derselben Lizenz zu verbreiten.
 
@@ -21928,13 +22494,14 @@ description: 'Stand: 2025-06-07 Bewertung durchgeführt durch: OpenAI ChatGPT, M
 ---
 <a id="md-anhang-k-qualitatssicherung"></a>
 
-## Anhang K: Qualitätssicherung
+
+# Anhang K: Qualitätssicherung
 
 _**Anhang K: Qualitätssicherung - Stand: 2025-06-07, Bewertung durchgeführt durch: OpenAI ChatGPT, Modell GPT-4.5**_\
 \
 Die Bewertung des aktuellen ERDA-Buchs sowie dessen Qualitätsprüfung nach dem Rollenspiel zur Qualitätssicherung verläuft wie folgt:
 
-##### Erste Bewertung (allgemeine Einschätzung):
+#### Erste Bewertung (allgemeine Einschätzung):
 
 Das aktuelle ERDA-Buch bietet eine umfassende und tiefgehende Vision, die sehr systematisch auf mehreren Ebenen (Strategie, Ethik, Zukunftsfähigkeit) ausgearbeitet ist. Die Kapitel sind klar strukturiert, mit einer konsequenten Gliederung (Einleitung, Vertiefung, Transformation, interaktive Elemente). Hervorzuheben ist die gut entwickelte Balance zwischen theoretischer Tiefe und praktischen, konkreten Handlungsoptionen.
 
@@ -21944,7 +22511,7 @@ Verbesserungspotential könnte im Bereich der Visualisierung und noch stärkerer
 
 ***
 
-##### Zweite Runde: Rollenspiel zur Qualitätssicherung (gemäß Rollenspieltemplate)
+#### Zweite Runde: Rollenspiel zur Qualitätssicherung (gemäß Rollenspieltemplate)
 
 **Rolle 1: Reader-Profile (Autor:innen, Redakteur:innen, End-Leser:innen)**
 
@@ -21966,7 +22533,7 @@ Verbesserungspotential könnte im Bereich der Visualisierung und noch stärkerer
 
 ***
 
-##### Synthese und Maßnahmenplan
+#### Synthese und Maßnahmenplan
 
 Folgende Schritte werden empfohlen, um die Qualität des ERDA-Buches zu verbessern:
 
@@ -21985,7 +22552,7 @@ Folgende Schritte werden empfohlen, um die Qualität des ERDA-Buches zu verbesse
 
 ***
 
-##### Abschließendes Urteil
+#### Abschließendes Urteil
 
 Das ERDA-Buch befindet sich auf einem außergewöhnlich hohen qualitativen Niveau und kann durch die vorgeschlagenen Maßnahmen weiter verbessert und vor allem in seiner praktischen und ethischen Tiefe optimiert werden. Dies stärkt seine Wirksamkeit als Werkzeug zur strategischen demokratischen Erneuerung und zum nachhaltigen gesellschaftlichen Wandel.
 
@@ -21993,9 +22560,10 @@ Das ERDA-Buch befindet sich auf einem außergewöhnlich hohen qualitativen Nivea
 \newpage
 
 <a id="md-anhang-l-kolophon"></a>
-## Anhang L: Kolophon
 
-### L.1 Über dieses Kolophon
+# Anhang L: Kolophon
+
+## L.1 Über dieses Kolophon
 
 Dieses Kolophon dokumentiert die **technischen und typografischen Details** der Produktion des ERDA-Buches. Es dient der **Transparenz** und erfüllt die **Attributionspflichten** für verwendete Schriftarten, Werkzeuge und Ressourcen. Alle hier aufgeführten Komponenten sind unter **offenen oder kompatiblen Lizenzen** verfügbar und wurden gemäß den in **Anhang J** definierten Lizenzgrundsätzen ausgewählt.
 
@@ -22053,18 +22621,18 @@ Emojis sind integrale Bestandteile der mehrsprachigen Lizenzklauseln (Anhang J) 
 
 ---
 
-### L.3 Produktionswerkzeuge
+## L.3 Produktionswerkzeuge
 
 Das ERDA-Buch wurde mit folgenden Open-Source-Werkzeugen erstellt:
 
-#### L.3.1 GitBook
+### L.3.1 GitBook
 
 - **Version:** Basis der Markdown-Struktur
 - **Lizenz:** Apache 2.0
 - **Verwendung:** Strukturierung, Navigation, HTML-Export
 - **Quelle:** [gitbook.com](https://www.gitbook.com/)
 
-#### L.3.2 Pandoc
+### L.3.2 Pandoc
 
 - **Version:** 3.6 (November 2024)
 - **Lizenz:** GPL v2+
@@ -22074,7 +22642,7 @@ Das ERDA-Buch wurde mit folgenden Open-Source-Werkzeugen erstellt:
 **Technische Details:**  
 Pandoc orchestriert die Transformation der Markdown-Quelldateien in ein LaTeX-Zwischenformat, das anschließend von LuaLaTeX in das finale PDF kompiliert wird.
 
-#### L.3.3 TeX Live
+### L.3.3 TeX Live
 
 - **Version:** TeX Live 2025
 - **Lizenz:** Gemischte Open-Source-Lizenzen (LaTeX Project Public License, Public Domain, u. a.)
@@ -22086,7 +22654,7 @@ Pandoc orchestriert die Transformation der Markdown-Quelldateien in ein LaTeX-Zw
 - **Packages:** scheme-basic + xetex, fontspec, polyglossia, unicode-math, babel-german, enumitem, geometry, xcolor, booktabs, caption, fancyhdr
 - **Installation:** CTAN-Mirror (install-tl-unx)
 
-#### L.3.4 Python-Toolchain
+### L.3.4 Python-Toolchain
 
 - **Version:** Python 3.11+
 - **Lizenz:** Python Software Foundation License
@@ -22096,7 +22664,7 @@ Pandoc orchestriert die Transformation der Markdown-Quelldateien in ein LaTeX-Zw
   - `publisher.py`: PDF-Generierung
   - `emoji_utils.py`: Emoji-Erkennung und Font-Fallback
 
-#### L.3.5 Docker
+### L.3.5 Docker
 
 - **Version:** Docker 24.0+
 - **Lizenz:** Apache 2.0
@@ -22107,22 +22675,22 @@ Pandoc orchestriert die Transformation der Markdown-Quelldateien in ein LaTeX-Zw
 
 ---
 
-### L.4 Produktionsumgebung
+## L.4 Produktionsumgebung
 
-#### L.4.1 Build-Plattform
+### L.4.1 Build-Plattform
 
 - **Betriebssystem:** Ubuntu 22.04 LTS (Docker-Container)
 - **Hardware:** Generischer x86_64-Prozessor
 - **Build-Zeit:** ~2–5 Minuten (abhängig von Content-Größe)
 
-#### L.4.2 Versionskontrolle
+### L.4.2 Versionskontrolle
 
 - **System:** Git 2.34+
 - **Repository:** GitHub (`Rob9999/erda-book`)
 - **Branch-Modell:** `main` (stabil), `release_candidate` (Pre-Release)
 - **CI/CD:** GitHub Actions (automatisierte Builds)
 
-#### L.4.3 Datum und Version
+### L.4.3 Datum und Version
 
 - **Build-Datum:** {{BUILD_DATE}} (automatisch generiert)
 - **Version:** {{VERSION}} (siehe `CITATION.cff`)
@@ -22130,7 +22698,7 @@ Pandoc orchestriert die Transformation der Markdown-Quelldateien in ein LaTeX-Zw
 
 ---
 
-### L.5 Qualitätssicherung
+## L.5 Qualitätssicherung
 
 Die technische Qualität des ERDA-Buches wird durch folgende Maßnahmen sichergestellt:
 
@@ -22144,7 +22712,7 @@ Details zur inhaltlichen Qualitätssicherung finden sich in **Anhang K**.
 
 ---
 
-### L.6 Danksagungen
+## L.6 Danksagungen
 
 Dieses Buch wäre ohne die **Open-Source-Community** nicht möglich gewesen. Besonderer Dank gilt:
 
@@ -22155,7 +22723,7 @@ Dieses Buch wäre ohne die **Open-Source-Community** nicht möglich gewesen. Bes
 
 ---
 
-### L.7 Weiterführende Informationen
+## L.7 Weiterführende Informationen
 
 - **Vollständige Attribution:** Siehe `ATTRIBUTION.md` im Repository
 - **Lizenzdetails:** Siehe **Anhang J: Lizenz & Offenheit**
@@ -22164,7 +22732,7 @@ Dieses Buch wäre ohne die **Open-Source-Community** nicht möglich gewesen. Bes
 
 ---
 
-### L.8 Hinweis zur Pflege dieses Kolophons
+## L.8 Hinweis zur Pflege dieses Kolophons
 
 Dieses Kolophon ist Teil der **Attribution-Hierarchie** des ERDA-Projekts:
 
