@@ -3,11 +3,11 @@ source: content/anhang-b-erda-staatenprofile/b.2.-schema-fur-erda-staatenprofile
 status: draft
 ---
 
-# B.2 ERDA State Profile Template (v4, Extended Overview)
+# B.2 ERDA State Profile Template (v5, Extended Overview)
 
-_**Template for ERDA state profiles (v4)**_
+_**Template for ERDA state profiles (v5)**_
 
-### 1. 🌍 ERDA State Profile – Template (v4, 2025)
+### 1. 🌍 ERDA State Profile – Template (v5, 2025)
 
 ```markup
 ---
@@ -16,7 +16,7 @@ country: "{{country-code}}"
 date: "{{YYYY-MM-dd}}"
 author: "{{author}}"
 legal_responsible: "{{official}}"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 

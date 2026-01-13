@@ -8755,11 +8755,11 @@ Die Profile schaffen eine Balance zwischen Individualität und Integration. Sie 
 
 <a id="md-anhang-b-erda-staatenprofile-b-2-schema-fur-erda-staatenprofile-ausfuhrliche-ubersicht"></a>
 
-## B.2. Schema für ERDA-Staatenprofile (v4, ausführliche Übersicht)
+## B.2. Schema für ERDA-Staatenprofile (v5, ausführliche Übersicht)
 
-_**Schema für ERDA-Staatenprofile (v4)**_
+_**Schema für ERDA-Staatenprofile (v5)**_
 
-#### 1. 🌍 ERDA-Staatenprofil – Schema (v4, 2025)
+#### 1. 🌍 ERDA-Staatenprofil – Schema (v5, 2026)
 
 ```markup
 ---
@@ -8768,7 +8768,7 @@ country: "{{country-code}}"
 date: "{{YYYY-MM-dd}}"
 author: "{{author}}"
 legal_responsible: "{{official}}"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 
@@ -9004,7 +9004,7 @@ country: "AT"
 date: "2025-06-09"
 author: "ERDA Buch Redaktion"
 legal_responsible: "<Behörde/Institut>"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-at-staatenprofil-osterreich"></a>
@@ -9229,7 +9229,7 @@ country: "BE"
 date: "2025-05-28"
 author: "ERDA Buch Redaktion"
 legal_responsible: "<Behörde/Institut>"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-be-staatenprofil-belgien"></a>
@@ -9498,7 +9498,7 @@ country: "BG"
 date: "2026-01-01"
 author: "ERDA Buch Redaktion"
 legal_responsible: "<Behörde/Institut>"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-bg-staatenprofil-bulgarien"></a>
@@ -9708,7 +9708,7 @@ country: "CZ"
 date: "2025-06-10"
 author: "ERDA Buch Redaktion"
 legal_responsible: "<Behörde/Institut>"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-cz-staatenprofil-tschechien"></a>
@@ -9889,7 +9889,7 @@ country: "DE"
 date: "2025-06-10"
 author: "ERDA Buch Redaktion"
 legal_responsible: "<Behörde/Institut>"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-staatenprofil-deutschland-de"></a>
@@ -10147,7 +10147,7 @@ country: "DK"
 date: "2025-06-10"
 author: "ERDA Buch Redaktion"
 legal_responsible: "<Behörde/Institut>"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-dk-staatenprofil-danemark"></a>
@@ -10345,7 +10345,7 @@ country: "EE"
 date: "2025-06-10"
 author: "ERDA Buch Redaktion"
 legal_responsible: "<Behörde/Institut>"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-ee-staatenprofil-republik-estland"></a>
@@ -10574,7 +10574,7 @@ country: "ES"
 date: "2025-06-10"
 author: "ERDA Buch Redaktion"
 legal_responsible: "<Behörde/Institut>"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-es-staatenprofil-spanien"></a>
@@ -10812,7 +10812,7 @@ country: "FI"
 date: "2025-06-10"
 author: "ERDA Buch Redaktion"
 legal_responsible: "<Behörde/Institut>"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-fi-staatenprofil-finnland"></a>
@@ -11028,7 +11028,7 @@ country: "FR"
 date: "2025-06-10"
 author: "ERDA Buch Redaktion"
 legal_responsible: "<Behörde/Institut>"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-fr-staatenprofil-frankreich"></a>
@@ -11219,7 +11219,7 @@ country: "GR"
 date: "2025-06-10"
 author: "ERDA Buch Redaktion"
 legal_responsible: "<Behörde/Institut>"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-gr-staatenprofil-griechenland"></a>
@@ -11456,7 +11456,7 @@ country: "HR"
 date: "2025-06-10"
 author: "ERDA Buch Redaktion"
 legal_responsible: "<Behörde/Institut>"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-hr-staatenprofil-kroatien"></a>
@@ -11690,7 +11690,7 @@ country: "IE"
 date: "2025-06-10"
 author: "ERDA Buch Redaktion"
 legal_responsible: "<Behörde/Institut>"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-ie-staatenprofil-republik-irland"></a>
@@ -11908,7 +11908,7 @@ country: "IT"
 date: "2025-06-10"
 author: "ERDA Buch Redaktion"
 legal_responsible: "<Behörde/Institut>"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-it-staatenprofil-italien"></a>
@@ -12119,7 +12119,7 @@ country: "LT"
 date: "2025-06-10"
 author: "ERDA Buch Redaktion"
 legal_responsible: "<Behörde/Institut>"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-lt-staatenprofil-republik-litauen"></a>
@@ -12332,7 +12332,7 @@ country: "LU"
 date: "2026-01-01"
 author: "ERDA Buch Redaktion"
 legal_responsible: "<Behörde/Institut>"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-lu-staatenprofil-luxemburg"></a>
@@ -12513,7 +12513,7 @@ country: "LV"
 date: "2025-06-10"
 author: "ERDA Buch Redaktion"
 legal_responsible: "<Behörde/Institut>"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-lv-staatenprofil-republik-lettland"></a>
@@ -12737,7 +12737,7 @@ country: "NL"
 date: "2025-06-10"
 author: "ERDA Buch Redaktion"
 legal_responsible: "<Behörde/Institut>"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-nl-staatenprofil-niederlande"></a>
@@ -12932,7 +12932,7 @@ country: "PL"
 date: "2025-06-10"
 author: "ERDA Buch Redaktion"
 legal_responsible: "<Behörde/Institut>"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-pl-staatenprofil-polen"></a>
@@ -13119,7 +13119,7 @@ country: "PT"
 date: "2025-06-10"
 author: "ERDA Buch Redaktion"
 legal_responsible: "<Behörde/Institut>"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-pt-staatenprofil-republik-portugal"></a>
@@ -13342,7 +13342,7 @@ country: "RO"
 date: "2026-01-01"
 author: "ERDA Buch Redaktion"
 legal_responsible: "<Behörde/Institut>"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-ro-staatenprofil-rumanien"></a>
@@ -13530,7 +13530,7 @@ country: "SE"
 date: "2025-06-10"
 author: "ERDA Buch Redaktion"
 legal_responsible: "<Behörde/Institut>"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-se-staatenprofil-schweden"></a>
@@ -13705,7 +13705,7 @@ country: "SI"
 date: "2025-06-10"
 author: "ERDA Buch Redaktion"
 legal_responsible: "<Behörde/Institut>"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-si-staatenprofil-slowenien"></a>
@@ -13935,7 +13935,7 @@ country: "SK"
 date: "2025-06-10"
 author: "ERDA Buch Redaktion"
 legal_responsible: "<Behörde/Institut>"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-sk-staatenprofil-slowakei"></a>
@@ -14195,7 +14195,7 @@ country: "AL"
 date: "2026-01-01"
 author: "ERDA Buch Redaktion"
 legal_responsible: "<Behörde/Institut>"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-al-staatenprofil-albanien"></a>
@@ -14403,7 +14403,7 @@ country: "AM"
 date: "2026-01-01"
 author: "ERDA Buch Redaktion"
 legal_responsible: "<Behörde/Institut>"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-am-staatenprofil-armenien"></a>
@@ -14609,7 +14609,7 @@ country: "BA"
 date: "2025-06-10"
 author: "ERDA Buch Redaktion"
 legal_responsible: "<Behörde/Institut>"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-ba-staatenprofil-bosnien-herzegowina"></a>
@@ -14818,7 +14818,7 @@ country: "CH"
 date: "2026-01-01"
 author: "ERDA Buch Redaktion"
 legal_responsible: "<Behörde/Institut>"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-ch-staatenprofil-schweiz"></a>
@@ -15049,7 +15049,7 @@ country: "CY"
 date: "2026-01-01"
 author: "ERDA Buch Redaktion"
 legal_responsible: "<Behörde/Institut>"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-cy-staatenprofil-zypern"></a>
@@ -15255,7 +15255,7 @@ country: "GE"
 date: "2026-01-01"
 author: "ERDA Buch Redaktion"
 legal_responsible: "<Behörde/Institut>"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-ge-staatenprofil-georgien"></a>
@@ -15463,7 +15463,7 @@ country: "HU"
 date: "2025-06-10"
 author: "ERDA Buch Redaktion"
 legal_responsible: "<Behörde/Institut>"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-hu-staatenprofil-ungarn"></a>
@@ -15672,7 +15672,7 @@ country: "IL"
 date: "2026-01-01"
 author: "ERDA Buch Redaktion"
 legal_responsible: "<Behörde/Institut>"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-il-staatenprofil-israel"></a>
@@ -15881,7 +15881,7 @@ country: "MD"
 date: "2025-06-10"
 author: "ERDA Buch Redaktion"
 legal_responsible: "<Behörde/Institut>"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-md-staatenprofil-moldau"></a>
@@ -16089,7 +16089,7 @@ country: "ME"
 date: "2025-06-10"
 author: "ERDA Buch Redaktion"
 legal_responsible: "<Behörde/Institut>"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-me-staatenprofil-montenegro"></a>
@@ -16299,7 +16299,7 @@ country: "MK"
 date: "2026-01-01"
 author: "ERDA Buch Redaktion"
 legal_responsible: "<Behörde/Institut>"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-mk-staatenprofil-nord-mazedonien"></a>
@@ -16507,7 +16507,7 @@ country: "MT"
 date: "2026-01-01"
 author: "ERDA Buch Redaktion"
 legal_responsible: "<Behörde/Institut>"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-mt-staatenprofil-malta"></a>
@@ -16721,7 +16721,7 @@ country: "NO"
 date: "2025-06-10"
 author: "ERDA Buch Redaktion"
 legal_responsible: "<Behörde/Institut>"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-no-staatenprofil-norwegen"></a>
@@ -16894,7 +16894,7 @@ country: "RS"
 date: "2025-06-10"
 author: "ERDA Buch Redaktion"
 legal_responsible: "<Behörde/Institut>"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-rs-staatenprofil-serbien"></a>
@@ -17120,7 +17120,7 @@ country: "TR"
 date: "2026-01-01"
 author: "ERDA Buch Redaktion"
 legal_responsible: "<Behörde/Institut>"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-tr-staatenprofil-tuerkei"></a>
@@ -17286,7 +17286,7 @@ country: "UA"
 date: "2025-06-08"
 author: "ERDA Buch Redaktion"
 legal_responsible: "None"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-ua-staatenprofil-ukraine"></a>
@@ -17518,7 +17518,7 @@ country: "UK"
 date: "2025-06-10"
 author: "ERDA Buch Redaktion"
 legal_responsible: "<Behörde/Institut>"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-uk-staatenprofil-vereinigtes-koenigreich"></a>
@@ -17724,7 +17724,7 @@ country: "XK"
 date: "2025-06-10"
 author: "ERDA Buch Redaktion"
 legal_responsible: "<Behörde/Institut>"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-xk-staatenprofil-kosovo"></a>
@@ -17945,7 +17945,7 @@ country: "AU"
 date: "2026-01-01"
 author: "ERDA Buch Redaktion"
 legal_responsible: "<Behörde/Institut>"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-5-staatenprofile-erda-globale-assoziierte-au-staatenprofil-australien"></a>
@@ -18128,7 +18128,7 @@ country: "CA"
 date: "2026-01-01"
 author: "ERDA Buch Redaktion"
 legal_responsible: "<Behörde/Institut>"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-5-staatenprofile-erda-globale-assoziierte-ca-staatenprofil-kanada"></a>
@@ -18360,7 +18360,7 @@ country: "CL"
 date: "2026-01-01"
 author: "ERDA Buch Redaktion"
 legal_responsible: "<Behörde/Institut>"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-5-staatenprofile-erda-globale-assoziierte-cl-staatenprofil-chile"></a>
@@ -18578,7 +18578,7 @@ country: "CR"
 date: "2025-06-12"
 author: "ERDA Buch Redaktion"
 legal_responsible: "<Behörde/Institut>"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-5-staatenprofile-erda-globale-assoziierte-cr-staatenprofil-costa-rica"></a>
@@ -18768,7 +18768,7 @@ country: "IN"
 date: "2026-01-01"
 author: "ERDA Buch Redaktion"
 legal_responsible: "<Behörde/Institut>"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-5-staatenprofile-erda-globale-assoziierte-in-staatenprofil-indien"></a>
@@ -18980,7 +18980,7 @@ country: "JP"
 date: "2025-06-10"
 author: "ERDA Buch Redaktion"
 legal_responsible: "<Behörde/Institut>"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-5-staatenprofile-erda-globale-assoziierte-jp-staatenprofil-japan"></a>
@@ -19193,7 +19193,7 @@ country: "KR"
 date: "2025-06-10"
 author: "ERDA Buch Redaktion"
 legal_responsible: "<Behörde/Institut>"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-5-staatenprofile-erda-globale-assoziierte-kr-staatenprofil-sued-korea"></a>
@@ -19406,7 +19406,7 @@ country: "NA"
 date: "2026-01-01"
 author: "ERDA Buch Redaktion"
 legal_responsible: "<Behörde/Institut>"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-5-staatenprofile-erda-globale-assoziierte-na-staatenprofil-namibia"></a>
@@ -19600,7 +19600,7 @@ country: "NZ"
 date: "2026-01-01"
 author: "ERDA Buch Redaktion"
 legal_responsible: "<Behörde/Institut>"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-5-staatenprofile-erda-globale-assoziierte-nz-staatenprofil-neuseeland"></a>
@@ -19830,7 +19830,7 @@ country: "SN"
 date: "2026-01-01"
 author: "ERDA Buch Redaktion"
 legal_responsible: "<Behörde/Institut>"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-5-staatenprofile-erda-globale-assoziierte-sn-staatenprofil-senegal"></a>
@@ -20040,7 +20040,7 @@ country: "TN"
 date: "2026-01-01"
 author: "ERDA Buch Redaktion"
 legal_responsible: "<Behörde/Institut>"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-5-staatenprofile-erda-globale-assoziierte-tn-staatenprofil-tunesien"></a>
@@ -20186,7 +20186,7 @@ country: "TW"
 date: "2026-01-01"
 author: "ERDA Buch Redaktion"
 legal_responsible: "<Behörde/Institut>"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-5-staatenprofile-erda-globale-assoziierte-tw-staatenprofil-taiwan"></a>
@@ -20423,7 +20423,7 @@ country: "UY"
 date: "2026-01-01"
 author: "ERDA Buch Redaktion"
 legal_responsible: "<Behörde/Institut>"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-5-staatenprofile-erda-globale-assoziierte-uy-staatenprofil-uruguay"></a>

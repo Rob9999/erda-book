@@ -6,7 +6,7 @@ country: "UA"
 date: "2025-06-08"
 author: "ERDA Book editorial team"
 legal_responsible: "None"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 

@@ -187,7 +187,7 @@
     * [B.1.2 Modular Structure](anhang-b-erda-staatenprofile/b.1.-einleitung-zum-staatenprofil-konzept/b.1.2-modularer-aufbau.md)
     * [B.1.3 Use Cases](anhang-b-erda-staatenprofile/b.1.-einleitung-zum-staatenprofil-konzept/b.1.3-einsatzmoglichkeiten.md)
     * [B.1.4 Recognising Diversity – Shaping Common Ground](anhang-b-erda-staatenprofile/b.1.-einleitung-zum-staatenprofil-konzept/b.1.4-vielfalt-anerkennen-gemeinsamkeit-gestalten.md)
-  * [B.2 ERDA State Profile Template (v4, Extended Overview)](anhang-b-erda-staatenprofile/b.2.-schema-fur-erda-staatenprofile-ausfuhrliche-ubersicht.md)
+  * [B.2 ERDA State Profile Template (v5, Extended Overview)](anhang-b-erda-staatenprofile/b.2.-schema-fur-erda-staatenprofile-ausfuhrliche-ubersicht.md)
   * [B.3 State Profiles (EU/ERDA – Core Countries)](anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/README.md)
     * [AT – State Profile Austria](anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/at-staatenprofil-osterreich.md)
     * [BE – State Profile Belgium](anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/be-staatenprofil-belgien.md)

@@ -21,7 +21,7 @@ The ERDA state profile concept pursues several goals at once:
 
 The profiles are not designed as ranking tools, but as **cooperative planning instruments**. They should support governments, parliaments, civil society and research to jointly design paths towards democratic resilience and post-scarcity prosperity.
 
-## B.2 Schema for ERDA State Profiles (v4, extended overview)
+## B.2 Schema for ERDA State Profiles (v5, extended overview)
 
 Each ERDA state profile follows a standard schema (version 4, 2025). It starts with a short description block in the front matter and then structures the content into eleven to twelve thematic sections.
 
@@ -36,7 +36,7 @@ country: "{{country-code}}"
 date: "{{YYYY-MM-dd}}"
 author: "{{author}}"
 legal_responsible: "{{official}}"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 ```

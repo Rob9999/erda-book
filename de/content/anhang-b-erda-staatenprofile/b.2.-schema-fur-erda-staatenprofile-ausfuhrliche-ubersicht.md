@@ -1,8 +1,8 @@
-# B.2. Schema für ERDA-Staatenprofile (v4, ausführliche Übersicht)
+# B.2. Schema für ERDA-Staatenprofile (v5, ausführliche Übersicht)
 
-_**Schema für ERDA-Staatenprofile (v4)**_
+_**Schema für ERDA-Staatenprofile (v5)**_
 
-### 1. 🌍 ERDA-Staatenprofil – Schema (v4, 2025)
+### 1. 🌍 ERDA-Staatenprofil – Schema (v5, 2026)
 
 ```markup
 ---
@@ -11,7 +11,7 @@ country: "{{country-code}}"
 date: "{{YYYY-MM-dd}}"
 author: "{{author}}"
 legal_responsible: "{{official}}"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 
