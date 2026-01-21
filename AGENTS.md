@@ -10,6 +10,9 @@ Diese Anweisungen gelten für den gesamten Inhalt dieses Repositories (GitBook, 
 ## Übersetzungssynchronisation (DE ↔ EN)
 - Änderungen an Inhalten in `de/` sind gemäß `translation-instruction.md` zeitnah nach `en/` nachzuziehen (und vice versa), idealerweise im **gleichen Commit**.
 - Wenn eine synchrone Übersetzung nicht möglich ist (z. B. wegen Review-Requirement), muss mindestens der `status:` in EN angepasst und der/die Writer/Redakteur:in aktiv darauf hingewiesen werden.
+- **Genehmigungspflicht:** Wenn eine Übersetzung inhaltlich/terminologisch eine **Writer- und/oder Redaktionsfreigabe** benötigt, ist diese Freigabe **aktiv einzuholen**, bevor eine Übersetzung als final/`approved` markiert wird.
+   - Liegt keine explizite Freigabe vor, Übersetzungen nur als **Entwurf** (`status: draft` oder `status: in-review`) anlegen/aktualisieren und die Freigabe im Arbeitskontext aktiv anfragen.
+   - Bei Änderungen an bereits übersetzten Kapiteln gilt dasselbe: DE↔EN synchronisieren, aber Status/Review-Stand transparent halten.
 
 ## Lizenzpolitik (verbindlich)
 - **Texte/Grafiken/Diagramme:** **CC BY-SA 4.0** (Share-Alike für Bearbeitungen).
