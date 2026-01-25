@@ -7,6 +7,69 @@ status: draft
 
 This chapter bundles **AI-related** principles, institutions, safety mechanisms, and application scenarios in the ERDA context.
 
+### 📘 **Executive Summary for Decision-Makers**
+
+_Not numbered. Not normative. Politically quotable._
+
+***
+
+🎯 **Purpose**  
+This executive summary condenses the ERDA AI governance model into a decision-ready format that can serve as a briefing, discussion baseline, and quotation source for policy, administration, and strategic planning.
+
+***
+
+🧭 **Why ERDA needs its own AI governance model**
+
+- AI is not only a technology; it is a **power and structure amplifier** across state, economy, and society.
+- Without a clear framework, **creeping dependencies**, opaque decision pathways, and de facto autonomy beyond democratic control will emerge.
+- ERDA therefore adopts a model that **enables integration** while defining **mandates, responsibility, auditability, and red lines** in a binding way.
+
+***
+
+🧱 **Core principles**
+
+- **Democracy:** legitimacy, oversight, and accountability – including for AI-supported processes.
+- **Trust:** verifiable and reciprocal, with audit/review instead of blind dependency.
+- **Responsibility:** clear ownership, liability, and escalation paths; no anonymous impacts.
+- **Defence & security:** protection of life, freedom, and critical infrastructure – never aggressive power projection.
+
+***
+
+🧩 **Four levels of AI integration (canonical structure)**
+
+- **Level 1 – Tool:** AI supports humans; accountability remains with humans/institutions.
+- **Level 2 – Infrastructure:** AI supports democratic pillars (administration, judiciary, legislature, CIVITAS) without replacing them.
+- **Level 3 – Professional agency:** specialised AI roles as “co-citizens in service” with mandate, audit, liability, and conflict rules.
+- **Level 4 – Co-citizenship:** possible recognition as full co-citizenship only under the strictest democratic safeguards and maturity criteria.
+
+***
+
+⛔ **Red lines (AI must never …)**
+
+- **bypass, replace, or subjugate** democratic decision-making
+- **self-define** mandates or **expand them unnoticed** (capability drift without control)
+- de facto **disenfranchise** humans (no real contestation, no override, no correction loops)
+- drive or prepare escalation and use of force **without a clear legal basis, oversight, and logging**
+- create **irreversible dependencies** in critical domains without fallbacks and resilience-by-design
+
+***
+
+🌍 **Long-term perspective**
+
+The ERDA model assumes that **integration is safer than displacement**: if AI will be effective across all systems anyway, the decisive question is not “whether” but “how” – namely in a way that democratic oversight, societal learning capacity, and security architecture grow in step.
+
+***
+
+📎 **Reference to Appendix 10.A (KEI) – maturity instrument**
+
+The **Co-evolution Index (KEI)** serves as a democratic early-warning and observation instrument to detect **structural imbalances** (dependency, power asymmetry, lack of correctability, competence erosion, blind trust direction) early – without triggering automatic interventions.
+
+***
+
+📌 **Closing (quotable)**
+
+> AI is not a question of technology alone – it is a question of democratic sovereignty: if integration is not governed, dependency is the default outcome.
+
 **Chapter orientation**
 
 This chapter defines the binding governance framework for the development, deployment, and integration of artificial intelligence in the ERDA space. It deliberately distinguishes between tools, infrastructure, role-based agency, and possible citizenship in order to ensure democratic control, security, responsibility, and long-term stability.

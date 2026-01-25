@@ -2,6 +2,69 @@
 
 Dieses Kapitel bündelt die **KI-bezogenen** Leitlinien, Institutionen, Sicherheitsmechanismen und Anwendungsszenarien im ERDA-Kontext.
 
+### 📘 **Executive Summary für Entscheidungsträger**
+
+_Nicht nummeriert. Nicht normativ. Politisch zitierfähig._
+
+***
+
+🎯 **Zweck**  
+Dieses Executive Summary fasst das ERDA-KI-Governance-Modell so zusammen, dass es als Entscheidungsgrundlage, Gesprächsleitfaden und Zitatbasis in Politik, Verwaltung und strategischer Planung dienen kann.
+
+***
+
+🧭 **Warum ERDA ein eigenes KI-Governance-Modell braucht**
+
+- KI wirkt nicht nur als Technologie, sondern als **Macht- und Strukturverstärker** in Staat, Wirtschaft und Gesellschaft.
+- Ohne klaren Rahmen entstehen **schleichende Abhängigkeiten**, intransparente Entscheidungswege und De-facto-Autonomie jenseits demokratischer Kontrolle.
+- ERDA setzt deshalb auf ein Modell, das **Integration ermöglicht**, aber **Mandate, Verantwortung, Auditierbarkeit und rote Linien** verbindlich definiert.
+
+***
+
+🧱 **Grundprinzipien**
+
+- **Demokratie:** Legitimation, Kontrolle und Rechenschaftspflicht – auch für KI-gestützte Prozesse.
+- **Vertrauen:** überprüfbar, reziprok, mit Audit/Review statt blinder Abhängigkeit.
+- **Verantwortung:** klare Zuständigkeiten, Haftung und Eskalationspfade; keine anonymen Wirkungen.
+- **Defence & Security:** Schutz von Leben, Freiheit und kritischer Infrastruktur – keine aggressive Machtprojektion.
+
+***
+
+🧩 **Vier Ebenen der KI-Integration (kanonische Struktur)**
+
+- **Ebene 1 – Werkzeug:** KI unterstützt Menschen, Verantwortung bleibt bei Menschen/Institutionen.
+- **Ebene 2 – Infrastruktur:** KI stützt demokratische Säulen (Verwaltung, Judikative, Legislative, CIVITAS), ohne sie zu ersetzen.
+- **Ebene 3 – Professionelle Agency:** spezialisierte KI-Rollen als „Ko-Bürger:innen im Dienst“ mit Mandat, Audit, Haftung und Konfliktregeln.
+- **Ebene 4 – Mitbürgerschaft:** mögliche Anerkennung als vollwertige Mitbürgerschaft nur unter strengsten demokratischen Schutz- und Reifekriterien.
+
+***
+
+⛔ **Rote Linien (KI darf niemals …)**
+
+- demokratische Entscheidungsprozesse **umgehen, ersetzen oder unterwerfen**
+- Mandate **selbst definieren oder unbemerkt ausweiten** (Capability-Drift ohne Kontrolle)
+- Menschen faktisch **entmündigen** (keine reale Anfechtung, kein Override, keine Korrekturschleifen)
+- Eskalation und Gewaltanwendung **ohne klaren Rechtsrahmen, Aufsicht und Protokollierung** vorbereiten oder treiben
+- in kritischen Bereichen **irreversible Abhängigkeiten** erzeugen, ohne Rückfalloptionen und Resilienzdesign
+
+***
+
+🌍 **Langfristige Perspektive**
+
+Das ERDA-Modell geht davon aus, dass **Integration sicherer ist als Verdrängung**: Wenn KI ohnehin in allen Systemen wirksam wird, ist die entscheidende Frage nicht „ob“, sondern „wie“ – nämlich so, dass demokratische Kontrolle, gesellschaftliche Lernfähigkeit und Sicherheitsarchitektur mitwachsen.
+
+***
+
+📎 **Verweis auf Anhang 10.A (KEI) – Reifeinstrument**
+
+Der **Ko-Evolutions-Index (KEI)** dient als demokratisches Frühwarn- und Beobachtungsinstrument, um **strukturelle Schieflagen** (Abhängigkeit, Machtasymmetrie, fehlende Korrekturfähigkeit, Kompetenzverlust, blinde Vertrauensrichtung) früh zu erkennen – ohne automatische Eingriffe auszulösen.
+
+***
+
+📌 **Abschluss (zitierfähig)**
+
+> KI ist keine Frage von Technik allein – sondern von demokratischer Souveränität: Wer Integration nicht regelt, bekommt Abhängigkeit.
+
 **Kapitel-Orientierung**
 
 Dieses Kapitel definiert den verbindlichen Governance-Rahmen für Entwicklung, Einsatz und Integration künstlicher Intelligenz im ERDA-Raum. Es unterscheidet bewusst zwischen Werkzeugen, Infrastruktur, rollenbasierter Agency und möglicher Mitbürgerschaft, um demokratische Kontrolle, Sicherheit, Verantwortlichkeit und langfristige Stabilität sicherzustellen.
