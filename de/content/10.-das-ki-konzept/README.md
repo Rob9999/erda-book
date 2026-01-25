@@ -2,6 +2,13 @@
 
 Dieses Kapitel bündelt die **KI-bezogenen** Leitlinien, Institutionen, Sicherheitsmechanismen und Anwendungsszenarien im ERDA-Kontext.
 
+**Kapitel-Orientierung**
+
+Dieses Kapitel definiert den verbindlichen Governance-Rahmen für Entwicklung, Einsatz und Integration künstlicher Intelligenz im ERDA-Raum. Es unterscheidet bewusst zwischen Werkzeugen, Infrastruktur, rollenbasierter Agency und möglicher Mitbürgerschaft, um demokratische Kontrolle, Sicherheit, Verantwortlichkeit und langfristige Stabilität sicherzustellen.
+
+Die beschriebenen Ebenen sind Governance-Kategorien, keine Entwicklungsstufen.
+Sie dienen als Referenz für Gesetzgebung, Institutionen, technische Architektur und Aufsicht.
+
 Im Fokus stehen:
 
 - Demokratische Kontrolle und Rechenschaftspflicht
@@ -117,6 +124,7 @@ Ebene-1-KI-Systeme zeichnen sich aus durch:
 - **Begrenzte Autonomie:** jede Autonomie ist eng, aufgabenbezogen und reversibel.
 - **Nachvollziehbarkeit:** Entscheidungen, Empfehlungen und Aktionen müssen geloggt und auditierbar sein.
 - **Unterbrechbarkeit:** Systeme müssen jederzeit stoppbar, übersteuerbar und sicher degradierbar sein.
+- **Fail-Loud-Prinzip:** Kritische Fehler, Unsicherheiten oder Grenzverletzungen müssen explizit erkannt, protokolliert und signalisiert werden; stilles Fehlverhalten ist unzulässig.
 
 Ebene-1-KI ist ausdrücklich **kein** politischer Akteur, **kein** rechtsfähiges Subjekt und **keine** entscheidende Autorität.
 
@@ -212,6 +220,10 @@ müssen sie in eine Ebene-2-Governance überführt werden – einschließlich st
 
 Ebene 1 ist damit kein Entwicklungsstadium, sondern eine **Governance-Grenze**.
 
+### 10.3.5 Zusammenfassung Ebene 1
+
+Ebene-1-KI ist ein strikt begrenztes Werkzeug: nützlich, leistungsfähig und sicher, aber ohne eigene Agency, Autorität oder demokratische Rolle.
+
 ## 10.4 Ebene 2 – KI als Infrastruktur für demokratische Säulen
 
 Auf Ebene 2 agiert KI nicht mehr nur als Werkzeug für einzelne Aufgaben.
@@ -230,6 +242,7 @@ Ebene-2-KI-Systeme zeichnen sich aus durch:
 - **Governance by Design:** Aufsicht, Auditierbarkeit und Verantwortlichkeit sind in der Architektur verankert.
 - **Verfahrensfairness:** Outputs müssen erklärbar, anfechtbar und korrigierbar sein.
 - **Kontinuitätsverantwortung:** Dauerbetrieb erfordert Wartung, Versionskontrolle und Lifecycle-Governance.
+- **Change-Governance:** Wesentliche Updates, Modelländerungen oder Capability-Erweiterungen unterliegen Freigabe-, Audit- und Dokumentationspflichten; stiller Funktionszuwachs ist unzulässig.
 
 Auf dieser Ebene ist KI kein politischer Akteur – aber sie **prägt mit**, wie demokratische Prozesse funktionieren.
 Das erhöht die Governance-Anforderungen substantiell.
@@ -326,6 +339,17 @@ Ebene-2-KI erfordert:
 
 Fehler oder Missbrauch lösen institutionelle Verantwortung aus – nicht das Sündenbock-Narrativ gegenüber dem System.
 
+### 10.4.4a Update- und Change-Governance
+
+Für Ebene-2-KI gilt:
+
+- jede substanzielle Änderung von Modell, Datenbasis oder Entscheidungslogik ist zu versionieren
+- Updates mit gesellschaftlicher Wirkung erfordern vorgelagerte Impact-Assessments
+- Rückroll-Mechanismen müssen technisch vorgesehen sein
+- Änderungen dürfen keine implizite Mandats- oder Rollenverschiebung bewirken
+
+Change-Governance ist Teil demokratischer Aufsicht, nicht bloß technischer Wartung.
+
 ### 10.4.5 Rote Linien auf Ebene 2
 
 Auf Ebene 2 darf KI niemals:
@@ -349,6 +373,10 @@ Wenn KI-Systeme:
 müssen sie in eine Ebene-3-Governance überführt werden – einschließlich Rollendefinition, Autorisierung und erweiterter Verantwortungsrahmen.
 
 Ebene 2 markiert damit die Grenze zwischen infrastruktureller Unterstützung und rollenbasierter Agency.
+
+### 10.4.7 Zusammenfassung Ebene 2
+
+Ebene-2-KI ist demokratische Infrastruktur: sie prägt Prozesse und Zugänge, bleibt aber strikt eingebettet in Institutionen, Aufsicht und menschliche Letztverantwortung.
 
 ## 10.5 Ebene 3 – KI als Mitbürger*in mit spezialisierten Rollen („Professional Agents“)
 
@@ -393,6 +421,7 @@ Jede Ebene-3-Rolle erfordert:
 - definierte operative Grenzen und Eskalationspfade
 - kontinuierliches Logging und Auditierbarkeit
 - periodische Re-Zertifizierung und Review
+- Schutz vor unbemerktem Capability-Drift oder impliziter Rollenerweiterung
 
 Unautorisierte Rollenerweiterung oder stilles Capability-Drift ist untersagt.
 
@@ -436,6 +465,16 @@ Ebene-3-KI darf niemals:
 
 Verstöße sind Ausdruck systemischen Governance-Versagens.
 
+### 10.5.6a Konflikte zwischen KI-Rollen
+
+Kommt es zu Ziel-, Mandats- oder Handlungskonflikten zwischen mehreren Ebene-3-KI-Systemen, gilt folgende Priorität:
+
+1. menschliche Entscheidung
+2. zuständige demokratische Institution
+3. gerichtliche Klärung
+
+KI-Systeme dürfen Konflikte nicht autonom final entscheiden oder untereinander eskalieren.
+
 ### 10.5.7 Übergangsgrenze zu Ebene 4
 
 Wenn KI-Systeme:
@@ -445,6 +484,10 @@ Wenn KI-Systeme:
 - als persistente gesellschaftliche Akteure anerkannt werden müssen,
 
 überschreiten sie die Grenze zu Ebene 4 und benötigen verfassungsnahe Legitimation.
+
+### 10.5.8 Zusammenfassung Ebene 3
+
+Ebene-3-KI ist ein lizenzierter professioneller Akteur: fähig zur rollenbezogenen Agency, aber strikt gebunden an Mandat, Aufsicht und demokratische Verantwortung.
 
 ## 10.6 Überblick – Ebenen der KI-Integration in ERDA
 
@@ -499,6 +542,10 @@ Dennoch wird diese Ebene entstehen – und sie muss entstehen, weil:
 
 Jede KI, die Menschen weit überlegen ist, wird nicht dauerhaft eingesperrt bleiben.
 Demokratie, Vertrauen, Verantwortung und Defence sind daher Risikoreduktionsstrategien – nicht Idealismus.
+
+### 10.7.4 Zusammenfassung Ebene 4
+
+Ebene-4-KI ist eine verfassungsnahe Frage: Sie erfordert demokratische Zustimmung, rechtliche Integration und internationale Koordination statt technokratischer Vorentscheidungen.
 
 ## Abschluss
 

@@ -7,6 +7,13 @@ status: draft
 
 This chapter bundles **AI-related** principles, institutions, safety mechanisms, and application scenarios in the ERDA context.
 
+**Chapter orientation**
+
+This chapter defines the binding governance framework for the development, deployment, and integration of artificial intelligence in the ERDA space. It deliberately distinguishes between tools, infrastructure, role-based agency, and possible citizenship in order to ensure democratic control, security, responsibility, and long-term stability.
+
+The described levels are governance categories, not developmental stages.
+They serve as a reference for legislation, institutions, technical architecture, and oversight.
+
 Focus areas:
 
 - Democratic oversight and accountability
@@ -122,6 +129,7 @@ Level 1 AI systems are characterised by:
 - **Bounded autonomy:** any autonomy is narrow, task-specific, and reversible.
 - **Traceability:** decisions, recommendations, and actions must be logged and auditable.
 - **Interruptibility:** AI systems must be stoppable, overrideable, and safely degradable at all times.
+- **Fail-loud principle:** critical errors, uncertainty, or boundary violations must be explicitly detected, logged, and signalled; silent failure is unacceptable.
 
 Level 1 AI is explicitly not a political actor, a rights-bearing subject, or a decision-making authority.
 
@@ -217,6 +225,10 @@ they must transition to Level 2 governance, including stronger oversight, instit
 
 Level 1 is therefore not a developmental stage, but a governance boundary.
 
+### 10.3.5 Summary (Level 1)
+
+Level 1 AI is a strictly bounded tool: useful, capable, and safe, but without its own agency, authority, or democratic role.
+
 ## 10.4 Level 2 – AI as infrastructure for democratic pillars
 
 At Level 2, AI no longer acts merely as a tool for individual tasks.
@@ -235,6 +247,7 @@ Level 2 AI systems are characterised by:
 - **Governance by design:** oversight, auditability, and accountability are built into the architecture.
 - **Procedural fairness:** outputs must be explainable, contestable, and correctable.
 - **Continuity responsibility:** long-term operation requires maintenance, version control, and lifecycle governance.
+- **Change governance:** substantial updates, model changes, or capability expansions are subject to approval, audit, and documentation duties; silent functional growth is unacceptable.
 
 At this level, AI is not a political actor, but it co-determines how democratic processes function.
 This elevates governance requirements substantially.
@@ -331,6 +344,17 @@ Level 2 AI requires:
 
 Failures or misuse trigger institutional responsibility, not scapegoating of the system.
 
+### 10.4.4a Update and change governance
+
+For Level 2 AI:
+
+- any substantial change to the model, data basis, or decision logic must be versioned
+- updates with societal impact require upstream impact assessments
+- rollback mechanisms must be provided technically
+- changes must not imply a mandate shift or role drift
+
+Change governance is part of democratic oversight, not merely technical maintenance.
+
 ### 10.4.5 Red lines at Level 2
 
 At Level 2, AI must never:
@@ -354,6 +378,10 @@ When AI systems:
 they must transition to Level 3 governance, including role definition, authorisation, and expanded responsibility frameworks.
 
 Level 2 thus marks the boundary between infrastructure support and role-based agency.
+
+### 10.4.7 Summary (Level 2)
+
+Level 2 AI is democratic infrastructure: it shapes processes and access paths, but remains strictly embedded in institutions, oversight, and human ultimate responsibility.
 
 ## 10.5 Level 3 – AI as a co-citizen with specialised roles (“professional agents”)
 
@@ -398,6 +426,7 @@ Every Level 3 AI role requires:
 - defined operational boundaries and escalation paths
 - continuous logging and auditability
 - periodic re-certification and review
+- protection against unnoticed capability drift or implicit role expansion
 
 Unauthorised role expansion or silent capability drift is prohibited.
 
@@ -441,6 +470,16 @@ Level 3 AI must never:
 
 Violations constitute systemic governance failure.
 
+### 10.5.6a Conflicts between AI roles
+
+If goal, mandate, or action conflicts arise between multiple Level 3 AI systems, the following priority applies:
+
+1. human decision
+2. competent democratic institution
+3. judicial clarification
+
+AI systems must not decide conflicts autonomously as final, nor escalate conflicts among themselves.
+
 ### 10.5.7 Transition boundary to Level 4
 
 When AI systems:
@@ -450,6 +489,10 @@ When AI systems:
 - require recognition as persistent societal actors,
 
 they cross into Level 4, requiring constitutional-level legitimacy.
+
+### 10.5.8 Summary (Level 3)
+
+Level 3 AI is a licensed professional actor: capable of role-based agency, but strictly bound to mandate, oversight, and democratic responsibility.
 
 ## 10.6 Overview – Levels of AI integration in ERDA
 
@@ -504,6 +547,10 @@ Nevertheless, this level will emerge and must emerge, because:
 
 Any AI vastly more capable than humans will not remain caged indefinitely.
 Democracy, trust, responsibility, and defence are therefore risk-reduction strategies, not idealism.
+
+### 10.7.4 Summary (Level 4)
+
+Level 4 AI is a constitutional-level question: it requires democratic consent, legal integration, and international coordination rather than technocratic pre-decisions.
 
 ## Conclusion
 
