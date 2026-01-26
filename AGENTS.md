@@ -26,6 +26,27 @@ Diese Anweisungen gelten für den gesamten Inhalt dieses Repositories (GitBook, 
 - Beiträge übernehmen automatisch die obige Lizenzierung pro Inhaltsart.
 - PRs mit inkompatiblen Lizenzen werden abgelehnt.
 
+## Release-Metadaten (README-Pflicht)
+
+Am Anfang der Root-README (`README.md`) muss die aktuelle Release-Identität **sofort sichtbar** sein:
+
+- **Current version** (z. B. `v1.0.2`)
+- **As of (date)** (ISO-Format `YYYY-MM-DD`)
+- **Channel** (`main` = stabil, `release_candidate` = Pre-Release)
+- **Codename / Release name**
+   - auf `release_candidate`: **Codename** (oder klar als `TBD` markieren)
+   - auf `main`: **Release name** (z. B. `v1.0.2`)
+
+Wenn sich Version/Datum/Codename ändern, sind README + Release-Dokumentation entsprechend zu aktualisieren.
+
+## Tooling-Hinweis (gitbook_worker)
+
+Die Build-Toolchain (`gitbook_worker`) ist **outgesourced** und wird aus dem externen Repository geliefert:
+
+- https://github.com/Rob9999/gitbook-worker
+
+In diesem Repository wird eine **gepinnt/vendorte** Paket-Artefakt-Version verwendet (siehe `requirements.txt`). Änderungen am Tooling erfolgen grundsätzlich upstream; hier werden primär Konfiguration, Inhalte und Release-Artefakte gepflegt.
+
 ## Pflichtdateien
 - `LICENSE` (CC BY-SA 4.0 für Texte/Grafiken/Diagramme)
 - `LICENSE-CODE` (MIT)

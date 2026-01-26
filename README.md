@@ -1,8 +1,23 @@
 # ERDA Book
 
+**Current version:** v1.0.2  
+**As of (date):** 2026-01-26  
+**Channel:** release_candidate (pre-release)  
+**Codename / Release name:** TBD (on `release_candidate` use a codename; on `main` use the release name)
+
 **Multi-language democratic resilience framework**  
 🇩🇪 Deutsche Fassung: [`de/`](de/publish/das-erda-buch.pdf)  
 🇬🇧 English version: [`en/`](en/publish/the-erda-book.pdf)
+
+## Tooling (gitbook_worker)
+
+The build tooling (`gitbook_worker`) is maintained externally and delivered from:
+
+- https://github.com/Rob9999/gitbook-worker
+
+This repository uses a **pinned, vendored package artifact** (see `requirements.txt`), plus repo-local configuration (e.g. `de/publish.yml`, `en/publish.yml`, `content.yaml`).
+
+Vendored artifact location (current pattern): `packages/gitbook-worker/*.tar.gz`
 
 ## 📜 Attribution und Lizenzierung
 
