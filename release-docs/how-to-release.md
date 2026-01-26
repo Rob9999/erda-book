@@ -22,6 +22,11 @@ The root README (`README.md`) must start with a small header block where the fol
 
 Whenever any of these changes, update the README in the same commit as the corresponding release-doc updates.
 
+Also keep the GitBook metadata dates in sync:
+
+- `de/book.json` → `date` must match the README **As of (date)**
+- `en/book.json` → `date` must match the README **As of (date)**
+
 ## 2) Tooling: gitbook_worker is external
 
 The build tooling (`gitbook_worker`) is maintained in a separate repository:
