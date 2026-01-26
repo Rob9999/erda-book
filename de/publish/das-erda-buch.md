@@ -5969,6 +5969,12 @@ Etablierung einer robusten, souveränen und nachhaltigen europäischen Wirtschaf
 **🌍 Visionärer Nutzen**\
 Eine souveräne und nachhaltige Wirtschaft macht Europa zum globalen Vorreiter in verantwortungsvollem, demokratisch gesteuertem Wirtschaftshandeln.
 
+---
+
+### 📎 **Anhang 7.A**
+
+* [**Anhang 7.A – Strategische demokratiestärkende EU‑Handelsabkommen in der neuen Weltordnung (ERDA)**](#md-7-das-fortera-konzept-7-a-strategische-demokratiestaerkende-eu-handelsabkommen-in-der-neuen-weltordnung-erda)
+
 
 \newpage
 
@@ -6268,6 +6274,300 @@ _**Philosophische Grundlage: Resilienz ist Freiheit**_
 _**Schlussgedanken**_
 
 Dieses Dokument ist ein Aufruf zur **aktiven strategischen Selbstbehauptung Europas und seiner demokratischen Partner**. Es geht um mehr als Zölle – es geht um Würde, Freiheit, Handlungsmacht und Verantwortung in einer multipolaren Welt. Protektionismus kann man nicht mit Protektionismus schlagen. Aber mit einem Zusammenschluss verantwortungsvoller Demokratien kann man ihm begegnen – klug, offen, stark und gerecht.
+
+
+\newpage
+
+<a id="md-7-das-fortera-konzept-7-a-strategische-demokratiestaerkende-eu-handelsabkommen-in-der-neuen-weltordnung-erda"></a>
+
+## **Anhang 7.A – Strategische demokratiestärkende EU‑Handelsabkommen in der neuen Weltordnung (ERDA)**
+
+### 7.A.1 Einleitung
+
+Donald Trumps massiver Anstieg der US‑Zölle im Sommer 2025 (bis zu 40 %, u. a. auf brasilianische Exporte[1]) und die daraus resultierenden Handelsumlenkungen haben die EU gezwungen, ihre Handelsstrategie neu auszurichten. Die Kommission beschleunigte den Abschluss ausstehender Abkommen, um Lieferketten zu diversifizieren und die Abhängigkeit von den USA oder China zu verringern[2].
+
+Die folgenden Unterkapitel analysieren die vier zentralen ERDA‑Partner – **MERCOSUR**, **Indien**, den **Indopazifik** und **China** – anhand der in der Aufgabenstellung vorgegebenen Gliederung.
+
+---
+
+## 7.A.2 MERCOSUR – EU‑MERCOSUR‑Abkommen
+
+### Analyse
+
+- **Verhandlungen und Auslöser:** Die EU und der südamerikanische MERCOSUR‑Block (Argentinien, Brasilien, Paraguay und Uruguay) verhandelten seit 1999[3]. Das Grundabkommen wurde 2019 vereinbart, stieß aber auf starken Widerstand europäischer Landwirtschafts‑ und Umweltschutzgruppen. Nach Trumps Zollerhöhungen 2025 und der neuen US‑Sicherheitsstrategie entstanden geopolitische Dringlichkeit und interner EU‑Druck, das Abkommen abzuschließen[2].
+- **Zusatzinstrument 2025:** Um Bedenken zu begegnen, verhandelten die Partner ein „Zusatzinstrument“ mit verbindlichen Bestimmungen zu Arbeits‑, Menschenrechts‑ und Umweltstandards sowie Notfall‑„Safeguards“ für sensible Agrarsektoren[4]. Italien blockierte den Vertrag bis zur Zusage zusätzlicher EU‑Subventionen für seine Landwirte[5].
+- **Ratifikation 2026:** Am 12. Januar 2026 stimmte der Europäische Rat für das Abkommen, doch das Europäische Parlament überwies es im Januar 2026 an den Europäischen Gerichtshof (EuGH). 144 Abgeordnete fordern zu prüfen, ob der Vertrag mit EU‑Recht vereinbar ist; dies kann die vorläufige Anwendung um zwei Jahre verzögern[6]. Frankreich und Agrarverbände befürchten, billige Rind‑, Geflügel‑ und Zuckerimporte könnten EU‑Bauern schaden[7].
+
+### Fakten
+
+- **Ökonomischer Umfang:** Die Abmachung schafft eine der größten Freihandelszonen der Welt mit über 700 Millionen Menschen[8]. Sie würde jährlich rund 4 Milliarden € an Zöllen abbauen[9] und EU‑Exporte nach MERCOSUR um 39 % steigern und über 440 000 EU‑Arbeitsplätze unterstützen[10].
+- **Zollabbau:** MERCOSUR‑Zölle von 35 % auf Autoteile, 28 % auf Milchprodukte und 27 % auf Wein entfallen[11]. Quoten begrenzen die zollfreie Einfuhr von Rindfleisch (zusätzliche 1,5 % der EU‑Produktion) und Geflügel (1,3 %)[12].
+- **Schutzmaßnahmen:** Bei Preis‑ oder Importsteigerungen über 8 % können Zollpräferenzen ausgesetzt werden[13]. Rund 45 Mrd. € sind als Unterstützung für EU‑Landwirte im EU‑Haushalt 2028–34 vorgesehen[14].
+- **Südamerikanische Vorteile:** MERCOSUR‑Firmen erhalten Zugang zu EU‑Beschaffungen und profitieren von der EU‑Geografische‑Herkunftsbezeichnungen (über 300 geschützte Produkte wie Parmesan und Champagner)[15]. Das Abkommen zwingt MERCOSUR‑Unternehmen, ihre Produktionsprozesse zu modernisieren und zu digitalisieren[16].
+
+### Würdigung
+
+- **Strategischer Gewinn:** Europas Fähigkeit, ein 25‑jähriges Projekt abzuschließen, stärkt seine Glaubwürdigkeit als handelspolitischer Akteur[17]. Das Abkommen belegt Europas Bereitschaft, angesichts geopolitischer Spannungen eigenständiger zu handeln und seine Lieferketten zu diversifizieren[17].
+- **Geopolitische Balance:** Die EU sichert sich Zugang zu südamerikanischen Rohstoffen und Märkten und reduziert die Abhängigkeit von China und den USA. MERCOSUR erhält eine Alternative zu seiner starken Ausrichtung auf China (Brasilien exportierte 2025 über 40 % seiner Exporte nach China)[18].
+
+### WIN‑WIN
+
+- **EU‑Industrie:** Freier Zugang für Maschinenbau, Pharmazie und Luxusgüter; Unternehmen können an öffentlichen Ausschreibungen in Südamerika teilnehmen[19].
+- **MERCOSUR:** Erhält besseren Zugang zu Europas Markt, was Investitionen anzieht und die regionale Integration stärkt[20].
+- **Nachhaltigkeit:** Im Zusatzinstrument sind Umwelt‑ und Arbeitsstandards verankert; sie könnten als Blaupause für künftige Abkommen dienen.
+
+### Herausforderungen
+
+- **Ratifikation:** Klagen beim EuGH und Widerstand im Parlament können zu Verzögerungen oder Änderungen führen[21].
+- **Agrarproteste:** Europäische Bauern protestieren massiv gegen den Importdruck; Frankreich bleibt offiziell dagegen[22].
+- **Umwelt‑ und Regenwaldschutz:** NGOs kritisieren das Abkommen wegen möglicher Abholzungen und mangelnder Durchsetzbarkeit; die zusätzlichen Instrumente versuchen diese Lücken zu schließen.
+- **Wettbewerbsfähigkeit MERCOSUR‑Industrie:** Südamerikanische Industrien müssen sich modernisieren, um mit europäischen Herstellern konkurrieren zu können[16].
+
+### Evolutive nächste Schritte
+
+1. **Gerichtliche Prüfung abwarten:** Ergebnis des EuGH; in der Zwischenzeit Programme zur Unterstützung von Landwirten und zur Anpassung der Marktüberwachung ausarbeiten.
+2. **Implementierung der Safeguards:** Aufbau von Monitoring‑Systemen, um bei Importspitzen schnell reagieren zu können.
+3. **Nachhaltigkeitsinstrumente stärken:** Entwicklung von Mechanismen zur Überwachung der Einhaltung von Umwelt‑ und Arbeitsstandards, inklusive unabhängiger Auditgremien.
+4. **Kapazitätsaufbau in MERCOSUR:** EU‑finanzierte Programme, die Digitalisierung und Klimaschutz in Südamerika fördern, damit Unternehmen die neuen Möglichkeiten nutzen können.
+
+### Strategie und Vision plus Erdung
+
+Langfristig könnte die EU‑MERCOSUR‑Zone zu einer klimaneutralen, digitalen und demokratisch verankerten Handelsregion werden. Strategisch sollten beide Seiten ihre Energie‑ und Digital‑Partnerschaften ausbauen, gemeinsame Projekte zur Wiederaufforstung im Amazonas fördern und im Rahmen des EU‑Green Deal nachhaltige Lieferketten etablieren.
+
+Realistisch gesehen wird die Umsetzung holprig verlaufen, da binnenpolitische Widerstände in der EU (Landwirte) und MERCOSUR (Industrieschutz) bestehen bleiben und die geopolitische Lage (USA, China) Einfluss nimmt. Erdung bedeutet daher, vorzeitige Erwartungen zu managen und kontinuierlich Kompromisse auszuhandeln.
+
+### Best‑Case in 50 Jahren
+
+- Vollständige Umsetzung eines ökologisch nachhaltigen, digitalen Freihandelsraums mit stabilen demokratischen Institutionen.
+- Südamerika und Europa sind über moderne Infrastruktur (z. B. grüne Wasserstoff‑Pipelines, Glasfaserkabel) eng verbunden, tauschen klimaneutrale Güter aus und koordinieren globale Klimapolitik.
+- Die Region dient als Vorbild für sozial gerechte, demokratische Wirtschaftsbeziehungen.
+
+### Normal‑Case in 50 Jahren
+
+- Das Abkommen tritt verzögert in Kraft und erfährt wiederholte Suspendierungen aufgrund von Agrarkrisen oder Umweltkonflikten.
+- Handel wächst moderat, aber strukturelle Asymmetrien (z. B. schwache südamerikanische Industrie) bleiben bestehen.
+- Politische Spannungen (Populismus, Agrarlobby) führen zu periodischen Protektionismus‑Schüben.
+
+---
+
+### 7.A.3 Indien – EU‑Indien‑Freihandelsabkommen
+
+#### Analyse
+
+- **Historische Entwicklung:** EU‑Indien‑Beziehungen bestehen seit den 1960er‑Jahren; ein strategischer Rahmen wurde 2004 verabschiedet[23]. FTA‑Verhandlungen begannen 2007, wurden 2013 eingefroren und 2022 wieder aufgenommen[24].
+- **Geopolitischer Kontext:** Europas Abhängigkeit von russischer Energie und Chinas Lieferketten wurde durch den Ukrainekrieg 2022 sichtbar, weshalb die EU nach alternativen Partnern wie Indien sucht[25]. Die USA erhöhten 2025 Zölle auf indische Produkte (bis 50 %), was Indien Richtung EU drängt[26].
+- **Strategische Agenda:** Die EU und Indien lancierten 2025 eine neue strategische Agenda mit jährlichen Gipfeln, einem Trade & Technology Council (TTC) sowie Plänen zur Sicherheits‑ und Verteidigungskooperation[27]. Beide Seiten streben an, das FTA bis Ende 2025 fertigzustellen und am 27. Januar 2026 zu unterzeichnen[28].
+
+#### Fakten
+
+- **Handelsvolumen:** 2024/25 lag das bilaterale Handelsvolumen (Waren und Dienstleistungen) bei über 190 Mrd. US‑$; Indien exportierte Waren im Wert von etwa 76 Mrd. US‑$ und Dienstleistungen von 30 Mrd. US‑$ in die EU[29].
+- **Zölle:** EU‑Zölle auf indische Waren betragen durchschnittlich 3,8 %, doch arbeitsintensive Branchen wie Textil/Garment werden mit ~10 % belastet[30]. Umgekehrt gelten auf EU‑Exporte nach Indien durchschnittliche Zölle von 9,3 %[31], besonders hoch bei Autos, Chemikalien und Kunststoffen.
+- **Gains für Indien:** Das FTA würde die Wettbewerbsfähigkeit indischer Textilien und Schmuckwaren wiederherstellen und den Verlust von EU‑Tarifpräferenzen aus dem GSP‑System ausgleichen[32]. Indien strebt erleichterte Arbeitnehmermobilität und besseren Zugang zum EU‑Dienstleistungsmarkt an[33].
+- **Gains für EU:** Abbau hoher Zölle schafft neue Exportchancen für europäische Autos, Maschinen, Flugzeuge und Chemikalien[34]. Die EU will mehr Zugang zu Indiens Finanz‑ und Rechtsdienstleistungen sowie verlässliche Verpflichtungen zu Arbeits‑, Umwelt‑ und Urheberrechten[35].
+- **Streitpunkte:** Landwirtschaft und Milchprodukte sind vom FTA ausgeschlossen; Indien will Zölle nur auf ~90 % der Waren eliminieren[36]. Diskussionspunkte betreffen den EU‑Carbon‑Border‑Adjustment‑Mechanism (CO_{2}‑Grenzausgleich), der indische Exporte verteuern könnte[37], sowie strenge EU‑Standards und nichttarifäre Barrieren.
+- **Investitionen und Arbeitskräfte:** EU‑Unternehmen investieren in Indiens Auto‑, Pharma‑ und IT‑Sektoren; Indiens große, junge Arbeitskräftebasis ist ein Anziehungspunkt für Outsourcing und Fertigung. Umgekehrt investieren indische Firmen (z. B. Tata, Infosys) in europäische Standorte. In den Verhandlungen fordert Indien erleichterten Visazugang für IT‑Fachkräfte sowie gegenseitigen Schutz gegen doppelte Sozialabgaben[38].
+
+#### Würdigung
+
+- **Geopolitische Annäherung:** Indien sieht die EU zunehmend als verlässliche Alternative zum unsicheren Verhältnis zu den USA und zur Dominanz Chinas[39]. Europa schätzt Indiens wachsende Rolle als Gegengewicht in der Indo‑Pazifik‑Region[40].
+- **Digital‑ und Sicherheitskooperation:** Der Ausbau des TTC ermöglicht die Zusammenarbeit bei Halbleitern, 5G, KI und Cyber‑Sicherheit; eine geplante Sicherheits‑ und Verteidigungspartnerschaft umfasst Informationsschutzabkommen[27].
+- **Nachhaltigkeit:** Beide Seiten arbeiten an gemeinsamen Projekten zur grünen Energie (z. B. grüner Wasserstoff) und wollen nachhaltige Lieferketten fördern.
+
+#### WIN‑WIN
+
+- **Indien:** Erschließung des größten Industriemarktes der Welt, Diversifizierung der Exportmärkte, Zugang zu Technologien, Investitionsschutz, Stärkung der Industriearbeitsplätze.
+- **EU:** Zugang zu einem Wachstumsmarkt (4,2 Billionen US‑$ Wirtschaft)[41], Diversifizierung der Lieferketten (z. B. kritische Rohstoffe) und Chance, die Abhängigkeit von China zu verringern.
+- **Arbeitskräftemobilität:** Günstige Visaregelungen und Anerkennung von Qualifikationen könnten dem EU‑Arbeitsmarkt dringend benötigte Fachkräfte bescheren, während indische Arbeitnehmer Fähigkeiten erwerben und Devisen nach Hause senden.
+
+#### Herausforderungen
+
+- **Politische Divergenzen:** Indiens enge Beziehungen zu Russland (Energie, Rüstung) stehen im Widerspruch zur EU‑Sanktionspolitik[42].
+- **Regulatorische Hürden:** EU‑Regelungen wie der CO$_2$‑Grenzausgleich, das Lieferkettengesetz und die Deforestation‑Verordnung erhöhen Markteintrittskosten für indische Exporteure[43].
+- **Langwierige Ratifikation:** Wie beim MERCOSUR‑Abkommen können EU‑Parlament und Mitgliedstaaten den Abschluss verzögern oder zusätzliche Bedingungen stellen[44].
+- **Sozialer Widerstand:** Europas Landwirtschaftslobby fordert Schutz vor indischen Agrarimporten; Indien wiederum schützt seine Automobil‑ und Spirituosenindustrie[45].
+
+#### Evolutive nächste Schritte
+
+1. **Schwerpunkt auf Dienstleistungen und digitale Wirtschaft:** Aufbau eines robusten Rahmens für digitale Handelsthemen, Datenschutz und grenzüberschreitende Datenflüsse.
+2. **Visaregime reformieren:** Gegenseitige Vereinbarungen zur Erleichterung der Mobilität von Fachkräften, ergänzt durch Schulungsprogramme.
+3. **Kooperation bei erneuerbaren Energien:** Gemeinsame Projekte zu grünem Wasserstoff, Solar‑ und Windenergie als Grundpfeiler der strategischen Partnerschaft.
+4. **Schutz vor CO$_2$‑Belastung:** Entwicklung von Mechanismen, mit denen indische Exporteure für die EU‑CO$_2$‑Grenzabgabe vorbereitet werden und gleichzeitig Klimaschutz in Indien gefördert wird.
+
+#### Strategie und Vision plus Erdung
+
+Die Vision ist eine EU‑Indien‑Partnerschaft, die sowohl wirtschaftlich als auch sicherheitspolitisch umfassend ist. Strategisch könnten beide Seiten gemeinsam an einer grünen und digitalen Transformation arbeiten, bei der die EU Know‑how und Kapital bereitstellt und Indien mit Arbeitskräften und Wachstumspotenzial ergänzt.
+
+Gleichzeitig muss die EU ihre Erwartungen an Indiens Außenpolitik (z. B. Russlandbeziehungen) realistisch anpassen und sich auf pragmatische Zusammenarbeit konzentrieren. Erdung bedeutet, Zwänge wie unterschiedliche Entwicklungsniveaus, politische Sensibilitäten und regulatorische Komplexität anzuerkennen.
+
+#### Best‑Case in 50 Jahren
+
+- Ein voll ratifiziertes, tiefgreifendes FTA mit gegenseitigem Marktzugang, offenen Datenströmen, freiem Personenverkehr für Fachkräfte und gemeinsamen Standards für Nachhaltigkeit.
+- Indien entwickelt sich zum bevorzugten Produktionsstandort für europäische Unternehmen (z. B. Elektromobilität, Pharmazeutika) und verstärkt damit seine industrielle Basis.
+- EU‑indische Kooperationen im Sicherheitsbereich stabilisieren die Indo‑Pazifik‑Region; Indien ist enger Verbündeter im Klimaschutz.
+
+#### Normal‑Case in 50 Jahren
+
+- Das FTA tritt mit erheblichen Verzögerungen in Kraft und bleibt auf Warenhandel beschränkt.
+- Handel wächst, aber nicht revolutionär; viele nichttarifäre Barrieren und Visa‑Probleme bestehen fort.
+- Politische Differenzen (z. B. indische Demokratieentwicklung, Menschenrechte) verursachen Spannungen, führen aber nicht zum Abbruch der Zusammenarbeit.
+
+---
+
+### 7.A.4 Indopazifik – EU‑Indo‑Pazifik‑Strategie und digitale Partnerschaften
+
+#### Analyse
+
+- **Strategische Bedeutung:** Die indo‑pazifische Region produziert 60 % des globalen BIP, beherbergt 60 % der Weltbevölkerung und ist Transitroute für 40 % des EU‑Außenhandels, der durch das Südchinesische Meer verläuft[46]. Daher betrachtet die EU die Region als Schlüssel für Wohlstand und Sicherheit.
+- **EU‑Strategie von 2021:** Die EU‑Strategie für Zusammenarbeit im Indo‑Pazifik wurde 2021 vorgestellt. Sie betont eine regelbasierte internationale Ordnung, offene und faire Handelsbedingungen sowie Diversifizierung der Lieferketten[47]. Sie definiert sieben Prioritäten: nachhaltige und inklusive Prosperität, grüne Transformation, Ozean‑Governance, digitale Governance und Partnerschaften, Konnektivität, Sicherheit und Verteidigung sowie menschliche Sicherheit[48].
+- **Ministerialforen und Vernetzung:** Seit 2021 organisiert die EU jährliche Indo‑Pazifik‑Ministerialforen. Das 4. Forum 2025 in Brüssel lud über 70 Delegationen ein (ohne China und USA) und diskutierte Sicherheit, gemeinsame Prosperität und nachhaltige Zukunft[49].
+- **Freihandelsabkommen und Verhandlungen:** Die EU hat FTAs mit Südkorea, Japan, Singapur, Vietnam und Neuseeland abgeschlossen und verhandelt mit Indonesien, Indien, Thailand, den Philippinen, Malaysia und Australien[50].
+- **Digitale Partnerschaften:** Um ihre Abhängigkeit von ausländischer Technologie zu verringern, schloss die EU seit 2022 sogenannte Digital Partnerships mit Japan, Südkorea und Singapur[51]. Diese Kooperationen stärken Datenschutz, KI‑Governance, 5G/6G‑Entwicklung und Halbleiter‑Resilienz[52][53]. Ein 2025 vorgestelltes digitales Handelsabkommen mit Singapur erleichtert papierloses Trading, garantiert Verbraucherschutz und unterstreicht die strategische Bedeutung des Indo‑Pazifik[54].
+
+#### Fakten
+
+- **Wirtschaftsstatistiken:** Im Jahr 2024 lag der Warenverkehr zwischen EU und Indo‑Pazifik bei 848 Mrd. €, wobei die EU ein Handelsdefizit von 52,7 Mrd. € verzeichnete[55]. Der Handel wuchs im letzten Jahrzehnt stark; Importe stiegen besonders deutlich[56].
+- **Sicherheitskooperation:** Die EU führt Seemissionen wie EUNAVFOR Atalanta durch, koordiniert maritime Präsenz in der westlichen indischen Ozeanregion und veranstaltet gemeinsame Übungen mit Partnern wie Japan, Indien und Südkorea[57].
+- **Green‑ und Digital‑Allianzen:** Die EU schloss mit Japan (erste Green Alliance), Vietnam und Indonesien Just‑Energy‑Transition‑Partnerschaften und baut mit Korea, Japan und Singapur umfangreiche Halbleiter‑, 6G‑ und KI‑Programme auf[58].
+
+#### Würdigung
+
+- **Alternative zu Großmächten:** Die EU positioniert sich im Indo‑Pazifik als verlässlicher Partner zwischen den rivalisierenden USA und China. Das 4. Forum 2025 lud bewusst weder Beijing noch Washington ein, um einen offenen Dialog zu ermöglichen[59].
+- **Diversifizierung der Lieferketten:** Durch FTAs und Digital Partnerships reduziert die EU ihre Abhängigkeit von chinesischen Lieferketten und US‑Technologie. Der Fokus auf Halbleiter, Datenflüsse und 5G/6G stärkt europäische Wettbewerbsfähigkeit[60].
+- **Regelbasierte Ordnung:** Die EU fördert multilateralen Handel, Ozean‑Governance nach UNCLOS und Menschenrechte – wichtige Bausteine für Demokratie und Rechtsstaatlichkeit im Indo‑Pazifik.
+
+#### WIN‑WIN
+
+- **Partnerländer:** Erhalten Zugang zum EU‑Markt, technische Kooperationen (Halbleiter, KI) und Unterstützung bei grünem Übergang.
+- **EU:** Sichert sich Absatzmärkte, Rohstoffe, digitale Talente und diversifiziert Lieferketten.
+- **Regionale Stabilität:** Durch Maritime Security Initiatives und Capacity Building trägt die EU zur freien Schifffahrt und zur Bekämpfung von Piraterie bei[61].
+
+#### Herausforderungen
+
+- **Geopolitische Rivalität:** Das US‑China‑Ringen prägt die Region; EU‑Initiativen können durch Blockkonfrontationen erschwert werden.
+- **Interne Kohärenz:** Verschiedene EU‑Mitgliedstaaten verfolgen eigene Strategien, was die Konsistenz der Indo‑Pazifik‑Politik schwächen kann.
+- **Umweltschutz und Menschenrechte:** Projekte wie Tiefsee‑Kabel oder Wasserstoff‑Partnerschaften müssen ökologische Standards und soziale Rechte achten.
+- **FTA‑Blockaden:** Verhandlungen mit Indonesien oder Australien stocken wegen Umwelt‑ oder Landwirtschaftsfragen; ähnlich wie beim MERCOSUR‑Abkommen können EU‑interne Widerstände auftreten.
+
+#### Evolutive nächste Schritte
+
+1. **Abschluss laufender FTAs:** Priorisierung der Verhandlungen mit Indonesien und Australien, inkl. nachhaltiger Wald‑ und Agrar‑Kapitel.
+2. **Vertiefung digitaler Kooperation:** Ausbau der TTC mit Indien; Abschluss des digitalen Handelsabkommens mit Korea und Implementierung des Abkommens mit Singapur.
+3. **Green Alliances ausweiten:** Erweiterung der klimafreundlichen Energiepartnerschaften auf Thailand und die Philippinen; Förderung von Undersea‑Cable‑Projekten zur sicheren Datenübertragung.
+4. **Sicherheit und Resilienz:** Verstärkte maritime Kooperation, Ausbau von Frühwarn‑Systemen für Cybersicherheit und Schutz von Unterseekabeln.
+
+#### Strategie und Vision plus Erdung
+
+Die EU strebt an, als „geopolitische Brücke“ im Indo‑Pazifik zu wirken. Visionär wäre ein Netzwerk aus demokratischen Partnern, das durch nachhaltigen Handel, digitale Konnektivität und gemeinsame Sicherheitsstrukturen verbunden ist.
+
+Allerdings muss die EU realistisch sein: Ihre Ressourcen sind begrenzt, die Interessen ihrer Mitgliedstaaten divergieren, und sie steht in Konkurrenz zu chinesischen Infrastruktur‑ und US‑Sicherheitsangeboten. Erdung bedeutet, Prioritäten zu setzen (z. B. Halbleiter, erneuerbare Energien) und partnerschaftlich statt belehrend aufzutreten, um das Vertrauen asiatischer Partner zu gewinnen.
+
+#### Best‑Case in 50 Jahren
+
+- Die EU ist integraler Teil eines multipolaren Indo‑Pazifik‑Systems. Freihandel, digitale Standards und Klimaschutz sind harmonisiert.
+- EU‑Partnerschaften mit Japan, Indien, ASEAN und Australien bilden ein demokratisches Gegengewicht zu autoritären Mächten.
+- Unterseekabel und grüne Korridore verbinden Europa mit Asien; regionale Sicherheit wird durch gemeinsame EU‑Asien‑Missionen gewährleistet.
+
+#### Normal‑Case in 50 Jahren
+
+- Die EU schließt einige, aber nicht alle FTAs ab; digitale Partnerschaften bleiben selektiv.
+- EU‑Engagement verbessert die Resilienz von Lieferketten moderat, aber China bleibt dominante Wirtschaftsmacht.
+- Sicherheits‑ und Umweltfragen führen zu wiederkehrenden Krisen, die Kooperationen erschweren.
+- Die EU agiert eher ergänzend zu den USA und wird von internen Spannungen ausgebremst.
+
+---
+
+### 7.A.5 China – Komplexer Partner, Wettbewerber und Systemrivale
+
+#### Analyse
+
+- **Handelsbilanz:** China ist nach den USA der zweitgrößte Handelspartner der EU für Waren und Dienstleistungen; der bilaterale Warenhandel betrug 2024 732 Mrd. €[62]. Die EU verzeichnete jedoch ein Defizit von 305,8 Mrd. €[63].
+- **Strategische Ausgangslage:** Die EU stuft China gleichzeitig als Partner, wirtschaftlichen Wettbewerber und systemischen Rivalen ein[64]. Die Wirtschaftsbeziehungen sind unausgeglichen, da der chinesische Markt weiterhin stark reguliert und staatlich unterstützt wird[65].
+- **De‑Risking statt Decoupling:** Aufgrund asymmetrischer Marktöffnung, Überkapazitäten und exportorientierter Subventionspolitik strebt die EU eine Reduzierung kritischer Abhängigkeiten an, ohne vollständig zu entkoppeln[66]. Sie fordert Gegenseitigkeit und fairen Wettbewerb und betont die Bedeutung der WTO[67].
+- **CAI‑Abkommen:** Die Comprehensive Agreement on Investment (CAI) wurde nach siebenjährigen Verhandlungen im Dezember 2020 politisch vereinbart, aber bereits im Mai 2021 durch das Europäische Parlament eingefroren[68]. Grund waren chinesische Sanktionen gegen EU‑Abgeordnete wegen ihrer Kritik an Menschenrechtsverletzungen, wodurch das Vertrauen zerstört wurde[69]. Das CAI hätte bestehende bilaterale Investitionsabkommen ersetzen, Marktzugang verbessern und verbindliche Regeln gegen erzwungenen Technologietransfer, subventionierte Staatsunternehmen und unfaire Arbeits‑ und Umweltpraktiken schaffen sollen[70].
+
+#### Fakten
+
+- **Unbalancierte Öffnung:** China ist die Nummer 1 beim Import in die EU (519 Mrd. € im Jahr 2024) und die Nummer 3 bei EU‑Exporten (213 Mrd. €)[71]. 96,7 % der EU‑Importe aus China sind Industriegüter (v. a. Maschinen, Fahrzeuge, Elektronik)[72].
+- **Direktinvestitionen:** Der EU‑Investitionsbestand in China betrug 232 Mrd. € (2023); EU‑FDI 2024 belief sich auf 10,1 Mrd. € und konzentrierte sich auf Automobil, Basismaterialien und IKT[73]. Chinas Investitionsbestand in der EU lag bei 65 Mrd. €; chinesische FDI flossen in den Automobil‑ und Unterhaltungssektor[74].
+- **Strukturprobleme:** EU‑Unternehmen berichten von politisiertem Geschäftsumfeld, undurchsichtigen Gesetzen, restriktiven Datenschutzbestimmungen, unzureichendem Schutz geistigen Eigentums und erzwungenem Technologietransfer[75]. Gleichzeitig verhängt China Exportkontrollen ohne klare Dual‑Use‑Begründung, was europäische Lieferketten gefährdet[76].
+- **Handelsschutzinstrumente:** Die EU setzt zunehmend Anti‑Dumping‑Maßnahmen (z. B. auf fused alumina im Januar 2026[77]) und Anti‑Subventionszölle (etwa auf chinesische Elektrofahrzeuge) ein, um unfaire Praktiken auszugleichen.
+- **Dialogformate:** Es existieren ein jährlicher EU‑China‑Gipfel sowie ein hochrangiger Wirtschafts‑ und Handelsdialog, die trotz Spannungen weiterhin stattfinden[78].
+
+#### Würdigung
+
+- **Kooperation vs. Rivalität:** Trotz tiefgehender Differenzen besteht ein beidseitiges Interesse an Zusammenarbeit in globalen Fragen wie Klimawandel, Pandemiebekämpfung und Finanzstabilität. Die EU ist Chinas größter Exportmarkt; umgekehrt bietet China Skaleneffekte für europäische Unternehmen.
+- **Risikoanalyse:** Die kurze Lebensdauer des CAI zeigt, dass politische Werte (Menschenrechte, Sanktionen) direkten Einfluss auf wirtschaftliche Beziehungen haben. Die EU‑Strategie „De‑Risking“ anerkennt den Wert wirtschaftlicher Verflechtung, versucht aber, kritische Abhängigkeiten (z. B. bei Batterie‑Vorprodukten) zu verringern.
+
+#### WIN‑WIN
+
+- **Gebiete der Zusammenarbeit:**
+  - **Klimawandel und grüne Transformation:** Beide Seiten verpflichteten sich im Pariser Abkommen und könnten im Rahmen von Technologie‑Partnerschaften an erneuerbaren Energien und CO$_2$‑Reduktion arbeiten.
+  - **Standards und Normen:** Kooperation bei der Regulierung künstlicher Intelligenz und der Reform der WTO könnte globale Standards verbessern.
+  - **Gesundheit:** Gemeinsame Forschung bei Impfstoffen und Gesundheitswesen.
+  - **Wirtschaftlich:** China bleibt ein riesiger Absatzmarkt für europäische Premiumprodukte; europäische Firmen profitieren, wenn China geistige Eigentumsrechte stärkt.
+
+#### Herausforderungen
+
+- **Systemische Rivalität:** Unterschiedliche politische Systeme, Menschenrechtsfragen (Xinjiang, Hongkong), Sicherheitsbedenken (Cyber‑Spionage), Exportkontrollen und Extraterritorialität erschweren Vertrauen.[66]
+- **Marktasymmetrien:** Chinas Industriepolitik führt zu Überkapazitäten und Dumping; EU‑Unternehmen beklagen diskriminierende Regulierung[75].
+- **Politische Spannungen:** Gegenseitige Sanktionen (z. B. 2021) und US‑Einfluss (transatlantische Koordination) wirken sich auf EU‑China‑Beziehungen aus[79].
+- **Technologische Abhängigkeiten:** Europäische Firmen sind bei Batterien, Solarzellen und kritischen Rohstoffen stark auf China angewiesen; De‑Risking ist komplex und kostspielig.
+
+#### Evolutive nächste Schritte
+
+1. **Regelbasierte Dialoge stärken:** Fortführung des EU‑China‑Gipfels und des Handelsdialogs, um marktöffnende Verpflichtungen auszuhandeln.
+2. **De‑Risking umsetzen:** Diversifizierung der Lieferketten (z. B. durch Investitionen in Lateinamerika und Indo‑Pazifik), Förderung europäischer Produktionskapazitäten für Schlüsseltechnologien (Halbleiter, Batterien).
+3. **WTO‑Reform und Multilateralismus:** Zusammenarbeit mit gleichgesinnten Partnern, um China im Rahmen der WTO zu rechtskonformem Verhalten zu bewegen.
+4. **Menschenrechte ansprechen:** Konsistenter Einsatz für Menschenrechte; mögliche Sanktionsmechanismen mit klaren Kriterien definieren, um wirtschaftliche Vergeltung zu begrenzen.
+
+#### Strategie und Vision plus Erdung
+
+Die EU muss realistisch akzeptieren, dass China für die Weltwirtschaft unverzichtbar bleibt und sowohl Partner als auch Rivalen ist. Eine erfolgreiche Strategie könnte selektive Kooperation (z. B. Klima, Gesundheit) mit strategischem Wettbewerb (z. B. Technologie, Rohstoffe) kombinieren.
+
+Visionär wäre ein China, das Regeln respektiert, faire Wettbewerbsbedingungen zulässt und hohe Sozial‑ und Umweltstandards einhält. Realistisch bleibt jedoch, dass systemische Unterschiede fortbestehen werden; die EU wird ihre wirtschaftlichen Interessen schützen müssen, ohne in eine harte Entkopplung abzurutschen.
+
+#### Best‑Case in 50 Jahren
+
+- China und die EU einigen sich auf weitgehenden Marktzugang, starke Umweltschutz‑ und Arbeitsnormen und eine gemeinsame Führungsrolle im globalen Klimaschutz.
+- In einer multipolaren Welt kooperieren beide Seiten in Wissenschaft, Raumfahrt und digitaler Governance. Handelsstreitigkeiten werden institutionell geregelt.
+- Menschenrechte werden respektiert; demokratische Standards finden Anklang in China.
+
+#### Normal‑Case in 50 Jahren
+
+- Das Verhältnis bleibt gemischt: intensiver Handel, aber dauerhafte Rivalität.
+- EU‑Unternehmen operieren in China unter restriktiven Bedingungen; die EU setzt fortlaufend Anti‑Dumping‑Maßnahmen ein.
+- Klimaschutz und multilateral regelbasierter Handel werden begrenzt koordiniert; Grundsatzkonflikte über Werte bleiben bestehen.
+
+---
+
+### 7.A.6 Schlussbemerkung
+
+Die strategischen EU‑Handelsabkommen im Rahmen von ERDA sind wesentliche Instrumente, um Demokratie, nachhaltiges Wachstum und geopolitische Resilienz zu fördern. MERCOSUR, Indien, die indo‑pazifischen Partner und China repräsentieren unterschiedliche Chancen und Herausforderungen.
+
+Gemeinsam betrachtet zeigen sie, dass Handelspolitik nicht nur ökonomische, sondern auch politische und gesellschaftliche Dimensionen hat. Für die Demokratie‑Stärkung ist es entscheidend, dass die EU ihre Werte – Menschenrechte, Rechtsstaatlichkeit, Umweltstandards – in den Abkommen verankert, ohne pragmatische Kompromisse zu vernachlässigen.
+
+### 7.A.7 Quellen
+
+- **[1] [2] [3] [4] [5] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [22]** The EU and Mercosur are creating one of the world’s largest free trade areas. What’s next? (Atlantic Council)
+  https://www.atlanticcouncil.org/dispatches/eu-and-mercosur-are-creating-one-of-the-worlds-largest-free-trade-areas/
+- **[6] [7] [21]** EU lawmakers deal blow to Mercosur trade deal by referring it to top court (Reuters)
+  https://www.reuters.com/world/eu-lawmakers-vote-whether-launch-legal-challenge-mercosur-trade-deal-2026-01-21/
+- **[23] [24] [25] [26] [27] [28] [39] [40] [42] [43]** A new EU–India calculus (IISS)
+  https://www.iiss.org/online-analysis/online-analysis/2025/12/a-new-euindia-calculus/
+- **[29] [30] [31] [32] [33] [34] [35] [36] [37] [38] [41] [44] [45]** India‑EU free trade pact: What's agreed, what's at stake after years of talks (Reuters)
+  https://www.reuters.com/sustainability/climate-energy/india-eu-free-trade-pact-whats-agreed-whats-stake-after-years-talks-2026-01-23/
+- **[46] [49] [50] [55] [56] [57] [58] [59] [61]** EU‑Indo‑Pacific Strategy 2025: Key Statistics & Infographic (BeHorizon)
+  https://behorizon.org/eu-the-indo-pacific-a-linked-future/
+- **[47] [48]** EU Indo‑Pacific Strategy (EEAS)
+  https://www.eeas.europa.eu/eu-indo-pacific-strategy-topic_en
+- **[51] [52] [53] [60]** The EU’s digital partnerships (Epthinktank / European Parliament)
+  https://epthinktank.eu/2025/06/06/the-eus-digital-partnerships/
+- **[54]** Commission presents Council with EU's first-ever digital trade agreement (European Commission)
+  https://policy.trade.ec.europa.eu/news/commission-presents-council-eus-first-ever-digital-trade-agreement-2025-02-03_en
+- **[62] [63] [64] [65] [66] [67] [71] [72] [73] [74] [75] [76] [77] [78]** EU trade relations with China (European Commission)
+  https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/china_en
+- **[68] [69] [70] [79]** The Rise and Demise of the EU‑China Investment Agreement: Takeaways for the Future of German Debate on China (CSIS)
+  https://www.csis.org/analysis/rise-and-demise-eu-china-investment-agreement-takeaways-future-german-debate-china
 
 
 \newpage

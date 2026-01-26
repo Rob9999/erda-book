@@ -35,3 +35,9 @@ Establish a robust, sovereign and sustainable European economic structure that s
 
 **🌍 Visionary benefit**  
 A sovereign and sustainable economy makes Europe a global pioneer in responsible, democratically governed economic activity.
+
+---
+
+### 📎 **Appendix 7.A**
+
+* [**Appendix 7.A – Strategic democracy‑strengthening EU trade agreements in the new world order (ERDA)**](7.a-strategische-demokratiestaerkende-eu-handelsabkommen-in-der-neuen-weltordnung-erda.md)

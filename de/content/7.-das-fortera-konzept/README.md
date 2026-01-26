@@ -30,3 +30,9 @@ Etablierung einer robusten, souveränen und nachhaltigen europäischen Wirtschaf
 
 **🌍 Visionärer Nutzen**\
 Eine souveräne und nachhaltige Wirtschaft macht Europa zum globalen Vorreiter in verantwortungsvollem, demokratisch gesteuertem Wirtschaftshandeln.
+
+---
+
+### 📎 **Anhang 7.A**
+
+* [**Anhang 7.A – Strategische demokratiestärkende EU‑Handelsabkommen in der neuen Weltordnung (ERDA)**](7.a-strategische-demokratiestaerkende-eu-handelsabkommen-in-der-neuen-weltordnung-erda.md)

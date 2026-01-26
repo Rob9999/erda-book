@@ -102,6 +102,7 @@
   * [7.7 Bürgerbeteiligung & demokratische Wirtschaftskultur](7.-das-fortera-konzept/7.7-burgerbeteiligung-und-demokratische-wirtschaftskultur.md)
   * [7.8 Wirtschaftliche Resilienz und ethische Fundierung](7.-das-fortera-konzept/7.8-wirtschaftliche-resilienz-und-ethische-fundierung.md)
   * [7.9 Schlussgedanken](7.-das-fortera-konzept/7.9-schlussgedanken.md)
+  * [**Anhang 7.A – Strategische demokratiestärkende EU‑Handelsabkommen in der neuen Weltordnung (ERDA)**](7.-das-fortera-konzept/7.a-strategische-demokratiestaerkende-eu-handelsabkommen-in-der-neuen-weltordnung-erda.md)
 * [8. Das ARKTIS Konzept](8.-das-arktis-konzept/README.md)
   * [8.1 ARKTIS Codex – Ethik der arktischen Verantwortung](8.-das-arktis-konzept/8.1-arktis-codex-ethik-der-arktischen-verantwortung.md)
   * [8.2 Ausgangslage](8.-das-arktis-konzept/8.2-ausgangslage.md)
