@@ -652,7 +652,7 @@ d) Euratom
 
 1. **Council of the European Union (2022):** _A Strategic Compass for Security and Defence – For a European Union that protects its citizens, values and interests and contributes to international peace and security._ Brussels: Council of the European Union. Available online at: [https://www.consilium.europa.eu/de/policies/strategic-compass/](https://www.consilium.europa.eu/de/policies/strategic-compass/) (accessed on 2025-05-13). **PDF version**: [https://www.eeas.europa.eu/sites/default/files/documents/strategic_compass_en3_web.pdf](https://www.eeas.europa.eu/sites/default/files/documents/strategic_compass_en3_web.pdf)
 2. **European Defence Agency (2025):** _Annual Report 2024_. Brussels: EDA. Available online at: [https://eda.europa.eu/publications-and-data/all-publications/annual-report-2024](https://eda.europa.eu/publications-and-data/all-publications/annual-report-2024) (accessed on 2025-05-13). **PDF version:** [https://eda.europa.eu/docs/default-source/brochures/eda-annual-report-2024.pdf](https://eda.europa.eu/docs/default-source/brochures/eda-annual-report-2024.pdf)
-3. **ERDA project (2025):** _Europe 2.0 – Roadmap for a liveable, resilient and leading Union_. In: **ERDA book**, Appendix C, [[Internal project documentation](../anhang-c-europa-2.0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union.md)].
+3. **ERDA project (2025):** _Europe 2.0 – Roadmap for a liveable, resilient and leading Union_. In: **ERDA book**, Appendix C, [[Internal project documentation](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)].
 
 
 \newpage
@@ -3645,7 +3645,7 @@ A future ERDA Institute for Democratic Resilience (planned for 2026) could:
 
 ##### 4.3.1.7 Sources & References
 
-1. **ERDA Book (2025):** _Europe 2.0 – Roadmap for a liveable, resilient and leading Union._ [Annex C: Europe 2.0 – Roadmap for a liveable, resilient and leading Union](../../anhang-c-europa-2.0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union.md)
+1. **ERDA Book (2025):** _Europe 2.0 – Roadmap for a liveable, resilient and leading Union._ [Annex C: Europe 2.0 – Roadmap for a liveable, resilient and leading Union](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)
 
 
 \newpage
@@ -3736,7 +3736,7 @@ d) Centralised planned economy
 
 ##### 4.3.2.6 Sources & References
 
-1. **ERDA Book (2025):** _Europe 2.0 – Roadmap for a liveable, resilient and leading Union._ [Annex C: Europe 2.0 – Roadmap for a liveable, resilient and leading Union](../../anhang-c-europa-2.0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union.md)
+1. **ERDA Book (2025):** _Europe 2.0 – Roadmap for a liveable, resilient and leading Union._ [Annex C: Europe 2.0 – Roadmap for a liveable, resilient and leading Union](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)
 
 
 \newpage
@@ -3923,7 +3923,7 @@ d) Bilateral climate loans
 
 1. **UNFCCC (2015):** _Paris Agreement, adopted on 12 December 2015._ Bonn: UNFCCC Secretariat. Available at: https://unfccc.int/sites/default/files/english_paris_agreement.pdf (accessed 2025-05-21).
 2. **Green Climate Fund (2011):** _Governing Instrument for the Green Climate Fund, approved on 11 December 2011._ Bonn: Green Climate Fund Secretariat. Available at: https://www.greenclimate.fund/document/governing-instrument (accessed 2025-05-21).
-3. **ERDA Book (2025):** _Europe 2.0 – Roadmap for a liveable, resilient and leading Union._ [Annex C: Europe 2.0 – Roadmap for a liveable, resilient and leading Union](../../anhang-c-europa-2.0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union.md)
+3. **ERDA Book (2025):** _Europe 2.0 – Roadmap for a liveable, resilient and leading Union._ [Annex C: Europe 2.0 – Roadmap for a liveable, resilient and leading Union](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)
 
 
 \newpage
@@ -4016,7 +4016,7 @@ d) Centralised textbook allocation
 
 1. **UNESCO (2018):** _Re | Shaping Cultural Policies: Advancing Creativity for Development._ Paris: UNESCO. Available at: https://uis.unesco.org/sites/default/files/documents/reshaping-cultural-policies-2018-en.pdf (accessed 2025-05-21).
 2. **European Commission, Directorate-General for Education, Youth, Sport and Culture (n. d.):** _European Education Area explained._ Brussels: European Commission. Available at: https://education.ec.europa.eu/about-eea/the-eea-explained (accessed 2025-05-21).
-3. **ERDA Book (2025):** _Europe 2.0 – Roadmap for a liveable, resilient and leading Union._ [Annex C: Europe 2.0 – Roadmap for a liveable, resilient and leading Union](../../anhang-c-europa-2.0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union.md)
+3. **ERDA Book (2025):** _Europe 2.0 – Roadmap for a liveable, resilient and leading Union._ [Annex C: Europe 2.0 – Roadmap for a liveable, resilient and leading Union](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)
 
 
 \newpage
@@ -4109,7 +4109,7 @@ d) National referendums on every issue
 
 1. **OECD (n. d.)**: _Open Government Data._ Paris: OECD Publishing. Available at: https://www.oecd.org/en/publications/open-government-data_5k46bj4f03s7-en.html (accessed 2025-05-21).
 2. **European Commission (2020):** _Communication on the European Democracy Action Plan. Communication COM(2020) 790 final, 3 December 2020._ Brussels: European Commission. Available at: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52020DC0790 (accessed 2025-05-21).
-3. **ERDA Book (2025):** _Europe 2.0 – Roadmap for a liveable, resilient and leading Union._ [Annex C: Europe 2.0 – Roadmap for a liveable, resilient and leading Union](../../anhang-c-europa-2.0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union.md)
+3. **ERDA Book (2025):** _Europe 2.0 – Roadmap for a liveable, resilient and leading Union._ [Annex C: Europe 2.0 – Roadmap for a liveable, resilient and leading Union](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)
 
 
 \newpage
@@ -4360,7 +4360,7 @@ d) Technocratic steering
 
 ##### 4.4.2.6 Sources & references
 
-1. **ERDA Book (2025):** _Europa 2.0 – Fahrplan für eine lebenswerte, resiliente und führende Union._ [Annex C: Europa 2.0 – Fahrplan für eine lebenswerte, resiliente und führende Union](../../anhang-c-europa-2.0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union.md)
+1. **ERDA Book (2025):** _Europa 2.0 – Fahrplan für eine lebenswerte, resiliente und führende Union._ [Annex C: Europa 2.0 – Fahrplan für eine lebenswerte, resiliente und führende Union](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)
 
 
 \newpage
@@ -6252,7 +6252,7 @@ CIVITAS is open to cooperation with:
 source: content/6.-das-civitas-konzept/6.7-bildung-jugend-und-partizipation.md
 status: draft
 ---
-<a id="md-6-das-civitas-konzept-6-7-bildung-jugend-und-demokratische-partizipation"></a>
+<a id="md-6-das-civitas-konzept-6-7-bildung-jugend-und-partizipation"></a>
 
 
 ## 6.7 Education, youth & democratic participation
@@ -9971,10 +9971,10 @@ With Levels 1–4, the ERDA AI concept defines a complete governance spectrum �
 \newpage
 
 ---
-source: ../../../de/content/10.-das-ki-konzept/10.a-ko-evolutions-index-kei.md
+source: content/10.-das-ki-konzept/10.a-ko-evolutions-index-kei.md
 status: draft
 ---
-<a id="md-10-das-ki-konzept-10-a-co-evolution-index-kei"></a>
+<a id="md-10-das-ki-konzept-10-a-ko-evolutions-index-kei"></a>
 
 
 ## **Appendix 10.A – Co-evolution Index (KEI)**
@@ -10492,7 +10492,7 @@ Germany and Europe face a turning point. Crisis-resilient societies emerge throu
 source: content/anhang-a-erda-staatenarchitektur-konzentrische-kreise.md
 status: draft
 ---
-<a id="md-appendix-a-erda-state-architecture-concentric-circles"></a>
+<a id="md-anhang-a-erda-staatenarchitektur-konzentrische-kreise"></a>
 
 
 # Appendix A: ERDA State Architecture ("Concentric Circles")
@@ -10640,10 +10640,10 @@ Non-politically integrated democracies with security-policy and innovation-polic
 \newpage
 
 ---
-source: ../content/anhang-b-erda-staatenprofile/README.md
+source: content/anhang-b-erda-staatenprofile/README.md
 status: draft
 ---
-<a id="md-appendix-b-erda-state-profiles"></a>
+<a id="md-anhang-b-erda-staatenprofile-readme"></a>
 
 
 # Appendix B: ERDA State Profiles
@@ -10693,10 +10693,10 @@ In the body of the document, the following sections structure the analysis:
 1. **Overview (Meta):** official name, geographical location, population, form of government, current constitutional situation, ERDA status and envisaged role in the ERDA network.
 2. **Demographics & society:** population development, age structure, urbanisation, education, life expectancy, migration balance and indicators of social cohesion.
 3. **Economy & innovation:** GDP, key industries, degree of automation and digitalisation, research and innovation quota, patents and participation in ERDA economic alliances (FORTERA, Democracy Trade Network, EHAM+).
-   - **Infrastructure autonomy:** assessment of sovereignty in strategic sectors such as energy, IT/cloud, defence, food, satellite communication, quantum technology and autonomous logistics systems.
+	- **Infrastructure autonomy:** assessment of sovereignty in strategic sectors such as energy, IT/cloud, defence, food, satellite communication, quantum technology and autonomous logistics systems.
 4. **Resource profile:** natural resources (land and sea area, strategic raw materials, renewable potentials, biodiversity), social resources (volunteering, participation, health system) and political resources (constitutional commitment, instruments of direct democracy, quality of democracy and rule of law).
 5. **Security & strategic role (EDA):** military and civil security capacities, role in different regions (Arctic, Europe, Global/Solar Alliance), resilience programmes and high-tech capabilities.
-   - **Arctic strategy & planetary responsibility:** optional for Arctic states, including integration into Arctic security and resilience frameworks and cooperation with indigenous communities.
+	- **Arctic strategy & planetary responsibility:** optional for Arctic states, including integration into Arctic security and resilience frameworks and cooperation with indigenous communities.
 6. **Cultural identity & soft power:** languages and indigenous cultures, UNESCO heritage, strength of the creative industries, international visibility and cultural role in democratic networks.
 7. **Development path (2025–2075):** scenario development with status 2025 and best/base/worst-case trajectories for 2050 and 2075, including risks and proactive solution approaches.
 8. **Narrative & attraction:** core message, examples of strong narratives, citizen participation, "future dignity" and the invitation that the profile formulates to other states and citizens.
@@ -10726,22 +10726,6 @@ In the full German version, Appendix B also contains grouped collections of stat
 These collections host concrete profiles for individual countries based on the schema described above. For the English edition of the book, these may be added step by step as soon as validated translations or original English profiles are available.
 
 Until then, this appendix primarily documents the **concept and schema** so that policymakers, researchers and civil society can already work with the framework and begin to develop profiles for their own countries.
-# Appendix B: ERDA State Profiles
-
-
-
-\newpage
-
----
-source: content/anhang-b-erda-staatenprofile/README.md
-status: draft
----
-<a id="md-anhang-b-erda-staatenprofile-readme"></a>
-
-
-# Appendix B: ERDA State Profiles
-
-_**ERDA State Profiles**_
 
 
 \newpage
@@ -11095,7 +11079,7 @@ status: draft
 ## B.3 State Profiles (EU/ERDA – Core Countries)
 
 _**All ERDA state profiles for the core countries,**_\
-_**as defined in the**_ [_**ERDA state architecture ("concentric circles")**_](../../anhang-a-erda-staatenarchitektur-konzentrische-kreise.md#kern-erda-mitglieder-mit-verfassungsbindung)_**.**_
+_**as defined in the**_ [_**ERDA state architecture ("concentric circles")**_](#kern-erda-mitglieder-mit-verfassungsbindung)_**.**_
 
 
 \newpage
@@ -16101,7 +16085,7 @@ status: draft
 ## B.4 State Profiles (EU/ERDA – Extended Partnership)
 
 _**ERDA state profiles of the Extended Partnership countries,**_  
-_**according to the**_ [_**ERDA State Architecture ("Concentric Circles")**_](../../anhang-a-erda-staatenarchitektur-konzentrische-kreise.md#erweiterte-partnerschaft-assoziierte-demokratien-europas-and-nachbarschaft)_**.**_
+_**according to the**_ [_**ERDA State Architecture ("Concentric Circles")**_](#erweiterte-partnerschaft-assoziierte-demokratien-europas-and-nachbarschaft)_**.**_
 
 
 \newpage
@@ -19766,7 +19750,7 @@ status: draft
 ## B.5 State Profiles (ERDA – Global Associates)
 
 _**ERDA state profiles of the globally associated democracies,**_
-_**according to the**_ [_**ERDA state architecture ("Concentric Circles")**_](../../anhang-a-erda-staatenarchitektur-konzentrische-kreise.md#globale-assoziierte-demokratien)_**.**_
+_**according to the**_ [_**ERDA state architecture ("Concentric Circles")**_](#globale-assoziierte-demokratien)_**.**_
 
 
 \newpage
@@ -22361,7 +22345,7 @@ Last update: 2026-01-08
 source: content/anhang-c-europa-2.0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union.md
 status: draft
 ---
-<a id="md-appendix-c-europe-2-0-roadmap-for-a-livable-resilient-and-leading-union"></a>
+<a id="md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union"></a>
 
 
 # Appendix C: Europe 2.0 – Roadmap for a Livable, Resilient and Leading Union
@@ -22561,7 +22545,7 @@ Created in April 2025 by the **ERDA Book editorial team** (LLM-assisted language
 source: content/anhang-d-executive-compendium-fur-entscheidungstrager/README.md
 status: draft
 ---
-<a id="md-appendix-d-executive-compendium-for-decision-makers"></a>
+<a id="md-anhang-d-executive-compendium-fur-entscheidungstrager-readme"></a>
 
 
 # Appendix D: Executive Compendium for Decision‑Makers
@@ -22665,7 +22649,7 @@ This document offers political decision‑makers, institutions, AI systems, and 
 source: content/anhang-e-erda-buch-baukasten/README.md
 status: draft
 ---
-<a id="md-appendix-e-erda-book-toolbox"></a>
+<a id="md-anhang-e-erda-buch-baukasten-readme"></a>
 
 
 # Appendix E: ERDA Book Toolbox
@@ -22739,7 +22723,7 @@ The schema describes how co‑operation AIs are integrated (roles, input/output 
 source: content/anhang-f-erda-institut-fur-demokratische-resilienz-und-transformation.md
 status: draft
 ---
-<a id="md-appendix-f-erda-institute-for-democratic-resilience-and-transformation"></a>
+<a id="md-anhang-f-erda-institut-fur-demokratische-resilienz-und-transformation"></a>
 
 
 # Appendix F: ERDA Institute for Democratic Resilience and Transformation
@@ -22795,7 +22779,7 @@ We invite you to become part of this ring‑flow of democratic renewal. Support 
 source: content/anhang-g-risikobetrachtung-und-strategische-resilienz-der-erda-initiative.md
 status: draft
 ---
-<a id="md-appendix-g-risk-assessment-and-strategic-resilience-of-the-erda-initiative"></a>
+<a id="md-anhang-g-risikobetrachtung-und-strategische-resilienz-der-erda-initiative"></a>
 
 
 # Appendix G: Risk Assessment and Strategic Resilience of the ERDA Initiative
@@ -22907,7 +22891,7 @@ A forward‑looking risk assessment strengthens the long‑term resilience and c
 source: content/anhang-h-fehlgeschlagene-machtstrukturen-der-menschheit.md
 status: draft
 ---
-<a id="md-appendix-h-failed-power-structures-of-humanity"></a>
+<a id="md-anhang-h-fehlgeschlagene-machtstrukturen-der-menschheit"></a>
 
 
 # Appendix H: Failed Power Structures of Humanity
@@ -22955,7 +22939,7 @@ To overcome these destructive systems in a sustainable way, short‑term measure
 source: content/anhang-i-zentrales-erda-glossar.md
 status: draft
 ---
-<a id="md-appendix-i-central-erda-glossary"></a>
+<a id="md-anhang-i-zentrales-erda-glossar"></a>
 
 
 # Appendix I: Central ERDA Glossary
@@ -22990,7 +22974,7 @@ This glossary brings together the key terms used in the ERDA book. It serves as 
 source: content/anhang-j-lizenz---offenheit.md
 status: draft
 ---
-<a id="md-appendix-j-license-and-openness"></a>
+<a id="md-anhang-j-lizenz-offenheit"></a>
 
 
 # Appendix J: License & Openness
@@ -23386,7 +23370,7 @@ description: 'Status: 2025-06-07 – assessment performed by: OpenAI ChatGPT, mo
 source: content/anhang-k-qualitatssicherung.md
 status: draft
 ---
-<a id="md-appendix-k-quality-assurance"></a>
+<a id="md-anhang-k-qualitatssicherung"></a>
 
 
 # Appendix K: Quality Assurance
@@ -23457,7 +23441,7 @@ The ERDA book is at an exceptionally high qualitative level and can be further i
 source: content/anhang-l-kolophon.md
 status: draft
 ---
-<a id="md-appendix-l-colophon"></a>
+<a id="md-anhang-l-kolophon"></a>
 
 
 # Appendix L: Colophon
