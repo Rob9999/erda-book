@@ -7149,6 +7149,164 @@ _**Guiding Principles**_
 \newpage
 
 ---
+source: content/8.-das-arktis-konzept/8.4-strategische-saulen/README.md
+status: draft
+---
+<a id="md-8-das-arktis-konzept-8-4-strategische-saulen-readme"></a>
+
+
+## 8.4 Strategic pillars
+
+_**Strategic pillars**_
+
+
+\newpage
+
+---
+source: content/8.-das-arktis-konzept/8.4-strategische-saulen/8.4.1-geopolitische-souveranitat-eda-arktisstrategie.md
+status: draft
+---
+<a id="md-8-das-arktis-konzept-8-4-strategische-saulen-8-4-1-geopolitische-souveranitat-eda-arktisstrategie"></a>
+
+
+### 8.4.1 Geopolitical sovereignty (EDA Arctic strategy)
+
+_**Geopolitical sovereignty (EDA Arctic strategy)**_
+
+* Building a **Norwegian Sea Defense Sovereignty Node (DSN)** of the EDA with early warning, ISR and drone systems
+* Cooperative presence with Iceland, Greenland, Norway and Canada
+* Protection of maritime infrastructure (cables, energy, transport routes)
+* Climate‑driven crisis resilience: emergency logistics, cyber defence, migration scenarios
+
+
+\newpage
+
+---
+source: content/8.-das-arktis-konzept/8.4-strategische-saulen/8.4.2-demokratische-ressourcenpartnerschaften-fortera.md
+status: draft
+---
+<a id="md-8-das-arktis-konzept-8-4-strategische-saulen-8-4-2-demokratische-ressourcenpartnerschaften-fortera"></a>
+
+
+### 8.4.2 Democratic resource partnerships (FORTERA)
+
+_**Democratic resource partnerships (FORTERA)**_
+
+* Strategic agreements with resource‑adjacent democracies (e.g., Canada, Greenland, Iceland, Norway)
+* Mandatory environmental standards and benefit sharing with affected communities
+* Public oversight of concessions via **CIVITAS**
+
+
+\newpage
+
+---
+source: content/8.-das-arktis-konzept/8.4-strategische-saulen/8.4.3-wissenschaft-und-klimaethik.md
+status: draft
+---
+<a id="md-8-das-arktis-konzept-8-4-strategische-saulen-8-4-3-wissenschaft-und-klimaethik"></a>
+
+
+### 8.4.3 Science and climate ethics
+
+_**Science and climate ethics**_
+
+* Establishment of an **Arctic Resilience Observatory**: data, modelling, early warning
+* Cooperative research on climate impacts, biodiversity, hydrology, permafrost
+* Democratic ethics commission for emerging technologies (e.g., geoengineering, deep‑sea mining)
+
+
+\newpage
+
+---
+source: content/8.-das-arktis-konzept/8.4-strategische-saulen/8.4.4-infrastruktur-and-datenhoheit.md
+status: draft
+---
+<a id="md-8-das-arktis-konzept-8-4-strategische-saulen-8-4-4-infrastruktur-and-datenhoheit"></a>
+
+
+### 8.4.4 Infrastructure & data sovereignty
+
+_**Infrastructure & data sovereignty**_
+
+* Building a **civil‑military satellite network** for Arctic monitoring (IRIS²/EDA)
+* European Arctic Cloud for open data and citizen participation
+* Logistics hubs under shared oversight (e.g., Reykjavik, Nuuk, Tromsø)
+
+
+\newpage
+
+---
+source: content/8.-das-arktis-konzept/8.4-strategische-saulen/8.4.5-kulturelle-und-indigene-dimension.md
+status: draft
+---
+<a id="md-8-das-arktis-konzept-8-4-strategische-saulen-8-4-5-kulturelle-und-indigene-dimension"></a>
+
+
+### 8.4.5 Cultural and Indigenous dimension
+
+_**Cultural and Indigenous dimension**_
+
+* Protection of Indigenous languages, rights and knowledge systems
+* Partnership‑based representation in ERDA bodies (e.g., Arctic Council+)
+* Support for cultural projects and the digital participation of Indigenous communities via **CIVITAS**
+
+
+\newpage
+
+---
+source: content/8.-das-arktis-konzept/8.5-massnahmenkatalog-auswahl.md
+status: draft
+---
+<a id="md-8-das-arktis-konzept-8-5-massnahmenkatalog-auswahl"></a>
+
+
+## 8.5 Catalogue of measures (selection)
+
+_**Catalogue of measures (selection)**_
+
+<table><thead><tr><th width="124.4000244140625">Area</th><th width="244.400146484375">Measure</th><th width="137.7999267578125">Time frame</th><th>Responsible</th></tr></thead><tbody><tr><td>Defence</td><td>Establish DSN Norwegian Sea</td><td>2026–2032</td><td>EDA, Iceland, Norway</td></tr><tr><td>Resources</td><td>Arctic Democracy Mining Act</td><td>from 2027</td><td>ERDA, FORTERA, Greenland</td></tr><tr><td>Research</td><td>Arctic Resilience Observatory</td><td>2025–2028</td><td>EU, ERDA partners, NGOs</td></tr><tr><td>Ethics</td><td>Arctic Commons Charter</td><td>2026</td><td>ERDA constitutional commission</td></tr><tr><td>Participation</td><td>Indigenous Council within ERDA</td><td>from 2027</td><td>CIVITAS, ERDA Council</td></tr></tbody></table>
+
+***
+
+
+\newpage
+
+---
+source: content/8.-das-arktis-konzept/8.6-kommunikationsstrategie.md
+status: draft
+---
+<a id="md-8-das-arktis-konzept-8-6-kommunikationsstrategie"></a>
+
+
+## 8.6 Communication strategy
+
+_**Communication strategy**_
+
+* **Narrative**: _“The Arctic does not belong to the powerful, but to the responsible.”_
+* Open data portals and participation modules (CIVITAS)
+* Strategic partnership with educational and climate institutions worldwide
+* Support for artistic engagement (literature, film, interactive media)
+
+
+\newpage
+
+---
+source: content/8.-das-arktis-konzept/8.7-schlussgedanke.md
+status: draft
+---
+<a id="md-8-das-arktis-konzept-8-7-schlussgedanke"></a>
+
+
+## 8.7 Closing thought
+
+_**Closing thought**_
+
+> _The Arctic is not an empty field for geopolitical games – it is a living resonance space of our planet. Whoever wants to preserve it must listen, protect, and shape responsibly. ERDA takes on this task – not as the ruler of the North, but as an alliance of care, foresight and democracy._
+
+
+\newpage
+
+---
 source: content/9.-das-space-konzept/README.md
 status: draft
 ---
@@ -8193,6 +8351,81 @@ _**The SOLAR ALLIANCE INFRASTRUCTURE PLAN 2030–2075**_
      – BELT LIVING ONE, VENUS ONE, first Mars stations, Mars parliaments, IRIS swarm.
   3. **Phase III: Maturity and intergenerational structure (2055–2075)**\
      – NEPTUNE ONE, deep‑space observatories, intersolar cooperation.
+
+
+\newpage
+
+---
+source: content/9.-das-space-konzept/9.6-infrastrukturen-bis-2075/9.6.2-hier-die-mogliche-losung/9.6.2.2-transformationsfonds-und-modulforderung.md
+status: draft
+---
+<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-2-hier-die-mogliche-losung-9-6-2-2-transformationsfonds-und-modulforderung"></a>
+
+
+#### 9.6.2.2 Transformation funds and module funding
+
+_**Transformation funds and module funding**_
+
+* **Two‑fund model:**
+  1. **SOLAR INFRA FUND (SIF):** for technological development, module construction, energy and security.
+  2. **CIVITAS PARTICIPATION FUND (CPF):** for public participation, education, culture, citizen programmes.
+* Funding pro rata by member states, democratically legitimised fund governance, citizen‑budget options.
+* Possible partners: ESA, DLR, CNES, national parliaments, university alliances, think tanks, open‑science networks.
+
+
+\newpage
+
+---
+source: content/9.-das-space-konzept/9.6-infrastrukturen-bis-2075/9.6.2-hier-die-mogliche-losung/9.6.2.3-institutionelle-tragerschaft-und-governance.md
+status: draft
+---
+<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-2-hier-die-mogliche-losung-9-6-2-3-institutionelle-tragerschaft-und-governance"></a>
+
+
+#### 9.6.2.3 Institutional sponsorship and governance
+
+_**Institutional sponsorship and governance**_
+
+* **SOLAR STRATEGY COMMITTEE (SSC):** interministerial steering body.
+* **ORBital Infrastructure Bureau (ORBI):** technical‑administrative implementation unit.
+* **COSMOS ETHICS COUNCIL:** supports all decisions on the basis of the Codex for cosmic responsibility.
+* **Civil‑society oversight platform:** linked with CIVITAS, monitors budget transparency and timelines.
+
+
+\newpage
+
+---
+source: content/9.-das-space-konzept/9.6-infrastrukturen-bis-2075/9.6.2-hier-die-mogliche-losung/9.6.2.4-technologisches-kernsystem.md
+status: draft
+---
+<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-2-hier-die-mogliche-losung-9-6-2-4-technologisches-kernsystem"></a>
+
+
+#### 9.6.2.4 Core technological system
+
+_**Core technological system**_
+
+* **Security standard:** a unified system framework for energy (SMR + solar + fusion), radiation protection, communication (quantum link, redundant mesh networks), recycling, material circulation.
+* **Sphere compatibility:** all major modules must be integrable mechanically, in terms of control systems, and energetically.
+* **Open protocols:** no proprietary key elements in strategic infrastructure.
+
+
+\newpage
+
+---
+source: content/9.-das-space-konzept/9.6-infrastrukturen-bis-2075/9.6.2-hier-die-mogliche-losung/9.6.2.5-internationale-integration-and-burgerzugang.md
+status: draft
+---
+<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-2-hier-die-mogliche-losung-9-6-2-5-internationale-integration-and-burgerzugang"></a>
+
+
+#### 9.6.2.5 International integration & citizen access
+
+_**International integration & citizen access**_
+
+* Citizens can co‑design modules via a proposal process (CIVITAS prototyping).
+* International coordination via democratic spaceflight systems (e.g., Argentina, Japan, New Zealand, Ghana).
+* Education and exchange networks ("Orbital School Exchange"), ethics scholarships, youth parliaments in orbit.
 
 
 \newpage
