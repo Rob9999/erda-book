@@ -105,7 +105,7 @@
   * [7.8 Economic Resilience and Ethical Foundations](7.-das-fortera-konzept/7.8-wirtschaftliche-resilienz-und-ethische-fundierung.md)
   * [7.9 Concluding Reflections](7.-das-fortera-konzept/7.9-schlussgedanken.md)
   * [**Appendix 7.A – Strategic democracy‑strengthening EU trade agreements in the new world order (ERDA)**](7.-das-fortera-konzept/7.a-strategische-demokratiestaerkende-eu-handelsabkommen-in-der-neuen-weltordnung-erda.md)
-  * [**Appendix 7.B – National implementation toolkit (for EU/ERDA states)**](7.-das-fortera-konzept/7.b-nationaler-umsetzungsbaukasten-fur-eu-erda-staaten.md)
+  * [**Appendix 7.B – National implementation toolkit (FORTERA canvas per EU state)**](7.-das-fortera-konzept/7.b-nationaler-umsetzungsbaukasten-fur-eu-erda-staaten.md)
 * [8. The ARKTIS Concept](8.-das-arktis-konzept/README.md)
   * [8.1 ARKTIS Codex – Ethics of Arctic Responsibility](8.-das-arktis-konzept/8.1-arktis-codex-ethik-der-arktischen-verantwortung.md)
   * [8.2 Initial Situation](8.-das-arktis-konzept/8.2-ausgangslage.md)
