@@ -5975,6 +5975,10 @@ Eine souveräne und nachhaltige Wirtschaft macht Europa zum globalen Vorreiter i
 
 * [**Anhang 7.A – Strategische demokratiestärkende EU‑Handelsabkommen in der neuen Weltordnung (ERDA)**](#md-7-das-fortera-konzept-7-a-strategische-demokratiestaerkende-eu-handelsabkommen-in-der-neuen-weltordnung-erda)
 
+### 📎 **Anhang 7.B**
+
+* [**Anhang 7.B – Nationaler Umsetzungsbaukasten (für EU-/ERDA-Staaten)**](#md-7-das-fortera-konzept-7-b-nationaler-umsetzungsbaukasten-fur-eu-erda-staaten)
+
 
 \newpage
 
@@ -5984,7 +5988,13 @@ Eine souveräne und nachhaltige Wirtschaft macht Europa zum globalen Vorreiter i
 
 _**Ausgangslage**_
 
-Mit der Rückkehr ökonomisch-nationalistischer Kräfte – insbesondere im Kontext der zweiten Präsidentschaft Donald Trumps – droht eine neue Ära wirtschaftlicher Spannungen. Zölle, Abschottung und politische Willkür in der Handelspolitik stellen eine ernsthafte Herausforderung für die global verflochtenen Demokratien dar. Europa und seine Partner müssen darauf reagieren – nicht mit gleicher Münze, sondern mit strategischer Resilienz, ökonomischer Verantwortung und demokratischer Integrität.
+Mit der Rückkehr ökonomisch-nationalistischer Kräfte in großen Machtzentren droht eine neue Ära wirtschaftlicher Spannungen.
+Zölle, Abschottung und politische Willkür in der Handelspolitik stellen eine ernsthafte Herausforderung für die global verflochtenen Demokratien dar.
+Europa und seine Partner müssen darauf reagieren – nicht mit gleicher Münze, sondern mit strategischer Resilienz, ökonomischer Verantwortung und demokratischer Integrität.
+
+**Kernthese für Kapitel 7**  
+Europa gewinnt strategische Unabhängigkeit nicht durch Debattenlänge, sondern durch Umsetzungsgeschwindigkeit:
+klare Prioritäten, gebündelte Nachfrage, beschleunigte Genehmigungen, skalierbare Finanzierung, robuste Lieferketten und demokratische Kontrolle.
 
 
 \newpage
@@ -6000,6 +6010,36 @@ Dieses Konzept bietet eine strukturierte Handlungsstrategie für demokratische R
 
 \newpage
 
+<a id="md-7-das-fortera-konzept-7-2-1-das-wie-fortera-als-umsetzungs-betriebssystem-eu-und-staaten"></a>
+
+## 7.2.1 Das Wie: FORTERA als Umsetzungs-Betriebssystem (EU + Staaten)
+
+FORTERA funktioniert, wenn Europa wie ein **Liefer-System** arbeitet: Ein Ziel, ein Team, ein Budget, ein Datum.
+
+### A) Governance: Wer entscheidet was – und wie schnell
+
+* **FORTERA-Rat (EU-Ebene)**: Prioritäten, Zielquoten, Krisenmodus, jährliche Portfolio-Entscheidung (Stop/Start).
+* **FORTERA-Delivery Unit**: Kleine operative Einheit, die Projekte durch Genehmigung, Finanzierung, Ausschreibung und Bau „durchzieht“.
+* **Nationale FORTERA-Knoten**: Je Staat ein Delivery-Team mit Mandat, Verfahren zu verkürzen und Standortpakete zu liefern.
+* **Demokratische Kontrolle**: Transparenzberichte, Audit-Pflichten, öffentliche Ziel-Dashboards; Bürgerfeedback über CIVITAS.
+
+### B) Die 6 Umsetzungshebel (die in der Praxis Zeit sparen)
+
+1. **Gebündelte Nachfrage**: EU-weite Abnahmeverträge (Offtake) und gemeinsame Beschaffung für strategische Güter.
+2. **Genehmigungs-Fast-Track**: Standardisierte Verfahren, Fristen, One-Stop-Behörden für FORTERA-Projekte.
+3. **Finanzierung mit Risiko-Puffer**: Garantien, Kreditlinien, Co-Investments; Ausfallrisiken werden politisch getragen, nicht in einzelnen Firmen „vergraben“.
+4. **Standards & Interoperabilität**: Einheitliche Normen, Zertifizierungen und modulare Baukästen.
+5. **Talent & Kapazität**: Ausbildung, Umschulung, Zuwanderung für Engpassberufe; Kapazitätsaufbau bei Zulieferern.
+6. **Sicherheits-Resilienz**: Cyber-Baseline, Lieferketten-Audits, Rohstoff-Reserven, Redundanzen.
+
+### C) Stop/Start-Prinzip (ohne Ideologie, nur Wirkung)
+
+* Europa **startet** alles, was Lieferfähigkeit, Energiepreis-Stabilität, Sicherheitsfähigkeit und Skalierung bringt.
+* Europa **stoppt** Streuverluste, Parallelstrukturen und Projekte ohne Abnahme-/Netz-/Genehmigungs-Pfad.
+
+
+\newpage
+
 <a id="md-7-das-fortera-konzept-7-3-produktionssouveranitat-und-strategische-industriepolitik-readme"></a>
 
 ## 7.3 Produktionssouveränität und strategische Industriepolitik
@@ -6010,6 +6050,7 @@ _**Produktionssouveränität und strategische Industriepolitik**_
 * **Regionale Wertschöpfung**: Stärkung europäischer Lieferketten mit Fokus auf Resilienz statt Effizienzmaximierung.
 * **Europäische Ersatzprodukte für kritische US-Güter**: Aufbau alternativer Kapazitäten für militärische Systeme (z. B. FCAS statt F-35), strategische Grundstoffe (grüner Wasserstoffstahl statt Importstahl), Energiequellen (Wasserstoff und SMR statt LNG), digitale Infrastruktur (europäische Cloud- und KI-Systeme).
 * **Öffentlich-private Transformationsfonds**: Langfristige Investitionsgarantie für strukturell wichtige Industrien.
+* **Umsetzungsfokus**: Jede Zielzahl erhält einen Abnahme-Plan, einen Standort-Plan, einen Genehmigungs-Plan, einen Talent-Plan und einen Lieferketten-Plan.
 
 > _Wirtschaftliche Eigenständigkeit ist keine Abschottung – sie ist die Grundlage demokratischer Handlungsfähigkeit._
 
@@ -6148,6 +6189,37 @@ _**Praktische Maßnahmen- und Meilensteinplanung (2025–2050)**_
 
 \newpage
 
+<a id="md-7-das-fortera-konzept-7-3-produktionssouveranitat-und-strategische-industriepolitik-7-3-5-1-sofortprogramm-1000-tage"></a>
+
+### 7.3.5.1 Sofortprogramm „1000 Tage“ ({{YYYY}}–{{YYYY}}): Von Plan zu Output
+
+Dieses Paket priorisiert Maßnahmen, die innerhalb von 12–36 Monaten messbar Output erhöhen.
+
+#### Starten (12 Punkte)
+
+1. **EU-Abnahmeverträge** für Chips (kritische Knoten), Transformatoren/Netztechnik, Rüstungs-Schlüsselkomponenten, Elektrolyseure, Rechenzentrums-Kapazität.
+2. **Fast-Track-Genehmigungen** für Netze, Rechenzentren, Halbleiter-Fabs, Rüstungsfertigung, H2-Kernkorridore (klare Fristen, One-Stop).
+3. **EU-weiter Engpass-Atlas**: 20 wichtigste Abhängigkeiten + Ersatzpfade; quartalsweise aktualisiert.
+4. **„Build-Ready Sites“**: Vorbereitete Industrieflächen mit Strom/Netz/Wasser/Anbindung; sofort ausschreibungsfähig.
+5. **Strategische Lager** für Rohstoffe und Vorprodukte (definierte Mindestreichweiten).
+6. **Kapazitätsaufbau bei Zulieferern**: Maschinenbau, Chemie, Elektronik-Substrate, Präzisionsfertigung, Explosivstoffe/Antriebe (wo relevant).
+7. **Skills-Sprint**: 5 Engpass-Berufe je Staat; Ausbildung + Umschulung + Anwerbung; finanzierter Plan pro Jahrgang.
+8. **Normen-Harmonisierung**: Eine EU-Zertifizierung statt 27 Varianten (wo möglich).
+9. **Souveräne Cloud für kritische Sektoren**: Mindeststandards, Audit, Exit-Strategien, Datenportabilität.
+10. **„Buy European, when strategic“**: Beschaffungsregeln, die Resilienz und Sicherheit als harte Kriterien setzen.
+11. **Projekt-Controlling wie in der Industrie**: Meilensteine, Ampeln, Abbruchkriterien, öffentliches Dashboard.
+12. **Resilienz-Stresstests**: Simulation von Embargos, Cyber-Schocks, Rohstoffausfall; Maßnahmenplan je Test.
+
+#### Stoppen / Reduzieren (damit es schnell wird)
+
+* Subventions-Streuung ohne Abnahmeverträge und ohne Lieferketten-Audit.
+* Parallel-Standards und Doppelzertifizierungen ohne Sicherheits-/Qualitätsgewinn.
+* Verkauf kritischer Infrastruktur und Schlüsselzulieferer in Abhängigkeiten hinein.
+* Beschaffung mit „Billigstpreis zuerst“, wenn Resilienz das Ziel ist.
+
+
+\newpage
+
 <a id="md-7-das-fortera-konzept-7-3-produktionssouveranitat-und-strategische-industriepolitik-7-3-6-erfolgskontrolle-und-anpassungsmechanismen"></a>
 
 ### 7.3.6 Erfolgskontrolle und Anpassungsmechanismen
@@ -6194,6 +6266,12 @@ _**Aufbau demokratischer Handelsallianzen („Add-On Global“)**_
 * **Zukunftsfreihandelszonen**: Zollfreiheit und Kooperationsverträge für Schlüsseltechnologien, Klimaschutzprodukte und digitale Infrastruktur.
 * **Verlässlichkeit durch Verfassungsbindung**: Handelsabkommen mit Staaten, die rechtsstaatlich gebunden sind, fördern nicht nur Handel, sondern auch Vertrauen.
 
+**Ergänzung: Vertragslogik, die Abhängigkeiten wirklich reduziert**
+* **Resilienz-Klauseln**: Gegenseitige Lieferzusagen für definierte Engpässe; gemeinsame Krisenprotokolle.
+* **Rohstoff-Pakte**: Langfristverträge + Verarbeitungskapazitäten in Demokratien (nicht nur Import, auch Refining).
+* **Technologie-Kooperation**: Gemeinsame Standards, gemeinsame Forschungsprogramme, gegenseitige Marktöffnung in Schlüsselbereichen.
+* **Anti-Erpressungs-Koordination**: Gemeinsame Antwort-Pakete bei Zwangsmaßnahmen gegen einzelne Partner.
+
 > _Freier Handel funktioniert nur unter Gleichen – nicht unter Erpressung._
 
 
@@ -6210,6 +6288,10 @@ _**Transatlantische Partnerschaft neu denken**_
   * Eigenständige Finanzinfrastruktur (z. B. europäisches Zahlungssystem).
   * Technologie- und Energiesouveränität.
   * Krisenprotokolle für internationale Unternehmen.
+
+**Pragmatische Doppelspur**
+* Europa pflegt Kooperation, wo sie Sicherheit und Wohlstand stärkt.
+* Europa baut Parallelfähigkeit, wo Abhängigkeit politisch ausnutzbar ist.
 
 > _Strategische Partnerschaft muss auf Gegenseitigkeit beruhen – nicht auf einseitiger Anpassung._
 
@@ -6229,6 +6311,11 @@ _**Defensivinstrumente gegen wirtschaftliche Erpressung**_
 * **Multilaterale Kooperation in der WTO und darüber hinaus**:
   * Neue Koalitionen demokratischer Staaten gegen willkürlichen Protektionismus.
   * Stärkung globaler Regelwerke durch demokratische Legitimation.
+
+**Ergänzung: Schutz vor schleichender Abhängigkeit**
+* **Lieferketten-Auditpflicht** für kritische Sektoren (Transparenz über Vorprodukte, Eigentümer, Single-Points-of-Failure).
+* **Screening kritischer Übernahmen** mit klaren Kriterien (Sicherheitsrelevanz, Monopolrisiko, Zwangsrisiko).
+* **Notfall-Kapazitätsrecht**: Möglichkeit, Produktion zeitlich befristet hochzufahren (mit fairer Entschädigung und parlamentarischer Kontrolle).
 
 > _Abwehr ist kein Bruch mit der Welt – sondern der Schutz der Spielregeln._
 
@@ -6568,6 +6655,42 @@ Gemeinsam betrachtet zeigen sie, dass Handelspolitik nicht nur ökonomische, son
   https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/china_en
 - **[68] [69] [70] [79]** The Rise and Demise of the EU‑China Investment Agreement: Takeaways for the Future of German Debate on China (CSIS)
   https://www.csis.org/analysis/rise-and-demise-eu-china-investment-agreement-takeaways-future-german-debate-china
+
+
+\newpage
+
+<a id="md-7-das-fortera-konzept-7-b-nationaler-umsetzungsbaukasten-fur-eu-erda-staaten"></a>
+
+## **Anhang 7.B – Nationaler Umsetzungsbaukasten (für EU-/ERDA-Staaten)**
+
+Dieser Anhang übersetzt FORTERA in nationale Umsetzungspläne, ohne 27 Einzelwege zu erzeugen.
+Jeder Staat nutzt denselben Baukasten, setzt aber andere Schwerpunkte.
+
+### 7.B.1 Staaten-Canvas (Template)
+
+* **{{Land}} – Ausgangslage in 12 Kennzahlen**: Energiepreisniveau, Netzstatus, Industrieanteil, Fachkräftelücke, Importabhängigkeiten Top-10, F&E-Quote, Verteidigungs-Industriekapazität (relevant), Hafen/Logistik, kritische Rohstoffe, Cyber-Lage, Kapitalzugang, Genehmigungsdauer.
+* **3 nationale FORTERA-Missionen ({{YYYY}}–{{YYYY}})**: je Mission ein Output-Ziel (z. B. „{{X}} GW Netzanschluss/Jahr“, „{{Y}}% lokale Vorprodukte“, „{{Z}} Kapazität“).
+* **Abnahme & Beschaffung**: Wer kauft welchen Output zu welchen Bedingungen?
+* **Standorte & Genehmigung**: Welche 5–10 Standorte sind „Build-Ready“ bis {{Date}}?
+* **Lieferkette & Rohstoffe**: Welche 5 Engpässe werden zuerst geschlossen?
+* **Talent**: Welche 5 Engpass-Berufe; wie viele Absolventen pro Jahr?
+* **Risiken & Stop-Liste**: Was bindet Budget ohne Output? Was wird beendet?
+
+### 7.B.2 Archetypen (damit es schnell maßgeschneidert wird)
+
+1. **Industrie-Schwergewicht** (z. B. DE/IT/PL): Fokus Zulieferketten, Energiepreis-Stabilität, Skalierung der Fertigung.
+2. **Energie-Ankerstaat** (z. B. FR/ES/SE/FI): Fokus Erzeugung + Netz + Export-Strom/H2-Korridore.
+3. **High-Tech-Knoten** (z. B. NL/DE/FR/IE): Fokus Chips, Cloud, KI-Sicherheit, Standards.
+4. **Logistik-Drehscheibe** (z. B. BE/NL/GR): Fokus Häfen, Zoll-Digitalisierung, Resilienz-Lager.
+5. **Frontline-Resilienz** (z. B. PL/FI/Baltikum): Fokus Verteidigungs-Industrie, Redundanzen, schnelle Beschaffung.
+
+### 7.B.3 Mini-Beispiele (als Startpunkt, nicht als Dogma)
+
+* **Deutschland (Industrie-Schwergewicht)**: 3 Missionen: Netz/Transformatoren-Kapazität, Halbleiter-Ökosystem (Zulieferer!), Rüstungs-Serienfertigung.
+* **Frankreich (Energie-Ankerstaat)**: 3 Missionen: günstige Grundlast + Netz, Luftfahrt/Verteidigung, kritische Materialien/Refining.
+* **Polen (Frontline-Resilienz + Fertigung)**: 3 Missionen: Munitions/Komponenten-Kapazität, Industrie-Cluster, Logistik-Resilienz.
+* **Spanien (Energie-Ankerstaat)**: 3 Missionen: Erneuerbare + Netzausbau, H2-Korridore, Elektrolyseur-/Komponentenfertigung.
+* **Niederlande (High-Tech-Knoten)**: 3 Missionen: Halbleiter-Equipment-Kette, sichere Cloud-Knoten, Standardisierung/Zertifizierung.
 
 
 \newpage

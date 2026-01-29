@@ -41,3 +41,7 @@ A sovereign and sustainable economy makes Europe a global pioneer in responsible
 ### 📎 **Appendix 7.A**
 
 * [**Appendix 7.A – Strategic democracy‑strengthening EU trade agreements in the new world order (ERDA)**](7.a-strategische-demokratiestaerkende-eu-handelsabkommen-in-der-neuen-weltordnung-erda.md)
+
+### 📎 **Appendix 7.B**
+
+* [**Appendix 7.B – National implementation toolkit (for EU/ERDA states)**](7.b-nationaler-umsetzungsbaukasten-fur-eu-erda-staaten.md)

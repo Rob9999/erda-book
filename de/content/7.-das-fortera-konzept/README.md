@@ -36,3 +36,7 @@ Eine souveräne und nachhaltige Wirtschaft macht Europa zum globalen Vorreiter i
 ### 📎 **Anhang 7.A**
 
 * [**Anhang 7.A – Strategische demokratiestärkende EU‑Handelsabkommen in der neuen Weltordnung (ERDA)**](7.a-strategische-demokratiestaerkende-eu-handelsabkommen-in-der-neuen-weltordnung-erda.md)
+
+### 📎 **Anhang 7.B**
+
+* [**Anhang 7.B – Nationaler Umsetzungsbaukasten (für EU-/ERDA-Staaten)**](7.b-nationaler-umsetzungsbaukasten-fur-eu-erda-staaten.md)
