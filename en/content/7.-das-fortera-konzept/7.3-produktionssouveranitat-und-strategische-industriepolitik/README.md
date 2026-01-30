@@ -1,6 +1,6 @@
 ---
 source: content/7.-das-fortera-konzept/7.3-produktionssouveranitat-und-strategische-industriepolitik/README.md
-status: draft
+status: approved
 ---
 
 # 7.3 Production sovereignty and strategic industrial policy

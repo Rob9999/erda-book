@@ -1,6 +1,6 @@
 ---
 source: content/7.-das-fortera-konzept/README.md
-status: draft
+status: approved
 ---
 
 # 7. The FORTERA Concept
