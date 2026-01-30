@@ -6661,36 +6661,418 @@ Gemeinsam betrachtet zeigen sie, dass Handelspolitik nicht nur ökonomische, son
 
 <a id="md-7-das-fortera-konzept-7-b-nationaler-umsetzungsbaukasten-fur-eu-erda-staaten"></a>
 
-## **Anhang 7.B – Nationaler Umsetzungsbaukasten (für EU-/ERDA-Staaten)**
+## **Anhang 7.B – Nationaler Umsetzungsbaukasten (FORTERA-Canvas pro EU-Staat)**
 
-Dieser Anhang übersetzt FORTERA in nationale Umsetzungspläne, ohne 27 Einzelwege zu erzeugen.
-Jeder Staat nutzt denselben Baukasten, setzt aber andere Schwerpunkte.
+Dieser Anhang macht FORTERA in jedem EU-Staat schnell anwendbar, ohne 27 verschiedene Systeme zu erzeugen.
+Jeder Staat nutzt dieselbe Canvas-Struktur. Inhalte werden jährlich durch FORTERA-Review nachgeschärft und über CIVITAS transparent diskutiert (vgl. Erfolgskontrolle & CIVITAS-Einbindung in 7.3.6.).
 
-### 7.B.1 Staaten-Canvas (Template)
+### 7.B.1 Canvas-Kurzform (pro Staat)
 
-* **{{Land}} – Ausgangslage in 12 Kennzahlen**: Energiepreisniveau, Netzstatus, Industrieanteil, Fachkräftelücke, Importabhängigkeiten Top-10, F&E-Quote, Verteidigungs-Industriekapazität (relevant), Hafen/Logistik, kritische Rohstoffe, Cyber-Lage, Kapitalzugang, Genehmigungsdauer.
-* **3 nationale FORTERA-Missionen ({{YYYY}}–{{YYYY}})**: je Mission ein Output-Ziel (z. B. „{{X}} GW Netzanschluss/Jahr“, „{{Y}}% lokale Vorprodukte“, „{{Z}} Kapazität“).
-* **Abnahme & Beschaffung**: Wer kauft welchen Output zu welchen Bedingungen?
-* **Standorte & Genehmigung**: Welche 5–10 Standorte sind „Build-Ready“ bis {{Date}}?
-* **Lieferkette & Rohstoffe**: Welche 5 Engpässe werden zuerst geschlossen?
-* **Talent**: Welche 5 Engpass-Berufe; wie viele Absolventen pro Jahr?
-* **Risiken & Stop-Liste**: Was bindet Budget ohne Output? Was wird beendet?
+**Archetyp (Vorschlag):** {{Archetyp_1}} / {{Archetyp_2}}  
+**Zeitraum:** {{YYYY}}–{{YYYY}}  
 
-### 7.B.2 Archetypen (damit es schnell maßgeschneidert wird)
+**Ausgangslage in 12 Kennzahlen (eintragen):**
+- Energiepreisindex: {{...}}
+- Netzstatus / Anschlussfähigkeit: {{...}}
+- Industrieanteil / Schlüsselbranchen: {{...}}
+- Fachkräftelücke (Top-3): {{...}}
+- Importabhängigkeiten Top-10: {{...}}
+- F&E-Quote: {{...}}
+- Kapitalzugang / Finanzierungskosten: {{...}}
+- Genehmigungsdauer (Median): {{...}}
+- Logistik (Häfen/Schiene/Korridore): {{...}}
+- Rohstoffrisiken (Top-3): {{...}}
+- Cyber-Lage (Baseline): {{...}}
+- Krisen-Reserven / Lagerreichweite: {{...}}
 
-1. **Industrie-Schwergewicht** (z. B. DE/IT/PL): Fokus Zulieferketten, Energiepreis-Stabilität, Skalierung der Fertigung.
-2. **Energie-Ankerstaat** (z. B. FR/ES/SE/FI): Fokus Erzeugung + Netz + Export-Strom/H2-Korridore.
-3. **High-Tech-Knoten** (z. B. NL/DE/FR/IE): Fokus Chips, Cloud, KI-Sicherheit, Standards.
-4. **Logistik-Drehscheibe** (z. B. BE/NL/GR): Fokus Häfen, Zoll-Digitalisierung, Resilienz-Lager.
-5. **Frontline-Resilienz** (z. B. PL/FI/Baltikum): Fokus Verteidigungs-Industrie, Redundanzen, schnelle Beschaffung.
+**3 nationale FORTERA-Missionen (Output zuerst):**
+- **M1:** {{Mission_1_Titel}} | Output: {{Mission\_1\_Output}} | Abnahme: {{Mission_1_Abnahme}}
+- **M2:** {{Mission_2_Titel}} | Output: {{Mission\_2\_Output}} | Abnahme: {{Mission_2_Abnahme}}
+- **M3:** {{Mission_3_Titel}} | Output: {{Mission\_3\_Output}} | Abnahme: {{Mission_3_Abnahme}}
 
-### 7.B.3 Mini-Beispiele (als Startpunkt, nicht als Dogma)
+**Build-Ready Sites (bis {{Date}}):**
+- {{Site_1}} (Typ: {{Industrial_Park/Port/Research/Energy}})
+- {{Site_2}} (Typ: {{...}})
+- {{Site_3}} (Typ: {{...}})
+- {{Site_4}} (Typ: {{...}})
+- {{Site_5}} (Typ: {{...}})
 
-* **Deutschland (Industrie-Schwergewicht)**: 3 Missionen: Netz/Transformatoren-Kapazität, Halbleiter-Ökosystem (Zulieferer!), Rüstungs-Serienfertigung.
-* **Frankreich (Energie-Ankerstaat)**: 3 Missionen: günstige Grundlast + Netz, Luftfahrt/Verteidigung, kritische Materialien/Refining.
-* **Polen (Frontline-Resilienz + Fertigung)**: 3 Missionen: Munitions/Komponenten-Kapazität, Industrie-Cluster, Logistik-Resilienz.
-* **Spanien (Energie-Ankerstaat)**: 3 Missionen: Erneuerbare + Netzausbau, H2-Korridore, Elektrolyseur-/Komponentenfertigung.
-* **Niederlande (High-Tech-Knoten)**: 3 Missionen: Halbleiter-Equipment-Kette, sichere Cloud-Knoten, Standardisierung/Zertifizierung.
+**Top-5 Engpässe (zuerst schließen):**
+1) {{Bottleneck_1}}
+2) {{Bottleneck_2}}
+3) {{Bottleneck_3}}
+4) {{Bottleneck_4}}
+5) {{Bottleneck_5}}
+
+**Top-5 Engpass-Berufe (pro Jahrgang):**
+1) {{Skill_1}}
+2) {{Skill_2}}
+3) {{Skill_3}}
+4) {{Skill_4}}
+5) {{Skill_5}}
+
+**Stop/Reduce (damit Output entsteht):**
+- {{Stop_1}}
+- {{Stop_2}}
+- {{Stop_3}}
+
+**EU-Integration (1 Satz):**
+- {{EU_Integration_Satz}}
+
+---
+
+## 7.B.2 EU-Staaten-Canvas-Skelette (alphabetisch)
+
+### Österreich – FORTERA-Canvas
+
+**Archetyp (Vorschlag):** Industrie-Knoten / Energie-Systemstabilität  
+**Missionen (Vorschlag):**
+- **M1:** Netz- und Speicher-Beschleunigung | Output: {{AT\_M1\_Output}} | Abnahme: {{AT_M1_Abnahme}}
+- **M2:** Präzisions-Zulieferketten für EU-Industrie | Output: {{AT\_M2\_Output}} | Abnahme: {{AT_M2_Abnahme}}
+- **M3:** Sicherheits- und Resilienz-Standards in kritischer Infrastruktur | Output: {{AT\_M3\_Output}} | Abnahme: {{AT_M3_Abnahme}}
+**Build-Ready Sites:** {{AT_Site_1}}, {{AT_Site_2}}, {{AT_Site_3}}, {{AT_Site_4}}, {{AT_Site_5}}
+**Top-5 Engpässe:** {{AT_B1}}, {{AT_B2}}, {{AT_B3}}, {{AT_B4}}, {{AT_B5}}
+**Top-5 Skills:** {{AT_Sk1}}, {{AT_Sk2}}, {{AT_Sk3}}, {{AT_Sk4}}, {{AT_Sk5}}
+**Stop/Reduce:** Subventionsstreuung ohne Abnahme; lange Verfahrensketten; Beschaffung nur nach Billigstpreis
+**EU-Integration:** {{AT_EU_Integration}}
+
+### Belgien – FORTERA-Canvas
+
+**Archetyp (Vorschlag):** Logistik-Drehscheibe / Industrie-Cluster  
+**Missionen (Vorschlag):**
+- **M1:** Hafen-/Zoll-Digitalisierung + Resilienz-Lager | Output: {{BE\_M1\_Output}} | Abnahme: {{BE_M1_Abnahme}}
+- **M2:** Chemie/Material-Vorprodukte für EU-Ketten | Output: {{BE\_M2\_Output}} | Abnahme: {{BE_M2_Abnahme}}
+- **M3:** EU-Zertifizierung & Interoperabilität (Pilotlinien) | Output: {{BE\_M3\_Output}} | Abnahme: {{BE_M3_Abnahme}}
+**Build-Ready Sites:** {{BE_Site_1}}, {{BE_Site_2}}, {{BE_Site_3}}, {{BE_Site_4}}, {{BE_Site_5}}
+**Top-5 Engpässe:** {{BE_B1}}, {{BE_B2}}, {{BE_B3}}, {{BE_B4}}, {{BE_B5}}
+**Top-5 Skills:** {{BE_Sk1}}, {{BE_Sk2}}, {{BE_Sk3}}, {{BE_Sk4}}, {{BE_Sk5}}
+**Stop/Reduce:** Doppelstandards; Engpass-Projekte ohne Netzanschluss-Plan; Fragmentierung nach Regionen ohne Gesamt-Output
+**EU-Integration:** {{BE_EU_Integration}}
+
+### Bulgarien – FORTERA-Canvas
+
+**Archetyp (Vorschlag):** Fertigungs-Aufbau / Resilienz-Korridor  
+**Missionen (Vorschlag):**
+- **M1:** Energie- und Netz-Modernisierung | Output: {{BG\_M1\_Output}} | Abnahme: {{BG_M1_Abnahme}}
+- **M2:** EU-Zuliefer-Fertigung (Elektronik/Mechanik) | Output: {{BG\_M2\_Output}} | Abnahme: {{BG_M2_Abnahme}}
+- **M3:** Kritische Infrastruktur-Cyber-Baseline | Output: {{BG\_M3\_Output}} | Abnahme: {{BG_M3_Abnahme}}
+**Build-Ready Sites:** {{BG_Site_1}}, {{BG_Site_2}}, {{BG_Site_3}}, {{BG_Site_4}}, {{BG_Site_5}}
+**Top-5 Engpässe:** {{BG_B1}}, {{BG_B2}}, {{BG_B3}}, {{BG_B4}}, {{BG_B5}}
+**Top-5 Skills:** {{BG_Sk1}}, {{BG_Sk2}}, {{BG_Sk3}}, {{BG_Sk4}}, {{BG_Sk5}}
+**Stop/Reduce:** Projektförderung ohne Lieferketten-Audit; Genehmigungsstau; Abwanderung ohne Gegenprogramme
+**EU-Integration:** {{BG_EU_Integration}}
+
+### Kroatien – FORTERA-Canvas
+
+**Archetyp (Vorschlag):** Logistik-Tor / Industrie-Nischen  
+**Missionen (Vorschlag):**
+- **M1:** Adriatischer Logistik-Korridor + Resilienz-Lager | Output: {{HR\_M1\_Output}} | Abnahme: {{HR_M1_Abnahme}}
+- **M2:** Maritime/Mechanik-Zulieferung für EU-Ketten | Output: {{HR\_M2\_Output}} | Abnahme: {{HR_M2_Abnahme}}
+- **M3:** Energie-/Netz-Robustheit für Industrieflächen | Output: {{HR\_M3\_Output}} | Abnahme: {{HR_M3_Abnahme}}
+**Build-Ready Sites:** {{HR_Site_1}}, {{HR_Site_2}}, {{HR_Site_3}}, {{HR_Site_4}}, {{HR_Site_5}}
+**Top-5 Engpässe:** {{HR_B1}}, {{HR_B2}}, {{HR_B3}}, {{HR_B4}}, {{HR_B5}}
+**Top-5 Skills:** {{HR_Sk1}}, {{HR_Sk2}}, {{HR_Sk3}}, {{HR_Sk4}}, {{HR_Sk5}}
+**Stop/Reduce:** Investitionen ohne Netzzusage; Parallel-Zertifizierung; fehlende Wartungs-/Betriebskapazität
+**EU-Integration:** {{HR_EU_Integration}}
+
+### Zypern – FORTERA-Canvas
+
+**Archetyp (Vorschlag):** Dienstleistungs-Knoten / Energie-Korridor  
+**Missionen (Vorschlag):**
+- **M1:** Energie-Import-/Speicher-Resilienz | Output: {{CY\_M1\_Output}} | Abnahme: {{CY_M1_Abnahme}}
+- **M2:** Maritime Logistik + Krisen-Durchsatz | Output: {{CY\_M2\_Output}} | Abnahme: {{CY_M2_Abnahme}}
+- **M3:** Souveräne IT-/Cyber-Knoten für kritische Dienste | Output: {{CY\_M3\_Output}} | Abnahme: {{CY_M3_Abnahme}}
+**Build-Ready Sites:** {{CY_Site_1}}, {{CY_Site_2}}, {{CY_Site_3}}, {{CY_Site_4}}, {{CY_Site_5}}
+**Top-5 Engpässe:** {{CY_B1}}, {{CY_B2}}, {{CY_B3}}, {{CY_B4}}, {{CY_B5}}
+**Top-5 Skills:** {{CY_Sk1}}, {{CY_Sk2}}, {{CY_Sk3}}, {{CY_Sk4}}, {{CY_Sk5}}
+**Stop/Reduce:** Cloud-Lock-in ohne Exit; Engpass-Energie ohne Reserveplan; Projekte ohne Wartungsbudget
+**EU-Integration:** {{CY_EU_Integration}}
+
+### Tschechien – FORTERA-Canvas
+
+**Archetyp (Vorschlag):** Industrie-Zuliefer-Schwerpunkt  
+**Missionen (Vorschlag):**
+- **M1:** Zuliefer-Kapazität für strategische EU-Güter | Output: {{CZ\_M1\_Output}} | Abnahme: {{CZ_M1_Abnahme}}
+- **M2:** Strom-/Netz-Anschluss für Industrie-Cluster | Output: {{CZ\_M2\_Output}} | Abnahme: {{CZ_M2_Abnahme}}
+- **M3:** Dual-Use-Fertigung (Resilienz-Serienfähigkeit) | Output: {{CZ\_M3\_Output}} | Abnahme: {{CZ_M3_Abnahme}}
+**Build-Ready Sites:** {{CZ_Site_1}}, {{CZ_Site_2}}, {{CZ_Site_3}}, {{CZ_Site_4}}, {{CZ_Site_5}}
+**Top-5 Engpässe:** {{CZ_B1}}, {{CZ_B2}}, {{CZ_B3}}, {{CZ_B4}}, {{CZ_B5}}
+**Top-5 Skills:** {{CZ_Sk1}}, {{CZ_Sk2}}, {{CZ_Sk3}}, {{CZ_Sk4}}, {{CZ_Sk5}}
+**Stop/Reduce:** Förderprogramme ohne Abnahme; lange Umwelt-/Bau-Ketten ohne Fast-Track; Fachkräfteverlust ohne Upskilling
+**EU-Integration:** {{CZ_EU_Integration}}
+
+### Dänemark – FORTERA-Canvas
+
+**Archetyp (Vorschlag):** Energie-Ankerstaat / Maritime Logistik  
+**Missionen (Vorschlag):**
+- **M1:** Offshore-/Netz-Skalierung + Systemdienstleistungen | Output: {{DK\_M1\_Output}} | Abnahme: {{DK_M1_Abnahme}}
+- **M2:** Grüne Industrie-Korridore (Strom/H2-Anbindung) | Output: {{DK\_M2\_Output}} | Abnahme: {{DK_M2_Abnahme}}
+- **M3:** Nordische Resilienz-Koordination (Lager/Standards) | Output: {{DK\_M3\_Output}} | Abnahme: {{DK_M3_Abnahme}}
+**Build-Ready Sites:** {{DK_Site_1}}, {{DK_Site_2}}, {{DK_Site_3}}, {{DK_Site_4}}, {{DK_Site_5}}
+**Top-5 Engpässe:** {{DK_B1}}, {{DK_B2}}, {{DK_B3}}, {{DK_B4}}, {{DK_B5}}
+**Top-5 Skills:** {{DK_Sk1}}, {{DK_Sk2}}, {{DK_Sk3}}, {{DK_Sk4}}, {{DK_Sk5}}
+**Stop/Reduce:** Netzanschluss-Bremse; Projekte ohne Lieferketten-Sicherung; Beschaffung ohne Sicherheits-Baseline
+**EU-Integration:** {{DK_EU_Integration}}
+
+### Estland – FORTERA-Canvas
+
+**Archetyp (Vorschlag):** High-Tech-Knoten / Cyber-Resilienz  
+**Missionen (Vorschlag):**
+- **M1:** Cyber-Baseline für kritische Infrastruktur (exportierbarer Standard) | Output: {{EE\_M1\_Output}} | Abnahme: {{EE_M1_Abnahme}}
+- **M2:** Digitale Verwaltung als Beschleuniger für Genehmigungen | Output: {{EE\_M2\_Output}} | Abnahme: {{EE_M2_Abnahme}}
+- **M3:** Sichere Cloud-Knoten (Portabilität/Exit) | Output: {{EE\_M3\_Output}} | Abnahme: {{EE_M3_Abnahme}}
+**Build-Ready Sites:** {{EE_Site_1}}, {{EE_Site_2}}, {{EE_Site_3}}, {{EE_Site_4}}, {{EE_Site_5}}
+**Top-5 Engpässe:** {{EE_B1}}, {{EE_B2}}, {{EE_B3}}, {{EE_B4}}, {{EE_B5}}
+**Top-5 Skills:** {{EE_Sk1}}, {{EE_Sk2}}, {{EE_Sk3}}, {{EE_Sk4}}, {{EE_Sk5}}
+**Stop/Reduce:** Tool-Wildwuchs ohne Standards; Abhängigkeit ohne Exit-Plan; fehlende Redundanz bei Netzen
+**EU-Integration:** {{EE_EU_Integration}}
+
+### Finnland – FORTERA-Canvas
+
+**Archetyp (Vorschlag):** Frontline-Resilienz / Materialien-Knoten  
+**Missionen (Vorschlag):**
+- **M1:** Rohstoff-/Material-Verarbeitung in demokratischen Ketten | Output: {{FI\_M1\_Output}} | Abnahme: {{FI_M1_Abnahme}}
+- **M2:** Energie-Preis-Stabilität für Industrie | Output: {{FI\_M2\_Output}} | Abnahme: {{FI_M2_Abnahme}}
+- **M3:** Resilienz-Lager + Krisenlogistik im Norden | Output: {{FI\_M3\_Output}} | Abnahme: {{FI_M3_Abnahme}}
+**Build-Ready Sites:** {{FI_Site_1}}, {{FI_Site_2}}, {{FI_Site_3}}, {{FI_Site_4}}, {{FI_Site_5}}
+**Top-5 Engpässe:** {{FI_B1}}, {{FI_B2}}, {{FI_B3}}, {{FI_B4}}, {{FI_B5}}
+**Top-5 Skills:** {{FI_Sk1}}, {{FI_Sk2}}, {{FI_Sk3}}, {{FI_Sk4}}, {{FI_Sk5}}
+**Stop/Reduce:** Engpass-Projekte ohne Abnahme; Lager ohne Rotation; Infrastruktur ohne Cyber-Baseline
+**EU-Integration:** {{FI_EU_Integration}}
+
+### Frankreich – FORTERA-Canvas
+
+**Archetyp (Vorschlag):** Energie-Ankerstaat / Verteidigungs-Kern  
+**Missionen (Vorschlag):**
+- **M1:** Strom-/Netz-Exportfähigkeit + Systemstabilität | Output: {{FR\_M1\_Output}} | Abnahme: {{FR_M1_Abnahme}}
+- **M2:** Verteidigungs-Serienfähigkeit + europäische Beschaffung | Output: {{FR\_M2\_Output}} | Abnahme: {{FR_M2_Abnahme}}
+- **M3:** Technologie-Standards & Zertifizierung (EU-Skalierung) | Output: {{FR\_M3\_Output}} | Abnahme: {{FR_M3_Abnahme}}
+**Build-Ready Sites:** {{FR_Site_1}}, {{FR_Site_2}}, {{FR_Site_3}}, {{FR_Site_4}}, {{FR_Site_5}}
+**Top-5 Engpässe:** {{FR_B1}}, {{FR_B2}}, {{FR_B3}}, {{FR_B4}}, {{FR_B5}}
+**Top-5 Skills:** {{FR_Sk1}}, {{FR_Sk2}}, {{FR_Sk3}}, {{FR_Sk4}}, {{FR_Sk5}}
+**Stop/Reduce:** Nationale Parallelentwicklung ohne EU-Interoperabilität; Beschaffung ohne Skalierungsplan; Genehmigungs-Backlogs
+**EU-Integration:** {{FR_EU_Integration}}
+
+### Deutschland – FORTERA-Canvas
+
+**Archetyp (Vorschlag):** Industrie-Schwergewicht / High-Tech-Knoten  
+**Missionen (Vorschlag):**
+- **M1:** Netz-/Transformatoren-Kapazität | Output: {{DE\_M1\_Output}} | Abnahme: {{DE_M1_Abnahme}}
+- **M2:** Halbleiter-Ökosystem inkl. Zulieferer | Output: {{DE\_M2\_Output}} | Abnahme: {{DE_M2_Abnahme}}
+- **M3:** Verteidigungs-Serienfertigung + Dual-Use | Output: {{DE\_M3\_Output}} | Abnahme: {{DE_M3_Abnahme}}
+**Build-Ready Sites:** {{DE_Site_1}}, {{DE_Site_2}}, {{DE_Site_3}}, {{DE_Site_4}}, {{DE_Site_5}}
+**Top-5 Engpässe:** {{DE_B1}}, {{DE_B2}}, {{DE_B3}}, {{DE_B4}}, {{DE_B5}}
+**Top-5 Skills:** {{DE_Sk1}}, {{DE_Sk2}}, {{DE_Sk3}}, {{DE_Sk4}}, {{DE_Sk5}}
+**Stop/Reduce:** Förderstreuung ohne Offtake; Standards ohne Portabilität; Beschaffung ohne Resilienz-Kriterium
+**EU-Integration:** {{DE_EU_Integration}}
+
+### Griechenland – FORTERA-Canvas
+
+**Archetyp (Vorschlag):** Logistik-Drehscheibe / Energie-Korridor  
+**Missionen (Vorschlag):**
+- **M1:** Hafen-/Schienen-Korridore für EU-Resilienz | Output: {{GR\_M1\_Output}} | Abnahme: {{GR_M1_Abnahme}}
+- **M2:** Netze/Speicher für Industrieflächen | Output: {{GR\_M2\_Output}} | Abnahme: {{GR_M2_Abnahme}}
+- **M3:** Krisen-Durchsatz + Resilienz-Lager | Output: {{GR\_M3\_Output}} | Abnahme: {{GR_M3_Abnahme}}
+**Build-Ready Sites:** {{GR_Site_1}}, {{GR_Site_2}}, {{GR_Site_3}}, {{GR_Site_4}}, {{GR_Site_5}}
+**Top-5 Engpässe:** {{GR_B1}}, {{GR_B2}}, {{GR_B3}}, {{GR_B4}}, {{GR_B5}}
+**Top-5 Skills:** {{GR_Sk1}}, {{GR_Sk2}}, {{GR_Sk3}}, {{GR_Sk4}}, {{GR_Sk5}}
+**Stop/Reduce:** Infrastruktur ohne Wartung; IT ohne Cyber-Baseline; Projekte ohne Anschluss-/Durchsatz-Ziel
+**EU-Integration:** {{GR_EU_Integration}}
+
+### Ungarn – FORTERA-Canvas
+
+**Archetyp (Vorschlag):** Fertigungs-Knoten / Zuliefer-Ketten  
+**Missionen (Vorschlag):**
+- **M1:** Zuliefer-Serienkapazität für EU-Industrie | Output: {{HU\_M1\_Output}} | Abnahme: {{HU_M1_Abnahme}}
+- **M2:** Energie-/Netz-Upgrade für Cluster | Output: {{HU\_M2\_Output}} | Abnahme: {{HU_M2_Abnahme}}
+- **M3:** Lieferketten-Audit + Redundanzen | Output: {{HU\_M3\_Output}} | Abnahme: {{HU_M3_Abnahme}}
+**Build-Ready Sites:** {{HU_Site_1}}, {{HU_Site_2}}, {{HU_Site_3}}, {{HU_Site_4}}, {{HU_Site_5}}
+**Top-5 Engpässe:** {{HU_B1}}, {{HU_B2}}, {{HU_B3}}, {{HU_B4}}, {{HU_B5}}
+**Top-5 Skills:** {{HU_Sk1}}, {{HU_Sk2}}, {{HU_Sk3}}, {{HU_Sk4}}, {{HU_Sk5}}
+**Stop/Reduce:** Einseitige Abhängigkeiten; Genehmigungs-Ketten ohne Fristen; Ausbildung ohne Engpass-Fokus
+**EU-Integration:** {{HU_EU_Integration}}
+
+### Irland – FORTERA-Canvas
+
+**Archetyp (Vorschlag):** High-Tech-Dienstleistungen / Pharma-/Digital-Knoten  
+**Missionen (Vorschlag):**
+- **M1:** Souveräne Cloud-Knoten + Datenportabilität | Output: {{IE\_M1\_Output}} | Abnahme: {{IE_M1_Abnahme}}
+- **M2:** Kritische MedTech/Pharma-Lieferfähigkeit | Output: {{IE\_M2\_Output}} | Abnahme: {{IE_M2_Abnahme}}
+- **M3:** Netz-/Energie-Kapazität für Rechenzentren (mit Resilienz) | Output: {{IE\_M3\_Output}} | Abnahme: {{IE_M3_Abnahme}}
+**Build-Ready Sites:** {{IE_Site_1}}, {{IE_Site_2}}, {{IE_Site_3}}, {{IE_Site_4}}, {{IE_Site_5}}
+**Top-5 Engpässe:** {{IE_B1}}, {{IE_B2}}, {{IE_B3}}, {{IE_B4}}, {{IE_B5}}
+**Top-5 Skills:** {{IE_Sk1}}, {{IE_Sk2}}, {{IE_Sk3}}, {{IE_Sk4}}, {{IE_Sk5}}
+**Stop/Reduce:** Rechenleistung ohne Netzausbau; Abhängigkeit ohne Exit-Plan; Engpass-Medikamente ohne Reserve
+**EU-Integration:** {{IE_EU_Integration}}
+
+### Italien – FORTERA-Canvas
+
+**Archetyp (Vorschlag):** Industrie-Schwergewicht / Maritime-Knoten  
+**Missionen (Vorschlag):**
+- **M1:** Industrie-Modernisierung + Energiepreis-Stabilität | Output: {{IT\_M1\_Output}} | Abnahme: {{IT_M1_Abnahme}}
+- **M2:** Verteidigungs-/Dual-Use-Fertigung (Skalierung) | Output: {{IT\_M2\_Output}} | Abnahme: {{IT_M2_Abnahme}}
+- **M3:** Mittelmeer-Logistik + Resilienz-Lager | Output: {{IT\_M3\_Output}} | Abnahme: {{IT_M3_Abnahme}}
+**Build-Ready Sites:** {{IT_Site_1}}, {{IT_Site_2}}, {{IT_Site_3}}, {{IT_Site_4}}, {{IT_Site_5}}
+**Top-5 Engpässe:** {{IT_B1}}, {{IT_B2}}, {{IT_B3}}, {{IT_B4}}, {{IT_B5}}
+**Top-5 Skills:** {{IT_Sk1}}, {{IT_Sk2}}, {{IT_Sk3}}, {{IT_Sk4}}, {{IT_Sk5}}
+**Stop/Reduce:** Zersplitterte Förderlogik; Projekte ohne Wartungs-/Opex-Plan; lokale Blockaden ohne Fast-Track
+**EU-Integration:** {{IT_EU_Integration}}
+
+### Lettland – FORTERA-Canvas
+
+**Archetyp (Vorschlag):** Frontline-Resilienz / Logistik-Korridor  
+**Missionen (Vorschlag):**
+- **M1:** Resilienz-Lager + Durchsatz-Korridore | Output: {{LV\_M1\_Output}} | Abnahme: {{LV_M1_Abnahme}}
+- **M2:** Cyber-Baseline in kritischer Infrastruktur | Output: {{LV\_M2\_Output}} | Abnahme: {{LV_M2_Abnahme}}
+- **M3:** Energie-/Netz-Redundanz | Output: {{LV\_M3\_Output}} | Abnahme: {{LV_M3_Abnahme}}
+**Build-Ready Sites:** {{LV_Site_1}}, {{LV_Site_2}}, {{LV_Site_3}}, {{LV_Site_4}}, {{LV_Site_5}}
+**Top-5 Engpässe:** {{LV_B1}}, {{LV_B2}}, {{LV_B3}}, {{LV_B4}}, {{LV_B5}}
+**Top-5 Skills:** {{LV_Sk1}}, {{LV_Sk2}}, {{LV_Sk3}}, {{LV_Sk4}}, {{LV_Sk5}}
+**Stop/Reduce:** Einzelprojekte ohne EU-Korridor-Plan; IT ohne Audit; Lager ohne Rotation
+**EU-Integration:** {{LV_EU_Integration}}
+
+### Litauen – FORTERA-Canvas
+
+**Archetyp (Vorschlag):** Frontline-Resilienz / High-Tech-Nische  
+**Missionen (Vorschlag):**
+- **M1:** Cyber-Resilienz + Übungsbetrieb | Output: {{LT\_M1\_Output}} | Abnahme: {{LT_M1_Abnahme}}
+- **M2:** Industrie-Zuliefer-Kapazität (kritische Komponenten) | Output: {{LT\_M2\_Output}} | Abnahme: {{LT_M2_Abnahme}}
+- **M3:** Netz-/Energie-Redundanz | Output: {{LT\_M3\_Output}} | Abnahme: {{LT_M3_Abnahme}}
+**Build-Ready Sites:** {{LT_Site_1}}, {{LT_Site_2}}, {{LT_Site_3}}, {{LT_Site_4}}, {{LT_Site_5}}
+**Top-5 Engpässe:** {{LT_B1}}, {{LT_B2}}, {{LT_B3}}, {{LT_B4}}, {{LT_B5}}
+**Top-5 Skills:** {{LT_Sk1}}, {{LT_Sk2}}, {{LT_Sk3}}, {{LT_Sk4}}, {{LT_Sk5}}
+**Stop/Reduce:** Abhängigkeit ohne Exit; Standards ohne Interoperabilität; Genehmigungen ohne Fristen
+**EU-Integration:** {{LT_EU_Integration}}
+
+### Luxemburg – FORTERA-Canvas
+
+**Archetyp (Vorschlag):** Finanz-/Regel-Knoten / High-Trust-Infrastruktur  
+**Missionen (Vorschlag):**
+- **M1:** FORTERA-Finanzierungs-Instrumente (Garantien/Co-Invest) | Output: {{LU\_M1\_Output}} | Abnahme: {{LU_M1_Abnahme}}
+- **M2:** Audit-/Compliance-Backbone für Lieferketten | Output: {{LU\_M2\_Output}} | Abnahme: {{LU_M2_Abnahme}}
+- **M3:** Sichere Datenräume für kritische Sektoren | Output: {{LU\_M3\_Output}} | Abnahme: {{LU_M3_Abnahme}}
+**Build-Ready Sites:** {{LU_Site_1}}, {{LU_Site_2}}, {{LU_Site_3}}, {{LU_Site_4}}, {{LU_Site_5}}
+**Top-5 Engpässe:** {{LU_B1}}, {{LU_B2}}, {{LU_B3}}, {{LU_B4}}, {{LU_B5}}
+**Top-5 Skills:** {{LU_Sk1}}, {{LU_Sk2}}, {{LU_Sk3}}, {{LU_Sk4}}, {{LU_Sk5}}
+**Stop/Reduce:** Bürokratie ohne Risiko-Outcome; Digital-Projekte ohne Portabilität; fehlende Transparenz-KPIs
+**EU-Integration:** {{LU_EU_Integration}}
+
+### Malta – FORTERA-Canvas
+
+**Archetyp (Vorschlag):** Maritime Logistik / Dienstleistungs-Resilienz  
+**Missionen (Vorschlag):**
+- **M1:** Krisen-Logistik-Durchsatz + Lager | Output: {{MT\_M1\_Output}} | Abnahme: {{MT_M1_Abnahme}}
+- **M2:** Energie-Speicher-Resilienz | Output: {{MT\_M2\_Output}} | Abnahme: {{MT_M2_Abnahme}}
+- **M3:** Souveräne IT-Knoten für kritische Dienste | Output: {{MT\_M3\_Output}} | Abnahme: {{MT_M3_Abnahme}}
+**Build-Ready Sites:** {{MT_Site_1}}, {{MT_Site_2}}, {{MT_Site_3}}, {{MT_Site_4}}, {{MT_Site_5}}
+**Top-5 Engpässe:** {{MT_B1}}, {{MT_B2}}, {{MT_B3}}, {{MT_B4}}, {{MT_B5}}
+**Top-5 Skills:** {{MT_Sk1}}, {{MT_Sk2}}, {{MT_Sk3}}, {{MT_Sk4}}, {{MT_Sk5}}
+**Stop/Reduce:** Abhängige Energie ohne Reserve; IT ohne Audit; Projekte ohne Betriebsteam
+**EU-Integration:** {{MT_EU_Integration}}
+
+### Niederlande – FORTERA-Canvas
+
+**Archetyp (Vorschlag):** High-Tech-Knoten / Logistik-Drehscheibe  
+**Missionen (Vorschlag):**
+- **M1:** Schlüssel-Zulieferketten für High-Tech-Industrie | Output: {{NL\_M1\_Output}} | Abnahme: {{NL_M1_Abnahme}}
+- **M2:** Hafen-/Korridor-Resilienz + Zoll-Digital | Output: {{NL\_M2\_Output}} | Abnahme: {{NL_M2_Abnahme}}
+- **M3:** Standardisierung/Zertifizierung für EU-Skalierung | Output: {{NL\_M3\_Output}} | Abnahme: {{NL_M3_Abnahme}}
+**Build-Ready Sites:** {{NL_Site_1}}, {{NL_Site_2}}, {{NL_Site_3}}, {{NL_Site_4}}, {{NL_Site_5}}
+**Top-5 Engpässe:** {{NL_B1}}, {{NL_B2}}, {{NL_B3}}, {{NL_B4}}, {{NL_B5}}
+**Top-5 Skills:** {{NL_Sk1}}, {{NL_Sk2}}, {{NL_Sk3}}, {{NL_Sk4}}, {{NL_Sk5}}
+**Stop/Reduce:** Engpass-Projekte ohne Flächen/Netz; Doppelregeln; Beschaffung ohne Interoperabilität
+**EU-Integration:** {{NL_EU_Integration}}
+
+### Polen – FORTERA-Canvas
+
+**Archetyp (Vorschlag):** Frontline-Resilienz / Industrie-Aufbau  
+**Missionen (Vorschlag):**
+- **M1:** Verteidigungs-/Ausrüstungs-Serienfähigkeit | Output: {{PL\_M1\_Output}} | Abnahme: {{PL_M1_Abnahme}}
+- **M2:** Energie-/Netz-Skalierung für Industrie | Output: {{PL\_M2\_Output}} | Abnahme: {{PL_M2_Abnahme}}
+- **M3:** Logistik-Korridore + Resilienz-Lager | Output: {{PL\_M3\_Output}} | Abnahme: {{PL_M3_Abnahme}}
+**Build-Ready Sites:** {{PL_Site_1}}, {{PL_Site_2}}, {{PL_Site_3}}, {{PL_Site_4}}, {{PL_Site_5}}
+**Top-5 Engpässe:** {{PL_B1}}, {{PL_B2}}, {{PL_B3}}, {{PL_B4}}, {{PL_B5}}
+**Top-5 Skills:** {{PL_Sk1}}, {{PL_Sk2}}, {{PL_Sk3}}, {{PL_Sk4}}, {{PL_Sk5}}
+**Stop/Reduce:** Abhängigkeiten ohne Ausweichpfad; Projekte ohne Abnahme; Ausbildung ohne Engpass-Ziele
+**EU-Integration:** {{PL_EU_Integration}}
+
+### Portugal – FORTERA-Canvas
+
+**Archetyp (Vorschlag):** Energie-Anker / Atlantik-Tor  
+**Missionen (Vorschlag):**
+- **M1:** Netze/Speicher + Industrieanschlüsse | Output: {{PT\_M1\_Output}} | Abnahme: {{PT_M1_Abnahme}}
+- **M2:** Atlantik-Logistik + Resilienz-Lager | Output: {{PT\_M2\_Output}} | Abnahme: {{PT_M2_Abnahme}}
+- **M3:** Komponenten-Fertigung für Energie-Systeme | Output: {{PT\_M3\_Output}} | Abnahme: {{PT_M3_Abnahme}}
+**Build-Ready Sites:** {{PT_Site_1}}, {{PT_Site_2}}, {{PT_Site_3}}, {{PT_Site_4}}, {{PT_Site_5}}
+**Top-5 Engpässe:** {{PT_B1}}, {{PT_B2}}, {{PT_B3}}, {{PT_B4}}, {{PT_B5}}
+**Top-5 Skills:** {{PT_Sk1}}, {{PT_Sk2}}, {{PT_Sk3}}, {{PT_Sk4}}, {{PT_Sk5}}
+**Stop/Reduce:** Projekte ohne Anschluss; Lieferketten ohne Audit; Zersplitterte Programme
+**EU-Integration:** {{PT_EU_Integration}}
+
+### Rumänien – FORTERA-Canvas
+
+**Archetyp (Vorschlag):** Resilienz-Korridor / Industrie-Ausbau  
+**Missionen (Vorschlag):**
+- **M1:** Energie-/Netz-Modernisierung + Redundanz | Output: {{RO\_M1\_Output}} | Abnahme: {{RO_M1_Abnahme}}
+- **M2:** Zuliefer-Serienfertigung für EU-Ketten | Output: {{RO\_M2\_Output}} | Abnahme: {{RO_M2_Abnahme}}
+- **M3:** Logistik-Korridore (Schiene/Donau) | Output: {{RO\_M3\_Output}} | Abnahme: {{RO_M3_Abnahme}}
+**Build-Ready Sites:** {{RO_Site_1}}, {{RO_Site_2}}, {{RO_Site_3}}, {{RO_Site_4}}, {{RO_Site_5}}
+**Top-5 Engpässe:** {{RO_B1}}, {{RO_B2}}, {{RO_B3}}, {{RO_B4}}, {{RO_B5}}
+**Top-5 Skills:** {{RO_Sk1}}, {{RO_Sk2}}, {{RO_Sk3}}, {{RO_Sk4}}, {{RO_Sk5}}
+**Stop/Reduce:** Infrastruktur ohne Wartung; Projekte ohne Abnahme; Engpass-Korruption/Verzögerung ohne Kontrollen
+**EU-Integration:** {{RO_EU_Integration}}
+
+### Slowakei – FORTERA-Canvas
+
+**Archetyp (Vorschlag):** Zuliefer-Industrie / Fertigungs-Knoten  
+**Missionen (Vorschlag):**
+- **M1:** Kritische Komponenten-Serienfertigung | Output: {{SK\_M1\_Output}} | Abnahme: {{SK_M1_Abnahme}}
+- **M2:** Netz-/Energie-Upgrade für Cluster | Output: {{SK\_M2\_Output}} | Abnahme: {{SK_M2_Abnahme}}
+- **M3:** Lieferketten-Audit + Redundanzen | Output: {{SK\_M3\_Output}} | Abnahme: {{SK_M3_Abnahme}}
+**Build-Ready Sites:** {{SK_Site_1}}, {{SK_Site_2}}, {{SK_Site_3}}, {{SK_Site_4}}, {{SK_Site_5}}
+**Top-5 Engpässe:** {{SK_B1}}, {{SK_B2}}, {{SK_B3}}, {{SK_B4}}, {{SK_B5}}
+**Top-5 Skills:** {{SK_Sk1}}, {{SK_Sk2}}, {{SK_Sk3}}, {{SK_Sk4}}, {{SK_Sk5}}
+**Stop/Reduce:** Förderprogramme ohne Skalierung; Genehmigungen ohne Frist; Ausbildung ohne Engpass-Fokus
+**EU-Integration:** {{SK_EU_Integration}}
+
+### Slowenien – FORTERA-Canvas
+
+**Archetyp (Vorschlag):** Logistik-Knoten / Industrie-Nischen  
+**Missionen (Vorschlag):**
+- **M1:** Korridor-Durchsatz + Resilienz-Lager | Output: {{SI\_M1\_Output}} | Abnahme: {{SI_M1_Abnahme}}
+- **M2:** Zuliefer-Fertigung (Mechanik/Elektronik) | Output: {{SI\_M2\_Output}} | Abnahme: {{SI_M2_Abnahme}}
+- **M3:** Energie-/Netz-Anschluss für Industrieflächen | Output: {{SI\_M3\_Output}} | Abnahme: {{SI_M3_Abnahme}}
+**Build-Ready Sites:** {{SI_Site_1}}, {{SI_Site_2}}, {{SI_Site_3}}, {{SI_Site_4}}, {{SI_Site_5}}
+**Top-5 Engpässe:** {{SI_B1}}, {{SI_B2}}, {{SI_B3}}, {{SI_B4}}, {{SI_B5}}
+**Top-5 Skills:** {{SI_Sk1}}, {{SI_Sk2}}, {{SI_Sk3}}, {{SI_Sk4}}, {{SI_Sk5}}
+**Stop/Reduce:** Projekte ohne Betrieb; Doppelstandards; Flächen ohne Netzzusage
+**EU-Integration:** {{SI_EU_Integration}}
+
+### Spanien – FORTERA-Canvas
+
+**Archetyp (Vorschlag):** Energie-Ankerstaat / Industrie-Skalierung  
+**Missionen (Vorschlag):**
+- **M1:** Netze/Speicher + Industrie-Anschluss | Output: {{ES\_M1\_Output}} | Abnahme: {{ES_M1_Abnahme}}
+- **M2:** Grüne Industrie-Korridore (Strom/H2) | Output: {{ES\_M2\_Output}} | Abnahme: {{ES_M2_Abnahme}}
+- **M3:** Komponenten-Fertigung für Energie-Systeme | Output: {{ES\_M3\_Output}} | Abnahme: {{ES_M3_Abnahme}}
+**Build-Ready Sites:** {{ES_Site_1}}, {{ES_Site_2}}, {{ES_Site_3}}, {{ES_Site_4}}, {{ES_Site_5}}
+**Top-5 Engpässe:** {{ES_B1}}, {{ES_B2}}, {{ES_B3}}, {{ES_B4}}, {{ES_B5}}
+**Top-5 Skills:** {{ES_Sk1}}, {{ES_Sk2}}, {{ES_Sk3}}, {{ES_Sk4}}, {{ES_Sk5}}
+**Stop/Reduce:** Projekte ohne Netz; Genehmigungsstau; Förderstreuung ohne Offtake
+**EU-Integration:** {{ES_EU_Integration}}
+
+### Schweden – FORTERA-Canvas
+
+**Archetyp (Vorschlag):** Energie-/Material-Knoten / High-Tech  
+**Missionen (Vorschlag):**
+- **M1:** Energie-Preis-Stabilität für Industrie | Output: {{SE\_M1\_Output}} | Abnahme: {{SE_M1_Abnahme}}
+- **M2:** Material-/Vorprodukt-Kapazitäten in demokratischen Ketten | Output: {{SE\_M2\_Output}} | Abnahme: {{SE_M2_Abnahme}}
+- **M3:** Resilienz-Standards (Cyber/Industrie) | Output: {{SE\_M3\_Output}} | Abnahme: {{SE_M3_Abnahme}}
+**Build-Ready Sites:** {{SE_Site_1}}, {{SE_Site_2}}, {{SE_Site_3}}, {{SE_Site_4}}, {{SE_Site_5}}
+**Top-5 Engpässe:** {{SE_B1}}, {{SE_B2}}, {{SE_B3}}, {{SE_B4}}, {{SE_B5}}
+**Top-5 Skills:** {{SE_Sk1}}, {{SE_Sk2}}, {{SE_Sk3}}, {{SE_Sk4}}, {{SE_Sk5}}
+**Stop/Reduce:** Engpass-Projekte ohne Abnahme; Lager ohne Rotation; IT ohne Audit
+**EU-Integration:** {{SE_EU_Integration}}
 
 
 \newpage
