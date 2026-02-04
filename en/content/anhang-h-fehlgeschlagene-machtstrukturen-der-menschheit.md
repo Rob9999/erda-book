@@ -28,6 +28,7 @@ Human history shows a multitude of political and social power structures whose e
 | Apartheid systems        | Systematic racial discrimination                    | Historical: South Africa, USA                          | Anti‑discrimination laws, awareness campaigns, comprehensive social integration                                             |
 | Rule of terror           | Use of violence to secure power                     | ISIS, regional warlords                                | International security cooperation, military peace missions, long‑term peace education and conflict‑management               |
 | Violent anarchy          | Loss of any state order                             | Historical: Somalia, various civil‑war regions         | Immediate humanitarian interventions, building state institutions, long‑term stabilisation                                   |
+| Veto paralysis / obstructionism | Inability to decide due to unanimity constraints or persistent minority blocking | Historical: liberum veto (Poland–Lithuania) | Shift to QMV/emergency clauses, anti‑corruption and transparency rules, protection against external influence, clear competence allocation |
 
 ## H.3 Interpretation and Assessment
 

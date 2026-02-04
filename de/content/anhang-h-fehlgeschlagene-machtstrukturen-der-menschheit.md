@@ -23,6 +23,7 @@ Die menschliche Geschichte zeigt eine Vielzahl politischer und sozialer Machtstr
 | Apartheidsysteme       | Systematische rassische Diskriminierung              | Historisch: Südafrika, USA                            | Antidiskriminierungsgesetze, Aufklärungskampagnen, umfassende gesellschaftliche Integration                               |
 | Terrorherrschaft       | Gewalt zur Machtsicherung                            | ISIS, regionale Warlords                              | Internationale Sicherheitskooperation, militärische Friedensmissionen, langfristig Friedensbildung und Konfliktmanagement |
 | Gewaltsame Anarchie    | Verlust jeglicher staatlicher Ordnung                | Historisch: Somalia, Bürgerkriegsregionen             | Sofortige humanitäre Interventionen, Aufbau staatlicher Institutionen, langfristige Stabilisierung                        |
+| Vetoparalyse / Blockadismus | Entscheidungsunfähigkeit durch Einstimmigkeitszwang oder dauerhafte Minderheitsblockade | Historisch: liberum veto (Polen-Litauen) | Umstellung auf QMV/Notfallklauseln, Anti-Korruptions- & Transparenzregeln, Schutz vor externer Einflussnahme, klare Kompetenzordnung |
 
 ## H.3 Einordnung und Bewertung
 

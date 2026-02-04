@@ -64,6 +64,12 @@ Yet perhaps the more decisive question is:\
 
 For while Europe debates, others are already acting. An authoritarian state drafts fifty-year plans with planetary ambition. Global corporations write the infrastructure of our democracies. The young generation asks: _"So what exactly is your plan?"_
 
+Konrad Adenauer and his French partners already understood a sober truth after two world wars: when nationalism returns, Europe loses peace – and in the end, it also loses its capacity to act.
+
+In today’s world situation, a second consequence is added: fragmentation creates followership. Where Europe does not decide jointly, others set the standards – geopolitically, technologically, economically.
+
+Polish history contains a precise warning: the Polish–Lithuanian Commonwealth was large and diverse, yet veto paralysis and external manipulation made it “governable from outside” – until the partitions erased the state. The lesson for Europe is not centralism, but decision‑making capacity: integration must become complete wherever blockade is deadly – in strategic decision power and collective defence.
+
 The ERDA book offers an answer – not as a finished model, but as a structured sketch of the future. With concrete stages, with principles, with tools.
 
 It weaves together:
@@ -646,6 +652,8 @@ In defence, industrial policy and foreign policy, Europe must reach crisis‑rea
 * **ERDA reform dialogue:** Launch of a concerted reform process at EU and national level.
 * **Constitutional convention:** Drafting of a common ERDA charter by 2030.
 * **European Security Council:** Institutionalisation of the EDA with budgetary and decision-making powers.
+* **Democratically accountable European Defence Minister:** Executive steering of the EDA under parliamentary control (mandate, budget execution, accountability, crisis mechanisms).
+* **Democratic European Military Core:** A “coalition of the willing” as an action‑capable core (readiness, joint procurement, joint training), open to later full integration of further states.
 * **FORTERA impulses:** Targeted investment programmes for chip, battery and hydrogen production.
 * **CIVITAS rollout:** Rollout of digital co-determination platforms in all member states.
 * **Arctic and space strategies:** Strengthening planetary responsibility through the EDA Arctic strategy and SOLAR ALLIANCE preparation.
@@ -3204,6 +3212,12 @@ Today’s EDA is primarily a coordination forum and advisory body without an ope
 > ⚠️ **Risk:** Unclear responsibilities lead to delays and political deadlock.  
 > 🌍 **Visionary metaphor:** “EVA/EDA is the secure hub of a continent, repelling threats and transporting solidarity.”
 
+> 📌 **Historical warning: veto paralysis as an entry point**
+>
+> The “liberum veto” in the Polish–Lithuanian Commonwealth illustrates a structural pattern that can weaken democracies from within: if individual actors can block decisions at any time, the system slows down – and becomes externally manipulable.
+>
+> **EVA/EDA conclusion:** in security and defence matters, the action‑capable core of ERDA/EVA must be able to decide by majority (QMV/emergency clauses); otherwise, a strategic window emerges in which adversaries can create facts step by step.
+
 ##### 4.2.2.3 Transformation & Options for Action
 
 * **Convene an EVA/EDA convention:** negotiate a founding convention of all member states by the end of 2026.
@@ -3251,6 +3265,8 @@ c) Intergovernmental coordination
    Available online at: https://www.consilium.europa.eu/en/policies/strategic-compass/ (accessed 2025-05-19).
 3. **ERDA Book (2025):** _The EDA Concept._ See: ../../5.-das-eda-konzept/.  
 4. **ERDA Book (2025):** _The ARKTIS Concept._ See: ../../8.-das-arktis-konzept/.
+5. **Encyclopaedia Britannica (n.d.):** _liberum veto._ Available online at: https://www.britannica.com/topic/liberum-veto
+6. **Encyclopaedia Britannica (2026):** _Partitions of Poland._ Available online at: https://www.britannica.com/event/Partitions-of-Poland
 
 
 \newpage
@@ -3269,6 +3285,8 @@ _**Enlargement Strategy Based on the Model of “Concentric Circles”**_
 _**Gradual integration and partnership in three concentric circles**_
 
 > _“The model of concentric circles enables a flexible, values‑based enlargement of ERDA: from core members with deep constitutional anchoring, via associated partners, through to global democracies – each circle has its own rights, obligations and participation formats.”_
+
+In the current European debate, this principle is also discussed as “two‑speed Europe” or as a multi‑layer “core‑and‑rings” model: an action‑capable core moves ahead without closing the door to later integration. For ERDA, this means: those who are willing and able can become full members first – everyone else can dock as partner circles and move up later, without blocking the core’s capacity to act.
 
 _Enlargement strategy based on the model of “concentric circles”_
 
@@ -3349,6 +3367,8 @@ d) Solidarity circle
    See: ../../anhang-b-erda-staatenprofile/2.-schema-fur-erda-staatenprofile-ausfuhrliche-ubersicht.md
 3. **ERDA Book (2025):** _The ARKTIS Concept._  
    See: ../../8.-das-arktis-konzept/
+4. **Reuters (2026):** _Six European economies vow to drive progress on stalled projects._ Available online at: https://www.reuters.com/business/germany-hold-call-with-select-eu-states-push-twospeed-europe-2026-01-28/
+5. **Bart De Wever (2026):** _“European Onion” (public statement)._ Available online at: https://nl.linkedin.com/posts/bart-de-wever_thefutureofeurope-activity-7422956061005049856-8LdW
 
 
 \newpage
@@ -5695,7 +5715,7 @@ This implies for the EDA:
 
 ## Glossary: key terms
 
-<table data-header-hidden><thead><tr><th width="284.39996337890625"></th><th></th></tr></thead><tbody><tr><td><strong>Term</strong></td><td><strong>Definition</strong></td></tr><tr><td><strong>ADO (Asian Defence Organization)</strong></td><td>Hypothetical security alliance of democratic states in East Asia (e.g. Japan, South Korea and others)</td></tr><tr><td><strong>ASDA (Australian Defence Alliance)</strong></td><td>Hypothetical security alliance in the Indo‑Pacific under Australian leadership to protect maritime routes and democratic sovereignty</td></tr><tr><td><strong>LDA (Latin American Defence Alliance)</strong></td><td>Hypothetical defence alliance of democratic states in Latin America (possible leadership by Brazil/Argentina)</td></tr><tr><td><strong>AFDA (African Defence Alliance)</strong></td><td>Hypothetical defence alliance of democratic African states to promote regional security and democratic values</td></tr><tr><td><strong>GDA (Global Defence Alliance)</strong></td><td>Vision of a trans‑regional defence framework of democratic constitutional states based on shared principles</td></tr><tr><td><strong>Democratically Prepared Defence Accession</strong></td><td>Status of a sovereign partner state which, after a successful referendum, becomes a full member of the EDA – based on democratic self‑determination and legal clarity</td></tr><tr><td><strong>ERDA</strong></td><td>European Rights‑Based Democratic Alliance – future political union of democratic constitutional states with a common constitution and post‑scarcity economy</td></tr><tr><td><strong>EDA</strong></td><td>European Defence Alliance – security alliance for democratic sovereignty and strategic autonomy, complementary to NATO</td></tr><tr><td><strong>Article 5 Equivalent</strong></td><td>Binding collective‑defence clause analogous to Article 5 of the NATO Treaty</td></tr><tr><td><strong>PESCO</strong></td><td>Permanent Structured Cooperation – EU framework for structured military cooperation</td></tr><tr><td><strong>FCAS / MGCS</strong></td><td>Core European armaments projects for air and land warfare systems</td></tr><tr><td><strong>IRIS²</strong></td><td>Planned European satellite system for secure communications</td></tr><tr><td><strong>Strategic autonomy</strong></td><td>Ability to act independently in defence, economics and diplomacy</td></tr><tr><td><strong>Coalition of the Willing</strong></td><td>Flexible group of like‑minded states that act together ahead of a broader agreement</td></tr><tr><td><strong>Cyber resilience</strong></td><td>Systemic ability to prevent, withstand and recover from cyber threats</td></tr><tr><td><strong>Rapid Response Force (RRF)</strong></td><td>Multinational EDA rapid‑reaction force for crises and hybrid threats</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="284.39996337890625"></th><th></th></tr></thead><tbody><tr><td><strong>Term</strong></td><td><strong>Definition</strong></td></tr><tr><td><strong>ADO (Asian Defence Organization)</strong></td><td>Hypothetical security alliance of democratic states in East Asia (e.g. Japan, South Korea and others)</td></tr><tr><td><strong>ASDA (Australian Defence Alliance)</strong></td><td>Hypothetical security alliance in the Indo‑Pacific under Australian leadership to protect maritime routes and democratic sovereignty</td></tr><tr><td><strong>LDA (Latin American Defence Alliance)</strong></td><td>Hypothetical defence alliance of democratic states in Latin America (possible leadership by Brazil/Argentina)</td></tr><tr><td><strong>AFDA (African Defence Alliance)</strong></td><td>Hypothetical defence alliance of democratic African states to promote regional security and democratic values</td></tr><tr><td><strong>GDA (Global Defence Alliance)</strong></td><td>Vision of a trans‑regional defence framework of democratic constitutional states based on shared principles</td></tr><tr><td><strong>Democratically Prepared Defence Accession</strong></td><td>Status of a sovereign partner state which, after a successful referendum, becomes a full member of the EDA – based on democratic self‑determination and legal clarity</td></tr><tr><td><strong>ERDA</strong></td><td>European Rights‑Based Democratic Alliance – future political union of democratic constitutional states with a common constitution and post‑scarcity economy</td></tr><tr><td><strong>EDA</strong></td><td>European Defence Alliance – security alliance for democratic sovereignty and strategic autonomy, complementary to NATO</td></tr><tr><td><strong>Article 5 Equivalent</strong></td><td>Binding collective‑defence clause analogous to Article 5 of the NATO Treaty</td></tr><tr><td><strong>PESCO</strong></td><td>Permanent Structured Cooperation – EU framework for structured military cooperation</td></tr><tr><td><strong>FCAS / MGCS</strong></td><td>Core European armaments projects for air and land warfare systems</td></tr><tr><td><strong>IRIS²</strong></td><td>Planned European satellite system for secure communications</td></tr><tr><td><strong>Strategic autonomy</strong></td><td>Ability to act independently in defence, economics and diplomacy</td></tr><tr><td><strong>Coalition of the Willing</strong></td><td>Flexible group of like‑minded states that act together ahead of a broader agreement</td></tr><tr><td><strong>Cyber resilience</strong></td><td>Systemic ability to prevent, withstand and recover from cyber threats</td></tr><tr><td><strong>Rapid Response Force (RRF)</strong></td><td>Multinational EDA rapid‑reaction force for crises and hybrid threats</td></tr><tr><td><strong>Liberum veto</strong></td><td>Historical decision rule (Poland–Lithuania) by which individual nobles could block legislation; a case study of structural veto paralysis and external manipulability.</td></tr><tr><td><strong>Veto paralysis / obstructionism</strong></td><td>Structural inability to decide due to unanimity constraints or persistent minority blocking; makes systems slow, predictable and strategically exploitable.</td></tr></tbody></table>
 
 ***
 
@@ -5852,6 +5872,8 @@ status: draft
 _**Command structure and operational sovereignty**_
 
 * The EDA command structure consists exclusively of representatives of full member states to ensure coherence, accountability and democratic legitimacy.
+* A **democratically accountable European Defence Minister (ERDA/EDA core)** consolidates executive steering (crisis decisions, budget execution, armaments prioritisation, mandate proposals) and is accountable to Parliament/the EDA governance body.
+* The Defence Minister steers a **Democratic European Military Core** (readiness, shared standards, joint procurement) as an “action‑capable first line”, without excluding later circles.
 * The **Integrated Joint Command** oversees strategic operations, troop deployments and the coordination of intelligence services.
 * Establishment of a **Continental Early‑Warning and Air‑Defence Command** analogous to NORAD for Europe and the Arctic region.
 * **Decentralised resilience** as a core principle: EDA forces are structured like a secure, autonomous network that remains functional even under partial isolation.
@@ -24952,6 +24974,7 @@ Human history shows a multitude of political and social power structures whose e
 | Apartheid systems        | Systematic racial discrimination                    | Historical: South Africa, USA                          | Anti‑discrimination laws, awareness campaigns, comprehensive social integration                                             |
 | Rule of terror           | Use of violence to secure power                     | ISIS, regional warlords                                | International security cooperation, military peace missions, long‑term peace education and conflict‑management               |
 | Violent anarchy          | Loss of any state order                             | Historical: Somalia, various civil‑war regions         | Immediate humanitarian interventions, building state institutions, long‑term stabilisation                                   |
+| Veto paralysis / obstructionism | Inability to decide due to unanimity constraints or persistent minority blocking | Historical: liberum veto (Poland–Lithuania) | Shift to QMV/emergency clauses, anti‑corruption and transparency rules, protection against external influence, clear competence allocation |
 
 ## H.3 Interpretation and Assessment
 
@@ -24995,6 +25018,8 @@ This glossary brings together the key terms used in the ERDA book. It serves as 
 | **KI Compass Unit**                    | Research unit for the ethical co‑development of human‑centred AI models and for reflection on technological transformation pathways in a democratic context.                                   |
 | **Democracy labs**                     | Experimental fields for new forms of democratic participation, particularly the integration of co‑creation methods and AI‑supported decision‑making.                                          |
 | **EDA (European Defence Alliance)**    | European defence alliance in development, aiming at a strategic, democratically legitimised security architecture based on shared values.                                                     |
+| **Liberum veto**                       | Historical decision rule (Poland–Lithuania) by which individual actors could block collective decisions; a case study of structural veto paralysis and external manipulability.                |
+| **Veto paralysis / obstructionism**    | Structural inability to decide due to unanimity constraints or persistent minority blocking; makes systems slow, predictable, and strategically exploitable.                                  |
 | **FORTERA**                            | Concept for Europe’s production sovereignty and strategic industrial policy in key technologies (e.g. semiconductors, hydrogen, recycling), combined with ethical and ecological responsibility.                                    |
 | **CIVITAS**                            | Digital agora for democratic participation based on transparency, data protection, and citizen proximity, e.g. through e‑voting, citizens’ initiatives, and digital vote‑tracking.                                                  |
 | **ARKTIS Codex**                       | ERDA’s ethics code for the Arctic region, combining democratic responsibility, protection of indigenous rights, and sustainable resource partnerships.                                        |
