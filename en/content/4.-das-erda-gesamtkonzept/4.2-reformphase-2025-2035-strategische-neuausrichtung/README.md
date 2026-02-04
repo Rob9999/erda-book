@@ -39,6 +39,29 @@ This chapter outlines the central transformation phase of the EU towards a capab
 
 ***
 
+#### 🧩 Mechanism: Escaping the confederation trap (“Pragmatic Federalism”)
+
+A coordinating confederation remains a confederation:  
+As long as key domains (foreign policy, defence, strategic industrial policy, fiscal response) are **veto‑driven**, Europe remains vulnerable to being broken into pieces – politically, economically and in security terms.
+
+**Pragmatic Federalism (working definition in the ERDA context):**
+* **Pragmatic:** Steps that are possible *now* – with partners who are *ready now* – in domains where progress is decisive *now*.
+* **Federal:** Each stage remains visibly oriented towards the goal: real decision‑making capacity through institutions with authority – democratically controlled.
+* **Without subordination:** Opt‑in instead of coercion; the door remains open for accession – but with protection against actors who sabotage the shared purpose.
+
+**Design rules (short):**
+1) **Decision capacity before completeness** (better capable with the willing than blocked with everyone).  
+2) **No single point of failure** in politics and infrastructure (no monopolies, no veto traps, no coercibility).  
+3) **Democratic oversight as a condition** (parliaments, rule‑bound action, transparency; emergency rules with sunset clauses and review).
+
+**Concrete translation into reform steps (2025–2030):**
+* Opt‑in modules for joint procurement/standards/resilience in critical sectors.
+* Crisis decision mode with clear competences (time‑limited, reviewable).
+* Joint strategic industrial facility (investments + capacities + substitution).
+* Binding rule‑of‑law and anti‑sabotage clauses for participation in core modules.
+
+***
+
 #### 🛠 Recommended Policy Measures
 
 * **Immediate (2025–2027):**  

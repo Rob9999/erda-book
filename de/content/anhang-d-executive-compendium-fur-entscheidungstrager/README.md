@@ -16,6 +16,23 @@ _Dieses Compendium bietet einen fokussierten Überblick über das ERDA-Buch in *
 * **1.4 Chancen im Wandel**
 * **1.5 Der strategische Imperativ**
 
+#### A.1b Draghi-Brille 2026: Von Markt zu Macht (Konföderation → Föderation)
+
+**Kernlogik:**  
+Ein Europa, das im Handel integriert ist, aber in Verteidigung, Außenpolitik und strategischer Industriepolitik fragmentiert bleibt, ist politisch „ausspielbar“ und wirtschaftlich erpressbar.
+
+**5 Kurz-Implikationen für Entscheidungsträger:**
+1) Handel und Sicherheit überlappen nicht mehr automatisch – Abhängigkeiten können weaponisiert werden (**Weaponized Interdependence**).  
+2) Veto-getriebene Koordination produziert keine Macht, sondern Verwundbarkeit.  
+3) Einigkeit entsteht durch gemeinsame Entscheidungen (**Unity-through-Action**), nicht davor.  
+4) Abkommen sind strategisch zu verstehen: Diversifikation + Verlässlichkeit + Standards als Sicherheitsarchitektur.  
+5) Europas Integrationsmodell bleibt wertgebunden: Integration ohne Unterordnung, Macht durch gemeinsame Institutionen, nicht durch Zwang.
+
+**Soforthebel (2025–2030):**
+* Opt-in-Entscheidungsfähigkeit in Defense / Industrial Policy / Foreign Affairs
+* Anti-Erpressbarkeit (kritische Inputs, Infrastruktur, digitale Souveränität)
+* Transparente demokratische Kontrolle als Vertrauensanker
+
 > Kern: Risikoanalyse der Demokratie, systemische Herausforderungen und ein gemeinsamer strategischer Handlungsrahmen für 2025–2035.
 
 #### A.2 Philosophische Fundamente

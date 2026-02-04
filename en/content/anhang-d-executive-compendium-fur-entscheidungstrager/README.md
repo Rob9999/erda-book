@@ -21,6 +21,24 @@ This compendium provides a focused overview of the ERDA book in **four** themati
 - **1.4 Opportunities in transition**
 - **1.5 The strategic imperative**
 
+### A.1b Draghi lens 2026: From market to power (confederation → federation)
+
+**Core logic:**  
+A Europe that is integrated in trade but remains fragmented in defence, foreign policy and strategic industrial policy is politically “playable” and economically coercible.
+
+**5 short implications for decision-makers:**
+1) Trade and security no longer overlap automatically – dependencies can be weaponised.  
+2) Veto-driven coordination produces no power, but vulnerability.  
+3) Unity emerges through joint decisions (**Unity-through-Action**), not before them.  
+4) Agreements must be understood strategically: diversification + reliability + standards as security architecture.  
+5) Europe’s integration model remains values-bound: integration without subordination, power through shared institutions, not through coercion.
+
+
+**Immediate levers (2025–2030):**
+* Opt-in decision capacity in defence / industrial policy / foreign affairs
+* Anti-coercion robustness (critical inputs, infrastructure, digital sovereignty)
+* Transparent democratic oversight as an anchor of trust
+
 > **Essence:** Risk analysis of democracy, systemic challenges, and a shared strategic framework for action for 2025–2035.
 
 ### A.2 Philosophical Foundations

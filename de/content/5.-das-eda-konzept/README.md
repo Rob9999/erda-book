@@ -36,6 +36,15 @@ _**Now is the moment. Lead – or be led.**_
 🎯 **Ziel des Kapitels**\
 Dieses Kapitel skizziert die Grundarchitektur einer Europäischen Verteidigungsallianz (EDA), die Europas Sicherheit, Souveränität und demokratische Legitimität im 21. Jahrhundert sichert. Ziel ist nicht nur militärische Handlungsfähigkeit, sondern die **systemische Integration von Verteidigung, Resilienz und demokratischer Kontrolle** – als eigenständige strategische Säule neben der NATO.
 
+##### 🔍 Politische Herleitung (Draghi-Perspektive 2026): Werte sind ohne Schutzfähigkeit nicht stabil
+
+Europas Nachkriegsarchitektur beruhte lange darauf, dass Sicherheit durch ein externes Schutzversprechen abgesichert war – während wirtschaftliche Offenheit den Wohlstand trug. In der neuen Lage kann Europa seine Werte nicht dauerhaft bewahren, wenn es zentrale Interessen nicht verteidigen kann.
+
+Daraus folgt für die EDA:
+* Verteidigung ist keine Abkehr von Partnern, sondern die **Voraussetzung souveräner Partnerschaft**.
+* Abschreckung und Resilienz sind nicht „Machtspiel“, sondern **demokratischer Selbstschutz**.
+* Handlungsfähigkeit muss demokratisch gebunden bleiben – gerade weil sie in Krisen entscheidet.
+
 ***
 
 🧭 **Kernaussagen für Entscheidungsträger**

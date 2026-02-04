@@ -41,6 +41,15 @@ but to stop breaking itself.
 🎯 **Aim of this chapter**\
 This chapter outlines the basic architecture of a European Defence Alliance (EDA) that secures Europe’s security, sovereignty and democratic legitimacy in the 21st century. The goal is not only military capability, but the **systemic integration of defence, resilience and democratic control** – as an independent strategic pillar alongside NATO.
 
+##### 🔍 Political rationale (Draghi lens 2026): Values are not stable without protective capacity
+
+For a long time, Europe’s post‑war architecture relied on security being underwritten by an external protection promise – while economic openness carried prosperity. In the new situation, Europe cannot preserve its values sustainably if it cannot defend its core interests.
+
+This implies for the EDA:
+* Defence is not a departure from partners, but the **precondition for sovereign partnership**.
+* Deterrence and resilience are not a “power game”, but **democratic self‑protection**.
+* Capacity to act must remain democratically bound – precisely because crises demand decisions.
+
 ***
 
 🧭 **Key messages for decision‑makers**

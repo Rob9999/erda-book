@@ -107,6 +107,7 @@
   * [**Anhang 7.A – Strategische demokratiestärkende EU‑Handelsabkommen in der neuen Weltordnung (ERDA)**](7.-das-fortera-konzept/7.a-strategische-demokratiestaerkende-eu-handelsabkommen-in-der-neuen-weltordnung-erda.md)
   * [**Anhang 7.B – Nationaler Umsetzungsbaukasten (FORTERA-Canvas pro EU-Staat)**](7.-das-fortera-konzept/7.b-nationaler-umsetzungsbaukasten-fur-eu-erda-staaten.md)
 * [8. Das ARKTIS Konzept](8.-das-arktis-konzept/README.md)
+  * [8.0 Fallstudie: Grönland als Stresstest strategischer Solidarität](8.-das-arktis-konzept/8.0-fallstudie-gronland-als-stresstest-strategischer-solidaritaet.md)
   * [8.1 ARKTIS Codex – Ethik der arktischen Verantwortung](8.-das-arktis-konzept/8.1-arktis-codex-ethik-der-arktischen-verantwortung.md)
   * [8.2 Ausgangslage](8.-das-arktis-konzept/8.2-ausgangslage.md)
   * [8.3 Leitprinzipien](8.-das-arktis-konzept/8.3-leitprinzipien.md)
