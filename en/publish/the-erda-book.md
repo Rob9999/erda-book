@@ -6290,7 +6290,7 @@ CIVITAS is more than a technical project. It is a strategic pillar of European d
 
 ---
 source: content/7.-das-fortera-konzept/README.md
-status: draft
+status: approved
 ---
 <a id="md-7-das-fortera-konzept-readme"></a>
 
@@ -6343,7 +6343,7 @@ A sovereign and sustainable economy makes Europe a global pioneer in responsible
 
 ---
 source: content/7.-das-fortera-konzept/7.1-ausgangslage-und-strategische-eckpfeiler.md
-status: draft
+status: approved
 ---
 <a id="md-7-das-fortera-konzept-7-1-ausgangslage-und-strategische-eckpfeiler"></a>
 
@@ -6365,7 +6365,7 @@ clear priorities, aggregated demand, accelerated approvals, scalable financing, 
 
 ---
 source: content/7.-das-fortera-konzept/7.2-ziel-des-konzepts.md
-status: draft
+status: approved
 ---
 <a id="md-7-das-fortera-konzept-7-2-ziel-des-konzepts"></a>
 
@@ -6381,7 +6381,7 @@ This concept provides a structured course of action for Europe’s democratic co
 
 ---
 source: content/7.-das-fortera-konzept/7.2.1-das-wie-fortera-als-umsetzungs-betriebssystem-eu-und-staaten.md
-status: draft
+status: approved
 ---
 <a id="md-7-das-fortera-konzept-7-2-1-das-wie-fortera-als-umsetzungs-betriebssystem-eu-und-staaten"></a>
 
@@ -6416,7 +6416,7 @@ FORTERA works when Europe operates like a **delivery system**: one goal, one tea
 
 ---
 source: content/7.-das-fortera-konzept/7.3-produktionssouveranitat-und-strategische-industriepolitik/README.md
-status: draft
+status: approved
 ---
 <a id="md-7-das-fortera-konzept-7-3-produktionssouveranitat-und-strategische-industriepolitik-readme"></a>
 
@@ -6438,7 +6438,7 @@ _**Production sovereignty and strategic industrial policy**_
 
 ---
 source: content/7.-das-fortera-konzept/7.3-produktionssouveranitat-und-strategische-industriepolitik/7.3.1-ubersicht-strategische-produktionsziele-europas-auszug.md
-status: draft
+status: approved
 ---
 <a id="md-7-das-fortera-konzept-7-3-produktionssouveranitat-und-strategische-industriepolitik-7-3-1-ubersicht-strategische-produktionsziele-europas-auszug"></a>
 
@@ -6454,7 +6454,7 @@ _**Overview: Europe’s strategic production goals (excerpt)**_
 
 ---
 source: content/7.-das-fortera-konzept/7.3-produktionssouveranitat-und-strategische-industriepolitik/7.3.2-quantifizierte-szenarien-zur-produktionssouveranitat-im-rahmen-von-fortera.md
-status: draft
+status: approved
 ---
 <a id="md-7-das-fortera-konzept-7-3-produktionssouveranitat-und-strategische-industriepolitik-7-3-2-quantifizierte-szenarien-zur-produktionssouveranitat-im-rahmen-von-fortera"></a>
 
@@ -6498,7 +6498,7 @@ The following industrial sectors have been identified as particularly critical f
 
 ---
 source: content/7.-das-fortera-konzept/7.3-produktionssouveranitat-und-strategische-industriepolitik/7.3.3-herausforderungen-risiken-und-losungsansatze.md
-status: draft
+status: approved
 ---
 <a id="md-7-das-fortera-konzept-7-3-produktionssouveranitat-und-strategische-industriepolitik-7-3-3-herausforderungen-risiken-und-losungsansatze"></a>
 
@@ -6535,7 +6535,7 @@ _**Challenges, risks and solution approaches**_
 
 ---
 source: content/7.-das-fortera-konzept/7.3-produktionssouveranitat-und-strategische-industriepolitik/7.3.4-ubergangskosten-und-finanzierungsstrategie.md
-status: draft
+status: approved
 ---
 <a id="md-7-das-fortera-konzept-7-3-produktionssouveranitat-und-strategische-industriepolitik-7-3-4-ubergangskosten-und-finanzierungsstrategie"></a>
 
@@ -6564,7 +6564,7 @@ _**Transition costs and financing strategy**_
 
 ---
 source: content/7.-das-fortera-konzept/7.3-produktionssouveranitat-und-strategische-industriepolitik/7.3.5-praktische-massnahmen-und-meilensteinplanung-2025-2050.md
-status: draft
+status: approved
 ---
 <a id="md-7-das-fortera-konzept-7-3-produktionssouveranitat-und-strategische-industriepolitik-7-3-5-praktische-massnahmen-und-meilensteinplanung-2025-2050"></a>
 
@@ -6591,7 +6591,7 @@ _**Practical measures and milestone planning (2025–2050)**_
 
 ---
 source: content/7.-das-fortera-konzept/7.3-produktionssouveranitat-und-strategische-industriepolitik/7.3.5.1-sofortprogramm-1000-tage.md
-status: draft
+status: approved
 ---
 <a id="md-7-das-fortera-konzept-7-3-produktionssouveranitat-und-strategische-industriepolitik-7-3-5-1-sofortprogramm-1000-tage"></a>
 
@@ -6627,7 +6627,7 @@ This package prioritises measures that measurably increase output within 12–36
 
 ---
 source: content/7.-das-fortera-konzept/7.3-produktionssouveranitat-und-strategische-industriepolitik/7.3.6-erfolgskontrolle-und-anpassungsmechanismen.md
-status: draft
+status: approved
 ---
 <a id="md-7-das-fortera-konzept-7-3-produktionssouveranitat-und-strategische-industriepolitik-7-3-6-erfolgskontrolle-und-anpassungsmechanismen"></a>
 
@@ -6654,7 +6654,7 @@ _**Success monitoring and adjustment mechanisms**_
 
 ---
 source: content/7.-das-fortera-konzept/7.3-produktionssouveranitat-und-strategische-industriepolitik/7.3.7-gesamtausblick-und-nutzen.md
-status: draft
+status: approved
 ---
 <a id="md-7-das-fortera-konzept-7-3-produktionssouveranitat-und-strategische-industriepolitik-7-3-7-gesamtausblick-und-nutzen"></a>
 
@@ -6672,7 +6672,7 @@ These investments enable Europe to become less dependent on geopolitical uncerta
 
 ---
 source: content/7.-das-fortera-konzept/7.4-aufbau-demokratischer-handelsallianzen-democracy-trade-network.md
-status: draft
+status: approved
 ---
 <a id="md-7-das-fortera-konzept-7-4-aufbau-demokratischer-handelsallianzen-democracy-trade-network"></a>
 
@@ -6698,7 +6698,7 @@ _**Building democratic trade alliances ("Add-On Global")**_
 
 ---
 source: content/7.-das-fortera-konzept/7.5-transatlantische-partnerschaft-neu-denken.md
-status: draft
+status: approved
 ---
 <a id="md-7-das-fortera-konzept-7-5-transatlantische-partnerschaft-neu-denken"></a>
 
@@ -6724,7 +6724,7 @@ _**Rethinking the Transatlantic Partnership**_
 
 ---
 source: content/7.-das-fortera-konzept/7.6-defensivmechanismen-gegen-wirtschaftlichen-nationalismus.md
-status: draft
+status: approved
 ---
 <a id="md-7-das-fortera-konzept-7-6-defensivmechanismen-gegen-wirtschaftlichen-nationalismus"></a>
 
@@ -6753,7 +6753,7 @@ _**Defensive instruments against economic coercion**_
 
 ---
 source: content/7.-das-fortera-konzept/7.7-burgerbeteiligung-und-demokratische-wirtschaftskultur.md
-status: draft
+status: approved
 ---
 <a id="md-7-das-fortera-konzept-7-7-burgerbeteiligung-und-demokratische-wirtschaftskultur"></a>
 
@@ -6773,7 +6773,7 @@ _**Citizen participation & democratic economic culture**_
 
 ---
 source: content/7.-das-fortera-konzept/7.8-wirtschaftliche-resilienz-und-ethische-fundierung.md
-status: draft
+status: approved
 ---
 <a id="md-7-das-fortera-konzept-7-8-wirtschaftliche-resilienz-und-ethische-fundierung"></a>
 
@@ -6795,7 +6795,7 @@ _**Philosophical basis: Resilience is freedom**_
 
 ---
 source: content/7.-das-fortera-konzept/7.9-schlussgedanken.md
-status: draft
+status: approved
 ---
 <a id="md-7-das-fortera-konzept-7-9-schlussgedanken"></a>
 
@@ -6811,7 +6811,7 @@ This document is a call for the **active strategic self-assertion of Europe and 
 
 ---
 source: content/7.-das-fortera-konzept/7.a-strategische-demokratiestaerkende-eu-handelsabkommen-in-der-neuen-weltordnung-erda.md
-status: draft
+status: approved
 ---
 <a id="md-7-das-fortera-konzept-7-a-strategische-demokratiestaerkende-eu-handelsabkommen-in-der-neuen-weltordnung-erda"></a>
 
@@ -7110,7 +7110,7 @@ Taken together, they show that trade policy has not only economic, but also poli
 
 ---
 source: content/7.-das-fortera-konzept/7.b-nationaler-umsetzungsbaukasten-fur-eu-erda-staaten.md
-status: draft
+status: approved
 ---
 <a id="md-7-das-fortera-konzept-7-b-nationaler-umsetzungsbaukasten-fur-eu-erda-staaten"></a>
 
