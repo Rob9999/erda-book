@@ -44,6 +44,11 @@ Wenn sich Version/Datum/Codename ändern, sind README + Release-Dokumentation en
 - `de/book.json` → `"date"`
 - `en/book.json` → `"date"`
 
+**Pflichtregel (Last content change date):** Bei **jeder** inhaltlichen Änderung am Buch (insb. Änderungen unter `de/content/` oder `en/content/`) ist das **Datum der letzten Inhaltsänderung** (ISO `YYYY-MM-DD`) nachzuführen.
+
+- Bevorzugt: in `de/book.json` und `en/book.json` das Feld `"date"` setzen.
+- Alternativ: das Datum in `de/publish.yml` und `en/publish.yml` unter einem eindeutigen Meta-Feld dokumentieren (z. B. `meta: content_last_changed: YYYY-MM-DD`).
+
 ## Tooling-Hinweis (gitbook_worker)
 
 Die Build-Toolchain (`gitbook_worker`) ist **outgesourced** und wird aus dem externen Repository geliefert:
