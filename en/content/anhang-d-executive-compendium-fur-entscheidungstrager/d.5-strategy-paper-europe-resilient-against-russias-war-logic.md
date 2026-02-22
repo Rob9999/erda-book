@@ -5,7 +5,7 @@ status: draft
 
 # D.5 Strategy paper: Europe resilient against Russia’s war logic (“negotiation as a weapon”)
 
-This strategy paper condenses a robust operating logic for Europe’s democratic states when facing authoritarian aggression that uses **negotiations** as part of warfare (buying time, maximalist demands, division, blame‑shifting).
+This strategy paper condenses a resilient operating logic for Europe’s democratic states when facing authoritarian aggression that uses **negotiations** as part of warfare (buying time, maximalist demands, division, blame‑shifting).
 
 Core thesis: Europe’s biggest weakness is **self‑deterrence**. From that follows a two‑level strategy:
 
@@ -114,6 +114,6 @@ Europe must rearm (mass, production, logistics, air defence) – explicitly **no
 
 ***
 
-## ✅ One‑sentence core (YouTube‑friendly)
+## ✅ One‑sentence core 
 
 Europe must stop deterring itself: rapidly strengthen Ukraine with air defence, ammunition and industrial mass, unblock funding via Russian asset proceeds, treat hybrid attacks as a war front — so Russia’s war aims fail instead of being rewarded by a frozen deal.

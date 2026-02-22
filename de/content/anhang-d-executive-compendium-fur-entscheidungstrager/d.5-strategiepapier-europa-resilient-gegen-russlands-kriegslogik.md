@@ -1,6 +1,6 @@
 # D.5 Strategiepapier: Europa resilient gegen Russlands Kriegslogik („Verhandeln als Kriegsinstrument“)
 
-Dieses Strategiepapier verdichtet eine robuste Handlungslogik für demokratische Staaten Europas im Umgang mit autoritärer Aggression, die **Verhandlungen** als Teil ihrer Kriegsführung nutzt (Zeitgewinn, Maximalforderungen, Spaltung, Schuldumkehr).
+Dieses Strategiepapier verdichtet eine resiliente Handlungslogik für demokratische Staaten Europas im Umgang mit autoritärer Aggression, die **Verhandlungen** als Teil ihrer Kriegsführung nutzt (Zeitgewinn, Maximalforderungen, Spaltung, Schuldumkehr).
 
 Kernthese: Europas größte Schwäche ist **Selbstabschreckung**. Daraus folgt eine zweistufige Strategie:
 
@@ -109,6 +109,6 @@ Europa muss aufrüsten (Masse, Produktion, Logistik, Luftverteidigung) – aber 
 
 ***
 
-## ✅ Ein-Satz-Kern (YouTube‑fähig)
+## ✅ Ein-Satz-Kern
 
 Europa muss aufhören, sich selbst abzuschrecken: Ukraine schnell mit Luftverteidigung, Munition und industrieller Masse stärken, Finanzierung über russische Vermögenserträge entblocken, hybride Angriffe als Kriegsfront behandeln – damit Russlands Kriegsziele scheitern, statt durch einen eingefrorenen Deal belohnt zu werden.
