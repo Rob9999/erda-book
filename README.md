@@ -1,7 +1,7 @@
 # ERDA Book
 
 **Current version:** v2.0.0 - rc 1 
-**As of (date):** 2026-02-07  
+**As of (date):** 2026-02-22  
 **Channel:** release_candidate (pre-release)  
 **Codename / Release name:** Human AI Democrazy
 

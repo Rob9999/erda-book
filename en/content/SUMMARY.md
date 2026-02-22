@@ -276,6 +276,7 @@
   * [D.2 Block B – Institutional architecture (Chapter 4)](anhang-d-executive-compendium-fur-entscheidungstrager/d.2-block-b-institutionelle-architektur-kapitel-4.md)
   * [D.3 Block C – Sectoral concepts (Chapters 5–9)](anhang-d-executive-compendium-fur-entscheidungstrager/d.3-block-c-sektorale-konzepte-kapitel-5-9.md)
   * [D.4 Action guides & tool box](anhang-d-executive-compendium-fur-entscheidungstrager/d.4-handlungsleitfaden-and-tool-box.md)
+  * [D.5 Strategy paper: Europe resilient against Russia’s war logic](anhang-d-executive-compendium-fur-entscheidungstrager/d.5-strategy-paper-europe-resilient-against-russias-war-logic.md)
 * [Appendix E: ERDA Book Toolbox](anhang-e-erda-buch-baukasten/README.md)
   * [E.3 🪄 ERDA GitBook chapter template](anhang-e-erda-buch-baukasten/e.3-erda-gitbook-kapitel-template.md)
   * [E.4 🧭 ERDA reader profile schema](anhang-e-erda-buch-baukasten/e.4-erda-leserprofil-schema.md)
