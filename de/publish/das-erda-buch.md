@@ -5803,7 +5803,40 @@ Die EDF kombiniert technologische Effizienz mit gesellschaftlicher Verantwortung
 Die EDF ist Europas Antwort auf moderne Kriegsführung: hochleistungsfähig, ethisch fundiert, demokratisch legitimiert. Damit gewährleistet sie nachhaltige Verteidigungsfähigkeit und strategische Unabhängigkeit Europas.
 
 > „Wirksame Verteidigung bedeutet nicht nur technologische Überlegenheit – sondern auch ethische Klarheit und gesellschaftliche Akzeptanz.“
+***
 
+#### 5.9.8 Einsatzvalidierung: Erkenntnisse aus dem Drohnen- und Robotikkrieg
+
+Die nachfolgenden Erkenntnisse stammen aus dem russisch-ukrainischen Krieg (2022–2026) und wurden u. a. durch General Waleri Saluschnyj (ukrainischer Oberbefehlshaber 2021–2024) in seiner Analyse vom 23. Februar 2026 (Chatham House, London) systematisiert.
+
+##### a) Schwarm und Autonomie als entscheidende Funktionen
+
+Die zwei Schlüsselfunktionen, die den größten operativen Umbruch auslösen, sind:
+
+1. **Swarming (Schwarmfähigkeit):** Dutzende bis Hunderte Drohnen attackieren gleichzeitig aus verschiedenen Richtungen und Höhen – aus Luft, vom Boden und vom Wasser. Beispiel: In der Nacht vom 6. auf den 7. September 2025 griffen 862 Shahed-Kamikaze-Drohnen gleichzeitig Kyjiw an.
+2. **Autonomie:** Zwei Entwicklungspfade:
+   - **Zentralisiert-vernetzt:** Alle Drohnen operieren in einem gemeinsamen digitalen Echtzeit-Raum; Menschen behalten mit KI-Unterstützung die Kontrolle (Human-in-the-Loop).
+   - **Voll-autonom („Dunkelheit"):** Einzeldrohnen mit individueller KI, die in Echtzeit lernt und ohne ständige Verbindung zum Führungsknoten operiert – „autonome Dunkelheit" als Fallback, wenn das Netz gestört wird.
+   - **Hybrid:** Netzwerk nutzen, wo möglich; autonom agieren, wenn nötig.
+
+##### b) Die robotische Kill-Zone: 25–50 km
+
+- Durch die Kombination von Sensornetzwerken, KI-gestützter Aufklärung und autonomen Wirkmitteln entsteht eine **robotische Kill-Zone von mindestens 25 km Tiefe**, in der menschliches Überleben zunehmend von der Systemarchitektur statt von individueller Ausbildung abhängt.
+- Die Fähigkeit, Logistik zu zerstören, dehnt die **unsichere Zone bis auf 50 km** aus; der klassische „rückwärtige Raum" existiert nicht mehr.
+- Bemannte Flugzeuge erhalten ebenfalls ihre eigene Kill-Zone und entfernen sich zunehmend vom Feind – sie werden zu **Stand-off-Plattformen** für Attritionsmittel, nicht mehr zu Kampfflugzeugen im klassischen Sinne.
+
+##### c) Übergangsphase und Implikationen für die EDF
+
+Der Krieg befindet sich in einer **Übergangsperiode**: Technologie entwickelt sich schnell, ist aber noch nicht ausreichend, um Menschen vollständig aus der Kill-Zone zu ersetzen. Klassische Kriegsführung ist seit über zwei Jahren operativ kaum noch durchführbar, wird aber noch angewandt.
+
+**Schlussfolgerungen für die EDF-Planung:**
+
+- **Counter-Swarm als Königsdisziplin:** Hardkill (Geschütze/Interceptor), Softkill (EW/Jamming), passive Maßnahmen (Signaturmanagement, Täuschung), C2-Härtung gegen Schwarmüberladung.
+- **Produzierbarkeit schlägt Perfektion:** Die EDF muss auf massenskalierte, günstige, modulare Drohnen setzen – nicht nur auf High-End-Systeme.
+- **Ressourcensicherheit als Allianzprinzip:** Die Abhängigkeit von globalen Mikroelektronik-Lieferketten erzwingt **technologische Allianzen** auf Basis gemeinsamer Chip-/Sensor-/Batterie-Produktion.
+- **Ukraine als Innovationspartner:** Gemeinsame Entwicklung, Feldtest, Feedback-Schleifen – die Ukraine ist der reale Taktgeber moderner Drohnen-/EW-/KI-Innovation.
+
+> „Die Zukunft des Krieges wird ein Krieg autonomer und semi-autonomer robotischer Systeme sein — ob wir dem zustimmen oder nicht." — *Gen. Saluschnyj*
 
 \newpage
 
@@ -6344,7 +6377,30 @@ Dieses Paket priorisiert Maßnahmen, die innerhalb von 12–36 Monaten messbar O
 * Parallel-Standards und Doppelzertifizierungen ohne Sicherheits-/Qualitätsgewinn.
 * Verkauf kritischer Infrastruktur und Schlüsselzulieferer in Abhängigkeiten hinein.
 * Beschaffung mit „Billigstpreis zuerst“, wenn Resilienz das Ziel ist.
+***
 
+#### Attritionsproduktion: Lehren aus dem russisch-ukrainischen Krieg
+
+Der Krieg in der Ukraine (2022–2026) hat gezeigt, dass die entscheidende wirtschaftliche Fähigkeit in einem hochintensiven Zermürbungskrieg nicht die Produktion einzelner Spitzensysteme ist, sondern die **industrielle Durchhaltefähigkeit** – die Fähigkeit, militärisches Potenzial über die Zeit aufrechtzuerhalten bei ständigem Verschleiß, komplexer Logistik und beschleunigtem Technologiewandel.
+
+##### Zentrale Erkenntnisse
+
+| Prinzip | Erläuterung |
+|---|---|
+| **Stückzahl schlägt Stückpreis** | Billige, massenproduzierte, aber präzise Attritionsmittel (Drohnen, Loitering Munitions) entwerten teure Einzelsysteme, auf die klassische Doktrinen setzen. |
+| **Wirtschaft = Blutkreislauf des Krieges** | Ökonomische Resilienz + ununterbrochene Energieversorgung sind entscheidender als die Zahl einsatzbereiter Brigaden oder Schiffe. |
+| **Militärindustrielle Planung als Teil der Operationsplanung** | Produktionszyklen, Ersatzteil-Lieferketten, Software-Updates und Batterie-/Chip-Versorgung sind Frontfaktoren. |
+| **Kein Staat allein autark** | Kein Staat kann über das gesamte Spektrum kritischer Militärtechnologien eigenständig technologische Überlegenheit sicherstellen – Tech-Allianzen werden zur Überlebensnotwendigkeit. |
+| **Sanktionsdurchsetzung als wirtschaftliche Kriegsführung** | Die konsequente Beschränkung gegnerischer Einnahmen (Energieexporte, Schattenflotte, Dual-Use-Güter) ist der wirksamste Mechanismus zur Beendigung eines Zermürbungskriegs. |
+
+##### Konsequenzen für das 1000-Tage-Programm
+
+- **START-Punkt 1 (Abnahmeverträge)** muss explizit **Drohnen, Counter-UAS-Systeme und EW-Komponenten** in hohen Stückzahlen einschließen.
+- **START-Punkt 6 (Kapazitätsaufbau)** muss **Munitions-Burn-Raten** als Planungsgrundlage nutzen: Produktion muss Verbrauch im Einsatztempo decken, nicht nur Friedensvorräte füllen.
+- **START-Punkt 12 (Stresstests)** muss **Attritionsszenario** simulieren: Wie lange hält die Produktion bei 10.000+ Drohnenangriffen/Monat durch?
+- Neuer Querschnittspunkt: **Energieversorgung als strategischer Produktionsfaktor** – dezentrale, resiliente Energiearchitektur für Rüstungs- und Zulieferbetriebe.
+
+> „Traditionelle Verteidigungsindustriemodelle – zentralisierte Fabriken, lange Lieferketten, starre Produktionszyklen – sind dem modernen Krieg nicht gewachsen." — *Gen. Saluschnyj, Chatham House, 23. Feb. 2026*
 
 \newpage
 
@@ -9530,6 +9586,17 @@ In Defence-&-Security-Kontexten kann Ebene-1-KI eingesetzt werden für:
 - Frühwarnsysteme
 - Cyberabwehr und Resilienz
 
+##### Einsatzvalidierung: KI im Drohnen- und Robotikkrieg
+
+Die Erfahrungen aus dem russisch-ukrainischen Krieg (2022–2026) zeigen, wie KI bereits auf Ebene 1 die Kriegsführung fundamental verändert hat:
+
+- **Schwarmsteuerung:** KI koordiniert Dutzende bis Hunderte Drohnen im Verbund – Zielzuweisung, Routenplanung, Ausweichmanöver in Echtzeit. Das erfordert klaren demokratischen Governance-Rahmen: Wer autorisiert den Schwarm? Wie wird eskaliert?
+- **Autonome Dunkelheit:** Wenn gegnerische EW die Kommunikation kappt, müssen Drohnen autonom agieren (Fallback auf individuelle KI). Governance-Frage: Welche Regeln gelten, wenn Human-in-the-Loop technisch nicht möglich ist?
+- **KI-gestütztes Targeting und Aufklärung:** Automatisierte Erkennung, Klassifikation und Priorisierung von Zielen über verteilte Sensornetze. Die Kill-Zone von ~25 km Tiefe wird erst durch KI-Fusion möglich.
+- **Lernen in Echtzeit:** Drohnen-KI passt sich an Gegenmaßnahmen an; EW-KI lernt neue Frequenzmuster. Dies erfordert **kontinuierliches Audit und algorithmische Transparenz**, um unkontrollierte Eskalation zu verhindern.
+
+**Governance-Imperativ:** Die Geschwindigkeit der Kampf-KI-Entwicklung übersteigt die Geschwindigkeit demokratischer Regulierung. ERDA muss daher **vorausschauende Governance** definieren: Rote Linien, Audit-Rhythmen und Eskalationspfade für KI-gestützte Wirkmittel – bevor autonome Systeme zum Gefechtsstandard werden.
+
 Jede Nutzung unterliegt:
 
 - einem strikten gesetzlichen Mandat
@@ -10284,6 +10351,19 @@ Die Auswahl erfolgt nach individueller Neigung und Eignung; bei Übernachfrage i
 * Modernisierung der Ausbildung: Integration von Simulationen, KI-gestützten Trainingssystemen und Mensch-Maschine-Schnittstellen. Die Bundeswehr arbeitet bereits mit EU-Partnern zusammen, um gemeinsame Militärkapazitäten aufzubauen (EU Rapid Deployment Capacity) und Kapazitäten für Weltraum-, Luft- und Seeverteidigung zu stärken[14].
 * Auswahl & Übernahme: Nach dem Pflichtdienst können sich Teilnehmende für eine längerfristige militärische Laufbahn bewerben, als Zeitsoldat oder Berufssoldat.
 * Menschenrechtskonforme Führung: Soldaten bleiben „Bürger in Uniform“; Führung und Ausbildung müssen demokratische Werte und das Primat des Parlaments berücksichtigen[8].
+
+###### Demographischer Imperativ und technologische Mobilisierung
+
+Die Erfahrungen aus dem russisch-ukrainischen Krieg (2022–2026) haben eine fundamentale Erkenntnis bestätigt, die General Waleri Saluschnyj (Chatham House, 23. Feb. 2026) so formulierte: **Menschen sind der knappste und am langsamsten regenerierbare Rohstoff** moderner Kriege – weitaus langsamer als Waffen, Munition oder Drohnen.
+
+Für Europa bedeutet dies:
+
+- **Kein einziges europäisches Land hat eine positive Geburtenrate.** Verluste auf dem Schlachtfeld hätten nicht nur militärische, sondern **sozioökonomische Konsequenzen** (Fachkräftemangel, Demographie-Spirale, Pflegelücke).
+- **Massenmobilisierung von Millionen ist kein tragfähiges Modell mehr.** Die Zukunft liegt in **technologischer und wirtschaftlicher Mobilisierung**: Drohnen-Operateure, EW-Spezialisten, KI-Systembetreuer, Cyber-Kräfte, Instandhaltungstechniker, Logistik-Koordinatoren.
+- Das **Bürgerpflichtmodell muss diesen Wandel abbilden**: Die Wehrpflicht wird weniger „Infanterie-Grundausbildung" und mehr **Systemausbildung** – Drohnenbedienung, Schwarmsteuerung, Sensorik-Auswertung, elektronische Kampfführung, zivil-militärische Logistik.
+- Die **Technikpflicht** gewinnt an strategischer Bedeutung: Cyber-Resilienz, Infrastruktur-Schutz, dezentrale Energiesysteme und Produktionsfähigkeit sind direkte Verteidigungsfaktoren.
+
+> „Zukünftige Kriege werden keine Mobilisierung von Millionen Menschen erfordern. Es geht um technologische und wirtschaftliche Mobilisierung als Garantie für die Aufrechterhaltung technologischer Überlegenheit." — *Gen. Saluschnyj*
 
 ##### 2.5 Umweltpflicht
 
@@ -11307,6 +11387,41 @@ Wenn ein Aggressor systematisch zivile Infrastruktur angreift – insbesondere E
 
 ***
 
+### Fallbeispiel: Transparenter Gefechtsraum und robotische Kill-Zone
+
+Die Erfahrungen aus dem russisch-ukrainischen Krieg (2022–2026) haben die in den vorangegangenen Abschnitten beschriebenen Prinzipien in bisher ungekannter Intensität bestätigt und erweitert. Die folgenden Erkenntnisse stammen u. a. aus der Analyse von General Waleri Saluschnyj (ukrainischer Oberbefehlshaber 2021–2024, Chatham House, 23. Feb. 2026): 
+
+#### Das transparente Gefechtsfeld und die Kill-Zone
+
+- Der Gefechtsraum ist durch verteilte Sensorik, Drohnen und KI **vollständig transparent** geworden.
+- Daraus entsteht eine **robotische Kill-Zone von mindestens 25 km Tiefe**, in der klassische Truppenoperationen extrem verlustreich werden.
+- Die Fähigkeit, Logistik zu zerstören, wächst stetig; der sogenannte **rückwärtige Raum bis 50 km** ist nicht mehr sicher.
+- Folge: **Klassische Offensiv- und Defensivoperationen sind de facto unmöglich** geworden; wer sichtbar ist, wird bekämpft – permanent und automatisiert.
+
+#### Der Mensch als knappster Rohstoff
+
+- In einem transparenten, robotisch kontrollierten Gefechtsfeld hängt das Überleben des einzelnen Soldaten nicht mehr primär von seiner Ausbildung ab, sondern von der Systemarchitektur.
+- **Menschen sind der wertvollste und am langsamsten regenerierbare Rohstoff** – langsamer als Waffen, Munition oder Drohnen.
+- Für Europa, wo **kein einziges Land eine positive Geburtenrate** hat, wären Verluste auf dem Schlachtfeld nicht nur militärisch, sondern **sozioökonomisch katastrophal**.
+- Schlussfolgerung: **Technologische und wirtschaftliche Mobilisierung** ersetzt die Massenmobilisierung von Millionen Menschen.
+
+#### Attritionswaffen vs. teure Plattformen
+
+- Die ultra-teuren Präzisionswaffen des 20. Jahrhunderts werden durch **billige, massenproduzierte, aber hochpräzise Attritionsmittel** (Drohnen, Loitering Munitions) verdrängt.
+- Diese entwerten teure Waffenplattformen, auf die klassische NATO-Doktrin baut (Beispiel: ein SU-35 für ~50 Mio. USD wird durch eine Patriot-Rakete für ~4,5 Mio. USD neutralisiert).
+- Kein einzelner Staat kann eine solche Attritionsherausforderung allein bewältigen – **technologische Allianzen und industrielle Koproduktion** werden zur absoluten Notwendigkeit.
+
+#### Energie als neue Front
+
+- Energieinfrastruktur ist zum **Hauptziel** geworden: bis Ende 2024 waren ~80 % der thermischen Kapazität der Ukraine zerstört.
+- Zentralisierte Großkraftwerke, Staudämme und selbst Kernkraftwerke werden zur **Achillesferse der nationalen Sicherheit**.
+- Die Antwort: **Energiedezentralisierung** (verteilte Erzeugung, Microgrids, Mini-Netze) als Überlebensstrategie – nicht als Effizienzfrage, sondern als Frage des nationalen Überlebens.
+- Die Energiesicherheit bestimmt unmittelbar das Ergebnis eines Zermürbungskriegs.
+
+> „Der Krieg in der Ukraine ist das Labor der Zukunft – und wie jedes Labor fragt es nicht, ob wir für das Experiment bereit sind." — *General Waleri Saluschnyj, Chatham House, 23. Feb. 2026*
+
+***
+
 ### Generalisierung: Prinzipien für jede Bedrohungslage
 
 Diese Logik ist **nicht auf einen bestimmten Konflikt beschränkt**:
@@ -11424,6 +11539,18 @@ Dieses Prinzip – hier „Starlink-Falle" genannt – ist nicht auf Satellitenk
 - **Aufklärung (ISR):** Ohne eigene Kapazität kein Lagebild
 - **Energie:** Gas aus einer einzigen Quelle, Stromtrassen ohne Bypass
 - **Digitale Infrastruktur:** Betriebssysteme, App-Stores, Zahlungssysteme unter fremder Jurisdiktion
+
+#### Energie-Dezentralisierung als Überlebensfrage
+
+Der russisch-ukrainische Krieg hat gezeigt, dass die zentralisierte Energiearchitektur (wenige Großkraftwerke + ein verbindendes Netz) unter systematischem Beschuss zur existenziellen Schwachstelle wird. Bis Ende 2024 wurden ~80 % der thermischen Kraftwerkskapazität der Ukraine zerstört; im Winter 2025/26 blieben Millionen Menschen ohne Heizung und Strom.
+
+**Konsequenz für Europa:**
+
+- **Dezentralisierung** (distributed generation) muss von der Effizienzfrage zur **Sicherheitsarchitektur** werden: viele kleine Quellen (Renewable-Microgrids, KWK-Anlagen, Mini-SMR, Inselfähigkeit) statt weniger verwundbarer Großanlagen.
+- Schutz einzelner Knotenpunkte reicht nicht; die **Netzarchitektur selbst** muss resilient sein (Micro-Grids, Bypass-Netze, Inselbetrieb).
+- Wiederaufbau und Vorab-Aufbau resilienter Energieinfrastruktur darf nicht auf einen Friedensschluss warten – **Energie-Resilienz ist Teil der aktiven Verteidigung**.
+
+> „Das Energiesystem ist zur neuen Front geworden – seine Stabilität entscheidet über den Ausgang des Konflikts." — *Gen. Saluschnyj, Chatham House, 23. Feb. 2026*
 
 ***
 

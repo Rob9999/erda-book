@@ -6086,7 +6086,40 @@ The EDF combines technological efficiency with social responsibility. This takes
 The EDF is Europe’s answer to modern warfare: highly capable, ethically grounded, democratically legitimised. It thus ensures sustainable defence capability and Europe’s strategic independence.
 
 > "Effective defence means not only technological superiority – but also ethical clarity and societal acceptance."
+***
 
+### 5.9.8 Operational validation: lessons from the drone and robotics war
+
+The following findings stem from the Russo-Ukrainian War (2022–2026) and were systematised, inter alia, by General Valerii Zaluzhnyi (Ukrainian Commander-in-Chief 2021–2024) in his analysis of 23 February 2026 (Chatham House, London).
+
+#### a) Swarming and autonomy as decisive functions
+
+The two key functions triggering the greatest operational upheaval are:
+
+1. **Swarming:** dozens to hundreds of drones attack simultaneously from different directions and altitudes — from air, ground and water. Example: on the night of 6–7 September 2025, 862 Shahed-type kamikaze drones attacked Kyiv simultaneously.
+2. **Autonomy:** two development paths:
+   - **Centralised-networked:** All drones operate in a shared digital real-time space; humans retain control with AI support (human-in-the-loop).
+   - **Fully autonomous ("darkness"):** individual drones with on-board AI that learns in real time and operates without continuous contact with command nodes — "autonomous darkness" as a fallback when the network is disrupted.
+   - **Hybrid:** use the network when possible; operate autonomously when necessary.
+
+#### b) The robotic kill zone: 25–50 km
+
+- Through the combination of sensor networks, AI-assisted reconnaissance and autonomous effectors, a **robotic kill zone of at least 25 km depth** emerges in which human survival increasingly depends on system architecture rather than individual training.
+- The ability to destroy logistics extends the **unsafe zone to 50 km**; the classical "rear area" no longer exists.
+- Manned aircraft also acquire their own kill zone and increasingly move away from the adversary — they become **stand-off platforms** for attrition weapons rather than dogfighters in the classical sense.
+
+#### c) Transitional phase and implications for the EDF
+
+The war is in a **transitional period**: technology is advancing rapidly but is not yet sufficient to fully replace humans in the kill zone. Classical warfare has been operationally impracticable for more than two years, yet it is still being applied.
+
+**Conclusions for EDF planning:**
+
+- **Counter-swarm as the premier discipline:** hard kill (guns/interceptors), soft kill (EW/jamming), passive measures (signature management, deception), C2 hardening against swarm overload.
+- **Producibility beats perfection:** the EDF must focus on mass-scalable, inexpensive, modular drones — not only on high-end systems.
+- **Resource security as an alliance principle:** dependence on global microelectronics supply chains demands **technological alliances** built on joint chip/sensor/battery production.
+- **Ukraine as innovation partner:** joint development, field testing, feedback loops — Ukraine is the real-time pacesetter for modern drone/EW/AI innovation.
+
+> "The future of war will be a war of autonomous and semi-autonomous robotic systems — whether we agree or not." — *Gen. Zaluzhnyi*
 
 \newpage
 
@@ -6749,7 +6782,30 @@ This package prioritises measures that measurably increase output within 12–36
 * Parallel standards and double certifications without security/quality gains.
 * Sale of critical infrastructure and key suppliers into new dependencies.
 * “Lowest price first” procurement when resilience is the objective.
+***
 
+#### Attrition production: lessons from the Russo-Ukrainian War
+
+The war in Ukraine (2022–2026) has demonstrated that the decisive economic capability in a high-intensity war of attrition is not the production of individual top-end systems but **industrial staying power** — the ability to maintain military potential over time in the face of constant wear, complex logistics and accelerated technological change.
+
+##### Key findings
+
+| Principle | Explanation |
+|---|---|
+| **Volume beats unit price** | Cheap, mass-produced yet accurate attrition weapons (drones, loitering munitions) devalue expensive one-off platforms on which classical doctrines rely. |
+| **Economy = lifeblood of war** | Economic resilience + uninterrupted energy supply are more decisive than the number of combat-ready brigades or ships. |
+| **Military-industrial planning as part of operational planning** | Production cycles, spare-parts supply chains, software updates and battery/chip supply are front-line factors. |
+| **No state self-sufficient alone** | No state can independently ensure technological superiority across the full spectrum of critical military technologies — tech alliances become a survival necessity. |
+| **Sanctions enforcement as economic warfare** | Consistently restricting adversary revenues (energy exports, shadow fleet, dual-use goods) is the most effective mechanism for ending a war of attrition. |
+
+##### Consequences for the 1,000 Days programme
+
+- **START point 1 (offtake contracts)** must explicitly include **drones, counter-UAS systems and EW components** in high volumes.
+- **START point 6 (capacity build-up)** must use **ammunition burn rates** as a planning basis: production must cover consumption at operational tempo, not merely fill peacetime stocks.
+- **START point 12 (stress tests)** must simulate an **attrition scenario**: how long does production hold up under 10,000+ drone attacks per month?
+- New cross-cutting point: **Energy supply as a strategic production factor** — decentralised, resilient energy architecture for defence and supplier plants.
+
+> "Traditional defence-industrial models — centralised factories, long supply chains, rigid production cycles — are no longer fit for purpose." — *Gen. Zaluzhnyi, Chatham House, 23 Feb. 2026*
 
 \newpage
 
@@ -10406,6 +10462,17 @@ In defence and security contexts, Level 1 AI may be used for:
 - early warning systems
 - cyber defence and resilience
 
+##### Operational validation: AI in the drone and robotics war
+
+The experience of the Russo-Ukrainian War (2022–2026) shows how AI has already fundamentally transformed warfare at Level 1:
+
+- **Swarm control:** AI coordinates dozens to hundreds of drones in concert — target assignment, route planning, evasive manoeuvres in real time. This demands a clear democratic governance framework: who authorises the swarm? How is escalation managed?
+- **Autonomous darkness:** when adversary EW cuts communications, drones must operate autonomously (fallback to on-board AI). Governance question: what rules apply when human-in-the-loop is technically impossible?
+- **AI-assisted targeting and reconnaissance:** automated detection, classification and prioritisation of targets across distributed sensor networks. The ~25 km deep kill zone only becomes possible through AI fusion.
+- **Real-time learning:** drone AI adapts to countermeasures; EW AI learns new frequency patterns. This requires **continuous audit and algorithmic transparency** to prevent uncontrolled escalation.
+
+**Governance imperative:** the speed of combat-AI development exceeds the speed of democratic regulation. ERDA must therefore define **anticipatory governance**: red lines, audit cadences and escalation paths for AI-enabled effectors — before autonomous systems become the battlefield standard.
+
 All uses are subject to:
 
 - a strict legal mandate
@@ -11179,6 +11246,19 @@ Selection is based on individual inclination and aptitude; where certain areas a
 * Modernisation of training: integration of simulations, AI-supported training systems, and human–machine interfaces. The Bundeswehr already cooperates with EU partners to build joint military capacities (EU Rapid Deployment Capacity) and strengthen space, air, and maritime defence capabilities[14].
 * Selection & retention: after the mandatory service, participants may apply for a longer-term military career as a temporary or professional soldier.
 * Human-rights-compliant leadership: soldiers remain “citizens in uniform”; leadership and training must reflect democratic values and the primacy of parliament[8].
+
+###### Demographic imperative and technological mobilisation
+
+The experience of the Russo-Ukrainian War (2022–2026) has confirmed a fundamental insight that General Valerii Zaluzhnyi (Chatham House, 23 Feb. 2026) put as follows: **humans are the scarcest and most slowly renewable resource** in modern wars — far slower to replenish than weapons, ammunition or drones.
+
+For Europe this means:
+
+- **Not a single European country has a positive birth rate.** Battlefield losses would have not only military but **socio-economic consequences** (skills shortage, demographic spiral, care gap).
+- **Mass mobilisation of millions is no longer a viable model.** The future lies in **technological and economic mobilisation**: drone operators, EW specialists, AI systems maintainers, cyber forces, maintenance technicians, logistics coordinators.
+- The **civic duty model must reflect this shift**: military duty becomes less "infantry basic training" and more **systems training** — drone operation, swarm control, sensor evaluation, electronic warfare, civil-military logistics.
+- **Technical duty** gains strategic importance: cyber resilience, infrastructure protection, decentralised energy systems and production capability are direct defence factors.
+
+> "Future wars will not require the mobilisation of millions of people. It is about technological and economic mobilisation as a guarantee of maintaining technological superiority." — *Gen. Zaluzhnyi*
 
 ##### 2.5 Environmental duty
 
@@ -12224,6 +12304,41 @@ When an aggressor systematically attacks civilian infrastructure — especially 
 
 ***
 
+### Case Study: Transparent Battlespace and Robotic Kill Zone
+
+The experience of the Russo-Ukrainian War (2022–2026) has confirmed and extended the principles described above with unprecedented intensity. The following findings draw, inter alia, on the analysis by General Valerii Zaluzhnyi (Ukrainian Commander-in-Chief 2021–2024, Chatham House, 23 Feb. 2026):
+
+#### The Transparent Battlespace and the Kill Zone
+
+- Through distributed sensors, drones and AI the battlespace has become **completely transparent**.
+- This produces a **robotic kill zone of at least 25 km depth** in which conventional troop operations become extremely costly.
+- The ability to destroy logistics is growing steadily; the so-called **rear zone out to 50 km** is no longer safe.
+- Consequence: **Classical offensive and defensive operations have become de facto impossible**; whoever is visible is engaged — permanently and automatically.
+
+#### Humans as the Scarcest Resource
+
+- In a transparent, robotically controlled battlespace, an individual soldier's survival no longer depends primarily on training but on system architecture.
+- **Humans are the most valuable and the most slowly renewable resource** — slower to replenish than weapons, ammunition or drones.
+- For Europe, where **not a single country has a positive birth rate**, battlefield losses would be not only military but **socio-economically catastrophic**.
+- Conclusion: **Technological and economic mobilisation** replaces the mass mobilisation of millions.
+
+#### Attrition Weapons vs. Expensive Platforms
+
+- The ultra-expensive precision weapons of the 20th century are being displaced by **cheap, mass-produced yet highly accurate attrition weapons** (drones, loitering munitions).
+- These devalue expensive platforms on which classical NATO doctrine relies (example: a SU-35 costing ~USD 50 m is neutralised by a Patriot missile costing ~USD 4.5 m).
+- No single state can cope with such an attrition challenge alone — **technological alliances and industrial co-production** become an absolute necessity.
+
+#### Energy as the New Front
+
+- Energy infrastructure has become the **primary target**: by end-2024 ~80 % of Ukraine's thermal-power capacity had been destroyed.
+- Centralised large power plants, dams and even nuclear plants become an **Achilles heel of national security**.
+- The answer: **Energy decentralisation** (distributed generation, microgrids, mini grids) as a survival strategy — not an efficiency question but a question of national survival.
+- Energy security directly determines the outcome of a war of attrition.
+
+> "The war in Ukraine is the laboratory of the future — and like any laboratory it does not ask whether we are ready for the experiment." — *General Valerii Zaluzhnyi, Chatham House, 23 Feb. 2026*
+
+***
+
 ### Generalisation: Principles for Every Threat Scenario
 
 This logic is **not limited to a particular conflict**:
@@ -12341,6 +12456,18 @@ This principle — called the "Starlink trap" here — is not limited to satelli
 - **Intelligence (ISR):** Without own capacity, no situational awareness
 - **Energy:** Gas from a single source, power lines with no bypass
 - **Digital infrastructure:** Operating systems, app stores, payment systems under foreign jurisdiction
+
+#### Energy Decentralisation as a Survival Question
+
+The Russo-Ukrainian War has shown that the centralised energy architecture (a few large power plants + a single connecting grid) becomes an existential vulnerability under systematic bombardment. By end-2024, ~80 % of Ukraine's thermal-power capacity had been destroyed; in winter 2025/26 millions were left without heating and electricity.
+
+**Consequences for Europe:**
+
+- **Decentralisation** (distributed generation) must shift from an efficiency question to a **security architecture**: many small sources (renewable microgrids, CHP plants, mini SMRs, islanding capability) instead of a few vulnerable large installations.
+- Protecting individual nodes is not enough; the **grid architecture itself** must be resilient (microgrids, bypass networks, island mode).
+- Rebuilding and pre-building resilient energy infrastructure must not wait for a peace agreement — **energy resilience is part of active defence**.
+
+> "The energy system has become a new front — its stability determines the outcome of the conflict." — *Gen. Zaluzhnyi, Chatham House, 23 Feb. 2026*
 
 ***
 
