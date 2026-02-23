@@ -255,6 +255,17 @@ In defence and security contexts, Level 1 AI may be used for:
 - early warning systems
 - cyber defence and resilience
 
+##### Operational validation: AI in the drone and robotics war
+
+The experience of the Russo-Ukrainian War (2022–2026) shows how AI has already fundamentally transformed warfare at Level 1:
+
+- **Swarm control:** AI coordinates dozens to hundreds of drones in concert — target assignment, route planning, evasive manoeuvres in real time. This demands a clear democratic governance framework: who authorises the swarm? How is escalation managed?
+- **Autonomous darkness:** when adversary EW cuts communications, drones must operate autonomously (fallback to on-board AI). Governance question: what rules apply when human-in-the-loop is technically impossible?
+- **AI-assisted targeting and reconnaissance:** automated detection, classification and prioritisation of targets across distributed sensor networks. The ~25 km deep kill zone only becomes possible through AI fusion.
+- **Real-time learning:** drone AI adapts to countermeasures; EW AI learns new frequency patterns. This requires **continuous audit and algorithmic transparency** to prevent uncontrolled escalation.
+
+**Governance imperative:** the speed of combat-AI development exceeds the speed of democratic regulation. ERDA must therefore define **anticipatory governance**: red lines, audit cadences and escalation paths for AI-enabled effectors — before autonomous systems become the battlefield standard.
+
 All uses are subject to:
 
 - a strict legal mandate

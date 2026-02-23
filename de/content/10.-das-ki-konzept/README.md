@@ -250,6 +250,17 @@ In Defence-&-Security-Kontexten kann Ebene-1-KI eingesetzt werden für:
 - Frühwarnsysteme
 - Cyberabwehr und Resilienz
 
+##### Einsatzvalidierung: KI im Drohnen- und Robotikkrieg
+
+Die Erfahrungen aus dem russisch-ukrainischen Krieg (2022–2026) zeigen, wie KI bereits auf Ebene 1 die Kriegsführung fundamental verändert hat:
+
+- **Schwarmsteuerung:** KI koordiniert Dutzende bis Hunderte Drohnen im Verbund – Zielzuweisung, Routenplanung, Ausweichmanöver in Echtzeit. Das erfordert klaren demokratischen Governance-Rahmen: Wer autorisiert den Schwarm? Wie wird eskaliert?
+- **Autonome Dunkelheit:** Wenn gegnerische EW die Kommunikation kappt, müssen Drohnen autonom agieren (Fallback auf individuelle KI). Governance-Frage: Welche Regeln gelten, wenn Human-in-the-Loop technisch nicht möglich ist?
+- **KI-gestütztes Targeting und Aufklärung:** Automatisierte Erkennung, Klassifikation und Priorisierung von Zielen über verteilte Sensornetze. Die Kill-Zone von ~25 km Tiefe wird erst durch KI-Fusion möglich.
+- **Lernen in Echtzeit:** Drohnen-KI passt sich an Gegenmaßnahmen an; EW-KI lernt neue Frequenzmuster. Dies erfordert **kontinuierliches Audit und algorithmische Transparenz**, um unkontrollierte Eskalation zu verhindern.
+
+**Governance-Imperativ:** Die Geschwindigkeit der Kampf-KI-Entwicklung übersteigt die Geschwindigkeit demokratischer Regulierung. ERDA muss daher **vorausschauende Governance** definieren: Rote Linien, Audit-Rhythmen und Eskalationspfade für KI-gestützte Wirkmittel – bevor autonome Systeme zum Gefechtsstandard werden.
+
 Jede Nutzung unterliegt:
 
 - einem strikten gesetzlichen Mandat
