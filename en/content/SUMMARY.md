@@ -7,7 +7,7 @@
   * [1.2 Economic Pressure and Global System Competition](1.-aktuelle-lage-europas-herausforderungen-und-chancen/1.2-wirtschaftlicher-druck-und-globale-systemkonkurrenz.md)
   * [1.3 Technological Transformation and Social Division](1.-aktuelle-lage-europas-herausforderungen-und-chancen/1.3-technologische-transformation-und-soziale-spaltung.md)
   * [1.4 Opportunities in Transition](1.-aktuelle-lage-europas-herausforderungen-und-chancen/1.4-chancen-im-wandel.md)
-  * [1.5 Der strategische Imperativ](1.-aktuelle-lage-europas-herausforderungen-und-chancen/1.5-der-strategische-imperativ.md)
+  * [1.5 The Strategic Imperative](1.-aktuelle-lage-europas-herausforderungen-und-chancen/1.5-der-strategische-imperativ.md)
 * [2. Natural Desires and Their Significance for Democracy and Civilisation](2.-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation/README.md)
   * [2.1 Pre-democratic civilisation](2.-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation/2.1-pra-demokratische-zivilisation.md)
   * [2.2 Democratic, rule-of-law civilisation](2.-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation/2.2-demokratische-rechtsstaatliche-zivilisation.md)
