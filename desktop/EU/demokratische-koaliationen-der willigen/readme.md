@@ -1,0 +1,1 @@
+Welche democratic european (and may be democratic friends) "coalition-of-the-willing" can be done, like the Schengen-Abkommen and the EURO?
