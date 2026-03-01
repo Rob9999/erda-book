@@ -226,7 +226,7 @@
   * [Annex 14.D – War Powers & Mandates](14.-die-demokratischen-koalitionen-der-willigen/14.d-war-powers-und-mandates.md)
   * [Annex 14.E – Audit & Transparency](14.-die-demokratischen-koalitionen-der-willigen/14.e-audit-und-transparency.md)
   * [Annex 14.F – Membership Tiers & Upgrade/Downgrade](14.-die-demokratischen-koalitionen-der-willigen/14.f-membership-tiers-und-upgrade.md)
-* [Appendix A: ERDA State Architecture (“Concentric Circles”)](anhang-a-erda-staatenarchitektur-konzentrische-kreise.md)
+* [Appendix A: ERDA State Architecture ("Concentric Circles")](anhang-a-erda-staatenarchitektur-konzentrische-kreise.md)
 * [Appendix B: ERDA State Profiles](anhang-b-erda-staatenprofile/README.md)
   * [B.1 Introduction to the State Profile Concept](anhang-b-erda-staatenprofile/b.1.-einleitung-zum-staatenprofil-konzept/README.md)
     * [B.1.1 Purpose and Function of the State Profiles](anhang-b-erda-staatenprofile/b.1.-einleitung-zum-staatenprofil-konzept/b.1.1-ziel-und-funktion-der-staatenprofile.md)

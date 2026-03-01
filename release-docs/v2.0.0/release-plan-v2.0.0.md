@@ -115,10 +115,10 @@
 - [x] D.5 Strategiepapier hinzugefügt.
 - [x] Zaluzhnyi-Integration quer über 6 Kapitel (DE + EN).
 - [x] SUMMARY.md aktualisiert (DE + EN).
-- [ ] Inhalte komplett (DE/EN) inkl. Book-JSON aktualisiert.
+- [x] Inhalte komplett (DE/EN) inkl. Book-JSON aktualisiert.
 - [ ] Lektorat/Terminologie geprüft; Links/Querverweise funktionieren.
-- [ ] Orchestrator (de/en) erfolgreich durchgelaufen, PDFs/MDs committed.
-- [ ] Release-Dokus (`release-docs/v2.0.0`) aktualisiert (Notes, Status, Certification).
+- [x] Orchestrator (de/en) erfolgreich durchgelaufen, PDFs/MDs committed.
+- [x] Release-Dokus (`release-docs/v2.0.0`) aktualisiert (Notes, Status, Certification).
 - [ ] Tag `v2.0.0` gesetzt und gepusht; ggf. Zenodo-Publish.
 
 ## 📋 Nächste Schritte (kurzfristig)
