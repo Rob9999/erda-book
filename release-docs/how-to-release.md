@@ -60,7 +60,14 @@ Typical flow:
 2. Keep DE↔EN changes synchronized.
 3. Regenerate artifacts (MD/PDF) as needed.
 4. Update the mandatory README release header.
-5. Update or create the per-release status doc in `release-docs/vX.Y.Z/`.
-6. Update `release-docs/Releases.md` for the release entry.
-7. Create PR: `main` ← `release_candidate`.
-8. After merge, tag `vX.Y.Z` and publish (e.g. Zenodo), following the per-release certification protocol.
+5. **Update all CITATION.cff files** (version, date-released, abstract, contributors):
+   - `CITATION.cff` (root)
+   - `de/citation.cff`
+   - `en/citation.cff`
+   - `de/publish/CITATION.cff`
+   - `en/publish/citation.cff`
+6. **Update `.zenodo.json`** (version, description, keywords, contributors).
+7. Update or create the per-release status doc in `release-docs/vX.Y.Z/`.
+8. Update `release-docs/Releases.md` for the release entry.
+9. Create PR: `main` ← `release_candidate`.
+10. After merge, tag `vX.Y.Z` and publish (e.g. Zenodo), following the per-release certification protocol.
