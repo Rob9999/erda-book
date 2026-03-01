@@ -7,7 +7,7 @@ status: draft
 
 _**Executive Summary Compendium**_
 
-This compendium provides a focused overview of the ERDA book in **four** thematically coherent blocks, each summarising several chapters. Every block is designed to condense the core impulses, analytical focal points, and recommendations for action of the respective topic cluster.
+This compendium provides a focused overview of the ERDA book in **four** thematic blocks (A–D), supplemented by a tool box and a strategy paper. Every block is designed to condense the core impulses, analytical focal points, and recommendations for action of the respective topic cluster.
 
 ---
 
@@ -100,6 +100,40 @@ A Europe that is integrated in trade but remains fragmented in defence, foreign 
 - **Licence and openness**
 
 > **Essence:** Practical working tools, checklists, glossary, and interactive elements for direct implementation.
+
+---
+
+## D.5 Strategy Paper: Europe Resilient against Russia’s War Logic
+
+- Analysis of Russia’s negotiation tactics as an instrument of war and Europe’s strategic counter-options.
+
+> **Essence:** Strategic capacity to act against hybrid manipulation and escalation dominance.
+
+---
+
+## D.6 Block D – Societal, Democratic and Alliance Architecture (Chapters 10–14)
+
+### Chapter 10 – AI Governance and Co-Evolution (KEI)
+
+- Chapter 10 develops a European AI governance framework with a Co-evolution Index (KEI), ethical guardrails and defence-AI regulation.
+
+### Chapter 11 – Citizen Duty Model and the Demographic Imperative
+
+- Chapter 11 designs an integrated civic duty model that links rights and responsibility and addresses the demographic imperative.
+
+### Chapter 12 – Seven Transformation Rules of Social Democracy
+
+- Chapter 12 formulates fundamental transformation rules for 21st-century democracy, verifiable through simulation and role-play.
+
+### Chapter 13 – Strategic Sovereignty and Self-Deterrence
+
+- Chapter 13 provides concrete tools for Europe’s capacity to act: air defence, industrial mass, financial unblocking and hybrid defence.
+
+### Chapter 14 – Democratic Coalitions of the Willing
+
+- Chapter 14 develops a treaty and alliance architecture (EDDRC) with a tier model, democracy chain and six treaty annexes (155 articles).
+
+> **Essence:** Operational deepening layer – from AI governance through civic resilience to a treaty-ready alliance architecture.
 
 ---
 

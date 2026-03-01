@@ -5,7 +5,7 @@ status: draft
 
 # D.4 Action guides & tool box
 
-This appendix bundles operational shortcuts for decision-makers. It links Chapters 5–9 with the workshop materials from **Appendix E (ERDA Book Toolbox)** and provides a clear entry point into piloting, scaling and quality control.
+This section bundles operational shortcuts for decision-makers. It links Chapters 5–14 with the workshop materials from **Appendix E (ERDA Book Toolbox)** and provides a clear entry point into piloting, scaling and quality control.
 
 ***
 

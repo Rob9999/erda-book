@@ -299,6 +299,7 @@
   * [D.3 Block C – Sektorale Konzepte (Kapitel 5–9)](anhang-d-executive-compendium-fur-entscheidungstrager/d.3-block-c-sektorale-konzepte-kapitel-5-9.md)
   * [D.4 Handlungsleitfäden & Tool‑Box](anhang-d-executive-compendium-fur-entscheidungstrager/d.4-handlungsleitfaden-and-tool-box.md)
   * [D.5 Strategiepapier: Europa resilient gegen Russlands Kriegslogik („Verhandeln als Kriegsinstrument“)](anhang-d-executive-compendium-fur-entscheidungstrager/d.5-strategiepapier-europa-resilient-gegen-russlands-kriegslogik.md)
+  * [D.6 Block D – Gesellschafts-, Demokratie- und Bündnisarchitektur (Kapitel 10–14)](anhang-d-executive-compendium-fur-entscheidungstrager/d.6-block-d-gesellschafts-demokratie-und-bundnisarchitektur-kapitel-10-14.md)
 * [Anhang E: ERDA Buch Baukasten](anhang-e-erda-buch-baukasten/README.md)
   * [E.3 🪄 ERDA GitBook Kapitel-Template](anhang-e-erda-buch-baukasten/e.3-erda-gitbook-kapitel-template.md)
   * [E.4 🧭 ERDA-Leserprofil-Schema](anhang-e-erda-buch-baukasten/e.4-erda-leserprofil-schema.md)
