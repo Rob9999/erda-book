@@ -18,8 +18,8 @@
             "type": "Other"
         }
     ],
-    "description": "Open-access book project on the strategic, ethical and technological renewal of Europe. Version 1.0.2 delivers the complete British English edition and establishes a robust multilingual repository structure (/de, /en) with dedicated pipelines, licensing, citation and publication metadata per language. The GitBook worker has been externalised as a pip-installable package, and a formal translation workflow has been documented. Texts: CC BY-SA 4.0; Code & toolchain: MIT; Fonts: CC BY 4.0 or MIT (dual licence). Full source files (GitBook Markdown), CI/CD configuration and build setup are available in the repository.",
-    "version": "1.0.2",
+    "description": "Open-access book project on the strategic, ethical and technological renewal of Europe. Version 2.0.0 (in preparation) builds on the established multilingual repository structure (/de, /en) and extends the content with a substantially expanded AI governance chapter (Chapter 10), including an executive summary for decision-makers and Appendix 10.A (Co-evolution Index, KEI) as a democratic maturity/early-warning instrument. New chapters cover citizen resilience (Chapter 11), democratic transformation rules (Chapter 12), strategic sovereignty and defence toolbox (Chapter 13), and democratic coalitions of the willing with a constitutional sketch and six treaty annexes (Chapter 14). The GitBook worker tooling is maintained upstream and consumed here as a pinned package artifact. Texts: CC BY-SA 4.0; Code & toolchain: MIT; Fonts: CC BY 4.0 or MIT (dual licence). Full source files (GitBook Markdown), CI/CD configuration and build setup are available in the repository.",
+    "version": "2.0.0",
     "keywords": [
         "ERDA",
         "Europe",
@@ -33,7 +33,10 @@
         "Transformation",
         "Geopolitics",
         "Multilingual",
-        "Translation Workflow"
+        "Translation Workflow",
+        "Coalitions of the Willing",
+        "Defence",
+        "Strategic Sovereignty"
     ],
     "license": "CC-BY-SA-4.0",
     "language": "eng",
@@ -50,12 +53,22 @@
             "resource_type": "software"
         },
         {
-            "identifier": "https://github.com/Rob9999/erda-book/blob/main/content/anhang-j-lizenz-and-offenheit.md",
+            "identifier": "https://github.com/Rob9999/erda-book/blob/main/de/content/anhang-j-lizenz---offenheit.md",
             "relation": "isDocumentedBy",
             "resource_type": "publication-other"
         },
         {
-            "identifier": "https://github.com/Rob9999/erda-book/blob/main/publish/ATTRIBUTION.md",
+            "identifier": "https://github.com/Rob9999/erda-book/blob/main/en/content/appendix-j-license-and-openness.md",
+            "relation": "isDocumentedBy",
+            "resource_type": "publication-other"
+        },
+        {
+            "identifier": "https://github.com/Rob9999/erda-book/blob/main/de/publish/ATTRIBUTION.md",
+            "relation": "isDocumentedBy",
+            "resource_type": "publication-other"
+        },
+        {
+            "identifier": "https://github.com/Rob9999/erda-book/blob/main/en/publish/ATTRIBUTION.md",
             "relation": "isDocumentedBy",
             "resource_type": "publication-other"
         }

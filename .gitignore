@@ -13,7 +13,8 @@ __pycache__/
 *.py[cod]
 
 # Project specific
-desktop/
+# desktop/
+
 
 # Python
 __pycache__/

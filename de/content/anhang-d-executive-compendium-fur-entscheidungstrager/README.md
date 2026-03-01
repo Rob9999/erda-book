@@ -2,7 +2,7 @@
 
 ## _Executive Summary Compendium_
 
-_Dieses Compendium bietet einen fokussierten Überblick über das ERDA-Buch in **vier** inhaltlich harmonische Blöcke, die jeweils mehrere Kapitel zusammenfassen. Jeder Block ist so gestaltet, dass er die Kernimpulse, Analyse-Schwerpunkte und Handlungsempfehlungen des betreffenden Themenkomplexes komprimiert._
+_Dieses Compendium bietet einen fokussierten Überblick über das ERDA-Buch in **vier** inhaltlichen Blöcken (A–D), die jeweils mehrere Kapitel zusammenfassen, ergänzt durch eine Tool-Box und ein Strategiepapier. Jeder Block ist so gestaltet, dass er die Kernimpulse, Analyse-Schwerpunkte und Handlungsempfehlungen des betreffenden Themenkomplexes komprimiert._
 
 ***
 
@@ -15,6 +15,23 @@ _Dieses Compendium bietet einen fokussierten Überblick über das ERDA-Buch in *
 * **1.3 Technologische Transformation & soziale Spaltung**
 * **1.4 Chancen im Wandel**
 * **1.5 Der strategische Imperativ**
+
+#### A.1b Draghi-Brille 2026: Von Markt zu Macht (Konföderation → Föderation)
+
+**Kernlogik:**  
+Ein Europa, das im Handel integriert ist, aber in Verteidigung, Außenpolitik und strategischer Industriepolitik fragmentiert bleibt, ist politisch „ausspielbar“ und wirtschaftlich erpressbar.
+
+**5 Kurz-Implikationen für Entscheidungsträger:**
+1) Handel und Sicherheit überlappen nicht mehr automatisch – Abhängigkeiten können weaponisiert werden (**Weaponized Interdependence**).  
+2) Veto-getriebene Koordination produziert keine Macht, sondern Verwundbarkeit.  
+3) Einigkeit entsteht durch gemeinsame Entscheidungen (**Unity-through-Action**), nicht davor.  
+4) Abkommen sind strategisch zu verstehen: Diversifikation + Verlässlichkeit + Standards als Sicherheitsarchitektur.  
+5) Europas Integrationsmodell bleibt wertgebunden: Integration ohne Unterordnung, Macht durch gemeinsame Institutionen, nicht durch Zwang.
+
+**Soforthebel (2025–2030):**
+* Opt-in-Entscheidungsfähigkeit in Defense / Industrial Policy / Foreign Affairs
+* Anti-Erpressbarkeit (kritische Inputs, Infrastruktur, digitale Souveränität)
+* Transparente demokratische Kontrolle als Vertrauensanker
 
 > Kern: Risikoanalyse der Demokratie, systemische Herausforderungen und ein gemeinsamer strategischer Handlungsrahmen für 2025–2035.
 
@@ -73,10 +90,44 @@ _Dieses Compendium bietet einen fokussierten Überblick über das ERDA-Buch in *
 * **ERDA-Buch‑Baukasten** (Templates, Boxen, Quiz-Elemente)
 * **Staatenarchitektur** (Konzentrische Kreise)
 * **Fahrplan Europa 2.0** und **Institut für demokratische Resilienz**
-* **Risiokobetrachtung und strategische Resilienz**
+* **Risikobetrachtung und strategische Resilienz**
 * **Lizenz und Offenheit**
 
 > Kern: Praktische Arbeitsmittel, Checklisten, Glossar und interaktive Elemente zur direkten Umsetzung.
+
+***
+
+### D.5 Strategiepapier: Europa resilient gegen Russlands Kriegslogik
+
+* Analyse von Russlands Verhandlungstaktik als Kriegsinstrument und Europas strategische Gegenoptionen.
+
+> Kern: Strategische Handlungsfähigkeit gegen hybride Manipulation und Eskalationsdominanz.
+
+***
+
+### D.6 Block D – Gesellschafts-, Demokratie- und Bündnisarchitektur (Kapitel 10–14)
+
+#### Kapitel 10 – KI-Governance und Ko-Evolution (KEI)
+
+* Kapitel 10 entwickelt ein europäisches KI-Governance-Rahmenwerk mit Ko-Evolutions-Index (KEI), ethischen Guardrails und Verteidigungs-KI-Regulierung.
+
+#### Kapitel 11 – Bürgerpflichtmodell und demografischer Imperativ
+
+* Kapitel 11 entwirft ein integriertes Bürgerpflichtmodell, das Rechte und Verantwortung verbindet und den demografischen Imperativ adressiert.
+
+#### Kapitel 12 – Sieben Transformationsregeln der Sozialen Demokratie
+
+* Kapitel 12 formuliert fundamentale Transformationsregeln für die Demokratie des 21. Jahrhunderts, überprüfbar durch Simulation und Rollenspiel.
+
+#### Kapitel 13 – Strategische Souveränität und Selbstabschreckung
+
+* Kapitel 13 liefert konkrete Werkzeuge für Europas Handlungsfähigkeit: Luftverteidigung, industrielle Masse, Finanzentblockung und Hybridabwehr.
+
+#### Kapitel 14 – Demokratische Koalitionen der Willigen
+
+* Kapitel 14 entwickelt eine Vertrags- und Allianzarchitektur (EDDRC) mit Stufenmodell, Demokratie-Kette und sechs Vertragsannexen (155 Artikel).
+
+> Kern: Operative Vertiefungsschicht – von KI-Governance über Bürgerresilienz bis zur vertragsfähigen Bündnisarchitektur.
 
 ## 📘 Executive Compendium für Entscheidungsträger
 

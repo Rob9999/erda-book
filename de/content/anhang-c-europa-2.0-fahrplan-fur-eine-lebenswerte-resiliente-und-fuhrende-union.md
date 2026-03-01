@@ -99,6 +99,30 @@ Nur eine handlungsfähige Union kann global Verantwortung übernehmen.
 
 ***
 
+## 🟦 Fünf Realitätsfragen an Europas Politik
+
+Die demokratischen Europäer müssen sich ihrer Verantwortung für die Menschheit und für freiheitlich-demokratische Werte bewusst werden.
+Keine Legitimierung und keine Belohnung imperialer Ansprüche.
+
+1. **Warum keine demokratisch legitimierten internationalen Ordnungseinsätze, um Terrorismus, organisierte Kriminalität und mafiöse Strukturen zu zerschlagen?**
+   _Quick-Check: Worin unterscheidet sich ein imperialer Aggressor hiervon – außer durch Rhetorik?_
+
+2. **Warum keine europäisch geführte NATO-Präsenz in Grönland, ökologisch verantwortungsvoll (z. B. ~500 Kräfte), im Krisenfall skalierbar bis ~10.000?**
+   _Quick-Check: Ein defensiver, demokratisch legitimierter Arctic Defence Security Node (DSN)._
+
+3. **Warum keine europäischen Defence Security Nodes innerhalb Europas, regional verteilt (Nord, Süd, Ost, West, Mitte – perspektivisch auch Space), autark einsatzfähig für mindestens 90 Tage?**
+   _Quick-Check: Resilienz statt Abhängigkeit._
+
+4. **Warum keine verfassungsgebundene, rechtsstaatliche europäische Demokratie-Allianz?**
+   _Quick-Check: Keine Revolution – sondern die natürliche, evolutive Weiterentwicklung der EU._
+
+5. **Warum keine echte strategische Autonomie Europas?**
+   Eigene Schlüsselindustrien stärken: Chips, KI, Software, Robotik, Drohnen, Raumfahrt, Wissenschaft, Bildung, Medien – statt weiter autoritäre oder imperialistische Systeme zu finanzieren.
+
+Wenn Demokratien überleben wollen, müssen sie handlungsfähig sein – wehrhaft, rechtsstaatlich und verantwortungsvoll.
+
+***
+
 ### 6. Kultur des Vertrauens und der Solidarität
 
 Eine gemeinsame Identität und gelebte Solidarität stärken den Zusammenhalt.
@@ -160,4 +184,4 @@ Eine nachhaltige Transformation Europas hin zu einem technologisch führenden, d
 
 ### Autorenschaft
 
-Erstellt, April 2025, von Robert Alexander Massinger, München, Deutschland, mit analytischer Unterstützung durch KI-gestützte Recherchesysteme (ChatGPT, 2025).
+Erstellt im April 2025 durch die **ERDA Buch Redaktion** (LLM-gestützte sprachliche Überarbeitung unter redaktioneller Kontrolle). Autor und Herausgeber sind im **Kolophon (Anhang L)** ausgewiesen.

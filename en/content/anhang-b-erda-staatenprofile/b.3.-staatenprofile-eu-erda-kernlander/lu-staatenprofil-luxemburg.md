@@ -1,12 +1,12 @@
 ---
 source: content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/lu-staatenprofil-luxemburg.md
 status: draft
-description: "State: LU, Date: 2025-06-11, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: LU, Date: 2025-06-11, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "LU"
 date: "2026-01-01"
-author: "Robert Alexander Massinger"
+author: "ERDA Book editorial team"
 legal_responsible: "<Behörde/Institut>"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 
@@ -168,8 +168,7 @@ Luxembourg is a wealthy EU micro-state whose stable democracy, strong financial 
 
 This profile draws on public and modelled data. Representatives of the Grand Duchy of Luxembourg and interested expert bodies are invited to contribute updates for a shared view of Europe’s resilient democratic future.
 
-#### 12.1 Last responsible point of contact
-Author: Robert Alexander Massinger  
-Contact: [robert.alexander.massinger@outlook.de](mailto:robert.alexander.massinger@outlook.de)  
-Platform: [GitBook ERDA portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)  
-Last update: 2025-06-11
+#### 12.1 Last responsible points of contact
+Author: ERDA Book editorial team
+Contact: ERDA Book editorial team
+Last update: 2026-01-08

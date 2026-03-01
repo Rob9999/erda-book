@@ -1,10 +1,10 @@
 ---
-description: "State: TW, Date: 2025-06-11, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: TW, Date: 2025-06-11, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "TW"
 date: "2026-01-01"
-author: "Robert Alexander Massinger"
+author: "ERDA Buch Redaktion"
 legal_responsible: "<Behörde/Institut>"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 
@@ -205,11 +205,10 @@ Taiwan steht für dynamische Innovationskraft und demokratische Stabilität im I
 ### 12. 🤝 Mitwirkung willkommen
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Taiwan sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
-#### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: Robert Alexander Massinger
-Kontakt: [robert.alexander.massinger@outlook.de](mailto:robert.alexander.massinger@outlook.de)
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
-Letzte Änderung: 2025-06-11
+#### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 
 [^1]: [restcountries.com](https://restcountries.com/v3.1/alpha/twn) (Abruf 2025-06-11).
 [^2]: [National Development Council Taiwan](https://www.ndc.gov.tw/) (Abruf 2025-06-11).

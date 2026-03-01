@@ -1,10 +1,10 @@
 ---
-description: "State: IE, Date: 2025-06-10, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: IE, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "IE"
 date: "2025-06-10"
-author: "Robert Alexander Massinger"
+author: "ERDA Buch Redaktion"
 legal_responsible: "<Behörde/Institut>"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 
@@ -111,7 +111,9 @@ version: "1.0"
 * **Base Case 2075:** stabiles Wachstum, BIP pro Kopf 90 000 USD, moderate Automatisierung
 * **Worst Case 2075:** stagnierende Produktivität, Infrastrukturrückstand, demografische Belastung
 
-**Status 2025 (narrativ):** Irland festigt Rolle als Digital- und Innovationsstandort, Ausbau erneuerbarer Energien, Attraktivität für FDI**Strategische Investitionen 2025–2050:** grüne Hydrogen-Infrastruktur, KI-Forschung, Ausbildung, Gesundheitsversorgung**Transformation 2050–2075:** Dekarbonisierung komplett, hohe Automatisierung, Ausbau Biowirtschaft
+**Status 2025 (narrativ):** Irland festigt Rolle als Digital- und Innovationsstandort, Ausbau erneuerbarer Energien, Attraktivität für FDI
+**Strategische Investitionen 2025–2050:** grüne Hydrogen-Infrastruktur, KI-Forschung, Ausbildung, Gesundheitsversorgung
+**Transformation 2050–2075:** Dekarbonisierung komplett, hohe Automatisierung, Ausbau Biowirtschaft
 
 #### 🚀 Rolle in der ERDA-Vision 2075:
 
@@ -171,11 +173,10 @@ Irland ist eine digitale Inselnation mit hoher Bildungsquote und wachsender Bev�
 
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Irland sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
-#### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: Robert Alexander Massinger
-Kontakt: [robert.alexander.massinger@outlook.de](mailto:robert.alexander.massinger@outlook.de)
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
-Letzte Änderung: 2025-06-10
+#### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 
 #### B. Wirtschaft & Innovation
 

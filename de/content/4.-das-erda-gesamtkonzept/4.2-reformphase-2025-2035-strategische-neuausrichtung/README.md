@@ -34,6 +34,29 @@ Dieses Kapitel skizziert die zentrale Transformationsphase der EU hin zu einer h
 
 ***
 
+#### 🧩 Mechanik: Aus der Konföderationsfalle heraus („Pragmatic Federalism“)
+
+Ein koordinierender Staatenbund bleibt ein Staatenbund:  
+Solange zentrale Felder (Außenpolitik, Verteidigung, strategische Industriepolitik, Fiskalreaktion) **veto-getrieben** sind, bleibt Europa anfällig, in Einzelteile zerlegt zu werden – politisch, wirtschaftlich, sicherheitlich.
+
+**Pragmatic Federalism (Arbeitsdefinition im ERDA-Kontext):**
+* **Pragmatisch:** Schritte, die *jetzt* möglich sind – mit den Partnern, die *jetzt* bereit sind – in den Domänen, in denen Fortschritt *jetzt* entscheidend ist.
+* **Föderal:** Jede Etappe bleibt erkennbar auf das Ziel ausgerichtet: echte Entscheidungsfähigkeit durch Institutionen mit Autorität – demokratisch kontrolliert.
+* **Ohne Unterordnung:** Opt-in statt Zwang; Tür offen für Beitritt – aber Schutz vor Akteuren, die den gemeinsamen Zweck sabotieren.
+
+**Designregeln (kurz):**
+1) **Entscheidungsfähigkeit vor Vollständigkeit** (lieber handlungsfähig mit Willigen als blockiert mit allen).  
+2) **No single point of failure** in Politik und Infrastruktur (keine Monopole, keine Vetofallen, keine Erpressbarkeit).  
+3) **Demokratische Kontrolle als Bedingung** (Parlamente, Rechtsbindung, Transparenz; Notfallregeln mit Ablaufdatum und Review).
+
+**Konkrete Übersetzung in Reformschritte (2025–2030):**
+* Opt-in-Module für gemeinsame Beschaffung/Standards/Resilienz in kritischen Sektoren.
+* Krisenentscheidungsmodus mit klaren Kompetenzen (zeitlich begrenzt, überprüfbar).
+* Gemeinsame strategische Industriefazilität (Investitionen + Kapazitäten + Substitution).
+* Verbindliche Rechtsstaats- und Anti-Sabotage-Klauseln für Teilnahme an Kernmodulen.
+
+***
+
 #### 🛠 Empfohlene politische Maßnahmen
 
 * **Sofort (2025–2027):**\

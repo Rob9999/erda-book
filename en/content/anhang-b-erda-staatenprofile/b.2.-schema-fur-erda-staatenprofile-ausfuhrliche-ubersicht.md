@@ -3,11 +3,11 @@ source: content/anhang-b-erda-staatenprofile/b.2.-schema-fur-erda-staatenprofile
 status: draft
 ---
 
-# B.2 ERDA State Profile Template (v4, Extended Overview)
+# B.2 ERDA State Profile Template (v5, Extended Overview)
 
-_**Template for ERDA state profiles (v4)**_
+_**Template for ERDA state profiles (v5)**_
 
-### 1. 🌍 ERDA State Profile – Template (v4, 2025)
+### 1. 🌍 ERDA State Profile – Template (v5, 2025)
 
 ```markup
 ---
@@ -16,7 +16,7 @@ country: "{{country-code}}"
 date: "{{YYYY-MM-dd}}"
 author: "{{author}}"
 legal_responsible: "{{official}}"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 
@@ -213,11 +213,10 @@ Example database/website
 ## 12. 🤝 Participation welcome
 This profile is based on publicly accessible and modelled data. Representatives of the Republic of {{Country}} and interested specialist bodies are warmly invited to contribute their own perspectives, additions and updates – to build a shared picture of a resilient and democratic future for Europe.
 
-### 12.1 Last responsible contact person
-Author: {{author}}
-Contact: [{{author-email}}](mailto:{{author-email}})
-Platform: [GitBook ERDA portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
-Last update: {{YYYY-MM-DD}}
+### 12.1 Last responsible points of contact
+Author: ERDA Book editorial team
+Contact: ERDA Book editorial team
+Last update: 2026-01-08
 ```
 
 #### 2. Formatting, completion & collaboration notes

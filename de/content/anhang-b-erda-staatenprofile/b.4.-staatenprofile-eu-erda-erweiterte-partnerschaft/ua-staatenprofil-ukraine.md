@@ -1,10 +1,10 @@
 ---
-description: "State: UA, Date: 2025-06-08, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: None"
+description: "State: UA, Date: 2025-06-08, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: None"
 country: "UA"
 date: "2025-06-08"
-author: "Robert Alexander Massinger"
+author: "ERDA Buch Redaktion"
 legal_responsible: "None"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 
@@ -220,8 +220,7 @@ Die Ukraine steht 2025 am Beginn einer Phase tiefgreifender Erneuerung. Mit rund
 
 Dieses Profil wurde auf Basis öffentlich zugänglicher und modellierter Daten erstellt. Wir laden Vertreter:innen der Ukraine herzlich ein, eigene Perspektiven, Ergänzungen und Aktualisierungen einzubringen – für ein gemeinsames Bild der demokratischen Zukunft Europas.
 
-#### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: Robert Alexander Massinger
-Kontakt: [robert.alexander.massinger@outlook.de](mailto:robert.alexander.massinger@outlook.de)
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
-Letzte Änderung: 2025-06-08
+#### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08

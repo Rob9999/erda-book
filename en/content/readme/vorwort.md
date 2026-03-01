@@ -21,6 +21,12 @@ Yet perhaps the more decisive question is:\
 
 For while Europe debates, others are already acting. An authoritarian state drafts fifty-year plans with planetary ambition. Global corporations write the infrastructure of our democracies. The young generation asks: _"So what exactly is your plan?"_
 
+Konrad Adenauer and his French partners already understood a sober truth after two world wars: when nationalism returns, Europe loses peace – and in the end, it also loses its capacity to act.
+
+In today’s world situation, a second consequence is added: fragmentation creates followership. Where Europe does not decide jointly, others set the standards – geopolitically, technologically, economically.
+
+Polish history contains a precise warning: the Polish–Lithuanian Commonwealth was large and diverse, yet veto paralysis and external manipulation made it “governable from outside” – until the partitions erased the state. The lesson for Europe is not centralism, but decision‑making capacity: integration must become complete wherever blockade is deadly – in strategic decision power and collective defence.
+
 The ERDA book offers an answer – not as a finished model, but as a structured sketch of the future. With concrete stages, with principles, with tools.
 
 It weaves together:

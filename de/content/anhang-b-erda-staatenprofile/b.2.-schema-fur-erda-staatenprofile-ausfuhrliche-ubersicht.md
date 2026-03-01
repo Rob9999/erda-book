@@ -1,8 +1,8 @@
-# B.2. Schema für ERDA-Staatenprofile (v4, ausführliche Übersicht)
+# B.2. Schema für ERDA-Staatenprofile (v5, ausführliche Übersicht)
 
-_**Schema für ERDA-Staatenprofile (v4)**_
+_**Schema für ERDA-Staatenprofile (v5)**_
 
-### 1. 🌍 ERDA-Staatenprofil – Schema (v4, 2025)
+### 1. 🌍 ERDA-Staatenprofil – Schema (v5, 2026)
 
 ```markup
 ---
@@ -11,7 +11,7 @@ country: "{{country-code}}"
 date: "{{YYYY-MM-dd}}"
 author: "{{author}}"
 legal_responsible: "{{official}}"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 
@@ -209,11 +209,10 @@ Beispiel Datenbank/Website
 ## 12. 🤝 Mitwirkung willkommen
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik {{Land}} sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
-### 12.1 Letzter inhaltlich verantwortlicher Ansprechpartner
-Autor: {{author}}
-Kontakt: [{{author-email}}](mailto:{{author-email}})
-Plattform: [GitBook ERDA-Portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)
-Letzte Änderung: {{YYYY-MM-DD}}
+### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
+Autor: ERDA Buch Redaktion
+Kontakt: ERDA Buch Redaktion
+Letzte Änderung: 2026-01-08
 ```
 
 
@@ -227,3 +226,4 @@ Letzte Änderung: {{YYYY-MM-DD}}
 * **Hypothetische Quellen:** Kennzeichne hypothetische oder modellhafte Verweise deutlich mit dem Zusatz **„(hypothetisch)“**.
 * **Einladung zur Mitwirkung:** Staaten und Forschungseinrichtungen sind **herzlich eingeladen**, eigene Profile nach diesem Schema beizutragen oder bestehende zu ergänzen.
 * **Hinweis:** Dieses Profil dient **als faire und attraktive Selbstdarstellung des jeweiligen Landes**. Es berücksichtigt sowohl Potenziale als auch realistische Herausforderungen. Nur in begründeten Ausnahmefällen („es tut sonst niemand“) sollte ein Profil ohne offizielle Beauftragung durch das jeweilige Land erstellt, verändert oder gelöscht werden.
+

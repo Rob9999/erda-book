@@ -1,5 +1,28 @@
 # Release History
 
+## 2.0.0 – 1 Mar 2026
+- **Responsible:** Robert Alexander Massinger (Lead) with support from ChatGPT/OpenAI and GitHub Copilot/Anthropic.
+- **Codename:** Human AI Democrazy
+- **Goal:**
+  - Content:
+    - Expand the book from 9 to 14 chapters: AI governance (Ch. 10), civic resilience (Ch. 11), democratic transformation rules (Ch. 12), strategic sovereignty (Ch. 13), and democratic coalitions of the willing with a draft treaty (Ch. 14).
+    - Normative sharpening of the ERDA guiding principle across all chapters.
+    - Integration of real-world war insights (Zaluzhnyi/Chatham House 2026) across 6 chapters.
+    - New D.5 strategy paper, D.6 executive summary block, glossary expansion (11 new terms).
+  - Technical:
+    - Full DE↔EN synchronisation of all new and revised content.
+    - Updated publish artefacts (PDF/MD) for both languages.
+- **Highlights:**
+  - Version bump to 2.0.0
+  - **Five new chapters** (10–14) with 200+ pages of new content
+  - **KI governance** with Co-evolution Index (KEI)
+  - **Citizen duty model** linking rights with responsibility
+  - **Seven transformation rules** for social democracy
+  - **Strategic sovereignty toolbox** (air defence, attrition, hybrid defence)
+  - **EDDRC alliance architecture** with tier model, democracy chain, and 155 treaty articles
+  - **Zaluzhnyi integration** (kill zones, transparent battlespace, drone warfare)
+  - Complete release documentation (notes, description, certification, status)
+
 ## 1.0.2 – 1 Jan 2026
 - **Responsible:** Robert Alexander Massinger (Lead) with support from ChatGPT/OpenAI for translation.
 - **Goal:** 

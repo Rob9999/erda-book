@@ -1,12 +1,12 @@
 ---
 source: content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/bg-staatenprofil-bulgarien.md
 status: draft
-description: "State: BG, Date: 2025-06-11, Responsible Author: Robert Alexander Massinger, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: BG, Date: 2025-06-11, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "BG"
 date: "2026-01-01"
-author: "Robert Alexander Massinger"
+author: "ERDA Book editorial team"
 legal_responsible: "<Behörde/Institut>"
-layout: "ERDA-State-Profile-v4"
+layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 
@@ -197,8 +197,7 @@ Bulgaria is a Balkan country rich in tradition, an EU member with growing ambiti
 
 This profile is based on publicly available and modelled data. Representatives of the Republic of Bulgaria and interested expert bodies are warmly invited to contribute their own perspectives, additions and updates – for a shared picture of a resilient, democratic future for Europe.
 
-#### 12.1 Last responsible point of contact
-Author: Robert Alexander Massinger  
-Contact: [info@mfa.bg](mailto:info@mfa.bg)  
-Platform: [GitBook ERDA portal](https://app.gitbook.com/o/nt9tg4PqKZ12DXO9pou1/s/vUquUrXlP5zeuZ20Fboy/)  
-Last update: 2025-06-11
+#### 12.1 Last responsible points of contact
+Author: ERDA Book editorial team
+Contact: ERDA Book editorial team
+Last update: 2026-01-08

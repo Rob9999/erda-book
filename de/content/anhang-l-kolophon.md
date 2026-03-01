@@ -4,6 +4,12 @@
 
 Dieses Kolophon dokumentiert die **technischen und typografischen Details** der Produktion des ERDA-Buches. Es dient der **Transparenz** und erfüllt die **Attributionspflichten** für verwendete Schriftarten, Werkzeuge und Ressourcen. Alle hier aufgeführten Komponenten sind unter **offenen oder kompatiblen Lizenzen** verfügbar und wurden gemäß den in **Anhang J** definierten Lizenzgrundsätzen ausgewählt.
 
+Autor und Herausgeber: Robert Alexander Massinger.
+
+Autor-E-Mail: [robert.alexander.massinger@outlook.de](mailto:robert.alexander.massinger@outlook.de)
+
+Redaktion/Lektorat: ERDA Buch Redaktion (LLM-gestützte sprachliche Überarbeitung unter redaktioneller Kontrolle).
+
 ---
 
 ## L.2 Typografie und Schriftarten

@@ -21,6 +21,12 @@ Doch vielleicht ist die entscheidendere Frage:\
 
 Denn während Europa debattiert, handeln andere längst. Ein autoritärer Staat formuliert Fünfzig-Jahres-Pläne mit planetarem Anspruch. Globale Konzerne schreiben die Infrastruktur unserer Demokratien. Die junge Generation fragt: _„Was habt ihr eigentlich vor?“_
 
+Schon Konrad Adenauer und seine französischen Partner verstanden nach zwei Weltkriegen eine nüchterne Wahrheit: Wenn Nationalismus zurückkehrt, verliert Europa den Frieden – und am Ende auch seine Handlungsfähigkeit.
+
+In der heutigen Weltlage tritt eine zweite Konsequenz hinzu: Fragmentierung erzeugt Gefolgschaft. Wo Europa nicht gemeinsam entscheidet, setzen andere die Standards – geopolitisch, technologisch, ökonomisch.
+
+Polnische Geschichte enthält dafür eine präzise Warnung: Die polnisch–litauische Adelsrepublik war groß und vielfältig, doch Vetoparalyse und externe Manipulation machten sie „von außen regierbar“ – bis die Teilungen den Staat auslöschten. Die Lehre für Europa ist nicht Zentralismus, sondern Entscheidungsfähigkeit: Integration muss dort vollständig werden, wo Blockade tödlich ist – bei strategischer Entscheidungskraft und kollektiver Verteidigung.
+
 Das ERDA-Buch gibt eine Antwort – nicht als fertiges Modell, sondern als strukturierte Zukunftsskizze. Mit konkreten Etappen, mit Prinzipien, mit Werkzeugen.
 
 Es verbindet:

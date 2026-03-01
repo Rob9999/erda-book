@@ -5,11 +5,14 @@
             "name": "Orchestrator (local) - German",
             "type": "debugpy",
             "request": "launch",
+            "python": "${workspaceFolder}/.venv/Scripts/python.exe",
             "module": "gitbook_worker.tools.workflow_orchestrator",
             "cwd": "${workspaceFolder}",
             "env": {
                 "PYTHONIOENCODING": "utf-8",
-                "PYTHONUTF8": "1"
+                "PYTHONUTF8": "1",
+                "PYTHONNOUSERSITE": "1",
+                "PYTHONPATH": ""
             },
             "args": [
                 "run",
@@ -19,6 +22,8 @@
                 "de/publish.yml",
                 "--profile",
                 "local",
+                "--content-config",
+                "content.yaml",
                 "--lang",
                 "de"
             ],
@@ -29,11 +34,14 @@
             "name": "Orchestrator (local) - English",
             "type": "debugpy",
             "request": "launch",
+            "python": "${workspaceFolder}/.venv/Scripts/python.exe",
             "module": "gitbook_worker.tools.workflow_orchestrator",
             "cwd": "${workspaceFolder}",
             "env": {
                 "PYTHONIOENCODING": "utf-8",
-                "PYTHONUTF8": "1"
+                "PYTHONUTF8": "1",
+                "PYTHONNOUSERSITE": "1",
+                "PYTHONPATH": ""
             },
             "args": [
                 "run",
@@ -43,6 +51,8 @@
                 "en/publish.yml",
                 "--profile",
                 "local",
+                "--content-config",
+                "content.yaml",
                 "--lang",
                 "en"
             ],

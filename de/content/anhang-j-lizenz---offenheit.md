@@ -1,7 +1,7 @@
 # Anhang J: Lizenz & Offenheit
 
 ## J.1 Einleitung
-Dieses Buch wurde von **Robert Alexander Massinger** (München, Deutschland) in Zusammenarbeit mit **ChatGPT (OpenAI)** strukturiert, lektoriert und ausgearbeitet.  
+Dieses Buch wurde durch die **ERDA Buch Redaktion** strukturiert, lektoriert und ausgearbeitet (LLM-gestützte sprachliche Überarbeitung unter redaktioneller Kontrolle). Autor und Herausgeber sind im **Kolophon (Anhang L)** ausgewiesen.  
 Um eine nachhaltige, freie Wissensbasis zu schaffen, werden die verschiedenen Bestandteile des Buches unter **offenen Lizenzen** veröffentlicht. Dieses Kapitel erläutert die genauen Lizenzbedingungen, beschreibt die Bedeutung der Weitergabe unter gleichen Bedingungen und gibt Hinweise zur Nutzung, Bearbeitung und Weiterverbreitung.
 
 ---
