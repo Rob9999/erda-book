@@ -1,6 +1,10 @@
 # ERDA Book
 
-**Current version:** v2.0.0 - rc 1 
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/Content-CC%20BY--SA%204.0-lightgrey.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/Code-MIT-blue.svg)](LICENSE-CODE)
+[![Version](https://img.shields.io/badge/version-v2.0.0-green.svg)](https://github.com/Rob9999/erda-book/releases/tag/v2.0.0)
+
+**Current version:** v2.0.0  
 **As of (date):** 2026-03-01  
 **Channel:** release_candidate (pre-release)  
 **Codename / Release name:** Human AI Democrazy
@@ -13,14 +17,18 @@
 
 - 🇩🇪 [Deutsch](#de)
   - [Was ist das ERDA Buch?](#de-was-ist)
+  - [Lizenz](#de-lizenz)
+  - [Zitierung](#de-zitierung)
   - [Attribution und Lizenzierung](#de-attribution)
   - [Schriftarten-Design](#de-fonts)
-  - [Tooling (gitbook_worker)](#de-tooling)
+  - [Tooling & Build](#de-tooling)
 - 🇬🇧 [English](#en)
   - [What is the ERDA Book?](#en-what-is)
+  - [Licence](#en-licence)
+  - [Citation](#en-citation)
   - [Attribution and licensing](#en-attribution)
   - [Font design](#en-fonts)
-  - [Tooling (gitbook_worker)](#en-tooling)
+  - [Tooling & build](#en-tooling)
 
 ---
 
@@ -67,6 +75,20 @@ Gemeint sind Modelle, die langfristig funktionieren, weil sie **Anreize**, **Kon
 Beiträge sind willkommen, aber bitte die Regeln in AGENTS.md beachten (DCO Sign-off, Lizenz-/Attribution-Pflichten, DE↔EN Synchronisation bei Inhaltsänderungen).
 
 Hinweis: Inhalte sind „as is“; keine Rechts- oder Fachberatung.
+
+<a id="de-lizenz"></a>
+### Lizenz
+
+| Inhaltsart | Lizenz | Datei |
+|---|---|---|
+| Texte, Grafiken, Diagramme | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | [`LICENSE`](LICENSE) |
+| Code, Build-Skripte, Toolchain | [MIT](https://opensource.org/licenses/MIT) | [`LICENSE-CODE`](LICENSE-CODE) |
+| Schriften (eigene) | CC BY 4.0 / MIT (Dual) | [`LICENSE-FONTS`](LICENSE-FONTS) |
+
+<a id="de-zitierung"></a>
+### Zitierung
+
+Dieses Projekt kann über die Datei [`CITATION.cff`](CITATION.cff) zitiert werden. GitHub erkennt dieses Format automatisch und bietet unter dem Menüpunkt **„Cite this repository“** einen BibTeX- und APA-Export an.
 
 <a id="de-attribution"></a>
 ### 📜 Attribution und Lizenzierung
@@ -118,7 +140,7 @@ pdf_options:
 Diese Konfiguration stellt sicher, dass das Dokumentendesign den Vorgaben entspricht.
 
 <a id="de-tooling"></a>
-### Tooling (gitbook_worker)
+### Tooling & Build
 
 Das Build-Tooling (`gitbook_worker`) wird extern gepflegt und von hier bezogen:
 
@@ -127,6 +149,8 @@ Das Build-Tooling (`gitbook_worker`) wird extern gepflegt und von hier bezogen:
 Dieses Repository verwendet ein **gepinntes, vendortes Paket-Artefakt** (siehe `requirements.txt`) sowie repo-lokale Konfiguration (z. B. `de/publish.yml`, `en/publish.yml`, `content.yaml`).
 
 Ablageort des vendorten Artefakts (aktuelles Muster): `packages/gitbook-worker/*.tar.gz`
+
+Eine Schritt-für-Schritt-Anleitung zur lokalen PDF-Erzeugung findet sich in [`how-to-build.md`](how-to-build.md).
 
 ---
 
@@ -174,24 +198,69 @@ Contributions are welcome—please follow the rules in `AGENTS.md` (DCO sign-off
 
 Note: content is provided “as is”; this is not legal or professional advice.
 
+<a id="en-licence"></a>
+### Licence
+
+| Content type | Licence | File |
+|---|---|---|
+| Text, graphics, diagrams | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | [`LICENSE`](LICENSE) |
+| Code, build scripts, toolchain | [MIT](https://opensource.org/licenses/MIT) | [`LICENSE-CODE`](LICENSE-CODE) |
+| Fonts (own) | CC BY 4.0 / MIT (dual) | [`LICENSE-FONTS`](LICENSE-FONTS) |
+
+<a id="en-citation"></a>
+### Citation
+
+This project can be cited via the [`CITATION.cff`](CITATION.cff) file. GitHub recognises this format automatically and offers BibTeX and APA export under **“Cite this repository”**.
+
 <a id="en-attribution"></a>
 ### 📜 Attribution and licensing
 
 This project uses a **three-layer system** for transparency and legal robustness:
 
-1. **`ATTRIBUTION.md`** (repository level) — primary machine-readable compliance source.
-2. **`de/content/anhang-l-kolophon.md`** / **`en/content/appendix-l-colophon.md`** (PDF level) — reader-friendly colophon and typography attribution.
-3. **`de/content/anhang-j-lizenz---offenheit.md`** / **`en/content/appendix-j-license-and-openness.md`** (concept level) — license philosophy and openness.
+### Attribution hierarchy
 
-When changing fonts/emojis/assets, update all three layers and commit with `Signed-off-by:` (DCO).
+1. **`ATTRIBUTION.md`** (repository level) — **Primary source** for compliance
+   - Machine-readable table of all third-party content (fonts, emojis, assets)
+   - Checked by CI/CD tools
+   - **Audience:** Developers, maintainers, legal review
+
+2. **`de/content/anhang-l-kolophon.md`** / **`en/content/appendix-l-colophon.md`** (PDF book) — **Reader-friendly**
+   - Narrative font attribution for PDF readers
+   - Production details (TeX Live, Pandoc, build environment)
+   - **Audience:** Book readers without repo access
+
+3. **`de/content/anhang-j-lizenz---offenheit.md`** / **`en/content/appendix-j-license-and-openness.md`** (concept) — **Licence philosophy**
+   - Legal framework and share-alike principle
+   - **Audience:** Legal professionals, AI trainers, remix projects
+
+### ⚠️ Important: When changing fonts/emojis/assets
+
+**Update all three layers:**
+1. ✅ `ATTRIBUTION.md` → New row in table
+2. ✅ `de/content/anhang-l-kolophon.md` / `en/content/appendix-l-colophon.md` → Section L.2 Typography
+3. ✅ `de/content/anhang-j-lizenz---offenheit.md` / `en/content/appendix-j-license-and-openness.md` → Check licence matrix
+4. ✅ Commit with `Signed-off-by:` (DCO)
+
+Details: see [`AGENTS.md`](AGENTS.md) → “Attribution-Hierarchie”.
 
 <a id="en-fonts"></a>
 ### Font design
 
-For PDF generation, no extra external system-emoji fonts are pulled in. Fonts can be configured in `publish.yml` via `pdf_options`.
+### PDF generation
+For PDF generation, **no** additional system-emoji fonts from external packages are pulled in, keeping the design consistent with the brand identity. Fonts can be configured in `publish.yml` via `pdf_options`:
+
+```yaml
+pdf_options:
+  emoji_color: true
+  main_font: "DejaVu Serif"  # Main body font
+  sans_font: "DejaVu Sans"   # Sans-serif font for headings
+  mono_font: "DejaVu Mono"   # Monospace font for code
+```
+
+This configuration ensures the document design matches the project guidelines.
 
 <a id="en-tooling"></a>
-### Tooling (gitbook_worker)
+### Tooling & build
 
 The build tooling (`gitbook_worker`) is maintained externally and delivered from:
 
@@ -200,3 +269,5 @@ The build tooling (`gitbook_worker`) is maintained externally and delivered from
 This repository uses a **pinned, vendored package artifact** (see `requirements.txt`) and repo-local configuration (e.g. `de/publish.yml`, `en/publish.yml`, `content.yaml`).
 
 Vendored artifact location (current pattern): `packages/gitbook-worker/*.tar.gz`
+
+A step-by-step guide for local PDF generation can be found in [`how-to-build.md`](how-to-build.md).
