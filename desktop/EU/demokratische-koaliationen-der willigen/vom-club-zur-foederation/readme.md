@@ -1,5 +1,0 @@
-Okay konkret:
-
-* Gemeinsames demokratisches Europäisches Militär / european defense alliance + gemeinsames Verteidigungsministerium und gemeinsames Außenministerium und gemeinsames Justizministerium und gemeinsames Bürgerministerium und gemeinsames Umweltministerium und gemeinsames Sozialministerium und gemeinsames Wirtschaftsministerium und gemeinsames Finanzministerium und gemeinsame Regierung (demokratisch gewählt aus und gemeinsamer föderativer Verfassung (eher Modell Deutschland -> Regierung, Opposition und Bundeskanzler der Teil der Regierung ist und Bundestag - Bundesrat, ggf. Model Frankreich -> Präsident der nicht Teil der Regierung ist, dennoch eigene Befugnisse hat, ggf. Model Schweiz, ggf. ein evolutiv stabiles demokratisches noch besseres System).
-
-Graduell analysieren und darstellen in Tabellen-Form mit Fähigkeits- und Zugewinn- und Risiko- und Go- und NoGo-Spalten   

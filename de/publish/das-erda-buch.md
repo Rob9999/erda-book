@@ -12957,9 +12957,9 @@ Die Verfassungsskizze wird durch **sechs Annexe** operationalisiert. Jeder Annex
 ```
 Annex A (Enforcement) ←→ Annex B (Procurement) → Integrity Verstöße → Stufe 1–4
                       ←→ Annex C (Interop) → Non-Compliance → Programmzugang aussetzen
-                      ←→ Appendix D (War Powers) → Einsatz ohne Mandat → NoGo
-                      ←→ Appendix E (Audit) → Critical Findings → automatische Eskalation
-                      ←→ Appendix F (Tiers) → Downgrade/Suspendierung → Stufe 2–5
+                      ←→ Annex D (War Powers) → Einsatz ohne Mandat → NoGo
+                      ←→ Annex E (Audit) → Critical Findings → automatische Eskalation
+                      ←→ Annex F (Tiers) → Downgrade/Suspendierung → Stufe 2–5
 ```
 
 ***
@@ -13745,7 +13745,7 @@ ISB veröffentlicht jährlich eine Roadmap; CoM beschließt Updates; POA erhält
 
 ### Querverweise
 
-→ Annex 14.A (Enforcement bei Non-Compliance), Annex 14.B (Zertifizierungspflicht für Beschaffung), Appendix 14.D (Zertifizierung für Operationen), Appendix 14.F (Tier↔Level Mapping für Upgrade)
+→ Annex 14.A (Enforcement bei Non-Compliance), Annex 14.B (Zertifizierungspflicht für Beschaffung), Annex 14.D (Zertifizierung für Operationen), Annex 14.F (Tier↔Level Mapping für Upgrade)
 
 
 \newpage
@@ -13967,7 +13967,7 @@ Als Mission Creep gelten insbesondere:
 
 #### Art. D25 – Inkrafttreten
 
-Dieser Appendix tritt mit dem Vertrag in Kraft.
+Dieser Annex tritt mit dem Vertrag in Kraft.
 
 #### Art. D26 – Übergangsfristen
 
@@ -13998,18 +13998,18 @@ Dieser Appendix tritt mit dem Vertrag in Kraft.
 
 ### Querverweise
 
-→ Annex 14.A (NoGo bei Einsatz ohne Mandat), Annex 14.B (Notfallbeschaffung), Annex 14.C (Zertifizierung für C2/Systeme), Appendix 14.E (Audit/IG-Defense), Appendix 14.F (Tier-Pflichten bei operativer Beteiligung)
+→ Annex 14.A (NoGo bei Einsatz ohne Mandat), Annex 14.B (Notfallbeschaffung), Annex 14.C (Zertifizierung für C2/Systeme), Annex 14.E (Audit/IG-Defense), Annex 14.F (Tier-Pflichten bei operativer Beteiligung)
 
 
 \newpage
 
 ---
-description: "Appendix 14.E – Audit & Transparency (Vertragsanlage)"
+description: "Annex 14.E – Audit & Transparency (Vertragsanlage)"
 ---
 <a id="md-14-die-demokratischen-koalitionen-der-willigen-14-e-audit-und-transparency"></a>
 
 
-## Appendix 14.E – Audit & Transparency
+## Annex 14.E – Audit & Transparency
 
 _Rechnungshof (ACI), KPI-Framework, Clean-Room-Verfahren, Ombud, Whistleblower, öffentliche Rechenschaft_
 
@@ -14017,7 +14017,7 @@ _Rechnungshof (ACI), KPI-Framework, Clean-Room-Verfahren, Ombud, Whistleblower, 
 
 ### Zweck und Status
 
-1. Dieser Appendix ist integraler Bestandteil des Vertrages und für alle Mitglieder, Cluborgane und Auftragnehmer verbindlich.
+1. Dieser Annex ist integraler Bestandteil des Vertrages und für alle Mitglieder, Cluborgane und Auftragnehmer verbindlich.
 2. Er regelt **Audit**, **Transparenz**, **Rechenschaft**, **KPI-Reporting**, **Geheimschutz-Transparenz (Clean Room)** sowie **Ombud- und Whistleblower-Strukturen**.
 3. Ziel ist eine Governance, die **handlungsfähig** bleibt, ohne **Korruption, Capture, Schattenhaushalte, Zensur oder Angstimperium** zu ermöglichen.
 
@@ -14057,7 +14057,7 @@ ACI prüft insbesondere:
 1. Core Budget, Program Budgets, Contingency Fund
 2. Beschaffung/PIA inkl. Annex 14.B Integrity
 3. Zertifizierung/Interop (Annex 14.C) soweit budget-/compliance-relevant
-4. Operationen/Mandate (Appendix 14.D) soweit rechts- und budgetrelevant
+4. Operationen/Mandate (Annex 14.D) soweit rechts- und budgetrelevant
 5. Sanktionsvollzug/Anti-Evasion (rechtlich und effektivitätsbezogen)
 
 #### Art. E6 – Zugang und Mitwirkungspflichten
@@ -14201,7 +14201,7 @@ Jedes Programm und jede wesentliche Struktur hat verpflichtende KPI:
 
 #### Art. E24 – Operationen & Mandate
 
-1. Mandats- und RoE-Compliance-Findings referenzieren Appendix 14.D.
+1. Mandats- und RoE-Compliance-Findings referenzieren Annex 14.D.
 2. Einsatz ohne Mandat jenseits 72 h ist NoGo (Annex 14.A).
 
 ***
@@ -14228,7 +14228,7 @@ Klagebefugt sind:
 
 #### Art. E27 – Inkrafttreten
 
-Dieser Appendix tritt mit dem Vertrag in Kraft.
+Dieser Annex tritt mit dem Vertrag in Kraft.
 
 #### Art. E28 – Übergangsfristen
 
@@ -14242,18 +14242,18 @@ Dieser Appendix tritt mit dem Vertrag in Kraft.
 
 ### Querverweise
 
-→ Annex 14.A (Enforcement bei Critical Findings), Annex 14.B (Procurement-Audit), Annex 14.C (Interop-Compliance), Appendix 14.D (Mandats-/RoE-Audit), Appendix 14.F (Tier-Compliance-Prüfung)
+→ Annex 14.A (Enforcement bei Critical Findings), Annex 14.B (Procurement-Audit), Annex 14.C (Interop-Compliance), Annex 14.D (Mandats-/RoE-Audit), Annex 14.F (Tier-Compliance-Prüfung)
 
 
 \newpage
 
 ---
-description: "Appendix 14.F – Membership Tiers & Upgrade/Downgrade (Vertragsanlage)"
+description: "Annex 14.F – Membership Tiers & Upgrade/Downgrade (Vertragsanlage)"
 ---
 <a id="md-14-die-demokratischen-koalitionen-der-willigen-14-f-membership-tiers-und-upgrade"></a>
 
 
-## Appendix 14.F – Membership Tiers & Upgrade/Downgrade
+## Annex 14.F – Membership Tiers & Upgrade/Downgrade
 
 _T0 Observer → T1 Associate → T2 Full → T3 Core – Rechte, Pflichten, Beitritt, Abstieg, Exit_
 
@@ -14261,7 +14261,7 @@ _T0 Observer → T1 Associate → T2 Full → T3 Core – Rechte, Pflichten, Bei
 
 ### Zweck und Status
 
-1. Dieser Appendix ist integraler Bestandteil des Vertrages und definiert **Mitgliedschaftsstufen, Stimmrechte, Beitritts-/Upgrade-/Downgrade-/Austritts-Verfahren** sowie **Assoziierungs- und EU-Docking-Klauseln**.
+1. Dieser Annex ist integraler Bestandteil des Vertrages und definiert **Mitgliedschaftsstufen, Stimmrechte, Beitritts-/Upgrade-/Downgrade-/Austritts-Verfahren** sowie **Assoziierungs- und EU-Docking-Klauseln**.
 2. Ziel: **Offenheit ohne Aufweichung** – Staaten können einsteigen, aufsteigen, absteigen oder austreten, ohne die Club-Integrität zu gefährden.
 
 ***
@@ -14316,7 +14316,7 @@ _T0 Observer → T1 Associate → T2 Full → T3 Core – Rechte, Pflichten, Bei
 | **Stimmrecht** | Volles Stimmrecht in POA, Unterhaus/Oberhaus |
 | **Beitrag** | Voller Beitrag nach Formel (BNE + Bevölkerung + Risiko) |
 | **Pflichten** | Vollständige Compliance: Annex 14.A – 14.E, Interop Level L2+, Procurement Code |
-| **Integration** | Pflicht zur Interop-Zertifizierung (Annex 14.C), Mandat-/RoE-Akzeptanz (Appendix 14.D) |
+| **Integration** | Pflicht zur Interop-Zertifizierung (Annex 14.C), Mandat-/RoE-Akzeptanz (Annex 14.D) |
 
 #### Art. F6 – T3 Core
 
@@ -14404,7 +14404,7 @@ _T0 Observer → T1 Associate → T2 Full → T3 Core – Rechte, Pflichten, Bei
 2. Auslöser:
    - Nicht-Erfüllung von Tier-Anforderungen über Übergangsfrist hinaus
    - Critical Findings (Annex 14.A) ohne Remediation
-   - Automatisch bei KPI-Trigger-Kaskade (Appendix 14.E, Art. E11)
+   - Automatisch bei KPI-Trigger-Kaskade (Annex 14.E, Art. E11)
 3. Verfahren: ACI-Feststellung → EB-Antrag → POA-Beschluss (qualifizierte Mehrheit).
 4. Rechtsschutz: Betroffener Staat hat Widerspruchsrecht vor DRT.
 
@@ -14413,8 +14413,8 @@ _T0 Observer → T1 Associate → T2 Full → T3 Core – Rechte, Pflichten, Bei
 1. Suspendierung ist die vollständige Aussetzung der Tier-Rechte (entspricht T0) bei Beibehaltung des formalen Mitgliedsstatus.
 2. Auslöser:
    - NoGo-Verstoß (Annex 14.A)
-   - Einsatz ohne Mandat jenseits 72 h (Appendix 14.D)
-   - Schwere Korruption/Capture (Appendix 14.E)
+   - Einsatz ohne Mandat jenseits 72 h (Annex 14.D)
+   - Schwere Korruption/Capture (Annex 14.E)
 3. Beschluss: Super-Qualifizierte Mehrheit (POA + Oberhaus).
 4. Dauer: Befristet (max. 24 Monate), danach Tier-Entscheidung oder Exit.
 
@@ -14493,7 +14493,7 @@ _T0 Observer → T1 Associate → T2 Full → T3 Core – Rechte, Pflichten, Bei
 
 #### Art. F25 – Inkrafttreten
 
-Dieser Appendix tritt mit dem Vertrag in Kraft.
+Dieser Annex tritt mit dem Vertrag in Kraft.
 
 #### Art. F26 – Übergangsfristen
 
@@ -14508,7 +14508,7 @@ Dieser Appendix tritt mit dem Vertrag in Kraft.
 
 ### Querverweise
 
-→ Annex 14.A (NoGo & Enforcement), Annex 14.B (Procurement-Compliance als Upgrade-Kriterium), Annex 14.C (Interop-Level als Tier-Gate), Appendix 14.D (Mandats-Compliance), Appendix 14.E (Audit/KPI als Tier-Monitoring)
+→ Annex 14.A (NoGo & Enforcement), Annex 14.B (Procurement-Compliance als Upgrade-Kriterium), Annex 14.C (Interop-Level als Tier-Gate), Annex 14.D (Mandats-Compliance), Annex 14.E (Audit/KPI als Tier-Monitoring)
 
 
 \newpage

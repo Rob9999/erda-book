@@ -3,7 +3,7 @@ source: content/anhang-a-erda-staatenarchitektur-konzentrische-kreise.md
 status: draft
 ---
 
-# Appendix A: ERDA State Architecture ("Concentric Circles")
+# Annex A: ERDA State Architecture ("Concentric Circles")
 
 _**ERDA State Architecture ("Concentric Circles")**_
 

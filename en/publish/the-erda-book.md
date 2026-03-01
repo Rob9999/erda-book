@@ -12705,152 +12705,2755 @@ Every "frozen conflict" that rewards aggression raises the costs of the next rou
 \newpage
 
 ---
-source: content/anhang-a-erda-staatenarchitektur-konzentrische-kreise.md
-status: draft
+description: "Chapter 14 – The Democratic Coalitions of the Willing"
+source: "de/content/14.-die-demokratischen-koalitionen-der-willigen/README.md"
+status: "draft"
+date: "2026-02-28"
 ---
-<a id="md-anhang-a-erda-staatenarchitektur-konzentrische-kreise"></a>
+<a id="md-14-die-demokratischen-koalitionen-der-willigen-readme"></a>
 
 
-# Appendix A: ERDA State Architecture ("Concentric Circles")
+# 14. The Democratic Coalitions of the Willing
 
-_**ERDA State Architecture ("Concentric Circles")**_
-
-The potential **ERDA states** (European Rights-Based Democratic Alliance) are structured according to their proximity, constitutional alignment and strategic role into three clearly defined categories.
+_From a club of the willing to a federative European democracy – a gradual, democratically controllable path._
 
 ***
 
-### 1. 🔵 Core ERDA (Members with constitutional commitment)
+## Guiding Principle
 
-**All ERDA core states must – by democratic decision – have adopted the EU Charter of Fundamental Rights and ratified it as legally binding under international law.**  
-The **Charter forms the legal core of ERDA** and is further developed – not replaced – by new ethical, technological and ecological dimensions.
+Europe faces a paradox: threats are growing faster than existing institutions can respond. Unanimity rules, national sovereignty reservations and the absence of joint executive structures turn the EU into a **hostage of the veto** – precisely when unity is a matter of survival.
 
-Fully integrated member states with democratic constitutions and stable rule of law, ordered by population size (as of 1 January 2024) (see e.g. en.wikipedia.org, "List of European Union member states by population"):
+At the same time, history shows that Europe's deepest integration leaps were never achieved by unanimity of all but by **coalitions of the willing**:
 
-| State       | ISO | Population |
-| ----------- | --- | ---------- |
-| Germany     | DE  | 83 445 000 |
-| France      | FR  | 68 402 000 |
-| Italy       | IT  | 58 989 700 |
-| Spain       | ES  | 48 610 500 |
-| Poland      | PL  | 36 621 000 |
-| Romania     | RO  | 19 064 400 |
-| Netherlands | NL  | 17 942 900 |
-| Belgium     | BE  | 11 832 000 |
-| Czechia     | CZ  | 10 900 600 |
-| Portugal    | PT  | 10 639 700 |
-| Sweden      | SE  | 10 551 700 |
-| Greece      | GR  | 10 397 200 |
-| Austria     | AT  | 9 158 800  |
-| Bulgaria    | BG  | 6 445 500  |
-| Denmark     | DK  | 5 961 200  |
-| Finland     | FI  | 5 603 900  |
-| Slovakia    | SK  | 5 424 700  |
-| Ireland     | IE  | 5 343 800  |
-| Croatia     | HR  | 3 862 000  |
-| Lithuania   | LT  | 2 885 900  |
-| Slovenia    | SI  | 2 123 900  |
-| Latvia      | LV  | 1 871 900  |
-| Estonia     | EE  | 1 374 700  |
-| Luxembourg  | LU  | 672 100    |
+- **Schengen** (1985): Five states created the border-free area – today it encompasses 29.
+- **The Euro** (1999): Eleven states ventured a monetary union – today there are 20.
+- **PESCO** (2017): 25 states agreed on binding defence commitments – yet largely without operational depth.
 
-**Total population of the 24 ERDA core states:** **438 125 100**.
+This chapter designs the **next logical leap**: democratic coalitions that can evolve from concrete clubs (defence, energy, cyber, sanctions enforcement) via an institutional tier model towards a **federative European democracy** – step by step, verifiable and democratically controlled.
 
 ***
 
-### 2. 🟡 Extended partnership (associated democracies in Europe and neighbourhood)
+## Core Thesis
 
-Democracies with high compatibility with ERDA core countries and strategic importance that have full partnership capability without formal political integration.
-
-#### **2.1 Stable democracies with immediate compatibility**
-
-These countries already fulfil all ERDA standards, bring robust institutions and strong innovative capacity, and can be associated at the push of a button:
-
-\newpage
-\newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
-
-
-\pagewidth=297mm
-\pageheight=210mm
-\begin{longtable}{@{}lllllllll@{}}\toprule State & ISO & Level of democracy & Constitutional status & Conditions for integration & Cooperation & Partnership level & Core-state potential & Comment \\\midrule \endhead United Kingdom & GB & High & Stable & Already ERDA compatible & Security, education & Associated & 🟢 Yes & High innovation potential \\Andorra & AD & High & Stable & Already ERDA compatible & Tourism, finance & Associated & 🟢 Yes & Alpine bridge between Spain and France \\Iceland & IS & High & Stable & Arctic strategy, energy self-sufficiency & Arctic, biodiversity & Associated & 🟢 Yes & Bridge state for the North Sea area \\Liechtenstein & LI & High & Stable & Already ERDA compatible & Financial market, industry & Associated & 🟢 Yes & Highly innovative small-state model \\Malta & MT & High & Stable & Fully democratic & Migration, justice & Associated & 🟢 Yes & Access to Africa and the MENA region \\Monaco & MC & High & Stable & Already ERDA compatible & Finance, culture & Associated & 🟢 Yes & Financial centre with high international reach \\Norway & NO & High & Stable & Already ERDA compatible & Arctic, energy & Associated & 🟢 Yes & Model country \\San Marino & SM & High & Stable & Already ERDA compatible & Tourism, culture & Associated & 🟢 Yes & Oldest republic in Europe \\Switzerland & CH & High & Stable & Already ERDA compatible & Financial market, innovation & Associated & 🟢 Yes & Direct democracy, neutrality model \\Greenland & GL & High & Autonomous under Denmark & Need for constitutional clarity & Arctic, raw materials & Associated & 🟡 Medium & Key territory in the Arctic \\Ukraine & UA & High & Stable (consolidated) & ERDA compatibility, rapid EU/NATO entry & Security, reconstruction & Associated & 🟢 Yes & Central pillar of European security \\Cyprus & CY & High & Stable (divided) & Peace process North/South & Security, culture & Associated & 🟡 Medium & Politically sensitive \\\bottomrule \end{longtable}
-\restoregeometry
-\pagewidth=210mm
-\pageheight=297mm
-\newpage
-
-#### **2.2 Democracies with stable reform orientation and high proximity**
-
-These states are on their way to full ERDA compatibility, are pursuing reforms in a targeted way and have clearly defined EU perspectives:
-
-\newpage
-\newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
-
-
-\pagewidth=297mm
-\pageheight=210mm
-\begin{longtable}{@{}lllllllll@{}}\toprule State & ISO & Level of democracy & Constitutional status & Conditions for integration & Cooperation & Partnership level & Core-state potential & Comment \\\midrule \endhead Albania & AL & Developing & Stable (EU candidate country) & Rule-of-law reform, anti-corruption & Infrastructure, energy & Observer & 🟡 Medium & Comprehensive reform agenda \\Armenia & AM & Developing & Reform-willing & Regional stability & Peace work, education & Observer & 🟡 Medium & Needs security guarantees \\Georgia & GE & Developing & In reform process & Democratic resilience & Security, culture & Strategic & 🟡 Medium & Geopolitically sensitive \\Kosovo & XK & Developing & Stable (young democracy) & Recognition, integrity agreement & Security, digitalisation & Observer & 🟡 Medium & Strong reform drive, EU perspective \\Moldova & MD & Developing & Democratic transition & Institution building & Infrastructure, energy & Observer & 🟡 Medium & Between EU and Ukraine \\Montenegro & ME & Stable & Constitution in place & Rule of law, transparency & Legal system, environment & Associated & 🟡 Medium & Small but functional \\North Macedonia & MK & Developing & Stable (EU candidate country) & Rule-of-law reform, EU integration & Security, infrastructure & Observer & 🟡 Medium & Key role for Western Balkan integration \\\bottomrule \end{longtable}
-\restoregeometry
-\pagewidth=210mm
-\pageheight=297mm
-\newpage
-
-#### **2.3 Democracies with barriers but strategic relevance**
-
-Despite internal challenges, these states possess strategic importance and remain important ERDA observers and potential partners:
-
-\newpage
-\newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
-
-
-\pagewidth=297mm
-\pageheight=210mm
-\begin{longtable}{@{}lllllllll@{}}\toprule State & ISO & Level of democracy & Constitutional status & Conditions for integration & Cooperation & Partnership level & Core-state potential & Comment \\\midrule \endhead Bosnia and Herzegovina & BA & Fluctuating & Fragile (Dayton system) & State reform, separation of powers & Administration, reconciliation & Observer & 🔴 Low & Comprehensive constitutional reform required \\Israel & IL & High & Unclear constitutional status & Clarity on separation of powers & Innovation, security & Strategic & 🟡 Medium & Value-compatible but unstable \\Jordan & JO & Stable & Monarchy with reform efforts & Continuation of reform paths & Mediation, dialogue & Strategic & 🟡 Medium & Moderate, willing to cooperate \\Lebanon & LB & Fragile & Confessional system & Democratic reconstruction & Education, culture & Observer & 🟡 Medium & Complex internal fragmentation \\Morocco & MA & Hybrid & Authoritarian with elements of reform & Strengthening participation & Renewables, security & Observer & 🟡 Medium & Ready to reform but with limitations \\Serbia & RS & Fluctuating & Unstable & Judicial reform, press freedom & Infrastructure & Observer & 🔴 Low & Partly EU-sceptical \\Türkiye & TR & Ambivalent & Authoritarian traits & Democratic change & Security, migration & Strategic & 🔴 Low & Ambivalent development \\Tunisia & TN & Unstable & Democratic backsliding since 2021 & Democratic restoration & Education, civil society & Observer & 🟡 Medium & Former showcase state \\Hungary & HU & Ambivalent & Limited separation of powers and independent judiciary & Fulfil Copenhagen criteria, comprehensive rule-of-law and media reform & Migration, energy & Observer & 🔴 Low & Persistent backsliding on rule of law and media freedom \\\bottomrule \end{longtable}
-\restoregeometry
-\pagewidth=210mm
-\pageheight=297mm
-\newpage
-
-### 3. 🟢 Global associates (non-European democracies)
-
-Non-politically integrated democracies with security-policy and innovation-policy cooperation:
-
-| State      | ISO | Cooperation focus                      |
-| ---------- | --- | -------------------------------------- |
-| Canada     | CA  | Arctic and transatlantic               |
-| Australia  | AU  | Indo-Pacific region                    |
-| New Zealand| NZ  | Indo-Pacific region                    |
-| Japan      | JP  | Technology partnership                 |
-| South Korea| KR  | Technology partnership                 |
-| Chile      | CL  | Raw-material partnership               |
-| Costa Rica | CR  | Democracy partnership                  |
-| Uruguay    | UY  | Democracy partnership                  |
-| Namibia    | NA  | Raw-material and democracy partnership |
-| India      | IN  | Prospective democracy partnership      |
-| Taiwan     | TW  | Technology and democracy               |
-| Senegal    | SN  | Democracy partnership                  |
+> It is not unanimity that creates agency, but **binding joint action** within democratically legitimised structures. Europe's future depends on whether the transition from a **club of the willing to a federative democracy** can be shaped such that speed and democratic control grow simultaneously.
 
 ***
 
-#### 🛰️ Strategic special roles within ERDA
+## Chapter Structure
 
-| Territory/state     | Role within ERDA                           |
-| ------------------- | ------------------------------------------ |
-| Greenland           | Raw-material and security strategy (via DK)|
-| Iceland             | North Sea defence and Arctic corridor      |
-| Canada              | Transatlantic and Arctic partnership      |
-| Ukraine             | Sovereign partner, potential member        |
-| Faroe Islands       | Strategically relevant (via DK)            |
+| Sub-chapter | Topic |
+|---|---|
+| **14.1** | Why Coalitions of the Willing? – Schengen, the Euro and the Principle of Pioneer Alliances |
+| **14.2** | Ten Democratic Coalitions – Concrete Fields of Action |
+| **14.3** | Tier Model: From Club to Federation (Tier 0–9) |
+| **14.4** | The Club Architecture (EDDRC) – Organs, Voting Weight, Budget |
+| **14.5** | Competence Catalogue and Ministries – Federal, Shared, National |
+| **14.6** | The Democracy Chain – Elections, Opposition, Emergency Containment |
+| **14.7** | Constitutional Sketch and Risk Controls – From Treaty to an Evolutionarily Stable Democracy |
+
+### Treaty Annexes
+
+| Annex | Title | Scope |
+|---|---|---|
+| **14.A** | Risk Controls \& Enforcement – NoGo Thresholds, Tiers 0–5, RACI | 18 Articles |
+| **14.B** | Procurement Code – Award Procedures, Integrity, Dual Sourcing, KPIs | 30 Articles |
+| **14.C** | Interop \& Certification – Levels L0–L4, Tier↔Level Mapping, Red Team | 27 Articles |
+| **14.D** | War Powers \& Mandates – Operation Categories 0–3, 72 h Rule, RoE | 26 Articles |
+| **14.E** | Audit \& Transparency – ACI, KPI Framework, Clean Room, Whistleblower | 28 Articles |
+| **14.F** | Membership Tiers \& Upgrade/Downgrade – T0–T3, Exit, EU Docking | 26 Articles |
 
 ***
 
-#### 📚 Overall ERDA state overview (as of 2025)
+## Integration with the ERDA Framework
 
-* **24 EU/ERDA core states** (full constitutional integration)
-* **28 extended partner states** (European neighbourhood, transnational)
-* **12 global democracies** (associated partners)
+This chapter integrates and operationalises elements from:
 
-→ In total, **around 64 states** are prospectively part of the extended ERDA network.
+- **Chapter 4 (ERDA Master Plan):** Concentric circles, accession logic, subsidiarity.
+- **Chapter 5 (EDA Concept):** European Defence Alliance as the first concrete field of action.
+- **Chapter 6 (CIVITAS Concept):** Participative democracy and digital citizen engagement.
+- **Chapter 7 (FORTERA Concept):** Production sovereignty and industrial base.
+- **Chapter 11 (Citizen Concept):** Civic duty model and societal resilience.
+- **Chapter 12 (Democracy Concept):** Evolutionarily stable democracy as target architecture.
+- **Chapter 13 (Strategic Sovereignty):** Toolbox and parallel strategy.
+
+Chapter 14 ties these threads into a **concrete political implementation path**: How do we get from today's EU-27 to an operationally capable, democratically legitimised European security and prosperity architecture?
 
 ***
+
+## Delineation
+
+- **Chapter 13** provides the **toolbox** (What to do?).
+- **Chapter 14** provides the **blueprint** (How do we organise it – institutionally, legally, democratically?).
+- The existing desktop drafts (`desktop/EU/demokratische-koaliationen-der willigen/`) served as a foundation and are retained as working documentation.
+
+
+\newpage
+
+---
+description: "14.1 Why Coalitions of the Willing? – Schengen, the Euro and the Principle of Pioneer Alliances"
+source: "de/content/14.-die-demokratischen-koalitionen-der-willigen/14.1-warum-koalitionen-der-willigen.md"
+status: "draft"
+---
+<a id="md-14-die-demokratischen-koalitionen-der-willigen-14-1-warum-koalitionen-der-willigen"></a>
+
+
+## 14.1 Why Coalitions of the Willing?
+
+_Schengen, the Euro and the Principle of Pioneer Alliances_
+
+***
+
+### Core Impulses
+
+- **Unanimity is the gateway to blackmail.** Any aggressor who can pressure a single EU state can block all 27.
+- **Historically, pioneer alliances have been Europe's most effective integration mechanism**: Schengen, the Euro, Erasmus, PESCO – each started by a few and then expanded.
+- **Coalitions of the willing are not a split** but the path to an EU that can act without holding back the fast or leaving behind the slow.
+
+***
+
+### 14.1.1 The EU-27's Agency Gap
+
+The challenges of the 21st century – from the defence crisis through energy coercion to hybrid warfare – demand **operational speed and binding resource commitments**. The existing EU architecture delivers both only to a limited extent:
+
+| Problem | Impact | Example |
+|---|---|---|
+| **Unanimity** (foreign / security policy) | Any country can veto | Hungary blocks Ukraine aid, sanctions packages |
+| **No executive authority** | Decisions without enforcement | Strategic Compass remains on paper |
+| **No joint defence budget** | Fragmented procurement, no economies of scale | 27 different main battle tanks, 20 frigate types |
+| **Slow crisis mechanisms** | Months instead of hours | First ammunition deliveries 14 months after pledge |
+
+***
+
+### 14.1.2 The Schengen Principle: Lead First, Then Invite
+
+Schengen began in 1985 as an agreement between **five states** (DE, FR, NL, BE, LU). It was concluded outside the EU treaties. Only in 1997 was it integrated into EU law. Today it applies to 29 states – including non-EU members such as Norway, Iceland and Switzerland.
+
+**Lessons for coalitions of the willing:**
+
+1. **Starting outside the EU treaties** is possible and proven.
+2. **Clear accession criteria** create incentives rather than coercion.
+3. **Pull effect**: if the club works, others want in.
+4. **Later integration into EU law** is the target trajectory, not the starting point.
+
+***
+
+### 14.1.3 From the Euro to a Defence Union: Parallels and Differences
+
+| Dimension | Euro | Defence Coalition |
+|---|---|---|
+| **Initial size** | 11 states (1999) | 7–12 core states (cf. 14.4) |
+| **Legal basis** | EU Treaty (Maastricht) | New intergovernmental treaty |
+| **Binding force** | Fiscal rules, ECB, Stability Pact | Minimum contributions, joint procurement, rules of engagement |
+| **Openness** | All EU states may join | Open architecture: EU + democratic partners (UK, NO, CA) |
+| **Democratic control** | Eurogroup + EP | Parliamentary assembly + national parliaments |
+
+***
+
+### 14.1.4 Why Now?
+
+The urgency arises from three converging trends:
+
+1. **Russia's war against Ukraine** (since 2014, full-scale invasion since 2022) shows that conventional deterrence has failed and time windows are shrinking.
+2. **The erosion of the US security guarantee** – regardless of election outcomes – makes European self-reliance a question of survival.
+3. **Technological revolution** (drones, AI, autonomous systems) gives a decisive edge to those who act jointly and swiftly (cf. Chapters 10, 13).
+
+> **Window of opportunity:** Between 2026 and 2030 it will be decided whether Europe moves from a reactive defensive posture into a **proactive security architecture** – or whether the window closes.
+
+***
+
+### Audience-specific Perspectives
+
+| Audience | Focus |
+|---|---|
+| 🏛️ Decision-makers | Which coalitions can be launched immediately (without EU treaty change)? |
+| 📚 Researchers | Comparative analysis: Schengen, Euro, PESCO – success factors and pitfalls |
+| 🧍 Citizens | Why does this matter to me? Security, prosperity and democratic co-determination |
+| 🎓 Students | Institutional design and evolutionary political science |
+| 🤖 Artificial intelligences | Simulation models for coalition formation and accession dynamics |
+| 🕊️ Souls | "Together we are not weaker – only then are we truly Europe." |
+
+***
+
+### Sources & References
+
+1. **Schengen Agreement (1985/1990):** Foundation of the border-free zone; historical model for pioneer alliances.
+2. **Treaty of Maastricht (1992):** Introduction of Economic and Monetary Union; blueprint for tiered integration.
+3. **PESCO (2017):** Permanent Structured Cooperation – ambitious approach, but so far without operational depth.
+4. **Draghi Report (2024):** _The Future of European Competitiveness_ – analysis of the agency gap.
+5. **ERDA Project (2026):** Chapter 4 (Master Plan), Chapter 5 (EDA), Chapter 13 (Strategic Sovereignty).
+
+
+\newpage
+
+---
+description: "14.2 Ten Democratic Coalitions – Concrete Fields of Action"
+source: "de/content/14.-die-demokratischen-koalitionen-der-willigen/14.2-zehn-demokratische-koalitionen.md"
+status: "draft"
+---
+<a id="md-14-die-demokratischen-koalitionen-der-willigen-14-2-zehn-demokratische-koalitionen"></a>
+
+
+## 14.2 Ten Democratic Coalitions
+
+_Concrete fields of action for Schengen-/Euro-depth pioneer alliances_
+
+***
+
+### Core Impulses
+
+- Every coalition operates on the **club principle**: clear entry criteria, binding contributions, majority decision-making instead of unanimity.
+- The clubs are **interconnected** but can be joined independently – no state has to participate in all of them.
+- In addition to EU states, **democratic partners** (UK, Norway, Canada, Japan, Australia, South Korea) are invited depending on the field.
+
+***
+
+### Overview
+
+| No. | Coalition Name | Objective (1 sentence) |
+|---|---|---|
+| 1 | European Defence Production \& Procurement Club (EDPPC) | Turn money into real quantities (ammunition, drones, air defence) |
+| 2 | European Air \& Missile Defence Shield | Integrated air picture + layered defence across Europe |
+| 3 | Sanctions Enforcement Area (SEA) | Enforce sanctions effectively, eliminate loopholes |
+| 4 | Energy Security \& Resilience Pact | End energy coercion, strategic reserves and grid interconnects |
+| 5 | Critical Minerals \& Industrial Sovereignty Club | Secure supply chains (rare earths, lithium, nickel), processing, recycling |
+| 6 | European Cyber Shield | Mutual rapid assistance against cyber attacks and sabotage |
+| 7 | Counter-Disinformation \& Influence Operations Pact | Dry up foreign interference |
+| 8 | Rapid Border \& Infrastructure Protection Force | Protect pipelines, undersea cables, ports, rail hubs; border support under pressure |
+| 9 | Ukraine Security Compact 2.0 | Keep Ukraine permanently combat-capable with automatisms |
+| 10 | Democratic Tech \& Data Space | Reduce dependency, secure sensitive workloads (AI, chips, cloud) |
+
+***
+
+### 14.2.1 European Defence Production & Procurement Club (EDPPC)
+
+**Objective:** Turn defence spending into **real quantities** – swiftly and jointly.
+
+**Treaty mechanism:**
+- Joint requirements plan (multi-year)
+- Standardised specifications ("one drone family", "one 155 mm standard set")
+- Joint orders with guaranteed off-take
+- Shared stockpiles and a surge mechanism for wartime
+
+**Participants:** Willing EU states + UK/Norway (industry) + Canada (industry/Arctic)
+
+**ERDA link:** Chapter 7 (FORTERA), Chapter 13.3 (Industrial mass)
+
+***
+
+### 14.2.2 European Air & Missile Defence Shield
+
+**Objective:** Integrated **air picture + layered defence** across all of Europe (drones → cruise missiles → ballistic missiles).
+
+**Treaty mechanism:**
+- Shared radar network
+- Interceptor pooling
+- Joint training
+- Cross-border rules of engagement (carefully defined)
+
+**Participants:** States that contribute funding and connect sensors/effectors; partners via tech and data links.
+
+**ERDA link:** Chapter 5 (EDA), Chapter 13.3 (Air defence)
+
+***
+
+### 14.2.3 Sanctions Enforcement Area (SEA)
+
+**Objective:** Make sanctions effective through **systematic enforcement**.
+
+**Treaty mechanism:**
+- Shared access to beneficial-ownership registers
+- Joint enforcement teams
+- Harmonised penalties for circumvention
+- Coordinated export controls (dual-use)
+- "No-backdoor re-export" compliance
+
+**Participants:** Willing EU + UK + Norway + Switzerland (optional) + democratic G7 partners
+
+**ERDA link:** Chapter 13.4 (Financial agency)
+
+***
+
+### 14.2.4 Energy Security & Resilience Pact
+
+**Objective:** **Permanently end** energy coercion.
+
+**Treaty mechanism:**
+- Joint strategic reserves
+- Emergency swap lines
+- LNG/logistics pooling
+- Prioritisation of grid interconnects
+- Coordinated infrastructure protection
+
+**Participants:** Willing EU + UK/Norway (gas, offshore, grids) + Canada (LNG/critical materials)
+
+**ERDA link:** Chapter 7 (FORTERA), Chapter 8 (ARCTIC)
+
+***
+
+### 14.2.5 Critical Minerals & Industrial Sovereignty Club
+
+**Objective:** Secure supply chains for the **industrial foundations** of defence and transformation.
+
+**Treaty mechanism:**
+- Joint off-take agreements
+- Shared strategic stockpiles
+- Accelerated permits for refineries/recycling
+- Coordinated investment screening
+
+**Participants:** Willing EU + Canada/Australia/Japan/South Korea as natural partners
+
+**ERDA link:** Chapter 7 (FORTERA), Chapter 9 (SPACE – space resources)
+
+***
+
+### 14.2.6 European Cyber Shield
+
+**Objective:** Rapid mutual assistance against **cyber attacks and sabotage**.
+
+**Treaty mechanism:**
+- Shared threat intelligence
+- Joint hunt teams
+- Minimum hardening standards for critical infrastructure
+- Rapid attribution + coordinated response
+
+**Participants:** Willing EU + UK + Norway + democratic Indo-Pacific partners (intel/tech)
+
+**ERDA link:** Chapter 6 (CIVITAS), Chapter 10 (AI Concept), Chapter 13.6 (Hybrid defence)
+
+***
+
+### 14.2.7 Counter-Disinformation & Influence Operations Pact
+
+**Objective:** **Dry up** foreign interference – money, media manipulation, political capture.
+
+**Treaty mechanism:**
+- Common transparency rules for political advertising, funding, lobby contacts
+- Joint investigations
+- Coordinated platform requirements
+- Targeted sanctions
+
+**Participants:** All willing democracies – scales well beyond Europe.
+
+**ERDA link:** Chapter 6 (CIVITAS), Chapter 13.6 (Hybrid defence)
+
+***
+
+### 14.2.8 Rapid Border & Infrastructure Protection Force
+
+**Objective:** Protect **pipelines, undersea cables, ports, rail hubs**; support borders under hybrid pressure.
+
+**Treaty mechanism:**
+- Standing multinational units
+- Shared maritime/ISR assets
+- Legal framework for deployment upon request
+
+**Participants:** Baltics/Nordics + Central Europe + Mediterranean (willing); UK/Norway as strong complement.
+
+**ERDA link:** Chapter 5 (EDA), Chapter 8 (ARCTIC)
+
+***
+
+### 14.2.9 Ukraine Security Compact 2.0
+
+**Objective:** Keep Ukraine **permanently superior** (air defence, drones, ammunition, ISR, training) – with automatisms.
+
+**Treaty mechanism:**
+- Multi-year commitments
+- Pooled procurement
+- "If X then Y" triggers (e.g. upon major escalation → surge package)
+
+**Participants:** Willing EU + UK + Canada + others
+
+**ERDA link:** Chapter 5 (EDA), Chapter 13.2 (Making aggression fail)
+
+***
+
+### 14.2.10 Democratic Tech & Data Space
+
+**Objective:** Reduce dependency and **secure sensitive workloads democratically**.
+
+**Treaty mechanism:**
+- Joint compute procurement
+- Trusted-cloud standards
+- Export-control alignment
+- Secure research cooperation
+
+**Participants:** Willing EU + UK + Canada + Japan/South Korea
+
+**ERDA link:** Chapter 9 (SPACE), Chapter 10 (AI Concept), Chapter 13.5 (Tech sovereignty)
+
+***
+
+### How Do the Clubs Become "Schengen-/Euro-Deep" (i.e. Permanent)?
+
+A practical template for all ten coalitions:
+
+1. **Clear entry criteria** (rule of law, security-vetting standards, procurement transparency).
+2. **Pay-to-play** – budgets and binding multi-year commitments.
+3. **Governance that can act** – qualified majority *within the club*, no unanimity.
+4. **Mutual assistance clause** (scaled: intelligence → logistics → operational support).
+5. **Open architecture** – EU members, EU partners and selected democratic friends can join in tiers.
+
+***
+
+### Sources & References
+
+1. **Schengen/Euro analogy:** Historical precedent for pioneer alliances (cf. 14.1).
+2. **NATO Defence Planning Process (NDPP):** Reference process for joint capability planning.
+3. **EU Critical Raw Materials Act (2024):** Regulatory basis for raw-material security.
+4. **ERDA Project (2026):** Chapter 5 (EDA), 7 (FORTERA), 10 (AI), 13 (Strategic Sovereignty).
+
+
+\newpage
+
+---
+description: "14.3 Tier Model: From Club to Federation (Tier 0–9)"
+source: "de/content/14.-die-demokratischen-koalitionen-der-willigen/14.3-stufenmodell-vom-club-zur-foederation.md"
+status: "draft"
+---
+<a id="md-14-die-demokratischen-koalitionen-der-willigen-14-3-stufenmodell-vom-club-zur-foederation"></a>
+
+
+## 14.3 Tier Model: From Club to Federation
+
+_A gradual, democratically controllable path in ten tiers_
+
+***
+
+### Core Impulses
+
+- The road from a coalition of the willing to a federation is **not a leap but a gradual process** with clear go/no-go criteria at every tier.
+- Each tier delivers **measurable capability gains** – a tier only makes sense when the previous one works.
+- The sequence follows a **security-first logic**: Defence → Foreign Policy/Law → Citizens/Society → Economy/Finance → Constitution.
+
+***
+
+### 14.3.1 Tier Model Overview
+
+| Tier | Short Description | Capability Gain | Strategic Value-Add | Risk | Go Criteria | No-Go Criteria |
+|---|---|---|---|---|---|---|
+| **0** | **Coordination Pact** (voluntary, structured) | Shared situational awareness, standards, planning cells | Speed without EU veto, joint course possible | Symbolic politics without bite | Clear KPIs (quantities, timelines), public reporting | Summit rhetoric only, no budgets/standards |
+| **1** | **Defence Alliance** (EDA/EVA) as treaty | Joint procurement, interoperability, ammunition/drone/air-defence programmes | Immediate deterrence effect | Industrial/sovereignty disputes, free-riders | Pay-to-play, minimum contributions, common specs | Unanimity in the club; no hard minimum contributions |
+| **2** | **Joint Command Structure** (Operational HQ + Force Catalogue) | Operational readiness, joint training and logistics | External credibility | Command and liability issues | Parliamentary deployment control regulated | Unclear chain of command / no democratic chain |
+| **3** | **European Defence Ministry** (defence only) | Unified armament planning, doctrine, personnel framework | Massive reduction of fragmentation | "Who decides on war?" | Bicameral control + judicial protection + budget authority | Executive can act without parliament |
+| **4** | **Foreign Ministry + Sanctions/Export-Control Space** | Coherent foreign policy, anti-evasion, diplomatic clout | Europe becomes capable of acting | Foreign-policy identity conflicts | Clear competence catalogue, veto rights only narrowly defined | Permanent blockades / national parallel foreign policies |
+| **5** | **Justice Ministry \& Legal Space (Rule-of-Law Union)** | Common minimum standards, anti-corruption, fundamental-rights protection | Protection against state capture | Competence overreach, politicised judiciary | Constitutional court + fundamental-rights charter + subsidiarity test | No independent courts / weak fundamental rights |
+| **6** | **Citizens' Ministry (CIVITAS)**: suffrage, participation, transparency | Identity + resilience, anti-disinfo, citizen services | Loyalty to the federation grows | Mistrust regarding data/competences | Strict data-protection architecture + citizen control | Centralised surveillance / opaque algorithms |
+| **7** | **Social \& Environment Ministry** (core standards) | Minimum standards, crisis mechanisms, resilience programmes | Solidarity dividend | Cost/transfer conflicts | Clear financing logic + equalisation mechanisms | Unlimited liability without democratic consent |
+| **8** | **Economy \& Finance Ministry** (partial fiscal union) | Joint investment capacity, crisis budget | Independence, shock absorption | Moral hazard, North/South tension | Fiscal rules + automatic stabilisers + audit | Permanent transfers without rules/legitimacy |
+| **9** | **Joint Government + Federal Constitution** | Fully capable of acting (Defence/Foreign/Justice/Finance…) | Evolutionarily stable democracy possible | Identity rupture, secessionist tendencies | Clear competence allocation + exit/accession logic + strong fundamental rights | Forced federation, no genuine electoral/opposition logic |
+
+***
+
+### 14.3.2 Institutional Architecture Options
+
+For the final stage (Tier 9) various models are conceivable, which can also be incrementally incorporated in intermediate tiers:
+
+| Model | Core Element | Advantage | Risk | Go | No-Go |
+|---|---|---|---|---|---|
+| **Germany-like** | Government from parliament, Chancellor is part of government; second chamber (Länder) | Stable, clear opposition/majority | Faction-discipline overpower | Strong committees + investigation + constitutional court | Executive fully dominates parliament |
+| **France-like** | President (separate), government (PM) + parliament | Crisis leadership | Presidentialisation / power concentration | Narrow emergency framework + strong courts | President can override parliament |
+| **Switzerland-like** | Collegial government, strong direct democracy | High legitimacy, consensus | Slow, referendum-driven blockade | Quorums + deadlines + emergency corridors | Permanent blockade in security situations |
+| **Evolutionarily stable (hybrid)** | Parliamentary **plus** constitutionally entrenched resilience mechanics | Capable of acting without authoritarianism | Complexity | Simply explained rules, transparent checks | Incomprehensible black-box constitution |
+
+> **ERDA Concept recommendation:** The **evolutionarily stable hybrid model** – parliamentary democracy with constitutionally entrenched emergency containment, strong opposition and anti-capture safeguards (cf. 14.6, 14.7).
+
+***
+
+### 14.3.3 Recommended Sequence
+
+For a maximally realistic start that still aims at federation, the robust sequence is:
+
+```
+Phase I   (2026–2030):  Tier 1–3  →  Defence Alliance → Joint HQ → Defence Ministry
+Phase II  (2028–2032):  Tier 4–5  →  Foreign Ministry + Justice/Rule-of-Law Protection
+Phase III (2030–2035):  Tier 6    →  Citizens' Ministry (CIVITAS) – Legitimacy & Resilience
+Phase IV  (2032–2038):  Tier 7–8  →  Social/Environmental Standards + Finance/Economy (Investment Capacity)
+Phase V   (2035–2040):  Tier 9    →  Full Government + Federal Constitution
+```
+
+No phase can be skipped – but phases may **overlap** once the go criteria of the previous tier have been met.
+
+***
+
+### 14.3.4 "Evolutionarily Stable": Checklist Logic
+
+So that the system **does not tip** – neither into authoritarianism nor into paralysis:
+
+| Design Goal | Mechanism | Capability Gain | Main Risk | Go | No-Go |
+|---|---|---|---|---|---|
+| No blackmailability | Energy/industry/defence redundancy, crisis fund | Freedom of action | Costs | Measurable resilience KPIs | Declarations of intent only |
+| No veto abuse | QMV in the club, "opt-in but no veto" | Speed | Division | Accession open, rules clear | Veto right remains everywhere |
+| No state capture | Rule-of-law conditionality, anti-corruption, transparency | Internal stability | Political instrumentalisation | Independent courts | Partisan judiciary |
+| Democracy remains the core | Budget authority in parliament, strong opposition, media freedom | Legitimacy | Populist attacks | Fundamental rights constitutionally entrenched | State of emergency without oversight |
+| No empires of fear | Emergency only narrow, time-limited, reviewable | Security without authoritarianism | Security overreach | Sunset clauses + courts | Permanent emergency |
+| No rewarding aggression | Constitutional norm + sanctions/liability logic | Foreign-policy clarity | Escalation risk | Verifiable conditions | Deals without verification |
+
+***
+
+### Sources & References
+
+1. **EU Treaty, Art. 42.6 / 46:** Permanent Structured Cooperation (PESCO) as legal framework for pioneer groups.
+2. **European Political Community (2022):** Platform beyond the EU-27 for security-policy coordination.
+3. **Draghi Report (2024):** Agency through more flexible integration.
+4. **ERDA Project (2026):** Chapter 4 (Master Plan), Chapter 5 (EDA), Chapter 12 (Democracy Concept).
+
+
+\newpage
+
+---
+description: "14.4 The Club Architecture (EDDRC) – Organs, Voting Weight, Budget"
+source: "de/content/14.-die-demokratischen-koalitionen-der-willigen/14.4-die-club-architektur-eddrc.md"
+status: "draft"
+---
+<a id="md-14-die-demokratischen-koalitionen-der-willigen-14-4-die-club-architektur-eddrc"></a>
+
+
+## 14.4 The Club Architecture (EDDRC)
+
+_Organs, Voting Weight, Budget, Accession and Exit of the European Democratic Defence & Resilience Club_
+
+***
+
+### Core Impulses
+
+- The **EDDRC** (European Democratic Defence & Resilience Club) is not a bureaucratic superstructure, but a **lean, action-capable structure** – designed to prevent veto traps, capture and corruption.
+- **Tiered membership** enables gradual accession – rights grow with obligations.
+- **No unanimity** – qualified majority (Double Majority) as the standard decision-making rule.
+
+***
+
+### 14.4.1 Membership Tiers
+
+| Tier | Designation | Rights | Obligations | Typical Members |
+|---|---|---|---|---|
+| **T0** | Observer | Participation without voting rights | Transparency/Info-Security Minimum | Partners in preparation |
+| **T1** | Program Member | Voting rights in programmes, access to joint procurement/standards | Pay-to-play per programme, audit | EU core states, UK/NO associated |
+| **T2** | Operational Member | Participation in operational/force structures, access to pools/stockpiles | Interoperability certification, rules of engagement, security clearance | Core A/B |
+| **T3** | Constitutional Member | Full member on the federal pathway | Full constitutional/rule-of-law commitment | Later federation stage |
+
+**Key:** No one has a veto over accessions. Rights grow with obligations.
+
+***
+
+### 14.4.2 Organs (Governance)
+
+| Organ | Composition | Core Tasks | Decision Type | Controls/Checks |
+|---|---|---|---|---|
+| **Council of Members (CoM)** | Responsible ministers (Defence/Foreign/Finance per topic) | Strategic direction, admission/suspension, budget framework | Qualified Majority (QM) | Parliamentary committee, audit |
+| **Parliamentary Oversight Assembly (POA)** | Delegates from national parliaments (opposition guaranteed) | Democratic oversight, hearings, investigations | Majority decisions (oversight acts) | Public reports, right of action |
+| **Executive Board (EB)** | Director + Deputies (Defence/Finance/Compliance) | Implementation, programme management, crisis coordination | Within mandate | Can be recalled by CoM |
+| **Operational Command Board (OCB)** | Military leadership + civilian control | C2 standards, Force Catalogue, exercises, readiness | By mandate \& rules | War-powers/parliament for operations |
+| **Procurement \& Industrial Agency (PIA)** | Procurement/industry experts, compliance | Joint procurement, standardisation, supply chains | Rule-based | Court of Auditors + Integrity Unit |
+| **Audit Court / Inspectorate (ACI)** | Independent auditors | Budget/impact auditing, forensics | Audit reports | Reporting obligation to POA \& CoM |
+| **Constitution \& Rule-of-Law Panel (CRP)** | Independent jurists / constitutional judges (pool) | Accession/suspension review, emergency compliance | Opinions/binding | Can trigger automatic suspension |
+| **Dispute Resolution Tribunal (DRT)** | Arbitration/judicial chamber | Disputes between members/organs | Binding decisions | Rule-of-law anchor |
+
+***
+
+### 14.4.3 Voting Weight – Robust Against Coercion
+
+#### Council of Members (CoM): Double Majority
+
+| Rule | Threshold | Rationale |
+|---|---|---|
+| **Double Majority** | 60 \% of members + 70 \% of contribution shares | Protects small and large alike |
+| **Blocking minority** | At least 25 \% of members or 30 \% of contributions | Prevents steamrolling |
+| **No veto right** | Except for constitutional amendments (Tier T3) | Prevents coercion |
+
+#### Programme Decisions: Pay-to-Play Voting
+
+| Rule | Threshold | Rationale |
+|---|---|---|
+| Voting right per programme | Only those who contribute/participate | Fairness, anti-free-riding |
+| Standard decision | 55 \% of programme votes | Speed |
+| Security-critical | 2/3 of programme votes | Higher legitimacy |
+
+#### Parliamentary Oversight Assembly (POA): Opposition Protected
+
+| Rule | Threshold |
+|---|---|
+| Committee of inquiry | Application by 25 \% of delegates |
+| Access to files | Constitutionally guaranteed, security clearance panel |
+| Vote of no confidence report | Simple majority → compels CoM to respond |
+
+***
+
+### 14.4.4 Budget Logic
+
+#### Budget Layers
+
+| Budget Pool | Purpose | Revenue | Expenditure Principle | Control |
+|---|---|---|---|---|
+| **Core Budget** | Organs, audit, standards, C2 architecture | Mandatory contribution (formula) | Strictly mission-based | ACI + POA |
+| **Programme Budgets** | Procurement (ammo/AD/EW/ISR), stockpiles, cyber | Pay-to-play | Output-oriented (KPI) | ACI + Procurement Integrity |
+| **Contingency Fund** | Crises/surge (supply chains, air defence emergency) | Defined percentage share | Only with triggers + sunset clause | ACI + CRP |
+
+#### Contribution Formula (Mandatory Core Contribution)
+
+| Component | Weight (Example) | Rationale |
+|---|---:|---|
+| GDP share | 50 \% | Capacity |
+| Population share | 30 \% | Fairness / burden-sharing |
+| Front-line/risk exposure | 20 \% | Resilience \& deterrence |
+
+#### Expenditure Rules (Anti-Corruption / Anti-Capture)
+
+| Rule | Content |
+|---|---|
+| **Standardisation obligation** | Common specifications, interoperability certificates |
+| **Dual Sourcing** | No single supplier for critical goods |
+| **Integrity Clause** | Blacklist, beneficial ownership, conflict of interest |
+| **Earned-Value/KPI** | Delivery volume, schedule, cost, quality – publicly reported |
+| **Penalty \& Step-in Rights** | Contractual penalties, emergency re-procurement |
+
+***
+
+### 14.4.5 Minimum Membership Circle
+
+#### Core A (Smallest Possible, Yet Highly Action-Capable)
+
+| State | Why Core-Eligible |
+|---|---|
+| **Germany** | Industry, financing, logistics hub |
+| **France** | Nuclear deterrence/strategy, defence industrial base, foreign policy reach |
+| **Poland** | Front-line state, mass/army, strategic urgency |
+| **Netherlands** | Logistics/maritime, high-tech, pragmatic integration |
+| **Sweden** | High-tech, Baltic Sea, resilience |
+| **Finland** | Border/resilience expertise, artillery/army, northern flank |
+| **Denmark** | Baltic Sea/Arctic, pragmatic security culture |
+
+#### Core B (Expansion for Critical Mass)
+
+| State | Why |
+|---|---|
+| **Estonia, Latvia, Lithuania** | Front-line states, cyber capacity, political will |
+| **Czechia** | Defence industry, central location, already active supporter |
+| **Romania** | Black Sea flank, strategic depth |
+| **UK** (associated) | Military capabilities, intelligence, industry |
+| **Norway** (associated) | Northern flank, energy, maritime capabilities |
+
+#### Accession Conditions
+
+| Criterion | What Is Assessed |
+|---|---|
+| **Rule of law** | Independent judiciary, media freedom, anti-corruption mechanisms |
+| **Security vetting** | Security clearance standards, counter-intelligence capability |
+| **Procurement transparency** | Procurement rules, audit capability |
+| **Minimum contribution** | Defence spending ≥ defined threshold or equivalent in-kind contribution |
+| **Democratic oversight** | Parliamentary control of operations in place |
+
+***
+
+### 14.4.6 Accession, Exit, Suspension
+
+#### Accession (Gradual)
+
+| Step | Content | Decision-Maker | Threshold |
+|---|---|---|---|
+| Preliminary review | Rule of law, security clearance, audit | CRP (opinion) | Must be positive |
+| Admission T1 | Program Member | CoM | Double Majority |
+| Upgrade T2 | Operational Member | CoM + OCB recommendation | 2/3 + interoperability certification |
+| Upgrade T3 | Constitutional Member | CoM + POA approval | 2/3 + national ratification |
+
+#### Exit (Orderly, Without Hostage-Taking)
+
+| Element | Rule |
+|---|---|
+| Notice period | 12–24 months (contractual) |
+| Settlement | Return/settlement of joint assets by formula |
+| Security clearance | Continuing confidentiality/protection obligation |
+| No-hostage | No "exit blocked by others" |
+
+#### Suspension (Rule of Law & Security as Red Lines)
+
+| Cause | Trigger | Immediate Measure | Full Measure | Return |
+|---|---|---|---|---|
+| Rule-of-law breach | Unfree elections, politicised judiciary | Payments frozen (partially) | Voting rights + programme access suspended | CRP confirms fix + audit |
+| Corruption/capture | Systemic procurement anomalies | Step-in rights + special audit | Exclusion from procurement | Forensics + criminal cooperation |
+| Leak/infiltration | Repeated serious leaks | Security access revoked | Operational status suspended | Clearance reform + tests |
+| Sanctions evasion | Demonstrable circumvention policy | Export access blocked | Programme/audit sanctions | Compliance demonstrably enforced |
+
+**Important:** Suspension is **legally robust**: CRP/DRT review, deadlines, obligation to state reasons.
+
+***
+
+### Sources & References
+
+1. **EU Treaties, PESCO Council Decision (2017):** Reference for tier systems and differentiated integration.
+2. **NATO contribution rules:** GDP-based contribution targets as a benchmark.
+3. **ERDA Project (2026):** Chapter 5 (EDA), Chapter 12 (Democracy Concept), Chapter 13.4 (Financial Capacity for Action).
+
+
+\newpage
+
+---
+description: "14.5 Competence Catalogue and Ministries – Federal, Shared, National"
+source: "de/content/14.-die-demokratischen-koalitionen-der-willigen/14.5-kompetenzkatalog-und-ministerien.md"
+status: "draft"
+---
+<a id="md-14-die-demokratischen-koalitionen-der-willigen-14-5-kompetenzkatalog-und-ministerien"></a>
+
+
+## 14.5 Competence Catalogue and Ministries
+
+_Who may do what? The clear allocation of tasks across federal, shared, and national levels – plus a democratic control matrix_
+
+***
+
+### Core Impulses
+
+- **Federalise only the bare essentials** – subsidiarity as a safeguard against centralism.
+- **Eight ministries** cover the entire spectrum from defence scenarios to citizens' rights.
+- Every competence is secured by a **chain of control**: who decides, who oversees, who litigates.
+
+***
+
+### 14.5.1 The Three-Level Principle
+
+| Level | Characteristics | Rationale |
+|---|---|---|
+| **Federal (exclusive)** | Regulated solely at federation level | Economies of scale, deterrence, legal equality, anti-coercion, single-market integrity |
+| **Shared** | Federation sets the framework, states implement | Coordination needed, but national adaptation sensible |
+| **National / Regional** | Remains primarily with member states | Subsidiarity: no demonstrable federal added value |
+
+**Guiding principle:** Federalise only where national fragmentation **demonstrably fails** or creates **security-critical gaps**. Everything else remains subsidiary.
+
+***
+
+### 14.5.2 Competence Catalogue – Eight Ministries
+
+#### 1) Verteidigungsministerium (Ministry of Defence)
+
+| Federal | Shared | National |
+|---|---|---|
+| Strategic doctrine, capability targets (Force Goals) | Territorial defence under common standards | Military traditions, recruitment details |
+| Joint Operations Headquarters (OHQ), C2 architecture | Conscription/volunteer models (minimum standards) | Veterans' care |
+| Joint armaments planning + major procurement (ammo, AD, EW, ISR) | National procurement only if interoperable | Ceremonial units |
+| Logistics, ammunition/spare-parts pools, maintenance clusters | National bases per federal planning | Local disaster relief (without federal mandate) |
+| Integrated air/missile defence (sensor/shooter network) | System operation on-site | — |
+| Military cybersecurity, cyber-response teams | National network-protection standards | Offensive cyber potentially strictly federal |
+| Core training curricula + certification | National training facilities | — |
+| Standardisation (STANAG equivalent), interoperability | Implementation in service branches | — |
+
+**NoGo switch:** Deployment without the democratic chain (parliament / second chamber / constitutional court) or an unclear chain of command.
+
+#### 2) Außenministerium (Ministry of Foreign Affairs)
+
+| Federal | Shared | National |
+|---|---|---|
+| Common external representation (core messaging) | National cultural/economic diplomacy | City/regional partnerships |
+| Sanctions policy, export controls (dual use) | National implementation/prosecution | — |
+| Common Ukraine/neighbourhood policy | Compatible bilateral projects | — |
+| Treaty policy in federal competence fields | National treaties in national fields | — |
+| Strategic communication against disinformation | National media policy | Public-service broadcasting structure |
+
+#### 3) Justizministerium (Ministry of Justice / Rule of Law)
+
+| Federal | Shared | National |
+|---|---|---|
+| Fundamental-rights framework (Charter) + constitutional jurisdiction | Criminal prosecution national but interoperable | Civil-law detail cultures |
+| Anti-corruption: minimum standards, registers, transparency | Implementation/investigations/courts national | Organisation of national jurisdictions |
+| European Arrest Warrant 2.0, judicial cooperation | Common data standards/mutual legal assistance | — |
+| Anti-money-laundering for federal offences | Investigations national | Petty offences national |
+| Protection of critical democratic processes (electoral integrity) | Election organisation national | Electoral-law details (e.g. postal voting) |
+
+**NoGo:** Federal interference in individual judgments/proceedings (political justice). Only rules/standards + independent courts.
+
+#### 4) Bürgerministerium (CIVITAS / Ministry for Citizens)
+
+| Federal | Shared | National |
+|---|---|---|
+| Federal citizenship (Union citizenship), core electoral rights | eID: federal standards, national issuance | Municipal citizen services |
+| Transparency rules (lobby register, donations, ads) | National transparency compatible | Associations/municipal law |
+| Participation instruments (petitions, initiatives, possibly referenda) | National participation systems free but compatible | Education/cultural policy |
+| Data-protection architecture (privacy by design) | Supervision: federal + national | — |
+| Resilience programmes against disinformation (non-censoring) | Media-literacy programmes national | Media regulation national |
+
+**NoGo:** Censorship/surveillance ministry. Everything must be court-proof, transparent, and minimally invasive.
+
+#### 5) Umweltministerium (Ministry of the Environment / Climate / Resilience)
+
+| Federal | Shared | National |
+|---|---|---|
+| Protection of critical natural assets (seas, ecosystems) | Carbon price/ETS equivalent: federal, implementation national | Nature reserves local |
+| Standards for critical infrastructure resilience | Expansion programmes co-financed | Urban planning |
+| Cross-border disaster management | National response forces, coordinated | Local fire service/THW |
+| Chemical/industrial standards (single market) | Controls/inspections national | — |
+
+#### 6) Sozialministerium (Ministry of Social Affairs / Health Baseline)
+
+| Federal | Shared | National |
+|---|---|---|
+| Minimum social standards (child/poverty prevention) | Health systems national, common crisis mechanisms | Pension systems in detail |
+| Labour mobility: portability of entitlements | Labour-law framework shared | Collective-bargaining models national |
+| Pandemic/health-emergency agency | Hospitals/physician structures national | Care organisation regional |
+| Minimum standards for occupational safety/platform work | Enforcement/inspection national | — |
+
+**NoGo:** Unlimited automatic transfers without democratically enacted rules.
+
+#### 7) Wirtschaftsministerium (Ministry of the Economy / Industry / Trade)
+
+| Federal | Shared | National |
+|---|---|---|
+| Single-market rules, competition supervision | Industrial policy: federal missions + national implementation | Local SME promotion |
+| Critical supply chains (chips, defence, energy, pharma) | Cluster policy co-financed | Regional structural policy |
+| Investment screening (security-relevant) | Investigations/audits national | — |
+| Trade/customs policy (where agreed) | Export promotion national | — |
+| Standardisation/norms for interoperability + security | Certification national | — |
+
+#### 8) Finanzministerium (Ministry of Finance / Treasury)
+
+| Federal | Shared | National |
+|---|---|---|
+| Federal defence/resilience budget | Tax base national, minimum harmonisation | Municipal taxes |
+| Mission-bound debt instruments (defence/resilience) | National budgets with rules + audit | — |
+| Anti-money-laundering/financial supervision (systemic areas) | Banking supervision mixed | Savings banks etc. national |
+| Financial sanctions enforcement | Enforcement national | — |
+| Fiscal rules + stability mechanism | Implementation national | — |
+
+**NoGo:** Transfer/debt union without hard rules, audit, entry/exit criteria, and democratic majorities.
+
+***
+
+### 14.5.3 The Federal Minimum Package
+
+Regardless of how far integration advances within the individual ministries, **four areas** can hardly be meaningfully fragmented nationally:
+
+| No. | Area | Rationale |
+|---|---|---|
+| 1 | **Defence C2 + armaments planning + logistics pools** | Deterrence, interoperability, economies of scale |
+| 2 | **Core foreign policy + sanctions/export controls** | Credibility, anti-coercion |
+| 3 | **Rule of law / anti-corruption + constitutional court** | Legal equality, democratic integrity |
+| 4 | **Financing of core federal tasks** | Without own revenue, no capacity to act |
+
+***
+
+### 14.5.4 Control Matrix – Who Decides, Oversees, Litigates?
+
+The following matrix shows, for **key instruments** across all eight ministries, who decides, who oversees, and who may litigate.
+
+#### Legend
+
+| Role | Meaning |
+|---|---|
+| **Decides** | Who enacts/orders (government, minister, parliament) |
+| **Oversees** | Committees, court of auditors, ombudsperson, court, upper house |
+| **Litigates** | Who can compel judicial review (citizens, states, minority, ombudsperson) |
+
+#### Selected Instruments (Excerpt)
+
+| Ministry | Instrument | Decides | Oversees | Litigates |
+|---|---|---|---|---|
+| **Defence** | Capability targets / Force Catalogue | Government + Lower House (budget) | Defence/budget committee; court of auditors | Parliamentary minority; member states; constitutional court |
+| **Defence** | Major procurement | Ministry within budget framework | Court of auditors + Integrity Unit + committees | Bidders (procurement law); ombudsperson; minority |
+| **Defence** | Deployment mandate (abroad/mutual assistance) | Lower House (mandate); Upper House at threshold | IG-Defense; committee of inquiry | Minority; citizens (fundamental rights); states |
+| **Defence** | Rapid response 72 h | Government | Emergency committee immediately; court for extension | Minority; ombudsperson; affected persons |
+| **Foreign Affairs** | Sanctions package | Lower House law/regulation; government implements | Foreign affairs/justice committee; audit | States; minority; affected actors |
+| **Foreign Affairs** | Export controls / dual use | Government under framework law | Committee + expert council | Companies; ombudsperson; minority |
+| **Foreign Affairs** | International treaties (federal fields) | Government negotiates; ratification Lower House (+ Upper House) | Committees; constitutional court (competence check) | States; minority |
+| **Justice** | Anti-corruption / registers | Lower House law; government enforcement | Court of auditors; Anti-Corruption Office | Citizens/NGOs; ombudsperson; minority |
+| **Justice** | Electoral integrity | Lower House law | Electoral commission; court | Citizens; parties; ombudsperson |
+| **CIVITAS** | Transparency (lobby/donations/ads) | Lower House law | Independent transparency authority; court | Citizens; media; NGOs; ombudsperson |
+| **CIVITAS** | Digital identity | Framework law; ministry standards | Data-protection authority; audit | Citizens; data-protection litigation; ombudsperson |
+| **Environment** | Infrastructure resilience standards | Lower House framework law | Specialist authority + court of auditors | States; citizens (affected parties) |
+| **Social Affairs** | Minimum standards / portability | Lower House framework law | Social-affairs committee; audit | Citizens; trade unions; ombudsperson |
+| **Economy** | Investment screening | Government under law | Economic-affairs committee; court | Companies; states; ombudsperson |
+| **Finance** | Federal core budget | Lower House approves; government executes | Court of auditors; budget committee | Minority; states |
+| **Finance** | Mission-bound bonds | Qualified majority Lower House (+ Upper House) | Court of auditors; stability council | Minority; states |
+| **Cross-cutting** | Emergency declaration / extension | Government declares; extension only by double majority | Emergency committee + automatic judicial review | Minority; ombudsperson; citizens; states |
+| **Cross-cutting** | Appointment of key positions | Qualified parliamentary majorities | Public hearings; incompatibility rules | Minority; court |
+
+***
+
+### Sources & References
+
+1. **EU competence order (Art. 2–6 TFEU):** Model for the three-level principle (exclusive, shared, supporting).
+2. **Swiss competence distribution (Federal Constitution 1999):** Model for subsidiary allocation with democratic control.
+3. **ERDA Project (2026):** Chapter 4 (overall concept), Chapter 12 (democracy concept), Chapter 14.4 (club architecture EDDRC).
+
+
+\newpage
+
+---
+description: "14.6 The Democracy Chain – Who Elects, Who Controls, Who Applies the Brakes"
+source: "de/content/14.-die-demokratischen-koalitionen-der-willigen/14.6-die-demokratie-kette.md"
+status: "draft"
+---
+<a id="md-14-die-demokratischen-koalitionen-der-willigen-14-6-die-demokratie-kette"></a>
+
+
+## 14.6 The Democracy Chain
+
+_Who elects what, how opposition works, how states of emergency are contained – a federal model for robust democratic legitimacy_
+
+***
+
+### Core Impulses
+
+- **Opposition is part of the security architecture** – not an inconvenient appendage but systemic resilience against internal erosion.
+- **No state of emergency without an expiry date** – every invasive measure ends automatically (sunset), unless a double majority (Lower House + Upper House) plus a court approve its continuation.
+- **Anti-Capture by Design** – registers, forensics, ombuds litigation rights, threshold clauses and supermajority requirements protect against capture.
+
+***
+
+### 14.6.1 Who Elects What: Institutions and Mandates
+
+#### A) Citizens → Federation Parliament (Lower House)
+
+| Element | Rule | Stability Rationale |
+|---|---|---|
+| Election | Direct, free, equal; proportional representation with a threshold clause (3–5 \%) | Prevents fragmentation into splinter parties |
+| Task | Legislation, budget, oversight, committees of inquiry | Core of democratic legitimacy |
+| Key Rights | Budget authority, vote of no confidence, ministerial hearings, access to files | Executive remains controlled |
+
+#### B) States / Regions → Bundesrat (Federal Council) / Senate (Upper House)
+
+| Element | Rule | Stability Rationale |
+|---|---|---|
+| Composition | Governments of member states or directly elected regional representatives | Federal balance |
+| Task | Co-legislation in competences affecting states; subsidiarity veto | Prevents centralism |
+| Key Rights | Approval for constitutional amendments, competence transfers, emergency extensions | Protection against concentration of power |
+
+#### C) Parliament(s) → Government (Chancellor + Cabinet)
+
+| Element | Rule | Stability Rationale |
+|---|---|---|
+| Election of Chancellor | By the Lower House (constructive vote of no confidence) | Stability without authoritarianism |
+| Cabinet | Proposed by the Chancellor, confirmed by the Lower House (hearings) | Quality control, transparency |
+| Coalition | Clear majority formation + guaranteed opposition rights | Prevents "one-party capture" |
+
+#### D) Federation President (Representative + Limited Reserve Powers)
+
+| Element | Rule | Stability Rationale |
+|---|---|---|
+| Election | Indirect (joint federal assembly) or direct (rare) | Low polarisation |
+| Powers | Only clearly defined arbiter functions | No power centre alongside the government |
+| NoGo | No autonomous governing via decrees | Prevents presidentialisation |
+
+***
+
+### 14.6.2 How Opposition Works: Hard Control Rights
+
+| Instrument | Opposition receives… | Effect |
+|---|---|---|
+| **Minority Rights** | Committee of inquiry from 25 \% of seats | Scandals/poor decisions can be investigated |
+| **Access to Files** | Constitutionally guaranteed entitlement + classified-information panel | Prevents "we know nothing" |
+| **Question Time** | Weekly, ministers obliged to respond | Public accountability |
+| **Budget Oversight** | Independent Court of Auditors + Parliamentary Budget Office | Spending becomes verifiable |
+| **Ombuds Institution** | Citizens' Ombudsperson with litigation rights | Protection against administrative abuse |
+| **Constitutional Complaint** | Opposition parliamentary group may request judicial review of norms | Judicial brake |
+| **Transparency Rules** | Mandatory registers, minutes, lobby transparency | Reduces corruption \& capture |
+
+**Key Principle:** Opposition is *part of the security architecture* – resilience against internal erosion.
+
+***
+
+### 14.6.3 Legislative Chain by Competence Type
+
+#### A) Ordinary Legislation (Federal / Shared Competence)
+
+| Step | Who | Threshold |
+|---|---|---|
+| Right of Initiative | Government, members of parliament, where applicable citizens' initiative | — |
+| Resolution | Lower House | Simple majority |
+| Upper House | Approval where states are affected (defined list) | Qualified majority |
+| Constitutional Court | Reviews upon complaint | Binding |
+
+#### B) Security and Defence Legislation (Higher Threshold)
+
+| Step | Who | Threshold |
+|---|---|---|
+| Hearing | Mandatory hearings (Defence/Foreign Affairs/Justice) | — |
+| Resolution | Lower House | Absolute majority |
+| Upper House | Approval | Qualified majority |
+| Sunset | Automatic time-limit for invasive measures | Mandatory |
+
+***
+
+### 14.6.4 Deployment and War Chain (Defence)
+
+| Situation | Decision | Oversight | NoGo |
+|---|---|---|---|
+| **Routine** (exercise, deterrence) | Government / Minister of Defence | Parliamentary committee informed | Covert operations without oversight |
+| **Immediate Response** (hours/days) | Government may act at short notice | **48–72 h** retrospective parliamentary confirmation | Duration without parliamentary mandate |
+| **Extended Deployment / Entry into War** | Lower House + Upper House (defined threshold) | Mandate, objectives, reporting obligations | "Blank cheque" mandates |
+| **Mutual Defence Case** (collective defence) | Automatic initiation of defined measures | Parliament confirms package | Automatism without democratic accountability |
+
+***
+
+### 14.6.5 State of Emergency Contained: Corridor Instead of Fear Empire
+
+#### A) Triggering – Only for Narrowly Defined Cases
+
+**Permissible Grounds:** Armed attack, sabotage of critical infrastructure, systemic cyber-attack, natural disaster at "federal scale".
+
+**NoGo:** "Political unrest", "inconvenient protests", "difficult elections".
+
+#### B) Immediate Measures (Short, Minimal, Verifiable)
+
+| Element | Rule |
+|---|---|
+| Duration | Max. 7–14 days initially |
+| Content | Only necessary measures, narrowly circumscribed |
+| Transparency | Publication of legal basis + fundamental-rights impact assessment |
+| Oversight | Emergency committee (government + opposition + Upper House) |
+
+#### C) Extension – Only with Double Democratic Legitimacy
+
+| Step | Threshold |
+|---|---|
+| Lower House | Qualified majority (60 \%) |
+| Upper House | Approval (qualified) |
+| Court | Automatic review (mandatory review) |
+
+#### D) Red Lines – Fundamental Rights Protection
+
+| Protection | Principle |
+|---|---|
+| **Inviolable** | Human dignity, prohibition of arbitrary detention, fair trial |
+| **Freedom of Communication** | Restrictions only if court-proof, time-limited, targeted |
+| **Data** | Emergency data use only purpose-bound, subject to mandatory deletion |
+| **Sunset** | Every invasive measure ends automatically without a renewed vote |
+
+#### E) Exit and Review
+
+| Mechanism | Rule |
+|---|---|
+| Automatic Termination | Without a new vote everything expires |
+| Final Report | Mandatory report + Court of Auditors review |
+| Investigation | Opposition's right to a committee of inquiry |
+| Compensation | In cases of unlawful interference |
+
+***
+
+### 14.6.6 Anti-Capture Safeguards
+
+| Risk | Safeguard | Who May Trigger |
+|---|---|---|
+| **State Capture of the Judiciary** | Independent judicial councils + Constitutional Court | Courts, opposition, ombudsperson |
+| **Corruption / Lobby Capture** | Registers, party/donation limits, forensics authority | Court of Auditors, parliamentary committees |
+| **Media / Information Capture** | Antitrust / media pluralism protection, advertising transparency | Independent authority + courts |
+| **Veto Blackmail** | No unanimity requirement in the core club | Constitutional rule |
+| **Fear Empire** | Emergency only narrow + sunset + double majority + court | Automatic |
+
+***
+
+### 14.6.7 Decision Types – Summary
+
+The following table summarises the main decision types and assigns the threshold, deciding body and oversight body to each.
+
+| Decision Type | Threshold | Decides | Oversight Body |
+|---|---|---|---|
+| **Annual Budget** | Lower House simple; Upper House where contributions are relevant | Lower House (+ Upper House) | Court of Auditors; Budget Committee; Constitutional Court |
+| **Programme Budget** | 55 \% programme voting rights; security-critical 2/3 | CoM / EB | Court of Auditors + Integrity Unit; POA |
+| **Contingency Activation** | CoM 2/3 + sunset | CoM | Emergency committee; CRP |
+| **Major Procurement** | Within budget legislation; Procurement Code | PIA / Ministry | Court of Auditors; Integrity Unit; Procurement Tribunal |
+| **Sanctions Package** | Lower House absolute; Upper House qualified | Parliament + Government | Foreign Affairs/Justice Committee; DRT |
+| **Deployment Mandate** | Lower House absolute; Upper House 2/3 at high threshold | Lower House (+ Upper House) | IG-Defense; Committee of Inquiry; Constitutional Court |
+| **Immediate Response 72 h** | Executive act → confirmation 72 h | Government → Lower House | Emergency panel; court for extension |
+| **Declaration of Emergency** | Executive act → notification 24 h | Government | CRP; emergency committee |
+| **Emergency Extension** | Lower House 60 \% + Upper House 60 \% + court review | Lower House + Upper House | Constitutional Court/DRT mandatory |
+| **Accession T1** | Double Majority (60 \% members + 70 \% contributions) | CoM | CRP; POA Hearing |
+| **Upgrade T2** | CoM 2/3 + interop certification | CoM | OCB; ACI; DRT |
+| **Upgrade T3** | Lower House 2/3 + Upper House 2/3 + national ratification | Parliament + States | Constitutional Court; POA |
+| **Suspension** | CoM 2/3 following CRP opinion | CoM | CRP + DRT Review |
+| **Exit (Withdrawal)** | National decision; club wind-down majority | Member State + CoM | DRT; Audit |
+| **Constitutional Amendment** | Lower House 2/3 + Upper House 2/3 + ratification | Parliament + States | Constitutional Court (form/competence); eternity clause |
+| **Eternity Core Amendment** | Inadmissible | — | Constitutional Court annuls |
+
+***
+
+### Sources & References
+
+1. **Grundgesetz (Basic Law) (Art. 20, 79 III, 115a–115l):** Model for the eternity clause and emergency legislation.
+2. **Swiss Federal Constitution (1999):** Double-majority principle (popular vote + cantonal vote) as a federal reference model.
+3. **ERDA Project (2026):** Chapter 12 (Democracy Concept), Chapter 14.4 (EDDRC Bodies), Chapter 14.5 (Competence Catalogue).
+
+
+\newpage
+
+---
+description: "14.7 Constitutional Sketch and Risk Controls – Art. 1–30, Annexes A–F, Resilience Dashboard"
+source: "de/content/14.-die-demokratischen-koalitionen-der-willigen/14.7-verfassungsskizze-und-risiko-controls.md"
+status: "draft"
+---
+<a id="md-14-die-demokratischen-koalitionen-der-willigen-14-7-verfassungsskizze-und-risiko-controls"></a>
+
+
+## 14.7 Constitutional Sketch and Risk Controls
+
+_From idea to treaty: 30 constitutional articles, six treaty annexes, and an early-warning system against the abuse of power_
+
+***
+
+### Core Impulses
+
+- **30 articles** suffice to establish an action-capable federation on a democratic foundation – basic order, allocation of competences, institutions, executive, defence, rule of law, emergency constitution, constitutional court.
+- **Six annexes (A–F)** translate the constitutional skeleton into binding treaty rules with thresholds, sanctions, KPIs, and legal remedies.
+- **A Resilience Dashboard** makes risks measurable and compels early action before red lines are crossed.
+
+***
+
+### 14.7.1 Compact Constitutional Sketch (Art. 1–30)
+
+#### Preamble (Essence)
+
+> _Bearing responsibility for peace, freedom, human dignity, the rule of law, and the evolutionary stability of democracy, the member states establish a federation that prevents coercibility, protects fundamental rights, constrains power, and enables collective action within clearly defined core competences._
+
+#### Overview of the 30 Articles
+
+| Block | Article | Subject |
+|---|---|---|
+| **Basic Order** | Art. 1 | Form of state and values (democracy, rule of law, federalism, pluralism) |
+| | Art. 2 | Citizenship rights (federal citizenship, direct political rights) |
+| | Art. 3 | Primacy and binding effect (federation law takes precedence within federal competences) |
+| | Art. 4 | Subsidiarity and competence protection |
+| | Art. 5 | Fundamental rights (Charter as part of the constitution; restrictions: by law, proportionate, reviewable, time-limited) |
+| **Allocation of Competences** | Art. 6 | Competence categories (exclusive / shared / national) |
+| | Art. 7 | Exclusive federal competences (defence C2, sanctions, enforcement of fundamental rights, core budget, core representation) |
+| | Art. 8 | Shared competences (cyber, disaster response, social standards, environment, investment screening) |
+| | Art. 9 | National/regional competences (education, culture, policing, health, local affairs) |
+| **Institutions** | Art. 10 | Institutions (lower house, upper house, government, president, constitutional court, court of auditors, ombudsperson) |
+| | Art. 11 | Lower house (directly elected; legislation, budget, oversight; minority rights constitutionally entrenched) |
+| | Art. 12 | Upper house (states/regions; subsidiarity watch; co-decision on competences/emergencies) |
+| | Art. 13 | Legislative initiative (government, members of parliament, citizens' initiative) |
+| | Art. 14 | Legislation (ordinary laws; enhanced majorities for security/fundamental-rights restrictions) |
+| | Art. 15 | Budget and budgetary sovereignty (annual budget, earmarking, court of auditors) |
+| **Executive** | Art. 16 | Federal government (chancellor + ministers; constructive vote of no confidence) |
+| | Art. 17 | Ministries (minimum 8: defence, foreign affairs, justice, citizens/CIVITAS, environment, social affairs, economy, finance) |
+| | Art. 18 | Appointments and hearings (independent posts with quorums and incompatibility rules) |
+| **Defence / Foreign Affairs / Security** | Art. 19 | Defence principle (protection, no war of aggression, verification-bound) |
+| | Art. 20 | Use-of-force authorisation / War Powers (parliamentary mandate; 72 h immediate response + confirmation) |
+| | Art. 21 | Classified information and oversight (statutory, purpose-bound, parliamentary + judicial oversight) |
+| **Rule of Law / Citizens / Transparency** | Art. 22 | Anti-corruption and transparency (lobbying, donations, procurement forensics, whistleblower) |
+| | Art. 23 | Data protection and digital principles (data minimisation, auditable algorithms) |
+| | Art. 24 | Opposition and minority rights (inquiry committee, judicial review of norms, access to files) |
+| **Emergency Constitution** | Art. 25 | Grounds for emergency (armed attack, sabotage, cyber-attack, major disaster) |
+| | Art. 26 | Emergency regime (max. 14 days; extension only by double majority + court; sunset) |
+| | Art. 27 | Inviolable core rights (human dignity, fair trial, prohibition of arbitrary detention) |
+| **Constitutional Court and Enforcement** | Art. 28 | Constitutional court (competence conflicts, emergency review; standing for institutions/states/minority/ombudsperson/citizens) |
+| | Art. 29 | Accession, suspension, withdrawal (criteria, graduated sanctions, orderly exit) |
+| | Art. 30 | Constitutional amendment (qualified majorities + ratification; Eternity Core (Ewigkeitskern): democracy, rule of law, fundamental rights, separation of powers, anti-capture) |
+
+#### Eternity Core (Ewigkeitskern) (unamendable provisions)
+
+| No. | Core Principle |
+|---|---|
+| 1 | Democracy and popular sovereignty |
+| 2 | Rule of law and independent judiciary |
+| 3 | Fundamental rights and human dignity |
+| 4 | Separation of powers |
+| 5 | Emergency safeguards (sunset, double majority, judicial review) |
+| 6 | Anti-capture principles (transparency, opposition, audit) |
+
+***
+
+### 14.7.2 Risk Master Table
+
+The following table captures the **14 central risk areas** together with their typical failure mode and the three control layers: prevention, detection, response.
+
+| Risk Area | Typical Failure Mode | Prevention | Detection | Response | NoGo Threshold |
+|---|---|---|---|---|---|
+| **State Capture / Corruption** | Agencies are captured by partisan interests | Transparency rules, independent appointments, procurement rules | Audit, forensics, whistleblower, asset registers | Funds freeze, removal from office, criminal prosecution | Systemic corruption without prosecution |
+| **Democracy Erosion** | Media/NGO restrictions, electoral manipulation | Fundamental-rights charter, electoral standards, media pluralism | Election observation, media monitoring, court reporting | Treaty-infringement proceedings, suspension of rights | Unfree elections |
+| **Emergency Abuse** | Emergency becomes permanent | Narrow grounds, sunset, double majority, auto-review | Emergency reports, ombudsperson, opposition inquiry | Automatic expiry, judicial annulment | Emergency > X days without legitimation |
+| **Veto / Blockade Coercion** | Single state blocks everything | No unanimity, opt-in without veto | KPI on decision times, blockade logs | Bypass, programme exclusion | Unanimity as the norm |
+| **Infiltration / Espionage** | Leaks, agent networks | Security vetting, classified-information protection, foreign-agent transparency | Counter-intelligence, anomaly detection | Access revocation, criminal prosecution, sanctions | Repeated leaks without consequences |
+| **Military Misuse** | Operations without mandate | Clear C2 chain, parliamentary mandate, RoE | Operational reports, IG inspection | Operation halt, mandate adjustment | Operations without democratic chain |
+| **Procurement Failure** | Cost explosion, delivery shortfalls | Standardisation, dual sourcing, framework contracts | Earned-value, QA audits, supply-chain monitoring | Contractual penalties, re-tendering | Systemic delivery failures |
+| **Supply-Chain Coercion** | Dependence on autocracies | Diversification, stockpiles, friend-shoring | Dependency index, stress tests | Emergency substitution, export controls | Single point of failure in critical goods |
+| **Finance / Transfer Conflicts** | North/South divide, moral hazard | Fiscal rules, mission-based debt, audit | Debt/deficit monitoring, early-warning council | Conditionality, automatic corrections | Permanent transfers without rules |
+| **Judicial Politicisation** | Partisan judiciary, selective prosecution | Independent judicial councils, appointment quorums | Case-load statistics, sentencing anomalies | International judicial panels, suspension | Demonstrable political steering |
+| **Information / Censorship Risk** | "Anti-disinfo" becomes censorship | Transparency, court-proof standards, no content control | Complaints channels, judicial review | Annulment, compensation, agency reform | State content control without court order |
+| **Data / Surveillance Risk** | Centralised profiles, misuse | Privacy by design, data minimisation, separated keys | Logs, independent data-protection authority | Deletion, sanctions, criminal proceedings | Mass surveillance without judicial authorisation |
+| **Crisis Coordination Failure** | Agency chaos, overlapping responsibilities | Clear competence matrix, joint exercises | After-action reviews, KPI on response time | Reform, personnel changes | Repeated chaos without learning curve |
+| **Secession / Legitimacy Breach** | "Forced federation" narrative | Exit rules, subsidiarity, citizen participation | Surveys, legitimacy index, conflict monitoring | Mediation council, competence back-transfer | Persistent majority against federation without dialogue |
+
+***
+
+### 14.7.3 The Six Treaty Annexes (Annexes A–F)
+
+The constitutional sketch is operationalised through **six annexes**. Each annex is an integral part of the treaty.
+
+| Annex | Title | Core Content | Scope |
+|---|---|---|---|
+| **A** | Risk Controls \& Enforcement | Master table of all risks, NoGo thresholds, enforcement levels 0–5, emergency review (48 h), remediation plan, legal remedy (DRT review), RACI matrix | 18 articles |
+| **B** | Procurement Code | Award procedures (open/restricted/negotiated/framework/emergency), integrity clause, dual sourcing, blacklisting, KPI catalogue, step-in rights, tenderer legal remedies | 30 articles |
+| **C** | Interop \& Certification | Certification levels L0–L4, tier↔level mapping, technical tests (interface, crypto, resilience), operational tests (joint exercise), cyber red-team, waiver/legacy regime, upgrade T1→T2 | 27 articles |
+| **D** | War Powers \& Mandates | Operation categories 0–3, 72 h immediate response, mandate minimum content (10 mandatory fields), upper-house thresholds, IG Defence, RoE codex, mission-creep trigger, reporting obligations | 26 articles |
+| **E** | Audit \& Transparency | ACI independence, audit types (regular/special/forensic/effectiveness/IT), KPI framework, clean-room procedure, transparency register, whistleblower protection, hearing obligations, public reports | 28 articles |
+| **F** | Membership Tiers \& Upgrade/Downgrade | T0–T3 rights/obligations, voting-weight rules (anti-veto), accession/upgrade/downgrade procedure, suspension/reinstatement, exit/no-hostage, associated members, EU docking clause | 26 articles |
+
+#### Cross-References between the Annexes
+
+```
+Annex A (Enforcement) ←→ Annex B (Procurement) → Integrity violations → Level 1–4
+                      ←→ Annex C (Interop) → Non-compliance → Programme access suspended
+                      ←→ Annex D (War Powers) → Operation without mandate → NoGo
+                      ←→ Annex E (Audit) → Critical findings → Automatic escalation
+                      ←→ Annex F (Tiers) → Downgrade/Suspension → Level 2–5
+```
+
+***
+
+### 14.7.4 Resilience Dashboard – Early-Warning System
+
+| Index | Measures | Alarm when… | Response |
+|---|---|---|---|
+| **Rule-of-Law Index** | Judiciary/media/electoral quality | Trend break over 2 quarters | Conditionality + proceedings |
+| **Capture Risk Index** | Corruption, procurement anomalies | Cluster/network indicators | Forensics, blacklist |
+| **Decision Speed Index** | Club's capacity to act | Blockade times rising | Governance update |
+| **Defence Output Index** | Munitions/system output | Output < plan | Emergency procurement, surge |
+| **Influence Ops Index** | Disinfo, leaks, money flows | Repeated peaks | Counter-intel + sanctions |
+| **Emergency Abuse Index** | Emergency duration, fundamental-rights restrictions | Repeated extensions | Court/parliament applies brake |
+
+***
+
+### 14.7.5 Hard NoGo List (Red Lines as Constitutional Clauses)
+
+1. **Unfree elections** / systematic electoral manipulation
+2. **Political control of the courts**
+3. **Permanent emergency** without sunset + double majority + court
+4. **Military deployment without democratic mandate chain**
+5. **Systemic corruption** without effective prosecution
+6. **State content control (censorship)** without court-proof procedure
+7. **Single point of failure** in critical security/industry without closure plan
+
+***
+
+### 14.7.6 Conclusion – From Draft to Living Treaty
+
+The constitutional sketch and the risk controls together form a **design-for-resilience system**:
+
+- **Art. 1–30** set the normative framework.
+- **Annexes A–F** provide the operational rules, KPIs, and sanction mechanisms.
+- The **Resilience Dashboard** makes erosion visible before it becomes systemic.
+- The **NoGo list** defines red lines whose breach automatically triggers consequences.
+
+The EDDRC is thus not a static construct but an **evolutionarily stable system** that adapts to changing threats without abandoning its democratic core principles.
+
+***
+
+### Sources & References
+
+1. **Grundgesetz (Basic Law) (Art. 79 III):** Model for the eternity clause.
+2. **Swiss Federal Constitution (1999):** Competence catalogue, double majority, subsidiarity.
+3. **EU Treaties (TEU/TFEU):** Allocation of competences, anti-corruption norms, PESCO.
+4. **ERDA Project (2026):** Chapter 4 (overall concept), Chapter 12 (democracy concept), Chapters 14.4–14.6 (club architecture, competence catalogue, democracy chain).
+
+
+\newpage
+
+---
+description: "Annex 14.A – Risk Controls & Enforcement (Treaty Annex)"
+source: "de/content/14.-die-demokratischen-koalitionen-der-willigen/14.a-risk-controls-und-enforcement.md"
+status: "draft"
+---
+<a id="md-14-die-demokratischen-koalitionen-der-willigen-14-a-risk-controls-und-enforcement"></a>
+
+
+## Annex 14.A – Risk Controls & Enforcement
+
+_Binding risk controls, NoGo thresholds, enforcement levels 0–5, emergency review, remediation, legal protection_
+
+***
+
+### Purpose and Status
+
+1. This Annex is an integral part of the Treaty and binding on all members.
+2. It defines binding **Risk Controls**, **Thresholds**, **Enforcement Measures**, **Suspension** and **Exit Processes**.
+3. In the event of conflict with other provisions, this Annex takes precedence for all matters of compliance, integrity, emergency control and membership enforcement, provided that fundamental rights and the eternity core are not violated.
+
+***
+
+### Part I – Definitions and Indicators
+
+#### Art. A1 – Definitions
+
+1. A **Serious Violation** occurs when a member state or a club organ exceeds a **NoGo threshold** pursuant to Art. A6.
+2. A **Systemic Violation** occurs when a risk event pursuant to Art. A2 persists over **two audit cycles** or when multiple control domains are simultaneously affected.
+3. **Triggers** are measurable events/indicators that initiate a mandatory review or provisional measures.
+
+#### Art. A2 – Risk-Control Domains (binding areas)
+
+a) Rule of law & democracy integrity
+b) Anti-corruption & procurement integrity
+c) Information security, leaks, infiltration/influence operations
+d) Sanctions enforcement & anti-evasion
+e) Emergency regime & fundamental rights compliance
+f) Military mandate and operational control
+g) Financial and budget integrity (mission-based budget)
+h) Data and data-protection integrity (no mass surveillance)
+i) Resilience of critical infrastructure (single point of failure)
+
+#### Art. A3 – Audit Cycles and Audit Obligations
+
+1. **Quarterly review**: Compliance status per domain (summary report).
+2. **Annual review**: Full audit including forensics (where irregularities are identified).
+3. Each report shall contain: indicator status, deviations, action plan, deadlines.
+
+#### Art. A4 – Standard of Evidence
+
+1. For provisional measures, **plausible evidence** ("reasonable grounds") suffices.
+2. For suspension/full measures, a **preponderance of probability** ("balance of probabilities") is required.
+3. For definitive exclusion from programmes and treaty status, a **binding decision** pursuant to Art. A12–A14 and **DRT reviewability** are required.
+
+#### Art. A5 – Competent Bodies
+
+1. **ACI** (Audit Court/Inspectorate): Audit, forensics, KPI review.
+2. **CRP** (Constitution & Rule-of-Law Panel): Rule-of-law/emergency/fundamental-rights compliance.
+3. **PIA/Integrity Unit**: Procurement/corruption controls, blacklisting, step-in.
+4. **OCB/Security Board**: Security classification, clearance, leak and infiltration assessment.
+5. **DRT**: Binding dispute resolution and legal protection.
+
+***
+
+### Part II – NoGo Thresholds (Red Lines)
+
+#### Art. A6 – NoGo Thresholds (automatic escalation)
+
+A member exceeds a NoGo threshold if at least one of the following conditions is met:
+
+1. **Unfree elections** or systematic electoral manipulation at member or federation level (as determined by CRP).
+2. **Politicised judiciary**: demonstrable government control of central courts/prosecution offices or systematic disregard of supreme court decisions.
+3. **Permanent state of emergency**: State of emergency > 14 days without a double majority + mandatory judicial review, or repeated extensions without sunset compliance.
+4. **Military deployment without mandate** beyond the 72-hour immediate-response rule, or material exceeding of mandate.
+5. **Systemic corruption/state capture**: Repeated, serious procurement and conflict-of-interest violations without effective law enforcement.
+6. **Sanctions evasion as policy**: Officially tolerated or promoted evasion in critical categories (as determined by CRP/ACI).
+7. **Serious leaks/infiltration**: Repeated, unremedied exfiltration of classified information (as determined by the Security Board).
+8. **Mass surveillance** without a judicial basis/purpose limitation, or systematic disregard of data-protection supervision.
+
+**Legal consequence:** Automatic initiation of proceedings pursuant to Art. A10 (Emergency Review) within 48 hours.
+
+***
+
+### Part III – Catalogue of Measures (Sanctions, Step-in, Remediation)
+
+#### Art. A7 – Enforcement Levels
+
+Measures are graduated and proportionate:
+
+| Level | Designation | Content |
+|---|---|---|
+| **0** | Notice \& Plan | Formal compliance notice, action plan, deadline |
+| **1** | Conditionality | Disbursement/programme access only against evidence of concrete steps |
+| **2** | Provisional Suspension | Temporary loss of voting rights or access, classified access revoked |
+| **3** | Full Suspension | Withdrawal of voting rights + programme access + operational participation |
+| **4** | Programme Exclusion/Step-in | Procurement taken over, contracts re-awarded, blacklisting |
+| **5** | Status Downgrade or Treaty Termination | Orderly separation/exit pursuant to Art. A16 |
+
+#### Art. A8 – Procurement Integrity (Immediate Rights)
+
+1. In the event of serious procurement suspicion, the Integrity Unit has **step-in rights**: procurement freeze, special audit, re-award.
+2. Blacklisting of companies in cases of beneficial-ownership violations, corruption, or sanctions breach.
+3. Obligation to dual-source critical goods; single supplier only with a justified exception decision and sunset clause.
+
+#### Art. A9 – Financial Measures
+
+1. At levels 1–3, **funds may be frozen** (programme-specific or in full), except:
+   a) Payments for the fulfilment of already delivered, undisputed services
+   b) Funds directly serving the security of the club (by ACI/CoM decision)
+2. Recovery of misused funds is mandatory.
+
+***
+
+### Part IV – Procedure: Trigger → Review → Decision → Legal Protection
+
+#### Art. A10 – Emergency Review (48-hour procedure)
+
+1. In the event of NoGo triggers pursuant to Art. A6, an Emergency Review shall be initiated within 48 hours.
+2. CRP/ACI/Security Board shall submit an initial assessment within 7 days.
+3. The Executive Board may order provisional measures (max. 14 days) pending the decision.
+
+#### Art. A11 – Ordinary Compliance Procedure
+
+1. Initiated by ACI/CRP/OCB or upon request of the POA minority (e.g. 25%).
+2. Hearing of the affected member; file access for POA within the security-classification framework.
+3. Decision pursuant to Art. A12.
+
+#### Art. A12 – Decision-Making (Majorities)
+
+| Level | Required Majority |
+|---|---|
+| **0–1** | CoM qualified majority (60\% of members + 70\% of contributions) |
+| **2 (provisional)** | CoM 2/3 of votes or automatically upon CRP emergency determination |
+| **3–4** | CoM 2/3 + mandatory CRP/ACI opinion |
+| **5 (status termination)** | CoM 3/4 + DRT confirmation of procedural and evidentiary standards |
+
+#### Art. A13 – Legal Protection (DRT)
+
+1. The affected member may request DRT review within 14 days.
+2. The DRT reviews: jurisdiction, procedure, standard of evidence, proportionality, fundamental-rights compliance.
+3. The DRT may confirm, amend, or annul measures.
+4. Provisional measures remain in force until the DRT decision, for a maximum of 30 days, unless the DRT orders otherwise.
+
+#### Art. A14 – Remediation Plan (Return)
+
+1. Every suspension must include a remediation plan with measurable milestones.
+2. Return rights: upon positive ACI/CRP report + CoM majority (at least 60%/70%).
+3. Recurrence within 24 months → automatic escalation by one level.
+
+***
+
+### Part V – Domain-Specific Triggers
+
+#### Art. A15 – Triggers (Summary List)
+
+| Domain | Trigger Examples |
+|---|---|
+| **Rule of law** | Interference with appointment/dismissal of judges, non-compliance with supreme court rulings, media takeover |
+| **Emergency** | Extension without double majority/sunset, measures without fundamental-rights impact assessment |
+| **Leak/Infiltration** | 2+ serious leak events within 12 months without remediation |
+| **Sanctions/Evasion** | Statistically significant evasion flows + official inaction |
+| **Procurement** | Awards without competition/justification, conflicts of interest without disclosure |
+| **Finance** | Shadow budgets, misappropriation, audit obstruction |
+| **Data/Privacy** | Central profiling without judicial basis, failure to comply with deletion obligations |
+
+**Standard measures:** Level 1 (conditionality) to level 3 (suspension) depending on severity.
+
+***
+
+### Part VI – Exit / Termination & Wind-Down
+
+#### Art. A16 – Orderly Treaty Termination (Status Downgrade/Exit)
+
+1. **Exit by the member:** Notice period of 12–24 months; wind-down plan within 60 days.
+2. **Exit by the club (level 5):** Only after repeated NoGo threshold breaches or refusal of remediation.
+3. Wind-down includes:
+   a) Settlement of joint assets according to formula (share of contributions vs. usage)
+   b) Return/continued operation of sensitive systems under security classification
+   c) Continued applicability of confidentiality and export-control obligations (minimum 10 years)
+   d) Protection of individual legal positions (contracts, claims) until expiry
+
+#### Art. A17 – No-Hostage Clause
+
+1. No member may block the exit/wind-down of another.
+2. Disputes over wind-down values shall be resolved by the DRT within 90 days with binding effect.
+
+#### Art. A18 – Public Accountability
+
+1. All enforcement decisions shall be justified and documented in a transparency report (with security-classification exceptions).
+2. KPIs: decision speed, defence output, audit findings, remediation success rate.
+
+***
+
+### RACI Matrix (Summary)
+
+| Control Domain | Responsible (R) | Accountable (A) | Consulted (C) | Informed (I) |
+|---|---|---|---|---|
+| Rule-of-law monitoring | CRP | CoM | POA, DRT | All members |
+| Emergency compliance | CRP | CoM (extension) | POA, Ombudsperson | Public |
+| Procurement integrity | Integrity Unit / PIA | Executive Board | ACI, POA | CoM |
+| Budget audit \& KPI | ACI | POA / CoM | EB, PIA | All members |
+| Leak/infosec | Security Board / OCB | CoM | POA security-classification panel | Affected programmes |
+| Sanctions enforcement | EB + Foreign Ministers' Conference | CoM | ACI, justice network | POA |
+| Influence transparency | CIVITAS authority | CoM | Data-protection authority, POA | Public |
+| Suspension procedure | EB (provisional) | CoM | CRP/ACI/DRT | POA |
+| Exit/wind-down | EB wind-down office | CoM | ACI, DRT | All members |
+
+***
+
+### Cross-references
+
+→ Annex 14.B (Procurement Code), Annex 14.C (Interop), Annex 14.D (War Powers), Annex 14.E (Audit), Annex 14.F (Membership Tiers)
+
+
+\newpage
+
+---
+description: "Annex 14.B – Procurement Code (Contract Annex)"
+source: "de/content/14.-die-demokratischen-koalitionen-der-willigen/14.b-procurement-code.md"
+status: "draft"
+---
+<a id="md-14-die-demokratischen-koalitionen-der-willigen-14-b-procurement-code"></a>
+
+
+## Annex 14.B – Procurement Code
+
+_Procurement procedures, standardisation, integrity, dual sourcing, step-in rights, tenderer legal protection_
+
+***
+
+### Purpose and Status
+
+1. This Annex is an integral part of the Treaty and is binding on all Members as well as all contractors commissioned by the Club.
+2. It governs **joint procurement**, **standardisation**, **integrity requirements**, **supply chain resilience**, and **control and intervention rights (step-in)**.
+3. Deviations are only permissible where this Annex expressly provides for an **exception** and the exception is documented, time-limited, and auditable.
+
+***
+
+### Part I – Fundamental Principles
+
+#### Art. B1 – Principles of Procurement
+
+1. Procurement shall be conducted in accordance with the principles of: **competition**, **transparency**, **non-discrimination**, **value for money**, **security suitability**, **interoperability**, **resilience**.
+2. "Buy-national" requirements are impermissible insofar as they conflict with the Club's objectives; **security and resilience requirements** that may de facto favour qualified suppliers are permissible.
+
+#### Art. B2 – Programme and Mission Linkage
+
+1. Every procurement shall be assigned to a **programme** and a **mission** (e.g. Ammo, Air Defence, EW, ISR, Cyber, Stockpiles).
+2. Procurements without programme coding are impermissible, except for emergency procurement under Art. B18.
+
+#### Art. B3 – Standardisation Obligation
+
+1. **Club Standards** (Annex 14.C Interop & Certification) apply to critical categories.
+2. Systems without certification may not be contributed to joint pools/stockpiles, except under an exception pursuant to Art. B17.
+
+***
+
+### Part II – Governance and Roles
+
+#### Art. B4 – Responsible Bodies
+
+1. **PIA (Procurement & Industrial Agency)** conducts joint procurement procedures.
+2. **Integrity Unit** reviews conflicts of interest, beneficial ownership, sanctions compliance, and conducts forensics.
+3. **ACI** (Audit Court/Inspectorate) reviews legality, value for money, and KPIs.
+4. **Program Boards** (pay-to-play) define requirements, quantities, timelines, and acceptance conditions.
+
+#### Art. B5 – RACI (Summary)
+
+| Role | Bodies |
+|---|---|
+| **Responsible** | PIA (procurement), Integrity Unit (integrity), Program Boards (requirements) |
+| **Accountable** | Executive Board (execution), Council of Members (programme approvals) |
+| **Consulted** | OCB (interop), CRP (rule-of-law regarding sanctions), ACI (audit) |
+| **Informed** | POA (oversight reports), Members subject to security classification rules |
+
+***
+
+### Part III – Procurement Procedures
+
+#### Art. B6 – Types of Procedure
+
+| No. | Procedure | Use Case |
+|---|---|---|
+| 1 | **Open procedure** | Standard |
+| 2 | **Restricted procedure** | Security-relevant pre-qualification |
+| 3 | **Negotiated procedure** | Highly complex systems, justified |
+| 4 | **Framework agreement** | Serial requirements, multi-year |
+| 5 | **Emergency procurement** | Art. B18, narrowly limited |
+
+#### Art. B7 – Tender and Transparency
+
+1. Tenders shall contain at a minimum: performance specification, standards, delivery schedule, quality criteria, KPIs, acceptance, contractual penalties, export/sanctions clauses.
+2. Essential procurement documents shall be published insofar as security interests do not preclude it; in such cases, publication shall be in **redacted** form plus audit access.
+
+#### Art. B8 – Eligibility and Award Criteria
+
+1. **Eligibility:** technical capability, security reliability, quality management, capacity.
+2. **Award:** best value (price + delivery time + quality + resilience + maintainability + scalability).
+3. Price alone shall not be decisive where security/resilience requirements are concerned.
+
+#### Art. B9 – Pre-qualification (Security & Quality)
+
+1. Pre-qualification is mandatory for critical categories (e.g. Air Defence, C2, Crypto, Munitions, ISR).
+2. Pre-qualification covers: security clearance capability, supply chain transparency, export control compliance.
+
+***
+
+### Part IV – Integrity & Compliance (Anti-Corruption / Anti-Capture)
+
+#### Art. B10 – Beneficial Ownership and Conflicts of Interest
+
+1. Tenderers must disclose **beneficial owners** (down to natural persons).
+2. Conflicts of interest must be disclosed prior to submission of tenders; violations may result in exclusion.
+
+#### Art. B11 – Anti-Corruption Clause
+
+1. Corruption, kickbacks, and prohibited inducements are **zero-tolerance violations**.
+2. Proof leads to: contract termination, damages, blacklisting (Art. B15), criminal referral.
+
+#### Art. B12 – Sanctions and Export Control Clauses
+
+1. Tenderers/subcontractors must not be sanctioned or circumvent sanctions.
+2. Critical components from high-risk states are only permissible where explicitly approved and mitigated.
+
+#### Art. B13 – Audit and Access Rights
+
+1. PIA/ACI/Integrity Unit shall have audit access to relevant documents and supply chain information.
+2. Refusal constitutes a serious violation (Annex 14.A) and may lead to exclusion.
+
+#### Art. B14 – Whistleblower Mechanism
+
+1. Every contractor must provide a protected reporting channel.
+2. Retaliation constitutes a breach of contract; sanctions up to contract termination.
+
+#### Art. B15 – Blacklisting
+
+1. Blacklisting occurs in cases of serious violations (corruption, sanctions circumvention, forgery, audit obstruction).
+2. Duration: 2–10 years, depending on severity; reinstatement only upon demonstrated compliance reform.
+
+***
+
+### Part V – Supply Chain Resilience and Dual Sourcing
+
+#### Art. B16 – Dual Sourcing (Mandatory)
+
+1. **Dual sourcing** is mandatory for critical categories: at least two independent supply sources.
+2. Independence means: no controlling common ownership structure and no shared single-point component.
+
+#### Art. B17 – Exceptions (Single Supplier)
+
+1. An exception is only permissible where:
+   a) technical unavailability of alternatives is demonstrated, and
+   b) a substitution plan with a deadline is in place, and
+   c) the CoM approves the exception by qualified majority.
+2. Every exception is time-limited (sunset) and subject to quarterly review.
+
+#### Art. B18 – Emergency Procurement
+
+1. Permissible only in cases of: acute threat, unexpected supply failure, crisis-driven surge.
+2. Procedure: expedited, but subject to documentation requirements; integrity review remains mandatory.
+3. Emergency procurements automatically expire once normal procedures are again feasible.
+
+#### Art. B19 – Stockpiles and Offtake Guarantees
+
+1. Programmes may define strategic stocks (ammo/spare parts).
+2. Offtake guarantees are permissible, provided KPI/pricing rules are established.
+
+***
+
+### Part VI – Quality Management, Testing, Acceptance
+
+#### Art. B20 – Quality Requirements
+
+1. Deliveries are subject to certification/testing in accordance with Annex 14.C.
+2. Serial production requires continuous random-sample inspections.
+
+#### Art. B21 – Acceptance
+
+1. Acceptance is based on: specification, test protocol, interoperability certificate, security clearances.
+2. Partial acceptances are permissible where operationally appropriate.
+
+#### Art. B22 – Warranty, Maintenance, Life Cycle
+
+1. Contracts shall include minimum warranties, spare-part availability, maintenance rights, and documentation obligations.
+2. Vendor lock-in is to be avoided; interfaces must be documented.
+
+***
+
+### Part VII – KPIs, Contractual Penalties, Step-in Rights
+
+#### Art. B23 – KPIs (Mandatory Catalogue)
+
+Minimum metrics to be measured:
+
+| No. | KPI |
+|---|---|
+| 1 | Delivery quantity vs. plan |
+| 2 | Delivery time (on-time) |
+| 3 | Quality rate (defect rate) |
+| 4 | Cost variance |
+| 5 | Failure/maintenance metrics |
+| 6 | Supply chain risk index (critical components) |
+
+#### Art. B24 – Contractual Penalties and Remedies
+
+1. In case of KPI non-achievement: contractual penalties, price reductions, obligations to deliver replacements.
+2. Repeated KPI non-achievement → escalation up to step-in (Art. B25).
+
+#### Art. B25 – Step-in Rights (Intervention Rights)
+
+1. In cases of serious or systemic failure, PIA may:
+   a) assume production/delivery plans (with contractor cooperation),
+   b) reassign subcontractors,
+   c) re-source critical sub-components,
+   d) require know-how transfer, insofar as contractually agreed.
+2. Step-in must be justified, time-limited, and auditable.
+
+#### Art. B26 – Termination
+
+1. Termination in cases of: corruption, sanctions breach, audit obstruction, repeated performance failure.
+2. Termination does not preclude damages or blacklisting.
+
+***
+
+### Part VIII – Legal Protection and Dispute Resolution
+
+#### Art. B27 – Tenderer Legal Protection
+
+1. Tenderers are entitled to a reviewable procurement decision within the limits of security classification.
+2. Disputes shall be decided primarily by the DRT/procurement chamber mechanism; time limits: 30–60 days.
+
+#### Art. B28 – Security Classification in Proceedings
+
+1. Classified details are reviewed in "clean rooms".
+2. The POA security classification panel receives access for oversight purposes.
+
+***
+
+### Part IX – Reporting and Transparency
+
+#### Art. B29 – Public Transparency
+
+1. Annual report: total expenditure, programmes, top-line KPIs, number of blacklistings, audit findings.
+2. Security-relevant details remain classified; the existence of the measure must be reported.
+
+#### Art. B30 – Entry into Force and Transition
+
+1. This Annex shall enter into force upon entry into force of the Treaty.
+2. Existing contracts shall be made compatible within 12 months or replaced on a phase-out basis.
+
+***
+
+### Standard Contract Clauses (Copy/Paste Building Blocks)
+
+1. **Integrity Clause** (corruption/BO/conflicts of interest)
+2. **Sanctions & Export Control Clause**
+3. **Audit Access Clause**
+4. **KPI & Penalty Clause**
+5. **Step-in Clause**
+6. **Whistleblower Protection Clause**
+7. **Dual Sourcing Clause**
+
+***
+
+### Cross-references
+
+→ Annex 14.A (enforcement in case of violations), Annex 14.C (interop certification for procurement), Annex 14.D (emergency procurement in operations), Annex 14.E (audit rights)
+
+
+\newpage
+
+---
+description: "Annex 14.C – Interoperability & Certification (Treaty Annex)"
+source: "de/content/14.-die-demokratischen-koalitionen-der-willigen/14.c-interoperability-und-certification.md"
+status: "draft"
+---
+<a id="md-14-die-demokratischen-koalitionen-der-willigen-14-c-interoperability-und-certification"></a>
+
+
+## Annex 14.C – Interoperability & Certification
+
+_Standards, Certificate Levels L0–L4, Tests, Tier Mapping, Waiver/Legacy, Upgrade Rules_
+
+***
+
+### Purpose and Status
+
+1. This Annex is an integral part of the Treaty and is binding for all members, Club bodies, and contractors.
+2. It defines the binding **interoperability and certification regime** for systems, units, data links, training, and operational procedures.
+3. Without valid certification under this Annex, systems/units are deemed **not club-compatible** and may only be used or contributed to pools/stockpiles under the exceptions set out in Art. C18.
+
+***
+
+### Part I – Definitions, Principles, Scope
+
+#### Art. C1 – Definitions
+
+1. **Interop Standard**: binding technical/operational specification (interfaces, data formats, protocols, procedures).
+2. **Certificate**: formal confirmation that a system/procedure/unit meets the requirements.
+3. **Baseline**: minimum requirement per category (e.g. C2, ammunition, AD, EW, ISR, cyber).
+4. **Waiver**: time-limited exception with sunset clause and mitigation plan.
+
+#### Art. C2 – Principles
+
+1. **Open Architecture**: interfaces are openly documented; vendor lock-in is to be minimised.
+2. **Security by Design**: cryptography, key management, and access control are integral components.
+3. **Fail-Safe & Degraded Mode**: defined operability in the event of partial failure.
+4. **Auditability**: traceability through tests, logs, and documentation.
+5. **Backward Compatibility**: transitions for legacy systems, but with a sunset path.
+
+#### Art. C3 – Scope
+
+This Annex applies at a minimum to:
+
+a) C2/communications/data links
+b) Air/missile defence (AD) and sensor/shooter integration
+c) Ammunition/logistics/spare-part pools/stockpiles
+d) EW/counter-UAS/ISR assets
+e) Cyber tools for defence/response
+f) Training, certification of personnel/units
+g) Classification/information security (common tiers)
+
+***
+
+### Part II – Governance: Standard-Setting, Certifiers, Registry
+
+#### Art. C4 – Standards and Certification Bodies
+
+| Body | Task |
+|---|---|
+| **Interop Standards Board (ISB)** | Develops standards, maintains versions, defines test plans |
+| **Certification Authority (CA)** | Issues/revokes certificates, conducts audits |
+| **Operational Command Board (OCB)** | Defines operational minimum procedures (SOPs, exercises) |
+| **Security Board (SB)** | Security classification, clearance profiles, crypto policy |
+
+#### Art. C5 – Adoption and Versioning
+
+1. Standards are adopted by the Council of Members (CoM) upon recommendation of the ISB.
+2. Each standard has a version, validity period, migration window, and "end of life" date.
+
+#### Art. C6 – Certificate Registry
+
+1. The CA maintains a **certificate registry** (classified/redacted according to sensitivity).
+2. Programme Boards may only accept certified components for joint pools/programmes (Art. C15).
+
+***
+
+### Part III – Certification Levels
+
+#### Art. C7 – Certificate Levels
+
+| Level | Name | Meaning | Typical Use |
+|---|---|---|---|
+| **L0** | Non-Compliant | No Club interop | Purely national, no pools |
+| **L1** | Basic Interop | Minimum interfaces/logistics | Programme Member (T1) |
+| **L2** | Operational Interop | Fully interoperable in joint operations | Operational Member (T2) |
+| **L3** | High Assurance | Enhanced security/resilience, critical missions | C2/AD/Cyber core |
+| **L4** | Strategic Assurance | Special security/deterrence domains | Most sensitive domains |
+
+#### Art. C8 – Mapping Tier ↔ Certification Level
+
+| Tier | Minimum Level |
+|---|---|
+| **T1** (Programme Member) | L1 in relevant programme categories |
+| **T2** (Operational Member) | L2 for C2/comms + core systems; L3 for critical elements per CoM list |
+| **T3** (Constitutional Member) | Full compliance; L3 as standard in the core |
+
+***
+
+### Part IV – Test and Audit Catalogue
+
+#### Art. C9 – Minimum Technical Tests (Cross-Category)
+
+Each system must demonstrate (where applicable):
+
+| No. | Test |
+|---|---|
+| 1 | **Interface Compliance** (protocols, data formats, APIs) |
+| 2 | **Key Management \& Crypto** (HSM/key rotation, access) |
+| 3 | **Latency/Throughput** (minimum values per category) |
+| 4 | **Resilience** (failure tests, redundancy, degraded mode) |
+| 5 | **EMSEC/OPSEC** (emission/leak risks) |
+| 6 | **Supply Chain Assurance** (component list, origin, firmware) |
+| 7 | **Logging/Audit Trails** (tamper-proof, purpose-bound) |
+
+#### Art. C10 – Operational Tests (Units/Procedures)
+
+1. **Joint Exercise Certification**: participation in exercises as a certification component.
+2. **RoE/SOP Alignment**: procedures are compatible and trained.
+3. **Medical/Logistics Interop**: casualty care, spare-part chains, ammunition resupply.
+
+#### Art. C11 – Cyber and Red-Team Tests
+
+1. For L2+, a **red-team test** is mandatory (scope per SB).
+2. Critical systems (C2, AD, crypto) require periodic re-certification (Art. C14).
+
+#### Art. C12 – Documentation Requirement
+
+1. Technical documentation, interfaces, maintenance processes, configuration management.
+2. Missing documentation is a certification impediment, except for legacy holdings (waiver).
+
+***
+
+### Part V – Certification Process
+
+#### Art. C13 – Issuance
+
+1. Application by member/programme or manufacturer via PIA.
+2. CA conducts assessment (lab + field + exercise).
+3. Certificate contains: level, scope, version, expiry date, conditions.
+
+#### Art. C14 – Re-Certification
+
+| Level | Interval | Additionally |
+|---|---|---|
+| **L1** | Every 36 months | Upon major version change |
+| **L2** | Every 24 months | Upon security/interface change |
+| **L3/L4** | Every 12–18 months | Mandatory pen tests + supply-chain review |
+
+#### Art. C15 – Pool/Stockpile Admission
+
+1. Only systems/components with a valid **L2+** (or CoM exception) may be admitted to joint pools/stockpiles.
+2. Ammunition/spare parts additionally require compatibility and quality evidence (Annex 14.B).
+
+***
+
+### Part VI – Standard Families (Minimum List)
+
+#### Art. C16 – Standard Families
+
+The ISB maintains at least the following standard families:
+
+| No. | Standard Family |
+|---|---|
+| 1 | **C2 \& Tactical Data Links** (multi-domain situational picture) |
+| 2 | **Air Defence Integration** (sensor-to-shooter, track management) |
+| 3 | **Counter-UAS \& EW Interfaces** |
+| 4 | **ISR Data \& Metadata** (formats, classification, dissemination) |
+| 5 | **Logistics \& Stockpile Data** (parts catalogues, serial numbers, shelf life, transport) |
+| 6 | **Cyber Incident Exchange** (IOCs, TTPs, reporting, response playbooks) |
+| 7 | **Training \& Certification Curricula** (role profiles, skills, examinations) |
+
+***
+
+### Part VII – Waiver/Legacy Regime
+
+#### Art. C17 – Legacy Transition
+
+1. Legacy systems may be provisionally admitted as **L1-legacy** if a migration plan is in place.
+2. Migration window max. 24–48 months (the CoM may decide differently for critical legacy holdings).
+
+#### Art. C18 – Waiver (Exemption)
+
+1. A waiver is granted only if:
+   a) there is an operational necessity,
+   b) no alternative is available,
+   c) a mitigation plan (e.g. gateway/adapter, separated networks) is in place.
+2. A waiver is **time-limited** (sunset) and contains clear milestones.
+3. Waivers are recorded in the registry and reviewed quarterly.
+
+#### Art. C19 – Security-Related Restrictions
+
+1. The SB may restrict the use of a system despite its interop level if an acute security vulnerability exists.
+2. Such restrictions must be justified and time-limited; re-certification is to be triggered.
+
+***
+
+### Part VIII – Enforcement in Cases of Non-Compliance
+
+#### Art. C20 – Consequences of Non-Compliance
+
+1. Use in pools/programmes is suspended.
+2. Programme access may be made conditional (Annex 14.A levels 1–3).
+3. In cases of deliberate circumvention: procurement sanctions (Annex 14.B) + compliance proceedings (Annex 14.A).
+
+#### Art. C21 – Audit Obligation and Access
+
+1. CA/ACI/SB are granted access to test records, logs, and supply-chain data (under security classification).
+2. Blocking an audit constitutes a serious violation (Annex 14.A).
+
+***
+
+### Part IX – Upgrade Rules T1 → T2 (Operational Membership)
+
+#### Art. C22 – Upgrade Prerequisites
+
+A member may upgrade from T1 to T2 if:
+
+1. C2/comms demonstrate at least **L2**,
+2. defined core categories (CoM list) meet at least **L2/L3**,
+3. security vetting/classification is compatible,
+4. a Joint Exercise Certification has been successfully completed within the last 18 months,
+5. audit and procurement compliance shows no outstanding serious findings.
+
+#### Art. C23 – Upgrade Procedure
+
+1. Application by the member → preliminary review by CA/SB/ACI.
+2. Recommendation by OCB + certification decision by CA.
+3. CoM decision (two-thirds majority) on upgrade.
+
+#### Art. C24 – Downgrade (T2 → T1)
+
+1. In cases of systemic non-compliance or serious security deficiencies, a downgrade may be effected.
+2. A downgrade requires: SB/CA determination + CoM majority; DRT review possible.
+
+***
+
+### Part X – Entry into Force and Transition
+
+#### Art. C25 – Entry into Force
+
+This Annex enters into force together with the Treaty.
+
+#### Art. C26 – Transitional Periods
+
+| Period | Milestone |
+|---|---|
+| 6 months | Baseline standards (C2, logistics, cyber exchange) |
+| 12 months | Initial L1 certification for programme areas |
+| 24 months | L2 for Operational Members in core categories |
+
+#### Art. C27 – Regular Updates
+
+The ISB publishes an annual roadmap; the CoM adopts updates; the POA receives the monitoring report.
+
+***
+
+### Certificate Template (Minimum Content)
+
+- System/Unit ID, version, scope
+- Level (L1–L4), validity, conditions
+- Test catalogue references (C9–C12)
+- Interop interfaces, security profile, key management mode
+- Waiver (if applicable) + sunset date
+
+***
+
+### Cross-references
+
+→ Annex 14.A (Enforcement in cases of non-compliance), Annex 14.B (Certification requirement for procurement), Annex 14.D (Certification for operations), Annex 14.F (Tier ↔ Level mapping for upgrade)
+
+
+\newpage
+
+---
+description: "Annex 14.D – War Powers & Mandates (Treaty Annex)"
+source: "de/content/14.-die-demokratischen-koalitionen-der-willigen/14.d-war-powers-und-mandates.md"
+status: "draft"
+---
+<a id="md-14-die-demokratischen-koalitionen-der-willigen-14-d-war-powers-und-mandates"></a>
+
+
+## Annex 14.D – War Powers & Mandates
+
+_Mandate rules, 72h rapid response, operation categories, reporting obligations, IG-Defence, emergency corridor_
+
+***
+
+### Purpose and Status
+
+1. This Annex is an integral part of the Treaty and is binding on all members and Club organs.
+2. It governs the **democratic chain of mandates** for military operations, the **72-hour rapid response**, **reporting obligations**, **controls**, and the containment of **emergency powers**.
+3. Any military action in the name of the Club requires a **clear legal basis**, a **framework of objectives and scope**, and is tied to the **binding force of fundamental rights**.
+
+***
+
+### Part I – Principles
+
+#### Art. D1 – Principle of Mandatory Mandates
+
+1. Club operations may only be conducted on the basis of a **mandate** issued by the competent democratic organs, except in the case of rapid response under Art. D6.
+2. Mandates are **purpose-bound**, **time-limited**, and **subject to review**.
+
+#### Art. D2 – Prohibition of Aggressive Warfare
+
+1. Wars of aggression and the use of force for territorial expansion are excluded.
+2. Permissible are defence, mutual defence assistance, protection of critical infrastructure, evacuation and protection operations, and other purposes insofar as they are covered by treaty and international law.
+
+#### Art. D3 – Chain of Democratic Control
+
+| Body | Role |
+|---|---|
+| **Lower House** (or POA equivalent) | Mandate, budget commitment, oversight |
+| **Upper House** (at defined thresholds) | Approval for high-scale/long-term deployments |
+| **Government/CoM** | Operational command within mandate |
+| **OCB** | Military implementation; mandate and reporting obligation |
+| **DRT/Constitutional Court** | Legal protection and mandate-overreach oversight |
+
+***
+
+### Part II – Operation Types and Mandate Categories
+
+#### Art. D4 – Categories of Military Measures
+
+| Category | Designation | Examples |
+|---|---|---|
+| **0** | Routine/Readiness | Exercises, deterrence presence, training, rotations |
+| **1** | Protective measures | Protection of critical infrastructure, cyber-defence response, counter-UAS, maritime/air policing |
+| **2** | Limited operation | Temporally/geographically limited deployment with elevated risk (evacuation, security operation) |
+| **3** | Major operation / mutual defence case | Large-scale/near-combat operations, defence case, entry into war |
+
+#### Art. D5 – Mandate Thresholds
+
+1. Category 0 does not require a mandate but is subject to **transparency and oversight obligations** (Art. D11).
+2. Categories 1–3 require a mandate; Category 3 additionally requires Upper House approval under Art. D10.
+
+***
+
+### Part III – Rapid Response (72-Hour Rule)
+
+#### Art. D6 – Rapid Response in Case of Attack/Acute Threat
+
+1. In the event of an armed attack, an imminently threatening attack, or massive sabotage of critical infrastructure, the executive may order a **rapid response**.
+2. Rapid response is limited to **minimum necessary defensive measures**.
+
+#### Art. D7 – Deadlines and Confirmation
+
+| Deadline | Obligation |
+|---|---|
+| **24 hours** | Notification of oversight bodies (POA emergency panel / Lower House committees) |
+| **72 hours** | **Parliamentary confirmation** to be obtained |
+| **Without confirmation** | Operation ends immediately in an orderly manner ("safe disengagement") |
+
+#### Art. D8 – Documentation Obligation for Rapid Response
+
+1. Every rapid response must include: situation justification, objectives, rules of engagement, force composition, expected duration, fundamental rights impact assessment.
+2. The documentation is classified but accessible to oversight bodies (clean room).
+
+***
+
+### Part IV – Mandate Content (Standard Form)
+
+#### Art. D9 – Minimum Content of a Mandate
+
+Every mandate must contain:
+
+| No. | Mandatory field |
+|---|---|
+| 1 | **Legal basis** (treaty, international law, national legal acts) |
+| 2 | **Definition of objectives** (specific, measurable) |
+| 3 | **Area of operations** (geographic/operational) |
+| 4 | **Force composition** (troops/assets/capabilities) |
+| 5 | **Rules of engagement (RoE)** and protective rules |
+| 6 | **Duration** (start, end date, extension conditions) |
+| 7 | **Budget framework** and logistics chains |
+| 8 | **Reporting obligations** (Art. D11) |
+| 9 | **Exit/termination criteria** (Art. D12) |
+| 10 | **Fundamental rights and compliance guardrails** (Art. D13) |
+
+#### Art. D10 – Additional Approval by the Upper House
+
+Upper House approval is required if at least one of the following applies:
+
+1. Duration > 90 days, or
+2. Force composition > defined threshold (e.g. brigade equivalent), or
+3. Expected combat intensity is high, or
+4. Significant budgetary impact (above a defined percentage of the core/programme budget).
+
+***
+
+### Part V – Oversight, Reports, Investigation, Legal Protection
+
+#### Art. D11 – Reporting Obligations (Ongoing)
+
+| Frequency | Content | Recipient |
+|---|---|---|
+| **Weekly** | Brief reports: situation, casualties, goal attainment, risks | Competent committees / POA panel (classified) |
+| **Monthly** | KPI report: ammunition consumption, readiness, casualties, logistics, compliance | Committees + ACI |
+| **Quarterly** | Public topline report | Public (insofar as compatible with security requirements) |
+
+#### Art. D12 – Extension and Termination
+
+1. Extensions require a renewed vote according to the same thresholds as mandate issuance.
+2. Mandates include a **sunset clause**: without extension, they expire automatically.
+3. Termination is mandatory when mandate objectives have been achieved, the legal basis ceases to apply, or NoGo thresholds are triggered.
+
+#### Art. D13 – Fundamental Rights and Compliance Guardrails
+
+1. Operations are bound by fundamental rights, international humanitarian law, and rules of proportionality.
+2. Prohibited are: arbitrary detention, collective punishment, uncontrolled autonomous weapon deployments without a defined human accountability framework.
+3. Any operational data collection is purpose-bound, minimised, and subject to deletion obligations.
+
+#### Art. D14 – Inspector General Defence (IG-D)
+
+1. An independent **IG-Defence** audits mandate and RoE compliance, logistics/procurement conformity, and whistleblower reports.
+2. IG-D reports directly to POA/Lower House committees and may trigger immediate audits.
+
+#### Art. D15 – Committee of Inquiry
+
+1. A parliamentary minority (e.g. 25%) may request a committee of inquiry into operations.
+2. The executive is obliged to produce records, within the rules governing classified information.
+
+#### Art. D16 – Legal Protection and Mandate Litigation
+
+1. Member states, defined parliamentary minorities, ombuds offices, and affected parties may bring proceedings before the DRT/Constitutional Court on the grounds of:
+   a) Exceeding competences,
+   b) Mandate violation,
+   c) Violation of fundamental rights.
+2. Courts may issue interim orders insofar as operational security is not disproportionately jeopardised.
+
+***
+
+### Part VI – Command & Control (C2) and Rules of Engagement
+
+#### Art. D17 – C2 Clarity
+
+1. A clear chain of command is established for each operation: political leadership, operational command, tactical command.
+2. Dual subordination is to be avoided; for multinational forces, "unity of command" as per the mandate applies.
+
+#### Art. D18 – Rules of Engagement (RoE)
+
+1. RoE are defined on a mandate-specific basis and trained prior to the commencement of operations.
+2. Changes to RoE with material effect must be notified to the oversight bodies without delay; where a mandate change is involved, renewed approval is required.
+
+#### Art. D19 – Information Classification and Sharing
+
+1. Sharing follows need-to-know + tier rules (Annex 14.C).
+2. In the event of leaks/infiltration, the Security Board may restrict access; this must be justified and time-limited.
+
+***
+
+### Part VII – Emergency Corridor within Operations
+
+#### Art. D20 – Operational Emergency Corridor
+
+1. Unforeseeable changes in the situation may permit short-term adjustments (e.g. self-protection, evacuation, protection of critical infrastructure).
+2. Adjustments must not reverse or expand the mandate's purpose ("mission creep").
+
+#### Art. D21 – Mission Creep Trigger
+
+The following in particular constitute mission creep:
+
+1. Expansion into new areas without a mandate basis,
+2. Significant increase in force composition,
+3. Shift from a protection operation to an offensive operation.
+
+**Legal consequence:** immediate notification + mandate amendment or withdrawal within 7 days.
+
+***
+
+### Part VIII – Integration with Annex A/B/C
+
+#### Art. D22 – Link to Annex 14.A (Risk Controls)
+
+1. Violations during operations may trigger Annex 14.A measures (suspension, access revocation).
+2. NoGo thresholds from Annex 14.A also apply during operations (e.g. deployment without a mandate).
+
+#### Art. D23 – Link to Annex 14.B (Procurement)
+
+1. Procurement for operations is subject to Annex 14.B; emergency procurement only pursuant to Art. B18.
+2. KPI/forensics apply in full.
+
+#### Art. D24 – Link to Annex 14.C (Interop)
+
+1. Only certified systems/units may be commanded within the Club command structure, except by waiver.
+2. Communication/C2 must meet L2/L3 requirements according to category.
+
+***
+
+### Part IX – Entry into Force and Transition
+
+#### Art. D25 – Entry into Force
+
+This Annex enters into force together with the Treaty.
+
+#### Art. D26 – Transitional Periods
+
+| Deadline | Milestone |
+|---|---|
+| 6 months | Standard mandate format (Art. D9) binding |
+| 12 months | IG-Defence established and operational |
+| 18 months | Exercise and reporting systems fully implemented |
+
+***
+
+### Mandate Form Template (1 page)
+
+- Operation title / category (0–3)
+- Legal basis
+- Objectives (3–5 measurable points)
+- Area/scope
+- Forces/assets
+- Core RoE statements
+- Duration + sunset
+- Budget framework
+- Reporting plan
+- Exit criteria
+- Fundamental rights/compliance checklist
+- Signatures: political + parliamentary
+
+***
+
+### Cross-references
+
+→ Annex 14.A (NoGo for deployment without a mandate), Annex 14.B (emergency procurement), Annex 14.C (certification for C2/systems), Annex 14.E (audit/IG-Defence), Annex 14.F (tier obligations for operational participation)
+
+
+\newpage
+
+---
+description: "Annex 14.E – Audit & Transparency (Contractual Annex)"
+source: "de/content/14.-die-demokratischen-koalitionen-der-willigen/14.e-audit-und-transparency.md"
+status: "draft"
+---
+<a id="md-14-die-demokratischen-koalitionen-der-willigen-14-e-audit-und-transparency"></a>
+
+
+## Annex 14.E – Audit & Transparency
+
+_Audit Court (ACI), KPI Framework, Clean-Room Procedures, Ombudsperson, Whistleblower, Public Accountability_
+
+***
+
+### Purpose and Status
+
+1. This Annex is an integral part of the Treaty and is binding on all members, Club bodies and contractors.
+2. It governs **audit**, **transparency**, **accountability**, **KPI reporting**, **classified-information transparency (Clean Room)** as well as **ombudsperson and whistleblower structures**.
+3. The objective is a governance framework that remains **capable of acting** without enabling **corruption, capture, shadow budgets, censorship or a climate of fear**.
+
+***
+
+### Part I – Bodies and Independence
+
+#### Art. E1 – Audit Court / Inspectorate (ACI)
+
+1. An independent **Audit Court / Inspectorate (ACI)** shall be established.
+2. ACI audits the legality, economy, effectiveness and compliance of all Club expenditures, programmes and operational structures.
+3. ACI is functionally independent; instructions are impermissible.
+
+#### Art. E2 – Independent Appointment and Term of Office
+
+1. Senior officials of ACI are appointed by qualified majorities (e.g. two-thirds of the POA).
+2. The term of office is fixed (e.g. 6–8 years); re-election is permitted only once in exceptional circumstances; removal requires a qualified majority and must be judicially reviewable.
+
+#### Art. E3 – Parliamentary Oversight Assembly (POA) – Supervisory Powers
+
+1. POA possesses comprehensive supervisory powers, including hearings, access to files and investigations.
+2. Opposition rights are constitutionally entrenched; a minority (e.g. 25 %) may request investigations and special audits.
+
+#### Art. E4 – Ombuds Institution
+
+1. An independent **Ombuds Institution** shall be established.
+2. The Ombudsperson protects citizens' rights, examines complaints against Club bodies, and holds escalation and litigation rights pursuant to Art. E16.
+
+***
+
+### Part II – Audit Rights, Access, Types of Audit
+
+#### Art. E5 – Audit Mandate (Scope)
+
+ACI audits in particular:
+
+1. Core Budget, Programme Budgets, Contingency Fund
+2. Procurement/PIA including Annex 14.B Integrity
+3. Certification/Interop (Annex 14.C) insofar as budget-/compliance-relevant
+4. Operations/Mandates (Annex 14.D) insofar as legally and budget-relevant
+5. Sanctions enforcement/anti-evasion (legal and effectiveness-related)
+
+#### Art. E6 – Access and Duty to Cooperate
+
+1. Club bodies and contractors must grant ACI access to all relevant information.
+2. Audit obstruction or deception constitutes a serious breach (Annex 14.A).
+
+#### Art. E7 – Types of Audit
+
+| Type of audit | Occasion |
+|---|---|
+| **Regular audit** | Annual |
+| **Special audit** | Triggered by indicators |
+| **Forensic audit** | Upon suspicion of corruption/capture |
+| **Effectiveness audit** | Outcome/KPI |
+| **IT/Cyber audit** | Logs, access records, supply chain (under classified-information rules) |
+
+#### Art. E8 – Clean-Room Procedure
+
+1. Classified information is handled through **clean-room procedures**: secure rooms, controlled devices, logging.
+2. The POA Classified-Information Panel receives access; publication is limited to redacted topline summaries.
+
+***
+
+### Part III – KPI Framework (Measurability Instead of Symbolic Politics)
+
+#### Art. E9 – KPI Obligation
+
+Every programme and every material structure must have mandatory KPIs:
+
+| No. | KPI Dimension |
+|---|---|
+| 1 | **Output** (e.g. quantities, delivery dates) |
+| 2 | **Readiness** (operational readiness, failure rates) |
+| 3 | **Cost** (planned/actual, cost growth) |
+| 4 | **Quality** (defect rates, acceptance rate) |
+| 5 | **Resilience** (dual sourcing, single-point-of-failure index) |
+| 6 | **Compliance** (audit findings, remediation time) |
+| 7 | **Decision Speed** (throughput times for decisions/emergencies) |
+
+#### Art. E10 – KPI Dashboard & Publication Logic
+
+1. A **KPI Dashboard** is updated on a quarterly basis.
+2. Three visibility tiers:
+
+| Tier | Access |
+|---|---|
+| **Public (Topline)** | Everyone |
+| **Parliamentary (detailed)** | POA / Committees |
+| **Classified (Clean Room)** | Classified-Information Panel |
+
+3. Security-relevant details may be protected; nevertheless, the existence and scope of the measure must still be reported.
+
+#### Art. E11 – Thresholds and Automatic Review Triggers
+
+1. KPI thresholds are set per programme (e.g. "Output < 85 % of plan over 2 quarters").
+2. When triggers are hit, a special audit is mandatory and a remediation plan must be submitted within 30 days.
+
+***
+
+### Part IV – Transparency, Registers, Conflicts of Interest
+
+#### Art. E12 – Transparency Register (Minimum)
+
+| Register | Content |
+|---|---|
+| **Lobby register** | Meetings, topics, principals |
+| **Procurement register** | Tenders, awards, exceptions |
+| **Donation/grant register** | Conflict-of-interest register for key personnel |
+| **Blacklist/Integrity register** | Protected but subject to oversight |
+
+#### Art. E13 – Conflicts of Interest and Cooling-Off
+
+1. Key personnel in EB/PIA/ACI/CA/SB are subject to disclosure obligations.
+2. Cooling-off rules (e.g. 24–36 months) apply to moves into affected industries.
+
+#### Art. E14 – Shadow Budgets Prohibited
+
+1. All expenditures must be recorded in the Core/Programme/Contingency Budget.
+2. Misappropriation constitutes a serious breach (Annex 14.A).
+
+***
+
+### Part V – Whistleblower and Protection System
+
+#### Art. E15 – Whistleblower Channels
+
+1. Club bodies and contractors shall establish protected channels (anonymous reporting possible).
+2. Reports may be directed to the Ombudsperson or ACI.
+
+#### Art. E16 – Protection Against Reprisals
+
+1. Reprisals constitute a breach of the Treaty.
+2. Violations lead to sanctions: contractual penalties, termination, blacklisting, disciplinary measures.
+
+#### Art. E17 – Duty to Investigate
+
+1. ACI/Ombudsperson must review reports within 14 days (acknowledgement of receipt + scope).
+2. Where there is credible substance, a forensic investigation must be initiated.
+
+***
+
+### Part VI – Public Reports and Democratic Accountability
+
+#### Art. E18 – Annual Report (Public)
+
+1. ACI publishes an annual report containing: budget topline, KPI trends, audit findings, remediation status, integrity statistics.
+2. Classified content is redacted; the reasons must be stated.
+
+#### Art. E19 – Quarterly Reports (Parliamentary)
+
+1. Detailed quarterly reports to POA / lower-house committees.
+2. Contents include: programme status, risk index, triggers, measures, deviations.
+
+#### Art. E20 – Hearing Obligations
+
+1. EB/PIA/OCB must appear at hearings upon request.
+2. Failure to appear without good cause constitutes a serious breach.
+
+***
+
+### Part VII – Enforcement Linkage
+
+#### Art. E21 – Compliance Escalation
+
+| Severity | Classification | Consequence |
+|---|---|---|
+| **Minor** | Minor deviation, no systemic impact | Remediation ≤ 90 days |
+| **Major** | Systemically relevant, elevated risk | Remediation ≤ 60 days + special audit possible |
+| **Critical** | Near-NoGo or systemic | Immediate escalation Annex 14.A, provisional measures |
+
+#### Art. E22 – Mandatory Remediation Plan
+
+1. For Major/Critical findings, a remediation plan must be submitted within 30 days.
+2. In the event of delay or failure: automatic escalation by one level.
+
+#### Art. E23 – Procurement & Interop
+
+1. Procurement audits reference Annex 14.B.
+2. Interop- and certification-relevant findings reference Annex 14.C.
+
+#### Art. E24 – Operations & Mandates
+
+1. Mandate and RoE compliance findings reference Annex 14.D.
+2. Deployment without a mandate beyond 72 hours constitutes a NoGo (Annex 14.A).
+
+***
+
+### Part VIII – Legal Protection and Right to Sue
+
+#### Art. E25 – Right to Sue
+
+The following are entitled to bring proceedings:
+
+1. Member states (competence/budgetary disputes)
+2. Parliamentary minority (e.g. 25 %)
+3. Ombuds Institution
+4. Affected citizens/organisations (in cases of fundamental rights/data-protection violations)
+
+#### Art. E26 – Dispute Resolution
+
+1. DRT decides binding disputes, including audit access, transparency obligations and sanctions.
+2. Expedited proceedings are possible (14–30 days) where irreversible harm is imminent.
+
+***
+
+### Part IX – Entry into Force and Transition
+
+#### Art. E27 – Entry into Force
+
+This Annex enters into force together with the Treaty.
+
+#### Art. E28 – Transitional Periods
+
+| Deadline | Milestone |
+|---|---|
+| 6 months | ACI, Ombuds Institution and clean-room structure operational |
+| 9 months | KPI Dashboard |
+| 12 months | First quarterly reports, register obligations |
+
+***
+
+### Cross-references
+
+→ Annex 14.A (Enforcement for Critical Findings), Annex 14.B (Procurement Audit), Annex 14.C (Interop Compliance), Annex 14.D (Mandate/RoE Audit), Annex 14.F (Tier Compliance Audit)
+
+
+\newpage
+
+---
+description: "Annex 14.F – Membership Tiers & Upgrade/Downgrade (Treaty Annex)"
+source: "de/content/14.-die-demokratischen-koalitionen-der-willigen/14.f-membership-tiers-und-upgrade.md"
+status: "draft"
+---
+<a id="md-14-die-demokratischen-koalitionen-der-willigen-14-f-membership-tiers-und-upgrade"></a>
+
+
+## Annex 14.F – Membership Tiers & Upgrade/Downgrade
+
+_T0 Observer → T1 Associate → T2 Full → T3 Core – Rights, Obligations, Accession, Downgrade, Exit_
+
+***
+
+### Purpose and Status
+
+1. This Annex is an integral part of the Treaty and defines **membership tiers, voting rights, accession/upgrade/downgrade/exit procedures** as well as **association and EU docking clauses**.
+2. Objective: **Openness without dilution** – states may join, advance, descend or withdraw without jeopardising the club's integrity.
+
+***
+
+### Part I – Tier Overview
+
+#### Art. F1 – Four Tiers
+
+| Tier | Designation | Brief Profile |
+|---|---|---|
+| **T0** | Observer | Access to documents, no voting rights, no contribution obligation, no integration |
+| **T1** | Associate | Selective cooperation rights, reduced contribution, observer status in organs |
+| **T2** | Full Member | Full voting rights, full contribution obligation, full integration |
+| **T3** | Core | Extended responsibility (e.g. framework states, veto-protection function, EB delegation) |
+
+#### Art. F2 – Principles
+
+1. **Voluntariness**: Accession, continued membership and withdrawal are based on free will.
+2. **Conditionality**: Advancement only upon fulfilment of measurable criteria (Art. F10–F13).
+3. **Reversibility**: Downgrade and exit are regulated; no lock-in.
+4. **Transparency**: Status changes are published; justifications are comprehensible.
+
+***
+
+### Part II – Rights and Obligations per Tier
+
+#### Art. F3 – T0 Observer
+
+| Dimension | Provision |
+|---|---|
+| **Access** | Non-classified documents, open hearings |
+| **Voting rights** | No voting rights |
+| **Contribution** | No financial contribution |
+| **Obligations** | Respect for the fundamental principles; no confidentiality obligation beyond public content |
+| **Duration** | Unlimited |
+
+#### Art. F4 – T1 Associate
+
+| Dimension | Provision |
+|---|---|
+| **Access** | Documents up to "restricted" level; observer status in POA and committees |
+| **Voting rights** | Advisory vote, no decision-making vote |
+| **Contribution** | Reduced contribution (e.g. 30–50 \% of the T2 rate) |
+| **Obligations** | Transparency register, core A values (Art. 3–6), audit participation |
+| **Integration** | No interoperability obligation; voluntary certification possible |
+
+#### Art. F5 – T2 Full Member
+
+| Dimension | Provision |
+|---|---|
+| **Access** | All documents, committees, budget details |
+| **Voting rights** | Full voting rights in POA, Lower House/Upper House |
+| **Contribution** | Full contribution according to formula (GNI + population + risk) |
+| **Obligations** | Full compliance: Annex 14.A – 14.E, Interop Level L2+, Procurement Code |
+| **Integration** | Mandatory interop certification (Annex 14.C), mandate/RoE acceptance (Annex 14.D) |
+
+#### Art. F6 – T3 Core
+
+| Dimension | Provision |
+|---|---|
+| **Access** | As T2 + security-clearance panel + clean room |
+| **Voting rights** | As T2 + EB delegation right (Art. 12) |
+| **Contribution** | Full contribution + where applicable solidarity premium for framework states |
+| **Obligations** | As T2 + capacity guarantees, lead-nation readiness, Interop L3+ |
+| **Responsibility** | Framework-state function, veto-protection mechanism (Art. F8), escalation readiness |
+
+***
+
+### Part III – Voting Rights and Anti-Veto
+
+#### Art. F7 – Graduated Voting Rights
+
+| Tier | Voting Rights |
+|---|---|
+| T0 | None |
+| T1 | Advisory (speech, motion, no decision) |
+| T2 | Full decision-making vote |
+| T3 | Full vote + EB delegation + veto protection |
+
+#### Art. F8 – Anti-Veto Clause
+
+1. No member holds an absolute veto.
+2. Security-relevant measures may be overridden by **super-qualified majorities** (e.g. 4/5).
+3. Treaty amendments to the eternity core (Art. 2) cannot be overridden.
+
+#### Art. F9 – Pay-to-Play Rule
+
+1. Persistent contribution arrears (> 12 months, > 10 % of the assessed amount) lead to suspension of voting rights.
+2. The suspension is published; reinstatement occurs upon full payment + 90 days.
+
+***
+
+### Part IV – Accession and Upgrade
+
+#### Art. F10 – Accession as T0 Observer
+
+1. Application to the EB with a declaration of intent.
+2. The EB decides; no majority requirement, purely administrative.
+3. Deadline: ≤ 30 days.
+
+#### Art. F11 – Upgrade T0 → T1
+
+1. Application + evidence: core A values accepted, transparency register established, contribution settled.
+2. EB review + ACI preliminary assessment (compliance baseline).
+3. Decision by POA (simple majority).
+4. Deadline: ≤ 6 months.
+
+#### Art. F12 – Upgrade T1 → T2
+
+1. Application + evidence:
+   - Core A + Core B fully met
+   - Interop Level ≥ L2 (Annex 14.C)
+   - Procurement Code accepted (Annex 14.B)
+   - ACI regular audit passed
+   - Contribution formula accepted
+2. Peer review by two T2/T3 members.
+3. Decision by POA (qualified majority, e.g. 2/3).
+4. Deadline: ≤ 12 months.
+
+#### Art. F13 – Upgrade T2 → T3
+
+1. Application + evidence:
+   - Interop Level ≥ L3 (Annex 14.C)
+   - Capacity guarantees (lead-nation capability)
+   - ACI effectiveness audit passed
+   - Clean-room clearance
+   - EB delegation capability (institutional + personnel)
+2. Peer review by T3 members.
+3. Decision by POA (super-qualified majority, e.g. 4/5).
+4. Legislative-term binding: T3 status is conferred for one legislative term and must be renewed.
+5. Deadline: ≤ 18 months.
+
+***
+
+### Part V – Downgrade, Suspension, Reinstatement
+
+#### Art. F14 – Downgrade
+
+1. A downgrade is the reduction by one or more tiers.
+2. Triggers:
+   - Non-fulfilment of tier requirements beyond the transitional period
+   - Critical findings (Annex 14.A) without remediation
+   - Automatic upon KPI trigger cascade (Annex 14.E, Art. E11)
+3. Procedure: ACI determination → EB application → POA decision (qualified majority).
+4. Legal protection: the affected state has the right to appeal before the DRT.
+
+#### Art. F15 – Suspension
+
+1. Suspension is the complete cessation of tier rights (equivalent to T0) while retaining formal membership status.
+2. Triggers:
+   - NoGo violation (Annex 14.A)
+   - Deployment without mandate beyond 72 h (Annex 14.D)
+   - Severe corruption/capture (Annex 14.E)
+3. Decision: super-qualified majority (POA + Upper House).
+4. Duration: limited (max. 24 months), followed by a tier decision or exit.
+
+#### Art. F16 – Reinstatement
+
+1. Reinstatement is the restoration of a previous tier following suspension or downgrade.
+2. Prerequisite: evidence of root-cause elimination + ACI audit + peer review.
+3. Decision: POA (qualified majority).
+4. Deadline: ≤ 12 months after application.
+
+***
+
+### Part VI – Withdrawal and No-Hostage Clause
+
+#### Art. F17 – Right of Withdrawal
+
+1. Any member may declare its withdrawal at any time.
+2. Notice period: 12 months (T1), 18 months (T2), 24 months (T3).
+3. All obligations remain in force during the notice period.
+
+#### Art. F18 – No-Hostage Rules
+
+1. No exit obstacle may arise that blocks a sovereign decision.
+2. In particular:
+   - Jointly procured assets are divided according to the contribution key or redeemed through buyback.
+   - IP usage rights in jointly developed systems are retained (read-only licence, non-modifiable).
+   - Data migration must be completed within 6 months.
+   - Ongoing operations: orderly handover, no abrupt termination.
+
+#### Art. F19 – Final Settlement
+
+1. The ACI prepares an independent final settlement.
+2. Disputes are referred to the DRT.
+
+***
+
+### Part VII – Associated Members and Special Status
+
+#### Art. F20 – Associated Members
+
+1. Democracies outside Europe may become **associated members**.
+2. Legal standing: between T1 and T2, configurable via a bilateral association agreement.
+3. Access to coalition programmes on an individual-agreement basis.
+
+#### Art. F21 – Association Conditions
+
+1. Core A values recognised
+2. Democracy index adequate (e.g. V-Dem ≥ 0.6)
+3. Transparency register established
+4. Audit participation obligation
+5. No right to accede to T3 without full membership
+
+***
+
+### Part VIII – EU Docking Clause
+
+#### Art. F22 – Compatibility with EU Law
+
+1. The club is designed to act **complementarily** to EU structures, not in competition.
+2. EU Member States within the club act in accordance with EU Treaties; in case of conflict, EU primary and secondary law take precedence.
+
+#### Art. F23 – Transfer to EU Structures
+
+1. If the EU assumes comparable competences at Union level, the corresponding club function is transferred.
+2. Transfer decision: double majority (POA + EU Council).
+3. Transitional periods are agreed bilaterally.
+
+#### Art. F24 – EU Candidate Countries
+
+1. EU candidate countries may participate in coalition structures at an early stage via T0/T1.
+2. EU accession and club upgrade may run in parallel but are not coupled.
+
+***
+
+### Part IX – Entry into Force and Transition
+
+#### Art. F25 – Entry into Force
+
+This Annex enters into force together with the Treaty.
+
+#### Art. F26 – Transitional Periods
+
+| Period | Milestone |
+|---|---|
+| Day 0 | Tier classification of all founding members |
+| 6 months | Voting-rights and contribution arrangements operational |
+| 12 months | First upgrade/downgrade cycles possible |
+| 24 months | EU docking where applicable |
+
+***
+
+### Cross-references
+
+→ Annex 14.A (NoGo & Enforcement), Annex 14.B (Procurement Compliance as Upgrade Criterion), Annex 14.C (Interop Level as Tier Gate), Annex 14.D (Mandate Compliance), Annex 14.E (Audit/KPI as Tier Monitoring)
 
 
 \newpage
@@ -26975,3 +29578,154 @@ For details, see `AGENTS.md` → “Attribution‑Hierarchy”.
 
 **End of the colophon.**  
 This document is part of the ERDA book and is licensed under **CC BY‑SA 4.0** (see Appendix J).
+
+
+\newpage
+
+---
+source: content/anhang-a-erda-staatenarchitektur-konzentrische-kreise.md
+status: draft
+---
+<a id="md-anhang-a-erda-staatenarchitektur-konzentrische-kreise"></a>
+
+
+# Annex A: ERDA State Architecture ("Concentric Circles")
+
+_**ERDA State Architecture ("Concentric Circles")**_
+
+The potential **ERDA states** (European Rights-Based Democratic Alliance) are structured according to their proximity, constitutional alignment and strategic role into three clearly defined categories.
+
+***
+
+### 1. 🔵 Core ERDA (Members with constitutional commitment)
+
+**All ERDA core states must – by democratic decision – have adopted the EU Charter of Fundamental Rights and ratified it as legally binding under international law.**  
+The **Charter forms the legal core of ERDA** and is further developed – not replaced – by new ethical, technological and ecological dimensions.
+
+Fully integrated member states with democratic constitutions and stable rule of law, ordered by population size (as of 1 January 2024) (see e.g. en.wikipedia.org, "List of European Union member states by population"):
+
+| State       | ISO | Population |
+| ----------- | --- | ---------- |
+| Germany     | DE  | 83 445 000 |
+| France      | FR  | 68 402 000 |
+| Italy       | IT  | 58 989 700 |
+| Spain       | ES  | 48 610 500 |
+| Poland      | PL  | 36 621 000 |
+| Romania     | RO  | 19 064 400 |
+| Netherlands | NL  | 17 942 900 |
+| Belgium     | BE  | 11 832 000 |
+| Czechia     | CZ  | 10 900 600 |
+| Portugal    | PT  | 10 639 700 |
+| Sweden      | SE  | 10 551 700 |
+| Greece      | GR  | 10 397 200 |
+| Austria     | AT  | 9 158 800  |
+| Bulgaria    | BG  | 6 445 500  |
+| Denmark     | DK  | 5 961 200  |
+| Finland     | FI  | 5 603 900  |
+| Slovakia    | SK  | 5 424 700  |
+| Ireland     | IE  | 5 343 800  |
+| Croatia     | HR  | 3 862 000  |
+| Lithuania   | LT  | 2 885 900  |
+| Slovenia    | SI  | 2 123 900  |
+| Latvia      | LV  | 1 871 900  |
+| Estonia     | EE  | 1 374 700  |
+| Luxembourg  | LU  | 672 100    |
+
+**Total population of the 24 ERDA core states:** **438 125 100**.
+
+***
+
+### 2. 🟡 Extended partnership (associated democracies in Europe and neighbourhood)
+
+Democracies with high compatibility with ERDA core countries and strategic importance that have full partnership capability without formal political integration.
+
+#### **2.1 Stable democracies with immediate compatibility**
+
+These countries already fulfil all ERDA standards, bring robust institutions and strong innovative capacity, and can be associated at the push of a button:
+
+\newpage
+\newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
+
+
+\pagewidth=297mm
+\pageheight=210mm
+\begin{longtable}{@{}lllllllll@{}}\toprule State & ISO & Level of democracy & Constitutional status & Conditions for integration & Cooperation & Partnership level & Core-state potential & Comment \\\midrule \endhead United Kingdom & GB & High & Stable & Already ERDA compatible & Security, education & Associated & 🟢 Yes & High innovation potential \\Andorra & AD & High & Stable & Already ERDA compatible & Tourism, finance & Associated & 🟢 Yes & Alpine bridge between Spain and France \\Iceland & IS & High & Stable & Arctic strategy, energy self-sufficiency & Arctic, biodiversity & Associated & 🟢 Yes & Bridge state for the North Sea area \\Liechtenstein & LI & High & Stable & Already ERDA compatible & Financial market, industry & Associated & 🟢 Yes & Highly innovative small-state model \\Malta & MT & High & Stable & Fully democratic & Migration, justice & Associated & 🟢 Yes & Access to Africa and the MENA region \\Monaco & MC & High & Stable & Already ERDA compatible & Finance, culture & Associated & 🟢 Yes & Financial centre with high international reach \\Norway & NO & High & Stable & Already ERDA compatible & Arctic, energy & Associated & 🟢 Yes & Model country \\San Marino & SM & High & Stable & Already ERDA compatible & Tourism, culture & Associated & 🟢 Yes & Oldest republic in Europe \\Switzerland & CH & High & Stable & Already ERDA compatible & Financial market, innovation & Associated & 🟢 Yes & Direct democracy, neutrality model \\Greenland & GL & High & Autonomous under Denmark & Need for constitutional clarity & Arctic, raw materials & Associated & 🟡 Medium & Key territory in the Arctic \\Ukraine & UA & High & Stable (consolidated) & ERDA compatibility, rapid EU/NATO entry & Security, reconstruction & Associated & 🟢 Yes & Central pillar of European security \\Cyprus & CY & High & Stable (divided) & Peace process North/South & Security, culture & Associated & 🟡 Medium & Politically sensitive \\\bottomrule \end{longtable}
+\restoregeometry
+\pagewidth=210mm
+\pageheight=297mm
+\newpage
+
+#### **2.2 Democracies with stable reform orientation and high proximity**
+
+These states are on their way to full ERDA compatibility, are pursuing reforms in a targeted way and have clearly defined EU perspectives:
+
+\newpage
+\newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
+
+
+\pagewidth=297mm
+\pageheight=210mm
+\begin{longtable}{@{}lllllllll@{}}\toprule State & ISO & Level of democracy & Constitutional status & Conditions for integration & Cooperation & Partnership level & Core-state potential & Comment \\\midrule \endhead Albania & AL & Developing & Stable (EU candidate country) & Rule-of-law reform, anti-corruption & Infrastructure, energy & Observer & 🟡 Medium & Comprehensive reform agenda \\Armenia & AM & Developing & Reform-willing & Regional stability & Peace work, education & Observer & 🟡 Medium & Needs security guarantees \\Georgia & GE & Developing & In reform process & Democratic resilience & Security, culture & Strategic & 🟡 Medium & Geopolitically sensitive \\Kosovo & XK & Developing & Stable (young democracy) & Recognition, integrity agreement & Security, digitalisation & Observer & 🟡 Medium & Strong reform drive, EU perspective \\Moldova & MD & Developing & Democratic transition & Institution building & Infrastructure, energy & Observer & 🟡 Medium & Between EU and Ukraine \\Montenegro & ME & Stable & Constitution in place & Rule of law, transparency & Legal system, environment & Associated & 🟡 Medium & Small but functional \\North Macedonia & MK & Developing & Stable (EU candidate country) & Rule-of-law reform, EU integration & Security, infrastructure & Observer & 🟡 Medium & Key role for Western Balkan integration \\\bottomrule \end{longtable}
+\restoregeometry
+\pagewidth=210mm
+\pageheight=297mm
+\newpage
+
+#### **2.3 Democracies with barriers but strategic relevance**
+
+Despite internal challenges, these states possess strategic importance and remain important ERDA observers and potential partners:
+
+\newpage
+\newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
+
+
+\pagewidth=297mm
+\pageheight=210mm
+\begin{longtable}{@{}lllllllll@{}}\toprule State & ISO & Level of democracy & Constitutional status & Conditions for integration & Cooperation & Partnership level & Core-state potential & Comment \\\midrule \endhead Bosnia and Herzegovina & BA & Fluctuating & Fragile (Dayton system) & State reform, separation of powers & Administration, reconciliation & Observer & 🔴 Low & Comprehensive constitutional reform required \\Israel & IL & High & Unclear constitutional status & Clarity on separation of powers & Innovation, security & Strategic & 🟡 Medium & Value-compatible but unstable \\Jordan & JO & Stable & Monarchy with reform efforts & Continuation of reform paths & Mediation, dialogue & Strategic & 🟡 Medium & Moderate, willing to cooperate \\Lebanon & LB & Fragile & Confessional system & Democratic reconstruction & Education, culture & Observer & 🟡 Medium & Complex internal fragmentation \\Morocco & MA & Hybrid & Authoritarian with elements of reform & Strengthening participation & Renewables, security & Observer & 🟡 Medium & Ready to reform but with limitations \\Serbia & RS & Fluctuating & Unstable & Judicial reform, press freedom & Infrastructure & Observer & 🔴 Low & Partly EU-sceptical \\Türkiye & TR & Ambivalent & Authoritarian traits & Democratic change & Security, migration & Strategic & 🔴 Low & Ambivalent development \\Tunisia & TN & Unstable & Democratic backsliding since 2021 & Democratic restoration & Education, civil society & Observer & 🟡 Medium & Former showcase state \\Hungary & HU & Ambivalent & Limited separation of powers and independent judiciary & Fulfil Copenhagen criteria, comprehensive rule-of-law and media reform & Migration, energy & Observer & 🔴 Low & Persistent backsliding on rule of law and media freedom \\\bottomrule \end{longtable}
+\restoregeometry
+\pagewidth=210mm
+\pageheight=297mm
+\newpage
+
+### 3. 🟢 Global associates (non-European democracies)
+
+Non-politically integrated democracies with security-policy and innovation-policy cooperation:
+
+| State      | ISO | Cooperation focus                      |
+| ---------- | --- | -------------------------------------- |
+| Canada     | CA  | Arctic and transatlantic               |
+| Australia  | AU  | Indo-Pacific region                    |
+| New Zealand| NZ  | Indo-Pacific region                    |
+| Japan      | JP  | Technology partnership                 |
+| South Korea| KR  | Technology partnership                 |
+| Chile      | CL  | Raw-material partnership               |
+| Costa Rica | CR  | Democracy partnership                  |
+| Uruguay    | UY  | Democracy partnership                  |
+| Namibia    | NA  | Raw-material and democracy partnership |
+| India      | IN  | Prospective democracy partnership      |
+| Taiwan     | TW  | Technology and democracy               |
+| Senegal    | SN  | Democracy partnership                  |
+
+***
+
+#### 🛰️ Strategic special roles within ERDA
+
+| Territory/state     | Role within ERDA                           |
+| ------------------- | ------------------------------------------ |
+| Greenland           | Raw-material and security strategy (via DK)|
+| Iceland             | North Sea defence and Arctic corridor      |
+| Canada              | Transatlantic and Arctic partnership      |
+| Ukraine             | Sovereign partner, potential member        |
+| Faroe Islands       | Strategically relevant (via DK)            |
+
+***
+
+#### 📚 Overall ERDA state overview (as of 2025)
+
+* **24 EU/ERDA core states** (full constitutional integration)
+* **28 extended partner states** (European neighbourhood, transnational)
+* **12 global democracies** (associated partners)
+
+→ In total, **around 64 states** are prospectively part of the extended ERDA network.
+
+***
