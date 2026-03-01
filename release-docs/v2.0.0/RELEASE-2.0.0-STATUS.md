@@ -28,13 +28,19 @@
 - `.zenodo.json` aktualisiert (Kap. 11–14, neue Keywords)
 - Release Notes (DE + EN) erstellt
 - Inhaltsbeschreibung (DE + EN) erstellt
+- Inhaltliche Tiefenschärfung Kap. 11.4 (DE + EN): 5 Unterabschnitte ergänzt (~35 → ~100 Zeilen)
+- EDA-Redline abgeschlossen: Kap. 5.1–5.6 von Stichpunkten zu Fließtext ausgebaut (DE + EN)
+- Lektorat/Terminologie-Feinschliff Kap. 10–14 (DE + EN):
+  - „evolutionär stabil" → „evolutiv stabil" vereinheitlicht (Kap. 14)
+  - EDDRC-Tier-Namen harmonisiert mit Annex 14.F (Associate / Full / Core)
+  - Platzhalter behoben: Abbildung X.1 → 12.1, anhang-x-a → anhang-12-a
+  - KEI-Glossar: „Mess-" → „Beobachtungs-" (Konsistenz mit 10.A)
+  - Tippfehler „koaliationen" → „koalitionen" (Kap. 14 README)
+- EN-Übersetzungen Kap. 10–14 + Glossar: `draft` → `in-review` (66 Dateien)
+- EN Kap. 13: fehlende `source`/`status`-Frontmatter ergänzt (8 Dateien)
 
 ## Offen / Blocker
 
-- Lektorat/Terminologie-Feinschliff (Konsistenz-Review Kap. 10–14)
-- EN-Übersetzungen von `draft` auf `in-review` / `approved` heben (Writer-Freigabe)
-- Inhaltliche Tiefenschärfung Kap. 11.2–11.4 (optional)
-- EDA-Redline abschließen (verbleibende Abschnitte Kap. 5)
 - Tag `v2.0.0` erstellen und pushen
 - Zenodo-Veröffentlichung
 - PR: main ← release_candidate erstellen und mergen
@@ -44,3 +50,4 @@
 - ERDA-Leitformel konsistent verankert: „evolutive, verfassungsgemäß gebundene Weiterentwicklung der EU"
 - Kapitel 14 enthält 155 Vertragsartikel in 6 Annexen – größter Einzelzuwachs
 - Zaluzhnyi-Quelle: Chatham House Speech, 23. Feb. 2026 – geprüft anhand Zuhören und Transkript
+- Gender-Marker (Kap. 10: `*` vs. Kap. 12/14: `:`) noch nicht vereinheitlicht – Writer-Entscheidung ausstehend

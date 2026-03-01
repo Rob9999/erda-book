@@ -5724,7 +5724,7 @@ This implies for the EDA:
 
 ---
 source: content/5.-das-eda-konzept/5.1-vision-und-mission-der-europaischen-verteidigungsallianz-eda.md
-status: draft
+status: "in-review"
 ---
 <a id="md-5-das-eda-konzept-5-1-vision-und-mission-der-europaischen-verteidigungsallianz-eda"></a>
 
@@ -5733,21 +5733,35 @@ status: draft
 
 _**Vision and mission**_
 
-The European Defence Alliance (EDA) is a values‑based defence architecture that unites European and allied democracies in a shared commitment to security, freedom and democratic sovereignty. It complements NATO while ensuring that Europe remains capable of defence and strategically autonomous, even in times of transatlantic uncertainty.
+The European Defence Alliance (EDA) is a values-based defence architecture that unites European and allied democracies in a shared commitment to security, freedom and democratic sovereignty. It complements NATO while ensuring that Europe remains capable of defence and strategically autonomous, even in times of transatlantic uncertainty.
 
-**Core objectives:**
+#### Strategic context
 
-* Protection of democracy, the rule of law and territorial integrity
-* Strengthening Europe’s independent deterrence and defence capability
-* Enabling rapid, coordinated responses to hybrid and conventional threats
-* Involving global democracies in a flexible, values‑oriented security community
+Europe's security architecture has been built on the transatlantic alliance since 1949. This architecture remains valuable — yet it is no longer sufficient:
+
+- **Geopolitical fragmentation:** Multipolar power constellations, hybrid attack vectors and orbital threats demand an independent European capacity to act.
+- **Transatlantic uncertainty:** Domestic political shifts in the United States and changing strategic priorities necessitate a European fallback position.
+- **Democratic responsibility:** Security policy that is not democratically anchored loses legitimacy. Europe must shape its own defence — not out of mistrust of partners, but out of respect for its own sovereignty.
+
+#### Core objectives
+
+* **Protection of democracy, the rule of law and territorial integrity** — as the immovable core of every EDA activity.
+* **Strengthening Europe's independent deterrence and defence capability** — complementary to NATO, autonomous in crises.
+* **Enabling rapid, coordinated responses** to hybrid, conventional and orbital threats — across all domains (land, air, sea, cyber, space).
+* **Involving global democracies** in a flexible, values-oriented security community — beyond the European theatre.
+
+#### Guiding principle
+
+> "Freedom must never be outsourced. Security must never be silenced. Democracy must never stand alone — and must, if necessary, be fought for."
+
+The EDA is Europe's strategic test of maturity: an architecture that relies not on enemy images, but on democratic strength, technological sovereignty and constitutional commitment.
 
 
 \newpage
 
 ---
 source: content/5.-das-eda-konzept/5.2-mitgliedschaft-und-organisationsstruktur.md
-status: draft
+status: "in-review"
 ---
 <a id="md-5-das-eda-konzept-5-2-mitgliedschaft-und-organisationsstruktur"></a>
 
@@ -5756,36 +5770,47 @@ status: draft
 
 _**Membership and structure**_
 
-**Core members:**
+The EDA is open to all states that commit to democracy, the rule of law and the shared defence pledge. The membership architecture distinguishes between core members with full voting rights and strategic partners who are integrated through coordinated cooperation agreements.
 
-* EU Member States (voluntary participation)
-* United Kingdom
-* Norway
-* Iceland
-* Canada
-* Ukraine (sovereign partner and full member after a referendum of the Ukrainian population)
-* Greenland (via Denmark)
+#### Core members
 
-**Strategic partners:**
+Core members carry the full mutual-assistance obligation and hold voting rights within the command structure:
 
-* Japan, South Korea, Australia, New Zealand, Taiwan
-* Costa Rica, Chile (Latin America)
-* African democracies (by invitation)
+* **EU Member States** (voluntary participation through national ratification)
+* **United Kingdom** — as a central security partner in post-Brexit Europe
+* **Norway, Iceland** — as NATO allies with Arctic relevance
+* **Canada** — as a transatlantic bridge and partner in Arctic security
+* **Ukraine** — as a sovereign partner and full member after a referendum of the Ukrainian population (Democratically Prepared Defence Accession)
+* **Greenland** (via Denmark) — as a strategic Arctic node
 
-**Institutional bodies:**
+#### Strategic partners
 
-* **EDA Council** (ministerial level)
-* **Integrated Joint Command**
-* **EDACOM** – crisis‑coordination centre
-* **Cyber Defence Command**
-* **Rapid Response Force (RRF)** – deployable within 48 hours
+Strategic partners participate in exercises, intelligence sharing and selected operations without bearing the full mutual-assistance clause:
+
+* **Indo-Pacific:** Japan, South Korea, Australia, New Zealand, Taiwan
+* **Latin America:** Costa Rica, Chile (democratic stability anchors)
+* **Africa:** Democratic African states (by invitation, with a focus on regional security cooperation)
+
+#### Institutional bodies
+
+| Body | Function |
+|---|---|
+| **EDA Council** (ministerial level) | Strategic direction and political decisions |
+| **Integrated Joint Command** | Cross-domain operational planning and mission control |
+| **EDACOM** — crisis centre | Real-time coordination during threats and operations |
+| **Cyber Defence Command** | Protection of digital infrastructure and hybrid-attack defence |
+| **Rapid Response Force (RRF)** | Multinational rapid-reaction force, deployable within 48 hours |
+
+#### Accession mechanism
+
+Accession to the EDA follows the principle of **Democratically Prepared Defence Accession**: any sovereign partner state may become a full member after a successful national referendum — on the basis of democratic self-determination, rule-of-law clarity and a transparent evaluation process.
 
 
 \newpage
 
 ---
 source: content/5.-das-eda-konzept/5.3-prinzipien-und-verteidigungsdoktrin.md
-status: draft
+status: "in-review"
 ---
 <a id="md-5-das-eda-konzept-5-3-prinzipien-und-verteidigungsdoktrin"></a>
 
@@ -5794,17 +5819,43 @@ status: draft
 
 _**Defence principles**_
 
-* **Article 5 equivalent**: clear mutual assistance commitment
-* **Protection of sovereignty**: the political independence of all members is preserved
-* **Technological sovereignty**: joint development of armaments, space, AI and communications
-* **Cyber resilience**: coordinated protection against cyberattacks and hybrid threats
+The EDA's defence doctrine rests on four pillars that together combine credible deterrence with democratic oversight.
+
+#### Article 5 equivalent: clear mutual-assistance commitment
+
+The EDA establishes a binding collective-defence clause analogous to NATO's Article 5. An armed attack on one member is treated as an attack on all. This clause is constitutionally anchored and requires parliamentary confirmation within defined time-frames.
+
+#### Protection of sovereignty
+
+The political independence of all members is preserved. The EDA does not merge armed forces into a supranational army; it creates **interoperability while national sovereignty endures**. No member loses control over its own forces; every member gains the strength of the collective.
+
+#### Technological sovereignty
+
+Joint development of armaments, space, AI and communications secures Europe's **strategic autonomy in technology**. The EDA promotes:
+
+* European procurement programmes (FCAS, MGCS, IRIS²)
+* Common research and development funds
+* Dual-use innovation in cooperation with FORTERA (cf. Ch. 7)
+* Chip, sensor and battery production alliances to reduce external dependency
+
+#### Cyber resilience
+
+Coordinated protection against cyberattacks and hybrid threats forms the fourth pillar. The EDA practises active defence:
+
+* **Cyber Defence Command** with a 24/7 operating picture and autonomous response kernels
+* **Resilient communications networks** via EDA mesh satellites and quantum-secure links
+* **Hybrid defence as a permanent front** (cf. Ch. 13.6): coordinated countering of disinformation, sabotage and reflexive control
+
+#### Doctrine summary
+
+> The EDA doctrine is defensive in orientation, resolute in deterrence, democratic in oversight and technologically sovereign in execution. It protects what it loves — not through power, but through fidelity to principles.
 
 
 \newpage
 
 ---
 source: content/5.-das-eda-konzept/5.4-militarische-integration-und-gemeinsame-standards.md
-status: draft
+status: "in-review"
 ---
 <a id="md-5-das-eda-konzept-5-4-militarische-integration-und-gemeinsame-standards"></a>
 
@@ -5813,18 +5864,44 @@ status: draft
 
 _**Military integration**_
 
-* Common standards and regular joint exercises
-* Priority use of European or allied systems (e.g. FCAS, MGCS)
-* Use of a secure European battlefield cloud
-* Joint early‑warning, ISR and satellite capabilities
-* Infrastructure agreements for cross‑border mobility
+The EDA's military integration does not aim at a single European army, but at **maximum interoperability while national structures endure**. Member states' armed forces must be able to work together seamlessly — in exercises, in crises and in joint operations.
+
+#### Common standards and exercises
+
+Regular joint exercises form the basis for trust and coordination. The EDA defines binding standards for:
+
+* **Logistics and supply:** Unified container, ammunition and fuel formats; cross-border resupply corridors.
+* **Communications:** Encrypted, interoperable radio networks and a secure European battlefield cloud for real-time operating pictures.
+* **Training:** Common curricula for officers and NCOs; exchange programmes between military academies.
+* **Medical services:** Harmonised medical-care protocols and cross-border evacuation agreements.
+
+#### Procurement and equipment
+
+The EDA prioritises European or allied systems. Key procurement projects:
+
+* **FCAS** (Future Combat Air System) — next-generation air superiority
+* **MGCS** (Main Ground Combat System) — modular main-battle system for land operations
+* **IRIS²** — European satellite system for secure communications and navigation
+* **European Drone Force (EDF)** — unmanned strategic systems (cf. Ch. 5.9)
+
+#### Early warning and reconnaissance
+
+Joint early-warning, ISR (Intelligence, Surveillance, Reconnaissance) and satellite capabilities form the EDA's sensory nervous system. The goal is a **360° operating picture** across all domains — land, air, sea, cyber and orbit.
+
+#### Infrastructure and mobility
+
+Infrastructure agreements for cross-border mobility enable the rapid movement of troops and materiel. This includes:
+
+* Harmonised authorisation procedures for military transits
+* Prioritised rail, road and air corridors
+* Pre-positioning of equipment at strategic nodes
 
 
 \newpage
 
 ---
 source: content/5.-das-eda-konzept/5.5-globale-koordination-und-verantwortung.md
-status: draft
+status: "in-review"
 ---
 <a id="md-5-das-eda-konzept-5-5-globale-koordination-und-verantwortung"></a>
 
@@ -5833,18 +5910,39 @@ status: draft
 
 _**Global coordination and responsibility**_
 
-* Not a NATO alternative, but a fully autonomous security pillar
-* These alliances reflect a growing global consensus: the protection of democracy requires cooperation beyond regional borders
-* Global coordination with democratic security alliances (e.g. emerging alliances such as ADO, ASDA, LDA, AFDA)
-* Long‑term vision: creation of a **Global Defence Alliance (GDA)** of constitutional democracies
-* Launch of a **Democracy Security Network** for values‑based cooperation
+The EDA sees itself not as a NATO alternative, but as a **fully autonomous European security pillar** that is globally networked. Europe's security does not end at the continent's borders: threats are transnational, supply chains global, and democratic values universal.
+
+#### Complementarity, not competition
+
+The EDA complements existing alliances:
+
+* **NATO:** The EDA strengthens the European pillar within NATO while guaranteeing autonomous capacity to act when transatlantic coordination is delayed or blocked.
+* **United Nations:** The EDA supports UN-mandated operations and strengthens the multilateral security system.
+* **EU missions:** Integration with PESCO, EU Battlegroups and CSDP operations.
+
+#### Global democratic security alliances
+
+The EDA promotes the emergence of regional security alliances among democratic states and coordinates with them:
+
+* **ADO** (Asian Defence Organisation) — democratic security in East Asia
+* **ASDA** (Australian Defence Alliance) — Indo-Pacific stability
+* **LDA** (Latin American Defence Alliance) — Latin American cooperation
+* **AFDA** (African Defence Alliance) — African democratic security
+
+These alliances reflect a growing global consensus: the protection of democracy requires cooperation beyond regional borders.
+
+#### Long-term vision: Global Defence Alliance (GDA)
+
+The EDA works long-term towards the creation of a **Global Defence Alliance (GDA)** of constitutional democracies — a network of sovereign defence alliances that protect shared values without undermining national sovereignty.
+
+As a first step, a **Democracy Security Network** is launched: a framework for values-based security cooperation, intelligence sharing and joint exercises among democratic states on every continent.
 
 
 \newpage
 
 ---
 source: content/5.-das-eda-konzept/5.6-synergien-und-konnektivitat.md
-status: draft
+status: "in-review"
 ---
 <a id="md-5-das-eda-konzept-5-6-synergien-und-konnektivitat"></a>
 
@@ -5853,9 +5951,35 @@ status: draft
 
 _**Synergies and connectivity**_
 
-* Integration with PESCO, EDIRPA, IRIS² as well as EU space and cyber initiatives
-* Linkage with programmes for democratic innovation and civil resilience
-* Institutional interlinkage with the constitutional developments of ERDA
+The EDA does not exist in isolation. Its strength unfolds through interconnection with existing EU programmes, ERDA pillars and civilian innovation structures. Defence in the twenty-first century is not a silo — it is a connectivity challenge.
+
+#### Integration with EU programmes
+
+* **PESCO** (Permanent Structured Cooperation): The EDA leverages and expands existing PESCO projects as operational building blocks.
+* **EDIRPA** (European Defence Industry Reinforcement through Common Procurement Act): Common procurement frameworks strengthen the industrial base.
+* **IRIS²**: The European satellite system is central to secure communications and independent navigation.
+* **EU space and cyber initiatives**: Shared use of reconnaissance, early-warning and communications capabilities.
+
+#### Linkage with ERDA pillars
+
+The EDA is an integral part of the ERDA ecosystem and builds synergies with:
+
+* **FORTERA** (Ch. 7): Industrial capacity for defence goods, attrition production, dual-use technologies.
+* **CIVITAS** (Ch. 6): Civilian oversight, cyber resilience, democratic participation structures.
+* **ARKTIS** (Ch. 8): Military presence in the High North, protection of Arctic resources and sea routes.
+* **SPACE** (Ch. 9): Orbital protection, satellite reconnaissance, space-based early warning.
+
+#### Civilian resilience and innovation
+
+The EDA promotes **dual-use innovation** at the interface of civilian research and military application:
+
+* Collaboration with universities, research institutes and start-ups through the **Drone Innovation Task Force** (cf. 5.9.3).
+* Civil-military disaster relief through mobile Defence Sovereignty Nodes (mDSNs, cf. 5.8.2).
+* Digital sovereignty through European cloud and AI infrastructure.
+
+#### Constitutional embedding
+
+All synergies and cooperation arrangements are subject to the **constitutional development of ERDA** — the evolutionary, constitutionally bound further development of the EU into a democratic rights-based union. Defence serves to protect this architecture, not to replace it.
 
 
 \newpage
@@ -10205,7 +10329,7 @@ Politically coordinating body for the strategic planning of the Solar Alliance. 
 
 ---
 source: ../../../de/content/10.-das-ki-konzept/README.md
-status: draft
+status: "in-review"
 ---
 <a id="md-10-das-ki-konzept-readme"></a>
 
@@ -10842,7 +10966,7 @@ With Levels 1–4, the ERDA AI concept defines a complete governance spectrum �
 
 ---
 source: content/10.-das-ki-konzept/10.a-ko-evolutions-index-kei.md
-status: draft
+status: "in-review"
 ---
 <a id="md-10-das-ki-konzept-10-a-ko-evolutions-index-kei"></a>
 
@@ -11035,7 +11159,7 @@ It is a **safety and maturity instrument** for a democratic, co-evolutionary fut
 
 ---
 source: ../../../de/content/11.-das-burger-konzept/README.md
-status: draft
+status: "in-review"
 ---
 <a id="md-11-das-burger-konzept-readme"></a>
 
@@ -11119,7 +11243,7 @@ Principle: incremental, testable, adjustable – and always compatible with fund
 
 ---
 source: ../../../../de/content/11.-das-burger-konzept/11.1-aktuell-national-und-oder-eu-weit-umsetzbare-resilienzmodelle-evolutiv-stabiler-demokratien/README.md
-status: draft
+status: "in-review"
 ---
 <a id="md-11-das-burger-konzept-11-1-aktuell-national-und-oder-eu-weit-umsetzbare-resilienzmodelle-evolutiv-stabiler-demokratien-readme"></a>
 
@@ -11135,7 +11259,7 @@ The goal is to increase resilience in a **measurable** way: defence capability, 
 
 ---
 source: ../../../../de/content/11.-das-burger-konzept/11.1-aktuell-national-und-oder-eu-weit-umsetzbare-resilienzmodelle-evolutiv-stabiler-demokratien/11.1.1-resilienzstarkendes-burgerpflichtmodell.md
-status: draft
+status: "in-review"
 ---
 <a id="md-11-das-burger-konzept-11-1-aktuell-national-und-oder-eu-weit-umsetzbare-resilienzmodelle-evolutiv-stabiler-demokratien-11-1-1-resilienzstarkendes-burgerpflichtmodell"></a>
 
@@ -11441,7 +11565,7 @@ Germany and Europe face a turning point. Crisis-resilient societies emerge throu
 
 ---
 source: ../../../de/content/11.-das-burger-konzept/11.2-was-mochte-das-leben/README.md
-status: draft
+status: "in-review"
 ---
 <a id="md-11-das-burger-konzept-11-2-was-mochte-das-leben-readme"></a>
 
@@ -11584,7 +11708,7 @@ Citizens need systems that protect exactly this viability: dignity, security, fr
 
 ---
 source: ../../../de/content/11.-das-burger-konzept/11.3-was-brauchen-die-burger/README.md
-status: draft
+status: "in-review"
 ---
 <a id="md-11-das-burger-konzept-11-3-was-brauchen-die-burger-readme"></a>
 
@@ -11698,7 +11822,7 @@ All further chapters build on this.
 
 ---
 source: ../../../de/content/11.-das-burger-konzept/11.4-was-braucht-die-demokratie-langfristig/README.md
-status: draft
+status: "in-review"
 ---
 <a id="md-11-das-burger-konzept-11-4-was-braucht-die-demokratie-langfristig-readme"></a>
 
@@ -11708,39 +11832,96 @@ status: draft
 *What does democracy need in the long term?*
 
 Democracy is not a static state, but a learning system.
-The long-term preservation of democracy depends on three pillars:
+Anyone who understands democracy merely as the act of voting underestimates its ambition: it is a society's ongoing attempt to govern itself — fallible, correctable, capable of development.
+The long-term preservation of democracy depends on three pillars that support each other.
 
-1. **Resilient institutions**
+### 11.4.1 Resilient institutions
 
-   Democratic institutions must be flexible enough to respond to crises without sacrificing their core principles.
-   This includes functioning parliaments, independent courts, and a free press.
-   They secure the legitimacy of the state’s monopoly on force and make transparent how power is exercised[1].
+Democratic institutions must be flexible enough to respond to crises without sacrificing their core principles.
+This includes functioning parliaments, independent courts, and a free press.
+They secure the legitimacy of the state's monopoly on force and make transparent how power is exercised[1].
 
-2. **Social and technological sovereignty**
+Resilience here does not mean immutability, but **structural learning capacity**:
+institutions that can recognise errors, admit them, and correct them survive crises.
+Institutions that seal themselves off and suppress criticism crumble — sometimes slowly, sometimes abruptly.
 
-   A democratic community must be able to develop key technologies itself and secure access to education, digital infrastructure, and ecological resources.
-   Only then can citizens play, learn, and grow up without becoming dependent on external actors.
+**ERDA mechanisms for institutional resilience:**
 
-3. **Cultural evolution**
+- **Democracy Chain** (cf. Ch. 14.6): A four-stage safeguard system running from voting rights through fundamental rights and separation of powers to independent ombudspersons — every stage secures the one before it.
+- **Anti-capture architecture** (cf. Ch. 14.7): Constitutional provisions against the systematic infiltration of democratic institutions by oligarchs, autocratic networks, or ideological groups.
+- **Parliamentary oversight of security forces:** The Inter-Parliamentary Union and the Geneva Centre for the Democratic Control of Armed Forces stress that parliaments must set the legal framework, control budgets, and oversee security forces[2]. Without such control, "states within the state" threaten.
+- **Sunset clauses and review cycles:** Laws and institutions receive built-in expiry dates and periodic evaluations so that no instrument of power continues operating indefinitely.
 
-   Democracy lives from the willingness to practise self-criticism and to keep developing.
-   Societies that cultivate play, art, and science create spaces for renewal.
-   Political culture must allow mistakes, facilitate peaceful transfers of power, and actively include the next generation.
+### 11.4.2 Social and technological sovereignty
 
-These three pillars form the basis for all further action.
-The following chapters show how these principles are concretised in the fields of education, economy, digital sovereignty, and international cooperation.
+A democratic community must be able to develop key technologies itself and secure access to education, digital infrastructure, and ecological resources.
+Only then can citizens play, learn, and grow up without becoming dependent on external actors.
+
+**Why sovereignty protects democracy:**
+
+Dependence on autocratically controlled supply chains — whether semiconductors, energy carriers, or digital platforms — creates vulnerability to coercion.
+Those who can be coerced cannot decide freely. A democracy without technological sovereignty is a democracy on borrowed time.
+
+**ERDA approaches:**
+
+- **FORTERA** (cf. Ch. 7): Building European production capacity for strategic goods — from semiconductors and batteries to pharmaceutical active ingredients.
+- **Redundancy instead of single points of failure** (cf. Ch. 13.5): Diversifying critical infrastructure so that the failure of one supplier or system does not endanger the entire democracy.
+- **Digital sovereignty through CIVITAS** (cf. Ch. 6): European digital infrastructure for democratic participation, data protection, and transparent administration.
+- **Education sovereignty:** Open, multilingual education systems that teach critical thinking, media literacy, and democratic agency (civic literacy) as core competences.
+
+### 11.4.3 Cultural evolution
+
+Democracy lives from the willingness to practise self-criticism and to keep developing.
+Societies that cultivate play, art, and science create spaces for renewal.
+Political culture must allow mistakes, facilitate peaceful transfers of power, and actively include the next generation.
+
+**Cultural evolution in the ERDA context:**
+
+- **Play as a democratic resource** (cf. 11.3.6): Trivial play for recovery, creative play for innovation. Societies that restrict room for play lose their capacity for renewal.
+- **The generational contract as an active principle:** Each generation assumes responsibility not only for protecting the next, but for actively including it — through youth parliaments, future councils, and intergenerational participation formats.
+- **A culture of learning from mistakes instead of compulsory perfection:** Democracies that punish mistakes instead of learning from them become rigid. The Seven Transformation Rules of Social Democracy (cf. Ch. 12.1) formulate principles that protect this learning process.
+- **Multilingualism and regional diversity** as a strength: Cultural diversity is not a problem to be solved, but a source of perspective variety and resilience (cf. Ch. 11 introduction).
+
+### 11.4.4 The three pillars in interaction
+
+The three pillars do not work in isolation. Without resilient institutions, the framework in which technological sovereignty can be shaped democratically is missing. Without technological sovereignty, institutions lose their capacity to act. Without cultural evolution, both ossify into empty shells.
+
+```
+Resilient Institutions
+       ↑ ↓
+Technological Sovereignty ←→ Cultural Evolution
+```
+
+ERDA integrates these three pillars into an **evolutionarily stable architecture**: it changes without destabilising itself. It learns without losing its identity. It grows without tearing itself apart.
+
+That is the core of the democratic mandate: not perfection, but **the stable ability for the next stage of maturity** (cf. 11.2.1.5).
+
+### 11.4.5 Long-term perspective: democracy as a civilisation project
+
+Democracy is more than a system of government. It is a civilisational promise: that people can govern themselves — free from fear, with dignity, capable of learning.
+
+Fulfilling this promise requires:
+
+- **Patience:** Democracy develops over generations. Quick fixes rarely produce stable outcomes.
+- **Courage:** Democracy endures not by avoiding conflict, but through the ability to resolve conflicts non-violently and fairly.
+- **Humility:** No system is perfect. The readiness to recognise and correct one's own mistakes is the strongest sign of democratic maturity.
+
+The following chapters show how these principles are operationalised in concrete concepts — from the AI framework (Ch. 10) through the transformation rules (Ch. 12) to the international alliance architecture (Chs. 13–14).
 
 ### Sources
 
 [1] State monopoly on violence | Political Science, Sociology & History | Britannica
 <https://www.britannica.com/topic/state-monopoly-on-violence>
 
+[2] Parliamentary Oversight of the Security Sector
+<https://www.dcaf.ch/sites/default/files/publications/documents/ipu_hb_english_corrected.pdf>
+
 
 \newpage
 
 ---
 source: ../../../de/content/12.-das-demokratie-konzept/README.md
-status: draft
+status: "in-review"
 description: "Chapter 12 – The Democracy Concept (draft translation)"
 date: "2026-02-07"
 ---
@@ -11759,7 +11940,7 @@ This chapter bundles key building blocks for shaping democratic systems that are
 
 ---
 source: ../../../de/content/12.-das-demokratie-konzept/12.1-die-sieben-transformationsregeln-der-sozialen-demokratie.md
-status: draft
+status: "in-review"
 description: "Chapter 12.1 – Seven transformation rules of social democracy (draft translation)"
 date: "2026-02-07"
 ---
@@ -11787,7 +11968,7 @@ The following rules are formulated so that they can be applied in very different
 
 ![The seven fundamental elements of social democracy](.gitbook/assets/Die-sieben-grundlegenden-Elemente-sozialer-Demokratie.png)
 
-_Figure X.1: The seven fundamental elements of social democracy form a closed network. The terms in the graphic correspond to the seven rules explained below._
+_Figure 12.1: The seven fundamental elements of social democracy form a closed network. The terms in the graphic correspond to the seven rules explained below._
 
 ### 1) The seven transformation rules (1.1–1.8)
 
@@ -11910,14 +12091,14 @@ Whether we are dealing with a municipality, a company, an international organisa
 
 ---
 source: ../../../de/content/12.-das-demokratie-konzept/12.a-das-rollenspiel-und-fazit.md
-status: draft
+status: "in-review"
 description: "Chapter 12.A – Role-play analysis and conclusion (draft translation)"
 date: "2026-02-07"
 ---
 <a id="md-12-das-demokratie-konzept-12-a-das-rollenspiel-und-fazit"></a>
 
 
-<a id="anhang-x-a"></a>
+<a id="anhang-12-a"></a>
 
 ## 12.A Role-play and Conclusion
 
@@ -12046,6 +12227,8 @@ https://freedomhouse.org/country/china/freedom-world/2025
 
 ---
 description: "Chapter 13 – Strategic Sovereignty – Toolbox for Democratic Security"
+source: "../../../de/content/13.-strategische-souveranitat-werkzeugkoffer-fur-demokratische-sicherheit/README.md"
+status: "in-review"
 date: "2026-02-22"
 ---
 <a id="md-13-strategische-souveranitat-werkzeugkoffer-fur-demokratische-sicherheit-readme"></a>
@@ -12110,11 +12293,12 @@ Europe must stop deterring itself: rapidly strengthen attacked democracies with 
 
 _No legal advice; all measures are to be operationalised within democratic, constitutional and international-law frameworks._
 
-
 \newpage
 
 ---
 description: "13.1 – Core Logic: Overcoming Self-Deterrence – Securing the Capacity to Act"
+source: "../../../de/content/13.-strategische-souveranitat-werkzeugkoffer-fur-demokratische-sicherheit/13.1-kernlogik-selbstabschreckung-uberwinden-handlungsfahigkeit-sichern.md"
+status: "in-review"
 date: "2026-02-22"
 ---
 <a id="md-13-strategische-souveranitat-werkzeugkoffer-fur-demokratische-sicherheit-13-1-kernlogik-selbstabschreckung-uberwinden-handlungsfahigkeit-sichern"></a>
@@ -12172,11 +12356,12 @@ From this diagnosis follows a two-tier response:
 
 _The following subchapters 13.2–13.7 operationalise this core logic across concrete fields of action._
 
-
 \newpage
 
 ---
 description: "13.2 – Strategic Objective: Making Aggression Fail"
+source: "../../../de/content/13.-strategische-souveranitat-werkzeugkoffer-fur-demokratische-sicherheit/13.2-strategische-zielsetzung-aggression-scheitern-lassen.md"
+status: "in-review"
 date: "2026-02-22"
 ---
 <a id="md-13-strategische-souveranitat-werkzeugkoffer-fur-demokratische-sicherheit-13-2-strategische-zielsetzung-aggression-scheitern-lassen"></a>
@@ -12244,11 +12429,12 @@ These guidelines apply not only to a particular aggressor but as a **framework f
 - **Chapter 5 (EDA):** Defence doctrine and principles (5.3)
 - **Appendix D.5:** Concrete case study of Russia's war logic
 
-
 \newpage
 
 ---
 description: "13.3 – Defence Capability: Air Defence, Ammunition and Industrial Mass"
+source: "../../../de/content/13.-strategische-souveranitat-werkzeugkoffer-fur-demokratische-sicherheit/13.3-verteidigungsfahigkeit-luftverteidigung-munition-und-industrielle-masse.md"
+status: "in-review"
 date: "2026-02-22"
 ---
 <a id="md-13-strategische-souveranitat-werkzeugkoffer-fur-demokratische-sicherheit-13-3-verteidigungsfahigkeit-luftverteidigung-munition-und-industrielle-masse"></a>
@@ -12356,11 +12542,12 @@ This logic is **not limited to a particular conflict**:
 - **Chapter 7 (FORTERA):** Production sovereignty and strategic industrial policy (7.3), "1000 Days" immediate programme (7.3.5.1)
 - **Appendix D.5:** Concrete air-defence/ammunition logic in the Russia-Ukraine context
 
-
 \newpage
 
 ---
 description: "13.4 – Financial Agency: Unblocking Resources and Veto Resilience"
+source: "../../../de/content/13.-strategische-souveranitat-werkzeugkoffer-fur-demokratische-sicherheit/13.4-finanzielle-handlungsfahigkeit-ressourcen-entblocken-und-veto-resilienz.md"
+status: "in-review"
 date: "2026-02-22"
 ---
 <a id="md-13-strategische-souveranitat-werkzeugkoffer-fur-demokratische-sicherheit-13-4-finanzielle-handlungsfahigkeit-ressourcen-entblocken-und-veto-resilienz"></a>
@@ -12433,11 +12620,12 @@ Individual governments can use veto blockades to paralyse strategically critical
 - **Appendix H:** Lessons from the Liberum Veto and other failed governance structures
 - **Appendix D.5:** Concrete application in the Russia-Ukraine context
 
-
 \newpage
 
 ---
 description: "13.5 – Technological Sovereignty: Redundancy against Single Points of Failure"
+source: "../../../de/content/13.-strategische-souveranitat-werkzeugkoffer-fur-demokratische-sicherheit/13.5-technologische-souveranitat-redundanz-gegen-single-point-of-failure.md"
+status: "in-review"
 date: "2026-02-22"
 ---
 <a id="md-13-strategische-souveranitat-werkzeugkoffer-fur-demokratische-sicherheit-13-5-technologische-souveranitat-redundanz-gegen-single-point-of-failure"></a>
@@ -12528,11 +12716,12 @@ The Russo-Ukrainian War has shown that the centralised energy architecture (a fe
 - **Chapter 9 (SPACE):** ERDA space infrastructure as a strategic sovereignty guarantee (9.6)
 - **Chapter 5 (EDA):** Resilient operational networks, DSN (5.8)
 
-
 \newpage
 
 ---
 description: "13.6 – Hybrid Defence as a Permanent Front: Disinformation, Sabotage, Reflexive Control"
+source: "../../../de/content/13.-strategische-souveranitat-werkzeugkoffer-fur-demokratische-sicherheit/13.6-hybridabwehr-als-dauerfront-desinformation-sabotage-reflexive-kontrolle.md"
+status: "in-review"
 date: "2026-02-22"
 ---
 <a id="md-13-strategische-souveranitat-werkzeugkoffer-fur-demokratische-sicherheit-13-6-hybridabwehr-als-dauerfront-desinformation-sabotage-reflexive-kontrolle"></a>
@@ -12613,11 +12802,12 @@ Hybrid defence is **massively cost-efficient** compared to conventional defence:
 - **Chapter 12 (Democracy Concept):** Transformation rules for robust democracy (12.1)
 - **Appendix D.5:** Reflexive control and hybrid defence in the Russia context
 
-
 \newpage
 
 ---
 description: "13.7 – Parallel Strategy: Making Europe Defensible – Complement, Not Excuse"
+source: "../../../de/content/13.-strategische-souveranitat-werkzeugkoffer-fur-demokratische-sicherheit/13.7-parallelstrategie-europa-verteidigbar-machen-erganzung-statt-ausrede.md"
+status: "in-review"
 date: "2026-02-22"
 ---
 <a id="md-13-strategische-souveranitat-werkzeugkoffer-fur-demokratische-sicherheit-13-7-parallelstrategie-europa-verteidigbar-machen-erganzung-statt-ausrede"></a>
@@ -12701,13 +12891,12 @@ Every "frozen conflict" that rewards aggression raises the costs of the next rou
 - **Chapter 4 (ERDA Grand Design):** Reform phase 2025–2035 (4.2) and consolidation 2035–2050 (4.3)
 - **Appendix D.5:** Strategy paper Europe resilient against Russia's war logic (concrete case study)
 
-
 \newpage
 
 ---
 description: "Chapter 14 – The Democratic Coalitions of the Willing"
 source: "de/content/14.-die-demokratischen-koalitionen-der-willigen/README.md"
-status: "draft"
+status: "in-review"
 date: "2026-02-28"
 ---
 <a id="md-14-die-demokratischen-koalitionen-der-willigen-readme"></a>
@@ -12784,7 +12973,7 @@ Chapter 14 ties these threads into a **concrete political implementation path**:
 
 - **Chapter 13** provides the **toolbox** (What to do?).
 - **Chapter 14** provides the **blueprint** (How do we organise it – institutionally, legally, democratically?).
-- The existing desktop drafts (`desktop/EU/demokratische-koaliationen-der willigen/`) served as a foundation and are retained as working documentation.
+- The existing desktop drafts (`desktop/EU/demokratische-koalitionen-der-willigen/`) served as a foundation and are retained as working documentation.
 
 
 \newpage
@@ -12792,7 +12981,7 @@ Chapter 14 ties these threads into a **concrete political implementation path**:
 ---
 description: "14.1 Why Coalitions of the Willing? – Schengen, the Euro and the Principle of Pioneer Alliances"
 source: "de/content/14.-die-demokratischen-koalitionen-der-willigen/14.1-warum-koalitionen-der-willigen.md"
-status: "draft"
+status: "in-review"
 ---
 <a id="md-14-die-demokratischen-koalitionen-der-willigen-14-1-warum-koalitionen-der-willigen"></a>
 
@@ -12888,7 +13077,7 @@ The urgency arises from three converging trends:
 ---
 description: "14.2 Ten Democratic Coalitions – Concrete Fields of Action"
 source: "de/content/14.-die-demokratischen-koalitionen-der-willigen/14.2-zehn-demokratische-koalitionen.md"
-status: "draft"
+status: "in-review"
 ---
 <a id="md-14-die-demokratischen-koalitionen-der-willigen-14-2-zehn-demokratische-koalitionen"></a>
 
@@ -13109,7 +13298,7 @@ A practical template for all ten coalitions:
 ---
 description: "14.3 Tier Model: From Club to Federation (Tier 0–9)"
 source: "de/content/14.-die-demokratischen-koalitionen-der-willigen/14.3-stufenmodell-vom-club-zur-foederation.md"
-status: "draft"
+status: "in-review"
 ---
 <a id="md-14-die-demokratischen-koalitionen-der-willigen-14-3-stufenmodell-vom-club-zur-foederation"></a>
 
@@ -13204,7 +13393,7 @@ So that the system **does not tip** – neither into authoritarianism nor into p
 ---
 description: "14.4 The Club Architecture (EDDRC) – Organs, Voting Weight, Budget"
 source: "de/content/14.-die-demokratischen-koalitionen-der-willigen/14.4-die-club-architektur-eddrc.md"
-status: "draft"
+status: "in-review"
 ---
 <a id="md-14-die-demokratischen-koalitionen-der-willigen-14-4-die-club-architektur-eddrc"></a>
 
@@ -13228,9 +13417,9 @@ _Organs, Voting Weight, Budget, Accession and Exit of the European Democratic De
 | Tier | Designation | Rights | Obligations | Typical Members |
 |---|---|---|---|---|
 | **T0** | Observer | Participation without voting rights | Transparency/Info-Security Minimum | Partners in preparation |
-| **T1** | Program Member | Voting rights in programmes, access to joint procurement/standards | Pay-to-play per programme, audit | EU core states, UK/NO associated |
-| **T2** | Operational Member | Participation in operational/force structures, access to pools/stockpiles | Interoperability certification, rules of engagement, security clearance | Core A/B |
-| **T3** | Constitutional Member | Full member on the federal pathway | Full constitutional/rule-of-law commitment | Later federation stage |
+| **T1** | Associate | Selective cooperation rights, access to joint procurement/standards | Reduced contribution, audit, Core-A values | EU core states, UK/NO associated |
+| **T2** | Full Member | Full voting rights, participation in operational/force structures | Full contribution, interoperability certification, compliance | Core A/B |
+| **T3** | Core | Extended responsibility, framework-state function, EB secondment | Full constitutional/rule-of-law commitment, capacity guarantees | Later federation stage |
 
 **Key:** No one has a veto over accessions. Rights grow with obligations.
 
@@ -13352,9 +13541,9 @@ _Organs, Voting Weight, Budget, Accession and Exit of the European Democratic De
 | Step | Content | Decision-Maker | Threshold |
 |---|---|---|---|
 | Preliminary review | Rule of law, security clearance, audit | CRP (opinion) | Must be positive |
-| Admission T1 | Program Member | CoM | Double Majority |
-| Upgrade T2 | Operational Member | CoM + OCB recommendation | 2/3 + interoperability certification |
-| Upgrade T3 | Constitutional Member | CoM + POA approval | 2/3 + national ratification |
+| Admission T1 | Associate | CoM | Double Majority |
+| Upgrade T2 | Full Member | CoM + OCB recommendation | 2/3 + interoperability certification |
+| Upgrade T3 | Core | CoM + POA approval | 2/3 + national ratification |
 
 #### Exit (Orderly, Without Hostage-Taking)
 
@@ -13390,7 +13579,7 @@ _Organs, Voting Weight, Budget, Accession and Exit of the European Democratic De
 ---
 description: "14.5 Competence Catalogue and Ministries – Federal, Shared, National"
 source: "de/content/14.-die-demokratischen-koalitionen-der-willigen/14.5-kompetenzkatalog-und-ministerien.md"
-status: "draft"
+status: "in-review"
 ---
 <a id="md-14-die-demokratischen-koalitionen-der-willigen-14-5-kompetenzkatalog-und-ministerien"></a>
 
@@ -13578,7 +13767,7 @@ The following matrix shows, for **key instruments** across all eight ministries,
 ---
 description: "14.6 The Democracy Chain – Who Elects, Who Controls, Who Applies the Brakes"
 source: "de/content/14.-die-demokratischen-koalitionen-der-willigen/14.6-die-demokratie-kette.md"
-status: "draft"
+status: "in-review"
 ---
 <a id="md-14-die-demokratischen-koalitionen-der-willigen-14-6-die-demokratie-kette"></a>
 
@@ -13776,7 +13965,7 @@ The following table summarises the main decision types and assigns the threshold
 ---
 description: "14.7 Constitutional Sketch and Risk Controls – Art. 1–30, Annexes A–F, Resilience Dashboard"
 source: "de/content/14.-die-demokratischen-koalitionen-der-willigen/14.7-verfassungsskizze-und-risiko-controls.md"
-status: "draft"
+status: "in-review"
 ---
 <a id="md-14-die-demokratischen-koalitionen-der-willigen-14-7-verfassungsskizze-und-risiko-controls"></a>
 
@@ -13948,7 +14137,7 @@ The EDDRC is thus not a static construct but an **evolutionarily stable system**
 ---
 description: "Annex 14.A – Risk Controls & Enforcement (Treaty Annex)"
 source: "de/content/14.-die-demokratischen-koalitionen-der-willigen/14.a-risk-controls-und-enforcement.md"
-status: "draft"
+status: "in-review"
 ---
 <a id="md-14-die-demokratischen-koalitionen-der-willigen-14-a-risk-controls-und-enforcement"></a>
 
@@ -14164,7 +14353,7 @@ Measures are graduated and proportionate:
 ---
 description: "Annex 14.B – Procurement Code (Contract Annex)"
 source: "de/content/14.-die-demokratischen-koalitionen-der-willigen/14.b-procurement-code.md"
-status: "draft"
+status: "in-review"
 ---
 <a id="md-14-die-demokratischen-koalitionen-der-willigen-14-b-procurement-code"></a>
 
@@ -14419,7 +14608,7 @@ Minimum metrics to be measured:
 ---
 description: "Annex 14.C – Interoperability & Certification (Treaty Annex)"
 source: "de/content/14.-die-demokratischen-koalitionen-der-willigen/14.c-interoperability-und-certification.md"
-status: "draft"
+status: "in-review"
 ---
 <a id="md-14-die-demokratischen-koalitionen-der-willigen-14-c-interoperability-und-certification"></a>
 
@@ -14692,7 +14881,7 @@ The ISB publishes an annual roadmap; the CoM adopts updates; the POA receives th
 ---
 description: "Annex 14.D – War Powers & Mandates (Treaty Annex)"
 source: "de/content/14.-die-demokratischen-koalitionen-der-willigen/14.d-war-powers-und-mandates.md"
-status: "draft"
+status: "in-review"
 ---
 <a id="md-14-die-demokratischen-koalitionen-der-willigen-14-d-war-powers-und-mandates"></a>
 
@@ -14947,7 +15136,7 @@ This Annex enters into force together with the Treaty.
 ---
 description: "Annex 14.E – Audit & Transparency (Contractual Annex)"
 source: "de/content/14.-die-demokratischen-koalitionen-der-willigen/14.e-audit-und-transparency.md"
-status: "draft"
+status: "in-review"
 ---
 <a id="md-14-die-demokratischen-koalitionen-der-willigen-14-e-audit-und-transparency"></a>
 
@@ -15193,7 +15382,7 @@ This Annex enters into force together with the Treaty.
 ---
 description: "Annex 14.F – Membership Tiers & Upgrade/Downgrade (Treaty Annex)"
 source: "de/content/14.-die-demokratischen-koalitionen-der-willigen/14.f-membership-tiers-und-upgrade.md"
-status: "draft"
+status: "in-review"
 ---
 <a id="md-14-die-demokratischen-koalitionen-der-willigen-14-f-membership-tiers-und-upgrade"></a>
 
@@ -29246,7 +29435,7 @@ To overcome these destructive systems in a sustainable way, short‑term measure
 
 ---
 source: content/anhang-i-zentrales-erda-glossar.md
-status: draft
+status: "in-review"
 ---
 <a id="md-anhang-i-zentrales-erda-glossar"></a>
 
@@ -29276,7 +29465,7 @@ This glossary brings together the key terms used in the ERDA book. It serves as 
 | **FORTERA**                            | Concept for Europe’s production sovereignty and strategic industrial policy in key technologies (e.g. semiconductors, hydrogen, recycling), combined with ethical and ecological responsibility.                                    |
 | **CIVITAS**                            | Digital agora for democratic participation based on transparency, data protection, and citizen proximity, e.g. through e‑voting, citizens’ initiatives, and digital vote‑tracking.                                                  |
 | **ARKTIS Codex**                       | ERDA’s ethics code for the Arctic region, combining democratic responsibility, protection of indigenous rights, and sustainable resource partnerships.                                        |
-| **SPACE / Solar Alliance**             | ERDA’s long‑term space concept for codifying a democratic law of the cosmos and building interplanetary institutions (Solar Parliament, Alliance Council, Space Law Chamber) by 2075.                                               || **Co-evolution Index (KEI)**           | Measurement and early-warning instrument for the democratic quality of the human–AI relationship; gauges transparency, ethical governance and participatory control of AI systems in governance processes (Chapter 10).               |
+| **SPACE / Solar Alliance**             | ERDA's long‑term space concept for codifying a democratic law of the cosmos and building interplanetary institutions (Solar Parliament, Alliance Council, Space Law Chamber) by 2075.                                               || **Co-evolution Index (KEI)**           | Observation and early-warning instrument for the democratic quality of the human–AI relationship; captures transparency, ethical governance and participatory control of AI systems in governance processes (Chapter 10).               |
 | **Co-evolution (human–AI)**            | Concept of equal-footed advancement of humans and artificial intelligence, steered by democratic governance and ethical guardrails (Chapter 10).                                                                                      |
 | **Citizen duty model**                 | Integrated model linking civic rights with civic responsibility – through adaptive duty service (civil, social, ecological or military), resilience education and demographic compensation (Chapter 11).                               |
 | **Demographic imperative**             | Strategic compulsion to act driven by shrinking populations; requires technological mobilisation, qualified immigration and family support (Chapter 11).                                                                              |
