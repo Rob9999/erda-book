@@ -1,6 +1,6 @@
 ---
 source: ../../../de/content/11.-das-burger-konzept/README.md
-status: draft
+status: "in-review"
 ---
 
 # 11. The Citizen Concept

@@ -63,7 +63,7 @@ Dieses Kapitel integriert und operationalisiert Elemente aus:
 - **Kapitel 6 (CIVITAS-Konzept):** Participative Demokratie und digitale Bürgerbeteiligung.
 - **Kapitel 7 (FORTERA-Konzept):** Produktionssouveränität und industrielle Basis.
 - **Kapitel 11 (Bürger-Konzept):** Bürgerpflichtmodell und gesellschaftliche Resilienz.
-- **Kapitel 12 (Demokratie-Konzept):** Evolutionär stabile Demokratie als Zielarchitektur.
+- **Kapitel 12 (Demokratie-Konzept):** Evolutiv stabile Demokratie als Zielarchitektur.
 - **Kapitel 13 (Strategische Souveränität):** Werkzeugkoffer und Parallelstrategie.
 
 Kapitel 14 verbindet diese Fäden zu einem **konkreten politischen Umsetzungspfad**: Wie kommen wir von der heutigen EU-27 zu einer handlungsfähigen, demokratisch legitimierten europäischen Sicherheits- und Wohlstandsarchitektur?
@@ -74,4 +74,4 @@ Kapitel 14 verbindet diese Fäden zu einem **konkreten politischen Umsetzungspfa
 
 - **Kapitel 13** liefert den **Werkzeugkoffer** (Was tun?).
 - **Kapitel 14** liefert den **Bauplan** (Wie organisieren wir es – institutionell, rechtlich, demokratisch?).
-- Die bestehenden Desktop-Entwürfe (`desktop/EU/demokratische-koaliationen-der willigen/`) wurden als Grundlage genutzt und bleiben als Arbeitsdokumentation erhalten.
+- Die bestehenden Desktop-Entwürfe (`desktop/EU/demokratische-koalitionen-der-willigen/`) wurden als Grundlage genutzt und bleiben als Arbeitsdokumentation erhalten.

@@ -1,6 +1,6 @@
 ---
 source: ../../../de/content/12.-das-demokratie-konzept/README.md
-status: draft
+status: "in-review"
 description: "Chapter 12 – The Democracy Concept (draft translation)"
 date: "2026-02-07"
 ---

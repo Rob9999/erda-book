@@ -1,6 +1,6 @@
 ---
 source: ../../../de/content/10.-das-ki-konzept/README.md
-status: draft
+status: "in-review"
 ---
 
 # 10. The AI Concept

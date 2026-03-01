@@ -1,6 +1,6 @@
 ---
 source: content/anhang-i-zentrales-erda-glossar.md
-status: draft
+status: "in-review"
 ---
 
 # Appendix I: Central ERDA Glossary
@@ -28,7 +28,7 @@ This glossary brings together the key terms used in the ERDA book. It serves as 
 | **FORTERA**                            | Concept for Europe’s production sovereignty and strategic industrial policy in key technologies (e.g. semiconductors, hydrogen, recycling), combined with ethical and ecological responsibility.                                    |
 | **CIVITAS**                            | Digital agora for democratic participation based on transparency, data protection, and citizen proximity, e.g. through e‑voting, citizens’ initiatives, and digital vote‑tracking.                                                  |
 | **ARKTIS Codex**                       | ERDA’s ethics code for the Arctic region, combining democratic responsibility, protection of indigenous rights, and sustainable resource partnerships.                                        |
-| **SPACE / Solar Alliance**             | ERDA’s long‑term space concept for codifying a democratic law of the cosmos and building interplanetary institutions (Solar Parliament, Alliance Council, Space Law Chamber) by 2075.                                               || **Co-evolution Index (KEI)**           | Measurement and early-warning instrument for the democratic quality of the human–AI relationship; gauges transparency, ethical governance and participatory control of AI systems in governance processes (Chapter 10).               |
+| **SPACE / Solar Alliance**             | ERDA's long‑term space concept for codifying a democratic law of the cosmos and building interplanetary institutions (Solar Parliament, Alliance Council, Space Law Chamber) by 2075.                                               || **Co-evolution Index (KEI)**           | Observation and early-warning instrument for the democratic quality of the human–AI relationship; captures transparency, ethical governance and participatory control of AI systems in governance processes (Chapter 10).               |
 | **Co-evolution (human–AI)**            | Concept of equal-footed advancement of humans and artificial intelligence, steered by democratic governance and ethical guardrails (Chapter 10).                                                                                      |
 | **Citizen duty model**                 | Integrated model linking civic rights with civic responsibility – through adaptive duty service (civil, social, ecological or military), resilience education and demographic compensation (Chapter 11).                               |
 | **Demographic imperative**             | Strategic compulsion to act driven by shrinking populations; requires technological mobilisation, qualified immigration and family support (Chapter 11).                                                                              |

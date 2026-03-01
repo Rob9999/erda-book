@@ -1,6 +1,6 @@
 ---
 source: ../../../de/content/11.-das-burger-konzept/11.2-was-mochte-das-leben/README.md
-status: draft
+status: "in-review"
 ---
 
 # 11.2 What does life want?

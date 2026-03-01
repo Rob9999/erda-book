@@ -1,7 +1,7 @@
 ---
 description: "Chapter 14 – The Democratic Coalitions of the Willing"
 source: "de/content/14.-die-demokratischen-koalitionen-der-willigen/README.md"
-status: "draft"
+status: "in-review"
 date: "2026-02-28"
 ---
 
@@ -76,4 +76,4 @@ Chapter 14 ties these threads into a **concrete political implementation path**:
 
 - **Chapter 13** provides the **toolbox** (What to do?).
 - **Chapter 14** provides the **blueprint** (How do we organise it – institutionally, legally, democratically?).
-- The existing desktop drafts (`desktop/EU/demokratische-koaliationen-der willigen/`) served as a foundation and are retained as working documentation.
+- The existing desktop drafts (`desktop/EU/demokratische-koalitionen-der-willigen/`) served as a foundation and are retained as working documentation.
