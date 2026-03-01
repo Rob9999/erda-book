@@ -17,6 +17,7 @@
 
 - 🇩🇪 [Deutsch](#de)
   - [Was ist das ERDA Buch?](#de-was-ist)
+  - [Aktuelles Release (v2.0.0)](#de-release)
   - [Lizenz](#de-lizenz)
   - [Zitierung](#de-zitierung)
   - [Attribution und Lizenzierung](#de-attribution)
@@ -24,6 +25,7 @@
   - [Tooling & Build](#de-tooling)
 - 🇬🇧 [English](#en)
   - [What is the ERDA Book?](#en-what-is)
+  - [Current release (v2.0.0)](#en-release)
   - [Licence](#en-licence)
   - [Citation](#en-citation)
   - [Attribution and licensing](#en-attribution)
@@ -69,6 +71,29 @@ Es verbindet dabei:
 ### Wofür steht „evolutiv stabil“ in diesem Kontext?
 
 Gemeint sind Modelle, die langfristig funktionieren, weil sie **Anreize**, **Kontrollmechanismen** und **gesellschaftliche Tragfähigkeit** zusammendenken – statt nur Idealbilder zu formulieren.
+
+<a id="de-release"></a>
+### Aktuelles Release (v2.0.0) – 1. März 2026
+
+> Dieses Release transformiert das ERDA-Buch von einem konzeptionellen Entwurf zu einem umfassenden Governance-Rahmenwerk mit konkreter Vertrags- und Bündnisarchitektur.
+
+Erweiterung von **9 auf 14 Kapitel** mit über 200 Seiten neuem Inhalt:
+
+| Kap. | Thema | Highlights |
+|---|---|---|
+| **10** | KI-Governance | Ko-Evolutions-Index (KEI) als demokratisches Frühwarninstrument |
+| **11** | Bürger-Konzept | Adaptiver Pflichtdienst, demografischer Imperativ |
+| **12** | Demokratie-Konzept | Sieben Transformationsregeln sozialer Demokratie |
+| **13** | Strategische Souveränität | Werkzeugkoffer gegen Selbstabschreckung (Luftverteidigung, Attrition, Hybridabwehr) |
+| **14** | Koalitionen der Willigen | EDDRC-Club-Architektur, Stufenmodell Tier 0–9, Verfassungsskizze (Art. 1–30), 6 Vertragsanlagen mit 155 Artikeln |
+
+Weitere Neuerungen:
+- ⚔️ **Zaluzhnyi-Integration:** Kill-Zonen, transparenter Gefechtsraum, Drohnenkrieg – Erkenntnisse aus dem russisch-ukrainischen Krieg (6 Kapitel)
+- 📖 **D.5 Strategiepapier:** Russlands Verhandlungstaktik als Kriegsinstrument und europäische Gegenstrategien
+- 📊 **Glossar:** 30 Begriffe (19 bestehend + 11 neu)
+- 🌐 **Vollständige DE↔EN-Synchronisation** aller neuen Kapitel
+
+Details: [`release-docs/v2.0.0/`](release-docs/v2.0.0/)
 
 ### Beiträge und Qualität
 
@@ -191,6 +216,29 @@ It combines:
 ### What does “evolutionarily stable” mean here?
 
 It refers to models that remain viable long-term because they align **incentives**, **control mechanisms**, and **social sustainability**, instead of only describing ideals.
+
+<a id="en-release"></a>
+### Current release (v2.0.0) – 1 March 2026
+
+> This release transforms the ERDA book from a conceptual draft into a comprehensive governance framework with a concrete treaty and alliance architecture.
+
+Expansion from **9 to 14 chapters** with over 200 pages of new content:
+
+| Ch. | Topic | Highlights |
+|---|---|---|
+| **10** | AI Governance | Co-evolution Index (KEI) as a democratic early-warning instrument |
+| **11** | Citizen Concept | Adaptive duty service, demographic imperative |
+| **12** | Democracy Concept | Seven transformation rules of social democracy |
+| **13** | Strategic Sovereignty | Toolbox against self-deterrence (air defence, attrition, hybrid defence) |
+| **14** | Coalitions of the Willing | EDDRC club architecture, tier model Tier 0–9, constitutional sketch (Art. 1–30), 6 treaty annexes with 155 articles |
+
+Further additions:
+- ⚔️ **Zaluzhnyi integration:** Kill zones, transparent battlespace, drone warfare – insights from the Russo-Ukrainian war (6 chapters)
+- 📖 **D.5 Strategy paper:** Russia’s negotiation tactics as an instrument of war and European counter-strategies
+- 📊 **Glossary:** 30 terms (19 existing + 11 new)
+- 🌐 **Full DE↔EN synchronisation** of all new chapters
+
+Details: [`release-docs/v2.0.0/`](release-docs/v2.0.0/)
 
 ### Contributions and quality
 
