@@ -6,7 +6,7 @@ date-released: '2026-03-01'
 authors:
   - family-names: Massinger
     given-names: Robert Alexander
-    affiliation: Munich, Germany
+    affiliation: Independent Author, Munich, Germany
 contributors:
   - name: "ChatGPT (OpenAI)"
     roles: ["contributor"]
