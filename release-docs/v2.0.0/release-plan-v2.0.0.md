@@ -1,6 +1,6 @@
 # ERDA Book – Release v2.0.0 Plan
 
-**Status:** draft
+**Status:** ready  
 **Letzte Aktualisierung:** 2026-03-01
 
 ---
@@ -118,7 +118,8 @@
 - [x] Inhalte komplett (DE/EN) inkl. Book-JSON aktualisiert.
 - [ ] Lektorat/Terminologie geprüft; Links/Querverweise funktionieren.
 - [x] Orchestrator (de/en) erfolgreich durchgelaufen, PDFs/MDs committed.
-- [x] Release-Dokus (`release-docs/v2.0.0`) aktualisiert (Notes, Status, Certification).
+- [x] Release-Dokus (`release-docs/v2.0.0`) aktualisiert (Notes, Status, Certification, Description).
+- [x] `release-docs/Releases.md` v2.0.0 Eintrag hinzugefügt.
 - [ ] Tag `v2.0.0` gesetzt und gepusht; ggf. Zenodo-Publish.
 
 ## 📋 Nächste Schritte (kurzfristig)
