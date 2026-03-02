@@ -3,6 +3,8 @@ message: "If you use this book, please cite it as below."
 title: "The ERDA Book – Democratic Evolution: Strategy, Ethics and the Future of Europe"
 version: "2.0.0"
 date-released: '2026-03-01'
+doi: "10.5281/zenodo.18827190"
+url: "https://zenodo.org/records/18827190"
 authors:
   - family-names: Massinger
     given-names: Robert Alexander
@@ -15,12 +17,13 @@ contributors:
   - name: "ERDA Community Translators"
     affiliation: Europe-wide volunteer network
     roles: ["contributor"]
-abstract: >-
-  English edition of the ERDA book. 14 chapters on AI governance, civic resilience,
-  democratic transformation, strategic sovereignty and coalitions of the willing.
-  Texts: CC BY-SA 4.0; Code: MIT; Fonts: CC BY 4.0 / MIT.
 license: CC-BY-SA-4.0
 repository-code: "https://github.com/Rob9999/erda-book"
+abstract: >-
+  Open-access book on the strategic, ethical and technological renewal of Europe.
+  14 chapters covering AI governance, civic resilience, democratic transformation,
+  strategic sovereignty and coalitions of the willing. Bilingual (DE/EN).
+  Texts: CC BY-SA 4.0; Code: MIT; Fonts: CC BY 4.0 / MIT.
 keywords:
   - ERDA
   - Europe
@@ -34,4 +37,5 @@ preferred-citation:
     - family-names: Massinger
       given-names: Robert Alexander
   title: "The ERDA Book – Democratic Evolution"
+  doi: "10.5281/zenodo.18827190"
   year: 2026
