@@ -1,8 +1,10 @@
 cff-version: 1.2.0
-message: "If you use this book, please cite it as below."
+message: "Wenn Sie dieses Buch verwenden, zitieren Sie es bitte wie folgt."
 title: "ERDA – unsere demokratische Evolution: Strategie, Ethik und Zukunft Europas – Vom demokratischen Rechtsstaat zur resilienten Zivilisation"
 version: "2.0.0"
 date-released: '2026-03-01'
+doi: "10.5281/zenodo.18827190"
+url: "https://zenodo.org/records/18827190"
 authors:
   - family-names: Massinger
     given-names: Robert Alexander
@@ -12,18 +14,28 @@ contributors:
     roles: ["contributor"]
   - name: "GitHub Copilot (Anthropic)"
     roles: ["contributor"]
+  - name: "ERDA Community Translators"
+    affiliation: Europaweites Freiwilligennetzwerk
+    roles: ["contributor"]
 license: "CC-BY-SA-4.0"
 repository-code: "https://github.com/Rob9999/erda-book"
-abstract: >
+abstract: >-
   Offenes Buchprojekt zur strategischen, ethischen und technologischen Erneuerung
   Europas. 14 Kapitel zu KI-Governance, Bürgerresilienz, demokratischer Transformation,
   strategischer Souveränität und Koalitionen der Willigen. Zweisprachig (DE/EN).
-  Text: CC BY-SA 4.0; Code: MIT; Fonts: CC BY 4.0 / MIT.
+  Texte: CC BY-SA 4.0; Code: MIT; Fonts: CC BY 4.0 / MIT.
+keywords:
+  - ERDA
+  - Europa
+  - Demokratie
+  - KI-Governance
+  - demokratische Resilienz
+  - Koalitionen der Willigen
 preferred-citation:
   type: book
   authors:
     - family-names: Massinger
       given-names: Robert Alexander
   title: "ERDA – unsere demokratische Evolution"
-  publisher: "ERDA Institut (in Gründung)"
+  doi: "10.5281/zenodo.18827190"
   year: 2026
