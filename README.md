@@ -97,9 +97,15 @@ Details: [`release-docs/v2.0.0/`](release-docs/v2.0.0/)
 
 ### Beiträge und Qualität
 
-Beiträge sind willkommen, aber bitte die Regeln in AGENTS.md beachten (DCO Sign-off, Lizenz-/Attribution-Pflichten, DE↔EN Synchronisation bei Inhaltsänderungen).
+Das ERDA-Buch versteht sich als **lebendiges Dokument demokratischer Resilienz** – es lebt von der fachkundigen Mitwirkung aus Zivilgesellschaft, Wissenschaft, Politik und Praxis. Beiträge sind daher nicht nur willkommen, sondern ausdrücklich erwünscht.
 
-Hinweis: Inhalte sind „as is“; keine Rechts- oder Fachberatung.
+**Redaktionelle Leitlinien:**
+
+- **Qualitätsanspruch:** Jeder Beitrag sollte den analytischen Maßstäben des Projekts gerecht werden – sachlich fundiert, quellentransparent und konstruktiv im Sinne demokratischer Handlungsfähigkeit.
+- **Verbindliche Regeln:** Bitte die Richtlinien in [`AGENTS.md`](AGENTS.md) beachten – insbesondere DCO-Sign-off, Lizenz- und Attributionspflichten sowie die DE↔EN-Synchronisation bei inhaltlichen Änderungen.
+- **Peer-Review-Prinzip:** Inhaltliche Änderungen durchlaufen ein Review, um Konsistenz, fachliche Korrektheit und Übersetzungssynchronität sicherzustellen.
+
+> **Rechtlicher Hinweis:** Alle Inhalte werden „as is" und ohne Gewähr bereitgestellt. Das ERDA-Buch stellt keine Rechts-, Steuer- oder sonstige professionelle Beratung dar.
 
 <a id="de-lizenz"></a>
 ### Lizenz
@@ -242,9 +248,15 @@ Details: [`release-docs/v2.0.0/`](release-docs/v2.0.0/)
 
 ### Contributions and quality
 
-Contributions are welcome—please follow the rules in `AGENTS.md` (DCO sign-off, licensing/attribution duties, and DE↔EN synchronization for content changes).
+The ERDA Book sees itself as a **living document of democratic resilience** – it thrives on expert contributions from civil society, academia, policy-making, and practice. Contributions are therefore not merely welcome but actively encouraged.
 
-Note: content is provided “as is”; this is not legal or professional advice.
+**Editorial guidelines:**
+
+- **Quality standards:** Every contribution should meet the project's analytical expectations – well-founded, source-transparent, and constructive in the service of democratic agency.
+- **Binding rules:** Please observe the guidelines in [`AGENTS.md`](AGENTS.md) – in particular DCO sign-off, licensing and attribution duties, and DE↔EN synchronisation for content changes.
+- **Peer-review principle:** Content changes undergo review to ensure consistency, factual accuracy, and translation synchronisation.
+
+> **Legal notice:** All content is provided "as is" and without warranty. The ERDA Book does not constitute legal, tax, or any other form of professional advice.
 
 <a id="en-licence"></a>
 ### Licence
