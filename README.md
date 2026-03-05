@@ -2,12 +2,12 @@
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/Content-CC%20BY--SA%204.0-lightgrey.svg)](LICENSE)
 [![License: MIT](https://img.shields.io/badge/Code-MIT-blue.svg)](LICENSE-CODE)
-[![Version](https://img.shields.io/badge/version-v2.0.0-green.svg)](https://github.com/Rob9999/erda-book/releases/tag/v2.0.0)
+[![Version](https://img.shields.io/badge/version-v2.5.0--rc1-orange.svg)](https://github.com/Rob9999/erda-book/releases/tag/v2.5.0-rc1)
 
-**Current version:** v2.0.0  
-**As of (date):** 2026-03-01  
+**Current version:** v2.5.0-rc1  
+**As of (date):** 2026-03-05  
 **Channel:** release_candidate (pre-release)  
-**Codename / Release name:** Human AI Democrazy
+**Codename / Release name:** Democratic Knowledge
 
 **Multi-language democratic resilience framework**  
 🇩🇪 Deutsche Fassung: [`de/`](de/publish/das-erda-buch.pdf)  
@@ -17,7 +17,7 @@
 
 - 🇩🇪 [Deutsch](#de)
   - [Was ist das ERDA Buch?](#de-was-ist)
-  - [Aktuelles Release (v2.0.0)](#de-release)
+  - [Aktuelles Release (v2.5.0-rc1)](#de-release)
   - [Lizenz](#de-lizenz)
   - [Zitierung](#de-zitierung)
   - [Attribution und Lizenzierung](#de-attribution)
@@ -25,7 +25,7 @@
   - [Tooling & Build](#de-tooling)
 - 🇬🇧 [English](#en)
   - [What is the ERDA Book?](#en-what-is)
-  - [Current release (v2.0.0)](#en-release)
+  - [Current release (v2.5.0-rc1)](#en-release)
   - [Licence](#en-licence)
   - [Citation](#en-citation)
   - [Attribution and licensing](#en-attribution)
@@ -73,7 +73,18 @@ Es verbindet dabei:
 Gemeint sind Modelle, die langfristig funktionieren, weil sie **Anreize**, **Kontrollmechanismen** und **gesellschaftliche Tragfähigkeit** zusammendenken – statt nur Idealbilder zu formulieren.
 
 <a id="de-release"></a>
-### Aktuelles Release (v2.0.0) – 1. März 2026
+### Aktuelles Release (v2.5.0-rc1) – 5. März 2026
+
+> Dieses Release vertieft die normativen Grundlagen des ERDA-Buches. Im Zentrum steht das „Demokratische Wissen" – sieben Prinzipien als Leitfaden für demokratische Handlungsfähigkeit.
+
+**Neue Inhalte:**
+- 📜 **„Demokratisches Wissen"** – Sieben Prinzipien zu Macht, Umgang mit nicht-demokratiewilligen Staaten, Frieden und Sicherheit, Wahrheit und Täuschung, Demokratie, Technologie/KI und der inneren Verfassung.
+- ✍️ **Redaktionelle Qualitätsoffensive** – README-Abschnitte in professionellem redaktionellem Ton.
+
+Details: [`release-docs/v2.5.0/`](release-docs/v2.5.0/)
+
+<details>
+<summary>Vorheriges Release: v2.0.0 – 1. März 2026</summary>
 
 > Dieses Release transformiert das ERDA-Buch von einem konzeptionellen Entwurf zu einem umfassenden Governance-Rahmenwerk mit konkreter Vertrags- und Bündnisarchitektur.
 
@@ -94,6 +105,8 @@ Weitere Neuerungen:
 - 🌐 **Vollständige DE↔EN-Synchronisation** aller neuen Kapitel
 
 Details: [`release-docs/v2.0.0/`](release-docs/v2.0.0/)
+
+</details>
 
 ### Beiträge und Qualität
 
@@ -224,7 +237,18 @@ It combines:
 It refers to models that remain viable long-term because they align **incentives**, **control mechanisms**, and **social sustainability**, instead of only describing ideals.
 
 <a id="en-release"></a>
-### Current release (v2.0.0) – 1 March 2026
+### Current release (v2.5.0-rc1) – 5 March 2026
+
+> This release deepens the normative foundations of the ERDA Book. At its centre is "Democratic Knowledge" – seven principles serving as a guide for democratic agency.
+
+**New content:**
+- 📜 **"Democratic Knowledge"** – Seven principles on power, dealing with non-democracy-willing states, peace and security, truth and deception, democracy, technology/AI, and the inner condition.
+- ✍️ **Editorial quality initiative** – README sections rewritten in a professional editorial voice.
+
+Details: [`release-docs/v2.5.0/`](release-docs/v2.5.0/)
+
+<details>
+<summary>Previous release: v2.0.0 – 1 March 2026</summary>
 
 > This release transforms the ERDA book from a conceptual draft into a comprehensive governance framework with a concrete treaty and alliance architecture.
 
@@ -245,6 +269,8 @@ Further additions:
 - 🌐 **Full DE↔EN synchronisation** of all new chapters
 
 Details: [`release-docs/v2.0.0/`](release-docs/v2.0.0/)
+
+</details>
 
 ### Contributions and quality
 

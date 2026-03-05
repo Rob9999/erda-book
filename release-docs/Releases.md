@@ -1,5 +1,22 @@
 # Release History
 
+## 2.5.0-rc1 – 5 Mar 2026
+- **Responsible:** Robert Alexander Massinger (Lead) with support from ChatGPT/OpenAI and GitHub Copilot/Anthropic.
+- **Codename:** Democratic Knowledge
+- **Goal:**
+  - Content:
+    - "Demokratisches Wissen" (Democratic Knowledge) – seven normative principles for democratic agency (power, non-democracy-willing states, peace & security, truth & deception, democracy, technology/AI, inner condition).
+    - Desktop materials (DE + EN) in `desktop/misc/`.
+  - Editorial:
+    - README "Contributions and quality" sections rewritten in professional editorial voice (DE + EN).
+  - Technical:
+    - Version bump to v2.5.0-rc1.
+    - Release documentation in `release-docs/v2.5.0/`.
+- **Highlights:**
+  - **Seven principles of democratic knowledge** as standalone reference
+  - **Editorial quality initiative** for project communication
+  - Full release planning with status tracking
+
 ## 2.0.0 – 1 Mar 2026
 - **Responsible:** Robert Alexander Massinger (Lead) with support from ChatGPT/OpenAI and GitHub Copilot/Anthropic.
 - **Codename:** Human AI Democrazy
