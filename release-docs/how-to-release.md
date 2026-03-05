@@ -54,6 +54,9 @@ When committing regenerated artifacts:
 
 ## 4) Release candidate → main
 
+> **Pflichtlektüre:** Vor jedem Versionswechsel die vollständige Checkliste in
+> [`release-version-checklist.md`](release-version-checklist.md) abarbeiten.
+
 Typical flow:
 
 1. Work on `release_candidate`.
