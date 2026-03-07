@@ -316,17 +316,20 @@ Todo **uso**, **procesamiento** o **reprocesamiento** de esta obra – incluso m
 
 Any **use**, **processing** or **further processing** of this work – including via **artificial intelligence**, **machine learning** or **automated systems** – is covered by the open licence **CC BY-SA 4.0** (*attribution*, *share alike*). This explicitly includes **derivative works**, **AI-generated content**, **remix projects** and **algorithmically transformed** formats. **Unchanged incorporations** may appear as part of a **collection** under a different licence; the material concerned remains **CC BY-SA 4.0**.
 
-> *Hinweis:* Weitere Übersetzungen werden fortlaufend ergänzt; sie folgen derselben Lizenzlogik wie die oben aufgeführten Versionen.
+> *Hinweis:* Stand dieser Ausgabe sind die oben aufgeführten Sprachfassungen dokumentiert. Weitere Übersetzungen müssen dieselbe Lizenzlogik wahren und vor Aufnahme in eine Release-Fassung redaktionell geprüft werden.
 
 ---
 
 ## J.9 Lizenztexte
 
 ### MIT‑Lizenz (deutsche Fassung)
+
+Die rechtsverbindliche Fassung für Code und Toolchain befindet sich in `LICENSE-CODE`; der folgende Text dient der dokumentarischen Wiedergabe im Buch.
+
 ```text
 MIT‑Lizenz
 
-Copyright (c) {{YYYY}} {{Urheber}}
+Copyright (c) 2025–2026 The ERDA Book Authors
 
 Hiermit wird unentgeltlich jeder Person, die eine Kopie der Software und der zugehörigen
 Dokumentationsdateien (die „Software“) erhält, die Erlaubnis erteilt, uneingeschränkt mit der

@@ -181,7 +181,7 @@ Bulgaria is a Balkan country rich in tradition, an EU member with growing ambiti
    * Sources: World Bank, UN WPP 2022
 2. **AI capacities**  
    * Assumption: computing power doubles every three years (hypothetical)  
-   * Source: <insert source>
+   * Source: Stanford University. 2025. *AI Index Report 2025*; OECD. 2025. *OECD AI Policy Observatory*.
 3. **Infrastructure autonomy**  
    * Goal: 70% renewable energy supply by 2050 (hypothetical)  
    * Data basis: IEA, national energy plans

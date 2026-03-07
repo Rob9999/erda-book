@@ -3,11 +3,13 @@ source: content/anhang-b-erda-staatenprofile/b.2.-schema-fur-erda-staatenprofile
 status: draft
 ---
 
-# B.2 ERDA State Profile Template (v5, Extended Overview)
+# B.2 ERDA State Profile Template (v5, Technical Sample)
 
-_**Template for ERDA state profiles (v5)**_
+_**Technical sample template for ERDA state profiles (v5)**_
 
-### 1. 🌍 ERDA State Profile – Template (v5, 2025)
+> **Editorial note:** This section deliberately documents a technical sample template. Placeholders mark fields that must be replaced in concrete country profiles. The front-matter keys remain technical so that the template stays compatible with repository files and tooling.
+
+### 1. 🌍 ERDA State Profile – Technical sample template (v5, 2026)
 
 ```markup
 ---
@@ -20,7 +22,7 @@ layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 
-# {{country-code}} – State Profile {{country name}}
+# {{country-code}} – State Profile {{Country}}
 
 
 ## 1. Overview (meta)
@@ -137,7 +139,7 @@ version: "1.0"
 
 ## 8. Narrative & attractiveness
 
-* Core message: "{{Country}} shows that ..."
+* Core message (sample placeholder): "{{Country}} shows that ..."
 * Examples of strong, effective narratives and invitations:
 * Self-efficacy: (How do citizens help shape outcomes?)
 * Future dignity: (What provides identity & pride?)
@@ -156,7 +158,7 @@ version: "1.0"
 | Civil-society index [0–10]           |      |      |      |                             |
 Notes: (n/b) – not available (why?); (p) – projection (by whom?).
 
-## 10. Snapshot: "<Country> at a glance"
+## 10. Snapshot: "{{Country}} at a glance" (sample)
 
 A short, emotionally engaging summary of the key points, strengths and distinctive features for a broad audience.
 
@@ -184,40 +186,42 @@ Example database/website
 
 ### 11.3 🛠️ Modelling & assumptions
 
-(With example data)
+(Sample with example data)
 1. Economic projections 2050–2075
 * Base year: 2020; parameters: GDP growth 2.0% p.a., inflation 1.5% p.a., demographics cf. 11.1.
 * Sources: Eurostat, World Bank.
 
-(With example data)
+(Sample with example data)
 2. AI capacities
 * Assumption: computing power doubles every three years.
-* Source: [insert source].
+* Source: [add a concrete specialist source relevant to the topic, e.g. Eurostat, IEA or a national statistics office].
 
-(With example data)
+(Sample with example data)
 3. Infrastructure autonomy
 * Goal: 80% renewable energy supply generated domestically.
 * Data basis: Fraunhofer ISE, GIS modelling.
 
-(With example data)
+(Sample with example data)
 4. Democracy and participation values
 * Indicators: Freedom House score, CIVICUS Monitor.
 * Base value 2020; assumption: annual improvement by 0.5 points.
 
-(With example data)
+(Sample with example data)
 5. Energy potentials
 * Scenarios: moderate vs. ambitious.
 * Solar PV potential: 150 GWp (moderate), 300 GWp (ambitious).
 * Sources: BMWK, IEA.
 
 ## 12. 🤝 Participation welcome
-This profile is based on publicly accessible and modelled data. Representatives of the Republic of {{Country}} and interested specialist bodies are warmly invited to contribute their own perspectives, additions and updates – to build a shared picture of a resilient and democratic future for Europe.
+This profile is based on publicly accessible and modelled data. Representatives of the respective country and interested specialist bodies are warmly invited to contribute their own perspectives, additions and updates – to build a shared picture of a resilient and democratic future for Europe.
 
 ### 12.1 Last responsible points of contact
 Author: ERDA Book editorial team
 Contact: ERDA Book editorial team
 Last update: 2026-01-08
 ```
+
+**Note on technical notation:** The metadata keys `country`, `date`, `author`, `legal_responsible`, `layout` and `version` intentionally remain technical so that this sample can be reused directly in the repository.
 
 #### 2. Formatting, completion & collaboration notes
 

@@ -6476,7 +6476,7 @@ _**Praktische Maßnahmen- und Meilensteinplanung (2025–2050)**_
 
 <a id="md-7-das-fortera-konzept-7-3-produktionssouveranitat-und-strategische-industriepolitik-7-3-5-1-sofortprogramm-1000-tage"></a>
 
-### 7.3.5.1 Sofortprogramm „1000 Tage“ ({{YYYY}}–{{YYYY}}): Von Plan zu Output
+### 7.3.5.1 Sofortprogramm „1000 Tage“ (2026–2028): Von Plan zu Output
 
 Dieses Paket priorisiert Maßnahmen, die innerhalb von 12–36 Monaten messbar Output erhöhen.
 
@@ -6981,17 +6981,22 @@ Gemeinsam betrachtet zeigen sie, dass Handelspolitik nicht nur ökonomische, son
 
 <a id="md-7-das-fortera-konzept-7-b-nationaler-umsetzungsbaukasten-fur-eu-erda-staaten"></a>
 
-## **Anhang 7.B – Nationaler Umsetzungsbaukasten (FORTERA-Canvas pro EU-Staat)**
+## **Anhang 7.B – Nationaler Umsetzungsbaukasten (standardisiertes Arbeits-Template und FORTERA-Canvas pro EU-Staat)**
+
+> **Redaktioneller Hinweis:** Die Abschnitte 7.B.1 und 7.B.2 gehören bewusst zur Werkzeug- und Umsetzungsschicht dieses Buches. 7.B.1 dokumentiert ein standardisiertes Arbeits-Template; 7.B.2 zeigt ausgearbeitete Länder-Canvas. Platzhalter markieren Felder, die für einzelne Staaten konkret auszufüllen sind.
 
 Dieser Anhang macht FORTERA in jedem EU-Staat schnell anwendbar, ohne 27 verschiedene Systeme zu erzeugen.
 Jeder Staat nutzt dieselbe Canvas-Struktur. Inhalte werden jährlich durch FORTERA-Review nachgeschärft und über CIVITAS transparent diskutiert (vgl. Erfolgskontrolle & CIVITAS-Einbindung in 7.3.6.).
 
-### 7.B.1 Canvas-Kurzform (pro Staat)
+### 7.B.1 Canvas-Kurzform (standardisiertes Arbeits-Template pro Staat)
 
-**Archetyp (Vorschlag):** {{Archetyp_1}} / {{Archetyp_2}}  
-**Zeitraum:** {{YYYY}}–{{YYYY}}  
+Die folgende Kurzform ist bewusst als operative Vorlage gesetzt. Sie ist kein ausformulierter Lesetext, sondern ein redaktionelles Muster für die staatsspezifische FORTERA-Planung.
 
-**Ausgangslage in 12 Kennzahlen (eintragen):**
+```text
+Archetyp (Vorschlag): {{Archetyp_1}} / {{Archetyp_2}}
+Zeitraum: {{YYYY}}–{{YYYY}}
+
+Ausgangslage in 12 Kennzahlen:
 - Energiepreisindex: {{...}}
 - Netzstatus / Anschlussfähigkeit: {{...}}
 - Industrieanteil / Schlüsselbranchen: {{...}}
@@ -7005,39 +7010,40 @@ Jeder Staat nutzt dieselbe Canvas-Struktur. Inhalte werden jährlich durch FORTE
 - Cyber-Lage (Baseline): {{...}}
 - Krisen-Reserven / Lagerreichweite: {{...}}
 
-**3 nationale FORTERA-Missionen (Output zuerst):**
-- **M1:** {{Mission_1_Titel}} | Output: {{Mission\_1\_Output}} | Abnahme: {{Mission_1_Abnahme}}
-- **M2:** {{Mission_2_Titel}} | Output: {{Mission\_2\_Output}} | Abnahme: {{Mission_2_Abnahme}}
-- **M3:** {{Mission_3_Titel}} | Output: {{Mission\_3\_Output}} | Abnahme: {{Mission_3_Abnahme}}
+3 nationale FORTERA-Missionen (Output zuerst):
+- M1: {{Mission_1_Titel}} | Output: {{Mission\_1\_Output}} | Abnahme: {{Mission_1_Abnahme}}
+- M2: {{Mission_2_Titel}} | Output: {{Mission\_2\_Output}} | Abnahme: {{Mission_2_Abnahme}}
+- M3: {{Mission_3_Titel}} | Output: {{Mission\_3\_Output}} | Abnahme: {{Mission_3_Abnahme}}
 
-**Build-Ready Sites (bis {{Date}}):**
+Build-Ready Sites (bis {{Date}}):
 - {{Site_1}} (Typ: {{Industrial_Park/Port/Research/Energy}})
 - {{Site_2}} (Typ: {{...}})
 - {{Site_3}} (Typ: {{...}})
 - {{Site_4}} (Typ: {{...}})
 - {{Site_5}} (Typ: {{...}})
 
-**Top-5 Engpässe (zuerst schließen):**
+Top-5 Engpässe (zuerst schließen):
 1) {{Bottleneck_1}}
 2) {{Bottleneck_2}}
 3) {{Bottleneck_3}}
 4) {{Bottleneck_4}}
 5) {{Bottleneck_5}}
 
-**Top-5 Engpass-Berufe (pro Jahrgang):**
+Top-5 Engpass-Berufe (pro Jahrgang):
 1) {{Skill_1}}
 2) {{Skill_2}}
 3) {{Skill_3}}
 4) {{Skill_4}}
 5) {{Skill_5}}
 
-**Stop/Reduce (damit Output entsteht):**
+Stop/Reduce (damit Output entsteht):
 - {{Stop_1}}
 - {{Stop_2}}
 - {{Stop_3}}
 
-**EU-Integration (1 Satz):**
+EU-Integration (1 Satz):
 - {{EU_Integration_Satz}}
+```
 
 ---
 
@@ -14929,15 +14935,17 @@ Die Profile schaffen eine Balance zwischen Individualität und Integration. Sie 
 
 <a id="md-anhang-b-erda-staatenprofile-b-2-schema-fur-erda-staatenprofile-ausfuhrliche-ubersicht"></a>
 
-## B.2. Schema für ERDA-Staatenprofile (v5, ausführliche Übersicht)
+## B.2. Schema für ERDA-Staatenprofile (v5, technisches Muster-Template)
 
-_**Schema für ERDA-Staatenprofile (v5)**_
+_**Technisches Muster-Template für ERDA-Staatenprofile (v5)**_
 
-#### 1. 🌍 ERDA-Staatenprofil – Schema (v5, 2026)
+> **Redaktioneller Hinweis:** Dieser Abschnitt dokumentiert bewusst ein technisches Muster-Template. Platzhalter markieren Felder, die in konkreten Länderprofilen zu ersetzen sind. Die Frontmatter-Felder bleiben aus Gründen der Tool-Kompatibilität in technischer Notation.
+
+#### 1. 🌍 ERDA-Staatenprofil – technisches Muster-Template (v5, 2026)
 
 ```markup
 ---
-description: "State: {{country-code}}, Date: {{YYYY-MM-dd}}, Responsible Author: {{author}}, if from official or institute: Legal Responsible [Author, Institute, Government]: {{official}}"
+description: "Staat: {{country-code}}, Datum: {{YYYY-MM-dd}}, verantwortliche Redaktion: {{author}}, rechtlich verantwortliche Stelle: {{official}}"
 country: "{{country-code}}"
 date: "{{YYYY-MM-dd}}"
 author: "{{author}}"
@@ -14946,7 +14954,7 @@ layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 
-# {{country-code}} - Staatenprofil {{country name}}
+# {{country-code}} - Staatenprofil {{Land}}
 
 
 ## 1. Überblick (Meta)
@@ -15063,7 +15071,7 @@ version: "1.0"
 
 ## 8. Narrative & Anwerbewirkung
 
-* Kernbotschaft: „{{Land}} zeigt, dass ...“
+* Kernbotschaft (Beispiel-Platzhalter): „{{Land}} zeigt, dass ...“
 * Beispiele für starke, wirkungsvolle Narrative und Einladungen:
 * Selbstwirksamkeit: (Wie gestalten Bürger:innen mit?)
 * Zukunftswürde: (Was verleiht Identität & Stolz?)
@@ -15082,7 +15090,7 @@ version: "1.0"
 | Zivilgesellschaftlicher Index [0–10]  |      |      |      |                                  |
 Hinweise: (n/b) - N/B nicht belegt (warum?), (p) - Prognose (wer?)
 
-## 10. Kurzfassung: „<Land> auf einen Blick“
+## 10. Kurzfassung: „{{Land}} auf einen Blick“ (Muster)
 
 Kurze, emotional ansprechende Zusammenfassung der wichtigsten Punkte, Stärken und Besonderheiten für breites Publikum.
 
@@ -15110,27 +15118,27 @@ Beispiel Datenbank/Website
 
 ### 11.3 🛠️ Modellierungen & Annahmen
 
-(Mit Beispieldaten)
+(Muster mit Beispieldaten)
 1. Wirtschaftliche Projektionen 2050–2075
 * Basisjahr: 2020; Parameter: BIP-Wachstum 2,0 % p.a., Inflation 1,5 % p.a., Demografie s. 11.1.
 * Quellen: Eurostat, Weltbank.
 
-(Mit Beispieldaten)
+(Muster mit Beispieldaten)
 2. KI-Kapazitäten
 * Annahme: Rechenleistung verdoppelt sich alle 3 Jahre.
-* Quelle: [Quelle einfügen].
+* Quelle: [konkrete Fachquelle gemäß Themenbereich ergänzen, z. B. Eurostat, IEA oder nationale Statistik].
 
-(Mit Beispieldaten)
+(Muster mit Beispieldaten)
 3. Infrastrukturautarkie
 * Ziel: 80 % erneuerbare Energieversorgung regional autark.
 * Datenbasis: Fraunhofer ISE, GIS-Modellierung.
 
-(Mit Beispieldaten)
+(Muster mit Beispieldaten)
 4. Demokratie- und Beteiligungswerte
 * Indikatoren: Freedom House Score, CIVICUS Monitor.
 * Basiswert 2020; Annahme: jährliche Verbesserung um 0,5 Punkte.
 
-(Mit Beispieldaten)
+(Muster mit Beispieldaten)
 5. Energiepotenziale
 * Szenarien: moderat vs. ambitioniert.
 * Potenzial Solar PV: 150 GWp (moderat), 300 GWp (ambitioniert).
@@ -15138,7 +15146,7 @@ Beispiel Datenbank/Website
 
 
 ## 12. 🤝 Mitwirkung willkommen
-Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik {{Land}} sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
+Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen des jeweiligen Landes sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 ### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
 Autor: ERDA Buch Redaktion
@@ -15146,7 +15154,7 @@ Kontakt: ERDA Buch Redaktion
 Letzte Änderung: 2026-01-08
 ```
 
-
+**Hinweis zur technischen Notation:** Die Metadatenfelder `country`, `date`, `author`, `legal_responsible`, `layout` und `version` bleiben bewusst technisch formuliert, damit dieses Muster direkt mit den Profil-Dateien im Repository kompatibel bleibt.
 
 ##### 2. Formatierungs-, Ausfüll- & Kollaborationshinweise
 
@@ -15850,7 +15858,7 @@ Bulgarien ist ein traditionsreiches Balkanland mit EU-Mitgliedschaft und wachsen
 
 2. KI-Kapazitäten
 * Annahme: Rechenleistung verdoppelt sich alle 3 Jahre (hypothetisch: ERDA Scenario Modeling Report 2025)
-* Quelle: <Quelle einfügen>
+* Quelle: Stanford University. 2025. *AI Index Report 2025*; OECD. 2025. *OECD AI Policy Observatory*.
 
 3. Infrastrukturautarkie
 * Ziel: 70 % erneuerbare Energieversorgung bis 2050 (hypothetisch: ERDA Scenario Modeling Report 2025)
@@ -27113,7 +27121,7 @@ Dieses Dokument bietet politischen Entscheidungsträgern, Institutionen, KI-Syst
 
 ***
 
-> _Weitere Executive Summaries werden fortlaufend ergänzt._
+> _Stand dieser Ausgabe: Die Blocks A bis D sind enthalten. Weitere Executive Summaries werden erst nach redaktioneller Freigabe in späteren Releases ergänzt._
 
 
 \newpage
@@ -28972,17 +28980,20 @@ Todo **uso**, **procesamiento** o **reprocesamiento** de esta obra – incluso m
 
 Any **use**, **processing** or **further processing** of this work – including via **artificial intelligence**, **machine learning** or **automated systems** – is covered by the open licence **CC BY-SA 4.0** (*attribution*, *share alike*). This explicitly includes **derivative works**, **AI-generated content**, **remix projects** and **algorithmically transformed** formats. **Unchanged incorporations** may appear as part of a **collection** under a different licence; the material concerned remains **CC BY-SA 4.0**.
 
-> *Hinweis:* Weitere Übersetzungen werden fortlaufend ergänzt; sie folgen derselben Lizenzlogik wie die oben aufgeführten Versionen.
+> *Hinweis:* Stand dieser Ausgabe sind die oben aufgeführten Sprachfassungen dokumentiert. Weitere Übersetzungen müssen dieselbe Lizenzlogik wahren und vor Aufnahme in eine Release-Fassung redaktionell geprüft werden.
 
 ---
 
 ## J.9 Lizenztexte
 
 ### MIT‑Lizenz (deutsche Fassung)
+
+Die rechtsverbindliche Fassung für Code und Toolchain befindet sich in `LICENSE-CODE`; der folgende Text dient der dokumentarischen Wiedergabe im Buch.
+
 ```text
 MIT‑Lizenz
 
-Copyright (c) {{YYYY}} {{Urheber}}
+Copyright (c) 2025–2026 The ERDA Book Authors
 
 Hiermit wird unentgeltlich jeder Person, die eine Kopie der Software und der zugehörigen
 Dokumentationsdateien (die „Software“) erhält, die Erlaubnis erteilt, uneingeschränkt mit der
@@ -29226,9 +29237,9 @@ Pandoc orchestriert die Transformation der Markdown-Quelldateien in ein LaTeX-Zw
 
 ### L.4.3 Datum und Version
 
-- **Build-Datum:** {{BUILD_DATE}} (automatisch generiert)
-- **Version:** {{VERSION}} (siehe `CITATION.cff`)
-- **Commit-Hash:** {{COMMIT_HASH}} (Git-Referenz)
+- **Editionsstand:** Die aktuelle Versionsidentität dieser Ausgabe ist im Release-Kopf des Buches sowie in der Zitationsdatei `CITATION.cff` dokumentiert.
+- **Versionsnachweis:** Die Git-Historie des Repositoriums dokumentiert Branch-Stand, Änderungen und Freigabeschritte nachvollziehbar.
+- **Build-Metadaten:** Falls die Build-Pipeline technische Metadaten wie Build-Datum oder Commit-Referenz automatisiert in Artefakte einblendet, gelten diese Angaben; andernfalls sind die Release-Metadaten des Repositoriums die verbindliche Referenz.
 
 ---
 
@@ -29259,10 +29270,10 @@ Dieses Buch wäre ohne die **Open-Source-Community** nicht möglich gewesen. Bes
 
 ## L.7 Weiterführende Informationen
 
-- **Vollständige Attribution:** Siehe `ATTRIBUTION.md` im Repository
-- **Lizenzdetails:** Siehe **Anhang J: Lizenz & Offenheit**
-- **Technische Dokumentation:** Siehe `README.md` und `.github/gitbook_worker/`
-- **Zenodo-Archivierung:** DOI und Concept-DOI siehe `CITATION.cff`
+- **Vollständige Herkunfts- und Lizenzdokumentation:** Das Attributionsverzeichnis des Repositoriums (`ATTRIBUTION.md`) listet alle verwendeten Drittinhalte, ihre Quellen, Versionen und Lizenzen.
+- **Lizenzdetails und Offenheitsprinzip:** **Anhang J: Lizenz & Offenheit** erläutert die rechtliche Logik des Projekts und die Regeln für Bearbeitungen, Übersetzungen und Remix-Nutzungen.
+- **Technische Dokumentation und Build-Prozess:** Die Projektübersicht (`README.md`) und die Tooling-Dokumentation im Repository beschreiben Aufbau, Build-Wege und Zuständigkeiten.
+- **Zitierempfehlung und Archivierung:** Die Zitationsdatei (`CITATION.cff`) dokumentiert empfohlene Zitierweise, DOI und Versionsidentität; die Langzeitarchivierung erfolgt über Zenodo.
 
 ---
 
@@ -29270,16 +29281,16 @@ Dieses Buch wäre ohne die **Open-Source-Community** nicht möglich gewesen. Bes
 
 Dieses Kolophon ist Teil der **Attribution-Hierarchie** des ERDA-Projekts:
 
-- **`ATTRIBUTION.md`** (Repository) = Primärquelle (maschinenlesbar)
-- **Anhang L** (dieses Dokument) = Leserfreundliche Aufbereitung (PDF)
-- **Anhang J** = Lizenzphilosophie und rechtliche Rahmenbedingungen
+- **`ATTRIBUTION.md`** im Repository = die maschinenlesbare Primärquelle für Drittinhalte, Quellen, Versionen und Lizenzen.
+- **Anhang L** (dieses Dokument) = die leserfreundliche Aufbereitung für die Buch- und PDF-Fassung.
+- **Anhang J** = die Darstellung der Lizenzphilosophie und der rechtlichen Rahmenbedingungen.
 
 **Bei Änderungen an Fonts, Emojis oder Produktionswerkzeugen:**
-1. `ATTRIBUTION.md` im Repository aktualisieren (neue Tabellenzeile)
-2. Dieses Kolophon aktualisieren (Abschnitt L.2 Typografie / L.3 Werkzeuge)
-3. `content/anhang-j-lizenz-and-offenheit.md` prüfen (Lizenzmatrix J.2)
+1. Das Attributionsverzeichnis `ATTRIBUTION.md` im Repository aktualisieren (neue Tabellenzeile).
+2. Dieses Kolophon aktualisieren (insbesondere Abschnitt L.2 Typografie / L.3 Werkzeuge).
+3. Die Lizenzdarstellung in Anhang J prüfen (insbesondere die Lizenzmatrix in J.2).
 
-Details siehe `AGENTS.md` → "Attribution-Hierarchie".
+Die redaktionellen Pflegegrundsätze des Projekts sind in `AGENTS.md` dokumentiert.
 
 ---
 

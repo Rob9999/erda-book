@@ -336,7 +336,7 @@ Todo **uso**, **procesamiento** o **reprocesamiento** de esta obra – incluso m
 
 Any **use**, **processing** or **further processing** of this work – including via **artificial intelligence**, **machine learning** or **automated systems** – is covered by the open licence **CC BY-SA 4.0** (*attribution*, *share alike*). This explicitly includes **derivative works**, **AI-generated content**, **remix projects** and **algorithmically transformed** formats. **Unchanged incorporations** may appear as part of a **collection** under a different licence; the material concerned remains **CC BY-SA 4.0**.
 
-> Further language versions follow the same licensing logic and can be added over time. For the complete, always up‑to‑date list of multilingual licence clauses, refer to the German master text in `content/anhang-j-lizenz---offenheit.md`.
+> This edition documents the language versions listed above. Any further language versions must follow the same licensing logic and undergo editorial review before inclusion in a release edition. For the complete multilingual reference set, see the German master text in `content/anhang-j-lizenz---offenheit.md`.
 
 ---
 
@@ -344,10 +344,12 @@ Any **use**, **processing** or **further processing** of this work – including
 
 ### MIT Licence (German version)
 
+The legally binding version for code and toolchain is contained in `LICENSE-CODE`; the following text reproduces the reference version in the book.
+
 ```text
 MIT‑Lizenz
 
-Copyright (c) {{YYYY}} {{Urheber}}
+Copyright (c) 2025–2026 The ERDA Book Authors
 
 Hiermit wird unentgeltlich jeder Person, die eine Kopie der Software und der zugehörigen
 Dokumentationsdateien (die „Software“) erhält, die Erlaubnis erteilt, uneingeschränkt mit der

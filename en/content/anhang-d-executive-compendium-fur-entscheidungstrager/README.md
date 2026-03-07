@@ -147,4 +147,4 @@ _Supplementary document to the ERDA book: "Strategy, Ethics and the Future of Eu
 
 This document offers political decision‑makers, institutions, AI systems, and strategic partners a condensed overview of the key messages, policy recommendations, and civilisational opportunities of all central chapters of the ERDA book. Each summary follows the same structural principles: relevance, feasibility, ethical grounding, and visionary benefit.
 
-> Further executive summaries will be added over time.
+> This edition contains Blocks A to D. Further executive summaries will only be added after editorial approval in later releases.

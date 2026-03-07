@@ -23,7 +23,9 @@ The profiles are not designed as ranking tools, but as **cooperative planning in
 
 ## B.2 Schema for ERDA State Profiles (v5, extended overview)
 
-Each ERDA state profile follows a standard schema (version 4, 2025). It starts with a short description block in the front matter and then structures the content into eleven to twelve thematic sections.
+Each ERDA state profile follows a standard schema (version 5, 2026). It starts with a short description block in the front matter and then structures the content into eleven to twelve thematic sections.
+
+> **Editorial note:** The following front-matter block is a technical sample. Placeholders are intentional and are replaced in concrete country profiles; the metadata keys remain technical for repository compatibility.
 
 ### B.2.1 Front matter
 
@@ -42,6 +44,8 @@ version: "1.0"
 ```
 
 This clarifies who is responsible for the content, on which data basis it rests and which layout version is used.
+
+The keys remain technical because the template is meant to be reusable directly in the repository workflow.
 
 ### B.2.2 Main sections of the profile
 

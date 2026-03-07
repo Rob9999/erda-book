@@ -129,9 +129,9 @@ Pandoc orchestriert die Transformation der Markdown-Quelldateien in ein LaTeX-Zw
 
 ### L.4.3 Datum und Version
 
-- **Build-Datum:** {{BUILD_DATE}} (automatisch generiert)
-- **Version:** {{VERSION}} (siehe `CITATION.cff`)
-- **Commit-Hash:** {{COMMIT_HASH}} (Git-Referenz)
+- **Editionsstand:** Die aktuelle Versionsidentität dieser Ausgabe ist im Release-Kopf des Buches sowie in der Zitationsdatei `CITATION.cff` dokumentiert.
+- **Versionsnachweis:** Die Git-Historie des Repositoriums dokumentiert Branch-Stand, Änderungen und Freigabeschritte nachvollziehbar.
+- **Build-Metadaten:** Falls die Build-Pipeline technische Metadaten wie Build-Datum oder Commit-Referenz automatisiert in Artefakte einblendet, gelten diese Angaben; andernfalls sind die Release-Metadaten des Repositoriums die verbindliche Referenz.
 
 ---
 
@@ -162,10 +162,10 @@ Dieses Buch wäre ohne die **Open-Source-Community** nicht möglich gewesen. Bes
 
 ## L.7 Weiterführende Informationen
 
-- **Vollständige Attribution:** Siehe `ATTRIBUTION.md` im Repository
-- **Lizenzdetails:** Siehe **Anhang J: Lizenz & Offenheit**
-- **Technische Dokumentation:** Siehe `README.md` und `.github/gitbook_worker/`
-- **Zenodo-Archivierung:** DOI und Concept-DOI siehe `CITATION.cff`
+- **Vollständige Herkunfts- und Lizenzdokumentation:** Das Attributionsverzeichnis des Repositoriums (`ATTRIBUTION.md`) listet alle verwendeten Drittinhalte, ihre Quellen, Versionen und Lizenzen.
+- **Lizenzdetails und Offenheitsprinzip:** **Anhang J: Lizenz & Offenheit** erläutert die rechtliche Logik des Projekts und die Regeln für Bearbeitungen, Übersetzungen und Remix-Nutzungen.
+- **Technische Dokumentation und Build-Prozess:** Die Projektübersicht (`README.md`) und die Tooling-Dokumentation im Repository beschreiben Aufbau, Build-Wege und Zuständigkeiten.
+- **Zitierempfehlung und Archivierung:** Die Zitationsdatei (`CITATION.cff`) dokumentiert empfohlene Zitierweise, DOI und Versionsidentität; die Langzeitarchivierung erfolgt über Zenodo.
 
 ---
 
@@ -173,16 +173,16 @@ Dieses Buch wäre ohne die **Open-Source-Community** nicht möglich gewesen. Bes
 
 Dieses Kolophon ist Teil der **Attribution-Hierarchie** des ERDA-Projekts:
 
-- **`ATTRIBUTION.md`** (Repository) = Primärquelle (maschinenlesbar)
-- **Anhang L** (dieses Dokument) = Leserfreundliche Aufbereitung (PDF)
-- **Anhang J** = Lizenzphilosophie und rechtliche Rahmenbedingungen
+- **`ATTRIBUTION.md`** im Repository = die maschinenlesbare Primärquelle für Drittinhalte, Quellen, Versionen und Lizenzen.
+- **Anhang L** (dieses Dokument) = die leserfreundliche Aufbereitung für die Buch- und PDF-Fassung.
+- **Anhang J** = die Darstellung der Lizenzphilosophie und der rechtlichen Rahmenbedingungen.
 
 **Bei Änderungen an Fonts, Emojis oder Produktionswerkzeugen:**
-1. `ATTRIBUTION.md` im Repository aktualisieren (neue Tabellenzeile)
-2. Dieses Kolophon aktualisieren (Abschnitt L.2 Typografie / L.3 Werkzeuge)
-3. `content/anhang-j-lizenz-and-offenheit.md` prüfen (Lizenzmatrix J.2)
+1. Das Attributionsverzeichnis `ATTRIBUTION.md` im Repository aktualisieren (neue Tabellenzeile).
+2. Dieses Kolophon aktualisieren (insbesondere Abschnitt L.2 Typografie / L.3 Werkzeuge).
+3. Die Lizenzdarstellung in Anhang J prüfen (insbesondere die Lizenzmatrix in J.2).
 
-Details siehe `AGENTS.md` → "Attribution-Hierarchie".
+Die redaktionellen Pflegegrundsätze des Projekts sind in `AGENTS.md` dokumentiert.
 
 ---
 

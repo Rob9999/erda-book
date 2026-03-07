@@ -143,4 +143,4 @@ Dieses Dokument bietet politischen Entscheidungsträgern, Institutionen, KI-Syst
 
 ***
 
-> _Weitere Executive Summaries werden fortlaufend ergänzt._
+> _Stand dieser Ausgabe: Die Blocks A bis D sind enthalten. Weitere Executive Summaries werden erst nach redaktioneller Freigabe in späteren Releases ergänzt._

@@ -180,7 +180,7 @@ Bulgarien ist ein traditionsreiches Balkanland mit EU-Mitgliedschaft und wachsen
 
 2. KI-Kapazitäten
 * Annahme: Rechenleistung verdoppelt sich alle 3 Jahre (hypothetisch: ERDA Scenario Modeling Report 2025)
-* Quelle: <Quelle einfügen>
+* Quelle: Stanford University. 2025. *AI Index Report 2025*; OECD. 2025. *OECD AI Policy Observatory*.
 
 3. Infrastrukturautarkie
 * Ziel: 70 % erneuerbare Energieversorgung bis 2050 (hypothetisch: ERDA Scenario Modeling Report 2025)

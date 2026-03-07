@@ -134,9 +134,9 @@ Pandoc orchestrates the transformation of the Markdown source files into an inte
 
 ### L.4.3 Date and version
 
-- **Build date:** {{BUILD_DATE}} (generated automatically)  
-- **Version:** {{VERSION}} (see `CITATION.cff`)  
-- **Commit hash:** {{COMMIT_HASH}} (Git reference)
+- **Edition status:** The current version identity of this edition is documented in the release header of the book and in the citation file `CITATION.cff`.  
+- **Version traceability:** The repository’s Git history documents branch status, changes, and release steps in a traceable way.  
+- **Build metadata:** If the build pipeline automatically injects technical metadata such as build date or commit reference into generated artefacts, those values apply; otherwise, the repository’s release metadata is the binding reference.
 
 ---
 
@@ -167,10 +167,10 @@ This book would not have been possible without the **open‑source community**. 
 
 ## L.7 Further information
 
-- **Complete attribution:** see `ATTRIBUTION.md` in the repository.  
-- **Licence details:** see **Appendix J: License & Openness**.  
-- **Technical documentation:** see `README.md` and `.github/gitbook_worker/`.  
-- **Zenodo archiving:** DOI and concept DOI, see `CITATION.cff`.
+- **Complete provenance and licence documentation:** the repository’s attribution register (`ATTRIBUTION.md`) lists all third-party components, their sources, versions, and licences.  
+- **Licence details and openness principle:** **Appendix J: License & Openness** explains the project’s legal logic and the rules for adaptations, translations, and remix use.  
+- **Technical documentation and build process:** the project overview (`README.md`) and the tooling documentation in the repository describe structure, build paths, and responsibilities.  
+- **Citation guidance and archiving:** the citation file (`CITATION.cff`) records the recommended citation, DOI, and version identity; long-term archiving is handled via Zenodo.
 
 ---
 
@@ -178,17 +178,17 @@ This book would not have been possible without the **open‑source community**. 
 
 This colophon is part of the **attribution hierarchy** of the ERDA project:
 
-- **`ATTRIBUTION.md`** (repository) = primary source (machine‑readable)  
-- **Appendix L** (this document) = reader‑friendly presentation (PDF)  
-- **Appendix J** = licensing philosophy and legal framework
+- **`ATTRIBUTION.md`** in the repository = the machine-readable primary source for third-party components, sources, versions, and licences.  
+- **Appendix L** (this document) = the reader-friendly presentation for the book and PDF edition.  
+- **Appendix J** = the explanation of the licensing philosophy and legal framework.
 
 **For any changes to fonts, emojis or production tools:**
 
-1. Update `ATTRIBUTION.md` in the repository (new table row).  
-2. Update this colophon (section L.2 Typography / L.3 Tools).  
-3. Review `content/anhang-j-lizenz---offenheit.md` (licence matrix J.2).
+1. Update the repository attribution register `ATTRIBUTION.md` (new table row).  
+2. Update this colophon (especially section L.2 Typography / L.3 Tools).  
+3. Review the licence presentation in Appendix J (especially licence matrix J.2).
 
-For details, see `AGENTS.md` → “Attribution‑Hierarchy”.
+The project’s editorial maintenance principles are documented in `AGENTS.md`.
 
 ---
 

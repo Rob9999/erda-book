@@ -6881,7 +6881,7 @@ status: approved
 <a id="md-7-das-fortera-konzept-7-3-produktionssouveranitat-und-strategische-industriepolitik-7-3-5-1-sofortprogramm-1000-tage"></a>
 
 
-### 7.3.5.1 Immediate programme “1,000 days” ({{YYYY}}–{{YYYY}}): From plan to output
+### 7.3.5.1 Immediate programme “1,000 days” (2026–2028): From plan to output
 
 This package prioritises measures that measurably increase output within 12–36 months.
 
@@ -7436,17 +7436,22 @@ status: draft
 
 
 
-## **Appendix 7.B – National implementation toolkit (FORTERA canvas per EU state)**
+## **Appendix 7.B – National implementation toolkit (standardised working template and FORTERA canvas per EU state)**
+
+> **Editorial note:** Sections 7.B.1 and 7.B.2 deliberately belong to the implementation and toolkit layer of this book. Section 7.B.1 documents a standardised working template; section 7.B.2 shows developed country canvases. Placeholders mark fields that must be filled concretely for individual states.
 
 This appendix makes FORTERA quickly applicable in every EU state without creating 27 different systems.
 Each state uses the same canvas structure. Content is sharpened annually through FORTERA review and discussed transparently via CIVITAS (see success monitoring & CIVITAS integration in 7.3.6.).
 
-### 7.B.1 Canvas short form (per state)
+### 7.B.1 Canvas short form (standardised working template per state)
 
-**Archetype (suggested):** {{Archetype_1}} / {{Archetype_2}}  
-**Timeframe:** {{YYYY}}–{{YYYY}}  
+The following short form is deliberately presented as an operational template. It is not a finished reading text but an editorial sample for state-specific FORTERA planning.
 
-**Baseline in 12 indicators (fill in):**
+```text
+Archetype (suggested): {{Archetype_1}} / {{Archetype_2}}
+Timeframe: {{YYYY}}–{{YYYY}}
+
+Baseline in 12 indicators:
 - Energy price index: {{...}}
 - Grid status / connectability: {{...}}
 - Industry share / key sectors: {{...}}
@@ -7460,39 +7465,40 @@ Each state uses the same canvas structure. Content is sharpened annually through
 - Cyber posture (baseline): {{...}}
 - Crisis reserves / stockpile coverage: {{...}}
 
-**3 national FORTERA missions (output first):**
-- **M1:** {{Mission_1_Title}} | Output: {{Mission\_1\_Output}} | Offtake: {{Mission_1_Offtake}}
-- **M2:** {{Mission_2_Title}} | Output: {{Mission\_2\_Output}} | Offtake: {{Mission_2_Offtake}}
-- **M3:** {{Mission_3_Title}} | Output: {{Mission\_3\_Output}} | Offtake: {{Mission_3_Offtake}}
+3 national FORTERA missions (output first):
+- M1: {{Mission_1_Title}} | Output: {{Mission\_1\_Output}} | Offtake: {{Mission_1_Offtake}}
+- M2: {{Mission_2_Title}} | Output: {{Mission\_2\_Output}} | Offtake: {{Mission_2_Offtake}}
+- M3: {{Mission_3_Title}} | Output: {{Mission\_3\_Output}} | Offtake: {{Mission_3_Offtake}}
 
-**Build-ready sites (by {{Date}}):**
+Build-ready sites (by {{Date}}):
 - {{Site_1}} (Type: {{Industrial_Park/Port/Research/Energy}})
 - {{Site_2}} (Type: {{...}})
 - {{Site_3}} (Type: {{...}})
 - {{Site_4}} (Type: {{...}})
 - {{Site_5}} (Type: {{...}})
 
-**Top 5 bottlenecks (close first):**
+Top 5 bottlenecks (close first):
 1) {{Bottleneck_1}}
 2) {{Bottleneck_2}}
 3) {{Bottleneck_3}}
 4) {{Bottleneck_4}}
 5) {{Bottleneck_5}}
 
-**Top 5 bottleneck occupations (per cohort/year):**
+Top 5 bottleneck occupations (per cohort/year):
 1) {{Skill_1}}
 2) {{Skill_2}}
 3) {{Skill_3}}
 4) {{Skill_4}}
 5) {{Skill_5}}
 
-**Stop/Reduce (to make output happen):**
+Stop/Reduce (to make output happen):
 - {{Stop_1}}
 - {{Stop_2}}
 - {{Stop_3}}
 
-**EU integration (1 sentence):**
+EU integration (1 sentence):
 - {{EU_Integration_Sentence}}
+```
 
 ---
 
@@ -15825,7 +15831,9 @@ The profiles are not designed as ranking tools, but as **cooperative planning in
 
 ## B.2 Schema for ERDA State Profiles (v5, extended overview)
 
-Each ERDA state profile follows a standard schema (version 4, 2025). It starts with a short description block in the front matter and then structures the content into eleven to twelve thematic sections.
+Each ERDA state profile follows a standard schema (version 5, 2026). It starts with a short description block in the front matter and then structures the content into eleven to twelve thematic sections.
+
+> **Editorial note:** The following front-matter block is a technical sample. Placeholders are intentional and are replaced in concrete country profiles; the metadata keys remain technical for repository compatibility.
 
 ### B.2.1 Front matter
 
@@ -15844,6 +15852,8 @@ version: "1.0"
 ```
 
 This clarifies who is responsible for the content, on which data basis it rests and which layout version is used.
+
+The keys remain technical because the template is meant to be reusable directly in the repository workflow.
 
 ### B.2.2 Main sections of the profile
 
@@ -15999,11 +16009,13 @@ status: draft
 <a id="md-anhang-b-erda-staatenprofile-b-2-schema-fur-erda-staatenprofile-ausfuhrliche-ubersicht"></a>
 
 
-## B.2 ERDA State Profile Template (v5, Extended Overview)
+## B.2 ERDA State Profile Template (v5, Technical Sample)
 
-_**Template for ERDA state profiles (v5)**_
+_**Technical sample template for ERDA state profiles (v5)**_
 
-#### 1. 🌍 ERDA State Profile – Template (v5, 2025)
+> **Editorial note:** This section deliberately documents a technical sample template. Placeholders mark fields that must be replaced in concrete country profiles. The front-matter keys remain technical so that the template stays compatible with repository files and tooling.
+
+#### 1. 🌍 ERDA State Profile – Technical sample template (v5, 2026)
 
 ```markup
 ---
@@ -16016,7 +16028,7 @@ layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 
-# {{country-code}} – State Profile {{country name}}
+# {{country-code}} – State Profile {{Country}}
 
 
 ## 1. Overview (meta)
@@ -16133,7 +16145,7 @@ version: "1.0"
 
 ## 8. Narrative & attractiveness
 
-* Core message: "{{Country}} shows that ..."
+* Core message (sample placeholder): "{{Country}} shows that ..."
 * Examples of strong, effective narratives and invitations:
 * Self-efficacy: (How do citizens help shape outcomes?)
 * Future dignity: (What provides identity & pride?)
@@ -16152,7 +16164,7 @@ version: "1.0"
 | Civil-society index [0–10]           |      |      |      |                             |
 Notes: (n/b) – not available (why?); (p) – projection (by whom?).
 
-## 10. Snapshot: "<Country> at a glance"
+## 10. Snapshot: "{{Country}} at a glance" (sample)
 
 A short, emotionally engaging summary of the key points, strengths and distinctive features for a broad audience.
 
@@ -16180,40 +16192,42 @@ Example database/website
 
 ### 11.3 🛠️ Modelling & assumptions
 
-(With example data)
+(Sample with example data)
 1. Economic projections 2050–2075
 * Base year: 2020; parameters: GDP growth 2.0% p.a., inflation 1.5% p.a., demographics cf. 11.1.
 * Sources: Eurostat, World Bank.
 
-(With example data)
+(Sample with example data)
 2. AI capacities
 * Assumption: computing power doubles every three years.
-* Source: [insert source].
+* Source: [add a concrete specialist source relevant to the topic, e.g. Eurostat, IEA or a national statistics office].
 
-(With example data)
+(Sample with example data)
 3. Infrastructure autonomy
 * Goal: 80% renewable energy supply generated domestically.
 * Data basis: Fraunhofer ISE, GIS modelling.
 
-(With example data)
+(Sample with example data)
 4. Democracy and participation values
 * Indicators: Freedom House score, CIVICUS Monitor.
 * Base value 2020; assumption: annual improvement by 0.5 points.
 
-(With example data)
+(Sample with example data)
 5. Energy potentials
 * Scenarios: moderate vs. ambitious.
 * Solar PV potential: 150 GWp (moderate), 300 GWp (ambitious).
 * Sources: BMWK, IEA.
 
 ## 12. 🤝 Participation welcome
-This profile is based on publicly accessible and modelled data. Representatives of the Republic of {{Country}} and interested specialist bodies are warmly invited to contribute their own perspectives, additions and updates – to build a shared picture of a resilient and democratic future for Europe.
+This profile is based on publicly accessible and modelled data. Representatives of the respective country and interested specialist bodies are warmly invited to contribute their own perspectives, additions and updates – to build a shared picture of a resilient and democratic future for Europe.
 
 ### 12.1 Last responsible points of contact
 Author: ERDA Book editorial team
 Contact: ERDA Book editorial team
 Last update: 2026-01-08
 ```
+
+**Note on technical notation:** The metadata keys `country`, `date`, `author`, `legal_responsible`, `layout` and `version` intentionally remain technical so that this sample can be reused directly in the repository.
 
 ##### 2. Formatting, completion & collaboration notes
 
@@ -16925,7 +16939,7 @@ Bulgaria is a Balkan country rich in tradition, an EU member with growing ambiti
    * Sources: World Bank, UN WPP 2022
 2. **AI capacities**  
    * Assumption: computing power doubles every three years (hypothetical)  
-   * Source: <insert source>
+   * Source: Stanford University. 2025. *AI Index Report 2025*; OECD. 2025. *OECD AI Policy Observatory*.
 3. **Infrastructure autonomy**  
    * Goal: 70% renewable energy supply by 2050 (hypothetical)  
    * Data basis: IEA, national energy plans
@@ -27851,7 +27865,7 @@ _Supplementary document to the ERDA book: "Strategy, Ethics and the Future of Eu
 
 This document offers political decision‑makers, institutions, AI systems, and strategic partners a condensed overview of the key messages, policy recommendations, and civilisational opportunities of all central chapters of the ERDA book. Each summary follows the same structural principles: relevance, feasibility, ethical grounding, and visionary benefit.
 
-> Further executive summaries will be added over time.
+> This edition contains Blocks A to D. Further executive summaries will only be added after editorial approval in later releases.
 
 
 \newpage
@@ -29818,7 +29832,7 @@ Todo **uso**, **procesamiento** o **reprocesamiento** de esta obra – incluso m
 
 Any **use**, **processing** or **further processing** of this work – including via **artificial intelligence**, **machine learning** or **automated systems** – is covered by the open licence **CC BY-SA 4.0** (*attribution*, *share alike*). This explicitly includes **derivative works**, **AI-generated content**, **remix projects** and **algorithmically transformed** formats. **Unchanged incorporations** may appear as part of a **collection** under a different licence; the material concerned remains **CC BY-SA 4.0**.
 
-> Further language versions follow the same licensing logic and can be added over time. For the complete, always up‑to‑date list of multilingual licence clauses, refer to the German master text in `content/anhang-j-lizenz---offenheit.md`.
+> This edition documents the language versions listed above. Any further language versions must follow the same licensing logic and undergo editorial review before inclusion in a release edition. For the complete multilingual reference set, see the German master text in `content/anhang-j-lizenz---offenheit.md`.
 
 ---
 
@@ -29826,10 +29840,12 @@ Any **use**, **processing** or **further processing** of this work – including
 
 ### MIT Licence (German version)
 
+The legally binding version for code and toolchain is contained in `LICENSE-CODE`; the following text reproduces the reference version in the book.
+
 ```text
 MIT‑Lizenz
 
-Copyright (c) {{YYYY}} {{Urheber}}
+Copyright (c) 2025–2026 The ERDA Book Authors
 
 Hiermit wird unentgeltlich jeder Person, die eine Kopie der Software und der zugehörigen
 Dokumentationsdateien (die „Software“) erhält, die Erlaubnis erteilt, uneingeschränkt mit der
@@ -30083,9 +30099,9 @@ Pandoc orchestrates the transformation of the Markdown source files into an inte
 
 ### L.4.3 Date and version
 
-- **Build date:** {{BUILD_DATE}} (generated automatically)  
-- **Version:** {{VERSION}} (see `CITATION.cff`)  
-- **Commit hash:** {{COMMIT_HASH}} (Git reference)
+- **Edition status:** The current version identity of this edition is documented in the release header of the book and in the citation file `CITATION.cff`.  
+- **Version traceability:** The repository’s Git history documents branch status, changes, and release steps in a traceable way.  
+- **Build metadata:** If the build pipeline automatically injects technical metadata such as build date or commit reference into generated artefacts, those values apply; otherwise, the repository’s release metadata is the binding reference.
 
 ---
 
@@ -30116,10 +30132,10 @@ This book would not have been possible without the **open‑source community**. 
 
 ## L.7 Further information
 
-- **Complete attribution:** see `ATTRIBUTION.md` in the repository.  
-- **Licence details:** see **Appendix J: License & Openness**.  
-- **Technical documentation:** see `README.md` and `.github/gitbook_worker/`.  
-- **Zenodo archiving:** DOI and concept DOI, see `CITATION.cff`.
+- **Complete provenance and licence documentation:** the repository’s attribution register (`ATTRIBUTION.md`) lists all third-party components, their sources, versions, and licences.  
+- **Licence details and openness principle:** **Appendix J: License & Openness** explains the project’s legal logic and the rules for adaptations, translations, and remix use.  
+- **Technical documentation and build process:** the project overview (`README.md`) and the tooling documentation in the repository describe structure, build paths, and responsibilities.  
+- **Citation guidance and archiving:** the citation file (`CITATION.cff`) records the recommended citation, DOI, and version identity; long-term archiving is handled via Zenodo.
 
 ---
 
@@ -30127,17 +30143,17 @@ This book would not have been possible without the **open‑source community**. 
 
 This colophon is part of the **attribution hierarchy** of the ERDA project:
 
-- **`ATTRIBUTION.md`** (repository) = primary source (machine‑readable)  
-- **Appendix L** (this document) = reader‑friendly presentation (PDF)  
-- **Appendix J** = licensing philosophy and legal framework
+- **`ATTRIBUTION.md`** in the repository = the machine-readable primary source for third-party components, sources, versions, and licences.  
+- **Appendix L** (this document) = the reader-friendly presentation for the book and PDF edition.  
+- **Appendix J** = the explanation of the licensing philosophy and legal framework.
 
 **For any changes to fonts, emojis or production tools:**
 
-1. Update `ATTRIBUTION.md` in the repository (new table row).  
-2. Update this colophon (section L.2 Typography / L.3 Tools).  
-3. Review `content/anhang-j-lizenz---offenheit.md` (licence matrix J.2).
+1. Update the repository attribution register `ATTRIBUTION.md` (new table row).  
+2. Update this colophon (especially section L.2 Typography / L.3 Tools).  
+3. Review the licence presentation in Appendix J (especially licence matrix J.2).
 
-For details, see `AGENTS.md` → “Attribution‑Hierarchy”.
+The project’s editorial maintenance principles are documented in `AGENTS.md`.
 
 ---
 
