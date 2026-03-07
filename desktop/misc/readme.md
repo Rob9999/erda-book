@@ -8,6 +8,7 @@ Desktop-Materialien für schnelle Kommunikation (Flyer, Vorträge, Social-Media-
 |---|---|---|
 | [demokratisches-wissen.md](demokratisches-wissen.md) | DE | Demokratisches Wissen – Sieben Prinzipien |
 | [democratic-knowledge.en.md](democratic-knowledge.en.md) | EN | Democratic Knowledge – Seven Principles |
+| [kindererziehung-verantwortung-freiheit.md](kindererziehung-verantwortung-freiheit.md) | DE | Essay zu Kindererziehung, Freiheit und Verantwortung |
 | [mini-wording-set.md](mini-wording-set.md) | DE | Mini-Wording-Set (kanonisch) |
 | [mini-wording-set.en.md](mini-wording-set.en.md) | EN | Mini Wording Set (canonical) |
 | [erda-buch-uebersicht.md](erda-buch-uebersicht.md) | DE | ERDA-Buch Übersicht |
