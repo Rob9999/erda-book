@@ -9335,7 +9335,7 @@ _**The SOLAR ALLIANCE INFRASTRUCTURE PLAN 2030–2075**_
 * Is developed by the SOLAR PARLIAMENT together with the Alliance Council, the Space Law Chamber and civil society.
 * Is divided into three main phases:
   1. **Phase I: Build‑up of critical infrastructure (2030–2040)**\
-     – EARTH ONE, LUNAR ONE, DNS base nodes, lunar shipyard, cycler operations commence.
+     – EARTH ONE, LUNAR ONE, DNSN base nodes, lunar shipyard, cycler operations commence.
   2. **Phase II: Deep‑space presence and coordination (2040–2055)**\
      – BELT LIVING ONE, VENUS ONE, first Mars stations, Mars parliaments, IRIS swarm.
   3. **Phase III: Maturity and intergenerational structure (2055–2075)**\
@@ -9808,7 +9808,7 @@ The sphere stations mark the beginning of a profound transformation: outer space
 
 ***
 
-###### 7. Establishment of solar DNS nodes (Democratic Navigation & Signal Nodes)
+###### 7. Establishment of solar DNSN nodes (Democratic Navigation & Signal Nodes)
 
 * **Locations:** Moon, Mars, belt, later also at Neptune and all major human settlements
 * **Function:** Safety, synchronisation, communications stability, navigation support for space traffic
@@ -9862,7 +9862,7 @@ status: draft
 
 _**Timeline of ERDA’s space‑civilisation development**_
 
-<table><thead><tr><th width="130.4000244140625">Year</th><th>Milestone</th></tr></thead><tbody><tr><td><strong>2025 / 2026</strong></td><td><strong>Adoption of the ERDA Codex:</strong> initiation of cosmic responsibility and the start of coordinated build‑up as the foundation for a future‑proof spacefaring civilisation.</td></tr><tr><td><strong>2028</strong></td><td><strong>Founding of the Solar Alliance:</strong> establishment of the first bodies and codes for international coordination of spaceflight, realistically supported by modern communication and partnership models.</td></tr><tr><td><strong>2029</strong></td><td><strong>Launch of the Lunar Dockyard project:</strong> start of construction of the first sphere modules, with plans for gradual integration of modular manufacturing in lunar orbit.</td></tr><tr><td><strong>2030</strong></td><td><strong>Ratification of the cosmos conventions:</strong> first legally binding agreements (including a duty to render assistance) that define the legal framework for responsible activities in outer space.</td></tr><tr><td><strong>2032</strong></td><td><strong>Commissioning of the Sphere Craft Assembly Hub:</strong> establishment of a central manufacturing and assembly hub in lunar orbit to modularise the build‑up of space infrastructures.</td></tr><tr><td><strong>2034</strong></td><td><strong>Deployment of the first DNS nodes:</strong> installation of decentralised communications and control systems on the Moon and at Lagrange points to strengthen the infrastructural base.</td></tr><tr><td><strong>2034</strong></td><td><strong>Solar Defense Force Node – Moon:</strong> establishment of the first Solar Defense Force node on the Moon.</td></tr><tr><td><strong>2035</strong></td><td><strong>Commissioning of EARTH ONE:</strong> realisation of an orbital "pair of world eyes" for global monitoring and communication, based on newly established technologies.</td></tr><tr><td><strong>2036</strong></td><td><strong>Test operation of the orbital cycler system:</strong> first trials of a continuous orbital transport system between Earth and Mars, enabling regular connections in the long term.</td></tr><tr><td><strong>2038</strong></td><td><strong>Start of operations on LUNAR ONE:</strong> activation of a permanent space‑station concept in lunar orbit, supported by a permanent CIVITAS Council as a governance and cooperation body.</td></tr><tr><td><strong>2042</strong></td><td><strong>BELT LIVING ONE is crewed:</strong> stationing and start of operations. A six‑month training and preparation programme establishes stable routines.</td></tr><tr><td><strong>2042</strong></td><td><strong>Research stations on Mars:</strong> construction of rotating, medically and ethically oriented stations as the first basis for long‑term scientific missions on Mars.</td></tr><tr><td><strong>2043</strong></td><td><strong>BELT LIVING ONE travels to the belt:</strong> journey to the asteroid belt. Establishment of the first orbital mining centre in the belt, initiating independent resource utilisation.</td></tr><tr><td><strong>2044</strong></td><td><strong>Solar Defense Force Node – Mars:</strong> establishment of the Solar Defense Force node on Mars.</td></tr><tr><td><strong>2045</strong></td><td><strong>VENUS ONE is crewed:</strong> VENUS ONE is populated and begins operations. A six‑month training and preparation programme establishes stable routines.</td></tr><tr><td><strong>2046</strong></td><td><strong>VENUS ONE travels to Venus:</strong> journey to Venus and start of the first missions. Beginning of ethics and atmosphere missions to explore and shape Venus, with the aim of generating insights for future terraforming processes.</td></tr><tr><td><strong>2048</strong></td><td><strong>Expansion of the DNS networks:</strong> extension of communications and control systems to Mars and the inner asteroid belt, securing seamless space communication.</td></tr><tr><td><strong>2050</strong></td><td><strong>Creation of Mars parliaments and education networks:</strong> setup of administrative units and deeper space‑probe clusters (e.g. IRIS swarm with over 10,000 units) for autonomous steering and exploration of Mars.</td></tr><tr><td><strong>2050</strong></td><td><strong>Solar Defense Force Node – Belt:</strong> establishment of the Solar Defense Force node in the asteroid belt.</td></tr><tr><td><strong>2052</strong></td><td><strong>Launch of NEPTUNE ONE:</strong> start of an intergenerational long‑term programme integrating families into spaceflight and fostering long‑term settlements in the outer solar system.</td></tr><tr><td><strong>2055</strong></td><td><strong>Full operational expansion of the cycler system:</strong> provision of a reliable orbital transport system as far as Neptune for large‑scale cargo and passenger transport in space.</td></tr><tr><td><strong>2060</strong></td><td><strong>Expansion of DNS coverage:</strong> creation of a comprehensive control network at all ERDA bases in the asteroid belt and at Neptune, optimising space communication.</td></tr><tr><td><strong>2062</strong></td><td><strong>Solar Defense Force Nodes – Beyond:</strong> establishment of Solar Defense Force nodes at every human settlement in the solar system.</td></tr><tr><td><strong>2065</strong></td><td><strong>Autonomous lunar industry:</strong> lunar habitats achieve a self‑sufficiency level of over 70%, enabling significant independence in space.</td></tr><tr><td><strong>2070</strong></td><td><strong>Intersolar observatory network:</strong> construction of the first near‑real‑time observatory at around 180 AU to monitor distant space phenomena and advance scientific understanding.</td></tr><tr><td><strong>2075</strong></td><td><strong>50 years of the ERDA Codex:</strong> celebration of half a century of the ERDA vision with a democratically governed deep‑space environment and a framework of cosmic responsibility as a central pillar of the future spacefaring civilisation.</td></tr></tbody></table>
+<table><thead><tr><th width="130.4000244140625">Year</th><th>Milestone</th></tr></thead><tbody><tr><td><strong>2025 / 2026</strong></td><td><strong>Adoption of the ERDA Codex:</strong> initiation of cosmic responsibility and the start of coordinated build‑up as the foundation for a future‑proof spacefaring civilisation.</td></tr><tr><td><strong>2028</strong></td><td><strong>Founding of the Solar Alliance:</strong> establishment of the first bodies and codes for international coordination of spaceflight, realistically supported by modern communication and partnership models.</td></tr><tr><td><strong>2029</strong></td><td><strong>Launch of the Lunar Dockyard project:</strong> start of construction of the first sphere modules, with plans for gradual integration of modular manufacturing in lunar orbit.</td></tr><tr><td><strong>2030</strong></td><td><strong>Ratification of the cosmos conventions:</strong> first legally binding agreements (including a duty to render assistance) that define the legal framework for responsible activities in outer space.</td></tr><tr><td><strong>2032</strong></td><td><strong>Commissioning of the Sphere Craft Assembly Hub:</strong> establishment of a central manufacturing and assembly hub in lunar orbit to modularise the build‑up of space infrastructures.</td></tr><tr><td><strong>2034</strong></td><td><strong>Deployment of the first DNSN nodes:</strong> installation of decentralised communications and control systems on the Moon and at Lagrange points to strengthen the infrastructural base.</td></tr><tr><td><strong>2034</strong></td><td><strong>Solar Defense Force Node – Moon:</strong> establishment of the first Solar Defense Force node on the Moon.</td></tr><tr><td><strong>2035</strong></td><td><strong>Commissioning of EARTH ONE:</strong> realisation of an orbital "pair of world eyes" for global monitoring and communication, based on newly established technologies.</td></tr><tr><td><strong>2036</strong></td><td><strong>Test operation of the orbital cycler system:</strong> first trials of a continuous orbital transport system between Earth and Mars, enabling regular connections in the long term.</td></tr><tr><td><strong>2038</strong></td><td><strong>Start of operations on LUNAR ONE:</strong> activation of a permanent space‑station concept in lunar orbit, supported by a permanent CIVITAS Council as a governance and cooperation body.</td></tr><tr><td><strong>2042</strong></td><td><strong>BELT LIVING ONE is crewed:</strong> stationing and start of operations. A six‑month training and preparation programme establishes stable routines.</td></tr><tr><td><strong>2042</strong></td><td><strong>Research stations on Mars:</strong> construction of rotating, medically and ethically oriented stations as the first basis for long‑term scientific missions on Mars.</td></tr><tr><td><strong>2043</strong></td><td><strong>BELT LIVING ONE travels to the belt:</strong> journey to the asteroid belt. Establishment of the first orbital mining centre in the belt, initiating independent resource utilisation.</td></tr><tr><td><strong>2044</strong></td><td><strong>Solar Defense Force Node – Mars:</strong> establishment of the Solar Defense Force node on Mars.</td></tr><tr><td><strong>2045</strong></td><td><strong>VENUS ONE is crewed:</strong> VENUS ONE is populated and begins operations. A six‑month training and preparation programme establishes stable routines.</td></tr><tr><td><strong>2046</strong></td><td><strong>VENUS ONE travels to Venus:</strong> journey to Venus and start of the first missions. Beginning of ethics and atmosphere missions to explore and shape Venus, with the aim of generating insights for future terraforming processes.</td></tr><tr><td><strong>2048</strong></td><td><strong>Expansion of the DNSN networks:</strong> extension of communications and control systems to Mars and the inner asteroid belt, securing seamless space communication.</td></tr><tr><td><strong>2050</strong></td><td><strong>Creation of Mars parliaments and education networks:</strong> setup of administrative units and deeper space‑probe clusters (e.g. IRIS swarm with over 10,000 units) for autonomous steering and exploration of Mars.</td></tr><tr><td><strong>2050</strong></td><td><strong>Solar Defense Force Node – Belt:</strong> establishment of the Solar Defense Force node in the asteroid belt.</td></tr><tr><td><strong>2052</strong></td><td><strong>Launch of NEPTUNE ONE:</strong> start of an intergenerational long‑term programme integrating families into spaceflight and fostering long‑term settlements in the outer solar system.</td></tr><tr><td><strong>2055</strong></td><td><strong>Full operational expansion of the cycler system:</strong> provision of a reliable orbital transport system as far as Neptune for large‑scale cargo and passenger transport in space.</td></tr><tr><td><strong>2060</strong></td><td><strong>Expansion of DNSN coverage:</strong> creation of a comprehensive control network at all ERDA bases in the asteroid belt and at Neptune, optimising space communication.</td></tr><tr><td><strong>2062</strong></td><td><strong>Solar Defense Force Nodes – Beyond:</strong> establishment of Solar Defense Force nodes at every human settlement in the solar system.</td></tr><tr><td><strong>2065</strong></td><td><strong>Autonomous lunar industry:</strong> lunar habitats achieve a self‑sufficiency level of over 70%, enabling significant independence in space.</td></tr><tr><td><strong>2070</strong></td><td><strong>Intersolar observatory network:</strong> construction of the first near‑real‑time observatory at around 180 AU to monitor distant space phenomena and advance scientific understanding.</td></tr><tr><td><strong>2075</strong></td><td><strong>50 years of the ERDA Codex:</strong> celebration of half a century of the ERDA vision with a democratically governed deep‑space environment and a framework of cosmic responsibility as a central pillar of the future spacefaring civilisation.</td></tr></tbody></table>
 
 
 \newpage
@@ -10264,7 +10264,7 @@ Funding instrument for education, culture, youth projects, and civil‑society c
 
 ##### D
 
-**DNS – Democratic Navigation & Signal Nodes**\
+**DNSN – Democratic Navigation & Signal Nodes**\
 Quantum‑encrypted communication and synchronisation nodes. Serve as the backbone of orbital infrastructure. Civilian‑controlled, distributed across planetary zones.
 
 ***
@@ -12278,6 +12278,7 @@ The democratic states of Europe must secure their capacity to act on **two level
 | **13.5** | Technological Sovereignty: Redundancy against Single Points of Failure |
 | **13.6** | Hybrid Defence as a Permanent Front: Disinformation, Sabotage, Reflexive Control |
 | **13.7** | Parallel Strategy: Making Europe Defensible – Complement, Not Excuse |
+| **13.8** | Energy Sovereignty: Strategy and Roadmap (2026–2029) |
 
 ***
 
@@ -12896,6 +12897,180 @@ Every "frozen conflict" that rewards aggression raises the costs of the next rou
 - **Chapter 7 (FORTERA):** Industrial mobilisation and production sovereignty (7.3)
 - **Chapter 4 (ERDA Grand Design):** Reform phase 2025–2035 (4.2) and consolidation 2035–2050 (4.3)
 - **Appendix D.5:** Strategy paper Europe resilient against Russia's war logic (concrete case study)
+
+\newpage
+
+---
+description: "13.8 – Energy Sovereignty: Strategy and Roadmap 2026–2029"
+date: "2026-03-25"
+status: "draft"
+---
+<a id="md-13-strategische-souveranitat-werkzeugkoffer-fur-demokratische-sicherheit-13-8-energiesouveranitat-strategie-und-roadmap-2026-2029"></a>
+
+
+## 13.8 Energy Sovereignty: Strategy and Roadmap (2026–2029)
+
+### Guiding Principle
+
+Energy is the strategic nerve of democratic societies. Whoever controls or destabilises a continent's energy supply controls its capacity to act. Russia's weaponisation of gas since 2021 and the systematic destruction of Ukrainian energy infrastructure have demonstrated: **energy sovereignty is not a matter of comfort but a survival question for democratic order.**
+
+This subchapter complements technological sovereignty (→ 13.5) with a **concrete sectoral roadmap** for European energy independence by 2029 — spanning electricity, heating, industry, imports and households.
+
+> **Core principle:** Freedom through the displacement of fossil gas use, complemented by smart import diversification. Only in this way will the continent become energy-sovereign, economically robust and climate-compliant by 2029.
+
+***
+
+### 13.8.1 Electricity: Pushing Gas out of Base-Load Supply
+
+Europe is systematically expanding renewable energy and reserving gas solely for peak load and emergencies. Generation capacity from hydropower, pumped-storage, biogas CHP, flexible biomass and existing nuclear plants is maintained until replacement capacity becomes available. In parallel, the photovoltaic offensive is being massively accelerated (rooftops, car parks, open areas) and wind power is being repowered. By the end of 2025 the EU had already reached an installed solar PV capacity of roughly **406 GW**.
+
+Flanking measures:
+
+- **Storage** (batteries, power-to-heat), **demand-side management** and **cross-sector grids** are being massively expanded.
+- The EU **Grids Package** and the **Energy Highways Initiative** accelerate grid permitting and the densification of distribution and transmission networks. Transposition into national law by 2026.
+- **Long-term power purchase agreements (PPAs)** for industry and municipal utilities are becoming standard, backed by an EU Commission/EIB counter-guarantee programme.
+
+***
+
+### 13.8.2 Heating: Independence through Building Renovation and Electrification
+
+Heating is being progressively freed from fossil gas. The goal is to supply urban areas via district heating networks and to equip suburban and rural areas with heat pumps and building insulation.
+
+| Measure | Target |
+|---|---|
+| **No new pure oil/gas boilers** | From 2026 (subsidies end by 2025 at the latest) |
+| **Zero-emission new buildings** | From 2030 (revised Energy Performance of Buildings Directive – EPBD) |
+| **Full ban on fossil boilers** | By 2040 |
+| **Renovation wave** | 35 million buildings to be energy-retrofitted by 2030 |
+| **Gas savings via heat pumps** | ~21 billion m³ by 2030 |
+
+Standardised "**Renovation Lite**" packages (loft insulation, window replacement, hydraulic balancing, smart thermostats, hot-water storage) accelerate implementation. The EU supports the rollout of large-scale heat pumps (industrial units, geothermal, wastewater/river heat, industrial waste heat, solar thermal). Europe already has around 11 million roofs with solar thermal installations (41 GWth).
+
+A new **Social Climate Fund** (from 2026) with ~€87 billion from future ETS-2 revenues supports low-income households with heat pumps and renovations.
+
+***
+
+### 13.8.3 Industry: Electrification before Molecular Energy Carriers
+
+#### Priority Order
+
+1. **Efficiency gains and waste-heat recovery** first
+2. **Electrification** of as many processes as possible (industrial heat pumps, electric boilers/furnaces, resistance heating, induction furnaces, thermal energy storage)
+3. **Green hydrogen** strictly focused on "no-regret" applications (high-temperature processes, steel, ammonia, parts of the chemical industry)
+4. **Biomethane** (EU target: 35 bcm by 2030) as a seasonal/industrial buffer
+
+#### Instruments
+
+- **Industrial electricity auctions:** In February 2026, 85 pilot projects were launched to electrify heat generation (heat pumps, electric boilers, solar thermal) across all sectors — part of an **Industrial Decarbonisation Bank** approach.
+- **EU Hydrogen Bank:** Pools renewable H$_2$ scale-up via the Innovation Fund.
+
+***
+
+### 13.8.4 Imports: Diversification and Limiting Supplier Power
+
+**Guiding principle:** Europe does not replace one dependency with another.
+
+| Measure | Status / Timeline |
+|---|---|
+| Full phase-out of Russian gas and oil | By end of 2027 (EU initiative June 2025) |
+| New gas contracts with Russia banned | From 2026 |
+| Nuclear supply contracts with Russia restricted | From 2026 |
+| **Max. supplier share** | 20–25 \% of demand per supplier |
+| **EU storage fill target** | 90 \% by 1 November each year (~92 bcm) |
+
+#### Problem: Dangerous Concentration
+
+Current import structures highlight the urgency:
+
+- **59.9 %** of EU LNG imports came from the USA in Q3 2025
+- **51.8 %** of pipeline gas came from Norway
+
+→ Joint procurement, mandatory storage fill targets and the expansion of alternatives (biogas-backed gas networks, diversified LNG terminals) are imperative.
+
+***
+
+### 13.8.5 Households: Relief and Incentives for Switching
+
+Clean heating must be more economically attractive than gas. The EU is shifting the tax burden away from electricity towards CO$_2$-intensive energy carriers.
+
+**Measures:**
+
+- **Reducing electricity levies** (currently up to one-third of the electricity bill)
+- **Targeted social tariffs and subsidies** for low-income households
+- **Advice, installation support and interest-free loans** for heat pumps, building insulation and PV systems
+- **Solar-ready obligation** for every new building (rooftop PV or solar thermal)
+- **Tenant electricity programmes** and balcony PV systems
+- **District heating networks** and energy-autonomous neighbourhoods
+
+> Maxim: What counts is not who bears the burden, but who actively contributes to energy sovereignty.
+
+***
+
+### 13.8.6 Technological Sovereignty: Infrastructure for Clean Technologies
+
+Sovereignty does not end with fuel. Europe is strengthening its supply chains for key technologies — directly complementing → 13.5 (redundancy against single points of failure) and → Chapter 7 (FORTERA).
+
+| Instrument | Effect |
+|---|---|
+| **Net-Zero Industry Act** | Securing capacity for solar, wind, heat pumps, electronics, batteries |
+| **Critical Raw Materials Act** | Supply-chain resilience for critical raw materials (recycling, new deposits, alliances) |
+| **Battery Booster Facility** | >€1.5 bn in interest-free loans for European battery-cell manufacturers |
+| **Further programmes** | Power electronics, grids, transformers in preparation |
+
+***
+
+### 13.8.7 Timeline, KPIs and Targets to 2029
+
+#### Milestones
+
+| Year | Milestones |
+|---|---|
+| **2026** | EU EPBD and Energy Efficiency Directives enter into force. Subsidy stop for new gas/oil boilers. Launch of cross-border gas procurement and storage-fill obligations. Renovation and Social Climate Funds established. Start of auction rounds (industrial electricity, hydrogen). |
+| **2027** | Russian gas/oil supply halt (existing contracts expiring). 90 \% storage fill by November legally guaranteed. Industrial culture shift (90 \% electrification of medium-temperature processes). Large-scale heat pumps enter urban markets. Battery Booster launches. |
+| **2028** | >80 \% of newly supplied electricity from renewables. Gas consumption in buildings halved. No new fossil heating installations. |
+| **2029** | Zero strategic dependence on Russian fossil energy. >80 \% renewable electricity. Building gas consumption ≥60 \% reduced. No single supplier >25 \% market share. |
+
+#### KPIs (Indicative Targets)
+
+| KPI | 2029 Target |
+|---|---|
+| Renewable share in electricity mix | ≥ 80 \% |
+| EU gas coverage (domestic production + storage) | ≥ 50 \% |
+| Installed heat pumps | Doubled relative to 2025 |
+| Building heating without fossil boilers | ≥ 90 \% (new installations) |
+| Supply security without Russian imports | Complete |
+
+***
+
+### Links to the ERDA Grand Design
+
+| Chapter Reference | Interface |
+|---|---|
+| **13.5 Technological Sovereignty** | Energy infrastructure as an application of redundancy against single points of failure; energy decentralisation as security architecture |
+| **7 (FORTERA)** | Production sovereignty for clean tech, batteries, heat pumps; industrial scaling; Democracy Trade Network for raw-material alliances |
+| **14 (Coalitions of the Willing)** | Energy coalition as a concrete field of action (→ 14.2); joint procurement and storage policy as a club task |
+| **5 (EDA)** | Energy resilience as part of defence capability; protection of critical energy infrastructure |
+| **4.2 (Reform Phase 2025–2035)** | Energy sovereignty as an immediate measure within strategic reorientation |
+
+***
+
+### Recommendations and Policy Measures
+
+The framework is in place (Fit-for-55, REPowerEU, Green Deal). What is now needed is resolute implementation:
+
+1. **Accelerated permitting procedures** for renewables, grids and storage
+2. **Targeted CO$_2$ pricing** (ETS expansion, especially for building fossil fuels)
+3. **Subsidy programmes for end consumers** (heat pumps, renovation, PV)
+4. **Clear regulatory phase-out pathways** and supplier quotas
+5. **Investment in key technologies** (EU financial instruments, R&D funding)
+6. **Transparent reporting criteria** as a benchmark for all stakeholders
+
+***
+
+### One-Sentence Core
+
+> Europe's energy sovereignty by 2029 requires the simultaneous displacement of fossil gas from electricity, heating and industry, the diversification of remaining imports and the build-up of domestic technological capacity — not as a climate-policy luxury but as the foundation of democratic security.
+
 
 \newpage
 
@@ -29460,35 +29635,50 @@ _**Central ERDA Glossary**_
 
 This glossary brings together the key terms used in the ERDA book. It serves as a stand‑alone reference and supports consistent terminology across all chapters.
 
-| Term                                   | Definition                                                                                                                                                                                                                           |
-| -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Democratic resilience**              | The ability of democratic systems to cope with crises and disruptions through participatory learning processes, to protect their core principles (freedom, rule of law, participation), and to adapt to new challenges.              |
-| **Resonance**                          | Mutual, living feedback between citizens, institutions, and technology that strengthens trust, integrates diversity, and uses mistakes as impulses for development.                                                                  |
-| **Virtue**                             | Lived ethical attitude in the sense of Aristotelian \_aretē\_: acting consciously in the right measure between extremes, carried by responsibility towards oneself and the community.                                                 |
-| **Natural desires**                    | Fundamental human impulses – survival, reproduction, learning, connection, expression, harmony – that act as driving forces for the development of democratic, rule‑of‑law civilisations.                                           |
-| **Ring flow**                          | Symbolic representation of the central resonance forces virtue, enlightenment, compassion, resilience, security, and joy, which as dynamic streams connect all fields of activity of the ERDA Institute.                             |
-| **ERDA Institute**                     | Institution for promoting democratic resilience and transformation, built from five core components: academy, roadmap laboratories, civic labs, open‑access library, and KI Compass Unit.                                           |
-| **Academy**                            | Educational unit of the ERDA Institute for conveying resonance competence, ethical capacity to shape, and strategic reflexivity, e.g. through open lectures and micro‑degree programmes.                                             |
-| **Roadmap laboratories**               | Strategic development spaces for designing democratic future roadmaps using methods such as scenario mapping, backcasting, and deep dives.                                                     |
-| **Civic labs**                         | Local innovation platforms for citizen‑centred projects, social experiments, and participatory democracy development.                                                                         |
-| **KI Compass Unit**                    | Research unit for the ethical co‑development of human‑centred AI models and for reflection on technological transformation pathways in a democratic context.                                   |
-| **Democracy labs**                     | Experimental fields for new forms of democratic participation, particularly the integration of co‑creation methods and AI‑supported decision‑making.                                          |
-| **EDA (European Defence Alliance)**    | European defence alliance in development, aiming at a strategic, democratically legitimised security architecture based on shared values.                                                     |
-| **Liberum veto**                       | Historical decision rule (Poland–Lithuania) by which individual actors could block collective decisions; a case study of structural veto paralysis and external manipulability.                |
-| **Veto paralysis / obstructionism**    | Structural inability to decide due to unanimity constraints or persistent minority blocking; makes systems slow, predictable, and strategically exploitable.                                  |
-| **FORTERA**                            | Concept for Europe’s production sovereignty and strategic industrial policy in key technologies (e.g. semiconductors, hydrogen, recycling), combined with ethical and ecological responsibility.                                    |
-| **CIVITAS**                            | Digital agora for democratic participation based on transparency, data protection, and citizen proximity, e.g. through e‑voting, citizens’ initiatives, and digital vote‑tracking.                                                  |
-| **ARKTIS Codex**                       | ERDA’s ethics code for the Arctic region, combining democratic responsibility, protection of indigenous rights, and sustainable resource partnerships.                                        |
-| **SPACE / Solar Alliance**             | ERDA's long‑term space concept for codifying a democratic law of the cosmos and building interplanetary institutions (Solar Parliament, Alliance Council, Space Law Chamber) by 2075.                                               || **Co-evolution Index (KEI)**           | Observation and early-warning instrument for the democratic quality of the human–AI relationship; captures transparency, ethical governance and participatory control of AI systems in governance processes (Chapter 10).               |
-| **Co-evolution (human–AI)**            | Concept of equal-footed advancement of humans and artificial intelligence, steered by democratic governance and ethical guardrails (Chapter 10).                                                                                      |
-| **Citizen duty model**                 | Integrated model linking civic rights with civic responsibility – through adaptive duty service (civil, social, ecological or military), resilience education and demographic compensation (Chapter 11).                               |
-| **Demographic imperative**             | Strategic compulsion to act driven by shrinking populations; requires technological mobilisation, qualified immigration and family support (Chapter 11).                                                                              |
-| **Seven transformation rules**         | Normative framework for renewing social democracy in the 21st century; verifiable through parliamentary simulations and democracy-maturity metrics (Chapter 12).                                                                     |
-| **Self-deterrence**                    | Europe's greatest strategic weakness: the fear of one's own action paralyses more than the threat itself; overcome through immediate programmes, industrial mass and veto resilience (Chapter 13).                                    |
-| **Coalitions of the willing**          | Groups of democratic states that advance through opt-in mechanisms without giving up the wider EU framework; overcoming veto paralysis through flexible integration (Chapter 14).                                                     |
-| **EDDRC**                              | European Democratic Defence \& Resilience Club – institutional club architecture with a council, assembly, audit body (ACI) and tribunal for democratic alliance cooperation (Chapter 14).                                             |
-| **Democracy chain**                    | Four-stage safeguard system (suffrage → fundamental rights → separation of powers → ombuds bodies) that ensures no member of a coalition falls below democratic minimum thresholds (Chapter 14).                                      |
-| **Tier model (Tier 0–9)**              | Flexible integration model for democratic coalitions: from observer status (Tier 0) to federal membership (Tier 9), with clear KPIs for upgrades and downgrades (Chapter 14).                                                        |
+| Term                                         | Definition                                                                                                                                                                                                                      |
+| -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Democratic resilience**                    | The ability of democratic systems to cope with crises and disruptions through participatory learning processes, to protect their core principles (freedom, rule of law, participation), and to adapt to new challenges.         |
+| **Resonance**                                | Mutual, living feedback between citizens, institutions, and technology that strengthens trust, integrates diversity, and uses mistakes as impulses for development.                                                             |
+| **Virtue**                                   | Lived ethical attitude in the sense of Aristotelian \_aretē\_: acting consciously in the right measure between extremes, carried by responsibility towards oneself and the community.                                            |
+| **Natural desires**                          | Fundamental human impulses – survival, reproduction, learning, connection, expression, harmony – that act as driving forces for the development of democratic, rule‑of‑law civilisations.                                      |
+| **Ring flow**                                | Symbolic representation of the central resonance forces virtue, enlightenment, compassion, resilience, security, and joy, which as dynamic streams connect all fields of activity of the ERDA Institute.                        |
+| **ERDA**                                     | \_European Rights-Based Democratic Alliance\_ – Europe’s democratic, rule-of-law future architecture with a shared constitution, strategic autonomy, digital participation and the goal of a post-scarcity economy.              |
+| **Post-scarcity economy**                    | Social model with universal access to basic resources, supported by automation, digitalisation, resource efficiency and fair participation in prosperity.                                                                     |
+| **ERDA Institute**                           | Institution for promoting democratic resilience and transformation, built from five core components: academy, roadmap laboratories, civic labs, open-access library, and KI Compass Unit.                                      |
+| **Academy**                                  | Educational unit of the ERDA Institute for conveying resonance competence, ethical capacity to shape, and strategic reflexivity, e.g. through open lectures and micro-degree programmes.                                        |
+| **Roadmap laboratories**                     | Strategic development spaces for designing democratic future roadmaps using methods such as scenario mapping, backcasting, and deep dives.                                                                                    |
+| **Civic labs**                               | Local innovation platforms for citizen-centred projects, social experiments, and participatory democracy development.                                                                                                         |
+| **KI Compass Unit**                          | Research unit for the ethical co-development of human-centred AI models and for reflection on technological transformation pathways in a democratic context.                                                                  |
+| **Democracy labs**                           | Experimental fields for new forms of democratic participation, particularly the integration of co-creation methods and AI-supported decision-making.                                                                           |
+| **EDA (European Defence Alliance)**          | European defence alliance in development, aiming at a strategic, democratically legitimised security architecture based on shared values.                                                                                      |
+| **Article 5 Equivalent**                     | Legally binding collective assistance clause of the EDA, functionally comparable to NATO Article 5.                                                                                                                           |
+| **Defence Sovereignty Nodes (DSNs)**         | Territorial and mobile defence nodes of the EDA; the structural backbone of regional deterrence, protection and response capability.                                                                                          |
+| **Democracy Security Network**               | Values-based global security network of democratic states for information-sharing, joint exercises and the defence against hybrid threats.                                                                                     |
+| **Rapid Response Force (RRF)**               | Multinational rapid-response force of the EDA for crises, hybrid threats and short-notice stabilisation tasks.                                                                                                                |
+| **Strategic autonomy**                       | The ability to act independently in defence, diplomacy, technology, energy and the economy without critical systemic dependencies.                                                                                            |
+| **Liberum veto**                             | Historical decision rule (Poland–Lithuania) by which individual actors could block collective decisions; a case study of structural veto paralysis and external manipulability.                                                 |
+| **Veto paralysis / obstructionism**          | Structural inability to decide due to unanimity constraints or persistent minority blocking; makes systems slow, predictable, and strategically exploitable.                                                                   |
+| **Pragmatic Federalism**                     | Integration method in which willing states move ahead in key policy domains through opt-in structures, build democratically controlled institutions and keep accession open without making shared goals vulnerable to sabotage. |
+| **Weaponized Interdependence**               | Strategic use of economic and technological dependencies as leverage; shifts trade, platforms, logistics and standards into the sphere of security architecture.                                                                |
+| **FORTERA**                                  | Concept for Europe’s production sovereignty and strategic industrial policy in key technologies (e.g. semiconductors, hydrogen, recycling), combined with ethical and ecological responsibility.                               |
+| **Democracy Trade Network**                  | Rules-based trade and raw-material network of democratic states for the resilient, fair and strategically defensive safeguarding of critical supply chains.                                                                     |
+| **European Trade Defence Mechanism (EHAM)**  | ERDA/FORTERA instrument set against economic coercion, including early warning, proportionate countermeasures and protection of critical supply chains.                                                                       |
+| **EHAM+**                                    | Extended assessment and indicator layer of EHAM; used in the ERDA state profiles to classify trade- and resilience-policy capacity to act.                                                                                   |
+| **CIVITAS**                                  | Digital agora for democratic participation based on transparency, data protection, and citizen proximity, e.g. through e-voting, citizens’ initiatives, and digital vote-tracking.                                             |
+| **Concentric circles**                       | Tiered model of ERDA membership and partnership – from constitution-bound core membership to global associated cooperation.                                                                                                   |
+| **ARKTIS Codex**                             | ERDA’s ethics code for the Arctic region, combining democratic responsibility, protection of indigenous rights, and sustainable resource partnerships.                                                                         |
+| **SPACE / Solar Alliance**                   | ERDA’s long-term space concept for codifying a democratic law of the cosmos and building interplanetary institutions (Solar Parliament, Alliance Council, Space Law Chamber) by 2075.                                          |
+| **DNSN (Democratic Navigation \& Signal Nodes)** | Civilian-controlled communication, synchronisation and navigation nodes of the Solar Alliance; the orbital backbone of distributed space infrastructure.                                                                   |
+| **Co-evolution Index (KEI)**                 | Observation and early-warning instrument for the democratic quality of the human–AI relationship; captures transparency, ethical governance and participatory control of AI systems in governance processes (Chapter 10).        |
+| **Co-evolution (human–AI)**                  | Concept of equal-footed advancement of humans and artificial intelligence, steered by democratic governance and ethical guardrails (Chapter 10).                                                                              |
+| **Citizen duty model**                       | Integrated model linking civic rights with civic responsibility – through adaptive duty service (civil, social, ecological or military), resilience education and demographic compensation (Chapter 11).                          |
+| **Demographic imperative**                   | Strategic compulsion to act driven by shrinking populations; requires technological mobilisation, qualified immigration and family support (Chapter 11).                                                                       |
+| **Seven transformation rules**               | Normative framework for renewing social democracy in the 21st century; verifiable through parliamentary simulations and democracy-maturity metrics (Chapter 12).                                                                |
+| **Self-deterrence**                          | Europe’s greatest strategic weakness: the fear of its own action paralyses more than the threat itself; overcome through immediate programmes, industrial mass and veto resilience (Chapter 13).                                 |
+| **Coalitions of the willing**                | Groups of democratic states that advance through opt-in mechanisms without giving up the wider EU framework; overcoming veto paralysis through flexible integration (Chapter 14).                                                |
+| **EDDRC**                                    | European Democratic Defence \& Resilience Club – institutional club architecture with a council, assembly, audit body (ACI) and tribunal for democratic alliance cooperation (Chapter 14).                                        |
+| **Democracy chain**                          | Four-stage safeguard system (suffrage → fundamental rights → separation of powers → ombuds bodies) that ensures no member of a coalition falls below democratic minimum thresholds (Chapter 14).                                 |
+| **Tier model (Tier 0–9)**                    | Flexible integration model for democratic coalitions: from observer status (Tier 0) to federal membership (Tier 9), with clear KPIs for upgrades and downgrades (Chapter 14).                                                   |
 
 \newpage
 

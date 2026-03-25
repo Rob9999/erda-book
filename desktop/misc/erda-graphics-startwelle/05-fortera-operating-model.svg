@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="1100" viewBox="0 0 2000 1100" role="img" aria-labelledby="title desc">
+  <title id="title">FORTERA Operating Model</title>
+  <desc id="desc">Betriebsmodell von FORTERA mit Governance-Kern, sechs Umsetzungshebeln, Output-Logik und Rückkopplung über Audit und Dashboard.</desc>
+  <defs>
+    <style>
+      .bg{fill:#f6f8fb}
+      .title{font:700 34px 'DejaVu Sans', Arial, sans-serif;fill:#15324b}
+      .subtitle{font:400 20px 'DejaVu Sans', Arial, sans-serif;fill:#425466}
+      .box1{fill:#15324b;stroke:#15324b;stroke-width:2.5}
+      .box2{fill:#ffffff;stroke:#15324b;stroke-width:2.5}
+      .box3{fill:#e8f2f3;stroke:#1a6e73;stroke-width:2.5}
+      .box4{fill:#f6efe1;stroke:#c59b4d;stroke-width:2.5}
+      .h1{font:700 21px 'DejaVu Sans', Arial, sans-serif;fill:#ffffff}
+      .h2{font:700 20px 'DejaVu Sans', Arial, sans-serif;fill:#15324b}
+      .small{font:400 15px 'DejaVu Sans', Arial, sans-serif;fill:#425466}
+      .smallInv{font:400 15px 'DejaVu Sans', Arial, sans-serif;fill:#dce9f2}
+      .line{stroke:#667a8f;stroke-width:3;fill:none;marker-end:url(#arrow)}
+    </style>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L8,3 z" fill="#667a8f"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="2000" height="1100" rx="24"/>
+  <text class="title" x="80" y="72">FORTERA Operating Model</text>
+  <text class="subtitle" x="80" y="104">Ein Ziel, ein Team, ein Budget, ein Datum: Governance, Delivery, Hebel, Output und Review</text>
+
+  <rect class="box2" x="70" y="255" width="250" height="200" rx="22"/>
+  <text class="h2" x="195" y="300" text-anchor="middle">Input &amp; Bedarf</text>
+  <text class="small" x="195" y="336" text-anchor="middle">strategischer Bedarf</text>
+  <text class="small" x="195" y="360" text-anchor="middle">Engpassanalyse</text>
+  <text class="small" x="195" y="384" text-anchor="middle">Zielquoten</text>
+  <text class="small" x="195" y="408" text-anchor="middle">Risiko- und Lieferkettenlage</text>
+  <text class="small" x="195" y="432" text-anchor="middle">CIVITAS-Bürgerfeedback</text>
+
+  <rect class="box1" x="365" y="205" width="500" height="300" rx="26"/>
+  <text class="h1" x="615" y="250" text-anchor="middle">Governance-Kern</text>
+  <text class="smallInv" x="615" y="285" text-anchor="middle">FORTERA-Rat • Delivery Unit • nationale Knoten</text>
+  <text class="smallInv" x="615" y="310" text-anchor="middle">Stop/Start-Portfolio • Krisenmodus • öffentliche Dashboards</text>
+
+  <rect class="box3" x="455" y="340" width="130" height="70" rx="14"/>
+  <rect class="box3" x="615" y="340" width="160" height="70" rx="14"/>
+  <rect class="box3" x="455" y="425" width="130" height="52" rx="14"/>
+  <rect class="box3" x="615" y="425" width="160" height="52" rx="14"/>
+  <text class="small" x="520" y="380" text-anchor="middle">FORTERA-Rat</text>
+  <text class="small" x="695" y="380" text-anchor="middle">Delivery Unit</text>
+  <text class="small" x="520" y="457" text-anchor="middle">Audit</text>
+  <text class="small" x="695" y="457" text-anchor="middle">nationale Knoten</text>
+
+  <path class="line" d="M 320 355 L 365 355"/>
+
+  <rect class="box4" x="885" y="120" width="320" height="88" rx="18"/>
+  <rect class="box4" x="1230" y="120" width="280" height="88" rx="18"/>
+  <rect class="box4" x="885" y="250" width="320" height="88" rx="18"/>
+  <rect class="box4" x="1230" y="250" width="280" height="88" rx="18"/>
+  <rect class="box4" x="885" y="380" width="320" height="88" rx="18"/>
+  <rect class="box4" x="1230" y="380" width="280" height="88" rx="18"/>
+
+  <text class="h2" x="1045" y="156" text-anchor="middle">1. Gebündelte Nachfrage</text>
+  <text class="small" x="1045" y="182" text-anchor="middle">Offtakes, gemeinsame Beschaffung</text>
+
+  <text class="h2" x="1370" y="156" text-anchor="middle">2. Fast-Track</text>
+  <text class="small" x="1370" y="182" text-anchor="middle">Fristen, One-Stop, Genehmigungen</text>
+
+  <text class="h2" x="1045" y="286" text-anchor="middle">3. Finanzierung</text>
+  <text class="small" x="1045" y="312" text-anchor="middle">Garantien, Risiko-Puffer, Co-Investments</text>
+
+  <text class="h2" x="1370" y="286" text-anchor="middle">4. Standards</text>
+  <text class="small" x="1370" y="312" text-anchor="middle">Interop, Zertifizierung, Baukästen</text>
+
+  <text class="h2" x="1045" y="416" text-anchor="middle">5. Talent &amp; Kapazität</text>
+  <text class="small" x="1045" y="442" text-anchor="middle">Skills, Umschulung, Zulieferer</text>
+
+  <text class="h2" x="1370" y="416" text-anchor="middle">6. Sicherheits-Resilienz</text>
+  <text class="small" x="1370" y="442" text-anchor="middle">Cyber, Audits, Lager, Redundanz</text>
+
+  <path class="line" d="M 865 355 L 885 164"/>
+  <path class="line" d="M 865 355 L 1230 164"/>
+  <path class="line" d="M 865 355 L 885 294"/>
+  <path class="line" d="M 865 355 L 1230 294"/>
+  <path class="line" d="M 865 355 L 885 424"/>
+  <path class="line" d="M 865 355 L 1230 424"/>
+
+  <rect class="box2" x="900" y="585" width="540" height="180" rx="22"/>
+  <text class="h2" x="1170" y="628" text-anchor="middle">Output &amp; Review</text>
+  <text class="small" x="1170" y="662" text-anchor="middle">Build-Ready Sites • Serienkapazität • resilientere Lieferketten</text>
+  <text class="small" x="1170" y="686" text-anchor="middle">Transparenzberichte • KPI-Dashboard • Stop/Start-Entscheidungen</text>
+  <text class="small" x="1170" y="710" text-anchor="middle">jährliche Portfolio-Entscheidung auf Basis realer Wirkung</text>
+
+  <path class="line" d="M 1045 468 L 1080 585"/>
+  <path class="line" d="M 1370 468 L 1300 585"/>
+  <path class="line" d="M 960 675 C 830 775, 540 770, 380 610"/>
+  <text class="small" x="560" y="805">Rückkopplung: Wirkung messen, priorisieren, abbrechen, nachschärfen</text>
+</svg>

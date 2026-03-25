@@ -43,6 +43,7 @@ The democratic states of Europe must secure their capacity to act on **two level
 | **13.5** | Technological Sovereignty: Redundancy against Single Points of Failure |
 | **13.6** | Hybrid Defence as a Permanent Front: Disinformation, Sabotage, Reflexive Control |
 | **13.7** | Parallel Strategy: Making Europe Defensible – Complement, Not Excuse |
+| **13.8** | Energy Sovereignty: Strategy and Roadmap (2026–2029) |
 
 ***
 

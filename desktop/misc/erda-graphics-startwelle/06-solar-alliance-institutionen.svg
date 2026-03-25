@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="1100" viewBox="0 0 2000 1100" role="img" aria-labelledby="title desc">
+  <title id="title">Institutionen der Solar Alliance</title>
+  <desc id="desc">Staatsorganisationsdiagramm der Solar Alliance mit Gewaltenteilung, Lebensrechtsrat, Schiedsgericht und demokratischen Kontrollmechanismen.</desc>
+  <defs>
+    <style>
+      .space{fill:#0f2237}
+      .orbit{fill:none;stroke:#48617b;stroke-width:1.6;opacity:.65}
+      .title{font:700 34px 'DejaVu Sans', Arial, sans-serif;fill:#ecf3fa}
+      .subtitle{font:400 20px 'DejaVu Sans', Arial, sans-serif;fill:#b9cbdb}
+      .boxA{fill:#15324b;stroke:#b5c7d8;stroke-width:2.2}
+      .boxB{fill:#1e5d66;stroke:#bde0de;stroke-width:2.2}
+      .boxC{fill:#6b5628;stroke:#eed8a0;stroke-width:2.2}
+      .label{font:700 21px 'DejaVu Sans', Arial, sans-serif;fill:#ffffff}
+      .small{font:400 15px 'DejaVu Sans', Arial, sans-serif;fill:#d7e4ef}
+      .line{stroke:#93a7bb;stroke-width:2.8;fill:none}
+      .ringLabel{font:700 18px 'DejaVu Sans', Arial, sans-serif;fill:#c6d6e4}
+    </style>
+  </defs>
+
+  <rect class="space" width="2000" height="1100" rx="24"/>
+  <ellipse class="orbit" cx="800" cy="470" rx="540" ry="245"/>
+  <ellipse class="orbit" cx="800" cy="470" rx="400" ry="180"/>
+  <ellipse class="orbit" cx="800" cy="470" rx="265" ry="115"/>
+
+  <text class="title" x="80" y="72">Institutionen der Solar Alliance</text>
+  <text class="subtitle" x="80" y="104">Demokratische Raumordnung: Gewaltenteilung, Lebensrechte, Rechtsschutz und kontrollierte Sicherheitsfähigkeit</text>
+
+  <text class="ringLabel" x="1310" y="246">Demokratische Kontrollmechanismen</text>
+
+  <rect class="boxA" x="563" y="120" width="475" height="110" rx="22"/>
+  <text class="label" x="800" y="163" text-anchor="middle">Solar Parliament</text>
+  <text class="small" x="800" y="193" text-anchor="middle">Legislative, Budgetrecht, Mandate, öffentliche Legitimation</text>
+
+  <rect class="boxB" x="260" y="315" width="320" height="118" rx="22"/>
+  <text class="label" x="420" y="358" text-anchor="middle">Allianzrat</text>
+  <text class="small" x="420" y="388" text-anchor="middle">Exekutive Koordination, Infrastruktur,</text>
+  <text class="small" x="420" y="410" text-anchor="middle">strategische Planung und Umsetzung</text>
+
+  <rect class="boxB" x="1020" y="315" width="320" height="118" rx="22"/>
+  <text class="label" x="1180" y="358" text-anchor="middle">Raumrechtskammer</text>
+  <text class="small" x="1180" y="388" text-anchor="middle">Judikative, Rechtsbindung,</text>
+  <text class="small" x="1180" y="410" text-anchor="middle">Konflikt- und Regelprüfung</text>
+
+  <rect class="boxC" x="170" y="575" width="400" height="118" rx="22"/>
+  <text class="label" x="370" y="618" text-anchor="middle">Rat für Lebensrechte</text>
+  <text class="small" x="370" y="648" text-anchor="middle">würdegebundene Schutzlogik für Leben,</text>
+  <text class="small" x="370" y="670" text-anchor="middle">Gemeingüter und Generationenverantwortung</text>
+
+  <rect class="boxC" x="1045" y="575" width="345" height="118" rx="22"/>
+  <text class="label" x="1218" y="618" text-anchor="middle">Schiedsgericht</text>
+  <text class="small" x="1218" y="648" text-anchor="middle">Ressourcen- und Zugangsfragen,</text>
+  <text class="small" x="1218" y="670" text-anchor="middle">Verfahrensschutz, Streitbeilegung</text>
+
+  <rect class="boxA" x="585" y="690" width="430" height="118" rx="22"/>
+  <text class="label" x="800" y="733" text-anchor="middle">Demokratische Solar Defense Force</text>
+  <text class="small" x="800" y="763" text-anchor="middle">ziviler Schutz, Rettung, Abschreckung und Sicherheit</text>
+  <text class="small" x="800" y="785" text-anchor="middle">unter Mandat, Audit und parlamentarischer Kontrolle</text>
+
+  <path class="line" d="M 800 230 L 420 315"/>
+  <path class="line" d="M 800 230 L 1180 315"/>
+  <path class="line" d="M 420 433 L 370 575"/>
+  <path class="line" d="M 1180 433 L 1218 575"/>
+  <path class="line" d="M 800 230 L 800 690"/>
+  <path class="line" d="M 555 634 C 620 660, 675 678, 690 690"/>
+  <path class="line" d="M 1045 634 C 980 660, 925 678, 910 690"/>
+
+  <text class="small" x="1310" y="272">Audit • Gewaltenteilung • Transparenz • CIVITAS-basierte Rückbindung</text>
+  <text class="small" x="80" y="880">Leitidee: Raumfahrt wird nicht als Imperium gedacht, sondern als rechtsgebundene und demokratisch kontrollierte Zivilisationsordnung.</text>
+</svg>

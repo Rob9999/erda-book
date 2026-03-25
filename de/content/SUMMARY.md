@@ -212,6 +212,7 @@
   * [13.5 Technologische Souveränität: Redundanz gegen Single-Point-of-Failure](13.-strategische-souveranitat-werkzeugkoffer-fur-demokratische-sicherheit/13.5-technologische-souveranitat-redundanz-gegen-single-point-of-failure.md)
   * [13.6 Hybridabwehr als Dauerfront: Desinformation, Sabotage, reflexive Kontrolle](13.-strategische-souveranitat-werkzeugkoffer-fur-demokratische-sicherheit/13.6-hybridabwehr-als-dauerfront-desinformation-sabotage-reflexive-kontrolle.md)
   * [13.7 Parallelstrategie: Europa verteidigbar machen – Ergänzung statt Ausrede](13.-strategische-souveranitat-werkzeugkoffer-fur-demokratische-sicherheit/13.7-parallelstrategie-europa-verteidigbar-machen-erganzung-statt-ausrede.md)
+  * [13.8 Energiesouveränität: Strategie und Roadmap (2026–2029)](13.-strategische-souveranitat-werkzeugkoffer-fur-demokratische-sicherheit/13.8-energiesouveranitat-strategie-und-roadmap-2026-2029.md)
 * [14. Die demokratischen Koalitionen der Willigen](14.-die-demokratischen-koalitionen-der-willigen/README.md)
   * [14.1 Warum Koalitionen der Willigen?](14.-die-demokratischen-koalitionen-der-willigen/14.1-warum-koalitionen-der-willigen.md)
   * [14.2 Zehn demokratische Koalitionen](14.-die-demokratischen-koalitionen-der-willigen/14.2-zehn-demokratische-koalitionen.md)

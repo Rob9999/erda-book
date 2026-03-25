@@ -41,6 +41,7 @@ Die demokratischen Staaten Europas müssen ihre Handlungsfähigkeit auf **zwei E
 | **13.5** | Technologische Souveränität: Redundanz gegen Single-Point-of-Failure |
 | **13.6** | Hybridabwehr als Dauerfront: Desinformation, Sabotage, reflexive Kontrolle |
 | **13.7** | Parallelstrategie: Europa verteidigbar machen – Ergänzung statt Ausrede |
+| **13.8** | Energiesouveränität: Strategie und Roadmap (2026–2029) |
 
 ***
 

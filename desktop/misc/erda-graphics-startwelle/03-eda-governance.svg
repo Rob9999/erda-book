@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="1100" viewBox="0 0 2000 1100" role="img" aria-labelledby="title desc">
+  <title id="title">EDA-Governance</title>
+  <desc id="desc">Organigramm der Europäischen Verteidigungsallianz mit politischer Ebene, operativer Ebene, parlamentarischer Kontrolle und Audit.</desc>
+  <defs>
+    <style>
+      .bg{fill:#f6f8fb}
+      .title{font:700 34px 'DejaVu Sans', Arial, sans-serif;fill:#15324b}
+      .subtitle{font:400 20px 'DejaVu Sans', Arial, sans-serif;fill:#425466}
+      .boxNavy{fill:#15324b;stroke:#15324b;stroke-width:2.5}
+      .boxWhite{fill:#ffffff;stroke:#15324b;stroke-width:2.5}
+      .boxTeal{fill:#e8f2f3;stroke:#1a6e73;stroke-width:2.5}
+      .boxGold{fill:#f6efe1;stroke:#c59b4d;stroke-width:2.5}
+      .h1{font:700 20px 'DejaVu Sans', Arial, sans-serif;fill:#ffffff}
+      .h2{font:700 20px 'DejaVu Sans', Arial, sans-serif;fill:#15324b}
+      .small{font:400 15px 'DejaVu Sans', Arial, sans-serif;fill:#425466}
+      .smallInv{font:400 15px 'DejaVu Sans', Arial, sans-serif;fill:#dce9f2}
+      .line{stroke:#607286;stroke-width:3;fill:none}
+      .dash{stroke:#8aa0b3;stroke-width:2.5;fill:none;stroke-dasharray:8 8}
+    </style>
+  </defs>
+  <rect class="bg" width="2000" height="1100" rx="24"/>
+  <text class="title" x="80" y="72">EDA-Governance</text>
+  <text class="subtitle" x="80" y="104">Politische Führung, operative Ebene, regionale Knoten und demokratische Rückbindung</text>
+
+  <rect class="boxNavy" x="420" y="120" width="760" height="92" rx="18"/>
+  <text class="h1" x="800" y="158" text-anchor="middle">Demokratische Kontrolle &amp; Rechtsbindung</text>
+  <text class="smallInv" x="800" y="184" text-anchor="middle">Parlamentarische Aufsicht • Budgetrecht • Audit • Rechenschaft • Mandatskontrolle</text>
+
+  <line class="line" x1="800" y1="212" x2="800" y2="260"/>
+
+  <rect class="boxWhite" x="590" y="260" width="420" height="96" rx="18"/>
+  <text class="h2" x="800" y="300" text-anchor="middle">EDA Council</text>
+  <text class="small" x="800" y="326" text-anchor="middle">strategische Steuerung und politische Entscheidungen</text>
+
+  <line class="line" x1="800" y1="356" x2="800" y2="420"/>
+  <line class="line" x1="800" y1="420" x2="470" y2="420"/>
+  <line class="line" x1="800" y1="420" x2="1130" y2="420"/>
+  <line class="line" x1="800" y1="420" x2="800" y2="420"/>
+
+  <rect class="boxTeal" x="140" y="445" width="340" height="110" rx="18"/>
+  <text class="h2" x="310" y="485" text-anchor="middle">Integrated Joint Command</text>
+  <text class="small" x="310" y="511" text-anchor="middle">operative Planung, Lagebild,</text>
+  <text class="small" x="310" y="532" text-anchor="middle">Interoperabilität</text>
+
+  <rect class="boxTeal" x="655" y="445" width="290" height="110" rx="18"/>
+  <text class="h2" x="800" y="485" text-anchor="middle">EDACOM</text>
+  <text class="small" x="800" y="511" text-anchor="middle">Krisenzentrum, Echtzeit-</text>
+  <text class="small" x="800" y="532" text-anchor="middle">Koordination, Eskalationslogik</text>
+
+  <rect class="boxTeal" x="1130" y="445" width="320" height="110" rx="18"/>
+  <text class="h2" x="1290" y="485" text-anchor="middle">Cyber Defense Command</text>
+  <text class="small" x="1290" y="511" text-anchor="middle">digitale Infrastruktur,</text>
+  <text class="small" x="1290" y="532" text-anchor="middle">hybride Abwehr, Resilienz</text>
+
+  <line class="line" x1="310" y1="555" x2="310" y2="640"/>
+  <line class="line" x1="800" y1="555" x2="800" y2="640"/>
+  <line class="line" x1="1290" y1="555" x2="1290" y2="640"/>
+
+  <rect class="boxGold" x="80" y="640" width="460" height="140" rx="18"/>
+  <text class="h2" x="310" y="680" text-anchor="middle">Regionale Nodes</text>
+  <text class="small" x="310" y="707" text-anchor="middle">Nord • Ost • Zentral • West • Südost</text>
+  <text class="small" x="310" y="731" text-anchor="middle">DSNs, Ausbildung, Logistik,</text>
+  <text class="small" x="310" y="753" text-anchor="middle">Luftabwehr, Industrieanbindung</text>
+
+  <rect class="boxGold" x="570" y="640" width="460" height="140" rx="18"/>
+  <text class="h2" x="800" y="680" text-anchor="middle">Rapid Response Force</text>
+  <text class="small" x="800" y="707" text-anchor="middle">48h-Reaktionsfähigkeit • multinationale Kräfte</text>
+  <text class="small" x="800" y="731" text-anchor="middle">Krisenverstärkung unter Mandat</text>
+  <text class="small" x="800" y="753" text-anchor="middle">und parlamentarischer Rückbindung</text>
+
+  <rect class="boxGold" x="1060" y="640" width="460" height="140" rx="18"/>
+  <text class="h2" x="1290" y="680" text-anchor="middle">Mitgliedschaftsarchitektur</text>
+  <text class="small" x="1290" y="707" text-anchor="middle">Kernmitglieder • strategische Partner</text>
+  <text class="small" x="1290" y="731" text-anchor="middle">Defense Accession</text>
+  <text class="small" x="1290" y="753" text-anchor="middle">offen, aber rechtsstaatlich konditioniert</text>
+
+  <rect class="boxWhite" x="70" y="215" width="320" height="125" rx="18"/>
+  <text class="h2" x="230" y="255" text-anchor="middle">Democratically Prepared</text>
+  <text class="h2" x="230" y="282" text-anchor="middle">Defense Accession</text>
+  <text class="small" x="230" y="311" text-anchor="middle">Beitritt über Referendum,</text>
+  <text class="small" x="230" y="332" text-anchor="middle">Rechtsstaatlichkeit und Evaluierung</text>
+
+  <path class="dash" d="M 390 278 C 470 278, 530 290, 620 308"/>
+
+  <rect class="boxWhite" x="1170" y="215" width="350" height="125" rx="18"/>
+  <text class="h2" x="1345" y="255" text-anchor="middle">Artikel-5-Äquivalent</text>
+  <text class="small" x="1345" y="284" text-anchor="middle">kollektive Beistandspflicht,</text>
+  <text class="small" x="1345" y="305" text-anchor="middle">demokratisch kontrolliert und</text>
+  <text class="small" x="1345" y="326" text-anchor="middle">operativ belastbar</text>
+
+  <path class="dash" d="M 1170 308 C 1080 308, 1045 304, 980 308"/>
+
+  <text class="small" x="80" y="870">Leitidee: militärische Handlungsfähigkeit wird nicht von demokratischer Kontrolle getrennt, sondern durch sie legitimiert und stabilisiert.</text>
+</svg>

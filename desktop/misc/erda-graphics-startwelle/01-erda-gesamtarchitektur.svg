@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="1100" viewBox="0 0 2000 1100" role="img" aria-labelledby="title desc">
+  <title id="title">ERDA als Gesamtarchitektur</title>
+  <desc id="desc">Master-Architekturdiagramm der ERDA mit zentralem Kern, acht Systemmodulen und drei konzentrischen Integrationskreisen.</desc>
+  <defs>
+    <style>
+      .bg{fill:#f6f8fb}
+      .ring{fill:none;stroke:#c8d2dc;stroke-width:2;stroke-dasharray:10 10}
+      .line{stroke:#6b7c8f;stroke-width:2.5;opacity:.75}
+      .title{font:700 34px 'DejaVu Sans', Arial, sans-serif; fill:#15324b}
+      .subtitle{font:400 20px 'DejaVu Sans', Arial, sans-serif; fill:#425466}
+      .label{font:700 18px 'DejaVu Sans', Arial, sans-serif; fill:#15324b}
+      .small{font:400 15px 'DejaVu Sans', Arial, sans-serif; fill:#425466}
+      .centerTitle{font:700 40px 'DejaVu Sans', Arial, sans-serif; fill:#ffffff}
+      .centerSub{font:400 19px 'DejaVu Sans', Arial, sans-serif; fill:#dce9f2}
+      .boxA{fill:#ffffff;stroke:#15324b;stroke-width:2.5}
+      .boxB{fill:#e8f2f3;stroke:#1a6e73;stroke-width:2.5}
+      .boxC{fill:#f6efe1;stroke:#c59b4d;stroke-width:2.5}
+      .core{fill:#15324b;stroke:#15324b;stroke-width:3}
+      .legend{fill:#ffffff;stroke:#d2dae3;stroke-width:1.5}
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="2000" height="1100" rx="24"/>
+
+  <text class="title" x="80" y="72">ERDA als Gesamtarchitektur</text>
+  <text class="subtitle" x="80" y="104">Zentrum: Verfassungs- und Werteordnung • Module: operative Architektur • Kreise: Integrationslogik</text>
+
+  <circle class="ring" cx="800" cy="470" r="190"/>
+  <circle class="ring" cx="800" cy="470" r="290"/>
+  <circle class="ring" cx="800" cy="470" r="390"/>
+
+  <text class="small" x="1055" y="150">Kern</text>
+  <text class="small" x="1125" y="150">Partner</text>
+  <text class="small" x="1220" y="150">globale Assoziierte</text>
+  <line x1="1035" y1="145" x2="1065" y2="145" class="line"/>
+  <line x1="1105" y1="145" x2="1135" y2="145" class="line"/>
+  <line x1="1200" y1="145" x2="1230" y2="145" class="line"/>
+
+  <line class="line" x1="800" y1="310" x2="800" y2="220"/>
+  <line class="line" x1="675" y1="350" x2="535" y2="260"/>
+  <line class="line" x1="925" y1="350" x2="1065" y2="260"/>
+  <line class="line" x1="990" y1="470" x2="1180" y2="470"/>
+  <line class="line" x1="925" y1="590" x2="1065" y2="690"/>
+  <line class="line" x1="800" y1="630" x2="800" y2="742"/>
+  <line class="line" x1="675" y1="590" x2="535" y2="690"/>
+  <line class="line" x1="610" y1="470" x2="420" y2="470"/>
+
+  <circle class="core" cx="800" cy="470" r="116"/>
+  <text class="centerTitle" x="800" y="452" text-anchor="middle">ERDA</text>
+  <text class="centerSub" x="800" y="482" text-anchor="middle">European Rights-Based</text>
+  <text class="centerSub" x="800" y="507" text-anchor="middle">Democratic Alliance</text>
+
+  <rect class="boxA" x="680" y="150" width="240" height="84" rx="18"/>
+  <text class="label" x="800" y="186" text-anchor="middle">CIVITAS</text>
+  <text class="small" x="800" y="212" text-anchor="middle">digitale Demokratie</text>
+
+  <rect class="boxB" x="415" y="205" width="230" height="92" rx="18"/>
+  <text class="label" x="530" y="243" text-anchor="middle">EDA</text>
+  <text class="small" x="530" y="268" text-anchor="middle">Sicherheit, Verteidigung,</text>
+  <text class="small" x="530" y="289" text-anchor="middle">Abschreckung</text>
+
+  <rect class="boxC" x="955" y="205" width="230" height="92" rx="18"/>
+  <text class="label" x="1070" y="243" text-anchor="middle">FORTERA</text>
+  <text class="small" x="1070" y="268" text-anchor="middle">Produktionssouveränität</text>
+  <text class="small" x="1070" y="289" text-anchor="middle">und Industriepolitik</text>
+
+  <rect class="boxA" x="1190" y="424" width="240" height="92" rx="18"/>
+  <text class="label" x="1310" y="462" text-anchor="middle">SPACE</text>
+  <text class="small" x="1310" y="487" text-anchor="middle">Solar Alliance,</text>
+  <text class="small" x="1310" y="508" text-anchor="middle">Kosmosrecht, Infrastruktur</text>
+
+  <rect class="boxB" x="960" y="642" width="235" height="92" rx="18"/>
+  <text class="label" x="1077" y="680" text-anchor="middle">KI-Konzept</text>
+  <text class="small" x="1077" y="705" text-anchor="middle">Governance, KEI,</text>
+  <text class="small" x="1077" y="726" text-anchor="middle">rote Linien</text>
+
+  <rect class="boxC" x="665" y="748" width="270" height="92" rx="18"/>
+  <text class="label" x="800" y="786" text-anchor="middle">Demokratie-Konzept</text>
+  <text class="small" x="800" y="811" text-anchor="middle">7 Transformationsregeln,</text>
+  <text class="small" x="800" y="832" text-anchor="middle">Minderheitenschutz, KI-Governance</text>
+
+  <rect class="boxA" x="410" y="642" width="240" height="92" rx="18"/>
+  <text class="label" x="530" y="680" text-anchor="middle">Bürger-Konzept</text>
+  <text class="small" x="530" y="705" text-anchor="middle">Rechte, Verantwortung,</text>
+  <text class="small" x="530" y="726" text-anchor="middle">Befähigung</text>
+
+  <rect class="boxB" x="170" y="424" width="240" height="92" rx="18"/>
+  <text class="label" x="290" y="462" text-anchor="middle">ARKTIS</text>
+  <text class="small" x="290" y="487" text-anchor="middle">Souveränität, Klimaethik,</text>
+  <text class="small" x="290" y="508" text-anchor="middle">Ressourcenpartnerschaft</text>
+
+  <rect class="legend" x="1420" y="870" width="620" height="186" rx="20"/>
+  <text class="label" x="1450" y="904">Lesart</text>
+  <text class="small" x="1450" y="928">• Zentrum: normative und verfassungsgebundene Kernarchitektur</text>
+  <text class="small" x="1450" y="950">• Module: operative Politik- und Zukunftsfelder</text>
+  <text class="small" x="1450" y="972">• Kreise: abgestufte Integration über Kern, Partner, globale Assoziierte</text>
+  <text class="small" x="1450" y="994">• Alle Module bleiben durch demokratische Kontrolle</text>
+  <text class="small" x="1450" y="1016">  und strategische Kohärenz auf ERDA bezogen</text>
+</svg>
