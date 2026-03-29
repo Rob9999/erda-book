@@ -316,3 +316,4 @@
 * [Appendix J: License & Openness](anhang-j-lizenz---offenheit.md)
 * [Appendix K: Quality Assurance](anhang-k-qualitatssicherung.md)
 * [Appendix L: Colophon](anhang-l-kolophon.md)
+* [Appendix M: Childhood, Adulthood, and the Anti-Game-Over Principle](appendix-m-childhood-adulthood-and-the-anti-game-over-principle.md)

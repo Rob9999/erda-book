@@ -130,4 +130,4 @@ Zufriedenheit und Freude zeigen, dass der nächste Schritt tragfähig ist. Dann 
 
 **Brücke zum Bürgerkapitel:**
 Bürger brauchen Systeme, die genau diese Lebensfähigkeit schützen: Würde, Sicherheit, Freiheit, Lernräume, Vertrauen. Ein erwachsenes System belohnt keine Angstherrschaft und keine Gewalt. Es hält Grenzen, damit Leben weiter wachsen kann. (Anschluss: 11.3 „Was brauchen Bürger?“) 
-
+> 📖 **Vertiefung:** Eine weiterführende philosophische Ausarbeitung des Lebensmodells – insbesondere zu Kindheit, Erwachsenwerden und dem Schutz vor irreversiblem Scheitern – findet sich in [Anhang M: Kindheit, Erwachsenwerden und das Anti-Game-Over-Prinzip](../../anhang-m-kindheit-erwachsenwerden-und-das-anti-game-over-prinzip.md).

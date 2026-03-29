@@ -316,3 +316,4 @@
 * [Anhang J: Lizenz & Offenheit](anhang-j-lizenz---offenheit.md)
 * [Anhang K: Qualitätssicherung](anhang-k-qualitatssicherung.md)
 * [Anhang L: Kolophon](anhang-l-kolophon.md)
+* [Anhang M: Kindheit, Erwachsenwerden und das Anti-Game-Over-Prinzip](anhang-m-kindheit-erwachsenwerden-und-das-anti-game-over-prinzip.md)
