@@ -1,20 +1,29 @@
 # Release History
 
-## 2.5.0-rc1 – 5 Mar 2026
+## 2.5.0-rc1 – 5 Mar 2026 (updated 29 Mar 2026)
 - **Responsible:** Robert Alexander Massinger (Lead) with support from ChatGPT/OpenAI and GitHub Copilot/Anthropic.
 - **Codename:** Democratic Knowledge
 - **Goal:**
   - Content:
     - "Demokratisches Wissen" (Democratic Knowledge) – seven normative principles for democratic agency (power, non-democracy-willing states, peace & security, truth & deception, democracy, technology/AI, inner condition).
     - Desktop materials (DE + EN) in `desktop/misc/`.
+    - Integration of three papers from `desktop/misc/` into the book:
+      - **Kindererziehung essay** → new §11.3.7 (DE+EN): guiding vision for raising children in freedom and responsibility.
+      - **Mosaik-Prinzip** → new §5.8.4 (DE+EN): strategic reflection on mosaic warfare principle and democratic DSN resilience.
+      - **Anti-Game-Over paper** → new **Appendix M** (DE translation + EN original): developmental-philosophical model of prosperative life (DOI: 10.5281/zenodo.19244929).
+    - Cross-references to Appendix M in chapters 11.2, 3.5, 4.3.5.
   - Editorial:
     - README "Contributions and quality" sections rewritten in professional editorial voice (DE + EN).
   - Technical:
     - Version bump to v2.5.0-rc1.
     - Release documentation in `release-docs/v2.5.0/`.
+    - `book.json` date updated to 2026-03-29 (DE+EN).
 - **Highlights:**
   - **Seven principles of democratic knowledge** as standalone reference
   - **Editorial quality initiative** for project communication
+  - **Appendix M – Anti-Game-Over Principle** as new book appendix (bilingual)
+  - **Guiding vision for child-rearing** (§11.3.7) with 12 democratic education principles
+  - **Mosaic Principle reflection** (§5.8.4) linking decentralised warfare theory to DSN architecture
   - Full release planning with status tracking
 
 ## 2.0.0 – 1 Mar 2026

@@ -1,7 +1,7 @@
 # ERDA Book – Release v2.5.0 Plan
 
 **Status:** in Arbeit (rc1)  
-**Letzte Aktualisierung:** 2026-03-05
+**Letzte Aktualisierung:** 2026-03-29
 
 ---
 
@@ -14,13 +14,19 @@ Release 2.5.0 markiert die **konzeptionelle Vertiefung** des ERDA-Buches. Währe
 1. **Demokratisches Wissen – Sieben Prinzipien**
    Leitlinien zu Macht, Umgang mit nicht-demokratiewilligen Staaten, Frieden und Sicherheit, Wahrheit und Täuschung, Demokratie, Technologie/KI und der inneren Verfassung. Als eigenständiges Dokument und potentielles Buchkapitel.
 
-2. **Redaktionelle Qualitätsoffensive**
+2. **Paper-Integration (3 Konzeptpapiere → Buchinhalte)**
+   - **Kindererziehung** → §11.3.7: Erziehungsleitbild in Freiheit und Verantwortung (12 Leitsätze)
+   - **Mosaik-Prinzip** → §5.8.4: Strategische Reflexion zur demokratischen DSN-Resilienz
+   - **Anti-Game-Over-Prinzip** → Anhang M: Entwicklungsphilosophisches Modell prosperativen Lebens (DOI: 10.5281/zenodo.19244929)
+
+3. **Redaktionelle Qualitätsoffensive**
    - Überarbeitung der README-Abschnitte „Beiträge und Qualität" (DE + EN) im professionellen redaktionellen Ton (bereits umgesetzt in v2.0.0-Nacharbeiten).
    - Konsistenzprüfung aller Kapitel gegen das Mini-Wording-Set.
 
-3. **Desktop-Materialien**
+4. **Desktop-Materialien**
    - Eigenständige Kurzformen für schnelle Kommunikation (Flyer, Vorträge, Social-Media-Referenz).
    - „Demokratisches Wissen" als DE + EN Dokument in `desktop/misc/`.
+   - Drei Konzeptpapiere (Kindererziehung, Mosaik-Prinzip, Anti-Game-Over) in `desktop/misc/`.
 
 ### Geplante weitere Inhalte (TBD)
 
@@ -35,17 +41,20 @@ Release 2.5.0 markiert die **konzeptionelle Vertiefung** des ERDA-Buches. Währe
 | # | Meilenstein | Status |
 |---|---|---|
 | 1 | Release-Planung und Versionsumstellung (rc1) | ✅ |
-| 2 | „Demokratisches Wissen" – Texterstellung DE + EN | 🔄 in Arbeit |
-| 3 | Desktop-Ablage (DE + EN) | 🔄 in Arbeit |
-| 4 | Redaktionelle Qualitätsprüfung (README, Mini-Wording-Set) | ⏳ |
-| 5 | Content-Freeze & Artefakte (PDF/MD) | ⏳ |
-| 6 | Final Review & Tag `v2.5.0` | ⏳ |
+| 2 | „Demokratisches Wissen" – Texterstellung DE + EN | ✅ |
+| 3 | Desktop-Ablage (DE + EN) | ✅ |
+| 4 | Paper-Integration (Kindererziehung, Mosaik-Prinzip, Anti-Game-Over) | ✅ |
+| 5 | Redaktionelle Qualitätsprüfung (README, Mini-Wording-Set) | ⏳ |
+| 6 | Content-Freeze & Artefakte (PDF/MD) | ⏳ |
+| 7 | Final Review & Tag `v2.5.0` | ⏳ |
 
 ---
 
 ## 📦 Deliverables
 
 - „Demokratisches Wissen" als Desktop-Dokument (`desktop/misc/`) in DE + EN
+- Drei Konzeptpapiere integriert: §11.3.7 + §5.8.4 + Anhang M (DE + EN)
+- Querverweise in Kapiteln 11.2, 3.5, 4.3.5
 - Aktualisierte Versionsnummern und Metadaten (README, book.json, CITATION.cff)
 - Release-Dokumentation in `release-docs/v2.5.0/`
 - Aktualisierte Publish-Artefakte (PDF/MD) nach Content-Freeze
@@ -58,6 +67,12 @@ Release 2.5.0 markiert die **konzeptionelle Vertiefung** des ERDA-Buches. Währe
 - [x] Release-Docs-Ordner `v2.5.0/` anlegen
 - [x] „Demokratisches Wissen" – Texterstellung (7 Prinzipien)
 - [x] Desktop-Ablage DE + EN
+- [x] Paper-Integration: Kindererziehung → §11.3.7 (DE + EN)
+- [x] Paper-Integration: Mosaik-Prinzip → §5.8.4 (DE + EN)
+- [x] Paper-Integration: Anti-Game-Over → Anhang M (DE + EN)
+- [x] Querverweise in Kap. 11.2, 3.5, 4.3.5
+- [x] SUMMARY.md aktualisiert (DE + EN)
+- [x] book.json-Datum auf 2026-03-29 (DE + EN)
 - [ ] Konsistenzprüfung gegen Mini-Wording-Set
 - [ ] Content-Review und ggf. Integration als Buchkapitel
 - [ ] Publish-Artefakte (PDF/MD) erneuern
