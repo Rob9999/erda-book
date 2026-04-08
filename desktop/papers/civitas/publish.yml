@@ -1,0 +1,64 @@
+version: 0.1.0
+project:
+  name: CIVITAS Public Paper
+  license: CC-BY-4.0
+  version: 1.0.0
+  authors:
+  - Robert Alexander Massinger
+profiles:
+  default:
+    description: Standardprofil für die komplette Orchestrator-Pipeline.
+    steps:
+    - check_if_to_publish
+    - ensure_readme
+    - update_citation
+    - converter
+    - engineering-document-formatter
+    - publisher
+    docker:
+      use_registry: true
+      image: ghcr.io/${repo}/publisher
+      cache: true
+  local:
+    description: Lokale Ausführung ohne Registry-Zugriff.
+    steps:
+    - converter
+    - publisher
+    docker:
+      use_registry: false
+  publisher:
+    description: Führt nur den Publisher aus (z. B. für workflow_call).
+    steps:
+    - publisher
+    docker:
+      use_registry: true
+      image: ghcr.io/${repo}/publisher
+      cache: true
+meta:
+  publish_on:
+  - push
+  - workflow_dispatch
+  artifacts:
+    keep_days: 7
+fonts:
+- name: ERDA CC-BY CJK
+  path: ../../../.github/fonts/erda-ccby-cjk/true-type/erda-ccby-cjk.ttf
+publish:
+- path: ./content/civitas_public_v1_0_zenodo.md
+  out_format: pdf
+  out_dir: ./publish
+  out: civitas-public-v1.0-zenodo.pdf
+  source_type: file
+  source_format: markdown
+  use_summary: false
+  use_book_json: false
+  use_citation: true
+  keep_combined: true
+  build: true
+  reset_build_flag: false
+  pdf_options:
+    emoji_color: true
+    main_font: DejaVu Serif
+    sans_font: DejaVu Sans
+    mono_font: DejaVu Sans Mono
+    mainfont_fallback: Twemoji Mozilla:mode=harf; ERDA CC-BY CJK:mode=harf

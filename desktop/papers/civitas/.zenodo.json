@@ -1,0 +1,60 @@
+{
+    "title": "CIVITAS Public: Building a European Digital Agora — A Call to Action",
+    "upload_type": "publication",
+    "publication_type": "workingpaper",
+    "publication_date": "2026-04-06",
+    "creators": [
+        {
+            "name": "Massinger, Robert Alexander",
+            "affiliation": "ERDA Initiative / Independent Concept Development, Munich, Germany"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "ChatGPT (OpenAI)",
+            "type": "Other"
+        },
+        {
+            "name": "GitHub Copilot (Anthropic)",
+            "type": "Other"
+        }
+    ],
+    "description": "<h1>CIVITAS Public: Building a European Digital Agora</h1><h2>A Call to Action</h2><p>This concept paper proposes <strong>CIVITAS Public</strong> as a concrete, actionable first step towards a European digital civic infrastructure. Situated within the ERDA (European Resilience and Democratic Architecture) framework, CIVITAS Public is conceived as a non-commercial, open-source, multilingual platform for:</p><ul><li>Verified publication with accountable authorship</li><li>Structured democratic debate beyond algorithmic feeds</li><li>Transparent polling and trend observation</li><li>Civic questions answered by qualified experts</li><li>Modular expansion towards petitions, consultations, and parliamentary connectors</li></ul><p>The paper presents the problem analysis, normative foundation, operational model, role and publication architecture, governance framework, technical design, phased roadmap (0–60 months), risk assessment, and strategic value proposition.</p><p>It concludes with an explicit <strong>call to action</strong> directed at civic-technology communities, European institutions, media organisations, academic networks, and civil society to collaborate in launching CIVITAS Public as the first building block of Europe's democratic digital future.</p><p><strong>Core principle:</strong> <em>Readable for all. Trustworthy through verification. Valuable through accountability.</em></p><hr><h2>CIVITAS Public: Aufbau einer europäischen digitalen Agora</h2><h3>Ein Aufruf zum Handeln</h3><p>Dieses Konzeptpapier schlägt <strong>CIVITAS Public</strong> als konkreten, umsetzbaren ersten Schritt zu einer europäischen digitalen Bürgerinfrastruktur vor. CIVITAS Public ist als nicht-kommerzielle, quelloffene, mehrsprachige Plattform für verifizierte Publikation, strukturierte Debatte, Trendbeobachtung, Bürgerfragen und partizipative Erweiterung konzipiert — eingebettet in den ERDA-Rahmen.</p><p>Das Papier schließt mit einem Aufruf an Civic-Tech-Gemeinschaften, europäische Institutionen, Medien, Wissenschaft und Zivilgesellschaft, CIVITAS Public gemeinsam aufzubauen.</p><hr><p><strong>Licence:</strong> Text and graphics = CC BY 4.0 | Uploader script = MIT | Fonts = CC BY 4.0 / MIT (dual licence).<br>Part of the ERDA Initiative: <a href=\"https://github.com/Rob9999/erda-book\">github.com/Rob9999/erda-book</a></p>",
+    "version": "1.0",
+    "keywords": [
+        "CIVITAS",
+        "ERDA",
+        "digital democracy",
+        "European public sphere",
+        "civic technology",
+        "democratic infrastructure",
+        "public debate",
+        "verification",
+        "Europe",
+        "open source",
+        "digital agora",
+        "open access"
+    ],
+    "license": "CC-BY-4.0",
+    "language": "eng",
+    "access_right": "open",
+    "communities": [
+        {
+            "identifier": "erda"
+        }
+    ],
+    "related_identifiers": [
+        {
+            "identifier": "10.5281/zenodo.18827190",
+            "relation": "isPartOf",
+            "resource_type": "publication-book"
+        },
+        {
+            "identifier": "https://github.com/Rob9999/erda-book",
+            "relation": "isSupplementedBy",
+            "resource_type": "software"
+        }
+    ],
+    "doi": "10.5281/zenodo.19443256",
+    "notes": "Working paper / concept paper. Part of the ERDA Initiative. This upload may be followed by revised versions, annexes, implementation notes, governance diagrams, or prototype materials. Text and graphics: CC BY 4.0; Uploader script: MIT; Fonts: CC BY 4.0 / MIT (dual licence)."
+}
