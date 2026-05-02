@@ -1,3 +1,8 @@
+---
+content_id: erda.book.9.das.space.konzept.9.8.die.weitergabe.der.zivilisation.bildung.kultur.und.ethik.in.interplanetarer.zeit.readme
+lang: de
+
+---
 # 9.8 Die Weitergabe der Zivilisation – Bildung, Kultur und Ethik in interplanetarer Zeit
 
 _**Die Weitergabe der Zivilisation – Bildung, Kultur und Ethik in interplanetarer Zeit**_

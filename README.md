@@ -4,13 +4,13 @@
 [![License: MIT](https://img.shields.io/badge/Code-MIT-blue.svg)](LICENSE-CODE)
 [![Version](https://img.shields.io/badge/version-v2.5.0--rc1-orange.svg)](https://github.com/Rob9999/erda-book/releases/tag/v2.5.0-rc1)
 
-**Current version:** v2.5.0-rc1  
-**As of (date):** 2026-03-06  
-**Channel:** release_candidate (pre-release)  
+**Current version:** v2.5.0-rc1
+**As of (date):** 2026-05-02
+**Channel:** release_candidate (pre-release)
 **Codename / Release name:** Democratic Knowledge
 
-**Multi-language democratic resilience framework**  
-🇩🇪 Deutsche Fassung: [`de/`](de/publish/das-erda-buch.pdf)  
+**Multi-language democratic resilience framework**
+🇩🇪 Deutsche Fassung: [`de/`](de/publish/das-erda-buch.pdf)
 🇬🇧 English version: [`en/`](en/publish/the-erda-book.pdf)
 
 **Sprungmarken / Jump links:** 🇩🇪 [Deutsch](#de) | 🇬🇧 [English](#en)
@@ -116,6 +116,7 @@ Das ERDA-Buch versteht sich als **lebendiges Dokument demokratischer Resilienz**
 
 - **Qualitätsanspruch:** Jeder Beitrag sollte den analytischen Maßstäben des Projekts gerecht werden – sachlich fundiert, quellentransparent und konstruktiv im Sinne demokratischer Handlungsfähigkeit.
 - **Verbindliche Regeln:** Bitte die Richtlinien in [`AGENTS.md`](AGENTS.md) beachten – insbesondere DCO-Sign-off, Lizenz- und Attributionspflichten sowie die DE↔EN-Synchronisation bei inhaltlichen Änderungen.
+- **Rollen & Verantwortlichkeiten:** Writer, Editor, Lektor, Redakteur und Publisher sind in [`worker-roles.md`](worker-roles.md) mit Rechten, Pflichten und Freigabegrenzen definiert.
 - **Peer-Review-Prinzip:** Inhaltliche Änderungen durchlaufen ein Review, um Konsistenz, fachliche Korrektheit und Übersetzungssynchronität sicherzustellen.
 
 > **Rechtlicher Hinweis:** Alle Inhalte werden „as is" und ohne Gewähr bereitgestellt. Das ERDA-Buch stellt keine Rechts-, Steuer- oder sonstige professionelle Beratung dar.
@@ -280,6 +281,7 @@ The ERDA Book sees itself as a **living document of democratic resilience** – 
 
 - **Quality standards:** Every contribution should meet the project's analytical expectations – well-founded, source-transparent, and constructive in the service of democratic agency.
 - **Binding rules:** Please observe the guidelines in [`AGENTS.md`](AGENTS.md) – in particular DCO sign-off, licensing and attribution duties, and DE↔EN synchronisation for content changes.
+- **Roles & responsibilities:** Writer, Editor, Lektor, Redakteur and Publisher are defined in [`worker-roles.md`](worker-roles.md), including rights, duties and approval boundaries.
 - **Peer-review principle:** Content changes undergo review to ensure consistency, factual accuracy, and translation synchronisation.
 
 > **Legal notice:** All content is provided "as is" and without warranty. The ERDA Book does not constitute legal, tax, or any other form of professional advice.

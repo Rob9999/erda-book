@@ -1,3 +1,8 @@
+---
+content_id: erda.book.anhang.l.kolophon
+lang: de
+
+---
 # Anhang L: Kolophon
 
 ## L.1 Über dieses Kolophon

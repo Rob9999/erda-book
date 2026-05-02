@@ -1,3 +1,8 @@
+---
+content_id: erda.book.anhang.m.kindheit.erwachsenwerden.und.das.anti.game.over.prinzip
+lang: de
+
+---
 # Anhang M: Kindheit, Erwachsenwerden und das Anti-Game-Over-Prinzip
 
 ## Ein entwicklungsphilosophisches Modell prosperativen Lebens

@@ -1,5 +1,7 @@
 ---
-source: content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/uk-staatenprofil-vereinigtes-koenigreich.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.uk.staatenprofil.vereinigtes.koenigreich
+lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/uk-staatenprofil-vereinigtes-koenigreich.md
 status: draft
 description: "State: UK, Date: 2025-06-10, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "UK"

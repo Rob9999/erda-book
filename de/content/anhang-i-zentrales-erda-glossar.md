@@ -1,3 +1,8 @@
+---
+content_id: erda.book.anhang.i.zentrales.erda.glossar
+lang: de
+
+---
 # Anhang I: Zentrales ERDA-Glossar
 
 _**Zentrales ERDA-Glossar**_
@@ -48,3 +53,7 @@ Dieses Glossar fasst die zentralen Begriffe des ERDA-Buches zusammen. Es dient a
 | **EDDRC**                                       | European Democratic Defence & Resilience Club – institutionelle Club-Architektur mit Rat, Versammlung, Audit-Instanz (ACI) und Tribunal für demokratische Bündniskooperation (Kapitel 14).                                           |
 | **Demokratie-Kette**                            | Vierstufiges Absicherungssystem (Wahlrecht → Grundrechte → Gewaltenteilung → Ombudsstellen), das sicherstellt, dass kein Mitglied einer Koalition unter demokratische Mindestschwellen fällt (Kapitel 14).                           |
 | **Stufenmodell (Tier 0–9)**                     | Flexibles Integrationsmodell für demokratische Koalitionen: vom Beobachterstatus (Tier 0) bis zur föderalen Mitgliedschaft (Tier 9), mit klaren KPIs für Auf- und Abstufung (Kapitel 14).                                           |
+| **Demokratisches Wissen**                       | Sieben Prinzipien demokratischer Handlungsfähigkeit zu Macht, Umgang mit nicht-demokratiewilligen Staaten, Frieden und Sicherheit, Wahrheit und Täuschung, Demokratie, Technologie/KI und innerer demokratischer Verfassung.          |
+| **Mosaik-Prinzip**                              | Strategische Architektur verteilter, modularer und redundant verbundener Fähigkeiten; im ERDA-Kontext rechtsstaatlich eingehegt und auf demokratische DSN-Resilienz statt autoritäre Kriegsführung ausgerichtet.                    |
+| **Anti-Game-Over-Prinzip**                      | Entwicklungsphilosophisches Prinzip, nach dem demokratische Systeme irreversible Lebensabbrüche, Lernabbrüche und Zukunftsblockaden vermeiden und immer neue Wege zur Wiederaufnahme von Entwicklung offenhalten sollen.              |
+| **Prosperatives Leben**                         | Leitbegriff für ein gelingendes, lernfähiges und resilientes Leben, das Sicherheit, Freiheit, Verantwortung, Freude, Bildung und offene Entwicklungsmöglichkeiten miteinander verbindet.                                           |

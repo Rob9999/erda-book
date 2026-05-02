@@ -1,5 +1,7 @@
 ---
-source: content/anhang-b-erda-staatenprofile/b.1.-einleitung-zum-staatenprofil-konzept/b.1.3-einsatzmoglichkeiten.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.1.einleitung.zum.staatenprofil.konzept.b.1.3.einsatzmoglichkeiten
+lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.1.-einleitung-zum-staatenprofil-konzept/b.1.3-einsatzmoglichkeiten.md
 status: draft
 ---
 

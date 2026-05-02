@@ -1,3 +1,8 @@
+---
+content_id: erda.book.10.das.ki.konzept.readme
+lang: de
+
+---
 # 10. Das KI Konzept
 
 Dieses Kapitel bündelt die **KI-bezogenen** Leitlinien, Institutionen, Sicherheitsmechanismen und Anwendungsszenarien im ERDA-Kontext.

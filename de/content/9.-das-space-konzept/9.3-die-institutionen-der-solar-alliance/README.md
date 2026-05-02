@@ -1,3 +1,8 @@
+---
+content_id: erda.book.9.das.space.konzept.9.3.die.institutionen.der.solar.alliance.readme
+lang: de
+
+---
 # 9.3 Die Institutionen der SOLAR ALLIANCE
 
 _**Die Institutionen der SOLAR ALLIANCE**_

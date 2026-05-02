@@ -1,3 +1,8 @@
+---
+content_id: erda.book.anhang.d.executive.compendium.fur.entscheidungstrager.d.3.block.c.sektorale.konzepte.kapitel.5.9
+lang: de
+
+---
 # D.3 Block C – Sektorale Konzepte (Kapitel 5–9)
 
 ### 🛡️ Kapitel 5: Europäische Verteidigungsallianz (EDA)

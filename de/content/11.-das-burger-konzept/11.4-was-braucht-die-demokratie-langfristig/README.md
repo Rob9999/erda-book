@@ -1,3 +1,8 @@
+---
+content_id: erda.book.11.das.burger.konzept.11.4.was.braucht.die.demokratie.langfristig.readme
+lang: de
+
+---
 # 11.4 Was braucht die Demokratie langfristig?
 
 *Was braucht die Demokratie langfristig?*

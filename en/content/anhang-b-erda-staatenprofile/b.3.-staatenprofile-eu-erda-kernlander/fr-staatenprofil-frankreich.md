@@ -1,5 +1,7 @@
 ---
-source: content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/fr-staatenprofil-frankreich.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.fr.staatenprofil.frankreich
+lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/fr-staatenprofil-frankreich.md
 status: draft
 description: "State: FR, Date: 2025-06-10, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "FR"

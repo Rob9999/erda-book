@@ -1,3 +1,8 @@
+---
+content_id: erda.book.8.das.arktis.konzept.readme
+lang: de
+
+---
 # 8. Das ARKTIS Konzept
 
 _**🧭 Zukunft Arktis – Ein demokratischer Plan für strategische Resilienz, Ressourcengerechtigkeit und planetare Verantwortung**_

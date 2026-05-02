@@ -1,3 +1,8 @@
+---
+content_id: erda.book.anhang.e.erda.buch.baukasten.readme
+lang: de
+
+---
 # Anhang E: ERDA Buch Baukasten
 
 _**ERDA Buch Baukasten**_

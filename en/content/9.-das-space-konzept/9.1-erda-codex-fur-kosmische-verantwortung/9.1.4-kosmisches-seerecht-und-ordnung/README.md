@@ -1,5 +1,7 @@
 ---
-source: content/9.-das-space-konzept/9.1-erda-codex-fur-kosmische-verantwortung/9.1.4-kosmisches-seerecht-und-ordnung/README.md
+content_id: erda.book.9.das.space.konzept.9.1.erda.codex.fur.kosmische.verantwortung.9.1.4.kosmisches.seerecht.und.ordnung.readme
+lang: en
+source: de/content/9.-das-space-konzept/9.1-erda-codex-fur-kosmische-verantwortung/9.1.4-kosmisches-seerecht-und-ordnung/README.md
 status: draft
 ---
 

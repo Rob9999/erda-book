@@ -1,5 +1,7 @@
 ---
-source: content/anhang-d-executive-compendium-fur-entscheidungstrager/d.4-handlungsleitfaden-and-tool-box.md
+content_id: erda.book.anhang.d.executive.compendium.fur.entscheidungstrager.d.4.handlungsleitfaden.and.tool.box
+lang: en
+source: de/content/anhang-d-executive-compendium-fur-entscheidungstrager/d.4-handlungsleitfaden-and-tool-box.md
 status: draft
 ---
 

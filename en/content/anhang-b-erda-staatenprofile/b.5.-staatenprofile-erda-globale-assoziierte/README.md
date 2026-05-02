@@ -1,5 +1,7 @@
 ---
-source: content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/README.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.readme
+lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/README.md
 status: draft
 ---
 

@@ -1,3 +1,8 @@
+---
+content_id: erda.book.11.das.burger.konzept.11.2.was.mochte.das.leben.readme
+lang: de
+
+---
 # 11.2 Was möchte das Leben?
 
 *Was möchte das Leben?*

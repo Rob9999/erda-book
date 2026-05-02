@@ -1,5 +1,7 @@
 ---
-source: content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/cl-staatenprofil-chile.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.cl.staatenprofil.chile
+lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/cl-staatenprofil-chile.md
 status: draft
 description: "State: CL, Date: 2025-06-11, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "CL"

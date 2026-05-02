@@ -1,5 +1,7 @@
 ---
-source: content/anhang-f-erda-institut-fur-demokratische-resilienz-und-transformation.md
+content_id: erda.book.anhang.f.erda.institut.fur.demokratische.resilienz.und.transformation
+lang: en
+source: de/content/anhang-f-erda-institut-fur-demokratische-resilienz-und-transformation.md
 status: draft
 ---
 

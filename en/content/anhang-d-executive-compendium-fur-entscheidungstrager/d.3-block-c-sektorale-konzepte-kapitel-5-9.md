@@ -1,5 +1,7 @@
 ---
-source: content/anhang-d-executive-compendium-fur-entscheidungstrager/d.3-block-c-sektorale-konzepte-kapitel-5-9.md
+content_id: erda.book.anhang.d.executive.compendium.fur.entscheidungstrager.d.3.block.c.sektorale.konzepte.kapitel.5.9
+lang: en
+source: de/content/anhang-d-executive-compendium-fur-entscheidungstrager/d.3-block-c-sektorale-konzepte-kapitel-5-9.md
 status: draft
 ---
 

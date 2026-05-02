@@ -1,5 +1,7 @@
 ---
-source: content/4.-das-erda-gesamtkonzept/README.md
+content_id: erda.book.4.das.erda.gesamtkonzept.readme
+lang: en
+source: de/content/4.-das-erda-gesamtkonzept/README.md
 status: draft
 ---
 

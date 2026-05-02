@@ -1,5 +1,7 @@
 ---
-source: content/anhang-b-erda-staatenprofile/b.1.-einleitung-zum-staatenprofil-konzept/b.1.1-ziel-und-funktion-der-staatenprofile.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.1.einleitung.zum.staatenprofil.konzept.b.1.1.ziel.und.funktion.der.staatenprofile
+lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.1.-einleitung-zum-staatenprofil-konzept/b.1.1-ziel-und-funktion-der-staatenprofile.md
 status: draft
 ---
 

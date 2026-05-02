@@ -1,6 +1,8 @@
 ---
-source: ../../../de/content/11.-das-burger-konzept/11.2-was-mochte-das-leben/README.md
-status: "in-review"
+content_id: erda.book.11.das.burger.konzept.11.2.was.mochte.das.leben.readme
+lang: en
+source: de/content/11.-das-burger-konzept/11.2-was-mochte-das-leben/README.md
+status: in-review
 ---
 
 # 11.2 What does life want?
@@ -135,3 +137,5 @@ Contentment and joy show that the next step holds. Then movement is needed again
 
 **Bridge to the citizen chapter:**
 Citizens need systems that protect exactly this viability: dignity, security, freedom, learning spaces, trust. A mature system rewards neither rule through fear nor violence. It holds boundaries so that life can keep growing. (Continuation: 11.3 “What do citizens need?”)
+
+> **Deepening:** A further philosophical elaboration of this life model, especially on childhood, adulthood and protection against irreversible failure, can be found in [Appendix M: Childhood, Adulthood, and the Anti-Game-Over Principle](../../appendix-m-childhood-adulthood-and-the-anti-game-over-principle.md).

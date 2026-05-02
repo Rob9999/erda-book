@@ -1,5 +1,7 @@
 ---
-source: content/5.-das-eda-konzept/README.md
+content_id: erda.book.5.das.eda.konzept.readme
+lang: en
+source: de/content/5.-das-eda-konzept/README.md
 status: draft
 ---
 

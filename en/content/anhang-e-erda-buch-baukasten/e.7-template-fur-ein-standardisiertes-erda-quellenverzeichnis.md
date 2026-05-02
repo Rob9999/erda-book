@@ -1,5 +1,7 @@
 ---
-source: content/anhang-e-erda-buch-baukasten/e.7-template-fur-ein-standardisiertes-erda-quellenverzeichnis.md
+content_id: erda.book.anhang.e.erda.buch.baukasten.e.7.template.fur.ein.standardisiertes.erda.quellenverzeichnis
+lang: en
+source: de/content/anhang-e-erda-buch-baukasten/e.7-template-fur-ein-standardisiertes-erda-quellenverzeichnis.md
 status: draft
 ---
 

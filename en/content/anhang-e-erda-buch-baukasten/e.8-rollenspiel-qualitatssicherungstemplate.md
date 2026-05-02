@@ -1,5 +1,7 @@
 ---
-source: content/anhang-e-erda-buch-baukasten/e.8-rollenspiel-qualitatssicherungstemplate.md
+content_id: erda.book.anhang.e.erda.buch.baukasten.e.8.rollenspiel.qualitatssicherungstemplate
+lang: en
+source: de/content/anhang-e-erda-buch-baukasten/e.8-rollenspiel-qualitatssicherungstemplate.md
 status: draft
 ---
 

@@ -1,3 +1,8 @@
+---
+content_id: erda.book.anhang.b.erda.staatenprofile.b.1.einleitung.zum.staatenprofil.konzept.b.1.3.einsatzmoglichkeiten
+lang: de
+
+---
 # B.1.3 Einsatzmöglichkeiten
 
 _**Einsatzmöglichkeiten**_

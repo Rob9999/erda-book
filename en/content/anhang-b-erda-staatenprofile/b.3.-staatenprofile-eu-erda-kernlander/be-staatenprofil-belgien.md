@@ -1,5 +1,7 @@
 ---
-source: content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/be-staatenprofil-belgien.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.be.staatenprofil.belgien
+lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/be-staatenprofil-belgien.md
 status: draft
 description: "State: BE, Date: 2025-05-28, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "BE"

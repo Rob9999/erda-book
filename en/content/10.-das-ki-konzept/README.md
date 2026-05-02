@@ -1,6 +1,8 @@
 ---
-source: ../../../de/content/10.-das-ki-konzept/README.md
-status: "in-review"
+content_id: erda.book.10.das.ki.konzept.readme
+lang: en
+source: de/content/10.-das-ki-konzept/README.md
+status: in-review
 ---
 
 # 10. The AI Concept

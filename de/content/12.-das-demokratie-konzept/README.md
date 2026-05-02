@@ -1,4 +1,6 @@
 ---
+content_id: erda.book.12.das.demokratie.konzept.readme
+lang: de
 description: "Kapitel 12 – Das Demokratie Konzept"
 date: "2026-02-07"
 ---

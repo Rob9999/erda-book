@@ -1,4 +1,6 @@
 ---
+content_id: erda.book.4.das.erda.gesamtkonzept.readme
+lang: de
 description: Institutionelle Architektur für das 21. Jahrhundert
 ---
 

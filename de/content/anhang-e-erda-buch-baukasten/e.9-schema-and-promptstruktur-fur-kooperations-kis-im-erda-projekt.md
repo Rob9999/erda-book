@@ -1,3 +1,8 @@
+---
+content_id: erda.book.anhang.e.erda.buch.baukasten.e.9.schema.and.promptstruktur.fur.kooperations.kis.im.erda.projekt
+lang: de
+
+---
 # E.9 🤖 Schema & Promptstruktur für Kooperations-KIs im ERDA Projekt
 
 _**E.9 🤖 Schema & Promptstruktur für Kooperations-KIs im ERDA Projekt**_

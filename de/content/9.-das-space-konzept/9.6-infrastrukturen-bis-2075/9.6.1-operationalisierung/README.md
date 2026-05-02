@@ -1,3 +1,8 @@
+---
+content_id: erda.book.9.das.space.konzept.9.6.infrastrukturen.bis.2075.9.6.1.operationalisierung.readme
+lang: de
+
+---
 # 9.6.1 Operationalisierung
 
 _**Operationalisierung – Strategische Voraussetzungen zur Umsetzung des SOLAR ALLIANCE Rauminfrastrukturen**_

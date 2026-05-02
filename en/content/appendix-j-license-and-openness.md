@@ -1,5 +1,7 @@
 ---
-source: content/anhang-j-lizenz---offenheit.md
+content_id: erda.book.anhang.j.lizenz.offenheit
+lang: en
+source: de/content/anhang-j-lizenz---offenheit.md
 status: draft
 ---
 

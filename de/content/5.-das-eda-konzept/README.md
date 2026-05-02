@@ -1,3 +1,8 @@
+---
+content_id: erda.book.5.das.eda.konzept.readme
+lang: de
+
+---
 # 5. Das EDA Konzept
 
 ***

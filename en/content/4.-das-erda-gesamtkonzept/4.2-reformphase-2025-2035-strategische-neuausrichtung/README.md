@@ -1,5 +1,7 @@
 ---
-source: content/4.-das-erda-gesamtkonzept/4.2-reformphase-2025-2035-strategische-neuausrichtung/README.md
+content_id: erda.book.4.das.erda.gesamtkonzept.4.2.reformphase.2025.2035.strategische.neuausrichtung.readme
+lang: en
+source: de/content/4.-das-erda-gesamtkonzept/4.2-reformphase-2025-2035-strategische-neuausrichtung/README.md
 status: draft
 ---
 

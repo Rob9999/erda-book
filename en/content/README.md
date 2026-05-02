@@ -1,5 +1,7 @@
 ---
-source: content/README.md
+content_id: erda.book.readme
+lang: en
+source: de/content/README.md
 status: draft
 description: >-
   "Strategy, Ethics and Future of Europe – From the democratic constitutional

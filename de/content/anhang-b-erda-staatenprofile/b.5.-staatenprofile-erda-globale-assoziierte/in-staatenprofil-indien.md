@@ -1,4 +1,6 @@
 ---
+content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.in.staatenprofil.indien
+lang: de
 description: "State: IN, Date: 2025-06-11, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "IN"
 date: "2026-01-01"

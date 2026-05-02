@@ -1,3 +1,8 @@
+---
+content_id: erda.book.anhang.j.lizenz.offenheit
+lang: de
+
+---
 # Anhang J: Lizenz & Offenheit
 
 ## J.1 Einleitung

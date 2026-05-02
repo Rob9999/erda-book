@@ -1,5 +1,7 @@
 ---
-source: content/anhang-l-kolophon.md
+content_id: erda.book.anhang.l.kolophon
+lang: en
+source: de/content/anhang-l-kolophon.md
 status: draft
 ---
 

@@ -1,5 +1,7 @@
 ---
-source: content/readme/vorwort.md
+content_id: erda.book.readme.vorwort
+lang: en
+source: de/content/readme/vorwort.md
 status: draft
 ---
 

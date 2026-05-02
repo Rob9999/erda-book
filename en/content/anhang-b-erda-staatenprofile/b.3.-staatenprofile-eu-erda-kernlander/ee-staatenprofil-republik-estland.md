@@ -1,5 +1,7 @@
 ---
-source: content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/ee-staatenprofil-republik-estland.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.ee.staatenprofil.republik.estland
+lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/ee-staatenprofil-republik-estland.md
 status: draft
 description: "State: EE, Date: 2025-06-10, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "EE"

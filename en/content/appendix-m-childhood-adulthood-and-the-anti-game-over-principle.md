@@ -1,3 +1,10 @@
+---
+content_id: erda.book.anhang.m.kindheit.erwachsenwerden.und.das.anti.game.over.prinzip
+lang: en
+source: de/content/anhang-m-kindheit-erwachsenwerden-und-das-anti-game-over-prinzip.md
+status: draft
+
+---
 # Appendix M: Childhood, Adulthood, and the Anti-Game-Over Principle
 
 ## A developmental-philosophical model of prosperative life

@@ -1,3 +1,8 @@
+---
+content_id: erda.book.anhang.h.fehlgeschlagene.machtstrukturen.der.menschheit
+lang: de
+
+---
 # Anhang H: Fehlgeschlagene Machtstrukturen der Menschheit
 
 _**Fehlgeschlagene Machtstrukturen der Menschheit**_

@@ -1,5 +1,7 @@
 ---
-source: content/9.-das-space-konzept/9.6-infrastrukturen-bis-2075/9.6.9-zeitleiste-und-tabellarischer-vergleich/README.md
+content_id: erda.book.9.das.space.konzept.9.6.infrastrukturen.bis.2075.9.6.9.zeitleiste.und.tabellarischer.vergleich.readme
+lang: en
+source: de/content/9.-das-space-konzept/9.6-infrastrukturen-bis-2075/9.6.9-zeitleiste-und-tabellarischer-vergleich/README.md
 status: draft
 ---
 

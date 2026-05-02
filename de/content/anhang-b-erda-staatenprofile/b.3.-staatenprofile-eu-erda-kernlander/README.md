@@ -1,3 +1,8 @@
+---
+content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.readme
+lang: de
+
+---
 # B.3 Staatenprofile (EU/ERDA - Kernländer)
 
 _**Alle ERDA Staatenprofile der Kernländer,**_\

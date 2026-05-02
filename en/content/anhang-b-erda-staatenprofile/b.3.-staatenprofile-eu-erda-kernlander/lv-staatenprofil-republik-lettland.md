@@ -1,5 +1,7 @@
 ---
-source: content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/lv-staatenprofil-republik-lettland.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.lv.staatenprofil.republik.lettland
+lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/lv-staatenprofil-republik-lettland.md
 status: draft
 description: "State: LV, Date: 2025-06-10, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "LV"

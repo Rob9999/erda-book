@@ -1,5 +1,7 @@
 ---
-source: content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/cr-staatenprofil-costa-rica.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.cr.staatenprofil.costa.rica
+lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/cr-staatenprofil-costa-rica.md
 status: draft
 description: "State: CR, Date: 2025-06-12, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "CR"

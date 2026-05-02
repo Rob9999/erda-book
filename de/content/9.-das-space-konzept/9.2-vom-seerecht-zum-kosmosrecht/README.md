@@ -1,3 +1,8 @@
+---
+content_id: erda.book.9.das.space.konzept.9.2.vom.seerecht.zum.kosmosrecht.readme
+lang: de
+
+---
 # 9.2 Vom Seerecht zum Kosmosrecht
 
 _**Vom Seerecht zum Kosmosrecht – Natürliche Verlangen des geordneten Miteinanders und ihre rechtsstaatliche Projektion im All**_

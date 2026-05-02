@@ -1,4 +1,6 @@
 ---
+content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.kr.staatenprofil.sued.korea
+lang: de
 description: "State: KR, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "KR"
 date: "2025-06-10"

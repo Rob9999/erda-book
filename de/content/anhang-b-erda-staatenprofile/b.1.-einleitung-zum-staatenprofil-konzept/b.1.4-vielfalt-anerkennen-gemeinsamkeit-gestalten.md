@@ -1,3 +1,8 @@
+---
+content_id: erda.book.anhang.b.erda.staatenprofile.b.1.einleitung.zum.staatenprofil.konzept.b.1.4.vielfalt.anerkennen.gemeinsamkeit.gestalten
+lang: de
+
+---
 # B.1.4 Vielfalt anerkennen – Gemeinsamkeit gestalten
 
 _**Vielfalt anerkennen – Gemeinsamkeit gestalten**_

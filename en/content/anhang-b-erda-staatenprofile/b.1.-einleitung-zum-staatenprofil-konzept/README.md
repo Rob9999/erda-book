@@ -1,5 +1,7 @@
 ---
-source: content/anhang-b-erda-staatenprofile/b.1.-einleitung-zum-staatenprofil-konzept/README.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.1.einleitung.zum.staatenprofil.konzept.readme
+lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.1.-einleitung-zum-staatenprofil-konzept/README.md
 status: draft
 ---
 

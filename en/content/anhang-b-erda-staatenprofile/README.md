@@ -1,5 +1,7 @@
 ---
-source: content/anhang-b-erda-staatenprofile/README.md
+content_id: erda.book.anhang.b.erda.staatenprofile.readme
+lang: en
+source: de/content/anhang-b-erda-staatenprofile/README.md
 status: draft
 ---
 

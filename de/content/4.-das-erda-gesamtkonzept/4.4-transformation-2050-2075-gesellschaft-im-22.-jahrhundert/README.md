@@ -1,3 +1,8 @@
+---
+content_id: erda.book.4.das.erda.gesamtkonzept.4.4.transformation.2050.2075.gesellschaft.im.22.jahrhundert.readme
+lang: de
+
+---
 # 4.4 Transformation: 2050–2075 - Gesellschaft im 22. Jahrhundert
 
 _**Transformation: 2050–2075 - Gesellschaft im 22. Jahrhundert**_

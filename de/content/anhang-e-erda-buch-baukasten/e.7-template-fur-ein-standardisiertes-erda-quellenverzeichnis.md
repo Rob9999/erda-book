@@ -1,3 +1,8 @@
+---
+content_id: erda.book.anhang.e.erda.buch.baukasten.e.7.template.fur.ein.standardisiertes.erda.quellenverzeichnis
+lang: de
+
+---
 # E.7 🪄 Template für ein standardisiertes ERDA-Quellenverzeichnis
 
 🪄 _**E.7 Template für ein standardisiertes ERDA-Quellenverzeichnis (v1.0)**_

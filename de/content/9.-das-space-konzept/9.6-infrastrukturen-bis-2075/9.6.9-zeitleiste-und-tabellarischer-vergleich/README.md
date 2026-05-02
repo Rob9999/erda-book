@@ -1,3 +1,8 @@
+---
+content_id: erda.book.9.das.space.konzept.9.6.infrastrukturen.bis.2075.9.6.9.zeitleiste.und.tabellarischer.vergleich.readme
+lang: de
+
+---
 # 9.6.9 Zeitleiste und tabellarischer Vergleich
 
 _**Zeitleiste und tabellarischer Vergleich**_

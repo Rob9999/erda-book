@@ -1,3 +1,8 @@
+---
+content_id: erda.book.9.das.space.konzept.9.4.wozu.raumfahrt.strategische.und.zivilisatorische.motive.im.geist.der.erda.readme
+lang: de
+
+---
 # 9.4 Wozu Raumfahrt? – Strategische und zivilisatorische Motive im Geist der ERDA
 
 _**Wozu Raumfahrt? – Strategische und zivilisatorische Motive im Geist der ERDA**_

@@ -1,3 +1,8 @@
+---
+content_id: erda.book.6.das.civitas.konzept.readme
+lang: de
+
+---
 # 6. Das CIVITAS Konzept
 
 _**CIVITAS: Die digitale Agora Europas**_

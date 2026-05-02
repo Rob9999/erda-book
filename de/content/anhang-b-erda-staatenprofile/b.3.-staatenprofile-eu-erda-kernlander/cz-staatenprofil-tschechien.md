@@ -1,4 +1,6 @@
 ---
+content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.cz.staatenprofil.tschechien
+lang: de
 description: "State: CZ, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "CZ"
 date: "2025-06-10"

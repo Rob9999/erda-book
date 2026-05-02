@@ -1,3 +1,8 @@
+---
+content_id: erda.book.anhang.d.executive.compendium.fur.entscheidungstrager.d.1.block.a.strategische.ausgangslage.kapitel.1.3
+lang: de
+
+---
 # D.1 Block A – Strategische Ausgangslage (Kapitel 1–3)
 
 ### 📘 Einleitung – Kapitel 1.1 bis 1.5: Herausforderungen, Chancen, strategischer Imperativ

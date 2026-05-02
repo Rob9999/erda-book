@@ -1,5 +1,7 @@
 ---
-source: content/anhang-b-erda-staatenprofile/b.1.-einleitung-zum-staatenprofil-konzept/b.1.2-modularer-aufbau.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.1.einleitung.zum.staatenprofil.konzept.b.1.2.modularer.aufbau
+lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.1.-einleitung-zum-staatenprofil-konzept/b.1.2-modularer-aufbau.md
 status: draft
 ---
 

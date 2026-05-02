@@ -1,8 +1,8 @@
 # The ERDA Book – Release v2.5.0
 
-**Date:** 2026-03-05 (updated: 2026-03-29)  
-**Tag:** `v2.5.0` (planned)  
-**Codename:** Democratic Knowledge  
+**Date:** 2026-03-05 (updated: 2026-05-02)
+**Tag:** `v2.5.0` (planned)
+**Codename:** Democratic Knowledge
 **Author:** Robert Alexander Massinger (with ChatGPT/OpenAI and GitHub Copilot/Anthropic)
 
 ---
@@ -36,13 +36,22 @@ In addition, this release integrates three conceptual papers as book content: a 
 
 - **README "Contributions and quality":** DE and EN sections rewritten in a professional editorial voice – framing the ERDA Book as a living document of democratic resilience, with structured guidelines (quality standards, binding rules, peer-review principle).
 
+- **Role and approval model:** Writer, Editor, Lektor, Redakteur and Publisher were defined with rights, duties, approval boundaries and a democratic role duty in `worker-roles.md` and anchored in the binding guides.
+
+- **Glossary and mini wording:** Core v2.5 terms were editorially added: Democratic Knowledge, Mosaic Principle, Anti-Game-Over Principle and prosperative life.
+
 ### Technical
 
 - Version bump to v2.5.0-rc1
 - Release documentation in `release-docs/v2.5.0/`
 - Desktop materials in `desktop/misc/`
-- `book.json` date updated to 2026-03-29 (DE + EN)
+- `book.json` date updated to 2026-05-02 (DE + EN)
 - SUMMARY.md updated (DE + EN) with Appendix M entry
+- Root `ATTRIBUTION.md` added as primary source for third-party assets
+- YAML front matter normalised with `content_id`, `lang`, `source` and `status` for DE/EN content files
+- Release metadata gate applied: README date, `book.json`, CFF files and `.zenodo.json` synchronised
+- English Appendix J/L file paths normalised to `appendix-j-license-and-openness.md` and `appendix-l-colophon.md`
+- EN cross-references to Appendix M added in chapters 3.5, 4.3.5 and 11.2
 
 ---
 

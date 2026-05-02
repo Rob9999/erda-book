@@ -1,3 +1,8 @@
+---
+content_id: erda.book.anhang.a.erda.staatenarchitektur.konzentrische.kreise
+lang: de
+
+---
 # Anhang A: ERDA-Staatenarchitektur („Konzentrische Kreise“)
 
 _**ERDA-Staatenarchitektur („Konzentrische Kreise“)**_

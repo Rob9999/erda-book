@@ -1,7 +1,7 @@
 # ERDA Book – Release v2.5.0 Plan
 
-**Status:** in Arbeit (rc1)  
-**Letzte Aktualisierung:** 2026-03-29
+**Status:** in Arbeit (rc1)
+**Letzte Aktualisierung:** 2026-05-02
 
 ---
 
@@ -44,7 +44,7 @@ Release 2.5.0 markiert die **konzeptionelle Vertiefung** des ERDA-Buches. Währe
 | 2 | „Demokratisches Wissen" – Texterstellung DE + EN | ✅ |
 | 3 | Desktop-Ablage (DE + EN) | ✅ |
 | 4 | Paper-Integration (Kindererziehung, Mosaik-Prinzip, Anti-Game-Over) | ✅ |
-| 5 | Redaktionelle Qualitätsprüfung (README, Mini-Wording-Set) | ⏳ |
+| 5 | Redaktionelle Qualitätsprüfung (README, Mini-Wording-Set) | ✅ |
 | 6 | Content-Freeze & Artefakte (PDF/MD) | ⏳ |
 | 7 | Final Review & Tag `v2.5.0` | ⏳ |
 
@@ -54,8 +54,9 @@ Release 2.5.0 markiert die **konzeptionelle Vertiefung** des ERDA-Buches. Währe
 
 - „Demokratisches Wissen" als Desktop-Dokument (`desktop/misc/`) in DE + EN
 - Drei Konzeptpapiere integriert: §11.3.7 + §5.8.4 + Anhang M (DE + EN)
-- Querverweise in Kapiteln 11.2, 3.5, 4.3.5
+- Querverweise in Kapiteln 11.2, 3.5, 4.3.5 (DE + EN)
 - Aktualisierte Versionsnummern und Metadaten (README, book.json, CITATION.cff)
+- Root-Attribution und normalisiertes DE/EN-Frontmatter
 - Release-Dokumentation in `release-docs/v2.5.0/`
 - Aktualisierte Publish-Artefakte (PDF/MD) nach Content-Freeze
 
@@ -70,10 +71,12 @@ Release 2.5.0 markiert die **konzeptionelle Vertiefung** des ERDA-Buches. Währe
 - [x] Paper-Integration: Kindererziehung → §11.3.7 (DE + EN)
 - [x] Paper-Integration: Mosaik-Prinzip → §5.8.4 (DE + EN)
 - [x] Paper-Integration: Anti-Game-Over → Anhang M (DE + EN)
-- [x] Querverweise in Kap. 11.2, 3.5, 4.3.5
+- [x] Querverweise in Kap. 11.2, 3.5, 4.3.5 (DE + EN)
 - [x] SUMMARY.md aktualisiert (DE + EN)
-- [x] book.json-Datum auf 2026-03-29 (DE + EN)
-- [ ] Konsistenzprüfung gegen Mini-Wording-Set
+- [x] book.json-Datum auf 2026-05-02 (DE + EN)
+- [x] Root-`ATTRIBUTION.md` ergänzt
+- [x] Frontmatter DE/EN normalisiert (`content_id`, `lang`, EN `source`, `status`)
+- [x] Konsistenzprüfung gegen Mini-Wording-Set
 - [ ] Content-Review und ggf. Integration als Buchkapitel
 - [ ] Publish-Artefakte (PDF/MD) erneuern
 - [ ] Zertifizierungsprotokoll erstellen

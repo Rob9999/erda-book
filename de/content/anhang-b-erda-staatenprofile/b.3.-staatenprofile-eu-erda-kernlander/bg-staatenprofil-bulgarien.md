@@ -1,4 +1,6 @@
 ---
+content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.bg.staatenprofil.bulgarien
+lang: de
 description: "State: BG, Date: 2025-06-11, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "BG"
 date: "2026-01-01"

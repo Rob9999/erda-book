@@ -1,5 +1,7 @@
 ---
-source: content/9.-das-space-konzept/9.7-gesellschaftliche-dimensionen-der-raumzivilisation/README.md
+content_id: erda.book.9.das.space.konzept.9.7.gesellschaftliche.dimensionen.der.raumzivilisation.readme
+lang: en
+source: de/content/9.-das-space-konzept/9.7-gesellschaftliche-dimensionen-der-raumzivilisation/README.md
 status: draft
 ---
 

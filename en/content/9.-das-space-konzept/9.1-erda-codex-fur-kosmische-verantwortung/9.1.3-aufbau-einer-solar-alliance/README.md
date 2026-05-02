@@ -1,5 +1,7 @@
 ---
-source: content/9.-das-space-konzept/9.1-erda-codex-fur-kosmische-verantwortung/9.1.3-aufbau-einer-solar-alliance/README.md
+content_id: erda.book.9.das.space.konzept.9.1.erda.codex.fur.kosmische.verantwortung.9.1.3.aufbau.einer.solar.alliance.readme
+lang: en
+source: de/content/9.-das-space-konzept/9.1-erda-codex-fur-kosmische-verantwortung/9.1.3-aufbau-einer-solar-alliance/README.md
 status: draft
 ---
 

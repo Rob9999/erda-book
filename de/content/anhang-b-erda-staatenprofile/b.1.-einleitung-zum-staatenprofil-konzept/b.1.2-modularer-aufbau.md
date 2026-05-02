@@ -1,3 +1,8 @@
+---
+content_id: erda.book.anhang.b.erda.staatenprofile.b.1.einleitung.zum.staatenprofil.konzept.b.1.2.modularer.aufbau
+lang: de
+
+---
 # B.1.2 Modularer Aufbau
 
 _**Modularer Aufbau**_

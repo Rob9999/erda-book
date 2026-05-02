@@ -1,7 +1,9 @@
 ---
+content_id: erda.book.13.strategische.souveranitat.werkzeugkoffer.fur.demokratische.sicherheit.readme
+lang: en
+source: de/content/13.-strategische-souveranitat-werkzeugkoffer-fur-demokratische-sicherheit/README.md
+status: in-review
 description: "Chapter 13 – Strategic Sovereignty – Toolbox for Democratic Security"
-source: "../../../de/content/13.-strategische-souveranitat-werkzeugkoffer-fur-demokratische-sicherheit/README.md"
-status: "in-review"
 date: "2026-02-22"
 ---
 

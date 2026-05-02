@@ -1,3 +1,8 @@
+---
+content_id: erda.book.1.aktuelle.lage.europas.herausforderungen.und.chancen.readme
+lang: de
+
+---
 # 1. Aktuelle Lage Europas: Herausforderungen und Chancen
 
 _**Aktuelle Lage Europas: Herausforderungen und Chancen**_

@@ -1,5 +1,7 @@
 ---
-source: content/anhang-e-erda-buch-baukasten/e.6-boxen-template-zitate-praxis-kontraste-visionen.md
+content_id: erda.book.anhang.e.erda.buch.baukasten.e.6.boxen.template.zitate.praxis.kontraste.visionen
+lang: en
+source: de/content/anhang-e-erda-buch-baukasten/e.6-boxen-template-zitate-praxis-kontraste-visionen.md
 status: draft
 ---
 

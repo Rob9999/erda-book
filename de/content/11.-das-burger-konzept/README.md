@@ -1,3 +1,8 @@
+---
+content_id: erda.book.11.das.burger.konzept.readme
+lang: de
+
+---
 # 11. Das Bürger Konzept
 
 Dieses Kapitel bündelt Konzepte, die demokratische Resilienz nicht nur institutionell, sondern **praktisch im Alltag** stärken: über Bildung, Pflichten, Rechte, Anreize, Dienste und Formen der Mitwirkung.

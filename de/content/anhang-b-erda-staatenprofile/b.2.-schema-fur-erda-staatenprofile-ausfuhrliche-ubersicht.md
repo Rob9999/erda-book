@@ -1,3 +1,8 @@
+---
+content_id: erda.book.anhang.b.erda.staatenprofile.b.2.schema.fur.erda.staatenprofile.ausfuhrliche.ubersicht
+lang: de
+
+---
 # B.2. Schema für ERDA-Staatenprofile (v5, technisches Muster-Template)
 
 _**Technisches Muster-Template für ERDA-Staatenprofile (v5)**_

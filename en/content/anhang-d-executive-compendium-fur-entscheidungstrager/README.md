@@ -1,5 +1,7 @@
 ---
-source: content/anhang-d-executive-compendium-fur-entscheidungstrager/README.md
+content_id: erda.book.anhang.d.executive.compendium.fur.entscheidungstrager.readme
+lang: en
+source: de/content/anhang-d-executive-compendium-fur-entscheidungstrager/README.md
 status: draft
 ---
 

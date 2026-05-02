@@ -6,7 +6,7 @@
 > **Purpose:** This file lists **all** files that must be updated on a version change.
 > Used as a binding checklist for every release.
 
-**Letzte Aktualisierung / Last updated:** 2026-03-05 (v2.5.0-rc1)
+**Letzte Aktualisierung / Last updated:** 2026-05-02 (frontmatter + release metadata gates)
 
 ---
 
@@ -41,6 +41,22 @@
 
 ---
 
+## 2a. Release-Beschreibungen / Release descriptions
+
+Die Release Notes sind die verlässliche Basis für alle Release-Inhaltsbeschreibungen. Kürzere Fassungen sind zulässig, dürfen aber keine abweichenden Behauptungen, Daten oder Scope-Angaben enthalten.
+
+The release notes are the reliable basis for all release content descriptions. Shorter versions are allowed, but must not introduce different claims, dates or scope.
+
+| # | Datei / File | Prüfung / Check |
+|---|---|---|
+| 17a | `release-docs/v{X.Y.Z}/release-notes-v{X.Y.Z}.md` | DE-Releasebeschreibung vollständig und aktuell / DE release description complete and current |
+| 17b | `release-docs/v{X.Y.Z}/release-notes-v{X.Y.Z}-en.md` | EN-Releasebeschreibung synchron zur DE-Fassung / EN release description aligned with DE |
+| 17c | `README.md` | Releaseabschnitte DE+EN sind Kurzfassungen der Release Notes / release sections are faithful summaries of release notes |
+| 17d | `.zenodo.json` | `description`, `keywords`, `version` aus Release Notes abgeleitet / derived from release notes |
+| 17e | `CITATION.cff`, `de/CITATION.cff`, `en/CITATION.cff`, `de/publish/CITATION.cff`, `en/publish/CITATION.cff` | Abstracts nur bei geänderter Release-Scope anpassen / update abstracts when release scope changed |
+
+---
+
 ## 3. Bedingte Aktualisierungen / Conditional updates
 
 Diese Dateien müssen nur aktualisiert werden, wenn sich der jeweilige Inhalt ändert:
@@ -56,7 +72,27 @@ Diese Dateien müssen nur aktualisiert werden, wenn sich der jeweilige Inhalt ä
 
 ---
 
+## 3a. Frontmatter- und Übersetzungszuordnung / Front matter and translation mapping
+
+| # | Bereich / Area | Pflichtprüfung / Required check |
+|---|---|---|
+| 23a | `de/content/**/*.md` | Buchinhaltsdateien haben GitBook-kompatibles YAML-Frontmatter mit `content_id` und `lang: de` (ausgenommen Sonderdateien wie `SUMMARY.md`) |
+| 23b | `en/content/**/*.md` | Übersetzungen haben YAML-Frontmatter mit `content_id`, `lang: en`, `source`, `status` |
+| 23c | `en/content/**/*.md` | `source` verweist repo-relativ auf existierende Datei unter `de/content/` |
+| 23d | DE↔EN | `content_id` ist sprachübergreifend identisch und bleibt stabil bei Dateiumbenennungen |
+| 23e | EN-Review | `status: approved` nur bei expliziter Writer-/Redaktionsfreigabe |
+
+---
+
 ## 4. Artefakte (nach Content-Freeze) / Artifacts (post content-freeze)
+
+Vor der Artefakt-Erzeugung müssen Datumsfelder, Versionen, Release-Beschreibungen und Übersetzungszuordnung konsistent sein. Lokale Preview-Builds dürfen prüfen, aber sollen Release-Metadaten nicht automatisch verändern.
+
+Zusätzlich müssen Redakteur-Releasebereitschaft und Publisher-Buildverantwortung gemäß `worker-roles.md` geklärt sein.
+
+Before artifact generation, dates, versions, release descriptions and translation mapping must be consistent. Local preview builds may validate but should not automatically mutate release metadata.
+
+In addition, Redakteur release readiness and Publisher build responsibility must be clear according to `worker-roles.md`.
 
 | # | Datei / File | Aktion / Action |
 |---|---|---|

@@ -1,3 +1,8 @@
+---
+content_id: erda.book.9.das.space.konzept.readme
+lang: de
+
+---
 # 9. Das SPACE Konzept
 
 _**Das SPACE Konzept**_\

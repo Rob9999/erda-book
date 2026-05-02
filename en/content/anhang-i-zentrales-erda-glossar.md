@@ -1,6 +1,8 @@
 ---
-source: content/anhang-i-zentrales-erda-glossar.md
-status: "in-review"
+content_id: erda.book.anhang.i.zentrales.erda.glossar
+lang: en
+source: de/content/anhang-i-zentrales-erda-glossar.md
+status: in-review
 ---
 
 # Appendix I: Central ERDA Glossary
@@ -53,3 +55,7 @@ This glossary brings together the key terms used in the ERDA book. It serves as 
 | **EDDRC**                                    | European Democratic Defence & Resilience Club – institutional club architecture with a council, assembly, audit body (ACI) and tribunal for democratic alliance cooperation (Chapter 14).                                        |
 | **Democracy chain**                          | Four-stage safeguard system (suffrage → fundamental rights → separation of powers → ombuds bodies) that ensures no member of a coalition falls below democratic minimum thresholds (Chapter 14).                                 |
 | **Tier model (Tier 0–9)**                    | Flexible integration model for democratic coalitions: from observer status (Tier 0) to federal membership (Tier 9), with clear KPIs for upgrades and downgrades (Chapter 14).                                                   |
+| **Democratic Knowledge**                     | Seven principles of democratic agency concerning power, dealings with non-democracy-willing states, peace and security, truth and deception, democracy, technology/AI and the inner constitution of a democratic society.           |
+| **Mosaic Principle**                         | Strategic architecture of distributed, modular and redundantly connected capabilities; in the ERDA context bound by the rule of law and oriented toward democratic DSN resilience rather than authoritarian warfare.              |
+| **Anti-Game-Over Principle**                 | Developmental-philosophical principle according to which democratic systems should avoid irreversible life failures, learning failures and future blockages, keeping paths for renewed development open.                         |
+| **Prosperative life**                        | Guiding term for a flourishing, learning-capable and resilient life that connects security, freedom, responsibility, joy, education and open development opportunities.                                                          |

@@ -1,3 +1,8 @@
+---
+content_id: erda.book.anhang.e.erda.buch.baukasten.e.8.rollenspiel.qualitatssicherungstemplate
+lang: de
+
+---
 # E.8 🪄 Rollenspiel Qualitätssicherungstemplate
 
 _**E.8 🪄 Rollenspiel Qualitätssicherungstemplate**_

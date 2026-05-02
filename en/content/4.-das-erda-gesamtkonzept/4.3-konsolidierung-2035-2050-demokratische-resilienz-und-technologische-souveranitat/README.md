@@ -1,5 +1,7 @@
 ---
-source: content/4.-das-erda-gesamtkonzept/4.3-konsolidierung-2035-2050-demokratische-resilienz-und-technologische-souveranitat/README.md
+content_id: erda.book.4.das.erda.gesamtkonzept.4.3.konsolidierung.2035.2050.demokratische.resilienz.und.technologische.souveranitat.readme
+lang: en
+source: de/content/4.-das-erda-gesamtkonzept/4.3-konsolidierung-2035-2050-demokratische-resilienz-und-technologische-souveranitat/README.md
 status: draft
 ---
 

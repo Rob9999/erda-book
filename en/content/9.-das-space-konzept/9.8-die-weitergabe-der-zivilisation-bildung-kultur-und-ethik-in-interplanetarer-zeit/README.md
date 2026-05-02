@@ -1,5 +1,7 @@
 ---
-source: ../../../../content/9.-das-space-konzept/9.8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit/README.md
+content_id: erda.book.9.das.space.konzept.9.8.die.weitergabe.der.zivilisation.bildung.kultur.und.ethik.in.interplanetarer.zeit.readme
+lang: en
+source: de/content/9.-das-space-konzept/9.8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit/README.md
 status: draft
 ---
 

@@ -1,3 +1,8 @@
+---
+content_id: erda.book.9.das.space.konzept.9.6.infrastrukturen.bis.2075.9.6.2.hier.die.mogliche.losung.readme
+lang: de
+
+---
 # 9.6.2 Hier die mögliche Lösung
 
 _**Hier die mögliche Lösung**_

@@ -1,3 +1,8 @@
+---
+content_id: erda.book.anhang.g.risikobetrachtung.und.strategische.resilienz.der.erda.initiative
+lang: de
+
+---
 # Anhang G: Risikobetrachtung und strategische Resilienz der ERDA-Initiative
 
 _**Risikobetrachtung und strategische Resilienz der ERDA-Initiative**_

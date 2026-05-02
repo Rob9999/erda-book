@@ -1,5 +1,7 @@
 ---
-source: content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/rs-staatenprofil-serbien.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.rs.staatenprofil.serbien
+lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/rs-staatenprofil-serbien.md
 status: draft
 description: "State: RS, Date: 2025-06-10, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "RS"

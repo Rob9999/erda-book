@@ -1,5 +1,7 @@
 ---
-source: content/anhang-b-erda-staatenprofile/b.2.-schema-fur-erda-staatenprofile-ausfuhrliche-ubersicht.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.2.schema.fur.erda.staatenprofile.ausfuhrliche.ubersicht
+lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.2.-schema-fur-erda-staatenprofile-ausfuhrliche-ubersicht.md
 status: draft
 ---
 
