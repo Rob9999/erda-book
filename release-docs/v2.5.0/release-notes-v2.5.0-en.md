@@ -1,6 +1,6 @@
 # The ERDA Book – Release v2.5.0
 
-**Date:** 2026-03-05 (updated: 2026-05-02)
+**Date:** 2026-03-05 (updated: 2026-05-03)
 **Tag:** `v2.5.0` (planned)
 **Codename:** Democratic Knowledge
 **Author:** Robert Alexander Massinger (with ChatGPT/OpenAI and GitHub Copilot/Anthropic)
@@ -38,6 +38,8 @@ In addition, this release integrates three conceptual papers as book content: a 
 
 - **Role and approval model:** Writer, Editor, Lektor, Redakteur and Publisher were defined with rights, duties, approval boundaries and a democratic role duty in `worker-roles.md` and anchored in the binding guides.
 
+- **Ethics before strategy:** A worker-roles pass strengthens chapters 2, 3, 11, 12 and Appendix H ethically and morally, then strategically sharpens chapters 5, 13, 14 and Appendix D. New glossary terms include democracy of mature citizens, we are the state, democratic alliance reliability, the Ukraine-first principle and anti-veto.
+
 - **Glossary and mini wording:** Core v2.5 terms were editorially added: Democratic Knowledge, Mosaic Principle, Anti-Game-Over Principle and prosperative life.
 
 ### Technical
@@ -45,7 +47,7 @@ In addition, this release integrates three conceptual papers as book content: a 
 - Version bump to v2.5.0-rc1
 - Release documentation in `release-docs/v2.5.0/`
 - Desktop materials in `desktop/misc/`
-- `book.json` date updated to 2026-05-02 (DE + EN)
+- `book.json` date updated to 2026-05-03 (DE + EN)
 - SUMMARY.md updated (DE + EN) with Appendix M entry
 - Root `ATTRIBUTION.md` added as primary source for third-party assets
 - YAML front matter normalised with `content_id`, `lang`, `source` and `status` for DE/EN content files

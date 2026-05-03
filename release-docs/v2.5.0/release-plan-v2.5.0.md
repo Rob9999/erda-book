@@ -1,7 +1,7 @@
 # ERDA Book – Release v2.5.0 Plan
 
 **Status:** in Arbeit (rc1)
-**Letzte Aktualisierung:** 2026-05-02
+**Letzte Aktualisierung:** 2026-05-03
 
 ---
 
@@ -22,6 +22,7 @@ Release 2.5.0 markiert die **konzeptionelle Vertiefung** des ERDA-Buches. Währe
 3. **Redaktionelle Qualitätsoffensive**
    - Überarbeitung der README-Abschnitte „Beiträge und Qualität" (DE + EN) im professionellen redaktionellen Ton (bereits umgesetzt in v2.0.0-Nacharbeiten).
    - Konsistenzprüfung aller Kapitel gegen das Mini-Wording-Set.
+   - Worker-Roles-Durchgang „Ethik vor Strategie": ethisch-moralische Stärkung der Kapitel 2, 3, 11, 12 und Anhang H; anschließende strategische Nachschärfung der Kapitel 5, 13, 14 und Anhang D.
 
 4. **Desktop-Materialien**
    - Eigenständige Kurzformen für schnelle Kommunikation (Flyer, Vorträge, Social-Media-Referenz).
@@ -56,6 +57,7 @@ Release 2.5.0 markiert die **konzeptionelle Vertiefung** des ERDA-Buches. Währe
 - Drei Konzeptpapiere integriert: §11.3.7 + §5.8.4 + Anhang M (DE + EN)
 - Querverweise in Kapiteln 11.2, 3.5, 4.3.5 (DE + EN)
 - Aktualisierte Versionsnummern und Metadaten (README, book.json, CITATION.cff)
+- Rollenbasierte Ethik-vor-Strategie-Integration (DE + EN) inklusive Glossar- und Anhang-K-Dokumentation
 - Root-Attribution und normalisiertes DE/EN-Frontmatter
 - Release-Dokumentation in `release-docs/v2.5.0/`
 - Aktualisierte Publish-Artefakte (PDF/MD) nach Content-Freeze
@@ -73,10 +75,11 @@ Release 2.5.0 markiert die **konzeptionelle Vertiefung** des ERDA-Buches. Währe
 - [x] Paper-Integration: Anti-Game-Over → Anhang M (DE + EN)
 - [x] Querverweise in Kap. 11.2, 3.5, 4.3.5 (DE + EN)
 - [x] SUMMARY.md aktualisiert (DE + EN)
-- [x] book.json-Datum auf 2026-05-02 (DE + EN)
+- [x] book.json-Datum auf 2026-05-03 (DE + EN)
 - [x] Root-`ATTRIBUTION.md` ergänzt
 - [x] Frontmatter DE/EN normalisiert (`content_id`, `lang`, EN `source`, `status`)
 - [x] Konsistenzprüfung gegen Mini-Wording-Set
+- [x] Worker-Roles-Durchgang „Ethik vor Strategie“ integriert (DE + EN)
 - [ ] Content-Review und ggf. Integration als Buchkapitel
 - [ ] Publish-Artefakte (PDF/MD) erneuern
 - [ ] Zertifizierungsprotokoll erstellen

@@ -3,7 +3,7 @@ content_id: erda.book.anhang.k.qualitatssicherung
 lang: en
 source: de/content/anhang-k-qualitatssicherung.md
 status: draft
-description: 'Quality assurance: initial assessment 2025-06-07 and role-based ethical-strategic extension 2026-05-02'
+description: 'Quality assurance: initial assessment 2025-06-07, role-based ethical-strategic extension 2026-05-02 and implementation 2026-05-03'
 ---
 
 # Appendix K: Quality Assurance
@@ -117,7 +117,7 @@ The extension strengthens the book in the following areas:
 2. **Force:** strategic demands receive a moral foundation and therefore appear more determined, not merely technical.
 3. **Coherence:** chapters 2, 3, 11 and 12 can more visibly explain why chapters 5, 13 and 14 are necessary.
 4. **Resilience against critique:** sweeping claims, day-to-day polemics and unclear power concepts are reduced through role, Kantian and language review.
-5. **Translatability:** terms such as “Democracy of Mature Citizens”, “We are the state” and “Democratic alliance reliability” can be checked before canonisation and handled consistently across DE/EN.
+5. **Translatability:** terms such as “Democracy of mature citizens”, “We are the state” and “Democratic alliance reliability” can be checked before canonisation and handled consistently across DE/EN.
 6. **Release readiness:** Redakteur and Publisher receive clearer criteria for when ethically sensitive strategic content must remain `draft` or `in-review`.
 
 ##### Editorial action plan
@@ -127,6 +127,21 @@ The extension strengthens the book in the following areas:
 3. **Strategic pass:** after ethical strengthening, review chapters 5, 13, 14 and Appendix D for capacity to act, alliance logic and source status.
 4. **DE/EN synchronisation:** every book integration is reflected bilingually; unapproved translations remain `draft` or `in-review`.
 5. **Documentation:** deviations, open approvals and sensitive political terms are made transparent in review notes or release materials.
+
+#### Fourth round: Implementation according to worker roles (2026-05-03)
+
+The action plan was implemented as a role-based editorial pass: ethical legitimacy bridges were strengthened first, and the strategic chapters were sharpened afterwards. The working roles were applied as follows:
+
+| Role | Implemented contribution |
+|---|---|
+| **Writer** | Condensed the positive core thesis: ERDA is a project of protection, dignity, freedom and responsibility, not a power project. |
+| **Editor** | Implemented the sequence: chapters 2, 3, 11, 12 and Appendix H ground the strategy in chapters 5, 13, 14 and Appendix D. |
+| **Lektor** | Avoided sweeping or overheated day-to-day political wording and secured the line “criticise power logics, do not dehumanise people”. |
+| **Redakteur** | Synchronised DE/EN, added the new terms to the glossary and did not raise translation status to `approved` without approval. |
+
+**Ethically and morally integrated:** democracy of mature citizens, freedom plus responsibility plus judgement, Kantian non-instrumentalisation, civic duty without blind overburdening, “we are the state” as a responsibility formula, and the moral test for failed power.
+
+**Strategically sharpened:** EDA/EVA as democratic protective architecture, strategic sovereignty as practical responsibility, democratic alliance reliability, partnership without single-point dependency, the Ukraine-first principle and anti-veto as decision-making capacity while preserving minority protection.
 
 #### Final verdict
 

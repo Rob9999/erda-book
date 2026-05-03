@@ -6,7 +6,7 @@
 > **Purpose:** This file lists **all** files that must be updated on a version change.
 > Used as a binding checklist for every release.
 
-**Letzte Aktualisierung / Last updated:** 2026-05-02 (frontmatter + release metadata gates)
+**Letzte Aktualisierung / Last updated:** 2026-05-03 (ethics-first worker-roles pass + release metadata gates)
 
 ---
 

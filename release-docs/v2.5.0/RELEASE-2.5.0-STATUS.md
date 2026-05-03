@@ -1,7 +1,7 @@
 # Release v2.5.0 – Status
 
 **Codename:** Democratic Knowledge
-**Stand:** 2026-05-02
+**Stand:** 2026-05-03
 **Phase:** RC1 (Release Candidate 1)
 
 ---
@@ -28,6 +28,7 @@
 | 16 | Root-Attribution + Metadaten-Gate | ✅ | `ATTRIBUTION.md`, README/book/CFF/Zenodo synchronisiert |
 | 17 | Frontmatter-Normalisierung | ✅ | DE/EN `content_id`, `lang`, EN `source`, `status` |
 | 18 | EN-Querverweise Appendix M | ✅ | Kapitel 3.5, 4.3.5 und 11.2 ergänzt |
+| 19 | Worker-Roles-Durchgang „Ethik vor Strategie“ | ✅ | Kapitel 2/3/11/12/H/I ethisch gestärkt, Kapitel 5/13/14/D/I strategisch nachgeschärft |
 
 ---
 
@@ -56,3 +57,4 @@
 - [x] YAML-Frontmatter DE/EN normalisiert
 - [x] EN-Querverweise auf Anhang/Appendix M ergänzt
 - [x] Glossar + Mini-Wording-Set um v2.5-Begriffe erweitert
+- [x] Worker-Roles-Durchgang „Ethik vor Strategie“ zweisprachig integriert

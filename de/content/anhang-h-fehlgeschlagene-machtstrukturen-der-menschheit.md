@@ -11,6 +11,12 @@ _**Fehlgeschlagene Machtstrukturen der Menschheit**_
 
 Die menschliche Geschichte zeigt eine Vielzahl politischer und sozialer Machtstrukturen, deren Existenz sich immer wieder daran messen lassen muss, ob sie dem elementaren Ziel des Lebens dienen: dem Leben selbst. Leben zu ermöglichen, zu fördern und zu schützen, ist ethisch grundlegend und evolutiv selbstverständlich. Umgekehrt gilt daher: Strukturen, die Leben schädigen oder gar vernichten, sind notwendigerweise gescheitert, da sie gegen den ureigensten Sinn der Existenz verstoßen. Der nachfolgende Essay erläutert diese lebensschädlichen Machtstrukturen, stellt sie übersichtlich in einer Tabelle dar, und nennt mögliche Maßnahmen zur kurz- und langfristigen Überwindung.
 
+### H.1.1 Moralischer Prüfstein fehlgeschlagener Macht
+
+Eine Machtstruktur scheitert nicht erst, wenn sie militärisch verliert oder ökonomisch ineffizient wird. Sie scheitert moralisch, sobald sie Menschen systematisch zu bloßen Mitteln macht: zu Untertanen, Arbeitskörpern, Datenpunkten, Rekruten, Feindbildern, Geiseln, Zuschauern oder austauschbaren Kostenstellen. Der demokratische Gegenentwurf bindet Macht an Recht, Wahrheit, Rechenschaft und Menschenwürde. Er schützt Schwache nicht aus Sentimentalität, sondern weil der Umgang mit den Verletzlichsten zeigt, ob eine Ordnung Freiheit wirklich ernst nimmt.
+
+Die Kritik dieses Anhangs richtet sich deshalb gegen Machtlogiken, nicht gegen ganze Bevölkerungen. Imperiale, autoritäre oder terroristische Systeme können Menschen zugleich zu Werkzeugen, Mitläufer:innen und Opfern machen. ERDA muss diese Unterscheidung bewahren: klare Abwehr lebensfeindlicher Strukturen, aber keine Entmenschlichung der Menschen, die in ihnen leben.
+
 ## H.2 Übersicht zentraler Machtstrukturen
 
 | Machtstruktur          | Kurzbeschreibung                                     | Aktuelle Beispiele (2025)                             | Maßnahmen zur Abhilfe                                                                                                     |

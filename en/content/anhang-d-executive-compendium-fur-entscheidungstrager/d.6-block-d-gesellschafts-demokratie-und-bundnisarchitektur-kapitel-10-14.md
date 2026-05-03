@@ -50,6 +50,7 @@ Strengthening civic resilience through an integrated duty model that balances ri
 #### 🧭 Key messages
 
 * Democracy needs active citizens – not just voters, but co-creators.
+* **Democracy of mature citizens** connects freedom, responsibility and judgement: civic duty must never become blind overburdening, but must be tiered according to capacity, role and reasonableness.
 * The **civic duty model** connects social security with civic engagement, adaptive conscription and resilience education.
 * The **demographic imperative** requires technological mobilisation to compensate for shrinking populations.
 * Civic resilience is the foundation of all other ERDA concepts – without an active civil society every structure fails.
@@ -64,6 +65,7 @@ Strengthening civic resilience through an integrated duty model that balances ri
 #### ⚠️ Risks
 
 * A duty model's compulsory character may provoke resistance.
+* Civic duty loses legitimacy when it treats people as mere resources of the state rather than as free co-bearers of democratic responsibility.
 * Demographic downward spirals if the response is too slow.
 * Digital exclusion of vulnerable population groups.
 
@@ -84,6 +86,7 @@ Formulation of fundamental transformation rules for 21st-century social democrac
 #### 🧭 Key messages
 
 * The **Seven Transformation Rules of Social Democracy** form the normative scaffold for every democratic renewal.
+* The rules are democratic rules of action: human dignity, minority protection, objection and protection of the weak limit every means-end optimisation.
 * Democracy is not a state but an evolutionary process requiring active care, institutional learning and self-correction.
 * Role-play and simulation as methods for democratic quality assurance – stress tests for institutions.
 
@@ -114,9 +117,11 @@ Provision of concrete strategic instruments to safeguard Europe's capacity to ac
 #### 🧭 Key messages
 
 * **Self-deterrence** is Europe's greatest weakness – the fear of one's own action paralyses more than the threat itself.
+* Strategic sovereignty is legitimate when it protects the weak, limits violence, strengthens attacked democracies and does not reward aggression.
 * Defence capability requires **industrial mass** (attrition beats perfection), air defence and redundant infrastructure.
 * Financial capacity to act demands unblocking of EU funds, veto resilience and innovative financing instruments.
 * Technological sovereignty and energy decentralisation are survival issues, not luxury projects.
+* Democratic alliance reliability requires partnership without single-point dependency: trust needs constitution, accountability and the capacity to act.
 * Hybrid defence (disinformation, sabotage, reflexive control) must be organised as a permanent front.
 
 #### 🛠 Measures
@@ -149,6 +154,7 @@ Design of a concrete institutional and treaty architecture for democratic coalit
 #### 🧭 Key messages
 
 * **Coalitions of the willing** overcome veto paralysis: those who wish to advance shall be able to do so.
+* **Anti-veto** preserves minority protection while preventing individual actors from blocking common security or funding without a viable alternative.
 * The **tier model (Tier 0–9)** enables flexible integration from observer to federal member.
 * The **club architecture EDDRC** (European Democratic Defence & Resilience Club) provides organs, voting rules and budget mechanisms.
 * The **democracy chain** (suffrage, fundamental rights, separation of powers, ombuds) ensures that no member falls below democratic thresholds.

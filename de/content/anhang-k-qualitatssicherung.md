@@ -1,7 +1,7 @@
 ---
 content_id: erda.book.anhang.k.qualitatssicherung
 lang: de
-description: 'Qualitätssicherung: Erstbewertung 2025-06-07 und rollenbasierte ethisch-strategische Erweiterung 2026-05-02'
+description: 'Qualitätssicherung: Erstbewertung 2025-06-07, rollenbasierte ethisch-strategische Erweiterung 2026-05-02 und Umsetzung 2026-05-03'
 ---
 
 # Anhang K: Qualitätssicherung
@@ -125,6 +125,21 @@ Die Erweiterung stärkt das Buch in folgenden Punkten:
 3. **Strategischer Durchgang:** Kapitel 5, 13, 14 und Anhang D nach ethischer Stärkung auf Handlungsfähigkeit, Bündnislogik und Quellenlage prüfen.
 4. **DE/EN-Synchronisation:** Jede Buchintegration wird zweisprachig nachgeführt; unfreigegebene Übersetzungen bleiben `draft` oder `in-review`.
 5. **Dokumentation:** Abweichungen, offene Freigaben und sensible politische Begriffe werden in Review-Notizen oder Release-Unterlagen transparent gemacht.
+
+#### Vierte Runde: Umsetzung nach Worker-Roles (2026-05-03)
+
+Der Maßnahmenplan wurde als rollenbasierter Redaktionsdurchgang umgesetzt: Zuerst wurden ethische Legitimationsbrücken gestärkt, danach die strategischen Kapitel nachgeschärft. Die Arbeitsrollen wurden dabei wie folgt angewendet:
+
+| Rolle | Umgesetzter Beitrag |
+|---|---|
+| **Writer** | Hat die positive Kernthese verdichtet: ERDA ist Schutz-, Würde-, Freiheits- und Verantwortungsprojekt, kein Machtprojekt. |
+| **Editor** | Hat die Staffelung umgesetzt: Kapitel 2, 3, 11, 12 und Anhang H begründen die Strategie in Kapitel 5, 13, 14 und Anhang D. |
+| **Lektor** | Hat pauschalisierende oder tagespolitisch überhitzte Formulierungen vermieden und die Linie „Machtlogiken kritisieren, Menschen nicht entmenschlichen“ abgesichert. |
+| **Redakteur** | Hat DE/EN synchronisiert, neue Begriffe im Glossar geführt und Übersetzungsstatus nicht ohne Freigabe auf `approved` gesetzt. |
+
+**Ethisch-moralisch integriert:** Demokratie der Mündigen, Freiheit plus Verantwortung plus Urteilskraft, kantische Nicht-Instrumentalisierung, Bürgerpflicht ohne blinde Überforderung, „Wir sind der Staat“ als Verantwortungsformel sowie der moralische Prüfstein fehlgeschlagener Macht.
+
+**Strategisch nachgeschärft:** EDA/EVA als demokratische Schutzarchitektur, strategische Souveränität als praktische Verantwortung, demokratische Bündnisverlässlichkeit, Partnerschaft ohne Einpunkt-Abhängigkeit, Ukraine-First-Prinzip und Anti-Veto als Entscheidungsfähigkeit bei fortbestehendem Minderheitenschutz.
 
 #### Abschließendes Urteil
 

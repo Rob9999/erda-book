@@ -16,6 +16,7 @@ Build a democratically legitimised defence architecture that secures Europe’s 
 #### 🧭 Key messages
 
 - Security must no longer be outsourced – the EDA forms the strategic backbone of a sovereign ERDA.
+- The EDA/EVA is a democratic protective architecture, not a power project: limitation of violence, human dignity, parliamentary control and alliance reliability are its conditions of legitimacy.
 - Defence is understood holistically: physical infrastructure, cyberspace, orbit and civil society interlock.
 - Nuclear reassurance remains under European control and democratic oversight.
 
@@ -29,6 +30,7 @@ Build a democratically legitimised defence architecture that secures Europe’s 
 #### ⚠️ Risks
 
 - Persistent dependence on external protectors and loss of geostrategic credibility.
+- Single-point dependency on individual partners, platforms or political switches can turn alliance trust into blackmailability.
 - Fragmentation via national solo efforts or insufficient democratic control.
 - Vulnerability to hybrid, orbital and cyber-based attacks.
 
