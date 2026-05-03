@@ -37,6 +37,8 @@ Dieses Kapitel skizziert die zentrale Transformationsphase der EU hin zu einer h
 * **Globale Demokratien als strategische Partner.**\
   Demokratische Staaten in Lateinamerika, Asien, Afrika und Ozeanien werden nicht nur eingeladen, sondern aktiv in Sicherheits- und Innovationspartnerschaften eingebunden.
 
+![Reformphase als gestaffelter Aufbau von Institutionen, Schutzarchitektur und demokratischer Legitimation](../../.gitbook/assets/erda-reformpfad-2025-2035.svg)
+
 ***
 
 #### 🧩 Mechanik: Aus der Konföderationsfalle heraus („Pragmatic Federalism“)

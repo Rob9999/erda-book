@@ -39,6 +39,8 @@ This chapter outlines the central transformation phase of the EU towards a capab
 * **Global democracies as strategic partners.**  
   Democratic states in Latin America, Asia, Africa and Oceania are not only invited but actively integrated into security and innovation partnerships.
 
+![The reform phase as a staged build-up of institutions, protective architecture and democratic legitimacy](../../.gitbook/assets/erda-reform-path-2025-2035.svg)
+
 ***
 
 #### 🧩 Mechanism: Escaping the confederation trap (“Pragmatic Federalism”)

@@ -62,6 +62,6 @@ publish:
     mono_font: DejaVu Sans Mono
     mainfont_fallback: Twemoji Mozilla:mode=harf; ERDA CC-BY CJK:mode=harf
   assets:
-  - path: ./.gitbook/assets
+  - path: ./content/.gitbook/assets
     type: images
     copy_to_output: true
