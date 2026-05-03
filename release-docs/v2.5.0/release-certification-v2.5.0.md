@@ -1,0 +1,158 @@
+# Zertifizierungsprotokoll v2.5.0 (Draft)
+
+**Release:** v2.5.0  
+**Release name:** Democratic Knowledge  
+**Stand:** 2026-05-03  
+**Status:** Draft, nicht freigegeben  
+**Zuständige Rolle:** Redakteur:in  
+**Mitwirkende Rollen:** Writer, Editor, Lektor, Native gb-en Translator, Publisher
+
+---
+
+## 1. Zertifizierungsentscheidung
+
+| Feld | Eintrag |
+|---|---|
+| Entscheidung | offen |
+| Entscheidung am | offen |
+| Entscheidung durch Rolle | Redakteur:in |
+| Freigabeumfang | offen |
+| Restrisiken akzeptiert | offen |
+| Tag-Freigabe `v2.5.0` | offen |
+
+Kurzbegründung:
+
+> Draft. Die finale Begründung wird nach Abschluss der Release-Gates eingetragen.
+
+---
+
+## 2. Release-Identität und Metadaten
+
+| Prüfung | Ergebnis | Nachweis | Bemerkung |
+|---|---|---|---|
+| Version final `v2.5.0` | offen | | |
+| Releasedatum konsistent | offen | | |
+| README, book.json, CFF, Zenodo synchron | offen | | |
+| Release Notes final | offen | | |
+| Release History final | offen | | |
+| Channel-/Branch-Aussage konsistent | offen | | |
+
+---
+
+## 3. Technische Gates
+
+| Prüfung | Ergebnis | Nachweis | Bemerkung |
+|---|---|---|---|
+| Git-Status sauber und synchron | offen | | |
+| `git diff --check` sauber | offen | | |
+| Frontmatter-Gate DE/EN bestanden | offen | | |
+| Keine Content-Keys `lang`, `language`, `lang-version` | offen | | |
+| Rollen-/Tooling-Dokumentation auf `content_lang` geprüft | offen | | |
+
+---
+
+## 4. Quality-Tools des gitbook_worker
+
+| Tool | Testmodus | Ergebnis | Brauchbarkeit | Nachweis |
+|---|---|---|---|---|
+| `gitbook_worker.tools.quality.link_audit` | offen | offen | offen | |
+| `gitbook_worker.tools.quality.sources` | offen | offen | offen | |
+| `gitbook_worker.tools.quality.ai_references` | offen | offen | offen | |
+| `gitbook_worker.tools.quality.staatenprofil_links` | offen | offen | offen | |
+
+Bewertung:
+
+> Draft. Die Tools werden zunächst praktisch getestet. AI-gestützte Ergebnisse gelten nur als Hinweis und benötigen redaktionelle Prüfung.
+
+---
+
+## 5. Quellen- und Referenzaktualität
+
+| Prüfung | Ergebnis | Nachweis | Bemerkung |
+|---|---|---|---|
+| Quellenabschnitte DE extrahiert | offen | | |
+| Quellenabschnitte EN extrahiert | offen | | |
+| Externe Links geprüft | offen | | |
+| Lokale Bilder/Medien geprüft | offen | | |
+| Risikobehaftete Zahlen/Aussagen geprüft | offen | | |
+| Offene Quellenfragen dokumentiert | offen | | |
+
+Besonders zu prüfen:
+
+- EU-, NATO-, Ukraine-, Sicherheits- und Finanzierungszahlen
+- Jahreszahlen, Datumsangaben und Roadmap-Zeiträume
+- Aussagen mit direktem Bezug auf aktuelle Programme, Verträge, Institutionen oder politische Beschlüsse
+
+---
+
+## 6. Inhaltliche Prüfung DE
+
+| Prüfung | Ergebnis | Nachweis | Bemerkung |
+|---|---|---|---|
+| DE-Haupttext final geprüft | offen | | |
+| Neue v2.5-Inhalte integriert und plausibel | offen | | |
+| Querverweise und SUMMARY geprüft | offen | | |
+| Glossar und Mini-Wording-Set konsistent | offen | | |
+| Ethik-vor-Strategie-Pass redaktionell abgenommen | offen | | |
+| Keine offenen Arbeitsmarker in Release-Inhalten | offen | | |
+
+---
+
+## 7. EN-Übersetzungsprüfung
+
+| Prüfung | Ergebnis | Nachweis | Bemerkung |
+|---|---|---|---|
+| Rolle `Native gb-en Translator` angewendet | offen | | |
+| EN-Statusauswertung erstellt | offen | | |
+| EN-Dateien gegen DE-Quelle geprüft | offen | | |
+| Britisches Englisch und Terminologie geprüft | offen | | |
+| Bedeutungs- und Quellenfidelity geprüft | offen | | |
+| Nicht freigegebene EN-Dateien transparent benannt | offen | | |
+
+Freigabeaussage EN:
+
+> offen
+
+---
+
+## 8. Build- und Artefaktprüfung
+
+| Artefakt / Prüfung | Ergebnis | Nachweis | Bemerkung |
+|---|---|---|---|
+| DE Publish Markdown | offen | | |
+| DE PDF | offen | | |
+| EN Publish Markdown | offen | | |
+| EN PDF | offen | | |
+| PDF-Fonts: DejaVu | offen | | |
+| PDF-Fonts: Twemoji Mozilla | offen | | |
+| PDF-Fonts: ERDA CC-BY CJK | offen | | |
+| Sichtprüfung DE PDF | offen | | |
+| Sichtprüfung EN PDF | offen | | |
+
+---
+
+## 9. Freeze-Protokoll
+
+| Feld | Eintrag |
+|---|---|
+| Content-Freeze erklärt am | offen |
+| Freeze erklärt durch Rolle | Redakteur:in |
+| Erlaubte Änderungen nach Freeze | nur Release-Fixes, Build-Fixes, Metadatenkorrekturen |
+| Änderungen nach Freeze dokumentiert | offen |
+| Freeze aufgehoben? | nein / offen |
+
+---
+
+## 10. Final Review und Publisher-Freigabe
+
+| Prüfung | Ergebnis | Nachweis | Bemerkung |
+|---|---|---|---|
+| Redakteur-Finalreview abgeschlossen | offen | | |
+| Publisher-Buildfreigabe abgeschlossen | offen | | |
+| Finaler Worktree geprüft | offen | | |
+| Tag `v2.5.0` vorbereitet | offen | | |
+| GitHub-/Zenodo-Releasebeschreibung final | offen | | |
+
+Finale Aussage:
+
+> Draft. Keine finale Freigabe, solange die oben genannten Prüfungen offen sind.
