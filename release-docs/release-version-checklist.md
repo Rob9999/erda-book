@@ -6,7 +6,7 @@
 > **Purpose:** This file lists **all** files that must be updated on a version change.
 > Used as a binding checklist for every release.
 
-**Letzte Aktualisierung / Last updated:** 2026-05-03 (ethics-first worker-roles pass + release metadata gates)
+**Letzte Aktualisierung / Last updated:** 2026-05-03 (content_lang frontmatter policy + release metadata gates)
 
 ---
 
@@ -76,11 +76,12 @@ Diese Dateien müssen nur aktualisiert werden, wenn sich der jeweilige Inhalt ä
 
 | # | Bereich / Area | Pflichtprüfung / Required check |
 |---|---|---|
-| 23a | `de/content/**/*.md` | Buchinhaltsdateien haben GitBook-kompatibles YAML-Frontmatter mit `content_id` und `lang: de` (ausgenommen Sonderdateien wie `SUMMARY.md`) |
-| 23b | `en/content/**/*.md` | Übersetzungen haben YAML-Frontmatter mit `content_id`, `lang: en`, `source`, `status` |
+| 23a | `de/content/**/*.md` | Buchinhaltsdateien haben GitBook-kompatibles YAML-Frontmatter mit `content_id` und `content_lang: de` (ausgenommen Sonderdateien wie `SUMMARY.md`) |
+| 23b | `en/content/**/*.md` | Übersetzungen haben YAML-Frontmatter mit `content_id`, `content_lang: en`, `source`, `status` |
 | 23c | `en/content/**/*.md` | `source` verweist repo-relativ auf existierende Datei unter `de/content/` |
 | 23d | DE↔EN | `content_id` ist sprachübergreifend identisch und bleibt stabil bei Dateiumbenennungen |
 | 23e | EN-Review | `status: approved` nur bei expliziter Writer-/Redaktionsfreigabe |
+| 23f | `de/content/**/*.md`, `en/content/**/*.md` | Keine Content-Frontmatter-Schlüssel `lang`, `language` oder `lang-version`; diese können Pandoc/Babel aktivieren und PDF-Font-Fallbacks für Twemoji/ERDA CJK umgehen |
 
 ---
 

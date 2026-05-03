@@ -11,19 +11,20 @@
      ```yaml
      ---
      content_id: erda.example.stable-id
-     lang: de
+     content_lang: de
      ---
      ```
    - English translation files must carry at least:
      ```yaml
      ---
      content_id: erda.example.stable-id
-     lang: en
+     content_lang: en
      source: de/content/path/to/german-source.md
      status: draft
      ---
      ```
    - `content_id` is stable across languages and must not change when files are renamed.
+   - `content_lang` is the content-level language marker. Do not use `lang`, `language`, or `lang-version` in book content front matter; Pandoc/Babel can interpret those keys as document language metadata and bypass the configured Twemoji/ERDA CJK PDF font fallback.
    - `source` is repo-relative and should start with `de/content/` for English translations.
    - Existing legacy front matter may be normalised incrementally, but every newly created or substantively edited translation must follow this schema.
 

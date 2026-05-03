@@ -25,10 +25,11 @@ Diese Anweisungen gelten für den gesamten Inhalt dieses Repositories (GitBook, 
 ## Content-Metadaten und Übersetzungszuordnung
 - **YAML-Frontmatter ist Pflicht** für alle Buchinhaltsdateien unter `de/content/` und `en/content/` (ausgenommen reine Navigationsdateien wie `SUMMARY.md`, sofern das Tooling sie speziell behandelt). Das Frontmatter muss GitBook-kompatibel sein (`---` Block am Dateianfang).
 - Dateinamen und Ordnerstruktur bleiben wichtig für Lesbarkeit und GitBook-Navigation, sind aber **nicht mehr die alleinige Quelle der Übersetzungszuordnung**.
-- Jede deutsche Quell-Datei soll mindestens eine stabile `content_id:` und `lang: de` tragen. Bestehende Dateien ohne diese Felder sind bei der nächsten inhaltlichen Bearbeitung nachzuziehen.
-- Jede englische Übersetzung muss mindestens `content_id:`, `lang: en`, `source:` und `status:` tragen.
+- Jede deutsche Quell-Datei soll mindestens eine stabile `content_id:` und `content_lang: de` tragen. Bestehende Dateien ohne diese Felder sind bei der nächsten inhaltlichen Bearbeitung nachzuziehen.
+- Jede englische Übersetzung muss mindestens `content_id:`, `content_lang: en`, `source:` und `status:` tragen.
    - `source:` ist repo-relativ anzugeben und verweist auf die deutsche Quelle, bevorzugt beginnend mit `de/content/`.
    - `content_id:` muss über DE/EN hinweg identisch bleiben und darf sich bei Dateiumbenennungen nicht ändern.
+   - `content_lang:` ist die Content-interne Sprachkennung. `lang:`, `language:` und `lang-version:` dürfen in Buchinhalts-Frontmatter nicht verwendet werden, weil Pandoc/Babel diese Schlüssel als Sprachmetadaten interpretieren und dadurch PDF-Font-Fallbacks für Twemoji/ERDA CJK umgehen können.
    - `status:` ist einer von `draft`, `in-review`, `approved`.
 - Bei inhaltlich freigegebenen Übersetzungen wird zusätzlich empfohlen: `source_commit:` oder `source_hash:` zur späteren Drift-Erkennung.
 - Legacy-Dateien mit älterem Frontmatter-Schema dürfen vorübergehend bestehen bleiben, müssen aber vor einem Release-Freeze oder bei der nächsten Bearbeitung normalisiert werden.

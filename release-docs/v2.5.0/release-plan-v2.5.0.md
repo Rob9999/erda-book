@@ -77,7 +77,7 @@ Release 2.5.0 markiert die **konzeptionelle Vertiefung** des ERDA-Buches. Währe
 - [x] SUMMARY.md aktualisiert (DE + EN)
 - [x] book.json-Datum auf 2026-05-03 (DE + EN)
 - [x] Root-`ATTRIBUTION.md` ergänzt
-- [x] Frontmatter DE/EN normalisiert (`content_id`, `lang`, EN `source`, `status`)
+- [x] Frontmatter DE/EN normalisiert (`content_id`, `content_lang`, EN `source`, `status`; keine Content-Keys `lang`, `language`, `lang-version` wegen PDF-Fontfallback)
 - [x] Konsistenzprüfung gegen Mini-Wording-Set
 - [x] Worker-Roles-Durchgang „Ethik vor Strategie“ integriert (DE + EN)
 - [ ] Content-Review und ggf. Integration als Buchkapitel

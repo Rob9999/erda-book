@@ -50,7 +50,7 @@ Darüber hinaus integriert dieses Release drei konzeptionelle Papers als Buchinh
 - `book.json`-Datum aktualisiert auf 2026-05-03 (DE + EN)
 - SUMMARY.md aktualisiert (DE + EN) mit Anhang-M-Eintrag
 - Root-`ATTRIBUTION.md` als Primärquelle für Drittinhalte ergänzt
-- YAML-Frontmatter mit `content_id`, `lang`, `source` und `status` für DE/EN-Inhaltsdateien normalisiert
+- YAML-Frontmatter mit `content_id`, `content_lang`, `source` und `status` für DE/EN-Inhaltsdateien normalisiert; Pandoc/Babel-nahe Keys wie `lang`, `language` und `lang-version` werden im Content-Frontmatter vermieden, um Twemoji/ERDA-CJK-Fontfallbacks im PDF stabil zu halten
 - Release-Metadaten-Gate umgesetzt: README-Datum, `book.json`, CFF-Dateien und `.zenodo.json` synchronisiert
 - Englische Appendix-J/L-Dateipfade auf `appendix-j-license-and-openness.md` und `appendix-l-colophon.md` normalisiert
 - EN-Querverweise auf Appendix M in Kapitel 3.5, 4.3.5 und 11.2 ergänzt

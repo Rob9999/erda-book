@@ -5,7 +5,7 @@ This document defines the **repo-level release checklist** and the **required re
 ## 0) Source of truth
 
 - **Content source of truth:** German in `de/content/` (English in `en/content/` mirrors it per `translation-instruction.md`).
-- **Translation mapping source of truth:** GitBook-compatible YAML front matter (`content_id`, `lang`, `source`, `status`) as defined in `translation-instruction.md`; file names are helpful but not sufficient.
+- **Translation mapping source of truth:** GitBook-compatible YAML front matter (`content_id`, `content_lang`, `source`, `status`) as defined in `translation-instruction.md`; file names are helpful but not sufficient. Do not use `lang`, `language`, or `lang-version` in book content front matter because Pandoc/Babel may consume those keys and interfere with Twemoji/ERDA CJK PDF font fallback.
 - **Role responsibilities:** `worker-roles.md` defines Writer, Editor, Lektor, Redakteur and Publisher rights, duties and approval boundaries.
 - **Release history:** `release-docs/Releases.md`.
 - **Release narrative:** the versioned release notes in `release-docs/vX.Y.Z/` are the authoritative basis for release descriptions.

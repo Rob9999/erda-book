@@ -26,7 +26,7 @@
 | 14 | Zertifizierungsprotokoll | ⏳ | |
 | 15 | Final Review & Tag | ⏳ | |
 | 16 | Root-Attribution + Metadaten-Gate | ✅ | `ATTRIBUTION.md`, README/book/CFF/Zenodo synchronisiert |
-| 17 | Frontmatter-Normalisierung | ✅ | DE/EN `content_id`, `lang`, EN `source`, `status` |
+| 17 | Frontmatter-Normalisierung | ✅ | DE/EN `content_id`, `content_lang`, EN `source`, `status`; keine Content-Keys `lang`, `language`, `lang-version` wegen PDF-Fontfallback |
 | 18 | EN-Querverweise Appendix M | ✅ | Kapitel 3.5, 4.3.5 und 11.2 ergänzt |
 | 19 | Worker-Roles-Durchgang „Ethik vor Strategie“ | ✅ | Kapitel 2/3/11/12/H/I ethisch gestärkt, Kapitel 5/13/14/D/I strategisch nachgeschärft |
 

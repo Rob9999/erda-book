@@ -15,7 +15,7 @@ PDF builds should start from synchronized metadata.
 - **Local preview builds:** may validate metadata, but should not silently change release dates or release descriptions.
 - **Release/publish builds:** must run only after the release metadata has been synchronized: README `As of`, `de/book.json`, `en/book.json`, `publish.yml` versions, CFF files, `.zenodo.json`, release notes and release history.
 - **Release descriptions:** the versioned release notes in `release-docs/vX.Y.Z/` are the editorial basis. README release sections, `.zenodo.json` and CFF abstracts must be faithful summaries of those notes.
-- **Translations:** English files must have valid front matter (`content_id`, `lang: en`, `source`, `status`) before release artifacts are regenerated. German source files should have `content_id` and `lang: de` as they are normalised.
+- **Translations:** English files must have valid front matter (`content_id`, `content_lang: en`, `source`, `status`) before release artifacts are regenerated. German source files should have `content_id` and `content_lang: de` as they are normalised. Do not use `lang`, `language`, or `lang-version` in book content front matter; those keys can be consumed by Pandoc/Babel and interfere with the Twemoji/ERDA CJK PDF font fallback.
 
 If the metadata gate fails, fix the metadata first and then rerun the build. A PDF rebuild alone is not a reason to bump release dates.
 

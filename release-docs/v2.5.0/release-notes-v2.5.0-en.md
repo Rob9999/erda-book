@@ -50,7 +50,7 @@ In addition, this release integrates three conceptual papers as book content: a 
 - `book.json` date updated to 2026-05-03 (DE + EN)
 - SUMMARY.md updated (DE + EN) with Appendix M entry
 - Root `ATTRIBUTION.md` added as primary source for third-party assets
-- YAML front matter normalised with `content_id`, `lang`, `source` and `status` for DE/EN content files
+- YAML front matter normalised with `content_id`, `content_lang`, `source` and `status` for DE/EN content files; Pandoc/Babel-adjacent keys such as `lang`, `language` and `lang-version` are avoided in content front matter to keep Twemoji/ERDA CJK PDF font fallback stable
 - Release metadata gate applied: README date, `book.json`, CFF files and `.zenodo.json` synchronised
 - English Appendix J/L file paths normalised to `appendix-j-license-and-openness.md` and `appendix-l-colophon.md`
 - EN cross-references to Appendix M added in chapters 3.5, 4.3.5 and 11.2
