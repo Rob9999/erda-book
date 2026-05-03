@@ -1,7 +1,7 @@
 # gitbook_worker Quality-Tool-Bewertung v2.5.0 (Draft)
 
 **Stand:** 2026-05-03  
-**Status:** Draft, unvollständig  
+**Status:** Draft, vorläufig bewertet
 **Arbeitsrolle:** Redakteur:in / Publisher-Vorprüfung
 
 ---
@@ -19,9 +19,9 @@ Nach neu festgelegter Arbeitsregel werden weitere `gitbook_worker`-Runs erst nac
 | Tool | Teststand | Ergebnis | Vorläufige Bewertung |
 |---|---|---|---|
 | `sources` | DE/EN Content-Bäume | erfolgreich | brauchbar für Quelleninventar und Review-Vorbereitung |
-| `link_audit` | `release-docs/v2.5.0` | erfolgreich | brauchbar für Links, Medien, doppelte Überschriften, Zitationslücken und Arbeitsmarker; einfache Heuristik beachten |
-| `ai_references` | `--help` und Code-/CLI-Prüfung; Mock-Test vorbereitet, nicht abgeschlossen | offen | potentiell brauchbar, aber nur mit `--dry-run`, Datenschutz-/API-Prüfung und menschlicher Abnahme |
-| `staatenprofil_links` | `--help` | CLI vorhanden | nur relevant, falls Staatenprofil-Dateien im Scope sind |
+| `link_audit` | Release-Dokumente, DE-Sample-Datei, DE-Strukturcheck ohne HTTP | erfolgreich, aber teils sehr laut | brauchbar; globale Duplicate-Heading-Ergebnisse brauchen Filterung |
+| `ai_references` | lokaler Mock-Endpunkt, `--dry-run`, DE-Sample-Datei | erfolgreich | technisch brauchbar, aber nur begrenzt und mit menschlicher Abnahme einsetzen |
+| `staatenprofil_links` | DE Content-Baum | erfolgreich, 176 Reportzeilen | brauchbar als Spezialscan, aber 403/404/ERR müssen redaktionell bewertet werden |
 
 ---
 
@@ -74,11 +74,72 @@ Bewertung:
 - Die Arbeitsmarker-Suche ist rein textbasiert und markiert auch erklärende Vorkommen der Wörter, wenn sie ausgeschrieben werden. Checklisten sollten deshalb neutrale Begriffe wie `Arbeitsmarker` verwenden.
 - Für den gesamten Content-Baum kann der Lauf deutlich umfangreicher sein und sollte nach Commit-Sicherung separat erfolgen.
 
+Ausgeführt auf einer DE-Sample-Datei mit Quellen:
+
+```powershell
+C:/Python311/python.exe -m gitbook_worker.tools.quality.link_audit de/content/1.-aktuelle-lage-europas-herausforderungen-und-chancen/1.1-demokratische-erosion-und-geopolitische-fragmentierung.md --http-report tmp/gitbook-worker-quality-v2.5.0/link-audit-de-sample.csv --timeout 5 --no-progress --check-images --check-duplicate-headings --check-citations --list-todos
+```
+
+Ergebnis:
+
+| Prüfung | Ergebnis |
+|---|---|
+| HTTP-Links | 0 broken, 2 valid links |
+| Bilder/Medien | 0 Issues |
+| Doppelte Überschriften | 0 Duplicates |
+| Zitationslücken | 0 Dateien mit Lücken |
+| Arbeitsmarker | 0 Einträge |
+
+Ausgeführt auf `de/content` ohne externe HTTP-Abfragen:
+
+```powershell
+C:/Python311/python.exe -m gitbook_worker.tools.quality.link_audit --root de/content --no-progress --check-duplicate-headings --check-citations --list-todos
+```
+
+Ergebnis:
+
+| Prüfung | Ergebnis |
+|---|---|
+| Doppelte Überschriften | 1317 Treffer |
+| Zitationslücken | 1 Datei mit Lücke |
+| Arbeitsmarker | 0 Einträge |
+
+Bewertung des DE-Strukturchecks:
+
+- Die Zitationslücke ist potentiell prüfenswert: `de/content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/staatenprofil-deutschland-de.md`, fehlende Nummer 15.
+- Die Duplicate-Heading-Zahl ist in dieser Form nicht release-blockierend, weil viele Treffer aus bewusst wiederholten Staatenprofil- und Executive-Compendium-Strukturen entstehen.
+- Für einen echten Release-Gate-Einsatz sollte der Duplicate-Heading-Check entweder auf einzelne Publikationsabschnitte begrenzt oder um erlaubte Template-Überschriften gefiltert werden.
+
+---
+
+## Staatenprofil-Linkprüfung
+
+Ausgeführt:
+
+```powershell
+C:/Python311/python.exe -m gitbook_worker.tools.quality.staatenprofil_links --root de/content --output tmp/gitbook-worker-quality-v2.5.0/staatenprofil-links-de.csv
+```
+
+Ergebnis:
+
+| Report | Wert |
+|---|---:|
+| Reportzeilen | 176 |
+
+Beispiele aus dem Report enthalten `403 Forbidden`, `404 Not Found` und `ERR` bei externen Staatenprofil-Links.
+
+Bewertung:
+
+- Für Anhang-B-/Staatenprofil-Qualität brauchbar.
+- `403` ist nicht automatisch ein inhaltlich kaputter Link, weil manche Anbieter HEAD/automatisierte Requests blocken.
+- `404` und dauerhafte `ERR`-Treffer sind für die Referenzaktualität deutlich relevanter.
+- Für v2.5.0 sollte mindestens eine priorisierte Prüfung der `404`/dauerhaften `ERR`-Fälle erfolgen.
+
 ---
 
 ## AI-Referenzprüfung
 
-Festgestellt:
+Festgestellt vor dem Test:
 
 - CLI vorhanden: `python -m gitbook_worker.tools.quality.ai_references`
 - Unterstützt `--dry-run` und JSON-Report.
@@ -93,18 +154,39 @@ Vorläufige Bewertung:
 - Keine Inhalte an externe Dienste senden, bevor Datenschutz, API-Ziel und Prompt-Verhalten bewusst freigegeben sind.
 - AI-Ergebnisse sind Hinweise, keine redaktionelle Wahrheit.
 
-Offen:
+Ausgeführt mit lokalem Mock-Endpunkt, ohne externe API und mit `--dry-run`:
 
-- Lokaler Mock-Dry-Run der CLI nach Commit-Sicherung.
+```powershell
+C:/Python311/python.exe -m gitbook_worker.tools.quality.ai_references --root . --files de/content/1.-aktuelle-lage-europas-herausforderungen-und-chancen/1.1-demokratische-erosion-und-geopolitische-fragmentierung.md --language de --ai-provider local --ai-url http://127.0.0.1:8765 --json-report tmp/gitbook-worker-quality-v2.5.0/ai-references-mock-de-sample.json --dry-run --no-progress
+```
+
+Ergebnis:
+
+| Prüfung | Ergebnis |
+|---|---:|
+| Referenzaufgaben | 2 |
+| Erfolgreich validiert | 2 |
+| Reparaturen | 0 |
+| Fehlgeschlagen | 0 |
+
+Bewertung des Mock-Tests:
+
+- CLI, Discovery über explizite Datei, JSON-Report und `--dry-run` funktionieren.
+- Der Test validiert die Toolkette, aber nicht die faktische Qualität eines echten AI-Providers.
+- Das Tool kann im Nicht-Dry-Run Dateien verändern; für Releasezwecke ist `--dry-run` deshalb Pflicht, solange keine separate Freigabe vorliegt.
+
+Offen bleibt:
+
 - Optionaler echter Dry-Run nur nach ausdrücklicher Entscheidung zu API/Provider.
 
 ---
 
 ## Vorläufiges Fazit
 
-Die alten Quality-Tools sind nicht veraltet im Sinne von unbrauchbar. `sources` und `link_audit` liefern bereits jetzt verwertbare Release-Gates. `ai_references` ist technisch interessant, aber für v2.5.0 nur vorsichtig als Assistenzwerkzeug geeignet. Für die finale Freigabe sollte die belastbare Linie lauten:
+Die alten Quality-Tools sind nicht veraltet im Sinne von unbrauchbar. `sources`, `link_audit`, `staatenprofil_links` und die technische `ai_references`-Pipeline liefern verwertbare Signale. Für v2.5.0 sollte die belastbare Linie lauten:
 
 1. `sources` erzeugt das Quelleninventar.
 2. `link_audit` prüft technische Link-/Medien-/Strukturprobleme.
-3. `ai_references` darf nur optional, begrenzt und im `--dry-run` laufen.
-4. Die endgültige Quellenaktualität entscheidet die Redaktion anhand der Berichte.
+3. `staatenprofil_links` priorisiert externe Linkprobleme in den Staatenprofilen.
+4. `ai_references` darf nur optional, begrenzt und im `--dry-run` laufen.
+5. Die endgültige Quellenaktualität entscheidet die Redaktion anhand der Berichte.
