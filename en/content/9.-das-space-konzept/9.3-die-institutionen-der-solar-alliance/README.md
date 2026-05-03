@@ -1,6 +1,6 @@
 ---
 content_id: erda.book.9.das.space.konzept.9.3.die.institutionen.der.solar.alliance.readme
-lang: en
+content_lang: en
 source: de/content/9.-das-space-konzept/9.3-die-institutionen-der-solar-alliance/README.md
 status: draft
 ---

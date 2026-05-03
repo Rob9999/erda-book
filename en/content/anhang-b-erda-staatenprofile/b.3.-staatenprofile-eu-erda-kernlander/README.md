@@ -1,6 +1,6 @@
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.readme
-lang: en
+content_lang: en
 source: de/content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/README.md
 status: draft
 ---

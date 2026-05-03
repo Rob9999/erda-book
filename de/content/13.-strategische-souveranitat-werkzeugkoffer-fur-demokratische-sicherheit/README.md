@@ -1,6 +1,6 @@
 ---
 content_id: erda.book.13.strategische.souveranitat.werkzeugkoffer.fur.demokratische.sicherheit.readme
-lang: de
+content_lang: de
 description: "Kapitel 13 – Strategische Souveränität – Werkzeugkoffer für demokratische Sicherheit"
 date: "2026-02-22"
 ---

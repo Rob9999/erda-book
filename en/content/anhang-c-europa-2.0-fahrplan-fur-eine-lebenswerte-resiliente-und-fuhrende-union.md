@@ -1,6 +1,6 @@
 ---
 content_id: erda.book.anhang.c.europa.2.0.fahrplan.fur.eine.lebenswerte.resiliente.und.fuhrende.union
-lang: en
+content_lang: en
 source: de/content/anhang-c-europa-2.0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union.md
 status: draft
 ---

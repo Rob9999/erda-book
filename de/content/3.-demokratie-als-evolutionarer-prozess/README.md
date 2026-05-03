@@ -1,7 +1,6 @@
 ---
 content_id: erda.book.3.demokratie.als.evolutionarer.prozess.readme
-lang: de
-
+content_lang: de
 ---
 # 3. Demokratie als evolutionärer Prozess
 

@@ -1,6 +1,6 @@
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.xk.staatenprofil.kosovo
-lang: de
+content_lang: de
 description: "State: XK, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "XK"
 date: "2025-06-10"

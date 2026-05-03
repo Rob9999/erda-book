@@ -1,6 +1,6 @@
 ---
 content_id: erda.book.anhang.l.kolophon
-lang: en
+content_lang: en
 source: de/content/anhang-l-kolophon.md
 status: draft
 ---

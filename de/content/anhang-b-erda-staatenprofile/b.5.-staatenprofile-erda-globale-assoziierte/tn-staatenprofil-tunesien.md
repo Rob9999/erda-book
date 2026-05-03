@@ -1,6 +1,6 @@
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.tn.staatenprofil.tunesien
-lang: de
+content_lang: de
 description: "State: TN, Date: 2025-06-11, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "TN"
 date: "2026-01-01"

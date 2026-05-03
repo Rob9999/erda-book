@@ -1,7 +1,6 @@
 ---
 content_id: erda.book.9.das.space.konzept.9.2.vom.seerecht.zum.kosmosrecht.readme
-lang: de
-
+content_lang: de
 ---
 # 9.2 Vom Seerecht zum Kosmosrecht
 

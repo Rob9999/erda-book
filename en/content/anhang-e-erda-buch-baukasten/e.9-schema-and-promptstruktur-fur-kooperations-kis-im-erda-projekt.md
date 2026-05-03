@@ -1,6 +1,6 @@
 ---
 content_id: erda.book.anhang.e.erda.buch.baukasten.e.9.schema.and.promptstruktur.fur.kooperations.kis.im.erda.projekt
-lang: en
+content_lang: en
 source: de/content/anhang-e-erda-buch-baukasten/e.9-schema-and-promptstruktur-fur-kooperations-kis-im-erda-projekt.md
 status: draft
 ---

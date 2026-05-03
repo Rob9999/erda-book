@@ -1,6 +1,6 @@
 ---
 content_id: erda.book.anhang.j.lizenz.offenheit
-lang: en
+content_lang: en
 source: de/content/anhang-j-lizenz---offenheit.md
 status: draft
 ---

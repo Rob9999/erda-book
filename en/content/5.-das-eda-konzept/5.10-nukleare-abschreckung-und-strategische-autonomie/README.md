@@ -1,6 +1,6 @@
 ---
 content_id: erda.book.5.das.eda.konzept.5.10.nukleare.abschreckung.und.strategische.autonomie.readme
-lang: en
+content_lang: en
 source: de/content/5.-das-eda-konzept/5.10-nukleare-abschreckung-und-strategische-autonomie/README.md
 status: draft
 ---

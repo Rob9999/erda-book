@@ -1,6 +1,6 @@
 ---
 content_id: erda.book.4.das.erda.gesamtkonzept.4.4.transformation.2050.2075.gesellschaft.im.22.jahrhundert.readme
-lang: en
+content_lang: en
 source: de/content/4.-das-erda-gesamtkonzept/4.4-transformation-2050-2075-gesellschaft-im-22.-jahrhundert/README.md
 status: draft
 ---

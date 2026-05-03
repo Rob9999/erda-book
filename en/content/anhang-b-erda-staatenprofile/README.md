@@ -1,6 +1,6 @@
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.readme
-lang: en
+content_lang: en
 source: de/content/anhang-b-erda-staatenprofile/README.md
 status: draft
 ---

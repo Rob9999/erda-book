@@ -1,7 +1,6 @@
 ---
 content_id: erda.book.2.naturliche.verlangen.und.ihre.bedeutung.fur.demokratie.und.zivilisation.readme
-lang: de
-
+content_lang: de
 ---
 # 2. Natürliche Verlangen und ihre Bedeutung für Demokratie und Zivilisation
 

@@ -1,6 +1,6 @@
 ---
 content_id: erda.book.readme
-lang: de
+content_lang: de
 description: >-
   „Strategie, Ethik und Zukunft Europas – Vom demokratischen Rechtsstaat zur
   resilienten Zivilisation“

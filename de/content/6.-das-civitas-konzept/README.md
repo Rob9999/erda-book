@@ -1,7 +1,6 @@
 ---
 content_id: erda.book.6.das.civitas.konzept.readme
-lang: de
-
+content_lang: de
 ---
 # 6. Das CIVITAS Konzept
 

@@ -1,6 +1,6 @@
 ---
 content_id: erda.book.3.demokratie.als.evolutionarer.prozess.readme
-lang: en
+content_lang: en
 source: de/content/3.-demokratie-als-evolutionarer-prozess/README.md
 status: draft
 

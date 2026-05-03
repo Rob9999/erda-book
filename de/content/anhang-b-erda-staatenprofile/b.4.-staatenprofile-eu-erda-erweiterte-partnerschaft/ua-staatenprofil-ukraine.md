@@ -1,6 +1,6 @@
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.ua.staatenprofil.ukraine
-lang: de
+content_lang: de
 description: "State: UA, Date: 2025-06-08, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: None"
 country: "UA"
 date: "2025-06-08"

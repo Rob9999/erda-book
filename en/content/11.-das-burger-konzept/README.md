@@ -1,6 +1,6 @@
 ---
 content_id: erda.book.11.das.burger.konzept.readme
-lang: en
+content_lang: en
 source: de/content/11.-das-burger-konzept/README.md
 status: in-review
 ---

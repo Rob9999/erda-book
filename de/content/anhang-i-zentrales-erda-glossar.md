@@ -1,7 +1,6 @@
 ---
 content_id: erda.book.anhang.i.zentrales.erda.glossar
-lang: de
-
+content_lang: de
 ---
 # Anhang I: Zentrales ERDA-Glossar
 

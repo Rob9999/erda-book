@@ -1,7 +1,6 @@
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.readme
-lang: de
-
+content_lang: de
 ---
 # B.4 Staatenprofile (EU/ERDA - Erweiterte Partnerschaft)
 

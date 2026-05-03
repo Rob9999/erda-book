@@ -1,7 +1,6 @@
 ---
 content_id: erda.book.11.das.burger.konzept.readme
-lang: de
-
+content_lang: de
 ---
 # 11. Das Bürger Konzept
 

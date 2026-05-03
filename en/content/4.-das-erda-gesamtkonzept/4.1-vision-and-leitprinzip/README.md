@@ -1,6 +1,6 @@
 ---
 content_id: erda.book.4.das.erda.gesamtkonzept.4.1.vision.and.leitprinzip.readme
-lang: en
+content_lang: en
 source: de/content/4.-das-erda-gesamtkonzept/4.1-vision-and-leitprinzip/README.md
 status: draft
 ---

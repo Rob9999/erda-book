@@ -1,6 +1,6 @@
 ---
 content_id: erda.book.10.das.ki.konzept.readme
-lang: en
+content_lang: en
 source: de/content/10.-das-ki-konzept/README.md
 status: in-review
 ---

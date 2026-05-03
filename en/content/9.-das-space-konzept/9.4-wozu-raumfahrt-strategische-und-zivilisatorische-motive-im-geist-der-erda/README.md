@@ -1,6 +1,6 @@
 ---
 content_id: erda.book.9.das.space.konzept.9.4.wozu.raumfahrt.strategische.und.zivilisatorische.motive.im.geist.der.erda.readme
-lang: en
+content_lang: en
 source: de/content/9.-das-space-konzept/9.4-wozu-raumfahrt-strategische-und-zivilisatorische-motive-im-geist-der-erda/README.md
 status: draft
 ---

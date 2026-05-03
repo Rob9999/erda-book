@@ -1,7 +1,6 @@
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.1.einleitung.zum.staatenprofil.konzept.b.1.1.ziel.und.funktion.der.staatenprofile
-lang: de
-
+content_lang: de
 ---
 # B.1.1 Ziel und Funktion der Staatenprofile
 

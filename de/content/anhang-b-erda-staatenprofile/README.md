@@ -1,7 +1,6 @@
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.readme
-lang: de
-
+content_lang: de
 ---
 # Anhang B: ERDA-Staatenprofile
 

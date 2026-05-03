@@ -1,6 +1,6 @@
 ---
 content_id: erda.book.7.das.fortera.konzept.readme
-lang: en
+content_lang: en
 source: de/content/7.-das-fortera-konzept/README.md
 status: approved
 ---

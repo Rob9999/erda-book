@@ -1,6 +1,6 @@
 ---
 content_id: erda.book.4.das.erda.gesamtkonzept.readme
-lang: en
+content_lang: en
 source: de/content/4.-das-erda-gesamtkonzept/README.md
 status: draft
 ---

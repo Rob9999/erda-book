@@ -1,7 +1,6 @@
 ---
 content_id: erda.book.10.das.ki.konzept.readme
-lang: de
-
+content_lang: de
 ---
 # 10. Das KI Konzept
 

@@ -1,6 +1,6 @@
 ---
 content_id: erda.book.11.das.burger.konzept.11.4.was.braucht.die.demokratie.langfristig.readme
-lang: en
+content_lang: en
 source: de/content/11.-das-burger-konzept/11.4-was-braucht-die-demokratie-langfristig/README.md
 status: in-review
 ---

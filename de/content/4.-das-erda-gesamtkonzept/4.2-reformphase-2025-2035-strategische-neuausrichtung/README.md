@@ -1,7 +1,6 @@
 ---
 content_id: erda.book.4.das.erda.gesamtkonzept.4.2.reformphase.2025.2035.strategische.neuausrichtung.readme
-lang: de
-
+content_lang: de
 ---
 # 4.2 Reformphase: 2025–2035 - Strategische Neuausrichtung der EU
 

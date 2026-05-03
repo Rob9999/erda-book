@@ -1,7 +1,6 @@
 ---
 content_id: erda.book.anhang.f.erda.institut.fur.demokratische.resilienz.und.transformation
-lang: de
-
+content_lang: de
 ---
 # Anhang F: ERDA-Institut für Demokratische Resilienz und Transformation
 

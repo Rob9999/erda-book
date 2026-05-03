@@ -1,7 +1,6 @@
 ---
 content_id: erda.book.anhang.m.kindheit.erwachsenwerden.und.das.anti.game.over.prinzip
-lang: de
-
+content_lang: de
 ---
 # Anhang M: Kindheit, Erwachsenwerden und das Anti-Game-Over-Prinzip
 

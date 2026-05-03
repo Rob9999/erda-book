@@ -1,7 +1,6 @@
 ---
 content_id: erda.book.anhang.j.lizenz.offenheit
-lang: de
-
+content_lang: de
 ---
 # Anhang J: Lizenz & Offenheit
 

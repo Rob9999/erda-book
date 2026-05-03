@@ -1,7 +1,6 @@
 ---
 content_id: erda.book.anhang.e.erda.buch.baukasten.e.4.erda.leserprofil.schema
-lang: de
-
+content_lang: de
 ---
 # E.4 🧭 ERDA-Leserprofil-Schema
 

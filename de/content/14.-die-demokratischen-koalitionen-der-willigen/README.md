@@ -1,6 +1,6 @@
 ---
 content_id: erda.book.14.die.demokratischen.koalitionen.der.willigen.readme
-lang: de
+content_lang: de
 description: "Kapitel 14 – Die demokratischen Koalitionen der Willigen"
 date: "2026-02-28"
 ---

@@ -1,6 +1,6 @@
 ---
 content_id: erda.book.8.das.arktis.konzept.readme
-lang: en
+content_lang: en
 source: de/content/8.-das-arktis-konzept/README.md
 status: draft
 ---

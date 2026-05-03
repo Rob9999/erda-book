@@ -1,6 +1,6 @@
 ---
 content_id: erda.book.readme.vorwort
-lang: de
+content_lang: de
 description: "Vorwort"
 date: "2026-01-01"
 ---

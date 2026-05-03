@@ -1,6 +1,6 @@
 ---
 content_id: erda.book.9.das.space.konzept.readme
-lang: en
+content_lang: en
 source: de/content/9.-das-space-konzept/README.md
 status: draft
 ---

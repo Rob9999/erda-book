@@ -1,6 +1,6 @@
 ---
 content_id: erda.book.2.naturliche.verlangen.und.ihre.bedeutung.fur.demokratie.und.zivilisation.readme
-lang: en
+content_lang: en
 source: de/content/2.-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation/README.md
 status: draft
 ---

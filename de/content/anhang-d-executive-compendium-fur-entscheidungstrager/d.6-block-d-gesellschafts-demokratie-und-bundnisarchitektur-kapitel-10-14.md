@@ -1,7 +1,6 @@
 ---
 content_id: erda.book.anhang.d.executive.compendium.fur.entscheidungstrager.d.6.block.d.gesellschafts.demokratie.und.bundnisarchitektur.kapitel.10.14
-lang: de
-
+content_lang: de
 ---
 # D.6 Block D – Gesellschafts-, Demokratie- und Bündnisarchitektur (Kapitel 10–14)
 

@@ -1,6 +1,6 @@
 ---
 content_id: erda.book.4.das.erda.gesamtkonzept.4.5.strategische.narrative.und.offentliche.kommunikation.readme
-lang: en
+content_lang: en
 source: de/content/4.-das-erda-gesamtkonzept/4.5-strategische-narrative-und-offentliche-kommunikation/README.md
 status: draft
 ---

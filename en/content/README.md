@@ -1,6 +1,6 @@
 ---
 content_id: erda.book.readme
-lang: en
+content_lang: en
 source: de/content/README.md
 status: draft
 description: >-

@@ -1,6 +1,6 @@
 ---
 content_id: erda.book.6.das.civitas.konzept.readme
-lang: en
+content_lang: en
 source: de/content/6.-das-civitas-konzept/README.md
 status: draft
 ---

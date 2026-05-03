@@ -1,6 +1,6 @@
 ---
 content_id: erda.book.anhang.h.fehlgeschlagene.machtstrukturen.der.menschheit
-lang: en
+content_lang: en
 source: de/content/anhang-h-fehlgeschlagene-machtstrukturen-der-menschheit.md
 status: draft
 ---

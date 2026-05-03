@@ -1,6 +1,6 @@
 ---
 content_id: erda.book.11.das.burger.konzept.11.3.was.brauchen.die.burger.readme
-lang: en
+content_lang: en
 source: de/content/11.-das-burger-konzept/11.3-was-brauchen-die-burger/README.md
 status: in-review
 ---

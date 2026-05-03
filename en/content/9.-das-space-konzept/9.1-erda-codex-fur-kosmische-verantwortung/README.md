@@ -1,6 +1,6 @@
 ---
 content_id: erda.book.9.das.space.konzept.9.1.erda.codex.fur.kosmische.verantwortung.readme
-lang: en
+content_lang: en
 source: de/content/9.-das-space-konzept/9.1-erda-codex-fur-kosmische-verantwortung/README.md
 status: draft
 ---

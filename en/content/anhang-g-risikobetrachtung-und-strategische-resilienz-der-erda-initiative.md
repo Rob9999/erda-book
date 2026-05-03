@@ -1,6 +1,6 @@
 ---
 content_id: erda.book.anhang.g.risikobetrachtung.und.strategische.resilienz.der.erda.initiative
-lang: en
+content_lang: en
 source: de/content/anhang-g-risikobetrachtung-und-strategische-resilienz-der-erda-initiative.md
 status: draft
 ---

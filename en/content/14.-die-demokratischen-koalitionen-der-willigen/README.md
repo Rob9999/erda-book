@@ -1,6 +1,6 @@
 ---
 content_id: erda.book.14.die.demokratischen.koalitionen.der.willigen.readme
-lang: en
+content_lang: en
 source: de/content/14.-die-demokratischen-koalitionen-der-willigen/README.md
 status: in-review
 description: "Chapter 14 – The Democratic Coalitions of the Willing"

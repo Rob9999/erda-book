@@ -1,6 +1,6 @@
 ---
 content_id: erda.book.readme
-lang: de
+content_lang: de
 description: „Strategie, Ethik und Zukunft Europas – Vom demokratischen Rechtsstaat
   zur resilienten Zivilisation“
 geometry:
@@ -46,7 +46,7 @@ Willkommen im offiziellen Buch zur Vision und Strategie der ERDA.\
 
 ---
 content_id: erda.book.readme.vorwort
-lang: de
+content_lang: de
 description: "Vorwort"
 date: "2026-01-01"
 ---
@@ -96,8 +96,7 @@ Es ist ein Angebot zur Reifung. Ein europäischer Entwurf, der sagt:
 
 ---
 content_id: erda.book.1.aktuelle.lage.europas.herausforderungen.und.chancen.readme
-lang: de
-
+content_lang: de
 ---
 <a id="md-1-aktuelle-lage-europas-herausforderungen-und-chancen-readme"></a>
 
@@ -180,8 +179,7 @@ Europa steht an einem historischen Wendepunkt. Dieses Kapitel identifiziert die 
 
 ---
 content_id: erda.book.1.aktuelle.lage.europas.herausforderungen.und.chancen.1.1.demokratische.erosion.und.geopolitische.fragmentierung
-lang: de
-
+content_lang: de
 ---
 <a id="md-1-aktuelle-lage-europas-herausforderungen-und-chancen-1-1-demokratische-erosion-und-geopolitische-fragmentierung"></a>
 
@@ -278,8 +276,7 @@ d) Türkei
 
 ---
 content_id: erda.book.1.aktuelle.lage.europas.herausforderungen.und.chancen.1.2.wirtschaftlicher.druck.und.globale.systemkonkurrenz
-lang: de
-
+content_lang: de
 ---
 <a id="md-1-aktuelle-lage-europas-herausforderungen-und-chancen-1-2-wirtschaftlicher-druck-und-globale-systemkonkurrenz"></a>
 
@@ -393,8 +390,7 @@ d) Automobilindustrie
 
 ---
 content_id: erda.book.1.aktuelle.lage.europas.herausforderungen.und.chancen.1.3.technologische.transformation.und.soziale.spaltung
-lang: de
-
+content_lang: de
 ---
 <a id="md-1-aktuelle-lage-europas-herausforderungen-und-chancen-1-3-technologische-transformation-und-soziale-spaltung"></a>
 
@@ -495,8 +491,7 @@ d) Schweiz
 
 ---
 content_id: erda.book.1.aktuelle.lage.europas.herausforderungen.und.chancen.1.4.chancen.im.wandel
-lang: de
-
+content_lang: de
 ---
 <a id="md-1-aktuelle-lage-europas-herausforderungen-und-chancen-1-4-chancen-im-wandel"></a>
 
@@ -599,8 +594,7 @@ d) Lokale Bürgerbudgets
 
 ---
 content_id: erda.book.1.aktuelle.lage.europas.herausforderungen.und.chancen.1.5.der.strategische.imperativ
-lang: de
-
+content_lang: de
 ---
 <a id="md-1-aktuelle-lage-europas-herausforderungen-und-chancen-1-5-der-strategische-imperativ"></a>
 
@@ -725,8 +719,7 @@ d) Euratom
 
 ---
 content_id: erda.book.2.naturliche.verlangen.und.ihre.bedeutung.fur.demokratie.und.zivilisation.readme
-lang: de
-
+content_lang: de
 ---
 <a id="md-2-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation-readme"></a>
 
@@ -804,8 +797,7 @@ Kapitel 2 liefert die **zivilisatorische Grundlegung** des ERDA-Konzepts. Es zei
 
 ---
 content_id: erda.book.2.naturliche.verlangen.und.ihre.bedeutung.fur.demokratie.und.zivilisation.2.1.pra.demokratische.zivilisation
-lang: de
-
+content_lang: de
 ---
 <a id="md-2-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation-2-1-pra-demokratische-zivilisation"></a>
 
@@ -921,8 +913,7 @@ d) Marktwirtschaft
 
 ---
 content_id: erda.book.2.naturliche.verlangen.und.ihre.bedeutung.fur.demokratie.und.zivilisation.2.2.demokratische.rechtsstaatliche.zivilisation
-lang: de
-
+content_lang: de
 ---
 <a id="md-2-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation-2-2-demokratische-rechtsstaatliche-zivilisation"></a>
 
@@ -1039,8 +1030,7 @@ d) Exekutive Weisungsgebundenheit
 
 ---
 content_id: erda.book.2.naturliche.verlangen.und.ihre.bedeutung.fur.demokratie.und.zivilisation.2.3.post.demokratische.zivilisation.readme
-lang: de
-
+content_lang: de
 ---
 <a id="md-2-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation-2-3-post-demokratische-zivilisation-readme"></a>
 
@@ -1055,8 +1045,7 @@ _(entweder dystopisch: Technokratie, KI-Autokratie – oder transformativ: sinns
 
 ---
 content_id: erda.book.2.naturliche.verlangen.und.ihre.bedeutung.fur.demokratie.und.zivilisation.2.3.post.demokratische.zivilisation.2.3.1.dystopische.variante
-lang: de
-
+content_lang: de
 ---
 <a id="md-2-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation-2-3-post-demokratische-zivilisation-2-3-1-dystopische-variante"></a>
 
@@ -1174,8 +1163,7 @@ d) Vollautomatisierte Überwachung
 
 ---
 content_id: erda.book.2.naturliche.verlangen.und.ihre.bedeutung.fur.demokratie.und.zivilisation.2.3.post.demokratische.zivilisation.2.3.2.ideale.und.beste.form.der.demokratie
-lang: de
-
+content_lang: de
 ---
 <a id="md-2-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation-2-3-post-demokratische-zivilisation-2-3-2-ideale-und-beste-form-der-demokratie"></a>
 
@@ -1289,8 +1277,7 @@ d) Hierarchische Sicherheitsstrukturen
 
 ---
 content_id: erda.book.2.naturliche.verlangen.und.ihre.bedeutung.fur.demokratie.und.zivilisation.2.4.schlussgedanke
-lang: de
-
+content_lang: de
 ---
 <a id="md-2-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation-2-4-schlussgedanke"></a>
 
@@ -1389,8 +1376,7 @@ d) Abschottungsstrategie
 
 ---
 content_id: erda.book.3.demokratie.als.evolutionarer.prozess.readme
-lang: de
-
+content_lang: de
 ---
 <a id="md-3-demokratie-als-evolutionarer-prozess-readme"></a>
 
@@ -1466,8 +1452,7 @@ Dieses Kapitel beschreibt Demokratie nicht als statisches Modell, sondern als **
 
 ---
 content_id: erda.book.3.demokratie.als.evolutionarer.prozess.3.1.prolog
-lang: de
-
+content_lang: de
 ---
 <a id="md-3-demokratie-als-evolutionarer-prozess-3-1-prolog"></a>
 
@@ -1573,8 +1558,7 @@ d) Der stürmische Ozean
 
 ---
 content_id: erda.book.3.demokratie.als.evolutionarer.prozess.3.2.eine.reflexion.im.geiste.von.aristoteles
-lang: de
-
+content_lang: de
 ---
 <a id="md-3-demokratie-als-evolutionarer-prozess-3-2-eine-reflexion-im-geiste-von-aristoteles"></a>
 
@@ -1677,8 +1661,7 @@ d) Eudaimonia
 
 ---
 content_id: erda.book.3.demokratie.als.evolutionarer.prozess.3.3.demokratie.als.resonanzprozess
-lang: de
-
+content_lang: de
 ---
 <a id="md-3-demokratie-als-evolutionarer-prozess-3-3-demokratie-als-resonanzprozess"></a>
 
@@ -1780,8 +1763,7 @@ d) Autarke Entscheidung
 
 ---
 content_id: erda.book.3.demokratie.als.evolutionarer.prozess.3.4.demokratie.ist.bewegung
-lang: de
-
+content_lang: de
 ---
 <a id="md-3-demokratie-als-evolutionarer-prozess-3-4-demokratie-ist-bewegung"></a>
 
@@ -1878,8 +1860,7 @@ d) Absoluter Konsens
 
 ---
 content_id: erda.book.3.demokratie.als.evolutionarer.prozess.3.5.tugend.als.voraussetzung.demokratischer.gestaltung
-lang: de
-
+content_lang: de
 ---
 <a id="md-3-demokratie-als-evolutionarer-prozess-3-5-tugend-als-voraussetzung-demokratischer-gestaltung"></a>
 
@@ -1991,8 +1972,7 @@ D) Maximale Individualinteressen
 
 ---
 content_id: erda.book.3.demokratie.als.evolutionarer.prozess.3.6.naturliche.verlangen.der.seele.reflexiv
-lang: de
-
+content_lang: de
 ---
 <a id="md-3-demokratie-als-evolutionarer-prozess-3-6-naturliche-verlangen-der-seele-reflexiv"></a>
 
@@ -2084,8 +2064,7 @@ d) **Ruhe** ✅
 
 ---
 content_id: erda.book.3.demokratie.als.evolutionarer.prozess.3.7.schlussgedanke
-lang: de
-
+content_lang: de
 ---
 <a id="md-3-demokratie-als-evolutionarer-prozess-3-7-schlussgedanke"></a>
 
@@ -2193,7 +2172,7 @@ d) Effizienz
 
 ---
 content_id: erda.book.4.das.erda.gesamtkonzept.readme
-lang: de
+content_lang: de
 description: Institutionelle Architektur für das 21. Jahrhundert
 ---
 <a id="md-4-das-erda-gesamtkonzept-readme"></a>
@@ -2290,8 +2269,7 @@ Kapitel 4 beschreibt die institutionelle Gesamtarchitektur der _European Rights-
 
 ---
 content_id: erda.book.4.das.erda.gesamtkonzept.4.1.vision.and.leitprinzip.readme
-lang: de
-
+content_lang: de
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-1-vision-and-leitprinzip-readme"></a>
 
@@ -2310,8 +2288,7 @@ Sie verteidigt Freiheit, Gerechtigkeit, Vielfalt und langfristige Lebensfähigke
 
 ---
 content_id: erda.book.4.das.erda.gesamtkonzept.4.1.vision.and.leitprinzip.4.1.1.mehrsprachige.narrative.und.kulturelle.identitat
-lang: de
-
+content_lang: de
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-1-vision-and-leitprinzip-4-1-1-mehrsprachige-narrative-und-kulturelle-identitat"></a>
 
@@ -2426,8 +2403,7 @@ Europa ist ein Kontinent der Vielfalt – sprachlich, kulturell und historisch. 
 
 ---
 content_id: erda.book.4.das.erda.gesamtkonzept.4.1.vision.and.leitprinzip.4.1.2.starke.zivilgesellschaft.als.partnerin
-lang: de
-
+content_lang: de
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-1-vision-and-leitprinzip-4-1-2-starke-zivilgesellschaft-als-partnerin"></a>
 
@@ -2533,8 +2509,7 @@ d) Einweg-Kommunikation
 
 ---
 content_id: erda.book.4.das.erda.gesamtkonzept.4.1.vision.and.leitprinzip.4.1.3.institutionelle.balance
-lang: de
-
+content_lang: de
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-1-vision-and-leitprinzip-4-1-3-institutionelle-balance"></a>
 
@@ -2647,8 +2622,7 @@ d) Geheimhaltungspflichten
 
 ---
 content_id: erda.book.4.das.erda.gesamtkonzept.4.1.vision.and.leitprinzip.4.1.4.demokratische.kontrolle.uber.ki.prozesse
-lang: de
-
+content_lang: de
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-1-vision-and-leitprinzip-4-1-4-demokratische-kontrolle-uber-ki-prozesse"></a>
 
@@ -2758,8 +2732,7 @@ d) Proprietäre Closed-Source-Algorithmen
 
 ---
 content_id: erda.book.4.das.erda.gesamtkonzept.4.1.vision.and.leitprinzip.4.1.5.interplanetare.verantwortung.und.evolutionare.perspektiven
-lang: de
-
+content_lang: de
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-1-vision-and-leitprinzip-4-1-5-interplanetare-verantwortung-und-evolutionare-perspektiven"></a>
 
@@ -2861,8 +2834,7 @@ d) Geheimverhandlungen zwischen Agenturen
 
 ---
 content_id: erda.book.4.das.erda.gesamtkonzept.4.1.vision.and.leitprinzip.4.1.6.erda.im.zeitlichen.wandel
-lang: de
-
+content_lang: de
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-1-vision-and-leitprinzip-4-1-6-erda-im-zeitlichen-wandel"></a>
 
@@ -3023,8 +2995,7 @@ d) Top-down-Direktiven
 
 ---
 content_id: erda.book.4.das.erda.gesamtkonzept.4.2.reformphase.2025.2035.strategische.neuausrichtung.readme
-lang: de
-
+content_lang: de
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-2-reformphase-2025-2035-strategische-neuausrichtung-readme"></a>
 
@@ -3122,8 +3093,7 @@ Die Reformphase 2025–2035 legt das Fundament für eine lebendige, lernfähige 
 
 ---
 content_id: erda.book.4.das.erda.gesamtkonzept.4.2.reformphase.2025.2035.strategische.neuausrichtung.4.2.1.umsetzung.zentraler.reformempfehlungen.basierend.auf.sailing.on.high.seas
-lang: de
-
+content_lang: de
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-2-reformphase-2025-2035-strategische-neuausrichtung-4-2-1-umsetzung-zentraler-reformempfehlungen-basierend-auf-sailing-on-high-seas"></a>
 
@@ -3216,8 +3186,7 @@ d) Impact-Fonds
 
 ---
 content_id: erda.book.4.das.erda.gesamtkonzept.4.2.reformphase.2025.2035.strategische.neuausrichtung.4.2.2.aufbau.der.europaischen.verteidigungsallianz.eda.2.0
-lang: de
-
+content_lang: de
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-2-reformphase-2025-2035-strategische-neuausrichtung-4-2-2-aufbau-der-europaischen-verteidigungsallianz-eda-2-0"></a>
 
@@ -3333,8 +3302,7 @@ d) EU Battlegroups
 
 ---
 content_id: erda.book.4.das.erda.gesamtkonzept.4.2.reformphase.2025.2035.strategische.neuausrichtung.4.2.3.erweiterungsstrategie.nach.dem.modell.konzentrischer.kreise
-lang: de
-
+content_lang: de
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-2-reformphase-2025-2035-strategische-neuausrichtung-4-2-3-erweiterungsstrategie-nach-dem-modell-konzentrischer-kreise"></a>
 
@@ -3438,8 +3406,7 @@ d) Solidaritätskreis
 
 ---
 content_id: erda.book.4.das.erda.gesamtkonzept.4.2.reformphase.2025.2035.strategische.neuausrichtung.4.2.4.einbindung.globaler.perspektiven
-lang: de
-
+content_lang: de
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-2-reformphase-2025-2035-strategische-neuausrichtung-4-2-4-einbindung-globaler-perspektiven"></a>
 
@@ -3545,8 +3512,7 @@ d) CIVITAS-Konvent
 
 ---
 content_id: erda.book.4.das.erda.gesamtkonzept.4.2.reformphase.2025.2035.strategische.neuausrichtung.4.2.5.zivilgesellschaftliche.begleitstruktur
-lang: de
-
+content_lang: de
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-2-reformphase-2025-2035-strategische-neuausrichtung-4-2-5-zivilgesellschaftliche-begleitstruktur"></a>
 
@@ -3645,8 +3611,7 @@ d) Themenbezogene Beiräte
 
 ---
 content_id: erda.book.4.das.erda.gesamtkonzept.4.3.konsolidierung.2035.2050.demokratische.resilienz.und.technologische.souveranitat.readme
-lang: de
-
+content_lang: de
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-3-konsolidierung-2035-2050-demokratische-resilienz-und-technologische-souveranitat-readme"></a>
 
@@ -3717,8 +3682,7 @@ Die Phase 2035–2050 schafft die institutionelle und infrastrukturelle Grundlag
 
 ---
 content_id: erda.book.4.das.erda.gesamtkonzept.4.3.konsolidierung.2035.2050.demokratische.resilienz.und.technologische.souveranitat.4.3.1.verankerung.einer.erda.verfassung
-lang: de
-
+content_lang: de
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-3-konsolidierung-2035-2050-demokratische-resilienz-und-technologische-souveranitat-4-3-1-verankerung-einer-erda-verfassung"></a>
 
@@ -3819,8 +3783,7 @@ Ein künftiges ERDA‑Institut für Demokratische Resilienz (in Planung für 202
 
 ---
 content_id: erda.book.4.das.erda.gesamtkonzept.4.3.konsolidierung.2035.2050.demokratische.resilienz.und.technologische.souveranitat.4.3.2.demokratie.in.der.post.knappheitsokonomie
-lang: de
-
+content_lang: de
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-3-konsolidierung-2035-2050-demokratische-resilienz-und-technologische-souveranitat-4-3-2-demokratie-in-der-post-knappheitsokonomie"></a>
 
@@ -3917,8 +3880,7 @@ d) Zentralisierte Planwirtschaft
 
 ---
 content_id: erda.book.4.das.erda.gesamtkonzept.4.3.konsolidierung.2035.2050.demokratische.resilienz.und.technologische.souveranitat.4.3.3.souveranitat.durch.technologie.and.innovation
-lang: de
-
+content_lang: de
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-3-konsolidierung-2035-2050-demokratische-resilienz-und-technologische-souveranitat-4-3-3-souveranitat-durch-technologie-and-innovation"></a>
 
@@ -4008,8 +3970,7 @@ d) Abschottung durch Patentschutz
 
 ---
 content_id: erda.book.4.das.erda.gesamtkonzept.4.3.konsolidierung.2035.2050.demokratische.resilienz.und.technologische.souveranitat.4.3.4.globale.gerechtigkeit.and.klimasolidaritat
-lang: de
-
+content_lang: de
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-3-konsolidierung-2035-2050-demokratische-resilienz-und-technologische-souveranitat-4-3-4-globale-gerechtigkeit-and-klimasolidaritat"></a>
 
@@ -4100,8 +4061,7 @@ d) Bilaterale Klima-Kredite
 
 ---
 content_id: erda.book.4.das.erda.gesamtkonzept.4.3.konsolidierung.2035.2050.demokratische.resilienz.und.technologische.souveranitat.4.3.5.resilienz.durch.kultur.and.bildung
-lang: de
-
+content_lang: de
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-3-konsolidierung-2035-2050-demokratische-resilienz-und-technologische-souveranitat-4-3-5-resilienz-durch-kultur-and-bildung"></a>
 
@@ -4193,8 +4153,7 @@ d) Zentrale Lehrbuchvergabe
 
 ---
 content_id: erda.book.4.das.erda.gesamtkonzept.4.3.konsolidierung.2035.2050.demokratische.resilienz.und.technologische.souveranitat.4.3.6.institutionelle.demokratisierung
-lang: de
-
+content_lang: de
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-3-konsolidierung-2035-2050-demokratische-resilienz-und-technologische-souveranitat-4-3-6-institutionelle-demokratisierung"></a>
 
@@ -4287,8 +4246,7 @@ d) Nationale Referenden zu jedem Thema
 
 ---
 content_id: erda.book.4.das.erda.gesamtkonzept.4.4.transformation.2050.2075.gesellschaft.im.22.jahrhundert.readme
-lang: de
-
+content_lang: de
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-4-transformation-2050-2075-gesellschaft-im-22-jahrhundert-readme"></a>
 
@@ -4357,8 +4315,7 @@ Die ERDA kann zum ersten real existierenden Modell einer demokratisch-sinnhaften
 
 ---
 content_id: erda.book.4.das.erda.gesamtkonzept.4.4.transformation.2050.2075.gesellschaft.im.22.jahrhundert.4.4.1.demokratische.hochtechnologie.zivilisation
-lang: de
-
+content_lang: de
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-4-transformation-2050-2075-gesellschaft-im-22-jahrhundert-4-4-1-demokratische-hochtechnologie-zivilisation"></a>
 
@@ -4447,8 +4404,7 @@ d) Freiwillige Selbstverpflichtungen
 
 ---
 content_id: erda.book.4.das.erda.gesamtkonzept.4.4.transformation.2050.2075.gesellschaft.im.22.jahrhundert.4.4.2.soziale.und.kulturelle.resilienz
-lang: de
-
+content_lang: de
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-4-transformation-2050-2075-gesellschaft-im-22-jahrhundert-4-4-2-soziale-und-kulturelle-resilienz"></a>
 
@@ -4538,8 +4494,7 @@ d) Technokratische Steuerung
 
 ---
 content_id: erda.book.4.das.erda.gesamtkonzept.4.4.transformation.2050.2075.gesellschaft.im.22.jahrhundert.4.4.3.globale.integration.auf.grundlage.des.rechts
-lang: de
-
+content_lang: de
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-4-transformation-2050-2075-gesellschaft-im-22-jahrhundert-4-4-3-globale-integration-auf-grundlage-des-rechts"></a>
 
@@ -4630,8 +4585,7 @@ d) Nationales Verfassungsgericht
 
 ---
 content_id: erda.book.4.das.erda.gesamtkonzept.4.4.transformation.2050.2075.gesellschaft.im.22.jahrhundert.4.4.4.technologie.mit.sinn.und.verantwortung
-lang: de
-
+content_lang: de
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-4-transformation-2050-2075-gesellschaft-im-22-jahrhundert-4-4-4-technologie-mit-sinn-und-verantwortung"></a>
 
@@ -4725,8 +4679,7 @@ d) Automatisierte Algorithmus-Tests
 
 ---
 content_id: erda.book.4.das.erda.gesamtkonzept.4.4.transformation.2050.2075.gesellschaft.im.22.jahrhundert.4.4.5.post.materialistische.lebensqualitat
-lang: de
-
+content_lang: de
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-4-transformation-2050-2075-gesellschaft-im-22-jahrhundert-4-4-5-post-materialistische-lebensqualitat"></a>
 
@@ -4820,8 +4773,7 @@ d) Exportvolumen
 
 ---
 content_id: erda.book.4.das.erda.gesamtkonzept.4.4.transformation.2050.2075.gesellschaft.im.22.jahrhundert.4.4.6.zukunft.als.gemeinschaftsaufgabe
-lang: de
-
+content_lang: de
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-4-transformation-2050-2075-gesellschaft-im-22-jahrhundert-4-4-6-zukunft-als-gemeinschaftsaufgabe"></a>
 
@@ -4918,8 +4870,7 @@ d) Crowdfunding
 
 ---
 content_id: erda.book.4.das.erda.gesamtkonzept.4.5.strategische.narrative.und.offentliche.kommunikation.readme
-lang: de
-
+content_lang: de
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-5-strategische-narrative-und-offentliche-kommunikation-readme"></a>
 
@@ -4997,8 +4948,7 @@ Eine narrativ gestärkte ERDA schafft emotionale Verbindung, politische Identifi
 
 ---
 content_id: erda.book.4.das.erda.gesamtkonzept.4.5.strategische.narrative.und.offentliche.kommunikation.4.5.1.soziale.and.emotionale.aspekte
-lang: de
-
+content_lang: de
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-5-strategische-narrative-und-offentliche-kommunikation-4-5-1-soziale-and-emotionale-aspekte"></a>
 
@@ -5090,8 +5040,7 @@ Strategische Narrative entfalten ihre Kraft nicht nur über Fakten und Argumente
 
 ---
 content_id: erda.book.4.das.erda.gesamtkonzept.4.5.strategische.narrative.und.offentliche.kommunikation.4.5.2.narrative.bausteine.readme
-lang: de
-
+content_lang: de
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-5-strategische-narrative-und-offentliche-kommunikation-4-5-2-narrative-bausteine-readme"></a>
 
@@ -5104,8 +5053,7 @@ _**Narrative Bausteine**_
 
 ---
 content_id: erda.book.4.das.erda.gesamtkonzept.4.5.strategische.narrative.und.offentliche.kommunikation.4.5.2.narrative.bausteine.4.5.2.1.narrativ.der.ermachtigung
-lang: de
-
+content_lang: de
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-5-strategische-narrative-und-offentliche-kommunikation-4-5-2-narrative-bausteine-4-5-2-1-narrativ-der-ermachtigung"></a>
 
@@ -5202,8 +5150,7 @@ Das Narrativ der Ermächtigung zielt darauf ab, Menschen als aktive Gestalter ih
 
 ---
 content_id: erda.book.4.das.erda.gesamtkonzept.4.5.strategische.narrative.und.offentliche.kommunikation.4.5.2.narrative.bausteine.4.5.2.2.demokratie.als.schopferische.kraft
-lang: de
-
+content_lang: de
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-5-strategische-narrative-und-offentliche-kommunikation-4-5-2-narrative-bausteine-4-5-2-2-demokratie-als-schopferische-kraft"></a>
 
@@ -5296,8 +5243,7 @@ Die Demokratie entfaltet ihre volle Stärke, wenn sie nicht nur als Entscheidung
 
 ---
 content_id: erda.book.4.das.erda.gesamtkonzept.4.5.strategische.narrative.und.offentliche.kommunikation.4.5.2.narrative.bausteine.4.5.2.3.autonomie.ist.kein.abbruch.sondern.uberlebensstrategie
-lang: de
-
+content_lang: de
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-5-strategische-narrative-und-offentliche-kommunikation-4-5-2-narrative-bausteine-4-5-2-3-autonomie-ist-kein-abbruch-sondern-uberlebensstrategie"></a>
 
@@ -5391,8 +5337,7 @@ d) Juristische Abschottung
 
 ---
 content_id: erda.book.4.das.erda.gesamtkonzept.4.5.strategische.narrative.und.offentliche.kommunikation.4.5.2.narrative.bausteine.4.5.2.4.transatlantische.erneuerung.durch.gleichgewicht
-lang: de
-
+content_lang: de
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-5-strategische-narrative-und-offentliche-kommunikation-4-5-2-narrative-bausteine-4-5-2-4-transatlantische-erneuerung-durch-gleichgewicht"></a>
 
@@ -5487,8 +5432,7 @@ Das Narrativ der transatlantischen Erneuerung durch Gleichgewicht richtet den Bl
 
 ---
 content_id: erda.book.4.das.erda.gesamtkonzept.4.5.strategische.narrative.und.offentliche.kommunikation.4.5.2.narrative.bausteine.4.5.2.5.globale.einladung
-lang: de
-
+content_lang: de
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-5-strategische-narrative-und-offentliche-kommunikation-4-5-2-narrative-bausteine-4-5-2-5-globale-einladung"></a>
 
@@ -5583,8 +5527,7 @@ Das Narrativ der globalen Einladung versteht Demokratie nicht als rein nationale
 
 ---
 content_id: erda.book.4.das.erda.gesamtkonzept.4.5.strategische.narrative.und.offentliche.kommunikation.4.5.2.narrative.bausteine.4.5.2.6.erzahlung.des.mitgestaltens
-lang: de
-
+content_lang: de
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-5-strategische-narrative-und-offentliche-kommunikation-4-5-2-narrative-bausteine-4-5-2-6-erzahlung-des-mitgestaltens"></a>
 
@@ -5678,8 +5621,7 @@ Das Narrativ des Mitgestaltens rückt die aktive Beteiligung aller Stakeholder i
 
 ---
 content_id: erda.book.5.das.eda.konzept.readme
-lang: de
-
+content_lang: de
 ---
 <a id="md-5-das-eda-konzept-readme"></a>
 
@@ -5795,8 +5737,7 @@ Daraus folgt für die EDA:
 
 ---
 content_id: erda.book.5.das.eda.konzept.5.1.vision.und.mission.der.europaischen.verteidigungsallianz.eda
-lang: de
-
+content_lang: de
 ---
 <a id="md-5-das-eda-konzept-5-1-vision-und-mission-der-europaischen-verteidigungsallianz-eda"></a>
 
@@ -5834,8 +5775,7 @@ Die EDA ist Europas strategische Reifeprüfung: eine Architektur, die nicht auf 
 
 ---
 content_id: erda.book.5.das.eda.konzept.5.2.mitgliedschaft.und.organisationsstruktur
-lang: de
-
+content_lang: de
 ---
 <a id="md-5-das-eda-konzept-5-2-mitgliedschaft-und-organisationsstruktur"></a>
 
@@ -5883,8 +5823,7 @@ Der Beitritt zur EDA folgt dem Prinzip der **Democratically Prepared Defense Acc
 
 ---
 content_id: erda.book.5.das.eda.konzept.5.3.prinzipien.und.verteidigungsdoktrin
-lang: de
-
+content_lang: de
 ---
 <a id="md-5-das-eda-konzept-5-3-prinzipien-und-verteidigungsdoktrin"></a>
 
@@ -5928,8 +5867,7 @@ Koordinierter Schutz gegen Cyberangriffe und hybride Bedrohungen bildet die vier
 
 ---
 content_id: erda.book.5.das.eda.konzept.5.4.militarische.integration.und.gemeinsame.standards
-lang: de
-
+content_lang: de
 ---
 <a id="md-5-das-eda-konzept-5-4-militarische-integration-und-gemeinsame-standards"></a>
 
@@ -5974,8 +5912,7 @@ Infrastrukturvereinbarungen zur grenzüberschreitenden Mobilität ermöglichen d
 
 ---
 content_id: erda.book.5.das.eda.konzept.5.5.globale.koordination.und.verantwortung
-lang: de
-
+content_lang: de
 ---
 <a id="md-5-das-eda-konzept-5-5-globale-koordination-und-verantwortung"></a>
 
@@ -6015,8 +5952,7 @@ Als erster Schritt wird ein **Democracy Security Network** initiiert: ein Rahmen
 
 ---
 content_id: erda.book.5.das.eda.konzept.5.6.synergien.und.konnektivitat
-lang: de
-
+content_lang: de
 ---
 <a id="md-5-das-eda-konzept-5-6-synergien-und-konnektivitat"></a>
 
@@ -6059,8 +5995,7 @@ Alle Synergien und Kooperationen unterliegen der **verfassungsrechtlichen Entwic
 
 ---
 content_id: erda.book.5.das.eda.konzept.5.7.kommandostruktur.und.operative.souveranitat
-lang: de
-
+content_lang: de
 ---
 <a id="md-5-das-eda-konzept-5-7-kommandostruktur-und-operative-souveranitat"></a>
 
@@ -6084,8 +6019,7 @@ _**Kommandostruktur und operative Souveränität**_
 
 ---
 content_id: erda.book.5.das.eda.konzept.5.8.defense.sovereignty.nodes.dsns
-lang: de
-
+content_lang: de
 ---
 <a id="md-5-das-eda-konzept-5-8-defense-sovereignty-nodes-dsns"></a>
 
@@ -6226,8 +6160,7 @@ Genau darin liegt der strategische Sinn eines wertebasierten, dezentral robusten
 
 ---
 content_id: erda.book.5.das.eda.konzept.5.9.unbemannte.und.autonome.systeme.drohnen.und.ki.integration
-lang: de
-
+content_lang: de
 ---
 <a id="md-5-das-eda-konzept-5-9-unbemannte-und-autonome-systeme-drohnen-und-ki-integration"></a>
 
@@ -6335,8 +6268,7 @@ Der Krieg befindet sich in einer **Übergangsperiode**: Technologie entwickelt s
 
 ---
 content_id: erda.book.5.das.eda.konzept.5.10.nukleare.abschreckung.und.strategische.autonomie.readme
-lang: de
-
+content_lang: de
 ---
 <a id="md-5-das-eda-konzept-5-10-nukleare-abschreckung-und-strategische-autonomie-readme"></a>
 
@@ -6354,8 +6286,7 @@ Zur Wahrung strategischer Autonomie und zum Schutz der territorialen Integrität
 
 ---
 content_id: erda.book.5.das.eda.konzept.5.10.nukleare.abschreckung.und.strategische.autonomie.5.10.1.begrundung.und.grundsatze
-lang: de
-
+content_lang: de
 ---
 <a id="md-5-das-eda-konzept-5-10-nukleare-abschreckung-und-strategische-autonomie-5-10-1-begrundung-und-grundsatze"></a>
 
@@ -6372,8 +6303,7 @@ _Begründung und Grundsätze_
 
 ---
 content_id: erda.book.5.das.eda.konzept.5.10.nukleare.abschreckung.und.strategische.autonomie.5.10.2.sofortmassnahmen.2025.2030
-lang: de
-
+content_lang: de
 ---
 <a id="md-5-das-eda-konzept-5-10-nukleare-abschreckung-und-strategische-autonomie-5-10-2-sofortmassnahmen-2025-2030"></a>
 
@@ -6389,8 +6319,7 @@ _**Sofortmaßnahmen (2025–2030)**_
 
 ---
 content_id: erda.book.5.das.eda.konzept.5.10.nukleare.abschreckung.und.strategische.autonomie.5.10.3.mittelfristige.entwicklung.2030.2040
-lang: de
-
+content_lang: de
 ---
 <a id="md-5-das-eda-konzept-5-10-nukleare-abschreckung-und-strategische-autonomie-5-10-3-mittelfristige-entwicklung-2030-2040"></a>
 
@@ -6407,8 +6336,7 @@ _**Mittelfristige Entwicklung (2030–2040)**_
 
 ---
 content_id: erda.book.5.das.eda.konzept.5.10.nukleare.abschreckung.und.strategische.autonomie.5.10.4.langfristige.vision.2040.2050
-lang: de
-
+content_lang: de
 ---
 <a id="md-5-das-eda-konzept-5-10-nukleare-abschreckung-und-strategische-autonomie-5-10-4-langfristige-vision-2040-2050"></a>
 
@@ -6425,8 +6353,7 @@ _**Langfristige Vision (2040–2050)**_
 
 ---
 content_id: erda.book.5.das.eda.konzept.5.10.nukleare.abschreckung.und.strategische.autonomie.5.10.5.offentliche.kommunikation.und.ethische.grundlage
-lang: de
-
+content_lang: de
 ---
 <a id="md-5-das-eda-konzept-5-10-nukleare-abschreckung-und-strategische-autonomie-5-10-5-offentliche-kommunikation-und-ethische-grundlage"></a>
 
@@ -6443,8 +6370,7 @@ Die nukleare Abschreckung der EDA wird als **minimalistische, rechtsstaatlich ge
 
 ---
 content_id: erda.book.6.das.civitas.konzept.readme
-lang: de
-
+content_lang: de
 ---
 <a id="md-6-das-civitas-konzept-readme"></a>
 
@@ -6484,8 +6410,7 @@ Digitale Demokratie schafft mehr gesellschaftlichen Zusammenhalt, höhere politi
 
 ---
 content_id: erda.book.6.das.civitas.konzept.6.1.leitidee.demokratie.im.digitalen.raum
-lang: de
-
+content_lang: de
 ---
 <a id="md-6-das-civitas-konzept-6-1-leitidee-demokratie-im-digitalen-raum"></a>
 
@@ -6504,8 +6429,7 @@ CIVITAS verbindet soziale Netzwerke mit rechtsstaatlicher Kontrolle, öffentlich
 
 ---
 content_id: erda.book.6.das.civitas.konzept.6.2.tragerschaft.und.demokratische.kontrolle
-lang: de
-
+content_lang: de
 ---
 <a id="md-6-das-civitas-konzept-6-2-tragerschaft-und-demokratische-kontrolle"></a>
 
@@ -6525,8 +6449,7 @@ CIVITAS wird getragen von einer unabhängigen europäischen Stiftung unter parla
 
 ---
 content_id: erda.book.6.das.civitas.konzept.6.3.technische.architektur.und.datenschutz
-lang: de
-
+content_lang: de
 ---
 <a id="md-6-das-civitas-konzept-6-3-technische-architektur-und-datenschutz"></a>
 
@@ -6546,8 +6469,7 @@ Die Architektur ist dezentral, Open Source und vollständig kompatibel mit dem F
 
 ---
 content_id: erda.book.6.das.civitas.konzept.6.4.kernfunktionen.von.civitas
-lang: de
-
+content_lang: de
 ---
 <a id="md-6-das-civitas-konzept-6-4-kernfunktionen-von-civitas"></a>
 
@@ -6566,8 +6488,7 @@ _**Kernfunktionen von CIVITAS**_
 
 ---
 content_id: erda.book.6.das.civitas.konzept.6.5.schutzmechanismen.und.rechtssicherheit
-lang: de
-
+content_lang: de
 ---
 <a id="md-6-das-civitas-konzept-6-5-schutzmechanismen-und-rechtssicherheit"></a>
 
@@ -6586,8 +6507,7 @@ _**Schutzmechanismen & Rechtssicherheit**_
 
 ---
 content_id: erda.book.6.das.civitas.konzept.6.6.partnerschaften.und.globale.integration
-lang: de
-
+content_lang: de
 ---
 <a id="md-6-das-civitas-konzept-6-6-partnerschaften-und-globale-integration"></a>
 
@@ -6607,8 +6527,7 @@ CIVITAS ist offen für die Zusammenarbeit mit:
 
 ---
 content_id: erda.book.6.das.civitas.konzept.6.7.bildung.jugend.und.partizipation
-lang: de
-
+content_lang: de
 ---
 <a id="md-6-das-civitas-konzept-6-7-bildung-jugend-und-partizipation"></a>
 
@@ -6628,8 +6547,7 @@ Demokratie lebt vom Mitmachen – besonders der jungen Generation:
 
 ---
 content_id: erda.book.6.das.civitas.konzept.6.8.schlussgedanken
-lang: de
-
+content_lang: de
 ---
 <a id="md-6-das-civitas-konzept-6-8-schlussgedanken"></a>
 
@@ -6648,8 +6566,7 @@ CIVITAS ist mehr als ein technisches Projekt. Es ist ein strategischer Pfeiler d
 
 ---
 content_id: erda.book.7.das.fortera.konzept.readme
-lang: de
-
+content_lang: de
 ---
 <a id="md-7-das-fortera-konzept-readme"></a>
 
@@ -6701,8 +6618,7 @@ Eine souveräne und nachhaltige Wirtschaft macht Europa zum globalen Vorreiter i
 
 ---
 content_id: erda.book.7.das.fortera.konzept.7.1.ausgangslage.und.strategische.eckpfeiler
-lang: de
-
+content_lang: de
 ---
 <a id="md-7-das-fortera-konzept-7-1-ausgangslage-und-strategische-eckpfeiler"></a>
 
@@ -6740,8 +6656,7 @@ FORTERA behandelt Re-Industrialisierung daher nicht als Prestigeprojekt, sondern
 
 ---
 content_id: erda.book.7.das.fortera.konzept.7.2.ziel.des.konzepts
-lang: de
-
+content_lang: de
 ---
 <a id="md-7-das-fortera-konzept-7-2-ziel-des-konzepts"></a>
 
@@ -6756,8 +6671,7 @@ Dieses Konzept bietet eine strukturierte Handlungsstrategie für demokratische R
 
 ---
 content_id: erda.book.7.das.fortera.konzept.7.2.1.das.wie.fortera.als.umsetzungs.betriebssystem.eu.und.staaten
-lang: de
-
+content_lang: de
 ---
 <a id="md-7-das-fortera-konzept-7-2-1-das-wie-fortera-als-umsetzungs-betriebssystem-eu-und-staaten"></a>
 
@@ -6791,8 +6705,7 @@ FORTERA funktioniert, wenn Europa wie ein **Liefer-System** arbeitet: Ein Ziel, 
 
 ---
 content_id: erda.book.7.das.fortera.konzept.7.3.produktionssouveranitat.und.strategische.industriepolitik.readme
-lang: de
-
+content_lang: de
 ---
 <a id="md-7-das-fortera-konzept-7-3-produktionssouveranitat-und-strategische-industriepolitik-readme"></a>
 
@@ -6813,8 +6726,7 @@ _**Produktionssouveränität und strategische Industriepolitik**_
 
 ---
 content_id: erda.book.7.das.fortera.konzept.7.3.produktionssouveranitat.und.strategische.industriepolitik.7.3.1.ubersicht.strategische.produktionsziele.europas.auszug
-lang: de
-
+content_lang: de
 ---
 <a id="md-7-das-fortera-konzept-7-3-produktionssouveranitat-und-strategische-industriepolitik-7-3-1-ubersicht-strategische-produktionsziele-europas-auszug"></a>
 
@@ -6829,8 +6741,7 @@ _**Übersicht: Strategische Produktionsziele Europas (Auszug)**_
 
 ---
 content_id: erda.book.7.das.fortera.konzept.7.3.produktionssouveranitat.und.strategische.industriepolitik.7.3.2.quantifizierte.szenarien.zur.produktionssouveranitat.im.rahmen.von.fortera
-lang: de
-
+content_lang: de
 ---
 <a id="md-7-das-fortera-konzept-7-3-produktionssouveranitat-und-strategische-industriepolitik-7-3-2-quantifizierte-szenarien-zur-produktionssouveranitat-im-rahmen-von-fortera"></a>
 
@@ -6873,8 +6784,7 @@ Folgende Industriesektoren wurden als besonders kritisch für Europas langfristi
 
 ---
 content_id: erda.book.7.das.fortera.konzept.7.3.produktionssouveranitat.und.strategische.industriepolitik.7.3.3.herausforderungen.risiken.und.losungsansatze
-lang: de
-
+content_lang: de
 ---
 <a id="md-7-das-fortera-konzept-7-3-produktionssouveranitat-und-strategische-industriepolitik-7-3-3-herausforderungen-risiken-und-losungsansatze"></a>
 
@@ -6912,8 +6822,7 @@ _**Herausforderungen, Risiken und Lösungsansätze**_
 
 ---
 content_id: erda.book.7.das.fortera.konzept.7.3.produktionssouveranitat.und.strategische.industriepolitik.7.3.4.ubergangskosten.und.finanzierungsstrategie
-lang: de
-
+content_lang: de
 ---
 <a id="md-7-das-fortera-konzept-7-3-produktionssouveranitat-und-strategische-industriepolitik-7-3-4-ubergangskosten-und-finanzierungsstrategie"></a>
 
@@ -6942,8 +6851,7 @@ _**Übergangskosten und Finanzierungsstrategie**_
 
 ---
 content_id: erda.book.7.das.fortera.konzept.7.3.produktionssouveranitat.und.strategische.industriepolitik.7.3.5.praktische.massnahmen.und.meilensteinplanung.2025.2050
-lang: de
-
+content_lang: de
 ---
 <a id="md-7-das-fortera-konzept-7-3-produktionssouveranitat-und-strategische-industriepolitik-7-3-5-praktische-massnahmen-und-meilensteinplanung-2025-2050"></a>
 
@@ -6970,8 +6878,7 @@ _**Praktische Maßnahmen- und Meilensteinplanung (2025–2050)**_
 
 ---
 content_id: erda.book.7.das.fortera.konzept.7.3.produktionssouveranitat.und.strategische.industriepolitik.7.3.5.1.sofortprogramm.1000.tage
-lang: de
-
+content_lang: de
 ---
 <a id="md-7-das-fortera-konzept-7-3-produktionssouveranitat-und-strategische-industriepolitik-7-3-5-1-sofortprogramm-1000-tage"></a>
 
@@ -7029,8 +6936,7 @@ Der Krieg in der Ukraine (2022–2026) hat gezeigt, dass die entscheidende wirts
 
 ---
 content_id: erda.book.7.das.fortera.konzept.7.3.produktionssouveranitat.und.strategische.industriepolitik.7.3.6.erfolgskontrolle.und.anpassungsmechanismen
-lang: de
-
+content_lang: de
 ---
 <a id="md-7-das-fortera-konzept-7-3-produktionssouveranitat-und-strategische-industriepolitik-7-3-6-erfolgskontrolle-und-anpassungsmechanismen"></a>
 
@@ -7057,8 +6963,7 @@ _**Erfolgskontrolle und Anpassungsmechanismen**_
 
 ---
 content_id: erda.book.7.das.fortera.konzept.7.3.produktionssouveranitat.und.strategische.industriepolitik.7.3.7.gesamtausblick.und.nutzen
-lang: de
-
+content_lang: de
 ---
 <a id="md-7-das-fortera-konzept-7-3-produktionssouveranitat-und-strategische-industriepolitik-7-3-7-gesamtausblick-und-nutzen"></a>
 
@@ -7075,8 +6980,7 @@ Diese Investitionen ermöglichen Europa, sich von geopolitischen Unsicherheiten 
 
 ---
 content_id: erda.book.7.das.fortera.konzept.7.4.aufbau.demokratischer.handelsallianzen.democracy.trade.network
-lang: de
-
+content_lang: de
 ---
 <a id="md-7-das-fortera-konzept-7-4-aufbau-demokratischer-handelsallianzen-democracy-trade-network"></a>
 
@@ -7113,8 +7017,7 @@ Europa ist nicht nur abhängig – Europa hat auch echte Hebel. Für ein Democra
 
 ---
 content_id: erda.book.7.das.fortera.konzept.7.5.transatlantische.partnerschaft.neu.denken
-lang: de
-
+content_lang: de
 ---
 <a id="md-7-das-fortera-konzept-7-5-transatlantische-partnerschaft-neu-denken"></a>
 
@@ -7139,8 +7042,7 @@ _**Transatlantische Partnerschaft neu denken**_
 
 ---
 content_id: erda.book.7.das.fortera.konzept.7.6.defensivmechanismen.gegen.wirtschaftlichen.nationalismus
-lang: de
-
+content_lang: de
 ---
 <a id="md-7-das-fortera-konzept-7-6-defensivmechanismen-gegen-wirtschaftlichen-nationalismus"></a>
 
@@ -7168,8 +7070,7 @@ _**Defensivinstrumente gegen wirtschaftliche Erpressung**_
 
 ---
 content_id: erda.book.7.das.fortera.konzept.7.7.burgerbeteiligung.und.demokratische.wirtschaftskultur
-lang: de
-
+content_lang: de
 ---
 <a id="md-7-das-fortera-konzept-7-7-burgerbeteiligung-und-demokratische-wirtschaftskultur"></a>
 
@@ -7188,8 +7089,7 @@ _**Bürgerbeteiligung & demokratische Wirtschaftskultur**_
 
 ---
 content_id: erda.book.7.das.fortera.konzept.7.8.wirtschaftliche.resilienz.und.ethische.fundierung
-lang: de
-
+content_lang: de
 ---
 <a id="md-7-das-fortera-konzept-7-8-wirtschaftliche-resilienz-und-ethische-fundierung"></a>
 
@@ -7210,8 +7110,7 @@ _**Philosophische Grundlage: Resilienz ist Freiheit**_
 
 ---
 content_id: erda.book.7.das.fortera.konzept.7.9.schlussgedanken
-lang: de
-
+content_lang: de
 ---
 <a id="md-7-das-fortera-konzept-7-9-schlussgedanken"></a>
 
@@ -7226,8 +7125,7 @@ Dieses Dokument ist ein Aufruf zur **aktiven strategischen Selbstbehauptung Euro
 
 ---
 content_id: erda.book.7.das.fortera.konzept.7.a.strategische.demokratiestaerkende.eu.handelsabkommen.in.der.neuen.weltordnung.erda
-lang: de
-
+content_lang: de
 ---
 <a id="md-7-das-fortera-konzept-7-a-strategische-demokratiestaerkende-eu-handelsabkommen-in-der-neuen-weltordnung-erda"></a>
 
@@ -7525,8 +7423,7 @@ Gemeinsam betrachtet zeigen sie, dass Handelspolitik nicht nur ökonomische, son
 
 ---
 content_id: erda.book.7.das.fortera.konzept.7.b.nationaler.umsetzungsbaukasten.fur.eu.erda.staaten
-lang: de
-
+content_lang: de
 ---
 <a id="md-7-das-fortera-konzept-7-b-nationaler-umsetzungsbaukasten-fur-eu-erda-staaten"></a>
 
@@ -8065,8 +7962,7 @@ Hier ist das **kompakte Abdeckungs-Register** für alle **27 EU-Staaten**: **Sta
 
 ---
 content_id: erda.book.8.das.arktis.konzept.readme
-lang: de
-
+content_lang: de
 ---
 <a id="md-8-das-arktis-konzept-readme"></a>
 
@@ -8110,8 +8006,7 @@ Eine demokratische Arktisstrategie positioniert Europa als Vorreiter einer veran
 
 ---
 content_id: erda.book.8.das.arktis.konzept.8.0.fallstudie.gronland.als.stresstest.strategischer.solidaritaet
-lang: de
-
+content_lang: de
 ---
 <a id="md-8-das-arktis-konzept-8-0-fallstudie-gronland-als-stresstest-strategischer-solidaritaet"></a>
 
@@ -8141,8 +8036,7 @@ Grönland steht beispielhaft für eine neue Realität: Territoriale Interessen, 
 
 ---
 content_id: erda.book.8.das.arktis.konzept.8.1.arktis.codex.ethik.der.arktischen.verantwortung
-lang: de
-
+content_lang: de
 ---
 <a id="md-8-das-arktis-konzept-8-1-arktis-codex-ethik-der-arktischen-verantwortung"></a>
 
@@ -8195,8 +8089,7 @@ Die Förderung eines umfassenden Verständnisses der ökologischen, kulturellen 
 
 ---
 content_id: erda.book.8.das.arktis.konzept.8.2.ausgangslage
-lang: de
-
+content_lang: de
 ---
 <a id="md-8-das-arktis-konzept-8-2-ausgangslage"></a>
 
@@ -8213,8 +8106,7 @@ Europa und seine demokratischen Partner müssen eine klare, wertegebundene Antwo
 
 ---
 content_id: erda.book.8.das.arktis.konzept.8.3.leitprinzipien
-lang: de
-
+content_lang: de
 ---
 <a id="md-8-das-arktis-konzept-8-3-leitprinzipien"></a>
 
@@ -8233,8 +8125,7 @@ _**Leitprinzipien**_
 
 ---
 content_id: erda.book.8.das.arktis.konzept.8.4.strategische.saulen.readme
-lang: de
-
+content_lang: de
 ---
 <a id="md-8-das-arktis-konzept-8-4-strategische-saulen-readme"></a>
 
@@ -8248,8 +8139,7 @@ _**Strategische Säulen**_
 
 ---
 content_id: erda.book.8.das.arktis.konzept.8.4.strategische.saulen.8.4.1.geopolitische.souveranitat.eda.arktisstrategie
-lang: de
-
+content_lang: de
 ---
 <a id="md-8-das-arktis-konzept-8-4-strategische-saulen-8-4-1-geopolitische-souveranitat-eda-arktisstrategie"></a>
 
@@ -8267,8 +8157,7 @@ _**Geopolitische Souveränität (EDA-Arktisstrategie)**_
 
 ---
 content_id: erda.book.8.das.arktis.konzept.8.4.strategische.saulen.8.4.2.demokratische.ressourcenpartnerschaften.fortera
-lang: de
-
+content_lang: de
 ---
 <a id="md-8-das-arktis-konzept-8-4-strategische-saulen-8-4-2-demokratische-ressourcenpartnerschaften-fortera"></a>
 
@@ -8285,8 +8174,7 @@ lang: de
 
 ---
 content_id: erda.book.8.das.arktis.konzept.8.4.strategische.saulen.8.4.3.wissenschaft.und.klimaethik
-lang: de
-
+content_lang: de
 ---
 <a id="md-8-das-arktis-konzept-8-4-strategische-saulen-8-4-3-wissenschaft-und-klimaethik"></a>
 
@@ -8303,8 +8191,7 @@ _**Wissenschaft und Klimaethik**_
 
 ---
 content_id: erda.book.8.das.arktis.konzept.8.4.strategische.saulen.8.4.4.infrastruktur.and.datenhoheit
-lang: de
-
+content_lang: de
 ---
 <a id="md-8-das-arktis-konzept-8-4-strategische-saulen-8-4-4-infrastruktur-and-datenhoheit"></a>
 
@@ -8321,8 +8208,7 @@ _**Infrastruktur & Datenhoheit**_
 
 ---
 content_id: erda.book.8.das.arktis.konzept.8.4.strategische.saulen.8.4.5.kulturelle.und.indigene.dimension
-lang: de
-
+content_lang: de
 ---
 <a id="md-8-das-arktis-konzept-8-4-strategische-saulen-8-4-5-kulturelle-und-indigene-dimension"></a>
 
@@ -8339,8 +8225,7 @@ _**Kulturelle und indigene Dimension**_
 
 ---
 content_id: erda.book.8.das.arktis.konzept.8.5.massnahmenkatalog.auswahl
-lang: de
-
+content_lang: de
 ---
 <a id="md-8-das-arktis-konzept-8-5-massnahmenkatalog-auswahl"></a>
 
@@ -8357,8 +8242,7 @@ _**Maßnahmenkatalog (Auswahl)**_
 
 ---
 content_id: erda.book.8.das.arktis.konzept.8.6.kommunikationsstrategie
-lang: de
-
+content_lang: de
 ---
 <a id="md-8-das-arktis-konzept-8-6-kommunikationsstrategie"></a>
 
@@ -8376,8 +8260,7 @@ _**Kommunikationsstrategie**_
 
 ---
 content_id: erda.book.8.das.arktis.konzept.8.7.schlussgedanke
-lang: de
-
+content_lang: de
 ---
 <a id="md-8-das-arktis-konzept-8-7-schlussgedanke"></a>
 
@@ -8392,8 +8275,7 @@ _**Schlussgedanke**_
 
 ---
 content_id: erda.book.9.das.space.konzept.readme
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-readme"></a>
 
@@ -8468,8 +8350,7 @@ Dieses Kapitel entwirft eine zukunftsorientierte, demokratisch legitimierte Raum
 
 ---
 content_id: erda.book.9.das.space.konzept.9.1.erda.codex.fur.kosmische.verantwortung.readme
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-readme"></a>
 
@@ -8484,8 +8365,7 @@ _Ein Leitfaden für eine demokratisch geregelte, gerechte und nachhaltige Raumfa
 
 ---
 content_id: erda.book.9.das.space.konzept.9.1.erda.codex.fur.kosmische.verantwortung.9.1.1.praambel
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-1-praambel"></a>
 
@@ -8503,8 +8383,7 @@ Im Geiste der _European Rights-Based Democratic Alliance (ERDA)_ und getragen vo
 
 ---
 content_id: erda.book.9.das.space.konzept.9.1.erda.codex.fur.kosmische.verantwortung.9.1.2.grundsatze.readme
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-2-grundsatze-readme"></a>
 
@@ -8517,8 +8396,7 @@ _**Grundsätze**_
 
 ---
 content_id: erda.book.9.das.space.konzept.9.1.erda.codex.fur.kosmische.verantwortung.9.1.2.grundsatze.9.1.2.1.menschenwurde.und.rechtsstaatlichkeit.gelten.auch.im.all
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-2-grundsatze-9-1-2-1-menschenwurde-und-rechtsstaatlichkeit-gelten-auch-im-all"></a>
 
@@ -8533,8 +8411,7 @@ Jeder Mensch behält seine unveräußerlichen Rechte – unabhängig vom Aufenth
 
 ---
 content_id: erda.book.9.das.space.konzept.9.1.erda.codex.fur.kosmische.verantwortung.9.1.2.grundsatze.9.1.2.2.der.weltraum.ist.allmende.kein.privateigentum
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-2-grundsatze-9-1-2-2-der-weltraum-ist-allmende-kein-privateigentum"></a>
 
@@ -8549,8 +8426,7 @@ Alle natürlichen Ressourcen jenseits der Erde gelten als gemeinsames Erbe der M
 
 ---
 content_id: erda.book.9.das.space.konzept.9.1.erda.codex.fur.kosmische.verantwortung.9.1.2.grundsatze.9.1.2.3.keine.militarisierung.ohne.demokratische.kontrolle
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-2-grundsatze-9-1-2-3-keine-militarisierung-ohne-demokratische-kontrolle"></a>
 
@@ -8565,8 +8441,7 @@ Sicherheit im All ist Aufgabe demokratischer Ordnungsstrukturen. Militärische P
 
 ---
 content_id: erda.book.9.das.space.konzept.9.1.erda.codex.fur.kosmische.verantwortung.9.1.2.grundsatze.9.1.2.4.technologische.offenheit.und.wissensfreiheit
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-2-grundsatze-9-1-2-4-technologische-offenheit-und-wissensfreiheit"></a>
 
@@ -8581,8 +8456,7 @@ Wissenschaftliche Ergebnisse aus öffentlichen Missionen müssen offen zugängli
 
 ---
 content_id: erda.book.9.das.space.konzept.9.1.erda.codex.fur.kosmische.verantwortung.9.1.2.grundsatze.9.1.2.5.nachhaltigkeit.uber.generationen.hinweg
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-2-grundsatze-9-1-2-5-nachhaltigkeit-uber-generationen-hinweg"></a>
 
@@ -8597,8 +8471,7 @@ Jede Raumfahrtmission muss mit dem Ziel geplant, gebaut und betrieben werden, di
 
 ---
 content_id: erda.book.9.das.space.konzept.9.1.erda.codex.fur.kosmische.verantwortung.9.1.2.grundsatze.9.1.2.6.gerechtigkeit.fur.alle.lebensformen
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-2-grundsatze-9-1-2-6-gerechtigkeit-fur-alle-lebensformen"></a>
 
@@ -8613,8 +8486,7 @@ Alle vom Sonnensystem abstammenden Lebensformen haben ein natürliches Lebensrec
 
 ---
 content_id: erda.book.9.das.space.konzept.9.1.erda.codex.fur.kosmische.verantwortung.9.1.2.grundsatze.9.1.2.7.besucherprinzip.fur.aussersolare.intelligenz
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-2-grundsatze-9-1-2-7-besucherprinzip-fur-aussersolare-intelligenz"></a>
 
@@ -8629,8 +8501,7 @@ Spezies, die nicht dem Sonnensystem entstammen, werden wie Gäste eines demokrat
 
 ---
 content_id: erda.book.9.das.space.konzept.9.1.erda.codex.fur.kosmische.verantwortung.9.1.2.grundsatze.9.1.2.8.ressourcen.gehoren.den.naturlichen.inhabitanten
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-2-grundsatze-9-1-2-8-ressourcen-gehoren-den-naturlichen-inhabitanten"></a>
 
@@ -8645,8 +8516,7 @@ Die Rohstoffe, Materialien und energetischen Potenziale des Sonnensystems stehen
 
 ---
 content_id: erda.book.9.das.space.konzept.9.1.erda.codex.fur.kosmische.verantwortung.9.1.3.aufbau.einer.solar.alliance.readme
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-3-aufbau-einer-solar-alliance-readme"></a>
 
@@ -8661,8 +8531,7 @@ _&#x53;ie soll demokratisch und rechtsstaatlich sein. Ein lebender Zivilisations
 
 ---
 content_id: erda.book.9.das.space.konzept.9.1.erda.codex.fur.kosmische.verantwortung.9.1.3.aufbau.einer.solar.alliance.9.1.3.1.kodifizierung.als.kosmosrecht
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-3-aufbau-einer-solar-alliance-9-1-3-1-kodifizierung-als-kosmosrecht"></a>
 
@@ -8678,8 +8547,7 @@ Diese Grundsätze werden in ein völkerrechtlich kodifiziertes Kosmosrecht über
 
 ---
 content_id: erda.book.9.das.space.konzept.9.1.erda.codex.fur.kosmische.verantwortung.9.1.3.aufbau.einer.solar.alliance.9.1.3.2.vorbereitung.der.grundung.bis.2028
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-3-aufbau-einer-solar-alliance-9-1-3-2-vorbereitung-der-grundung-bis-2028"></a>
 
@@ -8694,8 +8562,7 @@ Die **SOLAR ALLIANCE** soll als transnationale Initiative demokratischer Staaten
 
 ---
 content_id: erda.book.9.das.space.konzept.9.1.erda.codex.fur.kosmische.verantwortung.9.1.4.kosmisches.seerecht.und.ordnung.readme
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-4-kosmisches-seerecht-und-ordnung-readme"></a>
 
@@ -8708,8 +8575,7 @@ _**Kosmisches Seerecht und Ordnung**_
 
 ---
 content_id: erda.book.9.das.space.konzept.9.1.erda.codex.fur.kosmische.verantwortung.9.1.4.kosmisches.seerecht.und.ordnung.9.1.4.1.kodifizierung.fundamentaler.prinzipien
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-4-kosmisches-seerecht-und-ordnung-9-1-4-1-kodifizierung-fundamentaler-prinzipien"></a>
 
@@ -8732,8 +8598,7 @@ Diese Prinzipien sollen in ein _kodifiziertes Kosmosrecht_ überführt und durch
 
 ---
 content_id: erda.book.9.das.space.konzept.9.1.erda.codex.fur.kosmische.verantwortung.9.1.5.schlussformel
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-5-schlussformel"></a>
 
@@ -8748,8 +8613,7 @@ _**Schlussformel**_
 
 ---
 content_id: erda.book.9.das.space.konzept.9.2.vom.seerecht.zum.kosmosrecht.readme
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-2-vom-seerecht-zum-kosmosrecht-readme"></a>
 
@@ -8766,8 +8630,7 @@ _**Vom Seerecht zum Kosmosrecht – Natürliche Verlangen des geordneten Miteina
 
 ---
 content_id: erda.book.9.das.space.konzept.9.2.vom.seerecht.zum.kosmosrecht.9.2.1.naturliche.verlangen.im.offenen.raum.meer.oder.all
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-2-vom-seerecht-zum-kosmosrecht-9-2-1-naturliche-verlangen-im-offenen-raum-meer-oder-all"></a>
 
@@ -8797,8 +8660,7 @@ Im ERDA-Kontext werden sie nicht als bloße Appelle behandelt, sondern als norma
 
 ---
 content_id: erda.book.9.das.space.konzept.9.2.vom.seerecht.zum.kosmosrecht.9.2.2.die.pra.demokratische.zivilisation
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-2-vom-seerecht-zum-kosmosrecht-9-2-2-die-pra-demokratische-zivilisation"></a>
 
@@ -8821,8 +8683,7 @@ Der Weg der ERDA führt bewusst aus dieser Phase hinaus – durch Rechtsbindung,
 
 ---
 content_id: erda.book.9.das.space.konzept.9.2.vom.seerecht.zum.kosmosrecht.9.2.3.die.gegenwartige.zivilisation.auch.in.ihrer.demokratischen.reife
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-2-vom-seerecht-zum-kosmosrecht-9-2-3-die-gegenwartige-zivilisation-auch-in-ihrer-demokratischen-reife"></a>
 
@@ -8851,8 +8712,7 @@ Doch gerade diese Reifephase bietet die Chance zur Umkehr: In der demokratischen
 
 ---
 content_id: erda.book.9.das.space.konzept.9.2.vom.seerecht.zum.kosmosrecht.9.2.4.uberblick.bisherige.rechtsordnungen.im.vergleich
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-2-vom-seerecht-zum-kosmosrecht-9-2-4-uberblick-bisherige-rechtsordnungen-im-vergleich"></a>
 
@@ -8882,8 +8742,7 @@ Der Weg zu einer SOLAR ALLIANCE beginnt mit der Übertragung der bewährten Prin
 
 ---
 content_id: erda.book.9.das.space.konzept.9.2.vom.seerecht.zum.kosmosrecht.9.2.5.der.entwicklungsbogen.zur.solar.alliance
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-2-vom-seerecht-zum-kosmosrecht-9-2-5-der-entwicklungsbogen-zur-solar-alliance"></a>
 
@@ -8923,8 +8782,7 @@ Diese Allianz wäre kein Weltstaat, sondern eine kosmopolitische Rahmensetzung �
 
 ---
 content_id: erda.book.9.das.space.konzept.9.3.die.institutionen.der.solar.alliance.readme
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-3-die-institutionen-der-solar-alliance-readme"></a>
 
@@ -8939,8 +8797,7 @@ _Die Solar Alliance ist mehr als ein multilaterales Abkommen. Sie ist eine insti
 
 ---
 content_id: erda.book.9.das.space.konzept.9.3.die.institutionen.der.solar.alliance.9.3.1.legislative.das.solar.parlament
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-3-die-institutionen-der-solar-alliance-9-3-1-legislative-das-solar-parlament"></a>
 
@@ -8961,8 +8818,7 @@ Die Stimmverteilung erfolgt nach einem gemischten Prinzip aus Bevölkerungsantei
 
 ---
 content_id: erda.book.9.das.space.konzept.9.3.die.institutionen.der.solar.alliance.9.3.2.exekutive.der.allianzrat
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-3-die-institutionen-der-solar-alliance-9-3-2-exekutive-der-allianzrat"></a>
 
@@ -8983,8 +8839,7 @@ Er besteht aus einem Gremium von Fachkommissar:innen, die über konkrete Mandate
 
 ---
 content_id: erda.book.9.das.space.konzept.9.3.die.institutionen.der.solar.alliance.9.3.3.judikative.die.raumrechtskammer
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-3-die-institutionen-der-solar-alliance-9-3-3-judikative-die-raumrechtskammer"></a>
 
@@ -9005,8 +8860,7 @@ Sie kann öffentlich tagen und hat Zugriff auf ein Netzwerk orbitaler Schiedsste
 
 ---
 content_id: erda.book.9.das.space.konzept.9.3.die.institutionen.der.solar.alliance.9.3.4.sicherheitskrafte.orbitaler.zivilschutz.and.notfallkoordination
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-3-die-institutionen-der-solar-alliance-9-3-4-sicherheitskrafte-orbitaler-zivilschutz-and-notfallkoordination"></a>
 
@@ -9027,8 +8881,7 @@ Es gibt keine offensive Bewaffnung – die Sicherheitsmodule sind defensiv, dees
 
 ---
 content_id: erda.book.9.das.space.konzept.9.3.die.institutionen.der.solar.alliance.9.3.5.interplanetarer.rat.fur.lebensrechte
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-3-die-institutionen-der-solar-alliance-9-3-5-interplanetarer-rat-fur-lebensrechte"></a>
 
@@ -9049,8 +8902,7 @@ Er arbeitet mit Forschungseinrichtungen, Philosoph:innen, Ethikgremien und Umwel
 
 ---
 content_id: erda.book.9.das.space.konzept.9.3.die.institutionen.der.solar.alliance.9.3.6.schiedsgericht.fur.ressourcen.und.zugangsfragen
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-3-die-institutionen-der-solar-alliance-9-3-6-schiedsgericht-fur-ressourcen-und-zugangsfragen"></a>
 
@@ -9072,8 +8924,7 @@ Es entscheidet auf Basis des Solar Codex, mit Rücksicht auf technische Machbark
 
 ---
 content_id: erda.book.9.das.space.konzept.9.3.die.institutionen.der.solar.alliance.9.3.7.demokratische.kontrollmechanismen
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-3-die-institutionen-der-solar-alliance-9-3-7-demokratische-kontrollmechanismen"></a>
 
@@ -9095,8 +8946,7 @@ Die Solar Alliance baut auf Partizipation. Sie etabliert:
 
 ---
 content_id: erda.book.9.das.space.konzept.9.3.die.institutionen.der.solar.alliance.9.3.8.demokratische.solar.defense.force
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-3-die-institutionen-der-solar-alliance-9-3-8-demokratische-solar-defense-force"></a>
 
@@ -9121,8 +8971,7 @@ Diese Force steht unter der Kontrolle des SOLAR PARLAMENTS, unterliegt permanent
 
 ---
 content_id: erda.book.9.das.space.konzept.9.4.wozu.raumfahrt.strategische.und.zivilisatorische.motive.im.geist.der.erda.readme
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-4-wozu-raumfahrt-strategische-und-zivilisatorische-motive-im-geist-der-erda-readme"></a>
 
@@ -9141,8 +8990,7 @@ _Die Frage, wozu Raumfahrt?, ist keine technische, sondern eine zivilisatorische
 
 ---
 content_id: erda.book.9.das.space.konzept.9.4.wozu.raumfahrt.strategische.und.zivilisatorische.motive.im.geist.der.erda.9.4.1.strategische.notwendigkeiten
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-4-wozu-raumfahrt-strategische-und-zivilisatorische-motive-im-geist-der-erda-9-4-1-strategische-notwendigkeiten"></a>
 
@@ -9172,8 +9020,7 @@ _**Strategische Notwendigkeiten**_
 
 ---
 content_id: erda.book.9.das.space.konzept.9.4.wozu.raumfahrt.strategische.und.zivilisatorische.motive.im.geist.der.erda.9.4.2.zivilisatorische.motive
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-4-wozu-raumfahrt-strategische-und-zivilisatorische-motive-im-geist-der-erda-9-4-2-zivilisatorische-motive"></a>
 
@@ -9204,8 +9051,7 @@ _**Zivilisatorische Motive**_
 
 ---
 content_id: erda.book.9.das.space.konzept.9.4.wozu.raumfahrt.strategische.und.zivilisatorische.motive.im.geist.der.erda.9.4.3.geistige.verantwortung.im.all
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-4-wozu-raumfahrt-strategische-und-zivilisatorische-motive-im-geist-der-erda-9-4-3-geistige-verantwortung-im-all"></a>
 
@@ -9242,8 +9088,7 @@ _**Geistige Verantwortung im All**_
 
 ---
 content_id: erda.book.9.das.space.konzept.9.5.interlude.einladung.an.das.was.wir.werden.konnen
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-5-interlude-einladung-an-das-was-wir-werden-konnen"></a>
 
@@ -9286,8 +9131,7 @@ Und wir blicken auf die Zeit: 2025 bis 2075. Nicht als Science Fiction, sondern 
 
 ---
 content_id: erda.book.9.das.space.konzept.9.6.infrastrukturen.bis.2075.readme
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-readme"></a>
 
@@ -9300,8 +9144,7 @@ _**Infrastrukturen bis 2075**_
 
 ---
 content_id: erda.book.9.das.space.konzept.9.6.infrastrukturen.bis.2075.9.6.1.operationalisierung.readme
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-1-operationalisierung-readme"></a>
 
@@ -9316,8 +9159,7 @@ _Diese Empfehlungen setzen an verschiedenen Hebeln an – von der Zieldefinition
 
 ---
 content_id: erda.book.9.das.space.konzept.9.6.infrastrukturen.bis.2075.9.6.1.operationalisierung.9.6.1.1.zieldefinition.und.zeitplanung.fur.die.rauminfrastrukturen
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-1-operationalisierung-9-6-1-1-zieldefinition-und-zeitplanung-fur-die-rauminfrastrukturen"></a>
 
@@ -9334,8 +9176,7 @@ _**Zieldefinition und Zeitplanung für die Rauminfrastrukturen**_
 
 ---
 content_id: erda.book.9.das.space.konzept.9.6.infrastrukturen.bis.2075.9.6.1.operationalisierung.9.6.1.2.finanzierung.und.organisation.uber.solar.alliance.mitgliedsstaaten.und.koalitionen
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-1-operationalisierung-9-6-1-2-finanzierung-und-organisation-uber-solar-alliance-mitgliedsstaaten-und-koalitionen"></a>
 
@@ -9352,8 +9193,7 @@ _**Finanzierung und Organisation über SOLAR ALLIANCE-Mitgliedsstaaten und Koali
 
 ---
 content_id: erda.book.9.das.space.konzept.9.6.infrastrukturen.bis.2075.9.6.1.operationalisierung.9.6.1.3.governance.strukturen.und.projektmanagement
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-1-operationalisierung-9-6-1-3-governance-strukturen-und-projektmanagement"></a>
 
@@ -9370,8 +9210,7 @@ _**Governance-Strukturen und Projektmanagement**_
 
 ---
 content_id: erda.book.9.das.space.konzept.9.6.infrastrukturen.bis.2075.9.6.1.operationalisierung.9.6.1.4.technische.konzepte.und.sicherheitsstandards
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-1-operationalisierung-9-6-1-4-technische-konzepte-und-sicherheitsstandards"></a>
 
@@ -9388,8 +9227,7 @@ _**Technische Konzepte und Sicherheitsstandards**_
 
 ---
 content_id: erda.book.9.das.space.konzept.9.6.infrastrukturen.bis.2075.9.6.1.operationalisierung.9.6.1.5.internationale.kooperation.und.burgerpartizipation
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-1-operationalisierung-9-6-1-5-internationale-kooperation-und-burgerpartizipation"></a>
 
@@ -9406,8 +9244,7 @@ _**Internationale Kooperation und Bürgerpartizipation**_
 
 ---
 content_id: erda.book.9.das.space.konzept.9.6.infrastrukturen.bis.2075.9.6.2.hier.die.mogliche.losung.readme
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-2-hier-die-mogliche-losung-readme"></a>
 
@@ -9428,8 +9265,7 @@ _Kapitel 5.2. ist damit die Brücke zwischen Vision (Kapitel 5.1.) und Ausprägu
 
 ---
 content_id: erda.book.9.das.space.konzept.9.6.infrastrukturen.bis.2075.9.6.2.hier.die.mogliche.losung.9.6.2.1.der.solar.alliance.infrastrukturplan.2030.2075
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-2-hier-die-mogliche-losung-9-6-2-1-der-solar-alliance-infrastrukturplan-2030-2075"></a>
 
@@ -9451,8 +9287,7 @@ _**Der SOLAR ALLIANCE INFRASTRUKTURPLAN 2030–2075**_
 
 ---
 content_id: erda.book.9.das.space.konzept.9.6.infrastrukturen.bis.2075.9.6.2.hier.die.mogliche.losung.9.6.2.2.transformationsfonds.und.modulforderung
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-2-hier-die-mogliche-losung-9-6-2-2-transformationsfonds-und-modulforderung"></a>
 
@@ -9471,8 +9306,7 @@ _**Transformationsfonds und Modulförderung**_
 
 ---
 content_id: erda.book.9.das.space.konzept.9.6.infrastrukturen.bis.2075.9.6.2.hier.die.mogliche.losung.9.6.2.3.institutionelle.tragerschaft.und.governance
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-2-hier-die-mogliche-losung-9-6-2-3-institutionelle-tragerschaft-und-governance"></a>
 
@@ -9490,8 +9324,7 @@ _**Institutionelle Trägerschaft und Governance**_
 
 ---
 content_id: erda.book.9.das.space.konzept.9.6.infrastrukturen.bis.2075.9.6.2.hier.die.mogliche.losung.9.6.2.4.technologisches.kernsystem
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-2-hier-die-mogliche-losung-9-6-2-4-technologisches-kernsystem"></a>
 
@@ -9508,8 +9341,7 @@ _**Technologisches Kernsystem**_
 
 ---
 content_id: erda.book.9.das.space.konzept.9.6.infrastrukturen.bis.2075.9.6.2.hier.die.mogliche.losung.9.6.2.5.internationale.integration.and.burgerzugang
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-2-hier-die-mogliche-losung-9-6-2-5-internationale-integration-and-burgerzugang"></a>
 
@@ -9526,8 +9358,7 @@ _**Internationale Integration & Bürgerzugang**_
 
 ---
 content_id: erda.book.9.das.space.konzept.9.6.infrastrukturen.bis.2075.9.6.3.sphere.station.earth.one
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-3-sphere-station-earth-one"></a>
 
@@ -9590,8 +9421,7 @@ EARTH ONE ist mehr als Infrastruktur. Sie ist Ausdruck der Überzeugung, dass Te
 
 ---
 content_id: erda.book.9.das.space.konzept.9.6.infrastrukturen.bis.2075.9.6.4.sphere.station.lunar.one
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-4-sphere-station-lunar-one"></a>
 
@@ -9655,8 +9485,7 @@ Sie ist ein Ort der Übergänge: von Gravitation zu Schwerelosigkeit, von Vorsic
 
 ---
 content_id: erda.book.9.das.space.konzept.9.6.infrastrukturen.bis.2075.9.6.5.sphere.station.belt.living.one
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-5-sphere-station-belt-living-one"></a>
 
@@ -9720,8 +9549,7 @@ BELT LIVING ONE steht für mehr als Präsenz. Sie fragt: Können wir fern der Er
 
 ---
 content_id: erda.book.9.das.space.konzept.9.6.infrastrukturen.bis.2075.9.6.6.sphere.station.neptune.one
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-6-sphere-station-neptune-one"></a>
 
@@ -9785,8 +9613,7 @@ NEPTUNE ONE ist das Menschheitsversprechen im Raum: Wenn wir hier bestehen, kön
 
 ---
 content_id: erda.book.9.das.space.konzept.9.6.infrastrukturen.bis.2075.9.6.7.sphere.station.venus.one
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-7-sphere-station-venus-one"></a>
 
@@ -9852,8 +9679,7 @@ Sie ist ein Ort, an dem Menschheit und Zukunftswille auf ein bestehendes System 
 
 ---
 content_id: erda.book.9.das.space.konzept.9.6.infrastrukturen.bis.2075.9.6.8.strukturbildung.und.zukunftsausbau
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-8-strukturbildung-und-zukunftsausbau"></a>
 
@@ -9943,8 +9769,7 @@ Diese Strukturbildung ist kein Selbstzweck. Sie ist der architektonische Ausdruc
 
 ---
 content_id: erda.book.9.das.space.konzept.9.6.infrastrukturen.bis.2075.9.6.9.zeitleiste.und.tabellarischer.vergleich.readme
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-9-zeitleiste-und-tabellarischer-vergleich-readme"></a>
 
@@ -9961,8 +9786,7 @@ _Vom Plan zur Raumzivilisation – Entwicklungsschritte 2025–2075_
 
 ---
 content_id: erda.book.9.das.space.konzept.9.6.infrastrukturen.bis.2075.9.6.9.zeitleiste.und.tabellarischer.vergleich.9.6.9.1.zeitleiste.der.erda.raumzivilisationsentwicklung
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-9-zeitleiste-und-tabellarischer-vergleich-9-6-9-1-zeitleiste-der-erda-raumzivilisationsentwicklung"></a>
 
@@ -9977,8 +9801,7 @@ _**Zeitleiste der ERDA-Raumzivilisationsentwicklung**_
 
 ---
 content_id: erda.book.9.das.space.konzept.9.6.infrastrukturen.bis.2075.9.6.9.zeitleiste.und.tabellarischer.vergleich.9.6.9.2.vergleichstabelle.der.sphere.stations.stand.zielausbau.2055
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-9-zeitleiste-und-tabellarischer-vergleich-9-6-9-2-vergleichstabelle-der-sphere-stations-stand-zielausbau-2055"></a>
 
@@ -9999,8 +9822,7 @@ _**Vergleichstabelle der Sphere Stations (Stand: Zielausbau 2055)**_
 
 ---
 content_id: erda.book.9.das.space.konzept.9.7.gesellschaftliche.dimensionen.der.raumzivilisation.readme
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-7-gesellschaftliche-dimensionen-der-raumzivilisation-readme"></a>
 
@@ -10019,8 +9841,7 @@ Die technische Realisierung einer Raumzivilisation ist nur ein Teil der Aufgabe.
 
 ---
 content_id: erda.book.9.das.space.konzept.9.7.gesellschaftliche.dimensionen.der.raumzivilisation.9.7.1.bildung.and.kultur.im.all
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-7-gesellschaftliche-dimensionen-der-raumzivilisation-9-7-1-bildung-and-kultur-im-all"></a>
 
@@ -10057,8 +9878,7 @@ In einer Welt jenseits der Welt braucht Bildung neue Horizonte. Sie darf nicht n
 
 ---
 content_id: erda.book.9.das.space.konzept.9.7.gesellschaftliche.dimensionen.der.raumzivilisation.9.7.2.gesellschaftsmodelle.and.teilhabe
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-7-gesellschaftliche-dimensionen-der-raumzivilisation-9-7-2-gesellschaftsmodelle-and-teilhabe"></a>
 
@@ -10095,8 +9915,7 @@ Wie sieht ein demokratisches Miteinander aus, wenn es keine Nationen, keine alte
 
 ---
 content_id: erda.book.9.das.space.konzept.9.7.gesellschaftliche.dimensionen.der.raumzivilisation.9.7.3.ethik.and.recht.im.alltagsleben
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-7-gesellschaftliche-dimensionen-der-raumzivilisation-9-7-3-ethik-and-recht-im-alltagsleben"></a>
 
@@ -10133,8 +9952,7 @@ Was bedeutet Gerechtigkeit, wenn Hilfe Stunden entfernt ist? Wie formt man Vertr
 
 ---
 content_id: erda.book.9.das.space.konzept.9.7.gesellschaftliche.dimensionen.der.raumzivilisation.9.7.4.kultur.der.achtsamkeit.and.resonanz
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-7-gesellschaftliche-dimensionen-der-raumzivilisation-9-7-4-kultur-der-achtsamkeit-and-resonanz"></a>
 
@@ -10171,8 +9989,7 @@ Jenseits von Funktion und Pflicht entsteht im All eine neue Kultur der Achtsamke
 
 ---
 content_id: erda.book.9.das.space.konzept.9.7.gesellschaftliche.dimensionen.der.raumzivilisation.9.7.5.identifizierung.als.solare.zivilisation
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-7-gesellschaftliche-dimensionen-der-raumzivilisation-9-7-5-identifizierung-als-solare-zivilisation"></a>
 
@@ -10213,8 +10030,7 @@ Die Raumzivilisation im Geist der ERDA ist nicht nur eine Erweiterung des geogra
 
 ---
 content_id: erda.book.9.das.space.konzept.9.8.die.weitergabe.der.zivilisation.bildung.kultur.und.ethik.in.interplanetarer.zeit.readme
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit-readme"></a>
 
@@ -10231,8 +10047,7 @@ Raumzivilisation ist nicht nur Infrastruktur, sondern ein Erbe in Bewegung. Dies
 
 ---
 content_id: erda.book.9.das.space.konzept.9.8.die.weitergabe.der.zivilisation.bildung.kultur.und.ethik.in.interplanetarer.zeit.9.8.1.interplanetare.bildung.als.verantwortungsgemeinschaft
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit-9-8-1-interplanetare-bildung-als-verantwortungsgemeinschaft"></a>
 
@@ -10252,8 +10067,7 @@ _**Interplanetare Bildung als Verantwortungsgemeinschaft**_
 
 ---
 content_id: erda.book.9.das.space.konzept.9.8.die.weitergabe.der.zivilisation.bildung.kultur.und.ethik.in.interplanetarer.zeit.9.8.2.erinnerungsarchitektur.and.kollektives.gedachtnis
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit-9-8-2-erinnerungsarchitektur-and-kollektives-gedachtnis"></a>
 
@@ -10274,8 +10088,7 @@ _**Erinnerungsarchitektur & kollektives Gedächtnis**_
 
 ---
 content_id: erda.book.9.das.space.konzept.9.8.die.weitergabe.der.zivilisation.bildung.kultur.und.ethik.in.interplanetarer.zeit.9.8.3.planetare.ethik.als.lebende.navigation
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit-9-8-3-planetare-ethik-als-lebende-navigation"></a>
 
@@ -10296,8 +10109,7 @@ _**Planetare Ethik als lebende Navigation**_
 
 ---
 content_id: erda.book.9.das.space.konzept.9.8.die.weitergabe.der.zivilisation.bildung.kultur.und.ethik.in.interplanetarer.zeit.9.8.4.kultur.als.trager.der.verbindung
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit-9-8-4-kultur-als-trager-der-verbindung"></a>
 
@@ -10316,8 +10128,7 @@ _**Kultur als Träger der Verbindung**_
 
 ---
 content_id: erda.book.9.das.space.konzept.9.8.die.weitergabe.der.zivilisation.bildung.kultur.und.ethik.in.interplanetarer.zeit.9.8.5.der.raum.als.medium.des.menschlichen
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit-9-8-5-der-raum-als-medium-des-menschlichen"></a>
 
@@ -10336,8 +10147,7 @@ _**Der Raum als Medium des Menschlichen**_
 
 ---
 content_id: erda.book.9.das.space.konzept.9.9.erda.glossar.schlusselbegriffe.der.raumzivilisation
-lang: de
-
+content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-9-erda-glossar-schlusselbegriffe-der-raumzivilisation"></a>
 
@@ -10448,8 +10258,7 @@ Politisch-koordinierende Instanz für die strategische Planung der Solar Allianc
 
 ---
 content_id: erda.book.10.das.ki.konzept.readme
-lang: de
-
+content_lang: de
 ---
 <a id="md-10-das-ki-konzept-readme"></a>
 
@@ -11085,8 +10894,7 @@ Mit den Ebenen 1–4 definiert das ERDA-KI-Konzept ein vollständiges Governance
 
 ---
 content_id: erda.book.10.das.ki.konzept.10.a.ko.evolutions.index.kei
-lang: de
-
+content_lang: de
 ---
 <a id="md-10-das-ki-konzept-10-a-ko-evolutions-index-kei"></a>
 
@@ -11278,8 +11086,7 @@ Er ist ein **Sicherheits- und Reifeinstrument** für eine demokratische, ko-evol
 
 ---
 content_id: erda.book.11.das.burger.konzept.readme
-lang: de
-
+content_lang: de
 ---
 <a id="md-11-das-burger-konzept-readme"></a>
 
@@ -11361,8 +11168,7 @@ Prinzip: schrittweise, testbar, nachjustierbar – und immer kompatibel mit Grun
 
 ---
 content_id: erda.book.11.das.burger.konzept.11.1.aktuell.national.und.oder.eu.weit.umsetzbare.resilienzmodelle.evolutiv.stabiler.demokratien.readme
-lang: de
-
+content_lang: de
 ---
 <a id="md-11-das-burger-konzept-11-1-aktuell-national-und-oder-eu-weit-umsetzbare-resilienzmodelle-evolutiv-stabiler-demokratien-readme"></a>
 
@@ -11379,8 +11185,7 @@ Ziel ist es, Resilienz **messbar** zu erhöhen: in Verteidigungsfähigkeit, Kata
 
 ---
 content_id: erda.book.11.das.burger.konzept.11.1.aktuell.national.und.oder.eu.weit.umsetzbare.resilienzmodelle.evolutiv.stabiler.demokratien.11.1.1.resilienzstarkendes.burgerpflichtmodell
-lang: de
-
+content_lang: de
 ---
 <a id="md-11-das-burger-konzept-11-1-aktuell-national-und-oder-eu-weit-umsetzbare-resilienzmodelle-evolutiv-stabiler-demokratien-11-1-1-resilienzstarkendes-burgerpflichtmodell"></a>
 
@@ -11687,8 +11492,7 @@ Deutschland und Europa stehen vor einer Zeitenwende. Krisenfeste Gesellschaften 
 
 ---
 content_id: erda.book.11.das.burger.konzept.11.2.was.mochte.das.leben.readme
-lang: de
-
+content_lang: de
 ---
 <a id="md-11-das-burger-konzept-11-2-was-mochte-das-leben-readme"></a>
 
@@ -11831,8 +11635,7 @@ Bürger brauchen Systeme, die genau diese Lebensfähigkeit schützen: Würde, Si
 
 ---
 content_id: erda.book.11.das.burger.konzept.11.3.was.brauchen.die.burger.readme
-lang: de
-
+content_lang: de
 ---
 <a id="md-11-das-burger-konzept-11-3-was-brauchen-die-burger-readme"></a>
 
@@ -11991,8 +11794,7 @@ Darauf bauen alle weiteren Kapitel auf.
 
 ---
 content_id: erda.book.11.das.burger.konzept.11.4.was.braucht.die.demokratie.langfristig.readme
-lang: de
-
+content_lang: de
 ---
 <a id="md-11-das-burger-konzept-11-4-was-braucht-die-demokratie-langfristig-readme"></a>
 
@@ -12089,7 +11891,7 @@ In den folgenden Kapiteln wird gezeigt, wie sich diese Prinzipien in konkreten K
 
 ---
 content_id: erda.book.12.das.demokratie.konzept.readme
-lang: de
+content_lang: de
 description: "Kapitel 12 – Das Demokratie Konzept"
 date: "2026-02-07"
 ---
@@ -12108,7 +11910,7 @@ Dieses Kapitel bündelt zentrale Bausteine, um demokratische Systeme **sozial, r
 
 ---
 content_id: erda.book.12.das.demokratie.konzept.12.1.die.sieben.transformationsregeln.der.sozialen.demokratie
-lang: de
+content_lang: de
 description: "Kapitel 12.1 – Sieben Transformationsregeln sozialer Demokratie"
 date: "2026-02-07"
 ---
@@ -12261,7 +12063,7 @@ Ob Kommune, Unternehmen, internationale Organisation oder Netzwerk von KI‑Syst
 
 ---
 content_id: erda.book.12.das.demokratie.konzept.12.a.das.rollenspiel.und.fazit
-lang: de
+content_lang: de
 description: "Kapitel 12.A – Rollenspiel‑Analyse, Vergleich und Fazit"
 date: "2026-02-07"
 ---
@@ -12397,7 +12199,7 @@ https://freedomhouse.org/country/china/freedom-world/2025
 
 ---
 content_id: erda.book.13.strategische.souveranitat.werkzeugkoffer.fur.demokratische.sicherheit.readme
-lang: de
+content_lang: de
 description: "Kapitel 13 – Strategische Souveränität – Werkzeugkoffer für demokratische Sicherheit"
 date: "2026-02-22"
 ---
@@ -12469,7 +12271,7 @@ _Kein Rechtsrat; alle Maßnahmen sind stets innerhalb demokratischer, verfassung
 
 ---
 content_id: erda.book.13.strategische.souveranitat.werkzeugkoffer.fur.demokratische.sicherheit.13.1.kernlogik.selbstabschreckung.uberwinden.handlungsfahigkeit.sichern
-lang: de
+content_lang: de
 description: "13.1 – Kernlogik: Selbstabschreckung überwinden – Handlungsfähigkeit sichern"
 date: "2026-02-22"
 ---
@@ -12535,7 +12337,7 @@ _Die folgenden Unterkapitel 13.2–13.7 operationalisieren diese Kernlogik in ko
 
 ---
 content_id: erda.book.13.strategische.souveranitat.werkzeugkoffer.fur.demokratische.sicherheit.13.2.strategische.zielsetzung.aggression.scheitern.lassen
-lang: de
+content_lang: de
 description: "13.2 – Strategische Zielsetzung: Aggression scheitern lassen"
 date: "2026-02-22"
 ---
@@ -12609,7 +12411,7 @@ Diese Leitlinien gelten nicht nur gegenüber einem bestimmten Aggressor, sondern
 
 ---
 content_id: erda.book.13.strategische.souveranitat.werkzeugkoffer.fur.demokratische.sicherheit.13.3.verteidigungsfahigkeit.luftverteidigung.munition.und.industrielle.masse
-lang: de
+content_lang: de
 description: "13.3 – Verteidigungsfähigkeit: Luftverteidigung, Munition und industrielle Masse"
 date: "2026-02-22"
 ---
@@ -12723,7 +12525,7 @@ Diese Logik ist **nicht auf einen bestimmten Konflikt beschränkt**:
 
 ---
 content_id: erda.book.13.strategische.souveranitat.werkzeugkoffer.fur.demokratische.sicherheit.13.4.finanzielle.handlungsfahigkeit.ressourcen.entblocken.und.veto.resilienz
-lang: de
+content_lang: de
 description: "13.4 – Finanzielle Handlungsfähigkeit: Ressourcen entblocken und Veto-Resilienz"
 date: "2026-02-22"
 ---
@@ -12802,7 +12604,7 @@ Einzelne Regierungen können durch Veto-Blockaden strategisch kritische Finanzie
 
 ---
 content_id: erda.book.13.strategische.souveranitat.werkzeugkoffer.fur.demokratische.sicherheit.13.5.technologische.souveranitat.redundanz.gegen.single.point.of.failure
-lang: de
+content_lang: de
 description: "13.5 – Technologische Souveränität: Redundanz gegen Single-Point-of-Failure"
 date: "2026-02-22"
 ---
@@ -12901,7 +12703,7 @@ Der russisch-ukrainische Krieg hat gezeigt, dass die zentralisierte Energiearchi
 
 ---
 content_id: erda.book.13.strategische.souveranitat.werkzeugkoffer.fur.demokratische.sicherheit.13.6.hybridabwehr.als.dauerfront.desinformation.sabotage.reflexive.kontrolle
-lang: de
+content_lang: de
 description: "13.6 – Hybridabwehr als Dauerfront: Desinformation, Sabotage, reflexive Kontrolle"
 date: "2026-02-22"
 ---
@@ -12988,7 +12790,7 @@ Hybridabwehr ist **massiv kosteneffizient** im Vergleich zu konventioneller Vert
 
 ---
 content_id: erda.book.13.strategische.souveranitat.werkzeugkoffer.fur.demokratische.sicherheit.13.7.parallelstrategie.europa.verteidigbar.machen.erganzung.statt.ausrede
-lang: de
+content_lang: de
 description: "13.7 – Parallelstrategie: Europa verteidigbar machen – Ergänzung statt Ausrede"
 date: "2026-02-22"
 ---
@@ -13080,7 +12882,7 @@ Jeder „eingefrorene Konflikt", der Aggression belohnt, erhöht die Kosten der 
 
 ---
 content_id: erda.book.13.strategische.souveranitat.werkzeugkoffer.fur.demokratische.sicherheit.13.8.energiesouveranitat.strategie.und.roadmap.2026.2029
-lang: de
+content_lang: de
 description: "13.8 – Energiesouveränität: Strategie und Roadmap 2026–2029"
 date: "2026-03-25"
 status: "draft"
@@ -13256,7 +13058,7 @@ Der Rahmen ist vorhanden (Fit-for-55, REPowerEU, Green Deal). Jetzt bedarf es en
 
 ---
 content_id: erda.book.14.die.demokratischen.koalitionen.der.willigen.readme
-lang: de
+content_lang: de
 description: "Kapitel 14 – Die demokratischen Koalitionen der Willigen"
 date: "2026-02-28"
 ---
@@ -13341,7 +13143,7 @@ Kapitel 14 verbindet diese Fäden zu einem **konkreten politischen Umsetzungspfa
 
 ---
 content_id: erda.book.14.die.demokratischen.koalitionen.der.willigen.14.1.warum.koalitionen.der.willigen
-lang: de
+content_lang: de
 description: "14.1 Warum Koalitionen der Willigen? – Schengen, Euro und das Prinzip der Vorreiterbündnisse"
 ---
 <a id="md-14-die-demokratischen-koalitionen-der-willigen-14-1-warum-koalitionen-der-willigen"></a>
@@ -13439,7 +13241,7 @@ Die Dringlichkeit ergibt sich aus drei konvergierenden Trends:
 
 ---
 content_id: erda.book.14.die.demokratischen.koalitionen.der.willigen.14.2.zehn.demokratische.koalitionen
-lang: de
+content_lang: de
 description: "14.2 Zehn demokratische Koalitionen – konkrete Handlungsfelder"
 ---
 <a id="md-14-die-demokratischen-koalitionen-der-willigen-14-2-zehn-demokratische-koalitionen"></a>
@@ -13660,7 +13462,7 @@ Eine praktische Vorlage für alle zehn Koalitionen:
 
 ---
 content_id: erda.book.14.die.demokratischen.koalitionen.der.willigen.14.3.stufenmodell.vom.club.zur.foederation
-lang: de
+content_lang: de
 description: "14.3 Stufenmodell: Vom Club zur Föderation (Stufe 0–9)"
 ---
 <a id="md-14-die-demokratischen-koalitionen-der-willigen-14-3-stufenmodell-vom-club-zur-foederation"></a>
@@ -13755,7 +13557,7 @@ Damit das System **nicht kippt** – weder in Autoritarismus noch in Handlungsun
 
 ---
 content_id: erda.book.14.die.demokratischen.koalitionen.der.willigen.14.4.die.club.architektur.eddrc
-lang: de
+content_lang: de
 description: "14.4 Die Club-Architektur (EDDRC) – Organe, Stimmgewicht, Budget"
 ---
 <a id="md-14-die-demokratischen-koalitionen-der-willigen-14-4-die-club-architektur-eddrc"></a>
@@ -13941,7 +13743,7 @@ _Organe, Stimmgewicht, Budget, Beitritt und Exit des European Democratic Defence
 
 ---
 content_id: erda.book.14.die.demokratischen.koalitionen.der.willigen.14.5.kompetenzkatalog.und.ministerien
-lang: de
+content_lang: de
 description: "14.5 Kompetenzkatalog und Ministerien – Föderal, Geteilt, National"
 ---
 <a id="md-14-die-demokratischen-koalitionen-der-willigen-14-5-kompetenzkatalog-und-ministerien"></a>
@@ -14129,7 +13931,7 @@ Die folgende Matrix zeigt für **zentrale Instrumente** aller acht Ministerien, 
 
 ---
 content_id: erda.book.14.die.demokratischen.koalitionen.der.willigen.14.6.die.demokratie.kette
-lang: de
+content_lang: de
 description: "14.6 Die Demokratie-Kette – Wer wählt, wer kontrolliert, wer bremst"
 ---
 <a id="md-14-die-demokratischen-koalitionen-der-willigen-14-6-die-demokratie-kette"></a>
@@ -14327,7 +14129,7 @@ Die folgende Tabelle fasst die wichtigsten Entscheidungstypen zusammen und ordne
 
 ---
 content_id: erda.book.14.die.demokratischen.koalitionen.der.willigen.14.7.verfassungsskizze.und.risiko.controls
-lang: de
+content_lang: de
 description: "14.7 Verfassungsskizze und Risiko-Controls – Art. 1–30, Annexe A–F, Resilienz-Dashboard"
 ---
 <a id="md-14-die-demokratischen-koalitionen-der-willigen-14-7-verfassungsskizze-und-risiko-controls"></a>
@@ -14499,7 +14301,7 @@ Damit ist der EDDRC kein statisches Konstrukt, sondern ein **evolutiv stabiles S
 
 ---
 content_id: erda.book.14.die.demokratischen.koalitionen.der.willigen.14.a.risk.controls.und.enforcement
-lang: de
+content_lang: de
 description: "Annex 14.A – Risk Controls & Enforcement (Vertragsanlage)"
 ---
 <a id="md-14-die-demokratischen-koalitionen-der-willigen-14-a-risk-controls-und-enforcement"></a>
@@ -14715,7 +14517,7 @@ Maßnahmen sind abgestuft und verhältnismäßig:
 
 ---
 content_id: erda.book.14.die.demokratischen.koalitionen.der.willigen.14.b.procurement.code
-lang: de
+content_lang: de
 description: "Annex 14.B – Procurement Code (Vertragsanlage)"
 ---
 <a id="md-14-die-demokratischen-koalitionen-der-willigen-14-b-procurement-code"></a>
@@ -14970,7 +14772,7 @@ Mindestens zu messen:
 
 ---
 content_id: erda.book.14.die.demokratischen.koalitionen.der.willigen.14.c.interoperability.und.certification
-lang: de
+content_lang: de
 description: "Annex 14.C – Interoperability & Certification (Vertragsanlage)"
 ---
 <a id="md-14-die-demokratischen-koalitionen-der-willigen-14-c-interoperability-und-certification"></a>
@@ -15243,7 +15045,7 @@ ISB veröffentlicht jährlich eine Roadmap; CoM beschließt Updates; POA erhält
 
 ---
 content_id: erda.book.14.die.demokratischen.koalitionen.der.willigen.14.d.war.powers.und.mandates
-lang: de
+content_lang: de
 description: "Annex 14.D – War Powers & Mandates (Vertragsanlage)"
 ---
 <a id="md-14-die-demokratischen-koalitionen-der-willigen-14-d-war-powers-und-mandates"></a>
@@ -15498,7 +15300,7 @@ Dieser Annex tritt mit dem Vertrag in Kraft.
 
 ---
 content_id: erda.book.14.die.demokratischen.koalitionen.der.willigen.14.e.audit.und.transparency
-lang: de
+content_lang: de
 description: "Annex 14.E – Audit & Transparency (Vertragsanlage)"
 ---
 <a id="md-14-die-demokratischen-koalitionen-der-willigen-14-e-audit-und-transparency"></a>
@@ -15744,7 +15546,7 @@ Dieser Annex tritt mit dem Vertrag in Kraft.
 
 ---
 content_id: erda.book.14.die.demokratischen.koalitionen.der.willigen.14.f.membership.tiers.und.upgrade
-lang: de
+content_lang: de
 description: "Annex 14.F – Membership Tiers & Upgrade/Downgrade (Vertragsanlage)"
 ---
 <a id="md-14-die-demokratischen-koalitionen-der-willigen-14-f-membership-tiers-und-upgrade"></a>
@@ -16012,8 +15814,7 @@ Dieser Annex tritt mit dem Vertrag in Kraft.
 
 ---
 content_id: erda.book.anhang.a.erda.staatenarchitektur.konzentrische.kreise
-lang: de
-
+content_lang: de
 ---
 <a id="md-anhang-a-erda-staatenarchitektur-konzentrische-kreise"></a>
 
@@ -16163,8 +15964,7 @@ Nicht politisch integrierte Demokratien mit sicherheitspolitischer und innovatio
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.readme
-lang: de
-
+content_lang: de
 ---
 <a id="md-anhang-b-erda-staatenprofile-readme"></a>
 
@@ -16177,8 +15977,7 @@ _**ERDA-Staatenprofile**_
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.1.einleitung.zum.staatenprofil.konzept.readme
-lang: de
-
+content_lang: de
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-1-einleitung-zum-staatenprofil-konzept-readme"></a>
 
@@ -16193,8 +15992,7 @@ Die European Rights-Based Democratic Alliance (ERDA) versteht sich nicht nur als
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.1.einleitung.zum.staatenprofil.konzept.b.1.1.ziel.und.funktion.der.staatenprofile
-lang: de
-
+content_lang: de
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-1-einleitung-zum-staatenprofil-konzept-b-1-1-ziel-und-funktion-der-staatenprofile"></a>
 
@@ -16214,8 +16012,7 @@ Die ERDA-Staatenprofile erfassen systematisch die politischen, gesellschaftliche
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.1.einleitung.zum.staatenprofil.konzept.b.1.2.modularer.aufbau
-lang: de
-
+content_lang: de
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-1-einleitung-zum-staatenprofil-konzept-b-1-2-modularer-aufbau"></a>
 
@@ -16241,8 +16038,7 @@ Das Profil ist modular in zehn Abschnitte gegliedert:
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.1.einleitung.zum.staatenprofil.konzept.b.1.3.einsatzmoglichkeiten
-lang: de
-
+content_lang: de
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-1-einleitung-zum-staatenprofil-konzept-b-1-3-einsatzmoglichkeiten"></a>
 
@@ -16262,8 +16058,7 @@ Die Profile können von politischen Entscheidungsträger:innen, zivilgesellschaf
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.1.einleitung.zum.staatenprofil.konzept.b.1.4.vielfalt.anerkennen.gemeinsamkeit.gestalten
-lang: de
-
+content_lang: de
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-1-einleitung-zum-staatenprofil-konzept-b-1-4-vielfalt-anerkennen-gemeinsamkeit-gestalten"></a>
 
@@ -16280,8 +16075,7 @@ Die Profile schaffen eine Balance zwischen Individualität und Integration. Sie 
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.2.schema.fur.erda.staatenprofile.ausfuhrliche.ubersicht
-lang: de
-
+content_lang: de
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-2-schema-fur-erda-staatenprofile-ausfuhrliche-ubersicht"></a>
 
@@ -16522,8 +16316,7 @@ Letzte Änderung: 2026-01-08
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.readme
-lang: de
-
+content_lang: de
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-readme"></a>
 
@@ -16537,7 +16330,7 @@ _**gemäß**_ [_**ERDA-Staatenarchitektur ("Konzentrische Kreise")**_](#kern-erd
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.at.staatenprofil.osterreich
-lang: de
+content_lang: de
 description: "State: AT, Date: 2025-06-09, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "AT"
 date: "2025-06-09"
@@ -16764,7 +16557,7 @@ Letzte Änderung: 2026-01-08
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.be.staatenprofil.belgien
-lang: de
+content_lang: de
 description: "State: BE, Date: 2025-05-28, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "BE"
 date: "2025-05-28"
@@ -17035,7 +16828,7 @@ Letzte Änderung: 2026-01-08
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.bg.staatenprofil.bulgarien
-lang: de
+content_lang: de
 description: "State: BG, Date: 2025-06-11, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "BG"
 date: "2026-01-01"
@@ -17247,7 +17040,7 @@ Letzte Änderung: 2026-01-08
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.cz.staatenprofil.tschechien
-lang: de
+content_lang: de
 description: "State: CZ, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "CZ"
 date: "2025-06-10"
@@ -17430,7 +17223,7 @@ Letzte Änderung: 2026-01-08
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.staatenprofil.deutschland.de
-lang: de
+content_lang: de
 description: "State: DE, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "DE"
 date: "2025-06-10"
@@ -17690,7 +17483,7 @@ Letzte Änderung: 2026-01-08
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.dk.staatenprofil.danemark
-lang: de
+content_lang: de
 description: "State: DK, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "DK"
 date: "2025-06-10"
@@ -17890,7 +17683,7 @@ Letzte Änderung: 2026-01-08
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.ee.staatenprofil.republik.estland
-lang: de
+content_lang: de
 description: "State: EE, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "EE"
 date: "2025-06-10"
@@ -18121,7 +17914,7 @@ Letzte Änderung: 2026-01-08
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.es.staatenprofil.spanien
-lang: de
+content_lang: de
 description: "State: ES, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "ES"
 date: "2025-06-10"
@@ -18361,7 +18154,7 @@ Letzte Änderung: 2026-01-08
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.fi.staatenprofil.finnland
-lang: de
+content_lang: de
 description: "State: FI, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "FI"
 date: "2025-06-10"
@@ -18579,7 +18372,7 @@ Letzte Änderung: 2026-01-08
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.fr.staatenprofil.frankreich
-lang: de
+content_lang: de
 description: "State: FR, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "FR"
 date: "2025-06-10"
@@ -18772,7 +18565,7 @@ Letzte Änderung: 2026-01-08
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.gr.staatenprofil.griechenland
-lang: de
+content_lang: de
 description: "State: GR, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "GR"
 date: "2025-06-10"
@@ -19011,7 +18804,7 @@ Letzte Änderung: 2026-01-08
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.hr.staatenprofil.kroatien
-lang: de
+content_lang: de
 description: "State: HR, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "HR"
 date: "2025-06-10"
@@ -19247,7 +19040,7 @@ Letzte Änderung: 2026-01-08
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.ie.staatenprofil.republik.irland
-lang: de
+content_lang: de
 description: "State: IE, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "IE"
 date: "2025-06-10"
@@ -19467,7 +19260,7 @@ Letzte Änderung: 2026-01-08
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.it.staatenprofil.italien
-lang: de
+content_lang: de
 description: "State: IT, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "IT"
 date: "2025-06-10"
@@ -19680,7 +19473,7 @@ Letzte Änderung: 2026-01-08
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.lt.staatenprofil.republik.litauen
-lang: de
+content_lang: de
 description: "State: LT, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "LT"
 date: "2025-06-10"
@@ -19895,7 +19688,7 @@ Letzte Änderung: 2026-01-08
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.lu.staatenprofil.luxemburg
-lang: de
+content_lang: de
 description: "State: LU, Date: 2025-06-11, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "LU"
 date: "2026-01-01"
@@ -20078,7 +19871,7 @@ Letzte Änderung: 2026-01-08
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.lv.staatenprofil.republik.lettland
-lang: de
+content_lang: de
 description: "State: LV, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "LV"
 date: "2025-06-10"
@@ -20304,7 +20097,7 @@ Letzte Änderung: 2026-01-08
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.nl.staatenprofil.niederlande
-lang: de
+content_lang: de
 description: "State: NL, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "NL"
 date: "2025-06-10"
@@ -20501,7 +20294,7 @@ Letzte Änderung: 2026-01-08
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.pl.staatenprofil.polen
-lang: de
+content_lang: de
 description: "State: PL, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "PL"
 date: "2025-06-10"
@@ -20690,7 +20483,7 @@ Letzte Änderung: 2026-01-08
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.pt.staatenprofil.republik.portugal
-lang: de
+content_lang: de
 description: "State: PT, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "PT"
 date: "2025-06-10"
@@ -20915,7 +20708,7 @@ Letzte Änderung: 2026-01-08
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.ro.staatenprofil.rumanien
-lang: de
+content_lang: de
 description: "State: RO, Date: 2025-06-11, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "RO"
 date: "2026-01-01"
@@ -21105,7 +20898,7 @@ Letzte Änderung: 2026-01-08
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.se.staatenprofil.schweden
-lang: de
+content_lang: de
 description: "State: SE, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "SE"
 date: "2025-06-10"
@@ -21282,7 +21075,7 @@ Letzte Änderung: 2026-01-08
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.si.staatenprofil.slowenien
-lang: de
+content_lang: de
 description: "State: SI, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "SI"
 date: "2025-06-10"
@@ -21514,7 +21307,7 @@ Letzte Änderung: 2026-01-08
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.sk.staatenprofil.slowakei
-lang: de
+content_lang: de
 description: "State: SK, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "SK"
 date: "2025-06-10"
@@ -21766,8 +21559,7 @@ Letzte Änderung: 2026-01-08
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.readme
-lang: de
-
+content_lang: de
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-readme"></a>
 
@@ -21781,7 +21573,7 @@ _**gemäß**_ [_**ERDA-Staatenarchitektur ("Konzentrische Kreise")**_](#erweiter
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.al.staatenprofil.albanien
-lang: de
+content_lang: de
 description: "State: AL, Date: 2025-06-11, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "AL"
 date: "2026-01-01"
@@ -21991,7 +21783,7 @@ Letzte Änderung: 2026-01-08
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.am.staatenprofil.armenien
-lang: de
+content_lang: de
 description: "State: AM, Date: 2025-06-11, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "AM"
 date: "2026-01-01"
@@ -22199,7 +21991,7 @@ Letzte Änderung: 2026-01-08
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.ba.staatenprofil.bosnien.herzegowina
-lang: de
+content_lang: de
 description: "State: BA, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "BA"
 date: "2025-06-10"
@@ -22410,7 +22202,7 @@ Letzte Änderung: 2026-01-08
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.ch.staatenprofil.schweiz
-lang: de
+content_lang: de
 description: "State: CH, Date: 2025-06-11, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "CH"
 date: "2026-01-01"
@@ -22643,7 +22435,7 @@ Letzte Änderung: 2026-01-08
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.cy.staatenprofil.zypern
-lang: de
+content_lang: de
 description: "State: CY, Date: 2025-06-11, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "CY"
 date: "2026-01-01"
@@ -22851,7 +22643,7 @@ Letzte Änderung: 2026-01-08
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.ge.staatenprofil.georgien
-lang: de
+content_lang: de
 description: "State: GE, Date: 2025-06-11, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "GE"
 date: "2026-01-01"
@@ -23061,7 +22853,7 @@ Letzte Änderung: 2026-01-08
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.hu.staatenprofil.ungarn
-lang: de
+content_lang: de
 description: "State: HU, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "HU"
 date: "2025-06-10"
@@ -23272,7 +23064,7 @@ Letzte Änderung: 2026-01-08
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.il.staatenprofil.israel
-lang: de
+content_lang: de
 description: "State: IL, Date: 2025-06-11, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "IL"
 date: "2026-01-01"
@@ -23483,7 +23275,7 @@ Letzte Änderung: 2026-01-08
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.md.staatenprofil.moldau
-lang: de
+content_lang: de
 description: "State: MD, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "MD"
 date: "2025-06-10"
@@ -23693,7 +23485,7 @@ Letzte Änderung: 2026-01-08
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.me.staatenprofil.montenegro
-lang: de
+content_lang: de
 description: "State: ME, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "ME"
 date: "2025-06-10"
@@ -23905,7 +23697,7 @@ Letzte Änderung: 2026-01-08
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.mk.staatenprofil.nord.mazedonien
-lang: de
+content_lang: de
 description: "State: MK, Date: 2025-06-11, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "MK"
 date: "2026-01-01"
@@ -24115,7 +23907,7 @@ Letzte Änderung: 2026-01-08
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.mt.staatenprofil.malta
-lang: de
+content_lang: de
 description: "State: MT, Date: 2025-06-11, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "MT"
 date: "2026-01-01"
@@ -24331,7 +24123,7 @@ Letzte Änderung: 2026-01-08
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.no.staatenprofil.norwegen
-lang: de
+content_lang: de
 description: "State: NO, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "NO"
 date: "2025-06-10"
@@ -24506,7 +24298,7 @@ Letzte Änderung: 2026-01-08
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.rs.staatenprofil.serbien
-lang: de
+content_lang: de
 description: "State: RS, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "RS"
 date: "2025-06-10"
@@ -24734,7 +24526,7 @@ Letzte Änderung: 2026-01-08
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.tr.staatenprofil.tuerkei
-lang: de
+content_lang: de
 description: "State: TR, Date: 2025-06-11, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "TR"
 date: "2026-01-01"
@@ -24902,7 +24694,7 @@ Letzte Änderung: 2026-01-08
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.ua.staatenprofil.ukraine
-lang: de
+content_lang: de
 description: "State: UA, Date: 2025-06-08, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: None"
 country: "UA"
 date: "2025-06-08"
@@ -25136,7 +24928,7 @@ Letzte Änderung: 2026-01-08
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.uk.staatenprofil.vereinigtes.koenigreich
-lang: de
+content_lang: de
 description: "State: UK, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "UK"
 date: "2025-06-10"
@@ -25344,7 +25136,7 @@ Letzte Änderung: 2026-01-08
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.xk.staatenprofil.kosovo
-lang: de
+content_lang: de
 description: "State: XK, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "XK"
 date: "2025-06-10"
@@ -25558,8 +25350,7 @@ Letzte Änderung: 2026-01-08
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.readme
-lang: de
-
+content_lang: de
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-5-staatenprofile-erda-globale-assoziierte-readme"></a>
 
@@ -25572,7 +25363,7 @@ _**gemäß**_ [_**ERDA-Staatenarchitektur ("Konzentrische Kreise")**_](#globale-
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.au.staatenprofil.australien
-lang: de
+content_lang: de
 description: "State: AU, Date: 2025-06-11, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "AU"
 date: "2026-01-01"
@@ -25757,7 +25548,7 @@ Letzte Änderung: 2026-01-08
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.ca.staatenprofil.kanada
-lang: de
+content_lang: de
 description: "State: CA, Date: 2025-06-11, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "CA"
 date: "2026-01-01"
@@ -25991,7 +25782,7 @@ Letzte Änderung: 2026-01-08
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.cl.staatenprofil.chile
-lang: de
+content_lang: de
 description: "State: CL, Date: 2025-06-11, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "CL"
 date: "2026-01-01"
@@ -26211,7 +26002,7 @@ Letzte Änderung: 2026-01-08
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.cr.staatenprofil.costa.rica
-lang: de
+content_lang: de
 description: "State: CR, Date: 2025-06-12, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "CR"
 date: "2025-06-12"
@@ -26403,7 +26194,7 @@ Letzte Änderung: 2026-01-08
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.in.staatenprofil.indien
-lang: de
+content_lang: de
 description: "State: IN, Date: 2025-06-11, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "IN"
 date: "2026-01-01"
@@ -26617,7 +26408,7 @@ Letzte Änderung: 2026-01-08
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.jp.staatenprofil.japan
-lang: de
+content_lang: de
 description: "State: JP, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "JP"
 date: "2025-06-10"
@@ -26832,7 +26623,7 @@ Letzte Änderung: 2026-01-08
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.kr.staatenprofil.sued.korea
-lang: de
+content_lang: de
 description: "State: KR, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "KR"
 date: "2025-06-10"
@@ -27047,7 +26838,7 @@ Letzte Änderung: 2026-01-08
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.na.staatenprofil.namibia
-lang: de
+content_lang: de
 description: "State: NA, Date: 2025-06-11, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "NA"
 date: "2026-01-01"
@@ -27243,7 +27034,7 @@ Letzte Änderung: 2026-01-08
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.nz.staatenprofil.neuseeland
-lang: de
+content_lang: de
 description: "State: NZ, Date: 2025-06-11, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "NZ"
 date: "2026-01-01"
@@ -27475,7 +27266,7 @@ Letzte Änderung: 2026-01-08
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.sn.staatenprofil.senegal
-lang: de
+content_lang: de
 description: "State: SN, Date: 2025-06-11, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "SN"
 date: "2026-01-01"
@@ -27687,7 +27478,7 @@ Letzte Änderung: 2026-01-08
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.tn.staatenprofil.tunesien
-lang: de
+content_lang: de
 description: "State: TN, Date: 2025-06-11, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "TN"
 date: "2026-01-01"
@@ -27835,7 +27626,7 @@ Letzte Änderung: 2026-01-08
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.tw.staatenprofil.taiwan
-lang: de
+content_lang: de
 description: "State: TW, Date: 2025-06-11, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "TW"
 date: "2026-01-01"
@@ -28074,7 +27865,7 @@ Letzte Änderung: 2026-01-08
 
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.uy.staatenprofil.uruguay
-lang: de
+content_lang: de
 description: "State: UY, Date: 2025-06-11, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "UY"
 date: "2026-01-01"
@@ -28258,8 +28049,7 @@ Letzte Änderung: 2026-01-08
 
 ---
 content_id: erda.book.anhang.c.europa.2.0.fahrplan.fur.eine.lebenswerte.resiliente.und.fuhrende.union
-lang: de
-
+content_lang: de
 ---
 <a id="md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union"></a>
 
@@ -28456,8 +28246,7 @@ Erstellt im April 2025 durch die **ERDA Buch Redaktion** (LLM-gestützte sprachl
 
 ---
 content_id: erda.book.anhang.d.executive.compendium.fur.entscheidungstrager.readme
-lang: de
-
+content_lang: de
 ---
 <a id="md-anhang-d-executive-compendium-fur-entscheidungstrager-readme"></a>
 
@@ -28613,8 +28402,7 @@ Dieses Dokument bietet politischen Entscheidungsträgern, Institutionen, KI-Syst
 
 ---
 content_id: erda.book.anhang.d.executive.compendium.fur.entscheidungstrager.d.1.block.a.strategische.ausgangslage.kapitel.1.3
-lang: de
-
+content_lang: de
 ---
 <a id="md-anhang-d-executive-compendium-fur-entscheidungstrager-d-1-block-a-strategische-ausgangslage-kapitel-1-3"></a>
 
@@ -28713,8 +28501,7 @@ Reflexion der Demokratie als lernfähige, ethisch fundierte Bewegung – mit Ari
 
 ---
 content_id: erda.book.anhang.d.executive.compendium.fur.entscheidungstrager.d.2.block.b.institutionelle.architektur.kapitel.4
-lang: de
-
+content_lang: de
 ---
 <a id="md-anhang-d-executive-compendium-fur-entscheidungstrager-d-2-block-b-institutionelle-architektur-kapitel-4"></a>
 
@@ -28756,8 +28543,7 @@ Definition der normativen und strategischen Leitlinien der ERDA.
 
 ---
 content_id: erda.book.anhang.d.executive.compendium.fur.entscheidungstrager.d.3.block.c.sektorale.konzepte.kapitel.5.9
-lang: de
-
+content_lang: de
 ---
 <a id="md-anhang-d-executive-compendium-fur-entscheidungstrager-d-3-block-c-sektorale-konzepte-kapitel-5-9"></a>
 
@@ -28933,8 +28719,7 @@ Entwicklung einer europäischen Raumfahrtstrategie, die Sicherheit, Ethik, Wisse
 
 ---
 content_id: erda.book.anhang.d.executive.compendium.fur.entscheidungstrager.d.4.handlungsleitfaden.and.tool.box
-lang: de
-
+content_lang: de
 ---
 <a id="md-anhang-d-executive-compendium-fur-entscheidungstrager-d-4-handlungsleitfaden-and-tool-box"></a>
 
@@ -29020,8 +28805,7 @@ Dieser Abschnitt bündelt die operativen Abkürzungen für Entscheidungsträger:
 
 ---
 content_id: erda.book.anhang.d.executive.compendium.fur.entscheidungstrager.d.5.strategiepapier.europa.resilient.gegen.russlands.kriegslogik
-lang: de
-
+content_lang: de
 ---
 <a id="md-anhang-d-executive-compendium-fur-entscheidungstrager-d-5-strategiepapier-europa-resilient-gegen-russlands-kriegslogik"></a>
 
@@ -29145,8 +28929,7 @@ Europa muss aufhören, sich selbst abzuschrecken: Ukraine schnell mit Luftvertei
 
 ---
 content_id: erda.book.anhang.d.executive.compendium.fur.entscheidungstrager.d.6.block.d.gesellschafts.demokratie.und.bundnisarchitektur.kapitel.10.14
-lang: de
-
+content_lang: de
 ---
 <a id="md-anhang-d-executive-compendium-fur-entscheidungstrager-d-6-block-d-gesellschafts-demokratie-und-bundnisarchitektur-kapitel-10-14"></a>
 
@@ -29334,8 +29117,7 @@ Entwurf einer konkreten institutionellen und vertraglichen Architektur für demo
 
 ---
 content_id: erda.book.anhang.e.erda.buch.baukasten.readme
-lang: de
-
+content_lang: de
 ---
 <a id="md-anhang-e-erda-buch-baukasten-readme"></a>
 
@@ -29408,8 +29190,7 @@ Das Schema beschreibt, wie Kooperations-KIs eingebunden werden (Rollen, Eingabe-
 
 ---
 content_id: erda.book.anhang.e.erda.buch.baukasten.e.3.erda.gitbook.kapitel.template
-lang: de
-
+content_lang: de
 ---
 <a id="md-anhang-e-erda-buch-baukasten-e-3-erda-gitbook-kapitel-template"></a>
 
@@ -29523,8 +29304,7 @@ evtl. vorhandene schon erarbeitete Kapitel Inhalte (Grundthemen, Auflistungen, .
 
 ---
 content_id: erda.book.anhang.e.erda.buch.baukasten.e.4.erda.leserprofil.schema
-lang: de
-
+content_lang: de
 ---
 <a id="md-anhang-e-erda-buch-baukasten-e-4-erda-leserprofil-schema"></a>
 
@@ -29621,8 +29401,7 @@ Das ERDA-Buch ist ein **strategisches, philosophisches und zivilisatorisches Lei
 
 ---
 content_id: erda.book.anhang.e.erda.buch.baukasten.e.5.interaktive.elemente.checkliste.and.quiz
-lang: de
-
+content_lang: de
 ---
 <a id="md-anhang-e-erda-buch-baukasten-e-5-interaktive-elemente-checkliste-and-quiz"></a>
 
@@ -29652,8 +29431,7 @@ d) Moralische Überlegenheit
 
 ---
 content_id: erda.book.anhang.e.erda.buch.baukasten.e.6.boxen.template.zitate.praxis.kontraste.visionen
-lang: de
-
+content_lang: de
 ---
 <a id="md-anhang-e-erda-buch-baukasten-e-6-boxen-template-zitate-praxis-kontraste-visionen"></a>
 
@@ -29683,8 +29461,7 @@ _**E.6 🎛️ Boxen-Template (Zitate, Praxis, Kontraste, Visionen)**_
 
 ---
 content_id: erda.book.anhang.e.erda.buch.baukasten.e.7.template.fur.ein.standardisiertes.erda.quellenverzeichnis
-lang: de
-
+content_lang: de
 ---
 <a id="md-anhang-e-erda-buch-baukasten-e-7-template-fur-ein-standardisiertes-erda-quellenverzeichnis"></a>
 
@@ -29795,8 +29572,7 @@ Für eine evolutionäre Qualitätsentwicklung wird empfohlen, die Ergebnisse der
 
 ---
 content_id: erda.book.anhang.e.erda.buch.baukasten.e.8.rollenspiel.qualitatssicherungstemplate
-lang: de
-
+content_lang: de
 ---
 <a id="md-anhang-e-erda-buch-baukasten-e-8-rollenspiel-qualitatssicherungstemplate"></a>
 
@@ -29858,8 +29634,7 @@ _Dieses Rollenspiel-Template kann flexibel für verschiedene Kapitel und Vorlage
 
 ---
 content_id: erda.book.anhang.e.erda.buch.baukasten.e.9.schema.and.promptstruktur.fur.kooperations.kis.im.erda.projekt
-lang: de
-
+content_lang: de
 ---
 <a id="md-anhang-e-erda-buch-baukasten-e-9-schema-and-promptstruktur-fur-kooperations-kis-im-erda-projekt"></a>
 
@@ -29983,8 +29758,7 @@ Die KI achtet auf:
 
 ---
 content_id: erda.book.anhang.f.erda.institut.fur.demokratische.resilienz.und.transformation
-lang: de
-
+content_lang: de
 ---
 <a id="md-anhang-f-erda-institut-fur-demokratische-resilienz-und-transformation"></a>
 
@@ -30039,8 +29813,7 @@ Wir laden Sie ein, Teil dieses Ringflusses der demokratischen Erneuerung zu werd
 
 ---
 content_id: erda.book.anhang.g.risikobetrachtung.und.strategische.resilienz.der.erda.initiative
-lang: de
-
+content_lang: de
 ---
 <a id="md-anhang-g-risikobetrachtung-und-strategische-resilienz-der-erda-initiative"></a>
 
@@ -30151,8 +29924,7 @@ Eine vorausschauende Risikobetrachtung stärkt die langfristige Widerstandsfähi
 
 ---
 content_id: erda.book.anhang.h.fehlgeschlagene.machtstrukturen.der.menschheit
-lang: de
-
+content_lang: de
 ---
 <a id="md-anhang-h-fehlgeschlagene-machtstrukturen-der-menschheit"></a>
 
@@ -30206,8 +29978,7 @@ Zur nachhaltigen Überwindung dieser destruktiven Systeme sind kurzfristige Maß
 
 ---
 content_id: erda.book.anhang.i.zentrales.erda.glossar
-lang: de
-
+content_lang: de
 ---
 <a id="md-anhang-i-zentrales-erda-glossar"></a>
 
@@ -30276,8 +30047,7 @@ Dieses Glossar fasst die zentralen Begriffe des ERDA-Buches zusammen. Es dient a
 
 ---
 content_id: erda.book.anhang.j.lizenz.offenheit
-lang: de
-
+content_lang: de
 ---
 <a id="md-anhang-j-lizenz-offenheit"></a>
 
@@ -30655,7 +30425,7 @@ Für weiterführende Fragen wenden Sie sich an den **Autor** (siehe Kontaktdaten
 
 ---
 content_id: erda.book.anhang.k.qualitatssicherung
-lang: de
+content_lang: de
 description: 'Qualitätssicherung: Erstbewertung 2025-06-07, rollenbasierte ethisch-strategische Erweiterung 2026-05-02 und Umsetzung 2026-05-03'
 ---
 <a id="md-anhang-k-qualitatssicherung"></a>
@@ -30807,8 +30577,7 @@ Das ERDA-Buch befindet sich auf einem außergewöhnlich hohen qualitativen Nivea
 
 ---
 content_id: erda.book.anhang.l.kolophon
-lang: de
-
+content_lang: de
 ---
 <a id="md-anhang-l-kolophon"></a>
 
@@ -31008,8 +30777,7 @@ Dieses Dokument ist Teil des ERDA-Buches und unterliegt der **CC BY-SA 4.0**-Liz
 
 ---
 content_id: erda.book.anhang.m.kindheit.erwachsenwerden.und.das.anti.game.over.prinzip
-lang: de
-
+content_lang: de
 ---
 <a id="md-anhang-m-kindheit-erwachsenwerden-und-das-anti-game-over-prinzip"></a>
 

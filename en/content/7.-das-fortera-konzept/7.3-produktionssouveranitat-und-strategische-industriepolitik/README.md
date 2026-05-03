@@ -1,6 +1,6 @@
 ---
 content_id: erda.book.7.das.fortera.konzept.7.3.produktionssouveranitat.und.strategische.industriepolitik.readme
-lang: en
+content_lang: en
 source: de/content/7.-das-fortera-konzept/7.3-produktionssouveranitat-und-strategische-industriepolitik/README.md
 status: approved
 ---

@@ -1,7 +1,6 @@
 ---
 content_id: erda.book.anhang.d.executive.compendium.fur.entscheidungstrager.readme
-lang: de
-
+content_lang: de
 ---
 # Anhang D - Executive Compendium für Entscheidungsträger
 

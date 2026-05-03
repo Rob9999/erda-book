@@ -1,7 +1,6 @@
 ---
 content_id: erda.book.7.das.fortera.konzept.readme
-lang: de
-
+content_lang: de
 ---
 # 7. Das FORTERA Konzept
 

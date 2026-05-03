@@ -1,6 +1,6 @@
 ---
 content_id: erda.book.anhang.k.qualitatssicherung
-lang: de
+content_lang: de
 description: 'Qualitätssicherung: Erstbewertung 2025-06-07, rollenbasierte ethisch-strategische Erweiterung 2026-05-02 und Umsetzung 2026-05-03'
 ---
 

@@ -1,6 +1,6 @@
 ---
 content_id: erda.book.anhang.e.erda.buch.baukasten.e.4.erda.leserprofil.schema
-lang: en
+content_lang: en
 source: de/content/anhang-e-erda-buch-baukasten/e.4-erda-leserprofil-schema.md
 status: draft
 ---

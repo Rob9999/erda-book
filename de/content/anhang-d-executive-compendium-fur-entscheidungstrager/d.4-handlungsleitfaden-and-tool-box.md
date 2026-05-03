@@ -1,7 +1,6 @@
 ---
 content_id: erda.book.anhang.d.executive.compendium.fur.entscheidungstrager.d.4.handlungsleitfaden.and.tool.box
-lang: de
-
+content_lang: de
 ---
 # D.4 Handlungsleitfäden & Tool‑Box
 

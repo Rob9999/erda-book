@@ -1,7 +1,6 @@
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.1.einleitung.zum.staatenprofil.konzept.readme
-lang: de
-
+content_lang: de
 ---
 # B.1 Einleitung zum Staatenprofil-Konzept
 

@@ -1,6 +1,6 @@
 ---
 content_id: erda.book.11.das.burger.konzept.11.2.was.mochte.das.leben.readme
-lang: en
+content_lang: en
 source: de/content/11.-das-burger-konzept/11.2-was-mochte-das-leben/README.md
 status: in-review
 ---

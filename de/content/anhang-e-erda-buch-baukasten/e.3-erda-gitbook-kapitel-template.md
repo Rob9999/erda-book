@@ -1,7 +1,6 @@
 ---
 content_id: erda.book.anhang.e.erda.buch.baukasten.e.3.erda.gitbook.kapitel.template
-lang: de
-
+content_lang: de
 ---
 # E.3 🪄 ERDA GitBook Kapitel-Template
 

@@ -1,6 +1,6 @@
 ---
 content_id: erda.book.anhang.d.executive.compendium.fur.entscheidungstrager.d.1.block.a.strategische.ausgangslage.kapitel.1.3
-lang: en
+content_lang: en
 source: de/content/anhang-d-executive-compendium-fur-entscheidungstrager/d.1-block-a-strategische-ausgangslage-kapitel-1-3.md
 status: draft
 ---

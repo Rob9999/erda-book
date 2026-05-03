@@ -1,6 +1,6 @@
 ---
 content_id: erda.book.anhang.d.executive.compendium.fur.entscheidungstrager.d.6.block.d.gesellschafts.demokratie.und.bundnisarchitektur.kapitel.10.14
-lang: en
+content_lang: en
 source: de/content/anhang-d-executive-compendium-fur-entscheidungstrager/d.6-block-d-gesellschafts-demokratie-und-bundnisarchitektur-kapitel-10-14.md
 status: draft
 ---

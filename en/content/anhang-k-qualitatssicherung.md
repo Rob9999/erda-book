@@ -1,6 +1,6 @@
 ---
 content_id: erda.book.anhang.k.qualitatssicherung
-lang: en
+content_lang: en
 source: de/content/anhang-k-qualitatssicherung.md
 status: draft
 description: 'Quality assurance: initial assessment 2025-06-07, role-based ethical-strategic extension 2026-05-02 and implementation 2026-05-03'

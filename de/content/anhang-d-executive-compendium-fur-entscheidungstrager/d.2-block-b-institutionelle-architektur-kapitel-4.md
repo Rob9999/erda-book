@@ -1,7 +1,6 @@
 ---
 content_id: erda.book.anhang.d.executive.compendium.fur.entscheidungstrager.d.2.block.b.institutionelle.architektur.kapitel.4
-lang: de
-
+content_lang: de
 ---
 # D.2 Block B – Institutionelle Architektur (Kapitel 4)
 

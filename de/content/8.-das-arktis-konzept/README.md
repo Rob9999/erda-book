@@ -1,7 +1,6 @@
 ---
 content_id: erda.book.8.das.arktis.konzept.readme
-lang: de
-
+content_lang: de
 ---
 # 8. Das ARKTIS Konzept
 

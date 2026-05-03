@@ -1,6 +1,6 @@
 ---
 content_id: erda.book.anhang.a.erda.staatenarchitektur.konzentrische.kreise
-lang: en
+content_lang: en
 source: de/content/anhang-a-erda-staatenarchitektur-konzentrische-kreise.md
 status: draft
 ---

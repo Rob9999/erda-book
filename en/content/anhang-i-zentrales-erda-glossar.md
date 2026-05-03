@@ -1,6 +1,6 @@
 ---
 content_id: erda.book.anhang.i.zentrales.erda.glossar
-lang: en
+content_lang: en
 source: de/content/anhang-i-zentrales-erda-glossar.md
 status: in-review
 ---

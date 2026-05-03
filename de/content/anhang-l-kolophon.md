@@ -1,7 +1,6 @@
 ---
 content_id: erda.book.anhang.l.kolophon
-lang: de
-
+content_lang: de
 ---
 # Anhang L: Kolophon
 

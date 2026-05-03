@@ -1,6 +1,6 @@
 ---
 content_id: erda.book.12.das.demokratie.konzept.readme
-lang: en
+content_lang: en
 source: de/content/12.-das-demokratie-konzept/README.md
 status: in-review
 description: "Chapter 12 – The Democracy Concept (draft translation)"

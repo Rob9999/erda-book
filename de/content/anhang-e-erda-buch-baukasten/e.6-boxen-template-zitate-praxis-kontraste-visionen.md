@@ -1,7 +1,6 @@
 ---
 content_id: erda.book.anhang.e.erda.buch.baukasten.e.6.boxen.template.zitate.praxis.kontraste.visionen
-lang: de
-
+content_lang: de
 ---
 # E.6 🎛️ Boxen-Template (Zitate, Praxis, Kontraste, Visionen)
 

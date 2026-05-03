@@ -1,6 +1,6 @@
 ---
 content_id: erda.book.anhang.e.erda.buch.baukasten.readme
-lang: en
+content_lang: en
 source: de/content/anhang-e-erda-buch-baukasten/README.md
 status: draft
 ---
