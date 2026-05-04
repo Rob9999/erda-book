@@ -13,7 +13,7 @@
 | P1 | A6 Publish-Artefakte | DE/EN Publish Markdown und PDF bewusst neu erzeugen, erst nach Metadaten-Sync | offen |
 | P1 | A7 Zertifizierungsprotokoll | `release-certification-v2.5.0.md` final durchgehen, keine stillen Freigaben setzen | offen |
 | P1 | A8 Final Release Gate | Rollen-/Redaktionsfreigabe, README/book.json/CFF/Zenodo/Release Notes konsistent pruefen | offen |
-| P2 | Gemini/AI-Referenzlauf DE | Nur im `--dry-run`, nur mit bewusst gesetztem `AI_REFERENCE_API_KEY`; JSON nach `tmp/gitbook-worker-ai-v2.5.0/` | vorbereitet, Key fehlt |
+| P2 | Gemini/AI-Referenzlauf DE | Nur im Dry-Run ueber `scripts/quality/ai_references_throttled.py`; priorisierte Dateiliste und Reports nach `tmp/gitbook-worker-ai-v2.5.0/` | vorbereitet |
 | P2 | EN-Uebersetzungsreview | EN-Status, Source-Fidelity und britisches Englisch fuer neue v2.5-Inhalte pruefen | offen |
 | P2 | CIVITAS P.2 deutsche Volluebersetzung | Optional klaeren, ob spaeter eine vollstaendige deutsche Uebersetzung statt deutscher Einordnung gewuenscht ist | offen |
 
