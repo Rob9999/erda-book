@@ -13,9 +13,8 @@ date: "2026-04-06"
 ---
 # Appendix P.2: Paper – CIVITAS Public: Building a European Digital Agora
 
-## A Call to Action
-
 **Author:** Robert Alexander Massinger  
+**Subtitle:** A Call to Action
 **Affiliation / Location:** ERDA Initiative / Independent Concept Development, Munich, Germany  
 **Version:** 1.0  
 **Date:** 2026-04-06  

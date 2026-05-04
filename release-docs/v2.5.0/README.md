@@ -20,3 +20,4 @@
 | [civitas-paper-und-kapitel-6-integrationsplan-v2.5.0.md](civitas-paper-und-kapitel-6-integrationsplan-v2.5.0.md) | Integrationsplan und Umsetzungsnotiz zu CIVITAS P.2 und Kapitel-6-Vertiefung |
 | [anhang-m-beurteilung-civitas-p2-und-kapitel-6-v2.5.0.md](anhang-m-beurteilung-civitas-p2-und-kapitel-6-v2.5.0.md) | Anhang-M-Beurteilung mit Handlungsanweisungen zu CIVITAS P.2 und Kapitel 6 |
 | [legal-claims-scan-civitas-v2.5.0.md](legal-claims-scan-civitas-v2.5.0.md) | A4-Report zu Rechts-/Konformitätsformulierungen in CIVITAS P.2 und Kapitel 6 |
+| [source-link-check-civitas-v2.5.0.md](source-link-check-civitas-v2.5.0.md) | A5-Report zur Quellen- und Linkprüfung von CIVITAS P.2 |

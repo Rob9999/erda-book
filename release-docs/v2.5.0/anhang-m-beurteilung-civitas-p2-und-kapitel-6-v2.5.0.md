@@ -76,7 +76,9 @@ Empfohlene Befehle:
 .\.venv\Scripts\python.exe -m gitbook_worker.tools.quality.link_audit --root en/content --no-progress --check-duplicate-headings --check-citations --list-todos
 ```
 
-**Release-Wertung:** Blocker nur bei defekten DOI-/Kernquellen, irreführenden Statistiken oder nicht dokumentierten Linkproblemen in releasekritischen Stellen.
+**Aktueller Stand:** Erledigt für CIVITAS P.2. Der A5-Bericht liegt unter `release-docs/v2.5.0/source-link-check-civitas-v2.5.0.md`. Ergebnis: kein A5-Blocker; DOI im Paperkopf `200 OK`, keine broken links, keine Zitationslücken, keine TODOs, nach Normalisierung keine Duplicate-Heading-Warnung. Einzelne externe Anbieter blockieren CLI-Abrufe mit `403`; diese Fälle wurden per `curl`, DOI-Handle-API oder bibliografischer Quellenklasse gegengeprüft.
+
+**Release-Wertung:** Für CIVITAS P.2 erfüllt mit dokumentiertem Restrisiko. Allgemeine Release-Quellen- und Build-Gates bleiben davon unberührt.
 
 ### A6 - Publish-Artefakte nach sauberem Commit neu erzeugen und prüfen
 

@@ -83,6 +83,21 @@ Besonders zu prüfen:
 - Jahreszahlen, Datumsangaben und Roadmap-Zeiträume
 - Aussagen mit direktem Bezug auf aktuelle Programme, Verträge, Institutionen oder politische Beschlüsse
 
+### 5.1 Teilzertifizierung A5 - CIVITAS P.2
+
+| Feld | Eintrag |
+|---|---|
+| Prüfdatum | 2026-05-04 |
+| Prüfrolle | Redakteur:in |
+| Scope | CIVITAS P.2 DE/EN, Referenzen `[1]` bis `[16]`, DOI, Plattform-/Rechtsquellen |
+| Toolreports | `tmp/a5-civitas/sources-de.csv`, `tmp/a5-civitas/sources-en.csv`, `tmp/a5-civitas/link-audit-civitas-de.csv`, `tmp/a5-civitas/link-audit-civitas-en.csv` |
+| Dauerhafter Report | `release-docs/v2.5.0/source-link-check-civitas-v2.5.0.md` |
+| Ergebnis | erfüllt mit dokumentiertem Restrisiko |
+
+**Befund:** `sources` extrahierte DE/EN-Quellenreports. `link_audit` meldete für CIVITAS P.2 DE/EN nach redaktioneller Heading-Normalisierung jeweils 0 broken links, 1 good DOI-link, 0 image issues, 0 duplicate headings, 0 citation gaps und 0 TODOs. Die Referenzen `[1]` bis `[16]` wurden risikobasiert geprüft; DOI- und Weblinks sind verifiziert oder als bibliografische/rechtliche Quellenklasse plausibel dokumentiert.
+
+**Restrisiko:** Einige Anbieter blockieren CLI-Abrufe zeitweise mit `403`; die betroffenen Quellen wurden per `curl`, DOI-Handle-API oder bibliografischer Plausibilität gegengeprüft. Kein A5-Blocker für CIVITAS P.2.
+
 ---
 
 ## 6. Inhaltliche Prüfung DE
