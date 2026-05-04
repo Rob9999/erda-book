@@ -131,7 +131,7 @@ Sie brauchen eine Politik, die Leben schützt, Reife ermöglicht und das Erwachs
 Das ERDA-Modell verbindet die strukturelle Stabilität des Gewaltmonopols[2], die Abrüstungsidee Roosevelts[1], das Vertrauen als unsichtbare Institution[3] und die demokratische Kontrolle der Sicherheitskräfte[6] zu einem Grundprinzip: Reife statt Angst.
 Darauf bauen alle weiteren Kapitel auf.
 
-> Für eine vertiefte philosophische Grundlegung der hier beschriebenen Prinzipien – insbesondere des Wechselspiels von Kindheit und Erwachsenwerden als wiederkehrende Strukturmodi des Lebens – siehe **Anhang M: Kindheit, Erwachsenwerden und das Anti-Game-Over-Prinzip**.
+> Für eine vertiefte philosophische Grundlegung der hier beschriebenen Prinzipien – insbesondere des Wechselspiels von Kindheit und Erwachsenwerden als wiederkehrende Strukturmodi des Lebens – siehe **Anhang P.1: Paper – Kindheit, Erwachsenwerden und das Anti-Game-Over-Prinzip**.
 
 ## Quellen
 

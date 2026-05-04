@@ -1,11 +1,14 @@
 ---
-content_id: erda.book.anhang.m.kindheit.erwachsenwerden.und.das.anti.game.over.prinzip
+content_id: erda.paper.kindheit.erwachsenwerden.anti.game.over.prinzip.v1
 content_lang: en
-source: de/content/anhang-m-kindheit-erwachsenwerden-und-das-anti-game-over-prinzip.md
+source: de/content/anhang-p-papers/p.1-kindheit-erwachsenwerden-und-das-anti-game-over-prinzip.md
 status: draft
-
+previous_content_id: erda.book.anhang.m.kindheit.erwachsenwerden.und.das.anti.game.over.prinzip
+paper_publication_status: published
+doi: 10.5281/zenodo.19244929
+citation_style: APA 7
 ---
-# Appendix M: Childhood, Adulthood, and the Anti-Game-Over Principle
+# Appendix P.1: Paper – Childhood, Adulthood, and the Anti-Game-Over Principle
 
 ## A developmental-philosophical model of prosperative life
 
@@ -14,6 +17,8 @@ status: draft
 **Version:** 1.0.0
 **Date:** 2026-03-27
 **DOI:** [10.5281/zenodo.19244929](https://doi.org/10.5281/zenodo.19244929)
+
+**APA citation:** Massinger, R. A. (2026). *Childhood, Adulthood, and the Anti-Game-Over Principle: A developmental-philosophical model of prosperative life* (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.19244929
 
 ---
 
@@ -341,9 +346,9 @@ In the end, this yields a simple but far-reaching image:
 
 ---
 
-## Appendix B: Recommended Citation
+## Appendix B: Recommended APA Citation
 
-**Massinger, Robert Alexander (2026): _Childhood, Adulthood, and the Anti-Game-Over Principle: A developmental-philosophical model of prosperative life_. Zenodo. DOI: 10.5281/zenodo.19244929**
+**Massinger, R. A. (2026). _Childhood, Adulthood, and the Anti-Game-Over Principle: A developmental-philosophical model of prosperative life_ (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.19244929**
 
 ---
 

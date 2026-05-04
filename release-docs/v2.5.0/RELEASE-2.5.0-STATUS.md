@@ -1,7 +1,7 @@
 # Release v2.5.0 – Status
 
 **Codename:** Democratic Knowledge
-**Stand:** 2026-05-03
+**Stand:** 2026-05-04
 **Phase:** RC1 (Release Candidate 1)
 
 ---
@@ -17,8 +17,8 @@
 | 5 | Redaktionelle Überarbeitung README | ✅ | DE + EN, Commit dcf68c2 |
 | 6 | Paper-Integration: Kindererziehung → §11.3.7 | ✅ | DE + EN, Commit e7e5005 |
 | 7 | Paper-Integration: Mosaik-Prinzip → §5.8.4 | ✅ | DE + EN, Commit e7e5005 |
-| 8 | Paper-Integration: Anti-Game-Over → Anhang M | ✅ | DE + EN, Commit e7e5005 |
-| 9 | Querverweise (11.2, 3.5, 4.3.5 → Anhang M) | ✅ | DE, Commit e7e5005 |
+| 8 | Paper-Integration: Anti-Game-Over → Anhang P.1 | ✅ | DE + EN, ursprünglich Commit e7e5005, nachträglich nach P verschoben |
+| 9 | Querverweise (11.2, 3.5, 4.3.5 → Anhang P.1) | ✅ | DE + EN, nach M/P-Entscheidung aktualisiert |
 | 10 | SUMMARY.md + book.json aktualisiert | ✅ | DE + EN, Commit e7e5005 |
 | 11 | Konsistenzprüfung Mini-Wording-Set | ✅ | DE + EN ergänzt, v2.5-Begriffe aufgenommen |
 | 12 | Content-Freeze | ⏳ | nach Review |
@@ -27,7 +27,8 @@
 | 15 | Final Review & Tag | ⏳ | |
 | 16 | Root-Attribution + Metadaten-Gate | ✅ | `ATTRIBUTION.md`, README/book/CFF/Zenodo synchronisiert |
 | 17 | Frontmatter-Normalisierung | ✅ | DE/EN `content_id`, `content_lang`, EN `source`, `status`; keine Content-Keys `lang`, `language`, `lang-version` wegen PDF-Fontfallback |
-| 18 | EN-Querverweise Appendix M | ✅ | Kapitel 3.5, 4.3.5 und 11.2 ergänzt |
+| 18 | EN-Querverweise Appendix P.1 | ✅ | Kapitel 3.5, 4.3.5, 11.2 und 11.3 aktualisiert |
+| 20 | Anhang M als messbarer Buchprojektmaßstab | ✅ | DE + EN, aus `buchprojektentscheidungen-v2.5.0.md` abgeleitet |
 | 19 | Worker-Roles-Durchgang „Ethik vor Strategie“ | ✅ | Kapitel 2/3/11/12/H/I ethisch gestärkt, Kapitel 5/13/14/D/I strategisch nachgeschärft |
 
 ---
@@ -49,12 +50,13 @@
 - [x] README „Beiträge und Qualität" überarbeitet (DE + EN)
 - [x] Kindererziehung-Essay als §11.3.7 integriert (DE + EN)
 - [x] Mosaik-Prinzip als §5.8.4 integriert (DE + EN)
-- [x] Anti-Game-Over-Prinzip als Anhang M erstellt (DE + EN)
+- [x] Anti-Game-Over-Prinzip als Anhang P.1 / Paper erstellt (DE + EN)
+- [x] Anhang M als messbarer Buchprojektmaßstab erstellt (DE + EN)
 - [x] Querverweise in Kap. 11.2, 3.5, 4.3.5 (DE)
 - [x] SUMMARY.md + book.json aktualisiert (DE + EN)
 - [x] Root-`ATTRIBUTION.md` ergänzt
 - [x] Release-Metadaten synchronisiert (README, book.json, CFF, Zenodo)
 - [x] YAML-Frontmatter DE/EN normalisiert
-- [x] EN-Querverweise auf Anhang/Appendix M ergänzt
+- [x] DE/EN-Querverweise auf Anhang/Appendix P.1 aktualisiert
 - [x] Glossar + Mini-Wording-Set um v2.5-Begriffe erweitert
 - [x] Worker-Roles-Durchgang „Ethik vor Strategie“ zweisprachig integriert

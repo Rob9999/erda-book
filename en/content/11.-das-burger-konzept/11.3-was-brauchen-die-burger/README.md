@@ -126,7 +126,7 @@ The preceding principles — maturity instead of fear, dignity, play, and respon
 
 This guiding vision is neither law nor curriculum. It is a compass — for parents, educators, communities, and all who bear responsibility for the next generation.
 
-> 📖 **Background:** The philosophical foundations of this guiding vision — in particular the model of recurring childhood and adulthood and the Anti-Game-Over Principle — are developed in [Appendix M: Childhood, Adulthood, and the Anti-Game-Over Principle](../../appendix-m-childhood-adulthood-and-the-anti-game-over-principle.md).
+> 📖 **Background:** The philosophical foundations of this guiding vision — in particular the model of recurring childhood and adulthood and the Anti-Game-Over Principle — are developed in [Appendix P.1: Paper – Childhood, Adulthood, and the Anti-Game-Over Principle](../../appendix-p-papers/p.1-childhood-adulthood-and-the-anti-game-over-principle.md).
 
 ## 11.3.8 Summary
 

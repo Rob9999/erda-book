@@ -1,6 +1,6 @@
 # Release History
 
-## 2.5.0-rc1 – 5 Mar 2026 (updated 29 Mar 2026)
+## 2.5.0-rc1 – 5 Mar 2026 (updated 4 May 2026)
 - **Responsible:** Robert Alexander Massinger (Lead) with support from ChatGPT/OpenAI and GitHub Copilot/Anthropic.
 - **Codename:** Democratic Knowledge
 - **Goal:**
@@ -10,8 +10,9 @@
     - Integration of three papers from `desktop/misc/` into the book:
       - **Kindererziehung essay** → new §11.3.7 (DE+EN): guiding vision for raising children in freedom and responsibility.
       - **Mosaik-Prinzip** → new §5.8.4 (DE+EN): strategic reflection on mosaic warfare principle and democratic DSN resilience.
-      - **Anti-Game-Over paper** → new **Appendix M** (DE translation + EN original): developmental-philosophical model of prosperative life (DOI: 10.5281/zenodo.19244929).
-    - Cross-references to Appendix M in chapters 11.2, 3.5, 4.3.5.
+      - **Anti-Game-Over paper** → **Appendix P.1** (DE translation + EN original): developmental-philosophical model of prosperative life (DOI: 10.5281/zenodo.19244929; APA citation in the paper header).
+      - **Book-project yardstick** → **Appendix M**: measurable release criteria, source standards and project decisions.
+    - Cross-references to Appendix P.1 in chapters 11.2, 11.3, 3.5, 4.3.5.
   - Editorial:
     - README "Contributions and quality" sections rewritten in professional editorial voice (DE + EN).
   - Technical:
@@ -21,7 +22,8 @@
 - **Highlights:**
   - **Seven principles of democratic knowledge** as standalone reference
   - **Editorial quality initiative** for project communication
-  - **Appendix M – Anti-Game-Over Principle** as new book appendix (bilingual)
+  - **Appendix M – Measure** as measurable book-project yardstick (bilingual)
+  - **Appendix P.1 – Anti-Game-Over Principle** as paper appendix (bilingual)
   - **Guiding vision for child-rearing** (§11.3.7) with 12 democratic education principles
   - **Mosaic Principle reflection** (§5.8.4) linking decentralised warfare theory to DSN architecture
   - Full release planning with status tracking

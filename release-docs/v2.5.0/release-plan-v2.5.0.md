@@ -1,7 +1,7 @@
 # ERDA Book – Release v2.5.0 Plan
 
 **Status:** in Arbeit (rc1)
-**Letzte Aktualisierung:** 2026-05-03
+**Letzte Aktualisierung:** 2026-05-04
 
 ---
 
@@ -17,7 +17,8 @@ Release 2.5.0 markiert die **konzeptionelle Vertiefung** des ERDA-Buches. Währe
 2. **Paper-Integration (3 Konzeptpapiere → Buchinhalte)**
    - **Kindererziehung** → §11.3.7: Erziehungsleitbild in Freiheit und Verantwortung (12 Leitsätze)
    - **Mosaik-Prinzip** → §5.8.4: Strategische Reflexion zur demokratischen DSN-Resilienz
-   - **Anti-Game-Over-Prinzip** → Anhang M: Entwicklungsphilosophisches Modell prosperativen Lebens (DOI: 10.5281/zenodo.19244929)
+   - **Anti-Game-Over-Prinzip** → Anhang P.1: Paper zum entwicklungsphilosophischen Modell prosperativen Lebens (DOI: 10.5281/zenodo.19244929; APA-Zitation im Paperkopf)
+   - **Buchprojektmaßstab** → Anhang M: messbare Buchprojektentscheidungen, Release-Kriterien und Quellenstandards
 
 3. **Redaktionelle Qualitätsoffensive**
    - Überarbeitung der README-Abschnitte „Beiträge und Qualität" (DE + EN) im professionellen redaktionellen Ton (bereits umgesetzt in v2.0.0-Nacharbeiten).
@@ -54,7 +55,8 @@ Release 2.5.0 markiert die **konzeptionelle Vertiefung** des ERDA-Buches. Währe
 ## 📦 Deliverables
 
 - „Demokratisches Wissen" als Desktop-Dokument (`desktop/misc/`) in DE + EN
-- Drei Konzeptpapiere integriert: §11.3.7 + §5.8.4 + Anhang M (DE + EN)
+- Drei Konzeptpapiere integriert: §11.3.7 + §5.8.4 + Anhang P.1 (DE + EN)
+- Anhang M als messbarer Buchprojektmaßstab ergänzt (DE + EN)
 - Querverweise in Kapiteln 11.2, 3.5, 4.3.5 (DE + EN)
 - Aktualisierte Versionsnummern und Metadaten (README, book.json, CITATION.cff)
 - Rollenbasierte Ethik-vor-Strategie-Integration (DE + EN) inklusive Glossar- und Anhang-K-Dokumentation
@@ -72,10 +74,11 @@ Release 2.5.0 markiert die **konzeptionelle Vertiefung** des ERDA-Buches. Währe
 - [x] Desktop-Ablage DE + EN
 - [x] Paper-Integration: Kindererziehung → §11.3.7 (DE + EN)
 - [x] Paper-Integration: Mosaik-Prinzip → §5.8.4 (DE + EN)
-- [x] Paper-Integration: Anti-Game-Over → Anhang M (DE + EN)
+- [x] Paper-Integration: Anti-Game-Over → Anhang P.1 (DE + EN)
+- [x] Maßstab-Integration: Buchprojektentscheidungen → Anhang M (DE + EN)
 - [x] Querverweise in Kap. 11.2, 3.5, 4.3.5 (DE + EN)
 - [x] SUMMARY.md aktualisiert (DE + EN)
-- [x] book.json-Datum auf 2026-05-03 (DE + EN)
+- [x] book.json-Datum auf 2026-05-04 (DE + EN)
 - [x] Root-`ATTRIBUTION.md` ergänzt
 - [x] Frontmatter DE/EN normalisiert (`content_id`, `content_lang`, EN `source`, `status`; keine Content-Keys `lang`, `language`, `lang-version` wegen PDF-Fontfallback)
 - [x] Konsistenzprüfung gegen Mini-Wording-Set

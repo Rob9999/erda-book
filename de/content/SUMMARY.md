@@ -316,4 +316,6 @@
 * [Anhang J: Lizenz & Offenheit](anhang-j-lizenz---offenheit.md)
 * [Anhang K: Qualitätssicherung](anhang-k-qualitatssicherung.md)
 * [Anhang L: Kolophon](anhang-l-kolophon.md)
-* [Anhang M: Kindheit, Erwachsenwerden und das Anti-Game-Over-Prinzip](anhang-m-kindheit-erwachsenwerden-und-das-anti-game-over-prinzip.md)
+* [Anhang M: Maßstab – messbare Buchprojektentscheidungen und Release-Kriterien](anhang-m-massstab-messbare-buchprojektentscheidungen-und-release-kriterien.md)
+* [Anhang P: Papers](anhang-p-papers/README.md)
+  * [P.1 Paper – Kindheit, Erwachsenwerden und das Anti-Game-Over-Prinzip](anhang-p-papers/p.1-kindheit-erwachsenwerden-und-das-anti-game-over-prinzip.md)

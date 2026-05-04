@@ -1,6 +1,6 @@
 # Das ERDA Buch – Release v2.5.0
 
-**Datum:** 2026-03-05 (aktualisiert: 2026-05-03)
+**Datum:** 2026-03-05 (aktualisiert: 2026-05-04)
 **Tag:** `v2.5.0` (geplant)
 **Codename:** Democratic Knowledge
 **Autor:** Robert Alexander Massinger (mit ChatGPT/OpenAI und GitHub Copilot/Anthropic)
@@ -11,7 +11,7 @@
 
 Version 2.5.0 vertieft die **normativen Grundlagen** des ERDA-Buches. Im Zentrum steht das Dokument **„Demokratisches Wissen"** – sieben Prinzipien, die als Leitfaden für demokratische Handlungsfähigkeit dienen: zu Macht, zum Umgang mit nicht-demokratiewilligen Staaten, zu Frieden und Sicherheit, zu Wahrheit und Täuschung, zur Demokratie selbst, zu Technologie/KI und zur inneren Verfassung einer demokratischen Gesellschaft.
 
-Darüber hinaus integriert dieses Release drei konzeptionelle Papers als Buchinhalte: ein **Erziehungsleitbild** (§11.3.7), eine **strategische Reflexion zum Mosaik-Prinzip** (§5.8.4) und das **Anti-Game-Over-Prinzip** als neuen **Anhang M** – ein entwicklungsphilosophisches Modell prosperativen Lebens.
+Darüber hinaus integriert dieses Release drei konzeptionelle Papers als Buchinhalte: ein **Erziehungsleitbild** (§11.3.7), eine **strategische Reflexion zum Mosaik-Prinzip** (§5.8.4) und das **Anti-Game-Over-Prinzip** als **Anhang P.1** – ein entwicklungsphilosophisches Modell prosperativen Lebens. Neu ist außerdem **Anhang M** als messbarer Buchprojektmaßstab für Release-Kriterien, Quellenstandards und offene Projektentscheidungen.
 
 ---
 
@@ -27,10 +27,13 @@ Darüber hinaus integriert dieses Release drei konzeptionelle Papers als Buchinh
 - **§5.8.4 – Strategische Reflexion: Mosaik-Prinzip und demokratische DSN-Resilienz (DE + EN):**
   Verbindung des aus autoritärer Kriegsführung bekannten Mosaik-Prinzips mit der rechtsstaatlich gebundenen DSN-Architektur. Eingefügt in Kapitel 5.8 „Defence Sovereignty Nodes".
 
-- **Anhang M – Kindheit, Erwachsenwerden und das Anti-Game-Over-Prinzip (DE + EN):**
-  Neuer Buchanhang: entwicklungsphilosophisches Modell, das Kindheit und Erwachsensein als zyklisch wiederkehrende Grundformen offenen Lebens versteht. Formuliert Anti-Game-Over-Prinzipien und das Ideal eines *prosperativen Lebens*. (DOI: 10.5281/zenodo.19244929)
+- **Anhang M – Maßstab: messbare Buchprojektentscheidungen und Release-Kriterien (DE + EN):**
+  Neuer Maßstabsanhang: übersetzt die Buchprojektentscheidungen in prüfbare Kriterien für Baselines, Quellen, Szenarien, Draft-Status, Paper-Compliance und Release-Restrisiken.
 
-- **Querverweise** in den Kapiteln 11.2, 3.5 und 4.3.5 auf Anhang M.
+- **Anhang P.1 – Paper: Kindheit, Erwachsenwerden und das Anti-Game-Over-Prinzip (DE + EN):**
+  Paper-Anhang: entwicklungsphilosophisches Modell, das Kindheit und Erwachsensein als zyklisch wiederkehrende Grundformen offenen Lebens versteht. Formuliert Anti-Game-Over-Prinzipien und das Ideal eines *prosperativen Lebens*. (DOI: 10.5281/zenodo.19244929; APA-Zitation im Paperkopf)
+
+- **Querverweise** in den Kapiteln 11.2, 11.3, 3.5 und 4.3.5 auf Anhang P.1.
 
 ### Redaktionelle Verbesserungen
 
@@ -47,13 +50,13 @@ Darüber hinaus integriert dieses Release drei konzeptionelle Papers als Buchinh
 - Versionsumstellung auf v2.5.0-rc1
 - Release-Dokumentation in `release-docs/v2.5.0/`
 - Desktop-Materialien in `desktop/misc/`
-- `book.json`-Datum aktualisiert auf 2026-05-03 (DE + EN)
-- SUMMARY.md aktualisiert (DE + EN) mit Anhang-M-Eintrag
+- `book.json`-Datum aktualisiert auf 2026-05-04 (DE + EN)
+- SUMMARY.md aktualisiert (DE + EN) mit Anhang-M- und Anhang-P-Einträgen
 - Root-`ATTRIBUTION.md` als Primärquelle für Drittinhalte ergänzt
 - YAML-Frontmatter mit `content_id`, `content_lang`, `source` und `status` für DE/EN-Inhaltsdateien normalisiert; Pandoc/Babel-nahe Keys wie `lang`, `language` und `lang-version` werden im Content-Frontmatter vermieden, um Twemoji/ERDA-CJK-Fontfallbacks im PDF stabil zu halten
 - Release-Metadaten-Gate umgesetzt: README-Datum, `book.json`, CFF-Dateien und `.zenodo.json` synchronisiert
 - Englische Appendix-J/L-Dateipfade auf `appendix-j-license-and-openness.md` und `appendix-l-colophon.md` normalisiert
-- EN-Querverweise auf Appendix M in Kapitel 3.5, 4.3.5 und 11.2 ergänzt
+- DE/EN-Querverweise auf Appendix/Anhang P.1 in Kapitel 3.5, 4.3.5, 11.2 und 11.3 aktualisiert
 
 ---
 

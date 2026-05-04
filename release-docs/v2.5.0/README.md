@@ -15,3 +15,5 @@
 | [final-release-checklist-v2.5.0.md](final-release-checklist-v2.5.0.md) | Draft der verbindlichen Final-Release-Gates |
 | [release-certification-v2.5.0.md](release-certification-v2.5.0.md) | Draft des Zertifizierungsprotokolls |
 | [gitbook-worker-quality-evaluation-v2.5.0.md](gitbook-worker-quality-evaluation-v2.5.0.md) | Draft-Bewertung der gitbook_worker-Quality-Tools |
+| [buchprojektentscheidungen-v2.5.0.md](buchprojektentscheidungen-v2.5.0.md) | Draft des redaktionellen Entscheidungsrahmens für das lebende Buchprojekt |
+| [redaktioneller-durchgang-de-v2.5.0.md](redaktioneller-durchgang-de-v2.5.0.md) | Draft des redaktionellen Gesamtdurchgangs der deutschen Buchfassung |

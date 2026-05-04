@@ -316,4 +316,6 @@
 * [Appendix J: License & Openness](appendix-j-license-and-openness.md)
 * [Appendix K: Quality Assurance](anhang-k-qualitatssicherung.md)
 * [Appendix L: Colophon](appendix-l-colophon.md)
-* [Appendix M: Childhood, Adulthood, and the Anti-Game-Over Principle](appendix-m-childhood-adulthood-and-the-anti-game-over-principle.md)
+* [Appendix M: Measure – Measurable Book-Project Decisions and Release Criteria](appendix-m-measure-measurable-book-project-decisions-and-release-criteria.md)
+* [Appendix P: Papers](appendix-p-papers/README.md)
+  * [P.1 Paper – Childhood, Adulthood, and the Anti-Game-Over Principle](appendix-p-papers/p.1-childhood-adulthood-and-the-anti-game-over-principle.md)
