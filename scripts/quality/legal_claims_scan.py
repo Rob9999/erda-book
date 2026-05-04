@@ -14,7 +14,6 @@ import sys
 from dataclasses import dataclass
 from pathlib import Path
 
-
 LEGAL_TERMS = re.compile(
     r"\b(DSGVO|GDPR|Digital Services Act|DSA|eIDAS|EMRK|ECHR|Grundrechte|"
     r"fundamental rights?|Datenschutz|data protection|Plattformrecht|platform law|"
@@ -73,9 +72,15 @@ def classify(line: str) -> tuple[str, str] | None:
     has_requirement = bool(REQUIREMENT_TERMS.search(line))
 
     if has_assertive and not has_requirement:
-        return "review-high", "assertive legal/compliance wording without an obvious requirement qualifier"
+        return (
+            "review-high",
+            "assertive legal/compliance wording without an obvious requirement qualifier",
+        )
     if has_assertive and has_requirement:
-        return "review-medium", "assertive wording appears in a requirement or target context"
+        return (
+            "review-medium",
+            "assertive wording appears in a requirement or target context",
+        )
     return "review-low", "legal framework reference"
 
 
