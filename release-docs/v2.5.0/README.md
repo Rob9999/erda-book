@@ -17,3 +17,4 @@
 | [gitbook-worker-quality-evaluation-v2.5.0.md](gitbook-worker-quality-evaluation-v2.5.0.md) | Draft-Bewertung der gitbook_worker-Quality-Tools |
 | [buchprojektentscheidungen-v2.5.0.md](buchprojektentscheidungen-v2.5.0.md) | Draft des redaktionellen Entscheidungsrahmens für das lebende Buchprojekt |
 | [redaktioneller-durchgang-de-v2.5.0.md](redaktioneller-durchgang-de-v2.5.0.md) | Draft des redaktionellen Gesamtdurchgangs der deutschen Buchfassung |
+| [civitas-paper-und-kapitel-6-integrationsplan-v2.5.0.md](civitas-paper-und-kapitel-6-integrationsplan-v2.5.0.md) | Draft zur Integration des CIVITAS-Papers in Anhang P und zur Vertiefung von Kapitel 6 |
