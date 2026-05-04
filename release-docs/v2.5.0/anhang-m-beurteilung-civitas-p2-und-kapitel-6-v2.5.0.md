@@ -46,14 +46,16 @@ Der wichtigste Befund: Die Umsetzung macht CIVITAS wesentlich konkreter, ohne da
 
 ### A3 - Auffälligen Original-Heading bewusst behandeln
 
-**Befund:** Der Abschnittstitel `### 17.2 Discussion Its value lies...` kommt bereits aus dem Desktop-Original und wurde in P.2 unverändert übernommen.
+**Befund:** Der Abschnittstitel `### 17.2 Discussion Its value lies...` kam bereits aus dem Desktop-Original und wurde zunächst in P.2 übernommen.
 
-**Anweisung:** Nicht stillschweigend im Buch korrigieren, solange P.2 als veröffentlichter Originaltext geführt wird. Für v2.5.0 gibt es zwei saubere Optionen:
+**Anweisung:** Als offensichtlichen Markdown-/Layoutfehler typografisch normalisieren, ohne Inhalt, Reihenfolge oder Zitierkern des Papers zu ändern. Die Korrektur muss in allen repo-internen CIVITAS-Kopien synchron erfolgen:
 
-1. Im Zertifizierungsprotokoll als bekannter Originaltext-Artefakt dokumentieren und unverändert lassen.
-2. Bei einer späteren korrigierten Paper-Version ein Erratum oder eine neue Paper-Fassung mit eindeutigem Versionshinweis veröffentlichen.
+1. `desktop/papers/civitas/content/civitas_public_v1_0_zenodo.md`
+2. `desktop/papers/civitas/publish/civitas-public-v1.0-zenodo.md`
+3. `de/content/anhang-p-papers/p.2-civitas-public-building-a-european-digital-agora.md`
+4. `en/content/appendix-p-papers/p.2-civitas-public-building-a-european-digital-agora.md`
 
-**Empfehlung:** Für v2.5.0 Option 1. Das schützt Zitierfähigkeit und Originaltreue.
+**Umsetzung:** Für v2.5.0 wurde die Überschrift zu `### 17.2 Discussion` getrennt und der folgende Satz als normaler Absatz gesetzt. Das ist eine typografische Normalisierung, keine inhaltliche Paper-Änderung.
 
 ### A4 - Rechtsaussagen nur als Anforderungen, nicht als Rechtsgutachten führen
 
@@ -98,7 +100,7 @@ git status --short --branch
 - Kapitel 6: CIVITAS als Roadmap/Architektur, nicht als fertiges System bewertet.
 - EN-Status: draft bleibt sichtbar, sofern kein Native-gb-en-Review erfolgt.
 - Restrisiko: englisches Original in deutscher Buchfassung bewusst akzeptiert.
-- Restrisiko: auffälliger Original-Heading 17.2 als Originaltext-Artefakt oder Erratum-Folgeauftrag dokumentiert.
+- Hinweis: auffälliger Original-Heading 17.2 wurde als typografische Normalisierung in allen repo-internen CIVITAS-Kopien korrigiert.
 - Quality-Tool-Ergebnisse: Link-Audit, Sources-Export, ggf. AI-References-Dry-Run.
 
 ### A8 - Finalfreigabe erst nach Gate 5 und Gate 6

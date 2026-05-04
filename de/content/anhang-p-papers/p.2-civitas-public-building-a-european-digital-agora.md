@@ -472,7 +472,9 @@ Transparency about the limitations of CIVITAS Public is essential for its credib
 - The author is the initiator of the ERDA Initiative, which creates an inherent interest in the project’s success. Independent evaluation is therefore essential.
 - Comparisons with existing platforms (§3.1) are based on publicly available documentation, not systematic empirical assessment.
 
-### 17.2 Discussion Its value lies in its **intermediary function**: it occupies the currently underbuilt space between open discourse and trustworthy structure, between digital reach and democratic maturity, between public visibility and responsible continuity.
+### 17.2 Discussion
+
+Its value lies in its **intermediary function**: it occupies the currently underbuilt space between open discourse and trustworthy structure, between digital reach and democratic maturity, between public visibility and responsible continuity.
 
 The initial restriction of publication rights to verified and certified actors is a practical mechanism for trust formation, not an end in itself. This restriction can only remain legitimate if accompanied by genuine civic accessibility, transparent review procedures, open input channels, and visible pathways for participatory expansion.
 
