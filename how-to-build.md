@@ -19,6 +19,24 @@ PDF builds should start from synchronized metadata.
 
 If the metadata gate fails, fix the metadata first and then rerun the build. A PDF rebuild alone is not a reason to bump release dates.
 
+## Legal wording gate before release builds
+
+Before release/publish builds, scan legal and compliance wording in release-relevant content. The scan is a redaction aid, not legal advice: it finds passages where requirements such as GDPR/DSGVO, Digital Services Act, DSA, eIDAS, ECHR/EMRK or fundamental-rights language could sound like already-certified legal compliance.
+
+Example for the CIVITAS v2.5.0 A4 check:
+
+```powershell
+.\.venv\Scripts\python.exe scripts/quality/legal_claims_scan.py `
+	de/content/6.-das-civitas-konzept `
+	en/content/6.-das-civitas-konzept `
+	de/content/anhang-p-papers/p.2-civitas-public-building-a-european-digital-agora.md `
+	en/content/appendix-p-papers/p.2-civitas-public-building-a-european-digital-agora.md `
+	--root . `
+	--output release-docs/v2.5.0/legal-claims-scan-civitas-v2.5.0.md
+```
+
+Interpretation rule: `review-high` means editorial review is required. It does not automatically mean the text is wrong. The release certification must document whether a passage is a requirement/target architecture, a scenario, or an already verified legal claim. Do not present concepts as legally checked platforms unless an explicit legal review exists.
+
 ## Prerequisites
 
 - Python (recommended: 3.11.x)

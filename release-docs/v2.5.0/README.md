@@ -19,3 +19,4 @@
 | [redaktioneller-durchgang-de-v2.5.0.md](redaktioneller-durchgang-de-v2.5.0.md) | Draft des redaktionellen Gesamtdurchgangs der deutschen Buchfassung |
 | [civitas-paper-und-kapitel-6-integrationsplan-v2.5.0.md](civitas-paper-und-kapitel-6-integrationsplan-v2.5.0.md) | Integrationsplan und Umsetzungsnotiz zu CIVITAS P.2 und Kapitel-6-Vertiefung |
 | [anhang-m-beurteilung-civitas-p2-und-kapitel-6-v2.5.0.md](anhang-m-beurteilung-civitas-p2-und-kapitel-6-v2.5.0.md) | Anhang-M-Beurteilung mit Handlungsanweisungen zu CIVITAS P.2 und Kapitel 6 |
+| [legal-claims-scan-civitas-v2.5.0.md](legal-claims-scan-civitas-v2.5.0.md) | A4-Report zu Rechts-/Konformitätsformulierungen in CIVITAS P.2 und Kapitel 6 |

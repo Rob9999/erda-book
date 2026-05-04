@@ -156,3 +156,22 @@ Freigabeaussage EN:
 Finale Aussage:
 
 > Draft. Keine finale Freigabe, solange die oben genannten Prüfungen offen sind.
+
+---
+
+## 11. Teilzertifizierung A4 - Rechtsformulierungen CIVITAS
+
+Diese Teilzertifizierung betrifft nur die redaktionelle A4-Frage aus der Anhang-M-Beurteilung: Werden DSGVO, Digital Services Act, eIDAS, EMRK/ECHR und Grundrechte als Anforderungen/Zielrahmen dargestellt, statt als bereits juristisch geprüfte Konformität behauptet?
+
+| Feld | Eintrag |
+|---|---|
+| Prüfdatum | 2026-05-04 |
+| Prüfrolle | Redakteur:in |
+| Skript | `scripts/quality/legal_claims_scan.py` |
+| Scope | Kapitel 6 DE/EN und CIVITAS P.2 DE/EN |
+| Report | `release-docs/v2.5.0/legal-claims-scan-civitas-v2.5.0.md` |
+| Ergebnis | erfüllt mit dokumentiertem Restrisiko |
+
+**Befund:** Der Scan fand 64 Kandidatenstellen, davon 6 `review-high`-Treffer. Die `review-high`-Treffer liegen im P.2-Papertext bzw. dessen Anhangserklärungen; die neu verdichteten Kapitel-6-Stellen bleiben im Anforderungs-, Roadmap- und Zielrahmen. Die Treffer werden als redaktionell prüfpflichtige Formulierungen dokumentiert, nicht als juristische Zertifizierung.
+
+**Entscheidung:** Für v2.5.0 ist A4 als Release-Check erfüllt mit Restrisiko. CIVITAS wird nicht als rechtlich geprüfte Plattform dargestellt. Vor Finalfreigabe bleiben Build-/Artefaktprüfung, Quellen-/Linkprüfung und Publisher-Freigabe offen. Diese Aussage ist keine Rechtsberatung.

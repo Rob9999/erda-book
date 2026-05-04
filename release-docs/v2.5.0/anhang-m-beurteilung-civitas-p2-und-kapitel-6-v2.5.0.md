@@ -61,7 +61,7 @@ Der wichtigste Befund: Die Umsetzung macht CIVITAS wesentlich konkreter, ohne da
 
 **Anweisung:** Kapitel 6 darf DSGVO, Digital Services Act, eIDAS und Grundrechte-Rahmen als maßgebliche Anforderungen nennen. Es darf nicht behaupten, CIVITAS sei bereits rechtlich geprüft oder garantiert konform.
 
-**Aktueller Stand:** Die Buchfassung ist redaktionell ausreichend vorsichtig formuliert. Vor Finalfreigabe trotzdem einen Lektor-/Redakteur-Check auf Rechtsformulierungen durchführen. Dies ist keine Rechtsberatung.
+**Aktueller Stand:** Der Check wurde mit `scripts/quality/legal_claims_scan.py` für Kapitel 6 DE/EN und CIVITAS P.2 DE/EN durchgeführt. Der Report liegt unter `release-docs/v2.5.0/legal-claims-scan-civitas-v2.5.0.md`. Ergebnis: erfüllt mit dokumentiertem Restrisiko. Die `review-high`-Treffer liegen im P.2-Papertext bzw. dessen Anhangserklärungen; die neu verdichteten Kapitel-6-Stellen bleiben im Anforderungs-, Roadmap- und Zielrahmen. Dies ist keine Rechtsberatung.
 
 ### A5 - Quellen- und Linkprüfung nachziehen
 

@@ -75,6 +75,23 @@ When committing regenerated artifacts:
 - Before release/publish builds, run a metadata gate: README date, `book.json` dates, `publish.yml` versions, CFF files, `.zenodo.json`, release notes and release history must agree.
 - Local preview builds may validate metadata, but should not silently rewrite release dates or release descriptions.
 
+## 4a) Legal wording scan
+
+For release-relevant sections that mention legal frameworks, platform law, data protection, identity, moderation, appeals or fundamental rights, run the legal wording scan before final certification:
+
+```powershell
+.\.venv\Scripts\python.exe scripts/quality/legal_claims_scan.py de/content en/content --root . --output release-docs/vX.Y.Z/legal-claims-scan-vX.Y.Z.md
+```
+
+For scoped checks, pass only the relevant chapter and appendix paths. The scan is an editorial gate, not legal advice. `review-high` findings must be reviewed and documented in the per-release certification protocol as one of:
+
+- requirement / target architecture,
+- scenario / roadmap,
+- already externally reviewed legal claim,
+- needs rewrite before final release.
+
+No release text should imply that a concept, platform or governance model is legally checked or certified unless a corresponding legal review is explicitly available and cited.
+
 ## 5) Release candidate → main
 
 > **Pflichtlektüre:** Vor jedem Versionswechsel die vollständige Checkliste in
@@ -86,16 +103,17 @@ Typical flow:
 2. Keep DE↔EN changes synchronized, including front matter mapping (`content_id`, `source`, `status`).
 3. Update or create the versioned release notes; use them as the basis for all release descriptions.
 4. Confirm Redakteur release readiness and Publisher build responsibility per `worker-roles.md`.
-5. Update the mandatory README release header.
-6. Regenerate artifacts (MD/PDF) only after metadata and release descriptions are synchronized.
-7. **Update all CITATION.cff files** (version, date-released, abstract, contributors):
+5. Run scoped legal wording scans for release-relevant legal/compliance claims and record the result in the certification protocol.
+6. Update the mandatory README release header.
+7. Regenerate artifacts (MD/PDF) only after metadata and release descriptions are synchronized.
+8. **Update all CITATION.cff files** (version, date-released, abstract, contributors):
       - `CITATION.cff` (root)
       - `de/CITATION.cff`
       - `en/CITATION.cff`
       - `de/publish/CITATION.cff`
       - `en/publish/CITATION.cff`
-8. **Update `.zenodo.json`** (version, description, keywords, contributors).
-9. Update or create the per-release status doc in `release-docs/vX.Y.Z/`.
-10. Update `release-docs/Releases.md` for the release entry.
-11. Create PR: `main` ← `release_candidate`.
-12. After merge, tag `vX.Y.Z` and publish (e.g. Zenodo), following the per-release certification protocol.
+9. **Update `.zenodo.json`** (version, description, keywords, contributors).
+10. Update or create the per-release status doc in `release-docs/vX.Y.Z/`.
+11. Update `release-docs/Releases.md` for the release entry.
+12. Create PR: `main` ← `release_candidate`.
+13. After merge, tag `vX.Y.Z` and publish (e.g. Zenodo), following the per-release certification protocol.
