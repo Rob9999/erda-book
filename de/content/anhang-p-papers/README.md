@@ -22,3 +22,4 @@ Für jedes Paper in Anhang P gilt verpflichtend:
 ## P.2 Veröffentlichte Papers
 
 - [P.1 Paper – Kindheit, Erwachsenwerden und das Anti-Game-Over-Prinzip](p.1-kindheit-erwachsenwerden-und-das-anti-game-over-prinzip.md)
+- [P.2 Paper – CIVITAS Public: Building a European Digital Agora](p.2-civitas-public-building-a-european-digital-agora.md)

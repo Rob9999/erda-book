@@ -30,6 +30,8 @@
 | 18 | EN-Querverweise Appendix P.1 | ✅ | Kapitel 3.5, 4.3.5, 11.2 und 11.3 aktualisiert |
 | 20 | Anhang M als messbarer Buchprojektmaßstab | ✅ | DE + EN, aus `buchprojektentscheidungen-v2.5.0.md` abgeleitet |
 | 19 | Worker-Roles-Durchgang „Ethik vor Strategie“ | ✅ | Kapitel 2/3/11/12/H/I ethisch gestärkt, Kapitel 5/13/14/D/I strategisch nachgeschärft |
+| 21 | CIVITAS Public als Anhang P.2 | ✅ | DE + EN, DOI 10.5281/zenodo.19443256, APA-Zitation im Paperkopf |
+| 22 | Kapitel 6 CIVITAS vertieft | ✅ | DE + EN, Governance, Publikationslogik, Technik, Rechtsschutz, Partnerschaften, Bildung, Roadmap |
 
 ---
 
@@ -51,6 +53,8 @@
 - [x] Kindererziehung-Essay als §11.3.7 integriert (DE + EN)
 - [x] Mosaik-Prinzip als §5.8.4 integriert (DE + EN)
 - [x] Anti-Game-Over-Prinzip als Anhang P.1 / Paper erstellt (DE + EN)
+- [x] CIVITAS Public als Anhang P.2 / Paper erstellt (DE + EN)
+- [x] Kapitel 6 als CIVITAS-Architektur vertieft (DE + EN)
 - [x] Anhang M als messbarer Buchprojektmaßstab erstellt (DE + EN)
 - [x] Querverweise in Kap. 11.2, 3.5, 4.3.5 (DE)
 - [x] SUMMARY.md + book.json aktualisiert (DE + EN)

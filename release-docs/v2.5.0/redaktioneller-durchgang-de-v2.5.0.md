@@ -158,13 +158,13 @@ Die Matrix natürlicher Verlangen, Zielgruppenperspektiven und Mini-Quiz-Element
 
 ---
 
-### V4: CIVITAS gegenüber EDA/FORTERA stärker operationalisieren
+### V4: CIVITAS gegenüber EDA/FORTERA stärker operationalisieren (umgesetzt)
 
 **Bereich:** Kapitel 6
 
-CIVITAS ist kürzer und abstrakter als EDA und FORTERA. Die Leitidee ist klar, aber Betriebsfälle, Governance, Moderation, Missbrauchsschutz, Datenschutz und Krisennutzung könnten konkreter werden.
+CIVITAS war kürzer und abstrakter als EDA und FORTERA. Die Leitidee war klar, aber Betriebsfälle, Governance, Moderation, Missbrauchsschutz, Datenschutz und Krisennutzung mussten konkreter werden.
 
-**Empfehlung:** Für v2.5.0 mindestens eine kurze Ergänzung mit drei bis fünf Betriebsszenarien: Bürgerantrag, Krisenkommunikation, deliberative Konsultation, Minderheitenschutz, Audit/Moderation.
+**Umsetzung:** Kapitel 6 wurde auf Basis des CIVITAS-Public-Papers vertieft: CIVITAS Public als erste operative Schicht, Rollen- und Publikationsarchitektur, Review-Level, Governance-Gremien, technische Schichten, DSGVO-/DSA-Schutz, Young CIVITAS, Partnerschaften und Roadmap. Die vollständige Paper-Fassung wurde als Anhang P.2 aufgenommen.
 
 ---
 
@@ -318,7 +318,7 @@ Diese Punkte wurden geprüft und sollten nicht falsch als aktueller Blocker doku
 3. Anhang A: Datenstand und Demokratie-Einstufungsquellen klären.
 4. Anhang B: Zitationslücke und 404/ERR-Linkbefunde priorisieren.
 5. Kapitel 2.3 und Kapitel 3.7/4 README: Brücken und Begriffsklarheit stärken.
-6. Kapitel 6, 8, 10: Struktur- und Operationalisierungslücken schließen oder bewusst als kompakte v2.5-Fassung deklarieren.
+6. Kapitel 8 und 10: Struktur- und Operationalisierungslücken schließen oder bewusst als kompakte v2.5-Fassung deklarieren. Kapitel 6 ist durch die CIVITAS-Public-Integration und Anhang P.2 vertieft.
 7. Anhänge J, K, M/P: Umfang, Messbarkeit und Paper-Compliance final prüfen.
 8. Danach erst Final-Metadaten und Release-Freeze.
 

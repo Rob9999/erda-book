@@ -2,7 +2,7 @@
 
 **Stand:** 2026-05-04  
 **Rolle:** Redakteur:in  
-**Status:** Draft, Integrationsentscheidung und Arbeitsplan  
+**Status:** umgesetzt in Content und Release-Dokumentation, Review bleibt erforderlich
 **Scope:** `desktop/papers/civitas`, `de/content/anhang-p-papers`, `en/content/appendix-p-papers`, Kapitel 6 DE/EN
 
 ---
@@ -239,8 +239,14 @@ Damit bleibt Kapitel 6 lesbar und Anhang P.2 bleibt die zitierfähige Vertiefung
 
 ---
 
-## Offene redaktionelle Entscheidung
+## Umsetzungsentscheidung
 
-Für die Umsetzung muss entschieden werden, ob P.2 im deutschen Buch als vollständiger englischer Originaltext mit deutscher Zusammenfassung erscheint oder ob zusätzlich eine vollständige deutsche Übersetzung erstellt wird.
+Für v2.5.0 wurde die empfohlene realistische Variante umgesetzt: P.2 erscheint im deutschen Buch mit deutschem bibliografischem Vorblatt, deutscher Einordnung und veröffentlichtem englischem Originaltext. Eine vollständige deutsche Paper-Übersetzung bleibt ein möglicher Backlog-Punkt für eine spätere Version.
 
-**Empfehlung für v2.5.0:** Originaltext als veröffentlichtes Paper aufnehmen, deutsche Zusammenfassung und bibliografisches Vorblatt ergänzen, vollständige DE-Übersetzung als Backlog führen. So bleibt das Paper zitierfähig und der Release bleibt realistisch.
+**Umgesetzt:**
+
+- `de/content/anhang-p-papers/p.2-civitas-public-building-a-european-digital-agora.md`
+- `en/content/appendix-p-papers/p.2-civitas-public-building-a-european-digital-agora.md`
+- DE/EN `SUMMARY.md` und Anhang-P-READMEs
+- Kapitel 6 DE/EN mit P.2-Verweis, CIVITAS Public, Governance, Technik, Rechtsschutz, Young CIVITAS, Partnerschaften und Roadmap
+- Release Notes, Release Plan, Status, Release History, README, Zenodo-Metadaten und CFF-Datum

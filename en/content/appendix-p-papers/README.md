@@ -24,3 +24,4 @@ Every paper in Appendix P must include:
 ## P.2 Published Papers
 
 - [P.1 Paper – Childhood, Adulthood, and the Anti-Game-Over Principle](p.1-childhood-adulthood-and-the-anti-game-over-principle.md)
+- [P.2 Paper – CIVITAS Public: Building a European Digital Agora](p.2-civitas-public-building-a-european-digital-agora.md)

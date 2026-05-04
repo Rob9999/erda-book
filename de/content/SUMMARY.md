@@ -319,3 +319,4 @@
 * [Anhang M: Maßstab – messbare Buchprojektentscheidungen und Release-Kriterien](anhang-m-massstab-messbare-buchprojektentscheidungen-und-release-kriterien.md)
 * [Anhang P: Papers](anhang-p-papers/README.md)
   * [P.1 Paper – Kindheit, Erwachsenwerden und das Anti-Game-Over-Prinzip](anhang-p-papers/p.1-kindheit-erwachsenwerden-und-das-anti-game-over-prinzip.md)
+  * [P.2 Paper – CIVITAS Public: Building a European Digital Agora](anhang-p-papers/p.2-civitas-public-building-a-european-digital-agora.md)

@@ -319,3 +319,4 @@
 * [Appendix M: Measure – Measurable Book-Project Decisions and Release Criteria](appendix-m-measure-measurable-book-project-decisions-and-release-criteria.md)
 * [Appendix P: Papers](appendix-p-papers/README.md)
   * [P.1 Paper – Childhood, Adulthood, and the Anti-Game-Over Principle](appendix-p-papers/p.1-childhood-adulthood-and-the-anti-game-over-principle.md)
+  * [P.2 Paper – CIVITAS Public: Building a European Digital Agora](appendix-p-papers/p.2-civitas-public-building-a-european-digital-agora.md)

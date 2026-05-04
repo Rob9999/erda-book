@@ -73,12 +73,14 @@ Es verbindet dabei:
 Gemeint sind Modelle, die langfristig funktionieren, weil sie **Anreize**, **Kontrollmechanismen** und **gesellschaftliche Tragfähigkeit** zusammendenken – statt nur Idealbilder zu formulieren.
 
 <a id="de-release"></a>
-### Aktuelles Release (v2.5.0-rc1) – 5. März 2026
+### Aktuelles Release (v2.5.0-rc1) – 5. März 2026, aktualisiert 4. Mai 2026
 
 > Dieses Release vertieft die normativen Grundlagen des ERDA-Buches. Im Zentrum steht das „Demokratische Wissen" – sieben Prinzipien als Leitfaden für demokratische Handlungsfähigkeit.
 
 **Neue Inhalte:**
 - 📜 **„Demokratisches Wissen"** – Sieben Prinzipien zu Macht, Umgang mit nicht-demokratiewilligen Staaten, Frieden und Sicherheit, Wahrheit und Täuschung, Demokratie, Technologie/KI und der inneren Verfassung.
+- 🏛️ **CIVITAS Public / Anhang P.2** – veröffentlichtes Working Paper zur europäischen digitalen Agora; Kapitel 6 wurde als operative CIVITAS-Architektur mit Governance, Technik, Rechtsschutz und Roadmap vertieft.
+- 📏 **Anhang M / Anhang P** – messbarer Buchprojektmaßstab und Paper-Anhang mit DOI-/APA-Pflicht für veröffentlichte ERDA-Papers.
 - ✍️ **Redaktionelle Qualitätsoffensive** – README-Abschnitte in professionellem redaktionellem Ton.
 
 Details: [`release-docs/v2.5.0/`](release-docs/v2.5.0/)
@@ -238,12 +240,14 @@ It combines:
 It refers to models that remain viable long-term because they align **incentives**, **control mechanisms**, and **social sustainability**, instead of only describing ideals.
 
 <a id="en-release"></a>
-### Current release (v2.5.0-rc1) – 5 March 2026
+### Current release (v2.5.0-rc1) – 5 March 2026, updated 4 May 2026
 
 > This release deepens the normative foundations of the ERDA Book. At its centre is "Democratic Knowledge" – seven principles serving as a guide for democratic agency.
 
 **New content:**
 - 📜 **"Democratic Knowledge"** – Seven principles on power, dealing with non-democracy-willing states, peace and security, truth and deception, democracy, technology/AI, and the inner condition.
+- 🏛️ **CIVITAS Public / Appendix P.2** – published working paper on a European digital agora; Chapter 6 was deepened as an operational CIVITAS architecture with governance, technology, legal safeguards and roadmap.
+- 📏 **Appendix M / Appendix P** – measurable book-project yardstick and paper appendix with DOI/APA requirements for published ERDA papers.
 - ✍️ **Editorial quality initiative** – README sections rewritten in a professional editorial voice.
 
 Details: [`release-docs/v2.5.0/`](release-docs/v2.5.0/)

@@ -62,7 +62,7 @@ Ein Final-Release darf erst gesetzt werden, wenn alle Muss-Gates geschlossen sin
 |---|---:|---|---|
 | DE als Quelle der Wahrheit final gelesen | ja | offen | Review-Protokoll |
 | Neue v2.5-Inhalte in Kapitelstruktur und SUMMARY konsistent | ja | offen | DE SUMMARY / Content |
-| Querverweise auf Anhang M, Anhang P.1 und v2.5-Begriffe geprüft | ja | offen | Review-Protokoll |
+| Querverweise auf Anhang M, Anhang P.1, Anhang P.2 und v2.5-Begriffe geprüft | ja | offen | Review-Protokoll |
 | Mini-Wording-Set und Glossar konsistent | ja | offen | Anhang I / Anhang K |
 | Ethik-vor-Strategie-Pass auf unbeabsichtigte Schärfen geprüft | ja | offen | Redakteur-Notiz |
 | Keine offenen Arbeitsmarker in Release-relevanten Inhalten | ja | offen | Link-Audit / manuelle Suche |

@@ -11,7 +11,7 @@
 
 Version 2.5.0 deepens the **normative foundations** of the ERDA Book. At its centre is the document **"Democratic Knowledge"** – seven principles serving as a guide for democratic agency: on power, on dealing with non-democracy-willing states, on peace and security, on truth and deception, on democracy itself, on technology/AI, and on the inner condition of a democratic society.
 
-In addition, this release integrates three conceptual papers as book content: a **guiding vision for child-rearing** (§11.3.7), a **strategic reflection on the Mosaic Principle** (§5.8.4), and the **Anti-Game-Over Principle** as **Appendix P.1** – a developmental-philosophical model of prosperative life. It also adds **Appendix M** as a measurable book-project yardstick for release criteria, source standards and open project decisions.
+In addition, this release integrates conceptual papers and implementation material as book content: a **guiding vision for child-rearing** (§11.3.7), a **strategic reflection on the Mosaic Principle** (§5.8.4), the **Anti-Game-Over Principle** as **Appendix P.1**, and **CIVITAS Public** as **Appendix P.2**. It also adds **Appendix M** as a measurable book-project yardstick for release criteria, source standards and open project decisions. Chapter 6 was deepened accordingly as an operational CIVITAS architecture.
 
 ---
 
@@ -33,7 +33,13 @@ In addition, this release integrates three conceptual papers as book content: a 
 - **Appendix P.1 – Paper: Childhood, Adulthood, and the Anti-Game-Over Principle (DE + EN):**
   Paper appendix: a developmental-philosophical model that understands childhood and adulthood as cyclically recurring basic forms of open life. Formulates anti-game-over principles and the ideal of a *prosperative life*. (DOI: 10.5281/zenodo.19244929; APA citation in the paper header)
 
-- **Cross-references** in chapters 11.2, 11.3, 3.5, and 4.3.5 pointing to Appendix P.1.
+- **Appendix P.2 – Paper: CIVITAS Public: Building a European Digital Agora (DE + EN):**
+  Paper appendix: published working paper on the European digital agora as the first operational layer of the larger CIVITAS vision. Includes DOI, APA citation, German contextual framing and the published English original text. (DOI: 10.5281/zenodo.19443256; APA citation in the paper header)
+
+- **Chapter 6 – The CIVITAS Concept (DE + EN):**
+  Substantially deepened as a book chapter: CIVITAS Public, role and publication architecture, review levels, governance bodies, technical layers, GDPR/DSA safeguards, Young CIVITAS, partnerships and roadmap.
+
+- **Cross-references** in chapters 11.2, 11.3, 3.5, and 4.3.5 pointing to Appendix P.1, and in Chapter 6 pointing to Appendix P.2.
 
 ### Editorial improvements
 
@@ -57,6 +63,7 @@ In addition, this release integrates three conceptual papers as book content: a 
 - Release metadata gate applied: README date, `book.json`, CFF files and `.zenodo.json` synchronised
 - English Appendix J/L file paths normalised to `appendix-j-license-and-openness.md` and `appendix-l-colophon.md`
 - DE/EN cross-references to Appendix P.1 updated in chapters 3.5, 4.3.5, 11.2 and 11.3
+- DE/EN cross-references to Appendix P.2 added in Chapter 6
 
 ---
 

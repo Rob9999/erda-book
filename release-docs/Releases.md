@@ -11,6 +11,8 @@
       - **Kindererziehung essay** → new §11.3.7 (DE+EN): guiding vision for raising children in freedom and responsibility.
       - **Mosaik-Prinzip** → new §5.8.4 (DE+EN): strategic reflection on mosaic warfare principle and democratic DSN resilience.
       - **Anti-Game-Over paper** → **Appendix P.1** (DE translation + EN original): developmental-philosophical model of prosperative life (DOI: 10.5281/zenodo.19244929; APA citation in the paper header).
+      - **CIVITAS Public paper** → **Appendix P.2** (DE contextual wrapper + EN original): working paper on Europe's digital agora and first operational CIVITAS layer (DOI: 10.5281/zenodo.19443256; APA citation in the paper header).
+      - **CIVITAS chapter deepening** → Chapter 6: governance, publication formats, review levels, technical layers, safeguards, partnerships, education and roadmap.
       - **Book-project yardstick** → **Appendix M**: measurable release criteria, source standards and project decisions.
     - Cross-references to Appendix P.1 in chapters 11.2, 11.3, 3.5, 4.3.5.
   - Editorial:
@@ -24,6 +26,8 @@
   - **Editorial quality initiative** for project communication
   - **Appendix M – Measure** as measurable book-project yardstick (bilingual)
   - **Appendix P.1 – Anti-Game-Over Principle** as paper appendix (bilingual)
+  - **Appendix P.2 – CIVITAS Public** as paper appendix (bilingual wrapper / English original)
+  - **Chapter 6 CIVITAS deepening** as operational democratic digital infrastructure
   - **Guiding vision for child-rearing** (§11.3.7) with 12 democratic education principles
   - **Mosaic Principle reflection** (§5.8.4) linking decentralised warfare theory to DSN architecture
   - Full release planning with status tracking

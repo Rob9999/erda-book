@@ -14,10 +14,12 @@ Release 2.5.0 markiert die **konzeptionelle Vertiefung** des ERDA-Buches. Währe
 1. **Demokratisches Wissen – Sieben Prinzipien**
    Leitlinien zu Macht, Umgang mit nicht-demokratiewilligen Staaten, Frieden und Sicherheit, Wahrheit und Täuschung, Demokratie, Technologie/KI und der inneren Verfassung. Als eigenständiges Dokument und potentielles Buchkapitel.
 
-2. **Paper-Integration (3 Konzeptpapiere → Buchinhalte)**
+2. **Paper-Integration und Konzeptvertiefung**
    - **Kindererziehung** → §11.3.7: Erziehungsleitbild in Freiheit und Verantwortung (12 Leitsätze)
    - **Mosaik-Prinzip** → §5.8.4: Strategische Reflexion zur demokratischen DSN-Resilienz
    - **Anti-Game-Over-Prinzip** → Anhang P.1: Paper zum entwicklungsphilosophischen Modell prosperativen Lebens (DOI: 10.5281/zenodo.19244929; APA-Zitation im Paperkopf)
+   - **CIVITAS Public** → Anhang P.2: veröffentlichtes Working Paper zur europäischen digitalen Agora (DOI: 10.5281/zenodo.19443256; APA-Zitation im Paperkopf)
+   - **Kapitel 6** → operative CIVITAS-Vertiefung: Governance, Publikationslogik, Review, Technik, Rechtsschutz, Partnerschaften, Bildung und Roadmap
    - **Buchprojektmaßstab** → Anhang M: messbare Buchprojektentscheidungen, Release-Kriterien und Quellenstandards
 
 3. **Redaktionelle Qualitätsoffensive**
@@ -28,7 +30,7 @@ Release 2.5.0 markiert die **konzeptionelle Vertiefung** des ERDA-Buches. Währe
 4. **Desktop-Materialien**
    - Eigenständige Kurzformen für schnelle Kommunikation (Flyer, Vorträge, Social-Media-Referenz).
    - „Demokratisches Wissen" als DE + EN Dokument in `desktop/misc/`.
-   - Drei Konzeptpapiere (Kindererziehung, Mosaik-Prinzip, Anti-Game-Over) in `desktop/misc/`.
+   - Konzeptpapiere und Paper-Materialien in `desktop/misc/` und `desktop/papers/`.
 
 ### Geplante weitere Inhalte (TBD)
 
@@ -45,7 +47,7 @@ Release 2.5.0 markiert die **konzeptionelle Vertiefung** des ERDA-Buches. Währe
 | 1 | Release-Planung und Versionsumstellung (rc1) | ✅ |
 | 2 | „Demokratisches Wissen" – Texterstellung DE + EN | ✅ |
 | 3 | Desktop-Ablage (DE + EN) | ✅ |
-| 4 | Paper-Integration (Kindererziehung, Mosaik-Prinzip, Anti-Game-Over) | ✅ |
+| 4 | Paper-Integration (Kindererziehung, Mosaik-Prinzip, Anti-Game-Over, CIVITAS Public) | ✅ |
 | 5 | Redaktionelle Qualitätsprüfung (README, Mini-Wording-Set) | ✅ |
 | 6 | Content-Freeze & Artefakte (PDF/MD) | ⏳ |
 | 7 | Final Review & Tag `v2.5.0` | ⏳ |
@@ -55,8 +57,9 @@ Release 2.5.0 markiert die **konzeptionelle Vertiefung** des ERDA-Buches. Währe
 ## 📦 Deliverables
 
 - „Demokratisches Wissen" als Desktop-Dokument (`desktop/misc/`) in DE + EN
-- Drei Konzeptpapiere integriert: §11.3.7 + §5.8.4 + Anhang P.1 (DE + EN)
+- Konzeptpapiere integriert: §11.3.7 + §5.8.4 + Anhang P.1 + Anhang P.2 (DE + EN)
 - Anhang M als messbarer Buchprojektmaßstab ergänzt (DE + EN)
+- Kapitel 6 als operative CIVITAS-Architektur vertieft (DE + EN)
 - Querverweise in Kapiteln 11.2, 3.5, 4.3.5 (DE + EN)
 - Aktualisierte Versionsnummern und Metadaten (README, book.json, CITATION.cff)
 - Rollenbasierte Ethik-vor-Strategie-Integration (DE + EN) inklusive Glossar- und Anhang-K-Dokumentation
@@ -75,6 +78,8 @@ Release 2.5.0 markiert die **konzeptionelle Vertiefung** des ERDA-Buches. Währe
 - [x] Paper-Integration: Kindererziehung → §11.3.7 (DE + EN)
 - [x] Paper-Integration: Mosaik-Prinzip → §5.8.4 (DE + EN)
 - [x] Paper-Integration: Anti-Game-Over → Anhang P.1 (DE + EN)
+- [x] Paper-Integration: CIVITAS Public → Anhang P.2 (DE + EN)
+- [x] Kapitel-6-Vertiefung: CIVITAS Public, Governance, Technik, Rechtsschutz, Roadmap (DE + EN)
 - [x] Maßstab-Integration: Buchprojektentscheidungen → Anhang M (DE + EN)
 - [x] Querverweise in Kap. 11.2, 3.5, 4.3.5 (DE + EN)
 - [x] SUMMARY.md aktualisiert (DE + EN)
