@@ -99,7 +99,7 @@ Nach dem ersten Gesamtversuch gilt: Der direkte Worker-Lauf ueber `--summary de/
 
 ```powershell
 $stamp = Get-Date -Format 'yyyyMMdd-HHmmss'
-C:/Python311/python.exe scripts/quality/ai_references_throttled.py --root . --files-list tmp/gitbook-worker-ai-v2.5.0/ai-references-de-v2.5-priority-files.txt --language de --delay-seconds 8 --jitter-seconds 3 --cooldown-on-429-seconds 90 --max-consecutive-429 5 --json-report "tmp/gitbook-worker-ai-v2.5.0/ai-references-de-v2.5-priority-throttled-$stamp.json" --log-file "tmp/gitbook-worker-ai-v2.5.0/ai-references-de-v2.5-priority-throttled-$stamp.log"
+C:/Python311/python.exe scripts/quality/ai_references_throttled.py --root . --files-list tmp/gitbook-worker-ai-v2.5.0/ai-references-de-v2.5-priority-files.txt --language de --include-inline-links --delay-seconds 8 --jitter-seconds 3 --cooldown-on-429-seconds 90 --max-consecutive-429 5 --json-report "tmp/gitbook-worker-ai-v2.5.0/ai-references-de-v2.5-priority-throttled-$stamp.json" --log-file "tmp/gitbook-worker-ai-v2.5.0/ai-references-de-v2.5-priority-throttled-$stamp.log"
 ```
 
 ## Release-Entscheidung

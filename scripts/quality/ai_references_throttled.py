@@ -13,6 +13,7 @@ import argparse
 import json
 import os
 import random
+import re
 import sys
 import time
 from dataclasses import asdict
@@ -27,12 +28,12 @@ from gitbook_worker.tools.quality.ai_references import (
     DEFAULT_TEMPERATURE,
     DEFAULT_TIMEOUT,
     ModelConfig,
+    ReferenceTask,
     apply_fixes,
     call_model,
     discover_markdown_files,
     load_reference_tasks,
 )
-
 
 RATE_LIMIT_MARKERS = (
     "429",
@@ -41,6 +42,9 @@ RATE_LIMIT_MARKERS = (
     "resource_exhausted",
     "quota",
 )
+
+INLINE_REFERENCE_RE = re.compile(r"\bhttps?://\S+|\bdoi:\s*\S+|\bdoi\.org/\S+", re.IGNORECASE)
+MARKDOWN_LINK_RE = re.compile(r"\[([^\]]+)\]\(([^)]+)\)")
 
 
 def read_env_file(path: Path) -> dict[str, str]:
@@ -70,6 +74,57 @@ def read_files_list(path: Path) -> list[Path]:
         for line in path.read_text(encoding="utf-8").splitlines()
         if line.strip() and not line.lstrip().startswith("#")
     ]
+
+
+def compact_title(line: str) -> str:
+    without_markdown_links = MARKDOWN_LINK_RE.sub(r"\1", line)
+    without_urls = re.sub(r"https?://\S+", "", without_markdown_links)
+    return re.sub(r"\s+", " ", without_urls).strip()[:240] or line[:240]
+
+
+def numbering_from_line(line: str) -> str | None:
+    bracket_match = re.match(r"^\[(\d+)\]", line)
+    if bracket_match:
+        return bracket_match.group(1)
+    ordered_match = re.match(r"^(\d+)[.)]\s+", line)
+    if ordered_match:
+        return ordered_match.group(1)
+    return None
+
+
+def load_inline_reference_tasks(files: Sequence[Path]) -> list[ReferenceTask]:
+    tasks: list[ReferenceTask] = []
+    for file in files:
+        try:
+            lines = file.read_text(encoding="utf-8-sig").splitlines()
+        except OSError:
+            continue
+        for line_number, line in enumerate(lines, start=1):
+            stripped = line.strip()
+            if not stripped or not INLINE_REFERENCE_RE.search(stripped):
+                continue
+            tasks.append(
+                ReferenceTask(
+                    file=file.resolve(),
+                    title=compact_title(stripped),
+                    line=stripped,
+                    lineno=line_number,
+                    numbering=numbering_from_line(stripped),
+                )
+            )
+    return tasks
+
+
+def merge_tasks(source_tasks: Sequence[ReferenceTask], inline_tasks: Sequence[ReferenceTask]) -> list[ReferenceTask]:
+    merged: list[ReferenceTask] = []
+    seen: set[tuple[str, int, str]] = set()
+    for task in list(source_tasks) + list(inline_tasks):
+        key = (str(task.file), task.lineno, task.line)
+        if key in seen:
+            continue
+        seen.add(key)
+        merged.append(task)
+    return merged
 
 
 def sanitize(value: Any, secrets: Sequence[str]) -> Any:
@@ -112,31 +167,71 @@ class SafeLog:
 
 
 def build_parser() -> argparse.ArgumentParser:
-    parser = argparse.ArgumentParser(description="Throttled wrapper for gitbook_worker ai_references")
+    parser = argparse.ArgumentParser(
+        description="Throttled wrapper for gitbook_worker ai_references"
+    )
     parser.add_argument("--root", type=Path, default=Path.cwd(), help="Repository root")
-    parser.add_argument("--env-file", type=Path, default=Path(".env"), help="Local env file")
+    parser.add_argument(
+        "--env-file", type=Path, default=Path(".env"), help="Local env file"
+    )
     parser.add_argument("--manifest", type=Path, help="Optional publish.yml filter")
-    parser.add_argument("--summary", type=Path, help="SUMMARY.md to discover Markdown files")
+    parser.add_argument(
+        "--summary", type=Path, help="SUMMARY.md to discover Markdown files"
+    )
     parser.add_argument("--files", type=Path, nargs="*", help="Explicit Markdown files")
-    parser.add_argument("--files-list", type=Path, help="Text file containing Markdown paths")
+    parser.add_argument(
+        "--files-list", type=Path, help="Text file containing Markdown paths"
+    )
     parser.add_argument("--language", default="de", help="Source section language")
-    parser.add_argument("--max-level", type=int, default=6, help="Maximum source heading level")
-    parser.add_argument("--prompt", default=DEFAULT_PROMPT, help="Base prompt for the AI service")
+    parser.add_argument(
+        "--max-level", type=int, default=6, help="Maximum source heading level"
+    )
+    parser.add_argument(
+        "--prompt", default=DEFAULT_PROMPT, help="Base prompt for the AI service"
+    )
     parser.add_argument("--ai-url", help="AI endpoint URL")
     parser.add_argument("--ai-provider", help="AI provider identifier")
     parser.add_argument("--model", help="Model name")
     parser.add_argument("--temperature", type=float, default=DEFAULT_TEMPERATURE)
     parser.add_argument("--timeout", type=float, default=DEFAULT_TIMEOUT)
     parser.add_argument("--max-retries", type=int, default=DEFAULT_MAX_RETRIES)
-    parser.add_argument("--delay-seconds", type=float, default=8.0, help="Delay after every reference task")
-    parser.add_argument("--jitter-seconds", type=float, default=3.0, help="Random extra delay")
-    parser.add_argument("--cooldown-on-429-seconds", type=float, default=90.0, help="Cooldown after rate-limit results")
-    parser.add_argument("--max-consecutive-429", type=int, default=5, help="Abort after this many consecutive rate limits")
+    parser.add_argument(
+        "--delay-seconds",
+        type=float,
+        default=8.0,
+        help="Delay after every reference task",
+    )
+    parser.add_argument(
+        "--jitter-seconds", type=float, default=3.0, help="Random extra delay"
+    )
+    parser.add_argument(
+        "--cooldown-on-429-seconds",
+        type=float,
+        default=90.0,
+        help="Cooldown after rate-limit results",
+    )
+    parser.add_argument(
+        "--max-consecutive-429",
+        type=int,
+        default=5,
+        help="Abort after this many consecutive rate limits",
+    )
     parser.add_argument("--max-files", type=int, help="Limit number of files")
     parser.add_argument("--max-tasks", type=int, help="Limit number of reference tasks")
-    parser.add_argument("--json-report", type=Path, required=True, help="Sanitized JSON report path")
+    parser.add_argument(
+        "--include-inline-links",
+        action="store_true",
+        help="Also create tasks from inline URL/DOI lines when no source block is present",
+    )
+    parser.add_argument(
+        "--json-report", type=Path, required=True, help="Sanitized JSON report path"
+    )
     parser.add_argument("--log-file", type=Path, help="Sanitized log path")
-    parser.add_argument("--write", action="store_true", help="Apply successful fixes. Default is dry-run")
+    parser.add_argument(
+        "--write",
+        action="store_true",
+        help="Apply successful fixes. Default is dry-run",
+    )
     return parser
 
 
@@ -160,12 +255,26 @@ def resolve_files(args: argparse.Namespace, root: Path) -> list[Path]:
 def main(argv: Sequence[str] | None = None) -> int:
     args = build_parser().parse_args(argv)
     root = args.root.resolve()
-    env_file = read_env_file((root / args.env_file).resolve() if not args.env_file.is_absolute() else args.env_file)
+    env_file = read_env_file(
+        (root / args.env_file).resolve()
+        if not args.env_file.is_absolute()
+        else args.env_file
+    )
 
     api_key = env_value(env_file, "AI_REFERENCE_API_KEY", "AI_API_KEY")
-    provider = args.ai_provider or env_value(env_file, "AI_REFERENCE_PROVIDER", "AI_PROVIDER") or "openai"
-    base_url = args.ai_url or env_value(env_file, "AI_REFERENCE_URL", "AI_URL") or "https://api.openai.com/v1/chat/completions"
-    model = args.model or env_value(env_file, "AI_REFERENCE_MODEL", "AI_MODEL") or "gpt-4"
+    provider = (
+        args.ai_provider
+        or env_value(env_file, "AI_REFERENCE_PROVIDER", "AI_PROVIDER")
+        or "openai"
+    )
+    base_url = (
+        args.ai_url
+        or env_value(env_file, "AI_REFERENCE_URL", "AI_URL")
+        or "https://api.openai.com/v1/chat/completions"
+    )
+    model = (
+        args.model or env_value(env_file, "AI_REFERENCE_MODEL", "AI_MODEL") or "gpt-4"
+    )
     secrets = [secret for secret in (api_key,) if secret]
 
     log = SafeLog(args.log_file, secrets)
@@ -174,12 +283,20 @@ def main(argv: Sequence[str] | None = None) -> int:
         log.write("No Markdown files selected.")
         return 0
 
-    tasks = load_reference_tasks(files, language=args.language, max_level=args.max_level)
+    source_tasks = load_reference_tasks(
+        files, language=args.language, max_level=args.max_level
+    )
+    inline_tasks = load_inline_reference_tasks(files) if args.include_inline_links else []
+    tasks = merge_tasks(source_tasks, inline_tasks)
     tasks = sorted(tasks, key=lambda task: (str(task.file), task.lineno, task.title))
     if args.max_tasks is not None:
         tasks = tasks[: max(args.max_tasks, 0)]
     if not tasks:
-        log.write("No reference tasks found in selected files.")
+        log.write(
+            "No reference tasks found in selected files. "
+            "If these files use inline URLs/DOIs instead of Quellen/References sections, "
+            "rerun with --include-inline-links."
+        )
         return 0
 
     config = ModelConfig(
@@ -194,6 +311,10 @@ def main(argv: Sequence[str] | None = None) -> int:
 
     log.write(f"THROTTLED_AI_REFERENCES_START={datetime.now(timezone.utc).isoformat()}")
     log.write(f"FILES={len(files)} TASKS={len(tasks)} DRY_RUN={not args.write}")
+    log.write(
+        f"TASK_SOURCES=source_sections={len(source_tasks)} "
+        f"inline_links={len(inline_tasks)} include_inline_links={args.include_inline_links}"
+    )
     log.write(f"PROVIDER={provider} MODEL={model} URL={base_url}")
     log.write(
         "THROTTLE="
@@ -220,7 +341,9 @@ def main(argv: Sequence[str] | None = None) -> int:
             sleep_for = args.cooldown_on_429_seconds
         else:
             consecutive_429 = 0
-            sleep_for = args.delay_seconds + random.uniform(0, max(args.jitter_seconds, 0.0))
+            sleep_for = args.delay_seconds + random.uniform(
+                0, max(args.jitter_seconds, 0.0)
+            )
         if index < len(tasks):
             log.write(f"SLEEP_SECONDS={sleep_for:.1f}")
             time.sleep(max(sleep_for, 0.0))
@@ -239,13 +362,22 @@ def main(argv: Sequence[str] | None = None) -> int:
         "files": [str(path) for path in files],
         "tasks_total": len(tasks),
         "tasks_completed": len(results),
+        "task_sources": {
+            "source_sections": len(source_tasks),
+            "inline_links": len(inline_tasks),
+            "include_inline_links": args.include_inline_links,
+        },
         "results": sanitize(report, secrets),
     }
     args.json_report.parent.mkdir(parents=True, exist_ok=True)
-    args.json_report.write_text(json.dumps(payload, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+    args.json_report.write_text(
+        json.dumps(payload, indent=2, ensure_ascii=False) + "\n", encoding="utf-8"
+    )
 
     repaired = sum(1 for entry in report if entry.get("success") and entry.get("new"))
-    validated = sum(1 for entry in report if entry.get("success") and not entry.get("new"))
+    validated = sum(
+        1 for entry in report if entry.get("success") and not entry.get("new")
+    )
     failed = sum(1 for entry in report if not entry.get("success"))
     rate_limited = sum(1 for entry in report if contains_rate_limit(entry))
     log.write(
