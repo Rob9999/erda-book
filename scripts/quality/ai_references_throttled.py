@@ -17,7 +17,7 @@ import re
 import sys
 import time
 from dataclasses import asdict
-from datetime import datetime, timezone
+from datetime import date, datetime, timezone
 from pathlib import Path
 from typing import Any, Mapping, Sequence
 from urllib.parse import quote
@@ -145,6 +145,20 @@ def merge_tasks(source_tasks: Sequence[ReferenceTask], inline_tasks: Sequence[Re
     return merged
 
 
+def build_review_prompt(base_prompt: str, as_of_date: str) -> str:
+    return (
+        f"{base_prompt}\n\n"
+        "Review context and rules:\n"
+        f"- Current review date: {as_of_date}.\n"
+        f"- The JSON field validation_date must be exactly \"{as_of_date}\" for this review.\n"
+        "- Do not invent access dates, publication dates, publishers, titles or authors.\n"
+        "- Preserve an existing access date from the source line unless it is explicitly impossible.\n"
+        "- If details cannot be verified from the provided reference line itself, set success=false and explain what needs manual review.\n"
+        "- Keep the original URL or DOI in any proposed replacement.\n"
+        "- Return JSON only."
+    )
+
+
 def sanitize(value: Any, secrets: Sequence[str]) -> Any:
     if isinstance(value, str):
         redacted = value
@@ -206,6 +220,11 @@ def build_parser() -> argparse.ArgumentParser:
     )
     parser.add_argument(
         "--prompt", default=DEFAULT_PROMPT, help="Base prompt for the AI service"
+    )
+    parser.add_argument(
+        "--as-of-date",
+        default=date.today().isoformat(),
+        help="Current review date to pass into the AI prompt as YYYY-MM-DD",
     )
     parser.add_argument("--ai-url", help="AI endpoint URL")
     parser.add_argument("--ai-provider", help="AI provider identifier")
@@ -326,9 +345,11 @@ def main(argv: Sequence[str] | None = None) -> int:
         timeout=args.timeout,
         max_retries=args.max_retries,
     )
+    review_prompt = build_review_prompt(args.prompt, args.as_of_date)
 
     log.write(f"THROTTLED_AI_REFERENCES_START={datetime.now(timezone.utc).isoformat()}")
     log.write(f"FILES={len(files)} TASKS={len(tasks)} DRY_RUN={not args.write}")
+    log.write(f"AS_OF_DATE={args.as_of_date}")
     log.write(
         f"TASK_SOURCES=source_sections={len(source_tasks)} "
         f"inline_links={len(inline_tasks)} include_inline_links={args.include_inline_links}"
@@ -345,7 +366,7 @@ def main(argv: Sequence[str] | None = None) -> int:
     aborted = False
     for index, task in enumerate(tasks, start=1):
         log.write(f"TASK {index}/{len(tasks)} {task.file}:{task.lineno}")
-        result = call_model(task, args.prompt, config)
+        result = call_model(task, review_prompt, config)
         results.append(result)
         entry = result.to_report_entry()
         limited = contains_rate_limit(entry)
@@ -375,7 +396,8 @@ def main(argv: Sequence[str] | None = None) -> int:
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "aborted": aborted,
         "dry_run": not args.write,
-        "prompt": args.prompt,
+        "as_of_date": args.as_of_date,
+        "prompt": review_prompt,
         "model_config": sanitize(asdict(config), secrets),
         "files": [str(path) for path in files],
         "tasks_total": len(tasks),
