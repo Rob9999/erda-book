@@ -25,7 +25,6 @@ from urllib.parse import quote
 from gitbook_worker.tools.quality.ai_references import (
     DEFAULT_MAX_RETRIES,
     DEFAULT_PROMPT,
-    DEFAULT_TEMPERATURE,
     DEFAULT_TIMEOUT,
     ModelConfig,
     ReferenceTask,
@@ -45,6 +44,7 @@ RATE_LIMIT_MARKERS = (
 
 INLINE_REFERENCE_RE = re.compile(r"\bhttps?://\S+|\bdoi:\s*\S+|\bdoi\.org/\S+", re.IGNORECASE)
 MARKDOWN_LINK_RE = re.compile(r"\[([^\]]+)\]\(([^)]+)\)")
+BARE_REFERENCE_RE = re.compile(r"^<?(?:https?://\S+|doi:\s*\S+|doi\.org/\S+)>?$", re.IGNORECASE)
 
 
 def read_env_file(path: Path) -> dict[str, str]:
@@ -92,6 +92,23 @@ def numbering_from_line(line: str) -> str | None:
     return None
 
 
+def previous_nonempty_line(lines: Sequence[str], before_index: int) -> str | None:
+    for candidate in reversed(lines[:before_index]):
+        stripped = candidate.strip()
+        if stripped:
+            return stripped
+    return None
+
+
+def inline_task_line(lines: Sequence[str], index: int, stripped: str) -> str:
+    if not BARE_REFERENCE_RE.match(stripped):
+        return stripped
+    previous = previous_nonempty_line(lines, index)
+    if not previous or previous.startswith("#"):
+        return stripped
+    return f"{previous} {stripped}"
+
+
 def load_inline_reference_tasks(files: Sequence[Path]) -> list[ReferenceTask]:
     tasks: list[ReferenceTask] = []
     for file in files:
@@ -103,13 +120,14 @@ def load_inline_reference_tasks(files: Sequence[Path]) -> list[ReferenceTask]:
             stripped = line.strip()
             if not stripped or not INLINE_REFERENCE_RE.search(stripped):
                 continue
+            task_line = inline_task_line(lines, line_number - 1, stripped)
             tasks.append(
                 ReferenceTask(
                     file=file.resolve(),
-                    title=compact_title(stripped),
-                    line=stripped,
+                    title=compact_title(task_line),
+                    line=task_line,
                     lineno=line_number,
-                    numbering=numbering_from_line(stripped),
+                    numbering=numbering_from_line(task_line),
                 )
             )
     return tasks
@@ -192,7 +210,7 @@ def build_parser() -> argparse.ArgumentParser:
     parser.add_argument("--ai-url", help="AI endpoint URL")
     parser.add_argument("--ai-provider", help="AI provider identifier")
     parser.add_argument("--model", help="Model name")
-    parser.add_argument("--temperature", type=float, default=DEFAULT_TEMPERATURE)
+    parser.add_argument("--temperature", type=float, default=0.0)
     parser.add_argument("--timeout", type=float, default=DEFAULT_TIMEOUT)
     parser.add_argument("--max-retries", type=int, default=DEFAULT_MAX_RETRIES)
     parser.add_argument(
