@@ -11,14 +11,14 @@ date: "2026-04-06"
 ---
 # Anhang P.2: Paper – CIVITAS Public: Building a European Digital Agora
 
-**Autor:** Robert Alexander Massinger  
-**Untertitel:** A Call to Action
-**Zugehörigkeit / Standort:** ERDA Initiative / Independent Concept Development, München, Deutschland  
-**Version:** 1.0  
-**Datum:** 2026-04-06  
-**DOI:** [10.5281/zenodo.19443256](https://doi.org/10.5281/zenodo.19443256)  
-**Lizenz:** CC BY 4.0  
-**Originalsprache:** Englisch
+- **Autor:** Robert Alexander Massinger
+- **Untertitel:** A Call to Action
+- **Zugehörigkeit / Standort:** ERDA Initiative / Independent Concept Development, München, Deutschland
+- **Version:** 1.0
+- **Datum:** 2026-04-06
+- **DOI:** [10.5281/zenodo.19443256](https://doi.org/10.5281/zenodo.19443256)
+- **Lizenz:** CC BY 4.0
+- **Originalsprache:** Englisch
 
 **APA-Zitation:** Massinger, R. A. (2026). *CIVITAS Public: Building a European Digital Agora — A Call to Action* (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.19443256
 

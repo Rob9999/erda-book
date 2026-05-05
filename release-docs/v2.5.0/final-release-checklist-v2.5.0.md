@@ -2,7 +2,7 @@
 
 **Release:** v2.5.0  
 **Release name:** Democratic Knowledge  
-**Stand:** 2026-05-04
+**Stand:** 2026-05-05
 **Status:** Draft, noch nicht freigegeben  
 **Arbeitsrolle:** Redakteur:in, mit Zuarbeit Writer, Editor, Lektor, Native gb-en Translator und Publisher
 
@@ -32,7 +32,7 @@ Ein Final-Release darf erst gesetzt werden, wenn alle Muss-Gates geschlossen sin
 
 | Prüfschritt | Muss | Status | Nachweis / Datei |
 |---|---:|---|---|
-| README-`As of`, `de/book.json` und `en/book.json` konsistent | ja | offen | README, book.json |
+| README-`As of`, `de/book.json` und `en/book.json` konsistent | ja | erledigt im RC-Arbeitsstand | 2026-05-05 in Root-README, `de/book.json`, `en/book.json` |
 | `de/CITATION.cff`, `en/CITATION.cff`, Root-`CITATION.cff` konsistent | ja | offen | CFF-Dateien |
 | `.zenodo.json` final, nicht mehr Release Candidate | ja | offen | `.zenodo.json` |
 | Release Notes und Release History widerspruchsfrei | ja | offen | `release-docs/` |
@@ -46,13 +46,13 @@ Ein Final-Release darf erst gesetzt werden, wenn alle Muss-Gates geschlossen sin
 
 | Prüfschritt | Muss | Status | Nachweis / Datei |
 |---|---:|---|---|
-| `gitbook_worker.tools.quality.link_audit` getestet | ja | offen | Bericht / Bewertung |
-| `gitbook_worker.tools.quality.sources` getestet | ja | offen | CSV-Export |
-| `gitbook_worker.tools.quality.ai_references` mindestens im `--dry-run` geprüft | bedingt | offen | JSON-Report oder dokumentierter Nichtgebrauch |
+| `gitbook_worker.tools.quality.link_audit` getestet | ja | erledigt im P.2-Scope | `source-link-check-civitas-v2.5.0.md` |
+| `gitbook_worker.tools.quality.sources` getestet | ja | erledigt im P.2-Scope | `source-link-check-civitas-v2.5.0.md` |
+| `gitbook_worker.tools.quality.ai_references` mindestens im `--dry-run` geprüft | bedingt | dokumentiert mit Restrisiko | AI-Berichte nur Suchhilfe; manuelle Pruefung massgeblich |
 | Externe Links und lokale Medien geprüft | ja | offen | Link-Audit-Report |
 | Quellenabschnitte extrahiert und redaktionell stichproben-/risikobasiert geprüft | ja | offen | Sources-Report |
 | Heikle Zahlen, Zeitangaben und geopolitische Aussagen gegen offizielle/verlässliche Quellen geprüft | ja | offen | Redaktionsnotiz |
-| AI-Vorschläge nur nach menschlicher Prüfung übernommen | ja | offen | Zertifizierungsprotokoll |
+| AI-Vorschläge nur nach menschlicher Prüfung übernommen | ja | erledigt im Prioritaetsscope | `source-review-v2.5-priority-references-2026-05-05.md` |
 
 ---
 
@@ -86,12 +86,12 @@ Ein Final-Release darf erst gesetzt werden, wenn alle Muss-Gates geschlossen sin
 
 | Prüfschritt | Muss | Status | Nachweis / Datei |
 |---|---:|---|---|
-| DE-Publish-Lauf erfolgreich | ja | offen | `de/publish/` |
-| EN-Publish-Lauf erfolgreich | ja | offen | `en/publish/` |
-| PDF-Fonts geprüft: DejaVu, Twemoji Mozilla, ERDA CC-BY CJK | ja | offen | `pdffonts` / Sichtprüfung |
-| Generierte Markdown-Artefakte plausibel | ja | offen | Publish-Artefakte |
-| Lokale Sichtprüfung der PDFs abgeschlossen | ja | offen | Redakteur-/Publisher-Notiz |
-| Build erzeugt keine stillschweigenden Metadatenänderungen | ja | offen | Git-Diff nach Build |
+| DE-Publish-Lauf erfolgreich | ja | erledigt im RC-Arbeitsstand | Orchestrator 2026-05-05: `converter=ok`, `publisher=ok` |
+| EN-Publish-Lauf erfolgreich | ja | erledigt mit Tooling-Restrisiko | Markdown/PDF erzeugt; letzter Orchestrator-Rerun hing nach PDF-Erzeugung |
+| PDF-Fonts geprüft: DejaVu, Twemoji Mozilla, ERDA CC-BY CJK | ja | teilweise erledigt | DejaVu/Twemoji eingebettet; CJK im aktuellen PDF nicht ausgeloest |
+| Generierte Markdown-Artefakte plausibel | ja | erledigt im Stichprobenscope | Kapitel 6, P.2, Kapitel 13.8, Titeldatum geprueft |
+| Lokale Sichtprüfung der PDFs abgeschlossen | ja | technisch stichprobengeprueft | `pdfinfo`, `pdftotext`, `pdffonts`; volle Publisher-Sichtpruefung offen |
+| Build erzeugt keine stillschweigenden Metadatenänderungen | ja | erledigt im RC-Arbeitsstand | Datumswechsel auf 2026-05-05 bewusst in README/book.json nachgezogen |
 
 ---
 
@@ -99,7 +99,7 @@ Ein Final-Release darf erst gesetzt werden, wenn alle Muss-Gates geschlossen sin
 
 | Prüfschritt | Muss | Status | Nachweis / Datei |
 |---|---:|---|---|
-| Zertifizierungsprotokoll ausgefüllt | ja | offen | `release-certification-v2.5.0.md` |
+| Zertifizierungsprotokoll ausgefüllt | ja | erledigt fuer A4-A7 / Draft bleibt offen | `release-certification-v2.5.0.md` |
 | Content-Freeze erklärt | ja | offen | Statusdatei / Zertifizierung |
 | Nur Release-Fixes nach Freeze zugelassen | ja | offen | Git-Historie / Notiz |
 | Redakteur-Finalreview dokumentiert | ja | offen | Zertifizierungsprotokoll |
