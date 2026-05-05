@@ -137,12 +137,12 @@ Freigabeaussage EN:
 | DE Publish Markdown | erzeugt | `de/publish/das-erda-buch.md` | A6-Lauf 2026-05-05, Orchestrator: `converter=ok`, `publisher=ok`. |
 | DE PDF | erzeugt | `de/publish/das-erda-buch.pdf` | `pdfinfo`: 863 Seiten, 4.084.968 Bytes, CreationDate 2026-05-05 13:18 MESZ. |
 | EN Publish Markdown | erzeugt | `en/publish/the-erda-book.md` | A6-Rerun 2026-05-05; Markdown enthaelt P.2, Kapitel 6 und Quellenstand 13.8. |
-| EN PDF | erzeugt mit Tooling-Restrisiko | `en/publish/the-erda-book.pdf` | `pdfinfo`: 838 Seiten, 4.095.338 Bytes, CreationDate 2026-05-05 13:25 MESZ. Der letzte EN-Orchestrator schrieb das PDF, hing danach jedoch und wurde beendet. |
+| EN PDF | erzeugt; Worker 2.4.0 validiert | `en/publish/the-erda-book.pdf` | `pdfinfo`: 835 Seiten, 4.340.653 Bytes, CreationDate 2026-05-05 19:52 MESZ. Nach Update des vendorten gitbook_worker auf 2.4.0 lief der EN-Orchestrator mit `.venv` sauber durch; Titelseite enthaelt wieder `2026-05-05 - Version 2.5.0-rc1`. |
 | PDF-Fonts: DejaVu | bestanden | `pdffonts` DE/EN | DejaVuSerif, DejaVuSansMono und Varianten eingebettet. |
 | PDF-Fonts: Twemoji Mozilla | bestanden | `pdffonts` DE/EN | TwemojiMozilla eingebettet. LaTeX meldet weiter einzelne fehlende Emoji-/Symbolzeichen als Warnungen. |
-| PDF-Fonts: ERDA CC-BY CJK | offen / nicht ausgeloest | `pdffonts` DE/EN | Kein CJK-Font in den aktuellen PDFs sichtbar; falls CJK-Glyphen releasekritisch sind, separaten CJK-Testlauf nachziehen. |
+| PDF-Fonts: ERDA CC-BY CJK | bestanden im Release-Scope | `pdffonts` / Publisher-Einschaetzung | CJK-Fonts muessen fuer v2.5.0 die multilingualen Lizenzbeschreibungen abdecken; dieser Scope ist abgedeckt. Der gitbook_worker-Lieferant kann bei Bedarf mehr Glyphen bereitstellen. |
 | Sichtprüfung DE PDF | technisch stichprobengeprueft | `pdftotext`, `pdfinfo` | Titelseite zeigt 2026-05-05 / Version 2.5.0-rc1; vollstaendige Publisher-Sichtpruefung bleibt Final-Gate. |
-| Sichtprüfung EN PDF | technisch stichprobengeprueft | `pdftotext`, `pdfinfo` | Titelseite zeigt 2026-05-05 / Version 2.5.0-rc1; vollstaendige Publisher-Sichtpruefung bleibt Final-Gate. |
+| Sichtprüfung EN PDF | technisch stichprobengeprueft | `pdftotext`, `pdfinfo`, gerenderte Lizenzseiten | Titelseite zeigt 2026-05-05 / Version 2.5.0-rc1; vollstaendige Publisher-Sichtpruefung bleibt Final-Gate. |
 
 ---
 
@@ -202,15 +202,15 @@ Diese Teilzertifizierung dokumentiert den Arbeitsstand zu A6 aus der Anhang-M-Be
 | Prüfdatum | 2026-05-05 |
 | Prüfrolle | Publisher mit Redakteur:in-Zuarbeit |
 | DE Build | `converter=ok`, `publisher=ok` |
-| EN Build | Markdown und PDF erzeugt; letzter Orchestrator-Rerun hing nach PDF-Erzeugung |
+| EN Build | Markdown und PDF erzeugt; `.venv`-Lauf mit gitbook_worker 2.4.0 endete ohne Problem |
 | DE PDF | 863 Seiten, 4.084.968 Bytes, CreationDate 2026-05-05 13:18 MESZ |
-| EN PDF | 838 Seiten, 4.095.338 Bytes, CreationDate 2026-05-05 13:25 MESZ |
-| Fontbefund | DejaVu und TwemojiMozilla eingebettet; CJK-Font im aktuellen PDF nicht ausgeloest |
-| Ergebnis | erfuellt mit Tooling-Restrisiko |
+| EN PDF | 835 Seiten, 4.340.653 Bytes, CreationDate 2026-05-05 19:52 MESZ |
+| Fontbefund | DejaVu und TwemojiMozilla eingebettet; ERDA CC-BY CJK fuer multilingualen Lizenztext im v2.5.0-Scope abgedeckt |
+| Ergebnis | erfuellt; Toolchain-Konflikt durch vendorten gitbook_worker 2.4.0 im `.venv`-Pfad aufgeloest |
 
-**Befund:** Die Publish-Artefakte wurden nach der P.2-Formatbereinigung und der Metadaten-Synchronisation auf 2026-05-05 neu erzeugt. Die Titelseiten der PDFs weisen `2026-05-05 - Version 2.5.0-rc1` aus. `pdffonts` bestaetigt eingebettete DejaVu- und TwemojiMozilla-Fonts. Der EN-Rerun erzeugte ein aktuelles PDF, gab aber nach der PDF-Erzeugung nicht sauber an den Orchestrator zurueck; der Prozess wurde manuell beendet.
+**Befund:** Die Publish-Artefakte wurden nach der P.2-Formatbereinigung und der Metadaten-Synchronisation auf 2026-05-05 neu erzeugt. Die Ursache der abweichenden EN-Titelseite war eine Toolchain-Divergenz: `.venv` nutzte zuvor gitbook_worker 2.0.6.post1 ohne `project.version`-Weitergabe an die Pandoc-Titelseite, waehrend die globale Installation 2.3.0 die Version, aber nicht den repo-spezifischen CJK-Fallback stabil abbildete. Nach Umstellung des vendorten Pakets auf gitbook_worker 2.4.0 und Installation in `.venv` lief der EN-Orchestrator erfolgreich durch. `pdffonts` bestaetigt eingebettete DejaVu-, TwemojiMozilla- und ERDACCbyCJK-Regular-Fonts. Die Titelseite enthaelt wieder `2026-05-05 - Version 2.5.0-rc1`. Die gerenderten Lizenzseiten bestaetigen den CJK-/multilingualen Fallback im v2.5.0-Scope; RTL/CJK-Feinlayout bleibt eine Publisher-Sichtpruefungsfrage, aber kein aktueller Build-Blocker.
 
-**Entscheidung:** A6 ist fuer den aktuellen RC-Artefaktstand arbeitsfaehig dokumentiert, aber nicht als finale Publisher-Freigabe zu verstehen. Vor A8 bleiben der finale Worktree-/Index-Check, eine bewusste Publisher-Sichtpruefung und die Entscheidung zum EN-Orchestrator-Restrisiko offen.
+**Entscheidung:** Das fruehere EN-Orchestrator-/Titelseiten-Restrisiko wird fuer v2.5.0 durch die vereinheitlichte gitbook_worker-2.4.0-Toolchain als geschlossen bewertet. A6 ist fuer den aktuellen RC-Artefaktstand erfuellt, aber nicht als finale Publisher-Freigabe zu verstehen. Vor A8 bleiben der finale Worktree-/Index-Check und eine bewusste Publisher-Sichtpruefung offen. Fuer spaetere Releases bleibt der Hinweis bestehen, PDF-Laeufe nicht parallel gegen dieselben Ausgabepfade zu starten.
 
 ---
 

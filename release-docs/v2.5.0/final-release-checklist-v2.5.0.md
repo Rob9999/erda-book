@@ -87,10 +87,10 @@ Ein Final-Release darf erst gesetzt werden, wenn alle Muss-Gates geschlossen sin
 | Prüfschritt | Muss | Status | Nachweis / Datei |
 |---|---:|---|---|
 | DE-Publish-Lauf erfolgreich | ja | erledigt im RC-Arbeitsstand | Orchestrator 2026-05-05: `converter=ok`, `publisher=ok` |
-| EN-Publish-Lauf erfolgreich | ja | erledigt mit Tooling-Restrisiko | Markdown/PDF erzeugt; letzter Orchestrator-Rerun hing nach PDF-Erzeugung |
-| PDF-Fonts geprüft: DejaVu, Twemoji Mozilla, ERDA CC-BY CJK | ja | teilweise erledigt | DejaVu/Twemoji eingebettet; CJK im aktuellen PDF nicht ausgeloest |
+| EN-Publish-Lauf erfolgreich | ja | erledigt mit gitbook_worker 2.4.0 | `.venv`-Lauf 2026-05-05: `converter=ok`, `publisher=ok`; Titelseite zeigt Datum und Version |
+| PDF-Fonts geprüft: DejaVu, Twemoji Mozilla, ERDA CC-BY CJK | ja | erledigt im v2.5.0-Scope | DejaVu/Twemoji/ERDACCbyCJK-Regular eingebettet; ERDA CC-BY CJK deckt die multilingualen Lizenzbeschreibungen ab, weitere Glyphen bei Bedarf ueber gitbook_worker-Lieferant |
 | Generierte Markdown-Artefakte plausibel | ja | erledigt im Stichprobenscope | Kapitel 6, P.2, Kapitel 13.8, Titeldatum geprueft |
-| Lokale Sichtprüfung der PDFs abgeschlossen | ja | technisch stichprobengeprueft | `pdfinfo`, `pdftotext`, `pdffonts`; volle Publisher-Sichtpruefung offen |
+| Lokale Sichtprüfung der PDFs abgeschlossen | ja | technisch stichprobengeprueft | `pdfinfo`, `pdftotext`, `pdffonts`, gerenderte EN-Titelseite; volle Publisher-Sichtpruefung offen |
 | Build erzeugt keine stillschweigenden Metadatenänderungen | ja | erledigt im RC-Arbeitsstand | Datumswechsel auf 2026-05-05 bewusst in README/book.json nachgezogen |
 
 ---

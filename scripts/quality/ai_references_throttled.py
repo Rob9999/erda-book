@@ -42,9 +42,13 @@ RATE_LIMIT_MARKERS = (
     "quota",
 )
 
-INLINE_REFERENCE_RE = re.compile(r"\bhttps?://\S+|\bdoi:\s*\S+|\bdoi\.org/\S+", re.IGNORECASE)
+INLINE_REFERENCE_RE = re.compile(
+    r"\bhttps?://\S+|\bdoi:\s*\S+|\bdoi\.org/\S+", re.IGNORECASE
+)
 MARKDOWN_LINK_RE = re.compile(r"\[([^\]]+)\]\(([^)]+)\)")
-BARE_REFERENCE_RE = re.compile(r"^<?(?:https?://\S+|doi:\s*\S+|doi\.org/\S+)>?$", re.IGNORECASE)
+BARE_REFERENCE_RE = re.compile(
+    r"^<?(?:https?://\S+|doi:\s*\S+|doi\.org/\S+)>?$", re.IGNORECASE
+)
 
 
 def read_env_file(path: Path) -> dict[str, str]:
@@ -133,7 +137,9 @@ def load_inline_reference_tasks(files: Sequence[Path]) -> list[ReferenceTask]:
     return tasks
 
 
-def merge_tasks(source_tasks: Sequence[ReferenceTask], inline_tasks: Sequence[ReferenceTask]) -> list[ReferenceTask]:
+def merge_tasks(
+    source_tasks: Sequence[ReferenceTask], inline_tasks: Sequence[ReferenceTask]
+) -> list[ReferenceTask]:
     merged: list[ReferenceTask] = []
     seen: set[tuple[str, int, str]] = set()
     for task in list(source_tasks) + list(inline_tasks):
@@ -150,7 +156,7 @@ def build_review_prompt(base_prompt: str, as_of_date: str) -> str:
         f"{base_prompt}\n\n"
         "Review context and rules:\n"
         f"- Current review date: {as_of_date}.\n"
-        f"- The JSON field validation_date must be exactly \"{as_of_date}\" for this review.\n"
+        f'- The JSON field validation_date must be exactly "{as_of_date}" for this review.\n'
         "- Do not invent access dates, publication dates, publishers, titles or authors.\n"
         "- Preserve an existing access date from the source line unless it is explicitly impossible.\n"
         "- If details cannot be verified from the provided reference line itself, set success=false and explain what needs manual review.\n"
@@ -323,7 +329,9 @@ def main(argv: Sequence[str] | None = None) -> int:
     source_tasks = load_reference_tasks(
         files, language=args.language, max_level=args.max_level
     )
-    inline_tasks = load_inline_reference_tasks(files) if args.include_inline_links else []
+    inline_tasks = (
+        load_inline_reference_tasks(files) if args.include_inline_links else []
+    )
     tasks = merge_tasks(source_tasks, inline_tasks)
     tasks = sorted(tasks, key=lambda task: (str(task.file), task.lineno, task.title))
     if args.max_tasks is not None:

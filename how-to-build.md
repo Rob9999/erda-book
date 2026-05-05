@@ -196,6 +196,12 @@ Most commonly: terminal uses the wrong Python.
 - Expected (from `.vscode/launch.json`): `.venv/Scripts/python.exe` (Windows) or `./.venv/bin/python` (Linux/macOS)
 - Avoid: `C:\Python311\python.exe` or any other global Python
 
+### PDF run appears to hang after the PDF was written
+
+Avoid running multiple PDF builds at the same time against the same checkout or output folders. Overlapping PDF runs can leave publisher/orchestrator child processes alive after an artifact has already been written.
+
+For release builds, run DE and EN deliberately one after the other. If a run appears to hang after PDF generation, stop only the related publisher/orchestrator processes, verify the artifact with `pdfinfo`, `pdffonts` and a small rendered/title-page spot check, then rerun once through the matching `.vscode/launch.json` configuration or the documented terminal command. If the rerun exits cleanly and the artifact checks pass, document the first hang as a tooling/process issue rather than an automatic content blocker.
+
 ### Where do outputs go?
 
 See the `out_dir` in `de/publish.yml` / `en/publish.yml`:
