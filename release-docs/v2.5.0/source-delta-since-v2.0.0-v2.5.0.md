@@ -44,13 +44,13 @@ Diese Bereiche bilden die aktuelle redaktionelle Quellen- und Linkpruefliste fue
 | Prioritaet | Bereich | Grund | Status |
 |---|---|---|---|
 | P1 | Anhang P.2 / Appendix P.2 CIVITAS Public | 30 neue URL-/DOI-Zeilen in DE+EN, 16 Referenzen, DOI, Plattform-/Rechtsquellen | A5 erledigt mit dokumentiertem Restrisiko. |
-| P1 | Anhang P.1 / Appendix P.1 Anti-Game-Over | 6 neue URL-/DOI-Zeilen in DE+EN, DOI/APA/Lizenzrahmen | Technische DOI-/Linkpruefung noch als eigener Mini-Check sinnvoll. |
-| P1 | Kapitel 13.8 Energiesouveraenitaet | komplett neue DE/EN-Datei, aktueller politischer und strategischer Gegenstand | Quellen-/Aktualitaetspruefung offen. |
+| P1 | Anhang P.1 / Appendix P.1 Anti-Game-Over | 6 neue URL-/DOI-Zeilen in DE+EN, DOI/APA/Lizenzrahmen | DOI/Zenodo/Lizenz geprueft; siehe `source-review-v2.5-priority-references-2026-05-05.md`. |
+| P1 | Kapitel 13.8 Energiesouveraenitaet | komplett neue DE/EN-Datei, aktueller politischer und strategischer Gegenstand | Quellen ergaenzt und Zahlen korrigiert; siehe `source-review-v2.5-priority-references-2026-05-05.md`. |
 | P1 | Kapitel 6 CIVITAS | inhaltlich stark vertieft; 7 neue Quellenmarker, aber keine neuen externen URL-Zeilen | A4 erledigt; inhaltliche Quellenstaerke und interne Referenzen pruefen. |
 | P2 | Paragraph 11.3.7 Erziehungsleitbild | neuer Abschnitt aus Desktop-Material, Querverweise auf P.1 | Plausibilitaet, interne Links, EN-Fidelity pruefen. |
 | P2 | Paragraph 5.8.4 Mosaik-Prinzip | neuer Abschnitt aus Desktop-Material | Begriffliche Quellenlage und strategische Einordnung pruefen. |
 | P2 | Anhang M / Appendix M | neuer Qualitaetsmassstab | Konsistenz mit Zertifizierung und Release-Gates pruefen. |
-| P2 | Anhang K/L/E und Attribution-/Quellenverzeichnis-Teile | neue oder erweiterte Quellen-/Attributionslogik | Lizenz-/Attribution-Hierarchie gegen `ATTRIBUTION.md` pruefen. |
+| P2 | Anhang K/L/E und Attribution-/Quellenverzeichnis-Teile | neue oder erweiterte Quellen-/Attributionslogik | Strategic-Compass-Beispiellink und Twemoji-Version korrigiert; siehe `source-review-v2.5-priority-references-2026-05-05.md`. |
 | P3 | Anhang B Staatenprofile | viele bestehende Quellenzeilen in geaenderten Dateien; nicht zwingend neue v2.5-Links | Vollstaendige Aktualitaetspruefung fuer v2.6/backlog vormerken, ausser es gab inhaltliche Einzelupdates. |
 
 ## Link-Delta

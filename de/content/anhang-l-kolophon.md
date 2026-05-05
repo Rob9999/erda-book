@@ -50,7 +50,7 @@ Für mehrsprachige Ausgaben (insbesondere Anhang J) wird eine CJK-Schrift benöt
 
 **Twemoji Mozilla**
 
-- **Version:** 0.6.0
+- **Version:** 0.7.0
 - **Lizenz:** CC BY 4.0
 - **Copyright:** © Twitter, Inc. und andere Mitwirkende
 - **Quelle:** [github.com/mozilla/twemoji-colr](https://github.com/mozilla/twemoji-colr)

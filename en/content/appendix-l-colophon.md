@@ -53,7 +53,7 @@ For multilingual editions (in particular Appendix J) a CJK font is required that
 
 **Twemoji Mozilla**
 
-- **Version:** 0.6.0  
+- **Version:** 0.7.0
 - **Licence:** CC BY 4.0  
 - **Copyright:** © Twitter, Inc. and other contributors  
 - **Source:** <https://github.com/mozilla/twemoji-colr>  

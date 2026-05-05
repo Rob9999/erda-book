@@ -23,7 +23,7 @@ Jede Quelle erzählt eine Geschichte – hüte sie mit Sorgfalt.
   * Titel (kursiv), Jahr, ggf. kurzer Kontext.
   * Direktlink bei Internetquellen.
   * Relativer Pfad bei GitBook-internen Dokumenten.
-  * **Beispiel Internetquelle:** _„Strategic Compass for Security and Defence“_ (Europäische Kommission, 2022): [https://eeas.europa.eu/strategic-compass](https://eeas.europa.eu/strategic-compass)
+  * **Beispiel Internetquelle:** _„A Strategic Compass for Security and Defence“_ (Rat der Europäischen Union / EEAS, 2022): [https://www.eeas.europa.eu/eeas/strategic-compass-security-and-defence-0_en](https://www.eeas.europa.eu/eeas/strategic-compass-security-and-defence-0_en)
   * **Beispiel GitBook-Verweis:** _Anhang: Europa 2.0 – Fahrplan für eine lebenswerte, resiliente und führende Union_ (2025): \[../anhang-europa-2.0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union.md]
 * **Sortierung:**
   * Zuerst Internetquellen (offizielle Dokumente, Studien etc.)

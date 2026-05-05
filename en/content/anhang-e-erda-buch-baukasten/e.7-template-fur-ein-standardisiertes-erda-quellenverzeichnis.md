@@ -26,7 +26,7 @@ Every source tells a story – handle it with care.
   - Title (italic), year, optionally short context.
   - Direct link for internet sources.
   - Relative path for internal GitBook documents.
-  - **Example internet source:** _“Strategic Compass for Security and Defence”_ (European Commission, 2022): [https://eeas.europa.eu/strategic-compass](https://eeas.europa.eu/strategic-compass)
+  - **Example internet source:** _“A Strategic Compass for Security and Defence”_ (Council of the European Union / EEAS, 2022): [https://www.eeas.europa.eu/eeas/strategic-compass-security-and-defence-0_en](https://www.eeas.europa.eu/eeas/strategic-compass-security-and-defence-0_en)
   - **Example GitBook reference:** _Appendix: Europe 2.0 – Roadmap for a Livable, Resilient and Leading Union_ (2025): \[../anhang-europa-2.0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union.md]
 - **Sorting:**
   - First internet sources (official documents, studies, etc.)

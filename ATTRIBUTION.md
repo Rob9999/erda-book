@@ -16,7 +16,7 @@ This file is the repository-level primary source for third-party and project-spe
 
 | Category | Asset | Author / rights holder | Licence | Source / version | Repository usage |
 |---|---|---|---|---|---|
-| Emoji font | Twemoji Mozilla / Twemoji COLR font | Twitter, Inc. and contributors; Mozilla packaging contributors | CC BY 4.0 | Vendored local file: `fonts-storage/twemoji-colr/TwemojiMozilla.ttf`; upstream project: https://github.com/mozilla/twemoji-colr | Colour emoji rendering in PDF generation and documentation. |
+| Emoji font | Twemoji Mozilla / Twemoji COLR font | Twitter, Inc. and contributors; Mozilla packaging contributors | CC BY 4.0 | Vendored local file: `fonts-storage/twemoji-colr/TwemojiMozilla.ttf`; upstream release v0.7.0: https://github.com/mozilla/twemoji-colr/releases/tag/v0.7.0 | Colour emoji rendering in PDF generation and documentation. |
 | Font | ERDA CC-BY CJK | Robert Alexander Massinger / ERDA project | CC BY 4.0 or MIT | Local source and generated TTF: `.github/fonts/erda-ccby-cjk/`; generated font: `.github/fonts/erda-ccby-cjk/true-type/erda-ccby-cjk.ttf` | CJK fallback coverage for multilingual licence text and PDF output. |
 | Font | DejaVu Serif, DejaVu Sans, DejaVu Sans Mono | Bitstream, Inc.; DejaVu project contributors | Bitstream Vera License; DejaVu changes public domain | Local copies in `fonts-storage/dejavu/`; upstream: https://dejavu-fonts.github.io/ | Main text, headings/UI fallback and monospace/code rendering in PDF output. |
 | Logo | ERDA Book logo | Robert Alexander Massinger; ERDA project usage rights | CC BY 4.0 | Original project/archive files | Cover, chapter headers and project communication where used. |
