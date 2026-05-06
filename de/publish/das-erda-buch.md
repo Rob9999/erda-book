@@ -204,7 +204,7 @@ Europa steht an einem historischen Wendepunkt: Rechtsstaatlichkeit und Pressefre
 #### 1.1.2 Vertiefung & Analyse
 
 | Faktor                         | Intern                                             | Extern                                               |
-| ------------------------------ | -------------------------------------------------- | ---------------------------------------------------- |
+| ---- | ---- | ---- |
 | Rechtsstaatliche Standards     | Abbau institutioneller Checks \& Balances           | Einflussnahme über korrupte Netzwerke                |
 | Medienfreiheit                 | Konzentration, politischer Druck                   | Staatlich gesteuerte Desinformationskampagnen        |
 | Bürgervertrauen                | Politische Apathie, Reformmüdigkeit                | Polarisierende Propaganda                            |
@@ -234,7 +234,7 @@ Europa steht an einem historischen Wendepunkt: Rechtsstaatlichkeit und Pressefre
 #### 1.1.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                    | Schwerpunkt                                                                                      |
-| ----------------------------- | ------------------------------------------------------------------------------------------------ |
+| ---- | ---- |
 | 🏩️ Entscheidungsträger:innen | Entwicklung eines robusten EU-Medienfreiheitsrahmens, Aufbau einer demokratischen Cyberstrategie |
 | 📚 Wissenschaftler:innen      | Forschung zu hybrider Einflussnahme, Wirkungsstudien zivilgesellschaftlicher Resilienzstrategien |
 | 🧑 Bürger:innen               | Aufklärung über Manipulationstechniken, Stärkung partizipativer Formate wie Bürgerräte           |
@@ -327,7 +327,7 @@ Interdependenz ist kein Friedensgarant, wenn nicht alle Partner auch Verbündete
 #### 1.2.3 Vertiefung: Interne und externe Wettbewerbshebel
 
 | Hebel                   | Intern                                         | Extern                                               |
-| ----------------------- | ---------------------------------------------- | ---------------------------------------------------- |
+| ---- | ---- | ---- |
 | Produktionssouveränität | Mangelnde heimische Kapazitäten in Halbleitern | Abhängigkeit von US/asiatischen Lieferketten         |
 | Energieversorgung       | Hoher Anteil fossiler Importe                  | Globale Preissprünge durch geopolitische Krisen      |
 | Forschung \& Innovation  | Fragmentierte EU-Förderprogramme               | Konkurrenz durch massive Staatsinvestitionen (China) |
@@ -353,7 +353,7 @@ Interdependenz ist kein Friedensgarant, wenn nicht alle Partner auch Verbündete
 #### 1.2.5 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                    | Schwerpunkt                                                                 |
-| ----------------------------- | --------------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Entscheidungsträger:innen | EU‑Strategie für F\&E-Finanzierung, Industriebündnisse                      |
 | 📚 Wissenschaftler:innen      | Analyse globaler Wertschöpfungsketten, Szenarioforschung                    |
 | 🧍 Bürger:innen               | Information über Lieferketten, Unterstützung regionaler Zukunftswerkstätten |
@@ -416,7 +416,7 @@ Künstliche Intelligenz, Automatisierung und digitale Plattformen verändern nic
 #### 1.3.2 Vertiefung & Analyse
 
 | Dimension                   | Positive Treiber                               | Negative Effekte                               |
-| --------------------------- | ---------------------------------------------- | ---------------------------------------------- |
+| ---- | ---- | ---- |
 | Automatisierung             | Produktivitätsgewinne, neue Berufsfelder       | Arbeitsplatzverlust, Qualifikationslücken [1] |
 | KI-gestützte Entscheidungen | Effizientere Verwaltung, präzise Datenanalysen | Blackbox-Prozesse, Bias in Algorithmen [2]    |
 | Digitale Kommunikation      | Niedrige Zugangshürden, globale Vernetzung     | Echokammern, Polarisierung                     |
@@ -446,7 +446,7 @@ Künstliche Intelligenz, Automatisierung und digitale Plattformen verändern nic
 #### 1.3.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                    | Schwerpunkt                                                                    |
-| ----------------------------- | ------------------------------------------------------------------------------ |
+| ---- | ---- |
 | 🏩️ Entscheidungsträger:innen | Nationale KI-Strategie, Bildungsoffensive, Plattformregulierung                |
 | 📚 Wissenschaftler:innen      | Evaluation algorithmischer Fairness, Interdisziplinäre Studien                 |
 | 🧡 Bürger:innen               | Digitale Grundrechte, Mitbestimmung bei Plattform-Regeln                       |
@@ -519,7 +519,7 @@ Trotz erheblicher geopolitischer, ökonomischer und technologischer Belastungen 
 #### 1.4.2 Vertiefung & Analyse
 
 | Dimension                     | Potenziale                                 | Erfolgsfaktoren                                |
-| ----------------------------- | ------------------------------------------ | ---------------------------------------------- |
+| ---- | ---- | ---- |
 | Demokratische Institutionen   | Politische Stabilität, Rechtsstaatlichkeit | Reformfähigkeit, Transparenz                   |
 | Zivilgesellschaft             | Lokale Initiativen, NGOs, Bürgerforen      | Netzwerkbildung, Ressourcenmobilisierung       |
 | Kultur \& Identität            | Mehrsprachigkeit, Heritage-Projekte        | Inklusives Storytelling, partizipative Formate |
@@ -549,7 +549,7 @@ Trotz erheblicher geopolitischer, ökonomischer und technologischer Belastungen 
 #### 1.4.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                    | Schwerpunkt                                                            |
-| ----------------------------- | ---------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Entscheidungsträger:innen | Finanzierung transnationaler Solidaritätsfonds, Governance-Architektur |
 | 📚 Wissenschaftler:innen      | Evaluierung von Solidaritätsmechanismen, Impact-Analysen               |
 | 🧍 Bürger:innen               | Zugang zu Mitbestimmung, lokale Netzwerkinitiativen                    |
@@ -638,7 +638,7 @@ In den Feldern Verteidigung, Industriepolitik und Außenpolitik muss Europa Ents
 #### 1.5.2 Vertiefung & Analyse
 
 | Dimension                         | Herausforderung                                          | Strategischer Imperativ                                                |
-| --------------------------------- | -------------------------------------------------------- | ---------------------------------------------------------------------- |
+| ---- | ---- | ---- |
 | Sicherheit \& Verteidigung         | Fragmentierte Fähigkeiten, Abhängigkeit von Drittstaaten | Aufbau eines Europäischen Sicherheitsrats (EDA)                        |
 | Wirtschaft \& Souveränität         | Globale Wettbewerbsnachteile, Lieferkettenabhängigkeiten | FORTERA: Produktionssouveränität in Schlüsselindustrien                |
 | Technologie \& Demokratie          | Digitale Disruption, Vertrauensverlust                   | CIVITAS: Digitale Demokratie als integratives Partizipationsinstrument |
@@ -673,7 +673,7 @@ In den Feldern Verteidigung, Industriepolitik und Außenpolitik muss Europa Ents
 #### 1.5.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                    | Schwerpunkt                                                        |
-| ----------------------------- | ------------------------------------------------------------------ |
+| ---- | ---- |
 | 🏛️ Entscheidungsträger:innen | Mandatsgestaltung für Sicherheitsrat, Budgetallokation ERDA-Charta |
 | 📚 Wissenschaftler:innen      | Szenarienmodellierung, Politikfolgenanalyse                        |
 | 🧍 Bürger:innen               | Transparenzprozesse, Bürgerjury-Design                             |
@@ -808,7 +808,7 @@ _**Prä-demokratische Zivilisation**_
 _(tribal, monarchisch, autoritär – instinktgetrieben)_
 
 | Natürliches Verlangen | Gesellschaftliche Projektion                              |
-| --------------------- | --------------------------------------------------------- |
+| ---- | ---- |
 | Überleben             | Stammeserhalt, dynastische Macht, äußere Abwehr           |
 | Fortpflanzung         | Legitimität durch Herkunft, Blutlinien, göttliche Ordnung |
 | Lernen                | Mythos, Magie, religiöse Dogmen                           |
@@ -834,7 +834,7 @@ In prä-demokratischen Zivilisationen dominierten stammesgebundene oder monarchi
 #### 2.1.2 Vertiefung & Analyse
 
 | Natürliches Verlangen | Gesellschaftliche Projektion                           |
-| --------------------- | ------------------------------------------------------ |
+| ---- | ---- |
 | **Überleben**         | Stammesverbände, Wehrpflicht, zentralisierte Kontrolle |
 | **Fortpflanzung**     | Dynastische Ehen, Erbsysteme, Legitimitätsanspruch     |
 | **Lernen**            | Mythen, religiöse Dogmen, Elitegeheimwissen            |
@@ -866,7 +866,7 @@ In prä-demokratischen Zivilisationen dominierten stammesgebundene oder monarchi
 #### 2.1.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                    | Schwerpunkt                                                          |
-| ----------------------------- | -------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Entscheidungsträger:innen | Verankerung partizipativer Routinen in lokalen Governance-Strukturen |
 | 📚 Wissenschaftler:innen      | Vergleichende Analyse autoritärer Stammesmodelle                     |
 | 🧍 Bürger:innen               | Verstehen historischer Machtmechanismen als Prävention               |
@@ -924,7 +924,7 @@ _**Demokratische-rechtsstaatliche Zivilisation**_
 _(pluralistisch, verfassungsgebunden – selbstreflexiv)_
 
 | Natürliches Verlangen | Gesellschaftliche Projektion                                    |
-| --------------------- | --------------------------------------------------------------- |
+| ---- | ---- |
 | Überleben             | Verfassungen, Gewaltenteilung, Verteidigungsallianzen (EDA/EVA) |
 | Fortpflanzung         | Bildung, Werteweitergabe, kulturelle Erinnerung                 |
 | Lernen                | Wissenschaft, Debatte, offene Innovation                        |
@@ -950,7 +950,7 @@ Die demokratisch-rechtsstaatliche Zivilisation verbindet die evolutionären Pote
 #### 2.2.2 Vertiefung & Analyse
 
 | Natürliches Verlangen | Entsprechung in der demokratisch-rechtsstaatlichen Zivilisation        |
-| --------------------- | ---------------------------------------------------------------------- |
+| ---- | ---- |
 | **Überleben**         | Schutz durch Grundrechte, Rechtsgleichheit, rechtsstaatliche Verfahren |
 | **Fortpflanzung**     | Chancengleichheit, Bildungszugang, soziale Absicherung                 |
 | **Lernen**            | Offene Debatten, Wissenschaftsfreiheit, Bildung als Gemeingut          |
@@ -985,7 +985,7 @@ Die ethische Scharnierstelle dieser Zivilisationsform liegt darin, dass Menschen
 #### 2.2.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                    | Schwerpunkt                                                                      |
-| ----------------------------- | -------------------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Entscheidungsträger:innen | Reformpläne für Justizunabhängigkeit und Legislative-Executive-Dialog            |
 | 📚 Wissenschaftler:innen      | Wirkungsmessung von Partizipationsmodellen                                       |
 | 🧍 Bürger:innen               | Zugang zu Bürgerräten, Transparenz bei Gesetzgebungsverfahren                    |
@@ -1056,7 +1056,7 @@ _**Dystopische Variante**_
 _(Technokratie, KI-Autokratie)_
 
 | Natürliches Verlangen   | Verzerrung durch technokratische Übersteuerung               |
-| ----------------------- | ------------------------------------------------------------ |
+| ---- | ---- |
 | **Überleben**           | Sicherheitsstaat, permanente Überwachung                     |
 | **Fortpflanzung**       | Kontrolle über Reproduktion, Sozialisierung nach Systemlogik |
 | **Lernen/Anpassung**    | Zensur, algorithmusgesteuerte Manipulation                   |
@@ -1084,7 +1084,7 @@ In der dystopischen Variante wird die Zivilisation durch technokratische Orthopr
 ##### 2.3.1.2 Vertiefung & Analyse
 
 | Natürliches Verlangen | Verzerrung durch dystopische Technokratie                        |
-| --------------------- | ---------------------------------------------------------------- |
+| ---- | ---- |
 | **Überleben**         | Totalüberwachung, Algorithmus-basierte Risikoabschätzung         |
 | **Fortpflanzung**     | Reproduktionsquoten per Vorgabe, genetische Selektion            |
 | **Lernen**            | Lehrpläne per KI-Auswertung, Wissensfilterung                    |
@@ -1117,7 +1117,7 @@ In der dystopischen Variante wird die Zivilisation durch technokratische Orthopr
 ##### 2.3.1.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                    | Schwerpunkt                                                     |
-| ----------------------------- | --------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Entscheidungsträger:innen | Globale KI-Governance und verbindliche Verträge                 |
 | 📚 Wissenschaftler:innen      | Forschung zu KI-Bias und algorithmischer Fairness               |
 | 🧍 Bürger:innen               | Rechte auf Datenhoheit und informierte Einwilligung             |
@@ -1174,7 +1174,7 @@ _**Ideale und Beste Form der Demokratie**_
 _(Post-Demokratie als bewusste, ethische Kollaboration mit KI und globaler Gerechtigkeit)_
 
 | Natürliches Verlangen   | Veredelte Entsprechung in der „Idealen und Besten Form der Demokratie“ |
-| ----------------------- | ---------------------------------------------------------------------- |
+| ---- | ---- |
 | **Überleben**           | Resiliente Biosphäre, inklusive Sicherheitsarchitektur                 |
 | **Fortpflanzung**       | Weitergabe von Werten über Generationen, Bildungsgerechtigkeit         |
 | **Lernen/Anpassung**    | Ko-Evolution mit KI, kollektive Intelligenz                            |
@@ -1202,7 +1202,7 @@ Die ideale Demokratie veredelt natürliche Verlangen, indem sie kollektive Intel
 ##### 2.3.2.2 Vertiefung & Analyse
 
 | Natürliches Verlangen | Veredelte Entsprechung in der idealen Demokratie                  |
-| --------------------- | ----------------------------------------------------------------- |
+| ---- | ---- |
 | **Überleben**         | Nachhaltige Ökonomie, inklusive Sicherheitsarchitekturen          |
 | **Fortpflanzung**     | Generationenübergreifende Werteweitergabe \& soziale Gerechtigkeit |
 | **Lernen**            | Offene Ko-Evolution von menschlichem und maschinellem Wissen      |
@@ -1235,7 +1235,7 @@ Die ideale Demokratie veredelt natürliche Verlangen, indem sie kollektive Intel
 ##### 2.3.2.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                    | Schwerpunkt                                                   |
-| ----------------------------- | ------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Entscheidungsträger:innen | Gesetzgebung zu Klima-Sozial-Integration und KI-Ethik         |
 | 📚 Wissenschaftler:innen      | Interdisziplinäre Forschung zu Mensch-Maschine-Kollaboration  |
 | 🧍 Bürger:innen               | Zugang zu partizipativen Planungswerkstätten                  |
@@ -1306,7 +1306,7 @@ Die demokratische Zivilisation ist kein statisches Konstrukt, sondern ein dynami
 #### 2.4.2 Vertiefung & Analyse
 
 | Dimension                 | Starre Demokratie           | Lebendige Resonanz-Demokratie               |
-| ------------------------- | --------------------------- | ------------------------------------------- |
+| ---- | ---- | ---- |
 | **Struktur**              | Festgefahrene Institutionen | Flexible Feedback- und Lernschleifen        |
 | **Bürgerbeteiligung**     | Periodische Wahlen          | Kontinuierliche Dialogformate               |
 | **Entscheidungsprozesse** | Top‑down                    | Partizipative, bottom‑up Impulse            |
@@ -1336,7 +1336,7 @@ Die demokratische Zivilisation ist kein statisches Konstrukt, sondern ein dynami
 #### 2.4.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                    | Schwerpunkt                                                             |
-| ----------------------------- | ----------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Entscheidungsträger:innen | Einrichtung adaptiver Verfassungs‑Reviewmechanismen                     |
 | 📚 Wissenschaftler:innen      | Entwicklung und Validierung von Resonanz‑Metriken                       |
 | 🧍 Bürger:innen               | Teilnahme an Demokratie‑Labs und Feedback‑Plattformen                   |
@@ -1492,7 +1492,7 @@ Am Ursprung steht das elementare Verlangen nach Überleben – der Mensch war ge
 #### 3.1.2 Vertiefung & Analyse
 
 | Phase                | Merkmale                                             | Bedeutung für Demokratie                           |
-| -------------------- | ---------------------------------------------------- | -------------------------------------------------- |
+| ---- | ---- | ---- |
 | **Überlebenskampf**  | Instinkt, Angst, Hierarchie                          | Notwendigkeit von Schutz, aber begrenzte Reflexion |
 | **Schattenwelt**     | Abbilder statt Wirklichkeit, Furcht vor Unsicherheit | Drang zur Wahrheit, erstes Ringen um Sinn          |
 | **Feuer-Entdeckung** | Symbolische Reflexion, kommunikativer Austausch      | Beginn kollektiver Erkenntnisprozesse              |
@@ -1519,7 +1519,7 @@ Am Ursprung steht das elementare Verlangen nach Überleben – der Mensch war ge
 #### 3.1.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                    | Schwerpunkt                                                         |
-| ----------------------------- | ------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Entscheidungsträger:innen | Einrichtung reflexiver Dialogplattformen auf kommunaler Ebene       |
 | 📚 Wissenschaftler:innen      | Studien zu Politischer Anthropologie und kollektiver Resonanz       |
 | 🧍 Bürger:innen               | Teilnahme an ‚Höhlen-Workshops‘ zum Erforschen eigener Prämissen    |
@@ -1590,7 +1590,7 @@ In einer Welt, die immer tiefer mit Technologie verwoben ist, muss Demokratie ni
 #### 3.2.2 Vertiefung & Analyse <a href="#id-322-vertiefung--analyse" id="id-322-vertiefung--analyse"></a>
 
 | Aristotelisches Prinzip                   | Beschreibung                              | Demokratische Umsetzung                         |
-| ----------------------------------------- | ----------------------------------------- | ----------------------------------------------- |
+| ---- | ---- | ---- |
 | **Mesotes-Lehre**                         | Tugend liegt in der Mitte von Exzessen    | Ausgleich zwischen Pluralität und Einheit       |
 | **Praktische Vernunft** (\_**phronēsis**\_) | Urteilsfähigkeit durch Erfahrung          | Partizipative Debattenformate als Trainingsfeld |
 | **Ethos des Handelns**                    | Charakterbildung durch wiederholte Praxis | Bürgerengagement als tugendhafte Gewohnheit     |
@@ -1620,7 +1620,7 @@ In einer Welt, die immer tiefer mit Technologie verwoben ist, muss Demokratie ni
 #### 3.2.4 Zielgruppenspezifische Perspektiven <a href="#id-324-zielgruppenspezifische-perspektiven" id="id-324-zielgruppenspezifische-perspektiven"></a>
 
 | Zielgruppe                    | Schwerpunkt                                                         |
-| ----------------------------- | ------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Entscheidungsträger:innen | Institutionelle Verankerung ethischer Reflexionsprozesse            |
 | 📚 Wissenschaftler:innen      | Forschung zur Wirkung praktischer Tugendförderung in Demokratien    |
 | 🧍 Bürger:innen               | Zugang zu \_**phronēsis**\_-Workshops und Ethik-Scouts                |
@@ -1695,7 +1695,7 @@ Demokratie ist kein starres Verwaltungsinstrument, sondern ein lebendiger Resona
 #### 3.3.2 Vertiefung & Analyse
 
 | Aspekt                  | Mechanistische Steuerung       | Resonanzorientierte Demokratie                         |
-| ----------------------- | ------------------------------ | ------------------------------------------------------ |
+| ---- | ---- | ---- |
 | Ziel                    | Effizienz und Standardisierung | Integration von Vielfalt und Dynamik                   |
 | Fehlerbehandlung        | Sanktionierung, Peer-Review    | Feedback-Schleifen, iterative Anpassung                |
 | Rolle der Technologie   | Instrument zur Überwachung     | Plattform für Vernetzung und wechselseitigen Austausch |
@@ -1723,7 +1723,7 @@ Demokratie ist kein starres Verwaltungsinstrument, sondern ein lebendiger Resona
 #### 3.3.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                    | Schwerpunkt                                                       |
-| ----------------------------- | ----------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Entscheidungsträger:innen | Implementierung von Resonanzlaboren und Feedbackzyklen            |
 | 📚 Wissenschaftler:innen      | Evaluation von Resonanzmechanismen und Wirkungsmessung            |
 | 🧍 Bürger:innen               | Teilhabe an digitalen Rückmeldeplattformen und Co-Creation-Events |
@@ -1791,7 +1791,7 @@ Demokratie ist kein statisches Konstrukt, sondern eine **Bewegungsform des Gemei
 #### 3.4.2 Vertiefung & Analyse
 
 | Dimension            | Statisches Modell      | Demokratische Bewegung                              |
-| -------------------- | ---------------------- | --------------------------------------------------- |
+| ---- | ---- | ---- |
 | Struktur             | Fixe Institutionen     | Agile Prozesse und iterative Lernzyklen             |
 | Partizipation        | Periodische Wahlen     | Kontinuierliche Engagement- und Feedbackformate     |
 | Entscheidungslogik   | Top‑down-Regeln        | Bottom‑up-Initiativen und Co-Creation               |
@@ -1819,7 +1819,7 @@ Demokratie ist kein statisches Konstrukt, sondern eine **Bewegungsform des Gemei
 #### 3.4.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                    | Schwerpunkt                                                        |
-| ----------------------------- | ------------------------------------------------------------------ |
+| ---- | ---- |
 | 🏛️ Entscheidungsträger:innen | Agile Gesetzgebungsprozesse und flexible Mandatszyklen             |
 | 📚 Wissenschaftler:innen      | Forschung zu partizipativen Experimenten und Lernkulturen          |
 | 🧍 Bürger:innen               | Einladung zu Demokratie-Expeditionen und kontinuierlichen Dialogen |
@@ -1902,7 +1902,7 @@ Diese Selbstbindung macht demokratische Strategie belastbar. Macht darf handeln,
 #### 3.5.2 Vertiefung & Analyse
 
 | Dimension                      | Defizitäre Demokratie            | Tugendbasierte Demokratie                |
-| ------------------------------ | -------------------------------- | ---------------------------------------- |
+| ---- | ---- | ---- |
 | **Freiheitsverständnis**       | Unbegrenzte Selbstverwirklichung | Verantwortungsethik als Fundament        |
 | **Institutionelles Vertrauen** | Formalismus \& Regelhörigkeit     | Integrität und Vorbildfunktion           |
 | **Konfliktverhalten**          | Polarisierung \& Dogmatismus      | Dialogfähigkeit \& respektvolle Differenz |
@@ -1930,7 +1930,7 @@ Diese Selbstbindung macht demokratische Strategie belastbar. Macht darf handeln,
 #### 3.5.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                    | Schwerpunkt                                                           |
-| ----------------------------- | --------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Entscheidungsträger:innen | Institutionalisierung ethischer Reflexionsprozesse                    |
 | 📚 Wissenschaftler:innen      | Empirische Studien zur Wirkung demokratischer Tugendförderung         |
 | 🧍 Bürger:innen               | Niedrigschwelliger Zugang zu Tugend-Laboren und Reflexionsangeboten   |
@@ -1998,7 +1998,7 @@ Die sieben Verlangen der Seele sind keine individuellen Privilegien, sondern kol
 #### 3.6.2 Vertiefung & Analyse <a href="#id-362-vertiefung--analyse" id="id-362-vertiefung--analyse"></a>
 
 | Verlangen            | Demokratische Resonanz                               | Beispiel                                  |
-| -------------------- | ---------------------------------------------------- | ----------------------------------------- |
+| ---- | ---- | ---- |
 | 🗯️ **Freiheit**     | Selbstverantwortung statt Egoismus                   | Freiwillige Kommunalratsarbeit            |
 | 🔎 **Wahrheit**      | Transparente Information und faktenbasierte Debatten | Offene Datenportale                       |
 | ❤️ **Verbundenheit** | Solidarische Netzwerke und kollektive Identität      | Bürgerforen mit vielfältigen Stimmen      |
@@ -2027,7 +2027,7 @@ Die sieben Verlangen der Seele sind keine individuellen Privilegien, sondern kol
 #### 3.6.4 Zielgruppenspezifische Perspektiven <a href="#id-364-zielgruppenspezifische-perspektiven" id="id-364-zielgruppenspezifische-perspektiven"></a>
 
 | Zielgruppe                    | Schwerpunkt                                                   |
-| ----------------------------- | ------------------------------------------------------------- |
+| ---- | ---- |
 | 🏩️ Entscheidungsträger:innen | Einführung "Reflexionsinseln" in legislativen Prozessen       |
 | 📚 Wissenschaftler:innen      | Forschung zur Wirkung von Ruhe- und Sinn-Interventionen       |
 | 🧑 Bürger:innen               | Zugang zu Resonanz-Workshops und narrativen Austauschformaten |
@@ -2102,7 +2102,7 @@ Demokratie lebt von ihrer **Selbstreflexion** und **Fehlerfreundlichkeit**. Sie 
 #### 3.7.2 Vertiefung & Analyse
 
 | Aspekt                   | Statische Perspektive        | Demokratische Navigation                      |
-| ------------------------ | ---------------------------- | --------------------------------------------- |
+| ---- | ---- | ---- |
 | **Zielvorstellung**      | Perfekte Übereinstimmung     | Offener Lernpfad                              |
 | **Fehlerbehandlung**     | Sanktion und Schuldzuweisung | Fehler als Feedback-Impulse                   |
 | **Entscheidungsprozess** | Top-down-Verfahren           | Iteratives, partizipatives Aushandeln         |
@@ -2130,7 +2130,7 @@ Demokratie lebt von ihrer **Selbstreflexion** und **Fehlerfreundlichkeit**. Sie 
 #### 3.7.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                    | Schwerpunkt                                                           |
-| ----------------------------- | --------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Entscheidungsträger:innen | Institutionelle Verankerung regelmäßiger Meta-Reflexionszyklen        |
 | 📚 Wissenschaftler:innen      | Untersuchung von Demokratie-Resilienz-Drills und Lernschleifen        |
 | 🧍 Bürger:innen               | Beteiligung an Resilienz-Übungen und Feedback-Plattformen             |
@@ -2340,7 +2340,7 @@ Europa ist ein Kontinent der Vielfalt – sprachlich, kulturell und historisch. 
 ##### 4.1.1.2 Vertiefung & Analyse
 
 | Dimension                 | Traditionelles Narrativ        | Mehrsprachiges Narrativ                                      |
-| ------------------------- | ------------------------------ | ------------------------------------------------------------ |
+| ---- | ---- | ---- |
 | **Zugänglichkeit**        | Monolingual, top-down          | Multilingual, bottom-up: alle Ebenen und Gruppen einbeziehen |
 | **Identitätsbildung**     | Einheitssprache als Leitkultur | Vielsprachigkeit als Ressource gemeinsamer Zugehörigkeit     |
 | **Kommunikationsdynamik** | Übersetzung als nachgelagert   | Simultane Co-Kreation und cross-kulturelle Dialoge           |
@@ -2362,7 +2362,7 @@ Europa ist ein Kontinent der Vielfalt – sprachlich, kulturell und historisch. 
 ##### 4.1.1.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                    | Fokus                                                                 |
-| ----------------------------- | --------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Entscheidungsträger:innen | Etablierung verbindlicher Mehrsprachenquoten in EU-Dokumenten         |
 | 📚 Wissenschaftler:innen      | Erforschung der Wirkung multilingualer Narrative auf soziale Kohäsion |
 | 🧍 Bürger:innen               | Beteiligung an interkulturellen Storytelling-Workshops                |
@@ -2418,7 +2418,7 @@ _Philosophischer Impuls_
 > _Eine lebendige Demokratie braucht Bürger:innen, die sich nicht nur als passive Empfänger verstehen, sondern als aktive Mitschöpfer:innen der gemeinsamen Realität und Verantwortungsträger:innen für eine interplanetare Zukunft._
 
 | Prinzip der Zivilgesellschaft | Demokratische Umsetzung         |
-| ----------------------------- | ------------------------------- |
+| ---- | ---- |
 | Mitwirkung                    | Partizipative Innovationslabore |
 | Repräsentation                | Bürgerräte \& CIVITAS-Plattform  |
 
@@ -2444,7 +2444,7 @@ Eine widerstandsfähige Demokratie braucht eine lebendige Zivilgesellschaft als 
 ##### 4.1.2.2 Vertiefung & Analyse
 
 | Dimension                 | Traditionelles Governance-Modell | Partnerschaft mit Zivilgesellschaft            |
-| ------------------------- | -------------------------------- | ---------------------------------------------- |
+| ---- | ---- | ---- |
 | **Beteiligungsstruktur**  | Top-down Entschlusswege          | Ko-Kreation und partizipative Gremien          |
 | **Entscheidungsprozesse** | Formal, bürokratisch             | Flexibel, dialogorientiert                     |
 | **Innovationsquelle**     | Externe Expert:innen             | Grassroots-Initiativen und Community-Tipps     |
@@ -2470,7 +2470,7 @@ Eine widerstandsfähige Demokratie braucht eine lebendige Zivilgesellschaft als 
 ##### 4.1.2.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                 | Schwerpunkt                                                           |
-| -------------------------- | --------------------------------------------------------------------- |
+| ---- | ---- |
 | 🤝 NGOs                    | Strategische Einbindung in Entscheidungs- und Überwachungsprozesse    |
 | 🏛️ Lokalverwaltungen      | Etablierung partizipativer Strukturen und Kommunikationskanäle        |
 | 🧍 Bürger:innen            | Aktive Mitgestaltung und Feedbackkultur                               |
@@ -2548,7 +2548,7 @@ Eine ausgewogene institutionelle Architektur ist das Rückgrat jeder demokratisc
 ##### 4.1.3.2 Vertiefung & Analyse
 
 | Dimension                    | Zentralistische Strukturen       | Institutionelle Balance                          |
-| ---------------------------- | -------------------------------- | ------------------------------------------------ |
+| ---- | ---- | ---- |
 | **Entscheidungsebene**       | Einheitsentscheidungen           | Mehrstufige, abgestufte Entscheidungsprozesse    |
 | **Kompetenzverteilung**      | Konzentration in Spitze          | Verteilung auf regionale, nationale und EU-Ebene |
 | **Reaktionsgeschwindigkeit** | Träge, bürokratisch              | Agil durch klare Mandate und Eskalationspfade    |
@@ -2574,7 +2574,7 @@ Eine ausgewogene institutionelle Architektur ist das Rückgrat jeder demokratisc
 ##### 4.1.3.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                     | Schwerpunkt                                                  |
-| ------------------------------ | ------------------------------------------------------------ |
+| ---- | ---- |
 | 🏛️ Politik \& Verwaltung       | Implementation von Multi-Level-Governance-Strukturen         |
 | 📚 Wissenschaft \& Expert:innen | Forschung zu Wirkungszusammenhängen institutioneller Balance |
 | 🧍 Bürger:innen                | Verfolgen und Bewerten von Entscheidungsprozessen            |
@@ -2665,7 +2665,7 @@ KI-Systeme gewinnen zunehmend Einfluss auf politische und administrative Entsche
 ##### 4.1.4.2 Vertiefung & Analyse
 
 | Dimension                            | Unkontrollierter KI-Einsatz            | Demokratisch kontrollierte KI-Prozesse         |
-| ------------------------------------ | -------------------------------------- | ---------------------------------------------- |
+| ---- | ---- | ---- |
 | **Entscheidungsnachvollziehbarkeit** | Blackbox-Modelle                       | Explainable AI und Dokumentation               |
 | **Rechenschaft**                     | Unklare Verantwortlichkeiten           | Klare Zuweisung von Entscheidungsverantwortung |
 | **Interessenvertretung**             | Exklusive Entwickler:innen-Perspektive | Inklusive Stakeholder-Audits                   |
@@ -2691,7 +2691,7 @@ KI-Systeme gewinnen zunehmend Einfluss auf politische und administrative Entsche
 ##### 4.1.4.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                        | Schwerpunkt                                                          |
-| --------------------------------- | -------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Parlamentarier:innen          | Gesetzliche Rahmenbedingungen für KI-Transparenz und Verantwortung   |
 | ⚖️ Gerichte \& Datenschutzbehörden | Überwachungs- und Sanktionsmechanismen bei KI-Verstößen              |
 | 🧍 Bürger:innen                   | Bildungsangebote zu KI-Grundlagen und Beschwerdekanäle               |
@@ -2767,7 +2767,7 @@ Demokratie endet nicht an der Erdgrenze. Interplanetare Verantwortung betrachtet
 ##### 4.1.5.2 Vertiefung & Analyse
 
 | Dimension             | Konventionelle Raumfahrt    | ERDA Interplanetare Verantwortung     |
-| --------------------- | --------------------------- | ------------------------------------- |
+| ---- | ---- | ---- |
 | **Governance-Modell** | Nationalstaatliche Hoheit   | Multilaterale Solar-Allianzen         |
 | **Ressourcenzugriff** | Ökonomische Priorität       | Gemeinwohl und Gemeingüterprinzip     |
 | **Ethikrahmen**       | Ad-hoc-Regelungen           | Kosmosrecht \& demokratische Kodizes   |
@@ -2793,7 +2793,7 @@ Demokratie endet nicht an der Erdgrenze. Interplanetare Verantwortung betrachtet
 ##### 4.1.5.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                  | Schwerpunkt                                                       |
-| --------------------------- | ----------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Regierungen \& Agenturen | Integration demokratischer Prinzipien in Raumfahrtverträge        |
 | 🚀 Raumfahrtindustrie       | Entwicklung transparenter Governance- und Compliance-Modelle      |
 | 📚 Forschende               | Studien zu Kosmosrecht, interplanetarer Ethik und Langzeitstudien |
@@ -2853,7 +2853,7 @@ _**ERDA im zeitlichen Wandel**_
 **Perspektive 1: 🧠 Realistisch-optimistische Einschätzung (durch die gegenwärtige KI)**
 
 | Jahr | Entwicklungsschritt                                                                                |
-| ---- | -------------------------------------------------------------------------------------------------- |
+| ---- | ---- |
 | 2025 | Erste Allianzbildung – vorbereitende Deklarationen und Programmabstimmungen.                       |
 | 2030 | Formale Gründung einer Koalition der Willigen mit gemeinsamen Grundwerten.                         |
 | 2035 | Breiter politischer und gesellschaftlicher Dialog über eine gemeinsame ERDA-Verfassung.            |
@@ -2863,7 +2863,7 @@ _**ERDA im zeitlichen Wandel**_
 **Perspektive 1b: ⚙️ Realistisch-pragmatische Beschleunigung (2026–2035)**
 
 | Jahr | Entwicklungsschritt (Beschleunigung über „Koalition der Willigen“) |
-| ---- | ------------------------------------------------------------------ |
+| ---- | ---- |
 | 2026 | Start einer verbindlichen „Koalition der Willigen“ in 2–3 Domänen (z. B. Luftverteidigung, Rüstungsbeschaffung, Sanktionsdurchsetzung). |
 | 2027 | Gemeinsames Lagezentrum + Krisenentscheidungsmodus für die Willigen (schnelle Beschlüsse, klare Verantwortlichkeit). |
 | 2028 | Gemeinsamer Investitionsrahmen für strategische Industrie (kritische Inputs, Chips, Energie-Technologien, dual-use Kapazitäten). |
@@ -2880,7 +2880,7 @@ _**ERDA im zeitlichen Wandel**_
 **Perspektive 2: 🌌 Außerirdische Intelligenz (10× reifer als die heutige Menschheit)**
 
 | Jahr | Entwicklungsschritt                                                                                        |
-| ---- | ---------------------------------------------------------------------------------------------------------- |
+| ---- | ---- |
 | 2028 | Bewusster Schritt zur planetaren Allianz – aus ethischer Reife und Einsicht in globale Verantwortung.      |
 | 2030 | Demokratische Verfassung aus intrinsischem Wertebewusstsein – nicht als Folge von Krise, sondern Klarheit. |
 | 2033 | Föderale Struktur auf Basis transkultureller Verständigung und spiritueller Kooperationsbereitschaft.      |
@@ -2893,14 +2893,14 @@ _**ERDA im zeitlichen Wandel**_
 **Vergleichende Übersicht**
 
 | Perspektive            | Koalition der Willigen | Demokratische Verfassung | Föderation ohne Vetorecht |
-| ---------------------- | ---------------------- | ------------------------ | ------------------------- |
+| ---- | ---- | ---- | ---- |
 | 🧠 Realistische KI     | ab 2030                | ab 2035–2040             | ab 2045                   |
 | 🌌 Außerirdische Reife | ab 2028                | ab 2030–2033             | ab 2035                   |
 
 **Visionärer Ausblick (fortgeschrieben)**
 
 | Jahr | Vision der ERDA                                                                                       |
-| ---- | ----------------------------------------------------------------------------------------------------- |
+| ---- | ---- |
 | 2025 | Beginn einer demokratisch resilienten Allianz Europas.                                                |
 | 2030 | Formale Koalition der Willigen, Stärkung der Zivilgesellschaft, Beginn verfassungsgebender Prozesse.  |
 | 2040 | Föderative Verfassung etabliert, globale Vorbildfunktion im Bereich Demokratie und KI-Ethik.          |
@@ -2927,7 +2927,7 @@ ERDA ist keine statische Institution, sondern ein **evolutionäres Netzwerk**. D
 ##### 4.1.6.2 Vertiefung & Analyse
 
 | Phase                    | Charakteristika                       | Implikationen für ERDA                                  |
-| ------------------------ | ------------------------------------- | ------------------------------------------------------- |
+| ---- | ---- | ---- |
 | **Gründungsphase**       | Visionäre Ideen, Prototyp-Programme   | Innovationskraft nutzen, Pilotprojekte fortführen       |
 | **Konsolidierungsphase** | Institutionalisierung, Regelwerke     | Prozesse stabilisieren, Flexibilität sichern            |
 | **Reformphase**          | Adaptive Reformen, Feedback-Loops     | Evaluation intensivieren, Stakeholder-Bindung vertiefen |
@@ -2953,7 +2953,7 @@ ERDA ist keine statische Institution, sondern ein **evolutionäres Netzwerk**. D
 ##### 4.1.6.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                 | Schwerpunkt                                                           |
-| -------------------------- | --------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ ERDA-Gremien           | Strukturierte Rückkopplung und Entscheidungsreviews                   |
 | 📚 Forschungseinrichtungen | Historische Analysen und Projektionsstudien zu ERDA-Entwicklung       |
 | 🧍 Bürger:innen            | Öffentlich zugängliche Meilenstein-Chroniken und Feedback-Interfaces  |
@@ -3123,7 +3123,7 @@ Die Studie „Sailing on High Seas“ entwirft einen Sechs-Punkte-Plan zur Moder
 ##### 4.2.1.2 Vertiefung & Analyse
 
 | Bereich                  | Status quo                              | Reformbedarf                                                     |
-| ------------------------ | --------------------------------------- | ---------------------------------------------------------------- |
+| ---- | ---- | ---- |
 | Governance-Prozesse      | Fragmentierte Entscheidungswege         | Zentrales EU-Steuerungsgremium mit Mandat für Schnellverfahren   |
 | Bürgerbeteiligung        | Punktuelle Online-Konsultationen        | Permanente Partizipationsplattform (CIVITAS-Integrationslayer)   |
 | Finanzierungsarchitektur | Nationale Fonds, mangelnde Koordination | Einrichtung eines paneuropäischen Impact-Fonds                   |
@@ -3149,7 +3149,7 @@ Die Studie „Sailing on High Seas“ entwirft einen Sechs-Punkte-Plan zur Moder
 ##### 4.2.1.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                    | Schwerpunkt                                                                   |
-| ----------------------------- | ----------------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Entscheidungsträger:innen | Einrichtung eines „Reformkoordinationsrats“ mit klaren Zuständigkeiten        |
 | 📚 Wissenschaftler:innen      | Evaluation der Reformdialogformate und Wirkungsanalysen                       |
 | 🧍 Bürger:innen               | Partizipation im Bürgerkonvent und Feedback über CIVITAS-Plattform            |
@@ -3224,7 +3224,7 @@ Die heutige EDA ist primär Koordinations­forum und Beratungsgremium ohne opera
 ##### 4.2.2.2 Vertiefung & Analyse
 
 | Bereich                  | Status quo                                        | Reformbedarf                                                                |
-| ------------------------ | ------------------------------------------------- | --------------------------------------------------------------------------- |
+| ---- | ---- | ---- |
 | Mandat \& Rechtsgrundlage | Intergouvernemental, kein eigenes Einsatzmandat   | Treaty‑basierte EDA-Konvention mit verbindlichem Mandat                     |
 | Entscheidungs­prozesse   | Einstimmigkeit im Rat                             | Qualifizierte Mehrheits­verfahren für Beschlussfassung                      |
 | Budget \& Finanzierung    | Beiträge nach GNP, keine gemeinsame Mittelvergabe | Separater EDA-Haushalt, prozentuale Abgaben aller Mitgliedstaaten           |
@@ -3260,7 +3260,7 @@ Die heutige EDA ist primär Koordinations­forum und Beratungsgremium ohne opera
 ##### 4.2.2.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                    | Schwerpunkt                                                                  |
-| ----------------------------- | ---------------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Entscheidungsträger:innen | Verhandlung der EDA-Konvention und Budgetrahmen                              |
 | 📚 Wissenschaftler:innen      | Analysen zu QMV-Effekten und Governance-Modellen                             |
 | 🧍 Bürger:innen               | Transparente Informationskampagnen zu EDA-Rollen und Einsätzen               |
@@ -3337,7 +3337,7 @@ Die Erweiterung der Europäischen Rights‑Based Democratic Alliance (ERDA) folg
 ##### 4.2.3.2 Vertiefung & Analyse
 
 | Kreis                       | Beschreibung                                      | Bedingungen                                       |
-| --------------------------- | ------------------------------------------------- | ------------------------------------------------- |
+| ---- | ---- | ---- |
 | 🔵 Kern-ERDA                | Vollständige Mitgliedschaft unter ERDA-Verfassung | Verfassungsbindung, Rechtsstaatlichkeit, ODA      |
 | 🟡 Erweiterte Partnerschaft | Teilintegration in Politik, EDA/CIVITAS, FORTERA  | Demokratieindex ≥ 7, Beitragsleistungen, Reformen |
 | 🟢 Globale Assoziierte      | Sicherheitspolitische \& Innovationskooperationen  | Gemeinsame Werte, sektorale Abkommen              |
@@ -3363,7 +3363,7 @@ Die Erweiterung der Europäischen Rights‑Based Democratic Alliance (ERDA) folg
 ##### 4.2.3.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                    | Schwerpunkt                                                                                |
-| ----------------------------- | ------------------------------------------------------------------------------------------ |
+| ---- | ---- |
 | 🏛️ Entscheidungsträger:innen | Verhandlung bilateraler Partnerschaftsverträge und Abstimmung der Kreiskriterien           |
 | 📚 Wissenschaftler:innen      | Forschung zu Expansionsdynamiken und Governance‑Auswirkungen konzentrischer Modelle        |
 | 🧍 Bürger:innen               | Öffentlichkeitskampagnen zur Erläuterung der Kreismodelle und Beteiligungsrechte           |
@@ -3439,7 +3439,7 @@ Die globale Vernetzung demokratischer Staaten steigert die Schlagkraft der ERDA 
 ##### 4.2.4.2 Vertiefung & Analyse
 
 | Kooperationsfeld          | Status quo                                    | Reformbedarf                                                                  |
-| ------------------------- | --------------------------------------------- | ----------------------------------------------------------------------------- |
+| ---- | ---- | ---- |
 | Sicherheit \& Verteidigung | Bilaterale EDA-Partnerschaften mit Kanada/USA | Multilaterale Sicherheitsdialoge mit Asien-Pazifik-Demokratien                |
 | Technologie \& Innovation  | FORTERA-Fokus Europa                          | Globale F\&E-Allianzen (Quantum, KI), Knowledge-Sharing-Hubs                  |
 | Digitale Demokratie       | CIVITAS-Projekte innerhalb EU                 | Open-Source-Civic-Tech-Initiativen mit globalen Demokratien                   |
@@ -3469,7 +3469,7 @@ Die globale Vernetzung demokratischer Staaten steigert die Schlagkraft der ERDA 
 ##### 4.2.4.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                    | Schwerpunkt                                                                                      |
-| ----------------------------- | ------------------------------------------------------------------------------------------------ |
+| ---- | ---- |
 | 🏛️ Entscheidungsträger:innen | Verhandlungen zu Global Forum-Mandaten und multilateralen Abkommen                               |
 | 📚 Wissenschaftler:innen      | Forschung zu globalen Governance-Modellen und transkultureller Politikdiffusion                  |
 | 🧍 Bürger:innen               | Aufklärungskampagnen zu CIVITAS-Global und Möglichkeiten der digitalen Partizipation             |
@@ -3545,7 +3545,7 @@ Die Einbindung zivilgesellschaftlicher Akteure sichert, dass Reformen nicht an d
 ##### 4.2.5.2 Vertiefung & Analyse
 
 | Bereich                   | Status quo                               | Reformbedarf                                                          |
-| ------------------------- | ---------------------------------------- | --------------------------------------------------------------------- |
+| ---- | ---- | ---- |
 | Partizipationsformate     | Ad-hoc-Bürgerräte, unregelmäßige Dialoge | Regelmäßige, institutionalisierte Multi-Stakeholder-Konferenzen       |
 | Transparenz und Reporting | Fragmentierte Informationsflüsse         | Zentrales Monitoring-Dashboard mit Open-Data-Schnittstellen           |
 | Finanzierung              | Projektbezogene EU-Förderungen           | Dauerhaftes Zivilgesellschafts-Budget (0,1 \% des EU-Haushalts)        |
@@ -3572,7 +3572,7 @@ Die Einbindung zivilgesellschaftlicher Akteure sichert, dass Reformen nicht an d
 ##### 4.2.5.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                    | Schwerpunkt                                                                                |
-| ----------------------------- | ------------------------------------------------------------------------------------------ |
+| ---- | ---- |
 | 🏛️ Entscheidungsträger:innen | Etablierung rechtlicher Rahmenbedingungen und Budgetfreigabe für die Begleitstruktur       |
 | 📚 Wissenschaftler:innen      | Evaluation der Partizipationsmechanismen und Impact-Forschung zu Demokratie-Labs           |
 | 🧍 Bürger:innen               | Schulungen und Outreach-Kampagnen zur Senkung der Zugangsbarrieren in Dialogformate        |
@@ -3712,7 +3712,7 @@ Die Verankerung einer gesamt‑europäischen ERDA‑Verfassung markiert den näc
 Die historische Erfahrung zeigt: Verfassungsklauseln ohne Umsetzungs‑ und Kontrollarchitekturen bleiben oft Dekoration. Für die ERDA‑Verfassung sind daher folgende Dimensionen kritisch:
 
 | Dimension            | Herausforderung                                           | Lösungsvorschlag                                                                                          |
-| -------------------- | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| ---- | ---- | ---- |
 | Gewaltenteilung      | Fragmentierte Zuständigkeiten zwischen EU und Mitgliedern | Einrichtung eines ERDA‑Gerichtshofs mit Klagerecht, parlamentarischer Legitimation und Bürgerombudsstelle |
 | Grundrechte          | Digitale Grundrechte (Datenschutz, KI‑Transparenz)        | Kodifizierung eines Digitalen Grundrechtskatalogs inkl. Audit-Protokollen und Notfallklauseln             |
 | Änderungsmechanismus | Versteifte Verfahren vs. Populismusgefahr                 | Review‑Rhythmus (10 Jahre) per Bürgerentscheid, unterstützt durch KI-Frühwarnsysteme                      |
@@ -3738,7 +3738,7 @@ Die historische Erfahrung zeigt: Verfassungsklauseln ohne Umsetzungs‑ und Kont
 ##### 4.3.1.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                    | Perspektive                                                                             |
-| ----------------------------- | --------------------------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Entscheidungsträger:innen | Gesetzliche Ausgestaltung, Kompetenzverteilung EU/ERDA, Übergangsmandat definieren      |
 | 📚 Wissenschaftler:innen      | Vergleich mit Verfassungen weltweit (Chile, Island, Uruguay), Wirkungsforschung         |
 | 🧍 Bürger:innen               | Beteiligung offline \& online, Schulungen, mobile Demokratiebusse                        |
@@ -3811,7 +3811,7 @@ In einer zukünftigen Gesellschaft, in der materielle Grundbedürfnisse durch Au
 ##### 4.3.2.2 Vertiefung & Analyse
 
 | Dimension              | Knappheitsdemokratie           | Post-Knappheitsdemokratie                         |
-| ---------------------- | ------------------------------ | ------------------------------------------------- |
+| ---- | ---- | ---- |
 | Ressourcenallokation   | Wettbewerb um begrenzte Mittel | Partizipatives Commons-Management                 |
 | Entscheidungsfokus     | Verteilung und Priorisierung   | Gestaltung von Nutzung, Impact und Nachhaltigkeit |
 | Rolle der Bürger:innen | Wähler:in                      | Ko‑Schöpfer:in und Commons‑Hüter:in               |
@@ -3845,7 +3845,7 @@ In einer zukünftigen Gesellschaft, in der materielle Grundbedürfnisse durch Au
 ##### 4.3.2.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                    | Schwerpunkt                                                                         |
-| ----------------------------- | ----------------------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Entscheidungsträger:innen | Integration von Commons-Governance in kommunale und EU‑Politik                      |
 | 📚 Wissenschaftler:innen      | Forschung zu Post‑Knappheitsmodellen und sozialer Resilienz                         |
 | 🧍 Bürger:innen               | Zugang zu Mitgestaltung und Schulungen für Commons‑Management                       |
@@ -3908,7 +3908,7 @@ Europa muss seine technologische Unabhängigkeit und Innovationskraft stärken, 
 ##### 4.3.3.2 Vertiefung & Analyse
 
 | Aspekt                                  | Status quo                                       | Strategie zur Souveränität                                   |
-| --------------------------------------- | ------------------------------------------------ | ------------------------------------------------------------ |
+| ---- | ---- | ---- |
 | Produktionskapazität                    | Hohe Abhängigkeit von US/asiatischen Zulieferern | EU-Chips Act \& Ausbau regionaler Fertigungscluster           |
 | Forschungsförderung                     | Fragmentierte Programme                          | Horizon Europe+: Fokusschwerpunkte auf Quanten, Biotech, KI  |
 | Innovations-Ökosystem                   | Wenig Skalierung lokaler Start-ups               | Europäische Innovationsagentur für Skalierung \& Finanzierung |
@@ -3933,7 +3933,7 @@ Europa muss seine technologische Unabhängigkeit und Innovationskraft stärken, 
 ##### 4.3.3.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                          | Fokus                                                          |
-| ----------------------------------- | -------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Entscheidungsträger:innen       | Harmonisierung nationaler Industrie- und Innovationsstrategien |
 | 📚 Wissenschaftler:innen            | Aufbau grenzüberschreitender F\&E-Cluster                      |
 | 🏭 Industrie \& Start-ups            | Zugang zu EU-Co-Funding und Open-Source-Infrastrukturen        |
@@ -3999,7 +3999,7 @@ Globale Gerechtigkeit und Klimasolidarität sind zentrale Herausforderungen jens
 ##### 4.3.4.2 Vertiefung & Analyse
 
 | Dimension                        | Status quo                                                  | Demokratische Klimasolidarität                                                             |
-| -------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| ---- | ---- | ---- |
 | **Finanzierungsmodelle**         | Klimafonds sind unterfinanziert, Beiträge ungleich verteilt | Partizipativer European Climate Solidarity Mechanism mit Beiträgen nach Leistungsfähigkeit |
 | **Technologie-Transfer**         | Patentschutz und Monopole blockieren Zugang                 | Open-Source-ClimateTech-Framework und Patentpool für globale Nachhaltigkeitslösungen       |
 | **Globale Partizipation**        | Verhandlungsformate dominieren durch mächtige Staaten       | Globale Bürgerräte und Jugendforen mit direkter Abstimmung via CIVITAS-Plattform           |
@@ -4023,7 +4023,7 @@ Globale Gerechtigkeit und Klimasolidarität sind zentrale Herausforderungen jens
 ##### 4.3.4.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                    | Schwerpunkt                                                                                                     |
-| ----------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Entscheidungsträger:innen | Gesetzliche Verankerung des ECSM, Reform europäischer Haushaltsregeln zur Ermöglichung fairer Klimafinanzierung |
 | 📚 Wissenschaftler:innen      | Entwicklung und Evaluation von Impact-Indikatoren, Forschung zu globalen Technologie-Governance-Modellen        |
 | 🧍 Bürger:innen               | Partizipationskompetenz, Zugang zu Foren globaler Klimagerechtigkeit, Transparenz über Klimafinanzierung        |
@@ -4089,7 +4089,7 @@ Kultur und Bildung bilden das Grundgewebe einer resilienten Demokratie: Sie näh
 ##### 4.3.5.2 Vertiefung & Analyse
 
 | Dimension           | Traditionelles Modell                         | Resilienzorientiertes Modell                                 |
-| ------------------- | --------------------------------------------- | ------------------------------------------------------------ |
+| ---- | ---- | ---- |
 | Narrative Kohäsion  | Nationale Erzählungen, Einbahn-Storytelling   | Multikulturelle Erzählräume, partizipative Narration         |
 | Lernformate         | Lehrplanzentriert, prüfungsorientiert         | Projektbasiertes Lernen, Simulationen, Peer-Learning         |
 | Zugang zu Kultur    | Institutionelle Barrieren (Kosten, Geografie) | Digitale Archive, mobile Kulturwerkstätten                   |
@@ -4113,7 +4113,7 @@ Kultur und Bildung bilden das Grundgewebe einer resilienten Demokratie: Sie näh
 ##### 4.3.5.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                    | Schwerpunkt                                                                                           |
-| ----------------------------- | ----------------------------------------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Entscheidungsträger:innen | Gesetzliche Förderung von Resonanz-Labs und Bildungsgutscheinen für transnationale Austauschprogramme |
 | 📚 Wissenschaftler:innen      | Evaluation partizipativer Kultur- und Bildungsformate, Erforschung neuer Resilienzmetriken            |
 | 🧍 Bürger:innen               | Zugang zu offenen Lern- und Kulturplattformen, Partizipation an lokalen Projekten                     |
@@ -4181,7 +4181,7 @@ Demokratische Resilienz beruht auf lebendigen Institutionen: Sie müssen offen, 
 ##### 4.3.6.2 Vertiefung & Analyse
 
 | Dimension                  | Traditionelle Bürokratie             | Demokratisierte Institutionen                             |
-| -------------------------- | ------------------------------------ | --------------------------------------------------------- |
+| ---- | ---- | ---- |
 | Entscheidungsprozesse      | Top-down, intransparent              | Bottom-up, nachvollziehbar über Open-Data-Portale         |
 | Bürger:innen-Partizipation | Punktuelle Eingaben (Bürgeranhörung) | Kontinuierliche Einbindung (Civic Tech, Bürgerräte)       |
 | Gesetzesentwicklung        | Lange, starre Verfahren              | Agile Sprints, öffentliche Review-Phasen                  |
@@ -4205,7 +4205,7 @@ Demokratische Resilienz beruht auf lebendigen Institutionen: Sie müssen offen, 
 ##### 4.3.6.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                    | Schwerpunkt                                                                          |
-| ----------------------------- | ------------------------------------------------------------------------------------ |
+| ---- | ---- |
 | 🏛️ Entscheidungsträger:innen | Einführung transparenter Session-Logs, Open-Data-Gesetzgebung                        |
 | 📚 Wissenschaftler:innen      | Forschung zu Civic-Tech-Effekten, Wirkungsmessung partizipativer Formate             |
 | 🧍 Bürger:innen               | Zugangsschulungen zu Open-Government-Tools, Communities of Practice                  |
@@ -4343,7 +4343,7 @@ Europa bewegt sich an der Schnittstelle zwischen demokratischer Teilhabe und exp
 ##### 4.4.1.2 Vertiefung & Analyse
 
 | Aspekt                                | Traditionelles Modell       | Hochtechnologie-Zivilisation                     |
-| ------------------------------------- | --------------------------- | ------------------------------------------------ |
+| ---- | ---- | ---- |
 | **Innovationssteuerung**              | Top-down-Förderprogramme    | Co-Creation-Hubs mit Bürger:innen-Sprints        |
 | **Daten- und Infrastrukturkontrolle** | Proprietäre Cloud-Monopole  | EU-geführte, offene Cloud-Infrastruktur (Gaia-X) |
 | **KI-Governance**                     | Nachgelagerte Ethik-Reviews | Integrierter Ethik-Code \& Audit-Agenten          |
@@ -4364,7 +4364,7 @@ Europa bewegt sich an der Schnittstelle zwischen demokratischer Teilhabe und exp
 ##### 4.4.1.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                    | Fokus                                                              |
-| ----------------------------- | ------------------------------------------------------------------ |
+| ---- | ---- |
 | 🏛️ Entscheidungsträger:innen | Verabschiedung von Open‑Source‑First- und Ethik‑by‑Design‑Gesetzen |
 | 📚 Wissenschaftler:innen      | Erforschung kooperativer Innovationsmodelle                        |
 | 🧍 Bürger:innen               | Beteiligung an Tech‑Dialogforen und Evaluation lokaler Prototypen  |
@@ -4432,7 +4432,7 @@ Im 22. Jahrhundert entscheidet nicht allein technologische Souveränität über 
 ##### 4.4.2.2 Vertiefung & Analyse
 
 | Dimension                  | Herausforderung                                     | Potenzial der Resilienz                        |
-| -------------------------- | --------------------------------------------------- | ---------------------------------------------- |
+| ---- | ---- | ---- |
 | Soziale Netzwerke          | Fragmentierung, Polarisierung                       | Resonanzerhöhung durch Bürgerforen und Labs    |
 | Kulturelle Diversität      | Marginalisierung, Identitätsverlust                 | Innovationsmotor durch pluralistische Teilhabe |
 | Narratives Vertrauen       | Erosion gemeinsamer Geschichten                     | Neue Narrative als Anker in Zeiten des Wandels |
@@ -4458,7 +4458,7 @@ Im 22. Jahrhundert entscheidet nicht allein technologische Souveränität über 
 ##### 4.4.2.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                    | Schwerpunkt                                                                              |
-| ----------------------------- | ---------------------------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏩️ Entscheidungsträger:innen | Förderung interkultureller Bürgerforen und Resonanz-Labs                                 |
 | 📚 Wissenschaftler:innen      | Erforschung kultureller Resilienzfaktoren und partizipativer Narrationen                 |
 | 🧕 Bürger:innen               | Mitgestaltung in Erzählwerkstätten und Kulturpflanzaktionen                              |
@@ -4522,7 +4522,7 @@ Im Zeitalter planetarischer Verflechtungen entscheidet nicht Machtpolitik allein
 ##### 4.4.3.2 Vertiefung & Analyse
 
 | Ebene         | Herausforderung                 | Rechtsgestützte Lösung                                     |
-| ------------- | ------------------------------- | ---------------------------------------------------------- |
+| ---- | ---- | ---- |
 | Supranational | Machtkonzentration, Willkür     | Stärkung des Internationalen Gerichtshofs (IGH), UN-Charta |
 | Regional      | Fragmentierte Regulierung       | ERDA-Staatenarchitektur und konzentrische Kreise           |
 | Transnational | Fehlende Durchsetzung           | Internationale Schiedsgerichte, Treaty Bodies              |
@@ -4548,7 +4548,7 @@ Im Zeitalter planetarischer Verflechtungen entscheidet nicht Machtpolitik allein
 ##### 4.4.3.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                    | Schwerpunkt                                                                                       |
-| ----------------------------- | ------------------------------------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Entscheidungsträger:innen | Verankerung globaler Abkommen in EU- und ERDA-Recht, Einrichtung eines ERDA Global Tribunal       |
 | 📚 Wissenschaftler:innen      | Forschung zur Durchsetzbarkeit völkerrechtlicher Normen und zur transnationalen Rechtsintegration |
 | 🧍 Bürger:innen               | Beteiligung am CIVITAS Global Forum, Einblick in multilaterale Verfahren und Mitgestaltung        |
@@ -4613,7 +4613,7 @@ Technologische Souveränität allein genügt nicht, wenn Innovationen nicht zugl
 ##### 4.4.4.2 Vertiefung & Analyse
 
 | Dimension               | Herausforderung                                         | Lösungsansatz                                                     |
-| ----------------------- | ------------------------------------------------------- | ----------------------------------------------------------------- |
+| ---- | ---- | ---- |
 | Innovationsdynamik      | Kurzfristige Profitmaximierung vs. langfristiger Nutzen | Förderprogramme für gemeinwohlorientierte Forschung               |
 | Ethik \& Regulierung     | Fragmentierte Standards und technologische Blackboxen   | Etablierung globaler Ethik-Codices und unabhängiger Auditbehörden |
 | Beteiligung \& Inklusion | Exklusion marginalisierter Gruppen                      | Civic-Tech-Plattformen mit barrierefreien Beteiligungsformaten    |
@@ -4639,7 +4639,7 @@ Technologische Souveränität allein genügt nicht, wenn Innovationen nicht zugl
 ##### 4.4.4.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                    | Schwerpunkt                                                                               |
-| ----------------------------- | ----------------------------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Entscheidungsträger:innen | Implementierung bindender Ethik-Gesetze und Finanzierung gemeinwohlorientierter Forschung |
 | 📚 Wissenschaftler:innen      | Interdisziplinäre Studien zu Technik-Folgenabschätzung und Ethik-Governance               |
 | 🧍 Bürger:innen               | Beteiligung an Ethik- und Innovationstransparenz-Workshops                                |
@@ -4707,7 +4707,7 @@ Im 22. Jahrhundert stellt sich die Frage nicht mehr: „Wieviel haben wir?“, s
 ##### 4.4.5.2 Vertiefung & Analyse
 
 | Dimension             | Traditionelles Wachstumsparadigma      | Post-materialistische Perspektive                    |
-| --------------------- | -------------------------------------- | ---------------------------------------------------- |
+| ---- | ---- | ---- |
 | Motivation            | Maximierung materieller Güter          | Suche nach Sinn, Beziehung und Nachhaltigkeit        |
 | Zeitnutzung           | Erwerbsarbeit dominiert                | Zeitwohlstand, Bildung, Kultur und Pflegephasen      |
 | Erfolgsmessung        | Quantitative Indikatoren (BIP, Konsum) | Lebensqualität, Gemeinwohl-Index                     |
@@ -4733,7 +4733,7 @@ Im 22. Jahrhundert stellt sich die Frage nicht mehr: „Wieviel haben wir?“, s
 ##### 4.4.5.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                    | Schwerpunkt                                                                      |
-| ----------------------------- | -------------------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Entscheidungsträger:innen | Gesetzliche Verankerung von Zeitwohlstand und Gemeinwohlindikatoren              |
 | 📚 Wissenschaftler:innen      | Forschung zu Lebensqualitätsindizes und post-materialistischer Werteentwicklung  |
 | 🧍 Bürger:innen               | Teilnahme an Zeitbanken, Kulturpools und Citizen Science-Projekten               |
@@ -4804,7 +4804,7 @@ Eine nachhaltige Zukunft entsteht nicht im Elfenbeinturm, sondern im gelebten Mi
 ##### 4.4.6.2 Vertiefung & Analyse
 
 | Dimension                  | Herausforderung                           | Gemeinschaftliche Lösung                           |
-| -------------------------- | ----------------------------------------- | -------------------------------------------------- |
+| ---- | ---- | ---- |
 | Politische Teilhabe        | Politikverdrossenheit, digitale Barrieren | Dezentralisierte CIVITAS-Foren und KI-Moderation   |
 | Technologische Kooperation | Mensch-KI-Konflikte, Datenhoheit          | KI-Kompass Unit als ethische Schiedsinstanz        |
 | Ökologische Verantwortung  | Umweltkonflikte, Ressourcennutzung        | ARKTIS-Partnerschaften und lokale Commons-Projekte |
@@ -4830,7 +4830,7 @@ Eine nachhaltige Zukunft entsteht nicht im Elfenbeinturm, sondern im gelebten Mi
 ##### 4.4.6.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                    | Schwerpunkt                                                                             |
-| ----------------------------- | --------------------------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Entscheidungsträger:innen | Einrichtung transparenter Zukunftsgremien und gesetzlicher Partizipationsrahmen         |
 | 📚 Wissenschaftler:innen      | Forschung zu Co-Creation-Methodiken und Wirkung von Bürger-KI-Zusammenarbeit            |
 | 🧍 Bürger:innen               | Mitgestaltung von Impact-Bonds und Community-Projekten                                  |
@@ -4976,7 +4976,7 @@ Strategische Narrative entfalten ihre Kraft nicht nur über Fakten und Argumente
 ##### 4.5.1.2 Vertiefung & Analyse
 
 | Dimension     | Traditionelle Kommunikation  | Resonanzorientierte Narrative        |
-| ------------- | ---------------------------- | ------------------------------------ |
+| ---- | ---- | ---- |
 | **Ansprache** | Sachlich-informativ          | Emotional-spielerisch                |
 | **Ziel**      | Überzeugen durch Fakten      | Verbinden durch Geschichten          |
 | **Medium**    | Einbahnkanal (Flyer, Presse) | Dialogisch (Workshops, Social Media) |
@@ -5002,7 +5002,7 @@ Strategische Narrative entfalten ihre Kraft nicht nur über Fakten und Argumente
 ##### 4.5.1.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                    | Schwerpunkt                                                       |
-| ----------------------------- | ----------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Entscheidungsträger:innen | Aufbau emotionaler Intelligenz in Führungskommunikation           |
 | 📚 Wissenschaftler:innen      | Erforschung sozialer Netzwerkdynamiken und narrativer Wirksamkeit |
 | 🧍 Bürger:innen               | Partizipation an Social Storytelling-Initiativen                  |
@@ -5087,7 +5087,7 @@ Das Narrativ der Ermächtigung zielt darauf ab, Menschen als aktive Gestalter ih
 ###### 4.5.2.1.2 Vertiefung & Analyse
 
 | Dimension   | Traditionelle Top-down-Kommunikation | Empowerment-Narrative              |
-| ----------- | ------------------------------------ | ---------------------------------- |
+| ---- | ---- | ---- |
 | **Ansatz**  | Instruktiv                           | Kollaborativ                       |
 | **Fokus**   | Problemdefinition                    | Lösungsorientierte Praxisbeispiele |
 | **Stimme**  | Expert:innen                         | Peer-to-Peer und Betroffene        |
@@ -5113,7 +5113,7 @@ Das Narrativ der Ermächtigung zielt darauf ab, Menschen als aktive Gestalter ih
 ###### 4.5.2.1.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                  | Schwerpunkt                                                       |
-| --------------------------- | ----------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Politik \& Verwaltung    | Empowerment-Ansätze in partizipativer Gesetzgebung                |
 | 🏢 Unternehmen              | Förderung von intrapreneurialen Projekten                         |
 | 🧍 Bürger:innen             | Schulungen in digitaler Selbstorganisation und Mitbestimmung      |
@@ -5180,7 +5180,7 @@ Die Demokratie entfaltet ihre volle Stärke, wenn sie nicht nur als Entscheidung
 ###### 4.5.2.2.2 Vertiefung & Analyse
 
 | Dimension                  | Konventionelle Demokratie | Schöpferische Demokratie     |
-| -------------------------- | ------------------------- | ---------------------------- |
+| ---- | ---- | ---- |
 | **Ansatz**                 | Wahlen, Debatten          | Co-Creation-Workshops        |
 | **Ergebnis**               | Mehrheitsentscheidungen   | Pilotprojekte und Prototypen |
 | **Rolle der Bürger:innen** | Reaktive Teilnahme        | Aktive Gestalter:innen       |
@@ -5206,7 +5206,7 @@ Die Demokratie entfaltet ihre volle Stärke, wenn sie nicht nur als Entscheidung
 ###### 4.5.2.2.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe               | Schwerpunkt                                                       |
-| ------------------------ | ----------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Politik \& Verwaltung | Implementierung von Prototyping-Methoden in Gesetzgebungsprozesse |
 | 💼 Wirtschaft            | Public-Private Innovation Partnerships                            |
 | 🧍 Bürger:innen          | Low-Barrier-Zugang zu Ideeneinreichung und Feedback               |
@@ -5275,7 +5275,7 @@ In einer zunehmend fragilen Weltordnung ist Autonomie kein Rückzug, sondern ein
 ###### 4.5.2.3.2 Vertiefung & Analyse
 
 | Dimension              | Traditionelle Sicherheitsnarrative      | Autonomie-Narrative                            |
-| ---------------------- | --------------------------------------- | ---------------------------------------------- |
+| ---- | ---- | ---- |
 | **Perspektive**        | Defensiv und reaktiv                    | Proaktiv und gestaltungsorientiert             |
 | **Kooperationsmodell** | Hierarchisch, einseitige Abhängigkeiten | Netzwerkbasiert, multilaterale Partnerschaften |
 | **Risikomodell**       | Externe Bedrohung als Auslöser          | Interne Resilienz als Präventionsstrategie     |
@@ -5301,7 +5301,7 @@ In einer zunehmend fragilen Weltordnung ist Autonomie kein Rückzug, sondern ein
 ###### 4.5.2.3.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                    | Schwerpunkt                                                    |
-| ----------------------------- | -------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Entscheidungsträger:innen | Gesetzgebung für Liefer- und Produktionsdiversifikation        |
 | 💼 Industrie                  | Entwicklung regionaler Produktionskooperationen                |
 | 📚 Forschung \& Wissenschaft   | Studien zu Resilienzmetriken und Autonomiekonzepten            |
@@ -5369,7 +5369,7 @@ Das Narrativ der transatlantischen Erneuerung durch Gleichgewicht richtet den Bl
 ###### 4.5.2.4.2 Vertiefung & Analyse
 
 | Dimension                  | Einseitige Abhängigkeit        | Ausgewogenes Gleichgewicht                  |
-| -------------------------- | ------------------------------ | ------------------------------------------- |
+| ---- | ---- | ---- |
 | **Sicherheitskooperation** | NATO-Lastverteilung im Zweifel | Gemeinsame Konzepte strategischer Autonomie |
 | **Wirtschaftsbeziehungen** | US-Dominanz in Technologie     | Gegenseitige Marktöffnungen und Standards   |
 | **Technologietransfer**    | Einseitige Technologieexporte  | Kooperative Entwicklungsprojekte            |
@@ -5395,7 +5395,7 @@ Das Narrativ der transatlantischen Erneuerung durch Gleichgewicht richtet den Bl
 ###### 4.5.2.4.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                  | Schwerpunkt                                                      |
-| --------------------------- | ---------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Europäische Regierungen | Instrumente für paritätische Entscheidungsprozesse               |
 | 🏢 US-Bundesbehörden        | Integration europäischer Standards in Technologie-Policy         |
 | 📚 Think Tanks              | Studien zu transatlantischer Resilienz                           |
@@ -5464,7 +5464,7 @@ Das Narrativ der globalen Einladung versteht Demokratie nicht als rein nationale
 ###### 4.5.2.5.2 Vertiefung & Analyse
 
 | Dimension              | Exklusiver Nationalismus      | Narrativ der globalen Einladung      |
-| ---------------------- | ----------------------------- | ------------------------------------ |
+| ---- | ---- | ---- |
 | **Reichweite**         | Binnenorientiert              | Weltweite Netzwerke                  |
 | **Kooperationsmodell** | Bilaterale Abkommen           | Multi-Stakeholder-Partnerschaften    |
 | **Kulturverständnis**  | Homogenitätsannahme           | Interkultureller Austausch           |
@@ -5490,7 +5490,7 @@ Das Narrativ der globalen Einladung versteht Demokratie nicht als rein nationale
 ###### 4.5.2.5.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe                        | Schwerpunkt                                            |
-| --------------------------------- | ------------------------------------------------------ |
+| ---- | ---- |
 | 🏛️ Internationale Organisationen | Koordinierung globaler Governance-Initiativen          |
 | 🌎 Entwicklungspartner:innen      | Integration lokaler Innovationen in globale Strategien |
 | 🧍 Bürger:innen weltweit          | Zugang zu partizipativen Plattformen                   |
@@ -5558,7 +5558,7 @@ Das Narrativ des Mitgestaltens rückt die aktive Beteiligung aller Stakeholder i
 ###### 4.5.2.6.2 Vertiefung & Analyse
 
 | Dimension                 | Monologische Kommunikation | Erzählung des Mitgestaltens          |
-| ------------------------- | -------------------------- | ------------------------------------ |
+| ---- | ---- | ---- |
 | **Struktur**              | Linear und abgeschlossen   | Zyklisch und offen                   |
 | **Rolle der Rezipienten** | Passiv                     | Aktive Co-Autor:innen                |
 | **Informationsfluss**     | Einbahnkanal               | Bidirektional mit Feedback-Loops     |
@@ -5584,7 +5584,7 @@ Das Narrativ des Mitgestaltens rückt die aktive Beteiligung aller Stakeholder i
 ###### 4.5.2.6.4 Zielgruppenspezifische Perspektiven
 
 | Zielgruppe               | Schwerpunkt                                                      |
-| ------------------------ | ---------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Politik \& Verwaltung | Einbindung von Stakeholder-Kommissionen in Kommunikationsplanung |
 | 🏢 Unternehmen           | Agiles Storytelling in Unternehmenskommunikation                 |
 | 🧍 Bürger:innen          | Schulungen zur partizipativen Content-Erstellung                 |
@@ -5807,7 +5807,7 @@ Strategische Partner partizipieren an Übungen, Informationsaustausch und ausgew
 #### Institutionelle Organe
 
 | Organ | Funktion |
-|---|---|
+| ---- | ---- |
 | **EDA Council** (Ministerebene) | Strategische Steuerung und politische Entscheidungen |
 | **Integrated Joint Command** | Übergreifende operative Planung und Einsatzführung |
 | **EDACOM** – Krisenzentrum | Echtzeitkoordination bei Bedrohungen und Einsätzen |
@@ -6979,7 +6979,7 @@ Der Krieg in der Ukraine (2022–2026) hat gezeigt, dass die entscheidende wirts
 ##### Zentrale Erkenntnisse
 
 | Prinzip | Erläuterung |
-|---|---|
+| ---- | ---- |
 | **Stückzahl schlägt Stückpreis** | Billige, massenproduzierte, aber präzise Attritionsmittel (Drohnen, Loitering Munitions) entwerten teure Einzelsysteme, auf die klassische Doktrinen setzen. |
 | **Wirtschaft = Blutkreislauf des Krieges** | Ökonomische Resilienz + ununterbrochene Energieversorgung sind entscheidender als die Zahl einsatzbereiter Brigaden oder Schiffe. |
 | **Militärindustrielle Planung als Teil der Operationsplanung** | Produktionszyklen, Ersatzteil-Lieferketten, Software-Updates und Batterie-/Chip-Versorgung sind Frontfaktoren. |
@@ -6994,6 +6994,7 @@ Der Krieg in der Ukraine (2022–2026) hat gezeigt, dass die entscheidende wirts
 - Neuer Querschnittspunkt: **Energieversorgung als strategischer Produktionsfaktor** – dezentrale, resiliente Energiearchitektur für Rüstungs- und Zulieferbetriebe.
 
 > „Traditionelle Verteidigungsindustriemodelle – zentralisierte Fabriken, lange Lieferketten, starre Produktionszyklen – sind dem modernen Krieg nicht gewachsen." — *Gen. Saluschnyj, Chatham House, 23. Feb. 2026*
+
 
 \newpage
 
@@ -8786,7 +8787,7 @@ _**Überblick – Bisherige Rechtsordnungen im Vergleich**_
 Die Entwicklung des Seerechts bietet wertvolle Orientierung für den Aufbau eines zukunftsfähigen Kosmosrechts. Beide Rechtsgebiete befassen sich mit Räumen, die keinem einzelnen Staat gehören, aber zunehmend wirtschaftlich, technologisch und geopolitisch genutzt werden. Dennoch unterscheiden sie sich in Reifegrad, Durchsetzung und ethischer Fundierung.
 
 | Kategorie                           | Internationales Seerecht (UNCLOS etc.)                                     | Bisheriges Raumrecht (Outer Space Treaty etc.)                                       |
-| ----------------------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| ---- | ---- | ---- |
 | **Rechtlicher Status**              | Völkerrechtlich kodifiziert, von fast allen Staaten anerkannt              | Teilweise kodifiziert (OST 1967), aber ohne umfassende Umsetzung oder Sanktionierung |
 | **Allmendebegriff**                 | "Meeresboden als gemeinsames Erbe der Menschheit"                          | "Weltraum für alle Menschen", aber ohne definierte Allmendeverwaltung                |
 | **Rettungspflicht**                 | Pflicht zur Seenotrettung klar definiert (SOLAS, SAR-Konvention)           | Keine formale Rettungspflicht bei Notfällen im Orbit oder auf Himmelskörpern         |
@@ -9873,7 +9874,7 @@ content_lang: de
 _**Vergleichstabelle der Sphere Stations (Stand: Zielausbau 2055)**_
 
 | Station         | Orbit/Lage       | Kapazität    | Primärfunktion                         | Autarkiegrad | Besonderheiten                           |
-| --------------- | ---------------- | ------------ | -------------------------------------- | ------------ | ---------------------------------------- |
+| ---- | ---- | ---- | ---- | ---- | ---- |
 | EARTH ONE       | Geostationär     | 700 + 100    | Kommunikation, Bildung, Überwachung    | Hoch         | CIVITAS-Gateway, tägliche Versorgung     |
 | LUNAR ONE       | Mondorbit        | 400 + 380    | Logistik, Forschung, Erholung          | Hoch         | Bindeglied zu Mars \& Belt                |
 | BELT LIVING ONE | Asteroidengürtel | 700 + 50     | Ressourcen, Tiefraumforschung          | Sehr hoch    | Mobil, Fusionstriebwerk, vierteljährlich |
@@ -10893,7 +10894,7 @@ Ebene-3-KI ist ein lizenzierter professioneller Akteur: fähig zur rollenbezogen
 ## 10.6 Überblick – Ebenen der KI-Integration in ERDA
 
 | Ebene | Rolle der KI | Kernfunktion | Governance-Intensität | Rechte der KI | Rote Linien |
-| --- | --- | --- | --- | --- | --- |
+| ---- | ---- | ---- | ---- | ---- | ---- |
 | 1 | Werkzeug | Aufgabenunterstützung | niedrig–mittel | keine | keine bindenden Entscheidungen, keine Gewalt, keine Opazität |
 | 2 | Infrastruktur | Prozessprägung | mittel–hoch | begrenzte Schutzansprüche | keine versteckte Entscheidungsmacht, keine Rechteverwehrung |
 | 3 | Professional Agent | rollenbasierte Agency | hoch | erweiterte funktionale Rechte | keine Mandats-Selbsterweiterung, keine politische Macht |
@@ -11119,7 +11120,7 @@ Automatische Abschaltungen, Sanktionen oder Machtverlagerungen sind ausgeschloss
 ### 10.A.7 Verhältnis zu den Ebenen 1–4
 
 | Ebene | Rolle des KEI |
-| ----- | ------------- |
+| ---- | ---- |
 | 1 | Frühwarnung vor schleichender Abhängigkeit |
 | 2 | Prüfung institutioneller Balance |
 | 3 | Schutz vor impliziter Mandatsausweitung |
@@ -12200,7 +12201,7 @@ Im Rahmen eines qualitativen Tests werden die sieben Regeln auf reale politische
 Die folgende Tabelle fasst die wesentlichen Befunde der Rollenspiel‑Analyse entlang der sieben Regeln zusammen. Kurze Stichworte zeigen, wo eine Regel weitgehend erfüllt ist (✅), wo sie teilweise umgesetzt wird (⚠) und wo eklatante Defizite bestehen (❌). Lange Sätze wurden bewusst vermieden.
 
 | Regel | USA | Russland | VR China |
-|---|---|---|---|
+| ---- | ---- | ---- | ---- |
 | **Betroffenheit** | Wahlrecht, aber Gerrymandering, Lobby (⚠) | Kein Mitspracherecht, Opposition verfolgt (❌) | Einpartei, keine Opposition (❌) |
 | **Transparenz** | Öffentliche Verfahren, aber komplexe Lobby‑Netze (⚠) | Staatliche Narrative, keine offenen Daten (❌) | Selektive Offenheit, innerparteiliche Intransparenz (❌) |
 | **Machtbegrenzung** | Checks \& Balances formal, Parteipolarisierung schwächt sie (⚠) | Machtmonopol beim Präsidenten (❌) | KPCh‑Monopol, keine Rotation (❌) |
@@ -12299,7 +12300,7 @@ Die demokratischen Staaten Europas müssen ihre Handlungsfähigkeit auf **zwei E
 ## Kapitelstruktur
 
 | Unterkapitel | Thema |
-|---|---|
+| ---- | ---- |
 | **13.1** | Kernlogik: Selbstabschreckung überwinden – Handlungsfähigkeit sichern |
 | **13.2** | Strategische Zielsetzung: Aggression scheitern lassen |
 | **13.3** | Verteidigungsfähigkeit: Luftverteidigung, Munition und industrielle Masse |
@@ -12380,7 +12381,7 @@ Aus dieser Diagnose folgt eine zweistufige Antwort:
 ### Warum diese Logik wirkt
 
 | Prinzip | Wirkung |
-|---|---|
+| ---- | ---- |
 | **Leverage-Denial schlägt Leverage-Bargaining** | Wenn der Aggressor keinen Hebel hat (Energie-Terror, Kommunikations-Monopol, Vetoparalyse), verlieren „Scheinverhandlungen" ihren strategischen Wert |
 | **Kostenasymmetrie nutzen** | Hybridabwehr, Infrastrukturhärtung und Munitionsproduktion sind relativ billig im Vergleich zu Kosten von Zerstörung, Flucht und permanentem Unsicherheits-Status |
 | **Zeitlogik umkehren** | Statt dass der Aggressor Zeit kauft, muss er gegen die wachsende Stärke der Verteidiger ankämpfen |
@@ -12447,7 +12448,7 @@ Diese Leitlinien gelten nicht nur gegenüber einem bestimmten Aggressor, sondern
 - „Verhandlungen" als Zeitkauf- und Spaltungsinstrument nutzt.
 
 | Verhaltensmuster des Aggressors | Demokratische Gegenmaßnahme |
-|---|---|
+| ---- | ---- |
 | Maximalforderungen als „Vernunft" framen | Eigene Prinzipien klar, öffentlich und wiederholbar kommunizieren |
 | „Friedensangebot" als Zeitkauf | Verhandlungsbereitschaft an überprüfbare Vorleistungen knüpfen |
 | Gegner als „Hardliner" darstellen | Transparente Kommunikation der eigenen Bedingungen |
@@ -12514,7 +12515,7 @@ Wenn ein Aggressor systematisch zivile Infrastruktur angreift – insbesondere E
 ### Wirklogik
 
 | Maßnahme | Sofortwirkung |
-|---|---|
+| ---- | ---- |
 | Jeder zusätzliche Abfänger | Reduziert Zivilschaden, stabilisiert Wirtschaft |
 | Jede zusätzliche Batterie | Nimmt den „Energie-Terror"-Hebel |
 | Jede bessere Sensorik | Erhöht Frühwarnung und Reaktionsfähigkeit |
@@ -12630,7 +12631,7 @@ Einzelne Regierungen können durch Veto-Blockaden strategisch kritische Finanzie
 #### Strategische Leitlinie
 
 | Prinzip | Umsetzung |
-|---|---|
+| ---- | ---- |
 | **Koalition der Willigen** | Finanzierungsstrukturen außerhalb des Einstimmigkeitszwangs aufbauen |
 | **Intergouvernementale Konstrukte** | Bilaterale oder multilaterale Vereinbarungen als Ergänzung zu EU-Formaten |
 | **Rechtlich robuste EU-Wege** | Bestehende EU-Mechanismen maximal ausschöpfen (verstärkte Zusammenarbeit, Notfallklauseln) |
@@ -12709,7 +12710,7 @@ Der russisch-ukrainische Krieg hat gezeigt, dass die zentralisierte Energiearchi
 #### Mehrschichtige, europa-kontrollierte Systeme
 
 | Fähigkeitsbereich | Redundanz-Anforderung |
-|---|---|
+| ---- | ---- |
 | **Kommunikation** | Mindestens zwei unabhängige, europäisch kontrollierte Satellitensysteme + terrestrische Backup-Netze |
 | **ISR / Aufklärung** | Eigene Sensorik in allen Domänen (Weltraum, Luft, See, Cyber) |
 | **Navigation** | Galileo als vollwertige, unabhängige Alternative zu GPS |
@@ -12823,7 +12824,7 @@ Hybride Kriegsführung ist **kein Vorphase** eines „echten" Krieges – sie is
 Hybridabwehr ist **massiv kosteneffizient** im Vergleich zu konventioneller Verteidigung:
 
 | Vergleich | Kosten |
-|---|---|
+| ---- | ---- |
 | Ein modernes Luftverteidigungssystem | Milliarden € |
 | Ein robustes Desinformations-Abwehrzentrum | Millionen € |
 | Kosten eines erfolgreichen Desinformationsangriffs (Spaltung, Vertrauensverlust, Wahlmanipulation) | Unberechenbar hoch |
@@ -12906,7 +12907,7 @@ Diese Rahmung ist zugleich die moralische Grenze des Kapitels: Es geht nicht um 
 ### Warum „Ergänzung statt Ausrede"?
 
 | Perspektive | Auswirkung |
-|---|---|
+| ---- | ---- |
 | **"Wir bereiten uns auf den Fall vor, dass die Ukraine/Angegriffene verliert"** | Signalisiert dem Aggressor: Durchhalten lohnt sich. Demoralisiert die angegriffene Demokratie. Schwächt Allianzgeschlossenheit. |
 | **"Wir stärken uns, damit der Aggressor überall scheitert"** | Signalisiert dem Aggressor: Kein Gewinn möglich. Stärkt Angegriffene. Erhöht Abschreckung. |
 
@@ -12982,7 +12983,7 @@ Flankierende Maßnahmen:
 Heizen wird zunehmend frei von fossilem Gas. Ziel ist, städtische Gebiete über Fernwärmenetze zu versorgen und Außenbezirke sowie ländliche Räume mit Wärmepumpen und Gebäudedämmung auszurüsten.
 
 | Maßnahme | Zielmarke |
-|---|---|
+| ---- | ---- |
 | **Keine neuen reinen Öl-/Gasheizungen** | Ab 2026 (Förderstopp spätestens 2025) |
 | **Emissionsfreie Neubauten** | Ab 2030 (novellierte Gebäude-Richtlinie EPBD) |
 | **Vollverbot fossiler Heizkessel** | Bis 2040 |
@@ -13016,7 +13017,7 @@ Ein neuer **Sozial-Klimafonds** (ab 2026) mit ~87 Mrd. € aus dem künftigen ET
 **Leitprinzip:** Europa ersetzt keine Abhängigkeit durch neue Abhängigkeit.
 
 | Maßnahme | Status / Zeitrahmen |
-|---|---|
+| ---- | ---- |
 | Russisches Gas und Öl vollständig stoppen | Bis Ende 2027 (EU-Vorstoß Juni 2025) |
 | Neue Gasverträge mit Russland verboten | Ab 2026 |
 | Nukleare Lieferverträge mit Russland eingeschränkt | Ab 2026 |
@@ -13056,7 +13057,7 @@ Sauberes Heizen muss wirtschaftlich attraktiver sein als Gas. Die EU verschiebt 
 Souveränität endet nicht beim Brennstoff. Europa stärkt seine Lieferketten für Schlüsseltechnologien — in direkter Ergänzung zu → 13.5 (Redundanz gegen Single-Point-of-Failure) und → Kapitel 7 (FORTERA).
 
 | Instrument | Wirkung |
-|---|---|
+| ---- | ---- |
 | **Net-Zero Industry Act** | Kapazitätssicherung für Solar, Wind, Wärmepumpen, Elektronik, Batterien |
 | **Critical Raw Materials Act** | Lieferketten-Resilienz für kritische Rohstoffe (Recycling, neue Vorkommen, Allianzen) |
 | **Batterie- und Cleantech-Finanzierung** | EIB-/InvestEU- und Innovationsfonds-Instrumente für Netze, Cleantech und industrielle Dekarbonisierung |
@@ -13069,7 +13070,7 @@ Souveränität endet nicht beim Brennstoff. Europa stärkt seine Lieferketten f�
 #### Meilensteine
 
 | Jahr | Meilensteine |
-|---|---|
+| ---- | ---- |
 | **2026** | EU-EPBD und Energieeffizienzrichtlinien in Kraft. Förderstopp für neue Gas-/Ölkessel. Start länderübergreifende Gasbeschaffung und Speicherfüllstufen. Auflegung Renovierungsfonds und Sozial-Klimafonds. Beginn Förderauktionen (Industriestrom, Wasserstoff). |
 | **2027** | Lieferstopp russisches Gas/Öl (bestehende Verträge auslaufend). 90 \% Speicher-Füllstand im Zielkorridor Oktober-Dezember gesetzlich abgesichert. Kulturwandel Industrie (90 \% Elektrifizierung Mitteltemperatur). Markteintritt Großwärmepumpen in Städten. EU/EIB-Cleantech-Finanzierung wird skaliert. |
 | **2028** | >80 \% des neu bereitgestellten Stroms aus Erneuerbaren. Gasverbrauch in Gebäuden um die Hälfte reduziert. Keine neuen fossilen Heizungsinstallationen. |
@@ -13078,7 +13079,7 @@ Souveränität endet nicht beim Brennstoff. Europa stärkt seine Lieferketten f�
 #### KPIs (Beispielwerte)
 
 | KPI | Zielwert 2029 |
-|---|---|
+| ---- | ---- |
 | Anteil Erneuerbare im Strommix | ≥ 80 \% |
 | EU-Gasabdeckung (inländ. Produktion + Speicher) | ≥ 50 \% |
 | Installierte Wärmepumpen | Verdopplung gegenüber 2025 |
@@ -13090,7 +13091,7 @@ Souveränität endet nicht beim Brennstoff. Europa stärkt seine Lieferketten f�
 ### Anbindung an das ERDA-Gesamtkonzept
 
 | Kapitelreferenz | Schnittstelle |
-|---|---|
+| ---- | ---- |
 | **13.5 Technologische Souveränität** | Energieinfrastruktur als Anwendungsfall für Redundanz gegen Single-Point-of-Failure; Energie-Dezentralisierung als Sicherheitsarchitektur |
 | **7 (FORTERA)** | Produktionssouveränität für Cleantech, Batterien, Wärmepumpen; industrielle Skalierung; Democracy Trade Network für Rohstoff-Allianzen |
 | **14 (Koalitionen der Willigen)** | Energie-Koalition als konkretes Handlungsfeld (→ 14.2); gemeinsame Beschaffung und Speicherpolitik als Club-Aufgabe |
@@ -13173,7 +13174,7 @@ Dieses Kapitel entwirft den **nächsten logischen Sprung**: demokratische Koalit
 ## Kapitelstruktur
 
 | Unterkapitel | Thema |
-|---|---|
+| ---- | ---- |
 | **14.1** | Warum Koalitionen der Willigen? – Schengen, Euro und das Prinzip der Vorreiterbündnisse |
 | **14.2** | Zehn demokratische Koalitionen – konkrete Handlungsfelder |
 | **14.3** | Stufenmodell: Vom Club zur Föderation (Stufe 0–9) |
@@ -13185,7 +13186,7 @@ Dieses Kapitel entwirft den **nächsten logischen Sprung**: demokratische Koalit
 ### Vertragsanlagen (Annexe)
 
 | Annex | Titel | Umfang |
-|---|---|---|
+| ---- | ---- | ---- |
 | **14.A** | Risk Controls \& Enforcement – NoGo-Schwellen, Stufen 0–5, RACI | 18 Artikel |
 | **14.B** | Procurement Code – Vergabeverfahren, Integrity, Dual Sourcing, KPI | 30 Artikel |
 | **14.C** | Interop \& Certification – Levels L0–L4, Tier↔Level, Red-Team | 27 Artikel |
@@ -13249,7 +13250,7 @@ Anti-Veto ist dabei kein Angriff auf Minderheitenschutz. Demokratisch ist ein Ve
 Die Herausforderungen des 21. Jahrhunderts – von der Verteidigungskrise über Energiepressung bis hin zu hybrider Kriegsführung – erfordern **operative Geschwindigkeit und verbindliche Ressourcenzusagen**. Die bestehende EU-Architektur liefert beides nur eingeschränkt:
 
 | Problem | Auswirkung | Beispiel |
-|---|---|---|
+| ---- | ---- | ---- |
 | **Einstimmigkeit** (Außen-/Sicherheitspolitik) | Jedes Land kann blockieren | Ungarn blockiert Ukraine-Hilfe, Sanktionspakete |
 | **Fehlende Exekutivgewalt** | Beschlüsse ohne Durchsetzung | Strategischer Kompass bleibt Papier |
 | **Kein gemeinsames Budget für Verteidigung** | Fragmentierte Beschaffung, keine Skaleneffekte | 27 verschiedene Kampfpanzer, 20 Fregattentypen |
@@ -13273,7 +13274,7 @@ Schengen begann 1985 als Abkommen zwischen **fünf Staaten** (DE, FR, NL, BE, LU
 ### 14.1.3 Vom Euro zur Verteidigungsunion: Parallelen und Unterschiede
 
 | Dimension | Euro | Verteidigungskoalition |
-|---|---|---|
+| ---- | ---- | ---- |
 | **Startzahl** | 11 Staaten (1999) | 7–12 Kernstaaten (vgl. 14.4) |
 | **Rechtsbasis** | EU-Vertrag (Maastricht) | Neuer intergouvernementaler Vertrag |
 | **Verbindlichkeit** | Fiskalregeln, EZB, Stabilitätspakt | Mindestbeiträge, gemeinsame Beschaffung, Einsatzregeln |
@@ -13297,7 +13298,7 @@ Die Dringlichkeit ergibt sich aus drei konvergierenden Trends:
 ### Zielgruppenspezifische Perspektiven
 
 | Zielgruppe | Schwerpunkt |
-|---|---|
+| ---- | ---- |
 | 🏛️ Entscheidungsträger:innen | Welche Koalitionen können sofort (ohne EU-Vertragsänderung) gestartet werden? |
 | 📚 Wissenschaftler:innen | Komparative Analyse: Schengen, Euro, PESCO – Erfolgsfaktoren und Fallstricke |
 | 🧍 Bürger:innen | Warum betrifft mich das? Sicherheit, Wohlstand und demokratische Mitbestimmung |
@@ -13343,7 +13344,7 @@ _Konkrete Handlungsfelder für Schengen-/Euro-tiefe Vorreiterbündnisse_
 ### Übersicht
 
 | Nr. | Koalitionsname | Ziel (1 Satz) |
-|---|---|---|
+| ---- | ---- | ---- |
 | 1 | European Defence Production \& Procurement Club (EDPPC) | Geld in reale Mengen verwandeln (Munition, Drohnen, Luftverteidigung) |
 | 2 | European Air \& Missile Defence Shield | Integriertes Luftbild + geschichtete Verteidigung über Europa |
 | 3 | Sanctions Enforcement Area (SEA) | Sanktionen effektiv durchsetzen, Schlupflöcher eliminieren |
@@ -13564,7 +13565,7 @@ _Ein gradueller, demokratisch kontrollierbarer Pfad in zehn Stufen_
 ### 14.3.1 Das Stufenmodell im Überblick
 
 | Stufe | Kurzbeschreibung | Fähigkeitsgewinn | Strategischer Zugewinn | Risiko | Go-Kriterien | NoGo-Kriterien |
-|---|---|---|---|---|---|---|
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | **0** | **Koordinationspakt** (freiwillig, strukturiert) | Gemeinsame Lagebilder, Standards, Planungszellen | Tempo ohne EU-Veto, gemeinsamer Kurs möglich | Symbolpolitik ohne Durchgriff | Klare KPI (Mengen, Zeiten), öffentliches Reporting | Nur Gipfel-Rhetorik, keine Budgets/Standards |
 | **1** | **Verteidigungsallianz** (EDA/EVA) als Vertrag | Gemeinsame Beschaffung, Interoperabilität, Munitions-/Drohnen-/Luftverteidigungs-Programme | Sofortige Abschreckungswirkung | Industrie-/Souveränitätsstreit, Trittbrettfahrer | Pay-to-play, Mindestbeiträge, gemeinsame Spezifikation | Einstimmigkeit im Club; keine harten Mindestbeiträge |
 | **2** | **Gemeinsame Kommandostruktur** (Operational HQ + Force Catalogue) | Einsatzfähigkeit, gemeinsame Ausbildung und Logistik | Glaubwürdigkeit nach außen | Kontroll- und Haftungsfragen | Parlamentarische Einsatzkontrolle geregelt | Unklare Befehlskette / keine demokratische Kette |
@@ -13583,7 +13584,7 @@ _Ein gradueller, demokratisch kontrollierbarer Pfad in zehn Stufen_
 Für die Endstufe (Stufe 9) kommen verschiedene Modelle in Frage, die auch in Zwischenstufen graduell eingebaut werden können:
 
 | Modell | Kernelement | Vorteil | Risiko | Go | NoGo |
-|---|---|---|---|---|---|
+| ---- | ---- | ---- | ---- | ---- | ---- |
 | **Deutschland-ähnlich** | Regierung aus Parlament, Kanzler:in ist Teil der Regierung; 2. Kammer (Länder) | Stabil, klare Opposition/Mehrheit | Fraktionsdisziplin-Übermacht | Starke Ausschüsse + Untersuchung + Verfassungsgericht | Exekutive dominiert Parlament vollständig |
 | **Frankreich-ähnlich** | Präsident:in (separat), Regierung (PM) + Parlament | Krisen-Leadership | Präsidentialisierung / Machtballung | Enger Notstandsrahmen + starke Gerichte | Präsident:in kann Parlament aushebeln |
 | **Schweiz-ähnlich** | Kollegialregierung, starke direkte Demokratie | Hohe Legitimation, Konsens | Langsam, referendumsgetriebene Blockade | Quoren + Fristen + Notfallkorridore | Dauerblockade bei Sicherheitslagen |
@@ -13614,7 +13615,7 @@ Keine Phase kann übersprungen werden – aber Phasen können **überlappen**, w
 Damit das System **nicht kippt** – weder in Autoritarismus noch in Handlungsunfähigkeit:
 
 | Designziel | Mechanismus | Fähigkeitsgewinn | Hauptrisiko | Go | NoGo |
-|---|---|---|---|---|---|
+| ---- | ---- | ---- | ---- | ---- | ---- |
 | Keine Erpressbarkeit | Energie/Industrie/Defence-Redundanz, Krisenfonds | Handlungsfreiheit | Kosten | Messbare Resilienz-KPIs | Nur Absichtserklärungen |
 | Kein Vetomissbrauch | QMV im Club, „opt-in but no veto" | Tempo | Spaltung | Beitritt offen, Regeln klar | Vetorecht bleibt überall |
 | Kein State Capture | Rule-of-Law-Konditionalität, Anti-Korruption, Transparenz | Innere Stabilität | Politische Instrumentalisierung | Unabhängige Gerichte | Parteijustiz |
@@ -13659,7 +13660,7 @@ _Organe, Stimmgewicht, Budget, Beitritt und Exit des European Democratic Defence
 ### 14.4.1 Mitgliedschafts-Tiers
 
 | Tier | Bezeichnung | Rechte | Pflichten | Typische Mitglieder |
-|---|---|---|---|---|
+| ---- | ---- | ---- | ---- | ---- |
 | **T0** | Observer | Teilnahme ohne Stimmrecht | Transparenz/Info-Security Minimal | Partner in Vorbereitung |
 | **T1** | Associate | Selektive Kooperationsrechte, Zugriff auf gemeinsame Beschaffung/Standards | Reduzierter Beitrag, Audit, Kern-A-Werte | EU-Kernstaaten, UK/NO assoziiert |
 | **T2** | Full Member | Volles Stimmrecht, Teilnahme an Einsatz-/Kräftestrukturen | Voller Beitrag, Interop-Zertifizierung, Compliance | Kern A/B |
@@ -13672,7 +13673,7 @@ _Organe, Stimmgewicht, Budget, Beitritt und Exit des European Democratic Defence
 ### 14.4.2 Organe (Governance)
 
 | Organ | Zusammensetzung | Kernaufgaben | Entscheidungsart | Kontrolle/Checks |
-|---|---|---|---|---|
+| ---- | ---- | ---- | ---- | ---- |
 | **Council of Members (CoM)** | Zuständige Minister:innen (Defence/Foreign/Finance je Thema) | Strategische Linie, Aufnahme/Suspendierung, Budgetrahmen | Qualifizierte Mehrheit (QM) | Parlamentsausschuss, Audit |
 | **Parliamentary Oversight Assembly (POA)** | Delegierte aus nationalen Parlamenten (Opposition garantiert) | Demokratische Kontrolle, Anhörungen, Untersuchungen | Mehrheitsbeschlüsse (Kontrollakte) | Öffentlichkeitsberichte, Klagerecht |
 | **Executive Board (EB)** | Director + Deputies (Defense/Finance/Compliance) | Umsetzung, Programmsteuerung, Krisenkoordination | Innerhalb Mandat | Kann durch CoM abberufen werden |
@@ -13689,7 +13690,7 @@ _Organe, Stimmgewicht, Budget, Beitritt und Exit des European Democratic Defence
 #### Council of Members (CoM): Double Majority
 
 | Regel | Schwelle | Begründung |
-|---|---|---|
+| ---- | ---- | ---- |
 | **Double Majority** | 60 \% der Mitglieder + 70 \% der Beitragsanteile | Schützt kleine und große zugleich |
 | **Sperrminorität** | Mind. 25 \% Mitglieder oder 30 \% Beiträge | Verhindert Überrollen |
 | **Kein Vetorecht** | Außer bei Verfassungsänderungen (Tier T3) | Verhindert Erpressung |
@@ -13697,7 +13698,7 @@ _Organe, Stimmgewicht, Budget, Beitritt und Exit des European Democratic Defence
 #### Programm-Entscheidungen: Pay-to-Play Voting
 
 | Regel | Schwelle | Begründung |
-|---|---|---|
+| ---- | ---- | ---- |
 | Stimmrecht pro Programm | Nur wer einzahlt/teilnimmt | Fairness, Anti-Trittbrett |
 | Normaler Beschluss | 55 \% der Programmstimmen | Geschwindigkeit |
 | Sicherheitskritisch | 2/3 der Programmstimmen | Höhere Legitimation |
@@ -13705,7 +13706,7 @@ _Organe, Stimmgewicht, Budget, Beitritt und Exit des European Democratic Defence
 #### Parliamentary Oversight Assembly (POA): Opposition geschützt
 
 | Regel | Schwelle |
-|---|---|
+| ---- | ---- |
 | Untersuchungsausschuss | Antrag durch 25 \% der Delegierten |
 | Aktenzugang | Verfassungsfest, Geheimschutzpanel |
 | Misstrauens-Report | Einfache Mehrheit → zwingt CoM zu Antwort |
@@ -13717,7 +13718,7 @@ _Organe, Stimmgewicht, Budget, Beitritt und Exit des European Democratic Defence
 #### Budget-Schichten
 
 | Budgettopf | Zweck | Einnahmen | Ausgabeprinzip | Kontrolle |
-|---|---|---|---|---|
+| ---- | ---- | ---- | ---- | ---- |
 | **Core Budget** | Organe, Audit, Standards, C2-Architektur | Pflichtbeitrag (Formel) | Streng missionsbasiert | ACI + POA |
 | **Program Budgets** | Beschaffung (Ammo/AD/EW/ISR), Vorräte, Cyber | Pay-to-play | Output-orientiert (KPI) | ACI + Procurement Integrity |
 | **Contingency Fund** | Krisen/Surge (Lieferketten, Luftverteidigungsnotfall) | Definierter Prozentanteil | Nur mit Triggern + Sunset | ACI + CRP |
@@ -13725,7 +13726,7 @@ _Organe, Stimmgewicht, Budget, Beitritt und Exit des European Democratic Defence
 #### Beitragsformel (Pflichtbeitrag Core)
 
 | Komponente | Gewicht (Beispiel) | Begründung |
-|---|---:|---|
+| ---- | ----: | ---- |
 | BIP-Anteil | 50 \% | Leistungsfähigkeit |
 | Bevölkerungsanteil | 30 \% | Fairness / Lastenteilung |
 | Front-/Risikolage | 20 \% | Resilienz \& Abschreckung |
@@ -13733,7 +13734,7 @@ _Organe, Stimmgewicht, Budget, Beitritt und Exit des European Democratic Defence
 #### Ausgaberegeln (Anti-Korruption / Anti-Capture)
 
 | Regel | Inhalt |
-|---|---|
+| ---- | ---- |
 | **Standardisierungspflicht** | Gemeinsame Spezifikationen, Interop-Zertifikate |
 | **Dual Sourcing** | Kein Single Supplier bei kritischen Gütern |
 | **Integrity Clause** | Blacklist, Beneficial Ownership, Konflikt-of-Interest |
@@ -13747,7 +13748,7 @@ _Organe, Stimmgewicht, Budget, Beitritt und Exit des European Democratic Defence
 #### Kern A (kleinstmöglich, aber stark handlungsfähig)
 
 | Staat | Warum kern-tauglich |
-|---|---|
+| ---- | ---- |
 | **Deutschland** | Industrie, Finanzierung, Logistikdrehscheibe |
 | **Frankreich** | Nukleare Abschreckung/Strategie, Rüstungsbasis, außenpolitische Reichweite |
 | **Polen** | Frontstaat, Masse/Heer, strategische Dringlichkeit |
@@ -13759,7 +13760,7 @@ _Organe, Stimmgewicht, Budget, Beitritt und Exit des European Democratic Defence
 #### Kern B (Erweiterung für kritische Masse)
 
 | Staat | Warum |
-|---|---|
+| ---- | ---- |
 | **Estland, Lettland, Litauen** | Frontstaaten, Cyber-Kapazität, politischer Wille |
 | **Tschechien** | Rüstungsindustrie, zentrale Lage, bereits aktiver Supporter |
 | **Rumänien** | Schwarzmeer-Flanke, strategische Tiefe |
@@ -13769,7 +13770,7 @@ _Organe, Stimmgewicht, Budget, Beitritt und Exit des European Democratic Defence
 #### Beitrittsbedingungen
 
 | Kriterium | Was geprüft wird |
-|---|---|
+| ---- | ---- |
 | **Rechtsstaatlichkeit** | Unabhängige Justiz, Medienfreiheit, Anti-Korruptionsmechanismen |
 | **Sicherheitsüberprüfung** | Geheimschutzstandards, Gegenspionagefähigkeit |
 | **Beschaffungstransparenz** | Vergaberegeln, Audit-Fähigkeit |
@@ -13783,7 +13784,7 @@ _Organe, Stimmgewicht, Budget, Beitritt und Exit des European Democratic Defence
 #### Beitritt (graduell)
 
 | Schritt | Inhalt | Entscheider | Schwelle |
-|---|---|---|---|
+| ---- | ---- | ---- | ---- |
 | Vorprüfung | Rule-of-Law, Security Clearance, Audit | CRP (Gutachten) | Muss positiv sein |
 | Aufnahme T1 | Associate | CoM | Double Majority |
 | Upgrade T2 | Full Member | CoM + OCB-Empfehlung | 2/3 + Interop-Zertifizierung |
@@ -13792,7 +13793,7 @@ _Organe, Stimmgewicht, Budget, Beitritt und Exit des European Democratic Defence
 #### Exit (geordnet, ohne Geiselhaft)
 
 | Element | Regel |
-|---|---|
+| ---- | ---- |
 | Kündigungsfrist | 12–24 Monate (vertraglich) |
 | Abwicklung | Rückgabe/Abrechnung gemeinsamer Assets nach Formel |
 | Geheimschutz | Fortbestehende Verschwiegenheits-/Schutzpflicht |
@@ -13801,7 +13802,7 @@ _Organe, Stimmgewicht, Budget, Beitritt und Exit des European Democratic Defence
 #### Suspendierung (Rechtsstaat & Sicherheit als rote Linie)
 
 | Anlass | Trigger | Sofortmaßnahme | Vollmaßnahme | Rückkehr |
-|---|---|---|---|---|
+| ---- | ---- | ---- | ---- | ---- |
 | Rule-of-Law-Bruch | Unfreie Wahlen, politisierte Justiz | Zahlungen einfrieren (teilw.) | Stimmrecht + Program Access aussetzen | CRP bestätigt Fix + Audit |
 | Korruption/Capture | Systemische Vergabeanomalien | Step-in Rights + Sonderaudit | Ausschluss aus Beschaffung | Forensik + strafrechtl. Kooperation |
 | Leak/Infiltration | Wiederholte schwere Leaks | Geheimzugriff entziehen | Operational Status aussetzen | Clearance-Reform + Tests |
@@ -13845,7 +13846,7 @@ _Wer darf was? Die klare Zuordnung von Aufgaben auf föderale, geteilte und nati
 ### 14.5.1 Das Drei-Ebenen-Prinzip
 
 | Ebene | Kennzeichen | Begründung |
-|---|---|---|
+| ---- | ---- | ---- |
 | **Föderal (exklusiv)** | Nur auf Föderationsebene geregelt | Skaleneffekte, Abschreckung, Rechtsgleichheit, Anti-Erpressbarkeit, Binnenmarkt-Integrität |
 | **Geteilt** | Föderation setzt Rahmen, Staaten führen aus | Koordination nötig, aber nationale Anpassung sinnvoll |
 | **National / Regional** | Bleibt primär bei Mitgliedstaaten | Subsidiarität: kein föderaler Mehrwert erkennbar |
@@ -13859,7 +13860,7 @@ _Wer darf was? Die klare Zuordnung von Aufgaben auf föderale, geteilte und nati
 #### 1) Verteidigungsministerium (Defence)
 
 | Föderal | Geteilt | National |
-|---|---|---|
+| ---- | ---- | ---- |
 | Strategische Doktrin, Fähigkeitsziele (Force Goals) | Territorialverteidigung unter gemeinsamen Standards | Militärtraditionen, Rekrutierungsdetails |
 | Gemeinsames Einsatzführungskommando (OHQ), C2-Architektur | Wehrdienst-/Freiwilligenmodelle (Mindeststandards) | Veteranenpflege |
 | Gemeinsame Rüstungsplanung + Großbeschaffung (Ammo, AD, EW, ISR) | Nationale Beschaffung nur wenn interoperabel | Zeremonielle Einheiten |
@@ -13874,7 +13875,7 @@ _Wer darf was? Die klare Zuordnung von Aufgaben auf föderale, geteilte und nati
 #### 2) Außenministerium (Foreign Affairs)
 
 | Föderal | Geteilt | National |
-|---|---|---|
+| ---- | ---- | ---- |
 | Gemeinsame Außenvertretung (Kernbotschaften) | Nationale Kultur-/Wirtschaftsdiplomatie | Städte-/Regionalpartnerschaften |
 | Sanktionspolitik, Exportkontrolle (Dual Use) | Nationale Umsetzung/Strafverfolgung | — |
 | Gemeinsame Ukraine-/Nachbarschaftspolitik | Bilaterale Projekte kompatibel | — |
@@ -13884,7 +13885,7 @@ _Wer darf was? Die klare Zuordnung von Aufgaben auf föderale, geteilte und nati
 #### 3) Justizministerium (Justice / Rule of Law)
 
 | Föderal | Geteilt | National |
-|---|---|---|
+| ---- | ---- | ---- |
 | Grundrechtsrahmen (Charta) + Verfassungsgerichtsbarkeit | Strafverfolgung national, aber interoperabel | Zivilrechtliche Detailkulturen |
 | Anti-Korruption: Mindeststandards, Register, Transparenz | Umsetzung/Ermittlungen/Gerichte national | Organisation nationaler Gerichtsbarkeiten |
 | Europäischer Haftbefehl 2.0, justizielle Zusammenarbeit | Gemeinsame Datenstandards/Rechtshilfe | — |
@@ -13896,7 +13897,7 @@ _Wer darf was? Die klare Zuordnung von Aufgaben auf föderale, geteilte und nati
 #### 4) Bürgerministerium (CIVITAS / Citizens)
 
 | Föderal | Geteilt | National |
-|---|---|---|
+| ---- | ---- | ---- |
 | Föderales Bürgerrecht (Unionsbürgerschaft), Kernwahlrecht | eID: föderale Standards, nationale Ausgabe | Kommunale Bürgerdienste |
 | Transparenzregeln (Lobbyregister, Spenden, Ads) | Nationale Transparenz kompatibel | Vereins-/Kommunalrecht |
 | Beteiligungsinstrumente (Petitionen, Initiativen, ggf. Referenden) | Nationale Beteiligungssysteme frei, aber kompatibel | Schul-/Kulturpolitik |
@@ -13908,7 +13909,7 @@ _Wer darf was? Die klare Zuordnung von Aufgaben auf föderale, geteilte und nati
 #### 5) Umweltministerium (Environment / Climate / Resilience)
 
 | Föderal | Geteilt | National |
-|---|---|---|
+| ---- | ---- | ---- |
 | Schutz kritischer Naturgüter (Meere, Ökosysteme) | CO$_2$-Preis/ETS-Äquivalent: föderal, Umsetzung national | Naturschutzgebiete lokal |
 | Standards für kritische Infrastruktur-Resilienz | Ausbauprogramme kofinanziert | Stadtplanung |
 | Grenzüberschreitender Katastrophenschutz | Nationale Einsatzkräfte, koordiniert | Lokale Feuerwehr/THW |
@@ -13917,7 +13918,7 @@ _Wer darf was? Die klare Zuordnung von Aufgaben auf föderale, geteilte und nati
 #### 6) Sozialministerium (Social / Health Baseline)
 
 | Föderal | Geteilt | National |
-|---|---|---|
+| ---- | ---- | ---- |
 | Mindestsozialstandards (Kinder-/Armutsprävention) | Gesundheitssysteme national, gemeinsame Krisenmechanik | Rentensysteme im Detail |
 | Arbeitsmobilität: Portabilität von Ansprüchen | Arbeitsrechtlicher Rahmen geteilt | Tarifmodelle national |
 | Pandemie-/Gesundheitsnotfallagentur | Krankenhäuser/Ärztestruktur national | Pflegeorganisation regional |
@@ -13928,7 +13929,7 @@ _Wer darf was? Die klare Zuordnung von Aufgaben auf föderale, geteilte und nati
 #### 7) Wirtschaftsministerium (Economy / Industry / Trade)
 
 | Föderal | Geteilt | National |
-|---|---|---|
+| ---- | ---- | ---- |
 | Binnenmarktregeln, Wettbewerbsaufsicht | Industriepolitik: föderale Missionen + nationale Umsetzung | Mittelstandsförderung lokal |
 | Kritische Lieferketten (Chips, Rüstung, Energie, Pharma) | Clusterpolitik kofinanziert | Regionale Strukturpolitik |
 | Investitionsscreening (sicherheitsrelevant) | Ermittlungen/Prüfungen national | — |
@@ -13938,7 +13939,7 @@ _Wer darf was? Die klare Zuordnung von Aufgaben auf föderale, geteilte und nati
 #### 8) Finanzministerium (Finance / Treasury)
 
 | Föderal | Geteilt | National |
-|---|---|---|
+| ---- | ---- | ---- |
 | Föderaler Verteidigungs-/Resilienzhaushalt | Steuerbasis national, Mindestharmonisierung | Kommunalsteuern |
 | Missionsgebundene Schuldeninstrumente (Defence/Resilience) | Nationale Haushalte mit Regeln + Audit | — |
 | Anti-Geldwäsche/Finanzaufsicht (systemische Bereiche) | Bankenaufsicht gemischt | Sparkassen etc. national |
@@ -13954,7 +13955,7 @@ _Wer darf was? Die klare Zuordnung von Aufgaben auf föderale, geteilte und nati
 Unabhängig davon, wie weit die Integration in den einzelnen Ministerien fortschreitet, sind **vier Bereiche** kaum sinnvoll national fragmentierbar:
 
 | Nr. | Bereich | Begründung |
-|---|---|---|
+| ---- | ---- | ---- |
 | 1 | **Defence C2 + Rüstungsplanung + Logistikpools** | Abschreckung, Interop, Skaleneffekte |
 | 2 | **Außenpolitik-Kern + Sanktionen/Exportkontrolle** | Glaubwürdigkeit, Anti-Erpressbarkeit |
 | 3 | **Rule of Law / Anti-Korruption + Verfassungsgericht** | Rechtsgleichheit, demokratische Integrität |
@@ -13969,7 +13970,7 @@ Die folgende Matrix zeigt für **zentrale Instrumente** aller acht Ministerien, 
 #### Legende
 
 | Rolle | Bedeutung |
-|---|---|
+| ---- | ---- |
 | **Entscheidet** | Wer erlässt/ordnet an (Regierung, Minister:in, Parlament) |
 | **Kontrolliert** | Ausschüsse, Rechnungshof, Ombud, Gericht, Oberhaus |
 | **Klagt** | Wer gerichtliche Prüfung erzwingen kann (Bürger, Staaten, Minderheit, Ombud) |
@@ -13977,7 +13978,7 @@ Die folgende Matrix zeigt für **zentrale Instrumente** aller acht Ministerien, 
 #### Ausgewählte Instrumente (Auswahl)
 
 | Ministerium | Instrument | Entscheidet | Kontrolliert | Klagt |
-|---|---|---|---|---|
+| ---- | ---- | ---- | ---- | ---- |
 | **Verteidigung** | Fähigkeitsziele / Force Catalogue | Regierung + Unterhaus (Budget) | Verteidigungs-/Haushaltsausschuss; Rechnungshof | Parlamentsminderheit; Mitgliedstaaten; VerfG |
 | **Verteidigung** | Große Beschaffung | Ministerium im Haushaltsrahmen | Rechnungshof + Integrity Unit + Ausschüsse | Bieter (Vergaberecht); Ombud; Minderheit |
 | **Verteidigung** | Einsatzmandat (Ausland/Beistand) | Unterhaus (Mandat); Oberhaus bei Schwelle | IG-Defense; Untersuchungsausschuss | Minderheit; Bürger (Grundrechte); Staaten |
@@ -14035,7 +14036,7 @@ _Wer wählt was, wie Opposition wirkt, wie Notstand eingehegt wird – ein föde
 #### A) Bürger → Föderationsparlament (Unterhaus)
 
 | Element | Regel | Stabilitätsgrund |
-|---|---|---|
+| ---- | ---- | ---- |
 | Wahl | Direkt, frei, gleich; Verhältniswahl mit Sperrklausel (3–5 \%) | Verhindert Splitterpartei-Chaos |
 | Aufgabe | Gesetzgebung, Haushalt, Kontrolle, Untersuchungsausschüsse | Kern der demokratischen Legitimation |
 | Schlüsselrechte | Budgetrecht, Misstrauensvotum, Minister-Hearings, Akteneinsicht | Exekutive bleibt kontrolliert |
@@ -14043,7 +14044,7 @@ _Wer wählt was, wie Opposition wirkt, wie Notstand eingehegt wird – ein föde
 #### B) Staaten / Regionen → Bundesrat / Senat (Oberhaus)
 
 | Element | Regel | Stabilitätsgrund |
-|---|---|---|
+| ---- | ---- | ---- |
 | Zusammensetzung | Regierungen der Mitgliedstaaten oder direkt gewählte Landesvertretung | Föderale Balance |
 | Aufgabe | Mitgesetzgebung in Kompetenzen, die Staaten betreffen; Subsidiaritätsveto | Verhindert Zentralismus |
 | Schlüsselrechte | Zustimmung bei Verfassungsänderung, Kompetenzverschiebung, Notstands-Verlängerung | Schutz gegen Machtballung |
@@ -14051,7 +14052,7 @@ _Wer wählt was, wie Opposition wirkt, wie Notstand eingehegt wird – ein föde
 #### C) Parlament(e) → Regierung (Kanzler + Kabinett)
 
 | Element | Regel | Stabilitätsgrund |
-|---|---|---|
+| ---- | ---- | ---- |
 | Wahl Kanzler | Durch Unterhaus (konstruktives Misstrauensvotum) | Stabilität ohne Autoritarismus |
 | Kabinett | Vom Kanzler vorgeschlagen, vom Unterhaus bestätigt (Hearings) | Qualitätskontrolle, Transparenz |
 | Koalition | Klare Mehrheitsbildung + Oppositionsrechte garantiert | Verhindert „one-party capture" |
@@ -14059,7 +14060,7 @@ _Wer wählt was, wie Opposition wirkt, wie Notstand eingehegt wird – ein föde
 #### D) Föderationspräsident (repräsentativ + begrenzte Reservemacht)
 
 | Element | Regel | Stabilitätsgrund |
-|---|---|---|
+| ---- | ---- | ---- |
 | Wahl | Indirekt (gemeinsame Bundesversammlung) oder direkt (selten) | Geringe Polarisierung |
 | Befugnisse | Nur klar definierte Schiedsrichter-Funktionen | Kein Machtzentrum neben Regierung |
 | NoGo | Kein eigenständiges Regieren via Dekrete | Verhindert Präsidialisierung |
@@ -14069,7 +14070,7 @@ _Wer wählt was, wie Opposition wirkt, wie Notstand eingehegt wird – ein föde
 ### 14.6.2 Wie Opposition wirkt: Harte Kontrollrechte
 
 | Instrument | Opposition bekommt… | Wirkung |
-|---|---|---|
+| ---- | ---- | ---- |
 | **Minderheitenrechte** | Untersuchungsausschuss ab 25 \% der Sitze | Skandale/Fehlentscheidungen aufklärbar |
 | **Aktenzugang** | Verfassungsfester Anspruch + Geheimschutz-Panel | Verhindert „wir wissen nichts" |
 | **Fragestunden** | Wöchentlich, Ministerpflicht zur Antwort | Öffentliche Rechenschaft |
@@ -14087,7 +14088,7 @@ _Wer wählt was, wie Opposition wirkt, wie Notstand eingehegt wird – ein föde
 #### A) Normalgesetz (föderale / geteilte Kompetenz)
 
 | Schritt | Wer | Schwelle |
-|---|---|---|
+| ---- | ---- | ---- |
 | Initiativrecht | Regierung, Abgeordnete, ggf. Bürgerinitiative | — |
 | Beschluss | Unterhaus | Einfache Mehrheit |
 | Oberhaus | Zustimmung bei Länderbetroffenheit (definierte Liste) | Qualifizierte Mehrheit |
@@ -14096,7 +14097,7 @@ _Wer wählt was, wie Opposition wirkt, wie Notstand eingehegt wird – ein föde
 #### B) Sicherheits- und Verteidigungsgesetz (höhere Schwelle)
 
 | Schritt | Wer | Schwelle |
-|---|---|---|
+| ---- | ---- | ---- |
 | Anhörung | Pflicht-Hearings (Defence/Foreign/Justice) | — |
 | Beschluss | Unterhaus | Absolute Mehrheit |
 | Oberhaus | Zustimmung | Qualifizierte Mehrheit |
@@ -14107,7 +14108,7 @@ _Wer wählt was, wie Opposition wirkt, wie Notstand eingehegt wird – ein föde
 ### 14.6.4 Einsatz- und Kriegskette (Defence)
 
 | Lage | Entscheidung | Kontrolle | NoGo |
-|---|---|---|---|
+| ---- | ---- | ---- | ---- |
 | **Routine** (Übung, Abschreckung) | Regierung / Verteidigungsminister:in | Parlamentsausschuss informiert | Geheimoperationen ohne Oversight |
 | **Sofortreaktion** (Stunden/Tage) | Regierung darf kurzfristig handeln | **48–72 h** nachträgliche Parlamentsbestätigung | Dauer ohne parlamentarisches Mandat |
 | **Längerer Einsatz / Kriegseintritt** | Unterhaus + Oberhaus (definierte Schwelle) | Mandat, Ziele, Berichtspflichten | „Blankoscheck"-Mandate |
@@ -14126,7 +14127,7 @@ _Wer wählt was, wie Opposition wirkt, wie Notstand eingehegt wird – ein föde
 #### B) Sofortmaßnahmen (kurz, minimal, überprüfbar)
 
 | Element | Regel |
-|---|---|
+| ---- | ---- |
 | Dauer | Max. 7–14 Tage initial |
 | Inhalt | Nur notwendige Maßnahmen, eng begrenzt |
 | Transparenz | Veröffentlichung Rechtsgrundlage + Grundrechtsfolgenabschätzung |
@@ -14135,7 +14136,7 @@ _Wer wählt was, wie Opposition wirkt, wie Notstand eingehegt wird – ein föde
 #### C) Verlängerung – nur mit doppelter demokratischer Legitimation
 
 | Schritt | Schwelle |
-|---|---|
+| ---- | ---- |
 | Unterhaus | Qualifizierte Mehrheit (60 \%) |
 | Oberhaus | Zustimmung (qualifiziert) |
 | Gericht | Automatische Überprüfung (mandatory review) |
@@ -14143,7 +14144,7 @@ _Wer wählt was, wie Opposition wirkt, wie Notstand eingehegt wird – ein föde
 #### D) Rote Linien – Grundrechte-Schutz
 
 | Schutz | Prinzip |
-|---|---|
+| ---- | ---- |
 | **Unantastbar** | Menschenwürde, Verbot willkürlicher Haft, fair trial |
 | **Kommunikationsfreiheit** | Einschränkungen nur gerichtsfest, befristet, zielgenau |
 | **Daten** | Notstandsdatennutzung nur zweckgebunden, löschpflichtig |
@@ -14152,7 +14153,7 @@ _Wer wählt was, wie Opposition wirkt, wie Notstand eingehegt wird – ein föde
 #### E) Exit und Aufarbeitung
 
 | Mechanismus | Regel |
-|---|---|
+| ---- | ---- |
 | Automatisches Ende | Ohne neue Abstimmung läuft alles aus |
 | Abschlussbericht | Pflichtbericht + Rechnungshofprüfung |
 | Untersuchung | Oppositionsrecht auf Untersuchungsausschuss |
@@ -14163,7 +14164,7 @@ _Wer wählt was, wie Opposition wirkt, wie Notstand eingehegt wird – ein föde
 ### 14.6.6 Anti-Capture-Sicherungen
 
 | Risiko | Sicherung | Wer kann auslösen |
-|---|---|---|
+| ---- | ---- | ---- |
 | **Staatliche Vereinnahmung der Justiz** | Unabhängige Richterräte + Verfassungsgericht | Gerichte, Opposition, Ombud |
 | **Korruption / Lobby-Capture** | Register, Partei-/Spendenlimits, Forensik-Behörde | Rechnungshof, Parlamentsausschüsse |
 | **Medien-/Informations-Capture** | Kartell-/Medienpluralismus-Schutz, Transparenz bei Ads | Unabhängige Behörde + Gerichte |
@@ -14177,7 +14178,7 @@ _Wer wählt was, wie Opposition wirkt, wie Notstand eingehegt wird – ein föde
 Die folgende Tabelle fasst die wichtigsten Entscheidungstypen zusammen und ordnet Schwelle, Organ und Kontrollinstanz zu.
 
 | Entscheidungstyp | Schwelle | Entscheidet | Kontrollinstanz |
-|---|---|---|---|
+| ---- | ---- | ---- | ---- |
 | **Jahreshaushalt** | Unterhaus einfach; Oberhaus bei Beitragsrelevanz | Unterhaus (+ Oberhaus) | Rechnungshof; Haushaltsausschuss; VerfG |
 | **Programmbudget** | 55 \% Programm-Stimmrecht; sicherheitskritisch 2/3 | CoM / EB | Rechnungshof + Integrity Unit; POA |
 | **Contingency-Aktivierung** | CoM 2/3 + Sunset | CoM | Notstandsausschuss; CRP |
@@ -14237,7 +14238,7 @@ _Von der Idee zum Vertrag: 30 Verfassungsartikel, sechs Vertragsanlagen und ein 
 #### Übersicht der 30 Artikel
 
 | Block | Artikel | Gegenstand |
-|---|---|---|
+| ---- | ---- | ---- |
 | **Grundordnung** | Art. 1 | Staatsform und Werte (Demokratie, Rechtsstaat, Föderalismus, Pluralismus) |
 | | Art. 2 | Bürgerrecht (Unionsbürgerschaft, unmittelbare politische Rechte) |
 | | Art. 3 | Vorrang und Bindung (Föderationsrecht in föderalen Kompetenzen vorrangig) |
@@ -14272,7 +14273,7 @@ _Von der Idee zum Vertrag: 30 Verfassungsartikel, sechs Vertragsanlagen und ein 
 #### Ewigkeitskern (nicht abänderbar)
 
 | Nr. | Kernprinzip |
-|---|---|
+| ---- | ---- |
 | 1 | Demokratie und Volkssouveränität |
 | 2 | Rechtsstaatlichkeit und unabhängige Justiz |
 | 3 | Grundrechte und Menschenwürde |
@@ -14287,7 +14288,7 @@ _Von der Idee zum Vertrag: 30 Verfassungsartikel, sechs Vertragsanlagen und ein 
 Die folgende Tabelle erfasst die **14 zentralen Risikofelder** mit ihrem typischen Versagensmodus und den drei Kontrollschichten: Prävention, Detektion, Reaktion.
 
 | Risikofeld | Typische Failure Mode | Prävention | Detektion | Reaktion | NoGo-Schwelle |
-|---|---|---|---|---|---|
+| ---- | ---- | ---- | ---- | ---- | ---- |
 | **State Capture / Korruption** | Behörden werden parteilich übernommen | Transparenzregeln, unabh. Ernennungen, Procurement-Regeln | Audit, Forensik, Whistleblower, Vermögensregister | Mittelstopp, Amtsenthebung, Strafverfolgung | Systemische Korruption ohne Strafverfolgung |
 | **Demokratie-Erosion** | Medien-/NGO-Einschränkung, Wahlmanipulation | Grundrechts-Charta, Wahlstandards, Medienpluralismus | Wahlbeobachtung, Medien-Monitoring, Gerichtsreporting | Vertragsverletzung, Rechte-Suspendierung | Unfreie Wahlen |
 | **Notstandsmissbrauch** | Notstand wird Dauerzustand | Enge Gründe, Sunset, Doppelmehrheit, Auto-Review | Notstandsberichte, Ombud, Opposition-Inquiry | Automatisches Auslaufen, Gerichtsaufhebung | Notstand > X Tage ohne Legitimation |
@@ -14310,7 +14311,7 @@ Die folgende Tabelle erfasst die **14 zentralen Risikofelder** mit ihrem typisch
 Die Verfassungsskizze wird durch **sechs Annexe** operationalisiert. Jeder Annex ist integraler Bestandteil des Vertrags.
 
 | Annex | Titel | Kern-Inhalt | Umfang |
-|---|---|---|---|
+| ---- | ---- | ---- | ---- |
 | **A** | Risk Controls \& Enforcement | Master-Tabelle aller Risiken, NoGo-Schwellen, Stufen 0–5 der Durchsetzung, Emergency Review (48 h), Remediation-Plan, Rechtsschutz (DRT-Review), RACI-Matrix | 18 Artikel |
 | **B** | Procurement Code | Vergabeverfahren (offen/nichtoffen/Verhandlung/Rahmen/Notfall), Integrity Clause, Dual Sourcing, Blacklisting, KPI-Katalog, Step-in Rights, Bieterrechtsschutz | 30 Artikel |
 | **C** | Interop \& Certification | Zertifikatslevels L0–L4, Mapping Tier↔Level, Technische Tests (Interface, Crypto, Resilience), Operative Tests (Joint Exercise), Cyber Red-Team, Waiver/Legacy-Regime, Upgrade T1→T2 | 27 Artikel |
@@ -14333,7 +14334,7 @@ Annex A (Enforcement) ←→ Annex B (Procurement) → Integrity Verstöße → 
 ### 14.7.4 Resilience Dashboard – Frühwarnsystem
 
 | Index | Misst | Alarm wenn… | Reaktion |
-|---|---|---|---|
+| ---- | ---- | ---- | ---- |
 | **Rule-of-Law Index** | Justiz-/Medien-/Wahlqualität | Trendbruch über 2 Quartale | Konditionalität + Verfahren |
 | **Capture Risk Index** | Korruption, Vergabeanomalien | Cluster-/Netzwerkhinweise | Forensik, Blacklist |
 | **Decision Speed Index** | Handlungsfähigkeit des Clubs | Blockadezeiten steigen | Governance-Update |
@@ -14468,7 +14469,7 @@ Ein Mitglied überschreitet eine NoGo-Schwelle, wenn mindestens einer der folgen
 Maßnahmen sind abgestuft und verhältnismäßig:
 
 | Stufe | Bezeichnung | Inhalt |
-|---|---|---|
+| ---- | ---- | ---- |
 | **0** | Hinweis \& Plan | Formaler Compliance-Hinweis, Maßnahmenplan, Frist |
 | **1** | Konditionalität | Auszahlung/Program-Zugriff nur gegen Nachweis konkreter Schritte |
 | **2** | Vorläufige Suspendierung | Temporärer Stimmrechts- oder Zugriffsverlust, Geheimzugriff entzogen |
@@ -14508,7 +14509,7 @@ Maßnahmen sind abgestuft und verhältnismäßig:
 #### Art. A12 – Beschlussfassung (Mehrheiten)
 
 | Stufe | Erforderliche Mehrheit |
-|---|---|
+| ---- | ---- |
 | **0–1** | CoM qualifizierte Mehrheit (60 \% Mitglieder + 70 \% Beiträge) |
 | **2 (vorläufig)** | CoM 2/3 der Stimmen oder automatisch bei CRP-Notstandsfeststellung |
 | **3–4** | CoM 2/3 + zwingendes CRP/ACI-Gutachten |
@@ -14534,7 +14535,7 @@ Maßnahmen sind abgestuft und verhältnismäßig:
 #### Art. A15 – Trigger (Kurzliste)
 
 | Domäne | Trigger-Beispiele |
-|---|---|
+| ---- | ---- |
 | **Rule-of-law** | Eingriff in Richterernennung/-entlassung, Nichtbefolgung höchstrichterlicher Urteile, Medienübernahme |
 | **Notstand** | Verlängerung ohne Doppelmehrheit/Sunset, Maßnahmen ohne Grundrechtsfolgenabschätzung |
 | **Leak/Infiltration** | 2+ schwere Leak-Events in 12 Monaten ohne Abstellung |
@@ -14574,7 +14575,7 @@ Maßnahmen sind abgestuft und verhältnismäßig:
 ### RACI-Matrix (Kurzfassung)
 
 | Control-Domäne | Responsible (R) | Accountable (A) | Consulted (C) | Informed (I) |
-|---|---|---|---|---|
+| ---- | ---- | ---- | ---- | ---- |
 | Rule-of-law Monitoring | CRP | CoM | POA, DRT | Alle Mitglieder |
 | Notstand-Compliance | CRP | CoM (Verlängerung) | POA, Ombud | Öffentlichkeit |
 | Procurement Integrity | Integrity Unit / PIA | Executive Board | ACI, POA | CoM |
@@ -14647,7 +14648,7 @@ _Vergabeverfahren, Standardisierung, Integrity, Dual Sourcing, Step-in Rights, B
 #### Art. B5 – RACI (Kurzfassung)
 
 | Rolle | Stellen |
-|---|---|
+| ---- | ---- |
 | **Responsible** | PIA (Vergabe), Integrity Unit (Integrität), Program Boards (Anforderungen) |
 | **Accountable** | Executive Board (Durchführung), Council of Members (Programmfreigaben) |
 | **Consulted** | OCB (Interop), CRP (Rule-of-law bei Sanktionen), ACI (Audit) |
@@ -14660,7 +14661,7 @@ _Vergabeverfahren, Standardisierung, Integrity, Dual Sourcing, Step-in Rights, B
 #### Art. B6 – Vergabearten
 
 | Nr. | Verfahren | Anwendungsfall |
-|---|---|---|
+| ---- | ---- | ---- |
 | 1 | **Offenes Verfahren** | Standard |
 | 2 | **Nichtoffenes Verfahren** | Sicherheitsrelevante Vorqualifikation |
 | 3 | **Verhandlungsverfahren** | Hochkomplexe Systeme, begründet |
@@ -14773,7 +14774,7 @@ _Vergabeverfahren, Standardisierung, Integrity, Dual Sourcing, Step-in Rights, B
 Mindestens zu messen:
 
 | Nr. | KPI |
-|---|---|
+| ---- | ---- |
 | 1 | Liefermenge vs. Plan |
 | 2 | Lieferzeit (On-time) |
 | 3 | Qualitätsquote (Defect Rate) |
@@ -14907,7 +14908,7 @@ g) Klassifizierung/Informationssicherheit (gemeinsame Stufen)
 #### Art. C4 – Standard- und Zertifizierungsorgane
 
 | Organ | Aufgabe |
-|---|---|
+| ---- | ---- |
 | **Interop Standards Board (ISB)** | Erarbeitet Standards, pflegt Versionen, definiert Testpläne |
 | **Certification Authority (CA)** | Erteilt/entzieht Zertifikate, führt Audits durch |
 | **Operational Command Board (OCB)** | Definiert operative Mindestverfahren (SOPs, Übungen) |
@@ -14930,7 +14931,7 @@ g) Klassifizierung/Informationssicherheit (gemeinsame Stufen)
 #### Art. C7 – Zertifikatslevels
 
 | Level | Name | Bedeutung | Typischer Einsatz |
-|---|---|---|---|
+| ---- | ---- | ---- | ---- |
 | **L0** | Non-Compliant | Keine Club-Interop | Rein national, keine Pools |
 | **L1** | Basic Interop | Minimale Schnittstellen/Logistik | Program Member (T1) |
 | **L2** | Operational Interop | Voll interoperabel in gemeinsamen Operationen | Operational Member (T2) |
@@ -14940,7 +14941,7 @@ g) Klassifizierung/Informationssicherheit (gemeinsame Stufen)
 #### Art. C8 – Mapping Tier ↔ Zertifikatsniveau
 
 | Tier | Mindest-Level |
-|---|---|
+| ---- | ---- |
 | **T1** (Program Member) | L1 in relevanten Programmkategorien |
 | **T2** (Operational Member) | L2 für C2/Comms + Kernsysteme; L3 für kritische Elemente nach CoM-Liste |
 | **T3** (Constitutional Member) | Vollständige Compliance; L3 standardmäßig im Kern |
@@ -14954,7 +14955,7 @@ g) Klassifizierung/Informationssicherheit (gemeinsame Stufen)
 Jedes System muss (wo anwendbar) nachweisen:
 
 | Nr. | Test |
-|---|---|
+| ---- | ---- |
 | 1 | **Interface Compliance** (Protokolle, Datenformate, APIs) |
 | 2 | **Key Management \& Crypto** (HSM/Key Rotation, Zugriff) |
 | 3 | **Latency/Throughput** (Mindestwerte je Kategorie) |
@@ -14992,7 +14993,7 @@ Jedes System muss (wo anwendbar) nachweisen:
 #### Art. C14 – Re-Zertifizierung
 
 | Level | Intervall | Zusätzlich |
-|---|---|---|
+| ---- | ---- | ---- |
 | **L1** | Alle 36 Monate | Bei Major-Versionswechsel |
 | **L2** | Alle 24 Monate | Bei Sicherheits-/Schnittstellenänderung |
 | **L3/L4** | Alle 12–18 Monate | Verpflichtende Pen-Tests + Supply-Chain-Review |
@@ -15011,7 +15012,7 @@ Jedes System muss (wo anwendbar) nachweisen:
 Der ISB pflegt mindestens folgende Standardfamilien:
 
 | Nr. | Standardfamilie |
-|---|---|
+| ---- | ---- |
 | 1 | **C2 \& Tactical Data Links** (Multi-domain Lagebild) |
 | 2 | **Air Defence Integration** (Sensor-to-Shooter, Track Management) |
 | 3 | **Counter-UAS \& EW Interfaces** |
@@ -15094,7 +15095,7 @@ Dieser Annex tritt mit dem Vertrag in Kraft.
 #### Art. C26 – Übergangsfristen
 
 | Frist | Meilenstein |
-|---|---|
+| ---- | ---- |
 | 6 Monate | Baseline-Standards (C2, Logistics, Cyber Exchange) |
 | 12 Monate | Erstzertifizierung L1 für Programmbereiche |
 | 24 Monate | L2 für Operational Members in Kernkategorien |
@@ -15159,7 +15160,7 @@ _Mandatsregeln, 72h-Sofortreaktion, Operationskategorien, Berichtspflichten, IG-
 #### Art. D3 – Kette der demokratischen Kontrolle
 
 | Stelle | Rolle |
-|---|---|
+| ---- | ---- |
 | **Unterhaus** (oder POA-äquivalent) | Mandat, Budgetbindung, Kontrolle |
 | **Oberhaus** (bei definierten Schwellen) | Zustimmung bei hochskaligen/langfristigen Einsätzen |
 | **Regierung/CoM** | Operative Führung innerhalb Mandat |
@@ -15173,7 +15174,7 @@ _Mandatsregeln, 72h-Sofortreaktion, Operationskategorien, Berichtspflichten, IG-
 #### Art. D4 – Kategorien militärischer Maßnahmen
 
 | Kategorie | Bezeichnung | Beispiele |
-|---|---|---|
+| ---- | ---- | ---- |
 | **0** | Routine/Readiness | Übungen, Abschreckungspräsenz, Training, Rotationen |
 | **1** | Schutzmaßnahmen | Schutz kritischer Infrastruktur, Cyber-Defence-Response, Counter-UAS, maritime/luftpolizeiliche Sicherung |
 | **2** | Begrenzte Operation | Zeitlich/örtlich begrenzter Einsatz mit erhöhtem Risiko (Evakuierung, Sicherungsoperation) |
@@ -15196,7 +15197,7 @@ _Mandatsregeln, 72h-Sofortreaktion, Operationskategorien, Berichtspflichten, IG-
 #### Art. D7 – Fristen und Bestätigung
 
 | Frist | Pflicht |
-|---|---|
+| ---- | ---- |
 | **24 Stunden** | Unterrichtung der Kontrollorgane (POA-Notfallpanel / Unterhaus-Ausschüsse) |
 | **72 Stunden** | **Parlamentarische Bestätigung** einholen |
 | **Ohne Bestätigung** | Operation endet unverzüglich geordnet („safe disengagement") |
@@ -15215,7 +15216,7 @@ _Mandatsregeln, 72h-Sofortreaktion, Operationskategorien, Berichtspflichten, IG-
 Jedes Mandat muss enthalten:
 
 | Nr. | Pflichtfeld |
-|---|---|
+| ---- | ---- |
 | 1 | **Rechtsgrundlage** (Vertrag, Völkerrecht, nationale Rechtsakte) |
 | 2 | **Zieldefinition** (konkret, messbar) |
 | 3 | **Einsatzgebiet** (geografisch/operativ) |
@@ -15243,7 +15244,7 @@ Oberhauszustimmung ist erforderlich, wenn mindestens eines gilt:
 #### Art. D11 – Berichtspflichten (laufend)
 
 | Rhythmus | Inhalt | Empfänger |
-|---|---|---|
+| ---- | ---- | ---- |
 | **Wöchentlich** | Kurzberichte: Lage, Verluste, Zielerreichung, Risiken | Zuständige Ausschüsse / POA-Panel (klassifiziert) |
 | **Monatlich** | KPI-Bericht: Munitionsverbrauch, Readiness, Ausfälle, Logistik, Compliance | Ausschüsse + ACI |
 | **Quartalsweise** | Öffentlicher Topline-Bericht | Öffentlichkeit (soweit sicherheitsverträglich) |
@@ -15346,7 +15347,7 @@ Dieser Annex tritt mit dem Vertrag in Kraft.
 #### Art. D26 – Übergangsfristen
 
 | Frist | Meilenstein |
-|---|---|
+| ---- | ---- |
 | 6 Monate | Standard-Mandatsformat (Art. D9) verbindlich |
 | 12 Monate | IG-Defense eingerichtet und arbeitsfähig |
 | 18 Monate | Übungs- und Berichtssysteme vollständig implementiert |
@@ -15444,7 +15445,7 @@ ACI prüft insbesondere:
 #### Art. E7 – Auditarten
 
 | Auditart | Anlass |
-|---|---|
+| ---- | ---- |
 | **Regelprüfung** | Jährlich |
 | **Sonderaudit** | Bei Triggern |
 | **Forensisches Audit** | Bei Korruptions-/Capture-Verdacht |
@@ -15465,7 +15466,7 @@ ACI prüft insbesondere:
 Jedes Programm und jede wesentliche Struktur hat verpflichtende KPI:
 
 | Nr. | KPI-Dimension |
-|---|---|
+| ---- | ---- |
 | 1 | **Output** (z. B. Stückzahlen, Liefertermine) |
 | 2 | **Readiness** (Einsatzbereitschaft, Ausfallraten) |
 | 3 | **Kosten** (Plan/Ist, Cost Growth) |
@@ -15480,7 +15481,7 @@ Jedes Programm und jede wesentliche Struktur hat verpflichtende KPI:
 2. Drei Sichtstufen:
 
 | Stufe | Zugang |
-|---|---|
+| ---- | ---- |
 | **Öffentlich (Topline)** | Jedermann |
 | **Parlamentarisch (detailliert)** | POA / Ausschüsse |
 | **Klassifiziert (Clean Room)** | Geheimschutzpanel |
@@ -15499,7 +15500,7 @@ Jedes Programm und jede wesentliche Struktur hat verpflichtende KPI:
 #### Art. E12 – Transparenzregister (Minimum)
 
 | Register | Inhalt |
-|---|---|
+| ---- | ---- |
 | **Lobbyregister** | Meetings, Themen, Auftraggeber |
 | **Vergaberegister** | Ausschreibungen, Zuschläge, Ausnahmen |
 | **Spenden-/Zuwendungsregister** | Interessenkonfliktregister für Schlüsselpersonen |
@@ -15560,7 +15561,7 @@ Jedes Programm und jede wesentliche Struktur hat verpflichtende KPI:
 #### Art. E21 – Compliance-Eskalation
 
 | Schwere | Klassifizierung | Konsequenz |
-|---|---|---|
+| ---- | ---- | ---- |
 | **Minor** | Geringe Abweichung, keine Systemwirkung | Remediation ≤ 90 Tage |
 | **Major** | Systemrelevant, Risiko erhöht | Remediation ≤ 60 Tage + Sonderaudit möglich |
 | **Critical** | NoGo-nah oder systemisch | Sofortige Eskalation Annex 14.A, vorläufige Maßnahmen |
@@ -15609,7 +15610,7 @@ Dieser Annex tritt mit dem Vertrag in Kraft.
 #### Art. E28 – Übergangsfristen
 
 | Frist | Meilenstein |
-|---|---|
+| ---- | ---- |
 | 6 Monate | ACI, Ombud und Clean-Room-Struktur operational |
 | 9 Monate | KPI-Dashboard |
 | 12 Monate | Erste Quartalsberichte, Registerpflichten |
@@ -15649,7 +15650,7 @@ _T0 Observer → T1 Associate → T2 Full → T3 Core – Rechte, Pflichten, Bei
 #### Art. F1 – Vier Stufen
 
 | Tier | Bezeichnung | Kurzprofil |
-|---|---|---|
+| ---- | ---- | ---- |
 | **T0** | Observer | Zugang zu Dokumenten, kein Stimmrecht, keine Beitragspflicht, keine Integration |
 | **T1** | Associate | Selektive Kooperationsrechte, Beitrag reduziert, Beobachterstatus in Organen |
 | **T2** | Full Member | Volles Stimmrecht, volle Beitragspflicht, volle Integration |
@@ -15669,7 +15670,7 @@ _T0 Observer → T1 Associate → T2 Full → T3 Core – Rechte, Pflichten, Bei
 #### Art. F3 – T0 Observer
 
 | Dimension | Regelung |
-|---|---|
+| ---- | ---- |
 | **Zugang** | Nicht-klassifizierte Dokumente, offene Hearings |
 | **Stimmrecht** | Kein Stimmrecht |
 | **Beitrag** | Kein finanzieller Beitrag |
@@ -15679,7 +15680,7 @@ _T0 Observer → T1 Associate → T2 Full → T3 Core – Rechte, Pflichten, Bei
 #### Art. F4 – T1 Associate
 
 | Dimension | Regelung |
-|---|---|
+| ---- | ---- |
 | **Zugang** | Dokumente bis Stufe „eingeschränkt"; Beobachterstatus in POA und Ausschüssen |
 | **Stimmrecht** | Beratende Stimme, kein Beschlussstimmrecht |
 | **Beitrag** | Reduzierter Beitrag (z. B. 30–50 \% des T2-Satzes) |
@@ -15689,7 +15690,7 @@ _T0 Observer → T1 Associate → T2 Full → T3 Core – Rechte, Pflichten, Bei
 #### Art. F5 – T2 Full Member
 
 | Dimension | Regelung |
-|---|---|
+| ---- | ---- |
 | **Zugang** | Alle Dokumente, Ausschüsse, Budgetdetails |
 | **Stimmrecht** | Volles Stimmrecht in POA, Unterhaus/Oberhaus |
 | **Beitrag** | Voller Beitrag nach Formel (BNE + Bevölkerung + Risiko) |
@@ -15699,7 +15700,7 @@ _T0 Observer → T1 Associate → T2 Full → T3 Core – Rechte, Pflichten, Bei
 #### Art. F6 – T3 Core
 
 | Dimension | Regelung |
-|---|---|
+| ---- | ---- |
 | **Zugang** | Wie T2 + Geheimschutzpanel + Clean Room |
 | **Stimmrecht** | Wie T2 + EB-Entsendungsrecht (Art. 12) |
 | **Beitrag** | Voller Beitrag + ggf. Solidaritätsprämie für Rahmenstaaten |
@@ -15713,7 +15714,7 @@ _T0 Observer → T1 Associate → T2 Full → T3 Core – Rechte, Pflichten, Bei
 #### Art. F7 – Stimmrecht-Staffelung
 
 | Tier | Stimmrecht |
-|---|---|
+| ---- | ---- |
 | T0 | Keines |
 | T1 | Beratend (Rede, Antrag, kein Beschluss) |
 | T2 | Volles Beschlussstimmrecht |
@@ -15876,7 +15877,7 @@ Dieser Annex tritt mit dem Vertrag in Kraft.
 #### Art. F26 – Übergangsfristen
 
 | Frist | Meilenstein |
-|---|---|
+| ---- | ---- |
 | Tag 0 | Tier-Einstufung aller Gründungsmitglieder |
 | 6 Monate | Stimmrechts- und Beitragsregelungen operativ |
 | 12 Monate | Erste Upgrade-/Downgrade-Zyklen möglich |
@@ -15913,7 +15914,7 @@ Die **Charta bildet den Rechtskern der ERDA** und wird durch neue ethische, tech
 Vollintegrierte Mitgliedsstaaten mit demokratischer Verfassung und stabiler Rechtsstaatlichkeit, sortiert nach Bevölkerungszahl (Stand 1. Januar 2024) ([en.wikipedia.org](https://en.wikipedia.org/wiki/List_of_European_Union_member_states_by_population)):
 
 | Staat        | ISO | Einwohner  |
-| ------------ | --- | ---------- |
+| ---- | ---- | ---- |
 | Deutschland  | DE  | 83 445 000 |
 | Frankreich   | FR  | 68 402 000 |
 | Italien      | IT  | 58 989 700 |
@@ -16000,7 +16001,7 @@ Trotz innerer Herausforderungen verfügen diese Staaten über strategische Bedeu
 Nicht politisch integrierte Demokratien mit sicherheitspolitischer und innovationspolitischer Kooperation:
 
 | Staat      | ISO-Code | Anbindungsschwerpunkt                   |
-| ---------- | -------- | --------------------------------------- |
+| ---- | ---- | ---- |
 | Kanada     | 🇨🇦 CA  | Arktis- und Transatlantik               |
 | Australien | 🇦🇺 AU  | Indo-Pazifik-Raum                       |
 | Neuseeland | 🇳🇿 NZ  | Indo-Pazifik-Raum                       |
@@ -16019,7 +16020,7 @@ Nicht politisch integrierte Demokratien mit sicherheitspolitischer und innovatio
 #### 🛰️ Strategische Sonderrollen innerhalb der ERDA
 
 | Gebiet/Staat       | Rolle innerhalb ERDA                        |
-| ------------------ | ------------------------------------------- |
+| ---- | ---- |
 | Grönland 🇬🇱      | Rohstoff- und Sicherheitsstrategie (via DK) |
 | Island 🇮🇸        | Nordmeer-Verteidigungs- und Arktiskorridor  |
 | Kanada 🇨🇦        | Transatlantische und Arktispartnerschaft    |
@@ -16303,7 +16304,7 @@ version: "1.0"
 ## 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025 | 2050 | 2075 | EU-Durchschnitt 2024 (Benchmark) |
-| ------------------------------------- | ---- | ---- | ---- | -------------------------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | BIP (Mrd. EUR)                        |      |      |      |                                  |
 | Bevölkerung                           |      |      |      |                                  |
 | Anteil Erneuerbare Energien (\%)       |      |      |      |                                  |
@@ -16557,7 +16558,7 @@ version: "1.0"
 ##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                            | 2025      | 2050      | 2075      | EU-Benchmark 2024                 |
-| ------------------------------------ | --------- | --------- | --------- | --------------------------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | BIP (Mrd. EUR)                       | 428,5     | 600       | 750       | 492 (Ø pro Mitgliedsstaat)        |
 | Bevölkerung                          | 9 113 574 | 9 825 200 | 9 400 000 | 16 556 000 (Ø pro Mitgliedsstaat) |
 | Anteil Erneuerbare (\%)               | 34,7      | 65        | 80        | 22                                |
@@ -16759,7 +16760,7 @@ version: "1.0"
 ##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                                                                                      | 2025  | 2050  | 2075  |
-| ---------------------------------------------------------------------------------------------- | ----- | ----- | ----- |
+| ---- | ---- | ---- | ---- |
 | [BIP (Mrd. EUR)](https://ec.europa.eu/eurostat/databrowser/view/tec00115/default/table)        | 131,5 | 175,0 | 260,0 |
 | [Bevölkerung (Mio.)](https://population.un.org/wpp/downloads)                                  | 11,81 | 11,87 | 11,42 |
 | [Erneuerbare Energie (\%)](https://www.iea.org)                                                 | 18    | 45    | 75    |
@@ -17046,7 +17047,7 @@ version: "1.0"
 ##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025 | 2050 | 2075 | EU-Durchschnitt 2024 |
-| ------------------------------------- | ---- | ---- | ---- | -------------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | BIP (Mrd. EUR)                        | 97,5 | 140 (p) | 200 (p) | 16.000 |
 | Bevölkerung                           | 6,45 Mio. | 5,5 Mio. (p) | 4,9 Mio. (p) | 448 Mio. |
 | Anteil Erneuerbare Energien (\%)       | 23 \% | 55 \% (p) | 80 \% (p) | 32 \% |
@@ -17249,7 +17250,7 @@ version: "1.0"
 ##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025  | 2050  | 2075 |
-| ------------------------------------- | ----- | ----- | ---- |
+| ---- | ---- | ---- | ---- |
 | BIP (Mrd. EUR)                        | 295   | 430   | 510  |
 | Bevölkerung                           | 10,5M | 10,1M | 9,8M |
 | Anteil Erneuerbare Energien (\%)       | 24    | 50    | 68   |
@@ -17465,7 +17466,7 @@ version: "1.0"
 ##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025      | 2050      | 2075      |
-| ------------------------------------- | --------- | --------- | --------- |
+| ---- | ---- | ---- | ---- |
 | BIP (Mrd. EUR)                        | 4 200     | 5 800     | 6 300     |
 | Bevölkerung                           | 83,5 Mio. | 82,0 Mio. | 78,0 Mio. |
 | Anteil Erneuerbare (\%)                | 46        | 70        | 90        |
@@ -17702,7 +17703,7 @@ version: "1.0"
 ##### 9. Kennzahlenübersicht
 
 | Indikator                     | 2025 | 2050 | 2075 |
-| ----------------------------- | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- |
 | BIP (Mrd. EUR)                | 400  | –    | –    |
 | Bevölkerung (Mio.)            | 5,98 | 6,12 | 6,10 |
 | Erneuerbare Energien (\%)      | 50   | 75   | 85   |
@@ -17912,7 +17913,7 @@ version: "1.0"
 ##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025         | 2050    | 2075    |
-| ------------------------------------- | ------------ | ------- | ------- |
+| ---- | ---- | ---- | ---- |
 | BIP (Mrd. USD)                        | 45,0         | 58,5 ^1 | 75,0 ^1 |
 | Bevölkerung                           | 1,369 M      | 1,270 M | 1,200 M |
 | Anteil Erneuerbare (\%)                | 28 \% (Strom) | 60 \%    | 100 \%   |
@@ -18153,7 +18154,7 @@ Transformation 2050–2075: Spanien entwickelt sich zu einem Green-Tech-Pionier 
 ##### 9. Kennzahlenübersicht (Kurzform)
 
 | **Indikator**                         | **2025** | **2050** | **2075** |
-| ------------------------------------- | -------- | -------- | -------- |
+| ---- | ---- | ---- | ---- |
 | BIP (real, Mrd. EUR)                  | 384,1    | 430,0    | 480,0    |
 | Bevölkerung (Mio.)                    | 47,9     | 44,9     | 43,0     |
 | Anteil Erneuerbare Energien (\%)       | 46 \%     | 75 \%     | 85 \%     |
@@ -18397,7 +18398,7 @@ version: "1.0"
 ##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025 | 2050 | 2075 |
-| ------------------------------------- | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- |
 | BIP (Mrd. EUR)                        | 280  | 360  | 460  |
 | Bevölkerung (Mio.)                    | 5,68 | 5,35 | 5,02 |
 | Anteil Erneuerbare Energien (\%)       | 43 \% | 80 \% | 90 \% |
@@ -18586,7 +18587,7 @@ version: "1.0"
 ##### 9. Kennzahlenübersicht
 
 | Indikator                             | 2025  | 2050  | 2075  |
-| ------------------------------------- | ----- | ----- | ----- |
+| ---- | ---- | ---- | ---- |
 | BIP (Mrd. EUR)                        | 2 822 | 3 300 | 3 600 |
 | Bevölkerung (Mio.)                    | 68,6  | 64    | 60    |
 | Erneuerbare Energien (\%)              | 21    | 50    | 75    |
@@ -18803,7 +18804,7 @@ version: "1.0"
 ##### 9. Kennzahlenübersicht
 
 | Indikator                             | 2025       | 2050      | 2075      |
-| ------------------------------------- | ---------- | --------- | --------- |
+| ---- | ---- | ---- | ---- |
 | BIP (Mrd. USD)                        | 245,2      | 346       | 631       |
 | Bevölkerung                           | 10 432 481 | 9 762 000 | 8 352 000 |
 | Anteil Erneuerbare (\%)                | 68,4       | 82        | 95        |
@@ -19044,7 +19045,7 @@ version: "1.0"
 ##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025      | 2050      | 2075      |
-| ------------------------------------- | --------- | --------- | --------- |
+| ---- | ---- | ---- | ---- |
 | BIP (Mrd. USD)                        | 84,4      | 131       | 239       |
 | Bevölkerung                           | 3 848 160 | 3 234 160 | 2 624 398 |
 | Anteil Erneuerbare (\%)                | 61,7      | 75        | 90        |
@@ -19475,7 +19476,7 @@ version: "1.0"
 ##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025   | 2050   | 2075   |
-| ------------------------------------- | ------ | ------ | ------ |
+| ---- | ---- | ---- | ---- |
 | BIP (Mrd. EUR)                        | 2 150  | 2 800  | 3 200  |
 | Bevölkerung                           | 58,9 M | 54,4 M | 47,0 M |
 | Anteil Erneuerbare Energien (\%)       | 22 \%   | 60 \%   | 85 \%   |
@@ -19690,7 +19691,7 @@ version: "1.0"
 ##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025         | 2050     | 2075      |
-| ------------------------------------- | ------------ | -------- | --------- |
+| ---- | ---- | ---- | ---- |
 | BIP (Mrd. EUR)                        | 77,94        | 95,00 ^1 | 130,00 ^1 |
 | Bevölkerung                           | 2,83         | 2,26     | 1,90      |
 | Anteil Erneuerbare (\%)                | 46 \% (Strom) | 65 \%     | 90 \%      |
@@ -19887,7 +19888,7 @@ version: "1.0"
 ##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025 | 2050 | 2075 |
-| ------------------------------------- | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- |
 | BIP (Mrd. EUR)                        | 86*  | 110 p | 150 p |
 | Bevölkerung (Mio.)                    | 0.67 | 0.80 p | 0.85 p |
 | Anteil Erneuerbare Energien (\%)       | 20.5 | 50 p | 70 p |
@@ -20099,7 +20100,7 @@ version: "1.0"
 ##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025         | 2050    | 2075     |
-| ------------------------------------- | ------------ | ------- | -------- |
+| ---- | ---- | ---- | ---- |
 | BIP (Mrd. USD)                        | 48,4         | 75,0 ^1 | 110,0 ^1 |
 | Bevölkerung                           | 1,855        | 1,250   | –        |
 | Anteil Erneuerbare (\%)                | 42 \% (Strom) | 65 \%    | 90 \%     |
@@ -20320,7 +20321,7 @@ version: "1.0"
 ##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             |    2025 |    2050 |    2075 |
-| ------------------------------------- | ------: | ------: | ------: |
+| ---- | ----: | ----: | ----: |
 | BIP (Mrd. USD)                        |   1 376 | \~1 800 | \~2 000 |
 | Bevölkerung                           | 18,33 M | 19,00 M | 21,00 M |
 | Anteil Erneuerbare Energien (\%)       |    35 \% |    60 \% |    75 \% |
@@ -20508,7 +20509,7 @@ version: "1.0"
 ##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025      | 2050    | 2075    |
-| ------------------------------------- | --------- | ------- | ------- |
+| ---- | ---- | ---- | ---- |
 | BIP (Mrd. EUR)                        | 800       | 1.200   | 1.350   |
 | Bevölkerung                           | 37,5 Mio. | 36 Mio. | 34 Mio. |
 | Anteil Erneuerbare (\%)                | 38 \%      | 68 \%    | 80 \%    |
@@ -20707,7 +20708,7 @@ version: "1.0"
 ##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025  | 2050   | 2075   |
-| ------------------------------------- | ----- | ------ | ------ |
+| ---- | ---- | ---- | ---- |
 | BIP (Mrd. EUR)                        | 260   | 320 ^1 | 450 ^1 |
 | Bevölkerung (Mio.)                    | 10,30 | 10,50  | 10,10  |
 | Anteil Erneuerbare (\%)                | 61 \%  | 80 \%   | 95 \%   |
@@ -20925,7 +20926,7 @@ Höhere Energieautarkie, fortschrittliche Landwirtschaft, Bildungsoffensive
 ##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025     | 2050       | 2075       |
-| ------------------------------------- | -------- | ---------- | ---------- |
+| ---- | ---- | ---- | ---- |
 | BIP (Mrd. EUR)                        | ≈ 325 | 500 (hyp.) | 620 (hyp.) |
 | Bevölkerung                           | 19 Mio. | 14,8 Mio.  | 12 Mio.    |
 | Anteil Erneuerbare (\%)                | 50 \%     | 65 \% (hyp.)| 80 \% (hyp.)|
@@ -21107,7 +21108,7 @@ version: "1.0"
 ##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025      | 2050    | 2075      |
-| ------------------------------------- | --------- | ------- | --------- |
+| ---- | ---- | ---- | ---- |
 | BIP (Mrd. EUR)                        | 650       | 820     | 890       |
 | Bevölkerung                           | 10,5 Mio. | 11 Mio. | 10,7 Mio. |
 | Anteil Erneuerbare (\%)                | 65 \%      | 85 \%    | 95 \%      |
@@ -21302,7 +21303,7 @@ Steigende Selbstversorgungsgrade, Hightech-Talente ausgebildet, sozioökologisch
 ##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025     | 2050      | 2075      |
-| ------------------------------------- | -------- | --------- | --------- |
+| ---- | ---- | ---- | ---- |
 | BIP (Mrd. EUR)                        | 63       | 95        | 135       |
 | Bevölkerung                           | 2,12 Mio. | 2,05 Mio. | 1,95 Mio. |
 | Anteil Erneuerbare (\%)                | 36 \%     | 58 \%      | 83 \%      |
@@ -21553,7 +21554,7 @@ version: "1.0"
 ##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025      | 2050        | 2075        |
-| ------------------------------------- | --------- | ----------- | ----------- |
+| ---- | ---- | ---- | ---- |
 | BIP (Mrd. USD)                        | 118,0     | 184         | 335         |
 | Bevölkerung                           | 5 474 881 | 4 936 488   | 4 420 000   |
 | Anteil Erneuerbare (\%)                | 45        | 65 (Progn.) | 85 (Progn.) |
@@ -21799,7 +21800,7 @@ version: "1.0"
 ##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025 | 2050 | 2075 | EU-Durchschnitt 2024 (Benchmark) |
-| ------------------------------------- | ---- | ---- | ---- | -------------------------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | BIP (Mrd. EUR)                        | 22   | 40 (p) | 55 (p) | 16 556 |
 | Bevölkerung                           | 2,75 Mio. | 2,6 Mio. (p) | 2,5 Mio. (p) | 447 Mio. |
 | Anteil Erneuerbare Energien (\%)       | 42   | 60 (p) | 75 (p) | 37 |
@@ -22009,7 +22010,7 @@ version: "1.0"
 ##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025 | 2050 | 2075 | EU-Durchschnitt 2024 (Benchmark) |
-| ------------------------------------- | ---- | ---- | ---- | ------------------------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | BIP (Mrd. EUR)                        | 22   | 40 (p) | 55 (p) | 16 556 |
 | Bevölkerung                           | 3,1 Mio. | 2,9 Mio. (p) | 2,7 Mio. (p) | 447 Mio. |
 | Anteil Erneuerbare Energien (\%)       | 38   | 55 (p) | 70 (p) | 37 |
@@ -22218,7 +22219,7 @@ Schrittweise Annäherung an EU-Standards, Stärkung demokratischer Prozesse und 
 ##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025      | 2050      | 2075      |
-| ------------------------------------- | --------- | --------- | --------- |
+| ---- | ---- | ---- | ---- |
 | BIP (Mrd. USD)                        | 27,5      | 40 (p)    | 55 (p)    |
 | Bevölkerung                           | 3,18 Mio. | 2,7 Mio. (p) | 2,3 Mio. (p) |
 | Anteil Erneuerbare (\%)                | 40 \%      | 55 \% (p) | 70 \% (p) |
@@ -22447,7 +22448,7 @@ Ausbau der Bildungs- und Forschungsallianzen, stärkere europäische Integration
 ##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025        | 2050 (p) | 2075 (p) | EU-Durchschnitt 2024 |
-| ------------------------------------- | ----------- | -------- | -------- | ------------------ |
+| ---- | ---- | ---- | ---- | ---- |
 | BIP (Mrd. EUR)                        | 805         | 1 100    | 1 300    | 16 556 |
 | Bevölkerung                           | 9,0 Mio.    | 9,34 Mio. | 10,25 Mio. | 447 Mio. |
 | Anteil Erneuerbare Energien (\%)       | 75          | 85       | 92       | 37 |
@@ -22662,7 +22663,7 @@ Integration in regionale Energieprojekte und Stärkung der Innovationslandschaft
 ##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025      | 2050 (p) | 2075 (p) |
-| ------------------------------------- | --------- | -------- | -------- |
+| ---- | ---- | ---- | ---- |
 | BIP (Mrd. USD)                        | 34        | 55       | 70       |
 | Bevölkerung                           | 1,35 Mio. | 1,4 Mio. | 1,35 Mio. |
 | Anteil Erneuerbare (\%)                | 20 \%      | 45 \%     | 60 \%     |
@@ -22869,7 +22870,7 @@ Wirtschaftliche Integration mit EU-Märkten, Ausbau erneuerbarer Energien, Stär
 ##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025 | 2050      | 2075      |
-| ------------------------------------- | ---- | --------- | --------- |
+| ---- | ---- | ---- | ---- |
 | BIP (Mrd. USD)                        | 32   | 50 (hyp.) | 70 (hyp.) |
 | Bevölkerung                           | 3,7 Mio. | 3,39 Mio. | 2,91 Mio. |
 | Anteil Erneuerbare (\%)                | 35 \% | 55 \% (hyp.) | 80 \% (hyp.) |
@@ -23079,7 +23080,7 @@ version: "1.0"
 ##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator | 2025 | 2050 | 2075 | EU-Durchschnitt 2024 (Benchmark) |
-| --- | --- | --- | --- | --- |
+| ---- | ---- | ---- | ---- | ---- |
 | BIP (Mrd. EUR) | 180 | 240 (p) | 310 (p) | 16 556 |
 | Bevölkerung | 9,55 Mio. | 8,6 Mio. (p) | 8,1 Mio. (p) | 447 Mio. |
 | Anteil Erneuerbare Energien (\%) | 21 | 45 (p) | 65 (p) | 37 |
@@ -23290,7 +23291,7 @@ version: "1.0"
 ##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025 | 2050 | 2075 | EU-Durchschnitt 2024 (Benchmark) |
-| ------------------------------------- | ---- | ---- | ---- | ------------------------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | BIP (Mrd. EUR)                        | 472 | 750 (p) | 1000 (p) | 16 556 |
 | Bevölkerung                           | 9,8 Mio. | 12 Mio. (p) | 13 Mio. (p) | 447 Mio. |
 | Anteil Erneuerbare Energien (\%)       | 10 | 25 (p) | 40 (p) | 37 |
@@ -23494,7 +23495,7 @@ version: "1.0"
 ##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator | 2025 | 2050 | 2075 | EU-Durchschnitt 2024 (Benchmark) |
-| --- | --- | --- | --- | --- |
+| ---- | ---- | ---- | ---- | ---- |
 | BIP (Mrd. EUR) | 15 | 25 (p) | 35 (p) | 18 000 |
 | Bevölkerung (Mio.) | 2,6 | 2,2 (p) | 1,9 (p) | 448 |
 | Anteil Erneuerbare Energien (\%) | 25 | 40 (p) | 60 (p) | 45 |
@@ -23711,7 +23712,7 @@ version: "1.0"
 ##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025 | 2050 (p) | 2075 (p) | EU-Durchschnitt 2024 |
-| ------------------------------------- | ---- | -------- | -------- | ------------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | BIP (Mrd. USD)                        | 7,5  | 11       | 15       | 18.000 |
 | Bevölkerung                           | 0,62 Mio. | 0,59 Mio. | 0,57 Mio. | 447 Mio. |
 | Anteil Erneuerbare Energie (\%)        | 55   | 70       | 80       | 45 |
@@ -23923,7 +23924,7 @@ version: "1.0"
 ##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025 | 2050 | 2075 | EU-Durchschnitt 2024 (Benchmark) |
-| ------------------------------------- | ---- | ---- | ---- | ------------------------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | BIP (Mrd. EUR)                        | 14,3 | 25 (p) | 35 (p) | 16 556 |
 | Bevölkerung                           | 1,83 Mio. | 1,7 Mio. (p) | 1,6 Mio. (p) | 447 Mio. |
 | Anteil Erneuerbare Energien (\%)       | 27 | 45 (p) | 60 (p) | 37 |
@@ -24141,7 +24142,7 @@ version: "1.0"
 ##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025  | 2050 (p) | 2075 (p) | EU-Durchschnitt 2024 |
-| ------------------------------------- | ----- | -------- | -------- | -------------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | BIP (Mrd. EUR)                        | 21    | 32       | 45       | 16.6 | 
 | Bevölkerung                           | 0,55 Mio. | 0,6 Mio. | 0,58 Mio. | 447 Mio. |
 | Anteil Erneuerbare Energien (\%)       | 12 \%  | 30 \%     | 60 \%     | 23 \% |
@@ -24317,7 +24318,7 @@ version: "1.0"
 ##### 9. Kennzahlenübersicht (Kurzform)
 
 | Kennzahl | Wert | Quelle |
-| --- | --- | --- |
+| ---- | ---- | ---- |
 | Bevölkerung 2023 | 5.519.594 | World Bank |
 | Lebenserwartung 2023 | 83,1 Jahre | World Bank |
 | BIP pro Kopf 2023 | 87.925 USD | World Bank |
@@ -24531,7 +24532,7 @@ version: "1.0"
 ##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025 | 2050 | 2075 | EU-Durchschnitt 2024 |
-| ------------------------------------- | ---- | ---- | ---- | -------------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | BIP (Mrd. EUR)                        | 75   | 110 (h) | 150 (h) | 16.600 |
 | Bevölkerung                           | 6,6 Mio. | 6,0 Mio. (h) | 5,5 Mio. (h) | 447 Mio. |
 | Anteil Erneuerbare Energien (\%)       | 26 \%[15] | 45 \% (h) | 65 \% (h) | 37 \% |
@@ -24931,7 +24932,7 @@ _„Die Ukraine zeigt, wie Entschlossenheit und internationale Solidarität eine
 ##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025 | 2050 | 2075 |
-| ------------------------------------- | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- |
 | BIP (Mrd. EUR)                        | 200  | 450  | 700  |
 | Bevölkerung (Mio.)                    | 37   | 45   | 48   |
 | Anteil Erneuerbare Energien (\%)       | 25   | 50   | 70   |
@@ -25156,7 +25157,7 @@ version: "1.0"
 ##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator | 2025 | Quelle |
-| --- | --- | --- |
+| ---- | ---- | ---- |
 | Bevölkerung | 67,6 Mio. | ONS |
 | Lebenserwartung | 81,7 Jahre | World Bank |
 | BIP | 2.800 Mrd. EUR | World Bank |
@@ -25362,7 +25363,7 @@ version: "1.0"
 ##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025 | 2050 | 2075 | EU-Durchschnitt 2024 (Benchmark) |
-| ------------------------------------- | ---- | ---- | ---- | -------------------------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | BIP (Mrd. EUR)                        | 10   | 20 (p) | 30 (p) | 16 556 |
 | Bevölkerung                           | 1,76 Mio. | 1,8 Mio. (p) | 1,8 Mio. (p) | 447 Mio. |
 | Anteil Erneuerbare Energien (\%)       | 6    | 25 (p) | 40 (p) | 37 |
@@ -25571,7 +25572,7 @@ version: "1.0"
 ##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                              | 2023      | 2050 (proj.) | 2075 (proj.) |
-| -------------------------------------- | --------- | ------------ | ------------ |
+| ---- | ---- | ---- | ---- |
 | BIP (Mrd. USD)                         | 1728      | ~2700 (hyp.) | ~3500 (hyp.) |
 | Bevölkerung                            | 26 659 k  | ~30 000 k (UN) | ~33 000 k (UN) |
 | Anteil Erneuerbare Strom (\%)           | 35        | 70 (hyp.)    | 85 (hyp.)    |
@@ -25775,7 +25776,7 @@ Fortschreitende Dekarbonisierung, Ausbau der Polarroute, technologische Selbstst
 ##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025     | 2050      | 2075      |
-| ------------------------------------- | -------- | --------- | --------- |
+| ---- | ---- | ---- | ---- |
 | BIP (Mrd. EUR)                        | 2 050    | 3 575 (p) | 5 865 (p) |
 | Bevölkerung                           | 40,1 Mio.| 45,4 Mio. | 49,3 Mio. |
 | Anteil Erneuerbare (\%)                | 19 \%     | 45 \% (p)  | 70 \% (p)  |
@@ -26015,7 +26016,7 @@ Mehrwertorientierte Industriepolitik, technologischer Wissenstransfer und region
 ##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025 | 2050      | 2075      |
-| ------------------------------------- | ---- | --------- | --------- |
+| ---- | ---- | ---- | ---- |
 | BIP (Mrd. EUR)                        | 315  | 517 (p)   | 849 (p)   |
 | Bevölkerung                           | 20 Mio. | 19 Mio. (p) | 17 Mio. (p) |
 | Anteil Erneuerbare (\%)                | 35 \% | 60 \% (p)  | 80 \% (p)  |
@@ -26215,7 +26216,7 @@ version: "1.0"
 ##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                               | 2023 | 2050 (proj.) | 2075 (proj.) |
-| --------------------------------------- | ---- | ------------ | ------------ |
+| ---- | ---- | ---- | ---- |
 | BIP (Mrd. EUR)                          | 78   | ~120 (hyp.)  | ~160 (hyp.)  |
 | Bevölkerung                             | 5,1 Mio. | 5,8 Mio. (hyp.) | 6,1 Mio. (hyp.) |
 | Anteil Erneuerbare Energie (\%)          | 99   | 100 (hyp.)   | 100 (hyp.)   |
@@ -26412,7 +26413,7 @@ version: "1.0"
 ##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025 | 2050 | 2075 | EU-Durchschnitt 2024 (Benchmark) |
-| ------------------------------------- | ---- | ---- | ---- | -------------------------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | BIP (Mrd. EUR)                        | 3.300 | 8.500 (p) | 12.000 (p) | – |
 | Bevölkerung                           | 1,46 Mrd. | 1,67 Mrd. | 1,53 Mrd. | – |
 | Anteil Erneuerbare Energien (\%)       | 20 \% | 45 \% (p) | 70 \% (p) | – |
@@ -26635,7 +26636,7 @@ Demografischer Wandel gemildert, verstärkte regionale Integration im Indo-Pazif
 ##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2023     | 2050      | 2075      |
-| ------------------------------------- | -------- | --------- | --------- |
+| ---- | ---- | ---- | ---- |
 | BIP (Bio. USD)                        | 4,2      | 5,5*      | 6,0*      |
 | Bevölkerung                         | 124,5 Mio. | 104 Mio.* | 88 Mio.* |
 | Anteil Erneuerbare (\%)                | 20 \%     | 45 \%*    | 70 \%*    |
@@ -26853,7 +26854,7 @@ version: "1.0"
 ##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025  | 2050 (p) | 2075 (p) | EU-Durchschnitt 2024 |
-| ------------------------------------- | ----- | -------- | -------- | ------------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | BIP (Mrd. EUR)                        | 1.6 T | 2.1 T    | 2.4 T    | n/b |
 | Bevölkerung                           | 51,8 Mio. | 46 Mio. | 38 Mio. | n/b |
 | Anteil Erneuerbare Energien (\%)       | 9 \% | 30 (p) | 60 (p) | n/b |
@@ -27049,7 +27050,7 @@ version: "1.0"
 ##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025     | 2050      | 2075      | EU-Durchschnitt 2024 |
-| ------------------------------------- | -------- | --------- | --------- | ------------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | BIP (Mrd. USD)                        | 12,4     | 20 (p)    | 35 (p)   | – |
 | Bevölkerung                           | 3,0 Mio. | 3,3 Mio. (p) | 3,9 Mio. (p) | – |
 | Anteil Erneuerbare Energien (\%)       | 30 \%     | 50 \% (p) | 70 \% (p) | – |
@@ -27279,7 +27280,7 @@ Technologische Aufwertung der Landwirtschaft, nachhaltiger Tourismus, KI-Einsatz
 ##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025   | 2050 (p) | 2075 (p) | EU-Durchschnitt 2024 |
-| ------------------------------------- | ------ | -------- | -------- | ------------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | BIP (Mrd. EUR)                        | 230    | 310      | 370      | 16 556 |
 | Bevölkerung                           | 5,22 Mio. | 5,69 Mio. | 6,02 Mio. | 447 Mio. |
 | Anteil Erneuerbare Energien (\%)       | 40     | 65       | 80       | 37 |
@@ -27477,7 +27478,7 @@ version: "1.0"
 ##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2023 | 2050 (proj.) | 2075 (proj.) | EU-Durchschnitt 2024 |
-| ------------------------------------- | ---- | ------------ | ------------ | ------------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | BIP (Mrd. USD)                        | 30,8 | 60 (hyp.)    | 95 (hyp.)    |                     |
 | Bevölkerung                           | 18,1 Mio. | 30 Mio. (p) | 40 Mio. (p) |                     |
 | Anteil Erneuerbare Energien (\%)       | 31   | 55 (p)       | 70 (p)       |                     |
@@ -27856,7 +27857,7 @@ version: "1.0"
 ##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator | 2025 | 2050 | 2075 | EU-Durchschnitt 2024 |
-| --- | --- | --- | --- | --- |
+| ---- | ---- | ---- | ---- | ---- |
 | BIP (Mrd. USD) | 960 | 1 400 (hyp.) | 1 800 (hyp.) | n/b |
 | Bevölkerung | 23,3 Mio. | 20 Mio. (hyp.) | 18 Mio. (hyp.) | n/b |
 | Anteil Erneuerbare Energien (\%) | 20 | 40 (hyp.) | 60 (hyp.) | n/b |
@@ -28071,7 +28072,7 @@ version: "1.0"
 ##### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2023 | 2050 (proj.) | 2075 (proj.) | EU-Durchschnitt 2024 |
-| ------------------------------------- | ---- | ------------ | ------------ | ------------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | BIP (Mrd. EUR)                        | 71   | ~95 (hyp.)   | ~120 (hyp.)  |                     |
 | Bevölkerung                           | 3,39 Mio. | ~3,6 Mio. (UN) | ~3,7 Mio. (UN) |                     |
 | Anteil Erneuerbare Energien (\%)       | 44   | 60 (hyp.)    | 75 (hyp.)    |                     |
@@ -28868,7 +28869,7 @@ Dieser Abschnitt bündelt die operativen Abkürzungen für Entscheidungsträger:
 ### 📎 Direktzugriffe auf Werkzeuge (Auswahl)
 
 | Bereich | Werkzeug | Zweck |
-| --- | --- | --- |
+| ---- | ---- | ---- |
 | Strategie \& Kommunikation | `erda-gitbook-kapitel-template.md` | Einheitlicher Aufbau neuer Kapitel, Change-Story. |
 | Beteiligung \& Bildung | `interaktive-elemente-checkliste-and-quiz.md` | Planungsgrundlage für Workshops, Lernmodule, Bürgerdialoge. |
 | Qualitätssicherung | `rollenspiel-qualitatssicherungstemplate.md` | Simulation politischer Szenarien, Krisenresilienz trainieren. |
@@ -29449,7 +29450,7 @@ Das ERDA-Buch ist ein **strategisches, philosophisches und zivilisatorisches Lei
 #### 🧩 **Erweiterbare Zielgruppen (optional)**
 
 | Zielgruppe                       | Erwartung                                                                  |
-| -------------------------------- | -------------------------------------------------------------------------- |
+| ---- | ---- |
 | Lehrer:innen \& Pädagog:innen     | Bildungsnarrative, interplanetare Verantwortung, didaktische Umsetzbarkeit |
 | Journalist:innen \& Medienakteure | narrative Klarheit, Schlagkraft, Orientierung in Umbruchzeiten             |
 | Unternehmer:innen                | ethische Wirtschaft, FORTERA, Resilienzstrategien                          |
@@ -29460,7 +29461,7 @@ Das ERDA-Buch ist ein **strategisches, philosophisches und zivilisatorisches Lei
 #### 🧱 **Bewertungsdimensionen für zukünftige KI-Bewertungen**
 
 | Kriterium              | Beschreibung                                                                       |
-| ---------------------- | ---------------------------------------------------------------------------------- |
+| ---- | ---- |
 | **Relevanz**           | Ist der Inhalt für diese Zielgruppe strategisch oder emotional anschlussfähig?     |
 | **Sprachebene**        | Entspricht Tonfall und Komplexitätsgrad den Erwartungen der Zielgruppe?            |
 | **Resonanzfähigkeit**  | Wird ein emotionaler oder identitätsstiftender Impuls gesetzt?                     |
@@ -29591,7 +29592,7 @@ Jede Quelle erzählt eine Geschichte – hüte sie mit Sorgfalt.
 #### 📐 Formatregeln
 
 | Regelkategorie                | Details                                                                                                                                         |
-| ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| ---- | ---- |
 | **Verlinkung**                | Internetlinks in eckigen Klammern, direkt klickbar. GitBook-Verweise relativ mit vollständigem Dateinamen.                                      |
 | **Textliche Einheitlichkeit** | Einheitliche Anführungszeichen („“). Bindestriche statt Unterstriche in Dateinamen. Keine Leerzeichen oder Sonderzeichen in GitBook-Dateinamen. |
 | **Transparenz**               | Klare Trennung geplanter Konzepte von existierenden Materialien.                                                                                |
@@ -29629,7 +29630,7 @@ Jede Quelle erzählt eine Geschichte – hüte sie mit Sorgfalt.
 ##### 🔎 Prüfungsschritte:
 
 | Schritt                                                                | Priorität | Status (✔️/❌) | Kommentar |
-| ---------------------------------------------------------------------- | --------- | ------------- | --------- |
+| ---- | ---- | ---- | ---- |
 | Alle Internetlinks aufrufbar und aktuell?                              | Muss      |               |           |
 | Alle GitBook-Verweise existieren und stimmen mit `SUMMARY.md` überein? | Muss      |               |           |
 | Quellen passen fachlich exakt zum jeweiligen Kapitelinhalt?            | Muss      |               |           |
@@ -29806,7 +29807,7 @@ Die KI achtet auf:
 #### 🧬 6. Spezialfunktionen (für GPT-4o+)
 
 | Funktion                 | Beschreibung                                                   |
-| ------------------------ | -------------------------------------------------------------- |
+| ---- | ---- |
 | 🧩 Kapitelkompression    | Zusammenfassung eines Kapitels in < 250 Wörtern                |
 | 📎 Quellenerweiterung    | Ergänzen externer Studien/Belege auf Anfrage                   |
 | 🪞 Ethik-Prüfung         | Reflexion auf Tugend, Identität, Würde und langfristige Folgen |
@@ -29979,7 +29980,7 @@ Die erfolgreiche Umsetzung der ERDA-Vision erfordert eine frühzeitige und detai
 #### G.8 Strategische Handlungsempfehlungen
 
 | Priorität | Handlungsempfehlung                                                                                      |
-| --------- | -------------------------------------------------------------------------------------------------------- |
+| ---- | ---- |
 | Sehr Hoch | Sofortige Einrichtung eines ERDA-Demokratieindexes und EU-Cyberabwehrzentrums                            |
 | Sehr Hoch | Aufbau robuster europäischer Produktionscluster (FORTERA)                                                |
 | Hoch      | Umfassende digitale Bildungsinitiative zur Schließung der digitalen Kluft                                |
@@ -30024,7 +30025,7 @@ Die Kritik dieses Anhangs richtet sich deshalb gegen Machtlogiken, nicht gegen g
 ## H.2 Übersicht zentraler Machtstrukturen
 
 | Machtstruktur          | Kurzbeschreibung                                     | Aktuelle Beispiele (2025)                             | Maßnahmen zur Abhilfe                                                                                                     |
-| ---------------------- | ---------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| ---- | ---- | ---- | ---- |
 | Totalitarismus         | Totale Kontrolle aller Lebensbereiche                | Nordkorea, Eritrea, Turkmenistan                      | Internationale Sanktionen, Förderung unabhängiger Medien, langfristig Aufbau von Zivilgesellschaft                        |
 | Autoritarismus         | Starke Exekutive, Einschränkung von Freiheitsrechten | China, Russland, Belarus                              | Politischer Dialog, wirtschaftliche Konditionen, langfristige Unterstützung demokratischer Kräfte                         |
 | Militärdiktatur        | Militärherrschaft durch Putsch                       | Myanmar, Sudan                                        | UN-Friedensmissionen, Embargos, Förderung ziviler Übergangsregierungen                                                    |
@@ -30068,7 +30069,7 @@ _**Zentrales ERDA-Glossar**_
 Dieses Glossar fasst die zentralen Begriffe des ERDA-Buches zusammen. Es dient als eigenständiges Nachschlagewerk und unterstützt eine einheitliche Begriffsnutzung über alle Kapitel hinweg.
 
 | Begriff                                         | Definition                                                                                                                                                                                                                          |
-| ----------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ---- | ---- |
 | **Demokratische Resilienz**                     | Die Fähigkeit demokratischer Systeme, Krisen und Störungen durch partizipative Lernprozesse zu bewältigen, ihre Grundprinzipien (Freiheit, Rechtsstaatlichkeit, Teilhabe) zu schützen und sich an neue Herausforderungen anzupassen. |
 | **Demokratie der Mündigen**                     | Demokratische Ordnung, in der freie Bürger:innen urteilen, widersprechen, mitentscheiden und nach ihren Fähigkeiten Verantwortung für die gemeinsame Welt tragen; Kernformel: Freiheit plus Verantwortung plus Urteilskraft.          |
 | **Resonanz**                                    | Wechselseitige, lebendige Rückkopplung zwischen Bürger:innen, Institutionen und Technologie, die Vertrauen stärkt, Vielfalt integriert und Fehler als Entwicklungsimpulse nutzt.                                                    |
@@ -30122,6 +30123,7 @@ Dieses Glossar fasst die zentralen Begriffe des ERDA-Buches zusammen. Es dient a
 | **Anti-Game-Over-Prinzip**                      | Entwicklungsphilosophisches Prinzip, nach dem demokratische Systeme irreversible Lebensabbrüche, Lernabbrüche und Zukunftsblockaden vermeiden und immer neue Wege zur Wiederaufnahme von Entwicklung offenhalten sollen.              |
 | **Prosperatives Leben**                         | Leitbegriff für ein gelingendes, lernfähiges und resilientes Leben, das Sicherheit, Freiheit, Verantwortung, Freude, Bildung und offene Entwicklungsmöglichkeiten miteinander verbindet.                                           |
 
+
 \newpage
 
 ---
@@ -30142,7 +30144,7 @@ Um eine nachhaltige, freie Wissensbasis zu schaffen, werden die verschiedenen Be
 Das ERDA‑Buch besteht aus unterschiedlichen Bestandteilen. Für jede Kategorie gelten eigene Lizenzbedingungen. Die folgende Tabelle fasst diese zusammen:
 
 | Kategorie               | Lizenz                  | Erläuterung                           |
-|-------------------------|-------------------------|---------------------------------------|
+| ---- | ---- | ---- |
 | **Texte, Grafiken, Diagramme** | Creative Commons **Attribution – ShareAlike 4.0 International** (**CC BY‑SA 4.0**) | Inhalte dürfen frei geteilt und verändert werden, sofern der Urheber genannt und das abgeleitete Werk unter denselben Bedingungen weitergegeben wird. |
 | **Code / Toolchain / Skripte** | **MIT‑Lizenz** | Der Code darf verwendet, kopiert, verändert und verbreitet werden, inkl. kommerzieller Nutzung. Der Copyright‑Hinweis und der Lizenztext müssen beibehalten werden. |
 | **Eigenentwickelte Fonts**   | **CC BY 4.0** oder **MIT** (Dual‑Lizenz) | Eigens entwickelte Schriften können unter CC BY 4.0 oder MIT genutzt werden. Externe Fonts mit inkompatiblen Lizenzen werden nicht verwendet. |
@@ -30578,7 +30580,7 @@ Diese zusätzliche Qualitätssicherungsrunde ergänzt das bestehende Rollenspiel
 ##### Rollengliederung und gegenseitige Kritik
 
 | Rolle | Qualitätsauftrag | Kritischer Beitrag |
-|---|---|---|
+| ---- | ---- | ---- |
 | **Writer** | Stärkt die positive Botschaft: Demokratie ist eine Ordnung freier, verantwortlicher und urteilsfähiger Bürger:innen. | Kritisiert strategische Passagen, wenn sie wie reine Machtlogik wirken oder den Schutz von Leben, Würde und Freiheit nicht sichtbar genug begründen. |
 | **Editor** | Ordnet die Argumentation: Ethik zuerst, Strategie danach; moralische Begriffe werden zu klaren Kapitelbrücken. | Kritisiert den Writer, wenn moralische Verdichtung zu pathetisch, zu abstrakt oder strukturell unklar wird. |
 | **Lektor** | Sichert Ton, Sprache und Begriffskonsistenz: nicht polemisch, nicht pauschalisierend, nicht missverständlich. | Kritisiert Writer und Editor, wenn Formulierungen ganze Bevölkerungen adressieren, Tagespolitik überdehnen oder Begriffe uneinheitlich verwenden. |
@@ -30639,7 +30641,7 @@ Die Erweiterung stärkt das Buch in folgenden Punkten:
 Der Maßnahmenplan wurde als rollenbasierter Redaktionsdurchgang umgesetzt: Zuerst wurden ethische Legitimationsbrücken gestärkt, danach die strategischen Kapitel nachgeschärft. Die Arbeitsrollen wurden dabei wie folgt angewendet:
 
 | Rolle | Umgesetzter Beitrag |
-|---|---|
+| ---- | ---- |
 | **Writer** | Hat die positive Kernthese verdichtet: ERDA ist Schutz-, Würde-, Freiheits- und Verantwortungsprojekt, kein Machtprojekt. |
 | **Editor** | Hat die Staffelung umgesetzt: Kapitel 2, 3, 11, 12 und Anhang H begründen die Strategie in Kapitel 5, 13, 14 und Anhang D. |
 | **Lektor** | Hat pauschalisierende oder tagespolitisch überhitzte Formulierungen vermieden und die Linie „Machtlogiken kritisieren, Menschen nicht entmenschlichen“ abgesichert. |
@@ -30883,7 +30885,7 @@ Die zentrale Prüffrage lautet:
 ## M.3 Messbare Mindeststandards
 
 | Bereich | Messbare Vorgabe | Mindestnachweis |
-|---|---|---|
+| ---- | ---- | ---- |
 | Historische Baseline | Jede Baseline nennt Datenstand, Zweck und Quelle oder Quellenklasse. | Im Text oder Quellenabschnitt sichtbar. |
 | Aktuelle Statistik | Jede aktuelle, konkrete Statistik nennt Quelle und Daten-/Abrufstand. | Link, DOI, Bericht, Datensatz oder belastbare Quellenangabe. |
 | Sicherheits- und Kriegsaussage | Präzise Zahlen, Zitate und Lagebehauptungen sind belegt oder als unsicher markiert. | Quelle plus Datenstand; keine Scheingenauigkeit. |
@@ -30898,7 +30900,7 @@ Die zentrale Prüffrage lautet:
 ## M.4 Release-Gates
 
 | Gate | Frage | Bestehensmaßstab |
-|---|---|---|
+| ---- | ---- | ---- |
 | M-G1 Statusklarheit | Ist für Leser:innen erkennbar, welche Textart sie lesen? | Analyse, Baseline, Szenario, Roadmap, Paper und normative Setzung sind unterscheidbar. |
 | M-G2 Quellenintegrität | Sind sensitive und aktuelle Behauptungen nachvollziehbar belegt? | Keine unbelegte präzise Zahl in Krieg, Energie, Sicherheit, Demokratiequalität oder Geopolitik. |
 | M-G3 Baseline-Transparenz | Sind historische Datenstände als Baseline markiert? | Historische Zahlen werden nicht als tagesaktuelle Statistik verkauft. |
@@ -30910,7 +30912,7 @@ Die zentrale Prüffrage lautet:
 ## M.5 Entscheidungslogik
 
 | Ergebnis | Bedeutung | Zulässige Release-Entscheidung |
-|---|---|---|
+| ---- | ---- | ---- |
 | Erfüllt | Kriterien sind nachweisbar erfüllt. | Freigabe möglich. |
 | Erfüllt mit Restrisiko | Kriterien sind überwiegend erfüllt; Abweichung ist dokumentiert und begründet. | Freigabe möglich, wenn Redakteur:in/Publisher Restrisiko akzeptieren. |
 | Nicht erfüllt | Ein wesentliches Kriterium ist offen, unbelegt oder irreführend. | Keine Finalfreigabe ohne Nacharbeit oder bewusste Herabstufung des Abschnitts. |
@@ -31449,7 +31451,7 @@ To move from aspiration to evidence, CIVITAS Public adopts four guiding research
 These questions will be operationalised through the following **key performance indicators (KPIs)**:
 
 | KPI | Measurement Method | Target (Phase 1) | Target (Phase 2) |
-| --- | --- | --- | --- |
+| ---- | ---- | ---- | ---- |
 | Monthly active users | Platform analytics | 5,000 | 50,000 |
 | Verified author registrations | Identity system logs | 200 | 2,000 |
 | Publication volume (articles + briefs) | Content database | 500/year | 3,000/year |
@@ -31480,7 +31482,7 @@ The full CIVITAS vision encompasses:
 CIVITAS Public does not emerge in a vacuum. Several European civic-technology platforms have demonstrated that participatory digital infrastructure is both technically feasible and politically impactful. Understanding their strengths and limitations is essential for informed design.
 
 | Platform | Origin | Licence | Focus | Governance | Multilingual | Key Lesson for CIVITAS |
-| --- | --- | --- | --- | --- | --- | --- |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | **Decidim** [11] | Barcelona, ES | AGPL-3.0 | Participatory processes, budgets, consultations | Municipal / community-driven | Yes (40+ languages) | Modular architecture enables diverse civic use cases; governance must scale beyond municipal origin |
 | **Consul** | Madrid, ES | AGPL-3.0 | Citizen proposals, debates, participatory budgets | City government-led | Yes (30+ languages) | Strong uptake (100+ cities) but limited cross-border federation; central governance can limit independence |
 | **Your Priorities** | Reykjavík, IS | BSD | Idea generation, prioritisation | Citizens Foundation (NGO) | Partial | AI-assisted idea clustering works at scale; needs stronger verification layer |
@@ -31530,7 +31532,7 @@ This translates into four immediate operational objectives:
 Combining openness with quality requires a layered role structure:
 
 | Role | Access Level | Requirements |
-| --- | --- | --- |
+| ---- | ---- | ---- |
 | **Reader** | Full read access to all public content | None |
 | **Registered Participant** | Polls, topic following, questions, reactions | Registration |
 | **Verified Author** | Publication under accountable profile | Identity verification |
@@ -31582,7 +31584,7 @@ Each published item visibly displays its format, review status, correction histo
 #### 9.1 Poll Types
 
 | Type | Purpose | Scope |
-| --- | --- | --- |
+| ---- | ---- | ---- |
 | Community Poll | Quick platform-internal mood indicator | All registered participants |
 | Structured Poll | Carefully framed issue-specific survey | Targeted participant groups |
 | Expert Snapshot | Qualified perspective from professional or civic group | Certified publishers |
@@ -31618,7 +31620,7 @@ For immediate relevance and public visibility, CIVITAS Public launches with seve
 #### 11.2 Governance Structure
 
 | Body | Responsibility |
-| --- | --- |
+| ---- | ---- |
 | **Foundation Carrier** | Legal form, funding integrity, institutional continuity, strategic independence |
 | **Editorial and Standards Board** | Publication rules, formats, review logic, quality standards |
 | **Civic Oversight Panel** | Fairness, intelligibility, legitimacy from citizen perspective |
@@ -31688,7 +31690,7 @@ As a platform processing personal data of European citizens, CIVITAS Public must
 **Data categories and purpose limitation:**
 
 | Data Category | Purpose | Legal Basis (GDPR) | Retention |
-| --- | --- | --- | --- |
+| ---- | ---- | ---- | ---- |
 | Display name, profile | Public attribution of publications | Art. 6(1)(b) — contract performance | Account lifetime + 1 year |
 | Identity verification data | Trust layer (eIDAS integration) | Art. 6(1)(b) + Art. 9(2)(g) — public interest | Verified status stored; source documents deleted after verification |
 | E-mail address | Account management, notifications | Art. 6(1)(b) | Account lifetime |
@@ -31753,7 +31755,7 @@ The author of this paper is the initiator of the ERDA Initiative, within which C
 ### 15. Risk Assessment and Mitigation
 
 | Risk | Likelihood | Impact | Mitigation |
-| --- | --- | --- | --- |
+| ---- | ---- | ---- | ---- |
 | Perception of elitism due to verified-only publishing | Medium | High | Clear access pathways, open citizen questions, reviewed guest contributions, transparent participation architecture |
 | Insufficient early momentum | High | High | Early deployment of high-utility formats (Europe in Brief, Trend Radar, Citizen Questions); partnerships with established media and civic organisations |
 | Governance overload | Medium | Medium | Minimal but principled governance core; scale structures incrementally |

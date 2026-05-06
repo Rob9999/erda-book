@@ -19,7 +19,9 @@ permissions:
 
 jobs:
   build_image:
-    if: ${{ !github.event.repository.private || (github.event_name == 'workflow_dispatch' && github.event.inputs.force_push_to_ghcr == 'true') }}
+    if: ${{ !github.event.repository.private || (github.event_name ==
+      'workflow_dispatch' && github.event.inputs.force_push_to_ghcr == 'true')
+      }}
     runs-on: ubuntu-latest
     outputs:
       digest: ${{ steps.build.outputs.digest }}
@@ -66,13 +68,14 @@ jobs:
             type=registry,ref=ghcr.io/${{ steps.repository_slug.outputs.value }}/publisher:buildcache,mode=max
 
   orchestrate:
-    needs: [build_image]
+    needs: [ build_image ]
     runs-on: ubuntu-latest
     permissions:
       contents: write
       packages: read
     env:
-      PROFILE: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.profile || 'default' }}
+      PROFILE: ${{ github.event_name == 'workflow_dispatch' &&
+        github.event.inputs.profile || 'default' }}
       BASE_SHA: ${{ github.event.before }}
       REPO_VISIBILITY: ${{ github.event.repository.private && 'private' || 'public' }}
     steps:
@@ -132,7 +135,10 @@ jobs:
 
       - name: Run workflow orchestrator per language
         env:
-          IMAGE_REF: ${{ needs.build_image.result == 'success' && format('ghcr.io/{0}/publisher@{1}', needs.build_image.outputs.repository, needs.build_image.outputs.digest) || 'erda-publisher:local' }}
+          IMAGE_REF: ${{ needs.build_image.result == 'success' &&
+            format('ghcr.io/{0}/publisher@{1}',
+            needs.build_image.outputs.repository,
+            needs.build_image.outputs.digest) || 'erda-publisher:local' }}
           LANGS: ${{ steps.langs.outputs.list }}
         run: |
           set -euo pipefail

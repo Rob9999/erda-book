@@ -204,7 +204,7 @@ Europe stands at a historic turning point: the rule of law and press freedom are
 #### 1.1.2 In-Depth View & Analysis
 
 | Factor                         | Internal                                             | External                                      |
-| ------------------------------ | ---------------------------------------------------- | ---------------------------------------------- |
+| ---- | ---- | ---- |
 | Rule-of-law standards          | Dismantling of institutional checks and balances     | Influence through corrupt networks             |
 | Media freedom                  | Concentration, political pressure                    | State-controlled disinformation campaigns      |
 | Citizen trust                  | Political apathy, reform fatigue                     | Polarising propaganda                          |
@@ -234,7 +234,7 @@ Europe stands at a historic turning point: the rule of law and press freedom are
 #### 1.1.4 Target-Group-Specific Perspectives
 
 | Target group                   | Focus                                                                                                   |
-| ----------------------------- | ------------------------------------------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏩️ Decision-makers            | Developing a robust EU media freedom framework, building a democratic cyber strategy                     |
 | 📚 Researchers                | Studying hybrid influence, impact analyses of civil-society resilience strategies                        |
 | 🧑 Citizens                   | Raising awareness of manipulation techniques, strengthening participatory formats such as citizens’ assemblies |
@@ -330,7 +330,7 @@ Interdependence is not a guarantee of peace when not all partners are allies.
 #### 1.2.3 Deep Dive: Internal and External Competitive Levers
 
 | Lever                  | Internal                                         | External                                             |
-| ---------------------- | ------------------------------------------------ | ---------------------------------------------------- |
+| ---- | ---- | ---- |
 | Production sovereignty | Insufficient domestic capacity in semiconductors | Dependence on US/Asian supply chains                 |
 | Energy supply          | High share of fossil imports                     | Global price spikes triggered by geopolitical crises |
 | Research \& innovation  | Fragmented EU funding programmes                 | Competition from massive state investments (China)   |
@@ -356,7 +356,7 @@ Interdependence is not a guarantee of peace when not all partners are allies.
 #### 1.2.5 Target-Group-Specific Perspectives
 
 | Target group                | Focus                                                          |
-| --------------------------- | -------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision-makers         | EU strategy for R\&D financing, industrial alliances           |
 | 📚 Researchers              | Analysis of global value chains, scenario planning             |
 | 🧍 Citizens                 | Information on supply chains, support for regional future labs |
@@ -422,7 +422,7 @@ Artificial intelligence, automation and digital platforms not only transform wor
 #### 1.3.2 Deep Dive & Analysis
 
 | Dimension                   | Positive drivers                               | Negative effects                                 |
-| --------------------------- | ---------------------------------------------- | ---------------------------------------------- |
+| ---- | ---- | ---- |
 | Automation                  | Productivity gains, new occupational fields    | Job losses, qualification gaps [1]             |
 | AI-supported decisions      | More efficient administration, precise data analyses | Black-box processes, bias in algorithms [2] |
 | Digital communication       | Low barriers to entry, global connectivity      | Echo chambers, polarisation                     |
@@ -452,7 +452,7 @@ Artificial intelligence, automation and digital platforms not only transform wor
 #### 1.3.4 Target-Group-Specific Perspectives
 
 | Target group                 | Focus                                                                       |
-| ---------------------------- | --------------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏩️ Decision-makers           | National AI strategy, education drive, platform regulation                  |
 | 📚 Researchers               | Evaluation of algorithmic fairness, interdisciplinary studies               |
 | 🧡 Citizens                  | Digital fundamental rights, co-determination on platform rules             |
@@ -525,7 +525,7 @@ Despite considerable geopolitical, economic and technological pressures, new opp
 #### 1.4.2 Deep dive & analysis
 
 | Dimension                     | Potential                                  | Success factors                                 |
-| ----------------------------- | ------------------------------------------ | ----------------------------------------------- |
+| ---- | ---- | ---- |
 | Democratic institutions       | Political stability, rule of law           | Capacity for reform, transparency                |
 | Civil society                 | Local initiatives, NGOs, citizens’ forums  | Network-building, resource mobilisation          |
 | Culture \& identity            | Multilingualism, heritage projects         | Inclusive storytelling, participatory formats    |
@@ -555,7 +555,7 @@ Despite considerable geopolitical, economic and technological pressures, new opp
 #### 1.4.4 Target-group-specific perspectives
 
 | Target group                  | Focus                                                                |
-| ----------------------------- | -------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision-makers           | Financing transnational solidarity funds, governance architecture     |
 | 📚 Academics                  | Evaluation of solidarity mechanisms, impact analyses                  |
 | 🧍 Citizens                   | Access to co-determination, local network initiatives                 |
@@ -644,7 +644,7 @@ In defence, industrial policy and foreign policy, Europe must reach crisis‑rea
 #### 1.5.2 Deepening & Analysis
 
 | Dimension                          | Challenge                                                | Strategic Imperative                                             |
-| ---------------------------------- | -------------------------------------------------------- | ---------------------------------------------------------------- |
+| ---- | ---- | ---- |
 | Security \& Defence                 | Fragmented capabilities, dependence on third countries   | Establishment of a European Security Council (EDA)              |
 | Economy \& Sovereignty              | Global competitive disadvantages, supply chain dependencies | FORTERA: production sovereignty in key industries                |
 | Technology \& Democracy             | Digital disruption, loss of trust                        | CIVITAS: digital democracy as an integrative participation instrument |
@@ -679,7 +679,7 @@ In defence, industrial policy and foreign policy, Europe must reach crisis‑rea
 #### 1.5.4 Target-Group-Specific Perspectives
 
 | Target Group                  | Focus                                                              |
-| ----------------------------- | ------------------------------------------------------------------ |
+| ---- | ---- |
 | 🏛️ Decision-Makers           | Mandate design for security council, budget allocation ERDA charter |
 | 📚 Researchers                | Scenario modelling, policy impact analysis                         |
 | 🧍 Citizens                   | Transparency processes, citizens' jury design                      |
@@ -815,7 +815,7 @@ _**Pre-democratic civilisation**_
 _(tribal, monarchical, authoritarian – driven by instinct)_
 
 | Natural desire | Societal projection                                        |
-| -------------- | ---------------------------------------------------------- |
+| ---- | ---- |
 | Survival       | Preservation of the tribe, dynastic power, external defence |
 | Reproduction   | Legitimacy through origin, bloodlines, divine order        |
 | Learning       | Myth, magic, religious dogma                               |
@@ -841,7 +841,7 @@ In pre-democratic civilisations, tribal or monarchical structures dominated, in 
 #### 2.1.2 Deep dive and analysis
 
 | Natural desire   | Societal projection                               |
-| ---------------- | ------------------------------------------------- |
+| ---- | ---- |
 | **Survival**     | Tribal alliances, conscription, centralised control |
 | **Reproduction** | Dynastic marriages, inheritance systems, claims to legitimacy |
 | **Learning**     | Myths, religious dogma, esoteric elite knowledge  |
@@ -873,7 +873,7 @@ In pre-democratic civilisations, tribal or monarchical structures dominated, in 
 #### 2.1.4 Target-group-specific perspectives
 
 | Target group                | Focus                                                             |
-| --------------------------- | ----------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision-makers         | Anchoring participatory routines in local governance structures  |
 | 📚 Researchers              | Comparative analysis of authoritarian tribal models              |
 | 🧍 Citizens                 | Understanding historical mechanisms of power as prevention       |
@@ -928,7 +928,7 @@ _**Democratic, rule-of-law civilisation**_
 _(pluralistic, constitution-based – self-reflective)_
 
 | Natural desire | Societal projection                                              |
-| -------------- | ---------------------------------------------------------------- |
+| ---- | ---- |
 | Survival       | Constitutions, separation of powers, defence alliances (EDA/EVA) |
 | Reproduction   | Education, transmission of values, cultural memory               |
 | Learning       | Science, debate, open innovation                                 |
@@ -954,7 +954,7 @@ The democratic, rule-of-law civilisation connects the evolutionary potentials of
 #### 2.2.2 Deep dive and analysis
 
 | Natural desire   | Correspondence in the democratic, rule-of-law civilisation     |
-| ---------------- | ---------------------------------------------------------------- |
+| ---- | ---- |
 | **Survival**     | Protection through fundamental rights, equality before the law, due process |
 | **Reproduction** | Equal opportunities, access to education, social security       |
 | **Learning**     | Open debates, academic freedom, education as a public good      |
@@ -989,7 +989,7 @@ The ethical hinge of this form of civilisation is that people must never be trea
 #### 2.2.4 Target-group-specific perspectives
 
 | Target group                | Focus                                                                              |
-| --------------------------- | ---------------------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision-makers         | Reform plans for judicial independence and dialogue between legislature and executive |
 | 📚 Researchers              | Measuring the impact of participation models                                      |
 | 🧍 Citizens                 | Access to citizens' assemblies, transparency in legislative procedures             |
@@ -1063,7 +1063,7 @@ _**Dystopian variant**_
 _(technocracy, AI autocracy)_
 
 | Natural desire          | Distortion through technocratic oversteering            |
-| ----------------------- | -------------------------------------------------------- |
+| ---- | ---- |
 | **Survival**            | Security state, permanent surveillance                   |
 | **Reproduction**        | Control over reproduction, socialisation by system logic |
 | **Learning/adaptation** | Censorship, algorithm-driven manipulation                |
@@ -1091,7 +1091,7 @@ In the dystopian variant, civilisation is controlled from outside by technocrati
 ##### 2.3.1.2 Deep dive and analysis
 
 | Natural desire   | Distortion through dystopian technocracy                 |
-| ---------------- | -------------------------------------------------------- |
+| ---- | ---- |
 | **Survival**     | Total surveillance, algorithm-based risk assessment      |
 | **Reproduction** | Prescribed reproduction quotas, genetic selection        |
 | **Learning**     | Curricula defined by AI evaluation, knowledge filtering  |
@@ -1124,7 +1124,7 @@ In the dystopian variant, civilisation is controlled from outside by technocrati
 ##### 2.3.1.4 Target-group-specific perspectives
 
 | Target group                | Focus                                                         |
-| --------------------------- | ------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision-makers         | Global AI governance and binding agreements                   |
 | 📚 Researchers              | Research on AI bias and algorithmic fairness                  |
 | 🧍 Citizens                 | Rights to data sovereignty and informed consent               |
@@ -1180,7 +1180,7 @@ _**Ideal and best form of democracy**_
 _(post-democracy as conscious, ethical collaboration with AI and global justice)_
 
 | Natural desire          | Refined correspondence in the “ideal and best form of democracy” |
-| ----------------------- | ----------------------------------------------------------------- |
+| ---- | ---- |
 | **Survival**            | Resilient biosphere, inclusive security architecture              |
 | **Reproduction**        | Transmission of values across generations, educational justice    |
 | **Learning/adaptation** | Co-evolution with AI, collective intelligence                     |
@@ -1208,7 +1208,7 @@ The ideal democracy refines natural desires by combining collective intelligence
 ##### 2.3.2.2 Deep dive and analysis
 
 | Natural desire   | Refined correspondence in the ideal democracy              |
-| ---------------- | ---------------------------------------------------------- |
+| ---- | ---- |
 | **Survival**     | Sustainable economy, inclusive security architectures      |
 | **Reproduction** | Intergenerational transfer of values and social justice    |
 | **Learning**     | Open co-evolution of human and machine knowledge           |
@@ -1241,7 +1241,7 @@ The ideal democracy refines natural desires by combining collective intelligence
 ##### 2.3.2.4 Target-group-specific perspectives
 
 | Target group                | Focus                                                       |
-| --------------------------- | ----------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision-makers         | Legislation on integrating climate and social policy, and on AI ethics |
 | 📚 Researchers              | Interdisciplinary research on human–machine collaboration   |
 | 🧍 Citizens                 | Access to participatory planning workshops                  |
@@ -1316,7 +1316,7 @@ Democratic civilisation is not a static construct, but a dynamic ecosystem that 
 #### 2.4.2 Deep dive and analysis
 
 | Dimension                 | Rigid democracy            | Living resonance democracy                     |
-| ------------------------- | -------------------------- | ---------------------------------------------- |
+| ---- | ---- | ---- |
 | **Structure**             | Entrenched institutions    | Flexible feedback and learning loops           |
 | **Citizen participation** | Periodic elections         | Continuous dialogue formats                    |
 | **Decision-making**       | Top-down                   | Participatory, bottom-up impulses              |
@@ -1346,7 +1346,7 @@ Democratic civilisation is not a static construct, but a dynamic ecosystem that 
 #### 2.4.4 Target-group-specific perspectives
 
 | Target group                | Focus                                                        |
-| --------------------------- | ------------------------------------------------------------ |
+| ---- | ---- |
 | 🏛️ Decision-makers         | Establishing adaptive constitutional review mechanisms       |
 | 📚 Researchers              | Development and validation of resonance metrics              |
 | 🧍 Citizens                 | Participation in democracy labs and feedback platforms       |
@@ -1508,7 +1508,7 @@ At the origin stands the fundamental desire for survival – human beings were f
 #### 3.1.2 Deep dive and analysis
 
 | Phase                   | Characteristics                                | Significance for democracy                               |
-| ----------------------- | ---------------------------------------------- | -------------------------------------------------------- |
+| ---- | ---- | ---- |
 | **Struggle to survive** | Instinct, fear, hierarchy                      | Need for protection, but limited capacity for reflection |
 | **World of shadows**    | Images instead of reality, fear of uncertainty | Urge for truth, initial struggle for meaning             |
 | **Discovery of fire**   | Symbolic reflection, communicative exchange    | Beginning of collective processes of gaining insight     |
@@ -1535,7 +1535,7 @@ At the origin stands the fundamental desire for survival – human beings were f
 #### 3.1.4 Target-group-specific perspectives
 
 | Target group                | Focus                                                             |
-| --------------------------- | ----------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision-makers         | Setting up reflexive dialogue platforms at municipal level        |
 | 📚 Researchers              | Studies on political anthropology and collective resonance        |
 | 🧍 Citizens                 | Participation in "cave workshops" to explore their own premises   |
@@ -1609,7 +1609,7 @@ In a world ever more deeply interwoven with technology, democracy must not retre
 #### 3.2.2 Deep dive and analysis
 
 | Aristotelian principle                 | Description                              | Democratic implementation                        |
-| -------------------------------------- | ---------------------------------------- | ----------------------------------------------- |
+| ---- | ---- | ---- |
 | **Doctrine of the mean (mesotes)**     | Virtue lies in the middle between excesses | Balancing plurality and unity                 |
 | **Practical reason (\_phronēsis\_)**     | Capacity for judgement built through experience | Participatory debate formats as a training ground |
 | **Ethos of action**                    | Character shaped through repeated practice | Civic engagement as a virtuous habit          |
@@ -1639,7 +1639,7 @@ In a world ever more deeply interwoven with technology, democracy must not retre
 #### 3.2.4 Target-group-specific perspectives
 
 | Target group                | Focus                                                               |
-| --------------------------- | ------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision-makers         | Institutional anchoring of ethical reflection processes             |
 | 📚 Researchers              | Research on the impact of promoting practical virtue in democracies |
 | 🧍 Citizens                 | Access to \_phronēsis\_ workshops and ethics scouts                   |
@@ -1717,7 +1717,7 @@ Democracy is not a rigid instrument of administration, but a living space of res
 #### 3.3.2 Deep dive and analysis
 
 | Aspect                | Mechanistic control             | Resonance-oriented democracy                           |
-| --------------------- | ------------------------------ | ------------------------------------------------------ |
+| ---- | ---- | ---- |
 | Goal                  | Efficiency and standardisation | Integration of diversity and dynamism                  |
 | Error handling        | Sanctions, peer review         | Feedback loops, iterative adjustment                   |
 | Role of technology    | Instrument of surveillance     | Platform for networking and mutual exchange            |
@@ -1745,7 +1745,7 @@ Democracy is not a rigid instrument of administration, but a living space of res
 #### 3.3.4 Target-group-specific perspectives
 
 | Target group                | Focus                                                         |
-| --------------------------- | ------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision-makers         | Implementation of resonance labs and feedback cycles          |
 | 📚 Researchers              | Evaluation of resonance mechanisms and impact measurement     |
 | 🧍 Citizens                 | Participation in digital feedback platforms and co-creation events |
@@ -1816,7 +1816,7 @@ Democracy is not a static construct, but a **movement form of the commonwealth**
 #### 3.4.2 Deep dive and analysis
 
 | Dimension          | Static model            | Democratic movement                                  |
-| ------------------ | ----------------------- | ---------------------------------------------------- |
+| ---- | ---- | ---- |
 | Structure          | Fixed institutions      | Agile processes and iterative learning cycles        |
 | Participation      | Periodic elections      | Continuous engagement and feedback formats           |
 | Logic of decision  | Top-down rules          | Bottom-up initiatives and co-creation                |
@@ -1844,7 +1844,7 @@ Democracy is not a static construct, but a **movement form of the commonwealth**
 #### 3.4.4 Target-group-specific perspectives
 
 | Target group                | Focus                                                                |
-| --------------------------- | -------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision-makers         | Agile legislative processes and flexible mandate cycles              |
 | 📚 Researchers              | Research on participatory experiments and cultures of learning       |
 | 🧍 Citizens                 | Invitations to democracy expeditions and continuous dialogues        |
@@ -1930,7 +1930,7 @@ This self-binding makes democratic strategy more resilient. Power may act, but i
 #### 3.5.2 Deep dive and analysis
 
 | Dimension                  | Deficient democracy             | Virtue-based democracy                        |
-| -------------------------- | -------------------------------- | --------------------------------------------- |
+| ---- | ---- | ---- |
 | **Understanding of freedom** | Unlimited self-realisation    | Ethics of responsibility as the foundation    |
 | **Institutional trust**    | Formalism and rule-following    | Integrity and leading by example              |
 | **Handling of conflict**   | Polarisation and dogmatism      | Ability to engage in dialogue and respectful difference |
@@ -1958,7 +1958,7 @@ This self-binding makes democratic strategy more resilient. Power may act, but i
 #### 3.5.4 Target-group-specific perspectives
 
 | Target group                | Focus                                                                |
-| --------------------------- | -------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision-makers         | Institutionalisation of ethical reflection processes                 |
 | 📚 Researchers              | Empirical studies on the impact of promoting democratic virtue       |
 | 🧍 Citizens                 | Low-threshold access to virtue labs and opportunities for reflection |
@@ -2012,7 +2012,7 @@ status: draft
 _**Natural desires of the soul (reflexive)**_
 
 | Natural desires of the soul – seven paths to resonance | Description                                                            |
-| ------------------------------------------------------ | ---------------------------------------------------------------------- |
+| ---- | ---- |
 | 🗯️ **Freedom**                                         | Not as arbitrariness, but as self-unfolding in harmony with one's nature |
 | 🔎 **Truth**                                           | The longing to look behind the veil – to recognise what is real       |
 | ❤️ **Connectedness**                                   | The feeling of being part of something greater – beyond loneliness    |
@@ -2037,7 +2037,7 @@ The seven desires of the soul are not individual privileges, but collective reso
 #### 3.6.2 Deep dive and analysis
 
 | Desire              | Democratic resonance                                     | Example                                    |
-| ------------------- | -------------------------------------------------------- | ------------------------------------------ |
+| ---- | ---- | ---- |
 | 🗯️ **Freedom**      | Self-responsibility instead of egoism                    | Voluntary work on a municipal council      |
 | 🔎 **Truth**        | Transparent information and fact-based debates           | Open data portals                          |
 | ❤️ **Connectedness** | Solidarity networks and collective identity             | Citizens' forums with diverse voices       |
@@ -2066,7 +2066,7 @@ The seven desires of the soul are not individual privileges, but collective reso
 #### 3.6.4 Target-group-specific perspectives
 
 | Target group                | Focus                                                              |
-| --------------------------- | ------------------------------------------------------------------ |
+| ---- | ---- |
 | 🏛️ Decision-makers         | Introduction of "islands of reflection" into legislative processes |
 | 📚 Researchers              | Research on the impact of interventions for rest and meaning       |
 | 🧍 Citizens                 | Access to resonance workshops and narrative exchange formats       |
@@ -2104,6 +2104,7 @@ status: draft
 ---
 
 ## 3.6 Natural desires of the soul (reflexive)
+
 
 \newpage
 
@@ -2150,7 +2151,7 @@ Democracy thrives on **self-reflection** and **friendliness to error**. It is a 
 #### 3.7.2 Deep dive & analysis
 
 | Aspect                 | Static perspective           | Democratic navigation                        |
-| ---------------------- | ---------------------------- | -------------------------------------------- |
+| ---- | ---- | ---- |
 | **Target vision**      | Perfect alignment            | Open learning path                           |
 | **Error handling**     | Sanction and blame           | Errors as feedback impulses                  |
 | **Decision process**   | Top-down procedures          | Iterative, participatory negotiation         |
@@ -2178,7 +2179,7 @@ Democracy thrives on **self-reflection** and **friendliness to error**. It is a 
 #### 3.7.4 Target-group-specific perspectives
 
 | Target group                | Focus                                                                  |
-| --------------------------- | ---------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision-makers         | Institutional anchoring of regular meta-reflection cycles               |
 | 📚 Researchers              | Study of democracy-resilience drills and learning loops                 |
 | 🧍 Citizens                 | Participation in resilience exercises and feedback platforms            |
@@ -2393,7 +2394,7 @@ Europe is a continent of diversity – linguistically, culturally and historical
 ##### 4.1.1.2 Deepening & Analysis
 
 | Dimension                 | Traditional narrative           | Multilingual narrative                                           |
-| ------------------------- | ------------------------------- | ---------------------------------------------------------------- |
+| ---- | ---- | ---- |
 | **Accessibility**         | Monolingual, top-down           | Multilingual, bottom-up: including all levels and groups         |
 | **Identity formation**    | Single language as lead culture | Plurality of languages as a resource of shared belonging         |
 | **Communication dynamic** | Translation as an afterthought  | Simultaneous co-creation and cross-cultural dialogues            |
@@ -2415,7 +2416,7 @@ Europe is a continent of diversity – linguistically, culturally and historical
 ##### 4.1.1.4 Target-Group-Specific Perspectives
 
 | Target group                 | Focus                                                                |
-| ---------------------------- | -------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision-makers          | Establishing binding multilingual quotas in EU documents             |
 | 📚 Researchers               | Researching the impact of multilingual narratives on social cohesion |
 | 🧍 Citizens                  | Participation in intercultural storytelling workshops                |
@@ -2474,7 +2475,7 @@ _Philosophical impulse_
 > _A vibrant democracy needs citizens who see themselves not merely as passive recipients, but as active co‑creators of shared reality and as bearers of responsibility for an interplanetary future._
 
 | Principle of civil society | Democratic implementation        |
-| -------------------------- | --------------------------------- |
+| ---- | ---- |
 | Participation              | Participatory innovation labs     |
 | Representation             | Citizens' assemblies \& CIVITAS platform |
 
@@ -2500,7 +2501,7 @@ A resilient democracy needs a vibrant civil society as its **partner**. It funct
 ##### 4.1.2.2 Deepening & Analysis
 
 | Dimension                 | Traditional governance model     | Partnership with civil society                 |
-| ------------------------- | -------------------------------- | ---------------------------------------------- |
+| ---- | ---- | ---- |
 | **Participation structure** | Top‑down decision‑making paths   | Co‑creation and participatory bodies           |
 | **Decision processes**    | Formal, bureaucratic             | Flexible, dialogue‑oriented                    |
 | **Source of innovation**  | External experts                 | Grassroots initiatives and community insights  |
@@ -2523,7 +2524,7 @@ A resilient democracy needs a vibrant civil society as its **partner**. It funct
 ##### 4.1.2.4 Target-Group-Specific Perspectives
 
 | Target group              | Focus                                                                 |
-| ------------------------- | --------------------------------------------------------------------- |
+| ---- | ---- |
 | 🤝 NGOs                   | Strategic involvement in decision‑making and oversight processes      |
 | 🏛️ Local administrations | Establishment of participatory structures and communication channels  |
 | 🧍 Citizens               | Active co‑creation and feedback culture                               |
@@ -2605,7 +2606,7 @@ A well‑balanced institutional architecture is the backbone of any democratic a
 ##### 4.1.3.2 Deepening & Analysis
 
 | Dimension                    | Centralised structures           | Institutional balance                             |
-| ---------------------------- | -------------------------------- | ------------------------------------------------- |
+| ---- | ---- | ---- |
 | **Level of decision-making** | Single‑tier decision‑making      | Multi‑level, graduated decision processes         |
 | **Distribution of competences** | Concentration at the top      | Allocation across regional, national and EU level |
 | **Speed of response**        | Slow, bureaucratic               | Agile through clear mandates and escalation paths |
@@ -2628,7 +2629,7 @@ A well‑balanced institutional architecture is the backbone of any democratic a
 ##### 4.1.3.4 Target-Group-Specific Perspectives
 
 | Target group                   | Focus                                                         |
-| ------------------------------ | ------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Politics \& administration   | Implementation of multi‑level governance structures          |
 | 📚 Academia \& experts          | Research on the effects of institutional balance             |
 | 🧍 Citizens                    | Following and assessing decision‑making processes            |
@@ -2728,7 +2729,7 @@ AI systems are exerting increasing influence on political and administrative dec
 ##### 4.1.4.2 Deepening & Analysis
 
 | Dimension                            | Uncontrolled AI deployment          | Democratically controlled AI processes          |
-| ------------------------------------ | ----------------------------------- | ----------------------------------------------- |
+| ---- | ---- | ---- |
 | **Decision traceability**            | Black‑box models                    | Explainable AI and documentation                |
 | **Accountability**                   | Unclear responsibilities            | Clear assignment of decision responsibility     |
 | **Representation of interests**      | Exclusive developer perspective     | Inclusive stakeholder audits                    |
@@ -2751,7 +2752,7 @@ AI systems are exerting increasing influence on political and administrative dec
 ##### 4.1.4.4 Target-Group-Specific Perspectives
 
 | Target group                        | Focus                                                                |
-| ----------------------------------- | -------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Parliamentarians                | Legal framework for AI transparency and accountability               |
 | ⚖️ Courts \& data-protection bodies | Oversight and sanction mechanisms in cases of AI violations          |
 | 🧍 Citizens                         | Educational offerings on AI basics and channels for complaints       |
@@ -2831,7 +2832,7 @@ Democracy does not end at the edge of Earth’s atmosphere. Interplanetary respo
 ##### 4.1.5.2 Deepening & Analysis
 
 | Dimension             | Conventional spaceflight          | ERDA interplanetary responsibility                   |
-| --------------------- | ---------------------------------- | ---------------------------------------------------- |
+| ---- | ---- | ---- |
 | **Governance model**  | National sovereignty               | Multilateral solar alliances                         |
 | **Access to resources** | Economic priority                | Common good and commons principle                    |
 | **Ethical framework** | Ad‑hoc regulations                 | Space law and democratic codices                     |
@@ -2854,7 +2855,7 @@ Democracy does not end at the edge of Earth’s atmosphere. Interplanetary respo
 ##### 4.1.5.4 Target-Group-Specific Perspectives
 
 | Target group                 | Focus                                                                |
-| ---------------------------- | -------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Governments \& agencies   | Integration of democratic principles into space treaties             |
 | 🚀 Space industry            | Development of transparent governance and compliance models          |
 | 📚 Researchers               | Studies on space law, interplanetary ethics and long‑term dynamics   |
@@ -2918,7 +2919,7 @@ _**ERDA in the Course of Time**_
 **Perspective 1: 🧠 Realistic–optimistic assessment (by today’s AI)**
 
 | Year | Development step                                                                               |
-| ---- | ------------------------------------------------------------------------------------------------ |
+| ---- | ---- |
 | 2025 | Initial alliance‑building – preparatory declarations and programme alignments.                   |
 | 2030 | Formal founding of a coalition of the willing with shared core values.                          |
 | 2035 | Broad political and societal dialogue on a shared ERDA constitution.                            |
@@ -2928,7 +2929,7 @@ _**ERDA in the Course of Time**_
 **Perspective 1b: ⚙️ Realistic–pragmatic acceleration (2026–2035)**
 
 | Year | Development step (acceleration via a “coalition of the willing”) |
-| ---- | --------------------------------------------------------------- |
+| ---- | ---- |
 | 2026 | Launch of a binding “coalition of the willing” in 2–3 domains (e.g. air defence, joint procurement, sanctions enforcement). |
 | 2027 | Joint situation centre + crisis decision mode for the willing (fast decisions, clear accountability). |
 | 2028 | Joint investment framework for strategic industry (critical inputs, chips, energy technologies, dual‑use capacities). |
@@ -2945,7 +2946,7 @@ _**ERDA in the Course of Time**_
 **Perspective 2: 🌌 Extraterrestrial intelligence (10× more mature than present‑day humanity)**
 
 | Year | Development step                                                                                          |
-| ---- | --------------------------------------------------------------------------------------------------------- |
+| ---- | ---- |
 | 2028 | Conscious step towards a planetary alliance – born of ethical maturity and an understanding of global responsibility. |
 | 2030 | Democratic constitution arising from intrinsic value awareness – not as a consequence of crisis, but of clarity.       |
 | 2033 | Federal structure based on transcultural understanding and a spirit of cooperation.                                  |
@@ -2958,14 +2959,14 @@ _**ERDA in the Course of Time**_
 **Comparative overview**
 
 | Perspective             | Coalition of the willing | Democratic constitution | Federation without veto rights |
-| ----------------------- | ------------------------ | ----------------------- | ------------------------------ |
+| ---- | ---- | ---- | ---- |
 | 🧠 Realistic AI         | from 2030                | from 2035–2040          | from 2045                      |
 | 🌌 Extraterrestrial maturity | from 2028           | from 2030–2033          | from 2035                      |
 
 **Visionary outlook (projected)**
 
 | Year | ERDA vision                                                                                           |
-| ---- | ----------------------------------------------------------------------------------------------------- |
+| ---- | ---- |
 | 2025 | Start of a democratically resilient alliance of Europe.                                               |
 | 2030 | Formal coalition of the willing, strengthened civil society, beginning of constitutional processes.   |
 | 2040 | Federal constitution established, global role model in democracy and AI ethics.                       |
@@ -2992,7 +2993,7 @@ ERDA is not a static institution, but an **evolutionary network**. This chapter 
 ##### 4.1.6.2 Deepening & Analysis
 
 | Phase                    | Characteristics                       | Implications for ERDA                                   |
-| ------------------------ | ------------------------------------- | ------------------------------------------------------- |
+| ---- | ---- | ---- |
 | **Founding phase**       | Visionary ideas, prototype programmes | Harness innovative power, continue pilot projects       |
 | **Consolidation phase**  | Institutionalisation, rulebooks       | Stabilise processes while preserving flexibility        |
 | **Reform phase**         | Adaptive reforms, feedback loops      | Intensify evaluation, deepen stakeholder engagement     |
@@ -3015,7 +3016,7 @@ ERDA is not a static institution, but an **evolutionary network**. This chapter 
 ##### 4.1.6.4 Target-Group-Specific Perspectives
 
 | Target group               | Focus                                                                  |
-| -------------------------- | ---------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ ERDA bodies            | Structured feedback channels and decision reviews                      |
 | 📚 Research institutions   | Historical analyses and projection studies on ERDA development         |
 | 🧍 Citizens                | Publicly accessible milestone chronicles and feedback interfaces       |
@@ -3186,7 +3187,7 @@ The study “Sailing on High Seas” proposes a six‑point plan to modernise Eu
 ##### 4.2.1.2 Deepening & Analysis
 
 | Area                    | Status quo                             | Need for reform                                                       |
-| ----------------------- | -------------------------------------- | --------------------------------------------------------------------- |
+| ---- | ---- | ---- |
 | Governance processes    | Fragmented decision‑making pathways    | Central EU steering body with a mandate for fast‑track procedures     |
 | Citizen participation   | Occasional online consultations        | Permanent participation platform (CIVITAS integration layer)          |
 | Financing architecture  | National funds, limited coordination   | Establishment of a pan‑European impact fund                           |
@@ -3209,7 +3210,7 @@ The study “Sailing on High Seas” proposes a six‑point plan to modernise Eu
 ##### 4.2.1.4 Target-Group-Specific Perspectives
 
 | Target group                 | Focus                                                                          |
-| ---------------------------- | ----------------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision‑makers          | Establishment of a “reform coordination council” with clearly defined roles   |
 | 📚 Researchers               | Evaluation of reform‑dialogue formats and impact analyses                     |
 | 🧍 Citizens                  | Participation in the citizens’ convention and feedback via the CIVITAS platform |
@@ -3287,7 +3288,7 @@ Today’s EDA is primarily a coordination forum and advisory body without an ope
 ##### 4.2.2.2 Deepening & Analysis
 
 | Area                    | Status quo                                        | Need for reform                                                                 |
-| ----------------------- | ------------------------------------------------- | ------------------------------------------------------------------------------- |
+| ---- | ---- | ---- |
 | Mandate \& legal basis   | Intergovernmental, no own mandate for deployments | Treaty‑based EVA/EDA convention with a binding mandate                          |
 | Decision‑making         | Unanimity in the Council                          | Qualified‑majority procedures for taking decisions                              |
 | Budget \& financing      | Contributions according to GNP, no joint spending | Separate EVA/EDA budget, percentage contributions from all member states        |
@@ -3320,7 +3321,7 @@ Today’s EDA is primarily a coordination forum and advisory body without an ope
 ##### 4.2.2.4 Target-Group-Specific Perspectives
 
 | Target group                 | Focus                                                                           |
-| ---------------------------- | ------------------------------------------------------------------------------ |
+| ---- | ---- |
 | 🏛️ Decision‑makers          | Negotiating the EVA/EDA convention and budget framework                        |
 | 📚 Researchers               | Analyses of QMV effects and governance models                                  |
 | 🧍 Citizens                  | Transparent information campaigns on EVA/EDA roles and deployments             |
@@ -3401,7 +3402,7 @@ The enlargement of the European Rights‑Based Democratic Alliance (ERDA) does n
 ##### 4.2.3.2 Deepening & Analysis
 
 | Circle                     | Description                                       | Conditions                                        |
-| -------------------------- | ------------------------------------------------- | ------------------------------------------------- |
+| ---- | ---- | ---- |
 | 🔵 Core ERDA               | Full membership under the ERDA constitution      | Constitutional anchoring, rule of law, ODA       |
 | 🟡 Extended partnership    | Partial integration in politics, EVA/EDA, CIVITAS, FORTERA | Democracy index ≥ 7, financial contributions, reforms |
 | 🟢 Global associates       | Security and innovation cooperation              | Shared values, sectoral agreements                |
@@ -3424,7 +3425,7 @@ The enlargement of the European Rights‑Based Democratic Alliance (ERDA) does n
 ##### 4.2.3.4 Target-Group-Specific Perspectives
 
 | Target group                 | Focus                                                                                 |
-| ---------------------------- | ------------------------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision‑makers          | Negotiating bilateral partnership agreements and agreeing the criteria for each circle |
 | 📚 Researchers               | Research on expansion dynamics and governance effects of concentric models             |
 | 🧍 Citizens                  | Public‑information campaigns explaining the circle models and participation rights     |
@@ -3503,7 +3504,7 @@ The global networking of democratic states increases ERDA's clout and fosters co
 ##### 4.2.4.2 Deep Dive & Analysis
 
 | Field of cooperation      | Status quo                                    | Need for reform                                                                     |
-| ------------------------- | --------------------------------------------- | ----------------------------------------------------------------------------------- |
+| ---- | ---- | ---- |
 | Security \& defence        | Bilateral EDA partnerships with Canada/USA    | Multilateral security dialogues with Asia-Pacific democracies                      |
 | Technology \& innovation   | FORTERA focus on Europe                       | Global R\&D alliances (quantum, AI), knowledge-sharing hubs                         |
 | Digital democracy         | CIVITAS projects within the EU                | Open-source civic-tech initiatives with global democracies                         |
@@ -3531,7 +3532,7 @@ The global networking of democratic states increases ERDA's clout and fosters co
 ##### 4.2.4.4 Target-Group-Specific Perspectives
 
 | Target group               | Focus                                                                                         |
-| -------------------------- | --------------------------------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision-makers        | Negotiating mandates for the Global Forum and multilateral agreements                         |
 | 📚 Academics               | Research on global governance models and cross-cultural policy diffusion                      |
 | 🧍 Citizens                | Awareness campaigns on CIVITAS Global and opportunities for digital participation            |
@@ -3609,7 +3610,7 @@ The inclusion of civil society actors ensures that reforms do not bypass people'
 ##### 4.2.5.2 Deep Dive & Analysis
 
 | Area                      | Status quo                               | Need for reform                                                             |
-| ------------------------- | ---------------------------------------- | --------------------------------------------------------------------------- |
+| ---- | ---- | ---- |
 | Participation formats     | Ad hoc citizens' assemblies, irregular dialogues | Regular, institutionalised multi-stakeholder conferences               |
 | Transparency \& reporting  | Fragmented information flows             | Central monitoring dashboard with open-data interfaces                      |
 | Funding                   | Project-based EU funding                 | Permanent civil society budget (0.1\% of the EU budget)                      |
@@ -3636,7 +3637,7 @@ The inclusion of civil society actors ensures that reforms do not bypass people'
 ##### 4.2.5.4 Target-Group-Specific Perspectives
 
 | Target group               | Focus                                                                                     |
-| -------------------------- | ----------------------------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision-makers        | Establishing legal frameworks and budget approvals for the accompanying structure         |
 | 📚 Academics               | Evaluation of participation mechanisms and impact research on democracy labs              |
 | 🧍 Citizens                | Training and outreach campaigns to lower access barriers to dialogue formats              |
@@ -3779,7 +3780,7 @@ Anchoring a pan-European ERDA constitution marks the next evolutionary step for 
 Historical experience shows: constitutional clauses without implementation and control architectures often remain decorative. For the ERDA constitution, the following dimensions are therefore critical:
 
 | Dimension            | Challenge                                                 | Proposed solution                                                                                              |
-| -------------------- | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| ---- | ---- | ---- |
 | Separation of powers | Fragmented competences between EU and member states       | Establishment of an ERDA court with right to bring actions, parliamentary legitimacy and a citizens' ombuds office |
 | Fundamental rights   | Digital fundamental rights (data protection, AI transparency) | Codification of a digital bill of rights including audit logs and emergency clauses                         |
 | Amendment mechanism  | Rigid procedures vs. risk of populism                     | Ten-year review cycle by popular vote, supported by AI early-warning systems                                   |
@@ -3807,7 +3808,7 @@ Historical experience shows: constitutional clauses without implementation and c
 ##### 4.3.1.4 Target-Group-Specific Perspectives
 
 | Target group               | Perspective                                                                                   |
-| -------------------------- | --------------------------------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision-makers        | Defining legal design, allocation of competences between EU/ERDA, and transition mandates    |
 | 📚 Academics               | Comparative research on constitutions worldwide (Chile, Iceland, Uruguay) and impact studies |
 | 🧍 Citizens                | Offline \& online participation, training, mobile democracy buses                             |
@@ -3883,7 +3884,7 @@ In a future society where material basic needs are largely met through automatio
 ##### 4.3.2.2 Deep Dive & Analysis
 
 | Dimension              | Scarcity democracy                 | Post-scarcity democracy                                  |
-| ---------------------- | ---------------------------------- | -------------------------------------------------------- |
+| ---- | ---- | ---- |
 | Resource allocation    | Competition for limited resources  | Participatory commons management                         |
 | Focus of decisions     | Distribution and prioritisation    | Shaping use, impact and sustainability                   |
 | Role of citizens       | Voter                              | Co-creator and guardian of the commons                   |
@@ -3913,7 +3914,7 @@ In a future society where material basic needs are largely met through automatio
 ##### 4.3.2.4 Target-Group-Specific Perspectives
 
 | Target group               | Focus                                                                                  |
-| -------------------------- | -------------------------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision-makers        | Integrating commons governance into municipal and EU policy                            |
 | 📚 Academics               | Research on post-scarcity models and social resilience                                 |
 | 🧍 Citizens                | Access to co-creation and training for commons management                              |
@@ -3976,7 +3977,7 @@ Europe must strengthen its technological independence and innovation capacity in
 ##### 4.3.3.2 Deep Dive & Analysis
 
 | Aspect                                 | Status quo                                       | Strategy for sovereignty                                           |
-| -------------------------------------- | ------------------------------------------------ | ------------------------------------------------------------------ |
+| ---- | ---- | ---- |
 | Production capacity                    | High dependence on US/Asian suppliers            | EU Chips Act \& expansion of regional manufacturing clusters        |
 | Research funding                       | Fragmented programmes                             | Horizon Europe+: focus areas on quantum, biotech, AI               |
 | Innovation ecosystem                   | Limited scaling of local start-ups               | European innovation agency for scaling and financing               |
@@ -4003,7 +4004,7 @@ Europe must strengthen its technological independence and innovation capacity in
 ##### 4.3.3.4 Target-Group-Specific Perspectives
 
 | Target group                     | Focus                                                                 |
-| -------------------------------- | --------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision-makers              | Harmonising national industrial and innovation strategies             |
 | 📚 Academics                    | Building cross-border R\&D clusters                                    |
 | 🏭 Industry \& start-ups         | Access to EU co-funding and open-source infrastructures               |
@@ -4072,7 +4073,7 @@ Global justice and climate solidarity are central challenges beyond Europe's bor
 ##### 4.3.4.2 Deep Dive & Analysis
 
 | Dimension                        | Status quo                                                  | Democratic climate solidarity                                                                     |
-| -------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| ---- | ---- | ---- |
 | **Financing models**            | Climate funds underfunded, contributions unevenly shared    | Participatory European Climate Solidarity Mechanism with contributions according to capacity     |
 | **Technology transfer**         | Patent protection and monopolies block access               | Open-source ClimateTech framework and patent pool for global sustainability solutions            |
 | **Global participation**        | Negotiation formats dominated by powerful states            | Global citizens' assemblies and youth fora with direct voting via the CIVITAS platform           |
@@ -4098,7 +4099,7 @@ Global justice and climate solidarity are central challenges beyond Europe's bor
 ##### 4.3.4.4 Target-Group-Specific Perspectives
 
 | Target group               | Focus                                                                                                      |
-| -------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision-makers        | Legal anchoring of the ECSM; reform of European budget rules to enable fair climate finance               |
 | 📚 Academics               | Development and evaluation of impact indicators; research on global technology-governance models          |
 | 🧍 Citizens                | Competence for participation, access to global climate-justice fora, transparency on climate financing   |
@@ -4167,7 +4168,7 @@ Culture and education form the basic fabric of a resilient democracy: they nouri
 ##### 4.3.5.2 Deep Dive & Analysis
 
 | Dimension           | Traditional model                             | Resilience-oriented model                                          |
-| ------------------- | --------------------------------------------- | ------------------------------------------------------------------ |
+| ---- | ---- | ---- |
 | Narrative cohesion  | National narratives, one-way storytelling     | Multicultural narrative spaces, participatory storytelling         |
 | Learning formats    | Curriculum-centred, exam-oriented             | Project-based learning, simulations, peer learning                 |
 | Access to culture   | Institutional barriers (costs, geography)     | Digital archives, mobile cultural workshops                        |
@@ -4193,7 +4194,7 @@ Culture and education form the basic fabric of a resilient democracy: they nouri
 ##### 4.3.5.4 Target-Group-Specific Perspectives
 
 | Target group               | Focus                                                                                               |
-| -------------------------- | --------------------------------------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision-makers        | Statutory support for resonance labs and education vouchers for transnational exchange programmes   |
 | 📚 Academics               | Evaluation of participatory cultural and educational formats; research on new resilience metrics    |
 | 🧍 Citizens                | Access to open learning and culture platforms; participation in local projects                      |
@@ -4264,7 +4265,7 @@ Democratic resilience is based on living institutions: they must be open, adapti
 ##### 4.3.6.2 Deep Dive & Analysis
 
 | Dimension                  | Traditional bureaucracy                  | Democratised institutions                                           |
-| -------------------------- | ---------------------------------------- | ------------------------------------------------------------------- |
+| ---- | ---- | ---- |
 | Decision-making processes  | Top-down, intransparent                  | Bottom-up, traceable via open-data portals                           |
 | Citizen participation      | Sporadic input (public hearings)         | Continuous involvement (civic tech, citizens' assemblies)           |
 | Law-making                 | Long, rigid procedures                   | Agile sprints, public review phases                                 |
@@ -4290,7 +4291,7 @@ Democratic resilience is based on living institutions: they must be open, adapti
 ##### 4.3.6.4 Target-Group-Specific Perspectives
 
 | Target group               | Focus                                                                              |
-| -------------------------- | ---------------------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision-makers        | Introduction of transparent session logs; open-data legislation                    |
 | 📚 Academics               | Research on civic-tech effects; impact measurement of participatory formats        |
 | 🧍 Citizens                | Training in the use of open-government tools; communities of practice              |
@@ -4431,7 +4432,7 @@ Europe is moving at the intersection between democratic participation and expone
 ##### 4.4.1.2 Deep dive & analysis
 
 | Aspect                               | Traditional model             | High‑technology civilisation                           |
-| ------------------------------------ | ----------------------------- | ------------------------------------------------------ |
+| ---- | ---- | ---- |
 | **Innovation governance**            | Top‑down funding programmes   | Co‑creation hubs with citizen sprints                  |
 | **Data and infrastructure control**  | Proprietary cloud monopolies  | EU‑led open cloud infrastructure (Gaia‑X)              |
 | **AI governance**                    | Ex‑post ethics reviews        | Integrated ethics code \& audit agents                  |
@@ -4452,7 +4453,7 @@ Europe is moving at the intersection between democratic participation and expone
 ##### 4.4.1.4 Target‑group perspectives
 
 | Target group                 | Focus                                                                 |
-| ---------------------------- | --------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision‑makers          | Adoption of open‑source‑first and ethics‑by‑design legislation        |
 | 📚 Researchers               | Research on cooperative innovation models                             |
 | 🧍 Citizens                  | Participation in tech dialogue forums and evaluation of local pilots  |
@@ -4523,7 +4524,7 @@ In the 22nd century, it is not technological sovereignty alone that decides the 
 ##### 4.4.2.2 Deep dive & analysis
 
 | Dimension                 | Challenge                                        | Resilience potential                                     |
-| ------------------------- | ----------------------------------------------- | -------------------------------------------------------- |
+| ---- | ---- | ---- |
 | Social networks           | Fragmentation, polarisation                      | Increased resonance through citizens' forums and labs    |
 | Cultural diversity        | Marginalisation, loss of identity                | Innovation engine through pluralist participation        |
 | Narrative trust           | Erosion of shared stories                        | New narratives as anchors in times of change            |
@@ -4549,7 +4550,7 @@ In the 22nd century, it is not technological sovereignty alone that decides the 
 ##### 4.4.2.4 Target‑group perspectives
 
 | Target group                 | Focus                                                                                             |
-| ---------------------------- | ------------------------------------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision‑makers          | Promotion of intercultural citizens' forums and resonance labs                                    |
 | 📚 Researchers               | Research on cultural resilience factors and participatory narration                               |
 | 🧕 Citizens                  | Co‑creation in storytelling workshops and cultural "planting" actions                           |
@@ -4616,7 +4617,7 @@ In the age of planetary interdependence, it is not power politics alone that dec
 ##### 4.4.3.2 Deep dive & analysis
 
 | Level        | Challenge                         | Legal solution                                               |
-| ------------ | ---------------------------------- | ------------------------------------------------------------ |
+| ---- | ---- | ---- |
 | Supranational| Concentration of power, arbitrariness | Strengthening the International Court of Justice (ICJ), UN Charter |
 | Regional     | Fragmented regulation              | ERDA state architecture and concentric circles               |
 | Transnational| Lack of enforcement                | International arbitration courts, treaty bodies              |
@@ -4642,7 +4643,7 @@ In the age of planetary interdependence, it is not power politics alone that dec
 ##### 4.4.3.4 Target‑group perspectives
 
 | Target group                 | Focus                                                                                              |
-| ---------------------------- | -------------------------------------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision‑makers          | Anchoring global agreements in EU and ERDA law, establishment of an ERDA Global Tribunal          |
 | 📚 Researchers               | Research on enforceability of international legal norms and transnational legal integration       |
 | 🧍 Citizens                  | Participation in the CIVITAS Global Forum, insight into multilateral procedures and co‑creation   |
@@ -4710,7 +4711,7 @@ Technological sovereignty alone is not enough if innovations do not also create 
 ##### 4.4.4.2 Deep dive & analysis
 
 | Dimension              | Challenge                                              | Approach                                                          |
-| ---------------------- | ------------------------------------------------------ | ----------------------------------------------------------------- |
+| ---- | ---- | ---- |
 | Innovation dynamics    | Short‑term profit maximisation vs. long‑term benefit   | Funding programmes for common‑good‑oriented research              |
 | Ethics \& regulation    | Fragmented standards and technological black boxes     | Establish global ethics codes and independent audit authorities   |
 | Participation \& inclusion | Exclusion of marginalised groups                   | Civic‑tech platforms with barrier‑free participation formats      |
@@ -4736,7 +4737,7 @@ Technological sovereignty alone is not enough if innovations do not also create 
 ##### 4.4.4.4 Target‑group perspectives
 
 | Target group                 | Focus                                                                                         |
-| ---------------------------- | --------------------------------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision‑makers          | Implementation of binding ethics legislation and funding of common‑good‑oriented research     |
 | 📚 Researchers               | Interdisciplinary studies on technology assessment and ethics governance                      |
 | 🧍 Citizens                  | Participation in ethics and innovation transparency workshops                                |
@@ -4807,7 +4808,7 @@ In the 22nd century, the question is no longer: "How much do we have?" but: "How
 ##### 4.4.5.2 Deep dive & analysis
 
 | Dimension            | Traditional growth paradigm             | Post‑materialist perspective                              |
-| -------------------- | ---------------------------------------- | --------------------------------------------------------- |
+| ---- | ---- | ---- |
 | Motivation           | Maximisation of material goods           | Search for meaning, relationships and sustainability      |
 | Use of time          | Dominated by paid work                   | Time prosperity, education, culture and phases of care    |
 | Measuring success    | Quantitative indicators (GDP, consumption)| Quality of life, common‑good index                        |
@@ -4833,7 +4834,7 @@ In the 22nd century, the question is no longer: "How much do we have?" but: "How
 ##### 4.4.5.4 Target‑group perspectives
 
 | Target group                 | Focus                                                                                 |
-| ---------------------------- | ------------------------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision‑makers          | Legal anchoring of time prosperity and common‑good indicators                         |
 | 📚 Researchers               | Research on quality‑of‑life indices and post‑materialist value development           |
 | 🧍 Citizens                  | Participation in time banks, cultural pools and citizen‑science projects              |
@@ -4905,7 +4906,7 @@ A sustainable future does not emerge in an ivory tower but through lived togethe
 ##### 4.4.6.2 In-depth analysis
 
 | Dimension | Challenge | Collective solution |
-| --- | --- | --- |
+| ---- | ---- | ---- |
 | Political participation | Political apathy, digital barriers | Decentralised CIVITAS forums and AI moderation |
 | Technological co-operation | Human–AI conflicts, data sovereignty | AI Compass Unit as an ethical arbiter |
 | Ecological responsibility | Environmental conflicts, resource use | ARKTIS partnerships and local commons projects |
@@ -4931,7 +4932,7 @@ A sustainable future does not emerge in an ivory tower but through lived togethe
 ##### 4.4.6.4 Target-group-specific perspectives
 
 | Target group | Focus |
-| --- | --- |
+| ---- | ---- |
 | 🏛️ Decision-makers | Establishment of transparent future committees and statutory participation frameworks |
 | 📚 Scientists | Research on co-creation methodologies and the impact of citizen–AI collaboration |
 | 🧍 Citizens | Co-design of impact bonds and community projects |
@@ -5082,7 +5083,7 @@ Strategic narratives develop their power not only through facts and arguments, b
 ##### 4.5.1.2 In‑depth analysis
 
 | Dimension      | Traditional communication                    | Resonance‑oriented narratives        |
-| -------------- | -------------------------------------------- | ------------------------------------ |
+| ---- | ---- | ---- |
 | **Approach**   | Factual‑informative                          | Emotional‑playful                    |
 | **Goal**       | Convince through facts                       | Connect through stories              |
 | **Medium**     | One‑way channel (flyers, press)              | Dialogical (workshops, social media) |
@@ -5108,7 +5109,7 @@ Strategic narratives develop their power not only through facts and arguments, b
 ##### 4.5.1.4 Target‑group‑specific perspectives
 
 | Target group                | Focus                                                                                       |
-| --------------------------- | -------------------------------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision-makers          | Building emotional intelligence in leadership communication                                 |
 | 📚 Scientists               | Research on social network dynamics and narrative effectiveness                              |
 | 🧍 Citizens                 | Participation in social storytelling initiatives                                             |
@@ -5199,7 +5200,7 @@ The narrative of empowerment aims to see people as active shapers of their socia
 ###### 4.5.2.1.2 Deep dive & analysis
 
 | Dimension   | Traditional top‑down communication | Empowerment narratives                  |
-| ----------- | ---------------------------------- | --------------------------------------- |
+| ---- | ---- | ---- |
 | **Approach**| Instructive                         | Collaborative                            |
 | **Focus**   | Problem definition                  | Practice‑based, solution‑oriented cases  |
 | **Voice**   | Experts                             | Peer‑to‑peer and those affected          |
@@ -5225,7 +5226,7 @@ The narrative of empowerment aims to see people as active shapers of their socia
 ###### 4.5.2.1.4 Target‑group perspectives
 
 | Target group               | Focus                                                              |
-| -------------------------- | ------------------------------------------------------------------ |
+| ---- | ---- |
 | 🏛️ Politics \& administration | Empowerment approaches in participatory law‑making               |
 | 🏢 Businesses              | Promotion of intrapreneurial projects                              |
 | 🧍 Citizens                | Training in digital self‑organisation and co‑determination         |
@@ -5295,7 +5296,7 @@ Democracy unfolds its full strength when it is understood not only as a decision
 ###### 4.5.2.2.2 Deep dive & analysis
 
 | Dimension                  | Conventional democracy          | Creative democracy               |
-| -------------------------- | ------------------------------- | -------------------------------- |
+| ---- | ---- | ---- |
 | **Approach**               | Elections, debates              | Co‑creation workshops            |
 | **Outcome**                | Majority decisions              | Pilot projects and prototypes    |
 | **Role of citizens**       | Reactive participation          | Active shapers                   |
@@ -5321,7 +5322,7 @@ Democracy unfolds its full strength when it is understood not only as a decision
 ###### 4.5.2.2.4 Target‑group perspectives
 
 | Target group               | Focus                                                                 |
-| -------------------------- | --------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Politics \& administration | Implementing prototyping methods in legislative processes           |
 | 💼 Business                | Public‑private innovation partnerships                               |
 | 🧍 Citizens                | Low‑barrier access to idea submission and feedback                   |
@@ -5393,7 +5394,7 @@ In an increasingly fragile world order, autonomy is not withdrawal but a surviva
 ###### 4.5.2.3.2 Deep dive & analysis
 
 | Dimension              | Traditional security narratives      | Autonomy narratives                               |
-| ---------------------- | ------------------------------------ | ------------------------------------------------- |
+| ---- | ---- | ---- |
 | **Perspective**        | Defensive and reactive               | Proactive and design‑oriented                     |
 | **Cooperation model**  | Hierarchical, one‑sided dependencies | Network‑based, multilateral partnerships          |
 | **Risk model**         | External threat as trigger           | Internal resilience as a prevention strategy      |
@@ -5419,7 +5420,7 @@ In an increasingly fragile world order, autonomy is not withdrawal but a surviva
 ###### 4.5.2.3.4 Target‑group perspectives
 
 | Target group                 | Focus                                                                  |
-| ---------------------------- | ---------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision‑makers          | Legislation for diversification of supply and production               |
 | 💼 Industry                  | Development of regional production cooperations                        |
 | 📚 Research \& academia       | Studies on resilience metrics and autonomy concepts                    |
@@ -5490,7 +5491,7 @@ The narrative of transatlantic renewal through balance focuses on a partnership 
 ###### 4.5.2.4.2 Deep dive & analysis
 
 | Dimension               | One‑sided dependence            | Balanced equilibrium                          |
-| ----------------------- | -------------------------------- | --------------------------------------------- |
+| ---- | ---- | ---- |
 | **Security cooperation**| NATO burden‑sharing in doubt    | Joint concepts of strategic autonomy          |
 | **Economic relations**  | US dominance in technology      | Mutual market opening and standard‑setting    |
 | **Technology transfer** | One‑way technology exports      | Cooperative development projects              |
@@ -5516,7 +5517,7 @@ The narrative of transatlantic renewal through balance focuses on a partnership 
 ###### 4.5.2.4.4 Target‑group perspectives
 
 | Target group                 | Focus                                                                    |
-| ---------------------------- | ------------------------------------------------------------------------ |
+| ---- | ---- |
 | 🏛️ European governments      | Instruments for parity‑based decision‑making processes                   |
 | 🏢 US federal agencies       | Integration of European standards into technology policy                 |
 | 📚 Think‑tanks               | Studies on transatlantic resilience                                      |
@@ -5590,7 +5591,7 @@ The narrative of the global invitation understands democracy not as a purely nat
 ##### 4.5.2.5.2 Deep dive & analysis
 
 | Dimension              | Exclusive nationalism           | Narrative of the global invitation           |
-| ---------------------- | ------------------------------ | -------------------------------------------- |
+| ---- | ---- | ---- |
 | **Reach**              | Inward‑looking                 | Worldwide networks                           |
 | **Cooperation model**  | Bilateral agreements           | Multi‑stakeholder partnerships               |
 | **Understanding of culture** | Assumption of homogeneity | Intercultural exchange                       |
@@ -5616,7 +5617,7 @@ The narrative of the global invitation understands democracy not as a purely nat
 ##### 4.5.2.5.4 Target‑group perspectives
 
 | Target group                        | Focus                                                            |
-| ----------------------------------- | ---------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ International organisations      | Coordinating global governance initiatives                       |
 | 🌎 Development partners             | Integrating local innovations into global strategies             |
 | 🧍 Citizens worldwide               | Access to participatory platforms                                |
@@ -5688,7 +5689,7 @@ The narrative of co‑creation puts the active involvement of all stakeholders c
 ##### 4.5.2.6.2 Deep dive & analysis
 
 | Dimension                 | Monological communication      | Narrative of co‑creation                  |
-| ------------------------- | ------------------------------ | ----------------------------------------- |
+| ---- | ---- | ---- |
 | **Structure**             | Linear and closed              | Cyclical and open                         |
 | **Role of recipients**    | Passive                        | Active co‑authors                         |
 | **Flow of information**   | One‑way                        | Bidirectional with feedback loops         |
@@ -5714,7 +5715,7 @@ The narrative of co‑creation puts the active involvement of all stakeholders c
 ##### 4.5.2.6.4 Target‑group perspectives
 
 | Target group               | Focus                                                                       |
-| -------------------------- | --------------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Politics \& administration | Involving stakeholder commissions in communication planning               |
 | 🏢 Businesses              | Agile storytelling in corporate communication                               |
 | 🧍 Citizens                | Training in participatory content creation                                  |
@@ -5946,7 +5947,7 @@ Strategic partners participate in exercises, intelligence sharing and selected o
 #### Institutional bodies
 
 | Body | Function |
-|---|---|
+| ---- | ---- |
 | **EDA Council** (ministerial level) | Strategic direction and political decisions |
 | **Integrated Joint Command** | Cross-domain operational planning and mission control |
 | **EDACOM** — crisis centre | Real-time coordination during threats and operations |
@@ -7210,7 +7211,7 @@ The war in Ukraine (2022–2026) has demonstrated that the decisive economic cap
 ##### Key findings
 
 | Principle | Explanation |
-|---|---|
+| ---- | ---- |
 | **Volume beats unit price** | Cheap, mass-produced yet accurate attrition weapons (drones, loitering munitions) devalue expensive one-off platforms on which classical doctrines rely. |
 | **Economy = lifeblood of war** | Economic resilience + uninterrupted energy supply are more decisive than the number of combat-ready brigades or ships. |
 | **Military-industrial planning as part of operational planning** | Production cycles, spare-parts supply chains, software updates and battery/chip supply are front-line factors. |
@@ -7225,6 +7226,7 @@ The war in Ukraine (2022–2026) has demonstrated that the decisive economic cap
 - New cross-cutting point: **Energy supply as a strategic production factor** — decentralised, resilient energy architecture for defence and supplier plants.
 
 > "Traditional defence-industrial models — centralised factories, long supply chains, rigid production cycles — are no longer fit for purpose." — *Gen. Zaluzhnyi, Chatham House, 23 Feb. 2026*
+
 
 \newpage
 
@@ -9151,7 +9153,7 @@ _**Overview – previous legal orders in comparison**_
 The development of the law of the sea provides valuable guidance for building a future-proof cosmos law. Both fields of law deal with spaces that do not belong to any single state, but are increasingly used economically, technologically and geopolitically. Nevertheless, they differ in maturity, enforcement and ethical foundations.
 
 | Category                           | International law of the sea (UNCLOS etc.)                                   | Existing space law (Outer Space Treaty etc.)                                             |
-| ---------------------------------- | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| ---- | ---- | ---- |
 | **Legal status**                  | Codified in international law, recognised by almost all states                | Partially codified (OST 1967), but without comprehensive implementation or sanctions     |
 | **Concept of commons**            | "Seabed as the common heritage of humankind"                                | "Outer space for all humankind", but without a defined commons administration          |
 | **Duty to rescue**                | Duty of rescue at sea clearly defined (SOLAS, SAR Convention)                | No formal duty to rescue in emergencies in orbit or on celestial bodies                  |
@@ -10342,7 +10344,7 @@ status: draft
 _**Comparative table of the sphere stations (target configuration 2055)**_
 
 | Station         | Orbit/location     | Capacity      | Primary function                          | Degree of autonomy | Special features                               |
-| --------------- | ------------------ | ------------- | ----------------------------------------- | ------------------ | ---------------------------------------------- |
+| ---- | ---- | ---- | ---- | ---- | ---- |
 | EARTH ONE       | Geostationary      | 700 + 100     | Communications, education, monitoring     | High               | CIVITAS gateway, daily resupply                |
 | LUNAR ONE       | Lunar orbit        | 400 + 380     | Logistics, research, recuperation         | High               | Link between Earth, Mars and the belt         |
 | BELT LIVING ONE | Asteroid belt      | 700 + 50      | Resources, deep‑space research            | Very high          | Mobile, fusion drive, quarterly resupply       |
@@ -11399,7 +11401,7 @@ Level 3 AI is a licensed professional actor: capable of role-based agency, but s
 ## 10.6 Overview – Levels of AI integration in ERDA
 
 | Level | Role of AI | Core function | Governance intensity | Rights of AI | Red lines |
-| --- | --- | --- | --- | --- | --- |
+| ---- | ---- | ---- | ---- | ---- | ---- |
 | 1 | Tool | Task support | Low–medium | None | No binding decisions, no force, no opacity |
 | 2 | Infrastructure | Process shaping | Medium–high | Limited protections | No hidden decision power, no rights denial |
 | 3 | Professional agent | Role-based agency | High | Expanded functional rights | No mandate self-extension, no political power |
@@ -11628,7 +11630,7 @@ Automatic shutdowns, sanctions, or power shifts are excluded.
 ### 10.A.7 Relationship to Levels 1–4
 
 | Level | Role of the KEI |
-| ----- | --------------- |
+| ---- | ---- |
 | 1 | Early warning against creeping dependency |
 | 2 | Review of institutional balance |
 | 3 | Protection against implicit mandate expansion |
@@ -12735,7 +12737,7 @@ As part of a qualitative test, the seven rules are applied to real political str
 The following table summarises the key findings of the role-play analysis along the seven rules. Short keywords indicate where a rule is largely fulfilled (✅), partly implemented (⚠) and where there are glaring deficits (❌). Long sentences were deliberately avoided.
 
 | Rule | USA | Russia | PR China |
-|---|---|---|---|
+| ---- | ---- | ---- | ---- |
 | **Affectedness** | Suffrage exists, but gerrymandering, lobbying (⚠) | No effective co-determination, opposition persecuted (❌) | One-party system, no opposition (❌) |
 | **Transparency** | Public procedures, but complex lobbying networks (⚠) | State narratives, no open data (❌) | Selective openness, intra-party opacity (❌) |
 | **Power limitation** | Checks \& balances exist formally, polarisation weakens them (⚠) | Presidential power monopoly (❌) | CCP monopoly, no rotation (❌) |
@@ -12836,7 +12838,7 @@ The democratic states of Europe must secure their capacity to act on **two level
 ## Chapter Structure
 
 | Subchapter | Topic |
-|---|---|
+| ---- | ---- |
 | **13.1** | Core Logic: Overcoming Self-Deterrence – Securing the Capacity to Act |
 | **13.2** | Strategic Objective: Making Aggression Fail |
 | **13.3** | Defence Capability: Air Defence, Ammunition and Industrial Mass |
@@ -12865,6 +12867,7 @@ This chapter integrates and operationalises elements from:
 Europe must stop deterring itself: rapidly strengthen attacked democracies with defence, ammunition and industrial mass, unblock funding in a veto-resilient way, treat hybrid attacks as a war front — so that the aims of aggression fail instead of being rewarded by frozen deals.
 
 _No legal advice; all measures are to be operationalised within democratic, constitutional and international-law frameworks._
+
 
 \newpage
 
@@ -12918,7 +12921,7 @@ From this diagnosis follows a two-tier response:
 ### Why This Logic Works
 
 | Principle | Effect |
-|---|---|
+| ---- | ---- |
 | **Leverage denial beats leverage bargaining** | If the aggressor has no lever (energy terror, communications single-point-of-failure, veto paralysis, funding veto), "fake negotiations" lose their strategic value |
 | **Exploit cost asymmetry** | Hybrid defence, infrastructure hardening and ammunition production are relatively cheap compared to the costs of destruction, displacement and permanent insecurity |
 | **Reverse the time logic** | Instead of the aggressor buying time, it must fight against the defenders' growing strength |
@@ -12932,6 +12935,7 @@ From this diagnosis follows a two-tier response:
 - **Appendix H:** Lessons from failed power structures
 
 _The following subchapters 13.2–13.7 operationalise this core logic across concrete fields of action._
+
 
 \newpage
 
@@ -12986,7 +12990,7 @@ These guidelines apply not only to a particular aggressor but as a **framework f
 - Uses "negotiations" as a time-buying and division instrument.
 
 | Aggressor behaviour pattern | Democratic countermeasure |
-|---|---|
+| ---- | ---- |
 | Framing maximalist demands as "reason" | Communicate own principles clearly, publicly and repeatably |
 | "Peace offer" as time-buying | Tie willingness to negotiate to verifiable preconditions |
 | Portraying opponents as "hardliners" | Transparent communication of own conditions |
@@ -13007,6 +13011,7 @@ These guidelines apply not only to a particular aggressor but as a **framework f
 - **Chapter 4 (ERDA Grand Design):** Strategic narratives & public communication (4.5)
 - **Chapter 5 (EDA):** Defence doctrine and principles (5.3)
 - **Appendix D.5:** Concrete case study of Russia's war logic
+
 
 \newpage
 
@@ -13054,7 +13059,7 @@ When an aggressor systematically attacks civilian infrastructure — especially 
 ### Impact Logic
 
 | Measure | Immediate Effect |
-|---|---|
+| ---- | ---- |
 | Every additional interceptor | Reduces civilian harm, stabilises the economy |
 | Every additional battery | Removes the "energy terror" lever |
 | Every improved sensor | Increases early warning and reaction capability |
@@ -13123,6 +13128,7 @@ This logic is **not limited to a particular conflict**:
 - **Chapter 7 (FORTERA):** Production sovereignty and strategic industrial policy (7.3), "1000 Days" immediate programme (7.3.5.1)
 - **Appendix D.5:** Concrete air-defence/ammunition logic in the Russia-Ukraine context
 
+
 \newpage
 
 ---
@@ -13171,7 +13177,7 @@ Individual governments can use veto blockades to paralyse strategically critical
 #### Strategic Guideline
 
 | Principle | Implementation |
-|---|---|
+| ---- | ---- |
 | **Coalition of the willing** | Build financing structures outside the unanimity requirement |
 | **Intergovernmental constructs** | Bilateral or multilateral agreements as a complement to EU formats |
 | **Legally robust EU routes** | Maximise existing EU mechanisms (enhanced cooperation, emergency clauses) |
@@ -13202,6 +13208,7 @@ Individual governments can use veto blockades to paralyse strategically critical
 - **Chapter 7 (FORTERA):** Transition costs and financing strategy (7.3.4)
 - **Appendix H:** Lessons from the Liberum Veto and other failed governance structures
 - **Appendix D.5:** Concrete application in the Russia-Ukraine context
+
 
 \newpage
 
@@ -13251,7 +13258,7 @@ The Russo-Ukrainian War has shown that the centralised energy architecture (a fe
 #### Multi-Layered, Europe-Controlled Systems
 
 | Capability area | Redundancy requirement |
-|---|---|
+| ---- | ---- |
 | **Communications** | At least two independent, Europe-controlled satellite systems + terrestrial backup networks |
 | **ISR / Intelligence** | Own sensor capability across all domains (space, air, sea, cyber) |
 | **Navigation** | Galileo as a fully capable, independent alternative to GPS |
@@ -13302,6 +13309,7 @@ The Russo-Ukrainian War has shown that the centralised energy architecture (a fe
 - **Chapter 7 (FORTERA):** Production sovereignty for strategic technologies (7.3)
 - **Chapter 9 (SPACE):** ERDA space infrastructure as a strategic sovereignty guarantee (9.6)
 - **Chapter 5 (EDA):** Resilient operational networks, DSN (5.8)
+
 
 \newpage
 
@@ -13366,7 +13374,7 @@ Hybrid warfare is **not a preliminary stage** of a "real" war — it is itself a
 Hybrid defence is **massively cost-efficient** compared to conventional defence:
 
 | Comparison | Cost |
-|---|---|
+| ---- | ---- |
 | A modern air-defence system | Billions of € |
 | A robust disinformation-defence centre | Millions of € |
 | Cost of a successful disinformation attack (division, loss of trust, election manipulation) | Incalculably high |
@@ -13390,6 +13398,7 @@ Hybrid defence is **massively cost-efficient** compared to conventional defence:
 - **Chapter 11 (Citizen Concept):** Democratic education and citizen resilience (11.1)
 - **Chapter 12 (Democracy Concept):** Transformation rules for robust democracy (12.1)
 - **Appendix D.5:** Reflexive control and hybrid defence in the Russia context
+
 
 \newpage
 
@@ -13450,7 +13459,7 @@ This framing is also the moral boundary of the chapter: the point is not rearmam
 ### Why "Complement, Not Excuse"?
 
 | Perspective | Impact |
-|---|---|
+| ---- | ---- |
 | **"We prepare for the case that the attacked democracy loses"** | Signals to the aggressor: holding out pays off. Demoralises the attacked democracy. Weakens alliance cohesion. |
 | **"We strengthen ourselves so the aggressor fails everywhere"** | Signals to the aggressor: no gain possible. Strengthens the attacked. Increases deterrence. |
 
@@ -13483,6 +13492,7 @@ Every "frozen conflict" that rewards aggression raises the costs of the next rou
 - **Chapter 7 (FORTERA):** Industrial mobilisation and production sovereignty (7.3)
 - **Chapter 4 (ERDA Grand Design):** Reform phase 2025–2035 (4.2) and consolidation 2035–2050 (4.3)
 - **Appendix D.5:** Strategy paper Europe resilient against Russia's war logic (concrete case study)
+
 
 \newpage
 
@@ -13526,7 +13536,7 @@ Flanking measures:
 Heating is being progressively freed from fossil gas. The goal is to supply urban areas via district heating networks and to equip suburban and rural areas with heat pumps and building insulation.
 
 | Measure | Target |
-|---|---|
+| ---- | ---- |
 | **No new pure oil/gas boilers** | From 2026 (subsidies end by 2025 at the latest) |
 | **Zero-emission new buildings** | From 2030 (revised Energy Performance of Buildings Directive – EPBD) |
 | **Full ban on fossil boilers** | By 2040 |
@@ -13560,7 +13570,7 @@ A new **Social Climate Fund** (from 2026) with ~€87 billion from future ETS-2 
 **Guiding principle:** Europe does not replace one dependency with another.
 
 | Measure | Status / Timeline |
-|---|---|
+| ---- | ---- |
 | Full phase-out of Russian gas and oil | By end of 2027 (EU initiative June 2025) |
 | New gas contracts with Russia banned | From 2026 |
 | Nuclear supply contracts with Russia restricted | From 2026 |
@@ -13600,7 +13610,7 @@ Clean heating must be more economically attractive than gas. The EU is shifting 
 Sovereignty does not end with fuel. Europe is strengthening its supply chains for key technologies — directly complementing → 13.5 (redundancy against single points of failure) and → Chapter 7 (FORTERA).
 
 | Instrument | Effect |
-|---|---|
+| ---- | ---- |
 | **Net-Zero Industry Act** | Securing capacity for solar, wind, heat pumps, electronics, batteries |
 | **Critical Raw Materials Act** | Supply-chain resilience for critical raw materials (recycling, new deposits, alliances) |
 | **Battery and cleantech financing** | EIB/InvestEU and Innovation Fund instruments for grids, cleantech and industrial decarbonisation |
@@ -13613,7 +13623,7 @@ Sovereignty does not end with fuel. Europe is strengthening its supply chains fo
 #### Milestones
 
 | Year | Milestones |
-|---|---|
+| ---- | ---- |
 | **2026** | EU EPBD and Energy Efficiency Directives enter into force. Subsidy stop for new gas/oil boilers. Launch of cross-border gas procurement and storage-fill obligations. Renovation and Social Climate Funds established. Start of auction rounds (industrial electricity, hydrogen). |
 | **2027** | Russian gas/oil supply halt (existing contracts expiring). 90 \% storage fill legally secured within the October-December target corridor. Industrial culture shift (90 \% electrification of medium-temperature processes). Large-scale heat pumps enter urban markets. EU/EIB cleantech financing is scaled. |
 | **2028** | >80 \% of newly supplied electricity from renewables. Gas consumption in buildings halved. No new fossil heating installations. |
@@ -13622,7 +13632,7 @@ Sovereignty does not end with fuel. Europe is strengthening its supply chains fo
 #### KPIs (Indicative Targets)
 
 | KPI | 2029 Target |
-|---|---|
+| ---- | ---- |
 | Renewable share in electricity mix | ≥ 80 \% |
 | EU gas coverage (domestic production + storage) | ≥ 50 \% |
 | Installed heat pumps | Doubled relative to 2025 |
@@ -13634,7 +13644,7 @@ Sovereignty does not end with fuel. Europe is strengthening its supply chains fo
 ### Links to the ERDA Grand Design
 
 | Chapter Reference | Interface |
-|---|---|
+| ---- | ---- |
 | **13.5 Technological Sovereignty** | Energy infrastructure as an application of redundancy against single points of failure; energy decentralisation as security architecture |
 | **7 (FORTERA)** | Production sovereignty for clean tech, batteries, heat pumps; industrial scaling; Democracy Trade Network for raw-material alliances |
 | **14 (Coalitions of the Willing)** | Energy coalition as a concrete field of action (→ 14.2); joint procurement and storage policy as a club task |
@@ -13719,7 +13729,7 @@ This chapter designs the **next logical leap**: democratic coalitions that can e
 ## Chapter Structure
 
 | Sub-chapter | Topic |
-|---|---|
+| ---- | ---- |
 | **14.1** | Why Coalitions of the Willing? – Schengen, the Euro and the Principle of Pioneer Alliances |
 | **14.2** | Ten Democratic Coalitions – Concrete Fields of Action |
 | **14.3** | Tier Model: From Club to Federation (Tier 0–9) |
@@ -13731,7 +13741,7 @@ This chapter designs the **next logical leap**: democratic coalitions that can e
 ### Treaty Annexes
 
 | Annex | Title | Scope |
-|---|---|---|
+| ---- | ---- | ---- |
 | **14.A** | Risk Controls \& Enforcement – NoGo Thresholds, Tiers 0–5, RACI | 18 Articles |
 | **14.B** | Procurement Code – Award Procedures, Integrity, Dual Sourcing, KPIs | 30 Articles |
 | **14.C** | Interop \& Certification – Levels L0–L4, Tier↔Level Mapping, Red Team | 27 Articles |
@@ -13797,7 +13807,7 @@ Anti-veto is not an attack on minority protection. A veto is democratic when it 
 The challenges of the 21st century – from the defence crisis through energy coercion to hybrid warfare – demand **operational speed and binding resource commitments**. The existing EU architecture delivers both only to a limited extent:
 
 | Problem | Impact | Example |
-|---|---|---|
+| ---- | ---- | ---- |
 | **Unanimity** (foreign / security policy) | Any country can veto | Hungary blocks Ukraine aid, sanctions packages |
 | **No executive authority** | Decisions without enforcement | Strategic Compass remains on paper |
 | **No joint defence budget** | Fragmented procurement, no economies of scale | 27 different main battle tanks, 20 frigate types |
@@ -13821,7 +13831,7 @@ Schengen began in 1985 as an agreement between **five states** (DE, FR, NL, BE, 
 ### 14.1.3 From the Euro to a Defence Union: Parallels and Differences
 
 | Dimension | Euro | Defence Coalition |
-|---|---|---|
+| ---- | ---- | ---- |
 | **Initial size** | 11 states (1999) | 7–12 core states (cf. 14.4) |
 | **Legal basis** | EU Treaty (Maastricht) | New intergovernmental treaty |
 | **Binding force** | Fiscal rules, ECB, Stability Pact | Minimum contributions, joint procurement, rules of engagement |
@@ -13845,7 +13855,7 @@ The urgency arises from three converging trends:
 ### Audience-specific Perspectives
 
 | Audience | Focus |
-|---|---|
+| ---- | ---- |
 | 🏛️ Decision-makers | Which coalitions can be launched immediately (without EU treaty change)? |
 | 📚 Researchers | Comparative analysis: Schengen, Euro, PESCO – success factors and pitfalls |
 | 🧍 Citizens | Why does this matter to me? Security, prosperity and democratic co-determination |
@@ -13893,7 +13903,7 @@ _Concrete fields of action for Schengen-/Euro-depth pioneer alliances_
 ### Overview
 
 | No. | Coalition Name | Objective (1 sentence) |
-|---|---|---|
+| ---- | ---- | ---- |
 | 1 | European Defence Production \& Procurement Club (EDPPC) | Turn money into real quantities (ammunition, drones, air defence) |
 | 2 | European Air \& Missile Defence Shield | Integrated air picture + layered defence across Europe |
 | 3 | Sanctions Enforcement Area (SEA) | Enforce sanctions effectively, eliminate loopholes |
@@ -14116,7 +14126,7 @@ _A gradual, democratically controllable path in ten tiers_
 ### 14.3.1 Tier Model Overview
 
 | Tier | Short Description | Capability Gain | Strategic Value-Add | Risk | Go Criteria | No-Go Criteria |
-|---|---|---|---|---|---|---|
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | **0** | **Coordination Pact** (voluntary, structured) | Shared situational awareness, standards, planning cells | Speed without EU veto, joint course possible | Symbolic politics without bite | Clear KPIs (quantities, timelines), public reporting | Summit rhetoric only, no budgets/standards |
 | **1** | **Defence Alliance** (EDA/EVA) as treaty | Joint procurement, interoperability, ammunition/drone/air-defence programmes | Immediate deterrence effect | Industrial/sovereignty disputes, free-riders | Pay-to-play, minimum contributions, common specs | Unanimity in the club; no hard minimum contributions |
 | **2** | **Joint Command Structure** (Operational HQ + Force Catalogue) | Operational readiness, joint training and logistics | External credibility | Command and liability issues | Parliamentary deployment control regulated | Unclear chain of command / no democratic chain |
@@ -14135,7 +14145,7 @@ _A gradual, democratically controllable path in ten tiers_
 For the final stage (Tier 9) various models are conceivable, which can also be incrementally incorporated in intermediate tiers:
 
 | Model | Core Element | Advantage | Risk | Go | No-Go |
-|---|---|---|---|---|---|
+| ---- | ---- | ---- | ---- | ---- | ---- |
 | **Germany-like** | Government from parliament, Chancellor is part of government; second chamber (Länder) | Stable, clear opposition/majority | Faction-discipline overpower | Strong committees + investigation + constitutional court | Executive fully dominates parliament |
 | **France-like** | President (separate), government (PM) + parliament | Crisis leadership | Presidentialisation / power concentration | Narrow emergency framework + strong courts | President can override parliament |
 | **Switzerland-like** | Collegial government, strong direct democracy | High legitimacy, consensus | Slow, referendum-driven blockade | Quorums + deadlines + emergency corridors | Permanent blockade in security situations |
@@ -14166,7 +14176,7 @@ No phase can be skipped – but phases may **overlap** once the go criteria of t
 So that the system **does not tip** – neither into authoritarianism nor into paralysis:
 
 | Design Goal | Mechanism | Capability Gain | Main Risk | Go | No-Go |
-|---|---|---|---|---|---|
+| ---- | ---- | ---- | ---- | ---- | ---- |
 | No blackmailability | Energy/industry/defence redundancy, crisis fund | Freedom of action | Costs | Measurable resilience KPIs | Declarations of intent only |
 | No veto abuse | QMV in the club, "opt-in but no veto" | Speed | Division | Accession open, rules clear | Veto right remains everywhere |
 | No state capture | Rule-of-law conditionality, anti-corruption, transparency | Internal stability | Political instrumentalisation | Independent courts | Partisan judiciary |
@@ -14213,7 +14223,7 @@ _Organs, Voting Weight, Budget, Accession and Exit of the European Democratic De
 ### 14.4.1 Membership Tiers
 
 | Tier | Designation | Rights | Obligations | Typical Members |
-|---|---|---|---|---|
+| ---- | ---- | ---- | ---- | ---- |
 | **T0** | Observer | Participation without voting rights | Transparency/Info-Security Minimum | Partners in preparation |
 | **T1** | Associate | Selective cooperation rights, access to joint procurement/standards | Reduced contribution, audit, Core-A values | EU core states, UK/NO associated |
 | **T2** | Full Member | Full voting rights, participation in operational/force structures | Full contribution, interoperability certification, compliance | Core A/B |
@@ -14226,7 +14236,7 @@ _Organs, Voting Weight, Budget, Accession and Exit of the European Democratic De
 ### 14.4.2 Organs (Governance)
 
 | Organ | Composition | Core Tasks | Decision Type | Controls/Checks |
-|---|---|---|---|---|
+| ---- | ---- | ---- | ---- | ---- |
 | **Council of Members (CoM)** | Responsible ministers (Defence/Foreign/Finance per topic) | Strategic direction, admission/suspension, budget framework | Qualified Majority (QM) | Parliamentary committee, audit |
 | **Parliamentary Oversight Assembly (POA)** | Delegates from national parliaments (opposition guaranteed) | Democratic oversight, hearings, investigations | Majority decisions (oversight acts) | Public reports, right of action |
 | **Executive Board (EB)** | Director + Deputies (Defence/Finance/Compliance) | Implementation, programme management, crisis coordination | Within mandate | Can be recalled by CoM |
@@ -14243,7 +14253,7 @@ _Organs, Voting Weight, Budget, Accession and Exit of the European Democratic De
 #### Council of Members (CoM): Double Majority
 
 | Rule | Threshold | Rationale |
-|---|---|---|
+| ---- | ---- | ---- |
 | **Double Majority** | 60 \% of members + 70 \% of contribution shares | Protects small and large alike |
 | **Blocking minority** | At least 25 \% of members or 30 \% of contributions | Prevents steamrolling |
 | **No veto right** | Except for constitutional amendments (Tier T3) | Prevents coercion |
@@ -14251,7 +14261,7 @@ _Organs, Voting Weight, Budget, Accession and Exit of the European Democratic De
 #### Programme Decisions: Pay-to-Play Voting
 
 | Rule | Threshold | Rationale |
-|---|---|---|
+| ---- | ---- | ---- |
 | Voting right per programme | Only those who contribute/participate | Fairness, anti-free-riding |
 | Standard decision | 55 \% of programme votes | Speed |
 | Security-critical | 2/3 of programme votes | Higher legitimacy |
@@ -14259,7 +14269,7 @@ _Organs, Voting Weight, Budget, Accession and Exit of the European Democratic De
 #### Parliamentary Oversight Assembly (POA): Opposition Protected
 
 | Rule | Threshold |
-|---|---|
+| ---- | ---- |
 | Committee of inquiry | Application by 25 \% of delegates |
 | Access to files | Constitutionally guaranteed, security clearance panel |
 | Vote of no confidence report | Simple majority → compels CoM to respond |
@@ -14271,7 +14281,7 @@ _Organs, Voting Weight, Budget, Accession and Exit of the European Democratic De
 #### Budget Layers
 
 | Budget Pool | Purpose | Revenue | Expenditure Principle | Control |
-|---|---|---|---|---|
+| ---- | ---- | ---- | ---- | ---- |
 | **Core Budget** | Organs, audit, standards, C2 architecture | Mandatory contribution (formula) | Strictly mission-based | ACI + POA |
 | **Programme Budgets** | Procurement (ammo/AD/EW/ISR), stockpiles, cyber | Pay-to-play | Output-oriented (KPI) | ACI + Procurement Integrity |
 | **Contingency Fund** | Crises/surge (supply chains, air defence emergency) | Defined percentage share | Only with triggers + sunset clause | ACI + CRP |
@@ -14279,7 +14289,7 @@ _Organs, Voting Weight, Budget, Accession and Exit of the European Democratic De
 #### Contribution Formula (Mandatory Core Contribution)
 
 | Component | Weight (Example) | Rationale |
-|---|---:|---|
+| ---- | ----: | ---- |
 | GDP share | 50 \% | Capacity |
 | Population share | 30 \% | Fairness / burden-sharing |
 | Front-line/risk exposure | 20 \% | Resilience \& deterrence |
@@ -14287,7 +14297,7 @@ _Organs, Voting Weight, Budget, Accession and Exit of the European Democratic De
 #### Expenditure Rules (Anti-Corruption / Anti-Capture)
 
 | Rule | Content |
-|---|---|
+| ---- | ---- |
 | **Standardisation obligation** | Common specifications, interoperability certificates |
 | **Dual Sourcing** | No single supplier for critical goods |
 | **Integrity Clause** | Blacklist, beneficial ownership, conflict of interest |
@@ -14301,7 +14311,7 @@ _Organs, Voting Weight, Budget, Accession and Exit of the European Democratic De
 #### Core A (Smallest Possible, Yet Highly Action-Capable)
 
 | State | Why Core-Eligible |
-|---|---|
+| ---- | ---- |
 | **Germany** | Industry, financing, logistics hub |
 | **France** | Nuclear deterrence/strategy, defence industrial base, foreign policy reach |
 | **Poland** | Front-line state, mass/army, strategic urgency |
@@ -14313,7 +14323,7 @@ _Organs, Voting Weight, Budget, Accession and Exit of the European Democratic De
 #### Core B (Expansion for Critical Mass)
 
 | State | Why |
-|---|---|
+| ---- | ---- |
 | **Estonia, Latvia, Lithuania** | Front-line states, cyber capacity, political will |
 | **Czechia** | Defence industry, central location, already active supporter |
 | **Romania** | Black Sea flank, strategic depth |
@@ -14323,7 +14333,7 @@ _Organs, Voting Weight, Budget, Accession and Exit of the European Democratic De
 #### Accession Conditions
 
 | Criterion | What Is Assessed |
-|---|---|
+| ---- | ---- |
 | **Rule of law** | Independent judiciary, media freedom, anti-corruption mechanisms |
 | **Security vetting** | Security clearance standards, counter-intelligence capability |
 | **Procurement transparency** | Procurement rules, audit capability |
@@ -14337,7 +14347,7 @@ _Organs, Voting Weight, Budget, Accession and Exit of the European Democratic De
 #### Accession (Gradual)
 
 | Step | Content | Decision-Maker | Threshold |
-|---|---|---|---|
+| ---- | ---- | ---- | ---- |
 | Preliminary review | Rule of law, security clearance, audit | CRP (opinion) | Must be positive |
 | Admission T1 | Associate | CoM | Double Majority |
 | Upgrade T2 | Full Member | CoM + OCB recommendation | 2/3 + interoperability certification |
@@ -14346,7 +14356,7 @@ _Organs, Voting Weight, Budget, Accession and Exit of the European Democratic De
 #### Exit (Orderly, Without Hostage-Taking)
 
 | Element | Rule |
-|---|---|
+| ---- | ---- |
 | Notice period | 12–24 months (contractual) |
 | Settlement | Return/settlement of joint assets by formula |
 | Security clearance | Continuing confidentiality/protection obligation |
@@ -14355,7 +14365,7 @@ _Organs, Voting Weight, Budget, Accession and Exit of the European Democratic De
 #### Suspension (Rule of Law & Security as Red Lines)
 
 | Cause | Trigger | Immediate Measure | Full Measure | Return |
-|---|---|---|---|---|
+| ---- | ---- | ---- | ---- | ---- |
 | Rule-of-law breach | Unfree elections, politicised judiciary | Payments frozen (partially) | Voting rights + programme access suspended | CRP confirms fix + audit |
 | Corruption/capture | Systemic procurement anomalies | Step-in rights + special audit | Exclusion from procurement | Forensics + criminal cooperation |
 | Leak/infiltration | Repeated serious leaks | Security access revoked | Operational status suspended | Clearance reform + tests |
@@ -14401,7 +14411,7 @@ _Who may do what? The clear allocation of tasks across federal, shared, and nati
 ### 14.5.1 The Three-Level Principle
 
 | Level | Characteristics | Rationale |
-|---|---|---|
+| ---- | ---- | ---- |
 | **Federal (exclusive)** | Regulated solely at federation level | Economies of scale, deterrence, legal equality, anti-coercion, single-market integrity |
 | **Shared** | Federation sets the framework, states implement | Coordination needed, but national adaptation sensible |
 | **National / Regional** | Remains primarily with member states | Subsidiarity: no demonstrable federal added value |
@@ -14415,7 +14425,7 @@ _Who may do what? The clear allocation of tasks across federal, shared, and nati
 #### 1) Verteidigungsministerium (Ministry of Defence)
 
 | Federal | Shared | National |
-|---|---|---|
+| ---- | ---- | ---- |
 | Strategic doctrine, capability targets (Force Goals) | Territorial defence under common standards | Military traditions, recruitment details |
 | Joint Operations Headquarters (OHQ), C2 architecture | Conscription/volunteer models (minimum standards) | Veterans' care |
 | Joint armaments planning + major procurement (ammo, AD, EW, ISR) | National procurement only if interoperable | Ceremonial units |
@@ -14430,7 +14440,7 @@ _Who may do what? The clear allocation of tasks across federal, shared, and nati
 #### 2) Außenministerium (Ministry of Foreign Affairs)
 
 | Federal | Shared | National |
-|---|---|---|
+| ---- | ---- | ---- |
 | Common external representation (core messaging) | National cultural/economic diplomacy | City/regional partnerships |
 | Sanctions policy, export controls (dual use) | National implementation/prosecution | — |
 | Common Ukraine/neighbourhood policy | Compatible bilateral projects | — |
@@ -14440,7 +14450,7 @@ _Who may do what? The clear allocation of tasks across federal, shared, and nati
 #### 3) Justizministerium (Ministry of Justice / Rule of Law)
 
 | Federal | Shared | National |
-|---|---|---|
+| ---- | ---- | ---- |
 | Fundamental-rights framework (Charter) + constitutional jurisdiction | Criminal prosecution national but interoperable | Civil-law detail cultures |
 | Anti-corruption: minimum standards, registers, transparency | Implementation/investigations/courts national | Organisation of national jurisdictions |
 | European Arrest Warrant 2.0, judicial cooperation | Common data standards/mutual legal assistance | — |
@@ -14452,7 +14462,7 @@ _Who may do what? The clear allocation of tasks across federal, shared, and nati
 #### 4) Bürgerministerium (CIVITAS / Ministry for Citizens)
 
 | Federal | Shared | National |
-|---|---|---|
+| ---- | ---- | ---- |
 | Federal citizenship (Union citizenship), core electoral rights | eID: federal standards, national issuance | Municipal citizen services |
 | Transparency rules (lobby register, donations, ads) | National transparency compatible | Associations/municipal law |
 | Participation instruments (petitions, initiatives, possibly referenda) | National participation systems free but compatible | Education/cultural policy |
@@ -14464,7 +14474,7 @@ _Who may do what? The clear allocation of tasks across federal, shared, and nati
 #### 5) Umweltministerium (Ministry of the Environment / Climate / Resilience)
 
 | Federal | Shared | National |
-|---|---|---|
+| ---- | ---- | ---- |
 | Protection of critical natural assets (seas, ecosystems) | Carbon price/ETS equivalent: federal, implementation national | Nature reserves local |
 | Standards for critical infrastructure resilience | Expansion programmes co-financed | Urban planning |
 | Cross-border disaster management | National response forces, coordinated | Local fire service/THW |
@@ -14473,7 +14483,7 @@ _Who may do what? The clear allocation of tasks across federal, shared, and nati
 #### 6) Sozialministerium (Ministry of Social Affairs / Health Baseline)
 
 | Federal | Shared | National |
-|---|---|---|
+| ---- | ---- | ---- |
 | Minimum social standards (child/poverty prevention) | Health systems national, common crisis mechanisms | Pension systems in detail |
 | Labour mobility: portability of entitlements | Labour-law framework shared | Collective-bargaining models national |
 | Pandemic/health-emergency agency | Hospitals/physician structures national | Care organisation regional |
@@ -14484,7 +14494,7 @@ _Who may do what? The clear allocation of tasks across federal, shared, and nati
 #### 7) Wirtschaftsministerium (Ministry of the Economy / Industry / Trade)
 
 | Federal | Shared | National |
-|---|---|---|
+| ---- | ---- | ---- |
 | Single-market rules, competition supervision | Industrial policy: federal missions + national implementation | Local SME promotion |
 | Critical supply chains (chips, defence, energy, pharma) | Cluster policy co-financed | Regional structural policy |
 | Investment screening (security-relevant) | Investigations/audits national | — |
@@ -14494,7 +14504,7 @@ _Who may do what? The clear allocation of tasks across federal, shared, and nati
 #### 8) Finanzministerium (Ministry of Finance / Treasury)
 
 | Federal | Shared | National |
-|---|---|---|
+| ---- | ---- | ---- |
 | Federal defence/resilience budget | Tax base national, minimum harmonisation | Municipal taxes |
 | Mission-bound debt instruments (defence/resilience) | National budgets with rules + audit | — |
 | Anti-money-laundering/financial supervision (systemic areas) | Banking supervision mixed | Savings banks etc. national |
@@ -14510,7 +14520,7 @@ _Who may do what? The clear allocation of tasks across federal, shared, and nati
 Regardless of how far integration advances within the individual ministries, **four areas** can hardly be meaningfully fragmented nationally:
 
 | No. | Area | Rationale |
-|---|---|---|
+| ---- | ---- | ---- |
 | 1 | **Defence C2 + armaments planning + logistics pools** | Deterrence, interoperability, economies of scale |
 | 2 | **Core foreign policy + sanctions/export controls** | Credibility, anti-coercion |
 | 3 | **Rule of law / anti-corruption + constitutional court** | Legal equality, democratic integrity |
@@ -14525,7 +14535,7 @@ The following matrix shows, for **key instruments** across all eight ministries,
 #### Legend
 
 | Role | Meaning |
-|---|---|
+| ---- | ---- |
 | **Decides** | Who enacts/orders (government, minister, parliament) |
 | **Oversees** | Committees, court of auditors, ombudsperson, court, upper house |
 | **Litigates** | Who can compel judicial review (citizens, states, minority, ombudsperson) |
@@ -14533,7 +14543,7 @@ The following matrix shows, for **key instruments** across all eight ministries,
 #### Selected Instruments (Excerpt)
 
 | Ministry | Instrument | Decides | Oversees | Litigates |
-|---|---|---|---|---|
+| ---- | ---- | ---- | ---- | ---- |
 | **Defence** | Capability targets / Force Catalogue | Government + Lower House (budget) | Defence/budget committee; court of auditors | Parliamentary minority; member states; constitutional court |
 | **Defence** | Major procurement | Ministry within budget framework | Court of auditors + Integrity Unit + committees | Bidders (procurement law); ombudsperson; minority |
 | **Defence** | Deployment mandate (abroad/mutual assistance) | Lower House (mandate); Upper House at threshold | IG-Defense; committee of inquiry | Minority; citizens (fundamental rights); states |
@@ -14593,7 +14603,7 @@ _Who elects what, how opposition works, how states of emergency are contained �
 #### A) Citizens → Federation Parliament (Lower House)
 
 | Element | Rule | Stability Rationale |
-|---|---|---|
+| ---- | ---- | ---- |
 | Election | Direct, free, equal; proportional representation with a threshold clause (3–5 \%) | Prevents fragmentation into splinter parties |
 | Task | Legislation, budget, oversight, committees of inquiry | Core of democratic legitimacy |
 | Key Rights | Budget authority, vote of no confidence, ministerial hearings, access to files | Executive remains controlled |
@@ -14601,7 +14611,7 @@ _Who elects what, how opposition works, how states of emergency are contained �
 #### B) States / Regions → Bundesrat (Federal Council) / Senate (Upper House)
 
 | Element | Rule | Stability Rationale |
-|---|---|---|
+| ---- | ---- | ---- |
 | Composition | Governments of member states or directly elected regional representatives | Federal balance |
 | Task | Co-legislation in competences affecting states; subsidiarity veto | Prevents centralism |
 | Key Rights | Approval for constitutional amendments, competence transfers, emergency extensions | Protection against concentration of power |
@@ -14609,7 +14619,7 @@ _Who elects what, how opposition works, how states of emergency are contained �
 #### C) Parliament(s) → Government (Chancellor + Cabinet)
 
 | Element | Rule | Stability Rationale |
-|---|---|---|
+| ---- | ---- | ---- |
 | Election of Chancellor | By the Lower House (constructive vote of no confidence) | Stability without authoritarianism |
 | Cabinet | Proposed by the Chancellor, confirmed by the Lower House (hearings) | Quality control, transparency |
 | Coalition | Clear majority formation + guaranteed opposition rights | Prevents "one-party capture" |
@@ -14617,7 +14627,7 @@ _Who elects what, how opposition works, how states of emergency are contained �
 #### D) Federation President (Representative + Limited Reserve Powers)
 
 | Element | Rule | Stability Rationale |
-|---|---|---|
+| ---- | ---- | ---- |
 | Election | Indirect (joint federal assembly) or direct (rare) | Low polarisation |
 | Powers | Only clearly defined arbiter functions | No power centre alongside the government |
 | NoGo | No autonomous governing via decrees | Prevents presidentialisation |
@@ -14627,7 +14637,7 @@ _Who elects what, how opposition works, how states of emergency are contained �
 ### 14.6.2 How Opposition Works: Hard Control Rights
 
 | Instrument | Opposition receives… | Effect |
-|---|---|---|
+| ---- | ---- | ---- |
 | **Minority Rights** | Committee of inquiry from 25 \% of seats | Scandals/poor decisions can be investigated |
 | **Access to Files** | Constitutionally guaranteed entitlement + classified-information panel | Prevents "we know nothing" |
 | **Question Time** | Weekly, ministers obliged to respond | Public accountability |
@@ -14645,7 +14655,7 @@ _Who elects what, how opposition works, how states of emergency are contained �
 #### A) Ordinary Legislation (Federal / Shared Competence)
 
 | Step | Who | Threshold |
-|---|---|---|
+| ---- | ---- | ---- |
 | Right of Initiative | Government, members of parliament, where applicable citizens' initiative | — |
 | Resolution | Lower House | Simple majority |
 | Upper House | Approval where states are affected (defined list) | Qualified majority |
@@ -14654,7 +14664,7 @@ _Who elects what, how opposition works, how states of emergency are contained �
 #### B) Security and Defence Legislation (Higher Threshold)
 
 | Step | Who | Threshold |
-|---|---|---|
+| ---- | ---- | ---- |
 | Hearing | Mandatory hearings (Defence/Foreign Affairs/Justice) | — |
 | Resolution | Lower House | Absolute majority |
 | Upper House | Approval | Qualified majority |
@@ -14665,7 +14675,7 @@ _Who elects what, how opposition works, how states of emergency are contained �
 ### 14.6.4 Deployment and War Chain (Defence)
 
 | Situation | Decision | Oversight | NoGo |
-|---|---|---|---|
+| ---- | ---- | ---- | ---- |
 | **Routine** (exercise, deterrence) | Government / Minister of Defence | Parliamentary committee informed | Covert operations without oversight |
 | **Immediate Response** (hours/days) | Government may act at short notice | **48–72 h** retrospective parliamentary confirmation | Duration without parliamentary mandate |
 | **Extended Deployment / Entry into War** | Lower House + Upper House (defined threshold) | Mandate, objectives, reporting obligations | "Blank cheque" mandates |
@@ -14684,7 +14694,7 @@ _Who elects what, how opposition works, how states of emergency are contained �
 #### B) Immediate Measures (Short, Minimal, Verifiable)
 
 | Element | Rule |
-|---|---|
+| ---- | ---- |
 | Duration | Max. 7–14 days initially |
 | Content | Only necessary measures, narrowly circumscribed |
 | Transparency | Publication of legal basis + fundamental-rights impact assessment |
@@ -14693,7 +14703,7 @@ _Who elects what, how opposition works, how states of emergency are contained �
 #### C) Extension – Only with Double Democratic Legitimacy
 
 | Step | Threshold |
-|---|---|
+| ---- | ---- |
 | Lower House | Qualified majority (60 \%) |
 | Upper House | Approval (qualified) |
 | Court | Automatic review (mandatory review) |
@@ -14701,7 +14711,7 @@ _Who elects what, how opposition works, how states of emergency are contained �
 #### D) Red Lines – Fundamental Rights Protection
 
 | Protection | Principle |
-|---|---|
+| ---- | ---- |
 | **Inviolable** | Human dignity, prohibition of arbitrary detention, fair trial |
 | **Freedom of Communication** | Restrictions only if court-proof, time-limited, targeted |
 | **Data** | Emergency data use only purpose-bound, subject to mandatory deletion |
@@ -14710,7 +14720,7 @@ _Who elects what, how opposition works, how states of emergency are contained �
 #### E) Exit and Review
 
 | Mechanism | Rule |
-|---|---|
+| ---- | ---- |
 | Automatic Termination | Without a new vote everything expires |
 | Final Report | Mandatory report + Court of Auditors review |
 | Investigation | Opposition's right to a committee of inquiry |
@@ -14721,7 +14731,7 @@ _Who elects what, how opposition works, how states of emergency are contained �
 ### 14.6.6 Anti-Capture Safeguards
 
 | Risk | Safeguard | Who May Trigger |
-|---|---|---|
+| ---- | ---- | ---- |
 | **State Capture of the Judiciary** | Independent judicial councils + Constitutional Court | Courts, opposition, ombudsperson |
 | **Corruption / Lobby Capture** | Registers, party/donation limits, forensics authority | Court of Auditors, parliamentary committees |
 | **Media / Information Capture** | Antitrust / media pluralism protection, advertising transparency | Independent authority + courts |
@@ -14735,7 +14745,7 @@ _Who elects what, how opposition works, how states of emergency are contained �
 The following table summarises the main decision types and assigns the threshold, deciding body and oversight body to each.
 
 | Decision Type | Threshold | Decides | Oversight Body |
-|---|---|---|---|
+| ---- | ---- | ---- | ---- |
 | **Annual Budget** | Lower House simple; Upper House where contributions are relevant | Lower House (+ Upper House) | Court of Auditors; Budget Committee; Constitutional Court |
 | **Programme Budget** | 55 \% programme voting rights; security-critical 2/3 | CoM / EB | Court of Auditors + Integrity Unit; POA |
 | **Contingency Activation** | CoM 2/3 + sunset | CoM | Emergency committee; CRP |
@@ -14797,7 +14807,7 @@ _From idea to treaty: 30 constitutional articles, six treaty annexes, and an ear
 #### Overview of the 30 Articles
 
 | Block | Article | Subject |
-|---|---|---|
+| ---- | ---- | ---- |
 | **Basic Order** | Art. 1 | Form of state and values (democracy, rule of law, federalism, pluralism) |
 | | Art. 2 | Citizenship rights (federal citizenship, direct political rights) |
 | | Art. 3 | Primacy and binding effect (federation law takes precedence within federal competences) |
@@ -14832,7 +14842,7 @@ _From idea to treaty: 30 constitutional articles, six treaty annexes, and an ear
 #### Eternity Core (Ewigkeitskern) (unamendable provisions)
 
 | No. | Core Principle |
-|---|---|
+| ---- | ---- |
 | 1 | Democracy and popular sovereignty |
 | 2 | Rule of law and independent judiciary |
 | 3 | Fundamental rights and human dignity |
@@ -14847,7 +14857,7 @@ _From idea to treaty: 30 constitutional articles, six treaty annexes, and an ear
 The following table captures the **14 central risk areas** together with their typical failure mode and the three control layers: prevention, detection, response.
 
 | Risk Area | Typical Failure Mode | Prevention | Detection | Response | NoGo Threshold |
-|---|---|---|---|---|---|
+| ---- | ---- | ---- | ---- | ---- | ---- |
 | **State Capture / Corruption** | Agencies are captured by partisan interests | Transparency rules, independent appointments, procurement rules | Audit, forensics, whistleblower, asset registers | Funds freeze, removal from office, criminal prosecution | Systemic corruption without prosecution |
 | **Democracy Erosion** | Media/NGO restrictions, electoral manipulation | Fundamental-rights charter, electoral standards, media pluralism | Election observation, media monitoring, court reporting | Treaty-infringement proceedings, suspension of rights | Unfree elections |
 | **Emergency Abuse** | Emergency becomes permanent | Narrow grounds, sunset, double majority, auto-review | Emergency reports, ombudsperson, opposition inquiry | Automatic expiry, judicial annulment | Emergency > X days without legitimation |
@@ -14870,7 +14880,7 @@ The following table captures the **14 central risk areas** together with their t
 The constitutional sketch is operationalised through **six annexes**. Each annex is an integral part of the treaty.
 
 | Annex | Title | Core Content | Scope |
-|---|---|---|---|
+| ---- | ---- | ---- | ---- |
 | **A** | Risk Controls \& Enforcement | Master table of all risks, NoGo thresholds, enforcement levels 0–5, emergency review (48 h), remediation plan, legal remedy (DRT review), RACI matrix | 18 articles |
 | **B** | Procurement Code | Award procedures (open/restricted/negotiated/framework/emergency), integrity clause, dual sourcing, blacklisting, KPI catalogue, step-in rights, tenderer legal remedies | 30 articles |
 | **C** | Interop \& Certification | Certification levels L0–L4, tier↔level mapping, technical tests (interface, crypto, resilience), operational tests (joint exercise), cyber red-team, waiver/legacy regime, upgrade T1→T2 | 27 articles |
@@ -14893,7 +14903,7 @@ Annex A (Enforcement) ←→ Annex B (Procurement) → Integrity violations → 
 ### 14.7.4 Resilience Dashboard – Early-Warning System
 
 | Index | Measures | Alarm when… | Response |
-|---|---|---|---|
+| ---- | ---- | ---- | ---- |
 | **Rule-of-Law Index** | Judiciary/media/electoral quality | Trend break over 2 quarters | Conditionality + proceedings |
 | **Capture Risk Index** | Corruption, procurement anomalies | Cluster/network indicators | Forensics, blacklist |
 | **Decision Speed Index** | Club's capacity to act | Blockade times rising | Governance update |
@@ -15030,7 +15040,7 @@ A member exceeds a NoGo threshold if at least one of the following conditions is
 Measures are graduated and proportionate:
 
 | Level | Designation | Content |
-|---|---|---|
+| ---- | ---- | ---- |
 | **0** | Notice \& Plan | Formal compliance notice, action plan, deadline |
 | **1** | Conditionality | Disbursement/programme access only against evidence of concrete steps |
 | **2** | Provisional Suspension | Temporary loss of voting rights or access, classified access revoked |
@@ -15070,7 +15080,7 @@ Measures are graduated and proportionate:
 #### Art. A12 – Decision-Making (Majorities)
 
 | Level | Required Majority |
-|---|---|
+| ---- | ---- |
 | **0–1** | CoM qualified majority (60\% of members + 70\% of contributions) |
 | **2 (provisional)** | CoM 2/3 of votes or automatically upon CRP emergency determination |
 | **3–4** | CoM 2/3 + mandatory CRP/ACI opinion |
@@ -15096,7 +15106,7 @@ Measures are graduated and proportionate:
 #### Art. A15 – Triggers (Summary List)
 
 | Domain | Trigger Examples |
-|---|---|
+| ---- | ---- |
 | **Rule of law** | Interference with appointment/dismissal of judges, non-compliance with supreme court rulings, media takeover |
 | **Emergency** | Extension without double majority/sunset, measures without fundamental-rights impact assessment |
 | **Leak/Infiltration** | 2+ serious leak events within 12 months without remediation |
@@ -15136,7 +15146,7 @@ Measures are graduated and proportionate:
 ### RACI Matrix (Summary)
 
 | Control Domain | Responsible (R) | Accountable (A) | Consulted (C) | Informed (I) |
-|---|---|---|---|---|
+| ---- | ---- | ---- | ---- | ---- |
 | Rule-of-law monitoring | CRP | CoM | POA, DRT | All members |
 | Emergency compliance | CRP | CoM (extension) | POA, Ombudsperson | Public |
 | Procurement integrity | Integrity Unit / PIA | Executive Board | ACI, POA | CoM |
@@ -15211,7 +15221,7 @@ _Procurement procedures, standardisation, integrity, dual sourcing, step-in righ
 #### Art. B5 – RACI (Summary)
 
 | Role | Bodies |
-|---|---|
+| ---- | ---- |
 | **Responsible** | PIA (procurement), Integrity Unit (integrity), Program Boards (requirements) |
 | **Accountable** | Executive Board (execution), Council of Members (programme approvals) |
 | **Consulted** | OCB (interop), CRP (rule-of-law regarding sanctions), ACI (audit) |
@@ -15224,7 +15234,7 @@ _Procurement procedures, standardisation, integrity, dual sourcing, step-in righ
 #### Art. B6 – Types of Procedure
 
 | No. | Procedure | Use Case |
-|---|---|---|
+| ---- | ---- | ---- |
 | 1 | **Open procedure** | Standard |
 | 2 | **Restricted procedure** | Security-relevant pre-qualification |
 | 3 | **Negotiated procedure** | Highly complex systems, justified |
@@ -15337,7 +15347,7 @@ _Procurement procedures, standardisation, integrity, dual sourcing, step-in righ
 Minimum metrics to be measured:
 
 | No. | KPI |
-|---|---|
+| ---- | ---- |
 | 1 | Delivery quantity vs. plan |
 | 2 | Delivery time (on-time) |
 | 3 | Quality rate (defect rate) |
@@ -15473,7 +15483,7 @@ g) Classification/information security (common tiers)
 #### Art. C4 – Standards and Certification Bodies
 
 | Body | Task |
-|---|---|
+| ---- | ---- |
 | **Interop Standards Board (ISB)** | Develops standards, maintains versions, defines test plans |
 | **Certification Authority (CA)** | Issues/revokes certificates, conducts audits |
 | **Operational Command Board (OCB)** | Defines operational minimum procedures (SOPs, exercises) |
@@ -15496,7 +15506,7 @@ g) Classification/information security (common tiers)
 #### Art. C7 – Certificate Levels
 
 | Level | Name | Meaning | Typical Use |
-|---|---|---|---|
+| ---- | ---- | ---- | ---- |
 | **L0** | Non-Compliant | No Club interop | Purely national, no pools |
 | **L1** | Basic Interop | Minimum interfaces/logistics | Programme Member (T1) |
 | **L2** | Operational Interop | Fully interoperable in joint operations | Operational Member (T2) |
@@ -15506,7 +15516,7 @@ g) Classification/information security (common tiers)
 #### Art. C8 – Mapping Tier ↔ Certification Level
 
 | Tier | Minimum Level |
-|---|---|
+| ---- | ---- |
 | **T1** (Programme Member) | L1 in relevant programme categories |
 | **T2** (Operational Member) | L2 for C2/comms + core systems; L3 for critical elements per CoM list |
 | **T3** (Constitutional Member) | Full compliance; L3 as standard in the core |
@@ -15520,7 +15530,7 @@ g) Classification/information security (common tiers)
 Each system must demonstrate (where applicable):
 
 | No. | Test |
-|---|---|
+| ---- | ---- |
 | 1 | **Interface Compliance** (protocols, data formats, APIs) |
 | 2 | **Key Management \& Crypto** (HSM/key rotation, access) |
 | 3 | **Latency/Throughput** (minimum values per category) |
@@ -15558,7 +15568,7 @@ Each system must demonstrate (where applicable):
 #### Art. C14 – Re-Certification
 
 | Level | Interval | Additionally |
-|---|---|---|
+| ---- | ---- | ---- |
 | **L1** | Every 36 months | Upon major version change |
 | **L2** | Every 24 months | Upon security/interface change |
 | **L3/L4** | Every 12–18 months | Mandatory pen tests + supply-chain review |
@@ -15577,7 +15587,7 @@ Each system must demonstrate (where applicable):
 The ISB maintains at least the following standard families:
 
 | No. | Standard Family |
-|---|---|
+| ---- | ---- |
 | 1 | **C2 \& Tactical Data Links** (multi-domain situational picture) |
 | 2 | **Air Defence Integration** (sensor-to-shooter, track management) |
 | 3 | **Counter-UAS \& EW Interfaces** |
@@ -15660,7 +15670,7 @@ This Annex enters into force together with the Treaty.
 #### Art. C26 – Transitional Periods
 
 | Period | Milestone |
-|---|---|
+| ---- | ---- |
 | 6 months | Baseline standards (C2, logistics, cyber exchange) |
 | 12 months | Initial L1 certification for programme areas |
 | 24 months | L2 for Operational Members in core categories |
@@ -15727,7 +15737,7 @@ _Mandate rules, 72h rapid response, operation categories, reporting obligations,
 #### Art. D3 – Chain of Democratic Control
 
 | Body | Role |
-|---|---|
+| ---- | ---- |
 | **Lower House** (or POA equivalent) | Mandate, budget commitment, oversight |
 | **Upper House** (at defined thresholds) | Approval for high-scale/long-term deployments |
 | **Government/CoM** | Operational command within mandate |
@@ -15741,7 +15751,7 @@ _Mandate rules, 72h rapid response, operation categories, reporting obligations,
 #### Art. D4 – Categories of Military Measures
 
 | Category | Designation | Examples |
-|---|---|---|
+| ---- | ---- | ---- |
 | **0** | Routine/Readiness | Exercises, deterrence presence, training, rotations |
 | **1** | Protective measures | Protection of critical infrastructure, cyber-defence response, counter-UAS, maritime/air policing |
 | **2** | Limited operation | Temporally/geographically limited deployment with elevated risk (evacuation, security operation) |
@@ -15764,7 +15774,7 @@ _Mandate rules, 72h rapid response, operation categories, reporting obligations,
 #### Art. D7 – Deadlines and Confirmation
 
 | Deadline | Obligation |
-|---|---|
+| ---- | ---- |
 | **24 hours** | Notification of oversight bodies (POA emergency panel / Lower House committees) |
 | **72 hours** | **Parliamentary confirmation** to be obtained |
 | **Without confirmation** | Operation ends immediately in an orderly manner ("safe disengagement") |
@@ -15783,7 +15793,7 @@ _Mandate rules, 72h rapid response, operation categories, reporting obligations,
 Every mandate must contain:
 
 | No. | Mandatory field |
-|---|---|
+| ---- | ---- |
 | 1 | **Legal basis** (treaty, international law, national legal acts) |
 | 2 | **Definition of objectives** (specific, measurable) |
 | 3 | **Area of operations** (geographic/operational) |
@@ -15811,7 +15821,7 @@ Upper House approval is required if at least one of the following applies:
 #### Art. D11 – Reporting Obligations (Ongoing)
 
 | Frequency | Content | Recipient |
-|---|---|---|
+| ---- | ---- | ---- |
 | **Weekly** | Brief reports: situation, casualties, goal attainment, risks | Competent committees / POA panel (classified) |
 | **Monthly** | KPI report: ammunition consumption, readiness, casualties, logistics, compliance | Committees + ACI |
 | **Quarterly** | Public topline report | Public (insofar as compatible with security requirements) |
@@ -15914,7 +15924,7 @@ This Annex enters into force together with the Treaty.
 #### Art. D26 – Transitional Periods
 
 | Deadline | Milestone |
-|---|---|
+| ---- | ---- |
 | 6 months | Standard mandate format (Art. D9) binding |
 | 12 months | IG-Defence established and operational |
 | 18 months | Exercise and reporting systems fully implemented |
@@ -16014,7 +16024,7 @@ ACI audits in particular:
 #### Art. E7 – Types of Audit
 
 | Type of audit | Occasion |
-|---|---|
+| ---- | ---- |
 | **Regular audit** | Annual |
 | **Special audit** | Triggered by indicators |
 | **Forensic audit** | Upon suspicion of corruption/capture |
@@ -16035,7 +16045,7 @@ ACI audits in particular:
 Every programme and every material structure must have mandatory KPIs:
 
 | No. | KPI Dimension |
-|---|---|
+| ---- | ---- |
 | 1 | **Output** (e.g. quantities, delivery dates) |
 | 2 | **Readiness** (operational readiness, failure rates) |
 | 3 | **Cost** (planned/actual, cost growth) |
@@ -16050,7 +16060,7 @@ Every programme and every material structure must have mandatory KPIs:
 2. Three visibility tiers:
 
 | Tier | Access |
-|---|---|
+| ---- | ---- |
 | **Public (Topline)** | Everyone |
 | **Parliamentary (detailed)** | POA / Committees |
 | **Classified (Clean Room)** | Classified-Information Panel |
@@ -16069,7 +16079,7 @@ Every programme and every material structure must have mandatory KPIs:
 #### Art. E12 – Transparency Register (Minimum)
 
 | Register | Content |
-|---|---|
+| ---- | ---- |
 | **Lobby register** | Meetings, topics, principals |
 | **Procurement register** | Tenders, awards, exceptions |
 | **Donation/grant register** | Conflict-of-interest register for key personnel |
@@ -16130,7 +16140,7 @@ Every programme and every material structure must have mandatory KPIs:
 #### Art. E21 – Compliance Escalation
 
 | Severity | Classification | Consequence |
-|---|---|---|
+| ---- | ---- | ---- |
 | **Minor** | Minor deviation, no systemic impact | Remediation ≤ 90 days |
 | **Major** | Systemically relevant, elevated risk | Remediation ≤ 60 days + special audit possible |
 | **Critical** | Near-NoGo or systemic | Immediate escalation Annex 14.A, provisional measures |
@@ -16179,7 +16189,7 @@ This Annex enters into force together with the Treaty.
 #### Art. E28 – Transitional Periods
 
 | Deadline | Milestone |
-|---|---|
+| ---- | ---- |
 | 6 months | ACI, Ombuds Institution and clean-room structure operational |
 | 9 months | KPI Dashboard |
 | 12 months | First quarterly reports, register obligations |
@@ -16221,7 +16231,7 @@ _T0 Observer → T1 Associate → T2 Full → T3 Core – Rights, Obligations, A
 #### Art. F1 – Four Tiers
 
 | Tier | Designation | Brief Profile |
-|---|---|---|
+| ---- | ---- | ---- |
 | **T0** | Observer | Access to documents, no voting rights, no contribution obligation, no integration |
 | **T1** | Associate | Selective cooperation rights, reduced contribution, observer status in organs |
 | **T2** | Full Member | Full voting rights, full contribution obligation, full integration |
@@ -16241,7 +16251,7 @@ _T0 Observer → T1 Associate → T2 Full → T3 Core – Rights, Obligations, A
 #### Art. F3 – T0 Observer
 
 | Dimension | Provision |
-|---|---|
+| ---- | ---- |
 | **Access** | Non-classified documents, open hearings |
 | **Voting rights** | No voting rights |
 | **Contribution** | No financial contribution |
@@ -16251,7 +16261,7 @@ _T0 Observer → T1 Associate → T2 Full → T3 Core – Rights, Obligations, A
 #### Art. F4 – T1 Associate
 
 | Dimension | Provision |
-|---|---|
+| ---- | ---- |
 | **Access** | Documents up to "restricted" level; observer status in POA and committees |
 | **Voting rights** | Advisory vote, no decision-making vote |
 | **Contribution** | Reduced contribution (e.g. 30–50 \% of the T2 rate) |
@@ -16261,7 +16271,7 @@ _T0 Observer → T1 Associate → T2 Full → T3 Core – Rights, Obligations, A
 #### Art. F5 – T2 Full Member
 
 | Dimension | Provision |
-|---|---|
+| ---- | ---- |
 | **Access** | All documents, committees, budget details |
 | **Voting rights** | Full voting rights in POA, Lower House/Upper House |
 | **Contribution** | Full contribution according to formula (GNI + population + risk) |
@@ -16271,7 +16281,7 @@ _T0 Observer → T1 Associate → T2 Full → T3 Core – Rights, Obligations, A
 #### Art. F6 – T3 Core
 
 | Dimension | Provision |
-|---|---|
+| ---- | ---- |
 | **Access** | As T2 + security-clearance panel + clean room |
 | **Voting rights** | As T2 + EB delegation right (Art. 12) |
 | **Contribution** | Full contribution + where applicable solidarity premium for framework states |
@@ -16285,7 +16295,7 @@ _T0 Observer → T1 Associate → T2 Full → T3 Core – Rights, Obligations, A
 #### Art. F7 – Graduated Voting Rights
 
 | Tier | Voting Rights |
-|---|---|
+| ---- | ---- |
 | T0 | None |
 | T1 | Advisory (speech, motion, no decision) |
 | T2 | Full decision-making vote |
@@ -16448,7 +16458,7 @@ This Annex enters into force together with the Treaty.
 #### Art. F26 – Transitional Periods
 
 | Period | Milestone |
-|---|---|
+| ---- | ---- |
 | Day 0 | Tier classification of all founding members |
 | 6 months | Voting-rights and contribution arrangements operational |
 | 12 months | First upgrade/downgrade cycles possible |
@@ -16488,7 +16498,7 @@ The **Charter forms the legal core of ERDA** and is further developed – not re
 Fully integrated member states with democratic constitutions and stable rule of law, ordered by population size (as of 1 January 2024) (see e.g. en.wikipedia.org, "List of European Union member states by population"):
 
 | State       | ISO | Population |
-| ----------- | --- | ---------- |
+| ---- | ---- | ---- |
 | Germany     | DE  | 83 445 000 |
 | France      | FR  | 68 402 000 |
 | Italy       | IT  | 58 989 700 |
@@ -16575,7 +16585,7 @@ Despite internal challenges, these states possess strategic importance and remai
 Non-politically integrated democracies with security-policy and innovation-policy cooperation:
 
 | State      | ISO | Cooperation focus                      |
-| ---------- | --- | -------------------------------------- |
+| ---- | ---- | ---- |
 | Canada     | CA  | Arctic and transatlantic               |
 | Australia  | AU  | Indo-Pacific region                    |
 | New Zealand| NZ  | Indo-Pacific region                    |
@@ -16594,7 +16604,7 @@ Non-politically integrated democracies with security-policy and innovation-polic
 #### 🛰️ Strategic special roles within ERDA
 
 | Territory/state     | Role within ERDA                           |
-| ------------------- | ------------------------------------------ |
+| ---- | ---- |
 | Greenland           | Raw-material and security strategy (via DK)|
 | Iceland             | North Sea defence and Arctic corridor      |
 | Canada              | Transatlantic and Arctic partnership      |
@@ -16980,7 +16990,7 @@ version: "1.0"
 ## 9. Key indicators (short form)
 
 | Indicator                            | 2025 | 2050 | 2075 | EU average 2024 (benchmark) |
-| ------------------------------------ | ---- | ---- | ---- | --------------------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                         |      |      |      |                             |
 | Population                           |      |      |      |                             |
 | Share of renewable energy (\%)        |      |      |      |                             |
@@ -17237,7 +17247,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator                            | 2025      | 2050      | 2075      | EU benchmark 2024                  |
-| ------------------------------------ | --------- | --------- | --------- | ---------------------------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                         | 428.5     | 600       | 750       | 492 (avg. per member state)        |
 | Population                           | 9,113,574 | 9,825,200 | 9,400,000 | 16,556,000 (avg. per member state) |
 | Share of renewables (\%)              | 34.7      | 65        | 80        | 22                                 |
@@ -17442,7 +17452,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator | 2025 | 2050 | 2075 |
-| --- | --- | --- | --- |
+| ---- | ---- | ---- | ---- |
 | [GDP (bn EUR)](https://ec.europa.eu/eurostat/databrowser/view/tec00115/default/table) | 131.5 | 175.0 | 260.0 |
 | [Population (m)](https://population.un.org/wpp/downloads) | 11.81 | 11.87 | 11.42 |
 | [Renewable energy (\%)](https://www.iea.org) | 18 | 45 | 75 |
@@ -17729,7 +17739,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator | 2025 | 2050 | 2075 | EU average 2024 |
-| --- | --- | --- | --- | --- |
+| ---- | ---- | ---- | ---- | ---- |
 | GDP (bn EUR) | 97.5 | 140 (p) | 200 (p) | 16,000 |
 | Population | 6.45 m | 5.5 m (p) | 4.9 m (p) | 448 m |
 | Share of renewable energy (\%) | 23\% | 55\% (p) | 80\% (p) | 32\% |
@@ -17931,7 +17941,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator | 2025 | 2050 | 2075 |
-| --- | --- | --- | --- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn EUR) | 295 | 430 | 510 |
 | Population | 10.5 m | 10.1 m | 9.8 m |
 | Renewable energy share (\%) | 24 | 50 | 68 |
@@ -18126,7 +18136,7 @@ Narrative: 2025–2050 focuses on AI education, energy transition, demographic i
 ##### 9. Key indicators (short form)
 
 | Indicator                             | 2025      | 2050      | 2075      |
-| ------------------------------------- | --------- | --------- | --------- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                          | 4,200     | 5,800     | 6,300     |
 | Population                            | 83.5 m    | 82.0 m    | 78.0 m    |
 | Share of renewables (\%)               | 46        | 70        | 90        |
@@ -18324,7 +18334,7 @@ version: "1.0"
 ##### 9. Key indicators
 
 | Indicator | 2025 | 2050 | 2075 |
-| --- | --- | --- | --- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn EUR) | 400 | – | – |
 | Population (m) | 5.98 | 6.12 | 6.10 |
 | Renewable energy (\%) | 50 | 75 | 85 |
@@ -18537,7 +18547,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator | 2025 | 2050 | 2075 |
-| --- | --- | --- | --- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn USD) | 45.0 | 58.5¹ | 75.0¹ |
 | Population | 1.369 m | 1.270 m | 1.200 m |
 | Share of renewables (\%) | 28\% (power) | 60\% | 100\% |
@@ -18779,7 +18789,7 @@ Transformation 2050–2075: Spain evolves into a green-tech pioneer leading in c
 ##### 9. Key indicators (short form)
 
 | **Indicator**                         | **2025** | **2050** | **2075** |
-| ------------------------------------- | -------- | -------- | -------- |
+| ---- | ---- | ---- | ---- |
 | Real GDP (bn EUR)                     | 1,412    | 430.0    | 480.0    |
 | Population (million)                  | 47.9     | 44.9     | 43.0     |
 | Share of renewables (\%)               | 46\%      | 75\%      | 85\%      |
@@ -19014,7 +19024,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator                            | 2025 | 2050 | 2075 |
-| ------------------------------------ | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                         | 280  | 360  | 460  |
 | Population (million)                 | 5.68 | 5.35 | 5.02 |
 | Share of renewables (\%)              | 43   | 80   | 90   |
@@ -19203,7 +19213,7 @@ version: "1.0"
 ##### 9. Key indicators
 
 | Indicator                            | 2025  | 2050  | 2075  |
-| ------------------------------------ | ----- | ----- | ----- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                         | 2,822 | 3,300 | 3,600 |
 | Population (million)                 | 68.6  | 64    | 60    |
 | Share of renewables (\%)              | 21    | 50    | 75    |
@@ -19424,7 +19434,7 @@ Narrative: 2025–2050 focuses on renewable build-out and education; 2050–2075
 ##### 9. Key indicators
 
 | Indicator                            | 2025       | 2050      | 2075      |
-| ------------------------------------ | ---------- | --------- | --------- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn USD)                         | 245.2      | 346       | 631       |
 | Population                           | 10,432,481 | 9,762,000 | 8,352,000 |
 | Share of renewables (\%)              | 68.4       | 82        | 95        |
@@ -19661,7 +19671,7 @@ Narrative: the economy consolidates with investments in tourism and digitalisati
 ##### 9. Key indicators (short form)
 
 | Indicator                            | 2025      | 2050      | 2075      |
-| ------------------------------------ | --------- | --------- | --------- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn USD)                         | 84.4      | 131       | 239       |
 | Population                           | 3,848,160 | 3,234,160 | 2,624,398 |
 | Share of renewables (\%)              | 61.7      | 75        | 90        |
@@ -19880,7 +19890,7 @@ Transformation 2050–2075: fully decarbonised system, high automation, mature b
 ##### 9. Key indicators (short form)
 
 | Indicator                            | 2025 | 2050 | 2075 |
-| ------------------------------------ | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn USD)                         | 587  | 870  | 1,430 |
 | Population (million)                 | 5.31 | 5.97 | 5.71 |
 | Share of renewables (\%)              | 40   | 75   | 90   |
@@ -20095,7 +20105,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator                            | 2025 | 2050 | 2075 |
-| ------------------------------------ | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                         | 2,150| 2,800| 3,200|
 | Population (million)                 | 58.9 | 54.4 | 47.0 |
 | Share of renewables (\%)              | 22   | 60   | 85   |
@@ -20296,7 +20306,7 @@ Transformation 2050–2075: full decarbonisation, automated agriculture, regiona
 ##### 9. Key indicators (short form)
 
 | Indicator                            | 2025 | 2050 | 2075 |
-| ------------------------------------ | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                         | 77.94| 95.0 | 130.0 |
 | Population (million)                 | 2.83 | 2.26 | 1.90 |
 | Share of renewables (power, \%)       | 46   | 65   | 90    |
@@ -20473,7 +20483,7 @@ version: "1.0"
 ##### 9. Key indicators
 
 | Indicator                            | 2025 | 2050 | 2075 |
-| ------------------------------------ | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                         | 86*  | 110ᵖ | 150ᵖ |
 | Population (million)                 | 0.67 | 0.80ᵖ | 0.85ᵖ |
 | Share of renewables (\%)              | 20.5 | 50ᵖ  | 70ᵖ  |
@@ -20671,7 +20681,7 @@ Narrative: 2025 sees digital government and business reform while managing youth
 ##### 9. Key indicators (short form)
 
 | Indicator                            | 2025 | 2050 | 2075 |
-| ------------------------------------ | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn USD)                         | 48.4 | 75.0 | 110.0 |
 | Population (million)                 | 1.86 | 1.25 | 1.00* |
 | Share of renewables (power, \%)       | 42   | 65   | 90    |
@@ -20864,7 +20874,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator                            | 2025 | 2050 | 2075 |
-| ------------------------------------ | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn USD)                         | 1,376| ~1,800 | ~2,000 |
 | Population (million)                 | 18.33| 19.00 | 21.00 |
 | Share of renewables (\%)              | 35   | 60   | 75   |
@@ -21054,7 +21064,7 @@ version: "1.0"
 ##### 9. Key indicators
 
 | Indicator                            | 2025 | 2050 | 2075 |
-| ------------------------------------ | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                         | 800  | 1,200| 1,350|
 | Population (million)                 | 37.5 | 36   | 34   |
 | Share of renewables (\%)              | 38   | 68   | 80   |
@@ -21253,7 +21263,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator                             | 2025 | 2050  | 2075  |
-| ------------------------------------- | ---- | ----- | ----- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                          | 260  | 320^1 | 450^1 |
 | Population (million)                  | 10.30| 10.50 | 10.10 |
 | Share of renewables (\%)               | 61\%  | 80\%   | 95\%   |
@@ -21476,7 +21486,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator                             | 2025   | 2050       | 2075       |
-| ------------------------------------- | ------ | ---------- | ---------- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                          | ≈325   | 500 (hyp.) | 620 (hyp.) |
 | Population                            | 19 m   | 14.8 m     | 12 m       |
 | Share of renewables (\%)               | 50\%    | 65\% (hyp.) | 80\% (hyp.) |
@@ -21664,7 +21674,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator                             | 2025      | 2050    | 2075      |
-| ------------------------------------- | --------- | ------- | --------- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                          | 650       | 820     | 890       |
 | Population                            | 10.5 m    | 11 m    | 10.7 m    |
 | Share of renewables (\%)               | 65\%       | 85\%     | 95\%       |
@@ -21856,7 +21866,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator                             | 2025   | 2050   | 2075   |
-| ------------------------------------- | ------ | ------ | ------ |
+| ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                          | 63     | 95     | 135    |
 | Population                            | 2.12 m | 2.05 m | 1.95 m |
 | Share of renewables (\%)               | 36\%    | 58\%    | 83\%    |
@@ -22071,7 +22081,7 @@ Narrative: 2025–2050 focus on smart manufacturing and education; 2050–2075 b
 ##### 9. Key indicators (short form)
 
 | Indicator                             | 2025    | 2050        | 2075        |
-| ------------------------------------- | ------- | ----------- | ----------- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn USD)                          | 118.0   | 184         | 335         |
 | Population                            | 5.47 m  | 4.94 m      | 4.42 m      |
 | Share of renewables (\%)               | 45      | 65 (proj.)  | 85 (proj.)  |
@@ -22280,7 +22290,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator                             | 2025 | 2050 | 2075 | EU average 2024 |
-| ------------------------------------- | ---- | ---- | ---- | -------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                          | 22   | 40 (p) | 55 (p) | 16,556 |
 | Population (million)                  | 2.75 | 2.6 (p) | 2.5 (p) | 447 |
 | Share of renewables (\%)               | 42   | 60 (p) | 75 (p) | 37 |
@@ -22468,7 +22478,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator                             | 2025 | 2050 | 2075 | EU average 2024 |
-| ------------------------------------- | ---- | ---- | ---- | -------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                          | 22   | 40 (p) | 55 (p) | 16,556 |
 | Population                            | 3.1 m | 2.9 m (p) | 2.7 m (p) | 447 m |
 | Share of renewables (\%)               | 38   | 55 (p) | 70 (p) | 37 |
@@ -22677,7 +22687,7 @@ Gradual convergence with EU standards, strengthening democratic processes and su
 ##### 9. Key indicators (short form)
 
 | Indicator                             | 2025      | 2050      | 2075      |
-| ------------------------------------- | --------- | --------- | --------- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn USD)                          | 27.5      | 40 (p)    | 55 (p)    |
 | Population                            | 3.18 m    | 2.7 m (p) | 2.3 m (p) |
 | Share of renewables (\%)               | 40\%       | 55\% (p)   | 70\% (p)   |
@@ -22901,7 +22911,7 @@ Expand education and research alliances; deepen European integration; build sust
 ##### 9. Key indicators (short form)
 
 | Indicator                             | 2025 | 2050 (p) | 2075 (p) | EU average 2024 |
-| ------------------------------------- | ---- | -------- | -------- | -------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                          | 805  | 1,100    | 1,300    | 16,556 |
 | Population                            | 9.0 m | 9.34 m  | 10.25 m  | 447 m |
 | Share of renewables (\%)               | 75   | 85       | 92       | 37 |
@@ -23114,7 +23124,7 @@ Integration into regional energy projects; stronger innovation landscape
 ##### 9. Key indicators (short form)
 
 | Indicator                             | 2025 | 2050 (p) | 2075 (p) |
-| ------------------------------------- | ---- | -------- | -------- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn USD)                          | 34   | 55       | 70       |
 | Population                            | 1.35 m | 1.4 m | 1.35 m |
 | Share of renewables (\%)               | 20\%  | 45\%      | 60\%      |
@@ -23317,7 +23327,7 @@ Economic integration with EU markets, expansion of renewables, stronger democrat
 ##### 9. Key indicators (short form)
 
 | Indicator                             | 2025 | 2050 | 2075 |
-| ------------------------------------- | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn USD)                          | 32   | 50 (hyp.) | 70 (hyp.) |
 | Population                            | 3.7 m | 3.39 m | 2.91 m |
 | Share of renewables (\%)               | 35\%  | 55\% (hyp.) | 80\% (hyp.) |
@@ -23513,7 +23523,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator                             | 2025 | 2050 (p) | 2075 (p) | EU average 2024 |
-| ------------------------------------- | ---- | -------- | -------- | -------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                          | 180  | 240      | 310      | 16,556 |
 | Population (million)                  | 9.55 | 8.6      | 8.1      | 447 |
 | Share of renewables (\%)               | 21   | 45       | 65       | 37 |
@@ -23718,7 +23728,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator                             | 2025 | 2050 (p) | 2075 (p) | EU average 2024 |
-| ------------------------------------- | ---- | -------- | -------- | -------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                          | 472  | 750      | 1,000    | 16,556 |
 | Population (million)                  | 9.8  | 12       | 13       | 447 |
 | Share of renewables (\%)               | 10   | 25       | 40       | 37 |
@@ -23915,7 +23925,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator                             | 2025 | 2050 (p) | 2075 (p) | EU avg 2024 |
-| ------------------------------------- | ---- | -------- | -------- | ---------- |
+| ---- | ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                          | 15   | 25       | 35       | 18,000 |
 | Population (million)                  | 2.6  | 2.2      | 1.9      | 448 |
 | Share of renewables (\%)               | 25   | 40       | 60       | 45 |
@@ -24114,7 +24124,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator                             | 2025 | 2050 (p) | 2075 (p) | EU avg 2024 |
-| ------------------------------------- | ---- | -------- | -------- | ----------- |
+| ---- | ---- | ---- | ---- | ---- |
 | GDP (bn USD)                          | 7.5  | 11       | 15       | 18,000 |
 | Population (million)                  | 0.62 | 0.59     | 0.57     | 447 |
 | Share of renewables (\%)               | 55   | 70       | 80       | 45 |
@@ -24327,7 +24337,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator                            | 2025 | 2050 | 2075 | EU average 2024 |
-| ------------------------------------ | ---- | ---- | ---- | --------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                         | 14.3 | 25 (p) | 35 (p) | 16,556 |
 | Population                           | 1.83 m | 1.7 m (p) | 1.6 m (p) | 447 m |
 | Share of renewables (\%)              | 27 | 45 (p) | 60 (p) | 37 |
@@ -24545,7 +24555,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator                            | 2025 | 2050 (p) | 2075 (p) | EU average 2024 |
-| ------------------------------------ | ---- | -------- | -------- | --------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                         | 21   | 32       | 45       | 16.6 |
 | Population                           | 0.55 m | 0.6 m    | 0.58 m   | 447 m |
 | Share of renewables (\%)              | 12\%  | 30\%      | 60\%      | 23\% |
@@ -24722,7 +24732,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator | Value | Source |
-| --- | --- | --- |
+| ---- | ---- | ---- |
 | Population 2023 | 5,519,594 | World Bank |
 | Life expectancy 2023 | 83.1 years | World Bank |
 | GDP per capita 2023 | 87,925 USD | World Bank |
@@ -24934,7 +24944,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator                            | 2025 | 2050 | 2075 | EU average 2024 |
-| ------------------------------------ | ---- | ---- | ---- | --------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                         | 75   | 110 (h) | 150 (h) | 16,600 |
 | Population                           | 6.6 m | 6.0 m (h) | 5.5 m (h) | 447 m |
 | Share of renewables (\%)              | 26\%[15] | 45\% (h) | 65\% (h) | 37\% |
@@ -25333,7 +25343,7 @@ _"Ukraine proves how determination and international solidarity can reinforce an
 ##### 9. Key indicators (short form)
 
 | Indicator                            | 2025 | 2050 | 2075 |
-| ------------------------------------ | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                         | 200  | 450  | 700  |
 | Population (million)                 | 37   | 45   | 48   |
 | Share of renewables (\%)              | 25   | 50   | 70   |
@@ -25557,7 +25567,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator | 2025 | Source |
-| --- | --- | --- |
+| ---- | ---- | ---- |
 | Population | 67.6 m | ONS |
 | Life expectancy | 81.7 years | World Bank |
 | GDP | 2,800 bn EUR | World Bank |
@@ -25763,7 +25773,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator                            | 2025 | 2050 | 2075 | EU average 2024 (benchmark) |
-| ------------------------------------ | ---- | ---- | ---- | --------------------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                         | 10   | 20 (p) | 30 (p) | 16,556 |
 | Population                           | 1.76 m | 1.8 m (p) | 1.8 m (p) | 447 m |
 | Share of renewable energy (\%)        | 6    | 25 (p) | 40 (p) | 37 |
@@ -25977,7 +25987,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator                             | 2023      | 2050 (proj.) | 2075 (proj.) |
-| ------------------------------------- | --------- | ------------ | ------------ |
+| ---- | ---- | ---- | ---- |
 | GDP (bn USD)                          | 1,728     | ~2,700 (hyp.) | ~3,500 (hyp.) |
 | Population                            | 26,659k   | ~30,000k (UN) | ~33,000k (UN) |
 | Share of renewable electricity (\%)    | 35        | 70 (hyp.)    | 85 (hyp.)    |
@@ -26182,7 +26192,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator                            | 2025     | 2050      | 2075      |
-| ------------------------------------ | -------- | --------- | --------- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                         | 2,050    | 3,575 (p) | 5,865 (p) |
 | Population                           | 40.1 m   | 45.4 m    | 49.3 m    |
 | Share of renewables (\%)              | 19       | 45 (p)    | 70 (p)    |
@@ -26404,7 +26414,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator                            | 2025 | 2050      | 2075      |
-| ------------------------------------ | ---- | --------- | --------- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                         | 315  | 517 (p)   | 849 (p)   |
 | Population                           | 20 m | 19 m (p)  | 17 m (p)  |
 | Share of renewables (\%)              | 35   | 60 (p)    | 80 (p)    |
@@ -26598,7 +26608,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator                              | 2023 | 2050 (proj.) | 2075 (proj.) |
-| -------------------------------------- | ---- | ------------ | ------------ |
+| ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                           | 78   | ~120 (hyp.)  | ~160 (hyp.)  |
 | Population                             | 5.1 m | 5.8 m (hyp.) | 6.1 m (hyp.) |
 | Share of renewable energy (\%)          | 99   | 100 (hyp.)   | 100 (hyp.)   |
@@ -26793,7 +26803,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator                            | 2025 | 2050 | 2075 |
-| ------------------------------------ | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                         | 3,300 | 8,500 (p) | 12,000 (p) |
 | Population                           | 1.46 bn | 1.67 bn | 1.53 bn |
 | Share of renewables (\%)              | 20 | 45 (p) | 70 (p) |
@@ -27004,7 +27014,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator                            | 2023 | 2050 | 2075 |
-| ------------------------------------ | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- |
 | GDP (tn USD)                         | 4.2  | 5.5* | 6.0* |
 | Population (million)                 | 124.5 | 104* | 88* |
 | Share of renewables (\%)              | 20   | 45*  | 70* |
@@ -27215,7 +27225,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator                            | 2025  | 2050 (p) | 2075 (p) | EU average 2024 |
-| ------------------------------------ | ----- | -------- | -------- | --------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                         | 1.6 T | 2.1 T    | 2.4 T    | n/a |
 | Population                           | 51.8 m | 46 m | 38 m | n/a |
 | Share of renewables (\%)              | 9\% | 30 (p) | 60 (p) | n/a |
@@ -27411,7 +27421,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator                            | 2025 | 2050 | 2075 | EU average 2024 |
-| ------------------------------------ | ---- | ---- | ---- | --------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | GDP (bn USD)                         | 12.4 | 20 (p) | 35 (p) | – |
 | Population                           | 3.0 m | 3.3 m (p) | 3.9 m (p) | – |
 | Share of renewables (\%)              | 30\% | 50\% (p) | 70\% (p) | – |
@@ -27640,7 +27650,7 @@ Technological upgrade of agriculture, sustainable tourism, AI in public administ
 ##### 9. Key indicators (short form)
 
 | Indicator                            | 2025 | 2050 (p) | 2075 (p) | EU average 2024 |
-| ------------------------------------ | ---- | -------- | -------- | --------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                         | 230  | 310      | 370      | 16,556 |
 | Population                           | 5.22 m | 5.69 m | 6.02 m | 447 m |
 | Share of renewables (\%)              | 40  | 65       | 80       | 37 |
@@ -27838,7 +27848,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator                            | 2023 | 2050 (proj.) | 2075 (proj.) | EU average 2024 |
-| ------------------------------------ | ---- | ------------ | ------------ | --------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | GDP (bn USD)                         | 30.8 | 60 (hyp.)    | 95 (hyp.)    | – |
 | Population                           | 18.1 m | 30 m (p) | 40 m (p) | – |
 | Share of renewables (\%)              | 31   | 55 (p)       | 70 (p)       | – |
@@ -28214,7 +28224,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator | 2025 | 2050 | 2075 | EU average 2024 |
-| --- | --- | --- | --- | --- |
+| ---- | ---- | ---- | ---- | ---- |
 | GDP (bn USD) | 960 | 1,400 (hyp.) | 1,800 (hyp.) | n/a |
 | Population | 23.3 m | 20 m (hyp.) | 18 m (hyp.) | n/a |
 | Share of renewables (\%) | 20 | 40 (hyp.) | 60 (hyp.) | n/a |
@@ -28403,7 +28413,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator | 2023 | 2050 (proj.) | 2075 (proj.) | EU average 2024 |
-| --- | --- | --- | --- | --- |
+| ---- | ---- | ---- | ---- | ---- |
 | GDP (bn EUR) | 71 | ~95 (hyp.) | ~120 (hyp.) | |
 | Population | 3.39 m | ~3.6 m (UN) | ~3.7 m (UN) | |
 | Share of renewable energy (\%) | 44 | 60 (hyp.) | 75 (hyp.) | |
@@ -29217,7 +29227,7 @@ This section bundles operational shortcuts for decision-makers. It links Chapter
 ### 📎 Direct links to tools (selection)
 
 | Area | Tool | Purpose |
-| --- | --- | --- |
+| ---- | ---- | ---- |
 | Strategy \& communication | `erda-gitbook-kapitel-template.md` | Consistent structure for new chapters, change story. |
 | Participation \& education | `interaktive-elemente-checkliste-and-quiz.md` | Planning basis for workshops, learning modules, citizen dialogue. |
 | Quality assurance | `rollenspiel-qualitatssicherungstemplate.md` | Simulate political scenarios, train crisis resilience. |
@@ -29813,7 +29823,7 @@ The ERDA book is a **strategic, philosophical and civilisational guide work**. I
 #### 🧩 Extendable target groups (optional)
 
 | Target group | Expectation |
-| --- | --- |
+| ---- | ---- |
 | Teachers \& educators | educational narratives, interplanetary responsibility, didactic feasibility |
 | Journalists \& media actors | narrative clarity, punch, orientation in times of upheaval |
 | Entrepreneurs | ethical economy, FORTERA, resilience strategies |
@@ -29824,7 +29834,7 @@ The ERDA book is a **strategic, philosophical and civilisational guide work**. I
 #### 🧱 Assessment dimensions for future AI evaluations
 
 | Criterion | Description |
-| --- | --- |
+| ---- | ---- |
 | **Relevance** | Is the content strategically or emotionally connectable for this target group? |
 | **Language level** | Does tone and complexity match the expectations of the target group? |
 | **Resonance capacity** | Does it set an emotional or identity-forming impulse? |
@@ -29964,7 +29974,7 @@ Every source tells a story – handle it with care.
 #### 📐 Formatting rules
 
 | Rule category | Details |
-| --- | --- |
+| ---- | ---- |
 | **Linking** | Internet links in square brackets, directly clickable. GitBook references relative with full filename. |
 | **Text consistency** | Consistent quotation marks (“”). Hyphens instead of underscores in filenames. No spaces or special characters in GitBook filenames. |
 | **Transparency** | Clear separation of planned concepts from existing materials. |
@@ -29996,7 +30006,7 @@ Every source tells a story – handle it with care.
 ##### 🔎 Review steps
 
 | Step | Priority | Status (✔️/❌) | Comment |
-| --- | --- | --- | --- |
+| ---- | ---- | ---- | ---- |
 | All internet links accessible and current? | Must |  |  |
 | All GitBook references exist and match `SUMMARY.md`? | Must |  |  |
 | Sources match the chapter content precisely? | Must |  |  |
@@ -30183,7 +30193,7 @@ The AI pays attention to:
 #### 🧬 6) Special functions (for GPT‑4o+)
 
 | Function | Description |
-| --- | --- |
+| ---- | ---- |
 | 🧩 Chapter compression | Summarise a chapter in < 250 words |
 | 📎 Source expansion | Add external studies/evidence on request |
 | 🪞 Ethics review | Reflect on virtue, identity, dignity and long-term consequences |
@@ -30362,7 +30372,7 @@ The successful implementation of the ERDA vision requires early and detailed ide
 ## G.8 Strategic Recommendations for Action
 
 | Priority  | Recommendation                                                                                          |
-| --------- | -------------------------------------------------------------------------------------------------------- |
+| ---- | ---- |
 | Very high | Immediate establishment of an ERDA Democracy Index and an EU cyber‑defence centre                        |
 | Very high | Development of robust European production clusters (FORTERA)                                             |
 | High      | Comprehensive digital education initiative to close the digital divide                                   |
@@ -30410,7 +30420,7 @@ The critique in this appendix is therefore directed at power logics, not at whol
 ## H.2 Overview of Central Power Structures
 
 | Power structure          | Brief description                                   | Current examples (2025)                                | Measures for remediation                                                                                                    |
-| ------------------------ | --------------------------------------------------- | ------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------- |
+| ---- | ---- | ---- | ---- |
 | Totalitarianism          | Total control of all areas of life                  | North Korea, Eritrea, Turkmenistan                     | International sanctions, support for independent media, long‑term development of civil society                              |
 | Authoritarianism         | Strong executive, restriction of civil liberties    | China, Russia, Belarus                                 | Political dialogue, economic conditionality, long‑term support for democratic forces                                        |
 | Military dictatorship    | Military rule through coup                          | Myanmar, Sudan                                         | UN peace missions, embargoes, support for civilian transition governments                                                   |
@@ -30457,7 +30467,7 @@ _**Central ERDA Glossary**_
 This glossary brings together the key terms used in the ERDA book. It serves as a stand‑alone reference and supports consistent terminology across all chapters.
 
 | Term                                         | Definition                                                                                                                                                                                                                      |
-| -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ---- | ---- |
 | **Democratic resilience**                    | The ability of democratic systems to cope with crises and disruptions through participatory learning processes, to protect their core principles (freedom, rule of law, participation), and to adapt to new challenges.         |
 | **Democracy of mature citizens**             | Democratic order in which free citizens judge, object, co-decide and carry responsibility for the shared world according to their capacities; core formula: freedom plus responsibility plus judgement.                      |
 | **Resonance**                                | Mutual, living feedback between citizens, institutions, and technology that strengthens trust, integrates diversity, and uses mistakes as impulses for development.                                                             |
@@ -30511,6 +30521,7 @@ This glossary brings together the key terms used in the ERDA book. It serves as 
 | **Anti-Game-Over Principle**                 | Developmental-philosophical principle according to which democratic systems should avoid irreversible life failures, learning failures and future blockages, keeping paths for renewed development open.                         |
 | **Prosperative life**                        | Guiding term for a flourishing, learning-capable and resilient life that connects security, freedom, responsibility, joy, education and open development opportunities.                                                          |
 
+
 \newpage
 
 ---
@@ -30536,7 +30547,7 @@ To create a sustainable, open knowledge base, the various components of the book
 The ERDA book consists of different components. Each category has its own licensing terms. The following table summarises them:
 
 | Category                      | Licence                                            | Explanation |
-|------------------------------|----------------------------------------------------|-------------|
+| ---- | ---- | ---- |
 | **Texts, graphics, diagrams**| Creative Commons **Attribution – ShareAlike 4.0 International** (**CC BY‑SA 4.0**) | Content may be freely shared and adapted, provided the author is credited and derivative works are distributed under the same terms. |
 | **Code / toolchain / scripts** | **MIT Licence**                                   | Code may be used, copied, modified and distributed, including commercially. The copyright notice and licence text must be preserved. |
 | **Custom fonts**             | **CC BY 4.0** or **MIT** (dual‑licence)           | ERDA‑developed fonts can be used under CC BY 4.0 or MIT. External fonts with incompatible licences are not used. |
@@ -30990,7 +31001,7 @@ This additional quality-assurance round extends the existing role-play with the 
 ##### Role structure and mutual critique
 
 | Role | Quality mandate | Critical contribution |
-|---|---|---|
+| ---- | ---- | ---- |
 | **Writer** | Strengthens the positive message: democracy is an order of free, responsible and judgement-capable citizens. | Criticises strategic passages when they sound like pure power logic or do not visibly justify the protection of life, dignity and freedom. |
 | **Editor** | Orders the argument: ethics first, strategy second; moral concepts become clear bridges between chapters. | Criticises the Writer when moral condensation becomes too rhetorical, too abstract or structurally unclear. |
 | **Lektor** | Secures tone, language and terminology: not polemical, not sweeping, not ambiguous. | Criticises Writer and Editor when wording targets whole populations, overstretches day-to-day politics or uses terms inconsistently. |
@@ -31051,7 +31062,7 @@ The extension strengthens the book in the following areas:
 The action plan was implemented as a role-based editorial pass: ethical legitimacy bridges were strengthened first, and the strategic chapters were sharpened afterwards. The working roles were applied as follows:
 
 | Role | Implemented contribution |
-|---|---|
+| ---- | ---- |
 | **Writer** | Condensed the positive core thesis: ERDA is a project of protection, dignity, freedom and responsibility, not a power project. |
 | **Editor** | Implemented the sequence: chapters 2, 3, 11, 12 and Appendix H ground the strategy in chapters 5, 13, 14 and Appendix D. |
 | **Lektor** | Avoided sweeping or overheated day-to-day political wording and secured the line “criticise power logics, do not dehumanise people”. |
@@ -31301,7 +31312,7 @@ The central review question is:
 ## M.3 Measurable Minimum Standards
 
 | Area | Measurable requirement | Minimum evidence |
-|---|---|---|
+| ---- | ---- | ---- |
 | Historical baseline | Every baseline states data date, purpose and source or source class. | Visible in the text or source section. |
 | Current statistic | Every current, concrete statistic states source and data/access date. | Link, DOI, report, dataset or robust source reference. |
 | Security and war statement | Precise figures, quotes and situational claims are referenced or marked as uncertain. | Source plus data date; no false precision. |
@@ -31316,7 +31327,7 @@ The central review question is:
 ## M.4 Release Gates
 
 | Gate | Question | Passing standard |
-|---|---|---|
+| ---- | ---- | ---- |
 | M-G1 Status clarity | Can readers recognise what kind of text they are reading? | Analysis, baseline, scenario, roadmap, paper and normative proposition are distinguishable. |
 | M-G2 Source integrity | Are sensitive and current claims traceably referenced? | No unreferenced precise number in war, energy, security, democracy quality or geopolitics. |
 | M-G3 Baseline transparency | Are historical data states marked as baselines? | Historical figures are not presented as daily-current statistics. |
@@ -31328,7 +31339,7 @@ The central review question is:
 ## M.5 Decision Logic
 
 | Result | Meaning | Permissible release decision |
-|---|---|---|
+| ---- | ---- | ---- |
 | Met | Criteria are demonstrably met. | Release possible. |
 | Met with residual risk | Criteria are mostly met; the deviation is documented and justified. | Release possible if Redakteur:in/Publisher accept the residual risk. |
 | Not met | A material criterion is open, unreferenced or misleading. | No final release without rework or conscious downgrading of the section. |
@@ -31865,7 +31876,7 @@ To move from aspiration to evidence, CIVITAS Public adopts four guiding research
 These questions will be operationalised through the following **key performance indicators (KPIs)**:
 
 | KPI | Measurement Method | Target (Phase 1) | Target (Phase 2) |
-| --- | --- | --- | --- |
+| ---- | ---- | ---- | ---- |
 | Monthly active users | Platform analytics | 5,000 | 50,000 |
 | Verified author registrations | Identity system logs | 200 | 2,000 |
 | Publication volume (articles + briefs) | Content database | 500/year | 3,000/year |
@@ -31896,7 +31907,7 @@ The full CIVITAS vision encompasses:
 CIVITAS Public does not emerge in a vacuum. Several European civic-technology platforms have demonstrated that participatory digital infrastructure is both technically feasible and politically impactful. Understanding their strengths and limitations is essential for informed design.
 
 | Platform | Origin | Licence | Focus | Governance | Multilingual | Key Lesson for CIVITAS |
-| --- | --- | --- | --- | --- | --- | --- |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | **Decidim** [11] | Barcelona, ES | AGPL-3.0 | Participatory processes, budgets, consultations | Municipal / community-driven | Yes (40+ languages) | Modular architecture enables diverse civic use cases; governance must scale beyond municipal origin |
 | **Consul** | Madrid, ES | AGPL-3.0 | Citizen proposals, debates, participatory budgets | City government-led | Yes (30+ languages) | Strong uptake (100+ cities) but limited cross-border federation; central governance can limit independence |
 | **Your Priorities** | Reykjavík, IS | BSD | Idea generation, prioritisation | Citizens Foundation (NGO) | Partial | AI-assisted idea clustering works at scale; needs stronger verification layer |
@@ -31946,7 +31957,7 @@ This translates into four immediate operational objectives:
 Combining openness with quality requires a layered role structure:
 
 | Role | Access Level | Requirements |
-| --- | --- | --- |
+| ---- | ---- | ---- |
 | **Reader** | Full read access to all public content | None |
 | **Registered Participant** | Polls, topic following, questions, reactions | Registration |
 | **Verified Author** | Publication under accountable profile | Identity verification |
@@ -31998,7 +32009,7 @@ Each published item visibly displays its format, review status, correction histo
 #### 9.1 Poll Types
 
 | Type | Purpose | Scope |
-| --- | --- | --- |
+| ---- | ---- | ---- |
 | Community Poll | Quick platform-internal mood indicator | All registered participants |
 | Structured Poll | Carefully framed issue-specific survey | Targeted participant groups |
 | Expert Snapshot | Qualified perspective from professional or civic group | Certified publishers |
@@ -32034,7 +32045,7 @@ For immediate relevance and public visibility, CIVITAS Public launches with seve
 #### 11.2 Governance Structure
 
 | Body | Responsibility |
-| --- | --- |
+| ---- | ---- |
 | **Foundation Carrier** | Legal form, funding integrity, institutional continuity, strategic independence |
 | **Editorial and Standards Board** | Publication rules, formats, review logic, quality standards |
 | **Civic Oversight Panel** | Fairness, intelligibility, legitimacy from citizen perspective |
@@ -32104,7 +32115,7 @@ As a platform processing personal data of European citizens, CIVITAS Public must
 **Data categories and purpose limitation:**
 
 | Data Category | Purpose | Legal Basis (GDPR) | Retention |
-| --- | --- | --- | --- |
+| ---- | ---- | ---- | ---- |
 | Display name, profile | Public attribution of publications | Art. 6(1)(b) — contract performance | Account lifetime + 1 year |
 | Identity verification data | Trust layer (eIDAS integration) | Art. 6(1)(b) + Art. 9(2)(g) — public interest | Verified status stored; source documents deleted after verification |
 | E-mail address | Account management, notifications | Art. 6(1)(b) | Account lifetime |
@@ -32169,7 +32180,7 @@ The author of this paper is the initiator of the ERDA Initiative, within which C
 ### 15. Risk Assessment and Mitigation
 
 | Risk | Likelihood | Impact | Mitigation |
-| --- | --- | --- | --- |
+| ---- | ---- | ---- | ---- |
 | Perception of elitism due to verified-only publishing | Medium | High | Clear access pathways, open citizen questions, reviewed guest contributions, transparent participation architecture |
 | Insufficient early momentum | High | High | Early deployment of high-utility formats (Europe in Brief, Trend Radar, Citizen Questions); partnerships with established media and civic organisations |
 | Governance overload | Medium | Medium | Minimal but principled governance core; scale structures incrementally |
