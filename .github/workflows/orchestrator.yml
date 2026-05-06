@@ -31,7 +31,7 @@ jobs:
         run: |
           rm -rf gitbook_worker .tmp-gitbook-worker
           mkdir -p .tmp-gitbook-worker
-          tar -xzf packages/gitbook-worker/gitbook-worker-2.0.6-hotfix.tar.gz -C .tmp-gitbook-worker
+          tar -xzf packages/gitbook-worker/gitbook_worker-2.4.0.tar.gz -C .tmp-gitbook-worker
           cp -a .tmp-gitbook-worker/*/gitbook_worker ./
           rm -rf .tmp-gitbook-worker
 
@@ -85,7 +85,7 @@ jobs:
         run: |
           rm -rf gitbook_worker .tmp-gitbook-worker
           mkdir -p .tmp-gitbook-worker
-          tar -xzf packages/gitbook-worker/gitbook-worker-2.0.6-hotfix.tar.gz -C .tmp-gitbook-worker
+          tar -xzf packages/gitbook-worker/gitbook_worker-2.4.0.tar.gz -C .tmp-gitbook-worker
           cp -a .tmp-gitbook-worker/*/gitbook_worker ./
           rm -rf .tmp-gitbook-worker
 
