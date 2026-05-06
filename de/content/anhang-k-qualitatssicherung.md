@@ -70,7 +70,7 @@ Diese zusätzliche Qualitätssicherungsrunde ergänzt das bestehende Rollenspiel
 ##### Rollengliederung und gegenseitige Kritik
 
 | Rolle | Qualitätsauftrag | Kritischer Beitrag |
-|---|---|---|
+| ---- | ---- | ---- |
 | **Writer** | Stärkt die positive Botschaft: Demokratie ist eine Ordnung freier, verantwortlicher und urteilsfähiger Bürger:innen. | Kritisiert strategische Passagen, wenn sie wie reine Machtlogik wirken oder den Schutz von Leben, Würde und Freiheit nicht sichtbar genug begründen. |
 | **Editor** | Ordnet die Argumentation: Ethik zuerst, Strategie danach; moralische Begriffe werden zu klaren Kapitelbrücken. | Kritisiert den Writer, wenn moralische Verdichtung zu pathetisch, zu abstrakt oder strukturell unklar wird. |
 | **Lektor** | Sichert Ton, Sprache und Begriffskonsistenz: nicht polemisch, nicht pauschalisierend, nicht missverständlich. | Kritisiert Writer und Editor, wenn Formulierungen ganze Bevölkerungen adressieren, Tagespolitik überdehnen oder Begriffe uneinheitlich verwenden. |
@@ -131,7 +131,7 @@ Die Erweiterung stärkt das Buch in folgenden Punkten:
 Der Maßnahmenplan wurde als rollenbasierter Redaktionsdurchgang umgesetzt: Zuerst wurden ethische Legitimationsbrücken gestärkt, danach die strategischen Kapitel nachgeschärft. Die Arbeitsrollen wurden dabei wie folgt angewendet:
 
 | Rolle | Umgesetzter Beitrag |
-|---|---|
+| ---- | ---- |
 | **Writer** | Hat die positive Kernthese verdichtet: ERDA ist Schutz-, Würde-, Freiheits- und Verantwortungsprojekt, kein Machtprojekt. |
 | **Editor** | Hat die Staffelung umgesetzt: Kapitel 2, 3, 11, 12 und Anhang H begründen die Strategie in Kapitel 5, 13, 14 und Anhang D. |
 | **Lektor** | Hat pauschalisierende oder tagespolitisch überhitzte Formulierungen vermieden und die Linie „Machtlogiken kritisieren, Menschen nicht entmenschlichen“ abgesichert. |

@@ -160,7 +160,7 @@ Transformation 2050–2075: Spain evolves into a green-tech pioneer leading in c
 ### 9. Key indicators (short form)
 
 | **Indicator**                         | **2025** | **2050** | **2075** |
-| ------------------------------------- | -------- | -------- | -------- |
+| ---- | ---- | ---- | ---- |
 | Real GDP (bn EUR)                     | 1,412    | 430.0    | 480.0    |
 | Population (million)                  | 47.9     | 44.9     | 43.0     |
 | Share of renewables (%)               | 46%      | 75%      | 85%      |

@@ -12,7 +12,7 @@ _**Central ERDA Glossary**_
 This glossary brings together the key terms used in the ERDA book. It serves as a stand‑alone reference and supports consistent terminology across all chapters.
 
 | Term                                         | Definition                                                                                                                                                                                                                      |
-| -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ---- | ---- |
 | **Democratic resilience**                    | The ability of democratic systems to cope with crises and disruptions through participatory learning processes, to protect their core principles (freedom, rule of law, participation), and to adapt to new challenges.         |
 | **Democracy of mature citizens**             | Democratic order in which free citizens judge, object, co-decide and carry responsibility for the shared world according to their capacities; core formula: freedom plus responsibility plus judgement.                      |
 | **Resonance**                                | Mutual, living feedback between citizens, institutions, and technology that strengthens trust, integrates diversity, and uses mistakes as impulses for development.                                                             |

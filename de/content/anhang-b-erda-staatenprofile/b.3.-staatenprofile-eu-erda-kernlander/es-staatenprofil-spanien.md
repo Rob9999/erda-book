@@ -158,7 +158,7 @@ Transformation 2050–2075: Spanien entwickelt sich zu einem Green-Tech-Pionier 
 ### 9. Kennzahlenübersicht (Kurzform)
 
 | **Indikator**                         | **2025** | **2050** | **2075** |
-| ------------------------------------- | -------- | -------- | -------- |
+| ---- | ---- | ---- | ---- |
 | BIP (real, Mrd. EUR)                  | 384,1    | 430,0    | 480,0    |
 | Bevölkerung (Mio.)                    | 47,9     | 44,9     | 43,0     |
 | Anteil Erneuerbare Energien (%)       | 46 %     | 75 %     | 85 %     |

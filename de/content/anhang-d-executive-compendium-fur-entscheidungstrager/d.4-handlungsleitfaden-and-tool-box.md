@@ -68,7 +68,7 @@ Dieser Abschnitt bündelt die operativen Abkürzungen für Entscheidungsträger:
 ## 📎 Direktzugriffe auf Werkzeuge (Auswahl)
 
 | Bereich | Werkzeug | Zweck |
-| --- | --- | --- |
+| ---- | ---- | ---- |
 | Strategie & Kommunikation | `erda-gitbook-kapitel-template.md` | Einheitlicher Aufbau neuer Kapitel, Change-Story. |
 | Beteiligung & Bildung | `interaktive-elemente-checkliste-and-quiz.md` | Planungsgrundlage für Workshops, Lernmodule, Bürgerdialoge. |
 | Qualitätssicherung | `rollenspiel-qualitatssicherungstemplate.md` | Simulation politischer Szenarien, Krisenresilienz trainieren. |

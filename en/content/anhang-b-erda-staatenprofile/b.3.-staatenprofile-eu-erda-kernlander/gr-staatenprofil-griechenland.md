@@ -161,7 +161,7 @@ Narrative: 2025–2050 focuses on renewable build-out and education; 2050–2075
 ### 9. Key indicators
 
 | Indicator                            | 2025       | 2050      | 2075      |
-| ------------------------------------ | ---------- | --------- | --------- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn USD)                         | 245.2      | 346       | 631       |
 | Population                           | 10,432,481 | 9,762,000 | 8,352,000 |
 | Share of renewables (%)              | 68.4       | 82        | 95        |

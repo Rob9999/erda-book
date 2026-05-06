@@ -133,7 +133,7 @@ Narrative: 2025–2050 focus on smart manufacturing and education; 2050–2075 b
 ### 9. Key indicators (short form)
 
 | Indicator                             | 2025    | 2050        | 2075        |
-| ------------------------------------- | ------- | ----------- | ----------- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn USD)                          | 118.0   | 184         | 335         |
 | Population                            | 5.47 m  | 4.94 m      | 4.42 m      |
 | Share of renewables (%)               | 45      | 65 (proj.)  | 85 (proj.)  |

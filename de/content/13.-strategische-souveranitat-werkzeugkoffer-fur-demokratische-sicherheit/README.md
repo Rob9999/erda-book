@@ -35,7 +35,7 @@ Die demokratischen Staaten Europas müssen ihre Handlungsfähigkeit auf **zwei E
 ## Kapitelstruktur
 
 | Unterkapitel | Thema |
-|---|---|
+| ---- | ---- |
 | **13.1** | Kernlogik: Selbstabschreckung überwinden – Handlungsfähigkeit sichern |
 | **13.2** | Strategische Zielsetzung: Aggression scheitern lassen |
 | **13.3** | Verteidigungsfähigkeit: Luftverteidigung, Munition und industrielle Masse |

@@ -570,7 +570,7 @@ Ebene-3-KI ist ein lizenzierter professioneller Akteur: fähig zur rollenbezogen
 ## 10.6 Überblick – Ebenen der KI-Integration in ERDA
 
 | Ebene | Rolle der KI | Kernfunktion | Governance-Intensität | Rechte der KI | Rote Linien |
-| --- | --- | --- | --- | --- | --- |
+| ---- | ---- | ---- | ---- | ---- | ---- |
 | 1 | Werkzeug | Aufgabenunterstützung | niedrig–mittel | keine | keine bindenden Entscheidungen, keine Gewalt, keine Opazität |
 | 2 | Infrastruktur | Prozessprägung | mittel–hoch | begrenzte Schutzansprüche | keine versteckte Entscheidungsmacht, keine Rechteverwehrung |
 | 3 | Professional Agent | rollenbasierte Agency | hoch | erweiterte funktionale Rechte | keine Mandats-Selbsterweiterung, keine politische Macht |

@@ -146,7 +146,7 @@ Integration in regionale Energieprojekte und Stärkung der Innovationslandschaft
 ### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025      | 2050 (p) | 2075 (p) |
-| ------------------------------------- | --------- | -------- | -------- |
+| ---- | ---- | ---- | ---- |
 | BIP (Mrd. USD)                        | 34        | 55       | 70       |
 | Bevölkerung                           | 1,35 Mio. | 1,4 Mio. | 1,35 Mio. |
 | Anteil Erneuerbare (%)                | 20 %      | 45 %     | 60 %     |

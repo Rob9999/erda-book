@@ -136,7 +136,7 @@ Höhere Energieautarkie, fortschrittliche Landwirtschaft, Bildungsoffensive
 ### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025     | 2050       | 2075       |
-| ------------------------------------- | -------- | ---------- | ---------- |
+| ---- | ---- | ---- | ---- |
 | BIP (Mrd. EUR)                        | ≈ 325 | 500 (hyp.) | 620 (hyp.) |
 | Bevölkerung                           | 19 Mio. | 14,8 Mio.  | 12 Mio.    |
 | Anteil Erneuerbare (%)                | 50 %     | 65 % (hyp.)| 80 % (hyp.)|

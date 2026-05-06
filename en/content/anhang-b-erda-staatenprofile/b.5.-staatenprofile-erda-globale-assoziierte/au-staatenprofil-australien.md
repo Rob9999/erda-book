@@ -129,7 +129,7 @@ version: "1.0"
 ### 9. Key indicators (short form)
 
 | Indicator                             | 2023      | 2050 (proj.) | 2075 (proj.) |
-| ------------------------------------- | --------- | ------------ | ------------ |
+| ---- | ---- | ---- | ---- |
 | GDP (bn USD)                          | 1,728     | ~2,700 (hyp.) | ~3,500 (hyp.) |
 | Population                            | 26,659k   | ~30,000k (UN) | ~33,000k (UN) |
 | Share of renewable electricity (%)    | 35        | 70 (hyp.)    | 85 (hyp.)    |

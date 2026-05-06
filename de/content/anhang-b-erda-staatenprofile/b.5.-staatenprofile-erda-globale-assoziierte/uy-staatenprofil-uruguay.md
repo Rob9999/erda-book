@@ -125,7 +125,7 @@ version: "1.0"
 ### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2023 | 2050 (proj.) | 2075 (proj.) | EU-Durchschnitt 2024 |
-| ------------------------------------- | ---- | ------------ | ------------ | ------------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | BIP (Mrd. EUR)                        | 71   | ~95 (hyp.)   | ~120 (hyp.)  |                     |
 | Bevölkerung                           | 3,39 Mio. | ~3,6 Mio. (UN) | ~3,7 Mio. (UN) |                     |
 | Anteil Erneuerbare Energien (%)       | 44   | 60 (hyp.)    | 75 (hyp.)    |                     |

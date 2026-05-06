@@ -146,7 +146,7 @@ Demografischer Wandel gemildert, verstärkte regionale Integration im Indo-Pazif
 ### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2023     | 2050      | 2075      |
-| ------------------------------------- | -------- | --------- | --------- |
+| ---- | ---- | ---- | ---- |
 | BIP (Bio. USD)                        | 4,2      | 5,5*      | 6,0*      |
 | Bevölkerung                         | 124,5 Mio. | 104 Mio.* | 88 Mio.* |
 | Anteil Erneuerbare (%)                | 20 %     | 45 %*    | 70 %*    |

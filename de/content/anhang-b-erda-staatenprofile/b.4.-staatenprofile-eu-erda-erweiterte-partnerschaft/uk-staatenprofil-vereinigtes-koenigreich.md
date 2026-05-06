@@ -147,7 +147,7 @@ version: "1.0"
 ### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator | 2025 | Quelle |
-| --- | --- | --- |
+| ---- | ---- | ---- |
 | Bevölkerung | 67,6 Mio. | ONS |
 | Lebenserwartung | 81,7 Jahre | World Bank |
 | BIP | 2.800 Mrd. EUR | World Bank |

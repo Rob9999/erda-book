@@ -148,7 +148,7 @@ Gradual convergence with EU standards, strengthening democratic processes and su
 ### 9. Key indicators (short form)
 
 | Indicator                             | 2025      | 2050      | 2075      |
-| ------------------------------------- | --------- | --------- | --------- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn USD)                          | 27.5      | 40 (p)    | 55 (p)    |
 | Population                            | 3.18 m    | 2.7 m (p) | 2.3 m (p) |
 | Share of renewables (%)               | 40%       | 55% (p)   | 70% (p)   |

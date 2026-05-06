@@ -121,7 +121,7 @@ version: "1.0"
 ### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                                                                                      | 2025  | 2050  | 2075  |
-| ---------------------------------------------------------------------------------------------- | ----- | ----- | ----- |
+| ---- | ---- | ---- | ---- |
 | [BIP (Mrd. EUR)](https://ec.europa.eu/eurostat/databrowser/view/tec00115/default/table)        | 131,5 | 175,0 | 260,0 |
 | [Bevölkerung (Mio.)](https://population.un.org/wpp/downloads)                                  | 11,81 | 11,87 | 11,42 |
 | [Erneuerbare Energie (%)](https://www.iea.org)                                                 | 18    | 45    | 75    |

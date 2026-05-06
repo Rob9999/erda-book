@@ -146,7 +146,7 @@ Fortschreitende Dekarbonisierung, Ausbau der Polarroute, technologische Selbstst
 ### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025     | 2050      | 2075      |
-| ------------------------------------- | -------- | --------- | --------- |
+| ---- | ---- | ---- | ---- |
 | BIP (Mrd. EUR)                        | 2 050    | 3 575 (p) | 5 865 (p) |
 | Bevölkerung                           | 40,1 Mio.| 45,4 Mio. | 49,3 Mio. |
 | Anteil Erneuerbare (%)                | 19 %     | 45 % (p)  | 70 % (p)  |

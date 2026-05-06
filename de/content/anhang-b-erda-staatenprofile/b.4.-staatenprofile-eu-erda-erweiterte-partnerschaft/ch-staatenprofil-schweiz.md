@@ -164,7 +164,7 @@ Ausbau der Bildungs- und Forschungsallianzen, stärkere europäische Integration
 ### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025        | 2050 (p) | 2075 (p) | EU-Durchschnitt 2024 |
-| ------------------------------------- | ----------- | -------- | -------- | ------------------ |
+| ---- | ---- | ---- | ---- | ---- |
 | BIP (Mrd. EUR)                        | 805         | 1 100    | 1 300    | 16 556 |
 | Bevölkerung                           | 9,0 Mio.    | 9,34 Mio. | 10,25 Mio. | 447 Mio. |
 | Anteil Erneuerbare Energien (%)       | 75          | 85       | 92       | 37 |

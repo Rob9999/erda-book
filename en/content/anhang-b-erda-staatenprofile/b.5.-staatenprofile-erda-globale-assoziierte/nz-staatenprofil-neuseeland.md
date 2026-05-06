@@ -166,7 +166,7 @@ Technological upgrade of agriculture, sustainable tourism, AI in public administ
 ### 9. Key indicators (short form)
 
 | Indicator                            | 2025 | 2050 (p) | 2075 (p) | EU average 2024 |
-| ------------------------------------ | ---- | -------- | -------- | --------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                         | 230  | 310      | 370      | 16,556 |
 | Population                           | 5.22 m | 5.69 m | 6.02 m | 447 m |
 | Share of renewables (%)              | 40  | 65       | 80       | 37 |

@@ -49,7 +49,7 @@ Jede Quelle erzählt eine Geschichte – hüte sie mit Sorgfalt.
 ### 📐 Formatregeln
 
 | Regelkategorie                | Details                                                                                                                                         |
-| ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| ---- | ---- |
 | **Verlinkung**                | Internetlinks in eckigen Klammern, direkt klickbar. GitBook-Verweise relativ mit vollständigem Dateinamen.                                      |
 | **Textliche Einheitlichkeit** | Einheitliche Anführungszeichen („“). Bindestriche statt Unterstriche in Dateinamen. Keine Leerzeichen oder Sonderzeichen in GitBook-Dateinamen. |
 | **Transparenz**               | Klare Trennung geplanter Konzepte von existierenden Materialien.                                                                                |
@@ -87,7 +87,7 @@ Jede Quelle erzählt eine Geschichte – hüte sie mit Sorgfalt.
 #### 🔎 Prüfungsschritte:
 
 | Schritt                                                                | Priorität | Status (✔️/❌) | Kommentar |
-| ---------------------------------------------------------------------- | --------- | ------------- | --------- |
+| ---- | ---- | ---- | ---- |
 | Alle Internetlinks aufrufbar und aktuell?                              | Muss      |               |           |
 | Alle GitBook-Verweise existieren und stimmen mit `SUMMARY.md` überein? | Muss      |               |           |
 | Quellen passen fachlich exakt zum jeweiligen Kapitelinhalt?            | Muss      |               |           |

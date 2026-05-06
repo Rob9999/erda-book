@@ -127,7 +127,7 @@ version: "1.0"
 ### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                              | 2023      | 2050 (proj.) | 2075 (proj.) |
-| -------------------------------------- | --------- | ------------ | ------------ |
+| ---- | ---- | ---- | ---- |
 | BIP (Mrd. USD)                         | 1728      | ~2700 (hyp.) | ~3500 (hyp.) |
 | Bevölkerung                            | 26 659 k  | ~30 000 k (UN) | ~33 000 k (UN) |
 | Anteil Erneuerbare Strom (%)           | 35        | 70 (hyp.)    | 85 (hyp.)    |

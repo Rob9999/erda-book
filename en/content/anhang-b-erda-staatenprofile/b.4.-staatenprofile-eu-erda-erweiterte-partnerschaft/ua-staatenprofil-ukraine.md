@@ -158,7 +158,7 @@ _"Ukraine proves how determination and international solidarity can reinforce an
 ### 9. Key indicators (short form)
 
 | Indicator                            | 2025 | 2050 | 2075 |
-| ------------------------------------ | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                         | 200  | 450  | 700  |
 | Population (million)                 | 37   | 45   | 48   |
 | Share of renewables (%)              | 25   | 50   | 70   |

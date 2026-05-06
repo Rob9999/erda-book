@@ -22,7 +22,7 @@ The critique in this appendix is therefore directed at power logics, not at whol
 ## H.2 Overview of Central Power Structures
 
 | Power structure          | Brief description                                   | Current examples (2025)                                | Measures for remediation                                                                                                    |
-| ------------------------ | --------------------------------------------------- | ------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------- |
+| ---- | ---- | ---- | ---- |
 | Totalitarianism          | Total control of all areas of life                  | North Korea, Eritrea, Turkmenistan                     | International sanctions, support for independent media, long‑term development of civil society                              |
 | Authoritarianism         | Strong executive, restriction of civil liberties    | China, Russia, Belarus                                 | Political dialogue, economic conditionality, long‑term support for democratic forces                                        |
 | Military dictatorship    | Military rule through coup                          | Myanmar, Sudan                                         | UN peace missions, embargoes, support for civilian transition governments                                                   |

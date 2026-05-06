@@ -143,7 +143,7 @@ Transformation 2050–2075: full decarbonisation, automated agriculture, regiona
 ### 9. Key indicators (short form)
 
 | Indicator                            | 2025 | 2050 | 2075 |
-| ------------------------------------ | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                         | 77.94| 95.0 | 130.0 |
 | Population (million)                 | 2.83 | 2.26 | 1.90 |
 | Share of renewables (power, %)       | 46   | 65   | 90    |

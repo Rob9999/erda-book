@@ -146,7 +146,7 @@ Steigende Selbstversorgungsgrade, Hightech-Talente ausgebildet, sozioökologisch
 ### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025     | 2050      | 2075      |
-| ------------------------------------- | -------- | --------- | --------- |
+| ---- | ---- | ---- | ---- |
 | BIP (Mrd. EUR)                        | 63       | 95        | 135       |
 | Bevölkerung                           | 2,12 Mio. | 2,05 Mio. | 1,95 Mio. |
 | Anteil Erneuerbare (%)                | 36 %     | 58 %      | 83 %      |

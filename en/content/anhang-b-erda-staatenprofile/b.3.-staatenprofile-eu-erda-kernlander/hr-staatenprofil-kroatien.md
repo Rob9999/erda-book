@@ -159,7 +159,7 @@ Narrative: the economy consolidates with investments in tourism and digitalisati
 ### 9. Key indicators (short form)
 
 | Indicator                            | 2025      | 2050      | 2075      |
-| ------------------------------------ | --------- | --------- | --------- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn USD)                         | 84.4      | 131       | 239       |
 | Population                           | 3,848,160 | 3,234,160 | 2,624,398 |
 | Share of renewables (%)              | 61.7      | 75        | 90        |

@@ -148,7 +148,7 @@ version: "1.0"
 ### 9. Key indicators (short form)
 
 | Indicator                            | 2023 | 2050 | 2075 |
-| ------------------------------------ | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- |
 | GDP (tn USD)                         | 4.2  | 5.5* | 6.0* |
 | Population (million)                 | 124.5 | 104* | 88* |
 | Share of renewables (%)              | 20   | 45*  | 70* |

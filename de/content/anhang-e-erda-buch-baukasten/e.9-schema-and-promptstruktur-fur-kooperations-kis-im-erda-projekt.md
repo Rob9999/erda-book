@@ -91,7 +91,7 @@ Die KI achtet auf:
 ### 🧬 6. Spezialfunktionen (für GPT-4o+)
 
 | Funktion                 | Beschreibung                                                   |
-| ------------------------ | -------------------------------------------------------------- |
+| ---- | ---- |
 | 🧩 Kapitelkompression    | Zusammenfassung eines Kapitels in < 250 Wörtern                |
 | 📎 Quellenerweiterung    | Ergänzen externer Studien/Belege auf Anfrage                   |
 | 🪞 Ethik-Prüfung         | Reflexion auf Tugend, Identität, Würde und langfristige Folgen |

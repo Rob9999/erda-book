@@ -146,7 +146,7 @@ version: "1.0"
 ### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                            | 2025      | 2050      | 2075      | EU-Benchmark 2024                 |
-| ------------------------------------ | --------- | --------- | --------- | --------------------------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | BIP (Mrd. EUR)                       | 428,5     | 600       | 750       | 492 (Ø pro Mitgliedsstaat)        |
 | Bevölkerung                          | 9 113 574 | 9 825 200 | 9 400 000 | 16 556 000 (Ø pro Mitgliedsstaat) |
 | Anteil Erneuerbare (%)               | 34,7      | 65        | 80        | 22                                |

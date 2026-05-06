@@ -149,7 +149,7 @@ version: "1.0"
 ### 9. Key indicators (short form)
 
 | Indicator | 2025 | Source |
-| --- | --- | --- |
+| ---- | ---- | ---- |
 | Population | 67.6 m | ONS |
 | Life expectancy | 81.7 years | World Bank |
 | GDP | 2,800 bn EUR | World Bank |

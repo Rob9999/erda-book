@@ -25,7 +25,7 @@ The central review question is:
 ## M.3 Measurable Minimum Standards
 
 | Area | Measurable requirement | Minimum evidence |
-|---|---|---|
+| ---- | ---- | ---- |
 | Historical baseline | Every baseline states data date, purpose and source or source class. | Visible in the text or source section. |
 | Current statistic | Every current, concrete statistic states source and data/access date. | Link, DOI, report, dataset or robust source reference. |
 | Security and war statement | Precise figures, quotes and situational claims are referenced or marked as uncertain. | Source plus data date; no false precision. |
@@ -40,7 +40,7 @@ The central review question is:
 ## M.4 Release Gates
 
 | Gate | Question | Passing standard |
-|---|---|---|
+| ---- | ---- | ---- |
 | M-G1 Status clarity | Can readers recognise what kind of text they are reading? | Analysis, baseline, scenario, roadmap, paper and normative proposition are distinguishable. |
 | M-G2 Source integrity | Are sensitive and current claims traceably referenced? | No unreferenced precise number in war, energy, security, democracy quality or geopolitics. |
 | M-G3 Baseline transparency | Are historical data states marked as baselines? | Historical figures are not presented as daily-current statistics. |
@@ -52,7 +52,7 @@ The central review question is:
 ## M.5 Decision Logic
 
 | Result | Meaning | Permissible release decision |
-|---|---|---|
+| ---- | ---- | ---- |
 | Met | Criteria are demonstrably met. | Release possible. |
 | Met with residual risk | Criteria are mostly met; the deviation is documented and justified. | Release possible if Redakteur:in/Publisher accept the residual risk. |
 | Not met | A material criterion is open, unreferenced or misleading. | No final release without rework or conscious downgrading of the section. |

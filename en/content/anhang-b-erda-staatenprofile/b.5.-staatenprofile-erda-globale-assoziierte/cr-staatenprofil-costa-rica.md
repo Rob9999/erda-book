@@ -134,7 +134,7 @@ version: "1.0"
 ### 9. Key indicators (short form)
 
 | Indicator                              | 2023 | 2050 (proj.) | 2075 (proj.) |
-| -------------------------------------- | ---- | ------------ | ------------ |
+| ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                           | 78   | ~120 (hyp.)  | ~160 (hyp.)  |
 | Population                             | 5.1 m | 5.8 m (hyp.) | 6.1 m (hyp.) |
 | Share of renewable energy (%)          | 99   | 100 (hyp.)   | 100 (hyp.)   |

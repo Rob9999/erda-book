@@ -128,7 +128,7 @@ version: "1.0"
 ### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025      | 2050    | 2075      |
-| ------------------------------------- | --------- | ------- | --------- |
+| ---- | ---- | ---- | ---- |
 | BIP (Mrd. EUR)                        | 650       | 820     | 890       |
 | Bevölkerung                           | 10,5 Mio. | 11 Mio. | 10,7 Mio. |
 | Anteil Erneuerbare (%)                | 65 %      | 85 %    | 95 %      |

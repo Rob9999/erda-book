@@ -52,7 +52,7 @@ Every source tells a story – handle it with care.
 ### 📐 Formatting rules
 
 | Rule category | Details |
-| --- | --- |
+| ---- | ---- |
 | **Linking** | Internet links in square brackets, directly clickable. GitBook references relative with full filename. |
 | **Text consistency** | Consistent quotation marks (“”). Hyphens instead of underscores in filenames. No spaces or special characters in GitBook filenames. |
 | **Transparency** | Clear separation of planned concepts from existing materials. |
@@ -84,7 +84,7 @@ Every source tells a story – handle it with care.
 #### 🔎 Review steps
 
 | Step | Priority | Status (✔️/❌) | Comment |
-| --- | --- | --- | --- |
+| ---- | ---- | ---- | ---- |
 | All internet links accessible and current? | Must |  |  |
 | All GitBook references exist and match `SUMMARY.md`? | Must |  |  |
 | Sources match the chapter content precisely? | Must |  |  |

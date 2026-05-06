@@ -162,7 +162,7 @@ Expand education and research alliances; deepen European integration; build sust
 ### 9. Key indicators (short form)
 
 | Indicator                             | 2025 | 2050 (p) | 2075 (p) | EU average 2024 |
-| ------------------------------------- | ---- | -------- | -------- | -------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                          | 805  | 1,100    | 1,300    | 16,556 |
 | Population                            | 9.0 m | 9.34 m  | 10.25 m  | 447 m |
 | Share of renewables (%)               | 75   | 85       | 92       | 37 |

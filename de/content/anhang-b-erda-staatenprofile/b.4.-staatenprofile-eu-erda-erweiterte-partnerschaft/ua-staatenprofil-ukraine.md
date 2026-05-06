@@ -156,7 +156,7 @@ _„Die Ukraine zeigt, wie Entschlossenheit und internationale Solidarität eine
 ### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025 | 2050 | 2075 |
-| ------------------------------------- | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- |
 | BIP (Mrd. EUR)                        | 200  | 450  | 700  |
 | Bevölkerung (Mio.)                    | 37   | 45   | 48   |
 | Anteil Erneuerbare Energien (%)       | 25   | 50   | 70   |

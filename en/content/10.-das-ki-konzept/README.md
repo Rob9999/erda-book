@@ -573,7 +573,7 @@ Level 3 AI is a licensed professional actor: capable of role-based agency, but s
 ## 10.6 Overview – Levels of AI integration in ERDA
 
 | Level | Role of AI | Core function | Governance intensity | Rights of AI | Red lines |
-| --- | --- | --- | --- | --- | --- |
+| ---- | ---- | ---- | ---- | ---- | ---- |
 | 1 | Tool | Task support | Low–medium | None | No binding decisions, no force, no opacity |
 | 2 | Infrastructure | Process shaping | Medium–high | Limited protections | No hidden decision power, no rights denial |
 | 3 | Professional agent | Role-based agency | High | Expanded functional rights | No mandate self-extension, no political power |

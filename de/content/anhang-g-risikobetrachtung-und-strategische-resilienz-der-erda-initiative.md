@@ -85,7 +85,7 @@ Die erfolgreiche Umsetzung der ERDA-Vision erfordert eine frühzeitige und detai
 #### G.8 Strategische Handlungsempfehlungen
 
 | Priorität | Handlungsempfehlung                                                                                      |
-| --------- | -------------------------------------------------------------------------------------------------------- |
+| ---- | ---- |
 | Sehr Hoch | Sofortige Einrichtung eines ERDA-Demokratieindexes und EU-Cyberabwehrzentrums                            |
 | Sehr Hoch | Aufbau robuster europäischer Produktionscluster (FORTERA)                                                |
 | Hoch      | Umfassende digitale Bildungsinitiative zur Schließung der digitalen Kluft                                |

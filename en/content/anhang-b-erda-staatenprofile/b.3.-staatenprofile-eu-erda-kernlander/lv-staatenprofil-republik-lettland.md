@@ -133,7 +133,7 @@ Narrative: 2025 sees digital government and business reform while managing youth
 ### 9. Key indicators (short form)
 
 | Indicator                            | 2025 | 2050 | 2075 |
-| ------------------------------------ | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn USD)                         | 48.4 | 75.0 | 110.0 |
 | Population (million)                 | 1.86 | 1.25 | 1.00* |
 | Share of renewables (power, %)       | 42   | 65   | 90    |

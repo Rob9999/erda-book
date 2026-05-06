@@ -37,7 +37,7 @@ The democratic states of Europe must secure their capacity to act on **two level
 ## Chapter Structure
 
 | Subchapter | Topic |
-|---|---|
+| ---- | ---- |
 | **13.1** | Core Logic: Overcoming Self-Deterrence – Securing the Capacity to Act |
 | **13.2** | Strategic Objective: Making Aggression Fail |
 | **13.3** | Defence Capability: Air Defence, Ammunition and Industrial Mass |

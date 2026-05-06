@@ -23,7 +23,7 @@ Die zentrale Prüffrage lautet:
 ## M.3 Messbare Mindeststandards
 
 | Bereich | Messbare Vorgabe | Mindestnachweis |
-|---|---|---|
+| ---- | ---- | ---- |
 | Historische Baseline | Jede Baseline nennt Datenstand, Zweck und Quelle oder Quellenklasse. | Im Text oder Quellenabschnitt sichtbar. |
 | Aktuelle Statistik | Jede aktuelle, konkrete Statistik nennt Quelle und Daten-/Abrufstand. | Link, DOI, Bericht, Datensatz oder belastbare Quellenangabe. |
 | Sicherheits- und Kriegsaussage | Präzise Zahlen, Zitate und Lagebehauptungen sind belegt oder als unsicher markiert. | Quelle plus Datenstand; keine Scheingenauigkeit. |
@@ -38,7 +38,7 @@ Die zentrale Prüffrage lautet:
 ## M.4 Release-Gates
 
 | Gate | Frage | Bestehensmaßstab |
-|---|---|---|
+| ---- | ---- | ---- |
 | M-G1 Statusklarheit | Ist für Leser:innen erkennbar, welche Textart sie lesen? | Analyse, Baseline, Szenario, Roadmap, Paper und normative Setzung sind unterscheidbar. |
 | M-G2 Quellenintegrität | Sind sensitive und aktuelle Behauptungen nachvollziehbar belegt? | Keine unbelegte präzise Zahl in Krieg, Energie, Sicherheit, Demokratiequalität oder Geopolitik. |
 | M-G3 Baseline-Transparenz | Sind historische Datenstände als Baseline markiert? | Historische Zahlen werden nicht als tagesaktuelle Statistik verkauft. |
@@ -50,7 +50,7 @@ Die zentrale Prüffrage lautet:
 ## M.5 Entscheidungslogik
 
 | Ergebnis | Bedeutung | Zulässige Release-Entscheidung |
-|---|---|---|
+| ---- | ---- | ---- |
 | Erfüllt | Kriterien sind nachweisbar erfüllt. | Freigabe möglich. |
 | Erfüllt mit Restrisiko | Kriterien sind überwiegend erfüllt; Abweichung ist dokumentiert und begründet. | Freigabe möglich, wenn Redakteur:in/Publisher Restrisiko akzeptieren. |
 | Nicht erfüllt | Ein wesentliches Kriterium ist offen, unbelegt oder irreführend. | Keine Finalfreigabe ohne Nacharbeit oder bewusste Herabstufung des Abschnitts. |

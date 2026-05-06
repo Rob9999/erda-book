@@ -142,7 +142,7 @@ Transformation 2050–2075: fully decarbonised system, high automation, mature b
 ### 9. Key indicators (short form)
 
 | Indicator                            | 2025 | 2050 | 2075 |
-| ------------------------------------ | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn USD)                         | 587  | 870  | 1,430 |
 | Population (million)                 | 5.31 | 5.97 | 5.71 |
 | Share of renewables (%)              | 40   | 75   | 90   |

@@ -145,7 +145,7 @@ Integration into regional energy projects; stronger innovation landscape
 ### 9. Key indicators (short form)
 
 | Indicator                             | 2025 | 2050 (p) | 2075 (p) |
-| ------------------------------------- | ---- | -------- | -------- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn USD)                          | 34   | 55       | 70       |
 | Population                            | 1.35 m | 1.4 m | 1.35 m |
 | Share of renewables (%)               | 20%  | 45%      | 60%      |

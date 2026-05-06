@@ -164,7 +164,7 @@ Technologische Aufwertung der Landwirtschaft, nachhaltiger Tourismus, KI-Einsatz
 ### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025   | 2050 (p) | 2075 (p) | EU-Durchschnitt 2024 |
-| ------------------------------------- | ------ | -------- | -------- | ------------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | BIP (Mrd. EUR)                        | 230    | 310      | 370      | 16 556 |
 | Bevölkerung                           | 5,22 Mio. | 5,69 Mio. | 6,02 Mio. | 447 Mio. |
 | Anteil Erneuerbare Energien (%)       | 40     | 65       | 80       | 37 |

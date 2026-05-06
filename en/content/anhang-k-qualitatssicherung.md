@@ -72,7 +72,7 @@ This additional quality-assurance round extends the existing role-play with the 
 ##### Role structure and mutual critique
 
 | Role | Quality mandate | Critical contribution |
-|---|---|---|
+| ---- | ---- | ---- |
 | **Writer** | Strengthens the positive message: democracy is an order of free, responsible and judgement-capable citizens. | Criticises strategic passages when they sound like pure power logic or do not visibly justify the protection of life, dignity and freedom. |
 | **Editor** | Orders the argument: ethics first, strategy second; moral concepts become clear bridges between chapters. | Criticises the Writer when moral condensation becomes too rhetorical, too abstract or structurally unclear. |
 | **Lektor** | Secures tone, language and terminology: not polemical, not sweeping, not ambiguous. | Criticises Writer and Editor when wording targets whole populations, overstretches day-to-day politics or uses terms inconsistently. |
@@ -133,7 +133,7 @@ The extension strengthens the book in the following areas:
 The action plan was implemented as a role-based editorial pass: ethical legitimacy bridges were strengthened first, and the strategic chapters were sharpened afterwards. The working roles were applied as follows:
 
 | Role | Implemented contribution |
-|---|---|
+| ---- | ---- |
 | **Writer** | Condensed the positive core thesis: ERDA is a project of protection, dignity, freedom and responsibility, not a power project. |
 | **Editor** | Implemented the sequence: chapters 2, 3, 11, 12 and Appendix H ground the strategy in chapters 5, 13, 14 and Appendix D. |
 | **Lektor** | Avoided sweeping or overheated day-to-day political wording and secured the line “criticise power logics, do not dehumanise people”. |

@@ -124,7 +124,7 @@ version: "1.0"
 ### 9. Key indicators (short form)
 
 | Indicator | 2025 | 2050 | 2075 |
-| --- | --- | --- | --- |
+| ---- | ---- | ---- | ---- |
 | [GDP (bn EUR)](https://ec.europa.eu/eurostat/databrowser/view/tec00115/default/table) | 131.5 | 175.0 | 260.0 |
 | [Population (m)](https://population.un.org/wpp/downloads) | 11.81 | 11.87 | 11.42 |
 | [Renewable energy (%)](https://www.iea.org) | 18 | 45 | 75 |

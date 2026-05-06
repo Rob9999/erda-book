@@ -99,7 +99,7 @@ The AI pays attention to:
 ### 🧬 6) Special functions (for GPT‑4o+)
 
 | Function | Description |
-| --- | --- |
+| ---- | ---- |
 | 🧩 Chapter compression | Summarise a chapter in < 250 words |
 | 📎 Source expansion | Add external studies/evidence on request |
 | 🪞 Ethics review | Reflect on virtue, identity, dignity and long-term consequences |

@@ -34,7 +34,7 @@ Dieses Kapitel entwirft den **nächsten logischen Sprung**: demokratische Koalit
 ## Kapitelstruktur
 
 | Unterkapitel | Thema |
-|---|---|
+| ---- | ---- |
 | **14.1** | Warum Koalitionen der Willigen? – Schengen, Euro und das Prinzip der Vorreiterbündnisse |
 | **14.2** | Zehn demokratische Koalitionen – konkrete Handlungsfelder |
 | **14.3** | Stufenmodell: Vom Club zur Föderation (Stufe 0–9) |
@@ -46,7 +46,7 @@ Dieses Kapitel entwirft den **nächsten logischen Sprung**: demokratische Koalit
 ### Vertragsanlagen (Annexe)
 
 | Annex | Titel | Umfang |
-|---|---|---|
+| ---- | ---- | ---- |
 | **14.A** | Risk Controls & Enforcement – NoGo-Schwellen, Stufen 0–5, RACI | 18 Artikel |
 | **14.B** | Procurement Code – Vergabeverfahren, Integrity, Dual Sourcing, KPI | 30 Artikel |
 | **14.C** | Interop & Certification – Levels L0–L4, Tier↔Level, Red-Team | 27 Artikel |

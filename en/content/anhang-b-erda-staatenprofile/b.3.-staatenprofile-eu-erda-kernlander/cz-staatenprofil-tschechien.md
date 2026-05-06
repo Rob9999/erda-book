@@ -130,7 +130,7 @@ version: "1.0"
 ### 9. Key indicators (short form)
 
 | Indicator | 2025 | 2050 | 2075 |
-| --- | --- | --- | --- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn EUR) | 295 | 430 | 510 |
 | Population | 10.5 m | 10.1 m | 9.8 m |
 | Renewable energy share (%) | 24 | 50 | 68 |

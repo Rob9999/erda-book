@@ -148,7 +148,7 @@ version: "1.0"
 ### 9. Key indicators (short form)
 
 | Indicator                            | 2025      | 2050      | 2075      | EU benchmark 2024                  |
-| ------------------------------------ | --------- | --------- | --------- | ---------------------------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                         | 428.5     | 600       | 750       | 492 (avg. per member state)        |
 | Population                           | 9,113,574 | 9,825,200 | 9,400,000 | 16,556,000 (avg. per member state) |
 | Share of renewables (%)              | 34.7      | 65        | 80        | 22                                 |

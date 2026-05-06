@@ -9,7 +9,7 @@ _**Zentrales ERDA-Glossar**_
 Dieses Glossar fasst die zentralen Begriffe des ERDA-Buches zusammen. Es dient als eigenständiges Nachschlagewerk und unterstützt eine einheitliche Begriffsnutzung über alle Kapitel hinweg.
 
 | Begriff                                         | Definition                                                                                                                                                                                                                          |
-| ----------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ---- | ---- |
 | **Demokratische Resilienz**                     | Die Fähigkeit demokratischer Systeme, Krisen und Störungen durch partizipative Lernprozesse zu bewältigen, ihre Grundprinzipien (Freiheit, Rechtsstaatlichkeit, Teilhabe) zu schützen und sich an neue Herausforderungen anzupassen. |
 | **Demokratie der Mündigen**                     | Demokratische Ordnung, in der freie Bürger:innen urteilen, widersprechen, mitentscheiden und nach ihren Fähigkeiten Verantwortung für die gemeinsame Welt tragen; Kernformel: Freiheit plus Verantwortung plus Urteilskraft.          |
 | **Resonanz**                                    | Wechselseitige, lebendige Rückkopplung zwischen Bürger:innen, Institutionen und Technologie, die Vertrauen stärkt, Vielfalt integriert und Fehler als Entwicklungsimpulse nutzt.                                                    |

@@ -115,7 +115,7 @@ version: "1.0"
 ### 9. Key indicators (short form)
 
 | Indicator | Value | Source |
-| --- | --- | --- |
+| ---- | ---- | ---- |
 | Population 2023 | 5,519,594 | World Bank |
 | Life expectancy 2023 | 83.1 years | World Bank |
 | GDP per capita 2023 | 87,925 USD | World Bank |

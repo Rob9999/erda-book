@@ -152,7 +152,7 @@ Mehrwertorientierte Industriepolitik, technologischer Wissenstransfer und region
 ### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025 | 2050      | 2075      |
-| ------------------------------------- | ---- | --------- | --------- |
+| ---- | ---- | ---- | ---- |
 | BIP (Mrd. EUR)                        | 315  | 517 (p)   | 849 (p)   |
 | Bevölkerung                           | 20 Mio. | 19 Mio. (p) | 17 Mio. (p) |
 | Anteil Erneuerbare (%)                | 35 % | 60 % (p)  | 80 % (p)  |

@@ -145,7 +145,7 @@ version: "1.0"
 ### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025 | 2050 | 2075 | EU-Durchschnitt 2024 (Benchmark) |
-| ------------------------------------- | ---- | ---- | ---- | ------------------------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | BIP (Mrd. EUR)                        | 22   | 40 (p) | 55 (p) | 16 556 |
 | Bevölkerung                           | 3,1 Mio. | 2,9 Mio. (p) | 2,7 Mio. (p) | 447 Mio. |
 | Anteil Erneuerbare Energien (%)       | 38   | 55 (p) | 70 (p) | 37 |

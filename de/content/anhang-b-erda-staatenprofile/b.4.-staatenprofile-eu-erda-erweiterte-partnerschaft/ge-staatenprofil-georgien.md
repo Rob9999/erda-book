@@ -145,7 +145,7 @@ Wirtschaftliche Integration mit EU-Märkten, Ausbau erneuerbarer Energien, Stär
 ### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025 | 2050      | 2075      |
-| ------------------------------------- | ---- | --------- | --------- |
+| ---- | ---- | ---- | ---- |
 | BIP (Mrd. USD)                        | 32   | 50 (hyp.) | 70 (hyp.) |
 | Bevölkerung                           | 3,7 Mio. | 3,39 Mio. | 2,91 Mio. |
 | Anteil Erneuerbare (%)                | 35 % | 55 % (hyp.) | 80 % (hyp.) |

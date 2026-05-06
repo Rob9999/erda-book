@@ -140,7 +140,7 @@ Narrative: 2025–2050 focuses on AI education, energy transition, demographic i
 ### 9. Key indicators (short form)
 
 | Indicator                             | 2025      | 2050      | 2075      |
-| ------------------------------------- | --------- | --------- | --------- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                          | 4,200     | 5,800     | 6,300     |
 | Population                            | 83.5 m    | 82.0 m    | 78.0 m    |
 | Share of renewables (%)               | 46        | 70        | 90        |

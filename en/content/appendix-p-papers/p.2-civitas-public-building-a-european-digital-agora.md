@@ -110,7 +110,7 @@ To move from aspiration to evidence, CIVITAS Public adopts four guiding research
 These questions will be operationalised through the following **key performance indicators (KPIs)**:
 
 | KPI | Measurement Method | Target (Phase 1) | Target (Phase 2) |
-| --- | --- | --- | --- |
+| ---- | ---- | ---- | ---- |
 | Monthly active users | Platform analytics | 5,000 | 50,000 |
 | Verified author registrations | Identity system logs | 200 | 2,000 |
 | Publication volume (articles + briefs) | Content database | 500/year | 3,000/year |
@@ -141,7 +141,7 @@ The full CIVITAS vision encompasses:
 CIVITAS Public does not emerge in a vacuum. Several European civic-technology platforms have demonstrated that participatory digital infrastructure is both technically feasible and politically impactful. Understanding their strengths and limitations is essential for informed design.
 
 | Platform | Origin | Licence | Focus | Governance | Multilingual | Key Lesson for CIVITAS |
-| --- | --- | --- | --- | --- | --- | --- |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | **Decidim** [11] | Barcelona, ES | AGPL-3.0 | Participatory processes, budgets, consultations | Municipal / community-driven | Yes (40+ languages) | Modular architecture enables diverse civic use cases; governance must scale beyond municipal origin |
 | **Consul** | Madrid, ES | AGPL-3.0 | Citizen proposals, debates, participatory budgets | City government-led | Yes (30+ languages) | Strong uptake (100+ cities) but limited cross-border federation; central governance can limit independence |
 | **Your Priorities** | Reykjavík, IS | BSD | Idea generation, prioritisation | Citizens Foundation (NGO) | Partial | AI-assisted idea clustering works at scale; needs stronger verification layer |
@@ -191,7 +191,7 @@ This translates into four immediate operational objectives:
 Combining openness with quality requires a layered role structure:
 
 | Role | Access Level | Requirements |
-| --- | --- | --- |
+| ---- | ---- | ---- |
 | **Reader** | Full read access to all public content | None |
 | **Registered Participant** | Polls, topic following, questions, reactions | Registration |
 | **Verified Author** | Publication under accountable profile | Identity verification |
@@ -243,7 +243,7 @@ Each published item visibly displays its format, review status, correction histo
 ### 9.1 Poll Types
 
 | Type | Purpose | Scope |
-| --- | --- | --- |
+| ---- | ---- | ---- |
 | Community Poll | Quick platform-internal mood indicator | All registered participants |
 | Structured Poll | Carefully framed issue-specific survey | Targeted participant groups |
 | Expert Snapshot | Qualified perspective from professional or civic group | Certified publishers |
@@ -279,7 +279,7 @@ For immediate relevance and public visibility, CIVITAS Public launches with seve
 ### 11.2 Governance Structure
 
 | Body | Responsibility |
-| --- | --- |
+| ---- | ---- |
 | **Foundation Carrier** | Legal form, funding integrity, institutional continuity, strategic independence |
 | **Editorial and Standards Board** | Publication rules, formats, review logic, quality standards |
 | **Civic Oversight Panel** | Fairness, intelligibility, legitimacy from citizen perspective |
@@ -349,7 +349,7 @@ As a platform processing personal data of European citizens, CIVITAS Public must
 **Data categories and purpose limitation:**
 
 | Data Category | Purpose | Legal Basis (GDPR) | Retention |
-| --- | --- | --- | --- |
+| ---- | ---- | ---- | ---- |
 | Display name, profile | Public attribution of publications | Art. 6(1)(b) — contract performance | Account lifetime + 1 year |
 | Identity verification data | Trust layer (eIDAS integration) | Art. 6(1)(b) + Art. 9(2)(g) — public interest | Verified status stored; source documents deleted after verification |
 | E-mail address | Account management, notifications | Art. 6(1)(b) | Account lifetime |
@@ -414,7 +414,7 @@ The author of this paper is the initiator of the ERDA Initiative, within which C
 ## 15. Risk Assessment and Mitigation
 
 | Risk | Likelihood | Impact | Mitigation |
-| --- | --- | --- | --- |
+| ---- | ---- | ---- | ---- |
 | Perception of elitism due to verified-only publishing | Medium | High | Clear access pathways, open citizen questions, reviewed guest contributions, transparent participation architecture |
 | Insufficient early momentum | High | High | Early deployment of high-utility formats (Europe in Brief, Trend Radar, Citizen Questions); partnerships with established media and civic organisations |
 | Governance overload | Medium | Medium | Minimal but principled governance core; scale structures incrementally |

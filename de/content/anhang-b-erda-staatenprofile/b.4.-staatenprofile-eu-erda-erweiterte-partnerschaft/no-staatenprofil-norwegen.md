@@ -113,7 +113,7 @@ version: "1.0"
 ### 9. Kennzahlenübersicht (Kurzform)
 
 | Kennzahl | Wert | Quelle |
-| --- | --- | --- |
+| ---- | ---- | ---- |
 | Bevölkerung 2023 | 5.519.594 | World Bank |
 | Lebenserwartung 2023 | 83,1 Jahre | World Bank |
 | BIP pro Kopf 2023 | 87.925 USD | World Bank |

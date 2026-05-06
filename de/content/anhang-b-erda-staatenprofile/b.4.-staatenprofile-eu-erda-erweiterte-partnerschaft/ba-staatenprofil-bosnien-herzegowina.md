@@ -146,7 +146,7 @@ Schrittweise Annäherung an EU-Standards, Stärkung demokratischer Prozesse und 
 ### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025      | 2050      | 2075      |
-| ------------------------------------- | --------- | --------- | --------- |
+| ---- | ---- | ---- | ---- |
 | BIP (Mrd. USD)                        | 27,5      | 40 (p)    | 55 (p)    |
 | Bevölkerung                           | 3,18 Mio. | 2,7 Mio. (p) | 2,3 Mio. (p) |
 | Anteil Erneuerbare (%)                | 40 %      | 55 % (p) | 70 % (p) |

@@ -19,7 +19,7 @@ Die Kritik dieses Anhangs richtet sich deshalb gegen Machtlogiken, nicht gegen g
 ## H.2 Übersicht zentraler Machtstrukturen
 
 | Machtstruktur          | Kurzbeschreibung                                     | Aktuelle Beispiele (2025)                             | Maßnahmen zur Abhilfe                                                                                                     |
-| ---------------------- | ---------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| ---- | ---- | ---- | ---- |
 | Totalitarismus         | Totale Kontrolle aller Lebensbereiche                | Nordkorea, Eritrea, Turkmenistan                      | Internationale Sanktionen, Förderung unabhängiger Medien, langfristig Aufbau von Zivilgesellschaft                        |
 | Autoritarismus         | Starke Exekutive, Einschränkung von Freiheitsrechten | China, Russland, Belarus                              | Politischer Dialog, wirtschaftliche Konditionen, langfristige Unterstützung demokratischer Kräfte                         |
 | Militärdiktatur        | Militärherrschaft durch Putsch                       | Myanmar, Sudan                                        | UN-Friedensmissionen, Embargos, Förderung ziviler Übergangsregierungen                                                    |

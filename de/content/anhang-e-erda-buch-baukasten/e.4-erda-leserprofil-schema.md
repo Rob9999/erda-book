@@ -64,7 +64,7 @@ Das ERDA-Buch ist ein **strategisches, philosophisches und zivilisatorisches Lei
 ### 🧩 **Erweiterbare Zielgruppen (optional)**
 
 | Zielgruppe                       | Erwartung                                                                  |
-| -------------------------------- | -------------------------------------------------------------------------- |
+| ---- | ---- |
 | Lehrer:innen & Pädagog:innen     | Bildungsnarrative, interplanetare Verantwortung, didaktische Umsetzbarkeit |
 | Journalist:innen & Medienakteure | narrative Klarheit, Schlagkraft, Orientierung in Umbruchzeiten             |
 | Unternehmer:innen                | ethische Wirtschaft, FORTERA, Resilienzstrategien                          |
@@ -75,7 +75,7 @@ Das ERDA-Buch ist ein **strategisches, philosophisches und zivilisatorisches Lei
 ### 🧱 **Bewertungsdimensionen für zukünftige KI-Bewertungen**
 
 | Kriterium              | Beschreibung                                                                       |
-| ---------------------- | ---------------------------------------------------------------------------------- |
+| ---- | ---- |
 | **Relevanz**           | Ist der Inhalt für diese Zielgruppe strategisch oder emotional anschlussfähig?     |
 | **Sprachebene**        | Entspricht Tonfall und Komplexitätsgrad den Erwartungen der Zielgruppe?            |
 | **Resonanzfähigkeit**  | Wird ein emotionaler oder identitätsstiftender Impuls gesetzt?                     |

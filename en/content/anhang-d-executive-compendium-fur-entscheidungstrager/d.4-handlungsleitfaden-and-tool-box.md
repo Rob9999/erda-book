@@ -71,7 +71,7 @@ This section bundles operational shortcuts for decision-makers. It links Chapter
 ## 📎 Direct links to tools (selection)
 
 | Area | Tool | Purpose |
-| --- | --- | --- |
+| ---- | ---- | ---- |
 | Strategy & communication | `erda-gitbook-kapitel-template.md` | Consistent structure for new chapters, change story. |
 | Participation & education | `interaktive-elemente-checkliste-and-quiz.md` | Planning basis for workshops, learning modules, citizen dialogue. |
 | Quality assurance | `rollenspiel-qualitatssicherungstemplate.md` | Simulate political scenarios, train crisis resilience. |
