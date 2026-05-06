@@ -260,7 +260,7 @@ Ziel ist **kein beliebiger Illustrationsstil**, sondern eine **redaktionell bela
 
 ## VB-17 — Raumfahrt-Infrastrukturpfad bis 2075
 
-**Buchbezug:** [Kapitel 9.6.2.1](../../de/content/9.-das-space-konzept/9.6-infrastrukturen-bis-2075/9.6.2-hier-die-mogliche-losung/9.6.2.1-der-solar-alliance-infrastrukturplan-2030-2075.md)  
+**Buchbezug:** [Kapitel 9.6](../../de/content/9.-das-space-konzept/9.6-infrastrukturen-bis-2075/README.md)  
 **Typ:** Timeline plus Orbit-/Pfadkarte  
 **Kerninhalt:** Phase I `EARTH ONE`, `LUNAR ONE`, `DNSN`, Lunarwerft, Cycler; Phase II `BELT LIVING ONE`, `VENUS ONE`, Marsstationen, IRIS-Schwarm; Phase III `NEPTUNE ONE`, Tiefenraum-Observatorien, intersolare Kooperation.
 
