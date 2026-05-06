@@ -1,8 +1,8 @@
 # Release v2.5.0 – Status
 
 **Codename:** Democratic Knowledge
-**Stand:** 2026-05-04
-**Phase:** RC1 (Release Candidate 1)
+**Stand:** 2026-05-05
+**Phase:** Finale v2.5.0-Vorbereitung auf `release_candidate`; Tag/Publisher-Freigabe offen
 
 ---
 
@@ -10,7 +10,7 @@
 
 | # | Aufgabe | Status | Anmerkung |
 |---|---|---|---|
-| 1 | Versionsumstellung (README, book.json, CITATION.cff) | ✅ | rc1 |
+| 1 | Versionsumstellung (README, book.json, CITATION.cff) | ✅ | v2.5.0 |
 | 2 | Release-Docs-Ordner angelegt | ✅ | |
 | 3 | „Demokratisches Wissen" – DE + EN erstellt | ✅ | `desktop/misc/` |
 | 4 | Release History aktualisiert | ✅ | `Releases.md` |
@@ -21,9 +21,9 @@
 | 9 | Querverweise (11.2, 3.5, 4.3.5 → Anhang P.1) | ✅ | DE + EN, nach M/P-Entscheidung aktualisiert |
 | 10 | SUMMARY.md + book.json aktualisiert | ✅ | DE + EN, Commit e7e5005 |
 | 11 | Konsistenzprüfung Mini-Wording-Set | ✅ | DE + EN ergänzt, v2.5-Begriffe aufgenommen |
-| 12 | Content-Freeze | ⏳ | nach Review |
-| 13 | Publish-Artefakte (PDF/MD) | ⏳ | nach Content-Freeze |
-| 14 | Zertifizierungsprotokoll | ⏳ | |
+| 12 | Content-Freeze | ⏳ | nach finaler Redakteur-/Publisher-Freigabe |
+| 13 | Publish-Artefakte (PDF/MD) | ✅ | finaler v2.5.0-Lauf DE/EN mit gitbook_worker 2.4.0 erfolgreich |
+| 14 | Zertifizierungsprotokoll | ⏳ | Final-Gates dokumentiert, Entscheidung offen |
 | 15 | Final Review & Tag | ⏳ | |
 | 16 | Root-Attribution + Metadaten-Gate | ✅ | `ATTRIBUTION.md`, README/book/CFF/Zenodo synchronisiert |
 | 17 | Frontmatter-Normalisierung | ✅ | DE/EN `content_id`, `content_lang`, EN `source`, `status`; keine Content-Keys `lang`, `language`, `lang-version` wegen PDF-Fontfallback |
@@ -46,7 +46,7 @@
 ## Erledigte Punkte
 
 - [x] Release-Planung erstellt
-- [x] Versionsumstellung auf v2.5.0-rc1
+- [x] Versionsumstellung auf v2.5.0
 - [x] „Demokratisches Wissen" DE + EN verfasst
 - [x] Desktop-Ablage
 - [x] README „Beiträge und Qualität" überarbeitet (DE + EN)
@@ -59,7 +59,7 @@
 - [x] Querverweise in Kap. 11.2, 3.5, 4.3.5 (DE)
 - [x] SUMMARY.md + book.json aktualisiert (DE + EN)
 - [x] Root-`ATTRIBUTION.md` ergänzt
-- [x] Release-Metadaten synchronisiert (README, book.json, CFF, Zenodo)
+- [x] Release-Metadaten synchronisiert (README, book.json, CFF, Zenodo) auf 2026-05-05 / v2.5.0
 - [x] YAML-Frontmatter DE/EN normalisiert
 - [x] DE/EN-Querverweise auf Anhang/Appendix P.1 aktualisiert
 - [x] Glossar + Mini-Wording-Set um v2.5-Begriffe erweitert

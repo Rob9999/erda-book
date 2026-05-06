@@ -2,11 +2,11 @@
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/Content-CC%20BY--SA%204.0-lightgrey.svg)](LICENSE)
 [![License: MIT](https://img.shields.io/badge/Code-MIT-blue.svg)](LICENSE-CODE)
-[![Version](https://img.shields.io/badge/version-v2.5.0--rc1-orange.svg)](https://github.com/Rob9999/erda-book/releases/tag/v2.5.0-rc1)
+[![Version](https://img.shields.io/badge/version-v2.5.0-brightgreen.svg)](https://github.com/Rob9999/erda-book/releases/tag/v2.5.0)
 
-**Current version:** v2.5.0-rc1
+**Current version:** v2.5.0
 **As of (date):** 2026-05-05
-**Channel:** release_candidate (pre-release)
+**Channel:** release_candidate (final v2.5.0 preparation; stable channel after merge/tag: main)
 **Codename / Release name:** Democratic Knowledge
 
 **Multi-language democratic resilience framework**
@@ -17,7 +17,7 @@
 
 - 🇩🇪 [Deutsch](#de)
   - [Was ist das ERDA Buch?](#de-was-ist)
-  - [Aktuelles Release (v2.5.0-rc1)](#de-release)
+   - [Aktuelles Release (v2.5.0)](#de-release)
   - [Lizenz](#de-lizenz)
   - [Zitierung](#de-zitierung)
   - [Attribution und Lizenzierung](#de-attribution)
@@ -25,7 +25,7 @@
   - [Tooling & Build](#de-tooling)
 - 🇬🇧 [English](#en)
   - [What is the ERDA Book?](#en-what-is)
-  - [Current release (v2.5.0-rc1)](#en-release)
+   - [Current release (v2.5.0)](#en-release)
   - [Licence](#en-licence)
   - [Citation](#en-citation)
   - [Attribution and licensing](#en-attribution)
@@ -73,7 +73,7 @@ Es verbindet dabei:
 Gemeint sind Modelle, die langfristig funktionieren, weil sie **Anreize**, **Kontrollmechanismen** und **gesellschaftliche Tragfähigkeit** zusammendenken – statt nur Idealbilder zu formulieren.
 
 <a id="de-release"></a>
-### Aktuelles Release (v2.5.0-rc1) – 5. März 2026, aktualisiert 4. Mai 2026
+### Aktuelles Release (v2.5.0) – 5. Mai 2026
 
 > Dieses Release vertieft die normativen Grundlagen des ERDA-Buches. Im Zentrum steht das „Demokratische Wissen" – sieben Prinzipien als Leitfaden für demokratische Handlungsfähigkeit.
 
@@ -240,7 +240,7 @@ It combines:
 It refers to models that remain viable long-term because they align **incentives**, **control mechanisms**, and **social sustainability**, instead of only describing ideals.
 
 <a id="en-release"></a>
-### Current release (v2.5.0-rc1) – 5 March 2026, updated 4 May 2026
+### Current release (v2.5.0) – 5 May 2026
 
 > This release deepens the normative foundations of the ERDA Book. At its centre is "Democratic Knowledge" – seven principles serving as a guide for democratic agency.
 

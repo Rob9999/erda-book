@@ -1,8 +1,8 @@
 # v2.5.0
 
 **Codename:** Democratic Knowledge  
-**Datum:** 2026-03-05 (aktualisiert: 2026-05-04)
-**Status:** Release Candidate 1 (rc1)
+**Datum:** 2026-05-05
+**Status:** Finale v2.5.0-Vorbereitung auf `release_candidate`; Tag/Publisher-Freigabe noch separat
 
 ## Dokumente in diesem Ordner
 
@@ -22,3 +22,4 @@
 | [legal-claims-scan-civitas-v2.5.0.md](legal-claims-scan-civitas-v2.5.0.md) | A4-Report zu Rechts-/Konformitätsformulierungen in CIVITAS P.2 und Kapitel 6 |
 | [source-link-check-civitas-v2.5.0.md](source-link-check-civitas-v2.5.0.md) | A5-Report zur Quellen- und Linkprüfung von CIVITAS P.2 |
 | [source-delta-since-v2.0.0-v2.5.0.md](source-delta-since-v2.0.0-v2.5.0.md) | Arbeitsliste der seit v2.0.0 neu hinzugekommenen Kapitel-/Link-Schwerpunkte und AI-Referenzlauf-Vorbereitung |
+| [source-review-final-gate-2026-05-05.md](source-review-final-gate-2026-05-05.md) | Finalscope-Dry-run, Link-Audit und manuelle Quellenstichprobe für v2.5.0 |

@@ -34,7 +34,7 @@ Der wichtigste Befund: Die Umsetzung macht CIVITAS wesentlich konkreter, ohne da
 
 ### A1 - CIVITAS-Integration redaktionell akzeptieren
 
-**Anweisung:** Kapitel 6 und Anhang P.2 bleiben Bestandteil von v2.5.0-rc1. Keine Rücknahme, keine Verschiebung aus dem Release, solange die unten genannten Prüfungen keine harten Fehler finden.
+**Anweisung:** Kapitel 6 und Anhang P.2 bleiben Bestandteil von v2.5.0. Keine Rücknahme, keine Verschiebung aus dem Release, solange die unten genannten Prüfungen keine harten Fehler finden.
 
 **Begründung:** Die Integration erfüllt die Anhang-M-Logik: Buchkapitel als verdichtete Architektur, Anhang P.2 als Paper mit DOI und Quellenapparat.
 

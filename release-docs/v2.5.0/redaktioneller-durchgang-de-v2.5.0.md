@@ -1,9 +1,9 @@
-# Redaktioneller Durchgang DE v2.5.0 (Draft)
+# Redaktioneller Durchgang DE v2.5.0
 
-**Stand:** 2026-05-04  
+**Stand:** 2026-05-05
 **Sprache:** Deutsch  
 **Scope:** `de/content`, 318 Markdown-Dateien inklusive `SUMMARY.md`; Lesegrundlage zusätzlich `de/publish/das-erda-buch.md` mit ca. 21.286 Zeilen und 186.419 Wörtern  
-**Status:** Draft, redaktionelle Nacharbeitsliste, keine inhaltliche Freigabe  
+**Status:** Final-Gate-Nachtrag; DE als Quelle der Wahrheit, erfüllt mit dokumentiertem Restrisiko
 **Rolle:** Redakteur:in  
 **Bewertungsrahmen:** `buchprojektentscheidungen-v2.5.0.md`
 
@@ -37,7 +37,9 @@ Der ausführliche Entscheidungsrahmen steht in `buchprojektentscheidungen-v2.5.0
 
 ## Gesamtvotum
 
-Die deutsche Fassung ist in ihrem konzeptionellen Kern tragfähig und deutlich weiter als ein Rohentwurf. Für einen finalen Release ist sie aber redaktionell noch nicht vollständig entschieden. Die wichtigsten offenen Punkte liegen nicht in Grammatik, sondern in vier Bereichen:
+Die deutsche Fassung ist in ihrem konzeptionellen Kern tragfähig und für v2.5.0 als Quelle der Wahrheit verwendbar. Die frühere Nacharbeitsliste bleibt als Qualitäts- und Backlog-Material erhalten; nach den A4-A7- und Finalscope-Prüfungen wird sie nicht mehr als versteckter Releaseblocker geführt, sondern als dokumentiertes Restrisiko und Folgearbeitsplan.
+
+Die wichtigsten offenen Punkte liegen nicht in Grammatik, sondern in vier Bereichen:
 
 1. Quellen- und Aktualitätsarbeit bei sicherheits-, energie-, geopolitik- und technologierelevanten Zahlen.
 2. Strukturkohärenz zwischen philosophischem Fundament, operativen Konzepten, SPACE/KI und Anhängen.
@@ -46,7 +48,18 @@ Die deutsche Fassung ist in ihrem konzeptionellen Kern tragfähig und deutlich w
 
 ---
 
-## Belegte Blocker / harte Prüfpunkte
+## Final-Gate-Nachtrag 2026-05-05
+
+| Prüffrage | Finalbefund |
+|---|---|
+| DE als Quelle der Wahrheit | Erfüllt mit Restrisiko. DE ist die maßgebliche Release-Fassung; EN bleibt Draft/Review. |
+| Neue v2.5-Struktur | Erfüllt. DE SUMMARY enthält Kapitel 13.8, Anhang M, Anhang P.1 und Anhang P.2; Kapitel 6 ist vertieft. |
+| Kapitel 13.8 Quellen | Erfüllt im Finalscope. EU-Solar, Social Climate Fund, Eurostat, Gas Storage und weitere EU-Quellen wurden ergänzt/geprüft. |
+| Kapitel 13.8 Status | Transparenz-Restrisiko. Die Datei trägt weiter `status: "draft"`; sie wird als Roadmap-/Szenarioabschnitt mit Quellenstand ausgeliefert, nicht als endgültige amtliche Prognose. |
+| Arbeitsmarker | Erfüllt. DE-Suche nach `TODO/FIXME/TBD` ergab nur spanische Lizenztext-Treffer `Todo`, keine Arbeitsmarker. |
+| Gesamtbuch-Aktualität | Begrenzt. Staatenprofile und historische Baselines bleiben als v2.6-/Backlog-Thema dokumentiert. |
+
+## Ursprüngliche harte Prüfpunkte und Finalentscheidung
 
 ### B1: `status: draft` in Kapitel 13.8 klären
 

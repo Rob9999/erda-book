@@ -6,7 +6,7 @@
 > **Purpose:** This file lists **all** files that must be updated on a version change.
 > Used as a binding checklist for every release.
 
-**Letzte Aktualisierung / Last updated:** 2026-05-03 (content_lang frontmatter policy + release metadata gates)
+**Letzte Aktualisierung / Last updated:** 2026-05-05 (v2.5.0 final metadata examples)
 
 ---
 
@@ -14,17 +14,17 @@
 
 | # | Datei / File | Feld(er) / Field(s) | Beispiel / Example |
 |---|---|---|---|
-| 1 | `README.md` | Badge-URL, **Current version**, **As of (date)**, **Codename**, ToC-Einträge (DE+EN), Release-Überschriften (DE+EN) | `v2.5.0-rc1`, `2026-03-05` |
-| 2 | `CITATION.cff` (Root) | `version`, `date-released` | `"2.5.0-rc1"`, `'2026-03-05'` |
+| 1 | `README.md` | Badge-URL, **Current version**, **As of (date)**, **Codename**, ToC-Einträge (DE+EN), Release-Überschriften (DE+EN) | `v2.5.0`, `2026-05-05` |
+| 2 | `CITATION.cff` (Root) | `version`, `date-released` | `"2.5.0"`, `'2026-05-05'` |
 | 3 | `de/CITATION.cff` | `version`, `date-released` | wie Root |
 | 4 | `en/CITATION.cff` | `version`, `date-released` | wie Root |
 | 5 | `de/publish/CITATION.cff` | `version`, `date-released` | wie Root |
 | 6 | `en/publish/CITATION.cff` | `version`, `date-released` | wie Root |
-| 7 | `de/book.json` | `"date"` | `"2026-03-05"` |
-| 8 | `en/book.json` | `"date"` | `"2026-03-05"` |
-| 9 | `de/publish.yml` | `project.version` | `2.5.0-rc1` |
-| 10 | `en/publish.yml` | `project.version` | `2.5.0-rc1` |
-| 11 | `.zenodo.json` | `"version"` | `"2.5.0-rc1"` |
+| 7 | `de/book.json` | `"date"` | `"2026-05-05"` |
+| 8 | `en/book.json` | `"date"` | `"2026-05-05"` |
+| 9 | `de/publish.yml` | `project.version` | `2.5.0` |
+| 10 | `en/publish.yml` | `project.version` | `2.5.0` |
+| 11 | `.zenodo.json` | `"version"` | `"2.5.0"` |
 
 ---
 

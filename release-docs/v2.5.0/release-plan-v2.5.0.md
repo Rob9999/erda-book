@@ -1,7 +1,7 @@
 # ERDA Book – Release v2.5.0 Plan
 
-**Status:** in Arbeit (rc1)
-**Letzte Aktualisierung:** 2026-05-04
+**Status:** finale v2.5.0-Vorbereitung auf `release_candidate`; Tag/Publisher-Freigabe offen
+**Letzte Aktualisierung:** 2026-05-05
 
 ---
 
@@ -32,7 +32,7 @@ Release 2.5.0 markiert die **konzeptionelle Vertiefung** des ERDA-Buches. Währe
    - „Demokratisches Wissen" als DE + EN Dokument in `desktop/misc/`.
    - Konzeptpapiere und Paper-Materialien in `desktop/misc/` und `desktop/papers/`.
 
-### Geplante weitere Inhalte (TBD)
+### Weitere mögliche Inhalte nach v2.5.0
 
 - Vertiefung der Bürgerresilienz-Modelle (Kap. 11)
 - Glossar-Erweiterung
@@ -44,7 +44,7 @@ Release 2.5.0 markiert die **konzeptionelle Vertiefung** des ERDA-Buches. Währe
 
 | # | Meilenstein | Status |
 |---|---|---|
-| 1 | Release-Planung und Versionsumstellung (rc1) | ✅ |
+| 1 | Release-Planung und Versionsumstellung (v2.5.0) | ✅ |
 | 2 | „Demokratisches Wissen" – Texterstellung DE + EN | ✅ |
 | 3 | Desktop-Ablage (DE + EN) | ✅ |
 | 4 | Paper-Integration (Kindererziehung, Mosaik-Prinzip, Anti-Game-Over, CIVITAS Public) | ✅ |
@@ -71,7 +71,7 @@ Release 2.5.0 markiert die **konzeptionelle Vertiefung** des ERDA-Buches. Währe
 
 ## 🔧 Arbeitsströme & Aufgaben
 
-- [x] Versionsumstellung auf v2.5.0-rc1 (README, book.json, CITATION.cff)
+- [x] Versionsumstellung auf v2.5.0 (README, book.json, CITATION.cff)
 - [x] Release-Docs-Ordner `v2.5.0/` anlegen
 - [x] „Demokratisches Wissen" – Texterstellung (7 Prinzipien)
 - [x] Desktop-Ablage DE + EN
@@ -83,12 +83,12 @@ Release 2.5.0 markiert die **konzeptionelle Vertiefung** des ERDA-Buches. Währe
 - [x] Maßstab-Integration: Buchprojektentscheidungen → Anhang M (DE + EN)
 - [x] Querverweise in Kap. 11.2, 3.5, 4.3.5 (DE + EN)
 - [x] SUMMARY.md aktualisiert (DE + EN)
-- [x] book.json-Datum auf 2026-05-04 (DE + EN)
+- [x] book.json-Datum auf 2026-05-05 (DE + EN)
 - [x] Root-`ATTRIBUTION.md` ergänzt
 - [x] Frontmatter DE/EN normalisiert (`content_id`, `content_lang`, EN `source`, `status`; keine Content-Keys `lang`, `language`, `lang-version` wegen PDF-Fontfallback)
 - [x] Konsistenzprüfung gegen Mini-Wording-Set
 - [x] Worker-Roles-Durchgang „Ethik vor Strategie“ integriert (DE + EN)
 - [ ] Content-Review und ggf. Integration als Buchkapitel
-- [ ] Publish-Artefakte (PDF/MD) erneuern
-- [ ] Zertifizierungsprotokoll erstellen
+- [x] Publish-Artefakte (PDF/MD) final mit v2.5.0-Metadaten erneuert (DE + EN, gitbook_worker 2.4.0)
+- [x] Zertifizierungsprotokoll erstellt; finale Freigabeentscheidung bleibt offen
 - [ ] Tag und Release

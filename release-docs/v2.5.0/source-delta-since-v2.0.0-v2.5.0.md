@@ -1,9 +1,9 @@
 # Quellen-Delta seit v2.0.0 - Pruefliste v2.5.0
 
-**Datum:** 2026-05-04  
+**Datum:** 2026-05-05
 **Baseline:** `v2.0.0`  
 **Vergleich:** `v2.0.0..35e0c8b`  
-**Status:** Arbeits- und Pruefliste, keine finale Quellenfreigabe
+**Status:** Arbeits- und Pruefliste; Finalscope-Gate separat abgeschlossen in `source-review-final-gate-2026-05-05.md`
 
 ## Kurzbefund
 
@@ -108,8 +108,8 @@ C:/Python311/python.exe scripts/quality/ai_references_throttled.py --root . --fi
 Fuer v2.5 ist die realistische aktuelle Quellenpruefliste nicht das gesamte Buch, sondern:
 
 1. Anhang P.2 CIVITAS Public: erledigt durch A5.
-2. Anhang P.1 Anti-Game-Over: kurzer DOI-/Lizenz-/APA-Check offen.
-3. Kapitel 13.8 Energiesouveraenitaet: redaktionelle Quellen- und Aktualitaetspruefung offen.
-4. Kapitel 6 CIVITAS: A4 erledigt, Quellenstaerke/Querverweise redaktionell pruefen.
-5. Paragraph 11.3.7, Paragraph 5.8.4, Anhang M und Attribution-/Qualitaetsanhaenge: Plausibilitaet, interne Links und EN-Fidelity pruefen.
+2. Anhang P.1 Anti-Game-Over: DOI-/Lizenz-/APA-Check erledigt; siehe `source-review-final-gate-2026-05-05.md`.
+3. Kapitel 13.8 Energiesouveraenitaet: redaktionelle Quellen- und Aktualitaetspruefung im Finalscope erledigt; siehe `source-review-final-gate-2026-05-05.md`.
+4. Kapitel 6 CIVITAS: A4 erledigt; Quellenstaerke/Querverweise im Finalscope geprueft, externe Detailquellen liegen primaer in P.2.
+5. Paragraph 11.3.7, Paragraph 5.8.4 und Anhang M: Plausibilitaet und interne Einbettung im Finalscope geprueft; EN bleibt Draft/Review.
 6. Vollstaendige Staatenprofil- und Gesamtbuch-Aktualitaet: als eigenes v2.6-/Backlog-Thema fuehren.
