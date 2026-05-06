@@ -37,6 +37,32 @@ Example for the CIVITAS v2.5.0 A4 check:
 
 Interpretation rule: `review-high` means editorial review is required. It does not automatically mean the text is wrong. The release certification must document whether a passage is a requirement/target architecture, a scenario, or an already verified legal claim. Do not present concepts as legally checked platforms unless an explicit legal review exists.
 
+## Markdown/PDF layout gate before release builds
+
+Before release/publish builds, normalize Markdown table separator rows and scan for PDF overflow risks. This gate catches two common PDF review issues:
+
+- Markdown table separators should use spaced cells such as `| ---- |`, not compact rows such as `|------|`.
+- Long code lines, long raw URLs, very wide table rows and rendered PDF text boxes can overflow the printable page area.
+
+Normalize table separator rows in source content:
+
+```powershell
+.\.venv\Scripts\python.exe scripts/quality/markdown_pdf_layout_scan.py de/content en/content --root . --fix-tables
+```
+
+Create a Markdown/PDF layout report after a PDF build:
+
+```powershell
+.\.venv\Scripts\python.exe scripts/quality/markdown_pdf_layout_scan.py `
+	de/content en/content `
+	--root . `
+	--pdf de/publish/das-erda-buch.pdf `
+	--pdf en/publish/the-erda-book.pdf `
+	--output release-docs/v2.5.0/markdown-pdf-layout-scan-v2.5.0.md
+```
+
+Interpretation rule: Markdown findings are source risks and can often be fixed before rebuilding. PDF findings are rendered-layout evidence from `pdftotext -bbox-layout`; they require visual review because decorative glyphs, emoji fallback and extracted bounding boxes can produce false positives. Actual right-margin overflow in prose, tables or code blocks is a release-layout issue.
+
 ## Prerequisites
 
 - Python (recommended: 3.11.x)
