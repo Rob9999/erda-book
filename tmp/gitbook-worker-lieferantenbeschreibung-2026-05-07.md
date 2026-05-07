@@ -40,8 +40,8 @@ Artefakte:
 
 | Artefakt | Ergebnis |
 | ---- | ---- |
-| `de/publish/das-erda-buch.pdf` | 826 Seiten, 4.331.272 Bytes, Producer LuaTeX-1.22.0 |
-| `en/publish/the-erda-book.pdf` | 800 Seiten, 4.332.854 Bytes, Producer LuaTeX-1.22.0 |
+| `de/publish/das-erda-buch.pdf` | 826 Seiten, 4.331.400 Bytes, Producer LuaTeX-1.22.0 |
+| `en/publish/the-erda-book.pdf` | 800 Seiten, 4.332.832 Bytes, Producer LuaTeX-1.22.0 |
 
 Vendorte Worker-Artefakte:
 

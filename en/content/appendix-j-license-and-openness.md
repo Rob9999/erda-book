@@ -355,23 +355,29 @@ MIT‑Lizenz
 
 Copyright (c) 2025–2026 The ERDA Book Authors
 
-Hiermit wird unentgeltlich jeder Person, die eine Kopie der Software und der zugehörigen
-Dokumentationsdateien (die „Software“) erhält, die Erlaubnis erteilt, uneingeschränkt mit der
-Software zu handeln, einschließlich und ohne Ausnahme des Rechts, sie zu nutzen, zu kopieren,
-zu verändern, zu fusionieren, zu veröffentlichen, zu verbreiten, zu unterlizenzieren und/oder
-zu verkaufen, und Personen, denen diese Software zur Verfügung gestellt wird, diese Rechte zu
-verschaffen, unter den folgenden Bedingungen:
+Hiermit wird unentgeltlich jeder Person, die eine Kopie der
+Software und der zugehörigen Dokumentationsdateien (die
+„Software“) erhält, die Erlaubnis erteilt, uneingeschränkt mit
+der Software zu handeln, einschließlich und ohne Ausnahme des
+Rechts, sie zu nutzen, zu kopieren, zu verändern, zu fusionieren,
+zu veröffentlichen, zu verbreiten, zu unterlizenzieren und/oder
+zu verkaufen, und Personen, denen diese Software zur Verfügung
+gestellt wird, diese Rechte zu verschaffen, unter den folgenden
+Bedingungen:
 
-Der obige Urheberrechtsvermerk und dieser Erlaubnisvermerk sind in allen Kopien oder in
-wesentlichen Teilen der Software beizulegen.
+Der obige Urheberrechtsvermerk und dieser Erlaubnisvermerk sind
+in allen Kopien oder in wesentlichen Teilen der Software
+beizulegen.
 
-DIE SOFTWARE WIRD OHNE JEGLICHE AUSDRÜCKLICHE ODER STILLSCHWEIGENDE GARANTIE
-BEREITGESTELLT, EINSCHLIESSLICH DER GARANTIE DER MARKTGÄNGIGKEIT, DER EIGNUNG FÜR
-EINEN BESTIMMTEN ZWECK UND DER NICHTVERLETZUNG. IN KEINEM FALL SIND DIE AUTOREN
-ODER COPYRIGHTINHABER FÜR JEGLICHE ANSPRÜCHE, SCHÄDEN ODER SONSTIGE HAFTUNGEN
-VERANTWORTLICH, SEI ES AUS EINEM VERTRAG, EINER UNERLAUBTEN HANDLUNG ODER
-ANDERWEITIG, DIE SICH AUS, AUS ODER IN VERBINDUNG MIT DER SOFTWARE ODER DER
-VERWENDUNG ODER ANDEREN GESCHÄFTEN MIT DER SOFTWARE ERGEBEN.
+DIE SOFTWARE WIRD OHNE JEGLICHE AUSDRÜCKLICHE ODER
+STILLSCHWEIGENDE GARANTIE BEREITGESTELLT, EINSCHLIESSLICH DER
+GARANTIE DER MARKTGÄNGIGKEIT, DER EIGNUNG FÜR EINEN BESTIMMTEN
+ZWECK UND DER NICHTVERLETZUNG. IN KEINEM FALL SIND DIE AUTOREN
+ODER COPYRIGHTINHABER FÜR JEGLICHE ANSPRÜCHE, SCHÄDEN ODER
+SONSTIGE HAFTUNGEN VERANTWORTLICH, SEI ES AUS EINEM VERTRAG,
+EINER UNERLAUBTEN HANDLUNG ODER ANDERWEITIG, DIE SICH AUS, AUS
+ODER IN VERBINDUNG MIT DER SOFTWARE ODER DER VERWENDUNG ODER
+ANDEREN GESCHÄFTEN MIT DER SOFTWARE ERGEBEN.
 ```
 
 ### CC BY‑SA 4.0 – summary
