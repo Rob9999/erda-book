@@ -2824,10 +2824,10 @@ d) Geheimverhandlungen zwischen Agenturen
 
 ##### 4.1.5.6 Quellen & Verweise
 
-1. _Kodifizierung als Kosmosrecht_ – SOLAR ALLIANCE Codex: [Solar Alliance Codex](#md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-3-aufbau-einer-solar-alliance-9-1-3-1-kodifizierung-als-kosmosrecht)
-2. _Planetare Ethik als lebende Navigation:_ [_Planetare Ethik_](#md-9-das-space-konzept-9-8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit-9-8-3-planetare-ethik-als-lebende-navigation)
-3. _Nachhaltigkeit über Generationen hinweg_: [Nachhaltigkeit über Generationen hinweg](#md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-2-grundsatze-9-1-2-5-nachhaltigkeit-uber-generationen-hinweg)
-4. _Keine Militarisierung ohne demokratische Kontrolle:_ [_Keine Militarisierung ohne demokratische Kontrolle_](#md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-2-grundsatze-9-1-2-3-keine-militarisierung-ohne-demokratische-kontrolle)
+1. _Kodifizierung als Kosmosrecht_ – SOLAR ALLIANCE Codex: [Solar Alliance Codex](#md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-readme)
+2. _Planetare Ethik als lebende Navigation:_ [_Planetare Ethik_](#md-9-das-space-konzept-9-8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit-readme)
+3. _Nachhaltigkeit über Generationen hinweg_: [Nachhaltigkeit über Generationen hinweg](#md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-readme)
+4. _Keine Militarisierung ohne demokratische Kontrolle:_ [_Keine Militarisierung ohne demokratische Kontrolle_](#md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-readme)
 
 
 \newpage
@@ -8424,15 +8424,6 @@ _**ERDA-Codex für kosmische Verantwortung**_
 
 _Ein Leitfaden für eine demokratisch geregelte, gerechte und nachhaltige Raumfahrt._
 
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.1.erda.codex.fur.kosmische.verantwortung.9.1.1.praambel
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-1-praambel"></a>
-
 ### 9.1.1 Präambel
 
 _**Präambel**_
@@ -8442,27 +8433,9 @@ Der Weltraum ist **Resonanzraum der Menschheit** – offen für alle, schützens
 
 Im Geiste der _European Rights-Based Democratic Alliance (ERDA)_ und getragen von der Vision einer _Solar Alliance_ für globale Kooperation und Frieden verpflichtet sich dieser Codex, die Prinzipien demokratischer Rechtsstaatlichkeit auf das neue Handlungsfeld des Kosmos auszudehnen.
 
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.1.erda.codex.fur.kosmische.verantwortung.9.1.2.grundsatze.readme
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-2-grundsatze-readme"></a>
-
 ### 9.1.2 Grundsätze
 
 _**Grundsätze**_
-
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.1.erda.codex.fur.kosmische.verantwortung.9.1.2.grundsatze.9.1.2.1.menschenwurde.und.rechtsstaatlichkeit.gelten.auch.im.all
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-2-grundsatze-9-1-2-1-menschenwurde-und-rechtsstaatlichkeit-gelten-auch-im-all"></a>
 
 #### 9.1.2.1 Menschenwürde und Rechtsstaatlichkeit gelten auch im All
 
@@ -8470,29 +8443,11 @@ _**Menschenwürde und Rechtsstaatlichkeit gelten auch im All**_
 
 Jeder Mensch behält seine unveräußerlichen Rechte – unabhängig vom Aufenthaltsort im Sonnensystem. Arbeits-, Aufenthalts- und Mitbestimmungsrechte müssen rechtlich verankert und durchsetzbar sein.
 
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.1.erda.codex.fur.kosmische.verantwortung.9.1.2.grundsatze.9.1.2.2.der.weltraum.ist.allmende.kein.privateigentum
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-2-grundsatze-9-1-2-2-der-weltraum-ist-allmende-kein-privateigentum"></a>
-
 #### 9.1.2.2 Der Weltraum ist Allmende – kein Privateigentum
 
 _**Der Weltraum ist Allmende – kein Privateigentum**_
 
 Alle natürlichen Ressourcen jenseits der Erde gelten als gemeinsames Erbe der Menschheit. Ihre Nutzung ist nur legitim, wenn sie dem Gemeinwohl dient, ökologisch verantwortet ist und transparent verwaltet wird.
-
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.1.erda.codex.fur.kosmische.verantwortung.9.1.2.grundsatze.9.1.2.3.keine.militarisierung.ohne.demokratische.kontrolle
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-2-grundsatze-9-1-2-3-keine-militarisierung-ohne-demokratische-kontrolle"></a>
 
 #### 9.1.2.3 Keine Militarisierung ohne demokratische Kontrolle
 
@@ -8500,29 +8455,11 @@ _**Keine Militarisierung ohne demokratische Kontrolle**_
 
 Sicherheit im All ist Aufgabe demokratischer Ordnungsstrukturen. Militärische Präsenz im Orbit oder auf Himmelskörpern bedarf verfassungsgebundener Legitimation und darf nur defensiv und kooperativ erfolgen.
 
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.1.erda.codex.fur.kosmische.verantwortung.9.1.2.grundsatze.9.1.2.4.technologische.offenheit.und.wissensfreiheit
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-2-grundsatze-9-1-2-4-technologische-offenheit-und-wissensfreiheit"></a>
-
 #### 9.1.2.4 Technologische Offenheit und Wissensfreiheit
 
 _**Technologische Offenheit und Wissensfreiheit**_
 
 Wissenschaftliche Ergebnisse aus öffentlichen Missionen müssen offen zugänglich sein. Wissen ist ein Gemeingut. Patente dürfen demokratische rechtsstaatliche gesellschaftlich relevante Innovationen nicht behindern, sondern müssen ihrer sozialen Verantwortung gerecht werden. Freie wissenschaftliche Exploration durch nichtstaatliche Akteure ist zulässig, sofern sie dem demokratischen rechtsstaatlichen Gemeinwohl dient, transparent erfolgt und ethisch überprüfbar ist.
-
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.1.erda.codex.fur.kosmische.verantwortung.9.1.2.grundsatze.9.1.2.5.nachhaltigkeit.uber.generationen.hinweg
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-2-grundsatze-9-1-2-5-nachhaltigkeit-uber-generationen-hinweg"></a>
 
 #### 9.1.2.5 Nachhaltigkeit über Generationen hinweg
 
@@ -8530,29 +8467,11 @@ _**Nachhaltigkeit über Generationen hinweg**_
 
 Jede Raumfahrtmission muss mit dem Ziel geplant, gebaut und betrieben werden, die Ökosysteme, Ressourcen und das physikalische Gleichgewicht des Sonnensystems langfristig zu schützen.
 
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.1.erda.codex.fur.kosmische.verantwortung.9.1.2.grundsatze.9.1.2.6.gerechtigkeit.fur.alle.lebensformen
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-2-grundsatze-9-1-2-6-gerechtigkeit-fur-alle-lebensformen"></a>
-
 #### 9.1.2.6 Gerechtigkeit für alle Lebensformen
 
 _**Gerechtigkeit für alle Lebensformen**_
 
 Alle vom Sonnensystem abstammenden Lebensformen haben ein natürliches Lebensrecht – auch jenseits der Erde. Sie dürfen nicht ausgenutzt, verdrängt oder manipuliert werden. Ihr Recht auf Entwicklung gemäß ihrem Wesen gilt im Rahmen der Allverträglichkeit.
-
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.1.erda.codex.fur.kosmische.verantwortung.9.1.2.grundsatze.9.1.2.7.besucherprinzip.fur.aussersolare.intelligenz
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-2-grundsatze-9-1-2-7-besucherprinzip-fur-aussersolare-intelligenz"></a>
 
 #### 9.1.2.7 Besucherprinzip für außersolare Intelligenz
 
@@ -8560,29 +8479,11 @@ _**Besucherprinzip für außersolare Intelligenz**_
 
 Spezies, die nicht dem Sonnensystem entstammen, werden wie Gäste eines demokratischen Rechtsstaats behandelt: mit Respekt, aber unter Wahrung von Schutzpflichten und Rechtssouveränität.
 
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.1.erda.codex.fur.kosmische.verantwortung.9.1.2.grundsatze.9.1.2.8.ressourcen.gehoren.den.naturlichen.inhabitanten
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-2-grundsatze-9-1-2-8-ressourcen-gehoren-den-naturlichen-inhabitanten"></a>
-
 #### 9.1.2.8 Ressourcen gehören den natürlichen Inhabitanten
 
 _**Ressourcen gehören den natürlichen Inhabitanten**_
 
 Die Rohstoffe, Materialien und energetischen Potenziale des Sonnensystems stehen allen seinen natürlichen Lebensformen gemeinschaftlich zu. Kein Akteur – ob staatlich oder privat – darf dauerhaft exklusive Verfügungsrechte beanspruchen.
-
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.1.erda.codex.fur.kosmische.verantwortung.9.1.3.aufbau.einer.solar.alliance.readme
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-3-aufbau-einer-solar-alliance-readme"></a>
 
 ### 9.1.3 Aufbau einer SOLAR ALLIANCE
 
@@ -8590,30 +8491,11 @@ _**Aufbau einer SOLAR ALLIANCE**_\
 \
 _&#x53;ie soll demokratisch und rechtsstaatlich sein. Ein lebender Zivilisationsorganismus für sich. Ein Lebensraum._
 
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.1.erda.codex.fur.kosmische.verantwortung.9.1.3.aufbau.einer.solar.alliance.9.1.3.1.kodifizierung.als.kosmosrecht
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-3-aufbau-einer-solar-alliance-9-1-3-1-kodifizierung-als-kosmosrecht"></a>
-
 #### 9.1.3.1 Kodifizierung als Kosmosrecht
 
 _**Kodifizierung als Kosmosrecht**_
 
 Diese Grundsätze werden in ein völkerrechtlich kodifiziertes Kosmosrecht überführt und durch ein Organ der SOLAR ALLIANCE überprüfbar gemacht.
-
-
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.1.erda.codex.fur.kosmische.verantwortung.9.1.3.aufbau.einer.solar.alliance.9.1.3.2.vorbereitung.der.grundung.bis.2028
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-3-aufbau-einer-solar-alliance-9-1-3-2-vorbereitung-der-grundung-bis-2028"></a>
 
 #### 9.1.3.2 Vorbereitung der Gründung bis 2028
 
@@ -8621,27 +8503,9 @@ _**Vorbereitung der Gründung bis 2028**_
 
 Die **SOLAR ALLIANCE** soll als transnationale Initiative demokratischer Staaten entstehen – mit dem Ziel, einen Resonanzraum der Verantwortung zu schaffen, die völkerrechtlichen, ethischen, wirtschaftlichen und organisatorischen Grundlagen einer zivilisatorischen Präsenz im All zu sichern.
 
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.1.erda.codex.fur.kosmische.verantwortung.9.1.4.kosmisches.seerecht.und.ordnung.readme
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-4-kosmisches-seerecht-und-ordnung-readme"></a>
-
 ### 9.1.4 Kosmisches Seerecht und Ordnung
 
 _**Kosmisches Seerecht und Ordnung**_
-
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.1.erda.codex.fur.kosmische.verantwortung.9.1.4.kosmisches.seerecht.und.ordnung.9.1.4.1.kodifizierung.fundamentaler.prinzipien
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-4-kosmisches-seerecht-und-ordnung-9-1-4-1-kodifizierung-fundamentaler-prinzipien"></a>
 
 #### 9.1.4.1 Kodifizierung fundamentaler Prinzipien
 
@@ -8656,15 +8520,6 @@ Wie auf den Weltmeeren gelten auch im All universale Prinzipien des Miteinanders
 * Transparente Autorisierung jeder Raumoperation
 
 Diese Prinzipien sollen in ein _kodifiziertes Kosmosrecht_ überführt und durch ein völkerrechtlich legitimiertes Organ der SOLAR ALLIANCE überprüfbar gemacht werden.
-
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.1.erda.codex.fur.kosmische.verantwortung.9.1.5.schlussformel
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-5-schlussformel"></a>
 
 ### 9.1.5 Schlussformel
 
@@ -8689,15 +8544,6 @@ _**Vom Seerecht zum Kosmosrecht – Natürliche Verlangen des geordneten Miteina
 
 ***
 
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.2.vom.seerecht.zum.kosmosrecht.9.2.1.naturliche.verlangen.im.offenen.raum.meer.oder.all
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-2-vom-seerecht-zum-kosmosrecht-9-2-1-naturliche-verlangen-im-offenen-raum-meer-oder-all"></a>
-
 ### 9.2.1 Natürliche Verlangen im offenen Raum (Meer oder All)
 
 _**Natürliche Verlangen im offenen Raum (Meer oder All)**_
@@ -8719,15 +8565,6 @@ Diese Verlangen sind keine politischen Ideale, sondern anthropologische Konstant
 
 Im ERDA-Kontext werden sie nicht als bloße Appelle behandelt, sondern als normativer Kern eines zukünftigen Kosmosrechts: Was sich in Jahrhunderten auf See bewährt hat, verdient seine Weiterentwicklung im All.
 
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.2.vom.seerecht.zum.kosmosrecht.9.2.2.die.pra.demokratische.zivilisation
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-2-vom-seerecht-zum-kosmosrecht-9-2-2-die-pra-demokratische-zivilisation"></a>
-
 ### 9.2.2 Die prä-demokratische Zivilisation
 
 _**Die prä-demokratische Zivilisation**_
@@ -8741,15 +8578,6 @@ In einer solchen Welt war das Vakuum der Ordnung keine Leerstelle – sondern ei
 Viele heutige Prinzipien der Raumfahrtlogik ähneln diesem Muster noch: Orbitpositionen als exklusives Gut. Technologievorsprung als Machtmittel. Der Weltraum als Ort strategischer Dominanz. Ein prä-demokratisches Echo in postmoderner Rüstung.
 
 Der Weg der ERDA führt bewusst aus dieser Phase hinaus – durch Rechtsbindung, geteilte Verantwortung und strukturelle Gerechtigkeit im Kosmos.
-
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.2.vom.seerecht.zum.kosmosrecht.9.2.3.die.gegenwartige.zivilisation.auch.in.ihrer.demokratischen.reife
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-2-vom-seerecht-zum-kosmosrecht-9-2-3-die-gegenwartige-zivilisation-auch-in-ihrer-demokratischen-reife"></a>
 
 ### 9.2.3 Die gegenwärtige Zivilisation – auch in ihrer demokratischen Reife
 
@@ -8771,15 +8599,6 @@ Auch demokratische Zivilisationen haben bislang keinen verbindlichen Kodex für 
 
 Doch gerade diese Reifephase bietet die Chance zur Umkehr: In der demokratischen Selbstreflexion, in der Fähigkeit zur Korrektur, liegt das Potenzial für eine neue Ordnung jenseits der Erde. Die Solar Alliance – als rechtlich kodifizierte, demokratisch kontrollierte und ethisch legitimierte Struktur – ist kein Bruch mit der heutigen Zivilisation, sondern ihre konsequente Weiterentwicklung.
 
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.2.vom.seerecht.zum.kosmosrecht.9.2.4.uberblick.bisherige.rechtsordnungen.im.vergleich
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-2-vom-seerecht-zum-kosmosrecht-9-2-4-uberblick-bisherige-rechtsordnungen-im-vergleich"></a>
-
 ### 9.2.4 Überblick – Bisherige Rechtsordnungen im Vergleich
 
 _**Überblick – Bisherige Rechtsordnungen im Vergleich**_
@@ -8800,15 +8619,6 @@ Die Entwicklung des Seerechts bietet wertvolle Orientierung für den Aufbau eine
 > Fazit: Das Seerecht ist bei allen Schwächen der Durchsetzung eine strukturierte, völkerrechtlich abgesicherte Ordnung. Das Raumrecht dagegen befindet sich in einem vordemokratischen Zustand – mit normativen Absichtserklärungen, aber ohne institutionelle Garantien.
 
 Der Weg zu einer SOLAR ALLIANCE beginnt mit der Übertragung der bewährten Prinzipien des Seerechts auf den Kosmos – erweitert um ethische, ökologische und demokratische Dimensionen, wie sie im Geist von ERDA formuliert sind.
-
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.2.vom.seerecht.zum.kosmosrecht.9.2.5.der.entwicklungsbogen.zur.solar.alliance
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-2-vom-seerecht-zum-kosmosrecht-9-2-5-der-entwicklungsbogen-zur-solar-alliance"></a>
 
 ### 9.2.5 Der Entwicklungsbogen zur Solar Alliance
 
@@ -8856,15 +8666,6 @@ _**Die Institutionen der SOLAR ALLIANCE**_
 
 _Die Solar Alliance ist mehr als ein multilaterales Abkommen. Sie ist eine institutionell legitimierte Ordnung demokratischer Kooperation im All. Ihre Institutionen sollen sicherstellen, dass Verantwortung, Souveränität, Rechtsstaatlichkeit und Nachhaltigkeit nicht vage Prinzipien bleiben, sondern konkret umsetzbare Struktur erhalten. Wie jede rechtsstaatliche Ordnung beruht sie auf Gewaltenteilung, Kontrolle und Partizipation._
 
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.3.die.institutionen.der.solar.alliance.9.3.1.legislative.das.solar.parlament
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-3-die-institutionen-der-solar-alliance-9-3-1-legislative-das-solar-parlament"></a>
-
 ### 9.3.1 Legislative: Das SOLAR PARLAMENT
 
 _**Legislative: Das SOLAR PARLAMENT**_
@@ -8876,15 +8677,6 @@ Die Legislative der Solar Alliance ist ein transplanetarisches Parlament, zusamm
 * und kontrolliert die Exekutive in offener Debatte.
 
 Die Stimmverteilung erfolgt nach einem gemischten Prinzip aus Bevölkerungsanteil, technologischer Beitragsleistung und Gleichheitsprinzip zur Wahrung der Minderheitenrechte.
-
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.3.die.institutionen.der.solar.alliance.9.3.2.exekutive.der.allianzrat
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-3-die-institutionen-der-solar-alliance-9-3-2-exekutive-der-allianzrat"></a>
 
 ### 9.3.2 Exekutive: Der ALLIANZRAT
 
@@ -8898,15 +8690,6 @@ Der Allianzrat ist die Verwaltungsspitze der Solar Alliance. Er koordiniert oper
 
 Er besteht aus einem Gremium von Fachkommissar:innen, die über konkrete Mandate (z. B. Forschung, Ethik, Sicherheit, Umwelt) verfügen und rotierend von den Mitgliedsstaaten bestimmt werden.
 
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.3.die.institutionen.der.solar.alliance.9.3.3.judikative.die.raumrechtskammer
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-3-die-institutionen-der-solar-alliance-9-3-3-judikative-die-raumrechtskammer"></a>
-
 ### 9.3.3 Judikative: Die Raumrechtskammer
 
 _**Judikative: Die Raumrechtskammer**_
@@ -8918,15 +8701,6 @@ Die judikative Instanz der Solar Alliance ist eine unabhängige Raumrechtskammer
 * und wahrt Grundrechte von Menschen und nichtmenschlichen Lebensformen.
 
 Sie kann öffentlich tagen und hat Zugriff auf ein Netzwerk orbitaler Schiedsstellen, ethischer Beiräte und technischer Mediatoren.
-
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.3.die.institutionen.der.solar.alliance.9.3.4.sicherheitskrafte.orbitaler.zivilschutz.and.notfallkoordination
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-3-die-institutionen-der-solar-alliance-9-3-4-sicherheitskrafte-orbitaler-zivilschutz-and-notfallkoordination"></a>
 
 ### 9.3.4 Sicherheitskräfte: Orbitaler Zivilschutz & Notfallkoordination
 
@@ -8940,15 +8714,6 @@ Die Sicherheitsstruktur der Solar Alliance folgt dem Prinzip: _Zivile Sicherheit
 
 Es gibt keine offensive Bewaffnung – die Sicherheitsmodule sind defensiv, deeskalierend, humanitär.
 
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.3.die.institutionen.der.solar.alliance.9.3.5.interplanetarer.rat.fur.lebensrechte
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-3-die-institutionen-der-solar-alliance-9-3-5-interplanetarer-rat-fur-lebensrechte"></a>
-
 ### 9.3.5 Interplanetarer Rat für Lebensrechte
 
 _**Interplanetarer Rat für Lebensrechte**_
@@ -8960,15 +8725,6 @@ Dieser Rat beobachtet, bewertet und reguliert Fragen der Lebenswürde im All –
 * mögliche nichtmenschliche Intelligenzen.
 
 Er arbeitet mit Forschungseinrichtungen, Philosoph:innen, Ethikgremien und Umweltbeobachtungsstellen zusammen und gibt Empfehlungen an Parlament und Allianzrat ab.
-
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.3.die.institutionen.der.solar.alliance.9.3.6.schiedsgericht.fur.ressourcen.und.zugangsfragen
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-3-die-institutionen-der-solar-alliance-9-3-6-schiedsgericht-fur-ressourcen-und-zugangsfragen"></a>
 
 ### 9.3.6 Schiedsgericht für Ressourcen- und Zugangsfragen
 
@@ -8983,15 +8739,6 @@ Ein spezielles Tribunal regelt Streitfälle zu:
 
 Es entscheidet auf Basis des Solar Codex, mit Rücksicht auf technische Machbarkeit, Gerechtigkeit und Umweltwirkung.
 
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.3.die.institutionen.der.solar.alliance.9.3.7.demokratische.kontrollmechanismen
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-3-die-institutionen-der-solar-alliance-9-3-7-demokratische-kontrollmechanismen"></a>
-
 ### 9.3.7 Demokratische Kontrollmechanismen
 
 _**Demokratische Kontrollmechanismen**_
@@ -9004,15 +8751,6 @@ Die Solar Alliance baut auf Partizipation. Sie etabliert:
 * und **Unabhängige Ethikräte**, die Langzeitwirkungen reflektieren.
 
 > Nur durch Transparenz und Mitsprache wird aus Ordnung Legitimität – und aus einer Allianz eine Gemeinschaft.
-
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.3.die.institutionen.der.solar.alliance.9.3.8.demokratische.solar.defense.force
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-3-die-institutionen-der-solar-alliance-9-3-8-demokratische-solar-defense-force"></a>
 
 ### 9.3.8 Demokratische Solar Defense Force
 
@@ -9048,16 +8786,6 @@ _Die Frage, wozu Raumfahrt?, ist keine technische, sondern eine zivilisatorische
 
 > Der Weltraum ist nicht nur das, was vor uns liegt. Er ist das, was aus uns wird.
 
-
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.4.wozu.raumfahrt.strategische.und.zivilisatorische.motive.im.geist.der.erda.9.4.1.strategische.notwendigkeiten
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-4-wozu-raumfahrt-strategische-und-zivilisatorische-motive-im-geist-der-erda-9-4-1-strategische-notwendigkeiten"></a>
-
 ### 9.4.1 Strategische Notwendigkeiten
 
 _**Strategische Notwendigkeiten**_
@@ -9078,15 +8806,6 @@ _**Strategische Notwendigkeiten**_
 * Frühwarnsysteme (z. B. IRIS²), Detektion von Weltraummüll und EMP-Risiken.
 * Orbitale Resilienzsysteme gegen Kollisionen, Cyberangriffe und Infrastrukturausfälle.
 * Demokratisch kontrollierte Sicherheitsinfrastruktur schützt Zivilgesellschaft, nicht Machtinteressen.
-
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.4.wozu.raumfahrt.strategische.und.zivilisatorische.motive.im.geist.der.erda.9.4.2.zivilisatorische.motive
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-4-wozu-raumfahrt-strategische-und-zivilisatorische-motive-im-geist-der-erda-9-4-2-zivilisatorische-motive"></a>
 
 ### 9.4.2 Zivilisatorische Motive
 
@@ -9109,15 +8828,6 @@ _**Zivilisatorische Motive**_
 * Raumfahrt ist Ausdruck menschlicher Vorstellungskraft.
 * Sie verbindet Technik mit Vision, Wissenschaft mit Sinn.
 * Sie ist eine Form kultureller Selbstüberschreitung – kein Selbstzweck.
-
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.4.wozu.raumfahrt.strategische.und.zivilisatorische.motive.im.geist.der.erda.9.4.3.geistige.verantwortung.im.all
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-4-wozu-raumfahrt-strategische-und-zivilisatorische-motive-im-geist-der-erda-9-4-3-geistige-verantwortung-im-all"></a>
 
 ### 9.4.3 Geistige Verantwortung im All
 
@@ -9145,7 +8855,6 @@ _**Geistige Verantwortung im All**_
 
 * Der Zugang zur Raumfahrt darf nicht durch Kapital oder Machtmonopol bestimmt werden.
 * Eine faire Teilhabe von Staaten, privaten Akteuren und Zivilgesellschaft erfordert klare Regeln und demokratische Kontrolle.
-
 
 
 \newpage
@@ -9203,29 +8912,11 @@ content_lang: de
 
 _**Infrastrukturen bis 2075**_
 
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.6.infrastrukturen.bis.2075.9.6.1.operationalisierung.readme
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-1-operationalisierung-readme"></a>
-
 ### 9.6.1 Operationalisierung
 
 _**Operationalisierung – Strategische Voraussetzungen zur Umsetzung des SOLAR ALLIANCE Rauminfrastrukturen**_
 
 _Diese Empfehlungen setzen an verschiedenen Hebeln an – von der Zieldefinition über Finanzierung und Organisation bis hin zu technischer Realisierung und internationaler Kooperation. Durch die Bündelung dieser Maßnahmen kann die SOLAR ALLIANCE nicht nur ein zukunftsweisendes Raumfahrtprojekt realisieren, sondern auch als Vorbild für eine demokratisch verantwortliche und nachhaltige Raumzivilisation dienen._
-
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.6.infrastrukturen.bis.2075.9.6.1.operationalisierung.9.6.1.1.zieldefinition.und.zeitplanung.fur.die.rauminfrastrukturen
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-1-operationalisierung-9-6-1-1-zieldefinition-und-zeitplanung-fur-die-rauminfrastrukturen"></a>
 
 #### 9.6.1.1 Zieldefinition und Zeitplanung für die Rauminfrastrukturen
 
@@ -9235,15 +8926,6 @@ _**Zieldefinition und Zeitplanung für die Rauminfrastrukturen**_
 * Definieren Sie Meilensteine, die ab der Gründung der SOLAR ALLIANCE beginnen (z. B. Aufbau eines ersten Basismoduls innerhalb der ersten fünf Jahre, Erweiterung und Integration weiterer Module in den folgenden zehn Jahren).
 * Erarbeiten Sie einen realistischen Zeitplan, der sowohl kurzfristige als auch langfristige Ziele (bis 2075) umfasst, um eine kontinuierliche Entwicklung sicherzustellen.
 
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.6.infrastrukturen.bis.2075.9.6.1.operationalisierung.9.6.1.2.finanzierung.und.organisation.uber.solar.alliance.mitgliedsstaaten.und.koalitionen
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-1-operationalisierung-9-6-1-2-finanzierung-und-organisation-uber-solar-alliance-mitgliedsstaaten-und-koalitionen"></a>
-
 #### 9.6.1.2 Finanzierung und Organisation über SOLAR ALLIANCE-Mitgliedsstaaten und Koalitionen
 
 _**Finanzierung und Organisation über SOLAR ALLIANCE-Mitgliedsstaaten und Koalitionen**_
@@ -9251,15 +8933,6 @@ _**Finanzierung und Organisation über SOLAR ALLIANCE-Mitgliedsstaaten und Koali
 * Entwickeln Sie ein gemeinsames Finanzierungsmodell, das von den SOLAR ALLIANCE-Mitgliedsstaaten getragen wird – auch über bereits vorhandene oder neu zu gründende Koalitionen der Willigen.
 * Schaffen Sie öffentlich-private Transformationsfonds, die gezielt Projekte im Bereich der Raumfahrtinfrastruktur fördern, dabei aber strenge demokratische Kontrollmechanismen vorsehen.
 * Definieren Sie klare Zuständigkeiten und Finanzierungsbeteiligungen, sodass z. B. einzelne Module oder Funktionseinheiten je nach strategischer Bedeutung zugeordnet und gefördert werden.
-
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.6.infrastrukturen.bis.2075.9.6.1.operationalisierung.9.6.1.3.governance.strukturen.und.projektmanagement
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-1-operationalisierung-9-6-1-3-governance-strukturen-und-projektmanagement"></a>
 
 #### 9.6.1.3 Governance-Strukturen und Projektmanagement
 
@@ -9269,15 +8942,6 @@ _**Governance-Strukturen und Projektmanagement**_
 * Integrieren Sie Fachleute aus Bereichen wie Raumfahrttechnik, Recht, Ethik, Wirtschaft und internationaler Zusammenarbeit – so wird eine interdisziplinäre Steuerung ermöglicht, die den vielfältigen Anforderungen gerecht wird.
 * Etablieren Sie regelmäßige Überprüfungen und transparente Berichtssysteme, um den Fortschritt zu dokumentieren und bei Bedarf strategisch anzupassen.
 
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.6.infrastrukturen.bis.2075.9.6.1.operationalisierung.9.6.1.4.technische.konzepte.und.sicherheitsstandards
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-1-operationalisierung-9-6-1-4-technische-konzepte-und-sicherheitsstandards"></a>
-
 #### 9.6.1.4 Technische Konzepte und Sicherheitsstandards
 
 _**Technische Konzepte und Sicherheitsstandards**_
@@ -9286,15 +8950,6 @@ _**Technische Konzepte und Sicherheitsstandards**_
 * Legen Sie einheitliche Sicherheits-, Kommunikations- und Energiekonzepte fest, etwa unter Einbindung von redundanten Systemen und offenen Standards, um sowohl Effizienz als auch Ausfallsicherheit zu gewährleisten.
 * Integrieren Sie Mechanismen für den Strahlenschutz und Notfallpläne, die im Krisenfall rasche Evakuierungs- oder Reparaturmaßnahmen sicherstellen.
 
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.6.infrastrukturen.bis.2075.9.6.1.operationalisierung.9.6.1.5.internationale.kooperation.und.burgerpartizipation
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-1-operationalisierung-9-6-1-5-internationale-kooperation-und-burgerpartizipation"></a>
-
 #### 9.6.1.5 Internationale Kooperation und Bürgerpartizipation
 
 _**Internationale Kooperation und Bürgerpartizipation**_
@@ -9302,15 +8957,6 @@ _**Internationale Kooperation und Bürgerpartizipation**_
 * Fördern Sie die Integration von zivilgesellschaftlichen Akteuren über Plattformen wie CIVITAS, damit Bürger:innen frühzeitig in die Entscheidungsprozesse einbezogen werden.
 * Entwickeln Sie Kommunikationsstrategien, die den Übergang von traditionell nationalen Raumvorstellungen hin zu einem kollektiven, demokratisch gesteuerten Raum überzeugend darstellen.
 * Stärken Sie die Zusammenarbeit mit internationalen Partnern und regionalen Bündnissen, um Synergien zu nutzen und globale Standards in der Raumfahrt zu etablieren.
-
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.6.infrastrukturen.bis.2075.9.6.2.hier.die.mogliche.losung.readme
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-2-hier-die-mogliche-losung-readme"></a>
 
 ### 9.6.2 Hier die mögliche Lösung
 
@@ -9323,15 +8969,6 @@ _Kapitel 5.1. formulierte strategische Empfehlungen für die Umsetzung des SPACE
 _Kapitel 5.2. ist damit die Brücke zwischen Vision (Kapitel 5.1.) und Ausprägungen (Kapitel 5.3. ff. - Großprojekte der SOLAR ALLIANCE). Es ermöglicht einen geordneten, demokratisch kontrollierten und verantwortungsethisch legitimierten Übergang in die strukturierte Aufbauphase der Raumzivilisation._
 
 > _"Ein Raumprojekt ist nicht gebaut, wenn es steht. Sondern wenn es getragen wird."_
-
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.6.infrastrukturen.bis.2075.9.6.2.hier.die.mogliche.losung.9.6.2.1.der.solar.alliance.infrastrukturplan.2030.2075
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-2-hier-die-mogliche-losung-9-6-2-1-der-solar-alliance-infrastrukturplan-2030-2075"></a>
 
 #### 9.6.2.1 Der SOLAR ALLIANCE INFRASTRUKTURPLAN 2030–2075
 
@@ -9346,15 +8983,6 @@ _**Der SOLAR ALLIANCE INFRASTRUKTURPLAN 2030–2075**_
   3. **Phase III: Reife und intergenerationelle Struktur (2055–2075)**\
      – NEPTUNE ONE, Tiefenraum-Observatorien, intersolare Kooperationen.
 
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.6.infrastrukturen.bis.2075.9.6.2.hier.die.mogliche.losung.9.6.2.2.transformationsfonds.und.modulforderung
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-2-hier-die-mogliche-losung-9-6-2-2-transformationsfonds-und-modulforderung"></a>
-
 #### 9.6.2.2 Transformationsfonds und Modulförderung
 
 _**Transformationsfonds und Modulförderung**_
@@ -9365,15 +8993,6 @@ _**Transformationsfonds und Modulförderung**_
 * Finanzierung anteilig durch Mitgliedsstaaten, demokratisch legitimierte Fondsverwaltung, Bürgerhaushaltsoptionen.
 * Mögliche Partner: ESA, DLR, CNES, nationale Parlamente, Universitätsallianzen, Thinktanks, Open-Science-Netzwerke.
 
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.6.infrastrukturen.bis.2075.9.6.2.hier.die.mogliche.losung.9.6.2.3.institutionelle.tragerschaft.und.governance
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-2-hier-die-mogliche-losung-9-6-2-3-institutionelle-tragerschaft-und-governance"></a>
-
 #### 9.6.2.3 Institutionelle Trägerschaft und Governance
 
 _**Institutionelle Trägerschaft und Governance**_
@@ -9383,15 +9002,6 @@ _**Institutionelle Trägerschaft und Governance**_
 * **ETHIKRAT KOSMOS:** Unterstützt alle Entscheidungen auf Grundlage des Codex für kosmische Verantwortung.
 * **Zivilgesellschaftliche Kontrollplattform:** Verlinkt mit CIVITAS, überwacht Budgettransparenz und Zeitpläne.
 
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.6.infrastrukturen.bis.2075.9.6.2.hier.die.mogliche.losung.9.6.2.4.technologisches.kernsystem
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-2-hier-die-mogliche-losung-9-6-2-4-technologisches-kernsystem"></a>
-
 #### 9.6.2.4 Technologisches Kernsystem
 
 _**Technologisches Kernsystem**_
@@ -9400,15 +9010,6 @@ _**Technologisches Kernsystem**_
 * **Sphere-Kompatibilität:** Alle großen Module müssen mechanisch, steuerungstechnisch und energetisch integrierbar sein.
 * **Open Protocols:** Keine proprietären Schlüsselelemente in strategischer Infrastruktur.
 
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.6.infrastrukturen.bis.2075.9.6.2.hier.die.mogliche.losung.9.6.2.5.internationale.integration.and.burgerzugang
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-2-hier-die-mogliche-losung-9-6-2-5-internationale-integration-and-burgerzugang"></a>
-
 #### 9.6.2.5 Internationale Integration & Bürgerzugang
 
 _**Internationale Integration & Bürgerzugang**_
@@ -9416,15 +9017,6 @@ _**Internationale Integration & Bürgerzugang**_
 * Bürger:innen können Module per Vorschlagsverfahren mitentwerfen (CIVITAS-Prototypisierung).
 * Internationale Koordination über demokratische Raumfahrtsysteme (z. B. Argentinien, Japan, Neuseeland, Ghana).
 * Bildungs- und Austauschnetze ("Orbital School Exchange"), Ethikstipendien, Jugendparlamente im Orbit.
-
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.6.infrastrukturen.bis.2075.9.6.3.sphere.station.earth.one
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-3-sphere-station-earth-one"></a>
 
 ### 9.6.3 Sphere Station EARTH ONE
 
@@ -9436,7 +9028,7 @@ Die Sphere Station EARTH ONE ist die erste vollentwickelte Raumplattform der Sol
 
 ***
 
-###### Lage & Grundstruktur
+##### Lage & Grundstruktur
 
 * **Orbit:** Geostationäre Umlaufbahn, synchronisiert über Äquatorhöhe
 * **Kapazität:** Bis zu 700 Personen dauerhaft plus 100 Gäste
@@ -9445,7 +9037,7 @@ Die Sphere Station EARTH ONE ist die erste vollentwickelte Raumplattform der Sol
 
 ***
 
-###### Technische Architektur
+##### Technische Architektur
 
 * **Energie:** Kombination aus Solararrays und zwei SMR-Kleinreaktoren (je 60 MW) mit thermischer Rückgewinnung
 * **Kommunikation:** Hochgeschwindigkeits-Link zur Erde und zu weiteren Stationen (LUNAR, CIVITAS-Netz)
@@ -9455,7 +9047,7 @@ Die Sphere Station EARTH ONE ist die erste vollentwickelte Raumplattform der Sol
 
 ***
 
-###### Funktionen & Nutzung
+##### Funktionen & Nutzung
 
 * **Forschungslabore:** Mikrogravitation, Umweltüberwachung, Materialtests
 * **Bildung:** Orbitale Universitätsprogramme in Kooperation mit ERDA-Partnerstaaten
@@ -9465,7 +9057,7 @@ Die Sphere Station EARTH ONE ist die erste vollentwickelte Raumplattform der Sol
 
 ***
 
-###### Gesellschaftliche Struktur
+##### Gesellschaftliche Struktur
 
 * **Besatzung:** Wissenschaftler:innen, Techniker:innen, Mediator:innen, Künstler:innen, Lehrende, Handelnde, Reisende
 * **Regelbetrieb:** Rotationszyklen (6–12 Monate), inklusive Familienprogramme und Erholungsräume
@@ -9474,20 +9066,11 @@ Die Sphere Station EARTH ONE ist die erste vollentwickelte Raumplattform der Sol
 
 ***
 
-###### Symbolik & Bedeutung
+##### Symbolik & Bedeutung
 
 EARTH ONE ist mehr als Infrastruktur. Sie ist Ausdruck der Überzeugung, dass Technologie nicht allein Beherrschung bedeutet, sondern Ermöglichung. Ihr Blick auf die Erde ist kein Kontrollinstrument, sondern ein Spiegel unseres Gewissens.
 
 > _„EARTH ONE sieht nicht nur die Erde. Sie sieht, was wir bereit sind, füreinander zu tun.“_
-
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.6.infrastrukturen.bis.2075.9.6.4.sphere.station.lunar.one
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-4-sphere-station-lunar-one"></a>
 
 ### 9.6.4 Sphere Station LUNAR ONE
 
@@ -9499,7 +9082,7 @@ Die Sphere Station LUNAR ONE markiert die zweite Hauptstruktur des orbitalen Net
 
 ***
 
-###### Lage & Grundstruktur
+##### Lage & Grundstruktur
 
 * **Orbit:** Polarstabilisierter Mondorbit (Niedrig–Mittelhöhe), mit synchronisierten Fensterintervallen zur Mondbasis, EARTH ONE und Marsfenstern
 * **Kapazität:** Bis zu 400 Personen + 80 temporäre Transitgäste + 300 Mondstationierte bzw. deren Familien
@@ -9508,7 +9091,7 @@ Die Sphere Station LUNAR ONE markiert die zweite Hauptstruktur des orbitalen Net
 
 ***
 
-###### Technische Architektur
+##### Technische Architektur
 
 * **Energie:** Kombination aus Solararrays und zwei SMR-Kleinreaktoren (je 60 MW) mit thermischer Rückgewinnung
 * **Kommunikation:** Langstreckenvernetzung mit Mars-Cyclern, EARTH ONE, Mondoberfläche
@@ -9517,7 +9100,7 @@ Die Sphere Station LUNAR ONE markiert die zweite Hauptstruktur des orbitalen Net
 
 ***
 
-###### Funktionen & Nutzung
+##### Funktionen & Nutzung
 
 * **Tiefraumlogistik:** Vorbereitung, Tankung, Versorgung und Umladung für Mars- und Asteroideneinheiten
 * **Lunarplattform-Schnittstelle:** Permanente Kommunikations- und Transportverbindung zu Mondbasen
@@ -9527,7 +9110,7 @@ Die Sphere Station LUNAR ONE markiert die zweite Hauptstruktur des orbitalen Net
 
 ***
 
-###### Gesellschaftliche Struktur
+##### Gesellschaftliche Struktur
 
 * **Bewohnerspektrum:** Techniker:Innen, Transitreisende, Deep-Space-Vorbereitungsteams, Kulturbeauftragte
 * **Soziales System:** Rotations- und Entsendeprinzip mit freiwilligem Langzeiteinsatz bis zu 18 Monaten
@@ -9536,22 +9119,13 @@ Die Sphere Station LUNAR ONE markiert die zweite Hauptstruktur des orbitalen Net
 
 ***
 
-###### Symbolik & Bedeutung
+##### Symbolik & Bedeutung
 
 LUNAR ONE steht an der Schwelle – zwischen Planet und Tiefe, zwischen Geschichte und Zukunft.
 \
 Sie ist ein Ort der Übergänge: von Gravitation zu Schwerelosigkeit, von Vorsicht zu Vision.
 
 > _„Wer LUNAR ONE betritt, betritt den Vorraum unserer nächsten Welt.“_
-
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.6.infrastrukturen.bis.2075.9.6.5.sphere.station.belt.living.one
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-5-sphere-station-belt-living-one"></a>
 
 ### 9.6.5 Sphere Station BELT LIVING ONE
 
@@ -9563,7 +9137,7 @@ Die Sphere Station BELT LIVING ONE ist die erste dauerhafte Habitatstruktur im i
 
 ***
 
-###### Lage & Grundstruktur
+##### Lage & Grundstruktur
 
 * **Orbit:** Stabiler Transferorbit in mittlerem Belt-Segment (z. B. zwischen Vesta und Hygiea), dennoch kann seine Position im Belt bei Bedarf ändern. Wird im Lunar Orbit gebaut und reist dann in den Belt.
 * **Kapazität:** 700 ständige Bewohner:innen + 50 rotierende Forschungsgäste
@@ -9573,7 +9147,7 @@ Die Sphere Station BELT LIVING ONE ist die erste dauerhafte Habitatstruktur im i
 
 ***
 
-###### Technische Architektur
+##### Technische Architektur
 
 * **Energie:** Fusionsexperiment + thermonuklearer Puffer + Solarunterstützung
 * **Antriebseinheit:** stationserhaltende Triebwerke zur Orbitkorrektur + feingliedrige Lageregelung, Fusionsantrieb Cluster rund um den Äquator (max. Leistung 1 MN)
@@ -9583,7 +9157,7 @@ Die Sphere Station BELT LIVING ONE ist die erste dauerhafte Habitatstruktur im i
 
 ***
 
-###### Funktionen & Nutzung
+##### Funktionen & Nutzung
 
 * **Asteroidenbeobachtung & -nutzung:** Kartierung, Ressourcenmodellierung, Technologiepilotierung
 * **Langzeitforschung:** Gravitation, Langzeitpsychologie, Soziodynamik unter Isolation
@@ -9593,7 +9167,7 @@ Die Sphere Station BELT LIVING ONE ist die erste dauerhafte Habitatstruktur im i
 
 ***
 
-###### Gesellschaftliche Struktur
+##### Gesellschaftliche Struktur
 
 * **Bewohnerspektrum:** Freiwillige Langzeitbesatzung mit hohem Ausbildungsgrad, Ressourcenabbauspezialisten und deren Familien
 * **Governance:** Selbstverwaltete CIVITAS-Zelle mit periodischer Rückkopplung zum Allianzrat
@@ -9602,20 +9176,11 @@ Die Sphere Station BELT LIVING ONE ist die erste dauerhafte Habitatstruktur im i
 
 ***
 
-###### Symbolik & Bedeutung
+##### Symbolik & Bedeutung
 
 BELT LIVING ONE steht für mehr als Präsenz. Sie fragt: Können wir fern der Erde nicht nur überleben, sondern _leben_? Kann Gemeinschaft unter Bedingungen von Raum, Zeitverzögerung und autarker Struktur bestehen?
 
 > _"Im Belt ist nicht das Licht das Problem. Sondern: Was machen wir mit der Dunkelheit?"_
-
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.6.infrastrukturen.bis.2075.9.6.6.sphere.station.neptune.one
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-6-sphere-station-neptune-one"></a>
 
 ### 9.6.6 Sphere Station NEPTUNE ONE
 
@@ -9627,7 +9192,7 @@ Die Sphere Station NEPTUNE ONE ist das kühnste und weitreichendste Projekt der 
 
 ***
 
-###### Lage & Grundstruktur
+##### Lage & Grundstruktur
 
 * **Orbit:** Hauptsächlich polstabilisierter Umlauf um Neptun, angepasst an Kommunikationsfenster mit Uranus und heliosphärischen Messrouten, dennoch auch Missionen zu Transneptune
 * **Kapazität:** 240 ständige Bewohner:innen + ihre Kinder + Androiden (autonome Wartungseinheiten)
@@ -9637,7 +9202,7 @@ Die Sphere Station NEPTUNE ONE ist das kühnste und weitreichendste Projekt der 
 
 ***
 
-###### Technische Architektur
+##### Technische Architektur
 
 * **Energie:** Fusionsantrieb-Cluster rund um den Äquator + Langzeitbatterie-Reservoir + solarthermische Puffersysteme
 * **Antriebseinheit:** Wie bei BELT ONE, jedoch in interplanetarer Reiseauslegung; gebaut im Lunar Orbit, Transferflug mit Staffelunterstützung
@@ -9647,7 +9212,7 @@ Die Sphere Station NEPTUNE ONE ist das kühnste und weitreichendste Projekt der 
 
 ***
 
-###### Funktionen & Nutzung
+##### Funktionen & Nutzung
 
 * **Tiefraumforschung:** Magnetosphärenforschung, Neptun-Mond-Erkundung, Dunkelmateriebeobachtung
 * **Gemeinschaftsforschung:** Kinderaufwachsen im All, intergenerationelle Kommunikation, familiäre Kultur in der Isolation
@@ -9657,7 +9222,7 @@ Die Sphere Station NEPTUNE ONE ist das kühnste und weitreichendste Projekt der 
 
 ***
 
-###### Gesellschaftliche Struktur
+##### Gesellschaftliche Struktur
 
 * **Bewohnerspektrum:** Hochqualifizierte Teams mit Familien, psychosozial geschulte Koordinator:innen, KI-Assistenten, Androiden
 * **Soziales System:** Starke Binnenstruktur, demokratisch kontrollierte Routinen, rhythmisierte Wochenkreise
@@ -9666,20 +9231,11 @@ Die Sphere Station NEPTUNE ONE ist das kühnste und weitreichendste Projekt der 
 
 ***
 
-###### Symbolik & Bedeutung
+##### Symbolik & Bedeutung
 
 NEPTUNE ONE ist das Menschheitsversprechen im Raum: Wenn wir hier bestehen, können wir überall bestehen – nicht durch Macht, sondern durch Gemeinschaft. Es ist der äußerste Punkt des Systems und vielleicht der innerste Moment unserer Zivilisation.
 
 > _„NEPTUNE ONE ist kein Außenposten – sie ist unser innerstes Bekenntnis zu Verantwortung in der Weite.“_
-
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.6.infrastrukturen.bis.2075.9.6.7.sphere.station.venus.one
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-7-sphere-station-venus-one"></a>
 
 ### 9.6.7 Sphere Station VENUS ONE
 
@@ -9693,7 +9249,7 @@ VENUS ONE ist daher nicht nur ein Forschungshabitat, sondern ein ethischer Prüf
 
 ***
 
-###### Lage & Grundstruktur
+##### Lage & Grundstruktur
 
 * **Orbit:** Venus-synchronisierter Umlauf (hochelliptisch), angepasst für stabile Beobachtung und Shuttle-Verkehr zur Venusatmosphäre
 * **Kapazität:** 700 ständige Bewohner:innen + 100 rotierende Gäste (wie _EARTH ONE_)
@@ -9702,7 +9258,7 @@ VENUS ONE ist daher nicht nur ein Forschungshabitat, sondern ein ethischer Prüf
 
 ***
 
-###### Technische Architektur
+##### Technische Architektur
 
 * **Energie:** Solarmaximierung + chemischer Pufferspeicher + Not-GeoReaktor (SMR)
 * **Antriebseinheit:** Fusionstriebwerks-Cluster (1 MN), wie _BELT ONE_, für Orbitmanöver und Rückreiseoption
@@ -9712,7 +9268,7 @@ VENUS ONE ist daher nicht nur ein Forschungshabitat, sondern ein ethischer Prüf
 
 ***
 
-###### Funktionen & Nutzung
+##### Funktionen & Nutzung
 
 * **Atmosphärenforschung:** Analyse der Venuswinde, Wolken-Zusammensetzung, Druckverhältnisse
 * **Biologische Exploration:** Aufspüren mikrobieller Lebensformen in der Hochatmosphäre, Schutz vor Kontamination
@@ -9723,7 +9279,7 @@ VENUS ONE ist daher nicht nur ein Forschungshabitat, sondern ein ethischer Prüf
 
 ***
 
-###### Gesellschaftliche Struktur
+##### Gesellschaftliche Struktur
 
 * **Besatzung:** Atmosphärenforscher:innen, Terraforming-Ingenieur:innen, Ethiker:innen, Philosophiegruppen, Künstler:innen – und deren Familien
 * **Repräsentation:** _VENUS CIVITAS_-Zelle + beratender Sitz im Allianzrat
@@ -9731,21 +9287,12 @@ VENUS ONE ist daher nicht nur ein Forschungshabitat, sondern ein ethischer Prüf
 
 ***
 
-###### Symbolik & Bedeutung
+##### Symbolik & Bedeutung
 
 _VENUS ONE_ fragt nicht nach der technischen Machbarkeit – sondern nach der **moralischen Würde** planetarer Veränderung.\
 Sie ist ein Ort, an dem Menschheit und Zukunftswille auf ein bestehendes System treffen – und lernen müssen, nicht nur zu träumen, sondern zu _hören_.
 
 > **„VENUS ONE lauscht – bevor sie entscheidet.“**
-
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.6.infrastrukturen.bis.2075.9.6.8.strukturbildung.und.zukunftsausbau
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-8-strukturbildung-und-zukunftsausbau"></a>
 
 ### 9.6.8 Strukturbildung und Zukunftsausbau
 
@@ -9757,7 +9304,7 @@ Die Sphere Stations markieren den Beginn einer tiefgreifenden Transformation: De
 
 ***
 
-###### 1. Kolonialisierungen auf Planeten und Monden
+##### 1. Kolonialisierungen auf Planeten und Monden
 
 * **Ziel:** Stabile, dauerhafte Außenposten auf Monden (z. B. Europa, Titan, Ganymed) und auf dem Mars
 * **Funktion:** Wissenschaft, Kultur, Langzeitleben unter Planetenbedingungen, ethische Feldforschung
@@ -9765,7 +9312,7 @@ Die Sphere Stations markieren den Beginn einer tiefgreifenden Transformation: De
 
 ***
 
-###### 2. Stationierung eines autonomen Tiefenraum-Sonden-Netzwerks
+##### 2. Stationierung eines autonomen Tiefenraum-Sonden-Netzwerks
 
 * **Zielbereich:** Von 100 bis 180 AU (außerhalb der Plutobahn, in der heliosphärischen Übergangszone)
 * **Anzahl:** Mindestens 50.000 autonome Sonden
@@ -9774,7 +9321,7 @@ Die Sphere Stations markieren den Beginn einer tiefgreifenden Transformation: De
 
 ***
 
-###### 3. Aufbau von Cycler-Betriebssystemen
+##### 3. Aufbau von Cycler-Betriebssystemen
 
 * **Routen:** Mars, Venus, Belt, Neptun (später auch Uranus und interstellarer Vorbereitungsbereich)
 * **Technik:** Inertialer Transport (Cycler), gekoppelt mit Andockmodulen und Sphere Crafts
@@ -9782,7 +9329,7 @@ Die Sphere Stations markieren den Beginn einer tiefgreifenden Transformation: De
 
 ***
 
-###### 4. Werftinfrastruktur im Lunar Orbit
+##### 4. Werftinfrastruktur im Lunar Orbit
 
 * **Ziel:** Ständiger **Sphere Station / Cycler / Craft**-Bau- und Reparaturkomplex
 * **Module:** Nanofabrikationsplattformen, Dockingringe, Treibstoffdepots, Quantenkühlung
@@ -9790,7 +9337,7 @@ Die Sphere Stations markieren den Beginn einer tiefgreifenden Transformation: De
 
 ***
 
-###### 5. Aufbau einer lunarindustriellen Basis
+##### 5. Aufbau einer lunarindustriellen Basis
 
 * **Industrien:** Keramik, Legierungen, Energieumwandlung, Habitatdruck (SiC/SiC, Graphenkomposite)
 * **Prinzip:** Nachhaltige Kreislaufwirtschaft (Ressourcenrückgewinnung vor Import)
@@ -9798,7 +9345,7 @@ Die Sphere Stations markieren den Beginn einer tiefgreifenden Transformation: De
 
 ***
 
-###### 6. Forschungsstationen auf dem Mars
+##### 6. Forschungsstationen auf dem Mars
 
 * **Zweck:** Langzeitmedizin, Terraforming-Folgenabschätzung, planetare Ethik, Biologie
 * **Standorte:** Vulkanisches Hochland (Isolation), Canyonböden (Geomikrobiologie), Polregionen (Klimarelation)
@@ -9806,7 +9353,7 @@ Die Sphere Stations markieren den Beginn einer tiefgreifenden Transformation: De
 
 ***
 
-###### 7. Aufbau von solaren DNSN-Knoten (Democratic Navigation & Signal Nodes)
+##### 7. Aufbau von solaren DNSN-Knoten (Democratic Navigation & Signal Nodes)
 
 * **Standorte:** Mond, Mars, Belt, später auch bei Neptun und allen größeren menschlichen Ansiedlungen
 * **Funktion:** Sicherheit, Synchronisierung, Kommunikationsstabilität, Orientierung für den Raumverkehr
@@ -9815,7 +9362,7 @@ Die Sphere Stations markieren den Beginn einer tiefgreifenden Transformation: De
 
 ***
 
-###### 8. Aufbau von Solar Defense Force Nodes
+##### 8. Aufbau von Solar Defense Force Nodes
 
 * **Standorte:** Mond, Mars, Belt, später auch bei Neptun und allen größeren menschlichen Ansiedlungen
 * **Funktion:** Sicherheit, Forschung, Krisenintervention
@@ -9828,15 +9375,6 @@ Diese Strukturbildung ist kein Selbstzweck. Sie ist der architektonische Ausdruc
 
 > _"Der Weltraum ist nicht leer. Er ist das, was wir aus ihm machen."_
 
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.6.infrastrukturen.bis.2075.9.6.9.zeitleiste.und.tabellarischer.vergleich.readme
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-9-zeitleiste-und-tabellarischer-vergleich-readme"></a>
-
 ### 9.6.9 Zeitleiste und tabellarischer Vergleich
 
 _**Zeitleiste und tabellarischer Vergleich**_
@@ -9845,29 +9383,11 @@ _Vom Plan zur Raumzivilisation – Entwicklungsschritte 2025–2075_
 
 > _"Zwischen 2025 und 2075 entsteht nicht nur eine neue Infrastruktur – sondern eine neue Zivilisationsform."_
 
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.6.infrastrukturen.bis.2075.9.6.9.zeitleiste.und.tabellarischer.vergleich.9.6.9.1.zeitleiste.der.erda.raumzivilisationsentwicklung
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-9-zeitleiste-und-tabellarischer-vergleich-9-6-9-1-zeitleiste-der-erda-raumzivilisationsentwicklung"></a>
-
 #### 9.6.9.1 Zeitleiste der ERDA-Raumzivilisationsentwicklung
 
 _**Zeitleiste der ERDA-Raumzivilisationsentwicklung**_
 
 <table><thead><tr><th width="130.4000244140625">Jahr</th><th>Meilenstein</th></tr></thead><tbody><tr><td><strong>2025 / 2026</strong></td><td><strong>Beschluss des ERDA-Codex:</strong> Initiierung der kosmischen Verantwortung und Beginn des koordinierten Aufbaus als Fundament für eine zukunftsfähige Raumzivilisation.</td></tr><tr><td><strong>2028</strong></td><td><strong>Gründung der Solar Alliance:</strong> Konstitution der ersten Gremien und Kodizes zur internationalen Raumfahrtkoordination, realistisch unterstützt durch moderne Kommunikations- und Partnerschaftsmodelle.</td></tr><tr><td><strong>2029</strong></td><td><strong>Start des Lunar Dockyard-Projekts:</strong> Beginn des Baus erster Sphere-Module, wobei die Planung eine schrittweise Integration modulbasierter Fertigung im Mondorbit vorsieht.</td></tr><tr><td><strong>2030</strong></td><td><strong>Ratifizierung der Kosmoskonventionen:</strong> Erste rechtsverbindliche Vereinbarungen (inklusive Hilfeleistungspflicht), die den rechtlichen Rahmen für verantwortungsvolle Aktivitäten im Weltraum legen.</td></tr><tr><td><strong>2032</strong></td><td><strong>Inbetriebnahme des Sphere Craft Assembly Hub:</strong> Errichtung eines zentralen Fertigungs- und Montagezentrums im Lunar Orbit zur Modularisierung des Raumfahrtaufbaus.</td></tr><tr><td><strong>2034</strong></td><td><strong>Aufbau der ersten DNSN-Knoten:</strong> Installation dezentraler Kommunikations- und Steuerungssysteme auf dem Mond sowie in Lagrange-Punkten, um die infrastrukturelle Basis zu stärken.</td></tr><tr><td><strong>2034</strong></td><td><strong>Solar Defense Force Node Mond wird aufgebaut:</strong> Aufbau von Solar Defense Force Node Mond</td></tr><tr><td><strong>2035</strong></td><td><strong>Inbetriebnahme von EARTH ONE:</strong> Realisierung eines orbitalen Weltaugenpaares zur globalen Überwachung und Kommunikation, basierend auf neu etablierten Technologien.</td></tr><tr><td><strong>2036</strong></td><td><strong>Testbetrieb des orbitalen Cycler-Systems:</strong> Erste Versuche eines kontinuierlichen, orbitalen Transportsystems zwischen Erde und Mars, um langfristig regelmäßige Verbindungen zu ermöglichen.</td></tr><tr><td><strong>2038</strong></td><td><strong>Betriebsbeginn von LUNAR ONE:</strong> Aktivierung eines dauerhaften Raumstationskonzepts an einem Mondorbit, unterstützt durch einen permanenten CIVITAS-Rat als Governance- und Kooperationsinstanz.</td></tr><tr><td><strong>2042</strong></td><td><strong>BELT LIVING ONE wird besetzt:</strong> Belt One wird bevökert und Inbetrieb gesetzt. Übungs- und Vorbereitungsprogramm 6 Monate, um Routine zu haben.</td></tr><tr><td><strong>2042</strong></td><td><strong>Forschungsstationen auf dem Mars:</strong> Aufbau rotierender, medizinisch und ethisch ausgerichteter Stationen als erste Basis für wissenschaftliche Langzeitmissionen auf dem Mars.</td></tr><tr><td><strong>2043</strong></td><td><strong>BELT LIVING ONE reist zum Belt:</strong> Reise zum Belt. Etablierung des ersten Orbit-Mining-Zentrums im Asteroidengürtel, das den Aufbau einer eigenständigen Ressourcennutzung einleitet.</td></tr><tr><td><strong>2044</strong></td><td><strong>Solar Defense Force Node Mars wird aufgebaut:</strong> Aufbau von Solar Defense Force Node Mars</td></tr><tr><td><strong>2045</strong></td><td><strong>VENUS ONE wird besetzt:</strong> VENUS ONE wird bevökert und Inbetrieb gesetzt. Übungs- und Vorbereitungsprogramm 6 Monate, um Routine zu haben.</td></tr><tr><td><strong>2046</strong></td><td><strong>VENUS ONE reist zur Venus:</strong> Reise zur Venus. Starten der ersten Missionen. Beginn von Ethik- und Atmosphärenmissionen zur Erforschung und Gestaltung der Venus, mit dem Ziel, Erkenntnisse für zukünftige Terraforming-Prozesse zu gewinnen.</td></tr><tr><td><strong>2048</strong></td><td><strong>Erweiterung der DNSN-Netze:</strong> Ausdehnung der Kommunikations- und Steuerungssysteme bis zum Mars und in den inneren Asteroidengürtel, zur Sicherstellung einer lückenlosen Raumkommunikation.</td></tr><tr><td><strong>2050</strong></td><td><strong>Einrichtung von Marsparlamenten und Bildungsnetzwerken:</strong> Aufbau von Verwaltungseinheiten und tiefen Raumsonden-Clustern (z. B. IRIS-Schwarm mit über 10.000 Einheiten) zur autonomen Steuerung und Erforschung des Mars.</td></tr><tr><td><strong>2050</strong></td><td><strong>Solar Defense Node Belt wird aufgebaut:</strong> Aufbau von Solar Defense Force Node Belt</td></tr><tr><td><strong>2052</strong></td><td><strong>Start von NEPTUNE ONE:</strong> Beginn eines intergenerationellen Langzeitprogramms, das Familien in die Raumfahrt integriert und langfristige Siedlungen im äußeren Sonnensystem fördert.</td></tr><tr><td><strong>2055</strong></td><td><strong>Vollständige operative Ausweitung des Cycler-Systems:</strong> Sicherstellung eines zuverlässigen, orbitalen Transportsystems bis zum Neptun für den massiven Material- und Personentransport im All.</td></tr><tr><td><strong>2060</strong></td><td><strong>Ausbau der DNSN-Abdeckung:</strong> Errichtung eines flächendeckenden Steuerungsnetzwerks auf allen ERDA-Stützpunkten im Asteroidengürtel sowie am Neptun, zur Optimierung der Raumkommunikation.</td></tr><tr><td><strong>2062</strong></td><td><strong>Solar Defense Nodes Beyond werden aufgebaut:</strong> Aufbau von Solar Defense Force Nodes bei jeder menschlichen Siedlung im Solar System</td></tr><tr><td><strong>2065</strong></td><td><strong>Autarke Lunarindustrie:</strong> Erreichen eines Eigenversorgungsgrades von über 70 % in den Mondhabitats, was eine signifikante Unabhängigkeit im Weltraum ermöglicht.</td></tr><tr><td><strong>2070</strong></td><td><strong>Intersolares Observatoriumsnetz:</strong> Aufbau des ersten Echtzeit-Observatoriums bei ca. 180 AU, zur Überwachung entfernter Weltraumphänomene und zur Förderung wissenschaftlicher Erkenntnisse.</td></tr><tr><td><strong>2075</strong></td><td><strong>50 Jahre ERDA-Codex:</strong> Feier des halben Jahrhunderts ERDA-Vision mit der Etablierung eines demokratischen Tiefenraums und einer kosmischen Verantwortungsordnung als zentralem Pfeiler der zukünftigen Raumzivilisation.</td></tr></tbody></table>
-
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.6.infrastrukturen.bis.2075.9.6.9.zeitleiste.und.tabellarischer.vergleich.9.6.9.2.vergleichstabelle.der.sphere.stations.stand.zielausbau.2055
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-9-zeitleiste-und-tabellarischer-vergleich-9-6-9-2-vergleichstabelle-der-sphere-stations-stand-zielausbau-2055"></a>
 
 #### 9.6.9.2 Vergleichstabelle der Sphere Stations (Stand: Zielausbau 2055)
 
@@ -9900,15 +9420,6 @@ Die technische Realisierung einer Raumzivilisation ist nur ein Teil der Aufgabe.
 
 > _Eine Raumzivilisation ist nicht nur das, was sie baut. Sondern das, woran sie sich erinnert – und was sie einander erzählt._
 
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.7.gesellschaftliche.dimensionen.der.raumzivilisation.9.7.1.bildung.and.kultur.im.all
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-7-gesellschaftliche-dimensionen-der-raumzivilisation-9-7-1-bildung-and-kultur-im-all"></a>
-
 ### 9.7.1 Bildung & Kultur im All
 
 _**Bildung & Kultur im All**_
@@ -9936,15 +9447,6 @@ In einer Welt jenseits der Welt braucht Bildung neue Horizonte. Sie darf nicht n
 > _Eine Bildung, die nicht den Himmel berührt, verfehlt das All._
 
 ***
-
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.7.gesellschaftliche.dimensionen.der.raumzivilisation.9.7.2.gesellschaftsmodelle.and.teilhabe
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-7-gesellschaftliche-dimensionen-der-raumzivilisation-9-7-2-gesellschaftsmodelle-and-teilhabe"></a>
 
 ### 9.7.2 Gesellschaftsmodelle & Teilhabe
 
@@ -9974,15 +9476,6 @@ Wie sieht ein demokratisches Miteinander aus, wenn es keine Nationen, keine alte
 
 ***
 
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.7.gesellschaftliche.dimensionen.der.raumzivilisation.9.7.3.ethik.and.recht.im.alltagsleben
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-7-gesellschaftliche-dimensionen-der-raumzivilisation-9-7-3-ethik-and-recht-im-alltagsleben"></a>
-
 ### 9.7.3 Ethik & Recht im Alltagsleben
 
 _**Ethik & Recht im Alltagsleben**_
@@ -10010,15 +9503,6 @@ Was bedeutet Gerechtigkeit, wenn Hilfe Stunden entfernt ist? Wie formt man Vertr
 > _Ethik im All ist nicht Gesetz plus Technik. Sie ist Beziehung unter Bedingungen der Endlichkeit._
 
 ***
-
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.7.gesellschaftliche.dimensionen.der.raumzivilisation.9.7.4.kultur.der.achtsamkeit.and.resonanz
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-7-gesellschaftliche-dimensionen-der-raumzivilisation-9-7-4-kultur-der-achtsamkeit-and-resonanz"></a>
 
 ### 9.7.4 Kultur der Achtsamkeit & Resonanz
 
@@ -10048,15 +9532,6 @@ Jenseits von Funktion und Pflicht entsteht im All eine neue Kultur der Achtsamke
 
 ***
 
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.7.gesellschaftliche.dimensionen.der.raumzivilisation.9.7.5.identifizierung.als.solare.zivilisation
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-7-gesellschaftliche-dimensionen-der-raumzivilisation-9-7-5-identifizierung-als-solare-zivilisation"></a>
-
 ### 9.7.5 Identifizierung als Solare Zivilisation
 
 _**Identifizierung als Solare Zivilisation**_
@@ -10081,7 +9556,7 @@ Die Raumzivilisation im Geist der ERDA ist nicht nur eine Erweiterung des geogra
 * Gefühl der Teilhabe an etwas Größerem: dem Schutz und der Gestaltung des gesamten Sonnensystems.
 * Entwicklung einer neuen Narrative: _Wir sind eine solare Zivilisation – nicht weil wir hinausgingen, sondern weil wir uns verbanden._
 
-###### Orbital Citizenship Index (Öffentliche Forschung)
+##### Orbital Citizenship Index (Öffentliche Forschung)
 
 * Zur Bewertung der demokratischen Reife orbitaler Gemeinschaften wird ein "Orbital Citizenship Index" eingeführt.
 * Er misst Kriterien wie Mitbestimmung, Ethikbindung, Transparenz, soziale Kohäsion und psychische Resilienz.
@@ -10106,15 +9581,6 @@ _Was bleibt, wenn wir gehen? Und was tragen wir weiter?_
 
 Raumzivilisation ist nicht nur Infrastruktur, sondern ein Erbe in Bewegung. Dieses Kapitel behandelt, wie die geistige, kulturelle und ethische Kontinuität der Menschheit gewahrt und weitergetragen wird – in einer Zukunft, die durch Distanz, Zeitverzögerung und Vielfalt geprägt ist. Es geht um Bewahrung ohne Stillstand, um Weitergabe ohne Dogma, um ein menschliches Werden im interplanetaren Raum.
 
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.8.die.weitergabe.der.zivilisation.bildung.kultur.und.ethik.in.interplanetarer.zeit.9.8.1.interplanetare.bildung.als.verantwortungsgemeinschaft
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit-9-8-1-interplanetare-bildung-als-verantwortungsgemeinschaft"></a>
-
 ### 9.8.1 Interplanetare Bildung als Verantwortungsgemeinschaft
 
 _**Interplanetare Bildung als Verantwortungsgemeinschaft**_
@@ -10124,16 +9590,6 @@ _**Interplanetare Bildung als Verantwortungsgemeinschaft**_
 * Mobile Bibliotheken und virtuelle Erzählräume (CIVITAS-Kapseln), verankert in den Sphere Stations
 
 > _Bildung ist nicht, was wir lehren. Bildung ist, was wir fortsetzen._
-
-
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.8.die.weitergabe.der.zivilisation.bildung.kultur.und.ethik.in.interplanetarer.zeit.9.8.2.erinnerungsarchitektur.and.kollektives.gedachtnis
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit-9-8-2-erinnerungsarchitektur-and-kollektives-gedachtnis"></a>
 
 ### 9.8.2 Erinnerungsarchitektur & kollektives Gedächtnis
 
@@ -10147,15 +9603,6 @@ _**Erinnerungsarchitektur & kollektives Gedächtnis**_
 
 ***
 
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.8.die.weitergabe.der.zivilisation.bildung.kultur.und.ethik.in.interplanetarer.zeit.9.8.3.planetare.ethik.als.lebende.navigation
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit-9-8-3-planetare-ethik-als-lebende-navigation"></a>
-
 ### 9.8.3 Planetare Ethik als lebende Navigation
 
 _**Planetare Ethik als lebende Navigation**_
@@ -10168,15 +9615,6 @@ _**Planetare Ethik als lebende Navigation**_
 
 ***
 
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.8.die.weitergabe.der.zivilisation.bildung.kultur.und.ethik.in.interplanetarer.zeit.9.8.4.kultur.als.trager.der.verbindung
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit-9-8-4-kultur-als-trager-der-verbindung"></a>
-
 ### 9.8.4 Kultur als Träger der Verbindung
 
 _**Kultur als Träger der Verbindung**_
@@ -10186,15 +9624,6 @@ _**Kultur als Träger der Verbindung**_
 * Kollektive Kulturprogramme: interplanetare Festivals, Resonanzrituale, Spiel und Bewegung über Distanzen
 
 > _Was wir lieben, tragen wir über jede Grenze hinaus._
-
-
-\newpage
-
----
-content_id: erda.book.9.das.space.konzept.9.8.die.weitergabe.der.zivilisation.bildung.kultur.und.ethik.in.interplanetarer.zeit.9.8.5.der.raum.als.medium.des.menschlichen
-content_lang: de
----
-<a id="md-9-das-space-konzept-9-8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit-9-8-5-der-raum-als-medium-des-menschlichen"></a>
 
 ### 9.8.5 Der Raum als Medium des Menschlichen
 
@@ -10215,7 +9644,7 @@ content_lang: de
 ---
 <a id="md-9-das-space-konzept-9-9-erda-glossar-schlusselbegriffe-der-raumzivilisation"></a>
 
-## 9.9. ERDA Glossar – Schlüsselbegriffe der Raumzivilisation
+## 9.9 ERDA Glossar – Schlüsselbegriffe der Raumzivilisation
 
 _**ERDA Glossar – Schlüsselbegriffe der Raumzivilisation**_
 
