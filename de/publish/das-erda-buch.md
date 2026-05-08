@@ -16017,22 +16017,13 @@ _**ERDA-Staatenprofile**_
 content_id: erda.book.anhang.b.erda.staatenprofile.b.1.einleitung.zum.staatenprofil.konzept.readme
 content_lang: de
 ---
-<a id="md-anhang-b-erda-staatenprofile-b-1-einleitung-zum-staatenprofil-konzept-readme"></a>
+<a id="md-anhang-b-erda-staatenprofile-b-1-einleitung-zum-staatenprofil-konzept"></a>
 
 ## B.1 Einleitung zum Staatenprofil-Konzept
 
 _**Einleitung zum ERDA-Staatenprofil-Konzept**_
 
 Die European Rights-Based Democratic Alliance (ERDA) versteht sich nicht nur als politisch-institutionelles Projekt, sondern als zivilisatorisches Zukunftsmodell. Im Zentrum steht der Anspruch, Demokratie, Rechtsstaatlichkeit, technologische Souveränität und soziale Gerechtigkeit in einer global vernetzten, aber fragilen Weltordnung neu zu verankern. Die Staatenprofile bilden hierfür ein zentrales Analyse-, Kommunikations- und Gestaltungsinstrument.
-
-
-\newpage
-
----
-content_id: erda.book.anhang.b.erda.staatenprofile.b.1.einleitung.zum.staatenprofil.konzept.b.1.1.ziel.und.funktion.der.staatenprofile
-content_lang: de
----
-<a id="md-anhang-b-erda-staatenprofile-b-1-einleitung-zum-staatenprofil-konzept-b-1-1-ziel-und-funktion-der-staatenprofile"></a>
 
 ### B.1.1 Ziel und Funktion der Staatenprofile
 
@@ -16044,15 +16035,6 @@ Die ERDA-Staatenprofile erfassen systematisch die politischen, gesellschaftliche
 * **strategische Stärken zu identifizieren**, aber auch Schwachstellen ehrlich zu benennen,
 * **Entwicklungspfade zu modellieren**, die zwischen Status quo, Best-Case- und Worst-Case-Szenarien differenzieren,
 * und die **Rolle eines Staates innerhalb der ERDA-Vision 2075** klar zu benennen.
-
-
-\newpage
-
----
-content_id: erda.book.anhang.b.erda.staatenprofile.b.1.einleitung.zum.staatenprofil.konzept.b.1.2.modularer.aufbau
-content_lang: de
----
-<a id="md-anhang-b-erda-staatenprofile-b-1-einleitung-zum-staatenprofil-konzept-b-1-2-modularer-aufbau"></a>
 
 ### B.1.2 Modularer Aufbau
 
@@ -16071,15 +16053,6 @@ Das Profil ist modular in zehn Abschnitte gegliedert:
 9. **Kennzahlenübersicht** – Verdichtung in einer tabellarischen Matrix.
 10. **Quellen & Modellierungen** – Transparente Grundlage für Daten und Projektionen.
 
-
-\newpage
-
----
-content_id: erda.book.anhang.b.erda.staatenprofile.b.1.einleitung.zum.staatenprofil.konzept.b.1.3.einsatzmoglichkeiten
-content_lang: de
----
-<a id="md-anhang-b-erda-staatenprofile-b-1-einleitung-zum-staatenprofil-konzept-b-1-3-einsatzmoglichkeiten"></a>
-
 ### B.1.3 Einsatzmöglichkeiten
 
 _**Einsatzmöglichkeiten**_
@@ -16091,15 +16064,6 @@ Die Profile können von politischen Entscheidungsträger:innen, zivilgesellschaf
 * als **Vergleichs- und Analysewerkzeug für Reformprozesse**,
 * und als **Basis für Bürgerdialoge und Bildungsinitiativen** innerhalb von CIVITAS.
 
-
-\newpage
-
----
-content_id: erda.book.anhang.b.erda.staatenprofile.b.1.einleitung.zum.staatenprofil.konzept.b.1.4.vielfalt.anerkennen.gemeinsamkeit.gestalten
-content_lang: de
----
-<a id="md-anhang-b-erda-staatenprofile-b-1-einleitung-zum-staatenprofil-konzept-b-1-4-vielfalt-anerkennen-gemeinsamkeit-gestalten"></a>
-
 ### B.1.4 Vielfalt anerkennen – Gemeinsamkeit gestalten
 
 _**Vielfalt anerkennen – Gemeinsamkeit gestalten**_
@@ -16107,7 +16071,6 @@ _**Vielfalt anerkennen – Gemeinsamkeit gestalten**_
 Die Profile schaffen eine Balance zwischen Individualität und Integration. Sie schreiben keinem Staat vor, wie er zu sein hat – sie beschreiben, was er beitragen kann und wie er sich entwickeln könnte. Die Profile ersetzen keine Politik – sie ermöglichen Orientierung. Sie ersetzen keine Verfassungen – sie respektieren sie. Sie sind keine Checklisten – sondern Resonanzräume für eine gemeinsame demokratische Zukunft.
 
 > _Demokratie ist nicht nur ein Status. Sie ist ein Prozess. Und ERDA ist ihr kollektiver Kompass._
-
 
 \newpage
 

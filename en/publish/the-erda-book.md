@@ -16456,29 +16456,16 @@ Until then, this appendix primarily documents the **concept and schema** so that
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.1.einleitung.zum.staatenprofil.konzept.readme
 content_lang: en
-source: de/content/anhang-b-erda-staatenprofile/b.1.-einleitung-zum-staatenprofil-konzept/README.md
+source: de/content/anhang-b-erda-staatenprofile/b.1.-einleitung-zum-staatenprofil-konzept.md
 status: draft
 ---
-<a id="md-anhang-b-erda-staatenprofile-b-1-einleitung-zum-staatenprofil-konzept-readme"></a>
-
+<a id="md-anhang-b-erda-staatenprofile-b-1-einleitung-zum-staatenprofil-konzept"></a>
 
 ## B.1 Introduction to the State Profile Concept
 
 _**Introduction to the ERDA state profile concept**_
 
 The European Rights-Based Democratic Alliance (ERDA) sees itself not merely as a political-institutional project but as a civilisational blueprint for the future. Its mission is to reinvigorate democracy, the rule of law, technological sovereignty and social justice within a globally connected yet fragile world order. The state profiles are a central instrument for analysis, communication and design in pursuit of that goal.
-
-
-\newpage
-
----
-content_id: erda.book.anhang.b.erda.staatenprofile.b.1.einleitung.zum.staatenprofil.konzept.b.1.1.ziel.und.funktion.der.staatenprofile
-content_lang: en
-source: de/content/anhang-b-erda-staatenprofile/b.1.-einleitung-zum-staatenprofil-konzept/b.1.1-ziel-und-funktion-der-staatenprofile.md
-status: draft
----
-<a id="md-anhang-b-erda-staatenprofile-b-1-einleitung-zum-staatenprofil-konzept-b-1-1-ziel-und-funktion-der-staatenprofile"></a>
-
 
 ### B.1.1 Purpose and Function of the State Profiles
 
@@ -16490,18 +16477,6 @@ The ERDA state profiles capture, in a systematic manner, the political, social, 
 * **identify strategic strengths** while also labelling weaknesses honestly,
 * **model development pathways** that differentiate between status quo, best-case and worst-case scenarios,
 * and clearly state the **role of each country within the ERDA Vision 2075**.
-
-
-\newpage
-
----
-content_id: erda.book.anhang.b.erda.staatenprofile.b.1.einleitung.zum.staatenprofil.konzept.b.1.2.modularer.aufbau
-content_lang: en
-source: de/content/anhang-b-erda-staatenprofile/b.1.-einleitung-zum-staatenprofil-konzept/b.1.2-modularer-aufbau.md
-status: draft
----
-<a id="md-anhang-b-erda-staatenprofile-b-1-einleitung-zum-staatenprofil-konzept-b-1-2-modularer-aufbau"></a>
-
 
 ### B.1.2 Modular Structure
 
@@ -16520,18 +16495,6 @@ The profile is organised into ten modular sections:
 9. **Key indicators overview** – condensed information in a tabular matrix.
 10. **Sources & modelling** – transparent basis for data and projections.
 
-
-\newpage
-
----
-content_id: erda.book.anhang.b.erda.staatenprofile.b.1.einleitung.zum.staatenprofil.konzept.b.1.3.einsatzmoglichkeiten
-content_lang: en
-source: de/content/anhang-b-erda-staatenprofile/b.1.-einleitung-zum-staatenprofil-konzept/b.1.3-einsatzmoglichkeiten.md
-status: draft
----
-<a id="md-anhang-b-erda-staatenprofile-b-1-einleitung-zum-staatenprofil-konzept-b-1-3-einsatzmoglichkeiten"></a>
-
-
 ### B.1.3 Use Cases
 
 _**Possible applications**_
@@ -16539,21 +16502,9 @@ _**Possible applications**_
 The profiles can be used equally by policy-makers, civil-society actors, researchers, media professionals and citizens:
 
 * for **strategic planning and prioritisation** within ERDA,
-* for **public outreach and communicating the ERDA vision**, 
-* as a **comparative and analytical tool for reform processes**, 
+* for **public outreach and communicating the ERDA vision**,
+* as a **comparative and analytical tool for reform processes**,
 * and as a **basis for citizen dialogues and educational initiatives** within CIVITAS.
-
-
-\newpage
-
----
-content_id: erda.book.anhang.b.erda.staatenprofile.b.1.einleitung.zum.staatenprofil.konzept.b.1.4.vielfalt.anerkennen.gemeinsamkeit.gestalten
-content_lang: en
-source: de/content/anhang-b-erda-staatenprofile/b.1.-einleitung-zum-staatenprofil-konzept/b.1.4-vielfalt-anerkennen-gemeinsamkeit-gestalten.md
-status: draft
----
-<a id="md-anhang-b-erda-staatenprofile-b-1-einleitung-zum-staatenprofil-konzept-b-1-4-vielfalt-anerkennen-gemeinsamkeit-gestalten"></a>
-
 
 ### B.1.4 Recognising Diversity – Shaping Common Ground
 
@@ -16562,7 +16513,6 @@ _**Recognising diversity – shaping commonality**_
 The profiles strike a balance between individuality and integration. They do not prescribe what a state must be – they describe what it can contribute and how it might evolve. The profiles do not replace policy – they offer orientation. They do not replace constitutions – they respect them. They are not checklists – they are resonant spaces for a shared democratic future.
 
 > _Democracy is not merely a status. It is a process. And ERDA is its collective compass._
-
 
 \newpage
 

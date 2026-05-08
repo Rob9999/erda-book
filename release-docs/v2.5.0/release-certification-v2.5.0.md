@@ -135,15 +135,15 @@ Freigabeaussage EN:
 | Artefakt / Prüfung | Ergebnis | Nachweis | Bemerkung |
 |---|---|---|---|
 | DE Publish Markdown | erzeugt | `de/publish/das-erda-buch.md` | Finaler v2.5.0-Lauf 2026-05-08 mit gitbook_worker 2.7.0, Orchestrator: `converter=ok`, `publisher=ok`. |
-| DE PDF | erzeugt | `de/publish/das-erda-buch.pdf` | `pdfinfo`: 1019 Seiten, 4.380.285 Bytes, CreationDate 2026-05-08 10:14 MESZ. Titelseite: `2026-05-07 - Version 2.5.0`. Gemischte Seitenformate fuer breite Inhalte. |
+| DE PDF | erzeugt | `de/publish/das-erda-buch.pdf` | `pdfinfo`: 1016 Seiten, 4.379.483 Bytes, CreationDate 2026-05-08 10:52 MESZ. Titelseite: `2026-05-08 - Version 2.5.0`. Gemischte Seitenformate fuer breite Inhalte. |
 | EN Publish Markdown | erzeugt | `en/publish/the-erda-book.md` | Finaler v2.5.0-Lauf 2026-05-08 mit gitbook_worker 2.7.0, Orchestrator: `converter=ok`, `publisher=ok`. |
-| EN PDF | erzeugt; Worker 2.7.0 validiert | `en/publish/the-erda-book.pdf` | `pdfinfo`: 981 Seiten, 4.375.866 Bytes, CreationDate 2026-05-08 10:20 MESZ. Titelseite: `2026-05-07 - Version 2.5.0`. Gemischte Seitenformate fuer breite Inhalte. |
+| EN PDF | erzeugt; Worker 2.7.0 validiert | `en/publish/the-erda-book.pdf` | `pdfinfo`: 978 Seiten, 4.374.668 Bytes, CreationDate 2026-05-08 10:57 MESZ. Titelseite: `2026-05-08 - Version 2.5.0`. Gemischte Seitenformate fuer breite Inhalte. |
 | PDF-Fonts: DejaVu | bestanden | `pdffonts` DE/EN | DejaVuSerif, DejaVuSansMono und Varianten eingebettet. |
 | PDF-Fonts: Twemoji Mozilla | bestanden | `pdffonts` DE/EN | TwemojiMozilla eingebettet. LaTeX meldet weiter einzelne fehlende Emoji-/Symbolzeichen als Warnungen. |
 | PDF-Fonts: ERDA CC-BY CJK | bestanden im Release-Scope | `pdffonts` / Publisher-Einschaetzung | CJK-Fonts muessen fuer v2.5.0 die multilingualen Lizenzbeschreibungen abdecken; dieser Scope ist abgedeckt. Der gitbook_worker-Lieferant kann bei Bedarf mehr Glyphen bereitstellen. |
 | Markdown/PDF Layout-Scan | erledigt mit Restbefunden | `markdown_pdf_layout_scan.py --pdf-right-margin 0` | 2.7.0-Scan: 19 PDF-Seitenkantenbefunde, keine bisherigen breiten Tabellenueberlaeufe mehr. Restbefunde betreffen lange URLs/Quellenzeilen, nicht Tabellenpapier. |
-| Sichtprüfung DE PDF | technisch stichprobengeprueft | `pdftotext`, `pdfinfo`, `pdffonts` | Titelseite zeigt 2026-05-07 / Version 2.5.0; H4- und Code-Fence-Regressionspruefung unauffaellig. Vollstaendige Publisher-Sichtpruefung bleibt Final-Gate. |
-| Sichtprüfung EN PDF | technisch stichprobengeprueft | `pdftotext`, `pdfinfo`, `pdffonts` | Titelseite zeigt 2026-05-07 / Version 2.5.0; H4- und Code-Fence-Regressionspruefung unauffaellig. Vollstaendige Publisher-Sichtpruefung bleibt Final-Gate. |
+| Sichtprüfung DE PDF | technisch stichprobengeprueft | `pdftotext`, `pdfinfo`, `pdffonts` | Titelseite zeigt 2026-05-08 / Version 2.5.0; H4- und Code-Fence-Regressionspruefung unauffaellig. Vollstaendige Publisher-Sichtpruefung bleibt Final-Gate. |
+| Sichtprüfung EN PDF | technisch stichprobengeprueft | `pdftotext`, `pdfinfo`, `pdffonts` | Titelseite zeigt 2026-05-08 / Version 2.5.0; H4- und Code-Fence-Regressionspruefung unauffaellig. Vollstaendige Publisher-Sichtpruefung bleibt Final-Gate. |
 
 ---
 
@@ -154,7 +154,7 @@ Freigabeaussage EN:
 | Content-Freeze erklärt am | 2026-05-05 |
 | Freeze erklärt durch Rolle | Redakteur:in |
 | Erlaubte Änderungen nach Freeze | nur Release-Fixes, Build-Fixes, Metadatenkorrekturen |
-| Änderungen nach Freeze dokumentiert | ja, in diesem Protokoll und den v2.5.0-Release-Dokumenten; zuletzt Appendix-J-Sprachüberschriften nach Autonym-/Land-Regel normalisiert |
+| Änderungen nach Freeze dokumentiert | ja, in diesem Protokoll und den v2.5.0-Release-Dokumenten; zuletzt B.1-Staatenprofil-Einleitung von Fragmentdateien auf eine Markdown-Datei zusammengelegt |
 | Freeze aufgehoben? | nein |
 
 ---
@@ -204,12 +204,12 @@ Diese Teilzertifizierung dokumentiert den Arbeitsstand zu A6 aus der Anhang-M-Be
 | Prüfrolle | Publisher mit Redakteur:in-Zuarbeit |
 | DE Build | `converter=ok`, `publisher=ok` |
 | EN Build | `converter=ok`, `publisher=ok` |
-| DE PDF | 1019 Seiten, 4.380.285 Bytes, CreationDate 2026-05-08 10:14 MESZ |
-| EN PDF | 981 Seiten, 4.375.866 Bytes, CreationDate 2026-05-08 10:20 MESZ |
+| DE PDF | 1016 Seiten, 4.379.483 Bytes, CreationDate 2026-05-08 10:52 MESZ |
+| EN PDF | 978 Seiten, 4.374.668 Bytes, CreationDate 2026-05-08 10:57 MESZ |
 | Fontbefund | DejaVu, TwemojiMozilla und ERDACCbyCJK-Regular in DE/EN eingebettet; CJK-Text extrahierbar und innerhalb der Seitenboxen |
 | Ergebnis | erfuellt mit dokumentiertem Restbefund; vendortes gitbook_worker 2.7.0 installiert, DE/EN-Artefakte neu erzeugt und Font-/Layout-Sichtpruefung technisch nachgezogen |
 
-**Befund:** Die Publish-Artefakte wurden nach der P.2-Formatbereinigung, der Kapitel-9-Quellkonsolidierung, der Anhang-J-Lizenzblock-Korrektur, der 14.3-Flowdiagramm-Korrektur und der Metadaten-Synchronisation neu erzeugt. Nach Umstellung des vendorten Pakets auf gitbook_worker 2.7.0 liefen DE- und EN-Orchestrator erfolgreich durch. `pdffonts` bestaetigt eingebettete DejaVu-, TwemojiMozilla- und ERDACCbyCJK-Regular-Fonts. Die Titelseiten enthalten `2026-05-07 - Version 2.5.0`. Die 2.7.0-Ausgabe verwendet gemischte Seitenformate: Letter fuer die Frontmatter-Seiten, A4/A4-quer fuer normalen bzw. maessig breiten Inhalt sowie A3/A2/A1 fuer sehr breite Tabellen. Der vollstaendige PDF-Seitenkantenscan mit `--pdf-right-margin 0` meldet 19 Restbefunde; die zuvor dokumentierten Tabellenueberlaeufe in Anhang A sowie den Staatenprofil-Tabellen sind nicht mehr enthalten. Die Restbefunde betreffen lange URLs und Quellenzeilen. H4-/Run-in-Headings und die bekannten Code-Fence-Stellen wurden gezielt geprueft und sind unter 2.7.0 unauffaellig. Der lokale Windows-Lauf benoetigte weiterhin einen repo-lokalen `LOCALAPPDATA`-Buildkontext, weil im echten User-Font-Ordner alte 5-Byte-Stubs fuer `ERDA CC-BY Indic` und `ERDA CC-BY Ethiopic` liegen und `luaotfload` diese sonst fatal aufloesen kann.
+**Befund:** Die Publish-Artefakte wurden nach der P.2-Formatbereinigung, der Kapitel-9-Quellkonsolidierung, der Anhang-J-Lizenzblock-Korrektur, der 14.3-Flowdiagramm-Korrektur, der B.1-Zusammenlegung und der Metadaten-Synchronisation neu erzeugt. Nach Umstellung des vendorten Pakets auf gitbook_worker 2.7.0 liefen DE- und EN-Orchestrator erfolgreich durch. `pdffonts` bestaetigt eingebettete DejaVu-, TwemojiMozilla- und ERDACCbyCJK-Regular-Fonts. Die Titelseiten enthalten `2026-05-08 - Version 2.5.0`. Die 2.7.0-Ausgabe verwendet gemischte Seitenformate: Letter fuer die Frontmatter-Seiten, A4/A4-quer fuer normalen bzw. maessig breiten Inhalt sowie A3/A2/A1 fuer sehr breite Tabellen. Der vollstaendige PDF-Seitenkantenscan mit `--pdf-right-margin 0` meldet 19 Restbefunde; die zuvor dokumentierten Tabellenueberlaeufe in Anhang A sowie den Staatenprofil-Tabellen sind nicht mehr enthalten. Die Restbefunde betreffen lange URLs und Quellenzeilen. H4-/Run-in-Headings und die bekannten Code-Fence-Stellen wurden gezielt geprueft und sind unter 2.7.0 unauffaellig. Der lokale Windows-Lauf benoetigte weiterhin einen repo-lokalen `LOCALAPPDATA`-Buildkontext, weil im echten User-Font-Ordner alte 5-Byte-Stubs fuer `ERDA CC-BY Indic` und `ERDA CC-BY Ethiopic` liegen und `luaotfload` diese sonst fatal aufloesen kann.
 
 **Entscheidung:** Das fruehere EN-Orchestrator-/Titelseiten-Restrisiko, das Code-Fence-Wrapping, das H4-/Run-in-Heading-Verhalten und die breiten Tabellenueberlaeufe werden fuer v2.5.0 durch die vereinheitlichte gitbook_worker-2.7.0-Toolchain als geschlossen bewertet. A6 ist fuer den aktuellen v2.5.0-Artefaktstand technisch erfuellt, aber nicht als finale Publisher-Freigabe zu verstehen. Vor A8 bleiben der finale Worktree-/Index-Check, die bewusste Publisher-Sichtpruefung und die Entscheidung zu den verbliebenen URL-/Quellenzeilen-Restbefunden offen. Fuer spaetere Releases bleibt der Hinweis bestehen, PDF-Laeufe nicht parallel gegen dieselben Ausgabepfade zu starten.
 

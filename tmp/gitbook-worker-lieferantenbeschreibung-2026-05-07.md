@@ -49,8 +49,8 @@ Artefakte:
 
 | Artefakt | Ergebnis |
 | ---- | ---- |
-| `de/publish/das-erda-buch.pdf` | 1019 Seiten, 4.380.285 Bytes, Producer LuaTeX-1.22.0, CreationDate 2026-05-08 10:14 MESZ |
-| `en/publish/the-erda-book.pdf` | 981 Seiten, 4.375.866 Bytes, Producer LuaTeX-1.22.0, CreationDate 2026-05-08 10:20 MESZ |
+| `de/publish/das-erda-buch.pdf` | 1016 Seiten, 4.379.483 Bytes, Producer LuaTeX-1.22.0, CreationDate 2026-05-08 10:52 MESZ |
+| `en/publish/the-erda-book.pdf` | 978 Seiten, 4.374.668 Bytes, Producer LuaTeX-1.22.0, CreationDate 2026-05-08 10:57 MESZ |
 
 Vendorte Worker-Artefakte:
 
@@ -70,13 +70,13 @@ Seitengroessen nach 2.7.0:
 | PDF | Format | Seiten |
 | ---- | ---- | ----: |
 | DE | Letter 612.0 x 792.0 pt | 21 |
-| DE | A4 hoch 595.3 x 841.9 pt | 826 |
+| DE | A4 hoch 595.3 x 841.9 pt | 823 |
 | DE | A4 quer 841.9 x 595.3 pt | 123 |
 | DE | A3 quer 1190.6 x 841.9 pt | 31 |
 | DE | A2 quer 1683.8 x 1190.6 pt | 15 |
 | DE | A1 quer 2383.9 x 1683.8 pt | 3 |
 | EN | Letter 612.0 x 792.0 pt | 22 |
-| EN | A4 hoch 595.3 x 841.9 pt | 811 |
+| EN | A4 hoch 595.3 x 841.9 pt | 808 |
 | EN | A4 quer 841.9 x 595.3 pt | 99 |
 | EN | A3 quer 1190.6 x 841.9 pt | 30 |
 | EN | A2 quer 1683.8 x 1190.6 pt | 15 |
@@ -102,9 +102,9 @@ Schlimmste Restbefunde:
 
 | PDF | Seite | Art | Ausmass | Ursache |
 | ---- | ----: | ---- | ----: | ---- |
-| DE | 890 | line/block | 4.7 pt | lange World-Bank-URL in Quellen-/Bulletzeile |
-| DE | 1018 | line/block | 1.6 pt | lange DOI-Zeile |
-| EN | 980 | line/block | 5.5 pt | lange DOI-Zeile |
+| DE | 887 | line/block | 4.7 pt | lange World-Bank-URL in Quellen-/Bulletzeile |
+| DE | 1015 | line/block | 1.6 pt | lange DOI-Zeile |
+| EN | 977 | line/block | 5.5 pt | lange DOI-Zeile |
 | EN | 427 | line/block | 4.9 pt | lange Wikipedia-/Quellenzeile |
 
 Die zuvor unter 2.6.0 dokumentierten Tabellenueberlaeufe in Anhang A und den Staatenprofil-Tabellen sind im 2.7.0-Vollscan nicht mehr vorhanden. Die Restbefunde betreffen lange URLs bzw. Quellenzeilen und sollten als eigener Quellen-/URL-Umbruch-Follow-up behandelt werden.
