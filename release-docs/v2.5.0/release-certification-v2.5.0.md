@@ -2,7 +2,7 @@
 
 **Release:** v2.5.0  
 **Release name:** Democratic Knowledge  
-**Stand:** 2026-05-05
+**Stand:** 2026-05-08
 **Status:** Final-Gate-Stand dokumentiert; Tag-/Publisher-Freigabe noch offen
 **Zuständige Rolle:** Redakteur:in  
 **Mitwirkende Rollen:** Writer, Editor, Lektor, Native gb-en Translator, Publisher
@@ -134,16 +134,16 @@ Freigabeaussage EN:
 
 | Artefakt / Prüfung | Ergebnis | Nachweis | Bemerkung |
 |---|---|---|---|
-| DE Publish Markdown | erzeugt | `de/publish/das-erda-buch.md` | Finaler v2.5.0-Lauf 2026-05-05, Orchestrator: `converter=ok`, `publisher=ok`. |
-| DE PDF | erzeugt | `de/publish/das-erda-buch.pdf` | `pdfinfo`: 863 Seiten, 4.338.273 Bytes, CreationDate 2026-05-05 20:20 MESZ. Titelseite: `2026-05-05 - Version 2.5.0`. |
-| EN Publish Markdown | erzeugt | `en/publish/the-erda-book.md` | Finaler v2.5.0-Lauf 2026-05-05, Orchestrator: `converter=ok`, `publisher=ok`. |
-| EN PDF | erzeugt; Worker 2.4.0 validiert | `en/publish/the-erda-book.pdf` | `pdfinfo`: 835 Seiten, 4.340.656 Bytes, CreationDate 2026-05-05 20:25 MESZ. Titelseite: `2026-05-05 - Version 2.5.0`. |
+| DE Publish Markdown | erzeugt | `de/publish/das-erda-buch.md` | Finaler v2.5.0-Lauf 2026-05-08 mit gitbook_worker 2.7.0, Orchestrator: `converter=ok`, `publisher=ok`. |
+| DE PDF | erzeugt | `de/publish/das-erda-buch.pdf` | `pdfinfo`: 1019 Seiten, 4.380.285 Bytes, CreationDate 2026-05-08 10:14 MESZ. Titelseite: `2026-05-07 - Version 2.5.0`. Gemischte Seitenformate fuer breite Inhalte. |
+| EN Publish Markdown | erzeugt | `en/publish/the-erda-book.md` | Finaler v2.5.0-Lauf 2026-05-08 mit gitbook_worker 2.7.0, Orchestrator: `converter=ok`, `publisher=ok`. |
+| EN PDF | erzeugt; Worker 2.7.0 validiert | `en/publish/the-erda-book.pdf` | `pdfinfo`: 981 Seiten, 4.375.866 Bytes, CreationDate 2026-05-08 10:20 MESZ. Titelseite: `2026-05-07 - Version 2.5.0`. Gemischte Seitenformate fuer breite Inhalte. |
 | PDF-Fonts: DejaVu | bestanden | `pdffonts` DE/EN | DejaVuSerif, DejaVuSansMono und Varianten eingebettet. |
 | PDF-Fonts: Twemoji Mozilla | bestanden | `pdffonts` DE/EN | TwemojiMozilla eingebettet. LaTeX meldet weiter einzelne fehlende Emoji-/Symbolzeichen als Warnungen. |
 | PDF-Fonts: ERDA CC-BY CJK | bestanden im Release-Scope | `pdffonts` / Publisher-Einschaetzung | CJK-Fonts muessen fuer v2.5.0 die multilingualen Lizenzbeschreibungen abdecken; dieser Scope ist abgedeckt. Der gitbook_worker-Lieferant kann bei Bedarf mehr Glyphen bereitstellen. |
-| Markdown/PDF Layout-Scan | offen mit Befund | `release-docs/v2.5.0/markdown-pdf-layout-scan-v2.5.0.md` | Tabellen-Separatoren in DE/EN-Content normalisiert. Report meldet 644 breite Tabellenzeilen, 177 lange sichtbare URLs, 45 lange Codezeilen und 250 PDF-BBox-Hinweise; Appendix J CJK/Taiwan/Japan, MIT-Lizenz und Prompt-/Codeblöcke brauchen Layout-/Publisher-Entscheidung. |
-| Sichtprüfung DE PDF | technisch stichprobengeprueft | `pdftotext`, `pdfinfo` | Titelseite zeigt 2026-05-05 / Version 2.5.0; vollstaendige Publisher-Sichtpruefung bleibt Final-Gate. |
-| Sichtprüfung EN PDF | technisch stichprobengeprueft | `pdftotext`, `pdfinfo`, `pdffonts` | Titelseite zeigt 2026-05-05 / Version 2.5.0; vollstaendige Publisher-Sichtpruefung bleibt Final-Gate. |
+| Markdown/PDF Layout-Scan | erledigt mit Restbefunden | `markdown_pdf_layout_scan.py --pdf-right-margin 0` | 2.7.0-Scan: 19 PDF-Seitenkantenbefunde, keine bisherigen breiten Tabellenueberlaeufe mehr. Restbefunde betreffen lange URLs/Quellenzeilen, nicht Tabellenpapier. |
+| Sichtprüfung DE PDF | technisch stichprobengeprueft | `pdftotext`, `pdfinfo`, `pdffonts` | Titelseite zeigt 2026-05-07 / Version 2.5.0; H4- und Code-Fence-Regressionspruefung unauffaellig. Vollstaendige Publisher-Sichtpruefung bleibt Final-Gate. |
+| Sichtprüfung EN PDF | technisch stichprobengeprueft | `pdftotext`, `pdfinfo`, `pdffonts` | Titelseite zeigt 2026-05-07 / Version 2.5.0; H4- und Code-Fence-Regressionspruefung unauffaellig. Vollstaendige Publisher-Sichtpruefung bleibt Final-Gate. |
 
 ---
 
@@ -200,18 +200,18 @@ Diese Teilzertifizierung dokumentiert den Arbeitsstand zu A6 aus der Anhang-M-Be
 
 | Feld | Eintrag |
 |---|---|
-| Prüfdatum | 2026-05-07 |
+| Prüfdatum | 2026-05-08 |
 | Prüfrolle | Publisher mit Redakteur:in-Zuarbeit |
 | DE Build | `converter=ok`, `publisher=ok` |
 | EN Build | `converter=ok`, `publisher=ok` |
-| DE PDF | 826 Seiten, 4.331.400 Bytes, CreationDate 2026-05-07 10:44 MESZ |
-| EN PDF | 800 Seiten, 4.332.832 Bytes, CreationDate 2026-05-07 10:50 MESZ |
+| DE PDF | 1019 Seiten, 4.380.285 Bytes, CreationDate 2026-05-08 10:14 MESZ |
+| EN PDF | 981 Seiten, 4.375.866 Bytes, CreationDate 2026-05-08 10:20 MESZ |
 | Fontbefund | DejaVu, TwemojiMozilla und ERDACCbyCJK-Regular in DE/EN eingebettet; CJK-Text extrahierbar und innerhalb der Seitenboxen |
-| Ergebnis | erfuellt mit dokumentiertem Worker-Follow-up; vendortes gitbook_worker 2.4.2 installiert, DE/EN-Artefakte neu erzeugt und Font-/Layout-Sichtpruefung technisch nachgezogen |
+| Ergebnis | erfuellt mit dokumentiertem Restbefund; vendortes gitbook_worker 2.7.0 installiert, DE/EN-Artefakte neu erzeugt und Font-/Layout-Sichtpruefung technisch nachgezogen |
 
-**Befund:** Die Publish-Artefakte wurden nach der P.2-Formatbereinigung, der Kapitel-9-Quellkonsolidierung, der Anhang-J-Lizenzblock-Korrektur und der Metadaten-Synchronisation neu erzeugt. Nach finaler Umstellung von `project.version` auf 2.5.0 wurden DE und EN mit dem vendorten gitbook_worker 2.4.2 im `.venv`-Pfad gebaut. Die Ursache der frueher abweichenden EN-Titelseite war eine Toolchain-Divergenz: `.venv` nutzte zuvor gitbook_worker 2.0.6.post1 ohne `project.version`-Weitergabe an die Pandoc-Titelseite, waehrend die globale Installation 2.3.0 die Version, aber nicht den repo-spezifischen CJK-Fallback stabil abbildete. Nach Umstellung des vendorten Pakets auf gitbook_worker 2.4.2 liefen DE- und EN-Orchestrator erfolgreich durch. `pdffonts` bestaetigt eingebettete DejaVu-, TwemojiMozilla- und ERDACCbyCJK-Regular-Fonts. Die Titelseiten enthalten `2026-05-07 - Version 2.5.0`. Die CJK-Pruefung bestaetigt extrahierbare Marker fuer Japanisch, Koreanisch und traditionelles Chinesisch; die breiteste CJK-Zeile liegt mit `xMax=540.0` bei einer Seitenbreite von `595.3` pt innerhalb der Seitenbox. Der lokale Windows-Lauf benoetigte einen repo-lokalen `LOCALAPPDATA`-Buildkontext, weil im echten User-Font-Ordner alte 5-Byte-Stubs fuer `ERDA CC-BY Indic` und `ERDA CC-BY Ethiopic` liegen und `luaotfload` diese sonst fatal aufloest. Das verbleibende H4-/Run-in-Heading-Verhalten ist als Worker-Finding dokumentiert.
+**Befund:** Die Publish-Artefakte wurden nach der P.2-Formatbereinigung, der Kapitel-9-Quellkonsolidierung, der Anhang-J-Lizenzblock-Korrektur, der 14.3-Flowdiagramm-Korrektur und der Metadaten-Synchronisation neu erzeugt. Nach Umstellung des vendorten Pakets auf gitbook_worker 2.7.0 liefen DE- und EN-Orchestrator erfolgreich durch. `pdffonts` bestaetigt eingebettete DejaVu-, TwemojiMozilla- und ERDACCbyCJK-Regular-Fonts. Die Titelseiten enthalten `2026-05-07 - Version 2.5.0`. Die 2.7.0-Ausgabe verwendet gemischte Seitenformate: Letter fuer die Frontmatter-Seiten, A4/A4-quer fuer normalen bzw. maessig breiten Inhalt sowie A3/A2/A1 fuer sehr breite Tabellen. Der vollstaendige PDF-Seitenkantenscan mit `--pdf-right-margin 0` meldet 19 Restbefunde; die zuvor dokumentierten Tabellenueberlaeufe in Anhang A sowie den Staatenprofil-Tabellen sind nicht mehr enthalten. Die Restbefunde betreffen lange URLs und Quellenzeilen. H4-/Run-in-Headings und die bekannten Code-Fence-Stellen wurden gezielt geprueft und sind unter 2.7.0 unauffaellig. Der lokale Windows-Lauf benoetigte weiterhin einen repo-lokalen `LOCALAPPDATA`-Buildkontext, weil im echten User-Font-Ordner alte 5-Byte-Stubs fuer `ERDA CC-BY Indic` und `ERDA CC-BY Ethiopic` liegen und `luaotfload` diese sonst fatal aufloesen kann.
 
-**Entscheidung:** Das fruehere EN-Orchestrator-/Titelseiten-Restrisiko wird fuer v2.5.0 durch die vereinheitlichte gitbook_worker-2.4.2-Toolchain als geschlossen bewertet. A6 ist fuer den aktuellen v2.5.0-Artefaktstand technisch erfuellt, aber nicht als finale Publisher-Freigabe zu verstehen. Vor A8 bleiben der finale Worktree-/Index-Check, die bewusste Publisher-Sichtpruefung und die priorisierten Worker-Follow-ups offen. Fuer spaetere Releases bleibt der Hinweis bestehen, PDF-Laeufe nicht parallel gegen dieselben Ausgabepfade zu starten.
+**Entscheidung:** Das fruehere EN-Orchestrator-/Titelseiten-Restrisiko, das Code-Fence-Wrapping, das H4-/Run-in-Heading-Verhalten und die breiten Tabellenueberlaeufe werden fuer v2.5.0 durch die vereinheitlichte gitbook_worker-2.7.0-Toolchain als geschlossen bewertet. A6 ist fuer den aktuellen v2.5.0-Artefaktstand technisch erfuellt, aber nicht als finale Publisher-Freigabe zu verstehen. Vor A8 bleiben der finale Worktree-/Index-Check, die bewusste Publisher-Sichtpruefung und die Entscheidung zu den verbliebenen URL-/Quellenzeilen-Restbefunden offen. Fuer spaetere Releases bleibt der Hinweis bestehen, PDF-Laeufe nicht parallel gegen dieselben Ausgabepfade zu starten.
 
 ---
 
