@@ -82,6 +82,7 @@ coverage.xml
 
 # Logs and databases
 *.log
+logs/quality/
 *.sqlite
 *.db
 

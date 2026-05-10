@@ -12543,7 +12543,7 @@ Sauberes Heizen muss wirtschaftlich attraktiver sein als Gas. Die EU verschiebt 
 Souveränität endet nicht beim Brennstoff. Europa stärkt seine Lieferketten für Schlüsseltechnologien — in direkter Ergänzung zu → 13.5 (Redundanz gegen Single-Point-of-Failure) und → Kapitel 7 (FORTERA).
 
 | Instrument | Wirkung |
-| ---- |------|
+| ---- | ---- |
 | **Net-Zero Industry Act** | Kapazitätssicherung für Solar, Wind, Wärmepumpen, Elektronik, Batterien |
 | **Critical Raw Materials Act** | Lieferketten-Resilienz für kritische Rohstoffe (Recycling, neue Vorkommen, Allianzen) |
 | **Batterie- und Cleantech-Finanzierung** | EIB-/InvestEU- und Innovationsfonds-Instrumente für Netze, Cleantech und industrielle Dekarbonisierung |
