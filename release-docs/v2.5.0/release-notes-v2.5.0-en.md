@@ -1,6 +1,6 @@
 # The ERDA Book – Release v2.5.0
 
-**Date:** 2026-05-05
+**Date:** 2026-05-11
 **Tag:** `v2.5.0`
 **Release name:** Democratic Knowledge
 **Author:** Robert Alexander Massinger (with ChatGPT/OpenAI and GitHub Copilot/Anthropic)
@@ -56,15 +56,15 @@ In addition, this release integrates conceptual papers and implementation materi
 - Version bump to v2.5.0
 - Release documentation in `release-docs/v2.5.0/`
 - Desktop materials in `desktop/misc/`
-- `book.json` date updated to 2026-05-05 (DE + EN)
+- `book.json` date updated to 2026-05-11 (DE + EN)
 - SUMMARY.md updated (DE + EN) with Appendix M and Appendix P entries
 - Root `ATTRIBUTION.md` added as primary source for third-party assets
 - YAML front matter normalised with `content_id`, `content_lang`, `source` and `status` for DE/EN content files; Pandoc/Babel-adjacent keys such as `lang`, `language` and `lang-version` are avoided in content front matter to keep Twemoji/ERDA CJK PDF font fallback stable
-- Release metadata gate applied: README date, `book.json`, CFF files and `.zenodo.json` synchronised
+- Release metadata gate applied: README date, `book.json`, CFF files and `.zenodo.json` synchronised to 2026-05-11
 - English Appendix J/L file paths normalised to `appendix-j-license-and-openness.md` and `appendix-l-colophon.md`
 - DE/EN cross-references to Appendix P.1 updated in chapters 3.5, 4.3.5, 11.2 and 11.3
 - DE/EN cross-references to Appendix P.2 added in Chapter 6
-- Vendored gitbook_worker updated to 2.4.0; this restores consistent EN title-page version output and the ERDA CJK fallback in the `.venv` build path
+- Vendored gitbook_worker updated to 2.9.1; DE/EN publish artefacts rebuilt and the integrated `editorial-quality` gate reproduced with `passed_with_warnings`, 0 `blocked` and 0 `fail`
 - Source/link gate for the v2.5 final scope documented through a gitbook_worker dry run, link audit, sources export and manual web verification
 
 ---

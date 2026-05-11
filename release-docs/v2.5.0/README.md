@@ -1,7 +1,7 @@
 # v2.5.0
 
 **Codename:** Democratic Knowledge  
-**Datum:** 2026-05-05
+**Datum:** 2026-05-11
 **Status:** Finale v2.5.0-Vorbereitung auf `release_candidate`; Tag/Publisher-Freigabe noch separat
 
 ## Dokumente in diesem Ordner

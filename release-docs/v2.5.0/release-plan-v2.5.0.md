@@ -83,7 +83,7 @@ Release 2.5.0 markiert die **konzeptionelle Vertiefung** des ERDA-Buches. Währe
 - [x] Maßstab-Integration: Buchprojektentscheidungen → Anhang M (DE + EN)
 - [x] Querverweise in Kap. 11.2, 3.5, 4.3.5 (DE + EN)
 - [x] SUMMARY.md aktualisiert (DE + EN)
-- [x] book.json-Datum auf 2026-05-05 (DE + EN)
+- [x] book.json-Datum auf 2026-05-11 (DE + EN)
 - [x] Root-`ATTRIBUTION.md` ergänzt
 - [x] Frontmatter DE/EN normalisiert (`content_id`, `content_lang`, EN `source`, `status`; keine Content-Keys `lang`, `language`, `lang-version` wegen PDF-Fontfallback)
 - [x] Konsistenzprüfung gegen Mini-Wording-Set

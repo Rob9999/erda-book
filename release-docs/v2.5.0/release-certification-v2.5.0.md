@@ -14,7 +14,7 @@
 | Feld | Eintrag |
 |---|---|
 | Entscheidung | Release-Identität, DE-Quellstand und v2.5-Finalscope-Quellenprüfung vorbereitet; keine Tag-Freigabe ohne Publisher-Endcheck |
-| Entscheidung am | 2026-05-05 |
+| Entscheidung am | 2026-05-11 |
 | Entscheidung durch Rolle | Redakteur:in |
 | Freigabeumfang | DE als Quelle der Wahrheit; EN synchronisiert mit Draft/Review-Transparenz; v2.5-Finalscope Quellen/Links |
 | Restrisiken akzeptiert | EN ohne native finale Vollfreigabe; Staatenprofil-Gesamtaktualität v2.6/backlog; Publisher-Sichtprüfung offen |
@@ -31,10 +31,10 @@ Kurzbegründung:
 | Prüfung | Ergebnis | Nachweis | Bemerkung |
 |---|---|---|---|
 | Version final `v2.5.0` | erledigt | README, CFF, publish.yml, `.zenodo.json`, Release Notes | `v2.5.0-rc1` entfernt aus primärer Release-Identität. |
-| Releasedatum konsistent | erledigt | README, `de/book.json`, `en/book.json`, CFF, Release Docs | 2026-05-05. |
+| Releasedatum konsistent | erledigt | README, `de/book.json`, `en/book.json`, CFF, `.zenodo.json`, Release Docs | 2026-05-11. |
 | README, book.json, CFF, Zenodo synchron | erledigt | Root-/DE-/EN-CFF, `.zenodo.json` | Zenodo-Beschreibung final ohne Release-Candidate-Status. |
 | Release Notes final | erledigt | DE/EN Release Notes | EN-Status transparent als Draft/Review. |
-| Release History final | erledigt | `release-docs/Releases.md` | v2.5.0-Eintrag auf 2026-05-05 aktualisiert. |
+| Release History final | erledigt | `release-docs/Releases.md` | v2.5.0-Eintrag auf 2026-05-11 aktualisiert. |
 | Channel-/Branch-Aussage konsistent | erledigt mit Hinweis | README, v2.5 Release Docs | Vorbereitung auf `release_candidate`; stabiler Kanal nach Merge/Tag: `main`. |
 
 ---
@@ -44,7 +44,7 @@ Kurzbegründung:
 | Prüfung | Ergebnis | Nachweis | Bemerkung |
 |---|---|---|---|
 | Git-Status sauber und synchron | offen bis Endcheck | `git status --short --branch` | Vor Edits sauber, Branch `release_candidate` ahead 13. Nach Abschluss erneut prüfen. |
-| `git diff --check` sauber | erledigt | Terminalausgabe 2026-05-05 | Keine Ausgabe / keine Whitespace-Fehler. |
+| `git diff --check` sauber | erledigt | Terminalausgabe 2026-05-11 | Keine Ausgabe / keine Whitespace-Fehler. |
 | Frontmatter-Gate DE/EN bestanden | erledigt | `Select-String '^(lang|language|lang-version):'` | Keine verbotenen Content-Sprachkeys gefunden. |
 | Keine Content-Keys `lang`, `language`, `lang-version` | erledigt | Terminalausgabe | `content_lang` bleibt zulässiger Schlüssel. |
 | Rollen-/Tooling-Dokumentation auf `content_lang` geprüft | erledigt | Release-Versionierungscheckliste, Gate-Dokumente | Keine neue Babel/Pandoc-Sprachmetadatengefahr im Content dokumentiert. |

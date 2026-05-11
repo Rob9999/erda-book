@@ -1,6 +1,6 @@
 # Release History
 
-## 2.5.0 – 5 May 2026
+## 2.5.0 – 11 May 2026
 - **Responsible:** Robert Alexander Massinger (Lead) with support from ChatGPT/OpenAI and GitHub Copilot/Anthropic.
 - **Codename:** Democratic Knowledge
 - **Goal:**
@@ -20,8 +20,8 @@
   - Technical:
     - Version bump to v2.5.0.
     - Release documentation in `release-docs/v2.5.0/`.
-    - `book.json` date updated to 2026-05-05 (DE+EN).
-    - Vendored gitbook_worker updated to 2.4.0 for consistent title-page version output and CJK fallback.
+    - `book.json` date updated to 2026-05-11 (DE+EN).
+    - Vendored gitbook_worker updated to 2.9.1; publish artefacts rebuilt and the editorial-quality gate passed with warnings, 0 blocked and 0 fail findings.
     - Final-scope source/link gate documented by gitbook_worker dry-run, link audit, sources export and manual web verification.
 - **Highlights:**
   - **Seven principles of democratic knowledge** as standalone reference

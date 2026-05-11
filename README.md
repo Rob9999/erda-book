@@ -5,7 +5,7 @@
 [![Version](https://img.shields.io/badge/version-v2.5.0-brightgreen.svg)](https://github.com/Rob9999/erda-book/releases/tag/v2.5.0)
 
 **Current version:** v2.5.0
-**As of (date):** 2026-05-08
+**As of (date):** 2026-05-11
 **Channel:** release_candidate (final v2.5.0 preparation; stable channel after merge/tag: main)
 **Codename / Release name:** Democratic Knowledge
 
@@ -73,7 +73,7 @@ Es verbindet dabei:
 Gemeint sind Modelle, die langfristig funktionieren, weil sie **Anreize**, **Kontrollmechanismen** und **gesellschaftliche Tragfähigkeit** zusammendenken – statt nur Idealbilder zu formulieren.
 
 <a id="de-release"></a>
-### Aktuelles Release (v2.5.0) – 5. Mai 2026
+### Aktuelles Release (v2.5.0) – 11. Mai 2026
 
 > Dieses Release vertieft die normativen Grundlagen des ERDA-Buches. Im Zentrum steht das „Demokratische Wissen" – sieben Prinzipien als Leitfaden für demokratische Handlungsfähigkeit.
 
@@ -240,7 +240,7 @@ It combines:
 It refers to models that remain viable long-term because they align **incentives**, **control mechanisms**, and **social sustainability**, instead of only describing ideals.
 
 <a id="en-release"></a>
-### Current release (v2.5.0) – 5 May 2026
+### Current release (v2.5.0) – 11 May 2026
 
 > This release deepens the normative foundations of the ERDA Book. At its centre is "Democratic Knowledge" – seven principles serving as a guide for democratic agency.
 
