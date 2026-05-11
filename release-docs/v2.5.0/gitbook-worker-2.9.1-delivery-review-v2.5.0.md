@@ -61,10 +61,10 @@ fuer DE und EN erfolgreich ausgefuehrt.
 
 | Artefakt | Seiten | Dateigroesse nach Rebuild | Ergebnis |
 |---|---:|---:|---|
-| `de/publish/das-erda-buch.pdf` | 878 | 4405416 bytes | Build erfolgreich |
-| `en/publish/the-erda-book.pdf` | 836 | 4419459 bytes | Build erfolgreich |
+| `de/publish/das-erda-buch.pdf` | 880 | 4410294 bytes | Build erfolgreich |
+| `en/publish/the-erda-book.pdf` | 837 | 4423739 bytes | Build erfolgreich |
 
-Nach der redaktionellen Kapitel-8-Konsolidierung wurden die Artefakte mit
+Nach der redaktionellen Kapitel-8-Konsolidierung und der §10.2.1-Synchronisierung wurden die Artefakte mit
 gitbook_worker 2.9.1 erneut erzeugt. Die aktuellen v2.5.0-Release-Gate-Dokumente
 fuehren diesen Stand.
 
@@ -145,7 +145,7 @@ Die Projekt-Warnungen verteilen sich im 2.9.1-Lauf wie folgt:
    auf 2.9.1 committen.
 2. Finaldocs und Release-Metadaten auf neue PDF-Groessen und Seitenzahlen
    pruefen.
-3. Die 88 Projektwarnungen priorisieren oder als bewusstes Restrisiko
+3. Die 84 Projektwarnungen priorisieren oder als bewusstes Restrisiko
    dokumentieren.
 4. Vor Tag/Publisher-Freigabe einen finalen Quality-Lauf mit dokumentierter
    manueller Entscheidung und ggf. akzeptierten Restrisiken ausfuehren.

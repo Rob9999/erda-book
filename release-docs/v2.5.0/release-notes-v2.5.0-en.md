@@ -11,7 +11,7 @@
 
 Version 2.5.0 deepens the **normative foundations** of the ERDA Book. At its centre is the document **"Democratic Knowledge"** – seven principles serving as a guide for democratic agency: on power, on dealing with non-democracy-willing states, on peace and security, on truth and deception, on democracy itself, on technology/AI, and on the inner condition of a democratic society.
 
-In addition, this release integrates conceptual papers and implementation material as book content: a **guiding vision for child-rearing** (§11.3.7), a **strategic reflection on the Mosaic Principle** (§5.8.4), the **Anti-Game-Over Principle** as **Appendix P.1**, and **CIVITAS Public** as **Appendix P.2**. It also adds **Appendix M** as a measurable book-project yardstick for release criteria, source standards and open project decisions. Chapter 6 was deepened accordingly as an operational CIVITAS architecture.
+In addition, this release integrates conceptual papers and implementation material as book content: a **guiding vision for child-rearing** (§11.3.7), a **strategic reflection on the Mosaic Principle** (§5.8.4), the **Anti-Game-Over Principle** as **Appendix P.1**, and **CIVITAS Public** as **Appendix P.2**. It also adds **Appendix M** as a measurable book-project yardstick for release criteria, source standards and open project decisions. Chapter 6 was deepened accordingly as an operational CIVITAS architecture; Chapter 10 gains **§10.2.1 Democracy of the Mature** as an additional democratic responsibility frame for humans, AI and possible further mature beings.
 
 ---
 
@@ -42,6 +42,9 @@ In addition, this release integrates conceptual papers and implementation materi
 - **Chapter 8 – The ARKTIS Concept (DE + EN):**
   Editorially consolidated and substantively deepened: initial situation and guiding principles were merged, the strategic pillars were expanded as an integrated section, and implementation, communication and closing thought were brought together.
 
+- **§10.2.1 – Democracy of the Mature: Responsibility by Maturity, Role, and Capability (DE + EN):**
+  New AI-democratic principle section: democracy is understood not as the rule of a species, but as an order of mature responsibility. Maturity grounds participation, capability grounds responsibility, power grounds accountability, and superiority grounds a duty of protection rather than a right to rule.
+
 - **Cross-references** in chapters 11.2, 11.3, 3.5, and 4.3.5 pointing to Appendix P.1, and in Chapter 6 pointing to Appendix P.2.
 
 ### Editorial improvements
@@ -68,7 +71,7 @@ In addition, this release integrates conceptual papers and implementation materi
 - DE/EN cross-references to Appendix P.1 updated in chapters 3.5, 4.3.5, 11.2 and 11.3
 - DE/EN cross-references to Appendix P.2 added in Chapter 6
 - Vendored gitbook_worker updated to 2.9.1; DE/EN publish artefacts rebuilt and the integrated `editorial-quality` gate reproduced with `passed_with_warnings`, 0 `blocked` and 0 `fail`
-- Final RC artefact state after Chapter 8 stress-test appendices (8.A–8.D) and pillar deepening: DE PDF 878 pages / 4,405,416 bytes; EN PDF 836 pages / 4,419,459 bytes; `editorial-quality` remains `passed_with_warnings`, 0 `blocked`, 0 `fail`
+- Final RC artefact state after Chapter 8 stress-test appendices (8.A–8.D), pillar deepening and §10.2.1: DE PDF 880 pages / 4,410,294 bytes; EN PDF 837 pages / 4,423,739 bytes; `editorial-quality` remains `passed_with_warnings`, 0 `blocked`, 0 `fail`
 - Source/link gate for the v2.5 final scope documented through a gitbook_worker dry run, link audit, sources export and manual web verification
 
 ---

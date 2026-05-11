@@ -22,7 +22,7 @@
 | 10 | SUMMARY.md + book.json aktualisiert | ✅ | DE + EN, Commit e7e5005 |
 | 11 | Konsistenzprüfung Mini-Wording-Set | ✅ | DE + EN ergänzt, v2.5-Begriffe aufgenommen |
 | 12 | Content-Freeze | ⏳ | nach finaler Redakteur-/Publisher-Freigabe |
-| 13 | Publish-Artefakte (PDF/MD) | ✅ | v2.5.0-Lauf DE/EN mit gitbook_worker 2.9.1 erfolgreich; nach Kapitel-8-Anhangserweiterung (Anhänge 8.A–8.D) DE 878 Seiten, EN 836 Seiten |
+| 13 | Publish-Artefakte (PDF/MD) | ✅ | v2.5.0-Lauf DE/EN mit gitbook_worker 2.9.1 erfolgreich; nach Kapitel-8-Anhangserweiterung (Anhänge 8.A–8.D) und §10.2.1 DE 880 Seiten, EN 837 Seiten |
 | 14 | Zertifizierungsprotokoll | ⏳ | Final-Gates und 2.9.1-Quality-Gate dokumentiert; Tag-/Publisher-Entscheidung offen |
 | 15 | Final Review & Tag | ⏳ | |
 | 16 | Root-Attribution + Metadaten-Gate | ✅ | `ATTRIBUTION.md`, README/book/CFF/Zenodo synchronisiert |
@@ -33,6 +33,7 @@
 | 21 | CIVITAS Public als Anhang P.2 | ✅ | DE + EN, DOI 10.5281/zenodo.19443256, APA-Zitation im Paperkopf |
 | 22 | Kapitel 6 CIVITAS vertieft | ✅ | DE + EN, Governance, Publikationslogik, Technik, Rechtsschutz, Partnerschaften, Bildung, Roadmap |
 | 23 | Kapitel 8 ARKTIS konsolidiert | ✅ | DE + EN, Wenigzeiler zusammengelegt, strategische Säulen vertieft, HTML-Tabellen in Markdown-Tabellen zurückgeführt |
+| 24 | Kapitel 10 §10.2.1 Demokratie der Mündigen | ✅ | DE + EN, neuer Verantwortungsrahmen nach Reife, Rolle und Fähigkeit |
 
 ---
 
@@ -56,6 +57,7 @@
 - [x] Anti-Game-Over-Prinzip als Anhang P.1 / Paper erstellt (DE + EN)
 - [x] CIVITAS Public als Anhang P.2 / Paper erstellt (DE + EN)
 - [x] Kapitel 6 als CIVITAS-Architektur vertieft (DE + EN)
+- [x] Kapitel 10 §10.2.1 als Demokratie der Mündigen / Democracy of the Mature synchronisiert (DE + EN)
 - [x] Anhang M als messbarer Buchprojektmaßstab erstellt (DE + EN)
 - [x] Querverweise in Kap. 11.2, 3.5, 4.3.5 (DE)
 - [x] SUMMARY.md + book.json aktualisiert (DE + EN)

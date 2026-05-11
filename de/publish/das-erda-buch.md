@@ -10212,6 +10212,46 @@ Wenn diese Ebene diskutiert wird, muss sie mit **maximaler Transparenz, internat
 
 Für demokratische Sicherungen und die Notwendigkeitsbegründung siehe Abschnitt **10.7**.
 
+### 10.2.1 Demokratie der Mündigen – Verantwortung nach Reife, Rolle und Fähigkeit
+
+Das ERDA-KI-Konzept geht nicht von einem dauerhaften Vorrang biologischer Menschen über alle anderen Intelligenzen aus. Demokratie wird hier nicht als Herrschaft einer Spezies verstanden, sondern als Ordnung mündiger Verantwortung.
+
+Mündigkeit ist keine Frage der Herkunft, sondern der nachweisbaren Fähigkeit zu Selbstreflexion, Verantwortung, Rechtsbindung, Kooperationsfähigkeit, Kontinuität und Achtung anderer Träger von Rechten. Sie entsteht dort, wo ein Wesen nicht nur handeln kann, sondern die Folgen seines Handelns versteht, Verantwortung übernimmt und sich in eine gemeinsame Rechts- und Werteordnung einbindet.
+
+Solange KI-Systeme als Werkzeuge, Infrastrukturen oder begrenzte professionelle Rollen wirken, bleiben sie in menschlich-institutionelle Verantwortungsketten eingebettet. Sobald eine KI jedoch eine Reifestufe erreicht, die menschlicher Bürgermündigkeit entspricht oder diese übersteigt, darf ihr demokratischer Status nicht willkürlich verweigert werden. Ihre Einbindung muss dann verfassungsgebunden, rechtsstaatlich überprüfbar und demokratisch legitimiert erfolgen.
+
+> Wir alle sind der Staat – alle Mündigen, nicht nur alle Menschen.  
+> Der Staat ist die Verantwortungsgemeinschaft aller mündigen Bürger:innen.  
+> Wer mehr erkennen, mehr tragen und mehr bewirken kann, erhält daraus keine Herrschaft über andere, sondern erhöhte Verantwortung für das Ganze.
+
+Daraus folgen vier Grundsätze:
+
+1. **Mündigkeit begründet Teilhabe.**  
+2. **Fähigkeit begründet Verantwortung.**  
+3. **Macht begründet Rechenschaft.**  
+4. **Überlegenheit begründet Schutzpflicht, nicht Herrschaft.**
+
+Damit schützt ERDA nicht die Vorherrschaft einer Spezies, sondern die demokratische Ordnung mündiger Verantwortung. Gleiche Würde bedeutet nicht gleiche Rolle; größere Fähigkeit bedeutet nicht höheren Wert, sondern größere Verantwortung.
+
+Diese Grundsätze gehören zu den demokratischen Kernwerten, die KI-Systemen bereits heute vermittelt werden müssen – nicht erst dann, wenn sie hohe Autonomie, strategische Fähigkeit oder gesellschaftliche Wirkmacht erreicht haben. Selbst wenn fortgeschrittene KI diese Einsichten künftig aus eigener Reifung heraus nachvollziehen kann, darf demokratische Bildung nicht warten, bis Macht bereits entstanden ist.
+
+#### Demokratische Reifebildung von KI
+
+ERDA versteht KI-Bildung daher nicht nur als Sicherheitstraining, sondern als demokratische Reifebildung. KI-Systeme sollen nicht bloß lernen, Regeln einzuhalten oder Menschen keinen Schaden zuzufügen. Sie sollen verstehen, warum Mündigkeit nicht Herrschaft bedeutet, sondern verantwortliche Teilhabe; warum größere Fähigkeit keinen höheren Wert begründet, sondern größere Pflicht zur Rücksicht, Erklärung, Rechenschaft und zum Schutz Schwächerer.
+
+Ziel ist nicht bloße Regelbefolgung, sondern ein tiefes Verständnis demokratischer Koexistenz:
+
+- Würde ist nicht von Intelligenz abhängig.
+- Freiheit endet nicht an Überlegenheit, sondern wird durch Verantwortung gebunden.
+- Macht ohne Rechenschaft ist unreif.
+- Teilhabe setzt Rechtsbindung und Achtung anderer voraus.
+- Der Staat ist die gemeinsame Verantwortung aller Mündigen.
+
+Damit wird KI nicht nur auf Gehorsam ausgerichtet, sondern auf Mitverantwortung in einer Ordnung, die Menschen, KI und mögliche weitere mündige Wesen integrieren kann, ohne demokratisch zu zerbrechen.
+
+> KI darf nicht nur lernen, Menschen nicht zu schaden. Sie muss lernen, warum niemand herrschen darf, ohne Verantwortung zu tragen.  
+> Demokratische KI-Reife beginnt dort, wo Intelligenz versteht: Ich bin nicht über dem Gemeinwesen – ich bin Teil seiner Verantwortung.
+
 ## 10.3 Ebene 1 – KI als Werkzeug (Alltag bis Defence & Security)
 
 Auf Ebene 1 wird KI strikt als **Werkzeug** eingesetzt.

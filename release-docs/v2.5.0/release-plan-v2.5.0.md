@@ -64,9 +64,10 @@ Release 2.5.0 markiert die **konzeptionelle Vertiefung** des ERDA-Buches. Währe
 - Aktualisierte Versionsnummern und Metadaten (README, book.json, CITATION.cff)
 - Rollenbasierte Ethik-vor-Strategie-Integration (DE + EN) inklusive Glossar- und Anhang-K-Dokumentation
 - Kapitel 8 ARKTIS redaktionell konsolidiert und vertieft (DE + EN)
+- Kapitel 10 §10.2.1 als Demokratie der Mündigen / Democracy of the Mature synchronisiert (DE + EN)
 - Root-Attribution und normalisiertes DE/EN-Frontmatter
 - Release-Dokumentation in `release-docs/v2.5.0/`
-- Aktualisierte Publish-Artefakte (PDF/MD) nach Content-Freeze; aktueller RC-Artefaktstand mit gitbook_worker 2.9.1 nach Kapitel-8-Anhangserweiterung (8.A–8.D): DE 878 Seiten, EN 836 Seiten
+- Aktualisierte Publish-Artefakte (PDF/MD) nach Content-Freeze; aktueller RC-Artefaktstand mit gitbook_worker 2.9.1 nach Kapitel-8-Anhangserweiterung (8.A–8.D) und §10.2.1: DE 880 Seiten, EN 837 Seiten
 
 ---
 

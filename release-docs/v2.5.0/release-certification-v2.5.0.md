@@ -134,9 +134,9 @@ Freigabeaussage EN:
 | Artefakt / Prüfung | Ergebnis | Nachweis | Bemerkung |
 |---|---|---|---|
 | DE Publish Markdown | erzeugt | `de/publish/das-erda-buch.md` | Finaler RC-Artefaktstand 2026-05-11 mit gitbook_worker 2.9.1, Orchestrator: `converter=ok`, `publisher=ok`. |
-| DE PDF | erzeugt | `de/publish/das-erda-buch.pdf` | 878 Seiten, 4.405.416 Bytes, CreationDate 2026-05-11 13:20 MESZ. |
+| DE PDF | erzeugt | `de/publish/das-erda-buch.pdf` | 880 Seiten, 4.410.294 Bytes, CreationDate 2026-05-11 15:00 MESZ. |
 | EN Publish Markdown | erzeugt | `en/publish/the-erda-book.md` | Finaler RC-Artefaktstand 2026-05-11 mit gitbook_worker 2.9.1, Orchestrator: `converter=ok`, `publisher=ok`. |
-| EN PDF | erzeugt | `en/publish/the-erda-book.pdf` | 836 Seiten, 4.419.459 Bytes, CreationDate 2026-05-11 13:27 MESZ. |
+| EN PDF | erzeugt | `en/publish/the-erda-book.pdf` | 837 Seiten, 4.423.739 Bytes, CreationDate 2026-05-11 14:48 MESZ. |
 | PDF-Fonts: DejaVu | bestanden | `pdffonts` DE/EN, Qualitaetsdossier | DejaVuSerif, DejaVuSansMono und Varianten eingebettet. |
 | PDF-Fonts: Twemoji Mozilla | bestanden mit Textlayer-Warnung | `pdffonts` DE/EN, `editorial-quality` | TwemojiMozilla eingebettet; `pypdf`-Textlayer-Replacements bleiben als Warnung sichtbar, ohne Sichtbefund kein harter Font-/Glyphenfehler. |
 | PDF-Fonts: ERDA CC-BY CJK | bestanden im Release-Scope | `pdffonts` / Publisher-Einschaetzung | CJK-Fonts decken den v2.5.0-Scope ab; echte Missing-character-Logsignale bleiben bei Bedarf separat zu pruefen. |
@@ -153,7 +153,7 @@ Freigabeaussage EN:
 | Content-Freeze erklärt am | 2026-05-05 |
 | Freeze erklärt durch Rolle | Redakteur:in |
 | Erlaubte Änderungen nach Freeze | nur Release-Fixes, Build-Fixes, Metadatenkorrekturen |
-| Änderungen nach Freeze dokumentiert | ja, in diesem Protokoll und den v2.5.0-Release-Dokumenten; zuletzt B.1-Staatenprofil-Einleitung von Fragmentdateien auf eine Markdown-Datei zusammengelegt |
+| Änderungen nach Freeze dokumentiert | ja, in diesem Protokoll und den v2.5.0-Release-Dokumenten; zuletzt Kapitel 10 §10.2.1 als Demokratie der Mündigen synchronisiert und Publish-Artefakte neu erzeugt |
 | Freeze aufgehoben? | nein |
 
 ---
@@ -203,14 +203,14 @@ Diese Teilzertifizierung dokumentiert den Arbeitsstand zu A6 aus der Anhang-M-Be
 | Prüfrolle | Publisher mit Redakteur:in-Zuarbeit |
 | DE Build | `converter=ok`, `publisher=ok`, `editorial-quality=passed_with_warnings` |
 | EN Build | `converter=ok`, `publisher=ok`, `editorial-quality=passed_with_warnings` |
-| DE PDF | 878 Seiten, 4.405.416 Bytes, CreationDate 2026-05-11 13:20 MESZ |
-| EN PDF | 836 Seiten, 4.419.459 Bytes, CreationDate 2026-05-11 13:27 MESZ |
+| DE PDF | 880 Seiten, 4.410.294 Bytes, CreationDate 2026-05-11 15:00 MESZ |
+| EN PDF | 837 Seiten, 4.423.739 Bytes, CreationDate 2026-05-11 14:48 MESZ |
 | Fontbefund | DejaVu, TwemojiMozilla und ERDACCbyCJK-Regular in DE/EN eingebettet; Textlayer-Replacements als Warnung, nicht als harter Fontfail |
 | Ergebnis | erfuellt mit dokumentierten Warnungen; vendortes gitbook_worker 2.9.1 installiert, DE/EN-Artefakte neu erzeugt und Qualitaetsdossier reproduziert |
 
-**Befund:** Die Publish-Artefakte wurden nach Integration des gitbook_worker-2.9.1-Abnahmefixes und nach der redaktionellen Kapitel-8-Konsolidierung neu erzeugt. DE- und EN-Orchestrator liefen erfolgreich durch. Der integrierte `editorial-quality`-Lauf im `release`-Profil erzeugte fuer DE, EN und Project jeweils `passed_with_warnings` mit 0 `blocked` und 0 `fail`. Die frueheren `pdf.text.replacement_glyph`-Fails aus 2.9.0 sind in 2.9.1 als `pdf.text.extraction_replacement`-Warnungen mit Seitenhinweisen klassifiziert. Das entspricht der visuellen Stichprobe: Die Symbole sind in der PDF sichtbar intakt, waehrend `pypdf` im Textlayer Replacement-Zeichen extrahiert. Der lokale Windows-Lauf benoetigte weiterhin einen repo-lokalen `LOCALAPPDATA`-Buildkontext, damit Font-Caches und Altstubs nicht in den PDF-Build eingreifen.
+**Befund:** Die Publish-Artefakte wurden nach Integration des gitbook_worker-2.9.1-Abnahmefixes, nach der redaktionellen Kapitel-8-Konsolidierung und nach der §10.2.1-Synchronisierung neu erzeugt. DE- und EN-Orchestrator liefen erfolgreich durch. Der integrierte `editorial-quality`-Lauf im `release`-Profil erzeugte fuer DE, EN und Project jeweils `passed_with_warnings` mit 0 `blocked` und 0 `fail`. Die frueheren `pdf.text.replacement_glyph`-Fails aus 2.9.0 sind in 2.9.1 als `pdf.text.extraction_replacement`-Warnungen mit Seitenhinweisen klassifiziert. Das entspricht der visuellen Stichprobe: Die Symbole sind in der PDF sichtbar intakt, waehrend `pypdf` im Textlayer Replacement-Zeichen extrahiert. Der lokale Windows-Lauf benoetigte weiterhin einen repo-lokalen `LOCALAPPDATA`-Buildkontext, damit Font-Caches und Altstubs nicht in den PDF-Build eingreifen.
 
-**Entscheidung:** Das fruehere harte Glyphen-/Font-Gate aus 2.9.0 wird fuer v2.5.0 durch gitbook_worker 2.9.1 als geschlossen bewertet. A6 ist fuer den aktuellen v2.5.0-Artefaktstand technisch erfuellt, aber nicht als finale Publisher-Freigabe zu verstehen. Vor A8 bleiben der finale Worktree-/Index-Check, die bewusste Publisher-Sichtpruefung, die Einordnung der 88 Projektwarnungen und die Tag-Entscheidung offen. Fuer spaetere Releases bleibt der Hinweis bestehen, PDF-Laeufe nicht parallel gegen dieselben Ausgabepfade zu starten.
+**Entscheidung:** Das fruehere harte Glyphen-/Font-Gate aus 2.9.0 wird fuer v2.5.0 durch gitbook_worker 2.9.1 als geschlossen bewertet. A6 ist fuer den aktuellen v2.5.0-Artefaktstand technisch erfuellt, aber nicht als finale Publisher-Freigabe zu verstehen. Vor A8 bleiben der finale Worktree-/Index-Check, die bewusste Publisher-Sichtpruefung, die Einordnung der 84 Projektwarnungen und die Tag-Entscheidung offen. Fuer spaetere Releases bleibt der Hinweis bestehen, PDF-Laeufe nicht parallel gegen dieselben Ausgabepfade zu starten.
 
 ---
 

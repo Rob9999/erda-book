@@ -86,8 +86,8 @@ Ein Final-Release darf erst gesetzt werden, wenn alle Muss-Gates geschlossen sin
 
 | Prüfschritt | Muss | Status | Nachweis / Datei |
 |---|---:|---|---|
-| DE-Publish-Lauf erfolgreich | ja | erledigt finaler RC-Artefaktstand | Orchestrator 2026-05-11 mit gitbook_worker 2.9.1 nach Kapitel-8-Anhangserweiterung (8.A–8.D): `converter=ok`, `publisher=ok`; PDF 878 Seiten, 4.405.416 Bytes |
-| EN-Publish-Lauf erfolgreich | ja | erledigt finaler RC-Artefaktstand | Orchestrator 2026-05-11 mit gitbook_worker 2.9.1 nach Kapitel-8-Anhangserweiterung (8.A–8.D): `converter=ok`, `publisher=ok`; PDF 836 Seiten, 4.419.459 Bytes |
+| DE-Publish-Lauf erfolgreich | ja | erledigt finaler RC-Artefaktstand | Orchestrator 2026-05-11 mit gitbook_worker 2.9.1 nach Kapitel-8-Anhangserweiterung (8.A–8.D) und §10.2.1: `converter=ok`, `publisher=ok`; PDF 880 Seiten, 4.410.294 Bytes |
+| EN-Publish-Lauf erfolgreich | ja | erledigt finaler RC-Artefaktstand | Orchestrator 2026-05-11 mit gitbook_worker 2.9.1 nach Kapitel-8-Anhangserweiterung (8.A–8.D) und §10.2.1: `converter=ok`, `publisher=ok`; PDF 837 Seiten, 4.423.739 Bytes |
 | PDF-Fonts geprüft: DejaVu, Twemoji Mozilla, ERDA CC-BY CJK | ja | erledigt im v2.5.0-Scope mit 2.9.1-Warnungen | DejaVu/Twemoji/ERDACCbyCJK-Regular eingebettet; Textlayer-Replacement-Signale sind seit 2.9.1 Warnung, kein harter Fontblocker ohne Sichtbefund |
 | `editorial-quality` Release-Profil bestanden | ja | erledigt mit Warnungen | 2.9.1-Lauf nach Kapitel-8-Konsolidierung: DE `passed_with_warnings` 0/0/41/7, EN `passed_with_warnings` 0/0/43/7, Project `passed_with_warnings` 0/0/84/8 |
 | Markdown/PDF-Layout-Scan durchgeführt | ja | ersetzt durch 2.9.1-Qualitaetsdossier plus historische Scans | `gitbook-worker-2.9.1-delivery-review-v2.5.0.md`; alte Layoutscans bleiben Referenz fuer Restbefunde |
@@ -116,4 +116,4 @@ Ein Final-Release darf erst gesetzt werden, wenn alle Muss-Gates geschlossen sin
 - DE ist die Quelle der Wahrheit; EN wird synchronisiert, aber ohne native finale Vollfreigabe als Draft/Review ausgeliefert.
 - Für den v2.5-Finalscope gelten DOI/Zenodo, offizielle EU-/Eurostat-Quellen und primäre Rechts-/Programmquellen als maßgeblich.
 - Das AI-Referenztool wurde als `--dry-run`/Precheck genutzt; keine AI-Aussage wird ohne manuelle Prüfung übernommen.
-- Offen bleiben vor Tag/Release: Publisher-Sichtprüfung der 2.9.1-PDFs, finaler Worktree-Endcheck unmittelbar vor Commit/Tag, bewusste Einordnung der 88 Projektwarnungen und Tag-Freigabe.
+- Offen bleiben vor Tag/Release: Publisher-Sichtprüfung der 2.9.1-PDFs, finaler Worktree-Endcheck unmittelbar vor Commit/Tag, bewusste Einordnung der 84 Projektwarnungen und Tag-Freigabe.
