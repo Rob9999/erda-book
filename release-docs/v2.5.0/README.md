@@ -17,6 +17,7 @@
 | [gitbook-worker-quality-evaluation-v2.5.0.md](gitbook-worker-quality-evaluation-v2.5.0.md) | Draft-Bewertung der gitbook_worker-Quality-Tools |
 | [gitbook-worker-qualitaetskompass-redaktionsreview-v2.5.0.md](gitbook-worker-qualitaetskompass-redaktionsreview-v2.5.0.md) | Redaktionelles Review und ERDA-Ergaenzungen zum gitbook_worker-v2.9.0-Pflichtenheft `Qualitaetskompass` |
 | [gitbook-worker-2.9.0-delivery-review-v2.5.0.md](gitbook-worker-2.9.0-delivery-review-v2.5.0.md) | Technische Lieferpruefung der gitbook_worker-v2.9.0-Qualitaetskompass-Artefakte gegen ERDA |
+| [gitbook-worker-2.9.1-delivery-review-v2.5.0.md](gitbook-worker-2.9.1-delivery-review-v2.5.0.md) | Technische Nachlieferungspruefung der gitbook_worker-v2.9.1-Abnahmefix-Artefakte gegen ERDA |
 | [buchprojektentscheidungen-v2.5.0.md](buchprojektentscheidungen-v2.5.0.md) | Draft des redaktionellen Entscheidungsrahmens für das lebende Buchprojekt |
 | [redaktioneller-durchgang-de-v2.5.0.md](redaktioneller-durchgang-de-v2.5.0.md) | Draft des redaktionellen Gesamtdurchgangs der deutschen Buchfassung |
 | [civitas-paper-und-kapitel-6-integrationsplan-v2.5.0.md](civitas-paper-und-kapitel-6-integrationsplan-v2.5.0.md) | Integrationsplan und Umsetzungsnotiz zu CIVITAS P.2 und Kapitel-6-Vertiefung |
