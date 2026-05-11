@@ -1,7 +1,7 @@
 # gitbook_worker Quality-Tool-Bewertung v2.5.0 (Draft)
 
-**Stand:** 2026-05-03  
-**Status:** Draft, vorläufig bewertet
+**Stand:** 2026-05-11
+**Status:** Historische Vorbewertung, durch Qualitaetskompass-Lieferreview 2.9.1 ergaenzt
 **Arbeitsrolle:** Redakteur:in / Publisher-Vorprüfung
 
 ---
@@ -11,6 +11,13 @@
 Diese Notiz bewertet die vorhandenen `gitbook_worker.tools.quality`-Funktionen für die finale v2.5.0-Freigabe. Die Tools sind als Prüf- und Assistenzwerkzeuge zu behandeln. Sie ersetzen keine redaktionelle Freigabe.
 
 Nach neu festgelegter Arbeitsregel werden weitere `gitbook_worker`-Runs erst nach gesichertem Worktree ausgeführt.
+
+**Nachtrag 2026-05-11:** Fuer die finale v2.5.0-Vorbereitung ist diese fruehe
+Toolbewertung nicht mehr der aktuelle Hauptnachweis. Der massgebliche technische
+Quality-Nachweis ist jetzt das `editorial-quality`-/`editorial_acceptance`-Dossier
+aus gitbook_worker 2.9.1, dokumentiert in
+`gitbook-worker-2.9.1-delivery-review-v2.5.0.md`. Der 2.9.1-Lauf endet fuer DE,
+EN und Project mit `passed_with_warnings`, 0 `blocked` und 0 `fail`.
 
 ---
 

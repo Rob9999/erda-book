@@ -65,8 +65,8 @@ fuer DE und EN erfolgreich ausgefuehrt.
 | `en/publish/the-erda-book.pdf` | 830 | 4374034 bytes | Build erfolgreich |
 
 Die deutsche Seitenzahl bleibt stabil. Die englische PDF liegt nach dem
-2.9.1-Rebuild bei 830 Seiten und muss in den finalen Release-Metadaten bewusst
-nachgezogen werden, sofern dort noch 829 Seiten dokumentiert sind.
+2.9.1-Rebuild bei 830 Seiten; die aktuellen v2.5.0-Release-Gate-Dokumente
+fuehren diesen Stand.
 
 ## ERDA-Reproduktionslauf
 

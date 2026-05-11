@@ -6,11 +6,19 @@ target_release: "gitbook_worker v2.9.0 Qualitaetskompass"
 review_role: Redakteur:in
 source_package: "packages/gitbook-worker/gitbook_worker-2.9.0-py3-none-any.whl"
 source_docs: "tmp/gitbook-worker-v2.9.0-quality-customer-acceptance-2026-05-10.zip"
+superseded_by: "release-docs/v2.5.0/gitbook-worker-2.9.1-delivery-review-v2.5.0.md"
 history:
+   - "1.0.1: 2026-05-11 - Nachtrag: 2.9.0-Failstatus durch gitbook_worker 2.9.1 Abnahmefix historisch ueberholt."
   - "1.0.0: 2026-05-10 - Technische ERDA-Lieferpruefung fuer gitbook_worker v2.9.0 Qualitaetskompass dokumentiert."
 ---
 
 # Lieferreview: gitbook_worker v2.9.0 Qualitaetskompass
+
+> **Nachtrag 2026-05-11:** Diese 2.9.0-Lieferpruefung bleibt als historische
+> Fail-Offenlegung erhalten. Der harte `pdf.text.replacement_glyph`-Befund wurde
+> mit gitbook_worker 2.9.1 neu klassifiziert und ist im aktuellen ERDA-Lauf kein
+> `fail` mehr, sondern `pdf.text.extraction_replacement` als Warnung. Der aktuelle
+> Stand ist in `gitbook-worker-2.9.1-delivery-review-v2.5.0.md` dokumentiert.
 
 ## Kurzentscheidung
 

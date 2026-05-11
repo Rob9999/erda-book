@@ -1,8 +1,8 @@
 # Release v2.5.0 – Status
 
 **Codename:** Democratic Knowledge
-**Stand:** 2026-05-05
-**Phase:** Finale v2.5.0-Vorbereitung auf `release_candidate`; Tag/Publisher-Freigabe offen
+**Stand:** 2026-05-11
+**Phase:** Finale v2.5.0-Vorbereitung auf `release_candidate`; gitbook_worker 2.9.1 integriert, Tag/Publisher-Freigabe offen
 
 ---
 
@@ -22,8 +22,8 @@
 | 10 | SUMMARY.md + book.json aktualisiert | ✅ | DE + EN, Commit e7e5005 |
 | 11 | Konsistenzprüfung Mini-Wording-Set | ✅ | DE + EN ergänzt, v2.5-Begriffe aufgenommen |
 | 12 | Content-Freeze | ⏳ | nach finaler Redakteur-/Publisher-Freigabe |
-| 13 | Publish-Artefakte (PDF/MD) | ✅ | finaler v2.5.0-Lauf DE/EN mit gitbook_worker 2.4.0 erfolgreich |
-| 14 | Zertifizierungsprotokoll | ⏳ | Final-Gates dokumentiert, Entscheidung offen |
+| 13 | Publish-Artefakte (PDF/MD) | ✅ | v2.5.0-Lauf DE/EN mit gitbook_worker 2.9.1 erfolgreich; DE 868 Seiten, EN 830 Seiten |
+| 14 | Zertifizierungsprotokoll | ⏳ | Final-Gates und 2.9.1-Quality-Gate dokumentiert; Tag-/Publisher-Entscheidung offen |
 | 15 | Final Review & Tag | ⏳ | |
 | 16 | Root-Attribution + Metadaten-Gate | ✅ | `ATTRIBUTION.md`, README/book/CFF/Zenodo synchronisiert |
 | 17 | Frontmatter-Normalisierung | ✅ | DE/EN `content_id`, `content_lang`, EN `source`, `status`; keine Content-Keys `lang`, `language`, `lang-version` wegen PDF-Fontfallback |
@@ -39,8 +39,8 @@
 
 - Finaler Review der Kapitelverweise nach Frontmatter- und Pfadnormalisierung
 - Content-Freeze nach Redakteur-Freigabe
-- Publish-Artefakte erneuern
-- Zertifizierungsprotokoll erstellen
+- 2.9.1-Publish-Artefakte in finaler Sichtprüfung bestätigen
+- Zertifizierungsprotokoll final entscheiden
 - Final Review & Tag
 
 ## Erledigte Punkte
@@ -64,3 +64,4 @@
 - [x] DE/EN-Querverweise auf Anhang/Appendix P.1 aktualisiert
 - [x] Glossar + Mini-Wording-Set um v2.5-Begriffe erweitert
 - [x] Worker-Roles-Durchgang „Ethik vor Strategie“ zweisprachig integriert
+- [x] gitbook_worker 2.9.1 Abnahmefix integriert; `editorial-quality` fuer DE/EN/Project mit `passed_with_warnings`, 0 blocked, 0 fail reproduziert

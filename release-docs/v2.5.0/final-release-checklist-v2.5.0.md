@@ -2,8 +2,8 @@
 
 **Release:** v2.5.0  
 **Release name:** Democratic Knowledge  
-**Stand:** 2026-05-05
-**Status:** Final-Gate-Stand dokumentiert; Tag-/Publisher-Freigabe noch offen
+**Stand:** 2026-05-11
+**Status:** Final-Gate-Stand nach gitbook_worker 2.9.1 dokumentiert; Tag-/Publisher-Freigabe noch offen
 **Arbeitsrolle:** Redakteur:in, mit Zuarbeit Writer, Editor, Lektor, Native gb-en Translator und Publisher
 
 ---
@@ -86,12 +86,13 @@ Ein Final-Release darf erst gesetzt werden, wenn alle Muss-Gates geschlossen sin
 
 | Prüfschritt | Muss | Status | Nachweis / Datei |
 |---|---:|---|---|
-| DE-Publish-Lauf erfolgreich | ja | erledigt final v2.5.0 | Orchestrator 2026-05-05: `converter=ok`, `publisher=ok`; Titelseite `2026-05-05 - Version 2.5.0` |
-| EN-Publish-Lauf erfolgreich | ja | erledigt final v2.5.0 mit gitbook_worker 2.4.0 | `.venv`-Lauf 2026-05-05: `converter=ok`, `publisher=ok`; Titelseite `2026-05-05 - Version 2.5.0` |
-| PDF-Fonts geprüft: DejaVu, Twemoji Mozilla, ERDA CC-BY CJK | ja | erledigt im v2.5.0-Scope | DejaVu/Twemoji/ERDACCbyCJK-Regular eingebettet; ERDA CC-BY CJK deckt die multilingualen Lizenzbeschreibungen ab, weitere Glyphen bei Bedarf ueber gitbook_worker-Lieferant |
-| Markdown/PDF-Layout-Scan durchgeführt | ja | offen mit Befund | `markdown-pdf-layout-scan-v2.5.0.md`: Tabellen-Separatoren normalisiert; PDF-BBox-Hinweise u. a. Appendix J, MIT-Lizenz und Prompt-/Codeblöcke erfordern Publisher-/Layout-Fix |
-| Generierte Markdown-Artefakte plausibel | ja | erledigt im Stichprobenscope | Kapitel 6, P.2, Kapitel 13.8, Titeldatum geprueft |
-| Lokale Sichtprüfung der PDFs abgeschlossen | ja | technisch stichprobengeprueft mit Layout-Befunden | `pdfinfo`, `pdftotext`, `pdffonts`, `markdown_pdf_layout_scan.py`; volle Publisher-Sichtpruefung und Layout-Fixes offen |
+| DE-Publish-Lauf erfolgreich | ja | erledigt finaler RC-Artefaktstand | Orchestrator 2026-05-11 mit gitbook_worker 2.9.1: `converter=ok`, `publisher=ok`; PDF 868 Seiten, 4.355.269 Bytes |
+| EN-Publish-Lauf erfolgreich | ja | erledigt finaler RC-Artefaktstand | Orchestrator 2026-05-11 mit gitbook_worker 2.9.1: `converter=ok`, `publisher=ok`; PDF 830 Seiten, 4.374.034 Bytes |
+| PDF-Fonts geprüft: DejaVu, Twemoji Mozilla, ERDA CC-BY CJK | ja | erledigt im v2.5.0-Scope mit 2.9.1-Warnungen | DejaVu/Twemoji/ERDACCbyCJK-Regular eingebettet; Textlayer-Replacement-Signale sind seit 2.9.1 Warnung, kein harter Fontblocker ohne Sichtbefund |
+| `editorial-quality` Release-Profil bestanden | ja | erledigt mit Warnungen | 2.9.1-Lauf: DE `passed_with_warnings` 0/0/43/7, EN `passed_with_warnings` 0/0/45/7, Project `passed_with_warnings` 0/0/88/8 |
+| Markdown/PDF-Layout-Scan durchgeführt | ja | ersetzt durch 2.9.1-Qualitaetsdossier plus historische Scans | `gitbook-worker-2.9.1-delivery-review-v2.5.0.md`; alte Layoutscans bleiben Referenz fuer Restbefunde |
+| Generierte Markdown-Artefakte plausibel | ja | erledigt im Stichprobenscope | Kapitel 6, P.2, Kapitel 13.8, Titeldatum und 2.9.1-Rebuild geprueft |
+| Lokale Sichtprüfung der PDFs abgeschlossen | ja | technisch stichprobengeprueft mit Warnungen | `editorial-quality`, `pdftotext`/`pypdf`-Stichproben, Sichtpruefung Seite 73; volle Publisher-Sichtpruefung bleibt Final-Gate |
 | Build erzeugt keine stillschweigenden Metadatenänderungen | ja | erledigt im RC-Arbeitsstand | Datumswechsel auf 2026-05-05 bewusst in README/book.json nachgezogen |
 
 ---
@@ -115,4 +116,4 @@ Ein Final-Release darf erst gesetzt werden, wenn alle Muss-Gates geschlossen sin
 - DE ist die Quelle der Wahrheit; EN wird synchronisiert, aber ohne native finale Vollfreigabe als Draft/Review ausgeliefert.
 - Für den v2.5-Finalscope gelten DOI/Zenodo, offizielle EU-/Eurostat-Quellen und primäre Rechts-/Programmquellen als maßgeblich.
 - Das AI-Referenztool wurde als `--dry-run`/Precheck genutzt; keine AI-Aussage wird ohne manuelle Prüfung übernommen.
-- Offen bleiben vor Tag/Release: Publisher-Sichtprüfung, finaler Worktree-Endcheck unmittelbar vor Commit/Tag und bewusste Tag-Freigabe.
+- Offen bleiben vor Tag/Release: Publisher-Sichtprüfung der 2.9.1-PDFs, finaler Worktree-Endcheck unmittelbar vor Commit/Tag, bewusste Einordnung der 88 Projektwarnungen und Tag-Freigabe.

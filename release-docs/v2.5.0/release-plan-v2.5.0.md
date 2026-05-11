@@ -1,7 +1,7 @@
 # ERDA Book – Release v2.5.0 Plan
 
-**Status:** finale v2.5.0-Vorbereitung auf `release_candidate`; Tag/Publisher-Freigabe offen
-**Letzte Aktualisierung:** 2026-05-05
+**Status:** finale v2.5.0-Vorbereitung auf `release_candidate`; gitbook_worker 2.9.1 integriert, Tag/Publisher-Freigabe offen
+**Letzte Aktualisierung:** 2026-05-11
 
 ---
 
@@ -65,7 +65,7 @@ Release 2.5.0 markiert die **konzeptionelle Vertiefung** des ERDA-Buches. Währe
 - Rollenbasierte Ethik-vor-Strategie-Integration (DE + EN) inklusive Glossar- und Anhang-K-Dokumentation
 - Root-Attribution und normalisiertes DE/EN-Frontmatter
 - Release-Dokumentation in `release-docs/v2.5.0/`
-- Aktualisierte Publish-Artefakte (PDF/MD) nach Content-Freeze
+- Aktualisierte Publish-Artefakte (PDF/MD) nach Content-Freeze; aktueller RC-Artefaktstand mit gitbook_worker 2.9.1: DE 868 Seiten, EN 830 Seiten
 
 ---
 
@@ -89,6 +89,6 @@ Release 2.5.0 markiert die **konzeptionelle Vertiefung** des ERDA-Buches. Währe
 - [x] Konsistenzprüfung gegen Mini-Wording-Set
 - [x] Worker-Roles-Durchgang „Ethik vor Strategie“ integriert (DE + EN)
 - [ ] Content-Review und ggf. Integration als Buchkapitel
-- [x] Publish-Artefakte (PDF/MD) final mit v2.5.0-Metadaten erneuert (DE + EN, gitbook_worker 2.4.0)
+- [x] Publish-Artefakte (PDF/MD) mit v2.5.0-Metadaten erneuert (DE + EN, gitbook_worker 2.9.1; Quality-Gate `passed_with_warnings`, 0 blocked, 0 fail)
 - [x] Zertifizierungsprotokoll erstellt; finale Freigabeentscheidung bleibt offen
 - [ ] Tag und Release

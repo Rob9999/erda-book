@@ -2,8 +2,8 @@
 
 **Release:** v2.5.0  
 **Release name:** Democratic Knowledge  
-**Stand:** 2026-05-08
-**Status:** Final-Gate-Stand dokumentiert; Tag-/Publisher-Freigabe noch offen
+**Stand:** 2026-05-11
+**Status:** Final-Gate-Stand nach gitbook_worker 2.9.1 dokumentiert; Tag-/Publisher-Freigabe noch offen
 **Zuständige Rolle:** Redakteur:in  
 **Mitwirkende Rollen:** Writer, Editor, Lektor, Native gb-en Translator, Publisher
 
@@ -59,10 +59,9 @@ Kurzbegründung:
 | `gitbook_worker.tools.quality.sources` | DE/EN Quellenexport + v2.5-Finalscope | bestanden | geeignet zur Quelleninventur, nicht als inhaltliche Wahrheit | `source-link-check-civitas-v2.5.0.md`, `source-review-final-gate-2026-05-05.md` |
 | `gitbook_worker.tools.quality.ai_references` | `--dry-run --precheck-only` v2.5-Finalscope | 35 validiert, 0 failed, 0 rate-limited | nicht autoritativ; AI bleibt Suchhilfe, Precheck und manuelle Quellenpruefung massgeblich | `source-review-final-gate-2026-05-05.md` |
 | `gitbook_worker.tools.quality.staatenprofil_links` | nicht final im v2.5-A6/A7-Scope | offen | Backlog fuer vollstaendige Staatenprofil-Aktualitaet | `source-delta-since-v2.0.0-v2.5.0.md` |
+| `gitbook_worker.tools.quality.editorial_metrics` / `editorial_acceptance` | 2.9.1 `release`-Profil fuer DE, EN und Project | `passed_with_warnings`, 0 blocked, 0 fail | geeignet als finales technisches Quality-Dossier; Warnungen brauchen redaktionelle Entscheidung, ersetzen keine Freigabe | `gitbook-worker-2.9.1-delivery-review-v2.5.0.md` |
 
-Bewertung:
-
-Bewertung: Die fuer CIVITAS, die v2.5-Prioritaetsreferenzen und den Finalscope eingesetzten Tools sind als technische Hilfen dokumentiert. AI-gestuetzte Ergebnisse wurden nicht als Quellenwahrheit uebernommen; entscheidend war die manuelle Pruefung gegen DOI, Originalseiten, offizielle EU-/Eurostat-Quellen und bibliografische Plausibilitaet.
+Bewertung: Die fuer CIVITAS, die v2.5-Prioritaetsreferenzen und den Finalscope eingesetzten Tools sind als technische Hilfen dokumentiert. AI-gestuetzte Ergebnisse wurden nicht als Quellenwahrheit uebernommen; entscheidend war die manuelle Pruefung gegen DOI, Originalseiten, offizielle EU-/Eurostat-Quellen und bibliografische Plausibilitaet. Der Qualitaetskompass-Lauf mit gitbook_worker 2.9.1 schliesst den 2.9.0-Blocker `pdf.text.replacement_glyph` als harten Fontfail und fuehrt ihn als `pdf.text.extraction_replacement`-Warnung weiter.
 
 ---
 
@@ -134,16 +133,16 @@ Freigabeaussage EN:
 
 | Artefakt / Prüfung | Ergebnis | Nachweis | Bemerkung |
 |---|---|---|---|
-| DE Publish Markdown | erzeugt | `de/publish/das-erda-buch.md` | Finaler v2.5.0-Lauf 2026-05-08 mit gitbook_worker 2.7.0, Orchestrator: `converter=ok`, `publisher=ok`. |
-| DE PDF | erzeugt | `de/publish/das-erda-buch.pdf` | `pdfinfo`: 1016 Seiten, 4.379.483 Bytes, CreationDate 2026-05-08 10:52 MESZ. Titelseite: `2026-05-08 - Version 2.5.0`. Gemischte Seitenformate fuer breite Inhalte. |
-| EN Publish Markdown | erzeugt | `en/publish/the-erda-book.md` | Finaler v2.5.0-Lauf 2026-05-08 mit gitbook_worker 2.7.0, Orchestrator: `converter=ok`, `publisher=ok`. |
-| EN PDF | erzeugt; Worker 2.7.0 validiert | `en/publish/the-erda-book.pdf` | `pdfinfo`: 978 Seiten, 4.374.668 Bytes, CreationDate 2026-05-08 10:57 MESZ. Titelseite: `2026-05-08 - Version 2.5.0`. Gemischte Seitenformate fuer breite Inhalte. |
-| PDF-Fonts: DejaVu | bestanden | `pdffonts` DE/EN | DejaVuSerif, DejaVuSansMono und Varianten eingebettet. |
-| PDF-Fonts: Twemoji Mozilla | bestanden | `pdffonts` DE/EN | TwemojiMozilla eingebettet. LaTeX meldet weiter einzelne fehlende Emoji-/Symbolzeichen als Warnungen. |
-| PDF-Fonts: ERDA CC-BY CJK | bestanden im Release-Scope | `pdffonts` / Publisher-Einschaetzung | CJK-Fonts muessen fuer v2.5.0 die multilingualen Lizenzbeschreibungen abdecken; dieser Scope ist abgedeckt. Der gitbook_worker-Lieferant kann bei Bedarf mehr Glyphen bereitstellen. |
-| Markdown/PDF Layout-Scan | erledigt mit Restbefunden | `markdown_pdf_layout_scan.py --pdf-right-margin 0` | 2.7.0-Scan: 19 PDF-Seitenkantenbefunde, keine bisherigen breiten Tabellenueberlaeufe mehr. Restbefunde betreffen lange URLs/Quellenzeilen, nicht Tabellenpapier. |
-| Sichtprüfung DE PDF | technisch stichprobengeprueft | `pdftotext`, `pdfinfo`, `pdffonts` | Titelseite zeigt 2026-05-08 / Version 2.5.0; H4- und Code-Fence-Regressionspruefung unauffaellig. Vollstaendige Publisher-Sichtpruefung bleibt Final-Gate. |
-| Sichtprüfung EN PDF | technisch stichprobengeprueft | `pdftotext`, `pdfinfo`, `pdffonts` | Titelseite zeigt 2026-05-08 / Version 2.5.0; H4- und Code-Fence-Regressionspruefung unauffaellig. Vollstaendige Publisher-Sichtpruefung bleibt Final-Gate. |
+| DE Publish Markdown | erzeugt | `de/publish/das-erda-buch.md` | Finaler RC-Artefaktstand 2026-05-11 mit gitbook_worker 2.9.1, Orchestrator: `converter=ok`, `publisher=ok`. |
+| DE PDF | erzeugt | `de/publish/das-erda-buch.pdf` | 868 Seiten, 4.355.269 Bytes, CreationDate 2026-05-11 10:12 MESZ. |
+| EN Publish Markdown | erzeugt | `en/publish/the-erda-book.md` | Finaler RC-Artefaktstand 2026-05-11 mit gitbook_worker 2.9.1, Orchestrator: `converter=ok`, `publisher=ok`. |
+| EN PDF | erzeugt | `en/publish/the-erda-book.pdf` | 830 Seiten, 4.374.034 Bytes, CreationDate 2026-05-11 10:17 MESZ. |
+| PDF-Fonts: DejaVu | bestanden | `pdffonts` DE/EN, Qualitaetsdossier | DejaVuSerif, DejaVuSansMono und Varianten eingebettet. |
+| PDF-Fonts: Twemoji Mozilla | bestanden mit Textlayer-Warnung | `pdffonts` DE/EN, `editorial-quality` | TwemojiMozilla eingebettet; `pypdf`-Textlayer-Replacements bleiben als Warnung sichtbar, ohne Sichtbefund kein harter Font-/Glyphenfehler. |
+| PDF-Fonts: ERDA CC-BY CJK | bestanden im Release-Scope | `pdffonts` / Publisher-Einschaetzung | CJK-Fonts decken den v2.5.0-Scope ab; echte Missing-character-Logsignale bleiben bei Bedarf separat zu pruefen. |
+| `editorial-quality` Release-Profil | bestanden mit Warnungen | `logs/quality/*-release-editorial-acceptance.*`, dokumentiert in `gitbook-worker-2.9.1-delivery-review-v2.5.0.md` | DE 0 blocked/0 fail/43 warn/7 info; EN 0/0/45/7; Project 0/0/88/8. |
+| Sichtprüfung DE PDF | technisch stichprobengeprueft | Seite 73, `pypdf`-/Textlayer-Abgleich, Quality-Dossier | Symbole sichtbar intakt; Textlayer-Replacements als Accessibility-/Copy-Paste-Warnung eingeordnet. Vollstaendige Publisher-Sichtpruefung bleibt Final-Gate. |
+| Sichtprüfung EN PDF | technisch stichprobengeprueft | Quality-Dossier, PDF-Metadaten | Keine harten Quality-Fails; vollstaendige Publisher-Sichtpruefung bleibt Final-Gate. |
 
 ---
 
@@ -164,14 +163,14 @@ Freigabeaussage EN:
 | Prüfung | Ergebnis | Nachweis | Bemerkung |
 |---|---|---|---|
 | Redakteur-Finalreview abgeschlossen | erledigt | `redaktioneller-durchgang-de-v2.5.0.md`, dieses Protokoll | DE ist Quelle der Wahrheit; Restrisiken dokumentiert. |
-| Publisher-Buildfreigabe abgeschlossen | offen | `markdown-pdf-layout-scan-v2.5.0.md`, Sichtprüfung | Layout-/Überlaufbefunde vor Tag-Freigabe entscheiden oder beheben. |
+| Publisher-Buildfreigabe abgeschlossen | offen | `gitbook-worker-2.9.1-delivery-review-v2.5.0.md`, Sichtprüfung | 2.9.1-Quality-Gate ohne Fails; Warnungen vor Tag-Freigabe priorisieren oder als Restrisiko dokumentieren. |
 | Finaler Worktree geprüft | offen | | |
 | Tag `v2.5.0` vorbereitet | offen | | |
 | GitHub-/Zenodo-Releasebeschreibung final | vorbereitet | `.zenodo.json`, Release Notes | GitHub-Release selbst noch nicht angelegt/veroeffentlicht. |
 
 Finale Aussage:
 
-> Final-Gate-Stand: redaktionell vorbereitet, aber keine Tag-/Publisher-Freigabe, solange Publisher-Sichtpruefung, Layout-/Überlaufentscheidung, finaler Worktree/Index-Check und bewusste Tag-Entscheidung offen sind.
+> Final-Gate-Stand: redaktionell vorbereitet und technisch mit gitbook_worker 2.9.1 ohne harte Quality-Fails reproduziert, aber keine Tag-/Publisher-Freigabe, solange Publisher-Sichtpruefung, Warnungs-/Restrisikoentscheidung, finaler Worktree/Index-Check und bewusste Tag-Entscheidung offen sind.
 
 ---
 
@@ -200,18 +199,18 @@ Diese Teilzertifizierung dokumentiert den Arbeitsstand zu A6 aus der Anhang-M-Be
 
 | Feld | Eintrag |
 |---|---|
-| Prüfdatum | 2026-05-08 |
+| Prüfdatum | 2026-05-11 |
 | Prüfrolle | Publisher mit Redakteur:in-Zuarbeit |
-| DE Build | `converter=ok`, `publisher=ok` |
-| EN Build | `converter=ok`, `publisher=ok` |
-| DE PDF | 1016 Seiten, 4.379.483 Bytes, CreationDate 2026-05-08 10:52 MESZ |
-| EN PDF | 978 Seiten, 4.374.668 Bytes, CreationDate 2026-05-08 10:57 MESZ |
-| Fontbefund | DejaVu, TwemojiMozilla und ERDACCbyCJK-Regular in DE/EN eingebettet; CJK-Text extrahierbar und innerhalb der Seitenboxen |
-| Ergebnis | erfuellt mit dokumentiertem Restbefund; vendortes gitbook_worker 2.7.0 installiert, DE/EN-Artefakte neu erzeugt und Font-/Layout-Sichtpruefung technisch nachgezogen |
+| DE Build | `converter=ok`, `publisher=ok`, `editorial-quality=passed_with_warnings` |
+| EN Build | `converter=ok`, `publisher=ok`, `editorial-quality=passed_with_warnings` |
+| DE PDF | 868 Seiten, 4.355.269 Bytes, CreationDate 2026-05-11 10:12 MESZ |
+| EN PDF | 830 Seiten, 4.374.034 Bytes, CreationDate 2026-05-11 10:17 MESZ |
+| Fontbefund | DejaVu, TwemojiMozilla und ERDACCbyCJK-Regular in DE/EN eingebettet; Textlayer-Replacements als Warnung, nicht als harter Fontfail |
+| Ergebnis | erfuellt mit dokumentierten Warnungen; vendortes gitbook_worker 2.9.1 installiert, DE/EN-Artefakte neu erzeugt und Qualitaetsdossier reproduziert |
 
-**Befund:** Die Publish-Artefakte wurden nach der P.2-Formatbereinigung, der Kapitel-9-Quellkonsolidierung, der Anhang-J-Lizenzblock-Korrektur, der 14.3-Flowdiagramm-Korrektur, der B.1-Zusammenlegung und der Metadaten-Synchronisation neu erzeugt. Nach Umstellung des vendorten Pakets auf gitbook_worker 2.7.0 liefen DE- und EN-Orchestrator erfolgreich durch. `pdffonts` bestaetigt eingebettete DejaVu-, TwemojiMozilla- und ERDACCbyCJK-Regular-Fonts. Die Titelseiten enthalten `2026-05-08 - Version 2.5.0`. Die 2.7.0-Ausgabe verwendet gemischte Seitenformate: Letter fuer die Frontmatter-Seiten, A4/A4-quer fuer normalen bzw. maessig breiten Inhalt sowie A3/A2/A1 fuer sehr breite Tabellen. Der vollstaendige PDF-Seitenkantenscan mit `--pdf-right-margin 0` meldet 19 Restbefunde; die zuvor dokumentierten Tabellenueberlaeufe in Anhang A sowie den Staatenprofil-Tabellen sind nicht mehr enthalten. Die Restbefunde betreffen lange URLs und Quellenzeilen. H4-/Run-in-Headings und die bekannten Code-Fence-Stellen wurden gezielt geprueft und sind unter 2.7.0 unauffaellig. Der lokale Windows-Lauf benoetigte weiterhin einen repo-lokalen `LOCALAPPDATA`-Buildkontext, weil im echten User-Font-Ordner alte 5-Byte-Stubs fuer `ERDA CC-BY Indic` und `ERDA CC-BY Ethiopic` liegen und `luaotfload` diese sonst fatal aufloesen kann.
+**Befund:** Die Publish-Artefakte wurden nach Integration des gitbook_worker-2.9.1-Abnahmefixes neu erzeugt. DE- und EN-Orchestrator liefen erfolgreich durch. Der integrierte `editorial-quality`-Lauf im `release`-Profil erzeugte fuer DE, EN und Project jeweils `passed_with_warnings` mit 0 `blocked` und 0 `fail`. Die frueheren `pdf.text.replacement_glyph`-Fails aus 2.9.0 sind in 2.9.1 als `pdf.text.extraction_replacement`-Warnungen mit Seitenhinweisen klassifiziert. Das entspricht der visuellen Stichprobe: Die Symbole sind in der PDF sichtbar intakt, waehrend `pypdf` im Textlayer Replacement-Zeichen extrahiert. Der lokale Windows-Lauf benoetigte weiterhin einen repo-lokalen `LOCALAPPDATA`-Buildkontext, damit Font-Caches und Altstubs nicht in den PDF-Build eingreifen.
 
-**Entscheidung:** Das fruehere EN-Orchestrator-/Titelseiten-Restrisiko, das Code-Fence-Wrapping, das H4-/Run-in-Heading-Verhalten und die breiten Tabellenueberlaeufe werden fuer v2.5.0 durch die vereinheitlichte gitbook_worker-2.7.0-Toolchain als geschlossen bewertet. A6 ist fuer den aktuellen v2.5.0-Artefaktstand technisch erfuellt, aber nicht als finale Publisher-Freigabe zu verstehen. Vor A8 bleiben der finale Worktree-/Index-Check, die bewusste Publisher-Sichtpruefung und die Entscheidung zu den verbliebenen URL-/Quellenzeilen-Restbefunden offen. Fuer spaetere Releases bleibt der Hinweis bestehen, PDF-Laeufe nicht parallel gegen dieselben Ausgabepfade zu starten.
+**Entscheidung:** Das fruehere harte Glyphen-/Font-Gate aus 2.9.0 wird fuer v2.5.0 durch gitbook_worker 2.9.1 als geschlossen bewertet. A6 ist fuer den aktuellen v2.5.0-Artefaktstand technisch erfuellt, aber nicht als finale Publisher-Freigabe zu verstehen. Vor A8 bleiben der finale Worktree-/Index-Check, die bewusste Publisher-Sichtpruefung, die Einordnung der 88 Projektwarnungen und die Tag-Entscheidung offen. Fuer spaetere Releases bleibt der Hinweis bestehen, PDF-Laeufe nicht parallel gegen dieselben Ausgabepfade zu starten.
 
 ---
 
