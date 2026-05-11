@@ -86,8 +86,8 @@ Ein Final-Release darf erst gesetzt werden, wenn alle Muss-Gates geschlossen sin
 
 | Prüfschritt | Muss | Status | Nachweis / Datei |
 |---|---:|---|---|
-| DE-Publish-Lauf erfolgreich | ja | erledigt finaler RC-Artefaktstand | Orchestrator 2026-05-11 mit gitbook_worker 2.9.1: `converter=ok`, `publisher=ok`; PDF 866 Seiten, 4.367.447 Bytes |
-| EN-Publish-Lauf erfolgreich | ja | erledigt finaler RC-Artefaktstand | Orchestrator 2026-05-11 mit gitbook_worker 2.9.1: `converter=ok`, `publisher=ok`; PDF 826 Seiten, 4.384.528 Bytes |
+| DE-Publish-Lauf erfolgreich | ja | erledigt finaler RC-Artefaktstand | Orchestrator 2026-05-11 mit gitbook_worker 2.9.1 nach Kapitel-8-Anhangserweiterung (8.A–8.D): `converter=ok`, `publisher=ok`; PDF 878 Seiten, 4.405.416 Bytes |
+| EN-Publish-Lauf erfolgreich | ja | erledigt finaler RC-Artefaktstand | Orchestrator 2026-05-11 mit gitbook_worker 2.9.1 nach Kapitel-8-Anhangserweiterung (8.A–8.D): `converter=ok`, `publisher=ok`; PDF 836 Seiten, 4.419.459 Bytes |
 | PDF-Fonts geprüft: DejaVu, Twemoji Mozilla, ERDA CC-BY CJK | ja | erledigt im v2.5.0-Scope mit 2.9.1-Warnungen | DejaVu/Twemoji/ERDACCbyCJK-Regular eingebettet; Textlayer-Replacement-Signale sind seit 2.9.1 Warnung, kein harter Fontblocker ohne Sichtbefund |
 | `editorial-quality` Release-Profil bestanden | ja | erledigt mit Warnungen | 2.9.1-Lauf nach Kapitel-8-Konsolidierung: DE `passed_with_warnings` 0/0/41/7, EN `passed_with_warnings` 0/0/43/7, Project `passed_with_warnings` 0/0/84/8 |
 | Markdown/PDF-Layout-Scan durchgeführt | ja | ersetzt durch 2.9.1-Qualitaetsdossier plus historische Scans | `gitbook-worker-2.9.1-delivery-review-v2.5.0.md`; alte Layoutscans bleiben Referenz fuer Restbefunde |

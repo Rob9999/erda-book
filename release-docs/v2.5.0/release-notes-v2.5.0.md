@@ -68,7 +68,7 @@ Darüber hinaus integriert dieses Release konzeptionelle Papers und Umsetzungsba
 - DE/EN-Querverweise auf Appendix/Anhang P.1 in Kapitel 3.5, 4.3.5, 11.2 und 11.3 aktualisiert
 - DE/EN-Querverweise auf Appendix/Anhang P.2 in Kapitel 6 ergänzt
 - Vendorte gitbook_worker-Version auf 2.9.1 aktualisiert; DE/EN-Publish-Artefakte neu erzeugt und das integrierte `editorial-quality`-Gate mit `passed_with_warnings`, 0 `blocked` und 0 `fail` reproduziert
-- Finaler RC-Artefaktstand nach Kapitel-8-Konsolidierung: DE-PDF 866 Seiten / 4.367.447 Bytes; EN-PDF 826 Seiten / 4.384.528 Bytes; `editorial-quality` weiterhin `passed_with_warnings`, 0 `blocked`, 0 `fail`
+- Finaler RC-Artefaktstand nach Kapitel-8-Stresstest-Anhängen (8.A–8.D) und Säulen-Vertiefung: DE-PDF 878 Seiten / 4.405.416 Bytes; EN-PDF 836 Seiten / 4.419.459 Bytes; `editorial-quality` weiterhin `passed_with_warnings`, 0 `blocked`, 0 `fail`
 - Quellen-/Link-Gate für den v2.5-Finalscope per gitbook_worker-Dry-run, Link-Audit, Sources-Export und manueller Webprüfung dokumentiert
 
 ---

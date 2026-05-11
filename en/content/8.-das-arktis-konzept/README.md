@@ -36,6 +36,8 @@ Development of a sustainable, democratic Arctic strategy that unites geopolitica
 **🌍 Visionary benefits**\
 A democratic Arctic strategy positions Europe as a pioneer of responsible and just global resource policy.
 
+_Reading guide:_ The main chapter develops the codex, initial situation, strategic pillars and implementation (8.1–8.4). Four complementary appendices apply the concept to concrete stress tests: **Appendix 8.A** Greenland, **Appendix 8.B** Svalbard, **Appendix 8.C** undersea cables, **Appendix 8.D** permafrost methane.
+
 ### _Glossary (excerpt, ERDA-specific)_
 
 | Term | Meaning |

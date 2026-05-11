@@ -68,7 +68,7 @@ In addition, this release integrates conceptual papers and implementation materi
 - DE/EN cross-references to Appendix P.1 updated in chapters 3.5, 4.3.5, 11.2 and 11.3
 - DE/EN cross-references to Appendix P.2 added in Chapter 6
 - Vendored gitbook_worker updated to 2.9.1; DE/EN publish artefacts rebuilt and the integrated `editorial-quality` gate reproduced with `passed_with_warnings`, 0 `blocked` and 0 `fail`
-- Final RC artefact state after Chapter 8 consolidation: DE PDF 866 pages / 4,367,447 bytes; EN PDF 826 pages / 4,384,528 bytes; `editorial-quality` remains `passed_with_warnings`, 0 `blocked`, 0 `fail`
+- Final RC artefact state after Chapter 8 stress-test appendices (8.A–8.D) and pillar deepening: DE PDF 878 pages / 4,405,416 bytes; EN PDF 836 pages / 4,419,459 bytes; `editorial-quality` remains `passed_with_warnings`, 0 `blocked`, 0 `fail`
 - Source/link gate for the v2.5 final scope documented through a gitbook_worker dry run, link audit, sources export and manual web verification
 
 ---

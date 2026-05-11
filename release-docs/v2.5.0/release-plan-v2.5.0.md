@@ -66,7 +66,7 @@ Release 2.5.0 markiert die **konzeptionelle Vertiefung** des ERDA-Buches. Währe
 - Kapitel 8 ARKTIS redaktionell konsolidiert und vertieft (DE + EN)
 - Root-Attribution und normalisiertes DE/EN-Frontmatter
 - Release-Dokumentation in `release-docs/v2.5.0/`
-- Aktualisierte Publish-Artefakte (PDF/MD) nach Content-Freeze; aktueller RC-Artefaktstand mit gitbook_worker 2.9.1 nach Kapitel-8-Konsolidierung: DE 866 Seiten, EN 826 Seiten
+- Aktualisierte Publish-Artefakte (PDF/MD) nach Content-Freeze; aktueller RC-Artefaktstand mit gitbook_worker 2.9.1 nach Kapitel-8-Anhangserweiterung (8.A–8.D): DE 878 Seiten, EN 836 Seiten
 
 ---
 

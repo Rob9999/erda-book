@@ -61,8 +61,8 @@ fuer DE und EN erfolgreich ausgefuehrt.
 
 | Artefakt | Seiten | Dateigroesse nach Rebuild | Ergebnis |
 |---|---:|---:|---|
-| `de/publish/das-erda-buch.pdf` | 866 | 4367447 bytes | Build erfolgreich |
-| `en/publish/the-erda-book.pdf` | 826 | 4384528 bytes | Build erfolgreich |
+| `de/publish/das-erda-buch.pdf` | 878 | 4405416 bytes | Build erfolgreich |
+| `en/publish/the-erda-book.pdf` | 836 | 4419459 bytes | Build erfolgreich |
 
 Nach der redaktionellen Kapitel-8-Konsolidierung wurden die Artefakte mit
 gitbook_worker 2.9.1 erneut erzeugt. Die aktuellen v2.5.0-Release-Gate-Dokumente

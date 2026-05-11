@@ -33,6 +33,8 @@ Entwicklung einer nachhaltigen, demokratischen Arktisstrategie, die geopolitisch
 **🌍 Visionärer Nutzen**\
 Eine demokratische Arktisstrategie positioniert Europa als Vorreiter einer verantwortlichen und gerechten globalen Ressourcenpolitik.
 
+_Hinweis zur Lesart:_ Das Hauptkapitel entwickelt Codex, Ausgangslage, strategische Säulen und Umsetzung (8.1–8.4). Vier ergänzende Anhänge wenden das Konzept auf konkrete Stresstests an: **Anhang 8.A** Grönland, **Anhang 8.B** Spitzbergen, **Anhang 8.C** Unterseekabel, **Anhang 8.D** Permafrost-Methan.
+
 ### _Glossar (Auszug, ERDA-spezifisch)_
 
 | Begriff | Bedeutung |

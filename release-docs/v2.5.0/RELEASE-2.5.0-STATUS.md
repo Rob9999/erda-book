@@ -22,7 +22,7 @@
 | 10 | SUMMARY.md + book.json aktualisiert | ✅ | DE + EN, Commit e7e5005 |
 | 11 | Konsistenzprüfung Mini-Wording-Set | ✅ | DE + EN ergänzt, v2.5-Begriffe aufgenommen |
 | 12 | Content-Freeze | ⏳ | nach finaler Redakteur-/Publisher-Freigabe |
-| 13 | Publish-Artefakte (PDF/MD) | ✅ | v2.5.0-Lauf DE/EN mit gitbook_worker 2.9.1 erfolgreich; nach Kapitel-8-Konsolidierung DE 866 Seiten, EN 826 Seiten |
+| 13 | Publish-Artefakte (PDF/MD) | ✅ | v2.5.0-Lauf DE/EN mit gitbook_worker 2.9.1 erfolgreich; nach Kapitel-8-Anhangserweiterung (Anhänge 8.A–8.D) DE 878 Seiten, EN 836 Seiten |
 | 14 | Zertifizierungsprotokoll | ⏳ | Final-Gates und 2.9.1-Quality-Gate dokumentiert; Tag-/Publisher-Entscheidung offen |
 | 15 | Final Review & Tag | ⏳ | |
 | 16 | Root-Attribution + Metadaten-Gate | ✅ | `ATTRIBUTION.md`, README/book/CFF/Zenodo synchronisiert |
