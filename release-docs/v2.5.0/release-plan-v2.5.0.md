@@ -63,9 +63,10 @@ Release 2.5.0 markiert die **konzeptionelle Vertiefung** des ERDA-Buches. Währe
 - Querverweise in Kapiteln 11.2, 3.5, 4.3.5 (DE + EN)
 - Aktualisierte Versionsnummern und Metadaten (README, book.json, CITATION.cff)
 - Rollenbasierte Ethik-vor-Strategie-Integration (DE + EN) inklusive Glossar- und Anhang-K-Dokumentation
+- Kapitel 8 ARKTIS redaktionell konsolidiert und vertieft (DE + EN)
 - Root-Attribution und normalisiertes DE/EN-Frontmatter
 - Release-Dokumentation in `release-docs/v2.5.0/`
-- Aktualisierte Publish-Artefakte (PDF/MD) nach Content-Freeze; aktueller RC-Artefaktstand mit gitbook_worker 2.9.1: DE 868 Seiten, EN 830 Seiten
+- Aktualisierte Publish-Artefakte (PDF/MD) nach Content-Freeze; aktueller RC-Artefaktstand mit gitbook_worker 2.9.1 nach Kapitel-8-Konsolidierung: DE 866 Seiten, EN 826 Seiten
 
 ---
 

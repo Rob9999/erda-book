@@ -61,11 +61,11 @@ fuer DE und EN erfolgreich ausgefuehrt.
 
 | Artefakt | Seiten | Dateigroesse nach Rebuild | Ergebnis |
 |---|---:|---:|---|
-| `de/publish/das-erda-buch.pdf` | 868 | 4355269 bytes | Build erfolgreich |
-| `en/publish/the-erda-book.pdf` | 830 | 4374034 bytes | Build erfolgreich |
+| `de/publish/das-erda-buch.pdf` | 866 | 4367447 bytes | Build erfolgreich |
+| `en/publish/the-erda-book.pdf` | 826 | 4384528 bytes | Build erfolgreich |
 
-Die deutsche Seitenzahl bleibt stabil. Die englische PDF liegt nach dem
-2.9.1-Rebuild bei 830 Seiten; die aktuellen v2.5.0-Release-Gate-Dokumente
+Nach der redaktionellen Kapitel-8-Konsolidierung wurden die Artefakte mit
+gitbook_worker 2.9.1 erneut erzeugt. Die aktuellen v2.5.0-Release-Gate-Dokumente
 fuehren diesen Stand.
 
 ## ERDA-Reproduktionslauf
@@ -143,7 +143,7 @@ Die Projekt-Warnungen verteilen sich im 2.9.1-Lauf wie folgt:
 
 1. Worker-Pins in `requirements.txt` und `.github/workflows/orchestrator.yml`
    auf 2.9.1 committen.
-2. Finaldocs und Release-Metadaten auf neue PDF-Groessen und EN-Seitenzahl 830
+2. Finaldocs und Release-Metadaten auf neue PDF-Groessen und Seitenzahlen
    pruefen.
 3. Die 88 Projektwarnungen priorisieren oder als bewusstes Restrisiko
    dokumentieren.

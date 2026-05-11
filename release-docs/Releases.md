@@ -13,6 +13,7 @@
       - **Anti-Game-Over paper** → **Appendix P.1** (DE translation + EN original): developmental-philosophical model of prosperative life (DOI: 10.5281/zenodo.19244929; APA citation in the paper header).
       - **CIVITAS Public paper** → **Appendix P.2** (DE contextual wrapper + EN original): working paper on Europe's digital agora and first operational CIVITAS layer (DOI: 10.5281/zenodo.19443256; APA citation in the paper header).
       - **CIVITAS chapter deepening** → Chapter 6: governance, publication formats, review levels, technical layers, safeguards, partnerships, education and roadmap.
+      - **ARKTIS chapter consolidation** → Chapter 8: merged short sections, expanded strategic pillars, and bundled implementation, communication and closing reflection.
       - **Book-project yardstick** → **Appendix M**: measurable release criteria, source standards and project decisions.
     - Cross-references to Appendix P.1 in chapters 11.2, 11.3, 3.5, 4.3.5.
   - Editorial:
@@ -21,7 +22,7 @@
     - Version bump to v2.5.0.
     - Release documentation in `release-docs/v2.5.0/`.
     - `book.json` date updated to 2026-05-11 (DE+EN).
-    - Vendored gitbook_worker updated to 2.9.1; publish artefacts rebuilt and the editorial-quality gate passed with warnings, 0 blocked and 0 fail findings.
+    - Vendored gitbook_worker updated to 2.9.1; publish artefacts rebuilt after Chapter 8 consolidation and the editorial-quality gate passed with warnings, 0 blocked and 0 fail findings.
     - Final-scope source/link gate documented by gitbook_worker dry-run, link audit, sources export and manual web verification.
 - **Highlights:**
   - **Seven principles of democratic knowledge** as standalone reference
@@ -30,6 +31,7 @@
   - **Appendix P.1 – Anti-Game-Over Principle** as paper appendix (bilingual)
   - **Appendix P.2 – CIVITAS Public** as paper appendix (bilingual wrapper / English original)
   - **Chapter 6 CIVITAS deepening** as operational democratic digital infrastructure
+  - **Chapter 8 ARKTIS consolidation** with expanded strategic pillars and Markdown tables
   - **Guiding vision for child-rearing** (§11.3.7) with 12 democratic education principles
   - **Mosaic Principle reflection** (§5.8.4) linking decentralised warfare theory to DSN architecture
   - Full release planning with status tracking

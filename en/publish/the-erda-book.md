@@ -8328,7 +8328,17 @@ A democratic Arctic strategy positions Europe as a pioneer of responsible and ju
 
 ### _Glossary (excerpt, ERDA-specific)_
 
-<table><thead><tr><th width="201.20001220703125">Term</th><th>Meaning</th></tr></thead><tbody><tr><td><strong>DSN</strong></td><td>Defense Sovereignty Node – autonomous regional defence unit of the EDA</td></tr><tr><td><strong>EDA</strong></td><td>European Defense Alliance – security-policy backbone of the ERDA</td></tr><tr><td><strong>ERDA</strong></td><td>European Rights-Based Democratic Alliance: future-oriented evolution of today’s EU into a federal democratic alliance with a common constitution, strategic sovereignty, digital participation and global responsibility – beyond the Union’s current borders and blockages.</td></tr><tr><td><strong>FORTERA</strong></td><td>Strategic economic architecture of the ERDA for resilient and fair production</td></tr><tr><td><strong>CIVITAS</strong></td><td>Digital agora for democratic participation and transparency within the ERDA</td></tr><tr><td><strong>IRIS²</strong></td><td>European satellite system for secure communication and Earth observation</td></tr><tr><td><strong>Arctic Democracy Mining Act</strong></td><td>Democratically regulated raw-materials law for Arctic regions with environmental safeguards</td></tr><tr><td><strong>Arctic Commons Charter</strong></td><td>Constitutional annex for the non-exploitative use of shared Arctic spaces</td></tr><tr><td><strong>Arctic Resilience Observatory</strong></td><td>Data, research and early-warning platform for climate stability in the Arctic</td></tr></tbody></table>
+| Term | Meaning |
+| --- | --- |
+| **DSN** | Defense Sovereignty Node – autonomous regional defence unit of the EDA |
+| **EDA** | European Defense Alliance – security-policy backbone of the ERDA |
+| **ERDA** | European Rights-Based Democratic Alliance: future-oriented evolution of today’s EU into a federal democratic alliance with a common constitution, strategic sovereignty, digital participation and global responsibility – beyond the Union’s current borders and blockages. |
+| **FORTERA** | Strategic economic architecture of the ERDA for resilient and fair production |
+| **CIVITAS** | Digital agora for democratic participation and transparency within the ERDA |
+| **IRIS²** | European satellite system for secure communication and Earth observation |
+| **Arctic Democracy Mining Act** | Democratically regulated raw-materials law for Arctic regions with environmental safeguards |
+| **Arctic Commons Charter** | Constitutional annex for the non-exploitative use of shared Arctic spaces |
+| **Arctic Resilience Observatory** | Data, research and early-warning platform for climate stability in the Arctic |
 
 
 \newpage
@@ -8431,212 +8441,154 @@ status: draft
 <a id="md-8-das-arktis-konzept-8-2-ausgangslage"></a>
 
 
-## 8.2 Initial Situation
+## 8.2 Initial situation and guiding principles
 
-_**Initial Situation**_
+The Arctic is no longer a remote periphery of world politics. It is becoming warmer, more accessible and more contested at the same time. Melting ice opens sea routes, resource zones and data corridors; at the same time, this very process destabilises an ecosystem that is central to the global climate, Indigenous ways of life and international security architectures.
 
-The Arctic is one of the last largely undeveloped regions of our planet – and at the same time a geopolitical flashpoint. Climate change is making resources accessible that were previously locked away in the eternal ice. Authoritarian powers are advancing into this zone militarily, technologically, and economically. At the same time, irreversible ecological tipping points threaten the region’s fragile balance.
+This creates a strategic paradox: the more visible the Arctic becomes as a space of economic, military and technological opportunity, the less its future may be shaped by short-term extraction. A democratic Arctic strategy must therefore think protection, use, research and security together. It must neither romanticise the region nor exploit it; it must be capable of action without repeating colonial patterns.
 
-Europe and its democratic partners must provide a clear, value‑based response – not as a claim to power, but as an expression of responsibility, justice, and safeguarding the future.
+### 8.2.1 Initial situation: accelerated spatial change
 
+Climate change is shifting the material conditions of the Arctic faster than political institutions are prepared to respond. Permafrost is thawing, coastlines are eroding, maritime routes are becoming more seasonally predictable, and demand for strategic raw materials is making previously hard-to-reach deposits politically relevant. This development increases not only economic appetites, but also the risk of infrastructure conflicts, environmental accidents and hybrid pressure tools.
 
-\newpage
+Authoritarian powers use such transitions to expand grey zones: research vessels can also perform reconnaissance, investments can create dependencies, and communications infrastructure can become politically vulnerable. Democracies cannot answer this with symbolism alone. They need credible presence, robust supply chains, reliable partnership agreements and public procedures that explain why action is being taken and where its limits lie.
 
----
-content_id: erda.book.8.das.arktis.konzept.8.3.leitprinzipien
-content_lang: en
-source: de/content/8.-das-arktis-konzept/8.3-leitprinzipien.md
-status: draft
----
-<a id="md-8-das-arktis-konzept-8-3-leitprinzipien"></a>
+### 8.2.2 The democratic starting question
 
+The guiding question is not who the Arctic “belongs” to. It is what kind of order prevents an ecologically sensitive region of planetary importance from becoming a testing ground for ruthless power politics. ERDA therefore understands the Arctic as a space of responsibility: a zone in which security interests, ecological limits, Indigenous rights and scientific truth must not be played off against one another.
 
-## 8.3 Guiding Principles
+Europe and its democratic partners must provide a clear, value-based response – not as a claim to power, but as an expression of responsibility, justice and safeguarding the future. That response must be concretely useful for Arctic communities: through co-determination, participation in value creation, protection of cultural identity, disaster preparedness, open data and verifiable ecological standards.
 
-_**Guiding Principles**_
+### 8.2.3 Guiding principles
 
-* **Democratic legitimacy** instead of geopolitical arbitrariness
-* **Ecological responsibility** instead of extractive plundering
-* **Partnership with Indigenous peoples** instead of colonial appropriation
-* **Sovereign presence** instead of military overstretch
-* **Resilience through cooperation** instead of purely national solo efforts
+* **Democratic legitimacy instead of geopolitical arbitrariness:** Every Arctic measure needs a publicly understandable mandate, parliamentary control and transparent purpose limitation.
+* **Ecological responsibility instead of extractive plundering:** Resource policy may take place only within firm environmental limits; protected areas, the precautionary principle and restoration obligations are starting conditions, not later corrections.
+* **Partnership with Indigenous peoples instead of colonial appropriation:** Affected communities are not stakeholders at the margins, but co-authors of political decisions, data sovereignty, cultural policy and local value creation.
+* **Sovereign presence instead of military overstretch:** Democratic security means defensive, cooperative and legally bound capacity for action, not escalation dominance.
+* **Resilience through cooperation instead of purely national solo efforts:** Arctic stability emerges through shared situational awareness, coordinated infrastructure, research sharing and fair burden-sharing among democracies.
+
+These principles are not a decorative preamble. They determine whether ARKTIS remains recognisable as a democratic strategy when trade-offs arise: between raw-material needs and nature protection, deterrence and peace order, scientific openness and security interests, local self-determination and global responsibility.
 
 
 \newpage
 
 ---
-content_id: erda.book.8.das.arktis.konzept.8.4.strategische.saulen.readme
+content_id: erda.book.8.das.arktis.konzept.8.3.strategische.saulen
 content_lang: en
-source: de/content/8.-das-arktis-konzept/8.4-strategische-saulen/README.md
+source: de/content/8.-das-arktis-konzept/8.3-strategische-saulen.md
 status: draft
 ---
-<a id="md-8-das-arktis-konzept-8-4-strategische-saulen-readme"></a>
+<a id="md-8-das-arktis-konzept-8-3-strategische-saulen"></a>
 
+## 8.3 Strategic pillars
 
-## 8.4 Strategic pillars
+The strategic pillars translate the ARKTIS Codex into actionable policy. They are not a loose menu of measures, but an architecture of mutual reinforcement: security protects open research and democratic participation; resource governance prevents vulnerability to coercion; data sovereignty makes ecological limits verifiable; Indigenous co-determination anchors legitimacy on the ground.
 
-_**Strategic pillars**_
+| Pillar | Function within the ARKTIS Concept | Guiding question |
+| --- | --- | --- |
+| Geopolitical sovereignty | Protecting democratic agency and critical infrastructure | How can the Arctic remain a peace space without becoming defenceless? |
+| Resource partnerships | Fair, ecological and democratically controlled value creation | Who benefits, who decides and who carries the risks? |
+| Science and climate ethics | Reliable situational awareness, early warning and technological limits | Which data show when action is required or prohibited? |
+| Infrastructure and data sovereignty | Secure communication, logistics and observation capacity | Who controls the networks through which knowledge and security flow? |
+| Cultural and Indigenous dimension | Rights, language, knowledge and self-determination of Arctic communities | How is responsibility shaped with the people who live there? |
 
+### 8.3.1 Geopolitical sovereignty (EDA Arctic strategy)
+
+The EDA Arctic strategy must not be misunderstood as the militarisation of a peace space. Its core is defensive protective capacity: democracies must be able to secure maritime infrastructure, communications cables, energy links, research facilities and rescue logistics without turning the region into a permanent zone of threat.
+
+The **Norwegian Sea Defense Sovereignty Node (DSN)** brings together early warning, ISR capabilities, drone reconnaissance, cyber defence and emergency logistics. Its presence must be cooperative: Iceland, Greenland, Norway, Canada and other democratic partners share situational awareness, train civilian crisis response and define red lines against sabotage, disinformation and coercive infrastructure policy.
+
+Sovereignty here does not mean going it alone, but being reliable. An ERDA that wants to protect supply chains, research data and coastal regions must be able to act quickly in a crisis; at the same time, every action must remain mandated, documented and politically controlled.
+
+### 8.3.2 Democratic resource partnerships (FORTERA)
+
+The Arctic contains raw materials that may become relevant for the energy transition, digital infrastructure and strategic industries. Precisely for that reason, their development must not follow the old pattern of cheap peripheries. FORTERA relies on partnerships that combine supply security with environmental safeguards, local value creation and democratic control.
+
+The **Arctic Democracy Mining Act** defines minimum standards for concessions: transparent ownership structures, environmental impact assessments, decommissioning and restoration obligations, local participation funds, independent complaint channels and CIVITAS-based publication of key contract data. Resource policy thereby becomes not only cleaner, but politically more robust, because it limits corruption, dependency and social division early.
+
+Strategic agreements with Canada, Greenland, Iceland, Norway and other resource-adjacent democracies must therefore be more than delivery contracts. They should include training programmes, research capacity, regional infrastructure, emergency funds and participation rights. Whoever uses Arctic resources assumes responsibility for living conditions in the region.
+
+### 8.3.3 Science and climate ethics
+
+The **Arctic Resilience Observatory** is the scientific backbone of the concept. It collects and links data on permafrost, sea ice, biodiversity, water systems, methane risks, coastal erosion and social resilience. Its purpose is not to be a research showcase, but to create democratic early-warning capacity: parliaments, municipalities, Indigenous representatives and international partners must be able to work from the same reliable situational pictures.
+
+Open data does not mean unrestricted data exploitation. Sensitive ecological, cultural and security-relevant information needs clear access rules, local co-decision and protection against commercial extraction. A democratic ethics commission assesses technologies such as geoengineering, deep-sea mining, autonomous sensor systems or large-scale resource exploration before irreversible path dependencies arise.
+
+The central norm is this: where uncertainty is high and harm would be irreversible, precaution takes priority. Science therefore does not serve as a later justification for political decisions, but as a limit, corrective and early-warning system.
+
+### 8.3.4 Infrastructure and data sovereignty
+
+Arctic sovereignty is increasingly decided through networks: satellites, undersea cables, ports, energy connections, navigation systems, cloud infrastructures and rescue chains. Whoever controls these networks controls not only logistics, but also perception, security and political reaction speed.
+
+ERDA therefore needs a civil-military coordinated satellite and sensor network based on European capabilities such as **IRIS²**, complemented by open environmental observation and robust cyber resilience. A **European Arctic Cloud** should bring together research data, crisis information and participation modules without overriding regional data sovereignty.
+
+Logistics hubs in places such as Reykjavik, Nuuk or Tromsø must not appear as extraterritorial outposts. They must be jointly supervised, usable for civilian purposes, ecologically limited and embedded in local development strategies. Infrastructure is democratic only when it provides protection without creating dependency.
+
+### 8.3.5 Cultural and Indigenous dimension
+
+The Arctic is not an empty space. It is a living space, memory space, knowledge space and political space for Indigenous and local communities. Any strategy that only “involves” this fact afterwards has already started in the wrong place.
+
+Indigenous languages, rights and knowledge systems must be recognised as part of governance. This concerns representation in ERDA bodies, co-decision on concessions, protection of culturally sensitive data, participation in research projects and dedicated digital spaces within CIVITAS. Traditional knowledge does not replace scientific data; it broadens the view of risks, seasons, animal migrations, coastal changes and the social consequences of political decisions.
+
+An **Arctic Council+** can secure this dimension institutionally: with advisory and oversight functions, veto rights in clearly defined protection matters, participation in benefit-sharing models and a direct link to the ERDA constitutional commission. Democratic responsibility begins where affected communities are not only heard, but co-decide.
 
 \newpage
 
 ---
-content_id: erda.book.8.das.arktis.konzept.8.4.strategische.saulen.8.4.1.geopolitische.souveranitat.eda.arktisstrategie
+content_id: erda.book.8.das.arktis.konzept.8.4.umsetzung.kommunikation.und.schlussgedanke
 content_lang: en
-source: de/content/8.-das-arktis-konzept/8.4-strategische-saulen/8.4.1-geopolitische-souveranitat-eda-arktisstrategie.md
+source: de/content/8.-das-arktis-konzept/8.4-umsetzung-kommunikation-und-schlussgedanke.md
 status: draft
 ---
-<a id="md-8-das-arktis-konzept-8-4-strategische-saulen-8-4-1-geopolitische-souveranitat-eda-arktisstrategie"></a>
+<a id="md-8-das-arktis-konzept-8-4-umsetzung-kommunikation-und-schlussgedanke"></a>
 
+## 8.4 Implementation, communication and closing thought
 
-### 8.4.1 Geopolitical sovereignty (EDA Arctic strategy)
-
-_**Geopolitical sovereignty (EDA Arctic strategy)**_
-
-* Building a **Norwegian Sea Defense Sovereignty Node (DSN)** of the EDA with early warning, ISR and drone systems
-* Cooperative presence with Iceland, Greenland, Norway and Canada
-* Protection of maritime infrastructure (cables, energy, transport routes)
-* Climate‑driven crisis resilience: emergency logistics, cyber defence, migration scenarios
-
+The ARKTIS Concept becomes credible only when its guiding vision is translated into robust routines. That requires clear responsibilities, measurable checkpoints and communication that neither fuels alarmism nor offers false reassurance. Arctic policy must be able to show what it protects, whom it benefits and where it limits itself.
 
 \newpage
-
----
-content_id: erda.book.8.das.arktis.konzept.8.4.strategische.saulen.8.4.2.demokratische.ressourcenpartnerschaften.fortera
-content_lang: en
-source: de/content/8.-das-arktis-konzept/8.4-strategische-saulen/8.4.2-demokratische-ressourcenpartnerschaften-fortera.md
-status: draft
----
-<a id="md-8-das-arktis-konzept-8-4-strategische-saulen-8-4-2-demokratische-ressourcenpartnerschaften-fortera"></a>
+\newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
 
 
-### 8.4.2 Democratic resource partnerships (FORTERA)
+\pagewidth=297mm
+\pageheight=210mm
+### 8.4.1 Catalogue of measures
 
-_**Democratic resource partnerships (FORTERA)**_
-
-* Strategic agreements with resource‑adjacent democracies (e.g., Canada, Greenland, Iceland, Norway)
-* Mandatory environmental standards and benefit sharing with affected communities
-* Public oversight of concessions via **CIVITAS**
-
-
+\begin{longtable}{@{}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{74.35mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{18.28mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{50.96mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{66.92mm}@{}}\toprule Area & Core measure & Time frame & Lead responsibility & Review criterion \\\midrule \endhead Defence & Establish DSN Norwegian Sea with early warning, cyber defence and emergency logistics & 2026–2032 & EDA, Iceland, Norway, Canada & Shared situational picture, civilian exercise formats, parliamentary control \\Resources & Arctic Democracy Mining Act with concession register and benefit sharing & from 2027 & ERDA, FORTERA, Greenland, partner states & Public contract data, environmental requirements, local participation funds \\Research & Arctic Resilience Observatory for climate, biodiversity and permafrost data & 2025–2028 & EU, ERDA partners, universities, NGOs & Open data standards, Indigenous data rights, annual resilience report \\Ethics & Arctic Commons Charter as a boundary for non-exploitative use & 2026 & ERDA constitutional commission, Arctic Council+ & Precautionary principle, protected areas, independent ethics review \\Participation & Indigenous Council within ERDA linked to CIVITAS & from 2027 & CIVITAS, ERDA Council, local representatives & Co-decision on projects, complaint channels, multilingual participation \\Infrastructure & European Arctic Cloud and resilient logistics locations & 2026–2030 & ERDA, IRIS², municipalities, research partners & Data sovereignty, cyber resilience, civilian usability, climate balance \\\bottomrule \end{longtable}
+\restoregeometry
+\pagewidth=210mm
+\pageheight=297mm
 \newpage
 
----
-content_id: erda.book.8.das.arktis.konzept.8.4.strategische.saulen.8.4.3.wissenschaft.und.klimaethik
-content_lang: en
-source: de/content/8.-das-arktis-konzept/8.4-strategische-saulen/8.4.3-wissenschaft-und-klimaethik.md
-status: draft
----
-<a id="md-8-das-arktis-konzept-8-4-strategische-saulen-8-4-3-wissenschaft-und-klimaethik"></a>
+### 8.4.2 Implementation path
 
+**Phase 1: Mandate and situational picture (2025–2026)**
 
-### 8.4.3 Science and climate ethics
+ERDA brings existing data, responsibilities and partnerships together in a shared Arctic situational picture. In parallel, red lines are defined: no projects without Indigenous co-determination, no resource use without restoration obligations, no security infrastructure without democratic control.
 
-_**Science and climate ethics**_
+**Phase 2: Institutional build-up (2026–2028)**
 
-* Establishment of an **Arctic Resilience Observatory**: data, modelling, early warning
-* Cooperative research on climate impacts, biodiversity, hydrology, permafrost
-* Democratic ethics commission for emerging technologies (e.g., geoengineering, deep‑sea mining)
+The Arctic Council+, the Arctic Resilience Observatory and CIVITAS participation modules become operational. First partnership agreements connect research, training, local value creation and security cooperation. The DSN Norwegian Sea begins with civilian crisis exercises and transparent parliamentary reporting.
 
+**Phase 3: Resilient scaling (2028–2032)**
 
-\newpage
+Tested instruments are transferred into lasting governance: concession registers, environmental monitoring, local participation funds, open data portals and shared rescue and infrastructure routines. Annual review reports examine whether the strategy respects ecological limits, reduces dependencies and strengthens local communities.
 
----
-content_id: erda.book.8.das.arktis.konzept.8.4.strategische.saulen.8.4.4.infrastruktur.and.datenhoheit
-content_lang: en
-source: de/content/8.-das-arktis-konzept/8.4-strategische-saulen/8.4.4-infrastruktur-and-datenhoheit.md
-status: draft
----
-<a id="md-8-das-arktis-konzept-8-4-strategische-saulen-8-4-4-infrastruktur-and-datenhoheit"></a>
+### 8.4.3 Communication strategy
 
+The public narrative is: _“The Arctic does not belong to the powerful, but to the responsible.”_ This sentence must not remain a slogan. Communication has to support it with evidence: Which decision was publicly justified? Which community was involved? Which resource was not developed because ecological limits stood against it? Which security measure protects civilian infrastructure rather than staging power projection?
 
-### 8.4.4 Infrastructure & data sovereignty
+Three communication rules follow from this:
 
-_**Infrastructure & data sovereignty**_
+1. **Describe the situation honestly:** The Arctic is at once a peace space, climate tipping zone, living space and strategic space. Anyone who tells only one of these stories loses trust.
+2. **Make action visible:** Open data portals, CIVITAS modules, maps, annual reports and understandable indicators show whether principles are actually being implemented.
+3. **Include culture:** Literature, film, education, interactive media and Indigenous forms of storytelling make it tangible that Arctic responsibility is more than security or resource policy.
 
-* Building a **civil‑military satellite network** for Arctic monitoring (IRIS²/EDA)
-* European Arctic Cloud for open data and citizen participation
-* Logistics hubs under shared oversight (e.g., Reykjavik, Nuuk, Tromsø)
+### 8.4.4 Closing thought
 
+> _The Arctic is not an empty field for geopolitical games – it is a living resonance space of our planet. Whoever wants to preserve it must listen, protect and shape responsibly. ERDA takes on this task not as the ruler of the North, but as an alliance of care, foresight and democracy._
 
-\newpage
-
----
-content_id: erda.book.8.das.arktis.konzept.8.4.strategische.saulen.8.4.5.kulturelle.und.indigene.dimension
-content_lang: en
-source: de/content/8.-das-arktis-konzept/8.4-strategische-saulen/8.4.5-kulturelle-und-indigene-dimension.md
-status: draft
----
-<a id="md-8-das-arktis-konzept-8-4-strategische-saulen-8-4-5-kulturelle-und-indigene-dimension"></a>
-
-
-### 8.4.5 Cultural and Indigenous dimension
-
-_**Cultural and Indigenous dimension**_
-
-* Protection of Indigenous languages, rights and knowledge systems
-* Partnership‑based representation in ERDA bodies (e.g., Arctic Council+)
-* Support for cultural projects and the digital participation of Indigenous communities via **CIVITAS**
-
-
-\newpage
-
----
-content_id: erda.book.8.das.arktis.konzept.8.5.massnahmenkatalog.auswahl
-content_lang: en
-source: de/content/8.-das-arktis-konzept/8.5-massnahmenkatalog-auswahl.md
-status: draft
----
-<a id="md-8-das-arktis-konzept-8-5-massnahmenkatalog-auswahl"></a>
-
-
-## 8.5 Catalogue of measures (selection)
-
-_**Catalogue of measures (selection)**_
-
-<table><thead><tr><th width="124.4000244140625">Area</th><th width="244.400146484375">Measure</th><th width="137.7999267578125">Time frame</th><th>Responsible</th></tr></thead><tbody><tr><td>Defence</td><td>Establish DSN Norwegian Sea</td><td>2026–2032</td><td>EDA, Iceland, Norway</td></tr><tr><td>Resources</td><td>Arctic Democracy Mining Act</td><td>from 2027</td><td>ERDA, FORTERA, Greenland</td></tr><tr><td>Research</td><td>Arctic Resilience Observatory</td><td>2025–2028</td><td>EU, ERDA partners, NGOs</td></tr><tr><td>Ethics</td><td>Arctic Commons Charter</td><td>2026</td><td>ERDA constitutional commission</td></tr><tr><td>Participation</td><td>Indigenous Council within ERDA</td><td>from 2027</td><td>CIVITAS, ERDA Council</td></tr></tbody></table>
-
-***
-
-
-\newpage
-
----
-content_id: erda.book.8.das.arktis.konzept.8.6.kommunikationsstrategie
-content_lang: en
-source: de/content/8.-das-arktis-konzept/8.6-kommunikationsstrategie.md
-status: draft
----
-<a id="md-8-das-arktis-konzept-8-6-kommunikationsstrategie"></a>
-
-
-## 8.6 Communication strategy
-
-_**Communication strategy**_
-
-* **Narrative**: _“The Arctic does not belong to the powerful, but to the responsible.”_
-* Open data portals and participation modules (CIVITAS)
-* Strategic partnership with educational and climate institutions worldwide
-* Support for artistic engagement (literature, film, interactive media)
-
-
-\newpage
-
----
-content_id: erda.book.8.das.arktis.konzept.8.7.schlussgedanke
-content_lang: en
-source: de/content/8.-das-arktis-konzept/8.7-schlussgedanke.md
-status: draft
----
-<a id="md-8-das-arktis-konzept-8-7-schlussgedanke"></a>
-
-
-## 8.7 Closing thought
-
-_**Closing thought**_
-
-> _The Arctic is not an empty field for geopolitical games – it is a living resonance space of our planet. Whoever wants to preserve it must listen, protect, and shape responsibly. ERDA takes on this task – not as the ruler of the North, but as an alliance of care, foresight and democracy._
-
+ARKTIS is therefore a test of the maturity of democratic power. A democratic alliance that wants to endure in the North must prove that it can create security without normalising exploitation; that it can secure resources without narrowing rights; and that it does not merely proclaim planetary responsibility, but carries it institutionally.
 
 \newpage
 

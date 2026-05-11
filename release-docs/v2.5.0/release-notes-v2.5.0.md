@@ -39,6 +39,9 @@ Darüber hinaus integriert dieses Release konzeptionelle Papers und Umsetzungsba
 - **Kapitel 6 – Das CIVITAS Konzept (DE + EN):**
   Deutlich vertieft als Buchkapitel: CIVITAS Public, Rollen- und Publikationsarchitektur, Review-Level, Governance-Gremien, technische Schichten, DSGVO-/DSA-Schutz, Young CIVITAS, Partnerschaften und Roadmap.
 
+- **Kapitel 8 – Das ARKTIS Konzept (DE + EN):**
+  Redaktionell konsolidiert und inhaltlich vertieft: Ausgangslage und Leitprinzipien wurden zusammengeführt, die strategischen Säulen als integrierter Abschnitt ausgebaut und Umsetzung, Kommunikation sowie Schlussgedanke gebündelt.
+
 - **Querverweise** in den Kapiteln 11.2, 11.3, 3.5 und 4.3.5 auf Anhang P.1 sowie in Kapitel 6 auf Anhang P.2.
 
 ### Redaktionelle Verbesserungen
@@ -65,6 +68,7 @@ Darüber hinaus integriert dieses Release konzeptionelle Papers und Umsetzungsba
 - DE/EN-Querverweise auf Appendix/Anhang P.1 in Kapitel 3.5, 4.3.5, 11.2 und 11.3 aktualisiert
 - DE/EN-Querverweise auf Appendix/Anhang P.2 in Kapitel 6 ergänzt
 - Vendorte gitbook_worker-Version auf 2.9.1 aktualisiert; DE/EN-Publish-Artefakte neu erzeugt und das integrierte `editorial-quality`-Gate mit `passed_with_warnings`, 0 `blocked` und 0 `fail` reproduziert
+- Finaler RC-Artefaktstand nach Kapitel-8-Konsolidierung: DE-PDF 866 Seiten / 4.367.447 Bytes; EN-PDF 826 Seiten / 4.384.528 Bytes; `editorial-quality` weiterhin `passed_with_warnings`, 0 `blocked`, 0 `fail`
 - Quellen-/Link-Gate für den v2.5-Finalscope per gitbook_worker-Dry-run, Link-Audit, Sources-Export und manueller Webprüfung dokumentiert
 
 ---

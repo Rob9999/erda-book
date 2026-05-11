@@ -86,14 +86,14 @@ Ein Final-Release darf erst gesetzt werden, wenn alle Muss-Gates geschlossen sin
 
 | Prüfschritt | Muss | Status | Nachweis / Datei |
 |---|---:|---|---|
-| DE-Publish-Lauf erfolgreich | ja | erledigt finaler RC-Artefaktstand | Orchestrator 2026-05-11 mit gitbook_worker 2.9.1: `converter=ok`, `publisher=ok`; PDF 868 Seiten, 4.355.269 Bytes |
-| EN-Publish-Lauf erfolgreich | ja | erledigt finaler RC-Artefaktstand | Orchestrator 2026-05-11 mit gitbook_worker 2.9.1: `converter=ok`, `publisher=ok`; PDF 830 Seiten, 4.374.034 Bytes |
+| DE-Publish-Lauf erfolgreich | ja | erledigt finaler RC-Artefaktstand | Orchestrator 2026-05-11 mit gitbook_worker 2.9.1: `converter=ok`, `publisher=ok`; PDF 866 Seiten, 4.367.447 Bytes |
+| EN-Publish-Lauf erfolgreich | ja | erledigt finaler RC-Artefaktstand | Orchestrator 2026-05-11 mit gitbook_worker 2.9.1: `converter=ok`, `publisher=ok`; PDF 826 Seiten, 4.384.528 Bytes |
 | PDF-Fonts geprüft: DejaVu, Twemoji Mozilla, ERDA CC-BY CJK | ja | erledigt im v2.5.0-Scope mit 2.9.1-Warnungen | DejaVu/Twemoji/ERDACCbyCJK-Regular eingebettet; Textlayer-Replacement-Signale sind seit 2.9.1 Warnung, kein harter Fontblocker ohne Sichtbefund |
-| `editorial-quality` Release-Profil bestanden | ja | erledigt mit Warnungen | 2.9.1-Lauf: DE `passed_with_warnings` 0/0/43/7, EN `passed_with_warnings` 0/0/45/7, Project `passed_with_warnings` 0/0/88/8 |
+| `editorial-quality` Release-Profil bestanden | ja | erledigt mit Warnungen | 2.9.1-Lauf nach Kapitel-8-Konsolidierung: DE `passed_with_warnings` 0/0/41/7, EN `passed_with_warnings` 0/0/43/7, Project `passed_with_warnings` 0/0/84/8 |
 | Markdown/PDF-Layout-Scan durchgeführt | ja | ersetzt durch 2.9.1-Qualitaetsdossier plus historische Scans | `gitbook-worker-2.9.1-delivery-review-v2.5.0.md`; alte Layoutscans bleiben Referenz fuer Restbefunde |
 | Generierte Markdown-Artefakte plausibel | ja | erledigt im Stichprobenscope | Kapitel 6, P.2, Kapitel 13.8, Titeldatum und 2.9.1-Rebuild geprueft |
 | Lokale Sichtprüfung der PDFs abgeschlossen | ja | technisch stichprobengeprueft mit Warnungen | `editorial-quality`, `pdftotext`/`pypdf`-Stichproben, Sichtpruefung Seite 73; volle Publisher-Sichtpruefung bleibt Final-Gate |
-| Build erzeugt keine stillschweigenden Metadatenänderungen | ja | erledigt im RC-Arbeitsstand | Datumswechsel auf 2026-05-05 bewusst in README/book.json nachgezogen |
+| Build erzeugt keine stillschweigenden Metadatenänderungen | ja | erledigt im RC-Arbeitsstand | Datumsstand 2026-05-11 bewusst in README/book.json/CFF/Zenodo synchronisiert |
 
 ---
 
