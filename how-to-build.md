@@ -1,7 +1,7 @@
 # How to build (DE/EN) – local + Docker
 
 This document is the **single source of truth** for build commands.
-It is aligned with `.vscode/launch.json` (configs: *Orchestrator (local) - German/English* and *Orchestrator (ERDA Smart Worker)*).
+It is aligned with `.vscode/launch.json` (configs: *Orchestrator (local) - German/English* and language-specific *Orchestrator (ERDA Smart Worker)* entries).
 
 ## Outputs
 
@@ -113,8 +113,10 @@ Use **Run and Debug** and pick one of:
 
 - `Orchestrator (local) - German`
 - `Orchestrator (local) - English`
-- `Orchestrator (ERDA Smart Worker)` (Docker-based)
-- `Orchestrator (ERDA Smart Worker - fresh rebuild)` (Docker-based, forces rebuild)
+- `Orchestrator (ERDA Smart Worker) - German` (Docker-based)
+- `Orchestrator (ERDA Smart Worker) - English` (Docker-based)
+- `Orchestrator (ERDA Smart Worker - fresh rebuild) - German` (Docker-based, forces rebuild)
+- `Orchestrator (ERDA Smart Worker - fresh rebuild) - English` (Docker-based, forces rebuild)
 
 These configurations already set `cwd`, `env`, and `args` correctly.
 
@@ -192,7 +194,7 @@ If you installed Python via Homebrew, you may have `python3.11` available; other
 ## Docker-based build (DE/EN)
 
 Docker builds run the orchestrator via `gitbook_worker.tools.docker.run_docker`.
-This matches the VS Code config **Orchestrator (ERDA Smart Worker)**.
+These commands match the language-specific VS Code configs **Orchestrator (ERDA Smart Worker) - German** and **Orchestrator (ERDA Smart Worker) - English**.
 
 ### 1) Prerequisites
 
@@ -229,12 +231,14 @@ Use this if Docker caches got stale:
 
 ```bash
 ./.venv/bin/python -m gitbook_worker.tools.docker.run_docker orchestrator --profile default --use-dynamic --manifest de/publish.yml --lang de --rebuild --no-cache
+./.venv/bin/python -m gitbook_worker.tools.docker.run_docker orchestrator --profile default --use-dynamic --manifest en/publish.yml --lang en --rebuild --no-cache
 ```
 
 Windows PowerShell equivalent:
 
 ```powershell
 .\.venv\Scripts\python.exe -m gitbook_worker.tools.docker.run_docker orchestrator --profile default --use-dynamic --manifest de/publish.yml --lang de --rebuild --no-cache
+.\.venv\Scripts\python.exe -m gitbook_worker.tools.docker.run_docker orchestrator --profile default --use-dynamic --manifest en/publish.yml --lang en --rebuild --no-cache
 ```
 
 ---
