@@ -71,7 +71,7 @@ Darüber hinaus integriert dieses Release konzeptionelle Papers und Umsetzungsba
 - DE/EN-Querverweise auf Appendix/Anhang P.1 in Kapitel 3.5, 4.3.5, 11.2 und 11.3 aktualisiert
 - DE/EN-Querverweise auf Appendix/Anhang P.2 in Kapitel 6 ergänzt
 - Vendorte gitbook_worker-Version auf 2.9.2 aktualisiert; DE/EN-Publish-Artefakte neu erzeugt und das integrierte `editorial-quality`-Gate mit `passed_with_warnings`, 0 `blocked` und 0 `fail` reproduziert
-- Finaler RC-Artefaktstand nach Kapitel-8-Stresstest-Anhängen (8.A–8.D), Säulen-Vertiefung, §10.2.1 und ERDA-Buch-Namenspass: DE-PDF 858 Seiten / 4.403.173 Bytes; EN-PDF 826 Seiten / 4.421.247 Bytes; `editorial-quality` weiterhin `passed_with_warnings`, 0 `blocked`, 0 `fail`
+- Finaler RC-Artefaktstand nach Kapitel-8-Stresstest-Anhängen (8.A–8.D), Säulen-Vertiefung, §10.2.1, ERDA-Buch-Namenspass und §3.3.5-Checklist-Fix: DE-PDF 858 Seiten / 4.403.971 Bytes; EN-PDF 826 Seiten / 4.421.682 Bytes; `editorial-quality` weiterhin `passed_with_warnings`, 0 `blocked`, 0 `fail`
 - Quellen-/Link-Gate für den v2.5-Finalscope per gitbook_worker-Dry-run, Link-Audit, Sources-Export und manueller Webprüfung dokumentiert
 
 ---

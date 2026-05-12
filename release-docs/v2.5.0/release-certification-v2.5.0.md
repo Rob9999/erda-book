@@ -135,9 +135,9 @@ Freigabeaussage EN:
 | Artefakt / Prüfung | Ergebnis | Nachweis | Bemerkung |
 |---|---|---|---|
 | DE Publish Markdown | erzeugt | `de/publish/das-erda-buch.md` | Finaler RC-Artefaktstand 2026-05-12 mit gitbook_worker 2.9.2, Orchestrator: `converter=ok`, `publisher=ok`. |
-| DE PDF | erzeugt | `de/publish/das-erda-buch.pdf` | 858 Seiten, 4.403.173 Bytes, CreationDate 2026-05-12 13:05 MESZ. |
+| DE PDF | erzeugt | `de/publish/das-erda-buch.pdf` | 858 Seiten, 4.403.971 Bytes, CreationDate 2026-05-12 22:08 MESZ. |
 | EN Publish Markdown | erzeugt | `en/publish/the-erda-book.md` | Finaler RC-Artefaktstand 2026-05-12 mit gitbook_worker 2.9.2, Orchestrator: `converter=ok`, `publisher=ok`. |
-| EN PDF | erzeugt | `en/publish/the-erda-book.pdf` | 826 Seiten, 4.421.247 Bytes, CreationDate 2026-05-12 12:54 MESZ. |
+| EN PDF | erzeugt | `en/publish/the-erda-book.pdf` | 826 Seiten, 4.421.682 Bytes, CreationDate 2026-05-12 22:00 MESZ. |
 | PDF-Fonts: DejaVu | bestanden | `pdffonts` DE/EN, Qualitaetsdossier | DejaVuSerif, DejaVuSansMono und Varianten eingebettet. |
 | PDF-Fonts: Twemoji Mozilla | bestanden mit Textlayer-Warnung | `pdffonts` DE/EN, `editorial-quality` | TwemojiMozilla eingebettet; `pypdf`-Textlayer-Replacements bleiben als Warnung sichtbar, ohne Sichtbefund kein harter Font-/Glyphenfehler. |
 | PDF-Fonts: ERDA CC-BY CJK | bestanden im Release-Scope | `pdffonts` / Publisher-Einschaetzung | CJK-Fonts decken den v2.5.0-Scope ab; echte Missing-character-Logsignale bleiben bei Bedarf separat zu pruefen. |
@@ -204,8 +204,8 @@ Diese Teilzertifizierung dokumentiert den Arbeitsstand zu A6 aus der Anhang-M-Be
 | Prüfrolle | Publisher mit Redakteur:in-Zuarbeit |
 | DE Build | `converter=ok`, `publisher=ok`, `editorial-quality=passed_with_warnings` |
 | EN Build | `converter=ok`, `publisher=ok`, `editorial-quality=passed_with_warnings` |
-| DE PDF | 858 Seiten, 4.403.173 Bytes, CreationDate 2026-05-12 13:05 MESZ |
-| EN PDF | 826 Seiten, 4.421.247 Bytes, CreationDate 2026-05-12 12:54 MESZ |
+| DE PDF | 858 Seiten, 4.403.971 Bytes, CreationDate 2026-05-12 22:08 MESZ |
+| EN PDF | 826 Seiten, 4.421.682 Bytes, CreationDate 2026-05-12 22:00 MESZ |
 | Fontbefund | DejaVu, TwemojiMozilla und ERDACCbyCJK-Regular in DE/EN eingebettet; Textlayer-Replacements als Warnung, nicht als harter Fontfail |
 | Ergebnis | erfuellt mit dokumentierten Warnungen; vendortes gitbook_worker 2.9.2 installiert, DE/EN-Artefakte neu erzeugt und Qualitaetsdossier reproduziert |
 

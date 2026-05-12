@@ -86,8 +86,8 @@ Ein Final-Release darf erst gesetzt werden, wenn alle Muss-Gates geschlossen sin
 
 | Prüfschritt | Muss | Status | Nachweis / Datei |
 |---|---:|---|---|
-| DE-Publish-Lauf erfolgreich | ja | erledigt finaler RC-Artefaktstand | Orchestrator 2026-05-12 mit gitbook_worker 2.9.2 nach Kapitel-8-Anhangserweiterung (8.A–8.D), §10.2.1 und ERDA-Buch-Namenspass: `converter=ok`, `publisher=ok`; PDF 858 Seiten, 4.403.173 Bytes |
-| EN-Publish-Lauf erfolgreich | ja | erledigt finaler RC-Artefaktstand | Orchestrator 2026-05-12 mit gitbook_worker 2.9.2 nach Kapitel-8-Anhangserweiterung (8.A–8.D), §10.2.1 und ERDA-Buch-Namenspass: `converter=ok`, `publisher=ok`; PDF 826 Seiten, 4.421.247 Bytes |
+| DE-Publish-Lauf erfolgreich | ja | erledigt finaler RC-Artefaktstand | Orchestrator 2026-05-12 mit gitbook_worker 2.9.2 nach Kapitel-8-Anhangserweiterung (8.A–8.D), §10.2.1, ERDA-Buch-Namenspass und §3.3.5-Checklist-Fix: `converter=ok`, `publisher=ok`; PDF 858 Seiten, 4.403.971 Bytes |
+| EN-Publish-Lauf erfolgreich | ja | erledigt finaler RC-Artefaktstand | Orchestrator 2026-05-12 mit gitbook_worker 2.9.2 nach Kapitel-8-Anhangserweiterung (8.A–8.D), §10.2.1, ERDA-Buch-Namenspass und §3.3.5-Checklist-Fix: `converter=ok`, `publisher=ok`; PDF 826 Seiten, 4.421.682 Bytes |
 | PDF-Fonts geprüft: DejaVu, Twemoji Mozilla, ERDA CC-BY CJK | ja | erledigt im v2.5.0-Scope mit 2.9.2-Warnungen | DejaVu/Twemoji/ERDACCbyCJK-Regular eingebettet; Textlayer-Replacement-Signale bleiben Warnung, kein harter Fontblocker ohne Sichtbefund |
 | `editorial-quality` Release-Profil bestanden | ja | erledigt mit Warnungen | 2.9.2-Lauf nach ERDA-Buch-Namenspass: DE `passed_with_warnings` 0/0/35/7, EN `passed_with_warnings` 0/0/40/7, Project `passed_with_warnings` 0/0/75/8 |
 | Markdown/PDF-Layout-Scan durchgeführt | ja | ersetzt durch 2.9.2-Qualitaetsdossier plus historische Scans | `gitbook-worker-2.9.2-delivery-review-v2.5.0.md`; alte Layoutscans bleiben Referenz fuer Restbefunde |
