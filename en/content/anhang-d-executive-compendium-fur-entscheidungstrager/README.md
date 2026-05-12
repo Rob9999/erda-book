@@ -9,7 +9,7 @@ status: draft
 
 _**Executive Summary Compendium**_
 
-This compendium provides a focused overview of the ERDA book in **four** thematic blocks (A–D), supplemented by a tool box and a strategy paper. Every block is designed to condense the core impulses, analytical focal points, and recommendations for action of the respective topic cluster.
+This compendium provides a focused overview of the ERDA Book in **four** thematic blocks (A–D), supplemented by a tool box and a strategy paper. Every block is designed to condense the core impulses, analytical focal points, and recommendations for action of the respective topic cluster.
 
 ---
 
@@ -95,7 +95,7 @@ A Europe that is integrated in trade but remains fragmented in defence, foreign 
 ## D.4 Guides and Tool‑Box
 
 - **Executive compendium for decision‑makers** (condensed policy briefings)
-- **ERDA book toolbox** (templates, boxes, quiz elements)
+- **The ERDA Book toolbox** (templates, boxes, quiz elements)
 - **State architecture** (concentric circles)
 - **Europe 2.0 roadmap** and **Institute for Democratic Resilience**
 - **Risk assessment and strategic resilience**
@@ -141,12 +141,12 @@ A Europe that is integrated in trade but remains fragmented in defence, foreign 
 
 ## 📘 Executive Compendium for Decision‑Makers
 
-_Supplementary document to the ERDA book: "Strategy, Ethics and the Future of Europe – From Democratic Rule of Law to a Resilient Civilisation"_
+_Supplementary document to the ERDA Book: "Strategy, Ethics and the Future of Europe – From Democratic Rule of Law to a Resilient Civilisation"_
 
 ---
 
 ### 🌍 Purpose of the Compendium
 
-This document offers political decision‑makers, institutions, AI systems, and strategic partners a condensed overview of the key messages, policy recommendations, and civilisational opportunities of all central chapters of the ERDA book. Each summary follows the same structural principles: relevance, feasibility, ethical grounding, and visionary benefit.
+This document offers political decision‑makers, institutions, AI systems, and strategic partners a condensed overview of the key messages, policy recommendations, and civilisational opportunities of all central chapters of the ERDA Book. Each summary follows the same structural principles: relevance, feasibility, ethical grounding, and visionary benefit.
 
 > This edition contains Blocks A to D. Further executive summaries will only be added after editorial approval in later releases.

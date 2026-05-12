@@ -12,7 +12,7 @@ Autor und Herausgeber: Robert Alexander Massinger.
 
 Autor-E-Mail: [robert.alexander.massinger@outlook.de](mailto:robert.alexander.massinger@outlook.de)
 
-Redaktion/Lektorat: ERDA Buch Redaktion (LLM-gestützte sprachliche Überarbeitung unter redaktioneller Kontrolle).
+Redaktion/Lektorat: ERDA-Buch-Redaktion (LLM-gestützte sprachliche Überarbeitung unter redaktioneller Kontrolle).
 
 ---
 
@@ -39,7 +39,7 @@ Die DejaVu-Familie bietet exzellente **Unicode-Abdeckung** für europäische Spr
 **ERDA CC-BY CJK**
 
 - **Lizenz:** CC BY 4.0
-- **Quelle:** Eigenentwicklung des ERDA-Projekts
+- **Quelle:** Eigenentwicklung des ERDA-Buchprojekts
 - **Verwendung:** Ergänzung für CJK-Zeichen (Chinesisch, Japanisch, Koreanisch)
 - **Rechtlicher Hinweis:** Namensnennung erforderlich; kommerzielle Nutzung erlaubt.
 
@@ -160,7 +160,7 @@ Dieses Buch wäre ohne die **Open-Source-Community** nicht möglich gewesen. Bes
 - **Bitstream, Inc.** und den **DejaVu-Entwicklern** für die exzellente Schriftfamilie
 - **Twitter, Inc.** und **Mozilla** für das Twemoji-Projekt
 - Den **TeX Live**-, **Pandoc**- und **Python**-Communities
-- Allen Beitragenden des ERDA-Projekts, die sich dem **DCO** verpflichtet haben
+- Allen Beitragenden des ERDA-Buchprojekts, die sich dem **DCO** verpflichtet haben
 
 ---
 
@@ -175,7 +175,7 @@ Dieses Buch wäre ohne die **Open-Source-Community** nicht möglich gewesen. Bes
 
 ## L.8 Hinweis zur Pflege dieses Kolophons
 
-Dieses Kolophon ist Teil der **Attribution-Hierarchie** des ERDA-Projekts:
+Dieses Kolophon ist Teil der **Attribution-Hierarchie** des ERDA-Buchprojekts:
 
 - **`ATTRIBUTION.md`** im Repository = die maschinenlesbare Primärquelle für Drittinhalte, Quellen, Versionen und Lizenzen.
 - **Anhang L** (dieses Dokument) = die leserfreundliche Aufbereitung für die Buch- und PDF-Fassung.

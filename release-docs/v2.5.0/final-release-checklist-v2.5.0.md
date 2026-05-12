@@ -2,8 +2,8 @@
 
 **Release:** v2.5.0  
 **Release name:** Democratic Knowledge  
-**Stand:** 2026-05-11
-**Status:** Final-Gate-Stand nach gitbook_worker 2.9.1 dokumentiert; Tag-/Publisher-Freigabe noch offen
+**Stand:** 2026-05-12
+**Status:** Final-Gate-Stand nach gitbook_worker 2.9.2 dokumentiert; Tag-/Publisher-Freigabe noch offen
 **Arbeitsrolle:** Redakteur:in, mit Zuarbeit Writer, Editor, Lektor, Native gb-en Translator und Publisher
 
 ---
@@ -49,7 +49,7 @@ Ein Final-Release darf erst gesetzt werden, wenn alle Muss-Gates geschlossen sin
 | `gitbook_worker.tools.quality.link_audit` getestet | ja | erledigt | P.2-Scope und v2.5-Finalscope; siehe `source-link-check-civitas-v2.5.0.md`, `source-review-final-gate-2026-05-05.md` |
 | `gitbook_worker.tools.quality.sources` getestet | ja | erledigt | P.2-Scope und v2.5-Finalscope |
 | `gitbook_worker.tools.quality.ai_references` mindestens im `--dry-run` geprüft | bedingt | erledigt | Finalscope-Dry-run: 35 validiert, 0 failed, 0 rate-limited |
-| Externe Links und lokale Medien geprüft | ja | erledigt im Finalscope | Link-Audit: 0 broken, 2 good DOI-links, 0 image issues |
+| Externe Links, lokale Medien und Buch-interne Markdown-Referenzen geprüft | ja | erledigt im Finalscope plus Namenspass | Link-Audit: 0 broken, 2 good DOI-links, 0 image issues; lokaler Markdown-Linkcheck 2026-05-12: 560 Buchlinks geprüft, 0 fehlende Ziele |
 | Quellenabschnitte extrahiert und redaktionell stichproben-/risikobasiert geprüft | ja | erledigt im Finalscope | Sources-Export + manuelle Webprüfung |
 | Heikle Zahlen, Zeitangaben und geopolitische Aussagen gegen offizielle/verlässliche Quellen geprüft | ja | erledigt im Finalscope | EU-Solar, Social Climate Fund, Eurostat, Gas Storage und Zenodo-DOIs manuell bestätigt |
 | AI-Vorschläge nur nach menschlicher Prüfung übernommen | ja | erledigt im Prioritaetsscope | `source-review-v2.5-priority-references-2026-05-05.md` |
@@ -62,7 +62,7 @@ Ein Final-Release darf erst gesetzt werden, wenn alle Muss-Gates geschlossen sin
 |---|---:|---|---|
 | DE als Quelle der Wahrheit final gelesen | ja | erfüllt mit Restrisiko | `redaktioneller-durchgang-de-v2.5.0.md`, Finalscope-Prüfung 2026-05-05 |
 | Neue v2.5-Inhalte in Kapitelstruktur und SUMMARY konsistent | ja | erledigt | DE SUMMARY enthält 13.8, Anhang M, Anhang P.1/P.2 |
-| Querverweise auf Anhang M, Anhang P.1, Anhang P.2 und v2.5-Begriffe geprüft | ja | erledigt im Finalscope | SUMMARY, Kapitel 6, P-Anhang und Release Notes |
+| Querverweise auf Anhang M, Anhang P.1, Anhang P.2, v2.5-Begriffe und ERDA-Buch-Namensform geprüft | ja | erledigt im Finalscope plus Namenspass | SUMMARY, Kapitel 6, P-Anhang, Release Notes; Namens-/Linkcheck 2026-05-12 |
 | Mini-Wording-Set und Glossar konsistent | ja | erfüllt mit Restrisiko | Keine neue Blockade; Feinschliff bleibt v2.6-/Backlog-Thema |
 | Ethik-vor-Strategie-Pass auf unbeabsichtigte Schärfen geprüft | ja | erfüllt mit Restrisiko | Direkte strategische Sprache bleibt bewusst; Rechts-/Konformitätsclaims für CIVITAS separat A4-geprüft |
 | Keine offenen Arbeitsmarker in Release-relevanten Inhalten | ja | erledigt | DE `TODO/FIXME/TBD`-Treffer waren spanisches Wort `Todo`, keine Arbeitsmarker; Link-Audit Finalscope: 0 TODOs |
@@ -86,12 +86,12 @@ Ein Final-Release darf erst gesetzt werden, wenn alle Muss-Gates geschlossen sin
 
 | Prüfschritt | Muss | Status | Nachweis / Datei |
 |---|---:|---|---|
-| DE-Publish-Lauf erfolgreich | ja | erledigt finaler RC-Artefaktstand | Orchestrator 2026-05-11 mit gitbook_worker 2.9.1 nach Kapitel-8-Anhangserweiterung (8.A–8.D) und §10.2.1: `converter=ok`, `publisher=ok`; PDF 880 Seiten, 4.410.294 Bytes |
-| EN-Publish-Lauf erfolgreich | ja | erledigt finaler RC-Artefaktstand | Orchestrator 2026-05-11 mit gitbook_worker 2.9.1 nach Kapitel-8-Anhangserweiterung (8.A–8.D) und §10.2.1: `converter=ok`, `publisher=ok`; PDF 837 Seiten, 4.423.739 Bytes |
-| PDF-Fonts geprüft: DejaVu, Twemoji Mozilla, ERDA CC-BY CJK | ja | erledigt im v2.5.0-Scope mit 2.9.1-Warnungen | DejaVu/Twemoji/ERDACCbyCJK-Regular eingebettet; Textlayer-Replacement-Signale sind seit 2.9.1 Warnung, kein harter Fontblocker ohne Sichtbefund |
-| `editorial-quality` Release-Profil bestanden | ja | erledigt mit Warnungen | 2.9.1-Lauf nach Kapitel-8-Konsolidierung: DE `passed_with_warnings` 0/0/41/7, EN `passed_with_warnings` 0/0/43/7, Project `passed_with_warnings` 0/0/84/8 |
-| Markdown/PDF-Layout-Scan durchgeführt | ja | ersetzt durch 2.9.1-Qualitaetsdossier plus historische Scans | `gitbook-worker-2.9.1-delivery-review-v2.5.0.md`; alte Layoutscans bleiben Referenz fuer Restbefunde |
-| Generierte Markdown-Artefakte plausibel | ja | erledigt im Stichprobenscope | Kapitel 6, P.2, Kapitel 13.8, Titeldatum und 2.9.1-Rebuild geprueft |
+| DE-Publish-Lauf erfolgreich | ja | erledigt finaler RC-Artefaktstand | Orchestrator 2026-05-12 mit gitbook_worker 2.9.2 nach Kapitel-8-Anhangserweiterung (8.A–8.D), §10.2.1 und ERDA-Buch-Namenspass: `converter=ok`, `publisher=ok`; PDF 858 Seiten, 4.403.173 Bytes |
+| EN-Publish-Lauf erfolgreich | ja | erledigt finaler RC-Artefaktstand | Orchestrator 2026-05-12 mit gitbook_worker 2.9.2 nach Kapitel-8-Anhangserweiterung (8.A–8.D), §10.2.1 und ERDA-Buch-Namenspass: `converter=ok`, `publisher=ok`; PDF 826 Seiten, 4.421.247 Bytes |
+| PDF-Fonts geprüft: DejaVu, Twemoji Mozilla, ERDA CC-BY CJK | ja | erledigt im v2.5.0-Scope mit 2.9.2-Warnungen | DejaVu/Twemoji/ERDACCbyCJK-Regular eingebettet; Textlayer-Replacement-Signale bleiben Warnung, kein harter Fontblocker ohne Sichtbefund |
+| `editorial-quality` Release-Profil bestanden | ja | erledigt mit Warnungen | 2.9.2-Lauf nach ERDA-Buch-Namenspass: DE `passed_with_warnings` 0/0/35/7, EN `passed_with_warnings` 0/0/40/7, Project `passed_with_warnings` 0/0/75/8 |
+| Markdown/PDF-Layout-Scan durchgeführt | ja | ersetzt durch 2.9.2-Qualitaetsdossier plus historische Scans | `gitbook-worker-2.9.2-delivery-review-v2.5.0.md`; alte Layoutscans bleiben Referenz fuer Restbefunde |
+| Generierte Markdown-Artefakte plausibel | ja | erledigt im Stichprobenscope | Kapitel 6, P.2, Kapitel 13.8, Titeldatum und 2.9.2-Rebuild geprueft |
 | Lokale Sichtprüfung der PDFs abgeschlossen | ja | technisch stichprobengeprueft mit Warnungen | `editorial-quality`, `pdftotext`/`pypdf`-Stichproben, Sichtpruefung Seite 73; volle Publisher-Sichtpruefung bleibt Final-Gate |
 | Build erzeugt keine stillschweigenden Metadatenänderungen | ja | erledigt im RC-Arbeitsstand | Datumsstand 2026-05-11 bewusst in README/book.json/CFF/Zenodo synchronisiert |
 
@@ -116,4 +116,4 @@ Ein Final-Release darf erst gesetzt werden, wenn alle Muss-Gates geschlossen sin
 - DE ist die Quelle der Wahrheit; EN wird synchronisiert, aber ohne native finale Vollfreigabe als Draft/Review ausgeliefert.
 - Für den v2.5-Finalscope gelten DOI/Zenodo, offizielle EU-/Eurostat-Quellen und primäre Rechts-/Programmquellen als maßgeblich.
 - Das AI-Referenztool wurde als `--dry-run`/Precheck genutzt; keine AI-Aussage wird ohne manuelle Prüfung übernommen.
-- Offen bleiben vor Tag/Release: Publisher-Sichtprüfung der 2.9.1-PDFs, finaler Worktree-Endcheck unmittelbar vor Commit/Tag, bewusste Einordnung der 84 Projektwarnungen und Tag-Freigabe.
+- Offen bleiben vor Tag/Release: Publisher-Sichtprüfung der 2.9.2-PDFs, finaler Worktree-Endcheck unmittelbar vor Commit/Tag, bewusste Einordnung der 75 Projektwarnungen und Tag-Freigabe.

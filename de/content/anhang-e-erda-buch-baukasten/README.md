@@ -2,13 +2,13 @@
 content_id: erda.book.anhang.e.erda.buch.baukasten.readme
 content_lang: de
 ---
-# Anhang E: ERDA Buch Baukasten
+# Anhang E: ERDA-Buch-Baukasten
 
-_**ERDA Buch Baukasten**_
+_**ERDA-Buch-Baukasten**_
 
 ## E.1 Einleitung
 
-Der ERDA Buch Baukasten bündelt wiederverwendbare Bausteine für Strukturierung, Layout, Interaktivität und Leseerlebnis des ERDA-Buches. Er dient Autor:innen, Redakteur:innen und Kooperations-KIs als Werkzeugkasten, um neue Kapitel konsistent, leserfreundlich und im Geist der ERDA-Vision zu gestalten.
+Der ERDA-Buch-Baukasten bündelt wiederverwendbare Bausteine für Strukturierung, Layout, Interaktivität und Leseerlebnis des ERDA-Buches. Er dient Autor:innen, Redakteur:innen und Kooperations-KIs als Werkzeugkasten, um neue Kapitel konsistent, leserfreundlich und im Geist der ERDA-Vision zu gestalten.
 
 ## E.2 Überblick über die Bausteine
 

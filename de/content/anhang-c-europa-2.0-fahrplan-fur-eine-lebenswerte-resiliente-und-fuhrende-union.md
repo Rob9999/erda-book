@@ -188,4 +188,4 @@ Eine nachhaltige Transformation Europas hin zu einem technologisch führenden, d
 
 ### Autorenschaft
 
-Erstellt im April 2025 durch die **ERDA Buch Redaktion** (LLM-gestützte sprachliche Überarbeitung unter redaktioneller Kontrolle). Autor und Herausgeber sind im **Kolophon (Anhang L)** ausgewiesen.
+Erstellt im April 2025 durch die **ERDA-Buch-Redaktion** (LLM-gestützte sprachliche Überarbeitung unter redaktioneller Kontrolle). Autor und Herausgeber sind im **Kolophon (Anhang L)** ausgewiesen.

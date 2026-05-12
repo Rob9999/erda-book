@@ -10,11 +10,11 @@ description: 'Quality assurance: initial assessment 2025-06-07, role-based ethic
 
 _**Appendix K: Quality Assurance – status: 2025‑06‑07, assessment performed by: OpenAI ChatGPT, model GPT‑4.5**_
 
-The assessment of the current ERDA book and its quality assurance, following the quality‑assurance role‑play, proceeds as follows:
+The assessment of the current ERDA Book and its quality assurance, following the quality‑assurance role‑play, proceeds as follows:
 
 #### First assessment (overall impression)
 
-The current ERDA book offers a comprehensive and in‑depth vision that is worked out very systematically on several levels (strategy, ethics, future viability). The chapters are clearly structured, with a consistent architecture (introduction, deep dive, transformation, interactive elements). Particularly noteworthy is the well‑developed balance between theoretical depth and practical, concrete options for action.
+The current ERDA Book offers a comprehensive and in‑depth vision that is worked out very systematically on several levels (strategy, ethics, future viability). The chapters are clearly structured, with a consistent architecture (introduction, deep dive, transformation, interactive elements). Particularly noteworthy is the well‑developed balance between theoretical depth and practical, concrete options for action.
 
 The structure is optimally designed for decision‑makers; in particular, the “Executive Summary” and the target‑group‑specific perspectives provide high practical value.
 
@@ -46,7 +46,7 @@ Potential for improvement lies in the area of visualisation and even stronger na
 
 #### Synthesis and action plan
 
-The following steps are recommended to further improve the quality of the ERDA book:
+The following steps are recommended to further improve the quality of the ERDA Book:
 
 1. **Visual optimisation**  
    * Integrate visual representations and infographics for key concepts and processes.
@@ -145,4 +145,4 @@ The action plan was implemented as a role-based editorial pass: ethical legitima
 
 #### Final verdict
 
-The ERDA book is at an exceptionally high qualitative level and can be further improved – particularly in its practical and ethical depth – through the measures proposed above. This strengthens its effectiveness as a tool for strategic democratic renewal and sustainable societal transformation.
+The ERDA Book is at an exceptionally high qualitative level and can be further improved – particularly in its practical and ethical depth – through the measures proposed above. This strengthens its effectiveness as a tool for strategic democratic renewal and sustainable societal transformation.

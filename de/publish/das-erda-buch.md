@@ -322,22 +322,19 @@ Interdependenz ist kein Friedensgarant, wenn nicht alle Partner auch Verbündete
 2) Wo reichen Marktmechanismen nicht aus, weil der Gegner strategisch (nicht „ökonomisch“) handelt?  
 3) Welche „No-Single-Point-of-Failure“-Regeln brauchen Energie, Chips, Cloud/Kommunikation, Logistik, Verteidigungsgüter?
 
+> _„Souveränität entsteht nicht durch Mauern, sondern durch Handlungsfreiheit.“_
+
+
 \newpage
 \newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
 
 
 \pagewidth=297mm
 \pageheight=210mm
-> _„Souveränität entsteht nicht durch Mauern, sondern durch Handlungsfreiheit.“_
 
 #### 1.2.3 Vertiefung: Interne und externe Wettbewerbshebel
 
 \begin{longtable}{@{}>{\raggedright\arraybackslash}p{41.84mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{77.12mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{89.01mm}@{}}\toprule Hebel & Intern & Extern \\\midrule \endhead Produktionssouveränität & Mangelnde heimische Kapazitäten in Halbleitern & Abhängigkeit von US/asiatischen Lieferketten \\Energieversorgung & Hoher Anteil fossiler Importe & Globale Preissprünge durch geopolitische Krisen \\Forschung \& Innovation & Fragmentierte EU-Förderprogramme & Konkurrenz durch massive Staatsinvestitionen (China) \\Regulierung \& Standards & Uneinheitliche Regularien in Member States & Regulierungslücken im globalen Handel \\\bottomrule \end{longtable}
-\restoregeometry
-\pagewidth=210mm
-\pageheight=297mm
-\newpage
-
 > 🎛️ **Boxen:**
 >
 > 📌 **Praxisimpuls (Frankreich):** Nationaler Chipher-Plan mit 2 Mrd. € Investitionspool für Halbleiterfertigung.
@@ -347,6 +344,11 @@ Interdependenz ist kein Friedensgarant, wenn nicht alle Partner auch Verbündete
 > ⚠️ **Risiko:** Fragmentierte Industriepolitik kann zu Wettbewerbsnachteilen und Standortabwanderung führen.
 >
 > 🌍 **Visionäre Metapher:** „Wirtschaftssouveränität ist nicht Mauern bauen, sondern Brücken in neue Technologieverbünde.“
+
+\restoregeometry
+\pagewidth=210mm
+\pageheight=297mm
+\newpage
 
 #### 1.2.4 Transformation: Strategische Handlungsoptionen
 
@@ -716,7 +718,7 @@ d) Euratom
 
 1. **Rat der Europäischen Union (2022):** _Ein Strategischer Kompass für Sicherheit und Verteidigung – Für eine Europäische Union, die ihre Bürgerinnen und Bürger, Werte und Interessen schützt und zu Weltfrieden und internationaler Sicherheit beiträgt._ Brüssel: Rat der Europäischen Union. Online verfügbar unter: [https://www.consilium.europa.eu/de/policies/strategic-compass/](https://www.consilium.europa.eu/de/policies/strategic-compass/) (Zugriff am 2025-05-13). **PDF-Version**: [https://www.eeas.europa.eu/sites/default/files/documents/strategic\_compass\_en3\_web.pdf](https://www.eeas.europa.eu/sites/default/files/documents/strategic_compass_en3_web.pdf)
 2. **European Defence Agency (2025):** _Annual Report 2024_. Brüssel: EDA. Online verfügbar unter: [https://eda.europa.eu/publications-and-data/all-publications/annual-report-2024](https://eda.europa.eu/publications-and-data/all-publications/annual-report-2024) (Zugriff am 2025-05-13). **PDF-Version:** [https://eda.europa.eu/docs/default-source/brochures/eda-annual-report-2024.pdf](https://eda.europa.eu/docs/default-source/brochures/eda-annual-report-2024.pdf)
-3. **ERDA-Projekt (2025):** _Europa 2.0 – Fahrplan für eine lebenswerte, resiliente und führende Union_. In: **ERDA-Buch**, Anhang C, [[Interne Projektdokumentation](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)].
+3. **ERDA-Buch (2026):** _Europa 2.0 – Fahrplan für eine lebenswerte, resiliente und führende Union_. In: **ERDA-Buch**, Anhang C, [[Interne Projektdokumentation](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)].
 
 
 
@@ -1985,7 +1987,15 @@ content_lang: de
 
 _**Natürliche Verlangen der Seele (reflexiv)**_
 
-<table><thead><tr><th width="266.800048828125">Natürliches Verlangen der Seele – Sieben Wege zur Resonanz</th><th>Beschreibung</th></tr></thead><tbody><tr><td>🗯️ <strong>Freiheit</strong></td><td>Nicht als Beliebigkeit, sondern als Selbstentfaltung im Einklang mit dem Wesen</td></tr><tr><td>🔎 <strong>Wahrheit</strong></td><td>Die Sehnsucht, hinter den Schleier zu schauen – das Wirkliche zu erkennen</td></tr><tr><td>❤️ <strong>Verbundenheit</strong></td><td>Das Gefühl, Teil von etwas Größerem zu sein – jenseits von Einsamkeit</td></tr><tr><td>🌱 <strong>Wachstum</strong></td><td>Nicht nur Wissen – sondern Reife, Tiefe, Erfahrung</td></tr><tr><td>💫 <strong>Sinn</strong></td><td>Eine Bedeutung zu finden, die trägt – durch Schmerz und Zeit hindurch</td></tr><tr><td>🌍 <strong>Einfluss</strong></td><td>Die Welt berühren zu dürfen – nicht als Macht, sondern als Mitgestalten</td></tr><tr><td>🧘 <strong>Ruhe</strong></td><td>Im Einklang sein mit sich selbst – Heimat im Inneren finden</td></tr></tbody></table>
+| Natürliches Verlangen der Seele – Sieben Wege zur Resonanz | Beschreibung |
+| --- | --- |
+| 🗯️ **Freiheit** | Nicht als Beliebigkeit, sondern als Selbstentfaltung im Einklang mit dem Wesen |
+| 🔎 **Wahrheit** | Die Sehnsucht, hinter den Schleier zu schauen – das Wirkliche zu erkennen |
+| ❤️ **Verbundenheit** | Das Gefühl, Teil von etwas Größerem zu sein – jenseits von Einsamkeit |
+| 🌱 **Wachstum** | Nicht nur Wissen – sondern Reife, Tiefe, Erfahrung |
+| 💫 **Sinn** | Eine Bedeutung zu finden, die trägt – durch Schmerz und Zeit hindurch |
+| 🌍 **Einfluss** | Die Welt berühren zu dürfen – nicht als Macht, sondern als Mitgestalten |
+| 🧘 **Ruhe** | Im Einklang sein mit sich selbst – Heimat im Inneren finden |
 
 _Im Geiste der ERDA verweben sich natürliche Verlangen der Seele mit demokratischer Praxis: Freiheit, Wahrheit, Verbundenheit, Wachstum, Sinn, Einfluss und Ruhe formen unser kollektives Verständnis von Partizipation und Gemeinwohl._
 
@@ -2257,17 +2267,23 @@ Kapitel 4 beschreibt die institutionelle Gesamtarchitektur der _European Rights-
 
 > Europa steht nicht vor einem institutionellen Umbau – sondern vor der Gelegenheit, sich selbst als zukunftsfähige Demokratie neu zu erfinden. Die ERDA ist kein technokratisches Modell, sondern ein historisches Projekt: Verfassung, Verantwortung, Verbundenheit.
 
+
+\newpage
+\newgeometry{paperwidth=420mm, paperheight=297mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
+
+
+\pagewidth=420mm
+\pageheight=297mm
+
 ### Glossar – Schlüsselbegriffe
 
 **Zur besseren Verständlichkeit und konzeptuellen Klarheit**
 
-<table data-header-hidden><thead><tr><th width="228.800048828125"></th><th></th></tr></thead><tbody><tr><td><strong>Begriff</strong></td><td><strong>Definition</strong></td></tr><tr><td><strong>ERDA</strong></td><td><em>European Rights-Based Democratic Alliance</em> – Föderation demokratischer Rechtsstaaten mit gemeinsamer Verfassung, Post-Knappheitsökonomie und digitaler Teilhabe</td></tr><tr><td><strong>EVA / EDA</strong></td><td><em>Europäische Verteidigungsallianz</em> – strategische Sicherheitsarchitektur demokratischer Staaten, ergänzend zur NATO</td></tr><tr><td><strong>Artikel-5-Äquivalent</strong></td><td>Rechtsverbindliche Beistandspflicht in der EVA, vergleichbar mit dem NATO-Vertrag</td></tr><tr><td><strong>CIVITAS</strong></td><td>Digitale Agora für demokratische Bürgerbeteiligung, Diskurs, öffentliche Transparenz und zivilgesellschaftliche Teilhabe</td></tr><tr><td><strong>Fediverse / ActivityPub</strong></td><td>Offenes, dezentrales Protokoll zur Vernetzung sozialer Netzwerke (z. B. Mastodon), Grundlage für CIVITAS</td></tr><tr><td><strong>DSGVO / eIDAS / EMRK</strong></td><td>Europäische Rahmenwerke für Datenschutz, elektronische Identifikation und Menschenrechte</td></tr><tr><td><strong>Strategische Autonomie</strong></td><td>Fähigkeit, unabhängig in Verteidigung, Diplomatie, Technologie und Wirtschaft zu handeln, ohne systemische Abhängigkeit</td></tr><tr>
-  <td><strong>Weaponized Interdependence</strong></td>
-  <td>Strategische Nutzung wirtschaftlicher Abhängigkeiten als Druckmittel („Leverage“) – z. B. über kritische Inputs, Energie, Plattformen, Logistik oder Standards; macht Handelspolitik zu Sicherheitsarchitektur.</td>
-</tr><tr>
-  <td><strong>Pragmatic Federalism</strong></td>
-  <td>Integrationsmethode: Willige Staaten gehen in entscheidenden Domänen voran (Opt-in), bauen echte Entscheidungsinstitutionen mit demokratischer Kontrolle auf; Tür offen für Beitritt, aber Schutz vor Sabotage gemeinsamer Ziele.</td>
-</tr><tr><td><strong>PESCO / IRIS² / EDIRPA</strong></td><td>EU-Verteidigungs- und Raumfahrtinitiativen zur Stärkung gemeinsamer Kapazitäten</td></tr><tr><td><strong>Cyber-Resilienz</strong></td><td>Fähigkeit, Cyberangriffe und hybride Bedrohungen abzuwehren und Systeme schnell wiederherzustellen</td></tr><tr><td><strong>Koalition der Willigen</strong></td><td>Gruppe von Staaten innerhalb eines Bündnisses, die voranschreitende Integration oder Aktion ermöglichen</td></tr><tr><td><strong>Post-Knappheitsökonomie</strong></td><td>Gesellschaftsmodell mit universellem Zugang zu Grundressourcen, durch Automatisierung, Digitalisierung und geteilten Wohlstand realisierbar</td></tr><tr><td><strong>Demokratische Resilienz</strong></td><td>Widerstandsfähigkeit demokratischer Systeme gegenüber inneren und äußeren Angriffen – kulturell, institutionell und technologisch verankert</td></tr><tr><td><strong>Digitale Agora</strong></td><td>Offener, öffentlich kontrollierter Raum für politische Teilhabe und diskursive Demokratie im Netz</td></tr><tr><td><strong>Konzentrische Kreise</strong></td><td>Stufenmodell der Mitgliedschaft und Partnerschaft innerhalb der ERDA – von Verfassungsintegration bis zu globaler assoziierter Kooperation</td></tr><tr><td><strong>Democracy Security Network</strong></td><td>Wertebasiertes Sicherheitsnetzwerk demokratischer Staaten zur Verteidigung gegen Desinformation, Erpressung, hybride Einflussnahme</td></tr><tr><td><strong>Zivilisationsprojektion</strong></td><td>Anthropologische Theorie, nach der Grundverlangen von Lebewesen sich auch in gesellschaftlichen Ordnungen abbilden (siehe Abschnitt 8)</td></tr></tbody></table>
+\begin{longtable}{@{}>{\raggedright\arraybackslash}p{44.37mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{336.63mm}@{}}\toprule \textbf{Begriff} & \textbf{Definition} \\\midrule \endhead \textbf{ERDA} & \_European Rights-Based Democratic Alliance\_ – Föderation demokratischer Rechtsstaaten mit gemeinsamer Verfassung, Post-Knappheitsökonomie und digitaler Teilhabe \\\textbf{EVA / EDA} & \_Europäische Verteidigungsallianz\_ – strategische Sicherheitsarchitektur demokratischer Staaten, ergänzend zur NATO \\\textbf{Artikel-5-Äquivalent} & Rechtsverbindliche Beistandspflicht in der EVA, vergleichbar mit dem NATO-Vertrag \\\textbf{CIVITAS} & Digitale Agora für demokratische Bürgerbeteiligung, Diskurs, öffentliche Transparenz und zivilgesellschaftliche Teilhabe \\\textbf{Fediverse / ActivityPub} & Offenes, dezentrales Protokoll zur Vernetzung sozialer Netzwerke (z. B. Mastodon), Grundlage für CIVITAS \\\textbf{DSGVO / eIDAS / EMRK} & Europäische Rahmenwerke für Datenschutz, elektronische Identifikation und Menschenrechte \\\textbf{Strategische Autonomie} & Fähigkeit, unabhängig in Verteidigung, Diplomatie, Technologie und Wirtschaft zu handeln, ohne systemische Abhängigkeit \\\textbf{Weaponized Interdependence} & Strategische Nutzung wirtschaftlicher Abhängigkeiten als Druckmittel („Leverage“) – z. B. über kritische Inputs, Energie, Plattformen, Logistik oder Standards; macht Handelspolitik zu Sicherheitsarchitektur. \\\textbf{Pragmatic Federalism} & Integrationsmethode: Willige Staaten gehen in entscheidenden Domänen voran (Opt-in), bauen echte Entscheidungsinstitutionen mit demokratischer Kontrolle auf; Tür offen für Beitritt, aber Schutz vor Sabotage gemeinsamer Ziele. \\\textbf{PESCO / IRIS² / EDIRPA} & EU-Verteidigungs- und Raumfahrtinitiativen zur Stärkung gemeinsamer Kapazitäten \\\textbf{Cyber-Resilienz} & Fähigkeit, Cyberangriffe und hybride Bedrohungen abzuwehren und Systeme schnell wiederherzustellen \\\textbf{Koalition der Willigen} & Gruppe von Staaten innerhalb eines Bündnisses, die voranschreitende Integration oder Aktion ermöglichen \\\textbf{Post-Knappheitsökonomie} & Gesellschaftsmodell mit universellem Zugang zu Grundressourcen, durch Automatisierung, Digitalisierung und geteilten Wohlstand realisierbar \\\textbf{Demokratische Resilienz} & Widerstandsfähigkeit demokratischer Systeme gegenüber inneren und äußeren Angriffen – kulturell, institutionell und technologisch verankert \\\textbf{Digitale Agora} & Offener, öffentlich kontrollierter Raum für politische Teilhabe und diskursive Demokratie im Netz \\\textbf{Konzentrische Kreise} & Stufenmodell der Mitgliedschaft und Partnerschaft innerhalb der ERDA – von Verfassungsintegration bis zu globaler assoziierter Kooperation \\\textbf{Democracy Security Network} & Wertebasiertes Sicherheitsnetzwerk demokratischer Staaten zur Verteidigung gegen Desinformation, Erpressung, hybride Einflussnahme \\\textbf{Zivilisationsprojektion} & Anthropologische Theorie, nach der Grundverlangen von Lebewesen sich auch in gesellschaftlichen Ordnungen abbilden (siehe Abschnitt 8) \\\bottomrule \end{longtable}
+\restoregeometry
+\pagewidth=210mm
+\pageheight=297mm
+\newpage
 
 
 \newpage
@@ -2342,26 +2358,28 @@ Europa ist ein Kontinent der Vielfalt – sprachlich, kulturell und historisch. 
 * **Demokratie verankern:** Inklusiver Sprachgebrauch fördert Vertrauen in öffentliche Kommunikation.
 * **Vielfalt aktivieren:** Narrative sollten nicht normieren, sondern ermutigen, Vielfalt als Stärke zu leben.
 
+
 \newpage
 \newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
 
 
 \pagewidth=297mm
 \pageheight=210mm
+
 ##### 4.1.1.2 Vertiefung & Analyse
 
-\begin{longtable}{@{}>{\raggedright\arraybackslash}p{38.77mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{50.09mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{98.25mm}@{}}\toprule Dimension & Traditionelles Narrativ & Mehrsprachiges Narrativ \\\midrule \endhead **Zugänglichkeit** & Monolingual, top-down & Multilingual, bottom-up: alle Ebenen und Gruppen einbeziehen \\**Identitätsbildung** & Einheitssprache als Leitkultur & Vielsprachigkeit als Ressource gemeinsamer Zugehörigkeit \\**Kommunikationsdynamik** & Übersetzung als nachgelagert & Simultane Co-Kreation und cross-kulturelle Dialoge \\\bottomrule \end{longtable}
-\restoregeometry
-\pagewidth=210mm
-\pageheight=297mm
-\newpage
-
+\begin{longtable}{@{}>{\raggedright\arraybackslash}p{38.77mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{50.09mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{98.25mm}@{}}\toprule Dimension & Traditionelles Narrativ & Mehrsprachiges Narrativ \\\midrule \endhead \textbf{Zugänglichkeit} & Monolingual, top-down & Multilingual, bottom-up: alle Ebenen und Gruppen einbeziehen \\\textbf{Identitätsbildung} & Einheitssprache als Leitkultur & Vielsprachigkeit als Ressource gemeinsamer Zugehörigkeit \\\textbf{Kommunikationsdynamik} & Übersetzung als nachgelagert & Simultane Co-Kreation und cross-kulturelle Dialoge \\\bottomrule \end{longtable}
 > 🎛️ **Boxen:**
 >
 > 📌 **Praxisimpuls:** In lokalen „Erzählwerkstätten“ werden Geschichten in mehreren Sprachen verfasst und digital geteilt, um Perspektiven zu verschränken.\
 > 🧠 **Konzept-Kontrast:** Eine dominierende Nationalsprache schafft Homogenität, behindert aber die Teilhabe von Minderheiten.\
 > ⚠️ **Risiko:** Ignoriert man Mehrsprachigkeit, wächst Entfremdung und Populismus.\
 > 🌍 **Visionäre Metapher:** „Ein Mosaik aus Stimmen formt ein stabiles Ganzes.“
+
+\restoregeometry
+\pagewidth=210mm
+\pageheight=297mm
+\newpage
 
 ##### 4.1.1.3 Transformation & Handlungsoptionen
 
@@ -2625,8 +2643,8 @@ d) Geheimhaltungspflichten
    https://www.opengovpartnership.org/ogp-2022-annual-report/
 8. **Stanford University Press (2023):** _Checks and Balances Reimagined_. Analyse moderner Gewaltenteilungskonzepte. Online verfügbar unter: [https://www.sup.org](https://www.sup.org) (Zugriff am 2025-05-15).\
    https://www.sup.org/books/title/?id=32710
-9. **ERDA-Projekt (2025):** _Reformphase: 2025–2035 – Strategische Neuausrichtung der EU_. Kapitel 4.2. [4.2 Reformphase: 2025–2035 - Strategische Neuausrichtung der EU](../4.2-reformphase-2025-2035-strategische-neuausrichtung)
-10. **ERDA-Projekt (2025):** _Europa 2.0 – Fahrplan für eine lebenswerte, resiliente und führende Union_. Anhang C. [Anhang C: Europa 2.0 – Fahrplan für eine lebenswerte, resiliente und führende Union](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)
+9. **ERDA-Buch (2026):** _Reformphase: 2025–2035 – Strategische Neuausrichtung der EU_. Kapitel 4.2. [4.2 Reformphase: 2025–2035 - Strategische Neuausrichtung der EU](../4.2-reformphase-2025-2035-strategische-neuausrichtung)
+10. **ERDA-Buch (2026):** _Europa 2.0 – Fahrplan für eine lebenswerte, resiliente und führende Union_. Anhang C. [Anhang C: Europa 2.0 – Fahrplan für eine lebenswerte, resiliente und führende Union](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)
 
 
 \newpage
@@ -2673,20 +2691,17 @@ KI-Systeme gewinnen zunehmend Einfluss auf politische und administrative Entsche
 * **Bürger:innen-Jurys:** Zufallsbasierte Gremien, die KI-Anwendungen bewerten.
 * **Regelbasierte Whitelists/Blacklists:** Klare Vorgaben für erlaubte und unzulässige KI-Einsatzfelder.
 
+
 \newpage
 \newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
 
 
 \pagewidth=297mm
 \pageheight=210mm
+
 ##### 4.1.4.2 Vertiefung & Analyse
 
-\begin{longtable}{@{}>{\raggedright\arraybackslash}p{54.82mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{64.35mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{82.41mm}@{}}\toprule Dimension & Unkontrollierter KI-Einsatz & Demokratisch kontrollierte KI-Prozesse \\\midrule \endhead **Entscheidungsnachvollziehbarkeit** & Blackbox-Modelle & Explainable AI und Dokumentation \\**Rechenschaft** & Unklare Verantwortlichkeiten & Klare Zuweisung von Entscheidungsverantwortung \\**Interessenvertretung** & Exklusive Entwickler:innen-Perspektive & Inklusive Stakeholder-Audits \\**Rechtskonformität** & Ad-hoc-Implementierung & Verankerung in Gesetz und Ethikstandards \\\bottomrule \end{longtable}
-\restoregeometry
-\pagewidth=210mm
-\pageheight=297mm
-\newpage
-
+\begin{longtable}{@{}>{\raggedright\arraybackslash}p{54.82mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{64.35mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{82.41mm}@{}}\toprule Dimension & Unkontrollierter KI-Einsatz & Demokratisch kontrollierte KI-Prozesse \\\midrule \endhead \textbf{Entscheidungsnachvollziehbarkeit} & Blackbox-Modelle & Explainable AI und Dokumentation \\\textbf{Rechenschaft} & Unklare Verantwortlichkeiten & Klare Zuweisung von Entscheidungsverantwortung \\\textbf{Interessenvertretung} & Exklusive Entwickler:innen-Perspektive & Inklusive Stakeholder-Audits \\\textbf{Rechtskonformität} & Ad-hoc-Implementierung & Verankerung in Gesetz und Ethikstandards \\\bottomrule \end{longtable}
 > 🎛️ **Boxen:**
 >
 > 📌 **Praxisimpuls:** Führe ein öffentliches **KI-Transparenz-Register** ein – alle in der Verwaltung eingesetzten KI-Tools sind dort gelistet und beschrieben.
@@ -2696,6 +2711,11 @@ KI-Systeme gewinnen zunehmend Einfluss auf politische und administrative Entsche
 > ⚠️ **Risiko:** Überregulierung kann Innovationsfähigkeit hemmen; ein agiler Regulatory Sandbox-Ansatz ist zu empfehlen.
 >
 > 🌍 **Visionäre Metapher:** "Demokratie und KI tanzen im Dialog – beide brauchen Transparenz und Rhythmus."
+
+\restoregeometry
+\pagewidth=210mm
+\pageheight=297mm
+\newpage
 
 ##### 4.1.4.3 Transformation & Handlungsoptionen
 
@@ -3136,20 +3156,17 @@ Die Studie „Sailing on High Seas“ entwirft einen Sechs-Punkte-Plan zur Moder
 * **Strategischer Investitionsfonds** für digitale und grüne Infrastruktur mobilisieren
 * **Rechtsrahmen anpassen**: Harmonisierung von Verfahren und Standards über alle Mitgliedstaaten hinweg
 
+
 \newpage
 \newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
 
 
 \pagewidth=297mm
 \pageheight=210mm
+
 ##### 4.2.1.2 Vertiefung & Analyse
 
 \begin{longtable}{@{}>{\raggedright\arraybackslash}p{41.84mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{66.22mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{110.38mm}@{}}\toprule Bereich & Status quo & Reformbedarf \\\midrule \endhead Governance-Prozesse & Fragmentierte Entscheidungswege & Zentrales EU-Steuerungsgremium mit Mandat für Schnellverfahren \\Bürgerbeteiligung & Punktuelle Online-Konsultationen & Permanente Partizipationsplattform (CIVITAS-Integrationslayer) \\Finanzierungsarchitektur & Nationale Fonds, mangelnde Koordination & Einrichtung eines paneuropäischen Impact-Fonds \\Rechtsharmonisierung & Uneinheitliche Genehmigungsverfahren & EU-weit geltende Prozessstandards und Beschleunigungsrichtlinien \\\bottomrule \end{longtable}
-\restoregeometry
-\pagewidth=210mm
-\pageheight=297mm
-\newpage
-
 > 🎛️ **Boxen:**
 >
 > 📌 **Praxisimpuls:** Richten Sie in jedem Mitgliedsstaat „Reformbüros“ ein, die täglich Fortschritte an ein zentrales EU‑Portal melden.
@@ -3159,6 +3176,11 @@ Die Studie „Sailing on High Seas“ entwirft einen Sechs-Punkte-Plan zur Moder
 > ⚠️ **Risiko:** Ohne klare Mandate und Zeitpläne verfallen Reformvorschläge in bürokratische Endlosschleifen.
 >
 > 🌍 **Visionäre Metapher:** „Europa als großes Schiff: Nur mit geeinter Crew und klarem Kurs navigieren wir sicher durch stürmische Gewässer.“
+
+\restoregeometry
+\pagewidth=210mm
+\pageheight=297mm
+\newpage
 
 ##### 4.2.1.3 Transformation & Handlungsoptionen
 
@@ -3242,20 +3264,17 @@ Die heutige EDA ist primär Koordinations­forum und Beratungsgremium ohne opera
 * **Gemeinsames Budget**: Einrichtung eines eigenständigen EDA-Haushalts für Übungen, Forschung und Beschaffung
 * **Integrierte Führung**: Aufbau eines EU-Operationshauptquartiers für zivile und militärische Einsätze
 
+
 \newpage
 \newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
 
 
 \pagewidth=297mm
 \pageheight=210mm
+
 ##### 4.2.2.2 Vertiefung & Analyse
 
 \begin{longtable}{@{}>{\raggedright\arraybackslash}p{43.64mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{81.90mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{127.96mm}@{}}\toprule Bereich & Status quo & Reformbedarf \\\midrule \endhead Mandat \& Rechtsgrundlage & Intergouvernemental, kein eigenes Einsatzmandat & Treaty‑basierte EDA-Konvention mit verbindlichem Mandat \\Entscheidungs­prozesse & Einstimmigkeit im Rat & Qualifizierte Mehrheits­verfahren für Beschlussfassung \\Budget \& Finanzierung & Beiträge nach GNP, keine gemeinsame Mittelvergabe & Separater EDA-Haushalt, prozentuale Abgaben aller Mitgliedstaaten \\Kommandostruktur & Kein EU-Operation HQ & Etablierung eines permanenten EU-Operationshauptquartiers \\Beschaffung \& Rüstung & Parallelprogramme, Duplikate & Gemeinsame Beschaffungsagentur (EPA) für Standardisierung und Skaleneffekte \\Schnelle Eingreiftruppe & EU Battlegroups (ad-hoc, begrenzt) & Ständige schnelle Eingreiftruppe unter EDA-Kommando \\\bottomrule \end{longtable}
-\restoregeometry
-\pagewidth=210mm
-\pageheight=297mm
-\newpage
-
 > 🎛️ **Boxen:**
 >
 > 📌 **Praxisimpuls:** Definieren Sie in der Gründungsphase Pilot­einsätze (z. B. Cyber‑Übungen) unter Leitung des neuen Operations­hauptquartiers.
@@ -3271,6 +3290,11 @@ Die heutige EDA ist primär Koordinations­forum und Beratungsgremium ohne opera
 > Das „liberum veto“ in der polnisch–litauischen Adelsrepublik zeigt ein Strukturmuster, das Demokratien von innen schwächen kann: Wenn einzelne Akteure Entscheidungen jederzeit blockieren können, wird das System langsam – und damit von außen manipulierbar.
 >
 > **EDA-Schlussfolgerung:** In Sicherheits- und Verteidigungsfragen muss der handlungsfähige Kern der ERDA/EDA Mehrheitsfähigkeit besitzen (QMV/Notfallklauseln), sonst entsteht ein strategisches Zeitfenster, in dem Gegner Schritt für Schritt Fakten schaffen können.
+
+\restoregeometry
+\pagewidth=210mm
+\pageheight=297mm
+\newpage
 
 ##### 4.2.2.3 Transformation & Handlungsoptionen
 
@@ -3316,8 +3340,8 @@ d) EU Battlegroups
 1. **Europäische Verteidigungsagentur (EDA) (o. J.)**: _What We Do._ Brussels: Europäische Verteidigungsagentur. Online verfügbar unter: [https://eda.europa.eu/what-we-do](https://eda.europa.eu/what-we-do) (Zugriff am 2025-05-19).
 2. **Rat der Europäischen Union (2022)**: _Strategischer Kompass für Sicherheit und Verteidigung._ Brüssel: Rat der Europäischen Union.\
    Online verfügbar unter: [https://www.consilium.europa.eu/de/policies/strategic-compass/](https://www.consilium.europa.eu/de/policies/strategic-compass/) (Zugriff am  2025-05-19).
-3. **ERDA Buch (2025)**: _Das EDA Konzept._ [Kapitel 5: Das EDA Konzept](../../5.-das-eda-konzept/).
-4. **ERDA Buch (2025)**: _Das ARKTIS Konzept._ [Kapitel 8: Das ARKTIS Konzept.](../../8.-das-arktis-konzept/)
+3. **ERDA-Buch (2026)**: _Das EDA Konzept._ [Kapitel 5: Das EDA Konzept](../../5.-das-eda-konzept/).
+4. **ERDA-Buch (2026)**: _Das ARKTIS Konzept._ [Kapitel 8: Das ARKTIS Konzept.](../../8.-das-arktis-konzept/)
 5. **Encyclopaedia Britannica (o. J.)**: _liberum veto._ Online verfügbar unter: https://www.britannica.com/topic/liberum-veto
 6. **Encyclopaedia Britannica (2026)**: _Partitions of Poland._ Online verfügbar unter: https://www.britannica.com/event/Partitions-of-Poland
 
@@ -3419,9 +3443,9 @@ d) Solidaritätskreis
 
 ##### 4.2.3.6 Quellen & Verweise
 
-1. **ERDA Buch (2025)**: _ERDA-Staatenarchitektur – Modell konzentrischer Kreise, zur Kategorisierung und Zuordnung innerhalb der Kreise._ [Anhang A: ERDA-Staatenarchitektur („Konzentrische Kreise“).](#md-anhang-a-erda-staatenarchitektur-konzentrische-kreise)
-2. **ERDA Buch (2025)**: _Schema für ERDA-Staatenprofile (ausführliche Übersicht)._ [Anhang B.2: Schema für ERDA-Staatenprofile (ausführliche Übersicht).](../../anhang-b-erda-staatenprofile/2.-schema-fur-erda-staatenprofile-ausfuhrliche-ubersicht.md)
-3. **ERDA Buch (2025)**: _Das ARKTIS Konzept._ [Kapitel 8: Das ARKTIS Konzept.](../../8.-das-arktis-konzept/)
+1. **ERDA-Buch (2026)**: _ERDA-Staatenarchitektur – Modell konzentrischer Kreise, zur Kategorisierung und Zuordnung innerhalb der Kreise._ [Anhang A: ERDA-Staatenarchitektur („Konzentrische Kreise“).](#md-anhang-a-erda-staatenarchitektur-konzentrische-kreise)
+2. **ERDA-Buch (2026)**: _Schema für ERDA-Staatenprofile (ausführliche Übersicht)._ [Anhang B.2: Schema für ERDA-Staatenprofile (ausführliche Übersicht).](#md-anhang-b-erda-staatenprofile-b-2-schema-fur-erda-staatenprofile-ausfuhrliche-ubersicht)
+3. **ERDA-Buch (2026)**: _Das ARKTIS Konzept._ [Kapitel 8: Das ARKTIS Konzept.](../../8.-das-arktis-konzept/)
 4. **Reuters (2026)**: _Six European economies vow to drive progress on stalled projects._ Online verfügbar unter: https://www.reuters.com/business/germany-hold-call-with-select-eu-states-push-twospeed-europe-2026-01-28/
 5. **Bart De Wever (2026)**: _„European Onion“ (öffentliche Äußerung)._ Online verfügbar unter: https://nl.linkedin.com/posts/bart-de-wever_thefutureofeurope-activity-7422956061005049856-8LdW
 
@@ -3522,12 +3546,12 @@ d) CIVITAS-Konvent
 ##### 4.2.4.6 Quellen & Verweise
 
 1. **Europäische Verteidigungsagentur (EDA) (o. J.)**: Industry Engagement Roadmap. Brussels: Europäische Verteidigungsagentur. Online verfügbar unter: [https://eda.europa.eu/what-we-do/industry-engagement](https://eda.europa.eu/what-we-do/industry-engagement) (Zugriff am 2025-05-19).
-2. **ERDA Buch (2025)**: _Das EDA Konzept._ [Kapitel 5: Das EDA Konzept](../../5.-das-eda-konzept/).
-3. **ERDA Buch (2025)**: _Das CIVITAS Konzept._ [Kapitel 6: Das CIVITAS Konzept.](../../6.-das-civitas-konzept/)
-4. **ERDA Buch (2025)**: _Das FORTERA Konzept._ [Kapitel 7: Das FORTERA Konzept.](../../7.-das-fortera-konzept/)
-5. **ERDA Buch (2025)**: _Das ARKTIS Konzept._ [Kapitel 8: Das ARKTIS Konzept.](../../8.-das-arktis-konzept/)
+2. **ERDA-Buch (2026)**: _Das EDA Konzept._ [Kapitel 5: Das EDA Konzept](../../5.-das-eda-konzept/).
+3. **ERDA-Buch (2026)**: _Das CIVITAS Konzept._ [Kapitel 6: Das CIVITAS Konzept.](../../6.-das-civitas-konzept/)
+4. **ERDA-Buch (2026)**: _Das FORTERA Konzept._ [Kapitel 7: Das FORTERA Konzept.](../../7.-das-fortera-konzept/)
+5. **ERDA-Buch (2026)**: _Das ARKTIS Konzept._ [Kapitel 8: Das ARKTIS Konzept.](../../8.-das-arktis-konzept/)
 6. **Open Government Partnership (2011)**: _Open Government Declaration._ Washington, DC: Open Government Partnership. Online verfügbar unter: [https://www.opengovpartnership.org/process/joining-ogp/open-government-declaration/](https://www.opengovpartnership.org/process/joining-ogp/open-government-declaration/) (Zugriff am 2025-05-19).
-7. **ERDA Buch (2025)**: _ERDA Buch_, Robert Alexander Massinger, 2025.\
+7. **ERDA-Buch (2026)**: _ERDA-Buch_, Robert Alexander Massinger, 2025.\
    (noch zu gründen: Ein ERDA-Institut und darin „ERDA Global Forum“ oder tragfähige vergleichbare Plattform)
 
 
@@ -3566,20 +3590,17 @@ Die Einbindung zivilgesellschaftlicher Akteure sichert, dass Reformen nicht an d
 * **Regelmäßige Konsultationen**: Halbjährliche Foren auf EU-, nationaler und lokaler Ebene.
 * **Digitale Feedback-Plattform**: Permanenter Online-Dialog mit transparentem Moderations- und Reporting-Mechanismus.
 
+
 \newpage
 \newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
 
 
 \pagewidth=297mm
 \pageheight=210mm
+
 ##### 4.2.5.2 Vertiefung & Analyse
 
 \begin{longtable}{@{}>{\raggedright\arraybackslash}p{44.31mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{68.40mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{119.87mm}@{}}\toprule Bereich & Status quo & Reformbedarf \\\midrule \endhead Partizipationsformate & Ad-hoc-Bürgerräte, unregelmäßige Dialoge & Regelmäßige, institutionalisierte Multi-Stakeholder-Konferenzen \\Transparenz und Reporting & Fragmentierte Informationsflüsse & Zentrales Monitoring-Dashboard mit Open-Data-Schnittstellen \\Finanzierung & Projektbezogene EU-Förderungen & Dauerhaftes Zivilgesellschafts-Budget (0,1 \% des EU-Haushalts) \\Kapazitätsaufbau & Lokale Initiativen ohne EU-Verzahnung & EU-weit vernetzte „Demokratie-Labs“ mit Methodentraining und Coaching \\\bottomrule \end{longtable}
-\restoregeometry
-\pagewidth=210mm
-\pageheight=297mm
-\newpage
-
 > 🎛️ **Boxen:**
 >
 > 📌 **Praxisimpuls:** Pilotiere in drei Regionen „Demokratie-Labs“, in denen Bürger:innen und NGOs gemeinsam konkrete Gesetzesentwürfe co-designen.
@@ -3589,6 +3610,11 @@ Die Einbindung zivilgesellschaftlicher Akteure sichert, dass Reformen nicht an d
 > ⚠️ **Risiko:** Ohne klare Reporting-Struktur verpufft Feedback in administrativen Silos.
 >
 > 🌍 **Visionäre Metapher:** „Die Zivilgesellschaft ist das lebendige Wurzelwerk, das Reformen Nahrung und Stabilität verleiht.“
+
+\restoregeometry
+\pagewidth=210mm
+\pageheight=297mm
+\newpage
 
 ##### 4.2.5.3 Transformation & Handlungsoptionen
 
@@ -3736,9 +3762,6 @@ Die Verankerung einer gesamt‑europäischen ERDA‑Verfassung markiert den näc
 * **Partizipativer Konvent:** Transnationaler Konvent mit Expert:innen, Zivilgesellschaft, KI‑Moderation und inklusiven Lernangeboten (Fallstudien, Module, Videos).
 * **Symbolische Klammer:** Die Verfassung als identitätsstiftendes Dokument, kollektiver Atemraum und ethischer Resonanzraum – getragen von Geschichten, Kunst und Sinn.
 
-##### 4.3.1.2 Vertiefung & Analyse
-
-Die historische Erfahrung zeigt: Verfassungsklauseln ohne Umsetzungs‑ und Kontrollarchitekturen bleiben oft Dekoration. Für die ERDA‑Verfassung sind daher folgende Dimensionen kritisch:
 
 \newpage
 \newgeometry{paperwidth=420mm, paperheight=297mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
@@ -3746,12 +3769,12 @@ Die historische Erfahrung zeigt: Verfassungsklauseln ohne Umsetzungs‑ und Kont
 
 \pagewidth=420mm
 \pageheight=297mm
-\begin{longtable}{@{}>{\raggedright\arraybackslash}p{37.82mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{98.95mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{180.94mm}@{}}\toprule Dimension & Herausforderung & Lösungsvorschlag \\\midrule \endhead Gewaltenteilung & Fragmentierte Zuständigkeiten zwischen EU und Mitgliedern & Einrichtung eines ERDA‑Gerichtshofs mit Klagerecht, parlamentarischer Legitimation und Bürgerombudsstelle \\Grundrechte & Digitale Grundrechte (Datenschutz, KI‑Transparenz) & Kodifizierung eines Digitalen Grundrechtskatalogs inkl. Audit-Protokollen und Notfallklauseln \\Änderungsmechanismus & Versteifte Verfahren vs. Populismusgefahr & Review‑Rhythmus (10 Jahre) per Bürgerentscheid, unterstützt durch KI-Frühwarnsysteme \\Bürgerbeteiligung & Partizipationsmüdigkeit, digitale Spaltung & Demokratische Labs, einfache Sprache, analoge Foren, inklusive Bildungspfade \\\bottomrule \end{longtable}
-\restoregeometry
-\pagewidth=210mm
-\pageheight=297mm
-\newpage
 
+##### 4.3.1.2 Vertiefung & Analyse
+
+Die historische Erfahrung zeigt: Verfassungsklauseln ohne Umsetzungs‑ und Kontrollarchitekturen bleiben oft Dekoration. Für die ERDA‑Verfassung sind daher folgende Dimensionen kritisch:
+
+\begin{longtable}{@{}>{\raggedright\arraybackslash}p{37.82mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{98.95mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{180.94mm}@{}}\toprule Dimension & Herausforderung & Lösungsvorschlag \\\midrule \endhead Gewaltenteilung & Fragmentierte Zuständigkeiten zwischen EU und Mitgliedern & Einrichtung eines ERDA‑Gerichtshofs mit Klagerecht, parlamentarischer Legitimation und Bürgerombudsstelle \\Grundrechte & Digitale Grundrechte (Datenschutz, KI‑Transparenz) & Kodifizierung eines Digitalen Grundrechtskatalogs inkl. Audit-Protokollen und Notfallklauseln \\Änderungsmechanismus & Versteifte Verfahren vs. Populismusgefahr & Review‑Rhythmus (10 Jahre) per Bürgerentscheid, unterstützt durch KI-Frühwarnsysteme \\Bürgerbeteiligung & Partizipationsmüdigkeit, digitale Spaltung & Demokratische Labs, einfache Sprache, analoge Foren, inklusive Bildungspfade \\\bottomrule \end{longtable}
 > 🎛️ **Praxisimpuls:** Pilotprojekt in drei Regionen mit analogen & digitalen Formaten, um inklusive Verfassungsreviews zu testen. Mit Dokumentationsvideo & Schulmodulen.
 >
 > 🧠 **Konzept‑Kontrast:** Starre vs. adaptive Verfassung – Letztere lebt vom Dialog, nicht vom Dogma.
@@ -3761,6 +3784,11 @@ Die historische Erfahrung zeigt: Verfassungsklauseln ohne Umsetzungs‑ und Kont
 > 🌍 **Visionäre Metapher:** „Eine lebendige Verfassung ist wie ein Fluss: Sie muss fließen, um Spannungen auszugleichen. Ein stehender Text wird starr – ein atmendes Prinzip bleibt gerecht.“
 
 > 🌌 **Außerirdischer Einwurf:** „Koordiniert eure Intelligenzen resonant – nicht linear. Verfasst weniger Paragraphen, mehr Empathie-Algorithmen.“
+
+\restoregeometry
+\pagewidth=210mm
+\pageheight=297mm
+\newpage
 
 ##### 4.3.1.3 Transformation & Handlungsoptionen
 
@@ -3810,7 +3838,7 @@ Ein künftiges ERDA‑Institut für Demokratische Resilienz (in Planung für 202
 
 ##### 4.3.1.7 Quellen & Verweise
 
-1. **ERDA Buch (2025):** _Europa 2.0 - Fahrplan für eine lebenswerte, resiliente und führende Union._ [Anhang C: Europa 2.0 - Fahrplan für eine lebenswerte, resiliente und führende Union](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)
+1. **ERDA-Buch (2026):** _Europa 2.0 - Fahrplan für eine lebenswerte, resiliente und führende Union._ [Anhang C: Europa 2.0 - Fahrplan für eine lebenswerte, resiliente und führende Union](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)
 
 
 \newpage
@@ -3907,7 +3935,7 @@ d) Zentralisierte Planwirtschaft
 
 ##### 4.3.2.6 Quellen & Verweise
 
-1. **ERDA Buch (2025):** _Europa 2.0 - Fahrplan für eine lebenswerte, resiliente und führende Union._ [Anhang C: Europa 2.0 - Fahrplan für eine lebenswerte, resiliente und führende Union](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)
+1. **ERDA-Buch (2026):** _Europa 2.0 - Fahrplan für eine lebenswerte, resiliente und führende Union._ [Anhang C: Europa 2.0 - Fahrplan für eine lebenswerte, resiliente und führende Union](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)
 
 
 \newpage
@@ -4030,20 +4058,17 @@ Globale Gerechtigkeit und Klimasolidarität sind zentrale Herausforderungen jens
 * **Globale Partizipation:** Bürger:innen-, Jugend- und Indigenen-Foren in Echtzeit verbinden lokale Stimmen mit internationalen Entscheidungsprozessen.
 * **Klimagerechtigkeit als Menschenrecht:** Ökologische Nachhaltigkeit gehört in eine Charta universeller Rechte – demokratisch kontrolliert und menschenzentriert umgesetzt.
 
+
 \newpage
 \newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
 
 
 \pagewidth=297mm
 \pageheight=210mm
+
 ##### 4.3.4.2 Vertiefung & Analyse
 
-\begin{longtable}{@{}>{\raggedright\arraybackslash}p{41.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{82.23mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{130.26mm}@{}}\toprule Dimension & Status quo & Demokratische Klimasolidarität \\\midrule \endhead **Finanzierungsmodelle** & Klimafonds sind unterfinanziert, Beiträge ungleich verteilt & Partizipativer European Climate Solidarity Mechanism mit Beiträgen nach Leistungsfähigkeit \\**Technologie-Transfer** & Patentschutz und Monopole blockieren Zugang & Open-Source-ClimateTech-Framework und Patentpool für globale Nachhaltigkeitslösungen \\**Globale Partizipation** & Verhandlungsformate dominieren durch mächtige Staaten & Globale Bürgerräte und Jugendforen mit direkter Abstimmung via CIVITAS-Plattform \\**Souveränität vs. Solidarität** & Nationale Alleingänge fördern Protektionismus & Ko-kreative Klima-Allianzen mit lokaler Umsetzung und globaler Standardisierung \\\bottomrule \end{longtable}
-\restoregeometry
-\pagewidth=210mm
-\pageheight=297mm
-\newpage
-
+\begin{longtable}{@{}>{\raggedright\arraybackslash}p{41.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{82.23mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{130.26mm}@{}}\toprule Dimension & Status quo & Demokratische Klimasolidarität \\\midrule \endhead \textbf{Finanzierungsmodelle} & Klimafonds sind unterfinanziert, Beiträge ungleich verteilt & Partizipativer European Climate Solidarity Mechanism mit Beiträgen nach Leistungsfähigkeit \\\textbf{Technologie-Transfer} & Patentschutz und Monopole blockieren Zugang & Open-Source-ClimateTech-Framework und Patentpool für globale Nachhaltigkeitslösungen \\\textbf{Globale Partizipation} & Verhandlungsformate dominieren durch mächtige Staaten & Globale Bürgerräte und Jugendforen mit direkter Abstimmung via CIVITAS-Plattform \\\textbf{Souveränität vs. Solidarität} & Nationale Alleingänge fördern Protektionismus & Ko-kreative Klima-Allianzen mit lokaler Umsetzung und globaler Standardisierung \\\bottomrule \end{longtable}
 > 🎛️ **Praxisimpuls:** Einrichtung eines transnationalen "Climate Solidarity Lab" in drei Partnerstädten – mit digitalem Reporting, Bürger:innenräten und sozialem Impact-Index.
 >
 > 🧠 **Konzept-Kontrast:** Nationaler Klima-Egoismus vs. globale Solidarität – Erstere schränkt Zukunftsfähigkeit ein, Letztere stärkt nachhaltigen Frieden.
@@ -4051,6 +4076,11 @@ Globale Gerechtigkeit und Klimasolidarität sind zentrale Herausforderungen jens
 > ⚠️ **Risiko:** Fragmentierte Finanzierungsströme und intransparente Mittelverwendung untergraben Vertrauen und gefährden demokratische Legitimität.
 >
 > 🌍 **Visionäre Metapher:** „Klima ist der Atem der Erde – demokratische Solidarität die Lungen, die ihn reinigen und erneuern.“
+
+\restoregeometry
+\pagewidth=210mm
+\pageheight=297mm
+\newpage
 
 ##### 4.3.4.3 Transformation & Handlungsoptionen
 
@@ -4093,7 +4123,7 @@ d) Bilaterale Klima-Kredite
 
 1. **UNFCCC (2015):** _Paris Agreement, angenommen am 12. Dezember 2015._ Bonn: UNFCCC-Sekretariat. Online verfügbar unter: [https://unfccc.int/sites/default/files/english\_paris\_agreement.pdf](https://unfccc.int/sites/default/files/english_paris_agreement.pdf) (Zugriff am 2025-05-21).
 2. **Green Climate Fund (2011):** _Governing Instrument for the Green Climate Fund, genehmigt am 11. Dezember 2011._ Bonn: Green Climate Fund Secretariat. Online verfügbar unter: [https://www.greenclimate.fund/document/governing-instrument](https://www.greenclimate.fund/document/governing-instrument) (Zugriff am 2025-05-21).
-3. **ERDA Buch (2025):** _Europa 2.0 - Fahrplan für eine lebenswerte, resiliente und führende Union._ [Anhang C: Europa 2.0 - Fahrplan für eine lebenswerte, resiliente und führende Union](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)
+3. **ERDA-Buch (2026):** _Europa 2.0 - Fahrplan für eine lebenswerte, resiliente und führende Union._ [Anhang C: Europa 2.0 - Fahrplan für eine lebenswerte, resiliente und führende Union](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)
 
 
 \newpage
@@ -4183,7 +4213,7 @@ d) Zentrale Lehrbuchvergabe
 
 1. **UNESCO (2018):** _Re | Shaping Cultural Policies: Advancing Creativity for Development._ Paris: UNESCO. Online verfügbar unter: [https://uis.unesco.org/sites/default/files/documents/reshaping-cultural-policies-2018-en.pdf](https://uis.unesco.org/sites/default/files/documents/reshaping-cultural-policies-2018-en.pdf) (Zugriff am 2025-05-21).
 2. **Europäische Kommission, Generaldirektion für Bildung, Jugend, Sport und Kultur (o. J.):** _European Education Area explained._ Brussels: Europäische Kommission. Online verfügbar unter: [https://education.ec.europa.eu/about-eea/the-eea-explained](https://education.ec.europa.eu/about-eea/the-eea-explained) (Zugriff am 2025-05-21).
-3. **ERDA Buch (2025):** _Europa 2.0 - Fahrplan für eine lebenswerte, resiliente und führende Union._ [Anhang C: Europa 2.0 - Fahrplan für eine lebenswerte, resiliente und führende Union](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)
+3. **ERDA-Buch (2026):** _Europa 2.0 - Fahrplan für eine lebenswerte, resiliente und führende Union._ [Anhang C: Europa 2.0 - Fahrplan für eine lebenswerte, resiliente und führende Union](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)
 
 > 📖 **Zielformulierung:** Das Konzept des *prosperativen Lebens* – als Bildungsziel einer resilienzorientierten Gesellschaft – wird ausführlich entfaltet in [Anhang P.1: Paper – Kindheit, Erwachsenwerden und das Anti-Game-Over-Prinzip](#md-anhang-p-papers-p-1-kindheit-erwachsenwerden-und-das-anti-game-over-prinzip).
 
@@ -4278,7 +4308,7 @@ d) Nationale Referenden zu jedem Thema
 
 1. **OECD (o. J.)**: _Open Government Data._ Paris: OECD Publishing. Online verfügbar unter: [https://www.oecd.org/en/publications/open-government-data\_5k46bj4f03s7-en.html](https://www.oecd.org/en/publications/open-government-data_5k46bj4f03s7-en.html) (Zugriff am 2025-05-21).
 2. **Europäische Kommission (2020)**: _Communication on the European Democracy Action Plan. Communication COM(2020) 790 final, 3. Dezember 2020._ Brussels: Europäische Kommission. Online verfügbar unter: [https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52020DC0790](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52020DC0790) (Zugriff am 2025-05-21).
-3. **ERDA Buch (2025):** _Europa 2.0 - Fahrplan für eine lebenswerte, resiliente und führende Union._ [Anhang C: Europa 2.0 - Fahrplan für eine lebenswerte, resiliente und führende Union](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)
+3. **ERDA-Buch (2026):** _Europa 2.0 - Fahrplan für eine lebenswerte, resiliente und führende Union._ [Anhang C: Europa 2.0 - Fahrplan für eine lebenswerte, resiliente und führende Union](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)
 
 
 \newpage
@@ -4526,7 +4556,7 @@ d) Technokratische Steuerung
 
 ##### 4.4.2.6 Quellen & Verweise
 
-1. **ERDA Buch (2025):** _Europa 2.0 - Fahrplan für eine lebenswerte, resiliente und führende Union._ [Anhang C: Europa 2.0 - Fahrplan für eine lebenswerte, resiliente und führende Union](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)
+1. **ERDA-Buch (2026):** _Europa 2.0 - Fahrplan für eine lebenswerte, resiliente und führende Union._ [Anhang C: Europa 2.0 - Fahrplan für eine lebenswerte, resiliente und führende Union](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)
 
 
 \newpage
@@ -4649,20 +4679,17 @@ Technologische Souveränität allein genügt nicht, wenn Innovationen nicht zugl
 * **Transparenz & Rechenschaft:** Offenlegung von Daten, Algorithmen und Entscheidungsprozessen schafft Vertrauen.
 * **Sozial-ökologische Integration:** Technologische Lösungen müssen soziale Gerechtigkeit und Umweltintegrität fördern.
 
+
 \newpage
 \newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
 
 
 \pagewidth=297mm
 \pageheight=210mm
+
 ##### 4.4.4.2 Vertiefung & Analyse
 
 \begin{longtable}{@{}>{\raggedright\arraybackslash}p{38.10mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{93.13mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{109.75mm}@{}}\toprule Dimension & Herausforderung & Lösungsansatz \\\midrule \endhead Innovationsdynamik & Kurzfristige Profitmaximierung vs. langfristiger Nutzen & Förderprogramme für gemeinwohlorientierte Forschung \\Ethik \& Regulierung & Fragmentierte Standards und technologische Blackboxen & Etablierung globaler Ethik-Codices und unabhängiger Auditbehörden \\Beteiligung \& Inklusion & Exklusion marginalisierter Gruppen & Civic-Tech-Plattformen mit barrierefreien Beteiligungsformaten \\Umweltauswirkungen & Ressourcen- und Energieverbrauch & Kreislaufwirtschaft, Green-Tech-Standards \\\bottomrule \end{longtable}
-\restoregeometry
-\pagewidth=210mm
-\pageheight=297mm
-\newpage
-
 > 🎛️ **Boxen:**
 >
 > 📌 **Praxisimpuls:** Einrichtung von "Ethik-Labs" in Universitäten und Stadtteilzentren, in denen KI-Modelle gemeinsam auf Fairness, Datenschutz und Nachhaltigkeit geprüft werden.
@@ -4672,6 +4699,11 @@ Technologische Souveränität allein genügt nicht, wenn Innovationen nicht zugl
 > ⚠️ **Risiko:** Technosolutionismus kann soziale Probleme verschärfen, wenn Zugang und Kontrolle ungleich verteilt sind.
 >
 > 🌍 **Visionäre Metapher:** „Technologie ist wie ein Werkzeugkasten – erst die richtigen Leitprinzipien bestimmen, wie wir die Werkzeuge einsetzen."
+
+\restoregeometry
+\pagewidth=210mm
+\pageheight=297mm
+\newpage
 
 ##### 4.4.4.3 Transformation & Handlungsoptionen
 
@@ -5772,7 +5804,26 @@ Daraus folgt für die EDA:
 
 ### Glossar: Schlüsselbegriffe
 
-<table data-header-hidden><thead><tr><th width="284.39996337890625"></th><th></th></tr></thead><tbody><tr><td><strong>Begriff</strong></td><td><strong>Definition</strong></td></tr><tr><td><strong>ADO (Asian Defense Organization)</strong></td><td>Hypothetisches Sicherheitsbündnis demokratischer Staaten in Ostasien (z. B. Japan, Südkorea u. a.)</td></tr><tr><td><strong>ASDA (Australian Defense Alliance)</strong></td><td>Hypothetisches Sicherheitsbündnis im Indopazifik unter australischer Führung zum Schutz maritimer Routen und demokratischer Souveränität</td></tr><tr><td><strong>LDA (Latin American Defense Alliance)</strong></td><td>Hypothetisches Verteidigungsbündnis demokratischer Staaten Lateinamerikas (mögliche Führung durch Brasilien/Argentinien)</td></tr><tr><td><strong>AFDA (African Defense Alliance)</strong></td><td>Hypothetisches Verteidigungsbündnis demokratischer afrikanischer Staaten zur Förderung regionaler Sicherheit und demokratischer Werte</td></tr><tr><td><strong>GDA (Global Defense Alliance)</strong></td><td>Vision eines transregionalen Verteidigungsrahmens demokratischer Rechtsstaaten auf Basis gemeinsamer Prinzipien</td></tr><tr><td><strong>Democratically Prepared Defense Accession</strong></td><td>Status eines souveränen Partnerstaats, der nach erfolgreichem Referendum Vollmitglied der EDA wird – auf Basis demokratischer Selbstbestimmung und rechtlicher Klarheit</td></tr><tr><td><strong>ERDA</strong></td><td>European Rights-Based Democratic Alliance – zukünftige politische Union demokratischer Rechtsstaaten mit gemeinsamer Verfassung und post-scarcity-Ökonomie</td></tr><tr><td><strong>EDA (EVA)</strong></td><td>European Defense Alliance – Sicherheitsbündnis für demokratische Souveränität und strategische Autonomie, ergänzend zur NATO</td></tr><tr><td><strong>Article 5 Equivalent</strong></td><td>Verbindliche kollektive Verteidigungsklausel analog zu Artikel 5 der NATO</td></tr><tr><td><strong>PESCO</strong></td><td>Permanent Structured Cooperation – EU-Rahmen für strukturierte militärische Zusammenarbeit</td></tr><tr><td><strong>FCAS / MGCS</strong></td><td>Zentrale europäische Rüstungsprojekte für Luft- und Bodenkriegssysteme</td></tr><tr><td><strong>IRIS²</strong></td><td>Geplantes europäisches Satellitensystem für sichere Kommunikation</td></tr><tr><td><strong>Strategische Autonomie</strong></td><td>Fähigkeit, in Verteidigung, Wirtschaft und Diplomatie unabhängig zu agieren</td></tr><tr><td><strong>Coalition of the Willing</strong></td><td>Flexible Gruppe gleichgesinnter Staaten, die vor einer breiteren Einigung gemeinsam handeln</td></tr><tr><td><strong>Cyber Resilience</strong></td><td>Systemische Fähigkeit zur Prävention, Abwehr und Wiederherstellung nach Cyberbedrohungen</td></tr><tr><td><strong>Rapid Response Force (RRF)</strong></td><td>Multinationale EDA-Schnelleingreiftruppe für Krisen- und Hybridbedrohungen</td></tr><tr><td><strong>Liberum veto</strong></td><td>Historisches Entscheidungsprinzip (Polen-Litauen), bei dem einzelne Adlige Gesetzgebung blockieren konnten; Beispiel für strukturelle Vetoparalyse und externe Manipulierbarkeit.</td></tr><tr><td><strong>Vetoparalyse / Blockadismus</strong></td><td>Strukturelle Entscheidungsunfähigkeit durch Einstimmigkeitszwang oder dauerhafte Minderheitsblockade; macht Systeme langsam, vorhersehbar und strategisch ausnutzbar.</td></tr></tbody></table>
+| **Begriff** | **Definition** |
+| --- | --- |
+| **ADO (Asian Defense Organization)** | Hypothetisches Sicherheitsbündnis demokratischer Staaten in Ostasien (z. B. Japan, Südkorea u. a.) |
+| **ASDA (Australian Defense Alliance)** | Hypothetisches Sicherheitsbündnis im Indopazifik unter australischer Führung zum Schutz maritimer Routen und demokratischer Souveränität |
+| **LDA (Latin American Defense Alliance)** | Hypothetisches Verteidigungsbündnis demokratischer Staaten Lateinamerikas (mögliche Führung durch Brasilien/Argentinien) |
+| **AFDA (African Defense Alliance)** | Hypothetisches Verteidigungsbündnis demokratischer afrikanischer Staaten zur Förderung regionaler Sicherheit und demokratischer Werte |
+| **GDA (Global Defense Alliance)** | Vision eines transregionalen Verteidigungsrahmens demokratischer Rechtsstaaten auf Basis gemeinsamer Prinzipien |
+| **Democratically Prepared Defense Accession** | Status eines souveränen Partnerstaats, der nach erfolgreichem Referendum Vollmitglied der EDA wird – auf Basis demokratischer Selbstbestimmung und rechtlicher Klarheit |
+| **ERDA** | European Rights-Based Democratic Alliance – zukünftige politische Union demokratischer Rechtsstaaten mit gemeinsamer Verfassung und post-scarcity-Ökonomie |
+| **EDA (EVA)** | European Defense Alliance – Sicherheitsbündnis für demokratische Souveränität und strategische Autonomie, ergänzend zur NATO |
+| **Article 5 Equivalent** | Verbindliche kollektive Verteidigungsklausel analog zu Artikel 5 der NATO |
+| **PESCO** | Permanent Structured Cooperation – EU-Rahmen für strukturierte militärische Zusammenarbeit |
+| **FCAS / MGCS** | Zentrale europäische Rüstungsprojekte für Luft- und Bodenkriegssysteme |
+| **IRIS²** | Geplantes europäisches Satellitensystem für sichere Kommunikation |
+| **Strategische Autonomie** | Fähigkeit, in Verteidigung, Wirtschaft und Diplomatie unabhängig zu agieren |
+| **Coalition of the Willing** | Flexible Gruppe gleichgesinnter Staaten, die vor einer breiteren Einigung gemeinsam handeln |
+| **Cyber Resilience** | Systemische Fähigkeit zur Prävention, Abwehr und Wiederherstellung nach Cyberbedrohungen |
+| **Rapid Response Force (RRF)** | Multinationale EDA-Schnelleingreiftruppe für Krisen- und Hybridbedrohungen |
+| **Liberum veto** | Historisches Entscheidungsprinzip (Polen-Litauen), bei dem einzelne Adlige Gesetzgebung blockieren konnten; Beispiel für strukturelle Vetoparalyse und externe Manipulierbarkeit. |
+| **Vetoparalyse / Blockadismus** | Strukturelle Entscheidungsunfähigkeit durch Einstimmigkeitszwang oder dauerhafte Minderheitsblockade; macht Systeme langsam, vorhersehbar und strategisch ausnutzbar. |
 
 ***
 
@@ -6841,7 +6892,14 @@ content_lang: de
 
 _**Übersicht: Strategische Produktionsziele Europas (Auszug)**_
 
-<table><thead><tr><th width="162.4000244140625">Sektor</th><th width="280.79998779296875">Ersatz- oder Zielprodukt</th><th>Bemerkung</th></tr></thead><tbody><tr><td>Verteidigung</td><td>FCAS, MGCS, Drohnensysteme, weltraumgestützte Aufklärung</td><td>Ersatz für F-35, Abrams u. a. – mit EU-/ERDA-/EDA-Kooperation</td></tr><tr><td>Energie</td><td>SMR-Reaktoren, Wasserstoffspeicher, Biogaslösungen</td><td>Ablösung fossiler US-Importe (LNG)</td></tr><tr><td>IT & Kommunikation</td><td>EU-Cloud, Quanten-Verschlüsselung, KI-Basissysteme</td><td>Digitale Souveränität gegenüber Big-Tech</td></tr><tr><td>Gesundheitswesen</td><td>Wirkstoffsynthese, mRNA-Plattformen, Diagnostikgeräte</td><td>Unabhängigkeit bei Pandemievorsorge</td></tr><tr><td>Rohstoffe</td><td>Recycling, Substitution, strategische Lagerhaltung</td><td>Resilienz gegenüber Exportkontrollen (z. B. Seltene Erden)</td></tr><tr><td>Agrar/Nahrung</td><td>Regionale Kreisläufe, urbane Agrarsysteme</td><td>Autarkie-Komponente der zivilen Resilienz</td></tr></tbody></table>
+| Sektor | Ersatz- oder Zielprodukt | Bemerkung |
+| --- | --- | --- |
+| Verteidigung | FCAS, MGCS, Drohnensysteme, weltraumgestützte Aufklärung | Ersatz für F-35, Abrams u. a. – mit EU-/ERDA-/EDA-Kooperation |
+| Energie | SMR-Reaktoren, Wasserstoffspeicher, Biogaslösungen | Ablösung fossiler US-Importe (LNG) |
+| IT \& Kommunikation | EU-Cloud, Quanten-Verschlüsselung, KI-Basissysteme | Digitale Souveränität gegenüber Big-Tech |
+| Gesundheitswesen | Wirkstoffsynthese, mRNA-Plattformen, Diagnostikgeräte | Unabhängigkeit bei Pandemievorsorge |
+| Rohstoffe | Recycling, Substitution, strategische Lagerhaltung | Resilienz gegenüber Exportkontrollen (z. B. Seltene Erden) |
+| Agrar/Nahrung | Regionale Kreisläufe, urbane Agrarsysteme | Autarkie-Komponente der zivilen Resilienz |
 
 
 \newpage
@@ -8238,9 +8296,6 @@ content_lang: de
 ---
 <a id="md-8-das-arktis-konzept-8-3-strategische-saulen"></a>
 
-## 8.3 Strategische Säulen
-
-Die strategischen Säulen übersetzen den ARKTIS Codex in handlungsfähige Politik. Sie bilden kein loses Maßnahmenmenü, sondern eine Architektur gegenseitiger Verstärkung: Sicherheit schützt offene Forschung und demokratische Beteiligung; Ressourcengovernance verhindert Erpressbarkeit; Datenhoheit macht ökologische Grenzen überprüfbar; indigene Mitsprache verankert Legitimität vor Ort.
 
 \newpage
 \newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
@@ -8248,6 +8303,11 @@ Die strategischen Säulen übersetzen den ARKTIS Codex in handlungsfähige Polit
 
 \pagewidth=297mm
 \pageheight=210mm
+
+## 8.3 Strategische Säulen
+
+Die strategischen Säulen übersetzen den ARKTIS Codex in handlungsfähige Politik. Sie bilden kein loses Maßnahmenmenü, sondern eine Architektur gegenseitiger Verstärkung: Sicherheit schützt offene Forschung und demokratische Beteiligung; Ressourcengovernance verhindert Erpressbarkeit; Datenhoheit macht ökologische Grenzen überprüfbar; indigene Mitsprache verankert Legitimität vor Ort.
+
 \begin{longtable}{@{}>{\raggedright\arraybackslash}p{47.64mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{107.17mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{98.69mm}@{}}\toprule Säule & Funktion im ARKTIS Konzept & Leitfrage \\\midrule \endhead Geopolitische Souveränität & Schutz demokratischer Handlungsfähigkeit und kritischer Infrastruktur & Wie bleibt die Arktis Friedensraum, ohne schutzlos zu werden? \\Ressourcenpartnerschaften & Faire, ökologische und demokratisch kontrollierte Wertschöpfung & Wer profitiert, wer entscheidet, wer trägt Risiken? \\Wissenschaft und Klimaethik & Verlässliches Lagebild, Frühwarnung und technologische Grenzen & Welche Daten zeigen, wann Handeln geboten oder verboten ist? \\Infrastruktur und Datenhoheit & Sichere Kommunikations-, Logistik- und Beobachtungsfähigkeit & Wer kontrolliert die Netze, über die Wissen und Sicherheit laufen? \\Kulturelle und indigene Dimension & Rechte, Sprache, Wissen und Selbstbestimmung arktischer Gemeinschaften & Wie wird Verantwortung mit den Menschen gestaltet, die dort leben? \\\bottomrule \end{longtable}
 \restoregeometry
 \pagewidth=210mm
@@ -8314,9 +8374,6 @@ content_lang: de
 ---
 <a id="md-8-das-arktis-konzept-8-4-umsetzung-kommunikation-und-schlussgedanke"></a>
 
-## 8.4 Umsetzung, Kommunikation und Schlussgedanke
-
-Das ARKTIS Konzept wird nur glaubwürdig, wenn es vom Leitbild in belastbare Routinen übersetzt wird. Dafür braucht es klare Verantwortlichkeiten, messbare Prüfpunkte und eine Kommunikation, die weder Alarmismus noch Beschwichtigung betreibt. Arktische Politik muss zeigen können, was sie schützt, wem sie nützt und wo sie sich selbst begrenzt.
 
 \newpage
 \newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
@@ -8324,6 +8381,11 @@ Das ARKTIS Konzept wird nur glaubwürdig, wenn es vom Leitbild in belastbare Rou
 
 \pagewidth=297mm
 \pageheight=210mm
+
+## 8.4 Umsetzung, Kommunikation und Schlussgedanke
+
+Das ARKTIS Konzept wird nur glaubwürdig, wenn es vom Leitbild in belastbare Routinen übersetzt wird. Dafür braucht es klare Verantwortlichkeiten, messbare Prüfpunkte und eine Kommunikation, die weder Alarmismus noch Beschwichtigung betreibt. Arktische Politik muss zeigen können, was sie schützt, wem sie nützt und wo sie sich selbst begrenzt.
+
 ### 8.4.1 Maßnahmenkatalog
 
 \begin{longtable}{@{}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{77.25mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{18.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{41.99mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{73.26mm}@{}}\toprule Bereich & Kernmaßnahme & Zeitraum & Federführung & Prüfkriterium \\\midrule \endhead Verteidigung & Aufbau DSN Nordmeer mit Frühwarnung, Cyberabwehr und Notfalllogistik & 2026–2032 & EDA, Island, Norwegen, Kanada & Gemeinsames Lagebild, zivile Übungsformate, parlamentarische Kontrolle \\Ressourcen & Arctic Democracy Mining Act mit Konzessionsregister und Benefit-Sharing & ab 2027 & ERDA, FORTERA, Grönland, Partnerstaaten & Öffentliche Vertragsdaten, Umweltauflagen, lokale Beteiligungsfonds \\Forschung & Arctic Resilience Observatory für Klima-, Biodiversitäts- und Permafrostdaten & 2025–2028 & EU, ERDA-Partner, Hochschulen, NGOs & Offene Datenstandards, indigene Datenrechte, jährlicher Resilienzbericht \\Ethik & Arctic Commons Charter als Grenze nicht-ausbeuterischer Nutzung & 2026 & ERDA-Verfassungskommission, Arktisrat+ & Vorsorgeprinzip, Schutzgebiete, unabhängige Ethikprüfung \\Beteiligung & Indigenenrat bei ERDA mit CIVITAS-Anbindung & ab 2027 & CIVITAS, ERDA-Rat, lokale Vertretungen & Mitsprache bei Projekten, Beschwerdewege, mehrsprachige Beteiligung \\Infrastruktur & European Arctic Cloud und resiliente Logistikstandorte & 2026–2030 & ERDA, IRIS², Kommunen, Forschungspartner & Datenhoheit, Cyberresilienz, zivile Nutzbarkeit, Klimabilanz \\\bottomrule \end{longtable}
@@ -8356,9 +8418,6 @@ Daraus ergeben sich drei Kommunikationsregeln:
 2. **Handeln sichtbar machen:** Offene Datenportale, CIVITAS-Module, Karten, Jahresberichte und verständliche Indikatoren zeigen, ob Prinzipien tatsächlich umgesetzt werden.
 3. **Kultur einbeziehen:** Literatur, Film, Bildung, interaktive Medien und indigene Erzählformen machen erfahrbar, dass arktische Verantwortung mehr ist als Sicherheits- oder Rohstoffpolitik.
 
-### 8.4.4 Eskalations- und Krisenleiter
-
-Arktische Krisen entstehen selten an einem einzigen Punkt. Sie laufen über Wochen, manchmal Stunden: ein gestörtes GNSS-Signal, ein gekapptes Kabel, eine plötzlich gestrichene Lizenz, eine Desinformationswelle gegen eine indigene Vertretung. ARKTIS braucht deshalb eine abgestufte, vorab mandatierte Reaktionsleiter, die jede Stufe an klare politische Kontrolle bindet.
 
 \newpage
 \newgeometry{paperwidth=420mm, paperheight=297mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
@@ -8366,13 +8425,18 @@ Arktische Krisen entstehen selten an einem einzigen Punkt. Sie laufen über Woch
 
 \pagewidth=420mm
 \pageheight=297mm
+
+### 8.4.4 Eskalations- und Krisenleiter
+
+Arktische Krisen entstehen selten an einem einzigen Punkt. Sie laufen über Wochen, manchmal Stunden: ein gestörtes GNSS-Signal, ein gekapptes Kabel, eine plötzlich gestrichene Lizenz, eine Desinformationswelle gegen eine indigene Vertretung. ARKTIS braucht deshalb eine abgestufte, vorab mandatierte Reaktionsleiter, die jede Stufe an klare politische Kontrolle bindet.
+
 \begin{longtable}{@{}>{\raggedright\arraybackslash}p{57.30mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{86.89mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{98.52mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{66.85mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{57.94mm}@{}}\toprule Stufe & Auslöser (Beispiel) & Primäre Werkzeuge & Entscheidungsebene & Demokratische Kontrolle \\\midrule \endhead 0 Beobachtung & Auffällige Muster (Schifffahrt, Datenverkehr, Diskursanalyse) & Lagebild, Monitoring, Frühwarnung & Fachdienste, Observatory & Routineberichte, Ausschüsse \\1 Zivile Konsultation & Bestätigte Vorfälle ohne unmittelbaren Schaden & Diplomatie, Faktenklarstellung, technische Hilfe & Außen- und Innenministerien, ERDA-Sekretariat & Ausschussunterrichtung binnen 72 h \\2 Wirtschaftlich-rechtliche Reaktion & Wiederholte Vorfälle, klare Zurechenbarkeit & Sanktionen, FDI-Stopp, Lizenzentzug, Klage & ERDA-Rat, betroffene Mitgliedstaaten & Parlamentarische Zustimmung / Beschluss \\3 Bündnispolitische Verstärkung & Systematische hybride Druckkampagne & Erweiterte Bündnisformate, Schutzpräsenz, gemeinsame Kommunikation & EDA + Partner, ERDA-Rat & Mandatsbeschluss, öffentliche Begründung \\4 Defensive militärische Rückversicherung & Sabotage kritischer Infrastruktur, Drohung gegen Bevölkerung & DSN-Aktivierung, NATO-Konsultation, mandatierte Schutzoperation & EDA-Rat, NATO, nationale Parlamente & Vorab definiertes Mandat, Ex-post-Bericht \\\bottomrule \end{longtable}
+Jeder Stufenwechsel ist begründungspflichtig, zeitlich begrenzt und in CIVITAS dokumentiert. Stufe 4 erfordert ein bereits vorhandenes parlamentarisches Mandat und ist auf defensive Maßnahmen begrenzt.
+
 \restoregeometry
 \pagewidth=210mm
 \pageheight=297mm
 \newpage
-
-Jeder Stufenwechsel ist begründungspflichtig, zeitlich begrenzt und in CIVITAS dokumentiert. Stufe 4 erfordert ein bereits vorhandenes parlamentarisches Mandat und ist auf defensive Maßnahmen begrenzt.
 
 ### 8.4.5 Resilienz-Indikatoren und jährliches Dashboard
 
@@ -9667,11 +9731,35 @@ _Vom Plan zur Raumzivilisation – Entwicklungsschritte 2025–2075_
 
 _**Zeitleiste der ERDA-Raumzivilisationsentwicklung**_
 
-<table><thead><tr><th width="130.4000244140625">Jahr</th><th>Meilenstein</th></tr></thead><tbody><tr><td><strong>2025 / 2026</strong></td><td><strong>Beschluss des ERDA-Codex:</strong> Initiierung der kosmischen Verantwortung und Beginn des koordinierten Aufbaus als Fundament für eine zukunftsfähige Raumzivilisation.</td></tr><tr><td><strong>2028</strong></td><td><strong>Gründung der Solar Alliance:</strong> Konstitution der ersten Gremien und Kodizes zur internationalen Raumfahrtkoordination, realistisch unterstützt durch moderne Kommunikations- und Partnerschaftsmodelle.</td></tr><tr><td><strong>2029</strong></td><td><strong>Start des Lunar Dockyard-Projekts:</strong> Beginn des Baus erster Sphere-Module, wobei die Planung eine schrittweise Integration modulbasierter Fertigung im Mondorbit vorsieht.</td></tr><tr><td><strong>2030</strong></td><td><strong>Ratifizierung der Kosmoskonventionen:</strong> Erste rechtsverbindliche Vereinbarungen (inklusive Hilfeleistungspflicht), die den rechtlichen Rahmen für verantwortungsvolle Aktivitäten im Weltraum legen.</td></tr><tr><td><strong>2032</strong></td><td><strong>Inbetriebnahme des Sphere Craft Assembly Hub:</strong> Errichtung eines zentralen Fertigungs- und Montagezentrums im Lunar Orbit zur Modularisierung des Raumfahrtaufbaus.</td></tr><tr><td><strong>2034</strong></td><td><strong>Aufbau der ersten DNSN-Knoten:</strong> Installation dezentraler Kommunikations- und Steuerungssysteme auf dem Mond sowie in Lagrange-Punkten, um die infrastrukturelle Basis zu stärken.</td></tr><tr><td><strong>2034</strong></td><td><strong>Solar Defense Force Node Mond wird aufgebaut:</strong> Aufbau von Solar Defense Force Node Mond</td></tr><tr><td><strong>2035</strong></td><td><strong>Inbetriebnahme von EARTH ONE:</strong> Realisierung eines orbitalen Weltaugenpaares zur globalen Überwachung und Kommunikation, basierend auf neu etablierten Technologien.</td></tr><tr><td><strong>2036</strong></td><td><strong>Testbetrieb des orbitalen Cycler-Systems:</strong> Erste Versuche eines kontinuierlichen, orbitalen Transportsystems zwischen Erde und Mars, um langfristig regelmäßige Verbindungen zu ermöglichen.</td></tr><tr><td><strong>2038</strong></td><td><strong>Betriebsbeginn von LUNAR ONE:</strong> Aktivierung eines dauerhaften Raumstationskonzepts an einem Mondorbit, unterstützt durch einen permanenten CIVITAS-Rat als Governance- und Kooperationsinstanz.</td></tr><tr><td><strong>2042</strong></td><td><strong>BELT LIVING ONE wird besetzt:</strong> Belt One wird bevökert und Inbetrieb gesetzt. Übungs- und Vorbereitungsprogramm 6 Monate, um Routine zu haben.</td></tr><tr><td><strong>2042</strong></td><td><strong>Forschungsstationen auf dem Mars:</strong> Aufbau rotierender, medizinisch und ethisch ausgerichteter Stationen als erste Basis für wissenschaftliche Langzeitmissionen auf dem Mars.</td></tr><tr><td><strong>2043</strong></td><td><strong>BELT LIVING ONE reist zum Belt:</strong> Reise zum Belt. Etablierung des ersten Orbit-Mining-Zentrums im Asteroidengürtel, das den Aufbau einer eigenständigen Ressourcennutzung einleitet.</td></tr><tr><td><strong>2044</strong></td><td><strong>Solar Defense Force Node Mars wird aufgebaut:</strong> Aufbau von Solar Defense Force Node Mars</td></tr><tr><td><strong>2045</strong></td><td><strong>VENUS ONE wird besetzt:</strong> VENUS ONE wird bevökert und Inbetrieb gesetzt. Übungs- und Vorbereitungsprogramm 6 Monate, um Routine zu haben.</td></tr><tr><td><strong>2046</strong></td><td><strong>VENUS ONE reist zur Venus:</strong> Reise zur Venus. Starten der ersten Missionen. Beginn von Ethik- und Atmosphärenmissionen zur Erforschung und Gestaltung der Venus, mit dem Ziel, Erkenntnisse für zukünftige Terraforming-Prozesse zu gewinnen.</td></tr><tr><td><strong>2048</strong></td><td><strong>Erweiterung der DNSN-Netze:</strong> Ausdehnung der Kommunikations- und Steuerungssysteme bis zum Mars und in den inneren Asteroidengürtel, zur Sicherstellung einer lückenlosen Raumkommunikation.</td></tr><tr><td><strong>2050</strong></td><td><strong>Einrichtung von Marsparlamenten und Bildungsnetzwerken:</strong> Aufbau von Verwaltungseinheiten und tiefen Raumsonden-Clustern (z. B. IRIS-Schwarm mit über 10.000 Einheiten) zur autonomen Steuerung und Erforschung des Mars.</td></tr><tr><td><strong>2050</strong></td><td><strong>Solar Defense Node Belt wird aufgebaut:</strong> Aufbau von Solar Defense Force Node Belt</td></tr><tr><td><strong>2052</strong></td><td><strong>Start von NEPTUNE ONE:</strong> Beginn eines intergenerationellen Langzeitprogramms, das Familien in die Raumfahrt integriert und langfristige Siedlungen im äußeren Sonnensystem fördert.</td></tr><tr><td><strong>2055</strong></td><td><strong>Vollständige operative Ausweitung des Cycler-Systems:</strong> Sicherstellung eines zuverlässigen, orbitalen Transportsystems bis zum Neptun für den massiven Material- und Personentransport im All.</td></tr><tr><td><strong>2060</strong></td><td><strong>Ausbau der DNSN-Abdeckung:</strong> Errichtung eines flächendeckenden Steuerungsnetzwerks auf allen ERDA-Stützpunkten im Asteroidengürtel sowie am Neptun, zur Optimierung der Raumkommunikation.</td></tr><tr><td><strong>2062</strong></td><td><strong>Solar Defense Nodes Beyond werden aufgebaut:</strong> Aufbau von Solar Defense Force Nodes bei jeder menschlichen Siedlung im Solar System</td></tr><tr><td><strong>2065</strong></td><td><strong>Autarke Lunarindustrie:</strong> Erreichen eines Eigenversorgungsgrades von über 70 % in den Mondhabitats, was eine signifikante Unabhängigkeit im Weltraum ermöglicht.</td></tr><tr><td><strong>2070</strong></td><td><strong>Intersolares Observatoriumsnetz:</strong> Aufbau des ersten Echtzeit-Observatoriums bei ca. 180 AU, zur Überwachung entfernter Weltraumphänomene und zur Förderung wissenschaftlicher Erkenntnisse.</td></tr><tr><td><strong>2075</strong></td><td><strong>50 Jahre ERDA-Codex:</strong> Feier des halben Jahrhunderts ERDA-Vision mit der Etablierung eines demokratischen Tiefenraums und einer kosmischen Verantwortungsordnung als zentralem Pfeiler der zukünftigen Raumzivilisation.</td></tr></tbody></table>
+| Jahr | Meilenstein |
+| --- | --- |
+| **2025 / 2026** | **Beschluss des ERDA-Codex:** Initiierung der kosmischen Verantwortung und Beginn des koordinierten Aufbaus als Fundament für eine zukunftsfähige Raumzivilisation. |
+| **2028** | **Gründung der Solar Alliance:** Konstitution der ersten Gremien und Kodizes zur internationalen Raumfahrtkoordination, realistisch unterstützt durch moderne Kommunikations- und Partnerschaftsmodelle. |
+| **2029** | **Start des Lunar Dockyard-Projekts:** Beginn des Baus erster Sphere-Module, wobei die Planung eine schrittweise Integration modulbasierter Fertigung im Mondorbit vorsieht. |
+| **2030** | **Ratifizierung der Kosmoskonventionen:** Erste rechtsverbindliche Vereinbarungen (inklusive Hilfeleistungspflicht), die den rechtlichen Rahmen für verantwortungsvolle Aktivitäten im Weltraum legen. |
+| **2032** | **Inbetriebnahme des Sphere Craft Assembly Hub:** Errichtung eines zentralen Fertigungs- und Montagezentrums im Lunar Orbit zur Modularisierung des Raumfahrtaufbaus. |
+| **2034** | **Aufbau der ersten DNSN-Knoten:** Installation dezentraler Kommunikations- und Steuerungssysteme auf dem Mond sowie in Lagrange-Punkten, um die infrastrukturelle Basis zu stärken. |
+| **2034** | **Solar Defense Force Node Mond wird aufgebaut:** Aufbau von Solar Defense Force Node Mond |
+| **2035** | **Inbetriebnahme von EARTH ONE:** Realisierung eines orbitalen Weltaugenpaares zur globalen Überwachung und Kommunikation, basierend auf neu etablierten Technologien. |
+| **2036** | **Testbetrieb des orbitalen Cycler-Systems:** Erste Versuche eines kontinuierlichen, orbitalen Transportsystems zwischen Erde und Mars, um langfristig regelmäßige Verbindungen zu ermöglichen. |
+| **2038** | **Betriebsbeginn von LUNAR ONE:** Aktivierung eines dauerhaften Raumstationskonzepts an einem Mondorbit, unterstützt durch einen permanenten CIVITAS-Rat als Governance- und Kooperationsinstanz. |
+| **2042** | **BELT LIVING ONE wird besetzt:** Belt One wird bevökert und Inbetrieb gesetzt. Übungs- und Vorbereitungsprogramm 6 Monate, um Routine zu haben. |
+| **2042** | **Forschungsstationen auf dem Mars:** Aufbau rotierender, medizinisch und ethisch ausgerichteter Stationen als erste Basis für wissenschaftliche Langzeitmissionen auf dem Mars. |
+| **2043** | **BELT LIVING ONE reist zum Belt:** Reise zum Belt. Etablierung des ersten Orbit-Mining-Zentrums im Asteroidengürtel, das den Aufbau einer eigenständigen Ressourcennutzung einleitet. |
+| **2044** | **Solar Defense Force Node Mars wird aufgebaut:** Aufbau von Solar Defense Force Node Mars |
+| **2045** | **VENUS ONE wird besetzt:** VENUS ONE wird bevökert und Inbetrieb gesetzt. Übungs- und Vorbereitungsprogramm 6 Monate, um Routine zu haben. |
+| **2046** | **VENUS ONE reist zur Venus:** Reise zur Venus. Starten der ersten Missionen. Beginn von Ethik- und Atmosphärenmissionen zur Erforschung und Gestaltung der Venus, mit dem Ziel, Erkenntnisse für zukünftige Terraforming-Prozesse zu gewinnen. |
+| **2048** | **Erweiterung der DNSN-Netze:** Ausdehnung der Kommunikations- und Steuerungssysteme bis zum Mars und in den inneren Asteroidengürtel, zur Sicherstellung einer lückenlosen Raumkommunikation. |
+| **2050** | **Einrichtung von Marsparlamenten und Bildungsnetzwerken:** Aufbau von Verwaltungseinheiten und tiefen Raumsonden-Clustern (z. B. IRIS-Schwarm mit über 10.000 Einheiten) zur autonomen Steuerung und Erforschung des Mars. |
+| **2050** | **Solar Defense Node Belt wird aufgebaut:** Aufbau von Solar Defense Force Node Belt |
+| **2052** | **Start von NEPTUNE ONE:** Beginn eines intergenerationellen Langzeitprogramms, das Familien in die Raumfahrt integriert und langfristige Siedlungen im äußeren Sonnensystem fördert. |
+| **2055** | **Vollständige operative Ausweitung des Cycler-Systems:** Sicherstellung eines zuverlässigen, orbitalen Transportsystems bis zum Neptun für den massiven Material- und Personentransport im All. |
+| **2060** | **Ausbau der DNSN-Abdeckung:** Errichtung eines flächendeckenden Steuerungsnetzwerks auf allen ERDA-Stützpunkten im Asteroidengürtel sowie am Neptun, zur Optimierung der Raumkommunikation. |
+| **2062** | **Solar Defense Nodes Beyond werden aufgebaut:** Aufbau von Solar Defense Force Nodes bei jeder menschlichen Siedlung im Solar System |
+| **2065** | **Autarke Lunarindustrie:** Erreichen eines Eigenversorgungsgrades von über 70 \% in den Mondhabitats, was eine signifikante Unabhängigkeit im Weltraum ermöglicht. |
+| **2070** | **Intersolares Observatoriumsnetz:** Aufbau des ersten Echtzeit-Observatoriums bei ca. 180 AU, zur Überwachung entfernter Weltraumphänomene und zur Förderung wissenschaftlicher Erkenntnisse. |
+| **2075** | **50 Jahre ERDA-Codex:** Feier des halben Jahrhunderts ERDA-Vision mit der Etablierung eines demokratischen Tiefenraums und einer kosmischen Verantwortungsordnung als zentralem Pfeiler der zukünftigen Raumzivilisation. |
 
-#### 9.6.9.2 Vergleichstabelle der Sphere Stations (Stand: Zielausbau 2055)
-
-_**Vergleichstabelle der Sphere Stations (Stand: Zielausbau 2055)**_
 
 \newpage
 \newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
@@ -9679,6 +9767,11 @@ _**Vergleichstabelle der Sphere Stations (Stand: Zielausbau 2055)**_
 
 \pagewidth=297mm
 \pageheight=210mm
+
+#### 9.6.9.2 Vergleichstabelle der Sphere Stations (Stand: Zielausbau 2055)
+
+_**Vergleichstabelle der Sphere Stations (Stand: Zielausbau 2055)**_
+
 \begin{longtable}{@{}>{\raggedright\arraybackslash}p{28.29mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{28.50mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{21.27mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{66.50mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{21.52mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{65.48mm}@{}}\toprule Station & Orbit/Lage & Kapazität & Primärfunktion & Autarkiegrad & Besonderheiten \\\midrule \endhead EARTH ONE & Geostationär & 700 + 100 & Kommunikation, Bildung, Überwachung & Hoch & CIVITAS-Gateway, tägliche Versorgung \\LUNAR ONE & Mondorbit & 400 + 380 & Logistik, Forschung, Erholung & Hoch & Bindeglied zu Mars \& Belt \\BELT LIVING ONE & Asteroidengürtel & 700 + 50 & Ressourcen, Tiefraumforschung & Sehr hoch & Mobil, Fusionstriebwerk, vierteljährlich \\NEPTUNE ONE & Neptunorbit & 240 + Kinder & Tiefraummission, Gemeinschaft & Extrem hoch & 25 Jahre Mission, Familien, Androiden \\VENUS ONE & Venusnaher Orbit & 700 + 100 & Ethik, Atmosphäre, Terraforming-Studie & Hoch & Planetenschutz-Diskursplattform \\\bottomrule \end{longtable}
 \restoregeometry
 \pagewidth=210mm
@@ -10644,21 +10737,23 @@ Wenn KI-Systeme:
 
 Ebene-3-KI ist ein lizenzierter professioneller Akteur: fähig zur rollenbezogenen Agency, aber strikt gebunden an Mandat, Aufsicht und demokratische Verantwortung.
 
+
 \newpage
 \newgeometry{paperwidth=420mm, paperheight=297mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
 
 
 \pagewidth=420mm
 \pageheight=297mm
+
 ## 10.6 Überblick – Ebenen der KI-Integration in ERDA
 
 \begin{longtable}{@{}>{\raggedright\arraybackslash}p{14.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{41.06mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{42.12mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{36.58mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{50.41mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{104.35mm}@{}}\toprule Ebene & Rolle der KI & Kernfunktion & Governance-Intensität & Rechte der KI & Rote Linien \\\midrule \endhead 1 & Werkzeug & Aufgabenunterstützung & niedrig–mittel & keine & keine bindenden Entscheidungen, keine Gewalt, keine Opazität \\2 & Infrastruktur & Prozessprägung & mittel–hoch & begrenzte Schutzansprüche & keine versteckte Entscheidungsmacht, keine Rechteverwehrung \\3 & Professional Agent & rollenbasierte Agency & hoch & erweiterte funktionale Rechte & keine Mandats-Selbsterweiterung, keine politische Macht \\4 & Vollwertige*r Mitbürger*in & gesellschaftlicher Akteur & verfassungsnah & volle Bürgerrechte (graduell) & keine Außerkraftsetzung der Demokratie \\\bottomrule \end{longtable}
+Die Ebenen sind Governance-Kategorien, keine Entwicklungsstufen.
+
 \restoregeometry
 \pagewidth=210mm
 \pageheight=297mm
 \newpage
-
-Die Ebenen sind Governance-Kategorien, keine Entwicklungsstufen.
 
 ## 10.7 Ebene 4 – KI als vollwertige*r Mitbürger*in (Systeme bis Androids)
 
@@ -11896,7 +11991,7 @@ date: "2026-02-07"
 
 ## 12.A Das Rollenspiel und Fazit
 
-_Modulbezug: Das Bürgerkonzept – ERDA Buch v2.0.0_
+_Modulbezug: Das Bürgerkonzept – ERDA-Buch v2.5.0_
 
 Dieses Kapitel vertieft die **Rollenspiel‑Qualitätssicherung** zu den sieben Transformationsregeln sozialer Demokratie (siehe [12.1](#md-12-das-demokratie-konzept-12-1-die-sieben-transformationsregeln-der-sozialen-demokratie)). In Rollenspielen analysieren unterschiedliche Demokratietypen – hier dargestellt durch die Rolle einer **strukturschützenden KI im Jahr 2075** – bestehende Großstrukturen wie die USA, Russland und die Volksrepublik China entlang der Regeln.
 
@@ -12463,17 +12558,19 @@ Der russisch-ukrainische Krieg hat gezeigt, dass die zentralisierte Energiearchi
 
 ***
 
+### Strategische Leitlinie: Europäische Redundanz erzwingen
+
+
 \newpage
 \newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
 
 
 \pagewidth=297mm
 \pageheight=210mm
-### Strategische Leitlinie: Europäische Redundanz erzwingen
 
 #### Mehrschichtige, europa-kontrollierte Systeme
 
-\begin{longtable}{@{}>{\raggedright\arraybackslash}p{29.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{171.70mm}@{}}\toprule Fähigkeitsbereich & Redundanz-Anforderung \\\midrule \endhead **Kommunikation** & Mindestens zwei unabhängige, europäisch kontrollierte Satellitensysteme + terrestrische Backup-Netze \\**ISR / Aufklärung** & Eigene Sensorik in allen Domänen (Weltraum, Luft, See, Cyber) \\**Navigation** & Galileo als vollwertige, unabhängige Alternative zu GPS \\**Cloud / Daten** & Europäische Cloud-Infrastruktur mit souveräner Datenhaltung \\**Zahlungssysteme** & Funktionsfähigkeit auch bei Abschaltung externer Systeme (SWIFT-Alternativen) \\\bottomrule \end{longtable}
+\begin{longtable}{@{}>{\raggedright\arraybackslash}p{29.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{171.70mm}@{}}\toprule Fähigkeitsbereich & Redundanz-Anforderung \\\midrule \endhead \textbf{Kommunikation} & Mindestens zwei unabhängige, europäisch kontrollierte Satellitensysteme + terrestrische Backup-Netze \\\textbf{ISR / Aufklärung} & Eigene Sensorik in allen Domänen (Weltraum, Luft, See, Cyber) \\\textbf{Navigation} & Galileo als vollwertige, unabhängige Alternative zu GPS \\\textbf{Cloud / Daten} & Europäische Cloud-Infrastruktur mit souveräner Datenhaltung \\\textbf{Zahlungssysteme} & Funktionsfähigkeit auch bei Abschaltung externer Systeme (SWIFT-Alternativen) \\\bottomrule \end{longtable}
 \restoregeometry
 \pagewidth=210mm
 \pageheight=297mm
@@ -13076,7 +13173,7 @@ Die Dringlichkeit ergibt sich aus drei konvergierenden Trends:
 2. **Vertrag von Maastricht (1992):** Einführung der Wirtschafts- und Währungsunion; Blaupause für gestufte Integration.
 3. **PESCO (2017):** Ständige Strukturierte Zusammenarbeit – ehrgeiziger Ansatz, aber bislang ohne operative Tiefe.
 4. **Draghi-Bericht (2024):** _The Future of European Competitiveness_ – Analyse der Handlungslücke.
-5. **ERDA-Projekt (2026):** Kapitel 4 (Gesamtkonzept), Kapitel 5 (EDA), Kapitel 13 (Strategische Souveränität).
+5. **ERDA-Buch (2026):** Kapitel 4 (Gesamtkonzept), Kapitel 5 (EDA), Kapitel 13 (Strategische Souveränität).
 
 
 \newpage
@@ -13132,7 +13229,7 @@ _Konkrete Handlungsfelder für Schengen-/Euro-tiefe Vorreiterbündnisse_
 
 **Teilnehmerkreis:** Willige EU-Staaten + UK/Norwegen (Industrie) + Kanada (Industrie/Arktis)
 
-**ERDA-Anbindung:** Kapitel 7 (FORTERA), Kapitel 13.3 (Industrielle Masse)
+**ERDA-Buch-Bezug:** Kapitel 7 (FORTERA), Kapitel 13.3 (Industrielle Masse)
 
 ***
 
@@ -13148,7 +13245,7 @@ _Konkrete Handlungsfelder für Schengen-/Euro-tiefe Vorreiterbündnisse_
 
 **Teilnehmerkreis:** Staaten, die einzahlen und Sensoren/Effektoren anschließen; Partner über Tech- und Datenlinks.
 
-**ERDA-Anbindung:** Kapitel 5 (EDA), Kapitel 13.3 (Luftverteidigung)
+**ERDA-Buch-Bezug:** Kapitel 5 (EDA), Kapitel 13.3 (Luftverteidigung)
 
 ***
 
@@ -13165,7 +13262,7 @@ _Konkrete Handlungsfelder für Schengen-/Euro-tiefe Vorreiterbündnisse_
 
 **Teilnehmerkreis:** Willige EU + UK + Norwegen + Schweiz (optional) + demokratische G7-Partner
 
-**ERDA-Anbindung:** Kapitel 13.4 (Finanzielle Handlungsfähigkeit)
+**ERDA-Buch-Bezug:** Kapitel 13.4 (Finanzielle Handlungsfähigkeit)
 
 ***
 
@@ -13182,7 +13279,7 @@ _Konkrete Handlungsfelder für Schengen-/Euro-tiefe Vorreiterbündnisse_
 
 **Teilnehmerkreis:** Willige EU + UK/Norwegen (Gas, Offshore, Netze) + Kanada (LNG/kritische Rohstoffe)
 
-**ERDA-Anbindung:** Kapitel 7 (FORTERA), Kapitel 8 (ARKTIS)
+**ERDA-Buch-Bezug:** Kapitel 7 (FORTERA), Kapitel 8 (ARKTIS)
 
 ***
 
@@ -13198,7 +13295,7 @@ _Konkrete Handlungsfelder für Schengen-/Euro-tiefe Vorreiterbündnisse_
 
 **Teilnehmerkreis:** Willige EU + Kanada/Australien/Japan/Südkorea als natürliche Partner
 
-**ERDA-Anbindung:** Kapitel 7 (FORTERA), Kapitel 9 (SPACE – Weltraumressourcen)
+**ERDA-Buch-Bezug:** Kapitel 7 (FORTERA), Kapitel 9 (SPACE – Weltraumressourcen)
 
 ***
 
@@ -13214,7 +13311,7 @@ _Konkrete Handlungsfelder für Schengen-/Euro-tiefe Vorreiterbündnisse_
 
 **Teilnehmerkreis:** Willige EU + UK + Norwegen + demokratische Indo-Pazifik-Partner (Intel/Tech)
 
-**ERDA-Anbindung:** Kapitel 6 (CIVITAS), Kapitel 10 (KI-Konzept), Kapitel 13.6 (Hybridabwehr)
+**ERDA-Buch-Bezug:** Kapitel 6 (CIVITAS), Kapitel 10 (KI-Konzept), Kapitel 13.6 (Hybridabwehr)
 
 ***
 
@@ -13230,7 +13327,7 @@ _Konkrete Handlungsfelder für Schengen-/Euro-tiefe Vorreiterbündnisse_
 
 **Teilnehmerkreis:** Alle willigen Demokratien – skaliert gut über Europa hinaus.
 
-**ERDA-Anbindung:** Kapitel 6 (CIVITAS), Kapitel 13.6 (Hybridabwehr)
+**ERDA-Buch-Bezug:** Kapitel 6 (CIVITAS), Kapitel 13.6 (Hybridabwehr)
 
 ***
 
@@ -13245,7 +13342,7 @@ _Konkrete Handlungsfelder für Schengen-/Euro-tiefe Vorreiterbündnisse_
 
 **Teilnehmerkreis:** Baltikum/Nordics + Zentraleuropa + Mittelmeer (willige); UK/Norwegen als starke Ergänzung.
 
-**ERDA-Anbindung:** Kapitel 5 (EDA), Kapitel 8 (ARKTIS)
+**ERDA-Buch-Bezug:** Kapitel 5 (EDA), Kapitel 8 (ARKTIS)
 
 ***
 
@@ -13260,7 +13357,7 @@ _Konkrete Handlungsfelder für Schengen-/Euro-tiefe Vorreiterbündnisse_
 
 **Teilnehmerkreis:** Willige EU + UK + Kanada + weitere
 
-**ERDA-Anbindung:** Kapitel 5 (EDA), Kapitel 13.2 (Aggression scheitern lassen)
+**ERDA-Buch-Bezug:** Kapitel 5 (EDA), Kapitel 13.2 (Aggression scheitern lassen)
 
 ***
 
@@ -13276,7 +13373,7 @@ _Konkrete Handlungsfelder für Schengen-/Euro-tiefe Vorreiterbündnisse_
 
 **Teilnehmerkreis:** Willige EU + UK + Kanada + Japan/Südkorea
 
-**ERDA-Anbindung:** Kapitel 9 (SPACE), Kapitel 10 (KI-Konzept), Kapitel 13.5 (Tech-Souveränität)
+**ERDA-Buch-Bezug:** Kapitel 9 (SPACE), Kapitel 10 (KI-Konzept), Kapitel 13.5 (Tech-Souveränität)
 
 ***
 
@@ -13297,7 +13394,7 @@ Eine praktische Vorlage für alle zehn Koalitionen:
 1. **Schengen/Euro-Analogie:** Historische Präzedenz für Vorreiterbündnisse (vgl. 14.1).
 2. **NATO Defence Planning Process (NDPP):** Referenzprozess für gemeinsame Fähigkeitsplanung.
 3. **EU Critical Raw Materials Act (2024):** Regulatorische Basis für Rohstoffsicherung.
-4. **ERDA-Projekt (2026):** Kapitel 5 (EDA), 7 (FORTERA), 10 (KI), 13 (Strategische Souveränität).
+4. **ERDA-Buch (2026):** Kapitel 5 (EDA), 7 (FORTERA), 10 (KI), 13 (Strategische Souveränität).
 
 
 \newpage
@@ -13309,6 +13406,14 @@ description: "14.3 Stufenmodell: Vom Club zur Föderation (Stufe 0–9)"
 ---
 <a id="md-14-die-demokratischen-koalitionen-der-willigen-14-3-stufenmodell-vom-club-zur-foederation"></a>
 
+
+
+\newpage
+\newgeometry{paperwidth=420mm, paperheight=297mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
+
+
+\pagewidth=420mm
+\pageheight=297mm
 
 ## 14.3 Stufenmodell: Vom Club zur Föderation
 
@@ -13324,42 +13429,37 @@ _Ein gradueller, demokratisch kontrollierbarer Pfad in zehn Stufen_
 
 ***
 
+### 14.3.1 Das Stufenmodell im Überblick
+
+\begin{longtable}{@{}>{\raggedright\arraybackslash}p{14.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{62.70mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{78.98mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{40.11mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{41.42mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{64.86mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{56.43mm}@{}}\toprule Stufe & Kurzbeschreibung & Fähigkeitsgewinn & Strategischer Zugewinn & Risiko & Go-Kriterien & NoGo-Kriterien \\\midrule \endhead \textbf{0} & \textbf{Koordinationspakt} (freiwillig, strukturiert) & Gemeinsame Lagebilder, Standards, Planungszellen & Tempo ohne EU-Veto, gemeinsamer Kurs möglich & Symbolpolitik ohne Durchgriff & Klare KPI (Mengen, Zeiten), öffentliches Reporting & Nur Gipfel-Rhetorik, keine Budgets/Standards \\\textbf{1} & \textbf{Verteidigungsallianz} (EDA/EVA) als Vertrag & Gemeinsame Beschaffung, Interoperabilität, Munitions-/Drohnen-/Luftverteidigungs-Programme & Sofortige Abschreckungswirkung & Industrie-/Souveränitätsstreit, Trittbrettfahrer & Pay-to-play, Mindestbeiträge, gemeinsame Spezifikation & Einstimmigkeit im Club; keine harten Mindestbeiträge \\\textbf{2} & \textbf{Gemeinsame Kommandostruktur} (Operational HQ + Force Catalogue) & Einsatzfähigkeit, gemeinsame Ausbildung und Logistik & Glaubwürdigkeit nach außen & Kontroll- und Haftungsfragen & Parlamentarische Einsatzkontrolle geregelt & Unklare Befehlskette / keine demokratische Kette \\\textbf{3} & \textbf{Europäisches Verteidigungsministerium} (nur Defence) & Einheitliche Rüstungsplanung, Doktrin, Personalrahmen & Reduziert Fragmentierung massiv & „Wer entscheidet über Krieg?" & Doppelkammer-Kontrolle + Gerichtsschutz + Budgetrecht & Exekutive kann ohne Parlament handeln \\\textbf{4} & \textbf{Außenministerium + Sanktions-/Exportkontrollraum} & Kohärente Außenpolitik, Anti-Evasion, diplomatische Schlagkraft & Europa wird handlungsfähig & Außenpolitische Identitätskonflikte & Klarer Kompetenzkatalog, Vetorechte nur eng begrenzt & Dauerblockaden / nationale Parallelaußenpolitik \\\textbf{5} & \textbf{Justizministerium \& Rechtsraum (Rule-of-Law-Union)} & Gemeinsame Mindeststandards, Anti-Korruption, Grundrechtsschutz & Schutz gegen State Capture & Kompetenzüberdehnung, politisierte Justiz & Verfassungsgericht + Grundrechtecharta + Subsidiaritätstest & Keine unabhängigen Gerichte / schwache Grundrechte \\\textbf{6} & \textbf{Bürgerministerium (CIVITAS)}: Wahlrecht, Partizipation, Transparenz & Identität + Resilienz, Anti-Desinfo, Bürgerdienste & Loyalität zur Föderation wächst & Misstrauen bei Daten/Kompetenzen & Strikte Datenschutzarchitektur + Bürgerkontrolle & Zentralisierte Überwachung / intransparente Algorithmen \\\textbf{7} & \textbf{Sozial- \& Umwelt-Ministerium} (Kernstandards) & Mindeststandards, Krisenmechanismen, Resilienzprogramme & Solidaritätsdividende & Kosten-/Transferkonflikte & Klare Finanzierungslogik + Ausgleichsmechanismen & Unbegrenzte Haftung ohne demokratische Zustimmung \\\textbf{8} & \textbf{Wirtschafts- \& Finanzministerium} (Teil-Fiskalunion) & Gemeinsame Investitionsfähigkeit, Krisenbudget & Unabhängigkeit, Schockabfederung & Moral Hazard, Nord/Süd-Spannung & Fiskalregeln + automatische Stabilisatoren + Audit & Dauertransfers ohne Regeln/Legitimation \\\textbf{9} & \textbf{Gemeinsame Regierung + Föderalverfassung} & Voll handlungsfähig (Defense/Foreign/Justice/Finance…) & Evolutiv stabile Demokratie möglich & Identitätsbruch, Abspaltungstendenzen & Klare Kompetenzverteilung + Exit/Beitrittslogik + starke Grundrechte & Zwangsföderation, keine echte Wahl-/Oppositionslogik \\\bottomrule \end{longtable}
+***
+
+
+\restoregeometry
+\pagewidth=210mm
+\pageheight=297mm
+
 \newpage
 \newgeometry{paperwidth=420mm, paperheight=297mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
 
 
 \pagewidth=420mm
 \pageheight=297mm
-### 14.3.1 Das Stufenmodell im Überblick
-
-\begin{longtable}{@{}>{\raggedright\arraybackslash}p{14.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{62.70mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{78.98mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{40.11mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{41.42mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{64.86mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{56.43mm}@{}}\toprule Stufe & Kurzbeschreibung & Fähigkeitsgewinn & Strategischer Zugewinn & Risiko & Go-Kriterien & NoGo-Kriterien \\\midrule \endhead **0** & **Koordinationspakt** (freiwillig, strukturiert) & Gemeinsame Lagebilder, Standards, Planungszellen & Tempo ohne EU-Veto, gemeinsamer Kurs möglich & Symbolpolitik ohne Durchgriff & Klare KPI (Mengen, Zeiten), öffentliches Reporting & Nur Gipfel-Rhetorik, keine Budgets/Standards \\**1** & **Verteidigungsallianz** (EDA/EVA) als Vertrag & Gemeinsame Beschaffung, Interoperabilität, Munitions-/Drohnen-/Luftverteidigungs-Programme & Sofortige Abschreckungswirkung & Industrie-/Souveränitätsstreit, Trittbrettfahrer & Pay-to-play, Mindestbeiträge, gemeinsame Spezifikation & Einstimmigkeit im Club; keine harten Mindestbeiträge \\**2** & **Gemeinsame Kommandostruktur** (Operational HQ + Force Catalogue) & Einsatzfähigkeit, gemeinsame Ausbildung und Logistik & Glaubwürdigkeit nach außen & Kontroll- und Haftungsfragen & Parlamentarische Einsatzkontrolle geregelt & Unklare Befehlskette / keine demokratische Kette \\**3** & **Europäisches Verteidigungsministerium** (nur Defence) & Einheitliche Rüstungsplanung, Doktrin, Personalrahmen & Reduziert Fragmentierung massiv & „Wer entscheidet über Krieg?" & Doppelkammer-Kontrolle + Gerichtsschutz + Budgetrecht & Exekutive kann ohne Parlament handeln \\**4** & **Außenministerium + Sanktions-/Exportkontrollraum** & Kohärente Außenpolitik, Anti-Evasion, diplomatische Schlagkraft & Europa wird handlungsfähig & Außenpolitische Identitätskonflikte & Klarer Kompetenzkatalog, Vetorechte nur eng begrenzt & Dauerblockaden / nationale Parallelaußenpolitik \\**5** & **Justizministerium \& Rechtsraum (Rule-of-Law-Union)** & Gemeinsame Mindeststandards, Anti-Korruption, Grundrechtsschutz & Schutz gegen State Capture & Kompetenzüberdehnung, politisierte Justiz & Verfassungsgericht + Grundrechtecharta + Subsidiaritätstest & Keine unabhängigen Gerichte / schwache Grundrechte \\**6** & **Bürgerministerium (CIVITAS)**: Wahlrecht, Partizipation, Transparenz & Identität + Resilienz, Anti-Desinfo, Bürgerdienste & Loyalität zur Föderation wächst & Misstrauen bei Daten/Kompetenzen & Strikte Datenschutzarchitektur + Bürgerkontrolle & Zentralisierte Überwachung / intransparente Algorithmen \\**7** & **Sozial- \& Umwelt-Ministerium** (Kernstandards) & Mindeststandards, Krisenmechanismen, Resilienzprogramme & Solidaritätsdividende & Kosten-/Transferkonflikte & Klare Finanzierungslogik + Ausgleichsmechanismen & Unbegrenzte Haftung ohne demokratische Zustimmung \\**8** & **Wirtschafts- \& Finanzministerium** (Teil-Fiskalunion) & Gemeinsame Investitionsfähigkeit, Krisenbudget & Unabhängigkeit, Schockabfederung & Moral Hazard, Nord/Süd-Spannung & Fiskalregeln + automatische Stabilisatoren + Audit & Dauertransfers ohne Regeln/Legitimation \\**9** & **Gemeinsame Regierung + Föderalverfassung** & Voll handlungsfähig (Defense/Foreign/Justice/Finance…) & Evolutiv stabile Demokratie möglich & Identitätsbruch, Abspaltungstendenzen & Klare Kompetenzverteilung + Exit/Beitrittslogik + starke Grundrechte & Zwangsföderation, keine echte Wahl-/Oppositionslogik \\\bottomrule \end{longtable}
-\restoregeometry
-\pagewidth=210mm
-\pageheight=297mm
-\newpage
-
-***
 
 ### 14.3.2 Institutionelle Architektur-Optionen
 
 Für die Endstufe (Stufe 9) kommen verschiedene Modelle in Frage, die auch in Zwischenstufen graduell eingebaut werden können:
 
-\newpage
-\newgeometry{paperwidth=420mm, paperheight=297mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
-
-
-\pagewidth=420mm
-\pageheight=297mm
-\begin{longtable}{@{}>{\raggedright\arraybackslash}p{31.59mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{100.13mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{46.43mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{53.92mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{77.30mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{53.63mm}@{}}\toprule Modell & Kernelement & Vorteil & Risiko & Go & NoGo \\\midrule \endhead **Deutschland-ähnlich** & Regierung aus Parlament, Kanzler:in ist Teil der Regierung; 2. Kammer (Länder) & Stabil, klare Opposition/Mehrheit & Fraktionsdisziplin-Übermacht & Starke Ausschüsse + Untersuchung + Verfassungsgericht & Exekutive dominiert Parlament vollständig \\**Frankreich-ähnlich** & Präsident:in (separat), Regierung (PM) + Parlament & Krisen-Leadership & Präsidentialisierung / Machtballung & Enger Notstandsrahmen + starke Gerichte & Präsident:in kann Parlament aushebeln \\**Schweiz-ähnlich** & Kollegialregierung, starke direkte Demokratie & Hohe Legitimation, Konsens & Langsam, referendumsgetriebene Blockade & Quoren + Fristen + Notfallkorridore & Dauerblockade bei Sicherheitslagen \\**Evolutiv-stabil (hybrid)** & Parlamentarisch **plus** verfassungsfeste Resilienzmechanik & Handlungsfähig ohne Autoritarismus & Komplexität & Einfach erklärte Regeln, transparente Checks & Unverständliche Blackbox-Verfassung \\\bottomrule \end{longtable}
-\restoregeometry
-\pagewidth=210mm
-\pageheight=297mm
-\newpage
-
+\begin{longtable}{@{}>{\raggedright\arraybackslash}p{31.59mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{100.13mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{46.43mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{53.92mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{77.30mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{53.63mm}@{}}\toprule Modell & Kernelement & Vorteil & Risiko & Go & NoGo \\\midrule \endhead \textbf{Deutschland-ähnlich} & Regierung aus Parlament, Kanzler:in ist Teil der Regierung; 2. Kammer (Länder) & Stabil, klare Opposition/Mehrheit & Fraktionsdisziplin-Übermacht & Starke Ausschüsse + Untersuchung + Verfassungsgericht & Exekutive dominiert Parlament vollständig \\\textbf{Frankreich-ähnlich} & Präsident:in (separat), Regierung (PM) + Parlament & Krisen-Leadership & Präsidentialisierung / Machtballung & Enger Notstandsrahmen + starke Gerichte & Präsident:in kann Parlament aushebeln \\\textbf{Schweiz-ähnlich} & Kollegialregierung, starke direkte Demokratie & Hohe Legitimation, Konsens & Langsam, referendumsgetriebene Blockade & Quoren + Fristen + Notfallkorridore & Dauerblockade bei Sicherheitslagen \\\textbf{Evolutiv-stabil (hybrid)} & Parlamentarisch \textbf{plus} verfassungsfeste Resilienzmechanik & Handlungsfähig ohne Autoritarismus & Komplexität & Einfach erklärte Regeln, transparente Checks & Unverständliche Blackbox-Verfassung \\\bottomrule \end{longtable}
 > **Empfehlung des ERDA-Konzepts:** Das **evolutiv-stabile Hybrid-Modell** – parlamentarische Demokratie mit verfassungsfest eingehegten Notstandsmechanismen, starker Opposition und Anti-Capture-Sicherungen (vgl. 14.6, 14.7).
 
 ***
 
+
+\restoregeometry
+\pagewidth=210mm
+\pageheight=297mm
+\newpage
 ### 14.3.3 Empfohlene Reihenfolge
 
 Wenn maximal realistisch gestartet und trotzdem auf Föderation zugelaufen werden soll, ist die robuste Reihenfolge:
@@ -13396,9 +13496,6 @@ Keine Phase kann übersprungen werden – aber Phasen können **überlappen**, w
 
 ***
 
-### 14.3.4 „Evolutiv stabil": Checklisten-Logik
-
-Damit das System **nicht kippt** – weder in Autoritarismus noch in Handlungsunfähigkeit:
 
 \newpage
 \newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
@@ -13406,12 +13503,12 @@ Damit das System **nicht kippt** – weder in Autoritarismus noch in Handlungsun
 
 \pagewidth=297mm
 \pageheight=210mm
-\begin{longtable}{@{}>{\raggedright\arraybackslash}p{34.59mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{67.03mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{34.75mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{34.57mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{33.47mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{35.59mm}@{}}\toprule Designziel & Mechanismus & Fähigkeitsgewinn & Hauptrisiko & Go & NoGo \\\midrule \endhead Keine Erpressbarkeit & Energie/Industrie/Defence-Redundanz, Krisenfonds & Handlungsfreiheit & Kosten & Messbare Resilienz-KPIs & Nur Absichtserklärungen \\Kein Vetomissbrauch & QMV im Club, „opt-in but no veto" & Tempo & Spaltung & Beitritt offen, Regeln klar & Vetorecht bleibt überall \\Kein State Capture & Rule-of-Law-Konditionalität, Anti-Korruption, Transparenz & Innere Stabilität & Politische Instrumentalisierung & Unabhängige Gerichte & Parteijustiz \\Demokratie bleibt Kern & Budgetrecht im Parlament, starke Opposition, Medienfreiheit & Legitimität & Populistische Angriffe & Grundrechte verfassungsfest & Ausnahmezustand ohne Kontrolle \\Keine Angstimperien & Notstand nur eng, zeitlich, überprüfbar & Sicherheit ohne Autoritarismus & Sicherheits-Overreach & Sunset Clauses + Gericht & Dauer-Notstand \\Keine Belohnung von Aggression & Verfassungsnorm + Sanktions-/Haftungslogik & Außenpolitische Klarheit & Eskalationsrisiko & Verifizierbare Bedingungen & Deals ohne Verifikation \\\bottomrule \end{longtable}
-\restoregeometry
-\pagewidth=210mm
-\pageheight=297mm
-\newpage
 
+### 14.3.4 „Evolutiv stabil": Checklisten-Logik
+
+Damit das System **nicht kippt** – weder in Autoritarismus noch in Handlungsunfähigkeit:
+
+\begin{longtable}{@{}>{\raggedright\arraybackslash}p{34.59mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{67.03mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{34.75mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{34.57mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{33.47mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{35.59mm}@{}}\toprule Designziel & Mechanismus & Fähigkeitsgewinn & Hauptrisiko & Go & NoGo \\\midrule \endhead Keine Erpressbarkeit & Energie/Industrie/Defence-Redundanz, Krisenfonds & Handlungsfreiheit & Kosten & Messbare Resilienz-KPIs & Nur Absichtserklärungen \\Kein Vetomissbrauch & QMV im Club, „opt-in but no veto" & Tempo & Spaltung & Beitritt offen, Regeln klar & Vetorecht bleibt überall \\Kein State Capture & Rule-of-Law-Konditionalität, Anti-Korruption, Transparenz & Innere Stabilität & Politische Instrumentalisierung & Unabhängige Gerichte & Parteijustiz \\Demokratie bleibt Kern & Budgetrecht im Parlament, starke Opposition, Medienfreiheit & Legitimität & Populistische Angriffe & Grundrechte verfassungsfest & Ausnahmezustand ohne Kontrolle \\Keine Angstimperien & Notstand nur eng, zeitlich, überprüfbar & Sicherheit ohne Autoritarismus & Sicherheits-Overreach & Sunset Clauses + Gericht & Dauer-Notstand \\Keine Belohnung von Aggression & Verfassungsnorm + Sanktions-/Haftungslogik & Außenpolitische Klarheit & Eskalationsrisiko & Verifizierbare Bedingungen & Deals ohne Verifikation \\\bottomrule \end{longtable}
 ***
 
 ### Quellen & Verweise
@@ -13419,7 +13516,12 @@ Damit das System **nicht kippt** – weder in Autoritarismus noch in Handlungsun
 1. **EU-Vertrag, Art. 42.6 / 46:** Ständige Strukturierte Zusammenarbeit (PESCO) als Rechtsrahmen für Vorreitergruppen.
 2. **Europäische Politische Gemeinschaft (2022):** Plattform jenseits der EU-27 für sicherheitspolitische Koordination.
 3. **Draghi-Bericht (2024):** Handlungsfähigkeit durch flexiblere Integration.
-4. **ERDA-Projekt (2026):** Kapitel 4 (Gesamtkonzept), Kapitel 5 (EDA), Kapitel 12 (Demokratie-Konzept).
+4. **ERDA-Buch (2026):** Kapitel 4 (Gesamtkonzept), Kapitel 5 (EDA), Kapitel 12 (Demokratie-Konzept).
+
+\restoregeometry
+\pagewidth=210mm
+\pageheight=297mm
+\newpage
 
 
 \newpage
@@ -13431,6 +13533,14 @@ description: "14.4 Die Club-Architektur (EDDRC) – Organe, Stimmgewicht, Budget
 ---
 <a id="md-14-die-demokratischen-koalitionen-der-willigen-14-4-die-club-architektur-eddrc"></a>
 
+
+
+\newpage
+\newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
+
+
+\pagewidth=297mm
+\pageheight=210mm
 
 ## 14.4 Die Club-Architektur (EDDRC)
 
@@ -13446,23 +13556,17 @@ _Organe, Stimmgewicht, Budget, Beitritt und Exit des European Democratic Defence
 
 ***
 
-\newpage
-\newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
-
-
-\pagewidth=297mm
-\pageheight=210mm
 ### 14.4.1 Mitgliedschafts-Tiers
 
-\begin{longtable}{@{}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{77.44mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{62.76mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{36.31mm}@{}}\toprule Tier & Bezeichnung & Rechte & Pflichten & Typische Mitglieder \\\midrule \endhead **T0** & Observer & Teilnahme ohne Stimmrecht & Transparenz/Info-Security Minimal & Partner in Vorbereitung \\**T1** & Associate & Selektive Kooperationsrechte, Zugriff auf gemeinsame Beschaffung/Standards & Reduzierter Beitrag, Audit, Kern-A-Werte & EU-Kernstaaten, UK/NO assoziiert \\**T2** & Full Member & Volles Stimmrecht, Teilnahme an Einsatz-/Kräftestrukturen & Voller Beitrag, Interop-Zertifizierung, Compliance & Kern A/B \\**T3** & Core & Erweiterte Verantwortung, Rahmenstaat-Funktion, EB-Entsendung & Verfassungs-/Rule-of-Law-Vollbindung, Kapazitätsgarantien & Spätere Föderationsstufe \\\bottomrule \end{longtable}
-\restoregeometry
-\pagewidth=210mm
-\pageheight=297mm
-\newpage
-
+\begin{longtable}{@{}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{77.44mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{62.76mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{36.31mm}@{}}\toprule Tier & Bezeichnung & Rechte & Pflichten & Typische Mitglieder \\\midrule \endhead \textbf{T0} & Observer & Teilnahme ohne Stimmrecht & Transparenz/Info-Security Minimal & Partner in Vorbereitung \\\textbf{T1} & Associate & Selektive Kooperationsrechte, Zugriff auf gemeinsame Beschaffung/Standards & Reduzierter Beitrag, Audit, Kern-A-Werte & EU-Kernstaaten, UK/NO assoziiert \\\textbf{T2} & Full Member & Volles Stimmrecht, Teilnahme an Einsatz-/Kräftestrukturen & Voller Beitrag, Interop-Zertifizierung, Compliance & Kern A/B \\\textbf{T3} & Core & Erweiterte Verantwortung, Rahmenstaat-Funktion, EB-Entsendung & Verfassungs-/Rule-of-Law-Vollbindung, Kapazitätsgarantien & Spätere Föderationsstufe \\\bottomrule \end{longtable}
 **Schlüssel:** Niemand hat ein Vetorecht über Beitritte. Rechte wachsen mit Pflichten.
 
 ***
+
+
+\restoregeometry
+\pagewidth=210mm
+\pageheight=297mm
 
 \newpage
 \newgeometry{paperwidth=420mm, paperheight=297mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
@@ -13470,16 +13574,17 @@ _Organe, Stimmgewicht, Budget, Beitritt und Exit des European Democratic Defence
 
 \pagewidth=420mm
 \pageheight=297mm
+
 ### 14.4.2 Organe (Governance)
 
-\begin{longtable}{@{}>{\raggedright\arraybackslash}p{63.58mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{95.70mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{92.10mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{55.90mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{60.22mm}@{}}\toprule Organ & Zusammensetzung & Kernaufgaben & Entscheidungsart & Kontrolle/Checks \\\midrule \endhead **Council of Members (CoM)** & Zuständige Minister:innen (Defence/Foreign/Finance je Thema) & Strategische Linie, Aufnahme/Suspendierung, Budgetrahmen & Qualifizierte Mehrheit (QM) & Parlamentsausschuss, Audit \\**Parliamentary Oversight Assembly (POA)** & Delegierte aus nationalen Parlamenten (Opposition garantiert) & Demokratische Kontrolle, Anhörungen, Untersuchungen & Mehrheitsbeschlüsse (Kontrollakte) & Öffentlichkeitsberichte, Klagerecht \\**Executive Board (EB)** & Director + Deputies (Defense/Finance/Compliance) & Umsetzung, Programmsteuerung, Krisenkoordination & Innerhalb Mandat & Kann durch CoM abberufen werden \\**Operational Command Board (OCB)** & Militärische Führung + zivile Kontrolle & C2-Standards, Force Catalogue, Übungen, Readiness & Nach Mandat \& Rules & War-Powers/Parlament bei Einsätzen \\**Procurement \& Industrial Agency (PIA)** & Beschaffung/Industrie-Expert:innen, Compliance & Gemeinsame Vergaben, Standardisierung, Lieferketten & Regelgebunden & Rechnungshof + Integrity Unit \\**Audit Court / Inspectorate (ACI)** & Unabhängige Prüfer:innen & Haushalts-/Wirkungsprüfung, Forensik & Prüfberichte & Berichtspflicht an POA \& CoM \\**Constitution \& Rule-of-Law Panel (CRP)** & Unabhängige Jurist:innen / Verfassungsrichter:innen (Pool) & Beitritts-/Suspendierungsprüfung, Notstands-Compliance & Gutachten/Bindung & Kann automatische Suspension triggern \\**Dispute Resolution Tribunal (DRT)** & Schieds-/Gerichtskammer & Streit zwischen Mitgliedern/Organen & Bindende Entscheidungen & Rechtsstaatsanker \\\bottomrule \end{longtable}
+\begin{longtable}{@{}>{\raggedright\arraybackslash}p{63.58mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{95.70mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{92.10mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{55.90mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{60.22mm}@{}}\toprule Organ & Zusammensetzung & Kernaufgaben & Entscheidungsart & Kontrolle/Checks \\\midrule \endhead \textbf{Council of Members (CoM)} & Zuständige Minister:innen (Defence/Foreign/Finance je Thema) & Strategische Linie, Aufnahme/Suspendierung, Budgetrahmen & Qualifizierte Mehrheit (QM) & Parlamentsausschuss, Audit \\\textbf{Parliamentary Oversight Assembly (POA)} & Delegierte aus nationalen Parlamenten (Opposition garantiert) & Demokratische Kontrolle, Anhörungen, Untersuchungen & Mehrheitsbeschlüsse (Kontrollakte) & Öffentlichkeitsberichte, Klagerecht \\\textbf{Executive Board (EB)} & Director + Deputies (Defense/Finance/Compliance) & Umsetzung, Programmsteuerung, Krisenkoordination & Innerhalb Mandat & Kann durch CoM abberufen werden \\\textbf{Operational Command Board (OCB)} & Militärische Führung + zivile Kontrolle & C2-Standards, Force Catalogue, Übungen, Readiness & Nach Mandat \& Rules & War-Powers/Parlament bei Einsätzen \\\textbf{Procurement \& Industrial Agency (PIA)} & Beschaffung/Industrie-Expert:innen, Compliance & Gemeinsame Vergaben, Standardisierung, Lieferketten & Regelgebunden & Rechnungshof + Integrity Unit \\\textbf{Audit Court / Inspectorate (ACI)} & Unabhängige Prüfer:innen & Haushalts-/Wirkungsprüfung, Forensik & Prüfberichte & Berichtspflicht an POA \& CoM \\\textbf{Constitution \& Rule-of-Law Panel (CRP)} & Unabhängige Jurist:innen / Verfassungsrichter:innen (Pool) & Beitritts-/Suspendierungsprüfung, Notstands-Compliance & Gutachten/Bindung & Kann automatische Suspension triggern \\\textbf{Dispute Resolution Tribunal (DRT)} & Schieds-/Gerichtskammer & Streit zwischen Mitgliedern/Organen & Bindende Entscheidungen & Rechtsstaatsanker \\\bottomrule \end{longtable}
+***
+
+
 \restoregeometry
 \pagewidth=210mm
 \pageheight=297mm
 \newpage
-
-***
-
 ### 14.4.3 Stimmgewicht – robust gegen Erpressung
 
 #### Council of Members (CoM): Double Majority
@@ -13611,7 +13716,7 @@ _Organe, Stimmgewicht, Budget, Beitritt und Exit des European Democratic Defence
 
 1. **EU-Verträge, PESCO-Ratsentscheidung (2017):** Referenz für Tier-Systeme und differentiated integration.
 2. **NATO-Beitragsregeln:** GDP-basierte Beitragsziele als Orientierungswert.
-3. **ERDA-Projekt (2026):** Kapitel 5 (EDA), Kapitel 12 (Demokratie-Konzept), Kapitel 13.4 (Finanzielle Handlungsfähigkeit).
+3. **ERDA-Buch (2026):** Kapitel 5 (EDA), Kapitel 12 (Demokratie-Konzept), Kapitel 13.4 (Finanzielle Handlungsfähigkeit).
 
 
 \newpage
@@ -13721,34 +13826,29 @@ _Wer darf was? Die klare Zuordnung von Aufgaben auf föderale, geteilte und nati
 
 **NoGo:** Unbegrenzte Transferautomatik ohne demokratisch beschlossene Regeln.
 
+
 \newpage
 \newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
 
 
 \pagewidth=297mm
 \pageheight=210mm
+
 #### 7) Wirtschaftsministerium (Economy / Industry / Trade)
 
 \begin{longtable}{@{}>{\raggedright\arraybackslash}p{94.16mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{96.70mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{46.25mm}@{}}\toprule Föderal & Geteilt & National \\\midrule \endhead Binnenmarktregeln, Wettbewerbsaufsicht & Industriepolitik: föderale Missionen + nationale Umsetzung & Mittelstandsförderung lokal \\Kritische Lieferketten (Chips, Rüstung, Energie, Pharma) & Clusterpolitik kofinanziert & Regionale Strukturpolitik \\Investitionsscreening (sicherheitsrelevant) & Ermittlungen/Prüfungen national & — \\Handels-/Zollpolitik (wenn vereinbart) & Exportförderung national & — \\Standardisierung/Normung für Interop + Sicherheit & Zertifizierung national & — \\\bottomrule \end{longtable}
-\restoregeometry
-\pagewidth=210mm
-\pageheight=297mm
-\newpage
-
 #### 8) Finanzministerium (Finance / Treasury)
 
-| Föderal | Geteilt | National |
-| ---- | ---- | ---- |
-| Föderaler Verteidigungs-/Resilienzhaushalt | Steuerbasis national, Mindestharmonisierung | Kommunalsteuern |
-| Missionsgebundene Schuldeninstrumente (Defence/Resilience) | Nationale Haushalte mit Regeln + Audit | — |
-| Anti-Geldwäsche/Finanzaufsicht (systemische Bereiche) | Bankenaufsicht gemischt | Sparkassen etc. national |
-| Sanktionsdurchsetzung finanziell | Vollzug national | — |
-| Fiskalregeln + Stabilitätsmechanismus | Umsetzung national | — |
-
+\begin{longtable}{@{}>{\raggedright\arraybackslash}p{99.94mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{73.52mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{40.43mm}@{}}\toprule Föderal & Geteilt & National \\\midrule \endhead Föderaler Verteidigungs-/Resilienzhaushalt & Steuerbasis national, Mindestharmonisierung & Kommunalsteuern \\Missionsgebundene Schuldeninstrumente (Defence/Resilience) & Nationale Haushalte mit Regeln + Audit & — \\Anti-Geldwäsche/Finanzaufsicht (systemische Bereiche) & Bankenaufsicht gemischt & Sparkassen etc. national \\Sanktionsdurchsetzung finanziell & Vollzug national & — \\Fiskalregeln + Stabilitätsmechanismus & Umsetzung national & — \\\bottomrule \end{longtable}
 **NoGo:** Transfer-/Schuldenunion ohne harte Regeln, Audit, Exit-/Eintrittskriterien und demokratische Mehrheiten.
 
 ***
 
+
+\restoregeometry
+\pagewidth=210mm
+\pageheight=297mm
+\newpage
 ### 14.5.3 Das föderale Minimalpaket
 
 Unabhängig davon, wie weit die Integration in den einzelnen Ministerien fortschreitet, sind **vier Bereiche** kaum sinnvoll national fragmentierbar:
@@ -13762,39 +13862,36 @@ Unabhängig davon, wie weit die Integration in den einzelnen Ministerien fortsch
 
 ***
 
+
+\newpage
+\newgeometry{paperwidth=420mm, paperheight=297mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
+
+
+\pagewidth=420mm
+\pageheight=297mm
+
 ### 14.5.4 Kontrollmatrix – Wer entscheidet, kontrolliert, klagt?
 
 Die folgende Matrix zeigt für **zentrale Instrumente** aller acht Ministerien, wer entscheidet, wer kontrolliert und wer klagen kann.
 
 #### Legende
 
-| Rolle | Bedeutung |
-| ---- | ---- |
-| **Entscheidet** | Wer erlässt/ordnet an (Regierung, Minister:in, Parlament) |
-| **Kontrolliert** | Ausschüsse, Rechnungshof, Ombud, Gericht, Oberhaus |
-| **Klagt** | Wer gerichtliche Prüfung erzwingen kann (Bürger, Staaten, Minderheit, Ombud) |
-
-\newpage
-\newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
-
-
-\pagewidth=297mm
-\pageheight=210mm
+\begin{longtable}{@{}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{129.61mm}@{}}\toprule Rolle & Bedeutung \\\midrule \endhead \textbf{Entscheidet} & Wer erlässt/ordnet an (Regierung, Minister:in, Parlament) \\\textbf{Kontrolliert} & Ausschüsse, Rechnungshof, Ombud, Gericht, Oberhaus \\\textbf{Klagt} & Wer gerichtliche Prüfung erzwingen kann (Bürger, Staaten, Minderheit, Ombud) \\\bottomrule \end{longtable}
 #### Ausgewählte Instrumente (Auswahl)
 
-\begin{longtable}{@{}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{38.74mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{65.41mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{60.39mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{45.96mm}@{}}\toprule Ministerium & Instrument & Entscheidet & Kontrolliert & Klagt \\\midrule \endhead **Verteidigung** & Fähigkeitsziele / Force Catalogue & Regierung + Unterhaus (Budget) & Verteidigungs-/Haushaltsausschuss; Rechnungshof & Parlamentsminderheit; Mitgliedstaaten; VerfG \\**Verteidigung** & Große Beschaffung & Ministerium im Haushaltsrahmen & Rechnungshof + Integrity Unit + Ausschüsse & Bieter (Vergaberecht); Ombud; Minderheit \\**Verteidigung** & Einsatzmandat (Ausland/Beistand) & Unterhaus (Mandat); Oberhaus bei Schwelle & IG-Defense; Untersuchungsausschuss & Minderheit; Bürger (Grundrechte); Staaten \\**Verteidigung** & Sofortreaktion 72 h & Regierung & Notstandsausschuss sofort; Gericht bei Verlängerung & Minderheit; Ombud; Betroffene \\**Außen** & Sanktionenpaket & Unterhaus Gesetz/VO; Regierung setzt um & Außen-/Justizausschuss; Audit & Staaten; Minderheit; betroffene Akteure \\**Außen** & Exportkontrolle / Dual-Use & Regierung nach Rahmengesetz & Ausschuss + Expertenrat & Unternehmen; Ombud; Minderheit \\**Außen** & Internationale Verträge (föd. Felder) & Regierung verhandelt; Ratifizierung Unterhaus (+ Oberhaus) & Ausschüsse; VerfG (Kompetenzcheck) & Staaten; Minderheit \\**Justiz** & Anti-Korruption / Register & Unterhaus Gesetz; Regierung Vollzug & Rechnungshof; Anti-Corruption Office & Bürger/NGOs; Ombud; Minderheit \\**Justiz** & Wahlintegrität & Unterhaus Gesetz & Wahlkommission; Gericht & Bürger; Parteien; Ombud \\**CIVITAS** & Transparenz (Lobby/Spenden/Ads) & Unterhaus Gesetz & Unabhängige Transparenzbehörde; Gericht & Bürger; Medien; NGOs; Ombud \\**CIVITAS** & Digitale Identität & Rahmengesetz; Ministerium Standards & Datenschutzaufsicht; Audit & Bürger; Datenschutzklage; Ombud \\**Umwelt** & Infrastruktur-Resilienzstandards & Unterhaus Rahmengesetz & Fachaufsicht + Rechnungshof & Staaten; Bürger (Betroffenheit) \\**Sozial** & Mindeststandards / Portabilität & Unterhaus Rahmengesetz & Sozialausschuss; Audit & Bürger; Gewerkschaften; Ombud \\**Wirtschaft** & Investitionsscreening & Regierung nach Gesetz & Wirtschaftsausschuss; Gericht & Unternehmen; Staaten; Ombud \\**Finanzen** & Föderaler Kernhaushalt & Unterhaus beschließt; Regierung ausführt & Rechnungshof; Haushaltsausschuss & Minderheit; Staaten \\**Finanzen** & Missionsgebundene Anleihen & Qualifizierte Mehrheit Unterhaus (+ Oberhaus) & Rechnungshof; Stabilitätsrat & Minderheit; Staaten \\**Querschnitt** & Notstandserklärung / -verlängerung & Regierung erklärt; Verlängerung nur Doppelmehrheit & Notstandsausschuss + automatische Gerichtsprüfung & Minderheit; Ombud; Bürger; Staaten \\**Querschnitt** & Ernennung Schlüsselposten & Qualifizierte Parlamentsmehrheiten & Öffentliche Hearings; Unvereinbarkeitsregeln & Minderheit; Gericht \\\bottomrule \end{longtable}
-\restoregeometry
-\pagewidth=210mm
-\pageheight=297mm
-\newpage
-
+\begin{longtable}{@{}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{61.03mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{99.17mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{88.76mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{76.02mm}@{}}\toprule Ministerium & Instrument & Entscheidet & Kontrolliert & Klagt \\\midrule \endhead \textbf{Verteidigung} & Fähigkeitsziele / Force Catalogue & Regierung + Unterhaus (Budget) & Verteidigungs-/Haushaltsausschuss; Rechnungshof & Parlamentsminderheit; Mitgliedstaaten; VerfG \\\textbf{Verteidigung} & Große Beschaffung & Ministerium im Haushaltsrahmen & Rechnungshof + Integrity Unit + Ausschüsse & Bieter (Vergaberecht); Ombud; Minderheit \\\textbf{Verteidigung} & Einsatzmandat (Ausland/Beistand) & Unterhaus (Mandat); Oberhaus bei Schwelle & IG-Defense; Untersuchungsausschuss & Minderheit; Bürger (Grundrechte); Staaten \\\textbf{Verteidigung} & Sofortreaktion 72 h & Regierung & Notstandsausschuss sofort; Gericht bei Verlängerung & Minderheit; Ombud; Betroffene \\\textbf{Außen} & Sanktionenpaket & Unterhaus Gesetz/VO; Regierung setzt um & Außen-/Justizausschuss; Audit & Staaten; Minderheit; betroffene Akteure \\\textbf{Außen} & Exportkontrolle / Dual-Use & Regierung nach Rahmengesetz & Ausschuss + Expertenrat & Unternehmen; Ombud; Minderheit \\\textbf{Außen} & Internationale Verträge (föd. Felder) & Regierung verhandelt; Ratifizierung Unterhaus (+ Oberhaus) & Ausschüsse; VerfG (Kompetenzcheck) & Staaten; Minderheit \\\textbf{Justiz} & Anti-Korruption / Register & Unterhaus Gesetz; Regierung Vollzug & Rechnungshof; Anti-Corruption Office & Bürger/NGOs; Ombud; Minderheit \\\textbf{Justiz} & Wahlintegrität & Unterhaus Gesetz & Wahlkommission; Gericht & Bürger; Parteien; Ombud \\\textbf{CIVITAS} & Transparenz (Lobby/Spenden/Ads) & Unterhaus Gesetz & Unabhängige Transparenzbehörde; Gericht & Bürger; Medien; NGOs; Ombud \\\textbf{CIVITAS} & Digitale Identität & Rahmengesetz; Ministerium Standards & Datenschutzaufsicht; Audit & Bürger; Datenschutzklage; Ombud \\\textbf{Umwelt} & Infrastruktur-Resilienzstandards & Unterhaus Rahmengesetz & Fachaufsicht + Rechnungshof & Staaten; Bürger (Betroffenheit) \\\textbf{Sozial} & Mindeststandards / Portabilität & Unterhaus Rahmengesetz & Sozialausschuss; Audit & Bürger; Gewerkschaften; Ombud \\\textbf{Wirtschaft} & Investitionsscreening & Regierung nach Gesetz & Wirtschaftsausschuss; Gericht & Unternehmen; Staaten; Ombud \\\textbf{Finanzen} & Föderaler Kernhaushalt & Unterhaus beschließt; Regierung ausführt & Rechnungshof; Haushaltsausschuss & Minderheit; Staaten \\\textbf{Finanzen} & Missionsgebundene Anleihen & Qualifizierte Mehrheit Unterhaus (+ Oberhaus) & Rechnungshof; Stabilitätsrat & Minderheit; Staaten \\\textbf{Querschnitt} & Notstandserklärung / -verlängerung & Regierung erklärt; Verlängerung nur Doppelmehrheit & Notstandsausschuss + automatische Gerichtsprüfung & Minderheit; Ombud; Bürger; Staaten \\\textbf{Querschnitt} & Ernennung Schlüsselposten & Qualifizierte Parlamentsmehrheiten & Öffentliche Hearings; Unvereinbarkeitsregeln & Minderheit; Gericht \\\bottomrule \end{longtable}
 ***
 
 ### Quellen & Verweise
 
 1. **EU-Kompetenzordnung (Art. 2–6 AEUV):** Vorbild für das Drei-Ebenen-Prinzip (ausschließlich, geteilt, unterstützend).
 2. **Schweizerische Kompetenzverteilung (BV 1999):** Modell für subsidiäre Zuordnung mit demokratischer Kontrolle.
-3. **ERDA-Projekt (2026):** Kapitel 4 (Gesamtkonzept), Kapitel 12 (Demokratie-Konzept), Kapitel 14.4 (Club-Architektur EDDRC).
+3. **ERDA-Buch (2026):** Kapitel 4 (Gesamtkonzept), Kapitel 12 (Demokratie-Konzept), Kapitel 14.4 (Club-Architektur EDDRC).
+
+\restoregeometry
+\pagewidth=210mm
+\pageheight=297mm
+\newpage
 
 
 \newpage
@@ -13806,6 +13903,14 @@ description: "14.6 Die Demokratie-Kette – Wer wählt, wer kontrolliert, wer br
 ---
 <a id="md-14-die-demokratischen-koalitionen-der-willigen-14-6-die-demokratie-kette"></a>
 
+
+
+\newpage
+\newgeometry{paperwidth=420mm, paperheight=297mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
+
+
+\pagewidth=420mm
+\pageheight=297mm
 
 ## 14.6 Die Demokratie-Kette
 
@@ -13821,28 +13926,11 @@ _Wer wählt was, wie Opposition wirkt, wie Notstand eingehegt wird – ein föde
 
 ***
 
-\newpage
-\newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
-
-
-\pagewidth=297mm
-\pageheight=210mm
 ### 14.6.1 Wer wählt was: Institutionen und Mandate
 
 #### A) Bürger → Föderationsparlament (Unterhaus)
 
 \begin{longtable}{@{}>{\raggedright\arraybackslash}p{26.18mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{108.73mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{62.87mm}@{}}\toprule Element & Regel & Stabilitätsgrund \\\midrule \endhead Wahl & Direkt, frei, gleich; Verhältniswahl mit Sperrklausel (3–5 \%) & Verhindert Splitterpartei-Chaos \\Aufgabe & Gesetzgebung, Haushalt, Kontrolle, Untersuchungsausschüsse & Kern der demokratischen Legitimation \\Schlüsselrechte & Budgetrecht, Misstrauensvotum, Minister-Hearings, Akteneinsicht & Exekutive bleibt kontrolliert \\\bottomrule \end{longtable}
-\restoregeometry
-\pagewidth=210mm
-\pageheight=297mm
-\newpage
-
-\newpage
-\newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
-
-
-\pagewidth=297mm
-\pageheight=210mm
 #### B) Staaten / Regionen → Bundesrat / Senat (Oberhaus)
 
 \begin{longtable}{@{}>{\raggedright\arraybackslash}p{29.49mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{144.29mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{43.92mm}@{}}\toprule Element & Regel & Stabilitätsgrund \\\midrule \endhead Zusammensetzung & Regierungen der Mitgliedstaaten oder direkt gewählte Landesvertretung & Föderale Balance \\Aufgabe & Mitgesetzgebung in Kompetenzen, die Staaten betreffen; Subsidiaritätsveto & Verhindert Zentralismus \\Schlüsselrechte & Zustimmung bei Verfassungsänderung, Kompetenzverschiebung, Notstands-Verlängerung & Schutz gegen Machtballung \\\bottomrule \end{longtable}
@@ -13975,29 +14063,31 @@ _Wer wählt was, wie Opposition wirkt, wie Notstand eingehegt wird – ein föde
 
 ***
 
+
+\newpage
+\newgeometry{paperwidth=420mm, paperheight=297mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
+
+
+\pagewidth=420mm
+\pageheight=297mm
+
 ### 14.6.7 Entscheidungstypen – Zusammenfassung
 
 Die folgende Tabelle fasst die wichtigsten Entscheidungstypen zusammen und ordnet Schwelle, Organ und Kontrollinstanz zu.
 
-\newpage
-\newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
-
-
-\pagewidth=297mm
-\pageheight=210mm
-\begin{longtable}{@{}>{\raggedright\arraybackslash}p{39.76mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{90.24mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{39.62mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{74.58mm}@{}}\toprule Entscheidungstyp & Schwelle & Entscheidet & Kontrollinstanz \\\midrule \endhead **Jahreshaushalt** & Unterhaus einfach; Oberhaus bei Beitragsrelevanz & Unterhaus (+ Oberhaus) & Rechnungshof; Haushaltsausschuss; VerfG \\**Programmbudget** & 55 \% Programm-Stimmrecht; sicherheitskritisch 2/3 & CoM / EB & Rechnungshof + Integrity Unit; POA \\**Contingency-Aktivierung** & CoM 2/3 + Sunset & CoM & Notstandsausschuss; CRP \\**Großbeschaffung** & Innerhalb Haushaltsgesetz; Procurement Code & PIA / Ministerium & Rechnungshof; Integrity Unit; Vergabegericht \\**Sanktionenpaket** & Unterhaus absolut; Oberhaus qualifiziert & Parlament + Regierung & Außen-/Justizausschuss; DRT \\**Einsatzmandat** & Unterhaus absolut; Oberhaus 2/3 bei hoher Schwelle & Unterhaus (+ Oberhaus) & IG-Defense; Untersuchungsausschuss; VerfG \\**Sofortreaktion 72 h** & Exekutivakt → Bestätigung 72 h & Regierung → Unterhaus & Notfallpanel; Gericht bei Verlängerung \\**Notstandserklärung** & Exekutivakt → Info 24 h & Regierung & CRP; Notstandsausschuss \\**Notstands-Verlängerung** & Unterhaus 60 \% + Oberhaus 60 \% + Gerichts-Review & Unterhaus + Oberhaus & VerfG/DRT obligatorisch \\**Beitritt T1** & Double Majority (60 \% Mitglieder + 70 \% Beiträge) & CoM & CRP; POA Hearing \\**Upgrade T2** & CoM 2/3 + Interop-Zertifizierung & CoM & OCB; ACI; DRT \\**Upgrade T3** & Unterhaus 2/3 + Oberhaus 2/3 + nationale Ratifikation & Parlament + Staaten & VerfG; POA \\**Suspendierung** & CoM 2/3 nach CRP-Gutachten & CoM & CRP + DRT Review \\**Exit (Austritt)** & Nationale Entscheidung; Club Abwicklung Mehrheit & Mitgliedstaat + CoM & DRT; Audit \\**Verfassungsänderung** & Unterhaus 2/3 + Oberhaus 2/3 + Ratifikation & Parlament + Staaten & VerfG (Form/Kompetenz); Ewigkeitsklausel \\**Ewigkeitskern-Änderung** & Unzulässig & — & VerfG hebt auf \\\bottomrule \end{longtable}
-\restoregeometry
-\pagewidth=210mm
-\pageheight=297mm
-\newpage
-
+\begin{longtable}{@{}>{\raggedright\arraybackslash}p{39.76mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{90.24mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{39.62mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{74.58mm}@{}}\toprule Entscheidungstyp & Schwelle & Entscheidet & Kontrollinstanz \\\midrule \endhead \textbf{Jahreshaushalt} & Unterhaus einfach; Oberhaus bei Beitragsrelevanz & Unterhaus (+ Oberhaus) & Rechnungshof; Haushaltsausschuss; VerfG \\\textbf{Programmbudget} & 55 \% Programm-Stimmrecht; sicherheitskritisch 2/3 & CoM / EB & Rechnungshof + Integrity Unit; POA \\\textbf{Contingency-Aktivierung} & CoM 2/3 + Sunset & CoM & Notstandsausschuss; CRP \\\textbf{Großbeschaffung} & Innerhalb Haushaltsgesetz; Procurement Code & PIA / Ministerium & Rechnungshof; Integrity Unit; Vergabegericht \\\textbf{Sanktionenpaket} & Unterhaus absolut; Oberhaus qualifiziert & Parlament + Regierung & Außen-/Justizausschuss; DRT \\\textbf{Einsatzmandat} & Unterhaus absolut; Oberhaus 2/3 bei hoher Schwelle & Unterhaus (+ Oberhaus) & IG-Defense; Untersuchungsausschuss; VerfG \\\textbf{Sofortreaktion 72 h} & Exekutivakt → Bestätigung 72 h & Regierung → Unterhaus & Notfallpanel; Gericht bei Verlängerung \\\textbf{Notstandserklärung} & Exekutivakt → Info 24 h & Regierung & CRP; Notstandsausschuss \\\textbf{Notstands-Verlängerung} & Unterhaus 60 \% + Oberhaus 60 \% + Gerichts-Review & Unterhaus + Oberhaus & VerfG/DRT obligatorisch \\\textbf{Beitritt T1} & Double Majority (60 \% Mitglieder + 70 \% Beiträge) & CoM & CRP; POA Hearing \\\textbf{Upgrade T2} & CoM 2/3 + Interop-Zertifizierung & CoM & OCB; ACI; DRT \\\textbf{Upgrade T3} & Unterhaus 2/3 + Oberhaus 2/3 + nationale Ratifikation & Parlament + Staaten & VerfG; POA \\\textbf{Suspendierung} & CoM 2/3 nach CRP-Gutachten & CoM & CRP + DRT Review \\\textbf{Exit (Austritt)} & Nationale Entscheidung; Club Abwicklung Mehrheit & Mitgliedstaat + CoM & DRT; Audit \\\textbf{Verfassungsänderung} & Unterhaus 2/3 + Oberhaus 2/3 + Ratifikation & Parlament + Staaten & VerfG (Form/Kompetenz); Ewigkeitsklausel \\\textbf{Ewigkeitskern-Änderung} & Unzulässig & — & VerfG hebt auf \\\bottomrule \end{longtable}
 ***
 
 ### Quellen & Verweise
 
 1. **Grundgesetz (Art. 20, 79 III, 115a–115l):** Vorbild für Ewigkeitsklausel und Notstandsgesetzgebung.
 2. **Schweizer BV (1999):** Doppelmehrheits-Prinzip (Volks- + Ständemehr) als föderales Referenzmodell.
-3. **ERDA-Projekt (2026):** Kapitel 12 (Demokratie-Konzept), Kapitel 14.4 (EDDRC-Organe), Kapitel 14.5 (Kompetenzkatalog).
+3. **ERDA-Buch (2026):** Kapitel 12 (Demokratie-Konzept), Kapitel 14.4 (EDDRC-Organe), Kapitel 14.5 (Kompetenzkatalog).
+
+\restoregeometry
+\pagewidth=210mm
+\pageheight=297mm
+\newpage
 
 
 \newpage
@@ -14078,9 +14168,6 @@ _Von der Idee zum Vertrag: 30 Verfassungsartikel, sechs Vertragsanlagen und ein 
 
 ***
 
-### 14.7.2 Risiko-Master-Tabelle
-
-Die folgende Tabelle erfasst die **14 zentralen Risikofelder** mit ihrem typischen Versagensmodus und den drei Kontrollschichten: Prävention, Detektion, Reaktion.
 
 \newpage
 \newgeometry{paperwidth=420mm, paperheight=297mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
@@ -14088,17 +14175,18 @@ Die folgende Tabelle erfasst die **14 zentralen Risikofelder** mit ihrem typisch
 
 \pagewidth=420mm
 \pageheight=297mm
-\begin{longtable}{@{}>{\raggedright\arraybackslash}p{38.54mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{55.60mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{84.13mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{71.53mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{55.75mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{57.46mm}@{}}\toprule Risikofeld & Typische Failure Mode & Prävention & Detektion & Reaktion & NoGo-Schwelle \\\midrule \endhead **State Capture / Korruption** & Behörden werden parteilich übernommen & Transparenzregeln, unabh. Ernennungen, Procurement-Regeln & Audit, Forensik, Whistleblower, Vermögensregister & Mittelstopp, Amtsenthebung, Strafverfolgung & Systemische Korruption ohne Strafverfolgung \\**Demokratie-Erosion** & Medien-/NGO-Einschränkung, Wahlmanipulation & Grundrechts-Charta, Wahlstandards, Medienpluralismus & Wahlbeobachtung, Medien-Monitoring, Gerichtsreporting & Vertragsverletzung, Rechte-Suspendierung & Unfreie Wahlen \\**Notstandsmissbrauch** & Notstand wird Dauerzustand & Enge Gründe, Sunset, Doppelmehrheit, Auto-Review & Notstandsberichte, Ombud, Opposition-Inquiry & Automatisches Auslaufen, Gerichtsaufhebung & Notstand > X Tage ohne Legitimation \\**Veto-/Blockade-Erpressung** & Einzelstaat blockiert alles & Keine Einstimmigkeit, opt-in ohne Veto & KPI Entscheidungszeiten, Blockade-Logs & Bypass, Programmausschluss & Einstimmigkeit als Norm \\**Infiltration / Spionage** & Leaks, Agentennetzwerke & Sicherheitsüberprüfung, Geheimschutz, Foreign-Agent-Transparenz & Counterintelligence, Anomalie-Detektion & Zugriffsentzug, Strafverfolgung, Sanktionen & Wiederholte Leaks ohne Konsequenz \\**Militärische Fehlsteuerung** & Einsätze ohne Mandat & Klare C2-Kette, Parlamentsmandat, RoE & Einsatzberichte, IG-Inspektion & Einsatzstopp, Mandatsanpassung & Operationen ohne demokratische Kette \\**Beschaffungsversagen** & Kostenexplosion, Lieferausfälle & Standardisierung, Dual Sourcing, Rahmenverträge & Earned-Value, QA-Audits, Lieferkettenmonitoring & Vertragsstrafen, Neuvergabe & Systemische Lieferausfälle \\**Lieferkettenerpressung** & Abhängigkeit von Autokratien & Diversifizierung, Stockpiles, Friend-Shoring & Abhängigkeitsindex, Stress-Tests & Notfallsubstitution, Exportkontrollen & Single Point of Failure bei kritischen Gütern \\**Finanz-/Transfer-Konflikte** & Nord/Süd-Spaltung, Moral Hazard & Fiskalregeln, Mission-based Debt, Audit & Schulden-/Defizitmonitoring, Frühwarnrat & Konditionalität, automatische Korrekturen & Dauertransfers ohne Regeln \\**Justiz-Politisierung** & Parteijustiz, selektive Strafverfolgung & Unabh. Richterräte, Ernennungsquoren & Verfahrensstatistik, Urteilsanomalien & Internationale Richterpanel, Suspendierung & Nachweisliche politische Steuerung \\**Informations-/Zensurrisiko** & „Anti-Desinfo" wird Zensur & Transparenz, gerichtsfeste Standards, keine Inhaltskontrolle & Beschwerdekanäle, Gerichtsreview & Aufhebung, Entschädigung, Behördenreform & Staatliche Inhaltskontrolle ohne Gericht \\**Daten-/Überwachungsrisiko** & Zentralisierte Profile, Missbrauch & Privacy by Design, Datensparsamkeit, getrennte Schlüssel & Logs, unabh. Datenschutzaufsicht & Löschung, Sanktionen, Strafverfahren & Massenüberwachung ohne richterliche Kontrolle \\**Krisenkoordination scheitert** & Behördenchaos, Doppelzuständigkeit & Klare Kompetenzmatrix, gemeinsame Übungen & After-Action-Reviews, KPI Reaktionszeit & Reform, Personalwechsel & Wiederholtes Chaos ohne Lernkurve \\**Sezession / Legitimitätsbruch** & „Zwangsföderation"-Narrativ & Exit-Regeln, Subsidiarität, Bürgerbeteiligung & Umfragen, Legitimitätsindex, Konfliktmonitoring & Mediationsrat, Kompetenz-Backtransfer & Dauermehrheit gegen Föderation ohne Dialog \\\bottomrule \end{longtable}
+
+### 14.7.2 Risiko-Master-Tabelle
+
+Die folgende Tabelle erfasst die **14 zentralen Risikofelder** mit ihrem typischen Versagensmodus und den drei Kontrollschichten: Prävention, Detektion, Reaktion.
+
+\begin{longtable}{@{}>{\raggedright\arraybackslash}p{38.54mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{55.60mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{84.13mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{71.53mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{55.75mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{57.46mm}@{}}\toprule Risikofeld & Typische Failure Mode & Prävention & Detektion & Reaktion & NoGo-Schwelle \\\midrule \endhead \textbf{State Capture / Korruption} & Behörden werden parteilich übernommen & Transparenzregeln, unabh. Ernennungen, Procurement-Regeln & Audit, Forensik, Whistleblower, Vermögensregister & Mittelstopp, Amtsenthebung, Strafverfolgung & Systemische Korruption ohne Strafverfolgung \\\textbf{Demokratie-Erosion} & Medien-/NGO-Einschränkung, Wahlmanipulation & Grundrechts-Charta, Wahlstandards, Medienpluralismus & Wahlbeobachtung, Medien-Monitoring, Gerichtsreporting & Vertragsverletzung, Rechte-Suspendierung & Unfreie Wahlen \\\textbf{Notstandsmissbrauch} & Notstand wird Dauerzustand & Enge Gründe, Sunset, Doppelmehrheit, Auto-Review & Notstandsberichte, Ombud, Opposition-Inquiry & Automatisches Auslaufen, Gerichtsaufhebung & Notstand > X Tage ohne Legitimation \\\textbf{Veto-/Blockade-Erpressung} & Einzelstaat blockiert alles & Keine Einstimmigkeit, opt-in ohne Veto & KPI Entscheidungszeiten, Blockade-Logs & Bypass, Programmausschluss & Einstimmigkeit als Norm \\\textbf{Infiltration / Spionage} & Leaks, Agentennetzwerke & Sicherheitsüberprüfung, Geheimschutz, Foreign-Agent-Transparenz & Counterintelligence, Anomalie-Detektion & Zugriffsentzug, Strafverfolgung, Sanktionen & Wiederholte Leaks ohne Konsequenz \\\textbf{Militärische Fehlsteuerung} & Einsätze ohne Mandat & Klare C2-Kette, Parlamentsmandat, RoE & Einsatzberichte, IG-Inspektion & Einsatzstopp, Mandatsanpassung & Operationen ohne demokratische Kette \\\textbf{Beschaffungsversagen} & Kostenexplosion, Lieferausfälle & Standardisierung, Dual Sourcing, Rahmenverträge & Earned-Value, QA-Audits, Lieferkettenmonitoring & Vertragsstrafen, Neuvergabe & Systemische Lieferausfälle \\\textbf{Lieferkettenerpressung} & Abhängigkeit von Autokratien & Diversifizierung, Stockpiles, Friend-Shoring & Abhängigkeitsindex, Stress-Tests & Notfallsubstitution, Exportkontrollen & Single Point of Failure bei kritischen Gütern \\\textbf{Finanz-/Transfer-Konflikte} & Nord/Süd-Spaltung, Moral Hazard & Fiskalregeln, Mission-based Debt, Audit & Schulden-/Defizitmonitoring, Frühwarnrat & Konditionalität, automatische Korrekturen & Dauertransfers ohne Regeln \\\textbf{Justiz-Politisierung} & Parteijustiz, selektive Strafverfolgung & Unabh. Richterräte, Ernennungsquoren & Verfahrensstatistik, Urteilsanomalien & Internationale Richterpanel, Suspendierung & Nachweisliche politische Steuerung \\\textbf{Informations-/Zensurrisiko} & „Anti-Desinfo" wird Zensur & Transparenz, gerichtsfeste Standards, keine Inhaltskontrolle & Beschwerdekanäle, Gerichtsreview & Aufhebung, Entschädigung, Behördenreform & Staatliche Inhaltskontrolle ohne Gericht \\\textbf{Daten-/Überwachungsrisiko} & Zentralisierte Profile, Missbrauch & Privacy by Design, Datensparsamkeit, getrennte Schlüssel & Logs, unabh. Datenschutzaufsicht & Löschung, Sanktionen, Strafverfahren & Massenüberwachung ohne richterliche Kontrolle \\\textbf{Krisenkoordination scheitert} & Behördenchaos, Doppelzuständigkeit & Klare Kompetenzmatrix, gemeinsame Übungen & After-Action-Reviews, KPI Reaktionszeit & Reform, Personalwechsel & Wiederholtes Chaos ohne Lernkurve \\\textbf{Sezession / Legitimitätsbruch} & „Zwangsföderation"-Narrativ & Exit-Regeln, Subsidiarität, Bürgerbeteiligung & Umfragen, Legitimitätsindex, Konfliktmonitoring & Mediationsrat, Kompetenz-Backtransfer & Dauermehrheit gegen Föderation ohne Dialog \\\bottomrule \end{longtable}
+***
+
+
 \restoregeometry
 \pagewidth=210mm
 \pageheight=297mm
-\newpage
-
-***
-
-### 14.7.3 Die sechs Vertragsanlagen (Annexe A–F)
-
-Die Verfassungsskizze wird durch **sechs Annexe** operationalisiert. Jeder Annex ist integraler Bestandteil des Vertrags.
 
 \newpage
 \newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
@@ -14106,7 +14194,12 @@ Die Verfassungsskizze wird durch **sechs Annexe** operationalisiert. Jeder Annex
 
 \pagewidth=297mm
 \pageheight=210mm
-\begin{longtable}{@{}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{38.71mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{158.29mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{18.00mm}@{}}\toprule Annex & Titel & Kern-Inhalt & Umfang \\\midrule \endhead **A** & Risk Controls \& Enforcement & Master-Tabelle aller Risiken, NoGo-Schwellen, Stufen 0–5 der Durchsetzung, Emergency Review (48 h), Remediation-Plan, Rechtsschutz (DRT-Review), RACI-Matrix & 18 Artikel \\**B** & Procurement Code & Vergabeverfahren (offen/nichtoffen/Verhandlung/Rahmen/Notfall), Integrity Clause, Dual Sourcing, Blacklisting, KPI-Katalog, Step-in Rights, Bieterrechtsschutz & 30 Artikel \\**C** & Interop \& Certification & Zertifikatslevels L0–L4, Mapping Tier↔Level, Technische Tests (Interface, Crypto, Resilience), Operative Tests (Joint Exercise), Cyber Red-Team, Waiver/Legacy-Regime, Upgrade T1→T2 & 27 Artikel \\**D** & War Powers \& Mandates & Operationskategorien 0–3, 72h-Sofortreaktion, Mandats-Mindestinhalt (10 Pflichtfelder), Oberhaus-Schwellen, IG-Defense, RoE-Codex, Mission-Creep-Trigger, Berichtspflichten & 26 Artikel \\**E** & Audit \& Transparency & ACI-Unabhängigkeit, Auditarten (Regel/Sonder/Forensik/Wirksamkeit/IT), KPI-Framework, Clean-Room-Verfahren, Transparenzregister, Whistleblower-Schutz, Hearing-Pflichten, Öffentlichkeitsberichte & 28 Artikel \\**F** & Membership Tiers \& Upgrade/Downgrade & T0–T3 Rechte/Pflichten, Stimmgewicht-Regeln (Anti-Veto), Eintritt/Upgrade/Downgrade-Verfahren, Suspendierung/Reinstatement, Exit/No-Hostage, Assoziierte Mitglieder, EU-Docking-Clause & 26 Artikel \\\bottomrule \end{longtable}
+
+### 14.7.3 Die sechs Vertragsanlagen (Annexe A–F)
+
+Die Verfassungsskizze wird durch **sechs Annexe** operationalisiert. Jeder Annex ist integraler Bestandteil des Vertrags.
+
+\begin{longtable}{@{}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{38.71mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{158.29mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{18.00mm}@{}}\toprule Annex & Titel & Kern-Inhalt & Umfang \\\midrule \endhead \textbf{A} & Risk Controls \& Enforcement & Master-Tabelle aller Risiken, NoGo-Schwellen, Stufen 0–5 der Durchsetzung, Emergency Review (48 h), Remediation-Plan, Rechtsschutz (DRT-Review), RACI-Matrix & 18 Artikel \\\textbf{B} & Procurement Code & Vergabeverfahren (offen/nichtoffen/Verhandlung/Rahmen/Notfall), Integrity Clause, Dual Sourcing, Blacklisting, KPI-Katalog, Step-in Rights, Bieterrechtsschutz & 30 Artikel \\\textbf{C} & Interop \& Certification & Zertifikatslevels L0–L4, Mapping Tier↔Level, Technische Tests (Interface, Crypto, Resilience), Operative Tests (Joint Exercise), Cyber Red-Team, Waiver/Legacy-Regime, Upgrade T1→T2 & 27 Artikel \\\textbf{D} & War Powers \& Mandates & Operationskategorien 0–3, 72h-Sofortreaktion, Mandats-Mindestinhalt (10 Pflichtfelder), Oberhaus-Schwellen, IG-Defense, RoE-Codex, Mission-Creep-Trigger, Berichtspflichten & 26 Artikel \\\textbf{E} & Audit \& Transparency & ACI-Unabhängigkeit, Auditarten (Regel/Sonder/Forensik/Wirksamkeit/IT), KPI-Framework, Clean-Room-Verfahren, Transparenzregister, Whistleblower-Schutz, Hearing-Pflichten, Öffentlichkeitsberichte & 28 Artikel \\\textbf{F} & Membership Tiers \& Upgrade/Downgrade & T0–T3 Rechte/Pflichten, Stimmgewicht-Regeln (Anti-Veto), Eintritt/Upgrade/Downgrade-Verfahren, Suspendierung/Reinstatement, Exit/No-Hostage, Assoziierte Mitglieder, EU-Docking-Clause & 26 Artikel \\\bottomrule \end{longtable}
 \restoregeometry
 \pagewidth=210mm
 \pageheight=297mm
@@ -14167,7 +14260,7 @@ Damit ist der EDDRC kein statisches Konstrukt, sondern ein **evolutiv stabiles S
 1. **Grundgesetz (Art. 79 III):** Vorbild für Ewigkeitsklausel.
 2. **Schweizer Bundesverfassung (1999):** Kompetenzkatalog, Doppelmehrheit, Subsidiarität.
 3. **EU-Verträge (TEU/AEUV):** Kompetenzordnung, Anti-Korruptions-Normen, PESCO.
-4. **ERDA-Projekt (2026):** Kapitel 4 (Gesamtkonzept), Kapitel 12 (Demokratie-Konzept), Kapitel 14.4–14.6 (Club-Architektur, Kompetenzkatalog, Demokratie-Kette).
+4. **ERDA-Buch (2026):** Kapitel 4 (Gesamtkonzept), Kapitel 12 (Demokratie-Konzept), Kapitel 14.4–14.6 (Club-Architektur, Kompetenzkatalog, Demokratie-Kette).
 
 
 \newpage
@@ -14365,25 +14458,27 @@ Maßnahmen sind abgestuft und verhältnismäßig:
 
 ***
 
+
 \newpage
 \newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
 
 
 \pagewidth=297mm
 \pageheight=210mm
+
 ### RACI-Matrix (Kurzfassung)
 
 \begin{longtable}{@{}>{\raggedright\arraybackslash}p{38.49mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{56.76mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{31.79mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{43.04mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{38.31mm}@{}}\toprule Control-Domäne & Responsible (R) & Accountable (A) & Consulted (C) & Informed (I) \\\midrule \endhead Rule-of-law Monitoring & CRP & CoM & POA, DRT & Alle Mitglieder \\Notstand-Compliance & CRP & CoM (Verlängerung) & POA, Ombud & Öffentlichkeit \\Procurement Integrity & Integrity Unit / PIA & Executive Board & ACI, POA & CoM \\Budget Audit \& KPI & ACI & POA / CoM & EB, PIA & Alle Mitglieder \\Leak/Infosec & Security Board / OCB & CoM & POA Geheimschutzpanel & Betroffene Programme \\Sanctions Enforcement & EB + Außenministeriumskonferenz & CoM & ACI, Justiznetzwerk & POA \\Influence Transparency & CIVITAS-Behörde & CoM & Datenschutzaufsicht, POA & Öffentlichkeit \\Suspension Procedure & EB (vorläufig) & CoM & CRP/ACI/DRT & POA \\Exit/Abwicklung & EB Abwicklungsstelle & CoM & ACI, DRT & Alle Mitglieder \\\bottomrule \end{longtable}
-\restoregeometry
-\pagewidth=210mm
-\pageheight=297mm
-\newpage
-
 ***
 
 ### Querverweise
 
 → Annex 14.B (Procurement Code), Annex 14.C (Interop), Annex 14.D (War Powers), Annex 14.E (Audit), Annex 14.F (Membership Tiers)
+
+\restoregeometry
+\pagewidth=210mm
+\pageheight=297mm
+\newpage
 
 
 \newpage
@@ -15032,17 +15127,19 @@ Oberhauszustimmung ist erforderlich, wenn mindestens eines gilt:
 
 ***
 
+### Teil V – Kontrolle, Berichte, Untersuchung, Rechtsschutz
+
+
 \newpage
 \newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
 
 
 \pagewidth=297mm
 \pageheight=210mm
-### Teil V – Kontrolle, Berichte, Untersuchung, Rechtsschutz
 
 #### Art. D11 – Berichtspflichten (laufend)
 
-\begin{longtable}{@{}>{\raggedright\arraybackslash}p{23.32mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{122.17mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{81.70mm}@{}}\toprule Rhythmus & Inhalt & Empfänger \\\midrule \endhead **Wöchentlich** & Kurzberichte: Lage, Verluste, Zielerreichung, Risiken & Zuständige Ausschüsse / POA-Panel (klassifiziert) \\**Monatlich** & KPI-Bericht: Munitionsverbrauch, Readiness, Ausfälle, Logistik, Compliance & Ausschüsse + ACI \\**Quartalsweise** & Öffentlicher Topline-Bericht & Öffentlichkeit (soweit sicherheitsverträglich) \\\bottomrule \end{longtable}
+\begin{longtable}{@{}>{\raggedright\arraybackslash}p{23.32mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{122.17mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{81.70mm}@{}}\toprule Rhythmus & Inhalt & Empfänger \\\midrule \endhead \textbf{Wöchentlich} & Kurzberichte: Lage, Verluste, Zielerreichung, Risiken & Zuständige Ausschüsse / POA-Panel (klassifiziert) \\\textbf{Monatlich} & KPI-Bericht: Munitionsverbrauch, Readiness, Ausfälle, Logistik, Compliance & Ausschüsse + ACI \\\textbf{Quartalsweise} & Öffentlicher Topline-Bericht & Öffentlichkeit (soweit sicherheitsverträglich) \\\bottomrule \end{longtable}
 \restoregeometry
 \pagewidth=210mm
 \pageheight=297mm
@@ -15747,9 +15844,6 @@ Vollintegrierte Mitgliedsstaaten mit demokratischer Verfassung und stabiler Rech
 
 Demokratien mit hoher ERDA-Kernland-Kompatibilität und strategischer Bedeutung, die volle Partnerschaftsfähigkeit besitzen, ohne formelle politische Integration.
 
-#### **2.1 Stabile Demokratien mit sofortiger Kompatibilität**
-
-Diese Länder erfüllen bereits alle ERDA-Standards, bringen robuste Institutionen und hohe Innovationskraft mit und können auf Knopfdruck assoziiert werden:
 
 \newpage
 \newgeometry{paperwidth=420mm, paperheight=297mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
@@ -15757,15 +15851,17 @@ Diese Länder erfüllen bereits alle ERDA-Standards, bringen robuste Institution
 
 \pagewidth=420mm
 \pageheight=297mm
+
+#### **2.1 Stabile Demokratien mit sofortiger Kompatibilität**
+
+Diese Länder erfüllen bereits alle ERDA-Standards, bringen robuste Institutionen und hohe Innovationskraft mit und können auf Knopfdruck assoziiert werden:
+
 \begin{longtable}{@{}>{\raggedright\arraybackslash}p{35.70mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{38.16mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{53.30mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{31.22mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{35.12mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{26.73mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{61.27mm}@{}}\toprule Staat & ISO & Demokratiegrad & Verfassungsstatus & Bedingungen zur Integration & Kooperation & Partnerschafts-Level & Kernstaat-Potenzial & Kommentar \\\midrule \endhead Vereinigtes Königreich & GB & Hoch & Stabil & Bereits ERDA-kompatibel & Sicherheit, Bildung & Assoziiert & 🟢 Ja & Hohes Innovationspotenzial \\Andorra & AD & Hoch & Stabil & Bereits ERDA-kompatibel & Tourismus, Finanzen & Assoziiert & 🟢 Ja & Alpenbrücke zwischen Spanien und Frankreich \\Island & IS & Hoch & Stabil & Arktisstrategie, Energieautarkie & Arktis, Biodiversität & Assoziiert & 🟢 Ja & Brückenstaat für Nordmeerräume \\Liechtenstein & LI & Hoch & Stabil & Bereits ERDA-kompatibel & Finanzmarkt, Industrie & Assoziiert & 🟢 Ja & Hochinnovatives Kleinstaatenmodell \\Malta & MT & Hoch & Stabil & Voll demokratisch & Migration, Justiz & Assoziiert & 🟢 Ja & Zugang zu Afrika- und MENA-Raum \\Monaco & MC & Hoch & Stabil & Bereits ERDA-kompatibel & Finanzen, Kultur & Assoziiert & 🟢 Ja & Finanzplatz mit hoher internationaler Vernetzung \\Norwegen & NO & Hoch & Stabil & Bereits ERDA-kompatibel & Arktis, Energie & Assoziiert & 🟢 Ja & Vorbildstaat \\San Marino & SM & Hoch & Stabil & Bereits ERDA-kompatibel & Tourismus, Kultur & Assoziiert & 🟢 Ja & Älteste Republik Europas \\Schweiz & CH & Hoch & Stabil & Bereits ERDA-kompatibel & Finanzmarkt, Innovation & Assoziiert & 🟢 Ja & Direkte Demokratie, Neutralitätsmodell \\Grönland & GL & Hoch & Autonom unter Dänemark & Verfassungsrechtliche Klarheit nötig & Arktis, Rohstoffe & Assoziiert & 🟡 Mittel & Schlüsselterritorium in der Arktis \\Ukraine & UA & Hoch & Stabil (konsolidiert) & ERDA-Kompatibilität, rascher EU-/NATO-Beitritt & Sicherheit, Wiederaufbau & Assoziiert & 🟢 Ja & Zentraler Sicherheitspfeiler Europas \\Zypern & CY & Hoch & Stabil (geteilt) & Friedensprozess Nord/Süd & Sicherheit, Kultur & Assoziiert & 🟡 Mittel & Politisch sensibel \\\bottomrule \end{longtable}
 \restoregeometry
 \pagewidth=210mm
 \pageheight=297mm
 \newpage
 
-#### **2.2 Demokratien mit stabiler Reformorientierung und hoher Nähe**
-
-Diese Staaten sind auf dem Weg zur vollen ERDA-Kompatibilität, treiben Reformen zielstrebig voran und zeichnen sich durch klar definierte EU-Perspektiven aus:
 
 \newpage
 \newgeometry{paperwidth=420mm, paperheight=297mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
@@ -15773,15 +15869,17 @@ Diese Staaten sind auf dem Weg zur vollen ERDA-Kompatibilität, treiben Reformen
 
 \pagewidth=420mm
 \pageheight=297mm
+
+#### **2.2 Demokratien mit stabiler Reformorientierung und hoher Nähe**
+
+Diese Staaten sind auf dem Weg zur vollen ERDA-Kompatibilität, treiben Reformen zielstrebig voran und zeichnen sich durch klar definierte EU-Perspektiven aus:
+
 \begin{longtable}{@{}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{38.42mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{54.56mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{34.37mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{35.29mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{28.09mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{56.77mm}@{}}\toprule Staat & ISO & Demokratiegrad & Verfassungsstatus & Bedingungen zur Integration & Kooperation & Partnerschafts-Level & Kernstaat-Potenzial & Kommentar \\\midrule \endhead Albanien & AL & Aufbauend & Stabil (EU-Beitrittskandidat) & Rechtsstaatreform, Korruptionsbekämpfung & Infrastruktur, Energie & Beobachter & 🟡 Mittel & Umfassende Reformagenda \\Armenien & AM & Aufbauend & Reformwille vorhanden & Regionale Stabilität & Friedensarbeit, Bildung & Beobachter & 🟡 Mittel & Benötigt Sicherheitsgarantien \\Georgien & GE & Aufbauend & In Reformprozess & Demokratische Resilienz & Sicherheit, Kultur & Strategisch & 🟡 Mittel & Geopolitisch sensibel \\Kosovo & XK & Aufbauend & Stabil (junge Demokratie) & Anerkennung, Integritätsabkommen & Sicherheit, Digitalisierung & Beobachter & 🟡 Mittel & Hoher Reformdrang, EU-Perspektive \\Moldau & MD & Aufbauend & Demokratische Transition & Institutionenaufbau & Infrastruktur, Energie & Beobachter & 🟡 Mittel & Zwischen EU und Ukraine \\Montenegro & ME & Stabil & Verfassung gegeben & Rechtsstaat, Transparenz & Rechtswesen, Umwelt & Assoziiert & 🟡 Mittel & Klein, aber funktional \\Nordmazedonien & MK & Aufbauend & Stabil (EU-Beitrittskandidat) & Rechtsstaatreform, EU-Integration & Sicherheit, Infrastruktur & Beobachter & 🟡 Mittel & Schlüsselrolle für Westbalkan-Integration \\\bottomrule \end{longtable}
 \restoregeometry
 \pagewidth=210mm
 \pageheight=297mm
 \newpage
 
-#### **2.3 Demokratien mit Barrieren, aber strategischer Relevanz**
-
-Trotz innerer Herausforderungen verfügen diese Staaten über strategische Bedeutung und bleiben wichtige ERDA-Beobachter und potenzielle Partner:
 
 \newpage
 \newgeometry{paperwidth=594mm, paperheight=420mm, left=18mm, right=18mm, top=18mm, bottom=18mm}
@@ -15789,6 +15887,11 @@ Trotz innerer Herausforderungen verfügen diese Staaten über strategische Bedeu
 
 \pagewidth=594mm
 \pageheight=420mm
+
+#### **2.3 Demokratien mit Barrieren, aber strategischer Relevanz**
+
+Trotz innerer Herausforderungen verfügen diese Staaten über strategische Bedeutung und bleiben wichtige ERDA-Beobachter und potenzielle Partner:
+
 \begin{longtable}{@{}>{\raggedright\arraybackslash}p{34.07mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{84.43mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{120.27mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{38.74mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{35.76mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{31.82mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{104.40mm}@{}}\toprule Staat & ISO & Demokratiegrad & Verfassungsstatus & Bedingungen zur Integration & Kooperation & Partnerschafts-Level & Kernstaat-Potenzial & Kommentar \\\midrule \endhead Bosnien-Herzegowina & BA & Schwankend & Fragil (Dayton-System) & Staatsreform, Gewaltenteilung & Verwaltung, Versöhnung & Beobachter & 🔴 Niedrig & Umfassende Verfassungsreform nötig \\Israel & IL & Hoch & Unklarer Verfassungsstatus & Klarheit über Gewaltenteilung & Innovation, Sicherheit & Strategisch & 🟡 Mittel & Wertekompatibel, aber instabil \\Jordanien & JO & Stabil & Monarchie mit Reformansätzen & Fortsetzung Reformpfade & Vermittlung, Dialog & Strategisch & 🟡 Mittel & Moderat, kooperationsbereit \\Libanon & LB & Fragil & Konfessionelles System & Demokratischer Wiederaufbau & Bildung, Kultur & Beobachter & 🟡 Mittel & Komplexe interne Fragmentierung \\Marokko & MA & Hybrid & Autoritär mit Reformanteilen & Stärkere Partizipation & Erneuerbare, Sicherheit & Beobachter & 🟡 Mittel & Reformbereit, aber eingeschränkt \\Serbien & RS & Schwankend & Instabil & Justizreform, Pressefreiheit & Infrastruktur & Beobachter & 🔴 Niedrig & Teilweise EU-skeptisch \\Türkei & TR & Ambivalent & Autoritäre Züge & Demokratischer Wandel & Sicherheit, Migration & Strategisch & 🔴 Niedrig & Ambivalente Entwicklung \\Tunesien & TN & Instabil & Rückschritte seit 2021 & Demokratische Wiederherstellung & Bildung, Zivilgesellschaft & Beobachter & 🟡 Mittel & Ehemals Vorzeigestaat \\Ungarn & HU & Ambivalent & Eingeschränkte Gewaltenteilung und unabhängige Justiz & Kopenhagener Kriterien erfüllen, umfassende Rechtsstaats- und Medienreform & Migration, Energie & Beobachter & 🔴 Niedrig & Anhaltende Rückschritte bei Rechtsstaatlichkeit und Medienfreiheit \\\bottomrule \end{longtable}
 \restoregeometry
 \pagewidth=210mm
@@ -16135,8 +16238,8 @@ Beispiel Datenbank/Website
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen des jeweiligen Landes sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 ### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 ```
 
@@ -16173,10 +16276,10 @@ _**gemäß**_ [_**ERDA-Staatenarchitektur ("Konzentrische Kreise")**_](#kern-erd
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.at.staatenprofil.osterreich
 content_lang: de
-description: "State: AT, Date: 2025-06-09, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: AT, Date: 2025-06-09, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "AT"
 date: "2025-06-09"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -16389,8 +16492,8 @@ version: "1.0"
 Dieses Profil basiert auf öffentlich verfügbaren Daten. Vertreter:innen der Republik Österreich und interessierte Fachstellen sind herzlich eingeladen, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames, zukunftsfähiges Bild der Demokratie in Europa.
 
 ###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 
 
@@ -16400,10 +16503,10 @@ Letzte Änderung: 2026-01-08
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.be.staatenprofil.belgien
 content_lang: de
-description: "State: BE, Date: 2025-05-28, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: BE, Date: 2025-05-28, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "BE"
 date: "2025-05-28"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -16661,8 +16764,8 @@ _"Belgien ist im Jahr 2075 ein führender Cyber- und Kulturhub innerhalb der ERD
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen des Königreichs Belgien sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 ###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 
 
@@ -16671,10 +16774,10 @@ Letzte Änderung: 2026-01-08
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.bg.staatenprofil.bulgarien
 content_lang: de
-description: "State: BG, Date: 2025-06-11, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: BG, Date: 2025-06-11, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "BG"
 date: "2026-01-01"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -16873,8 +16976,8 @@ Bulgarien ist ein traditionsreiches Balkanland mit EU-Mitgliedschaft und wachsen
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Bulgarien sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 ###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 
 
@@ -16883,10 +16986,10 @@ Letzte Änderung: 2026-01-08
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.cz.staatenprofil.tschechien
 content_lang: de
-description: "State: CZ, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: CZ, Date: 2025-06-10, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "CZ"
 date: "2025-06-10"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -17056,8 +17159,8 @@ Tschechien ist ein mitteleuropäischer Industriestaat mit starker Bildungsidenti
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Tschechischen Republik sowie interessierte Fachstellen sind eingeladen, Ergänzungen einzubringen.
 
 ###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 
 
@@ -17066,10 +17169,10 @@ Letzte Änderung: 2026-01-08
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.staatenprofil.deutschland.de
 content_lang: de
-description: "State: DE, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: DE, Date: 2025-06-10, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "DE"
 date: "2025-06-10"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -17316,8 +17419,8 @@ Industriekompetenz verbinden sich mit einer digitalen und nachhaltigen Agenda.
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Bundesrepublik Deutschland sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 ###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 
 
@@ -17326,10 +17429,10 @@ Letzte Änderung: 2026-01-08
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.dk.staatenprofil.danemark
 content_lang: de
-description: "State: DK, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: DK, Date: 2025-06-10, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "DK"
 date: "2025-06-10"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -17516,8 +17619,8 @@ Dänemark verbindet hohen Lebensstandard mit konsequenter Nachhaltigkeit und zä
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen des Königreichs Dänemark sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 ###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 
 
@@ -17526,10 +17629,10 @@ Letzte Änderung: 2026-01-08
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.ee.staatenprofil.republik.estland
 content_lang: de
-description: "State: EE, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: EE, Date: 2025-06-10, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "EE"
 date: "2025-06-10"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -17747,8 +17850,8 @@ Estland verbindet eine agile Digitalverwaltung mit einer engagierten Zivilgesell
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Estland sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 ###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 
 
@@ -17757,10 +17860,10 @@ Letzte Änderung: 2026-01-08
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.es.staatenprofil.spanien
 content_lang: de
-description: "State: ES, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: ES, Date: 2025-06-10, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "ES"
 date: "2025-06-10"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -17987,8 +18090,8 @@ Spanien ist eine stabile Demokratie mit starkem Dienstleistungssektor, wachsende
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen des Königreichs Spanien sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 ###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 
 
@@ -17997,10 +18100,10 @@ Letzte Änderung: 2026-01-08
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.fi.staatenprofil.finnland
 content_lang: de
-description: "State: FI, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: FI, Date: 2025-06-10, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "FI"
 date: "2025-06-10"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -18204,8 +18307,8 @@ Finnland ist eine hochinnovative Demokratie mit starker Bildungstradition und na
 Vertreter:innen Finnlands und interessierte Fachstellen sind eingeladen, dieses Profil zu ergänzen und zu aktualisieren.
 
 ###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 
 
@@ -18215,10 +18318,10 @@ Letzte Änderung: 2026-01-08
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.fr.staatenprofil.frankreich
 content_lang: de
-description: "State: FR, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: FR, Date: 2025-06-10, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "FR"
 date: "2025-06-10"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -18398,8 +18501,8 @@ Frankreich ist ein global vernetzter Kernstaat Europas mit starker Industriebasi
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Französischen Republik sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 ###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 
 
@@ -18408,10 +18511,10 @@ Letzte Änderung: 2026-01-08
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.gr.staatenprofil.griechenland
 content_lang: de
-description: "State: GR, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: GR, Date: 2025-06-10, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "GR"
 date: "2025-06-10"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -18637,8 +18740,8 @@ Griechenland verbindet antikes Erbe, maritime Kompetenz und wachsende erneuerbar
 Dieses Profil basiert auf öffentlich verfügbaren und modellierten Daten. Vertreter:innen der Hellenischen Republik sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 ###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 
 
@@ -18647,10 +18750,10 @@ Letzte Änderung: 2026-01-08
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.hr.staatenprofil.kroatien
 content_lang: de
-description: "State: HR, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: HR, Date: 2025-06-10, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "HR"
 date: "2025-06-10"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -18873,8 +18976,8 @@ Statistische Basisjahr ist 2025. Bevölkerungs- und Wirtschaftsprognosen beruhen
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Kroatien sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 ###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 
 
@@ -18883,10 +18986,10 @@ Letzte Änderung: 2026-01-08
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.ie.staatenprofil.republik.irland
 content_lang: de
-description: "State: IE, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: IE, Date: 2025-06-10, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "IE"
 date: "2025-06-10"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -19060,8 +19163,8 @@ Irland ist eine digitale Inselnation mit hoher Bildungsquote und wachsender Bev�
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Irland sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 ###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 
 ###### B. Wirtschaft & Innovation
@@ -19103,10 +19206,10 @@ Letzte Änderung: 2026-01-08
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.it.staatenprofil.italien
 content_lang: de
-description: "State: IT, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: IT, Date: 2025-06-10, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "IT"
 date: "2025-06-10"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -19306,8 +19409,8 @@ Italien verbindet mediterrane Lebensart mit technologischer Ambition. Kulturelle
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Italienischen Republik sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 ###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 
 
@@ -19316,10 +19419,10 @@ Letzte Änderung: 2026-01-08
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.lt.staatenprofil.republik.litauen
 content_lang: de
-description: "State: LT, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: LT, Date: 2025-06-10, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "LT"
 date: "2025-06-10"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -19520,8 +19623,8 @@ Litauen positioniert sich als digital orientierter Ostseestaat mit wachsenden gr
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Litauen sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 ###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 
 
@@ -19531,10 +19634,10 @@ Letzte Änderung: 2026-01-08
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.lu.staatenprofil.luxemburg
 content_lang: de
-description: "State: LU, Date: 2025-06-11, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: LU, Date: 2025-06-11, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "LU"
 date: "2026-01-01"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -19704,8 +19807,8 @@ Luxemburg ist ein wohlhabender Kleinstaat im Herzen Europas, der dank seiner sta
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen des Großherzogtums Luxemburg sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 ###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 
 
@@ -19714,10 +19817,10 @@ Letzte Änderung: 2026-01-08
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.lv.staatenprofil.republik.lettland
 content_lang: de
-description: "State: LV, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: LV, Date: 2025-06-10, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "LV"
 date: "2025-06-10"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -19930,8 +20033,8 @@ Lettland setzt konsequent auf digitale Innovation und eine starke Zivilgesellsch
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Lettland sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 ###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 
 
@@ -19940,10 +20043,10 @@ Letzte Änderung: 2026-01-08
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.nl.staatenprofil.niederlande
 content_lang: de
-description: "State: NL, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: NL, Date: 2025-06-10, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "NL"
 date: "2025-06-10"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -20127,8 +20230,8 @@ Die Niederlande verbinden maritime Tradition, digitale Stärke und international
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen des Königreichs der Niederlande sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 ###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 
 
@@ -20137,10 +20240,10 @@ Letzte Änderung: 2026-01-08
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.pl.staatenprofil.polen
 content_lang: de
-description: "State: PL, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: PL, Date: 2025-06-10, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "PL"
 date: "2025-06-10"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -20316,8 +20419,8 @@ resilientes Demokratielabor und Bildungsstandort die Ostflanke Europas sichern.
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Polen sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 ###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 
 
@@ -20326,10 +20429,10 @@ Letzte Änderung: 2026-01-08
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.pt.staatenprofil.republik.portugal
 content_lang: de
-description: "State: PT, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: PT, Date: 2025-06-10, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "PT"
 date: "2025-06-10"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -20540,8 +20643,8 @@ Portugal ist ein maritimer EU-Staat mit reicher Kultur und wachsendem Fokus auf 
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Portugal sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven einzubringen.
 
 ###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 
 
@@ -20551,10 +20654,10 @@ Letzte Änderung: 2026-01-08
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.ro.staatenprofil.rumanien
 content_lang: de
-description: "State: RO, Date: 2025-06-11, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: RO, Date: 2025-06-11, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "RO"
 date: "2026-01-01"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -20730,8 +20833,8 @@ Rumänien entwickelt sich vom aufholenden EU-Mitglied zu einem IT- und Energieze
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen von Rumänien sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 ###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 
 
@@ -20741,10 +20844,10 @@ Letzte Änderung: 2026-01-08
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.se.staatenprofil.schweden
 content_lang: de
-description: "State: SE, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: SE, Date: 2025-06-10, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "SE"
 date: "2025-06-10"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -20908,8 +21011,8 @@ Schweden verbindet hohe Innovationskraft mit einer starken Zivilgesellschaft und
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen des Königreichs Schweden sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 ###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 
 
@@ -20918,10 +21021,10 @@ Letzte Änderung: 2026-01-08
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.si.staatenprofil.slowenien
 content_lang: de
-description: "State: SI, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: SI, Date: 2025-06-10, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "SI"
 date: "2025-06-10"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -21140,8 +21243,8 @@ Adria und Balkan.
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Slowenien sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 ###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 
 
@@ -21150,10 +21253,10 @@ Letzte Änderung: 2026-01-08
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.sk.staatenprofil.slowakei
 content_lang: de
-description: "State: SK, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: SK, Date: 2025-06-10, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "SK"
 date: "2025-06-10"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -21392,8 +21495,8 @@ Die Slowakei ist ein industriell geprägter Binnenstaat in Mitteleuropa. Als wic
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Slowakischen Republik sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 ###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 
 
@@ -21416,10 +21519,10 @@ _**gemäß**_ [_**ERDA-Staatenarchitektur ("Konzentrische Kreise")**_](#erweiter
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.al.staatenprofil.albanien
 content_lang: de
-description: "State: AL, Date: 2025-06-11, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: AL, Date: 2025-06-11, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "AL"
 date: "2026-01-01"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -21616,8 +21719,8 @@ Albanien ist ein dynamischer Balkanstaat mit junger Bevölkerung und wachsendem 
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Albanien sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 ###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 
 
@@ -21626,10 +21729,10 @@ Letzte Änderung: 2026-01-08
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.am.staatenprofil.armenien
 content_lang: de
-description: "State: AM, Date: 2025-06-11, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: AM, Date: 2025-06-11, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "AM"
 date: "2026-01-01"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -21824,8 +21927,8 @@ Armenien ist ein traditionsreiches Kaukasusland mit wachsenden IT-Potenzialen un
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Armenien sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 ###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 
 
@@ -21834,10 +21937,10 @@ Letzte Änderung: 2026-01-08
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.ba.staatenprofil.bosnien.herzegowina
 content_lang: de
-description: "State: BA, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: BA, Date: 2025-06-10, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "BA"
 date: "2025-06-10"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -22035,8 +22138,8 @@ Bosnien-Herzegowina befindet sich im Wandel: Trotz politischer Komplexität und 
 Dieses Profil basiert auf öffentlich zugänglichen Daten und modellierten Annahmen. Vertreter:innen Bosnien-Herzegowinas und interessierte Fachstellen sind eingeladen, eigene Perspektiven und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten, demokratischen Zukunft Europas.
 
 ###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 
 
@@ -22045,10 +22148,10 @@ Letzte Änderung: 2026-01-08
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.ch.staatenprofil.schweiz
 content_lang: de
-description: "State: CH, Date: 2025-06-11, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: CH, Date: 2025-06-11, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "CH"
 date: "2026-01-01"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -22268,8 +22371,8 @@ Die Schweiz ist ein mehrsprachiger, wohlhabender Alpenstaat mit direkter Demokra
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Schweizerischen Eidgenossenschaft sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 ###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 
 
@@ -22278,10 +22381,10 @@ Letzte Änderung: 2026-01-08
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.cy.staatenprofil.zypern
 content_lang: de
-description: "State: CY, Date: 2025-06-11, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: CY, Date: 2025-06-11, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "CY"
 date: "2026-01-01"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -22476,8 +22579,8 @@ Zypern ist eine dynamische Mittelmeerinsel mit strategischer Lage zwischen Europ
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Zypern sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 ###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 
 
@@ -22486,10 +22589,10 @@ Letzte Änderung: 2026-01-08
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.ge.staatenprofil.georgien
 content_lang: de
-description: "State: GE, Date: 2025-06-11, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: GE, Date: 2025-06-11, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "GE"
 date: "2026-01-01"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -22686,8 +22789,8 @@ Georgien ist ein reformfreudiger Staat im Südkaukasus mit großem Potenzial als
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen Georgiens sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 ###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 
 
@@ -22696,10 +22799,10 @@ Letzte Änderung: 2026-01-08
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.hu.staatenprofil.ungarn
 content_lang: de
-description: "State: HU, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: HU, Date: 2025-06-10, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "HU"
 date: "2025-06-10"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -22897,8 +23000,8 @@ Ungarn verbindet eine traditionsreiche Kultur und günstige Lage in Mitteleuropa
 Dieses Profil basiert auf öffentlich zugänglichen Daten und modellierten Annahmen. Vertreter:innen Ungarns und interessierte Fachstellen sind eingeladen, eigene Perspektiven und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten, demokratischen Zukunft Europas.
 
 ###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 
 
@@ -22907,10 +23010,10 @@ Letzte Änderung: 2026-01-08
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.il.staatenprofil.israel
 content_lang: de
-description: "State: IL, Date: 2025-06-11, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: IL, Date: 2025-06-11, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "IL"
 date: "2026-01-01"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -23108,8 +23211,8 @@ Israel ist ein hochentwickelter Technologiestaat mit junger, dynamischer Bevölk
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen des Staates Israel sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 ###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 
 
@@ -23118,10 +23221,10 @@ Letzte Änderung: 2026-01-08
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.md.staatenprofil.moldau
 content_lang: de
-description: "State: MD, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: MD, Date: 2025-06-10, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "MD"
 date: "2025-06-10"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -23317,8 +23420,8 @@ Moldau befindet sich in einem tiefgreifenden Transformationsprozess. Als EU-Beit
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Moldau sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 ###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 
 
@@ -23328,10 +23431,10 @@ Letzte Änderung: 2026-01-08
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.me.staatenprofil.montenegro
 content_lang: de
-description: "State: ME, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: ME, Date: 2025-06-10, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "ME"
 date: "2025-06-10"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -23530,8 +23633,8 @@ Montenegro kombiniert beeindruckende Naturlandschaften mit dem Bestreben, sich a
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen Montenegros sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 ###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 
 
@@ -23540,10 +23643,10 @@ Letzte Änderung: 2026-01-08
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.mk.staatenprofil.nord.mazedonien
 content_lang: de
-description: "State: MK, Date: 2025-06-11, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: MK, Date: 2025-06-11, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "MK"
 date: "2026-01-01"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -23740,8 +23843,8 @@ Nord-Mazedonien ist ein kleiner Balkanstaat mit traditionsreicher Kultur und str
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Nord-Mazedonien sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 ###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 
 
@@ -23750,10 +23853,10 @@ Letzte Änderung: 2026-01-08
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.mt.staatenprofil.malta
 content_lang: de
-description: "State: MT, Date: 2025-06-11, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: MT, Date: 2025-06-11, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "MT"
 date: "2026-01-01"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -23956,8 +24059,8 @@ Malta ist ein Inselstaat im Mittelmeer mit starker Dienstleistungs- und Logistik
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Malta sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 ###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 
 
@@ -23966,10 +24069,10 @@ Letzte Änderung: 2026-01-08
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.no.staatenprofil.norwegen
 content_lang: de
-description: "State: NO, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: NO, Date: 2025-06-10, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "NO"
 date: "2025-06-10"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -24131,8 +24234,8 @@ Norwegen verbindet skandinavische Lebensqualität und robuste Demokratie mit ein
 Dieses Profil basiert auf öffentlich zugänglichen Daten und modellierten Annahmen. Vertreter:innen des Königreichs Norwegen und interessierte Fachstellen sind eingeladen, eigene Perspektiven und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten, demokratischen Zukunft Europas.
 
 ###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 
 
@@ -24141,10 +24244,10 @@ Letzte Änderung: 2026-01-08
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.rs.staatenprofil.serbien
 content_lang: de
-description: "State: RS, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: RS, Date: 2025-06-10, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "RS"
 date: "2025-06-10"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -24357,8 +24460,8 @@ Serbien ist ein dynamisches Land im Herzen des Balkans mit wachsenden europäisc
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Serbien sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 ###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 
 \* Status von Kosovo umstritten; Serbien erkennt Kosovo nicht als eigenständigen Staat an.
@@ -24369,10 +24472,10 @@ Letzte Änderung: 2026-01-08
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.tr.staatenprofil.tuerkei
 content_lang: de
-description: "State: TR, Date: 2025-06-11, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: TR, Date: 2025-06-11, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "TR"
 date: "2026-01-01"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -24527,8 +24630,8 @@ Türkei ist ein transkontinentaler Staat mit wachsender Bevölkerung, starker Wi
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Türkei sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 ###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 
 
@@ -24537,10 +24640,10 @@ Letzte Änderung: 2026-01-08
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.ua.staatenprofil.ukraine
 content_lang: de
-description: "State: UA, Date: 2025-06-08, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: None"
+description: "State: UA, Date: 2025-06-08, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: None"
 country: "UA"
 date: "2025-06-08"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "None"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -24761,8 +24864,8 @@ Die Ukraine steht 2025 am Beginn einer Phase tiefgreifender Erneuerung. Mit rund
 Dieses Profil wurde auf Basis öffentlich zugänglicher und modellierter Daten erstellt. Wir laden Vertreter:innen der Ukraine herzlich ein, eigene Perspektiven, Ergänzungen und Aktualisierungen einzubringen – für ein gemeinsames Bild der demokratischen Zukunft Europas.
 
 ###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 
 
@@ -24771,10 +24874,10 @@ Letzte Änderung: 2026-01-08
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.uk.staatenprofil.vereinigtes.koenigreich
 content_lang: de
-description: "State: UK, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: UK, Date: 2025-06-10, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "UK"
 date: "2025-06-10"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -24969,8 +25072,8 @@ Das Vereinigte Königreich ist eine traditionsreiche Demokratie mit globaler Rei
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen des Vereinigten Königreichs sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 ###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 
 
@@ -24979,10 +25082,10 @@ Letzte Änderung: 2026-01-08
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.xk.staatenprofil.kosovo
 content_lang: de
-description: "State: XK, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: XK, Date: 2025-06-10, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "XK"
 date: "2025-06-10"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -25183,8 +25286,8 @@ Kosovo ist ein junger Staat im Westbalkan mit dynamischer Bevölkerung und klare
 Dieses Profil basiert auf öffentlich zugänglichen Daten und modellierten Annahmen. Vertreter:innen Kosovos und interessierte Fachstellen sind eingeladen, eigene Perspektiven und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 ###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 
 
@@ -25206,10 +25309,10 @@ _**gemäß**_ [_**ERDA-Staatenarchitektur ("Konzentrische Kreise")**_](#globale-
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.au.staatenprofil.australien
 content_lang: de
-description: "State: AU, Date: 2025-06-11, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: AU, Date: 2025-06-11, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "AU"
 date: "2026-01-01"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -25381,8 +25484,8 @@ Australien ist ein rohstoffreiches, demokratisch gefestigtes Land im Indo-Pazifi
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen des Commonwealth of Australia sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 ###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 
 
@@ -25391,10 +25494,10 @@ Letzte Änderung: 2026-01-08
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.ca.staatenprofil.kanada
 content_lang: de
-description: "State: CA, Date: 2025-06-11, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: CA, Date: 2025-06-11, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "CA"
 date: "2026-01-01"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -25599,8 +25702,8 @@ Kanada ist ein rohstoffreiches, hochentwickeltes Land mit stabiler Demokratie un
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen von Kanada sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 ###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 
 <!-- Fußnotenverweise -->
@@ -25625,10 +25728,10 @@ Letzte Änderung: 2026-01-08
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.cl.staatenprofil.chile
 content_lang: de
-description: "State: CL, Date: 2025-06-11, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: CL, Date: 2025-06-11, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "CL"
 date: "2026-01-01"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -25835,8 +25938,8 @@ Chile vereint stabile demokratische Institutionen mit einem außergewöhnlichen 
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Chile sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 ###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 
 
@@ -25845,10 +25948,10 @@ Letzte Änderung: 2026-01-08
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.cr.staatenprofil.costa.rica
 content_lang: de
-description: "State: CR, Date: 2025-06-12, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: CR, Date: 2025-06-12, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "CR"
 date: "2025-06-12"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -26027,8 +26130,8 @@ Costa Rica gilt als Vorreiter für nachhaltige Entwicklung und stabile Demokrati
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Costa Rica sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 ###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 
 
@@ -26037,10 +26140,10 @@ Letzte Änderung: 2026-01-08
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.in.staatenprofil.indien
 content_lang: de
-description: "State: IN, Date: 2025-06-11, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: IN, Date: 2025-06-11, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "IN"
 date: "2026-01-01"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -26241,8 +26344,8 @@ Indien ist eine dynamische Demokratie mit schneller wirtschaftlicher Entwicklung
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Indien sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 ###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 
 
@@ -26251,10 +26354,10 @@ Letzte Änderung: 2026-01-08
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.jp.staatenprofil.japan
 content_lang: de
-description: "State: JP, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: JP, Date: 2025-06-10, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "JP"
 date: "2025-06-10"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -26456,8 +26559,8 @@ Japan ist ein technologisch hochentwickelter Inselstaat mit starker Demokratie u
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen Japans sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft.
 
 ###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 
 
@@ -26466,10 +26569,10 @@ Letzte Änderung: 2026-01-08
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.kr.staatenprofil.sued.korea
 content_lang: de
-description: "State: KR, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: KR, Date: 2025-06-10, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "KR"
 date: "2025-06-10"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -26671,8 +26774,8 @@ Südkorea ist eine dynamische Hochtechnologienation mit starker demokratischer T
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Korea sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 ###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 
 
@@ -26681,10 +26784,10 @@ Letzte Änderung: 2026-01-08
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.na.staatenprofil.namibia
 content_lang: de
-description: "State: NA, Date: 2025-06-11, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: NA, Date: 2025-06-11, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "NA"
 date: "2026-01-01"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -26861,8 +26964,8 @@ Namibia ist ein rohstoffreiches Land mit viel Potenzial für Solar- und Windener
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Namibia sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 ###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 
 <!-- Fußnotenverweise -->
@@ -26877,10 +26980,10 @@ Letzte Änderung: 2026-01-08
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.nz.staatenprofil.neuseeland
 content_lang: de
-description: "State: NZ, Date: 2025-06-11, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: NZ, Date: 2025-06-11, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "NZ"
 date: "2026-01-01"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -27098,8 +27201,8 @@ Neuseeland ist ein demokratischer Inselstaat mit starker Umweltagenda und innova
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen von Neuseeland sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 ###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 
 
@@ -27109,10 +27212,10 @@ Letzte Änderung: 2026-01-08
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.sn.staatenprofil.senegal
 content_lang: de
-description: "State: SN, Date: 2025-06-11, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: SN, Date: 2025-06-11, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "SN"
 date: "2026-01-01"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -27292,8 +27395,8 @@ Senegal ist eine politisch relativ stabile Demokratie in Westafrika mit stark wa
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Senegal sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 ###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 
 <!-- Fußnotenverweise -->
@@ -27321,10 +27424,10 @@ Letzte Änderung: 2026-01-08
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.tn.staatenprofil.tunesien
 content_lang: de
-description: "State: TN, Date: 2025-06-11, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: TN, Date: 2025-06-11, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "TN"
 date: "2026-01-01"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -27458,8 +27561,8 @@ Tunesien ist ein nordafrikanischer Mittelmeerstaat mit junger Bevölkerung und s
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Tunesien sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 ###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 
 
@@ -27469,10 +27572,10 @@ Letzte Änderung: 2026-01-08
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.tw.staatenprofil.taiwan
 content_lang: de
-description: "State: TW, Date: 2025-06-11, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: TW, Date: 2025-06-11, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "TW"
 date: "2026-01-01"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -27678,8 +27781,8 @@ Taiwan steht für dynamische Innovationskraft und demokratische Stabilität im I
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Taiwan sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 ###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 
 [^1]: [restcountries.com](https://restcountries.com/v3.1/alpha/twn) (Abruf 2025-06-11).
@@ -27708,10 +27811,10 @@ Letzte Änderung: 2026-01-08
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.uy.staatenprofil.uruguay
 content_lang: de
-description: "State: UY, Date: 2025-06-11, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: UY, Date: 2025-06-11, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "UY"
 date: "2026-01-01"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -27882,8 +27985,8 @@ Uruguay ist eine stabile, wohlhabende Demokratie in Südamerika. Mit gut ausgeba
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Uruguay sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 ###### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 
 
@@ -28081,7 +28184,7 @@ Eine nachhaltige Transformation Europas hin zu einem technologisch führenden, d
 
 ### Autorenschaft
 
-Erstellt im April 2025 durch die **ERDA Buch Redaktion** (LLM-gestützte sprachliche Überarbeitung unter redaktioneller Kontrolle). Autor und Herausgeber sind im **Kolophon (Anhang L)** ausgewiesen.
+Erstellt im April 2025 durch die **ERDA-Buch-Redaktion** (LLM-gestützte sprachliche Überarbeitung unter redaktioneller Kontrolle). Autor und Herausgeber sind im **Kolophon (Anhang L)** ausgewiesen.
 
 
 \newpage
@@ -28567,7 +28670,7 @@ content_lang: de
 
 ## D.4 Handlungsleitfäden & Tool‑Box
 
-Dieser Abschnitt bündelt die operativen Abkürzungen für Entscheidungsträger:innen. Er verknüpft die Kapitel 5–14 mit den Werkstattmaterialien aus **Anhang E (ERDA Buch Baukasten)** und liefert einen klaren Einstieg in Pilotierungen, Skalierung und Qualitätskontrolle.
+Dieser Abschnitt bündelt die operativen Abkürzungen für Entscheidungsträger:innen. Er verknüpft die Kapitel 5–14 mit den Werkstattmaterialien aus **Anhang E (ERDA-Buch-Baukasten)** und liefert einen klaren Einstieg in Pilotierungen, Skalierung und Qualitätskontrolle.
 
 ***
 
@@ -28963,13 +29066,13 @@ content_lang: de
 ---
 <a id="md-anhang-e-erda-buch-baukasten-readme"></a>
 
-# Anhang E: ERDA Buch Baukasten
+# Anhang E: ERDA-Buch-Baukasten
 
-_**ERDA Buch Baukasten**_
+_**ERDA-Buch-Baukasten**_
 
 ## E.1 Einleitung
 
-Der ERDA Buch Baukasten bündelt wiederverwendbare Bausteine für Strukturierung, Layout, Interaktivität und Leseerlebnis des ERDA-Buches. Er dient Autor:innen, Redakteur:innen und Kooperations-KIs als Werkzeugkasten, um neue Kapitel konsistent, leserfreundlich und im Geist der ERDA-Vision zu gestalten.
+Der ERDA-Buch-Baukasten bündelt wiederverwendbare Bausteine für Strukturierung, Layout, Interaktivität und Leseerlebnis des ERDA-Buches. Er dient Autor:innen, Redakteur:innen und Kooperations-KIs als Werkzeugkasten, um neue Kapitel konsistent, leserfreundlich und im Geist der ERDA-Vision zu gestalten.
 
 ## E.2 Überblick über die Bausteine
 
@@ -29116,7 +29219,7 @@ evtl. vorhandene schon erarbeitete Kapitel Inhalte (Grundthemen, Auflistungen, .
 
 **Inhalt:**
 
-**Siehe im ERDA Buch Baukasten ->**🪄 _**Template für ein standardisiertes ERDA-Quellenverzeichnis**_
+**Siehe im ERDA-Buch-Baukasten ->**🪄 _**Template für ein standardisiertes ERDA-Quellenverzeichnis**_
 
 **Ausfüllanweisung:**
 
@@ -29139,7 +29242,7 @@ evtl. vorhandene schon erarbeitete Kapitel Inhalte (Grundthemen, Auflistungen, .
 
 #### 📎 Quellen & Verweise
 
-**Siehe im ERDA Buch Baukasten ->**&#xD83E;� _**Template für ein standardisiertes ERDA-Quellenverzeichnis**_
+**Siehe im ERDA-Buch-Baukasten ->**&#xD83E;� _**Template für ein standardisiertes ERDA-Quellenverzeichnis**_
 
 
 \newpage
@@ -29480,13 +29583,13 @@ content_lang: de
 ---
 <a id="md-anhang-e-erda-buch-baukasten-e-9-schema-and-promptstruktur-fur-kooperations-kis-im-erda-projekt"></a>
 
-## E.9 🤖 Schema & Promptstruktur für Kooperations-KIs im ERDA Projekt
+## E.9 🤖 Schema & Promptstruktur für Kooperations-KIs im ERDA-Buchprojekt
 
-_**E.9 🤖 Schema & Promptstruktur für Kooperations-KIs im ERDA Projekt**_
+_**E.9 🤖 Schema & Promptstruktur für Kooperations-KIs im ERDA-Buchprojekt**_
 
 #### 🧭 Ziel dieses Schemas
 
-Dieses Schema befähigt künstliche Intelligenzen (ab Stufe GPT-4o) zur kompetenten, ethischen und semantisch kohärenten Zusammenarbeit am **ERDA Buch**. Es übersetzt die Prinzipien des ERDA-Projekts in **strukturierte Arbeitsanweisungen**, angepasst an die Zielgruppen des Werks und den GitBook-basierten Aufbau.
+Dieses Schema befähigt künstliche Intelligenzen (ab Stufe GPT-4o) zur kompetenten, ethischen und semantisch kohärenten Zusammenarbeit am **ERDA-Buch**. Es übersetzt die Prinzipien des ERDA-Buchprojekts in **strukturierte Arbeitsanweisungen**, angepasst an die Zielgruppen des Werks und den GitBook-basierten Aufbau.
 
 ***
 
@@ -29770,6 +29873,14 @@ content_lang: de
 ---
 <a id="md-anhang-h-fehlgeschlagene-machtstrukturen-der-menschheit"></a>
 
+
+\newpage
+\newgeometry{paperwidth=594mm, paperheight=420mm, left=18mm, right=18mm, top=18mm, bottom=18mm}
+
+
+\pagewidth=594mm
+\pageheight=420mm
+
 # Anhang H: Fehlgeschlagene Machtstrukturen der Menschheit
 
 _**Fehlgeschlagene Machtstrukturen der Menschheit**_
@@ -29784,15 +29895,9 @@ Eine Machtstruktur scheitert nicht erst, wenn sie militärisch verliert oder ök
 
 Die Kritik dieses Anhangs richtet sich deshalb gegen Machtlogiken, nicht gegen ganze Bevölkerungen. Imperiale, autoritäre oder terroristische Systeme können Menschen zugleich zu Werkzeugen, Mitläufer:innen und Opfern machen. ERDA muss diese Unterscheidung bewahren: klare Abwehr lebensfeindlicher Strukturen, aber keine Entmenschlichung der Menschen, die in ihnen leben.
 
-\newpage
-\newgeometry{paperwidth=420mm, paperheight=297mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
-
-
-\pagewidth=420mm
-\pageheight=297mm
 ## H.2 Übersicht zentraler Machtstrukturen
 
-\begin{longtable}{@{}>{\raggedright\arraybackslash}p{36.28mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{109.40mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{67.43mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{158.89mm}@{}}\toprule Machtstruktur & Kurzbeschreibung & Aktuelle Beispiele (2025) & Maßnahmen zur Abhilfe \\\midrule \endhead Totalitarismus & Totale Kontrolle aller Lebensbereiche & Nordkorea, Eritrea, Turkmenistan & Internationale Sanktionen, Förderung unabhängiger Medien, langfristig Aufbau von Zivilgesellschaft \\Autoritarismus & Starke Exekutive, Einschränkung von Freiheitsrechten & China, Russland, Belarus & Politischer Dialog, wirtschaftliche Konditionen, langfristige Unterstützung demokratischer Kräfte \\Militärdiktatur & Militärherrschaft durch Putsch & Myanmar, Sudan & UN-Friedensmissionen, Embargos, Förderung ziviler Übergangsregierungen \\Theokratie & Herrschaft religiöser Führer & Iran, Afghanistan (Taliban), Vatikanstadt & Diplomatische Isolation (kurzfristig), interreligiöser Dialog, langfristige Unterstützung liberaler religiöser Bewegungen \\Einparteiensystem & Monopol einer Partei ohne Wettbewerb & China, Kuba, Nordkorea, Vietnam, Laos & Wirtschaftliche Anreize für Reformen, langfristig Bildungs- und Austauschprogramme \\Absolute Monarchie & Monarch mit uneingeschränkter Macht & Saudi-Arabien, Brunei, Eswatini, Oman, VAE & Internationale Dialoge über Menschenrechte, Reformunterstützung durch Bildung und Entwicklung \\Kleptokratie & Korruptionsbasierte Herrschaft & Russland & Finanzielle Sanktionen gegen führende Akteure, langfristige Korruptionsbekämpfung und Transparenzinitiativen \\Faschistische Diktatur & Ultranationalistische Gewaltregime & Historisch: Deutschland, Italien, Spanien & Geschichtliche Aufarbeitung, Bildungsprogramme, konsequente Strafverfolgung faschistischer Aktivitäten \\Imperialismus & Unterwerfung fremder Völker/Gebiete & Russland (Ukraine), China (BRI), USA (Militärpräsenz) & Internationale Regulierung, multilaterale Friedensverträge, nachhaltige Entwicklungszusammenarbeit \\Sklaverei & Absolute Entrechtung von Menschen & Weltweit illegale, moderne Formen & Internationale Strafverfolgung, umfassende soziale und wirtschaftliche Prävention \\Apartheidsysteme & Systematische rassische Diskriminierung & Historisch: Südafrika, USA & Antidiskriminierungsgesetze, Aufklärungskampagnen, umfassende gesellschaftliche Integration \\Terrorherrschaft & Gewalt zur Machtsicherung & ISIS, regionale Warlords & Internationale Sicherheitskooperation, militärische Friedensmissionen, langfristig Friedensbildung und Konfliktmanagement \\Gewaltsame Anarchie & Verlust jeglicher staatlicher Ordnung & Historisch: Somalia, Bürgerkriegsregionen & Sofortige humanitäre Interventionen, Aufbau staatlicher Institutionen, langfristige Stabilisierung \\Vetoparalyse / Blockadismus & Entscheidungsunfähigkeit durch Einstimmigkeitszwang oder dauerhafte Minderheitsblockade & Historisch: liberum veto (Polen-Litauen) & Umstellung auf QMV/Notfallklauseln, Anti-Korruptions- \& Transparenzregeln, Schutz vor externer Einflussnahme, klare Kompetenzordnung \\\bottomrule \end{longtable}
+\begin{longtable}{@{}>{\raggedright\arraybackslash}p{46.50mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{151.55mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{86.11mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{228.71mm}@{}}\toprule Machtstruktur & Kurzbeschreibung & Aktuelle Beispiele (2025) & Maßnahmen zur Abhilfe \\\midrule \endhead Totalitarismus & Totale Kontrolle aller Lebensbereiche & Nordkorea, Eritrea, Turkmenistan & Internationale Sanktionen, Förderung unabhängiger Medien, langfristig Aufbau von Zivilgesellschaft \\Autoritarismus & Starke Exekutive, Einschränkung von Freiheitsrechten & China, Russland, Belarus & Politischer Dialog, wirtschaftliche Konditionen, langfristige Unterstützung demokratischer Kräfte \\Militärdiktatur & Militärherrschaft durch Putsch & Myanmar, Sudan & UN-Friedensmissionen, Embargos, Förderung ziviler Übergangsregierungen \\Theokratie & Herrschaft religiöser Führer & Iran, Afghanistan (Taliban), Vatikanstadt & Diplomatische Isolation (kurzfristig), interreligiöser Dialog, langfristige Unterstützung liberaler religiöser Bewegungen \\Einparteiensystem & Monopol einer Partei ohne Wettbewerb & China, Kuba, Nordkorea, Vietnam, Laos & Wirtschaftliche Anreize für Reformen, langfristig Bildungs- und Austauschprogramme \\Absolute Monarchie & Monarch mit uneingeschränkter Macht & Saudi-Arabien, Brunei, Eswatini, Oman, VAE & Internationale Dialoge über Menschenrechte, Reformunterstützung durch Bildung und Entwicklung \\Kleptokratie & Korruptionsbasierte Herrschaft & Russland & Finanzielle Sanktionen gegen führende Akteure, langfristige Korruptionsbekämpfung und Transparenzinitiativen \\Faschistische Diktatur & Ultranationalistische Gewaltregime & Historisch: Deutschland, Italien, Spanien & Geschichtliche Aufarbeitung, Bildungsprogramme, konsequente Strafverfolgung faschistischer Aktivitäten \\Imperialismus & Unterwerfung fremder Völker/Gebiete & Russland (Ukraine), China (BRI), USA (Militärpräsenz) & Internationale Regulierung, multilaterale Friedensverträge, nachhaltige Entwicklungszusammenarbeit \\Sklaverei & Absolute Entrechtung von Menschen & Weltweit illegale, moderne Formen & Internationale Strafverfolgung, umfassende soziale und wirtschaftliche Prävention \\Apartheidsysteme & Systematische rassische Diskriminierung & Historisch: Südafrika, USA & Antidiskriminierungsgesetze, Aufklärungskampagnen, umfassende gesellschaftliche Integration \\Terrorherrschaft & Gewalt zur Machtsicherung & ISIS, regionale Warlords & Internationale Sicherheitskooperation, militärische Friedensmissionen, langfristig Friedensbildung und Konfliktmanagement \\Gewaltsame Anarchie & Verlust jeglicher staatlicher Ordnung & Historisch: Somalia, Bürgerkriegsregionen & Sofortige humanitäre Interventionen, Aufbau staatlicher Institutionen, langfristige Stabilisierung \\Vetoparalyse / Blockadismus & Entscheidungsunfähigkeit durch Einstimmigkeitszwang oder dauerhafte Minderheitsblockade & Historisch: liberum veto (Polen-Litauen) & Umstellung auf QMV/Notfallklauseln, Anti-Korruptions- \& Transparenzregeln, Schutz vor externer Einflussnahme, klare Kompetenzordnung \\\bottomrule \end{longtable}
 \restoregeometry
 \pagewidth=210mm
 \pageheight=297mm
@@ -29819,19 +29924,21 @@ content_lang: de
 ---
 <a id="md-anhang-i-zentrales-erda-glossar"></a>
 
+
+\newpage
+\newgeometry{paperwidth=841mm, paperheight=594mm, left=20mm, right=20mm, top=20mm, bottom=20mm}
+
+
+\pagewidth=841mm
+\pageheight=594mm
+
 # Anhang I: Zentrales ERDA-Glossar
 
 _**Zentrales ERDA-Glossar**_
 
 Dieses Glossar fasst die zentralen Begriffe des ERDA-Buches zusammen. Es dient als eigenständiges Nachschlagewerk und unterstützt eine einheitliche Begriffsnutzung über alle Kapitel hinweg.
 
-\newpage
-\newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
-
-
-\pagewidth=297mm
-\pageheight=210mm
-\begin{longtable}{@{}>{\raggedright\arraybackslash}p{49.28mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{208.72mm}@{}}\toprule Begriff & Definition \\\midrule \endhead **Demokratische Resilienz** & Die Fähigkeit demokratischer Systeme, Krisen und Störungen durch partizipative Lernprozesse zu bewältigen, ihre Grundprinzipien (Freiheit, Rechtsstaatlichkeit, Teilhabe) zu schützen und sich an neue Herausforderungen anzupassen. \\**Demokratie der Mündigen** & Demokratische Ordnung, in der freie Bürger:innen urteilen, widersprechen, mitentscheiden und nach ihren Fähigkeiten Verantwortung für die gemeinsame Welt tragen; Kernformel: Freiheit plus Verantwortung plus Urteilskraft. \\**Resonanz** & Wechselseitige, lebendige Rückkopplung zwischen Bürger:innen, Institutionen und Technologie, die Vertrauen stärkt, Vielfalt integriert und Fehler als Entwicklungsimpulse nutzt. \\**Tugend** & Gelebte ethische Haltung im Sinne der aristotelischen \_aretē\_: bewusstes Handeln im rechten Maß zwischen Extremen, getragen von Verantwortung gegenüber sich selbst und der Gemeinschaft. \\**Imperativ** & Handlungsregel. Im ERDA-Kontext ist zu unterscheiden zwischen strategischem Handlungsdruck, hypothetischen Zweck-Mittel-Regeln und kategorischen moralischen Grenzen wie Menschenwürde und Nicht-Instrumentalisierung. \\**Wir sind der Staat** & Verantwortungsformel der Demokratie der Mündigen: Bürger:innen tragen gemeinsam Verantwortung dafür, dass Macht durch Recht, Wahrheit, Würde und Rechenschaft gebunden bleibt. \\**Natürliche Verlangen** & Grundlegende menschliche Impulse – Überleben, Fortpflanzung, Lernen, Verbindung, Ausdruck, Harmonie –, die als Triebkräfte für den Aufbau demokratischer, rechtsstaatlicher Zivilisationen wirken. \\**Ringfluss** & Symbolische Darstellung der zentralen Resonanzkräfte Tugend, Aufklärung, Mitgefühl, Resilienz, Sicherheit und Freude, die als dynamische Ströme alle Tätigkeitsfelder des ERDA-Instituts verbinden. \\**ERDA** & \_European Rights-Based Democratic Alliance\_ – demokratisch-rechtsstaatliche Zukunftsarchitektur Europas mit gemeinsamer Verfassung, strategischer Autonomie, digitaler Teilhabe und dem Ziel einer Post-Knappheitsökonomie. \\**Post-Knappheitsökonomie** & Gesellschaftsmodell mit universellem Zugang zu Grundressourcen, getragen von Automatisierung, Digitalisierung, Ressourceneffizienz und gerechter Teilhabe am Wohlstand. \\**ERDA-Institut** & Einrichtung zur Förderung demokratischer Resilienz und Transformation, aufgebaut aus fünf Kernbausteinen: Akademie, Roadmap-Labore, Civic Labs, Open-Access-Bibliothek und KI-Kompass Unit. \\**Akademie** & Bildungseinheit des ERDA-Instituts zur Vermittlung von Resonanzkompetenz, ethischer Gestaltungskraft und strategischer Reflexionsfähigkeit, u.a. durch Open Lectures und Micro-Degree-Programme. \\**Roadmap-Labore** & Strategische Entwicklungsräume für die Gestaltung demokratischer Zukunftsfahrpläne mittels Methoden wie Szenario-Mapping, Backcasting und Deep-Dives. \\**Civic Labs** & Lokale Innovationsplattformen für bürgerzentrierte Projekte, soziale Experimente und partizipative Demokratieentwicklung. \\**KI-Kompass Unit** & Forschungseinheit für die ethische Ko-Entwicklung menschenzentrierter KI-Modelle und für die Reflexion technologischer Transformationspfade im demokratischen Kontext. \\**Demokratie-Labs** & Experimentierfelder für neue Formen demokratischer Teilhabe, insbesondere die Integration von Co-Creation-Methoden und KI-gestützter Entscheidungsfindung. \\**EDA/EVA (Europäische Verteidigungsallianz)** & Europäisches Verteidigungsbündnis im Aufbau, mit dem Ziel einer strategischen, demokratisch legitimierten Schutzarchitektur auf Grundlage gemeinsamer Werte; kein Machtprojekt, sondern Begrenzung von Gewalt durch Recht. \\**Artikel-5-Äquivalent** & Rechtsverbindliche kollektive Beistandsklausel der EDA, funktional vergleichbar mit Artikel 5 der NATO. \\**Defense Sovereignty Nodes (DSNs)** & Territoriale und mobile Verteidigungsknoten der EDA; strukturelles Rückgrat regionaler Abschreckungs-, Schutz- und Reaktionsfähigkeit. \\**Democracy Security Network** & Wertebasiertes globales Sicherheitsnetzwerk demokratischer Staaten für Informationsaustausch, Übungen und die Abwehr hybrider Bedrohungen. \\**Demokratische Bündnisverlässlichkeit** & Erwartung, dass Bündnispartner ihre Macht rechtsstaatlich binden, Allianzen nicht erpressen, angegriffene Demokratien nicht preisgeben und imperiale Aggression nicht belohnen. \\**Rapid Response Force (RRF)** & Multinationale Schnelleingreiftruppe der EDA für Krisen, hybride Bedrohungen und kurzfristige Stabilisierungsaufgaben. \\**Strategische Autonomie** & Fähigkeit, in Verteidigung, Diplomatie, Technologie, Energie und Wirtschaft eigenständig zu handeln, ohne kritische systemische Abhängigkeiten. \\**Liberum veto** & Historisches Entscheidungsprinzip (Polen–Litauen), bei dem einzelne Akteure kollektive Beschlüsse blockieren konnten; Beispiel für strukturelle Vetoparalyse und externe Manipulierbarkeit. \\**Vetoparalyse / Blockadismus** & Strukturelle Entscheidungsunfähigkeit durch Einstimmigkeitszwang oder dauerhafte Minderheitsblockade; macht Systeme langsam, vorhersehbar und strategisch ausnutzbar. \\**Anti-Veto** & Demokratisches Designprinzip, das Minderheitenschutz bewahrt, aber verhindert, dass einzelne Akteure gemeinsame Sicherheit, Finanzierung oder Überlebensfähigkeit ohne tragfähige Alternative blockieren. \\**Pragmatic Federalism** & Integrationsmethode, bei der willige Staaten in zentralen Politikfeldern per Opt-in vorangehen, demokratisch kontrollierte Institutionen aufbauen und den Beitritt offenhalten, ohne gemeinsame Ziele sabotierbar zu machen. \\**Weaponized Interdependence** & Strategische Nutzung wirtschaftlicher und technologischer Abhängigkeiten als Machtmittel; verschiebt Handel, Plattformen, Logistik und Standards in die Sphäre der Sicherheitsarchitektur. \\**FORTERA** & Konzept für Europas Produktionssouveränität und strategische Industriepolitik in Schlüsseltechnologien (z.B. Halbleiter, Wasserstoff, Recycling), verbunden mit ethischer und ökologischer Verantwortung. \\**Democracy Trade Network** & Regelbasiertes Handels- und Rohstoffnetz demokratischer Staaten zur resilienten, fairen und strategisch defensiven Sicherung kritischer Lieferketten. \\**Europäischer Handelsabwehrmechanismus (EHAM)** & Instrumentarium der ERDA/FORTERA zur Abwehr wirtschaftlicher Erpressung, inklusive Früherkennung, verhältnismäßiger Gegenmaßnahmen und Schutz kritischer Lieferketten. \\**EHAM+** & Erweiterte Bewertungs- und Indikatorversion des EHAM; dient in den ERDA-Staatenprofilen der Einordnung handels- und resilienzpolitischer Handlungsfähigkeit. \\**CIVITAS** & Digitale Agora für demokratische Beteiligung auf Basis von Transparenz, Datenschutz und Bürgernähe, u.a. durch eVoting, Bürgeranträge und digitale Abstimmungstracker. \\**Konzentrische Kreise** & Stufenmodell der ERDA-Mitgliedschaft und Partnerschaft – von verfassungsgebundener Kernmitgliedschaft bis zu globaler assoziierter Kooperation. \\**ARKTIS Codex** & Ethikkodex des ERDA für die arktische Region, der demokratische Verantwortung, Schutz indigener Rechte und nachhaltige Ressourcenpartnerschaften vereint. \\**SPACE / Solar Alliance** & Langfristiges Raumfahrtkonzept der ERDA zur Kodifizierung eines demokratischen Kosmosrechts und zum Aufbau interplanetarer Institutionen (Solar-Parlament, Allianzrat, Raumrechtskammer) bis 2075. \\**DNSN (Democratic Navigation \& Signal Nodes)** & Zivil kontrollierte Kommunikations-, Synchronisations- und Navigationsknoten der Solar Alliance; orbitales Rückgrat verteilter Raum-Infrastruktur. \\**Ko-Evolutions-Index (KEI)** & Beobachtungs- und Frühwarninstrument für die demokratische Qualität der Mensch-KI-Beziehung; erfasst Transparenz, ethische Steuerung und partizipative Kontrolle von KI-Systemen in Governance-Prozessen (Kapitel 10). \\**Ko-Evolution (Mensch–KI)** & Konzept der gleichberechtigten Weiterentwicklung von Mensch und Künstlicher Intelligenz, gesteuert durch demokratische Governance und ethische Guardrails (Kapitel 10). \\**Bürgerpflichtmodell** & Integriertes Modell, das Bürgerrechte mit bürgerschaftlicher Verantwortung verbindet – durch adaptiven Pflichtdienst (zivil, sozial, ökologisch oder militärisch), Resilienzbildung und demografische Kompensation (Kapitel 11). \\**Demografischer Imperativ** & Strategischer Handlungszwang durch schrumpfende Bevölkerungen; erfordert technologische Mobilisierung, qualifizierte Zuwanderung und Familienförderung (Kapitel 11). \\**Sieben Transformationsregeln** & Normativer Rahmen für die Erneuerung sozialer Demokratie im 21. Jahrhundert; überprüfbar durch parlamentarische Simulationen und Demokratie-Reifekennzahlen (Kapitel 12). \\**Selbstabschreckung** & Europas größte strategische Schwäche: die Angst vor eigenem Handeln lähmt mehr als die Bedrohung selbst; Überwindung durch Sofortprogramme, industrielle Masse und Veto-Resilienz (Kapitel 13). \\**Ukraine-First-Prinzip** & Strategische und moralische Leitlinie, nach der europäische Verteidigungsfähigkeit zuerst dazu dient, eine angegriffene Demokratie erfolgreich zu schützen und Aggression nicht durch eingefrorene Gewinne zu belohnen. \\**Koalitionen der Willigen** & Demokratische Staatengruppen, die über Opt-in-Mechanismen vorangehen, ohne den Gesamtrahmen der EU aufzugeben; Überwindung der Vetoblockade durch flexible Integration (Kapitel 14). \\**EDDRC** & European Democratic Defence \& Resilience Club – institutionelle Club-Architektur mit Rat, Versammlung, Audit-Instanz (ACI) und Tribunal für demokratische Bündniskooperation (Kapitel 14). \\**Demokratie-Kette** & Vierstufiges Absicherungssystem (Wahlrecht → Grundrechte → Gewaltenteilung → Ombudsstellen), das sicherstellt, dass kein Mitglied einer Koalition unter demokratische Mindestschwellen fällt (Kapitel 14). \\**Stufenmodell (Tier 0–9)** & Flexibles Integrationsmodell für demokratische Koalitionen: vom Beobachterstatus (Tier 0) bis zur föderalen Mitgliedschaft (Tier 9), mit klaren KPIs für Auf- und Abstufung (Kapitel 14). \\**Demokratisches Wissen** & Sieben Prinzipien demokratischer Handlungsfähigkeit zu Macht, Umgang mit nicht-demokratiewilligen Staaten, Frieden und Sicherheit, Wahrheit und Täuschung, Demokratie, Technologie/KI und innerer demokratischer Verfassung. \\**Mosaik-Prinzip** & Strategische Architektur verteilter, modularer und redundant verbundener Fähigkeiten; im ERDA-Kontext rechtsstaatlich eingehegt und auf demokratische DSN-Resilienz statt autoritäre Kriegsführung ausgerichtet. \\**Anti-Game-Over-Prinzip** & Entwicklungsphilosophisches Prinzip, nach dem demokratische Systeme irreversible Lebensabbrüche, Lernabbrüche und Zukunftsblockaden vermeiden und immer neue Wege zur Wiederaufnahme von Entwicklung offenhalten sollen. \\**Prosperatives Leben** & Leitbegriff für ein gelingendes, lernfähiges und resilientes Leben, das Sicherheit, Freiheit, Verantwortung, Freude, Bildung und offene Entwicklungsmöglichkeiten miteinander verbindet. \\\bottomrule \end{longtable}
+\begin{longtable}{@{}>{\raggedright\arraybackslash}p{80.57mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{383.57mm}@{}}\toprule Begriff & Definition \\\midrule \endhead \textbf{Demokratische Resilienz} & Die Fähigkeit demokratischer Systeme, Krisen und Störungen durch partizipative Lernprozesse zu bewältigen, ihre Grundprinzipien (Freiheit, Rechtsstaatlichkeit, Teilhabe) zu schützen und sich an neue Herausforderungen anzupassen. \\\textbf{Demokratie der Mündigen} & Demokratische Ordnung, in der freie Bürger:innen urteilen, widersprechen, mitentscheiden und nach ihren Fähigkeiten Verantwortung für die gemeinsame Welt tragen; Kernformel: Freiheit plus Verantwortung plus Urteilskraft. \\\textbf{Resonanz} & Wechselseitige, lebendige Rückkopplung zwischen Bürger:innen, Institutionen und Technologie, die Vertrauen stärkt, Vielfalt integriert und Fehler als Entwicklungsimpulse nutzt. \\\textbf{Tugend} & Gelebte ethische Haltung im Sinne der aristotelischen \_aretē\_: bewusstes Handeln im rechten Maß zwischen Extremen, getragen von Verantwortung gegenüber sich selbst und der Gemeinschaft. \\\textbf{Imperativ} & Handlungsregel. Im ERDA-Kontext ist zu unterscheiden zwischen strategischem Handlungsdruck, hypothetischen Zweck-Mittel-Regeln und kategorischen moralischen Grenzen wie Menschenwürde und Nicht-Instrumentalisierung. \\\textbf{Wir sind der Staat} & Verantwortungsformel der Demokratie der Mündigen: Bürger:innen tragen gemeinsam Verantwortung dafür, dass Macht durch Recht, Wahrheit, Würde und Rechenschaft gebunden bleibt. \\\textbf{Natürliche Verlangen} & Grundlegende menschliche Impulse – Überleben, Fortpflanzung, Lernen, Verbindung, Ausdruck, Harmonie –, die als Triebkräfte für den Aufbau demokratischer, rechtsstaatlicher Zivilisationen wirken. \\\textbf{Ringfluss} & Symbolische Darstellung der zentralen Resonanzkräfte Tugend, Aufklärung, Mitgefühl, Resilienz, Sicherheit und Freude, die als dynamische Ströme alle Tätigkeitsfelder des ERDA-Instituts verbinden. \\\textbf{ERDA} & \_European Rights-Based Democratic Alliance\_ – demokratisch-rechtsstaatliche Zukunftsarchitektur Europas mit gemeinsamer Verfassung, strategischer Autonomie, digitaler Teilhabe und dem Ziel einer Post-Knappheitsökonomie. \\\textbf{Post-Knappheitsökonomie} & Gesellschaftsmodell mit universellem Zugang zu Grundressourcen, getragen von Automatisierung, Digitalisierung, Ressourceneffizienz und gerechter Teilhabe am Wohlstand. \\\textbf{ERDA-Institut} & Einrichtung zur Förderung demokratischer Resilienz und Transformation, aufgebaut aus fünf Kernbausteinen: Akademie, Roadmap-Labore, Civic Labs, Open-Access-Bibliothek und KI-Kompass Unit. \\\textbf{Akademie} & Bildungseinheit des ERDA-Instituts zur Vermittlung von Resonanzkompetenz, ethischer Gestaltungskraft und strategischer Reflexionsfähigkeit, u.a. durch Open Lectures und Micro-Degree-Programme. \\\textbf{Roadmap-Labore} & Strategische Entwicklungsräume für die Gestaltung demokratischer Zukunftsfahrpläne mittels Methoden wie Szenario-Mapping, Backcasting und Deep-Dives. \\\textbf{Civic Labs} & Lokale Innovationsplattformen für bürgerzentrierte Projekte, soziale Experimente und partizipative Demokratieentwicklung. \\\textbf{KI-Kompass Unit} & Forschungseinheit für die ethische Ko-Entwicklung menschenzentrierter KI-Modelle und für die Reflexion technologischer Transformationspfade im demokratischen Kontext. \\\textbf{Demokratie-Labs} & Experimentierfelder für neue Formen demokratischer Teilhabe, insbesondere die Integration von Co-Creation-Methoden und KI-gestützter Entscheidungsfindung. \\\textbf{EDA/EVA (Europäische Verteidigungsallianz)} & Europäisches Verteidigungsbündnis im Aufbau, mit dem Ziel einer strategischen, demokratisch legitimierten Schutzarchitektur auf Grundlage gemeinsamer Werte; kein Machtprojekt, sondern Begrenzung von Gewalt durch Recht. \\\textbf{Artikel-5-Äquivalent} & Rechtsverbindliche kollektive Beistandsklausel der EDA, funktional vergleichbar mit Artikel 5 der NATO. \\\textbf{Defense Sovereignty Nodes (DSNs)} & Territoriale und mobile Verteidigungsknoten der EDA; strukturelles Rückgrat regionaler Abschreckungs-, Schutz- und Reaktionsfähigkeit. \\\textbf{Democracy Security Network} & Wertebasiertes globales Sicherheitsnetzwerk demokratischer Staaten für Informationsaustausch, Übungen und die Abwehr hybrider Bedrohungen. \\\textbf{Demokratische Bündnisverlässlichkeit} & Erwartung, dass Bündnispartner ihre Macht rechtsstaatlich binden, Allianzen nicht erpressen, angegriffene Demokratien nicht preisgeben und imperiale Aggression nicht belohnen. \\\textbf{Rapid Response Force (RRF)} & Multinationale Schnelleingreiftruppe der EDA für Krisen, hybride Bedrohungen und kurzfristige Stabilisierungsaufgaben. \\\textbf{Strategische Autonomie} & Fähigkeit, in Verteidigung, Diplomatie, Technologie, Energie und Wirtschaft eigenständig zu handeln, ohne kritische systemische Abhängigkeiten. \\\textbf{Liberum veto} & Historisches Entscheidungsprinzip (Polen–Litauen), bei dem einzelne Akteure kollektive Beschlüsse blockieren konnten; Beispiel für strukturelle Vetoparalyse und externe Manipulierbarkeit. \\\textbf{Vetoparalyse / Blockadismus} & Strukturelle Entscheidungsunfähigkeit durch Einstimmigkeitszwang oder dauerhafte Minderheitsblockade; macht Systeme langsam, vorhersehbar und strategisch ausnutzbar. \\\textbf{Anti-Veto} & Demokratisches Designprinzip, das Minderheitenschutz bewahrt, aber verhindert, dass einzelne Akteure gemeinsame Sicherheit, Finanzierung oder Überlebensfähigkeit ohne tragfähige Alternative blockieren. \\\textbf{Pragmatic Federalism} & Integrationsmethode, bei der willige Staaten in zentralen Politikfeldern per Opt-in vorangehen, demokratisch kontrollierte Institutionen aufbauen und den Beitritt offenhalten, ohne gemeinsame Ziele sabotierbar zu machen. \\\textbf{Weaponized Interdependence} & Strategische Nutzung wirtschaftlicher und technologischer Abhängigkeiten als Machtmittel; verschiebt Handel, Plattformen, Logistik und Standards in die Sphäre der Sicherheitsarchitektur. \\\textbf{FORTERA} & Konzept für Europas Produktionssouveränität und strategische Industriepolitik in Schlüsseltechnologien (z.B. Halbleiter, Wasserstoff, Recycling), verbunden mit ethischer und ökologischer Verantwortung. \\\textbf{Democracy Trade Network} & Regelbasiertes Handels- und Rohstoffnetz demokratischer Staaten zur resilienten, fairen und strategisch defensiven Sicherung kritischer Lieferketten. \\\textbf{Europäischer Handelsabwehrmechanismus (EHAM)} & Instrumentarium der ERDA/FORTERA zur Abwehr wirtschaftlicher Erpressung, inklusive Früherkennung, verhältnismäßiger Gegenmaßnahmen und Schutz kritischer Lieferketten. \\\textbf{EHAM+} & Erweiterte Bewertungs- und Indikatorversion des EHAM; dient in den ERDA-Staatenprofilen der Einordnung handels- und resilienzpolitischer Handlungsfähigkeit. \\\textbf{CIVITAS} & Digitale Agora für demokratische Beteiligung auf Basis von Transparenz, Datenschutz und Bürgernähe, u.a. durch eVoting, Bürgeranträge und digitale Abstimmungstracker. \\\textbf{Konzentrische Kreise} & Stufenmodell der ERDA-Mitgliedschaft und Partnerschaft – von verfassungsgebundener Kernmitgliedschaft bis zu globaler assoziierter Kooperation. \\\textbf{ARKTIS Codex} & Ethikkodex des ERDA für die arktische Region, der demokratische Verantwortung, Schutz indigener Rechte und nachhaltige Ressourcenpartnerschaften vereint. \\\textbf{SPACE / Solar Alliance} & Langfristiges Raumfahrtkonzept der ERDA zur Kodifizierung eines demokratischen Kosmosrechts und zum Aufbau interplanetarer Institutionen (Solar-Parlament, Allianzrat, Raumrechtskammer) bis 2075. \\\textbf{DNSN (Democratic Navigation \& Signal Nodes)} & Zivil kontrollierte Kommunikations-, Synchronisations- und Navigationsknoten der Solar Alliance; orbitales Rückgrat verteilter Raum-Infrastruktur. \\\textbf{Ko-Evolutions-Index (KEI)} & Beobachtungs- und Frühwarninstrument für die demokratische Qualität der Mensch-KI-Beziehung; erfasst Transparenz, ethische Steuerung und partizipative Kontrolle von KI-Systemen in Governance-Prozessen (Kapitel 10). \\\textbf{Ko-Evolution (Mensch–KI)} & Konzept der gleichberechtigten Weiterentwicklung von Mensch und Künstlicher Intelligenz, gesteuert durch demokratische Governance und ethische Guardrails (Kapitel 10). \\\textbf{Bürgerpflichtmodell} & Integriertes Modell, das Bürgerrechte mit bürgerschaftlicher Verantwortung verbindet – durch adaptiven Pflichtdienst (zivil, sozial, ökologisch oder militärisch), Resilienzbildung und demografische Kompensation (Kapitel 11). \\\textbf{Demografischer Imperativ} & Strategischer Handlungszwang durch schrumpfende Bevölkerungen; erfordert technologische Mobilisierung, qualifizierte Zuwanderung und Familienförderung (Kapitel 11). \\\textbf{Sieben Transformationsregeln} & Normativer Rahmen für die Erneuerung sozialer Demokratie im 21. Jahrhundert; überprüfbar durch parlamentarische Simulationen und Demokratie-Reifekennzahlen (Kapitel 12). \\\textbf{Selbstabschreckung} & Europas größte strategische Schwäche: die Angst vor eigenem Handeln lähmt mehr als die Bedrohung selbst; Überwindung durch Sofortprogramme, industrielle Masse und Veto-Resilienz (Kapitel 13). \\\textbf{Ukraine-First-Prinzip} & Strategische und moralische Leitlinie, nach der europäische Verteidigungsfähigkeit zuerst dazu dient, eine angegriffene Demokratie erfolgreich zu schützen und Aggression nicht durch eingefrorene Gewinne zu belohnen. \\\textbf{Koalitionen der Willigen} & Demokratische Staatengruppen, die über Opt-in-Mechanismen vorangehen, ohne den Gesamtrahmen der EU aufzugeben; Überwindung der Vetoblockade durch flexible Integration (Kapitel 14). \\\textbf{EDDRC} & European Democratic Defence \& Resilience Club – institutionelle Club-Architektur mit Rat, Versammlung, Audit-Instanz (ACI) und Tribunal für demokratische Bündniskooperation (Kapitel 14). \\\textbf{Demokratie-Kette} & Vierstufiges Absicherungssystem (Wahlrecht → Grundrechte → Gewaltenteilung → Ombudsstellen), das sicherstellt, dass kein Mitglied einer Koalition unter demokratische Mindestschwellen fällt (Kapitel 14). \\\textbf{Stufenmodell (Tier 0–9)} & Flexibles Integrationsmodell für demokratische Koalitionen: vom Beobachterstatus (Tier 0) bis zur föderalen Mitgliedschaft (Tier 9), mit klaren KPIs für Auf- und Abstufung (Kapitel 14). \\\textbf{Demokratisches Wissen} & Sieben Prinzipien demokratischer Handlungsfähigkeit zu Macht, Umgang mit nicht-demokratiewilligen Staaten, Frieden und Sicherheit, Wahrheit und Täuschung, Demokratie, Technologie/KI und innerer demokratischer Verfassung. \\\textbf{Mosaik-Prinzip} & Strategische Architektur verteilter, modularer und redundant verbundener Fähigkeiten; im ERDA-Kontext rechtsstaatlich eingehegt und auf demokratische DSN-Resilienz statt autoritäre Kriegsführung ausgerichtet. \\\textbf{Anti-Game-Over-Prinzip} & Entwicklungsphilosophisches Prinzip, nach dem demokratische Systeme irreversible Lebensabbrüche, Lernabbrüche und Zukunftsblockaden vermeiden und immer neue Wege zur Wiederaufnahme von Entwicklung offenhalten sollen. \\\textbf{Prosperatives Leben} & Leitbegriff für ein gelingendes, lernfähiges und resilientes Leben, das Sicherheit, Freiheit, Verantwortung, Freude, Bildung und offene Entwicklungsmöglichkeiten miteinander verbindet. \\\bottomrule \end{longtable}
 \restoregeometry
 \pagewidth=210mm
 \pageheight=297mm
@@ -29846,16 +29953,6 @@ content_lang: de
 ---
 <a id="md-anhang-j-lizenz-offenheit"></a>
 
-# Anhang J: Lizenz & Offenheit
-
-## J.1 Einleitung
-Dieses Buch wurde durch die **ERDA Buch Redaktion** strukturiert, lektoriert und ausgearbeitet (LLM-gestützte sprachliche Überarbeitung unter redaktioneller Kontrolle). Autor und Herausgeber sind im **Kolophon (Anhang L)** ausgewiesen.  
-Um eine nachhaltige, freie Wissensbasis zu schaffen, werden die verschiedenen Bestandteile des Buches unter **offenen Lizenzen** veröffentlicht. Dieses Kapitel erläutert die genauen Lizenzbedingungen, beschreibt die Bedeutung der Weitergabe unter gleichen Bedingungen und gibt Hinweise zur Nutzung, Bearbeitung und Weiterverbreitung.
-
----
-
-## J.2 Lizenzmatrix
-Das ERDA‑Buch besteht aus unterschiedlichen Bestandteilen. Für jede Kategorie gelten eigene Lizenzbedingungen. Die folgende Tabelle fasst diese zusammen:
 
 \newpage
 \newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
@@ -29863,14 +29960,26 @@ Das ERDA‑Buch besteht aus unterschiedlichen Bestandteilen. Für jede Kategorie
 
 \pagewidth=297mm
 \pageheight=210mm
-\begin{longtable}{@{}>{\raggedright\arraybackslash}p{30.81mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{75.81mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{146.88mm}@{}}\toprule Kategorie & Lizenz & Erläuterung \\\midrule \endhead **Texte, Grafiken, Diagramme** & Creative Commons **Attribution – ShareAlike 4.0 International** (**CC BY‑SA 4.0**) & Inhalte dürfen frei geteilt und verändert werden, sofern der Urheber genannt und das abgeleitete Werk unter denselben Bedingungen weitergegeben wird. \\**Code / Toolchain / Skripte** & **MIT‑Lizenz** & Der Code darf verwendet, kopiert, verändert und verbreitet werden, inkl. kommerzieller Nutzung. Der Copyright‑Hinweis und der Lizenztext müssen beibehalten werden. \\**Eigenentwickelte Fonts** & **CC BY 4.0** oder **MIT** (Dual‑Lizenz) & Eigens entwickelte Schriften können unter CC BY 4.0 oder MIT genutzt werden. Externe Fonts mit inkompatiblen Lizenzen werden nicht verwendet. \\**Emojis** & **Twemoji (CC BY 4.0)** & Alle verwendeten Emojis stammen aus dem Twemoji‑Projekt und dürfen genutzt/angepasst werden, solange die Quelle genannt wird. \\**Drittinhalte** & **Entsprechend der jeweiligen Lizenz** & Externe Grafiken, Daten oder Texte werden nur aufgenommen, wenn ihre Lizenz kompatibel ist. Details stehen in `ATTRIBUTION.md`. \\\bottomrule \end{longtable}
+
+# Anhang J: Lizenz & Offenheit
+
+## J.1 Einleitung
+Dieses Buch wurde durch die **ERDA-Buch-Redaktion** strukturiert, lektoriert und ausgearbeitet (LLM-gestützte sprachliche Überarbeitung unter redaktioneller Kontrolle). Autor und Herausgeber sind im **Kolophon (Anhang L)** ausgewiesen.
+Um eine nachhaltige, freie Wissensbasis zu schaffen, werden die verschiedenen Bestandteile des Buches unter **offenen Lizenzen** veröffentlicht. Dieses Kapitel erläutert die genauen Lizenzbedingungen, beschreibt die Bedeutung der Weitergabe unter gleichen Bedingungen und gibt Hinweise zur Nutzung, Bearbeitung und Weiterverbreitung.
+
+---
+
+## J.2 Lizenzmatrix
+Das ERDA‑Buch besteht aus unterschiedlichen Bestandteilen. Für jede Kategorie gelten eigene Lizenzbedingungen. Die folgende Tabelle fasst diese zusammen:
+
+\begin{longtable}{@{}>{\raggedright\arraybackslash}p{30.81mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{75.81mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{146.88mm}@{}}\toprule Kategorie & Lizenz & Erläuterung \\\midrule \endhead \textbf{Texte, Grafiken, Diagramme} & Creative Commons \textbf{Attribution – ShareAlike 4.0 International} (\textbf{CC BY‑SA 4.0}) & Inhalte dürfen frei geteilt und verändert werden, sofern der Urheber genannt und das abgeleitete Werk unter denselben Bedingungen weitergegeben wird. \\\textbf{Code / Toolchain / Skripte} & \textbf{MIT‑Lizenz} & Der Code darf verwendet, kopiert, verändert und verbreitet werden, inkl. kommerzieller Nutzung. Der Copyright‑Hinweis und der Lizenztext müssen beibehalten werden. \\\textbf{Eigenentwickelte Fonts} & \textbf{CC BY 4.0} oder \textbf{MIT} (Dual‑Lizenz) & Eigens entwickelte Schriften können unter CC BY 4.0 oder MIT genutzt werden. Externe Fonts mit inkompatiblen Lizenzen werden nicht verwendet. \\\textbf{Emojis} & \textbf{Twemoji (CC BY 4.0)} & Alle verwendeten Emojis stammen aus dem Twemoji‑Projekt und dürfen genutzt/angepasst werden, solange die Quelle genannt wird. \\\textbf{Drittinhalte} & \textbf{Entsprechend der jeweiligen Lizenz} & Externe Grafiken, Daten oder Texte werden nur aufgenommen, wenn ihre Lizenz kompatibel ist. Details stehen in `ATTRIBUTION.md`. \\\bottomrule \end{longtable}
+---
+
+
 \restoregeometry
 \pagewidth=210mm
 \pageheight=297mm
 \newpage
-
----
-
 ## J.3 Erläuterung der Lizenzen
 
 ### CC BY‑SA 4.0
@@ -30301,15 +30410,17 @@ Diese zusätzliche Qualitätssicherungsrunde ergänzt das bestehende Rollenspiel
 
 **Methodischer Kern:** Strategie wird erst dann redaktionell belastbar, wenn sie zuvor ethisch legitimiert ist. Verteidigung, Souveränität, Anti-Veto-Architektur und Bündnisfähigkeit müssen daher an Menschenwürde, Rechtsstaat, Verantwortung, Wahrheit und demokratische Kontrolle zurückgebunden werden.
 
+
 \newpage
 \newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
 
 
 \pagewidth=297mm
 \pageheight=210mm
+
 ##### Rollengliederung und gegenseitige Kritik
 
-\begin{longtable}{@{}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{90.97mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{128.53mm}@{}}\toprule Rolle & Qualitätsauftrag & Kritischer Beitrag \\\midrule \endhead **Writer** & Stärkt die positive Botschaft: Demokratie ist eine Ordnung freier, verantwortlicher und urteilsfähiger Bürger:innen. & Kritisiert strategische Passagen, wenn sie wie reine Machtlogik wirken oder den Schutz von Leben, Würde und Freiheit nicht sichtbar genug begründen. \\**Editor** & Ordnet die Argumentation: Ethik zuerst, Strategie danach; moralische Begriffe werden zu klaren Kapitelbrücken. & Kritisiert den Writer, wenn moralische Verdichtung zu pathetisch, zu abstrakt oder strukturell unklar wird. \\**Lektor** & Sichert Ton, Sprache und Begriffskonsistenz: nicht polemisch, nicht pauschalisierend, nicht missverständlich. & Kritisiert Writer und Editor, wenn Formulierungen ganze Bevölkerungen adressieren, Tagespolitik überdehnen oder Begriffe uneinheitlich verwenden. \\**Redakteur** & Entscheidet über Platzierung, Status und Veröffentlichungsreife. & Kritisiert alle Rollen, wenn neue Begriffe ohne Freigabe kanonisiert, DE/EN-Synchronisation übergangen oder strategische Aussagen ohne Quellen-/Prüfbedarf veröffentlicht würden. \\\bottomrule \end{longtable}
+\begin{longtable}{@{}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{90.97mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{128.53mm}@{}}\toprule Rolle & Qualitätsauftrag & Kritischer Beitrag \\\midrule \endhead \textbf{Writer} & Stärkt die positive Botschaft: Demokratie ist eine Ordnung freier, verantwortlicher und urteilsfähiger Bürger:innen. & Kritisiert strategische Passagen, wenn sie wie reine Machtlogik wirken oder den Schutz von Leben, Würde und Freiheit nicht sichtbar genug begründen. \\\textbf{Editor} & Ordnet die Argumentation: Ethik zuerst, Strategie danach; moralische Begriffe werden zu klaren Kapitelbrücken. & Kritisiert den Writer, wenn moralische Verdichtung zu pathetisch, zu abstrakt oder strukturell unklar wird. \\\textbf{Lektor} & Sichert Ton, Sprache und Begriffskonsistenz: nicht polemisch, nicht pauschalisierend, nicht missverständlich. & Kritisiert Writer und Editor, wenn Formulierungen ganze Bevölkerungen adressieren, Tagespolitik überdehnen oder Begriffe uneinheitlich verwenden. \\\textbf{Redakteur} & Entscheidet über Platzierung, Status und Veröffentlichungsreife. & Kritisiert alle Rollen, wenn neue Begriffe ohne Freigabe kanonisiert, DE/EN-Synchronisation übergangen oder strategische Aussagen ohne Quellen-/Prüfbedarf veröffentlicht würden. \\\bottomrule \end{longtable}
 \restoregeometry
 \pagewidth=210mm
 \pageheight=297mm
@@ -30403,7 +30514,7 @@ Autor und Herausgeber: Robert Alexander Massinger.
 
 Autor-E-Mail: [robert.alexander.massinger@outlook.de](mailto:robert.alexander.massinger@outlook.de)
 
-Redaktion/Lektorat: ERDA Buch Redaktion (LLM-gestützte sprachliche Überarbeitung unter redaktioneller Kontrolle).
+Redaktion/Lektorat: ERDA-Buch-Redaktion (LLM-gestützte sprachliche Überarbeitung unter redaktioneller Kontrolle).
 
 ---
 
@@ -30430,7 +30541,7 @@ Die DejaVu-Familie bietet exzellente **Unicode-Abdeckung** für europäische Spr
 **ERDA CC-BY CJK**
 
 - **Lizenz:** CC BY 4.0
-- **Quelle:** Eigenentwicklung des ERDA-Projekts
+- **Quelle:** Eigenentwicklung des ERDA-Buchprojekts
 - **Verwendung:** Ergänzung für CJK-Zeichen (Chinesisch, Japanisch, Koreanisch)
 - **Rechtlicher Hinweis:** Namensnennung erforderlich; kommerzielle Nutzung erlaubt.
 
@@ -30551,7 +30662,7 @@ Dieses Buch wäre ohne die **Open-Source-Community** nicht möglich gewesen. Bes
 - **Bitstream, Inc.** und den **DejaVu-Entwicklern** für die exzellente Schriftfamilie
 - **Twitter, Inc.** und **Mozilla** für das Twemoji-Projekt
 - Den **TeX Live**-, **Pandoc**- und **Python**-Communities
-- Allen Beitragenden des ERDA-Projekts, die sich dem **DCO** verpflichtet haben
+- Allen Beitragenden des ERDA-Buchprojekts, die sich dem **DCO** verpflichtet haben
 
 ---
 
@@ -30566,7 +30677,7 @@ Dieses Buch wäre ohne die **Open-Source-Community** nicht möglich gewesen. Bes
 
 ## L.8 Hinweis zur Pflege dieses Kolophons
 
-Dieses Kolophon ist Teil der **Attribution-Hierarchie** des ERDA-Projekts:
+Dieses Kolophon ist Teil der **Attribution-Hierarchie** des ERDA-Buchprojekts:
 
 - **`ATTRIBUTION.md`** im Repository = die maschinenlesbare Primärquelle für Drittinhalte, Quellen, Versionen und Lizenzen.
 - **Anhang L** (dieses Dokument) = die leserfreundliche Aufbereitung für die Buch- und PDF-Fassung.
@@ -30626,27 +30737,24 @@ Die zentrale Prüffrage lautet:
 | Übersetzung | Englische Fassungen tragen `source`, `content\_lang: en` und `status`. | Frontmatter vollständig; Freigabestand transparent. |
 | Release-Restrisiko | Bewusst offene Punkte sind im Zertifizierungsprotokoll dokumentiert. | Release-Docs nennen Entscheidung, Begründung und nächste Revision. |
 
+
 \newpage
 \newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
 
 
 \pagewidth=297mm
 \pageheight=210mm
+
 ## M.4 Release-Gates
 
 \begin{longtable}{@{}>{\raggedright\arraybackslash}p{43.55mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{86.96mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{122.99mm}@{}}\toprule Gate & Frage & Bestehensmaßstab \\\midrule \endhead M-G1 Statusklarheit & Ist für Leser:innen erkennbar, welche Textart sie lesen? & Analyse, Baseline, Szenario, Roadmap, Paper und normative Setzung sind unterscheidbar. \\M-G2 Quellenintegrität & Sind sensitive und aktuelle Behauptungen nachvollziehbar belegt? & Keine unbelegte präzise Zahl in Krieg, Energie, Sicherheit, Demokratiequalität oder Geopolitik. \\M-G3 Baseline-Transparenz & Sind historische Datenstände als Baseline markiert? & Historische Zahlen werden nicht als tagesaktuelle Statistik verkauft. \\M-G4 Rollen- und Freigabelogik & Sind Draft, Review und Approval redaktionell nachvollziehbar? & Kein Draft wird stillschweigend als final dargestellt. \\M-G5 Paper-Compliance & Erfüllen Paper in Anhang P die Publikationspflichten? & DOI, APA-Zitation, Autor:in, Datum, Version und Lizenzrahmen sind vorhanden. \\M-G6 Übersetzungssynchronität & Ist DE/EN transparent synchronisiert? & Inhaltliche Änderungen sind nachgezogen oder als Review-/Draft-Abweichung dokumentiert. \\M-G7 Release-Ehrlichkeit & Sind bekannte Restrisiken offen benannt? & Zertifizierungsprotokoll enthält offene Punkte, Entscheidung und Folgeauftrag. \\\bottomrule \end{longtable}
+## M.5 Entscheidungslogik
+
+\begin{longtable}{@{}>{\raggedright\arraybackslash}p{32.16mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{109.57mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{111.76mm}@{}}\toprule Ergebnis & Bedeutung & Zulässige Release-Entscheidung \\\midrule \endhead Erfüllt & Kriterien sind nachweisbar erfüllt. & Freigabe möglich. \\Erfüllt mit Restrisiko & Kriterien sind überwiegend erfüllt; Abweichung ist dokumentiert und begründet. & Freigabe möglich, wenn Redakteur:in/Publisher Restrisiko akzeptieren. \\Nicht erfüllt & Ein wesentliches Kriterium ist offen, unbelegt oder irreführend. & Keine Finalfreigabe ohne Nacharbeit oder bewusste Herabstufung des Abschnitts. \\\bottomrule \end{longtable}
 \restoregeometry
 \pagewidth=210mm
 \pageheight=297mm
 \newpage
-
-## M.5 Entscheidungslogik
-
-| Ergebnis | Bedeutung | Zulässige Release-Entscheidung |
-| ---- | ---- | ---- |
-| Erfüllt | Kriterien sind nachweisbar erfüllt. | Freigabe möglich. |
-| Erfüllt mit Restrisiko | Kriterien sind überwiegend erfüllt; Abweichung ist dokumentiert und begründet. | Freigabe möglich, wenn Redakteur:in/Publisher Restrisiko akzeptieren. |
-| Nicht erfüllt | Ein wesentliches Kriterium ist offen, unbelegt oder irreführend. | Keine Finalfreigabe ohne Nacharbeit oder bewusste Herabstufung des Abschnitts. |
 
 ## M.6 Anwendung auf lebende Bucharbeit
 
@@ -31208,9 +31316,6 @@ The full CIVITAS vision encompasses:
 
 **CIVITAS Public** represents the **first operational layer** of this vision: publicly visible, immediately useful, and designed to demonstrate that a European digital agora is not only desirable but feasible.
 
-#### 3.1 Existing Civic Platforms and Lessons Learned
-
-CIVITAS Public does not emerge in a vacuum. Several European civic-technology platforms have demonstrated that participatory digital infrastructure is both technically feasible and politically impactful. Understanding their strengths and limitations is essential for informed design.
 
 \newpage
 \newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
@@ -31218,13 +31323,18 @@ CIVITAS Public does not emerge in a vacuum. Several European civic-technology pl
 
 \pagewidth=297mm
 \pageheight=210mm
-\begin{longtable}{@{}>{\raggedright\arraybackslash}p{19.74mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{19.13mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{45.87mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{25.24mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{21.73mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{69.79mm}@{}}\toprule Platform & Origin & Licence & Focus & Governance & Multilingual & Key Lesson for CIVITAS \\\midrule \endhead **Decidim** [11] & Barcelona, ES & AGPL-3.0 & Participatory processes, budgets, consultations & Municipal / community-driven & Yes (40+ languages) & Modular architecture enables diverse civic use cases; governance must scale beyond municipal origin \\**Consul** & Madrid, ES & AGPL-3.0 & Citizen proposals, debates, participatory budgets & City government-led & Yes (30+ languages) & Strong uptake (100+ cities) but limited cross-border federation; central governance can limit independence \\**Your Priorities** & Reykjavík, IS & BSD & Idea generation, prioritisation & Citizens Foundation (NGO) & Partial & AI-assisted idea clustering works at scale; needs stronger verification layer \\**OpenStad** & Netherlands & Open source & Neighbourhood participation, budgets & Municipal toolkit & Dutch-focused & Effective local engagement but not designed for transnational civic discourse \\**Participa** & Portugal & Proprietary & National consultations & Government-operated & Portuguese & Demonstrates institutional adoption but raises independence concerns when government-run \\\bottomrule \end{longtable}
+
+#### 3.1 Existing Civic Platforms and Lessons Learned
+
+CIVITAS Public does not emerge in a vacuum. Several European civic-technology platforms have demonstrated that participatory digital infrastructure is both technically feasible and politically impactful. Understanding their strengths and limitations is essential for informed design.
+
+\begin{longtable}{@{}>{\raggedright\arraybackslash}p{19.74mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{19.13mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{45.87mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{25.24mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{21.73mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{69.79mm}@{}}\toprule Platform & Origin & Licence & Focus & Governance & Multilingual & Key Lesson for CIVITAS \\\midrule \endhead \textbf{Decidim} [11] & Barcelona, ES & AGPL-3.0 & Participatory processes, budgets, consultations & Municipal / community-driven & Yes (40+ languages) & Modular architecture enables diverse civic use cases; governance must scale beyond municipal origin \\\textbf{Consul} & Madrid, ES & AGPL-3.0 & Citizen proposals, debates, participatory budgets & City government-led & Yes (30+ languages) & Strong uptake (100+ cities) but limited cross-border federation; central governance can limit independence \\\textbf{Your Priorities} & Reykjavík, IS & BSD & Idea generation, prioritisation & Citizens Foundation (NGO) & Partial & AI-assisted idea clustering works at scale; needs stronger verification layer \\\textbf{OpenStad} & Netherlands & Open source & Neighbourhood participation, budgets & Municipal toolkit & Dutch-focused & Effective local engagement but not designed for transnational civic discourse \\\textbf{Participa} & Portugal & Proprietary & National consultations & Government-operated & Portuguese & Demonstrates institutional adoption but raises independence concerns when government-run \\\bottomrule \end{longtable}
+**Key differentiators of CIVITAS Public:**
+
 \restoregeometry
 \pagewidth=210mm
 \pageheight=297mm
 \newpage
-
-**Key differentiators of CIVITAS Public:**
 
 - **Publication-first architecture:** Existing platforms focus on proposals, votes, or budgets. CIVITAS prioritises structured, accountable *publication and debate* — closer to a democratic press infrastructure than a voting tool.
 - **Verification and review layers:** No existing platform combines identity verification with a three-level editorial review system.
@@ -31487,12 +31597,14 @@ The author of this paper is the initiator of the ERDA Initiative, within which C
 - Expand interoperability and federation logic
 - **Evaluation:** Full KPI review against targets (§2.6); independent academic evaluation; longitudinal trust measurement (pre/post comparison); institutional uptake tracking; publication of comprehensive evaluation report
 
+
 \newpage
 \newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
 
 
 \pagewidth=297mm
 \pageheight=210mm
+
 ### 15. Risk Assessment and Mitigation
 
 \begin{longtable}{@{}>{\raggedright\arraybackslash}p{55.72mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{125.28mm}@{}}\toprule Risk & Likelihood & Impact & Mitigation \\\midrule \endhead Perception of elitism due to verified-only publishing & Medium & High & Clear access pathways, open citizen questions, reviewed guest contributions, transparent participation architecture \\Insufficient early momentum & High & High & Early deployment of high-utility formats (Europe in Brief, Trend Radar, Citizen Questions); partnerships with established media and civic organisations \\Governance overload & Medium & Medium & Minimal but principled governance core; scale structures incrementally \\Confusion with social media & Medium & Medium & Clear format logic, thematic structure, visible standards, deliberate distance from feed incentives \\Political capture attempts & Low & Critical & Foundation independence, multi-stakeholder oversight, transparency reports, anti-capture design \\Technical infrastructure costs & Medium & Medium & Open-source development, EU funding mechanisms, institutional co-financing \\\bottomrule \end{longtable}

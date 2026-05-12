@@ -10,13 +10,13 @@ date: "2026-05-04"
 
 ## M.1 Purpose
 
-This appendix translates the ERDA book-project decisions into measurable editorial requirements. It is the yardstick for book content, appendices, papers, release documentation and later revisions.
+This appendix translates the ERDA Book project decisions into measurable editorial requirements. It is the yardstick for book content, appendices, papers, release documentation and later revisions.
 
 The internal project basis is `release-docs/v2.5.0/buchprojektentscheidungen-v2.5.0.md`. This appendix turns that basis into a book-internal requirement: what must be visible, verifiable, referenced or consciously documented as residual risk for a release to count as a responsible snapshot?
 
 ## M.2 Principle
 
-The ERDA book is a living, shaping, normative and partly pathfinding book project. This does not mean lower care, but a different kind of care: the book must make its status, sources, value judgements and open paths transparent.
+The ERDA Book is a living, shaping, normative and partly pathfinding book project. This does not mean lower care, but a different kind of care: the book must make its status, sources, value judgements and open paths transparent.
 
 The central review question is:
 

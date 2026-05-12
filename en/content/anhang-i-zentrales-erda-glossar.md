@@ -9,7 +9,7 @@ status: in-review
 
 _**Central ERDA Glossary**_
 
-This glossary brings together the key terms used in the ERDA book. It serves as a stand‑alone reference and supports consistent terminology across all chapters.
+This glossary brings together the key terms used in the ERDA Book. It serves as a stand‑alone reference and supports consistent terminology across all chapters.
 
 | Term                                         | Definition                                                                                                                                                                                                                      |
 | ---- | ---- |

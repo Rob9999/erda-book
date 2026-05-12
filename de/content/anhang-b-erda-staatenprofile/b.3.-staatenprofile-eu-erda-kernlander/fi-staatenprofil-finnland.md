@@ -1,10 +1,10 @@
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.fi.staatenprofil.finnland
 content_lang: de
-description: "State: FI, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: FI, Date: 2025-06-10, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "FI"
 date: "2025-06-10"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -206,7 +206,7 @@ Finnland ist eine hochinnovative Demokratie mit starker Bildungstradition und na
 Vertreter:innen Finnlands und interessierte Fachstellen sind eingeladen, dieses Profil zu ergänzen und zu aktualisieren.
 
 #### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 

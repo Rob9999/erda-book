@@ -236,7 +236,7 @@
   * [E.6 🎛️ Box template (quotes, practice, contrasts, visions)](anhang-e-erda-buch-baukasten/e.6-boxen-template-zitate-praxis-kontraste-visionen.md)
   * [E.7 🪄 Template for a standardised ERDA source list](anhang-e-erda-buch-baukasten/e.7-template-fur-ein-standardisiertes-erda-quellenverzeichnis.md)
   * [E.8 🪄 Role-play quality assurance template](anhang-e-erda-buch-baukasten/e.8-rollenspiel-qualitatssicherungstemplate.md)
-  * [E.9 🤖 Schema & prompt structure for collaboration AIs in the ERDA project](anhang-e-erda-buch-baukasten/e.9-schema-and-promptstruktur-fur-kooperations-kis-im-erda-projekt.md)
+  * [E.9 🤖 Schema & prompt structure for collaboration AIs in the ERDA Book project](anhang-e-erda-buch-baukasten/e.9-schema-and-promptstruktur-fur-kooperations-kis-im-erda-projekt.md)
 * [Appendix F: ERDA Institute for Democratic Resilience and Transformation](anhang-f-erda-institut-fur-demokratische-resilienz-und-transformation.md)
 * [Appendix G: Risk Assessment and Strategic Resilience of the ERDA Initiative](anhang-g-risikobetrachtung-und-strategische-resilienz-der-erda-initiative.md)
 * [Appendix H: Failed Power Structures of Humanity](anhang-h-fehlgeschlagene-machtstrukturen-der-menschheit.md)

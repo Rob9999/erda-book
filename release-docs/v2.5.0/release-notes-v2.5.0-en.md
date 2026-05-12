@@ -70,8 +70,8 @@ In addition, this release integrates conceptual papers and implementation materi
 - English Appendix J/L file paths normalised to `appendix-j-license-and-openness.md` and `appendix-l-colophon.md`
 - DE/EN cross-references to Appendix P.1 updated in chapters 3.5, 4.3.5, 11.2 and 11.3
 - DE/EN cross-references to Appendix P.2 added in Chapter 6
-- Vendored gitbook_worker updated to 2.9.1; DE/EN publish artefacts rebuilt and the integrated `editorial-quality` gate reproduced with `passed_with_warnings`, 0 `blocked` and 0 `fail`
-- Final RC artefact state after Chapter 8 stress-test appendices (8.A–8.D), pillar deepening and §10.2.1: DE PDF 880 pages / 4,410,294 bytes; EN PDF 837 pages / 4,423,739 bytes; `editorial-quality` remains `passed_with_warnings`, 0 `blocked`, 0 `fail`
+- Vendored gitbook_worker updated to 2.9.2; DE/EN publish artefacts rebuilt and the integrated `editorial-quality` gate reproduced with `passed_with_warnings`, 0 `blocked` and 0 `fail`
+- Final RC artefact state after Chapter 8 stress-test appendices (8.A–8.D), pillar deepening, §10.2.1 and the ERDA Book naming pass: DE PDF 858 pages / 4,403,173 bytes; EN PDF 826 pages / 4,421,247 bytes; `editorial-quality` remains `passed_with_warnings`, 0 `blocked`, 0 `fail`
 - Source/link gate for the v2.5 final scope documented through a gitbook_worker dry run, link audit, sources export and manual web verification
 
 ---

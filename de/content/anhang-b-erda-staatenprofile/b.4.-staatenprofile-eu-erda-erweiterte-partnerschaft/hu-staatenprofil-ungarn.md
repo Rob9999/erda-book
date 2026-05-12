@@ -1,10 +1,10 @@
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.hu.staatenprofil.ungarn
 content_lang: de
-description: "State: HU, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: HU, Date: 2025-06-10, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "HU"
 date: "2025-06-10"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -200,6 +200,6 @@ Ungarn verbindet eine traditionsreiche Kultur und günstige Lage in Mitteleuropa
 Dieses Profil basiert auf öffentlich zugänglichen Daten und modellierten Annahmen. Vertreter:innen Ungarns und interessierte Fachstellen sind eingeladen, eigene Perspektiven und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten, demokratischen Zukunft Europas.
 
 #### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08

@@ -9,7 +9,7 @@ status: draft
 
 ## L.1 About this colophon
 
-This colophon documents the **technical and typographic details** of the production of the ERDA book. It serves **transparency** and fulfils the **attribution obligations** for the fonts, tools and resources used. All components listed here are available under **open or compatible licences** and were selected in accordance with the licensing principles defined in **Appendix J**.
+This colophon documents the **technical and typographic details** of the production of the ERDA Book. It serves **transparency** and fulfils the **attribution obligations** for the fonts, tools and resources used. All components listed here are available under **open or compatible licences** and were selected in accordance with the licensing principles defined in **Appendix J**.
 
 Author and editor: Robert Alexander Massinger.
 
@@ -21,7 +21,7 @@ Editorial work: ERDA Book editorial team (LLM-assisted language editing under ed
 
 ## L.2 Typography and fonts
 
-The ERDA book uses the following font families:
+The ERDA Book uses the following font families:
 
 ### L.2.1 DejaVu font family
 
@@ -42,7 +42,7 @@ The DejaVu family offers excellent **Unicode coverage** for European languages, 
 **ERDA CC‑BY CJK**
 
 - **Licence:** CC BY 4.0  
-- **Source:** in‑house development of the ERDA project  
+- **Source:** in‑house development of the ERDA Book project
 - **Use:** supplementary coverage for CJK characters (Chinese, Japanese, Korean)  
 - **Legal note:** Attribution required; commercial use permitted.
 
@@ -67,7 +67,7 @@ Emojis are an integral part of the multilingual licence clauses (Appendix J) and
 
 ## L.3 Production tools
 
-The ERDA book was created using the following open‑source tools:
+The ERDA Book was created using the following open‑source tools:
 
 ### L.3.1 GitBook
 
@@ -144,7 +144,7 @@ Pandoc orchestrates the transformation of the Markdown source files into an inte
 
 ## L.5 Quality assurance
 
-The technical quality of the ERDA book is ensured by the following measures:
+The technical quality of the ERDA Book is ensured by the following measures:
 
 1. **Automated testing:** the CI/CD pipeline validates build processes.  
 2. **Licence compliance:** automated checks for incompatible licences (see `AGENTS.md`).  
@@ -163,7 +163,7 @@ This book would not have been possible without the **open‑source community**. 
 - **Bitstream, Inc.** and the **DejaVu developers** for the excellent font family.  
 - **Twitter, Inc.** and **Mozilla** for the Twemoji project.  
 - The **TeX Live**, **Pandoc** and **Python** communities.  
-- All contributors to the ERDA project who have committed to the **DCO**.
+- All contributors to the ERDA Book project who have committed to the **DCO**.
 
 ---
 
@@ -178,7 +178,7 @@ This book would not have been possible without the **open‑source community**. 
 
 ## L.8 Maintenance note
 
-This colophon is part of the **attribution hierarchy** of the ERDA project:
+This colophon is part of the **attribution hierarchy** of the ERDA Book project:
 
 - **`ATTRIBUTION.md`** in the repository = the machine-readable primary source for third-party components, sources, versions, and licences.  
 - **Appendix L** (this document) = the reader-friendly presentation for the book and PDF edition.  
@@ -195,4 +195,4 @@ The project’s editorial maintenance principles are documented in `AGENTS.md`.
 ---
 
 **End of the colophon.**  
-This document is part of the ERDA book and is licensed under **CC BY‑SA 4.0** (see Appendix J).
+This document is part of the ERDA Book and is licensed under **CC BY‑SA 4.0** (see Appendix J).

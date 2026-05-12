@@ -216,8 +216,8 @@ Beispiel Datenbank/Website
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen des jeweiligen Landes sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 ### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 ```
 

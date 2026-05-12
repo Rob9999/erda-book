@@ -1,10 +1,10 @@
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.mt.staatenprofil.malta
 content_lang: de
-description: "State: MT, Date: 2025-06-11, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: MT, Date: 2025-06-11, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "MT"
 date: "2026-01-01"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -205,6 +205,6 @@ Malta ist ein Inselstaat im Mittelmeer mit starker Dienstleistungs- und Logistik
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Malta sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 #### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08

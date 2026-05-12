@@ -17,7 +17,7 @@ _**E.4 🧭 ERDA reader profile schema**_
 
 ### 🔹 General direction
 
-The ERDA book is a **strategic, philosophical and civilisational guide work**. It combines political feasibility with ethical depth, technological clarity and cultural resonance. The readership is diverse, yet united by the desire to co-create a better, democratically grounded future.
+The ERDA Book is a **strategic, philosophical and civilisational guide work**. It combines political feasibility with ethical depth, technological clarity and cultural resonance. The readership is diverse, yet united by the desire to co-create a better, democratically grounded future.
 
 ***
 

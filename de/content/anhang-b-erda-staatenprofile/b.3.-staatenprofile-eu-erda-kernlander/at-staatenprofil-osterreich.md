@@ -1,10 +1,10 @@
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.at.staatenprofil.osterreich
 content_lang: de
-description: "State: AT, Date: 2025-06-09, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+description: "State: AT, Date: 2025-06-09, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "AT"
 date: "2025-06-09"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -215,7 +215,7 @@ version: "1.0"
 Dieses Profil basiert auf öffentlich verfügbaren Daten. Vertreter:innen der Republik Österreich und interessierte Fachstellen sind herzlich eingeladen, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames, zukunftsfähiges Bild der Demokratie in Europa.
 
 #### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 

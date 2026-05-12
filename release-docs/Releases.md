@@ -23,7 +23,7 @@
     - Version bump to v2.5.0.
     - Release documentation in `release-docs/v2.5.0/`.
     - `book.json` date updated to 2026-05-11 (DE+EN).
-    - Vendored gitbook_worker updated to 2.9.1; publish artefacts rebuilt after Chapter 8 stress-test appendices and §10.2.1 (DE 880 pages / 4,410,294 bytes; EN 837 pages / 4,423,739 bytes) and the editorial-quality gate passed with warnings (DE 41, EN 43, Project 84), 0 blocked and 0 fail findings.
+    - Vendored gitbook_worker updated to 2.9.2; publish artefacts rebuilt after Chapter 8 stress-test appendices and §10.2.1 (DE 858 pages / 4,402,170 bytes; EN 825 pages / 4,420,023 bytes) and the editorial-quality gate passed with warnings (DE 40, EN 43, Project 83), 0 blocked and 0 fail findings.
     - Final-scope source/link gate documented by gitbook_worker dry-run, link audit, sources export and manual web verification.
 - **Highlights:**
   - **Seven principles of democratic knowledge** as standalone reference

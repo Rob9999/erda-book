@@ -18,8 +18,8 @@ Every paper in Appendix P must include:
 - version and date
 - DOI
 - APA citation
-- licence and source framing aligned with the ERDA book
-- brief explanation of its relationship to the ERDA book
+- licence and source framing aligned with the ERDA Book
+- brief explanation of its relationship to the ERDA Book
 
 ## P.2 Published Papers
 

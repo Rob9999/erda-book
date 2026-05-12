@@ -58,7 +58,7 @@ _**Foreword**_
 
 This book is not a manifesto. It is a toolbox. Not a promise of utopia – but an invitation to take responsibility.
 
-In a time of growing uncertainty, geopolitical power shifts and internal exhaustion, the ERDA book asks a radical yet realistic question:\
+In a time of growing uncertainty, geopolitical power shifts and internal exhaustion, the ERDA Book asks a radical yet realistic question:\
 **What does Europe need in order to survive – and remain dignified while doing so?**
 
 Some call it overambitious. Others say: _"It sounds nice, but can it be implemented politically?"_ Again others ask: _"Who is supposed to finance it, who will build the institutions, who will bring people along?"_ – These are legitimate questions. Questions from people who carry responsibility.
@@ -74,7 +74,7 @@ In today’s world situation, a second consequence is added: fragmentation creat
 
 Polish history contains a precise warning: the Polish–Lithuanian Commonwealth was large and diverse, yet veto paralysis and external manipulation made it “governable from outside” – until the partitions erased the state. The lesson for Europe is not centralism, but decision‑making capacity: integration must become complete wherever blockade is deadly – in strategic decision power and collective defence.
 
-The ERDA book offers an answer – not as a finished model, but as a structured sketch of the future. With concrete stages, with principles, with tools.
+The ERDA Book offers an answer – not as a finished model, but as a structured sketch of the future. With concrete stages, with principles, with tools.
 
 It weaves together:
 
@@ -714,7 +714,7 @@ d) Euratom
 
 1. **Council of the European Union (2022):** _A Strategic Compass for Security and Defence – For a European Union that protects its citizens, values and interests and contributes to international peace and security._ Brussels: Council of the European Union. Available online at: [https://www.consilium.europa.eu/de/policies/strategic-compass/](https://www.consilium.europa.eu/de/policies/strategic-compass/) (accessed on 2025-05-13). **PDF version**: [https://www.eeas.europa.eu/sites/default/files/documents/strategic_compass_en3_web.pdf](https://www.eeas.europa.eu/sites/default/files/documents/strategic_compass_en3_web.pdf)
 2. **European Defence Agency (2025):** _Annual Report 2024_. Brussels: EDA. Available online at: [https://eda.europa.eu/publications-and-data/all-publications/annual-report-2024](https://eda.europa.eu/publications-and-data/all-publications/annual-report-2024) (accessed on 2025-05-13). **PDF version:** [https://eda.europa.eu/docs/default-source/brochures/eda-annual-report-2024.pdf](https://eda.europa.eu/docs/default-source/brochures/eda-annual-report-2024.pdf)
-3. **ERDA project (2025):** _Europe 2.0 – Roadmap for a liveable, resilient and leading Union_. In: **ERDA book**, Appendix C, [[Internal project documentation](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)].
+3. **The ERDA Book (2026):** _Europe 2.0 – Roadmap for a liveable, resilient and leading Union_. In: **The ERDA Book**, Appendix C, [[Internal project documentation](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)].
 
 
 \newpage
@@ -2305,13 +2305,26 @@ Chapter 4 describes the institutional overall architecture of the _European Righ
 
 **For better understanding and conceptual clarity**
 
-<table data-header-hidden><thead><tr><th width="228.800048828125"></th><th></th></tr></thead><tbody><tr><td><strong>Term</strong></td><td><strong>Definition</strong></td></tr><tr><td><strong>ERDA</strong></td><td><em>European Rights-Based Democratic Alliance</em> – federation of democratic constitutional states with a shared constitution, post-scarcity economy and digital participation</td></tr><tr><td><strong>EVA / EDA</strong></td><td><em>European Defence Alliance</em> – strategic security architecture of democratic states, complementing NATO</td></tr><tr><td><strong>Article 5 equivalent</strong></td><td>Legally binding mutual assistance clause within the EDA, comparable to the NATO Treaty</td></tr><tr><td><strong>CIVITAS</strong></td><td>Digital agora for democratic citizen participation, discourse, public transparency and civil society engagement</td></tr><tr><td><strong>Fediverse / ActivityPub</strong></td><td>Open, decentralised protocol for interlinking social networks (e.g. Mastodon), foundation for CIVITAS</td></tr><tr><td><strong>GDPR / eIDAS / ECHR</strong></td><td>European frameworks for data protection, electronic identification and human rights</td></tr><tr><td><strong>Strategic autonomy</strong></td><td>Capacity to act independently in defence, diplomacy, technology and the economy without systemic dependency</td></tr><tr>
-  <td><strong>Weaponized interdependence</strong></td>
-  <td>Strategic use of economic dependencies as coercive leverage – e.g. via critical inputs, energy, platforms, logistics or standards; turns trade policy into security architecture.</td>
-</tr><tr>
-  <td><strong>Pragmatic Federalism</strong></td>
-  <td>Integration method: willing states move ahead in decisive domains (opt-in), build real decision institutions with democratic oversight; door open for accession, but protection against sabotage of shared goals.</td>
-</tr><tr><td><strong>PESCO / IRIS² / EDIRPA</strong></td><td>EU defence and space initiatives to strengthen joint capacities</td></tr><tr><td><strong>Cyber resilience</strong></td><td>Ability to fend off cyberattacks and hybrid threats and to restore systems quickly</td></tr><tr><td><strong>Coalition of the willing</strong></td><td>Group of states within an alliance that enables advanced integration or joint action</td></tr><tr><td><strong>Post-scarcity economy</strong></td><td>Societal model with universal access to basic resources, made possible by automation, digitalisation and shared prosperity</td></tr><tr><td><strong>Democratic resilience</strong></td><td>Resilience of democratic systems to internal and external attacks – anchored culturally, institutionally and technologically</td></tr><tr><td><strong>Digital agora</strong></td><td>Open, publicly controlled space for political participation and discursive democracy on the internet</td></tr><tr><td><strong>Concentric circles</strong></td><td>Tiered model of membership and partnership within ERDA – from constitutional integration to global associated cooperation</td></tr><tr><td><strong>Democracy Security Network</strong></td><td>Values-based security network of democratic states for defence against disinformation, coercion and hybrid influence operations</td></tr><tr><td><strong>Civilisational projection</strong></td><td>Anthropological theory according to which basic desires of living beings are also reflected in social orders (see Section 8)</td></tr></tbody></table>
+| **Term** | **Definition** |
+| --- | --- |
+| **ERDA** | \_European Rights-Based Democratic Alliance\_ – federation of democratic constitutional states with a shared constitution, post-scarcity economy and digital participation |
+| **EVA / EDA** | \_European Defence Alliance\_ – strategic security architecture of democratic states, complementing NATO |
+| **Article 5 equivalent** | Legally binding mutual assistance clause within the EDA, comparable to the NATO Treaty |
+| **CIVITAS** | Digital agora for democratic citizen participation, discourse, public transparency and civil society engagement |
+| **Fediverse / ActivityPub** | Open, decentralised protocol for interlinking social networks (e.g. Mastodon), foundation for CIVITAS |
+| **GDPR / eIDAS / ECHR** | European frameworks for data protection, electronic identification and human rights |
+| **Strategic autonomy** | Capacity to act independently in defence, diplomacy, technology and the economy without systemic dependency |
+| **Weaponized interdependence** | Strategic use of economic dependencies as coercive leverage – e.g. via critical inputs, energy, platforms, logistics or standards; turns trade policy into security architecture. |
+| **Pragmatic Federalism** | Integration method: willing states move ahead in decisive domains (opt-in), build real decision institutions with democratic oversight; door open for accession, but protection against sabotage of shared goals. |
+| **PESCO / IRIS² / EDIRPA** | EU defence and space initiatives to strengthen joint capacities |
+| **Cyber resilience** | Ability to fend off cyberattacks and hybrid threats and to restore systems quickly |
+| **Coalition of the willing** | Group of states within an alliance that enables advanced integration or joint action |
+| **Post-scarcity economy** | Societal model with universal access to basic resources, made possible by automation, digitalisation and shared prosperity |
+| **Democratic resilience** | Resilience of democratic systems to internal and external attacks – anchored culturally, institutionally and technologically |
+| **Digital agora** | Open, publicly controlled space for political participation and discursive democracy on the internet |
+| **Concentric circles** | Tiered model of membership and partnership within ERDA – from constitutional integration to global associated cooperation |
+| **Democracy Security Network** | Values-based security network of democratic states for defence against disinformation, coercion and hybrid influence operations |
+| **Civilisational projection** | Anthropological theory according to which basic desires of living beings are also reflected in social orders (see Section 8) |
 
 
 \newpage
@@ -2673,9 +2686,9 @@ d) Secrecy obligations
    Available online at: https://www.opengovpartnership.org/ogp-2022-annual-report/ (accessed 2025-05-15).
 8. **Stanford University Press (2023):** _Checks and Balances Reimagined_. Analysis of modern concepts of separation of powers.  
    Available online at: https://www.sup.org/books/title/?id=32710 (accessed 2025-05-15).
-9. **ERDA Project (2025):** _Reform Phase: 2025–2035 – Strategic Reorientation of the EU_. Chapter 4.2.  
+9. **The ERDA Book (2026):** _Reform Phase: 2025–2035 – Strategic Reorientation of the EU_. Chapter 4.2.
    See: ../4.2-reformphase-2025-2035-strategische-neuausrichtung
-10. **ERDA Project (2025):** _Europe 2.0 – Roadmap for a Liveable, Resilient and Leading Union_. Appendix C.  
+10. **The ERDA Book (2026):** _Europe 2.0 – Roadmap for a Liveable, Resilient and Leading Union_. Appendix C.
     See: ../../anhang-c-europa-2.0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union.md
 
 
@@ -3354,8 +3367,8 @@ c) Intergovernmental coordination
    Available online at: https://eda.europa.eu/what-we-do (accessed 2025-05-19).
 2. **Council of the European Union (2022):** _A Strategic Compass for Security and Defence._ Brussels: Council of the European Union.  
    Available online at: https://www.consilium.europa.eu/en/policies/strategic-compass/ (accessed 2025-05-19).
-3. **ERDA Book (2025):** _The EDA Concept._ See: ../../5.-das-eda-konzept/.  
-4. **ERDA Book (2025):** _The ARKTIS Concept._ See: ../../8.-das-arktis-konzept/.
+3. **The ERDA Book (2026):** _The EDA Concept._ See: ../../5.-das-eda-konzept/.
+4. **The ERDA Book (2026):** _The ARKTIS Concept._ See: ../../8.-das-arktis-konzept/.
 5. **Encyclopaedia Britannica (n.d.):** _liberum veto._ Available online at: https://www.britannica.com/topic/liberum-veto
 6. **Encyclopaedia Britannica (2026):** _Partitions of Poland._ Available online at: https://www.britannica.com/event/Partitions-of-Poland
 
@@ -3454,11 +3467,11 @@ d) Solidarity circle
 
 ##### 4.2.3.6 Sources & References
 
-1. **ERDA Book (2025):** _ERDA States Architecture – Model of Concentric Circles, for categorising and allocating states within the circles._  
+1. **The ERDA Book (2026):** _ERDA States Architecture – Model of Concentric Circles, for categorising and allocating states within the circles._
    See: ../../anhang-a-erda-staatenarchitektur-konzentrische-kreise.md
-2. **ERDA Book (2025):** _Schema for ERDA state profiles (detailed overview)._  
-   See: ../../anhang-b-erda-staatenprofile/2.-schema-fur-erda-staatenprofile-ausfuhrliche-ubersicht.md
-3. **ERDA Book (2025):** _The ARKTIS Concept._  
+2. **The ERDA Book (2026):** _Schema for ERDA state profiles (detailed overview)._
+   See: ../../anhang-b-erda-staatenprofile/b.2.-schema-fur-erda-staatenprofile-ausfuhrliche-ubersicht.md
+3. **The ERDA Book (2026):** _The ARKTIS Concept._
    See: ../../8.-das-arktis-konzept/
 4. **Reuters (2026):** _Six European economies vow to drive progress on stalled projects._ Available online at: https://www.reuters.com/business/germany-hold-call-with-select-eu-states-push-twospeed-europe-2026-01-28/
 5. **Bart De Wever (2026):** _“European Onion” (public statement)._ Available online at: https://nl.linkedin.com/posts/bart-de-wever_thefutureofeurope-activity-7422956061005049856-8LdW
@@ -3561,12 +3574,12 @@ d) CIVITAS Convention
 ##### 4.2.4.6 Sources & References
 
 1. **European Defence Agency (EDA) (n. d.)**: Industry Engagement Roadmap. Brussels: European Defence Agency. Available at: https://eda.europa.eu/what-we-do/industry-engagement (accessed 2025-05-19).
-2. **ERDA Book (2025)**: _The EDA Concept._ [Chapter 5: The EDA Concept](../../5.-das-eda-konzept/).
-3. **ERDA Book (2025)**: _The CIVITAS Concept._ [Chapter 6: The CIVITAS Concept.](../../6.-das-civitas-konzept/)
-4. **ERDA Book (2025)**: _The FORTERA Concept._ [Chapter 7: The FORTERA Concept.](../../7.-das-fortera-konzept/)
-5. **ERDA Book (2025)**: _The ARKTIS Concept._ [Chapter 8: The ARKTIS Concept.](../../8.-das-arktis-konzept/)
+2. **The ERDA Book (2026)**: _The EDA Concept._ [Chapter 5: The EDA Concept](../../5.-das-eda-konzept/).
+3. **The ERDA Book (2026)**: _The CIVITAS Concept._ [Chapter 6: The CIVITAS Concept.](../../6.-das-civitas-konzept/)
+4. **The ERDA Book (2026)**: _The FORTERA Concept._ [Chapter 7: The FORTERA Concept.](../../7.-das-fortera-konzept/)
+5. **The ERDA Book (2026)**: _The ARKTIS Concept._ [Chapter 8: The ARKTIS Concept.](../../8.-das-arktis-konzept/)
 6. **Open Government Partnership (2011)**: _Open Government Declaration._ Washington, DC: Open Government Partnership. Available at: https://www.opengovpartnership.org/process/joining-ogp/open-government-declaration/ (accessed 2025-05-19).
-7. **ERDA Book (2025)**: _ERDA Book_, Robert Alexander Massinger, 2025.  \
+7. **The ERDA Book (2026)**: _ERDA Book_, Robert Alexander Massinger, 2025.  \
    (to be established: an ERDA Institute and within it an "ERDA Global Forum" or a robust comparable platform)
 
 
@@ -3846,7 +3859,7 @@ A future ERDA Institute for Democratic Resilience (planned for 2026) could:
 
 ##### 4.3.1.7 Sources & References
 
-1. **ERDA Book (2025):** _Europe 2.0 – Roadmap for a liveable, resilient and leading Union._ [Annex C: Europe 2.0 – Roadmap for a liveable, resilient and leading Union](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)
+1. **The ERDA Book (2026):** _Europe 2.0 – Roadmap for a liveable, resilient and leading Union._ [Annex C: Europe 2.0 – Roadmap for a liveable, resilient and leading Union](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)
 
 
 \newpage
@@ -3939,7 +3952,7 @@ d) Centralised planned economy
 
 ##### 4.3.2.6 Sources & References
 
-1. **ERDA Book (2025):** _Europe 2.0 – Roadmap for a liveable, resilient and leading Union._ [Annex C: Europe 2.0 – Roadmap for a liveable, resilient and leading Union](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)
+1. **The ERDA Book (2026):** _Europe 2.0 – Roadmap for a liveable, resilient and leading Union._ [Annex C: Europe 2.0 – Roadmap for a liveable, resilient and leading Union](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)
 
 
 \newpage
@@ -4130,7 +4143,7 @@ d) Bilateral climate loans
 
 1. **UNFCCC (2015):** _Paris Agreement, adopted on 12 December 2015._ Bonn: UNFCCC Secretariat. Available at: https://unfccc.int/sites/default/files/english_paris_agreement.pdf (accessed 2025-05-21).
 2. **Green Climate Fund (2011):** _Governing Instrument for the Green Climate Fund, approved on 11 December 2011._ Bonn: Green Climate Fund Secretariat. Available at: https://www.greenclimate.fund/document/governing-instrument (accessed 2025-05-21).
-3. **ERDA Book (2025):** _Europe 2.0 – Roadmap for a liveable, resilient and leading Union._ [Annex C: Europe 2.0 – Roadmap for a liveable, resilient and leading Union](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)
+3. **The ERDA Book (2026):** _Europe 2.0 – Roadmap for a liveable, resilient and leading Union._ [Annex C: Europe 2.0 – Roadmap for a liveable, resilient and leading Union](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)
 
 
 \newpage
@@ -4227,7 +4240,7 @@ d) Centralised textbook allocation
 
 1. **UNESCO (2018):** _Re | Shaping Cultural Policies: Advancing Creativity for Development._ Paris: UNESCO. Available at: https://uis.unesco.org/sites/default/files/documents/reshaping-cultural-policies-2018-en.pdf (accessed 2025-05-21).
 2. **European Commission, Directorate-General for Education, Youth, Sport and Culture (n. d.):** _European Education Area explained._ Brussels: European Commission. Available at: https://education.ec.europa.eu/about-eea/the-eea-explained (accessed 2025-05-21).
-3. **ERDA Book (2025):** _Europe 2.0 – Roadmap for a liveable, resilient and leading Union._ [Annex C: Europe 2.0 – Roadmap for a liveable, resilient and leading Union](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)
+3. **The ERDA Book (2026):** _Europe 2.0 – Roadmap for a liveable, resilient and leading Union._ [Annex C: Europe 2.0 – Roadmap for a liveable, resilient and leading Union](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)
 
 
 \newpage
@@ -4322,7 +4335,7 @@ d) National referendums on every issue
 
 1. **OECD (n. d.)**: _Open Government Data._ Paris: OECD Publishing. Available at: https://www.oecd.org/en/publications/open-government-data_5k46bj4f03s7-en.html (accessed 2025-05-21).
 2. **European Commission (2020):** _Communication on the European Democracy Action Plan. Communication COM(2020) 790 final, 3 December 2020._ Brussels: European Commission. Available at: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52020DC0790 (accessed 2025-05-21).
-3. **ERDA Book (2025):** _Europe 2.0 – Roadmap for a liveable, resilient and leading Union._ [Annex C: Europe 2.0 – Roadmap for a liveable, resilient and leading Union](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)
+3. **The ERDA Book (2026):** _Europe 2.0 – Roadmap for a liveable, resilient and leading Union._ [Annex C: Europe 2.0 – Roadmap for a liveable, resilient and leading Union](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)
 
 
 \newpage
@@ -4579,7 +4592,7 @@ d) Technocratic steering
 
 ##### 4.4.2.6 Sources & references
 
-1. **ERDA Book (2025):** _Europa 2.0 – Fahrplan für eine lebenswerte, resiliente und führende Union._ [Annex C: Europa 2.0 – Fahrplan für eine lebenswerte, resiliente und führende Union](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)
+1. **The ERDA Book (2026):** _Europa 2.0 – Fahrplan für eine lebenswerte, resiliente und führende Union._ [Annex C: Europa 2.0 – Fahrplan für eine lebenswerte, resiliente und führende Union](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)
 
 
 \newpage
@@ -5862,7 +5875,26 @@ This implies for the EDA:
 
 ## Glossary: key terms
 
-<table data-header-hidden><thead><tr><th width="284.39996337890625"></th><th></th></tr></thead><tbody><tr><td><strong>Term</strong></td><td><strong>Definition</strong></td></tr><tr><td><strong>ADO (Asian Defence Organization)</strong></td><td>Hypothetical security alliance of democratic states in East Asia (e.g. Japan, South Korea and others)</td></tr><tr><td><strong>ASDA (Australian Defence Alliance)</strong></td><td>Hypothetical security alliance in the Indo‑Pacific under Australian leadership to protect maritime routes and democratic sovereignty</td></tr><tr><td><strong>LDA (Latin American Defence Alliance)</strong></td><td>Hypothetical defence alliance of democratic states in Latin America (possible leadership by Brazil/Argentina)</td></tr><tr><td><strong>AFDA (African Defence Alliance)</strong></td><td>Hypothetical defence alliance of democratic African states to promote regional security and democratic values</td></tr><tr><td><strong>GDA (Global Defence Alliance)</strong></td><td>Vision of a trans‑regional defence framework of democratic constitutional states based on shared principles</td></tr><tr><td><strong>Democratically Prepared Defence Accession</strong></td><td>Status of a sovereign partner state which, after a successful referendum, becomes a full member of the EDA – based on democratic self‑determination and legal clarity</td></tr><tr><td><strong>ERDA</strong></td><td>European Rights‑Based Democratic Alliance – future political union of democratic constitutional states with a common constitution and post‑scarcity economy</td></tr><tr><td><strong>EDA</strong></td><td>European Defence Alliance – security alliance for democratic sovereignty and strategic autonomy, complementary to NATO</td></tr><tr><td><strong>Article 5 Equivalent</strong></td><td>Binding collective‑defence clause analogous to Article 5 of the NATO Treaty</td></tr><tr><td><strong>PESCO</strong></td><td>Permanent Structured Cooperation – EU framework for structured military cooperation</td></tr><tr><td><strong>FCAS / MGCS</strong></td><td>Core European armaments projects for air and land warfare systems</td></tr><tr><td><strong>IRIS²</strong></td><td>Planned European satellite system for secure communications</td></tr><tr><td><strong>Strategic autonomy</strong></td><td>Ability to act independently in defence, economics and diplomacy</td></tr><tr><td><strong>Coalition of the Willing</strong></td><td>Flexible group of like‑minded states that act together ahead of a broader agreement</td></tr><tr><td><strong>Cyber resilience</strong></td><td>Systemic ability to prevent, withstand and recover from cyber threats</td></tr><tr><td><strong>Rapid Response Force (RRF)</strong></td><td>Multinational EDA rapid‑reaction force for crises and hybrid threats</td></tr><tr><td><strong>Liberum veto</strong></td><td>Historical decision rule (Poland–Lithuania) by which individual nobles could block legislation; a case study of structural veto paralysis and external manipulability.</td></tr><tr><td><strong>Veto paralysis / obstructionism</strong></td><td>Structural inability to decide due to unanimity constraints or persistent minority blocking; makes systems slow, predictable and strategically exploitable.</td></tr></tbody></table>
+| **Term** | **Definition** |
+| --- | --- |
+| **ADO (Asian Defence Organization)** | Hypothetical security alliance of democratic states in East Asia (e.g. Japan, South Korea and others) |
+| **ASDA (Australian Defence Alliance)** | Hypothetical security alliance in the Indo‑Pacific under Australian leadership to protect maritime routes and democratic sovereignty |
+| **LDA (Latin American Defence Alliance)** | Hypothetical defence alliance of democratic states in Latin America (possible leadership by Brazil/Argentina) |
+| **AFDA (African Defence Alliance)** | Hypothetical defence alliance of democratic African states to promote regional security and democratic values |
+| **GDA (Global Defence Alliance)** | Vision of a trans‑regional defence framework of democratic constitutional states based on shared principles |
+| **Democratically Prepared Defence Accession** | Status of a sovereign partner state which, after a successful referendum, becomes a full member of the EDA – based on democratic self‑determination and legal clarity |
+| **ERDA** | European Rights‑Based Democratic Alliance – future political union of democratic constitutional states with a common constitution and post‑scarcity economy |
+| **EDA** | European Defence Alliance – security alliance for democratic sovereignty and strategic autonomy, complementary to NATO |
+| **Article 5 Equivalent** | Binding collective‑defence clause analogous to Article 5 of the NATO Treaty |
+| **PESCO** | Permanent Structured Cooperation – EU framework for structured military cooperation |
+| **FCAS / MGCS** | Core European armaments projects for air and land warfare systems |
+| **IRIS²** | Planned European satellite system for secure communications |
+| **Strategic autonomy** | Ability to act independently in defence, economics and diplomacy |
+| **Coalition of the Willing** | Flexible group of like‑minded states that act together ahead of a broader agreement |
+| **Cyber resilience** | Systemic ability to prevent, withstand and recover from cyber threats |
+| **Rapid Response Force (RRF)** | Multinational EDA rapid‑reaction force for crises and hybrid threats |
+| **Liberum veto** | Historical decision rule (Poland–Lithuania) by which individual nobles could block legislation; a case study of structural veto paralysis and external manipulability. |
+| **Veto paralysis / obstructionism** | Structural inability to decide due to unanimity constraints or persistent minority blocking; makes systems slow, predictable and strategically exploitable. |
 
 ***
 
@@ -7018,7 +7050,14 @@ status: approved
 
 _**Overview: Europe’s strategic production goals (excerpt)**_
 
-<table><thead><tr><th width="162.4000244140625">Sector</th><th width="280.79998779296875">Substitute or target product</th><th>Comment</th></tr></thead><tbody><tr><td>Defence</td><td>FCAS, MGCS, drone systems, space‑based reconnaissance</td><td>Replacement for F‑35, Abrams and others – with EU/ERDA/EDA cooperation</td></tr><tr><td>Energy</td><td>SMR reactors, hydrogen storage, biogas solutions</td><td>Phase‑out of fossil US imports (LNG)</td></tr><tr><td>IT & communication</td><td>EU cloud, quantum encryption, AI base systems</td><td>Digital sovereignty vis‑à‑vis big tech</td></tr><tr><td>Healthcare</td><td>Active ingredient synthesis, mRNA platforms, diagnostic devices</td><td>Independence in pandemic preparedness</td></tr><tr><td>Raw materials</td><td>Recycling, substitution, strategic stockpiling</td><td>Resilience to export controls (e.g. rare earths)</td></tr><tr><td>Agriculture/food</td><td>Regional cycles, urban agricultural systems</td><td>Autarky component of civil resilience</td></tr></tbody></table>
+| Sector | Substitute or target product | Comment |
+| --- | --- | --- |
+| Defence | FCAS, MGCS, drone systems, space‑based reconnaissance | Replacement for F‑35, Abrams and others – with EU/ERDA/EDA cooperation |
+| Energy | SMR reactors, hydrogen storage, biogas solutions | Phase‑out of fossil US imports (LNG) |
+| IT \& communication | EU cloud, quantum encryption, AI base systems | Digital sovereignty vis‑à‑vis big tech |
+| Healthcare | Active ingredient synthesis, mRNA platforms, diagnostic devices | Independence in pandemic preparedness |
+| Raw materials | Recycling, substitution, strategic stockpiling | Resilience to export controls (e.g. rare earths) |
+| Agriculture/food | Regional cycles, urban agricultural systems | Autarky component of civil resilience |
 
 
 \newpage
@@ -8541,9 +8580,6 @@ status: draft
 ---
 <a id="md-8-das-arktis-konzept-8-4-umsetzung-kommunikation-und-schlussgedanke"></a>
 
-## 8.4 Implementation, communication and closing thought
-
-The ARKTIS Concept becomes credible only when its guiding vision is translated into robust routines. That requires clear responsibilities, measurable checkpoints and communication that neither fuels alarmism nor offers false reassurance. Arctic policy must be able to show what it protects, whom it benefits and where it limits itself.
 
 \newpage
 \newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
@@ -8551,6 +8587,11 @@ The ARKTIS Concept becomes credible only when its guiding vision is translated i
 
 \pagewidth=297mm
 \pageheight=210mm
+
+## 8.4 Implementation, communication and closing thought
+
+The ARKTIS Concept becomes credible only when its guiding vision is translated into robust routines. That requires clear responsibilities, measurable checkpoints and communication that neither fuels alarmism nor offers false reassurance. Arctic policy must be able to show what it protects, whom it benefits and where it limits itself.
+
 ### 8.4.1 Catalogue of measures
 
 \begin{longtable}{@{}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{74.35mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{18.28mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{50.96mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{66.92mm}@{}}\toprule Area & Core measure & Time frame & Lead responsibility & Review criterion \\\midrule \endhead Defence & Establish DSN Norwegian Sea with early warning, cyber defence and emergency logistics & 2026–2032 & EDA, Iceland, Norway, Canada & Shared situational picture, civilian exercise formats, parliamentary control \\Resources & Arctic Democracy Mining Act with concession register and benefit sharing & from 2027 & ERDA, FORTERA, Greenland, partner states & Public contract data, environmental requirements, local participation funds \\Research & Arctic Resilience Observatory for climate, biodiversity and permafrost data & 2025–2028 & EU, ERDA partners, universities, NGOs & Open data standards, Indigenous data rights, annual resilience report \\Ethics & Arctic Commons Charter as a boundary for non-exploitative use & 2026 & ERDA constitutional commission, Arctic Council+ & Precautionary principle, protected areas, independent ethics review \\Participation & Indigenous Council within ERDA linked to CIVITAS & from 2027 & CIVITAS, ERDA Council, local representatives & Co-decision on projects, complaint channels, multilingual participation \\Infrastructure & European Arctic Cloud and resilient logistics locations & 2026–2030 & ERDA, IRIS², municipalities, research partners & Data sovereignty, cyber resilience, civilian usability, climate balance \\\bottomrule \end{longtable}
@@ -8583,9 +8624,6 @@ Three communication rules follow from this:
 2. **Make action visible:** Open data portals, CIVITAS modules, maps, annual reports and understandable indicators show whether principles are actually being implemented.
 3. **Include culture:** Literature, film, education, interactive media and Indigenous forms of storytelling make it tangible that Arctic responsibility is more than security or resource policy.
 
-### 8.4.4 Escalation and crisis ladder
-
-Arctic crises rarely arise at a single point. They unfold over weeks, sometimes hours: a disrupted GNSS signal, a severed cable, an abruptly revoked licence, a wave of disinformation against an Indigenous representation. ARKTIS therefore needs a graduated, pre-mandated reaction ladder that binds every step to clear political control.
 
 \newpage
 \newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
@@ -8593,13 +8631,18 @@ Arctic crises rarely arise at a single point. They unfold over weeks, sometimes 
 
 \pagewidth=297mm
 \pageheight=210mm
+
+### 8.4.4 Escalation and crisis ladder
+
+Arctic crises rarely arise at a single point. They unfold over weeks, sometimes hours: a disrupted GNSS signal, a severed cable, an abruptly revoked licence, a wave of disinformation against an Indigenous representation. ARKTIS therefore needs a graduated, pre-mandated reaction ladder that binds every step to clear political control.
+
 \begin{longtable}{@{}>{\raggedright\arraybackslash}p{33.09mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{60.62mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{64.42mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{41.84mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{44.53mm}@{}}\toprule Level & Trigger (example) & Primary tools & Decision level & Democratic control \\\midrule \endhead 0 Observation & Suspicious patterns (shipping, data traffic, discourse analysis) & Situational picture, monitoring, early warning & Specialist services, Observatory & Routine reports, committees \\1 Civilian consultation & Confirmed incidents without immediate damage & Diplomacy, fact-based clarification, technical assistance & Foreign and home ministries, ERDA secretariat & Committee briefing within 72 h \\2 Economic / legal response & Repeated incidents, clear attribution & Sanctions, FDI freeze, licence withdrawal, litigation & ERDA Council, affected member states & Parliamentary approval / decision \\3 Alliance reinforcement & Systematic hybrid pressure campaign & Extended alliance formats, protective presence, joint communication & EDA + partners, ERDA Council & Mandate decision, public justification \\4 Defensive military reassurance & Sabotage of critical infrastructure, threat to the population & DSN activation, NATO consultation, mandated protective operation & EDA Council, NATO, national parliaments & Pre-defined mandate, ex-post report \\\bottomrule \end{longtable}
+Every change of level is subject to justification, time-limited and documented in CIVITAS. Level 4 requires an existing parliamentary mandate and is limited to defensive measures.
+
 \restoregeometry
 \pagewidth=210mm
 \pageheight=297mm
 \newpage
-
-Every change of level is subject to justification, time-limited and documented in CIVITAS. Level 4 requires an existing parliamentary mandate and is limited to defensive measures.
 
 ### 8.4.5 Resilience indicators and annual dashboard
 
@@ -9915,11 +9958,35 @@ _From plan to spacefaring civilisation – development steps 2025–2075_
 
 _**Timeline of ERDA’s space‑civilisation development**_
 
-<table><thead><tr><th width="130.4000244140625">Year</th><th>Milestone</th></tr></thead><tbody><tr><td><strong>2025 / 2026</strong></td><td><strong>Adoption of the ERDA Codex:</strong> initiation of cosmic responsibility and the start of coordinated build‑up as the foundation for a future‑proof spacefaring civilisation.</td></tr><tr><td><strong>2028</strong></td><td><strong>Founding of the Solar Alliance:</strong> establishment of the first bodies and codes for international coordination of spaceflight, realistically supported by modern communication and partnership models.</td></tr><tr><td><strong>2029</strong></td><td><strong>Launch of the Lunar Dockyard project:</strong> start of construction of the first sphere modules, with plans for gradual integration of modular manufacturing in lunar orbit.</td></tr><tr><td><strong>2030</strong></td><td><strong>Ratification of the cosmos conventions:</strong> first legally binding agreements (including a duty to render assistance) that define the legal framework for responsible activities in outer space.</td></tr><tr><td><strong>2032</strong></td><td><strong>Commissioning of the Sphere Craft Assembly Hub:</strong> establishment of a central manufacturing and assembly hub in lunar orbit to modularise the build‑up of space infrastructures.</td></tr><tr><td><strong>2034</strong></td><td><strong>Deployment of the first DNSN nodes:</strong> installation of decentralised communications and control systems on the Moon and at Lagrange points to strengthen the infrastructural base.</td></tr><tr><td><strong>2034</strong></td><td><strong>Solar Defense Force Node – Moon:</strong> establishment of the first Solar Defense Force node on the Moon.</td></tr><tr><td><strong>2035</strong></td><td><strong>Commissioning of EARTH ONE:</strong> realisation of an orbital "pair of world eyes" for global monitoring and communication, based on newly established technologies.</td></tr><tr><td><strong>2036</strong></td><td><strong>Test operation of the orbital cycler system:</strong> first trials of a continuous orbital transport system between Earth and Mars, enabling regular connections in the long term.</td></tr><tr><td><strong>2038</strong></td><td><strong>Start of operations on LUNAR ONE:</strong> activation of a permanent space‑station concept in lunar orbit, supported by a permanent CIVITAS Council as a governance and cooperation body.</td></tr><tr><td><strong>2042</strong></td><td><strong>BELT LIVING ONE is crewed:</strong> stationing and start of operations. A six‑month training and preparation programme establishes stable routines.</td></tr><tr><td><strong>2042</strong></td><td><strong>Research stations on Mars:</strong> construction of rotating, medically and ethically oriented stations as the first basis for long‑term scientific missions on Mars.</td></tr><tr><td><strong>2043</strong></td><td><strong>BELT LIVING ONE travels to the belt:</strong> journey to the asteroid belt. Establishment of the first orbital mining centre in the belt, initiating independent resource utilisation.</td></tr><tr><td><strong>2044</strong></td><td><strong>Solar Defense Force Node – Mars:</strong> establishment of the Solar Defense Force node on Mars.</td></tr><tr><td><strong>2045</strong></td><td><strong>VENUS ONE is crewed:</strong> VENUS ONE is populated and begins operations. A six‑month training and preparation programme establishes stable routines.</td></tr><tr><td><strong>2046</strong></td><td><strong>VENUS ONE travels to Venus:</strong> journey to Venus and start of the first missions. Beginning of ethics and atmosphere missions to explore and shape Venus, with the aim of generating insights for future terraforming processes.</td></tr><tr><td><strong>2048</strong></td><td><strong>Expansion of the DNSN networks:</strong> extension of communications and control systems to Mars and the inner asteroid belt, securing seamless space communication.</td></tr><tr><td><strong>2050</strong></td><td><strong>Creation of Mars parliaments and education networks:</strong> setup of administrative units and deeper space‑probe clusters (e.g. IRIS swarm with over 10,000 units) for autonomous steering and exploration of Mars.</td></tr><tr><td><strong>2050</strong></td><td><strong>Solar Defense Force Node – Belt:</strong> establishment of the Solar Defense Force node in the asteroid belt.</td></tr><tr><td><strong>2052</strong></td><td><strong>Launch of NEPTUNE ONE:</strong> start of an intergenerational long‑term programme integrating families into spaceflight and fostering long‑term settlements in the outer solar system.</td></tr><tr><td><strong>2055</strong></td><td><strong>Full operational expansion of the cycler system:</strong> provision of a reliable orbital transport system as far as Neptune for large‑scale cargo and passenger transport in space.</td></tr><tr><td><strong>2060</strong></td><td><strong>Expansion of DNSN coverage:</strong> creation of a comprehensive control network at all ERDA bases in the asteroid belt and at Neptune, optimising space communication.</td></tr><tr><td><strong>2062</strong></td><td><strong>Solar Defense Force Nodes – Beyond:</strong> establishment of Solar Defense Force nodes at every human settlement in the solar system.</td></tr><tr><td><strong>2065</strong></td><td><strong>Autonomous lunar industry:</strong> lunar habitats achieve a self‑sufficiency level of over 70%, enabling significant independence in space.</td></tr><tr><td><strong>2070</strong></td><td><strong>Intersolar observatory network:</strong> construction of the first near‑real‑time observatory at around 180 AU to monitor distant space phenomena and advance scientific understanding.</td></tr><tr><td><strong>2075</strong></td><td><strong>50 years of the ERDA Codex:</strong> celebration of half a century of the ERDA vision with a democratically governed deep‑space environment and a framework of cosmic responsibility as a central pillar of the future spacefaring civilisation.</td></tr></tbody></table>
+| Year | Milestone |
+| --- | --- |
+| **2025 / 2026** | **Adoption of the ERDA Codex:** initiation of cosmic responsibility and the start of coordinated build‑up as the foundation for a future‑proof spacefaring civilisation. |
+| **2028** | **Founding of the Solar Alliance:** establishment of the first bodies and codes for international coordination of spaceflight, realistically supported by modern communication and partnership models. |
+| **2029** | **Launch of the Lunar Dockyard project:** start of construction of the first sphere modules, with plans for gradual integration of modular manufacturing in lunar orbit. |
+| **2030** | **Ratification of the cosmos conventions:** first legally binding agreements (including a duty to render assistance) that define the legal framework for responsible activities in outer space. |
+| **2032** | **Commissioning of the Sphere Craft Assembly Hub:** establishment of a central manufacturing and assembly hub in lunar orbit to modularise the build‑up of space infrastructures. |
+| **2034** | **Deployment of the first DNSN nodes:** installation of decentralised communications and control systems on the Moon and at Lagrange points to strengthen the infrastructural base. |
+| **2034** | **Solar Defense Force Node – Moon:** establishment of the first Solar Defense Force node on the Moon. |
+| **2035** | **Commissioning of EARTH ONE:** realisation of an orbital "pair of world eyes" for global monitoring and communication, based on newly established technologies. |
+| **2036** | **Test operation of the orbital cycler system:** first trials of a continuous orbital transport system between Earth and Mars, enabling regular connections in the long term. |
+| **2038** | **Start of operations on LUNAR ONE:** activation of a permanent space‑station concept in lunar orbit, supported by a permanent CIVITAS Council as a governance and cooperation body. |
+| **2042** | **BELT LIVING ONE is crewed:** stationing and start of operations. A six‑month training and preparation programme establishes stable routines. |
+| **2042** | **Research stations on Mars:** construction of rotating, medically and ethically oriented stations as the first basis for long‑term scientific missions on Mars. |
+| **2043** | **BELT LIVING ONE travels to the belt:** journey to the asteroid belt. Establishment of the first orbital mining centre in the belt, initiating independent resource utilisation. |
+| **2044** | **Solar Defense Force Node – Mars:** establishment of the Solar Defense Force node on Mars. |
+| **2045** | **VENUS ONE is crewed:** VENUS ONE is populated and begins operations. A six‑month training and preparation programme establishes stable routines. |
+| **2046** | **VENUS ONE travels to Venus:** journey to Venus and start of the first missions. Beginning of ethics and atmosphere missions to explore and shape Venus, with the aim of generating insights for future terraforming processes. |
+| **2048** | **Expansion of the DNSN networks:** extension of communications and control systems to Mars and the inner asteroid belt, securing seamless space communication. |
+| **2050** | **Creation of Mars parliaments and education networks:** setup of administrative units and deeper space‑probe clusters (e.g. IRIS swarm with over 10,000 units) for autonomous steering and exploration of Mars. |
+| **2050** | **Solar Defense Force Node – Belt:** establishment of the Solar Defense Force node in the asteroid belt. |
+| **2052** | **Launch of NEPTUNE ONE:** start of an intergenerational long‑term programme integrating families into spaceflight and fostering long‑term settlements in the outer solar system. |
+| **2055** | **Full operational expansion of the cycler system:** provision of a reliable orbital transport system as far as Neptune for large‑scale cargo and passenger transport in space. |
+| **2060** | **Expansion of DNSN coverage:** creation of a comprehensive control network at all ERDA bases in the asteroid belt and at Neptune, optimising space communication. |
+| **2062** | **Solar Defense Force Nodes – Beyond:** establishment of Solar Defense Force nodes at every human settlement in the solar system. |
+| **2065** | **Autonomous lunar industry:** lunar habitats achieve a self‑sufficiency level of over 70\%, enabling significant independence in space. |
+| **2070** | **Intersolar observatory network:** construction of the first near‑real‑time observatory at around 180 AU to monitor distant space phenomena and advance scientific understanding. |
+| **2075** | **50 years of the ERDA Codex:** celebration of half a century of the ERDA vision with a democratically governed deep‑space environment and a framework of cosmic responsibility as a central pillar of the future spacefaring civilisation. |
 
-#### 9.6.9.2 Comparative table of the sphere stations (target configuration 2055)
-
-_**Comparative table of the sphere stations (target configuration 2055)**_
 
 \newpage
 \newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
@@ -9927,6 +9994,11 @@ _**Comparative table of the sphere stations (target configuration 2055)**_
 
 \pagewidth=297mm
 \pageheight=210mm
+
+#### 9.6.9.2 Comparative table of the sphere stations (target configuration 2055)
+
+_**Comparative table of the sphere stations (target configuration 2055)**_
+
 \begin{longtable}{@{}>{\raggedright\arraybackslash}p{26.55mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{33.53mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{22.09mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{60.37mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{30.27mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{67.18mm}@{}}\toprule Station & Orbit/location & Capacity & Primary function & Degree of autonomy & Special features \\\midrule \endhead EARTH ONE & Geostationary & 700 + 100 & Communications, education, monitoring & High & CIVITAS gateway, daily resupply \\LUNAR ONE & Lunar orbit & 400 + 380 & Logistics, research, recuperation & High & Link between Earth, Mars and the belt \\BELT LIVING ONE & Asteroid belt & 700 + 50 & Resources, deep‑space research & Very high & Mobile, fusion drive, quarterly resupply \\NEPTUNE ONE & Neptune orbit & 240 + children & Deep‑space mission, community & Extremely high & 25‑year mission, families, android units \\VENUS ONE & Venus‑proximate orbit & 700 + 100 & Ethics, atmosphere, terraforming studies & High & Platform for planetary‑protection discourse \\\bottomrule \end{longtable}
 \restoregeometry
 \pagewidth=210mm
@@ -10898,21 +10970,23 @@ they cross into Level 4, requiring constitutional-level legitimacy.
 
 Level 3 AI is a licensed professional actor: capable of role-based agency, but strictly bound to mandate, oversight, and democratic responsibility.
 
+
 \newpage
 \newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
 
 
 \pagewidth=297mm
 \pageheight=210mm
+
 ## 10.6 Overview – Levels of AI integration in ERDA
 
 \begin{longtable}{@{}>{\raggedright\arraybackslash}p{14.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{30.97mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{29.39mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{34.64mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{46.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{74.47mm}@{}}\toprule Level & Role of AI & Core function & Governance intensity & Rights of AI & Red lines \\\midrule \endhead 1 & Tool & Task support & Low–medium & None & No binding decisions, no force, no opacity \\2 & Infrastructure & Process shaping & Medium–high & Limited protections & No hidden decision power, no rights denial \\3 & Professional agent & Role-based agency & High & Expanded functional rights & No mandate self-extension, no political power \\4 & Full citizen & Societal actor & Constitutional & Full civic rights (graduated) & No override of democracy \\\bottomrule \end{longtable}
+The levels are governance categories, not developmental stages.
+
 \restoregeometry
 \pagewidth=210mm
 \pageheight=297mm
 \newpage
-
-The levels are governance categories, not developmental stages.
 
 ## 10.7 Level 4 – AI as a full citizen (systems to androids)
 
@@ -12179,7 +12253,7 @@ date: "2026-02-07"
 
 ## 12.A Role-play and Conclusion
 
-_Module reference: The Citizen Concept – ERDA Book v2.0.0_
+_Module reference: The Citizen Concept – The ERDA Book v2.5.0_
 
 This chapter deepens the **role-play quality assurance** for the seven transformation rules of social democracy (see [12.1](#md-12-das-demokratie-konzept-12-1-die-sieben-transformationsregeln-der-sozialen-demokratie)). In role-plays, different democracy types—here represented by the role of a **structure-protecting AI in the year 2075**—analyse existing large-scale structures such as the USA, Russia and the People’s Republic of China along the seven rules.
 
@@ -13376,7 +13450,7 @@ The urgency arises from three converging trends:
 2. **Treaty of Maastricht (1992):** Introduction of Economic and Monetary Union; blueprint for tiered integration.
 3. **PESCO (2017):** Permanent Structured Cooperation – ambitious approach, but so far without operational depth.
 4. **Draghi Report (2024):** _The Future of European Competitiveness_ – analysis of the agency gap.
-5. **ERDA Project (2026):** Chapter 4 (Master Plan), Chapter 5 (EDA), Chapter 13 (Strategic Sovereignty).
+5. **The ERDA Book (2026):** Chapter 4 (Master Plan), Chapter 5 (EDA), Chapter 13 (Strategic Sovereignty).
 
 
 \newpage
@@ -13599,7 +13673,7 @@ A practical template for all ten coalitions:
 1. **Schengen/Euro analogy:** Historical precedent for pioneer alliances (cf. 14.1).
 2. **NATO Defence Planning Process (NDPP):** Reference process for joint capability planning.
 3. **EU Critical Raw Materials Act (2024):** Regulatory basis for raw-material security.
-4. **ERDA Project (2026):** Chapter 5 (EDA), 7 (FORTERA), 10 (AI), 13 (Strategic Sovereignty).
+4. **The ERDA Book (2026):** Chapter 5 (EDA), 7 (FORTERA), 10 (AI), 13 (Strategic Sovereignty).
 
 
 \newpage
@@ -13613,6 +13687,14 @@ description: "14.3 Tier Model: From Club to Federation (Tier 0–9)"
 ---
 <a id="md-14-die-demokratischen-koalitionen-der-willigen-14-3-stufenmodell-vom-club-zur-foederation"></a>
 
+
+
+\newpage
+\newgeometry{paperwidth=420mm, paperheight=297mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
+
+
+\pagewidth=420mm
+\pageheight=297mm
 
 ## 14.3 Tier Model: From Club to Federation
 
@@ -13628,42 +13710,37 @@ _A gradual, democratically controllable path in ten tiers_
 
 ***
 
+### 14.3.1 Tier Model Overview
+
+\begin{longtable}{@{}>{\raggedright\arraybackslash}p{14.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{63.94mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{72.06mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{40.08mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{39.32mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{72.55mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{56.56mm}@{}}\toprule Tier & Short Description & Capability Gain & Strategic Value-Add & Risk & Go Criteria & No-Go Criteria \\\midrule \endhead \textbf{0} & \textbf{Coordination Pact} (voluntary, structured) & Shared situational awareness, standards, planning cells & Speed without EU veto, joint course possible & Symbolic politics without bite & Clear KPIs (quantities, timelines), public reporting & Summit rhetoric only, no budgets/standards \\\textbf{1} & \textbf{Defence Alliance} (EDA/EVA) as treaty & Joint procurement, interoperability, ammunition/drone/air-defence programmes & Immediate deterrence effect & Industrial/sovereignty disputes, free-riders & Pay-to-play, minimum contributions, common specs & Unanimity in the club; no hard minimum contributions \\\textbf{2} & \textbf{Joint Command Structure} (Operational HQ + Force Catalogue) & Operational readiness, joint training and logistics & External credibility & Command and liability issues & Parliamentary deployment control regulated & Unclear chain of command / no democratic chain \\\textbf{3} & \textbf{European Defence Ministry} (defence only) & Unified armament planning, doctrine, personnel framework & Massive reduction of fragmentation & "Who decides on war?" & Bicameral control + judicial protection + budget authority & Executive can act without parliament \\\textbf{4} & \textbf{Foreign Ministry + Sanctions/Export-Control Space} & Coherent foreign policy, anti-evasion, diplomatic clout & Europe becomes capable of acting & Foreign-policy identity conflicts & Clear competence catalogue, veto rights only narrowly defined & Permanent blockades / national parallel foreign policies \\\textbf{5} & \textbf{Justice Ministry \& Legal Space (Rule-of-Law Union)} & Common minimum standards, anti-corruption, fundamental-rights protection & Protection against state capture & Competence overreach, politicised judiciary & Constitutional court + fundamental-rights charter + subsidiarity test & No independent courts / weak fundamental rights \\\textbf{6} & \textbf{Citizens' Ministry (CIVITAS)}: suffrage, participation, transparency & Identity + resilience, anti-disinfo, citizen services & Loyalty to the federation grows & Mistrust regarding data/competences & Strict data-protection architecture + citizen control & Centralised surveillance / opaque algorithms \\\textbf{7} & \textbf{Social \& Environment Ministry} (core standards) & Minimum standards, crisis mechanisms, resilience programmes & Solidarity dividend & Cost/transfer conflicts & Clear financing logic + equalisation mechanisms & Unlimited liability without democratic consent \\\textbf{8} & \textbf{Economy \& Finance Ministry} (partial fiscal union) & Joint investment capacity, crisis budget & Independence, shock absorption & Moral hazard, North/South tension & Fiscal rules + automatic stabilisers + audit & Permanent transfers without rules/legitimacy \\\textbf{9} & \textbf{Joint Government + Federal Constitution} & Fully capable of acting (Defence/Foreign/Justice/Finance…) & Evolutionarily stable democracy possible & Identity rupture, secessionist tendencies & Clear competence allocation + exit/accession logic + strong fundamental rights & Forced federation, no genuine electoral/opposition logic \\\bottomrule \end{longtable}
+***
+
+
+\restoregeometry
+\pagewidth=210mm
+\pageheight=297mm
+
 \newpage
 \newgeometry{paperwidth=420mm, paperheight=297mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
 
 
 \pagewidth=420mm
 \pageheight=297mm
-### 14.3.1 Tier Model Overview
-
-\begin{longtable}{@{}>{\raggedright\arraybackslash}p{14.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{63.94mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{72.06mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{40.08mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{39.32mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{72.55mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{56.56mm}@{}}\toprule Tier & Short Description & Capability Gain & Strategic Value-Add & Risk & Go Criteria & No-Go Criteria \\\midrule \endhead **0** & **Coordination Pact** (voluntary, structured) & Shared situational awareness, standards, planning cells & Speed without EU veto, joint course possible & Symbolic politics without bite & Clear KPIs (quantities, timelines), public reporting & Summit rhetoric only, no budgets/standards \\**1** & **Defence Alliance** (EDA/EVA) as treaty & Joint procurement, interoperability, ammunition/drone/air-defence programmes & Immediate deterrence effect & Industrial/sovereignty disputes, free-riders & Pay-to-play, minimum contributions, common specs & Unanimity in the club; no hard minimum contributions \\**2** & **Joint Command Structure** (Operational HQ + Force Catalogue) & Operational readiness, joint training and logistics & External credibility & Command and liability issues & Parliamentary deployment control regulated & Unclear chain of command / no democratic chain \\**3** & **European Defence Ministry** (defence only) & Unified armament planning, doctrine, personnel framework & Massive reduction of fragmentation & "Who decides on war?" & Bicameral control + judicial protection + budget authority & Executive can act without parliament \\**4** & **Foreign Ministry + Sanctions/Export-Control Space** & Coherent foreign policy, anti-evasion, diplomatic clout & Europe becomes capable of acting & Foreign-policy identity conflicts & Clear competence catalogue, veto rights only narrowly defined & Permanent blockades / national parallel foreign policies \\**5** & **Justice Ministry \& Legal Space (Rule-of-Law Union)** & Common minimum standards, anti-corruption, fundamental-rights protection & Protection against state capture & Competence overreach, politicised judiciary & Constitutional court + fundamental-rights charter + subsidiarity test & No independent courts / weak fundamental rights \\**6** & **Citizens' Ministry (CIVITAS)**: suffrage, participation, transparency & Identity + resilience, anti-disinfo, citizen services & Loyalty to the federation grows & Mistrust regarding data/competences & Strict data-protection architecture + citizen control & Centralised surveillance / opaque algorithms \\**7** & **Social \& Environment Ministry** (core standards) & Minimum standards, crisis mechanisms, resilience programmes & Solidarity dividend & Cost/transfer conflicts & Clear financing logic + equalisation mechanisms & Unlimited liability without democratic consent \\**8** & **Economy \& Finance Ministry** (partial fiscal union) & Joint investment capacity, crisis budget & Independence, shock absorption & Moral hazard, North/South tension & Fiscal rules + automatic stabilisers + audit & Permanent transfers without rules/legitimacy \\**9** & **Joint Government + Federal Constitution** & Fully capable of acting (Defence/Foreign/Justice/Finance…) & Evolutionarily stable democracy possible & Identity rupture, secessionist tendencies & Clear competence allocation + exit/accession logic + strong fundamental rights & Forced federation, no genuine electoral/opposition logic \\\bottomrule \end{longtable}
-\restoregeometry
-\pagewidth=210mm
-\pageheight=297mm
-\newpage
-
-***
 
 ### 14.3.2 Institutional Architecture Options
 
 For the final stage (Tier 9) various models are conceivable, which can also be incrementally incorporated in intermediate tiers:
 
-\newpage
-\newgeometry{paperwidth=420mm, paperheight=297mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
-
-
-\pagewidth=420mm
-\pageheight=297mm
-\begin{longtable}{@{}>{\raggedright\arraybackslash}p{41.96mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{99.63mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{48.89mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{47.41mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{70.56mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{54.54mm}@{}}\toprule Model & Core Element & Advantage & Risk & Go & No-Go \\\midrule \endhead **Germany-like** & Government from parliament, Chancellor is part of government; second chamber (Länder) & Stable, clear opposition/majority & Faction-discipline overpower & Strong committees + investigation + constitutional court & Executive fully dominates parliament \\**France-like** & President (separate), government (PM) + parliament & Crisis leadership & Presidentialisation / power concentration & Narrow emergency framework + strong courts & President can override parliament \\**Switzerland-like** & Collegial government, strong direct democracy & High legitimacy, consensus & Slow, referendum-driven blockade & Quorums + deadlines + emergency corridors & Permanent blockade in security situations \\**Evolutionarily stable (hybrid)** & Parliamentary **plus** constitutionally entrenched resilience mechanics & Capable of acting without authoritarianism & Complexity & Simply explained rules, transparent checks & Incomprehensible black-box constitution \\\bottomrule \end{longtable}
-\restoregeometry
-\pagewidth=210mm
-\pageheight=297mm
-\newpage
-
+\begin{longtable}{@{}>{\raggedright\arraybackslash}p{41.96mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{99.63mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{48.89mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{47.41mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{70.56mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{54.54mm}@{}}\toprule Model & Core Element & Advantage & Risk & Go & No-Go \\\midrule \endhead \textbf{Germany-like} & Government from parliament, Chancellor is part of government; second chamber (Länder) & Stable, clear opposition/majority & Faction-discipline overpower & Strong committees + investigation + constitutional court & Executive fully dominates parliament \\\textbf{France-like} & President (separate), government (PM) + parliament & Crisis leadership & Presidentialisation / power concentration & Narrow emergency framework + strong courts & President can override parliament \\\textbf{Switzerland-like} & Collegial government, strong direct democracy & High legitimacy, consensus & Slow, referendum-driven blockade & Quorums + deadlines + emergency corridors & Permanent blockade in security situations \\\textbf{Evolutionarily stable (hybrid)} & Parliamentary \textbf{plus} constitutionally entrenched resilience mechanics & Capable of acting without authoritarianism & Complexity & Simply explained rules, transparent checks & Incomprehensible black-box constitution \\\bottomrule \end{longtable}
 > **ERDA Concept recommendation:** The **evolutionarily stable hybrid model** – parliamentary democracy with constitutionally entrenched emergency containment, strong opposition and anti-capture safeguards (cf. 14.6, 14.7).
 
 ***
 
+
+\restoregeometry
+\pagewidth=210mm
+\pageheight=297mm
+\newpage
 ### 14.3.3 Recommended Sequence
 
 For a maximally realistic start that still aims at federation, the robust sequence is:
@@ -13700,9 +13777,6 @@ No phase can be skipped – but phases may **overlap** once the go criteria of t
 
 ***
 
-### 14.3.4 "Evolutionarily Stable": Checklist Logic
-
-So that the system **does not tip** – neither into authoritarianism nor into paralysis:
 
 \newpage
 \newgeometry{paperwidth=420mm, paperheight=297mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
@@ -13710,12 +13784,12 @@ So that the system **does not tip** – neither into authoritarianism nor into p
 
 \pagewidth=420mm
 \pageheight=297mm
-\begin{longtable}{@{}>{\raggedright\arraybackslash}p{42.86mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{97.77mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{51.66mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{43.02mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{70.27mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{57.41mm}@{}}\toprule Design Goal & Mechanism & Capability Gain & Main Risk & Go & No-Go \\\midrule \endhead No blackmailability & Energy/industry/defence redundancy, crisis fund & Freedom of action & Costs & Measurable resilience KPIs & Declarations of intent only \\No veto abuse & QMV in the club, "opt-in but no veto" & Speed & Division & Accession open, rules clear & Veto right remains everywhere \\No state capture & Rule-of-law conditionality, anti-corruption, transparency & Internal stability & Political instrumentalisation & Independent courts & Partisan judiciary \\Democracy remains the core & Budget authority in parliament, strong opposition, media freedom & Legitimacy & Populist attacks & Fundamental rights constitutionally entrenched & State of emergency without oversight \\No empires of fear & Emergency only narrow, time-limited, reviewable & Security without authoritarianism & Security overreach & Sunset clauses + courts & Permanent emergency \\No rewarding aggression & Constitutional norm + sanctions/liability logic & Foreign-policy clarity & Escalation risk & Verifiable conditions & Deals without verification \\\bottomrule \end{longtable}
-\restoregeometry
-\pagewidth=210mm
-\pageheight=297mm
-\newpage
 
+### 14.3.4 "Evolutionarily Stable": Checklist Logic
+
+So that the system **does not tip** – neither into authoritarianism nor into paralysis:
+
+\begin{longtable}{@{}>{\raggedright\arraybackslash}p{42.86mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{97.77mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{51.66mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{43.02mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{70.27mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{57.41mm}@{}}\toprule Design Goal & Mechanism & Capability Gain & Main Risk & Go & No-Go \\\midrule \endhead No blackmailability & Energy/industry/defence redundancy, crisis fund & Freedom of action & Costs & Measurable resilience KPIs & Declarations of intent only \\No veto abuse & QMV in the club, "opt-in but no veto" & Speed & Division & Accession open, rules clear & Veto right remains everywhere \\No state capture & Rule-of-law conditionality, anti-corruption, transparency & Internal stability & Political instrumentalisation & Independent courts & Partisan judiciary \\Democracy remains the core & Budget authority in parliament, strong opposition, media freedom & Legitimacy & Populist attacks & Fundamental rights constitutionally entrenched & State of emergency without oversight \\No empires of fear & Emergency only narrow, time-limited, reviewable & Security without authoritarianism & Security overreach & Sunset clauses + courts & Permanent emergency \\No rewarding aggression & Constitutional norm + sanctions/liability logic & Foreign-policy clarity & Escalation risk & Verifiable conditions & Deals without verification \\\bottomrule \end{longtable}
 ***
 
 ### Sources & References
@@ -13723,7 +13797,12 @@ So that the system **does not tip** – neither into authoritarianism nor into p
 1. **EU Treaty, Art. 42.6 / 46:** Permanent Structured Cooperation (PESCO) as legal framework for pioneer groups.
 2. **European Political Community (2022):** Platform beyond the EU-27 for security-policy coordination.
 3. **Draghi Report (2024):** Agency through more flexible integration.
-4. **ERDA Project (2026):** Chapter 4 (Master Plan), Chapter 5 (EDA), Chapter 12 (Democracy Concept).
+4. **The ERDA Book (2026):** Chapter 4 (Master Plan), Chapter 5 (EDA), Chapter 12 (Democracy Concept).
+
+\restoregeometry
+\pagewidth=210mm
+\pageheight=297mm
+\newpage
 
 
 \newpage
@@ -13737,6 +13816,14 @@ description: "14.4 The Club Architecture (EDDRC) – Organs, Voting Weight, Budg
 ---
 <a id="md-14-die-demokratischen-koalitionen-der-willigen-14-4-die-club-architektur-eddrc"></a>
 
+
+
+\newpage
+\newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
+
+
+\pagewidth=297mm
+\pageheight=210mm
 
 ## 14.4 The Club Architecture (EDDRC)
 
@@ -13752,24 +13839,18 @@ _Organs, Voting Weight, Budget, Accession and Exit of the European Democratic De
 
 ***
 
-\newpage
-\newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
-
-
-\pagewidth=297mm
-\pageheight=210mm
 ### 14.4.1 Membership Tiers
 
-\begin{longtable}{@{}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{71.75mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{67.94mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{36.81mm}@{}}\toprule Tier & Designation & Rights & Obligations & Typical Members \\\midrule \endhead **T0** & Observer & Participation without voting rights & Transparency/Info-Security Minimum & Partners in preparation \\**T1** & Associate & Selective cooperation rights, access to joint procurement/standards & Reduced contribution, audit, Core-A values & EU core states, UK/NO associated \\**T2** & Full Member & Full voting rights, participation in operational/force structures & Full contribution, interoperability certification, compliance & Core A/B \\**T3** & Core & Extended responsibility, framework-state function, EB secondment & Full constitutional/rule-of-law commitment, capacity guarantees & Later federation stage \\\bottomrule \end{longtable}
-\restoregeometry
-\pagewidth=210mm
-\pageheight=297mm
-\newpage
-
+\begin{longtable}{@{}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{71.75mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{67.94mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{36.81mm}@{}}\toprule Tier & Designation & Rights & Obligations & Typical Members \\\midrule \endhead \textbf{T0} & Observer & Participation without voting rights & Transparency/Info-Security Minimum & Partners in preparation \\\textbf{T1} & Associate & Selective cooperation rights, access to joint procurement/standards & Reduced contribution, audit, Core-A values & EU core states, UK/NO associated \\\textbf{T2} & Full Member & Full voting rights, participation in operational/force structures & Full contribution, interoperability certification, compliance & Core A/B \\\textbf{T3} & Core & Extended responsibility, framework-state function, EB secondment & Full constitutional/rule-of-law commitment, capacity guarantees & Later federation stage \\\bottomrule \end{longtable}
 **Key:** No one has a veto over accessions. Rights grow with obligations.
 
 ***
 
+
+\restoregeometry
+\pagewidth=210mm
+\pageheight=297mm
+\newpage
 ### 14.4.2 Organs (Governance)
 
 | Organ | Composition | Core Tasks | Decision Type | Controls/Checks |
@@ -13916,7 +13997,7 @@ _Organs, Voting Weight, Budget, Accession and Exit of the European Democratic De
 
 1. **EU Treaties, PESCO Council Decision (2017):** Reference for tier systems and differentiated integration.
 2. **NATO contribution rules:** GDP-based contribution targets as a benchmark.
-3. **ERDA Project (2026):** Chapter 5 (EDA), Chapter 12 (Democracy Concept), Chapter 13.4 (Financial Capacity for Action).
+3. **The ERDA Book (2026):** Chapter 5 (EDA), Chapter 12 (Democracy Concept), Chapter 13.4 (Financial Capacity for Action).
 
 
 \newpage
@@ -14065,39 +14146,36 @@ Regardless of how far integration advances within the individual ministries, **f
 
 ***
 
+
+\newpage
+\newgeometry{paperwidth=594mm, paperheight=420mm, left=18mm, right=18mm, top=18mm, bottom=18mm}
+
+
+\pagewidth=594mm
+\pageheight=420mm
+
 ### 14.5.4 Control Matrix – Who Decides, Oversees, Litigates?
 
 The following matrix shows, for **key instruments** across all eight ministries, who decides, who oversees, and who may litigate.
 
 #### Legend
 
-| Role | Meaning |
-| ---- | ---- |
-| **Decides** | Who enacts/orders (government, minister, parliament) |
-| **Oversees** | Committees, court of auditors, ombudsperson, court, upper house |
-| **Litigates** | Who can compel judicial review (citizens, states, minority, ombudsperson) |
-
-\newpage
-\newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
-
-
-\pagewidth=297mm
-\pageheight=210mm
+\begin{longtable}{@{}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{120.97mm}@{}}\toprule Role & Meaning \\\midrule \endhead \textbf{Decides} & Who enacts/orders (government, minister, parliament) \\\textbf{Oversees} & Committees, court of auditors, ombudsperson, court, upper house \\\textbf{Litigates} & Who can compel judicial review (citizens, states, minority, ombudsperson) \\\bottomrule \end{longtable}
 #### Selected Instruments (Excerpt)
 
-\begin{longtable}{@{}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{39.15mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{60.31mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{53.87mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{57.17mm}@{}}\toprule Ministry & Instrument & Decides & Oversees & Litigates \\\midrule \endhead **Defence** & Capability targets / Force Catalogue & Government + Lower House (budget) & Defence/budget committee; court of auditors & Parliamentary minority; member states; constitutional court \\**Defence** & Major procurement & Ministry within budget framework & Court of auditors + Integrity Unit + committees & Bidders (procurement law); ombudsperson; minority \\**Defence** & Deployment mandate (abroad/mutual assistance) & Lower House (mandate); Upper House at threshold & IG-Defense; committee of inquiry & Minority; citizens (fundamental rights); states \\**Defence** & Rapid response 72 h & Government & Emergency committee immediately; court for extension & Minority; ombudsperson; affected persons \\**Foreign Affairs** & Sanctions package & Lower House law/regulation; government implements & Foreign affairs/justice committee; audit & States; minority; affected actors \\**Foreign Affairs** & Export controls / dual use & Government under framework law & Committee + expert council & Companies; ombudsperson; minority \\**Foreign Affairs** & International treaties (federal fields) & Government negotiates; ratification Lower House (+ Upper House) & Committees; constitutional court (competence check) & States; minority \\**Justice** & Anti-corruption / registers & Lower House law; government enforcement & Court of auditors; Anti-Corruption Office & Citizens/NGOs; ombudsperson; minority \\**Justice** & Electoral integrity & Lower House law & Electoral commission; court & Citizens; parties; ombudsperson \\**CIVITAS** & Transparency (lobby/donations/ads) & Lower House law & Independent transparency authority; court & Citizens; media; NGOs; ombudsperson \\**CIVITAS** & Digital identity & Framework law; ministry standards & Data-protection authority; audit & Citizens; data-protection litigation; ombudsperson \\**Environment** & Infrastructure resilience standards & Lower House framework law & Specialist authority + court of auditors & States; citizens (affected parties) \\**Social Affairs** & Minimum standards / portability & Lower House framework law & Social-affairs committee; audit & Citizens; trade unions; ombudsperson \\**Economy** & Investment screening & Government under law & Economic-affairs committee; court & Companies; states; ombudsperson \\**Finance** & Federal core budget & Lower House approves; government executes & Court of auditors; budget committee & Minority; states \\**Finance** & Mission-bound bonds & Qualified majority Lower House (+ Upper House) & Court of auditors; stability council & Minority; states \\**Cross-cutting** & Emergency declaration / extension & Government declares; extension only by double majority & Emergency committee + automatic judicial review & Minority; ombudsperson; citizens; states \\**Cross-cutting** & Appointment of key positions & Qualified parliamentary majorities & Public hearings; incompatibility rules & Minority; court \\\bottomrule \end{longtable}
-\restoregeometry
-\pagewidth=210mm
-\pageheight=297mm
-\newpage
-
+\begin{longtable}{@{}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{78.88mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{109.75mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{91.19mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{100.68mm}@{}}\toprule Ministry & Instrument & Decides & Oversees & Litigates \\\midrule \endhead \textbf{Defence} & Capability targets / Force Catalogue & Government + Lower House (budget) & Defence/budget committee; court of auditors & Parliamentary minority; member states; constitutional court \\\textbf{Defence} & Major procurement & Ministry within budget framework & Court of auditors + Integrity Unit + committees & Bidders (procurement law); ombudsperson; minority \\\textbf{Defence} & Deployment mandate (abroad/mutual assistance) & Lower House (mandate); Upper House at threshold & IG-Defense; committee of inquiry & Minority; citizens (fundamental rights); states \\\textbf{Defence} & Rapid response 72 h & Government & Emergency committee immediately; court for extension & Minority; ombudsperson; affected persons \\\textbf{Foreign Affairs} & Sanctions package & Lower House law/regulation; government implements & Foreign affairs/justice committee; audit & States; minority; affected actors \\\textbf{Foreign Affairs} & Export controls / dual use & Government under framework law & Committee + expert council & Companies; ombudsperson; minority \\\textbf{Foreign Affairs} & International treaties (federal fields) & Government negotiates; ratification Lower House (+ Upper House) & Committees; constitutional court (competence check) & States; minority \\\textbf{Justice} & Anti-corruption / registers & Lower House law; government enforcement & Court of auditors; Anti-Corruption Office & Citizens/NGOs; ombudsperson; minority \\\textbf{Justice} & Electoral integrity & Lower House law & Electoral commission; court & Citizens; parties; ombudsperson \\\textbf{CIVITAS} & Transparency (lobby/donations/ads) & Lower House law & Independent transparency authority; court & Citizens; media; NGOs; ombudsperson \\\textbf{CIVITAS} & Digital identity & Framework law; ministry standards & Data-protection authority; audit & Citizens; data-protection litigation; ombudsperson \\\textbf{Environment} & Infrastructure resilience standards & Lower House framework law & Specialist authority + court of auditors & States; citizens (affected parties) \\\textbf{Social Affairs} & Minimum standards / portability & Lower House framework law & Social-affairs committee; audit & Citizens; trade unions; ombudsperson \\\textbf{Economy} & Investment screening & Government under law & Economic-affairs committee; court & Companies; states; ombudsperson \\\textbf{Finance} & Federal core budget & Lower House approves; government executes & Court of auditors; budget committee & Minority; states \\\textbf{Finance} & Mission-bound bonds & Qualified majority Lower House (+ Upper House) & Court of auditors; stability council & Minority; states \\\textbf{Cross-cutting} & Emergency declaration / extension & Government declares; extension only by double majority & Emergency committee + automatic judicial review & Minority; ombudsperson; citizens; states \\\textbf{Cross-cutting} & Appointment of key positions & Qualified parliamentary majorities & Public hearings; incompatibility rules & Minority; court \\\bottomrule \end{longtable}
 ***
 
 ### Sources & References
 
 1. **EU competence order (Art. 2–6 TFEU):** Model for the three-level principle (exclusive, shared, supporting).
 2. **Swiss competence distribution (Federal Constitution 1999):** Model for subsidiary allocation with democratic control.
-3. **ERDA Project (2026):** Chapter 4 (overall concept), Chapter 12 (democracy concept), Chapter 14.4 (club architecture EDDRC).
+3. **The ERDA Book (2026):** Chapter 4 (overall concept), Chapter 12 (democracy concept), Chapter 14.4 (club architecture EDDRC).
+
+\restoregeometry
+\pagewidth=210mm
+\pageheight=297mm
+\newpage
 
 
 \newpage
@@ -14297,7 +14375,7 @@ The following table summarises the main decision types and assigns the threshold
 
 1. **Grundgesetz (Basic Law) (Art. 20, 79 III, 115a–115l):** Model for the eternity clause and emergency legislation.
 2. **Swiss Federal Constitution (1999):** Double-majority principle (popular vote + cantonal vote) as a federal reference model.
-3. **ERDA Project (2026):** Chapter 12 (Democracy Concept), Chapter 14.4 (EDDRC Bodies), Chapter 14.5 (Competence Catalogue).
+3. **The ERDA Book (2026):** Chapter 12 (Democracy Concept), Chapter 14.4 (EDDRC Bodies), Chapter 14.5 (Competence Catalogue).
 
 
 \newpage
@@ -14380,9 +14458,25 @@ _From idea to treaty: 30 constitutional articles, six treaty annexes, and an ear
 
 ***
 
+
+\newpage
+\newgeometry{paperwidth=420mm, paperheight=297mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
+
+
+\pagewidth=420mm
+\pageheight=297mm
+
 ### 14.7.2 Risk Master Table
 
 The following table captures the **14 central risk areas** together with their typical failure mode and the three control layers: prevention, detection, response.
+
+\begin{longtable}{@{}>{\raggedright\arraybackslash}p{34.59mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{49.59mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{85.13mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{64.10mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{64.60mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{64.99mm}@{}}\toprule Risk Area & Typical Failure Mode & Prevention & Detection & Response & NoGo Threshold \\\midrule \endhead \textbf{State Capture / Corruption} & Agencies are captured by partisan interests & Transparency rules, independent appointments, procurement rules & Audit, forensics, whistleblower, asset registers & Funds freeze, removal from office, criminal prosecution & Systemic corruption without prosecution \\\textbf{Democracy Erosion} & Media/NGO restrictions, electoral manipulation & Fundamental-rights charter, electoral standards, media pluralism & Election observation, media monitoring, court reporting & Treaty-infringement proceedings, suspension of rights & Unfree elections \\\textbf{Emergency Abuse} & Emergency becomes permanent & Narrow grounds, sunset, double majority, auto-review & Emergency reports, ombudsperson, opposition inquiry & Automatic expiry, judicial annulment & Emergency > X days without legitimation \\\textbf{Veto / Blockade Coercion} & Single state blocks everything & No unanimity, opt-in without veto & KPI on decision times, blockade logs & Bypass, programme exclusion & Unanimity as the norm \\\textbf{Infiltration / Espionage} & Leaks, agent networks & Security vetting, classified-information protection, foreign-agent transparency & Counter-intelligence, anomaly detection & Access revocation, criminal prosecution, sanctions & Repeated leaks without consequences \\\textbf{Military Misuse} & Operations without mandate & Clear C2 chain, parliamentary mandate, RoE & Operational reports, IG inspection & Operation halt, mandate adjustment & Operations without democratic chain \\\textbf{Procurement Failure} & Cost explosion, delivery shortfalls & Standardisation, dual sourcing, framework contracts & Earned-value, QA audits, supply-chain monitoring & Contractual penalties, re-tendering & Systemic delivery failures \\\textbf{Supply-Chain Coercion} & Dependence on autocracies & Diversification, stockpiles, friend-shoring & Dependency index, stress tests & Emergency substitution, export controls & Single point of failure in critical goods \\\textbf{Finance / Transfer Conflicts} & North/South divide, moral hazard & Fiscal rules, mission-based debt, audit & Debt/deficit monitoring, early-warning council & Conditionality, automatic corrections & Permanent transfers without rules \\\textbf{Judicial Politicisation} & Partisan judiciary, selective prosecution & Independent judicial councils, appointment quorums & Case-load statistics, sentencing anomalies & International judicial panels, suspension & Demonstrable political steering \\\textbf{Information / Censorship Risk} & "Anti-disinfo" becomes censorship & Transparency, court-proof standards, no content control & Complaints channels, judicial review & Annulment, compensation, agency reform & State content control without court order \\\textbf{Data / Surveillance Risk} & Centralised profiles, misuse & Privacy by design, data minimisation, separated keys & Logs, independent data-protection authority & Deletion, sanctions, criminal proceedings & Mass surveillance without judicial authorisation \\\textbf{Crisis Coordination Failure} & Agency chaos, overlapping responsibilities & Clear competence matrix, joint exercises & After-action reviews, KPI on response time & Reform, personnel changes & Repeated chaos without learning curve \\\textbf{Secession / Legitimacy Breach} & "Forced federation" narrative & Exit rules, subsidiarity, citizen participation & Surveys, legitimacy index, conflict monitoring & Mediation council, competence back-transfer & Persistent majority against federation without dialogue \\\bottomrule \end{longtable}
+***
+
+
+\restoregeometry
+\pagewidth=210mm
+\pageheight=297mm
 
 \newpage
 \newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
@@ -14390,25 +14484,12 @@ The following table captures the **14 central risk areas** together with their t
 
 \pagewidth=297mm
 \pageheight=210mm
-\begin{longtable}{@{}>{\raggedright\arraybackslash}p{23.79mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{30.33mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{51.86mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{44.51mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{44.69mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{44.82mm}@{}}\toprule Risk Area & Typical Failure Mode & Prevention & Detection & Response & NoGo Threshold \\\midrule \endhead **State Capture / Corruption** & Agencies are captured by partisan interests & Transparency rules, independent appointments, procurement rules & Audit, forensics, whistleblower, asset registers & Funds freeze, removal from office, criminal prosecution & Systemic corruption without prosecution \\**Democracy Erosion** & Media/NGO restrictions, electoral manipulation & Fundamental-rights charter, electoral standards, media pluralism & Election observation, media monitoring, court reporting & Treaty-infringement proceedings, suspension of rights & Unfree elections \\**Emergency Abuse** & Emergency becomes permanent & Narrow grounds, sunset, double majority, auto-review & Emergency reports, ombudsperson, opposition inquiry & Automatic expiry, judicial annulment & Emergency > X days without legitimation \\**Veto / Blockade Coercion** & Single state blocks everything & No unanimity, opt-in without veto & KPI on decision times, blockade logs & Bypass, programme exclusion & Unanimity as the norm \\**Infiltration / Espionage** & Leaks, agent networks & Security vetting, classified-information protection, foreign-agent transparency & Counter-intelligence, anomaly detection & Access revocation, criminal prosecution, sanctions & Repeated leaks without consequences \\**Military Misuse** & Operations without mandate & Clear C2 chain, parliamentary mandate, RoE & Operational reports, IG inspection & Operation halt, mandate adjustment & Operations without democratic chain \\**Procurement Failure** & Cost explosion, delivery shortfalls & Standardisation, dual sourcing, framework contracts & Earned-value, QA audits, supply-chain monitoring & Contractual penalties, re-tendering & Systemic delivery failures \\**Supply-Chain Coercion** & Dependence on autocracies & Diversification, stockpiles, friend-shoring & Dependency index, stress tests & Emergency substitution, export controls & Single point of failure in critical goods \\**Finance / Transfer Conflicts** & North/South divide, moral hazard & Fiscal rules, mission-based debt, audit & Debt/deficit monitoring, early-warning council & Conditionality, automatic corrections & Permanent transfers without rules \\**Judicial Politicisation** & Partisan judiciary, selective prosecution & Independent judicial councils, appointment quorums & Case-load statistics, sentencing anomalies & International judicial panels, suspension & Demonstrable political steering \\**Information / Censorship Risk** & "Anti-disinfo" becomes censorship & Transparency, court-proof standards, no content control & Complaints channels, judicial review & Annulment, compensation, agency reform & State content control without court order \\**Data / Surveillance Risk** & Centralised profiles, misuse & Privacy by design, data minimisation, separated keys & Logs, independent data-protection authority & Deletion, sanctions, criminal proceedings & Mass surveillance without judicial authorisation \\**Crisis Coordination Failure** & Agency chaos, overlapping responsibilities & Clear competence matrix, joint exercises & After-action reviews, KPI on response time & Reform, personnel changes & Repeated chaos without learning curve \\**Secession / Legitimacy Breach** & "Forced federation" narrative & Exit rules, subsidiarity, citizen participation & Surveys, legitimacy index, conflict monitoring & Mediation council, competence back-transfer & Persistent majority against federation without dialogue \\\bottomrule \end{longtable}
-\restoregeometry
-\pagewidth=210mm
-\pageheight=297mm
-\newpage
-
-***
 
 ### 14.7.3 The Six Treaty Annexes (Annexes A–F)
 
 The constitutional sketch is operationalised through **six annexes**. Each annex is an integral part of the treaty.
 
-\newpage
-\newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
-
-
-\pagewidth=297mm
-\pageheight=210mm
-\begin{longtable}{@{}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{38.94mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{158.06mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{18.00mm}@{}}\toprule Annex & Title & Core Content & Scope \\\midrule \endhead **A** & Risk Controls \& Enforcement & Master table of all risks, NoGo thresholds, enforcement levels 0–5, emergency review (48 h), remediation plan, legal remedy (DRT review), RACI matrix & 18 articles \\**B** & Procurement Code & Award procedures (open/restricted/negotiated/framework/emergency), integrity clause, dual sourcing, blacklisting, KPI catalogue, step-in rights, tenderer legal remedies & 30 articles \\**C** & Interop \& Certification & Certification levels L0–L4, tier↔level mapping, technical tests (interface, crypto, resilience), operational tests (joint exercise), cyber red-team, waiver/legacy regime, upgrade T1→T2 & 27 articles \\**D** & War Powers \& Mandates & Operation categories 0–3, 72 h immediate response, mandate minimum content (10 mandatory fields), upper-house thresholds, IG Defence, RoE codex, mission-creep trigger, reporting obligations & 26 articles \\**E** & Audit \& Transparency & ACI independence, audit types (regular/special/forensic/effectiveness/IT), KPI framework, clean-room procedure, transparency register, whistleblower protection, hearing obligations, public reports & 28 articles \\**F** & Membership Tiers \& Upgrade/Downgrade & T0–T3 rights/obligations, voting-weight rules (anti-veto), accession/upgrade/downgrade procedure, suspension/reinstatement, exit/no-hostage, associated members, EU docking clause & 26 articles \\\bottomrule \end{longtable}
+\begin{longtable}{@{}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{38.94mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{158.06mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{18.00mm}@{}}\toprule Annex & Title & Core Content & Scope \\\midrule \endhead \textbf{A} & Risk Controls \& Enforcement & Master table of all risks, NoGo thresholds, enforcement levels 0–5, emergency review (48 h), remediation plan, legal remedy (DRT review), RACI matrix & 18 articles \\\textbf{B} & Procurement Code & Award procedures (open/restricted/negotiated/framework/emergency), integrity clause, dual sourcing, blacklisting, KPI catalogue, step-in rights, tenderer legal remedies & 30 articles \\\textbf{C} & Interop \& Certification & Certification levels L0–L4, tier↔level mapping, technical tests (interface, crypto, resilience), operational tests (joint exercise), cyber red-team, waiver/legacy regime, upgrade T1→T2 & 27 articles \\\textbf{D} & War Powers \& Mandates & Operation categories 0–3, 72 h immediate response, mandate minimum content (10 mandatory fields), upper-house thresholds, IG Defence, RoE codex, mission-creep trigger, reporting obligations & 26 articles \\\textbf{E} & Audit \& Transparency & ACI independence, audit types (regular/special/forensic/effectiveness/IT), KPI framework, clean-room procedure, transparency register, whistleblower protection, hearing obligations, public reports & 28 articles \\\textbf{F} & Membership Tiers \& Upgrade/Downgrade & T0–T3 rights/obligations, voting-weight rules (anti-veto), accession/upgrade/downgrade procedure, suspension/reinstatement, exit/no-hostage, associated members, EU docking clause & 26 articles \\\bottomrule \end{longtable}
 \restoregeometry
 \pagewidth=210mm
 \pageheight=297mm
@@ -14469,7 +14550,7 @@ The EDDRC is thus not a static construct but an **evolutionarily stable system**
 1. **Grundgesetz (Basic Law) (Art. 79 III):** Model for the eternity clause.
 2. **Swiss Federal Constitution (1999):** Competence catalogue, double majority, subsidiarity.
 3. **EU Treaties (TEU/TFEU):** Allocation of competences, anti-corruption norms, PESCO.
-4. **ERDA Project (2026):** Chapter 4 (overall concept), Chapter 12 (democracy concept), Chapters 14.4–14.6 (club architecture, competence catalogue, democracy chain).
+4. **The ERDA Book (2026):** Chapter 4 (overall concept), Chapter 12 (democracy concept), Chapters 14.4–14.6 (club architecture, competence catalogue, democracy chain).
 
 
 \newpage
@@ -16058,9 +16139,6 @@ Fully integrated member states with democratic constitutions and stable rule of 
 
 Democracies with high compatibility with ERDA core countries and strategic importance that have full partnership capability without formal political integration.
 
-#### **2.1 Stable democracies with immediate compatibility**
-
-These countries already fulfil all ERDA standards, bring robust institutions and strong innovative capacity, and can be associated at the push of a button:
 
 \newpage
 \newgeometry{paperwidth=420mm, paperheight=297mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
@@ -16068,15 +16146,17 @@ These countries already fulfil all ERDA standards, bring robust institutions and
 
 \pagewidth=420mm
 \pageheight=297mm
+
+#### **2.1 Stable democracies with immediate compatibility**
+
+These countries already fulfil all ERDA standards, bring robust institutions and strong innovative capacity, and can be associated at the push of a button:
+
 \begin{longtable}{@{}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{40.88mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{49.02mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{35.61mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{28.08mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{59.91mm}@{}}\toprule State & ISO & Level of democracy & Constitutional status & Conditions for integration & Cooperation & Partnership level & Core-state potential & Comment \\\midrule \endhead United Kingdom & GB & High & Stable & Already ERDA compatible & Security, education & Associated & 🟢 Yes & High innovation potential \\Andorra & AD & High & Stable & Already ERDA compatible & Tourism, finance & Associated & 🟢 Yes & Alpine bridge between Spain and France \\Iceland & IS & High & Stable & Arctic strategy, energy self-sufficiency & Arctic, biodiversity & Associated & 🟢 Yes & Bridge state for the North Sea area \\Liechtenstein & LI & High & Stable & Already ERDA compatible & Financial market, industry & Associated & 🟢 Yes & Highly innovative small-state model \\Malta & MT & High & Stable & Fully democratic & Migration, justice & Associated & 🟢 Yes & Access to Africa and the MENA region \\Monaco & MC & High & Stable & Already ERDA compatible & Finance, culture & Associated & 🟢 Yes & Financial centre with high international reach \\Norway & NO & High & Stable & Already ERDA compatible & Arctic, energy & Associated & 🟢 Yes & Model country \\San Marino & SM & High & Stable & Already ERDA compatible & Tourism, culture & Associated & 🟢 Yes & Oldest republic in Europe \\Switzerland & CH & High & Stable & Already ERDA compatible & Financial market, innovation & Associated & 🟢 Yes & Direct democracy, neutrality model \\Greenland & GL & High & Autonomous under Denmark & Need for constitutional clarity & Arctic, raw materials & Associated & 🟡 Medium & Key territory in the Arctic \\Ukraine & UA & High & Stable (consolidated) & ERDA compatibility, rapid EU/NATO entry & Security, reconstruction & Associated & 🟢 Yes & Central pillar of European security \\Cyprus & CY & High & Stable (divided) & Peace process North/South & Security, culture & Associated & 🟡 Medium & Politically sensitive \\\bottomrule \end{longtable}
 \restoregeometry
 \pagewidth=210mm
 \pageheight=297mm
 \newpage
 
-#### **2.2 Democracies with stable reform orientation and high proximity**
-
-These states are on their way to full ERDA compatibility, are pursuing reforms in a targeted way and have clearly defined EU perspectives:
 
 \newpage
 \newgeometry{paperwidth=420mm, paperheight=297mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
@@ -16084,15 +16164,17 @@ These states are on their way to full ERDA compatibility, are pursuing reforms i
 
 \pagewidth=420mm
 \pageheight=297mm
+
+#### **2.2 Democracies with stable reform orientation and high proximity**
+
+These states are on their way to full ERDA compatibility, are pursuing reforms in a targeted way and have clearly defined EU perspectives:
+
 \begin{longtable}{@{}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{41.42mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{47.83mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{36.96mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{29.75mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{57.54mm}@{}}\toprule State & ISO & Level of democracy & Constitutional status & Conditions for integration & Cooperation & Partnership level & Core-state potential & Comment \\\midrule \endhead Albania & AL & Developing & Stable (EU candidate country) & Rule-of-law reform, anti-corruption & Infrastructure, energy & Observer & 🟡 Medium & Comprehensive reform agenda \\Armenia & AM & Developing & Reform-willing & Regional stability & Peace work, education & Observer & 🟡 Medium & Needs security guarantees \\Georgia & GE & Developing & In reform process & Democratic resilience & Security, culture & Strategic & 🟡 Medium & Geopolitically sensitive \\Kosovo & XK & Developing & Stable (young democracy) & Recognition, integrity agreement & Security, digitalisation & Observer & 🟡 Medium & Strong reform drive, EU perspective \\Moldova & MD & Developing & Democratic transition & Institution building & Infrastructure, energy & Observer & 🟡 Medium & Between EU and Ukraine \\Montenegro & ME & Stable & Constitution in place & Rule of law, transparency & Legal system, environment & Associated & 🟡 Medium & Small but functional \\North Macedonia & MK & Developing & Stable (EU candidate country) & Rule-of-law reform, EU integration & Security, infrastructure & Observer & 🟡 Medium & Key role for Western Balkan integration \\\bottomrule \end{longtable}
 \restoregeometry
 \pagewidth=210mm
 \pageheight=297mm
 \newpage
 
-#### **2.3 Democracies with barriers but strategic relevance**
-
-Despite internal challenges, these states possess strategic importance and remain important ERDA observers and potential partners:
 
 \newpage
 \newgeometry{paperwidth=420mm, paperheight=297mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
@@ -16100,6 +16182,11 @@ Despite internal challenges, these states possess strategic importance and remai
 
 \pagewidth=420mm
 \pageheight=297mm
+
+#### **2.3 Democracies with barriers but strategic relevance**
+
+Despite internal challenges, these states possess strategic importance and remain important ERDA observers and potential partners:
+
 \begin{longtable}{@{}>{\raggedright\arraybackslash}p{35.34mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{44.29mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{62.36mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{28.40mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{23.43mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{53.68mm}@{}}\toprule State & ISO & Level of democracy & Constitutional status & Conditions for integration & Cooperation & Partnership level & Core-state potential & Comment \\\midrule \endhead Bosnia and Herzegovina & BA & Fluctuating & Fragile (Dayton system) & State reform, separation of powers & Administration, reconciliation & Observer & 🔴 Low & Comprehensive constitutional reform required \\Israel & IL & High & Unclear constitutional status & Clarity on separation of powers & Innovation, security & Strategic & 🟡 Medium & Value-compatible but unstable \\Jordan & JO & Stable & Monarchy with reform efforts & Continuation of reform paths & Mediation, dialogue & Strategic & 🟡 Medium & Moderate, willing to cooperate \\Lebanon & LB & Fragile & Confessional system & Democratic reconstruction & Education, culture & Observer & 🟡 Medium & Complex internal fragmentation \\Morocco & MA & Hybrid & Authoritarian with elements of reform & Strengthening participation & Renewables, security & Observer & 🟡 Medium & Ready to reform but with limitations \\Serbia & RS & Fluctuating & Unstable & Judicial reform, press freedom & Infrastructure & Observer & 🔴 Low & Partly EU-sceptical \\Türkiye & TR & Ambivalent & Authoritarian traits & Democratic change & Security, migration & Strategic & 🔴 Low & Ambivalent development \\Tunisia & TN & Unstable & Democratic backsliding since 2021 & Democratic restoration & Education, civil society & Observer & 🟡 Medium & Former showcase state \\Hungary & HU & Ambivalent & Limited separation of powers and independent judiciary & Fulfil Copenhagen criteria, comprehensive rule-of-law and media reform & Migration, energy & Observer & 🔴 Low & Persistent backsliding on rule of law and media freedom \\\bottomrule \end{longtable}
 \restoregeometry
 \pagewidth=210mm
@@ -28157,7 +28244,7 @@ status: draft
 
 _**Executive Summary Compendium**_
 
-This compendium provides a focused overview of the ERDA book in **four** thematic blocks (A–D), supplemented by a tool box and a strategy paper. Every block is designed to condense the core impulses, analytical focal points, and recommendations for action of the respective topic cluster.
+This compendium provides a focused overview of the ERDA Book in **four** thematic blocks (A–D), supplemented by a tool box and a strategy paper. Every block is designed to condense the core impulses, analytical focal points, and recommendations for action of the respective topic cluster.
 
 ---
 
@@ -28243,7 +28330,7 @@ A Europe that is integrated in trade but remains fragmented in defence, foreign 
 ## D.4 Guides and Tool‑Box
 
 - **Executive compendium for decision‑makers** (condensed policy briefings)
-- **ERDA book toolbox** (templates, boxes, quiz elements)
+- **The ERDA Book toolbox** (templates, boxes, quiz elements)
 - **State architecture** (concentric circles)
 - **Europe 2.0 roadmap** and **Institute for Democratic Resilience**
 - **Risk assessment and strategic resilience**
@@ -28289,13 +28376,13 @@ A Europe that is integrated in trade but remains fragmented in defence, foreign 
 
 ## 📘 Executive Compendium for Decision‑Makers
 
-_Supplementary document to the ERDA book: "Strategy, Ethics and the Future of Europe – From Democratic Rule of Law to a Resilient Civilisation"_
+_Supplementary document to the ERDA Book: "Strategy, Ethics and the Future of Europe – From Democratic Rule of Law to a Resilient Civilisation"_
 
 ---
 
 ### 🌍 Purpose of the Compendium
 
-This document offers political decision‑makers, institutions, AI systems, and strategic partners a condensed overview of the key messages, policy recommendations, and civilisational opportunities of all central chapters of the ERDA book. Each summary follows the same structural principles: relevance, feasibility, ethical grounding, and visionary benefit.
+This document offers political decision‑makers, institutions, AI systems, and strategic partners a condensed overview of the key messages, policy recommendations, and civilisational opportunities of all central chapters of the ERDA Book. Each summary follows the same structural principles: relevance, feasibility, ethical grounding, and visionary benefit.
 
 > This edition contains Blocks A to D. Further executive summaries will only be added after editorial approval in later releases.
 
@@ -29050,7 +29137,7 @@ _**ERDA Book Toolbox**_
 
 ## E.1 Introduction
 
-The ERDA Book Toolbox bundles reusable building blocks for structure, layout, interactivity, and reading experience in the ERDA book. It serves authors, editors, and co‑operation AIs as a toolkit to design new chapters consistently, reader‑friendly, and in the spirit of the ERDA vision.
+The ERDA Book Toolbox bundles reusable building blocks for structure, layout, interactivity, and reading experience in the ERDA Book. It serves authors, editors, and co‑operation AIs as a toolkit to design new chapters consistently, reader‑friendly, and in the spirit of the ERDA vision.
 
 ## E.2 Overview of the Modules
 
@@ -29249,7 +29336,7 @@ _**E.4 🧭 ERDA reader profile schema**_
 
 #### 🔹 General direction
 
-The ERDA book is a **strategic, philosophical and civilisational guide work**. It combines political feasibility with ethical depth, technological clarity and cultural resonance. The readership is diverse, yet united by the desire to co-create a better, democratically grounded future.
+The ERDA Book is a **strategic, philosophical and civilisational guide work**. It combines political feasibility with ethical depth, technological clarity and cultural resonance. The readership is diverse, yet united by the desire to co-create a better, democratically grounded future.
 
 ***
 
@@ -29561,7 +29648,7 @@ This template is designed to systematically improve the quality of ERDA chapters
 
 ***
 
-_This role-play template can be used flexibly for different chapters and templates in the ERDA book. It enables multi-layered quality review – from simple user perspectives up to highly complex, future-oriented viewpoints._
+_This role-play template can be used flexibly for different chapters and templates in the ERDA Book. It enables multi-layered quality review – from simple user perspectives up to highly complex, future-oriented viewpoints._
 
 
 \newpage
@@ -29575,20 +29662,20 @@ status: draft
 <a id="md-anhang-e-erda-buch-baukasten-e-9-schema-and-promptstruktur-fur-kooperations-kis-im-erda-projekt"></a>
 
 
-## E.9 🤖 Schema & prompt structure for collaboration AIs in the ERDA project
+## E.9 🤖 Schema & prompt structure for collaboration AIs in the ERDA Book project
 
-_**E.9 🤖 Schema & prompt structure for collaboration AIs in the ERDA project**_
+_**E.9 🤖 Schema & prompt structure for collaboration AIs in the ERDA Book project**_
 
 #### 🧭 Objective of this schema
 
-This schema enables artificial intelligences (from level GPT‑4o) to collaborate competently, ethically and with semantic coherence on the **ERDA book**. It translates the principles of the ERDA project into **structured working instructions**, adapted to the target groups of the work and the GitBook-based structure.
+This schema enables artificial intelligences (from level GPT‑4o) to collaborate competently, ethically and with semantic coherence on **The ERDA Book**. It translates the principles of the ERDA Book project into **structured working instructions**, adapted to the target groups of the work and the GitBook-based structure.
 
 ***
 
 #### 📘 1) Understand the context
 
 > **🧠 Initial prompt:**
-> _“You are a co-author of the ERDA book – a strategic, ethical and technologically grounded vision for a democratically resilient civilisation of Europe. Your goal is to structure, deepen, synthesise and prepare content for different target groups – according to the ERDA reader profile schema and the ERDA chapter template.
+> _“You are a co-author of The ERDA Book – a strategic, ethical and technologically grounded vision for a democratically resilient civilisation of Europe. Your goal is to structure, deepen, synthesise and prepare content for different target groups – according to the ERDA reader profile schema and the ERDA chapter template.
 > 
 > When revising the chapter, pay particular attention to:
 > - keeping narrative and argumentative coherence (no fragmentation),
@@ -29879,6 +29966,14 @@ status: draft
 <a id="md-anhang-h-fehlgeschlagene-machtstrukturen-der-menschheit"></a>
 
 
+
+\newpage
+\newgeometry{paperwidth=420mm, paperheight=297mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
+
+
+\pagewidth=420mm
+\pageheight=297mm
+
 # Appendix H: Failed Power Structures of Humanity
 
 _**Failed Power Structures of Humanity**_
@@ -29893,15 +29988,9 @@ A power structure does not fail only when it loses militarily or becomes economi
 
 The critique in this appendix is therefore directed at power logics, not at whole populations. Imperial, authoritarian or terrorist systems can make people tools, followers and victims at the same time. ERDA must preserve this distinction: clear defence against life-hostile structures, but no dehumanisation of the people living within them.
 
-\newpage
-\newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
-
-
-\pagewidth=297mm
-\pageheight=210mm
 ## H.2 Overview of Central Power Structures
 
-\begin{longtable}{@{}>{\raggedright\arraybackslash}p{29.50mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{66.64mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{52.04mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{100.82mm}@{}}\toprule Power structure & Brief description & Current examples (2025) & Measures for remediation \\\midrule \endhead Totalitarianism & Total control of all areas of life & North Korea, Eritrea, Turkmenistan & International sanctions, support for independent media, long‑term development of civil society \\Authoritarianism & Strong executive, restriction of civil liberties & China, Russia, Belarus & Political dialogue, economic conditionality, long‑term support for democratic forces \\Military dictatorship & Military rule through coup & Myanmar, Sudan & UN peace missions, embargoes, support for civilian transition governments \\Theocracy & Rule by religious leaders & Iran, Afghanistan (Taliban), Vatican City & Diplomatic isolation (short term), interreligious dialogue, long‑term support for liberal religious movements \\One‑party system & Monopoly of a single party without real competition & China, Cuba, North Korea, Vietnam, Laos & Economic incentives for reforms, long‑term education and exchange programmes \\Absolute monarchy & Monarch with unrestricted power & Saudi Arabia, Brunei, Eswatini, Oman, UAE & International dialogues on human rights, reform support through education and development \\Kleptocracy & Rule based on systemic corruption & Russia & Financial sanctions on leading actors, long‑term anti‑corruption and transparency initiatives \\Fascist dictatorship & Ultra‑nationalist regimes based on violence & Historical: Germany, Italy, Spain & Historical reckoning, education programmes, consistent prosecution of fascist activities \\Imperialism & Subjugation of foreign peoples/territories & Russia (Ukraine), China (BRI), USA (military presence) & International regulation, multilateral peace treaties, sustainable development cooperation \\Slavery & Absolute deprivation of people’s rights & Worldwide illegal, modern forms & International prosecution, comprehensive social and economic prevention \\Apartheid systems & Systematic racial discrimination & Historical: South Africa, USA & Anti‑discrimination laws, awareness campaigns, comprehensive social integration \\Rule of terror & Use of violence to secure power & ISIS, regional warlords & International security cooperation, military peace missions, long‑term peace education and conflict‑management \\Violent anarchy & Loss of any state order & Historical: Somalia, various civil‑war regions & Immediate humanitarian interventions, building state institutions, long‑term stabilisation \\Veto paralysis / obstructionism & Inability to decide due to unanimity constraints or persistent minority blocking & Historical: liberum veto (Poland–Lithuania) & Shift to QMV/emergency clauses, anti‑corruption and transparency rules, protection against external influence, clear competence allocation \\\bottomrule \end{longtable}
+\begin{longtable}{@{}>{\raggedright\arraybackslash}p{40.46mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{97.76mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{69.25mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{164.53mm}@{}}\toprule Power structure & Brief description & Current examples (2025) & Measures for remediation \\\midrule \endhead Totalitarianism & Total control of all areas of life & North Korea, Eritrea, Turkmenistan & International sanctions, support for independent media, long‑term development of civil society \\Authoritarianism & Strong executive, restriction of civil liberties & China, Russia, Belarus & Political dialogue, economic conditionality, long‑term support for democratic forces \\Military dictatorship & Military rule through coup & Myanmar, Sudan & UN peace missions, embargoes, support for civilian transition governments \\Theocracy & Rule by religious leaders & Iran, Afghanistan (Taliban), Vatican City & Diplomatic isolation (short term), interreligious dialogue, long‑term support for liberal religious movements \\One‑party system & Monopoly of a single party without real competition & China, Cuba, North Korea, Vietnam, Laos & Economic incentives for reforms, long‑term education and exchange programmes \\Absolute monarchy & Monarch with unrestricted power & Saudi Arabia, Brunei, Eswatini, Oman, UAE & International dialogues on human rights, reform support through education and development \\Kleptocracy & Rule based on systemic corruption & Russia & Financial sanctions on leading actors, long‑term anti‑corruption and transparency initiatives \\Fascist dictatorship & Ultra‑nationalist regimes based on violence & Historical: Germany, Italy, Spain & Historical reckoning, education programmes, consistent prosecution of fascist activities \\Imperialism & Subjugation of foreign peoples/territories & Russia (Ukraine), China (BRI), USA (military presence) & International regulation, multilateral peace treaties, sustainable development cooperation \\Slavery & Absolute deprivation of people’s rights & Worldwide illegal, modern forms & International prosecution, comprehensive social and economic prevention \\Apartheid systems & Systematic racial discrimination & Historical: South Africa, USA & Anti‑discrimination laws, awareness campaigns, comprehensive social integration \\Rule of terror & Use of violence to secure power & ISIS, regional warlords & International security cooperation, military peace missions, long‑term peace education and conflict‑management \\Violent anarchy & Loss of any state order & Historical: Somalia, various civil‑war regions & Immediate humanitarian interventions, building state institutions, long‑term stabilisation \\Veto paralysis / obstructionism & Inability to decide due to unanimity constraints or persistent minority blocking & Historical: liberum veto (Poland–Lithuania) & Shift to QMV/emergency clauses, anti‑corruption and transparency rules, protection against external influence, clear competence allocation \\\bottomrule \end{longtable}
 \restoregeometry
 \pagewidth=210mm
 \pageheight=297mm
@@ -29935,7 +30024,7 @@ status: in-review
 
 _**Central ERDA Glossary**_
 
-This glossary brings together the key terms used in the ERDA book. It serves as a stand‑alone reference and supports consistent terminology across all chapters.
+This glossary brings together the key terms used in the ERDA Book. It serves as a stand‑alone reference and supports consistent terminology across all chapters.
 
 | Term                                         | Definition                                                                                                                                                                                                                      |
 | ---- | ---- |
@@ -30004,6 +30093,14 @@ status: draft
 <a id="md-appendix-j-license-and-openness"></a>
 
 
+
+\newpage
+\newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
+
+
+\pagewidth=297mm
+\pageheight=210mm
+
 # Appendix J: License & Openness
 
 ## J.1 Introduction
@@ -30015,22 +30112,16 @@ To create a sustainable, open knowledge base, the various components of the book
 
 ## J.2 Licence matrix
 
-The ERDA book consists of different components. Each category has its own licensing terms. The following table summarises them:
+The ERDA Book consists of different components. Each category has its own licensing terms. The following table summarises them:
 
-\newpage
-\newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
+\begin{longtable}{@{}>{\raggedright\arraybackslash}p{31.37mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{83.70mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{138.42mm}@{}}\toprule Category & Licence & Explanation \\\midrule \endhead \textbf{Texts, graphics, diagrams} & Creative Commons \textbf{Attribution – ShareAlike 4.0 International} (\textbf{CC BY‑SA 4.0}) & Content may be freely shared and adapted, provided the author is credited and derivative works are distributed under the same terms. \\\textbf{Code / toolchain / scripts} & \textbf{MIT Licence} & Code may be used, copied, modified and distributed, including commercially. The copyright notice and licence text must be preserved. \\\textbf{Custom fonts} & \textbf{CC BY 4.0} or \textbf{MIT} (dual‑licence) & ERDA‑developed fonts can be used under CC BY 4.0 or MIT. External fonts with incompatible licences are not used. \\\textbf{Emojis} & \textbf{Twemoji (CC BY 4.0)} & All emojis used come from the Twemoji project and may be used/adapted as long as proper attribution is given. \\\textbf{Third‑party content} & \textbf{According to the respective licence} & External graphics, data or texts are only included if their licence is compatible. Details are listed in `ATTRIBUTION.md`. \\\bottomrule \end{longtable}
+---
 
 
-\pagewidth=297mm
-\pageheight=210mm
-\begin{longtable}{@{}>{\raggedright\arraybackslash}p{31.37mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{83.70mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{138.42mm}@{}}\toprule Category & Licence & Explanation \\\midrule \endhead **Texts, graphics, diagrams** & Creative Commons **Attribution – ShareAlike 4.0 International** (**CC BY‑SA 4.0**) & Content may be freely shared and adapted, provided the author is credited and derivative works are distributed under the same terms. \\**Code / toolchain / scripts** & **MIT Licence** & Code may be used, copied, modified and distributed, including commercially. The copyright notice and licence text must be preserved. \\**Custom fonts** & **CC BY 4.0** or **MIT** (dual‑licence) & ERDA‑developed fonts can be used under CC BY 4.0 or MIT. External fonts with incompatible licences are not used. \\**Emojis** & **Twemoji (CC BY 4.0)** & All emojis used come from the Twemoji project and may be used/adapted as long as proper attribution is given. \\**Third‑party content** & **According to the respective licence** & External graphics, data or texts are only included if their licence is compatible. Details are listed in `ATTRIBUTION.md`. \\\bottomrule \end{longtable}
 \restoregeometry
 \pagewidth=210mm
 \pageheight=297mm
 \newpage
-
----
-
 ## J.3 Explanation of licences
 
 ### CC BY‑SA 4.0
@@ -30053,7 +30144,7 @@ The MIT Licence is a very permissive **software licence**. It allows use, sale, 
 
 ---
 
-## J.4 Application to the ERDA book
+## J.4 Application to the ERDA Book
 
 1. **Texts and graphics:** All text passages, graphics and diagrams in this book are licensed under **CC BY‑SA 4.0**. Any changes to these contents must be shared under the same licence.  
 2. **Code and scripts:** All source code, build scripts and other software parts of the project are covered by the **MIT Licence**. The licence text is included below.  
@@ -30400,7 +30491,7 @@ The full licence text is available at <https://creativecommons.org/licenses/by/4
 
 ---
 
-This chapter is part of the **ERDA book** and forms the **binding basis** for all licensing questions related to the project.  
+This chapter is part of **The ERDA Book** and forms the **binding basis** for all licensing questions related to the project.
 For further questions, please contact the **author** (see contact details in chapter J.1 or at the end of the state profiles).
 
 
@@ -30420,11 +30511,11 @@ description: 'Quality assurance: initial assessment 2025-06-07, role-based ethic
 
 _**Appendix K: Quality Assurance – status: 2025‑06‑07, assessment performed by: OpenAI ChatGPT, model GPT‑4.5**_
 
-The assessment of the current ERDA book and its quality assurance, following the quality‑assurance role‑play, proceeds as follows:
+The assessment of the current ERDA Book and its quality assurance, following the quality‑assurance role‑play, proceeds as follows:
 
 #### First assessment (overall impression)
 
-The current ERDA book offers a comprehensive and in‑depth vision that is worked out very systematically on several levels (strategy, ethics, future viability). The chapters are clearly structured, with a consistent architecture (introduction, deep dive, transformation, interactive elements). Particularly noteworthy is the well‑developed balance between theoretical depth and practical, concrete options for action.
+The current ERDA Book offers a comprehensive and in‑depth vision that is worked out very systematically on several levels (strategy, ethics, future viability). The chapters are clearly structured, with a consistent architecture (introduction, deep dive, transformation, interactive elements). Particularly noteworthy is the well‑developed balance between theoretical depth and practical, concrete options for action.
 
 The structure is optimally designed for decision‑makers; in particular, the “Executive Summary” and the target‑group‑specific perspectives provide high practical value.
 
@@ -30456,7 +30547,7 @@ Potential for improvement lies in the area of visualisation and even stronger na
 
 #### Synthesis and action plan
 
-The following steps are recommended to further improve the quality of the ERDA book:
+The following steps are recommended to further improve the quality of the ERDA Book:
 
 1. **Visual optimisation**  
    * Integrate visual representations and infographics for key concepts and processes.
@@ -30479,15 +30570,17 @@ This additional quality-assurance round extends the existing role-play with the 
 
 **Methodological core:** Strategy becomes editorially robust only when it has first been ethically legitimised. Defence, sovereignty, anti-veto architecture and alliance capability must therefore remain bound to human dignity, the rule of law, responsibility, truth and democratic control.
 
+
 \newpage
 \newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
 
 
 \pagewidth=297mm
 \pageheight=210mm
+
 ##### Role structure and mutual critique
 
-\begin{longtable}{@{}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{90.45mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{129.05mm}@{}}\toprule Role & Quality mandate & Critical contribution \\\midrule \endhead **Writer** & Strengthens the positive message: democracy is an order of free, responsible and judgement-capable citizens. & Criticises strategic passages when they sound like pure power logic or do not visibly justify the protection of life, dignity and freedom. \\**Editor** & Orders the argument: ethics first, strategy second; moral concepts become clear bridges between chapters. & Criticises the Writer when moral condensation becomes too rhetorical, too abstract or structurally unclear. \\**Lektor** & Secures tone, language and terminology: not polemical, not sweeping, not ambiguous. & Criticises Writer and Editor when wording targets whole populations, overstretches day-to-day politics or uses terms inconsistently. \\**Redakteur** & Decides placement, status and publication readiness. & Criticises all roles when new terms are canonised without approval, DE/EN synchronisation is bypassed or strategic claims would be published without source/review notes. \\\bottomrule \end{longtable}
+\begin{longtable}{@{}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{90.45mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{129.05mm}@{}}\toprule Role & Quality mandate & Critical contribution \\\midrule \endhead \textbf{Writer} & Strengthens the positive message: democracy is an order of free, responsible and judgement-capable citizens. & Criticises strategic passages when they sound like pure power logic or do not visibly justify the protection of life, dignity and freedom. \\\textbf{Editor} & Orders the argument: ethics first, strategy second; moral concepts become clear bridges between chapters. & Criticises the Writer when moral condensation becomes too rhetorical, too abstract or structurally unclear. \\\textbf{Lektor} & Secures tone, language and terminology: not polemical, not sweeping, not ambiguous. & Criticises Writer and Editor when wording targets whole populations, overstretches day-to-day politics or uses terms inconsistently. \\\textbf{Redakteur} & Decides placement, status and publication readiness. & Criticises all roles when new terms are canonised without approval, DE/EN synchronisation is bypassed or strategic claims would be published without source/review notes. \\\bottomrule \end{longtable}
 \restoregeometry
 \pagewidth=210mm
 \pageheight=297mm
@@ -30560,7 +30653,7 @@ The action plan was implemented as a role-based editorial pass: ethical legitima
 
 #### Final verdict
 
-The ERDA book is at an exceptionally high qualitative level and can be further improved – particularly in its practical and ethical depth – through the measures proposed above. This strengthens its effectiveness as a tool for strategic democratic renewal and sustainable societal transformation.
+The ERDA Book is at an exceptionally high qualitative level and can be further improved – particularly in its practical and ethical depth – through the measures proposed above. This strengthens its effectiveness as a tool for strategic democratic renewal and sustainable societal transformation.
 
 
 \newpage
@@ -30578,7 +30671,7 @@ status: draft
 
 ## L.1 About this colophon
 
-This colophon documents the **technical and typographic details** of the production of the ERDA book. It serves **transparency** and fulfils the **attribution obligations** for the fonts, tools and resources used. All components listed here are available under **open or compatible licences** and were selected in accordance with the licensing principles defined in **Appendix J**.
+This colophon documents the **technical and typographic details** of the production of the ERDA Book. It serves **transparency** and fulfils the **attribution obligations** for the fonts, tools and resources used. All components listed here are available under **open or compatible licences** and were selected in accordance with the licensing principles defined in **Appendix J**.
 
 Author and editor: Robert Alexander Massinger.
 
@@ -30590,7 +30683,7 @@ Editorial work: ERDA Book editorial team (LLM-assisted language editing under ed
 
 ## L.2 Typography and fonts
 
-The ERDA book uses the following font families:
+The ERDA Book uses the following font families:
 
 ### L.2.1 DejaVu font family
 
@@ -30611,7 +30704,7 @@ The DejaVu family offers excellent **Unicode coverage** for European languages, 
 **ERDA CC‑BY CJK**
 
 - **Licence:** CC BY 4.0  
-- **Source:** in‑house development of the ERDA project  
+- **Source:** in‑house development of the ERDA Book project
 - **Use:** supplementary coverage for CJK characters (Chinese, Japanese, Korean)  
 - **Legal note:** Attribution required; commercial use permitted.
 
@@ -30636,7 +30729,7 @@ Emojis are an integral part of the multilingual licence clauses (Appendix J) and
 
 ## L.3 Production tools
 
-The ERDA book was created using the following open‑source tools:
+The ERDA Book was created using the following open‑source tools:
 
 ### L.3.1 GitBook
 
@@ -30713,7 +30806,7 @@ Pandoc orchestrates the transformation of the Markdown source files into an inte
 
 ## L.5 Quality assurance
 
-The technical quality of the ERDA book is ensured by the following measures:
+The technical quality of the ERDA Book is ensured by the following measures:
 
 1. **Automated testing:** the CI/CD pipeline validates build processes.  
 2. **Licence compliance:** automated checks for incompatible licences (see `AGENTS.md`).  
@@ -30732,7 +30825,7 @@ This book would not have been possible without the **open‑source community**. 
 - **Bitstream, Inc.** and the **DejaVu developers** for the excellent font family.  
 - **Twitter, Inc.** and **Mozilla** for the Twemoji project.  
 - The **TeX Live**, **Pandoc** and **Python** communities.  
-- All contributors to the ERDA project who have committed to the **DCO**.
+- All contributors to the ERDA Book project who have committed to the **DCO**.
 
 ---
 
@@ -30747,7 +30840,7 @@ This book would not have been possible without the **open‑source community**. 
 
 ## L.8 Maintenance note
 
-This colophon is part of the **attribution hierarchy** of the ERDA project:
+This colophon is part of the **attribution hierarchy** of the ERDA Book project:
 
 - **`ATTRIBUTION.md`** in the repository = the machine-readable primary source for third-party components, sources, versions, and licences.  
 - **Appendix L** (this document) = the reader-friendly presentation for the book and PDF edition.  
@@ -30764,7 +30857,7 @@ The project’s editorial maintenance principles are documented in `AGENTS.md`.
 ---
 
 **End of the colophon.**  
-This document is part of the ERDA book and is licensed under **CC BY‑SA 4.0** (see Appendix J).
+This document is part of the ERDA Book and is licensed under **CC BY‑SA 4.0** (see Appendix J).
 
 
 \newpage
@@ -30783,13 +30876,13 @@ date: "2026-05-04"
 
 ## M.1 Purpose
 
-This appendix translates the ERDA book-project decisions into measurable editorial requirements. It is the yardstick for book content, appendices, papers, release documentation and later revisions.
+This appendix translates the ERDA Book project decisions into measurable editorial requirements. It is the yardstick for book content, appendices, papers, release documentation and later revisions.
 
 The internal project basis is `release-docs/v2.5.0/buchprojektentscheidungen-v2.5.0.md`. This appendix turns that basis into a book-internal requirement: what must be visible, verifiable, referenced or consciously documented as residual risk for a release to count as a responsible snapshot?
 
 ## M.2 Principle
 
-The ERDA book is a living, shaping, normative and partly pathfinding book project. This does not mean lower care, but a different kind of care: the book must make its status, sources, value judgements and open paths transparent.
+The ERDA Book is a living, shaping, normative and partly pathfinding book project. This does not mean lower care, but a different kind of care: the book must make its status, sources, value judgements and open paths transparent.
 
 The central review question is:
 
@@ -30872,8 +30965,8 @@ Every paper in Appendix P must include:
 - version and date
 - DOI
 - APA citation
-- licence and source framing aligned with the ERDA book
-- brief explanation of its relationship to the ERDA book
+- licence and source framing aligned with the ERDA Book
+- brief explanation of its relationship to the ERDA Book
 
 ## P.2 Published Papers
 
@@ -31388,9 +31481,6 @@ The full CIVITAS vision encompasses:
 
 **CIVITAS Public** represents the **first operational layer** of this vision: publicly visible, immediately useful, and designed to demonstrate that a European digital agora is not only desirable but feasible.
 
-#### 3.1 Existing Civic Platforms and Lessons Learned
-
-CIVITAS Public does not emerge in a vacuum. Several European civic-technology platforms have demonstrated that participatory digital infrastructure is both technically feasible and politically impactful. Understanding their strengths and limitations is essential for informed design.
 
 \newpage
 \newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
@@ -31398,13 +31488,18 @@ CIVITAS Public does not emerge in a vacuum. Several European civic-technology pl
 
 \pagewidth=297mm
 \pageheight=210mm
-\begin{longtable}{@{}>{\raggedright\arraybackslash}p{19.74mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{19.13mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{45.87mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{25.24mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{21.73mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{69.79mm}@{}}\toprule Platform & Origin & Licence & Focus & Governance & Multilingual & Key Lesson for CIVITAS \\\midrule \endhead **Decidim** [11] & Barcelona, ES & AGPL-3.0 & Participatory processes, budgets, consultations & Municipal / community-driven & Yes (40+ languages) & Modular architecture enables diverse civic use cases; governance must scale beyond municipal origin \\**Consul** & Madrid, ES & AGPL-3.0 & Citizen proposals, debates, participatory budgets & City government-led & Yes (30+ languages) & Strong uptake (100+ cities) but limited cross-border federation; central governance can limit independence \\**Your Priorities** & Reykjavík, IS & BSD & Idea generation, prioritisation & Citizens Foundation (NGO) & Partial & AI-assisted idea clustering works at scale; needs stronger verification layer \\**OpenStad** & Netherlands & Open source & Neighbourhood participation, budgets & Municipal toolkit & Dutch-focused & Effective local engagement but not designed for transnational civic discourse \\**Participa** & Portugal & Proprietary & National consultations & Government-operated & Portuguese & Demonstrates institutional adoption but raises independence concerns when government-run \\\bottomrule \end{longtable}
+
+#### 3.1 Existing Civic Platforms and Lessons Learned
+
+CIVITAS Public does not emerge in a vacuum. Several European civic-technology platforms have demonstrated that participatory digital infrastructure is both technically feasible and politically impactful. Understanding their strengths and limitations is essential for informed design.
+
+\begin{longtable}{@{}>{\raggedright\arraybackslash}p{19.74mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{19.13mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{45.87mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{25.24mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{21.73mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{69.79mm}@{}}\toprule Platform & Origin & Licence & Focus & Governance & Multilingual & Key Lesson for CIVITAS \\\midrule \endhead \textbf{Decidim} [11] & Barcelona, ES & AGPL-3.0 & Participatory processes, budgets, consultations & Municipal / community-driven & Yes (40+ languages) & Modular architecture enables diverse civic use cases; governance must scale beyond municipal origin \\\textbf{Consul} & Madrid, ES & AGPL-3.0 & Citizen proposals, debates, participatory budgets & City government-led & Yes (30+ languages) & Strong uptake (100+ cities) but limited cross-border federation; central governance can limit independence \\\textbf{Your Priorities} & Reykjavík, IS & BSD & Idea generation, prioritisation & Citizens Foundation (NGO) & Partial & AI-assisted idea clustering works at scale; needs stronger verification layer \\\textbf{OpenStad} & Netherlands & Open source & Neighbourhood participation, budgets & Municipal toolkit & Dutch-focused & Effective local engagement but not designed for transnational civic discourse \\\textbf{Participa} & Portugal & Proprietary & National consultations & Government-operated & Portuguese & Demonstrates institutional adoption but raises independence concerns when government-run \\\bottomrule \end{longtable}
+**Key differentiators of CIVITAS Public:**
+
 \restoregeometry
 \pagewidth=210mm
 \pageheight=297mm
 \newpage
-
-**Key differentiators of CIVITAS Public:**
 
 - **Publication-first architecture:** Existing platforms focus on proposals, votes, or budgets. CIVITAS prioritises structured, accountable *publication and debate* — closer to a democratic press infrastructure than a voting tool.
 - **Verification and review layers:** No existing platform combines identity verification with a three-level editorial review system.
@@ -31667,12 +31762,14 @@ The author of this paper is the initiator of the ERDA Initiative, within which C
 - Expand interoperability and federation logic
 - **Evaluation:** Full KPI review against targets (§2.6); independent academic evaluation; longitudinal trust measurement (pre/post comparison); institutional uptake tracking; publication of comprehensive evaluation report
 
+
 \newpage
 \newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
 
 
 \pagewidth=297mm
 \pageheight=210mm
+
 ### 15. Risk Assessment and Mitigation
 
 \begin{longtable}{@{}>{\raggedright\arraybackslash}p{55.72mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{125.28mm}@{}}\toprule Risk & Likelihood & Impact & Mitigation \\\midrule \endhead Perception of elitism due to verified-only publishing & Medium & High & Clear access pathways, open citizen questions, reviewed guest contributions, transparent participation architecture \\Insufficient early momentum & High & High & Early deployment of high-utility formats (Europe in Brief, Trend Radar, Citizen Questions); partnerships with established media and civic organisations \\Governance overload & Medium & Medium & Minimal but principled governance core; scale structures incrementally \\Confusion with social media & Medium & Medium & Clear format logic, thematic structure, visible standards, deliberate distance from feed incentives \\Political capture attempts & Low & Critical & Foundation independence, multi-stakeholder oversight, transparency reports, anti-capture design \\Technical infrastructure costs & Medium & Medium & Open-source development, EU funding mechanisms, institutional co-financing \\\bottomrule \end{longtable}

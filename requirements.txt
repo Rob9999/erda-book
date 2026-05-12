@@ -3,7 +3,7 @@
 # The QA workflow expects this file to exist and installs it via
 # ``pip install -r requirements.txt`` before running tests that rely on the
 # bundled gitbook-worker package.
-gitbook-worker @ file:packages/gitbook-worker/gitbook_worker-2.9.1-py3-none-any.whl
+gitbook-worker @ file:packages/gitbook-worker/gitbook_worker-2.9.2-py3-none-any.whl
 textstat
 # The QA test suite dynamically falls back to installing ``tabulate`` at
 # runtime when it is missing. Listing it here avoids the extra network call

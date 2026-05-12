@@ -1,13 +1,15 @@
 ---
 version: 1.0.0
 date: 2026-05-11
-status: technical-package-ready-with-erda-warnings
+status: historical-superseded-by-2.9.2
 target_release: "gitbook_worker v2.9.1 Abnahmefix"
 review_role: Redakteur:in
 source_package: "packages/gitbook-worker/gitbook_worker-2.9.1-py3-none-any.whl"
 source_archive: "packages/gitbook-worker/gitbook_worker-2.9.1.tar.gz"
 source_docs: "packages/gitbook-worker/gitbook-worker-v2.9.1-customer-acceptance-redacted-2026-05-11.zip"
+superseded_by: "release-docs/v2.5.0/gitbook-worker-2.9.2-delivery-review-v2.5.0.md"
 history:
+   - "1.0.1: 2026-05-12 - Durch gitbook_worker v2.9.2-Lieferreview historisch ueberholt."
   - "1.0.0: 2026-05-11 - Technische ERDA-Lieferpruefung fuer gitbook_worker v2.9.1 Abnahmefix dokumentiert."
 ---
 

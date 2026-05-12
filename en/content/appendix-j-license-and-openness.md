@@ -16,7 +16,7 @@ To create a sustainable, open knowledge base, the various components of the book
 
 ## J.2 Licence matrix
 
-The ERDA book consists of different components. Each category has its own licensing terms. The following table summarises them:
+The ERDA Book consists of different components. Each category has its own licensing terms. The following table summarises them:
 
 | Category                      | Licence                                            | Explanation |
 | ---- | ---- | ---- |
@@ -50,7 +50,7 @@ The MIT Licence is a very permissive **software licence**. It allows use, sale, 
 
 ---
 
-## J.4 Application to the ERDA book
+## J.4 Application to the ERDA Book
 
 1. **Texts and graphics:** All text passages, graphics and diagrams in this book are licensed under **CC BY‑SA 4.0**. Any changes to these contents must be shared under the same licence.  
 2. **Code and scripts:** All source code, build scripts and other software parts of the project are covered by the **MIT Licence**. The licence text is included below.  
@@ -397,5 +397,5 @@ The full licence text is available at <https://creativecommons.org/licenses/by/4
 
 ---
 
-This chapter is part of the **ERDA book** and forms the **binding basis** for all licensing questions related to the project.  
+This chapter is part of **The ERDA Book** and forms the **binding basis** for all licensing questions related to the project.
 For further questions, please contact the **author** (see contact details in chapter J.1 or at the end of the state profiles).

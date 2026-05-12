@@ -1,10 +1,10 @@
 ---
 content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.ua.staatenprofil.ukraine
 content_lang: de
-description: "State: UA, Date: 2025-06-08, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: None"
+description: "State: UA, Date: 2025-06-08, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: None"
 country: "UA"
 date: "2025-06-08"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "None"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -223,6 +223,6 @@ Die Ukraine steht 2025 am Beginn einer Phase tiefgreifender Erneuerung. Mit rund
 Dieses Profil wurde auf Basis öffentlich zugänglicher und modellierter Daten erstellt. Wir laden Vertreter:innen der Ukraine herzlich ein, eigene Perspektiven, Ergänzungen und Aktualisierungen einzubringen – für ein gemeinsames Bild der demokratischen Zukunft Europas.
 
 #### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
