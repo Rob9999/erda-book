@@ -3,7 +3,7 @@
 **Release:** v2.5.0  
 **Release name:** Democratic Knowledge  
 **Stand:** 2026-05-12
-**Status:** Final-Gate-Stand nach gitbook_worker 2.9.2 dokumentiert; Tag-/Publisher-Freigabe noch offen
+**Status:** Final-Gates nach gitbook_worker 2.9.2 geschlossen; Publish-/Publisher- und Tag-Freigabe erteilt
 **Zuständige Rolle:** Redakteur:in  
 **Mitwirkende Rollen:** Writer, Editor, Lektor, Native gb-en Translator, Publisher
 
@@ -13,16 +13,16 @@
 
 | Feld | Eintrag |
 |---|---|
-| Entscheidung | Release-Identität, DE-Quellstand und v2.5-Finalscope-Quellenprüfung vorbereitet; keine Tag-Freigabe ohne Publisher-Endcheck |
+| Entscheidung | Release-Identität, DE-Quellstand und v2.5-Finalscope-Quellenprüfung final freigegeben; Publisher-Endcheck und Tag-Freigabe erteilt |
 | Entscheidung am | 2026-05-12 |
 | Entscheidung durch Rolle | Redakteur:in |
 | Freigabeumfang | DE als Quelle der Wahrheit; EN synchronisiert mit Draft/Review-Transparenz; v2.5-Finalscope Quellen/Links |
-| Restrisiken akzeptiert | EN ohne native finale Vollfreigabe; Staatenprofil-Gesamtaktualität v2.6/backlog; Publisher-Sichtprüfung offen |
-| Tag-Freigabe `v2.5.0` | offen |
+| Restrisiken akzeptiert | EN ohne native finale Vollfreigabe; Staatenprofil-Gesamtaktualität v2.6/backlog; 75 Projektwarnungen aus `editorial-quality` als dokumentiertes Restrisiko akzeptiert |
+| Tag-Freigabe `v2.5.0` | erteilt am 2026-05-12 |
 
 Kurzbegründung:
 
-> v2.5.0 ist metadaten-, quellen- und buildbezogen auf den finalen Release vorbereitet. Eine finale Veröffentlichung/Tag-Freigabe wird erst nach Abschluss von Worktree-Endcheck unmittelbar vor Commit/Tag und Publisher-Sichtprüfung ausgesprochen.
+> v2.5.0 ist metadaten-, quellen- und buildbezogen final freigegeben. Publisher-Sichtprüfung, Publish-Freigabe und Tag-Freigabe `v2.5.0` wurden am 2026-05-12 erteilt; die dokumentierten Warnungen bleiben als akzeptiertes Restrisiko transparent.
 
 ---
 
@@ -43,7 +43,7 @@ Kurzbegründung:
 
 | Prüfung | Ergebnis | Nachweis | Bemerkung |
 |---|---|---|---|
-| Git-Status sauber und synchron | offen bis Endcheck | `git status --short --branch` | Vor Edits sauber, Branch `release_candidate` ahead 13. Nach Abschluss erneut prüfen. |
+| Git-Status sauber und synchron | erledigt im Endcheck | `git status -sb`, `git rev-list --left-right --count origin/release_candidate...release_candidate`, GitHub-Orchestrator | `release_candidate` und `origin/release_candidate` synchron; GitHub-Orchestrator auf Commit `2ccbe8b` `success`; `git diff --check` sauber. |
 | `git diff --check` sauber | erledigt | Terminalausgabe 2026-05-12 | Keine Ausgabe / keine Whitespace-Fehler. |
 | Frontmatter-Gate DE/EN bestanden | erledigt | `Select-String '^(lang|language|lang-version):'` | Keine verbotenen Content-Sprachkeys gefunden. |
 | Keine Content-Keys `lang`, `language`, `lang-version` | erledigt | Terminalausgabe | `content_lang` bleibt zulässiger Schlüssel. |
@@ -142,8 +142,8 @@ Freigabeaussage EN:
 | PDF-Fonts: Twemoji Mozilla | bestanden mit Textlayer-Warnung | `pdffonts` DE/EN, `editorial-quality` | TwemojiMozilla eingebettet; `pypdf`-Textlayer-Replacements bleiben als Warnung sichtbar, ohne Sichtbefund kein harter Font-/Glyphenfehler. |
 | PDF-Fonts: ERDA CC-BY CJK | bestanden im Release-Scope | `pdffonts` / Publisher-Einschaetzung | CJK-Fonts decken den v2.5.0-Scope ab; echte Missing-character-Logsignale bleiben bei Bedarf separat zu pruefen. |
 | `editorial-quality` Release-Profil | bestanden mit Warnungen | `logs/quality/*-release-editorial-acceptance.*`, dokumentiert in `gitbook-worker-2.9.2-delivery-review-v2.5.0.md` | DE 0 blocked/0 fail/35 warn/7 info; EN 0/0/40/7; Project 0/0/75/8. |
-| Sichtprüfung DE PDF | technisch stichprobengeprueft | Seite 73, `pypdf`-/Textlayer-Abgleich, Quality-Dossier | Symbole sichtbar intakt; Textlayer-Replacements als Accessibility-/Copy-Paste-Warnung eingeordnet. Vollstaendige Publisher-Sichtpruefung bleibt Final-Gate. |
-| Sichtprüfung EN PDF | technisch stichprobengeprueft | Quality-Dossier, PDF-Metadaten | Keine harten Quality-Fails; vollstaendige Publisher-Sichtpruefung bleibt Final-Gate. |
+| Sichtprüfung DE PDF | Publisher-Sichtpruefung freigegeben | Seite 73, `pypdf`-/Textlayer-Abgleich, Quality-Dossier, Publisher-Freigabe 2026-05-12 | Symbole sichtbar intakt; Textlayer-Replacements als Accessibility-/Copy-Paste-Warnung eingeordnet und als Restrisiko akzeptiert. |
+| Sichtprüfung EN PDF | Publisher-Sichtpruefung freigegeben | Quality-Dossier, PDF-Metadaten, Publisher-Freigabe 2026-05-12 | Keine harten Quality-Fails; Textlayer-Warnungen als Restrisiko akzeptiert. |
 
 ---
 
@@ -164,14 +164,14 @@ Freigabeaussage EN:
 | Prüfung | Ergebnis | Nachweis | Bemerkung |
 |---|---|---|---|
 | Redakteur-Finalreview abgeschlossen | erledigt | `redaktioneller-durchgang-de-v2.5.0.md`, dieses Protokoll | DE ist Quelle der Wahrheit; Restrisiken dokumentiert. |
-| Publisher-Buildfreigabe abgeschlossen | offen | `gitbook-worker-2.9.2-delivery-review-v2.5.0.md`, Sichtprüfung | 2.9.2-Quality-Gate ohne Fails; Warnungen vor Tag-Freigabe priorisieren oder als Restrisiko dokumentieren. |
-| Finaler Worktree geprüft | offen | | |
-| Tag `v2.5.0` vorbereitet | offen | | |
-| GitHub-/Zenodo-Releasebeschreibung final | vorbereitet | `.zenodo.json`, Release Notes | GitHub-Release selbst noch nicht angelegt/veroeffentlicht. |
+| Publisher-Buildfreigabe abgeschlossen | erteilt | `gitbook-worker-2.9.2-delivery-review-v2.5.0.md`, Sichtprüfung, Freigabe 2026-05-12 | 2.9.2-Quality-Gate ohne Fails; Warnungen als dokumentiertes Restrisiko akzeptiert. |
+| Finaler Worktree geprüft | erledigt | `git status -sb`, `git diff --check`, GitHub-Orchestrator | `release_candidate` und `origin/release_candidate` synchron; Remote-Orchestrator `success`. |
+| Tag `v2.5.0` vorbereitet | freigegeben | Tag-Freigabe 2026-05-12 | Tag nach Main-Merge auf den finalen Release-Stand setzen. |
+| GitHub-/Zenodo-Releasebeschreibung final | freigegeben zur Veröffentlichung | `.zenodo.json`, Release Notes | GitHub-Release kann nach Tag-Erstellung angelegt/veröffentlicht werden. |
 
 Finale Aussage:
 
-> Final-Gate-Stand: redaktionell vorbereitet und technisch mit gitbook_worker 2.9.2 ohne harte Quality-Fails reproduziert, aber keine Tag-/Publisher-Freigabe, solange Publisher-Sichtpruefung, Warnungs-/Restrisikoentscheidung, finaler Worktree/Index-Check und bewusste Tag-Entscheidung offen sind.
+> Final-Gate-Stand: redaktionell vorbereitet, technisch mit gitbook_worker 2.9.2 ohne harte Quality-Fails reproduziert und am 2026-05-12 durch Publish-/Publisher- und Tag-Freigabe geschlossen. Die verbleibenden Warnungen sind als Restrisiko dokumentiert und akzeptiert.
 
 ---
 
@@ -190,7 +190,7 @@ Diese Teilzertifizierung betrifft nur die redaktionelle A4-Frage aus der Anhang-
 
 **Befund:** Der Scan fand 64 Kandidatenstellen, davon 6 `review-high`-Treffer. Die `review-high`-Treffer liegen im P.2-Papertext bzw. dessen Anhangserklärungen; die neu verdichteten Kapitel-6-Stellen bleiben im Anforderungs-, Roadmap- und Zielrahmen. Die Treffer werden als redaktionell prüfpflichtige Formulierungen dokumentiert, nicht als juristische Zertifizierung.
 
-**Entscheidung:** Für v2.5.0 ist A4 als Release-Check erfüllt mit Restrisiko. CIVITAS wird nicht als rechtlich geprüfte Plattform dargestellt. Vor Finalfreigabe bleiben Publisher-Sichtprüfung, finaler Worktree/Index-Check und bewusste Tag-Freigabe offen. Diese Aussage ist keine Rechtsberatung.
+**Entscheidung:** Für v2.5.0 ist A4 als Release-Check erfüllt mit Restrisiko. CIVITAS wird nicht als rechtlich geprüfte Plattform dargestellt. Publisher-Sichtprüfung, finaler Worktree/Index-Check und Tag-Freigabe wurden am 2026-05-12 geschlossen. Diese Aussage ist keine Rechtsberatung.
 
 ---
 
@@ -211,7 +211,7 @@ Diese Teilzertifizierung dokumentiert den Arbeitsstand zu A6 aus der Anhang-M-Be
 
 **Befund:** Die Publish-Artefakte wurden nach Integration des gitbook_worker-2.9.2-Pakets, nach der redaktionellen Kapitel-8-Konsolidierung und nach der §10.2.1-Synchronisierung neu erzeugt. DE- und EN-Orchestrator liefen erfolgreich durch. Der integrierte `editorial-quality`-Lauf im `release`-Profil erzeugte fuer DE, EN und Project jeweils `passed_with_warnings` mit 0 `blocked` und 0 `fail`. Die frueheren `pdf.text.replacement_glyph`-Fails aus 2.9.0 bleiben als `pdf.text.extraction_replacement`-Warnungen mit Seitenhinweisen klassifiziert. Das entspricht der visuellen Stichprobe: Die Symbole sind in der PDF sichtbar intakt, waehrend `pypdf` im Textlayer Replacement-Zeichen extrahiert. Der lokale Windows-Lauf benoetigte weiterhin einen repo-lokalen `LOCALAPPDATA`-Buildkontext, damit Font-Caches und Altstubs nicht in den PDF-Build eingreifen.
 
-**Entscheidung:** Das fruehere harte Glyphen-/Font-Gate aus 2.9.0 wird fuer v2.5.0 durch gitbook_worker 2.9.2 weiterhin als geschlossen bewertet. A6 ist fuer den aktuellen v2.5.0-Artefaktstand technisch erfuellt, aber nicht als finale Publisher-Freigabe zu verstehen. Vor A8 bleiben der finale Worktree-/Index-Check, die bewusste Publisher-Sichtpruefung, die Einordnung der 75 Projektwarnungen und die Tag-Entscheidung offen. Fuer spaetere Releases bleibt der Hinweis bestehen, PDF-Laeufe nicht parallel gegen dieselben Ausgabepfade zu starten.
+**Entscheidung:** Das fruehere harte Glyphen-/Font-Gate aus 2.9.0 wird fuer v2.5.0 durch gitbook_worker 2.9.2 weiterhin als geschlossen bewertet. A6 ist fuer den aktuellen v2.5.0-Artefaktstand technisch erfuellt und am 2026-05-12 durch finale Publisher-Freigabe, Sichtpruefung, Warnungsentscheidung und Tag-Entscheidung geschlossen. Fuer spaetere Releases bleibt der Hinweis bestehen, PDF-Laeufe nicht parallel gegen dieselben Ausgabepfade zu starten.
 
 ---
 
@@ -229,7 +229,7 @@ Diese Teilzertifizierung konkretisiert die A7-Anweisung: P.2-Compliance, Kapitel
 | Quellen-/Linkpruefung | erfüllt im Prioritaetsscope | A5 P.2 plus manueller v2.5-Prioritaetsreview vom 2026-05-05. |
 | Quality-Tool-Ergebnisse | dokumentiert | Link-Audit, Sources-Export, AI-Referenztool als nicht-autoritativer Hinweis und A4-Rechtsscanner sind im Protokoll verankert. |
 
-**Entscheidung:** A7 ist als Zertifizierungsdokumentation fuer CIVITAS P.2, Kapitel 6 und die v2.5-Prioritaetsreferenzen erfuellt. Das Gesamtprotokoll bleibt ohne Tag-Freigabe, weil A8, finale Publisher-Freigabe und vollstaendige EN-Freigabe noch nicht geschlossen sind.
+**Entscheidung:** A7 ist als Zertifizierungsdokumentation fuer CIVITAS P.2, Kapitel 6 und die v2.5-Prioritaetsreferenzen erfuellt. Das Gesamtprotokoll ist mit Tag-Freigabe und Publisher-Freigabe vom 2026-05-12 geschlossen; die vollstaendige native EN-Freigabe bleibt transparenter Folgeauftrag und kein v2.5.0-Releaseblocker.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 version: 1.0.0
 date: 2026-05-12
-status: technical-package-ready-with-erda-warnings
+status: technical-package-ready-release-approved-with-erda-warnings
 target_release: "gitbook_worker v2.9.2"
 review_role: Redakteur:in
 source_package: "packages/gitbook-worker/gitbook_worker-2.9.2-py3-none-any.whl"
@@ -10,6 +10,7 @@ supersedes: "release-docs/v2.5.0/gitbook-worker-2.9.1-delivery-review-v2.5.0.md"
 history:
   - "1.0.0: 2026-05-12 - Technische ERDA-Lieferpruefung fuer gitbook_worker v2.9.2 dokumentiert."
   - "1.0.1: 2026-05-12 - Artefaktmetriken und Quality-Zaehler nach ERDA-Buch-Namenspass aktualisiert."
+  - "1.0.2: 2026-05-12 - Publish-/Publisher- und Tag-Freigabe mit akzeptierten Warnungen dokumentiert."
 ---
 
 # Lieferreview: gitbook_worker v2.9.2
@@ -24,9 +25,9 @@ wurden auf den neuen Tarball umgestellt und die DE/EN-Publish-Artefakte wurden
 lokal neu erzeugt. Das integrierte `editorial-quality`-Gate endet weiterhin mit
 `passed_with_warnings`, 0 `blocked` und 0 `fail`.
 
-ERDA ist damit nicht automatisch final release-freigegeben. Die verbleibenden
-Warnungen sind redaktionell zu priorisieren oder als Restrisiko zu dokumentieren;
-die Publisher-Sichtpruefung bleibt vor Tag/Release separat erforderlich.
+ERDA ist damit final release-freigegeben. Die verbleibenden Warnungen wurden am
+2026-05-12 als dokumentiertes Restrisiko akzeptiert; Publish-Freigabe,
+Publisher-Sichtpruefung und Tag-Freigabe `v2.5.0` sind erteilt.
 
 ## Lieferumfang geprueft
 
@@ -44,8 +45,8 @@ fuer DE und EN erfolgreich ausgefuehrt.
 
 | Artefakt | Seiten | Dateigroesse nach Rebuild | CreationDate | Ergebnis |
 |---|---:|---:|---|---|
-| `de/publish/das-erda-buch.pdf` | 858 | 4403173 bytes | `D:20260512130526+02'00'` | Build erfolgreich |
-| `en/publish/the-erda-book.pdf` | 826 | 4421247 bytes | `D:20260512125449+02'00'` | Build erfolgreich |
+| `de/publish/das-erda-buch.pdf` | 858 | 4403971 bytes | `D:20260512220848+02'00'` | Build erfolgreich; finaler RC-Artefaktstand |
+| `en/publish/the-erda-book.pdf` | 826 | 4421682 bytes | `D:20260512220028+02'00'` | Build erfolgreich; finaler RC-Artefaktstand |
 
 ## ERDA-Reproduktionslauf
 
@@ -102,12 +103,12 @@ Die Projekt-Warnungen verteilen sich im 2.9.2-Lauf wie folgt:
 | Technische Paketuebergabe | annehmbar |
 | Repo-Integration der Version | annehmbar, wenn Worker-Pins auf 2.9.2 zeigen |
 | ERDA-Quality-Gate | `passed_with_warnings`, keine harten Befunde |
-| ERDA-Releasefreigabe | noch manuell zu entscheiden; Warnungen und Publisher-Sichtpruefung bleiben offen |
-| Publisher-Freigabe | nach Sichtpruefung, Warnungspriorisierung und finaler Metadatenkonsistenz moeglich |
+| ERDA-Releasefreigabe | erteilt am 2026-05-12; Warnungen als dokumentiertes Restrisiko akzeptiert |
+| Publisher-Freigabe | erteilt am 2026-05-12 nach Sichtpruefung, Warnungsentscheidung und finaler Metadatenkonsistenz |
 
 ## Naechste Schritte
 
-1. Worker-Pins in `requirements.txt` und `.github/workflows/orchestrator.yml` auf 2.9.2 committen.
-2. Finaldocs und Release-Metadaten auf neue PDF-Groessen, Seitenzahlen und Quality-Zaehler pruefen.
-3. Die 75 Projektwarnungen priorisieren oder als bewusstes Restrisiko dokumentieren.
-4. Vor Tag/Publisher-Freigabe einen finalen Worktree-/Index-Endcheck und die bewusste Tag-Entscheidung ausfuehren.
+1. Worker-Pins in `requirements.txt` und `.github/workflows/orchestrator.yml` auf 2.9.2 sind committed.
+2. Finaldocs und Release-Metadaten wurden auf PDF-Groessen, Seitenzahlen und Quality-Zaehler geprueft.
+3. Die 75 Projektwarnungen sind als bewusstes Restrisiko dokumentiert und akzeptiert.
+4. Nach Main-Merge den freigegebenen Tag `v2.5.0` setzen und pushen.

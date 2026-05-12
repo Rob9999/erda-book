@@ -3,7 +3,7 @@
 **Release:** v2.5.0  
 **Release name:** Democratic Knowledge  
 **Stand:** 2026-05-12
-**Status:** Final-Gate-Stand nach gitbook_worker 2.9.2 dokumentiert; Tag-/Publisher-Freigabe noch offen
+**Status:** Final-Gates nach gitbook_worker 2.9.2 geschlossen; Publish-/Publisher- und Tag-Freigabe erteilt
 **Arbeitsrolle:** Redakteur:in, mit Zuarbeit Writer, Editor, Lektor, Native gb-en Translator und Publisher
 
 ---
@@ -24,7 +24,7 @@ Ein Final-Release darf erst gesetzt werden, wenn alle Muss-Gates geschlossen sin
 | Version final auf `v2.5.0` gesetzt, nicht `v2.5.0-rc1` | ja | erledigt | README, CFF, `.zenodo.json`, Release Notes, publish.yml |
 | Release name final festgelegt | ja | erledigt | `Democratic Knowledge` |
 | Channel-/Branch-Aussage final konsistent | ja | erledigt mit Hinweis | README: finale v2.5.0-Vorbereitung auf `release_candidate`; stabiler Kanal nach Merge/Tag: `main` |
-| `release_candidate` vor Merge/Tag sauber und synchron | ja | erledigt mit Hinweis | 2026-05-05: sauberer Arbeitsbaum vor Edits, Branch `release_candidate` ahead 13 |
+| `release_candidate` vor Merge/Tag sauber und synchron | ja | erledigt | Endcheck 2026-05-12: `release_candidate` und `origin/release_candidate` synchron, GitHub-Orchestrator `success` |
 
 ---
 
@@ -92,7 +92,7 @@ Ein Final-Release darf erst gesetzt werden, wenn alle Muss-Gates geschlossen sin
 | `editorial-quality` Release-Profil bestanden | ja | erledigt mit Warnungen | 2.9.2-Lauf nach ERDA-Buch-Namenspass: DE `passed_with_warnings` 0/0/35/7, EN `passed_with_warnings` 0/0/40/7, Project `passed_with_warnings` 0/0/75/8 |
 | Markdown/PDF-Layout-Scan durchgeführt | ja | ersetzt durch 2.9.2-Qualitaetsdossier plus historische Scans | `gitbook-worker-2.9.2-delivery-review-v2.5.0.md`; alte Layoutscans bleiben Referenz fuer Restbefunde |
 | Generierte Markdown-Artefakte plausibel | ja | erledigt im Stichprobenscope | Kapitel 6, P.2, Kapitel 13.8, Titeldatum und 2.9.2-Rebuild geprueft |
-| Lokale Sichtprüfung der PDFs abgeschlossen | ja | technisch stichprobengeprueft mit Warnungen | `editorial-quality`, `pdftotext`/`pypdf`-Stichproben, Sichtpruefung Seite 73; volle Publisher-Sichtpruefung bleibt Final-Gate |
+| Lokale Sichtprüfung der PDFs abgeschlossen | ja | Publisher-Sichtpruefung freigegeben | `editorial-quality`, `pdftotext`/`pypdf`-Stichproben, Sichtpruefung Seite 73 und Publisher-Freigabe 2026-05-12; Textlayer-Warnungen als Restrisiko akzeptiert |
 | Build erzeugt keine stillschweigenden Metadatenänderungen | ja | erledigt im RC-Arbeitsstand | Datumsstand 2026-05-12 bewusst in README/book.json/CFF/Zenodo synchronisiert |
 
 ---
@@ -101,12 +101,12 @@ Ein Final-Release darf erst gesetzt werden, wenn alle Muss-Gates geschlossen sin
 
 | Prüfschritt | Muss | Status | Nachweis / Datei |
 |---|---:|---|---|
-| Zertifizierungsprotokoll ausgefüllt | ja | erledigt fuer A4-A7 / Tag-Freigabe offen | `release-certification-v2.5.0.md` |
+| Zertifizierungsprotokoll ausgefüllt | ja | erledigt; Tag-Freigabe erteilt | `release-certification-v2.5.0.md` |
 | Content-Freeze erklärt | ja | erledigt | `release-certification-v2.5.0.md` |
 | Nur Release-Fixes nach Freeze zugelassen | ja | erledigt | `release-certification-v2.5.0.md` |
 | Redakteur-Finalreview dokumentiert | ja | erledigt | `redaktioneller-durchgang-de-v2.5.0.md`, Zertifizierungsprotokoll |
-| Publisher-Buildfreigabe dokumentiert | ja | offen | Zertifizierungsprotokoll |
-| Finaler Tag `v2.5.0` erst nach geschlossenem Gate gesetzt | ja | offen | Git-Tag / Release |
+| Publisher-Buildfreigabe dokumentiert | ja | erteilt | Zertifizierungsprotokoll; Publish-/Publisher-Freigabe 2026-05-12 |
+| Finaler Tag `v2.5.0` erst nach geschlossenem Gate gesetzt | ja | Gate geschlossen; Tag freigegeben | Tag-Freigabe `v2.5.0` 2026-05-12; Tag nach Main-Merge setzen |
 
 ---
 
@@ -116,4 +116,4 @@ Ein Final-Release darf erst gesetzt werden, wenn alle Muss-Gates geschlossen sin
 - DE ist die Quelle der Wahrheit; EN wird synchronisiert, aber ohne native finale Vollfreigabe als Draft/Review ausgeliefert.
 - Für den v2.5-Finalscope gelten DOI/Zenodo, offizielle EU-/Eurostat-Quellen und primäre Rechts-/Programmquellen als maßgeblich.
 - Das AI-Referenztool wurde als `--dry-run`/Precheck genutzt; keine AI-Aussage wird ohne manuelle Prüfung übernommen.
-- Offen bleiben vor Tag/Release: Publisher-Sichtprüfung der 2.9.2-PDFs, finaler Worktree-Endcheck unmittelbar vor Commit/Tag, bewusste Einordnung der 75 Projektwarnungen und Tag-Freigabe.
+- Vor Tag/Release geschlossen am 2026-05-12: Publisher-Sichtprüfung der 2.9.2-PDFs, finaler Worktree-/Remote-Endcheck, bewusste Einordnung der 75 Projektwarnungen als dokumentiertes Restrisiko und Tag-Freigabe `v2.5.0`.

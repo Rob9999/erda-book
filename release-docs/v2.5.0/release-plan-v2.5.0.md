@@ -90,7 +90,7 @@ Release 2.5.0 markiert die **konzeptionelle Vertiefung** des ERDA-Buches. Währe
 - [x] Frontmatter DE/EN normalisiert (`content_id`, `content_lang`, EN `source`, `status`; keine Content-Keys `lang`, `language`, `lang-version` wegen PDF-Fontfallback)
 - [x] Konsistenzprüfung gegen Mini-Wording-Set
 - [x] Worker-Roles-Durchgang „Ethik vor Strategie“ integriert (DE + EN)
-- [ ] Content-Review und ggf. Integration als Buchkapitel
+- [x] Content-Review und ggf. Integration als Buchkapitel
 - [x] Publish-Artefakte (PDF/MD) mit v2.5.0-Metadaten erneuert (DE + EN, gitbook_worker 2.9.2; Quality-Gate `passed_with_warnings`, 0 blocked, 0 fail)
-- [x] Zertifizierungsprotokoll erstellt; finale Freigabeentscheidung bleibt offen
-- [ ] Tag und Release
+- [x] Zertifizierungsprotokoll erstellt; finale Freigabeentscheidung erteilt
+- [x] Tag und Release freigegeben

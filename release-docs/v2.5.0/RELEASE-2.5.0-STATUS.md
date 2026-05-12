@@ -2,7 +2,7 @@
 
 **Codename:** Democratic Knowledge
 **Stand:** 2026-05-12
-**Phase:** Finale v2.5.0-Vorbereitung auf `release_candidate`; gitbook_worker 2.9.2 integriert, Tag/Publisher-Freigabe offen
+**Phase:** Final-Gates geschlossen; gitbook_worker 2.9.2 integriert, Publish-/Publisher- und Tag-Freigabe erteilt
 
 ---
 
@@ -21,10 +21,10 @@
 | 9 | Querverweise (11.2, 3.5, 4.3.5 → Anhang P.1) | ✅ | DE + EN, nach M/P-Entscheidung aktualisiert |
 | 10 | SUMMARY.md + book.json aktualisiert | ✅ | DE + EN, Commit e7e5005 |
 | 11 | Konsistenzprüfung Mini-Wording-Set | ✅ | DE + EN ergänzt, v2.5-Begriffe aufgenommen |
-| 12 | Content-Freeze | ⏳ | nach finaler Redakteur-/Publisher-Freigabe |
-| 13 | Publish-Artefakte (PDF/MD) | ✅ | v2.5.0-Lauf DE/EN mit gitbook_worker 2.9.2 erfolgreich; nach Kapitel-8-Anhangserweiterung (Anhänge 8.A–8.D), §10.2.1 und ERDA-Buch-Namenspass DE 858 Seiten, EN 826 Seiten |
-| 14 | Zertifizierungsprotokoll | ⏳ | Final-Gates und 2.9.2-Quality-Gate dokumentiert; Tag-/Publisher-Entscheidung offen |
-| 15 | Final Review & Tag | ⏳ | |
+| 12 | Content-Freeze | ✅ | erklärt, gehalten und nur durch Release-Fixes/Metadatenkorrekturen ergänzt |
+| 13 | Publish-Artefakte (PDF/MD) | ✅ | v2.5.0-Lauf DE/EN mit gitbook_worker 2.9.2 erfolgreich; nach Kapitel-8-Anhangserweiterung (Anhänge 8.A–8.D), §10.2.1, ERDA-Buch-Namenspass und §3.3.5-Checklist-Fix DE 858 Seiten / 4.403.971 Bytes, EN 826 Seiten / 4.421.682 Bytes |
+| 14 | Zertifizierungsprotokoll | ✅ | Final-Gates und 2.9.2-Quality-Gate dokumentiert; Publish-/Publisher- und Tag-Freigabe erteilt |
+| 15 | Final Review & Tag | ✅ | Freigabe erteilt; Tag `v2.5.0` nach Main-Merge setzen |
 | 16 | Root-Attribution + Metadaten-Gate | ✅ | `ATTRIBUTION.md`, README/book/CFF/Zenodo synchronisiert |
 | 17 | Frontmatter-Normalisierung | ✅ | DE/EN `content_id`, `content_lang`, EN `source`, `status`; keine Content-Keys `lang`, `language`, `lang-version` wegen PDF-Fontfallback |
 | 18 | EN-Querverweise Appendix P.1 | ✅ | Kapitel 3.5, 4.3.5, 11.2 und 11.3 aktualisiert |
@@ -40,11 +40,8 @@
 
 ## Offene Punkte
 
-- Finaler Review der Kapitelverweise nach Frontmatter- und Pfadnormalisierung
-- Content-Freeze nach Redakteur-Freigabe
-- 2.9.2-Publish-Artefakte in finaler Sichtprüfung bestätigen
-- Zertifizierungsprotokoll final entscheiden
-- Final Review & Tag
+- Keine offenen v2.5.0-Releaseblocker vor Main-Merge/Tag.
+- Folgeauftrag: native finale EN-Vollfreigabe und vollstaendige Staatenprofil-Aktualitaet fuer spaetere Releases.
 
 ## Erledigte Punkte
 

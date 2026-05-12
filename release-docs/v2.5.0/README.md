@@ -2,7 +2,7 @@
 
 **Codename:** Democratic Knowledge  
 **Datum:** 2026-05-12
-**Status:** Finale v2.5.0-Vorbereitung auf `release_candidate`; Tag/Publisher-Freigabe noch separat
+**Status:** Final-Gates geschlossen; Publish-/Publisher- und Tag-Freigabe erteilt; Main-Merge und Tag `v2.5.0` freigegeben
 
 ## Dokumente in diesem Ordner
 
@@ -12,8 +12,8 @@
 | [release-notes-v2.5.0.md](release-notes-v2.5.0.md) | Release Notes (DE) |
 | [release-notes-v2.5.0-en.md](release-notes-v2.5.0-en.md) | Release Notes (EN) |
 | [RELEASE-2.5.0-STATUS.md](RELEASE-2.5.0-STATUS.md) | Release-Status (erledigt / offen) |
-| [final-release-checklist-v2.5.0.md](final-release-checklist-v2.5.0.md) | Draft der verbindlichen Final-Release-Gates |
-| [release-certification-v2.5.0.md](release-certification-v2.5.0.md) | Draft des Zertifizierungsprotokolls |
+| [final-release-checklist-v2.5.0.md](final-release-checklist-v2.5.0.md) | Verbindliche Final-Release-Gates |
+| [release-certification-v2.5.0.md](release-certification-v2.5.0.md) | Zertifizierungsprotokoll mit geschlossener Publish-/Publisher- und Tag-Freigabe |
 | [gitbook-worker-quality-evaluation-v2.5.0.md](gitbook-worker-quality-evaluation-v2.5.0.md) | Draft-Bewertung der gitbook_worker-Quality-Tools |
 | [gitbook-worker-qualitaetskompass-redaktionsreview-v2.5.0.md](gitbook-worker-qualitaetskompass-redaktionsreview-v2.5.0.md) | Redaktionelles Review und ERDA-Ergaenzungen zum gitbook_worker-v2.9.0-Pflichtenheft `Qualitaetskompass` |
 | [gitbook-worker-2.9.0-delivery-review-v2.5.0.md](gitbook-worker-2.9.0-delivery-review-v2.5.0.md) | Technische Lieferpruefung der gitbook_worker-v2.9.0-Qualitaetskompass-Artefakte gegen ERDA |
