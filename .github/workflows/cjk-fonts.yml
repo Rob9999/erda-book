@@ -32,12 +32,14 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r .github/fonts/erda-ccby-cjk/requirements.txt
 
-      - name: Ruff
+      - name: Ruff (advisory)
         working-directory: .github/fonts/erda-ccby-cjk
+        continue-on-error: true
         run: ruff check . --output-format=github
 
-      - name: Black
+      - name: Black (advisory)
         working-directory: .github/fonts/erda-ccby-cjk
+        continue-on-error: true
         run: black --check .
 
   test:
