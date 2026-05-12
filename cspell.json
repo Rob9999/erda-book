@@ -1,0 +1,44 @@
+{
+    "version": "0.2",
+    "language": "en-GB,en-US",
+    "useGitignore": true,
+    "ignorePaths": [
+        ".venv/**",
+        ".git/**",
+        "de/publish/temp/**",
+        "en/publish/temp/**",
+        "tmp/**",
+        "logs/**",
+        "packages/**",
+        "fonts-storage/**",
+        "**/*.pdf",
+        "**/*.png",
+        "**/*.zip",
+        "**/*.whl",
+        "**/*.tar.gz"
+    ],
+    "files": [
+        "en/content/**/*.md"
+    ],
+    "dictionaryDefinitions": [
+        {
+            "name": "erda-terms",
+            "path": "./.cspell/erda-terms.txt",
+            "addWords": true
+        }
+    ],
+    "dictionaries": [
+        "erda-terms"
+    ],
+    "ignoreRegExpList": [
+        "/^---[\\s\\S]*?---/gm",
+        "/https?:\\/\\/[^\\s)]+/g",
+        "/(?:\\.\\.\\/|\\.\\/)[^\\s)]+/g",
+        "/&#x?[0-9A-Fa-f]+;[A-Za-z]+/g",
+        "/&#x?[0-9A-Fa-f]+;/g",
+        "/`[^`]+`/g",
+        "/<[^>]+>/g",
+        "/^[\\s>*|:_\\-#\\[\\]().0-9]+$/gm"
+    ],
+    "words": []
+}

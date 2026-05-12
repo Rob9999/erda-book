@@ -1096,7 +1096,7 @@ In the dystopian variant, civilisation is controlled from outside by technocrati
 | **Reproduction** | Prescribed reproduction quotas, genetic selection        |
 | **Learning**     | Curricula defined by AI evaluation, knowledge filtering  |
 | **Connection**   | Network chips, instrumental interaction                  |
-| **Expression**   | Censored creativity engines, real-time content moderation |
+| **Expression**   | Censored Creativity Engines, real-time content moderation |
 | **Harmony**      | Social credit scores, sanctions for deviants            |
 
 > 🎛️ **Boxes:**
@@ -3280,7 +3280,7 @@ _Transformation into the European Defence Alliance (EDA 2.0)_
 * _Introduction of an Article‑5 equivalent (automatic mutual‑assistance obligation)_
 * _Joint intelligence, cyber defence and critical‑infrastructure projects_
 * _Dedicated budget, integrated command structure that is not, or only with great difficulty, attackable and has a rapid decision‑making mode: democratic, but not easily blocked_
-* _Not fully sabotagable, as divided into independent DSN nodes_
+* _Not fully vulnerable to sabotage, as divided into independent DSN nodes_
 * _Focus on resilience in the Arctic–Atlantic corridor (Iceland, Greenland, North Sea/North Atlantic)_
 
 > _“A particular focus is on developing a DSN North Sea/North Atlantic node to protect Arctic sea routes and critical infrastructure – in cooperation with Iceland, Norway, Greenland and Canada (see the ARKTIS concept [3]).”_
@@ -9532,15 +9532,15 @@ _**International cooperation and citizen participation**_
 * Develop communication strategies that convincingly convey the shift from traditionally national ideas of space towards a collective, democratically governed space.
 * Strengthen cooperation with international partners and regional alliances in order to harness synergies and establish global standards in spaceflight.
 
-### 9.6.2 Here is the possible solution
+### 9.6.2 Implementation Pathway: From Concept to Infrastructure
 
-_**Here is the possible solution**_
+_**Implementation Pathway: From Concept to Infrastructure**_
 
-_Elaboration of concrete implementation steps based on the recommendations of Chapter 5.1._
+_Elaboration of concrete implementation steps based on the strategic preconditions set out in [§ 9.6.1 Operationalisation](#961-operationalisation)._
 
-_Chapter 5.1 set out strategic recommendations for implementing the SPACE concept. Chapter 5.2 now sketches initial concrete implementation pathways and institutional models for realising these recommendations._
+[§ 9.6.1 Operationalisation](#961-operationalisation) sets out the preconditions for implementing the SPACE concept: goal definition, financing, governance, technical standards as well as international cooperation and citizen participation. [§ 9.6.2](#962-implementation-pathway-from-concept-to-infrastructure) derives from this the first concrete implementation pathways and institutional models.
 
-_Chapter 5.2 thus forms the bridge between vision (Chapter 5.1) and manifestations (Chapter 5.3 ff. – major projects of the SOLAR ALLIANCE). It enables an orderly, democratically controlled and responsibility‑based ethical transition into the structured build‑up phase of the space civilisation._
+[§ 9.6.2](#962-implementation-pathway-from-concept-to-infrastructure) thus forms the bridge between the preconditions in [§ 9.6.1](#961-operationalisation) and the concrete space structures beginning with [§ 9.6.3 Sphere Station EARTH ONE](#963-sphere-station-earth-one). It enables an orderly, democratically controlled and responsibility‑based ethical transition into the structured build‑up phase of the space civilisation.
 
 > _"A space project is not complete when it stands. It is complete when it is supported."_
 
@@ -19411,7 +19411,7 @@ version: "1.0"
 * Languages: Irish (Gaeilge) and English; Gaeltacht regions
 * UNESCO World Heritage: Brú na Bóinne, Skellig Michael, Clonmacnoise
 * Creative economy: 3.7% of GDP (Creative Ireland)
-* International visibility: 4 Nobel Prizes in Literature (Beckett, Heaney, et al.), leading film festivals, Rugby Six Nations, Olympic participation
+* International visibility: 4 Nobel Prizes in Literature (Yeats, Shaw, Beckett, Heaney), leading film festivals, Rugby Six Nations, Olympic participation
 * Culture as mediator: European Capitals of Culture Cork 2005, Galway 2020
 
 ***

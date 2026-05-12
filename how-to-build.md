@@ -63,6 +63,32 @@ Create a Markdown/PDF layout report after a PDF build:
 
 Interpretation rule: Markdown findings are source risks and can often be fixed before rebuilding. PDF findings are rendered-layout evidence from `pdftotext -bbox-layout`; they require visual review because decorative glyphs, emoji fallback and extracted bounding boxes can produce false positives. Actual right-margin overflow in prose, tables or code blocks is a release-layout issue.
 
+## Spellcheck and proofreading gate before release builds
+
+Before release/publish builds, run spelling and proofreading checks on source Markdown. Treat these reports as editorial review aids: fix clear typos and mojibake, add stable project terms to `.cspell/erda-terms.txt`, and leave conceptual wording decisions to the relevant editorial role.
+
+English content/project-term cspell check:
+
+```powershell
+$cspellOutput = npx.cmd --yes cspell --config cspell.json --no-progress --no-color 2>&1
+$cspellExit = $LASTEXITCODE
+$cspellOutput | Out-File -FilePath logs/quality/cspell-en-YYYY-MM-DD.txt -Encoding utf8
+"cspell exit=$cspellExit"
+```
+
+German LanguageTool check, using the local Markdown preprocessor to keep line numbers stable while removing front matter, tables, code blocks, HTML tags and links:
+
+```powershell
+.\.venv\Scripts\python.exe scripts\quality\prepare_languagetool_markdown.py de\content --output tmp\lt-prepared-de --clean
+$jar = Get-ChildItem tmp\LanguageTool -Recurse -Filter languagetool-commandline.jar | Select-Object -First 1 -ExpandProperty FullName
+$ltOutput = & 'C:\Program Files\Java\jdk-17.0.2\bin\java.exe' -jar $jar -r -l de-DE -c utf-8 --clean-overlapping tmp\lt-prepared-de\content 2>&1
+$ltOutput | Out-File -FilePath logs\quality\languagetool-de-YYYY-MM-DD.txt -Encoding utf8
+```
+
+If LanguageTool is not available locally yet, download and extract the official distribution outside tracked content, for example under `tmp/LanguageTool`. Do not send manuscript text to a public proofreading API for release review unless the publisher explicitly approves that processing path.
+
+Interpretation rule: `cspell` is used for English content, project terminology and obvious encoding/typo residues. German spelling and grammar review is handled by local LanguageTool. Both tools produce false positives for Markdown formatting, citations, names, acronyms and bilingual legal terms; reports require human editorial triage.
+
 ## Prerequisites
 
 - Python (recommended: 3.11.x)

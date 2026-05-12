@@ -99,7 +99,7 @@ version: "1.0"
 * **Sprachen / indigene Kulturen:** Irisch (Gaeilge), Englisch; Gaeltacht-Regionen
 * **UNESCO-Welterbe / Kulturstätten:** Brú na Bóinne, Skellig Michael, Clonmacnoise ([UNESCO](https://whc.unesco.org/en/statesparties/ie))
 * **Kreativwirtschaft:** 3,7 % BIP (Musik, Film, Design; Creative Ireland) ([Dept. Culture](https://www.gov.ie/en/organisation/department-of-tourism-culture-arts-gaeltacht-sport-and-media/))
-* **Internationale Sichtbarkeit:** 4 Nobelpreise Literatur (Beckett, Heaney, cu��), Filmfestivals; Rugby Six Nations; Olympiateilnahmen
+* **Internationale Sichtbarkeit:** 4 Nobelpreise Literatur (Yeats, Shaw, Beckett, Heaney), Filmfestivals; Rugby Six Nations; Olympiateilnahmen
 * **Kultur als Vermittlungsfaktor:** EU Kulturhauptstadt Cork 2005, Galway 2020
 
 ***

@@ -100,7 +100,7 @@ version: "1.0"
 * Languages: Irish (Gaeilge) and English; Gaeltacht regions
 * UNESCO World Heritage: Brú na Bóinne, Skellig Michael, Clonmacnoise
 * Creative economy: 3.7% of GDP (Creative Ireland)
-* International visibility: 4 Nobel Prizes in Literature (Beckett, Heaney, et al.), leading film festivals, Rugby Six Nations, Olympic participation
+* International visibility: 4 Nobel Prizes in Literature (Yeats, Shaw, Beckett, Heaney), leading film festivals, Rugby Six Nations, Olympic participation
 * Culture as mediator: European Capitals of Culture Cork 2005, Galway 2020
 
 ***
