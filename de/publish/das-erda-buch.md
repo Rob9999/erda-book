@@ -1744,7 +1744,11 @@ Demokratie ist kein starres Verwaltungsinstrument, sondern ein lebendiger Resona
 
 ##### ✅ Checkliste: Resonanz im demokratischen Alltag
 
-*
+* [ ] Höre ich anderen aktiv zu, bevor ich antworte oder bewerte?
+* [ ] Nutze ich Fehler und Kritik als Lernimpulse statt als Angriff?
+* [ ] Suche ich bewusst nach Stimmen, die im Dialog bisher fehlen?
+* [ ] Gebe ich Rückmeldungen so, dass sie Entwicklung ermöglichen?
+* [ ] Trage ich dazu bei, dass Beteiligung nicht nur gesammelt, sondern sichtbar weiterverarbeitet wird?
 
 ##### ❓ Mini-Quiz
 

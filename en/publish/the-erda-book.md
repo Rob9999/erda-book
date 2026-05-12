@@ -1759,10 +1759,11 @@ Democracy is not a rigid instrument of administration, but a living space of res
 
 ##### ✅ Checklist: resonance in democratic everyday life
 
-- [ ] Do I use opportunities to give constructive feedback to institutions?
-- [ ] Do I participate in dialogues that explicitly seek mutual understanding?
-- [ ] Do I support the use of technologies that strengthen, rather than weaken, participation?
-- [ ] Do I perceive mistakes as invitations to learn – also in politics?
+* [ ] Do I actively listen to others before I respond or judge?
+* [ ] Do I use mistakes and criticism as learning impulses rather than as attacks?
+* [ ] Do I consciously look for voices that have so far been missing from the dialogue?
+* [ ] Do I give feedback in a way that enables development?
+* [ ] Do I help ensure that participation is not only collected, but visibly processed further?
 
 ##### ❓ Mini quiz
 
