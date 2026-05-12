@@ -1,5 +1,7 @@
 ---
-source: content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/sn-staatenprofil-senegal.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.sn.staatenprofil.senegal
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/sn-staatenprofil-senegal.md
 status: draft
 description: "State: SN, Date: 2025-06-11, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "SN"
@@ -130,7 +132,7 @@ version: "1.0"
 ### 9. Key indicators (short form)
 
 | Indicator                            | 2023 | 2050 (proj.) | 2075 (proj.) | EU average 2024 |
-| ------------------------------------ | ---- | ------------ | ------------ | --------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | GDP (bn USD)                         | 30.8 | 60 (hyp.)    | 95 (hyp.)    | – |
 | Population                           | 18.1 m | 30 m (p) | 40 m (p) | – |
 | Share of renewables (%)              | 31   | 55 (p)       | 70 (p)       | – |

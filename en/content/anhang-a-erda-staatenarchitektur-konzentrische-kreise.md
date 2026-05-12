@@ -1,5 +1,7 @@
 ---
-source: content/anhang-a-erda-staatenarchitektur-konzentrische-kreise.md
+content_id: erda.book.anhang.a.erda.staatenarchitektur.konzentrische.kreise
+content_lang: en
+source: de/content/anhang-a-erda-staatenarchitektur-konzentrische-kreise.md
 status: draft
 ---
 
@@ -19,7 +21,7 @@ The **Charter forms the legal core of ERDA** and is further developed – not re
 Fully integrated member states with democratic constitutions and stable rule of law, ordered by population size (as of 1 January 2024) (see e.g. en.wikipedia.org, "List of European Union member states by population"):
 
 | State       | ISO | Population |
-| ----------- | --- | ---------- |
+| ---- | ---- | ---- |
 | Germany     | DE  | 83 445 000 |
 | France      | FR  | 68 402 000 |
 | Italy       | IT  | 58 989 700 |
@@ -58,7 +60,7 @@ Democracies with high compatibility with ERDA core countries and strategic impor
 These countries already fulfil all ERDA standards, bring robust institutions and strong innovative capacity, and can be associated at the push of a button:
 
 | State                 | ISO | Level of democracy | Constitutional status     | Conditions for integration              | Cooperation               | Partnership level | Core-state potential | Comment                                         |
-| --------------------- | --- | ------------------ | ------------------------- | --------------------------------------- | ------------------------- | ----------------- | --------------------- | ------------------------------------------------ |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | United Kingdom        | GB  | High               | Stable                    | Already ERDA compatible                 | Security, education       | Associated        | 🟢 Yes               | High innovation potential                        |
 | Andorra               | AD  | High               | Stable                    | Already ERDA compatible                 | Tourism, finance          | Associated        | 🟢 Yes               | Alpine bridge between Spain and France          |
 | Iceland               | IS  | High               | Stable                    | Arctic strategy, energy self-sufficiency| Arctic, biodiversity      | Associated        | 🟢 Yes               | Bridge state for the North Sea area             |
@@ -77,7 +79,7 @@ These countries already fulfil all ERDA standards, bring robust institutions and
 These states are on their way to full ERDA compatibility, are pursuing reforms in a targeted way and have clearly defined EU perspectives:
 
 | State         | ISO | Level of democracy | Constitutional status              | Conditions for integration              | Cooperation                 | Partnership level | Core-state potential | Comment                                  |
-| ------------- | --- | ------------------ | ---------------------------------- | --------------------------------------- | --------------------------- | ----------------- | --------------------- | ----------------------------------------- |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | Albania       | AL  | Developing         | Stable (EU candidate country)      | Rule-of-law reform, anti-corruption     | Infrastructure, energy      | Observer          | 🟡 Medium            | Comprehensive reform agenda               |
 | Armenia       | AM  | Developing         | Reform-willing                     | Regional stability                      | Peace work, education       | Observer          | 🟡 Medium            | Needs security guarantees                 |
 | Georgia       | GE  | Developing         | In reform process                  | Democratic resilience                   | Security, culture           | Strategic         | 🟡 Medium            | Geopolitically sensitive                  |
@@ -91,7 +93,7 @@ These states are on their way to full ERDA compatibility, are pursuing reforms i
 Despite internal challenges, these states possess strategic importance and remain important ERDA observers and potential partners:
 
 | State              | ISO | Level of democracy | Constitutional status                                 | Conditions for integration                                           | Cooperation                | Partnership level | Core-state potential | Comment                                                          |
-| ------------------ | --- | ------------------ | ---------------------------------------------------- | -------------------------------------------------------------------- | ------------------------- | ----------------- | --------------------- | ---------------------------------------------------------------- |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | Bosnia and Herzegovina | BA | Fluctuating     | Fragile (Dayton system)                              | State reform, separation of powers                                   | Administration, reconciliation | Observer       | 🔴 Low               | Comprehensive constitutional reform required                      |
 | Israel             | IL  | High               | Unclear constitutional status                         | Clarity on separation of powers                                      | Innovation, security       | Strategic         | 🟡 Medium            | Value-compatible but unstable                                     |
 | Jordan             | JO  | Stable             | Monarchy with reform efforts                          | Continuation of reform paths                                         | Mediation, dialogue        | Strategic         | 🟡 Medium            | Moderate, willing to cooperate                                    |
@@ -107,7 +109,7 @@ Despite internal challenges, these states possess strategic importance and remai
 Non-politically integrated democracies with security-policy and innovation-policy cooperation:
 
 | State      | ISO | Cooperation focus                      |
-| ---------- | --- | -------------------------------------- |
+| ---- | ---- | ---- |
 | Canada     | CA  | Arctic and transatlantic               |
 | Australia  | AU  | Indo-Pacific region                    |
 | New Zealand| NZ  | Indo-Pacific region                    |
@@ -126,7 +128,7 @@ Non-politically integrated democracies with security-policy and innovation-polic
 #### 🛰️ Strategic special roles within ERDA
 
 | Territory/state     | Role within ERDA                           |
-| ------------------- | ------------------------------------------ |
+| ---- | ---- |
 | Greenland           | Raw-material and security strategy (via DK)|
 | Iceland             | North Sea defence and Arctic corridor      |
 | Canada              | Transatlantic and Arctic partnership      |

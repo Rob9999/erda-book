@@ -1,5 +1,7 @@
 ---
-source: content/anhang-g-risikobetrachtung-und-strategische-resilienz-der-erda-initiative.md
+content_id: erda.book.anhang.g.risikobetrachtung.und.strategische.resilienz.der.erda.initiative
+content_lang: en
+source: de/content/anhang-g-risikobetrachtung-und-strategische-resilienz-der-erda-initiative.md
 status: draft
 ---
 
@@ -86,7 +88,7 @@ The successful implementation of the ERDA vision requires early and detailed ide
 ## G.8 Strategic Recommendations for Action
 
 | Priority  | Recommendation                                                                                          |
-| --------- | -------------------------------------------------------------------------------------------------------- |
+| ---- | ---- |
 | Very high | Immediate establishment of an ERDA Democracy Index and an EU cyber‑defence centre                        |
 | Very high | Development of robust European production clusters (FORTERA)                                             |
 | High      | Comprehensive digital education initiative to close the digital divide                                   |

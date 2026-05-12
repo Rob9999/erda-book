@@ -1,5 +1,7 @@
 ---
-source: content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/es-staatenprofil-spanien.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.es.staatenprofil.spanien
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/es-staatenprofil-spanien.md
 status: draft
 description: "State: ES, Date: 2025-06-10, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "ES"
@@ -158,7 +160,7 @@ Transformation 2050–2075: Spain evolves into a green-tech pioneer leading in c
 ### 9. Key indicators (short form)
 
 | **Indicator**                         | **2025** | **2050** | **2075** |
-| ------------------------------------- | -------- | -------- | -------- |
+| ---- | ---- | ---- | ---- |
 | Real GDP (bn EUR)                     | 1,412    | 430.0    | 480.0    |
 | Population (million)                  | 47.9     | 44.9     | 43.0     |
 | Share of renewables (%)               | 46%      | 75%      | 85%      |

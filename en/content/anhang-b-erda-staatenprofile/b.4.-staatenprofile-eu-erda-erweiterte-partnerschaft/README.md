@@ -1,5 +1,7 @@
 ---
-source: content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/README.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.readme
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/README.md
 status: draft
 ---
 

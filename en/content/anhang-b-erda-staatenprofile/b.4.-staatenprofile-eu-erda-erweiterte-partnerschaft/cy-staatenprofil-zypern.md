@@ -1,5 +1,7 @@
 ---
-source: content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/cy-staatenprofil-zypern.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.cy.staatenprofil.zypern
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/cy-staatenprofil-zypern.md
 status: draft
 description: "State: CY, Date: 2025-06-11, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "CY"
@@ -143,7 +145,7 @@ Integration into regional energy projects; stronger innovation landscape
 ### 9. Key indicators (short form)
 
 | Indicator                             | 2025 | 2050 (p) | 2075 (p) |
-| ------------------------------------- | ---- | -------- | -------- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn USD)                          | 34   | 55       | 70       |
 | Population                            | 1.35 m | 1.4 m | 1.35 m |
 | Share of renewables (%)               | 20%  | 45%      | 60%      |

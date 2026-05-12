@@ -1,5 +1,7 @@
 ---
-source: content/anhang-d-executive-compendium-fur-entscheidungstrager/d.4-handlungsleitfaden-and-tool-box.md
+content_id: erda.book.anhang.d.executive.compendium.fur.entscheidungstrager.d.4.handlungsleitfaden.and.tool.box
+content_lang: en
+source: de/content/anhang-d-executive-compendium-fur-entscheidungstrager/d.4-handlungsleitfaden-and-tool-box.md
 status: draft
 ---
 
@@ -69,7 +71,7 @@ This section bundles operational shortcuts for decision-makers. It links Chapter
 ## 📎 Direct links to tools (selection)
 
 | Area | Tool | Purpose |
-| --- | --- | --- |
+| ---- | ---- | ---- |
 | Strategy & communication | `erda-gitbook-kapitel-template.md` | Consistent structure for new chapters, change story. |
 | Participation & education | `interaktive-elemente-checkliste-and-quiz.md` | Planning basis for workshops, learning modules, citizen dialogue. |
 | Quality assurance | `rollenspiel-qualitatssicherungstemplate.md` | Simulate political scenarios, train crisis resilience. |

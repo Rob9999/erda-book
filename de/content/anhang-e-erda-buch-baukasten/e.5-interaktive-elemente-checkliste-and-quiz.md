@@ -1,3 +1,7 @@
+---
+content_id: erda.book.anhang.e.erda.buch.baukasten.e.5.interaktive.elemente.checkliste.and.quiz
+content_lang: de
+---
 # E.5 🧩 Interaktive Elemente (Checkliste & Quiz)
 
 _**E.5 🧩 Interaktive Elemente (Checkliste & Quiz)**_

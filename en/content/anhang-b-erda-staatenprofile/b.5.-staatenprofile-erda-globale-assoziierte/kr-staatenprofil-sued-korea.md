@@ -1,5 +1,7 @@
 ---
-source: content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/kr-staatenprofil-sued-korea.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.kr.staatenprofil.sued.korea
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/kr-staatenprofil-sued-korea.md
 status: draft
 description: "State: KR, Date: 2025-06-10, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "KR"
@@ -149,7 +151,7 @@ version: "1.0"
 ### 9. Key indicators (short form)
 
 | Indicator                            | 2025  | 2050 (p) | 2075 (p) | EU average 2024 |
-| ------------------------------------ | ----- | -------- | -------- | --------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                         | 1.6 T | 2.1 T    | 2.4 T    | n/a |
 | Population                           | 51.8 m | 46 m | 38 m | n/a |
 | Share of renewables (%)              | 9% | 30 (p) | 60 (p) | n/a |

@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this book, please cite it as below. / Wenn Sie dieses Buch verwenden, zitieren Sie es bitte wie folgt."
 title: "The ERDA Book – Democratic Evolution: Strategy, Ethics and the Future of Europe"
-version: "2.0.0"
-date-released: '2026-03-01'
+version: "2.5.0"
+date-released: '2026-05-12'
 doi: "10.5281/zenodo.18827190"
 url: "https://zenodo.org/records/18827190"
 authors:
@@ -21,14 +21,15 @@ license: CC-BY-SA-4.0
 repository-code: "https://github.com/Rob9999/erda-book"
 abstract: >-
   Open-access book on the strategic, ethical and technological renewal of Europe.
-  14 chapters covering AI governance, civic resilience, democratic transformation,
-  strategic sovereignty and coalitions of the willing. Bilingual (DE/EN).
-  Texts: CC BY-SA 4.0; Code: MIT; Fonts: CC BY 4.0 / MIT.
+  Release 2.5.0 deepens the normative foundations of democratic agency through
+  Democratic Knowledge, Appendix M, Appendix P and the CIVITAS Public integration.
+  Bilingual (DE/EN). Texts: CC BY-SA 4.0; Code: MIT; Fonts: CC BY 4.0 / MIT.
   —
   Offenes Buchprojekt zur strategischen, ethischen und technologischen Erneuerung
-  Europas. 14 Kapitel zu KI-Governance, Bürgerresilienz, demokratischer Transformation,
-  strategischer Souveränität und Koalitionen der Willigen. Zweisprachig (DE/EN).
-  Texte: CC BY-SA 4.0; Code: MIT; Fonts: CC BY 4.0 / MIT.
+  Europas. Release 2.5.0 vertieft die normativen Grundlagen demokratischer
+  Handlungsfähigkeit durch Demokratisches Wissen, Anhang M, Anhang P und die
+  CIVITAS-Public-Integration. Zweisprachig (DE/EN). Texte: CC BY-SA 4.0; Code:
+  MIT; Fonts: CC BY 4.0 / MIT.
 keywords:
   - ERDA
   - Europe
@@ -36,6 +37,8 @@ keywords:
   - AI governance
   - democratic resilience
   - coalitions of the willing
+  - CIVITAS
+  - digital democracy
 preferred-citation:
   type: book
   authors:

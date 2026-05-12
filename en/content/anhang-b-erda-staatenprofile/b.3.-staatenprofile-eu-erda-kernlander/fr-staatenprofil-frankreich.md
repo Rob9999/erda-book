@@ -1,5 +1,7 @@
 ---
-source: content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/fr-staatenprofil-frankreich.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.fr.staatenprofil.frankreich
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/fr-staatenprofil-frankreich.md
 status: draft
 description: "State: FR, Date: 2025-06-10, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "FR"
@@ -133,7 +135,7 @@ version: "1.0"
 ### 9. Key indicators
 
 | Indicator                            | 2025  | 2050  | 2075  |
-| ------------------------------------ | ----- | ----- | ----- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                         | 2,822 | 3,300 | 3,600 |
 | Population (million)                 | 68.6  | 64    | 60    |
 | Share of renewables (%)              | 21    | 50    | 75    |

@@ -1,5 +1,7 @@
 ---
-source: content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/cr-staatenprofil-costa-rica.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.cr.staatenprofil.costa.rica
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/cr-staatenprofil-costa-rica.md
 status: draft
 description: "State: CR, Date: 2025-06-12, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "CR"
@@ -132,7 +134,7 @@ version: "1.0"
 ### 9. Key indicators (short form)
 
 | Indicator                              | 2023 | 2050 (proj.) | 2075 (proj.) |
-| -------------------------------------- | ---- | ------------ | ------------ |
+| ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                           | 78   | ~120 (hyp.)  | ~160 (hyp.)  |
 | Population                             | 5.1 m | 5.8 m (hyp.) | 6.1 m (hyp.) |
 | Share of renewable energy (%)          | 99   | 100 (hyp.)   | 100 (hyp.)   |

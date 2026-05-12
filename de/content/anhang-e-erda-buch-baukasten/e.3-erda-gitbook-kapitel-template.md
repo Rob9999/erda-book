@@ -1,3 +1,7 @@
+---
+content_id: erda.book.anhang.e.erda.buch.baukasten.e.3.erda.gitbook.kapitel.template
+content_lang: de
+---
 # E.3 🪄 ERDA GitBook Kapitel-Template
 
 _**E.3 🪄 ERDA GitBook Kapitel-Template**_
@@ -78,7 +82,7 @@ evtl. vorhandene schon erarbeitete Kapitel Inhalte (Grundthemen, Auflistungen, .
 
 **Inhalt:**
 
-**Siehe im ERDA Buch Baukasten ->**🪄 _**Template für ein standardisiertes ERDA-Quellenverzeichnis**_
+**Siehe im ERDA-Buch-Baukasten ->**🪄 _**Template für ein standardisiertes ERDA-Quellenverzeichnis**_
 
 **Ausfüllanweisung:**
 
@@ -101,4 +105,4 @@ evtl. vorhandene schon erarbeitete Kapitel Inhalte (Grundthemen, Auflistungen, .
 
 ### 📎 Quellen & Verweise
 
-**Siehe im ERDA Buch Baukasten ->**&#xD83E;� _**Template für ein standardisiertes ERDA-Quellenverzeichnis**_
+**Siehe im ERDA-Buch-Baukasten ->**🪄 _**Template für ein standardisiertes ERDA-Quellenverzeichnis**_

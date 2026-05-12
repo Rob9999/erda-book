@@ -1,3 +1,7 @@
+---
+content_id: erda.book.7.das.fortera.konzept.7.3.produktionssouveranitat.und.strategische.industriepolitik.readme
+content_lang: de
+---
 # 7.3 Produktionssouveränität und strategische Industriepolitik
 
 _**Produktionssouveränität und strategische Industriepolitik**_

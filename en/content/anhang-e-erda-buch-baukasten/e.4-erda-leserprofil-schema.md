@@ -1,5 +1,7 @@
 ---
-source: content/anhang-e-erda-buch-baukasten/e.4-erda-leserprofil-schema.md
+content_id: erda.book.anhang.e.erda.buch.baukasten.e.4.erda.leserprofil.schema
+content_lang: en
+source: de/content/anhang-e-erda-buch-baukasten/e.4-erda-leserprofil-schema.md
 status: draft
 ---
 
@@ -15,7 +17,7 @@ _**E.4 🧭 ERDA reader profile schema**_
 
 ### 🔹 General direction
 
-The ERDA book is a **strategic, philosophical and civilisational guide work**. It combines political feasibility with ethical depth, technological clarity and cultural resonance. The readership is diverse, yet united by the desire to co-create a better, democratically grounded future.
+The ERDA Book is a **strategic, philosophical and civilisational guide work**. It combines political feasibility with ethical depth, technological clarity and cultural resonance. The readership is diverse, yet united by the desire to co-create a better, democratically grounded future.
 
 ***
 
@@ -65,7 +67,7 @@ The ERDA book is a **strategic, philosophical and civilisational guide work**. I
 ### 🧩 Extendable target groups (optional)
 
 | Target group | Expectation |
-| --- | --- |
+| ---- | ---- |
 | Teachers & educators | educational narratives, interplanetary responsibility, didactic feasibility |
 | Journalists & media actors | narrative clarity, punch, orientation in times of upheaval |
 | Entrepreneurs | ethical economy, FORTERA, resilience strategies |
@@ -76,7 +78,7 @@ The ERDA book is a **strategic, philosophical and civilisational guide work**. I
 ### 🧱 Assessment dimensions for future AI evaluations
 
 | Criterion | Description |
-| --- | --- |
+| ---- | ---- |
 | **Relevance** | Is the content strategically or emotionally connectable for this target group? |
 | **Language level** | Does tone and complexity match the expectations of the target group? |
 | **Resonance capacity** | Does it set an emotional or identity-forming impulse? |

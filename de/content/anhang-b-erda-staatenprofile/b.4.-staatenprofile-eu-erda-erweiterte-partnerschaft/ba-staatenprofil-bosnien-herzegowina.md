@@ -1,8 +1,10 @@
 ---
-description: "State: BA, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.ba.staatenprofil.bosnien.herzegowina
+content_lang: de
+description: "State: BA, Date: 2025-06-10, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "BA"
 date: "2025-06-10"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -144,7 +146,7 @@ Schrittweise Annäherung an EU-Standards, Stärkung demokratischer Prozesse und 
 ### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025      | 2050      | 2075      |
-| ------------------------------------- | --------- | --------- | --------- |
+| ---- | ---- | ---- | ---- |
 | BIP (Mrd. USD)                        | 27,5      | 40 (p)    | 55 (p)    |
 | Bevölkerung                           | 3,18 Mio. | 2,7 Mio. (p) | 2,3 Mio. (p) |
 | Anteil Erneuerbare (%)                | 40 %      | 55 % (p) | 70 % (p) |
@@ -198,6 +200,6 @@ Bosnien-Herzegowina befindet sich im Wandel: Trotz politischer Komplexität und 
 Dieses Profil basiert auf öffentlich zugänglichen Daten und modellierten Annahmen. Vertreter:innen Bosnien-Herzegowinas und interessierte Fachstellen sind eingeladen, eigene Perspektiven und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten, demokratischen Zukunft Europas.
 
 #### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08

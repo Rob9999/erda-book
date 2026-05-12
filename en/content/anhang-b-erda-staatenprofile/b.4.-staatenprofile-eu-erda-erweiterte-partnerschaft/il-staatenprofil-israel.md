@@ -1,5 +1,7 @@
 ---
-source: content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/il-staatenprofil-israel.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.il.staatenprofil.israel
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/il-staatenprofil-israel.md
 status: draft
 description: "State: IL, Date: 2025-06-11, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "IL"
@@ -143,7 +145,7 @@ version: "1.0"
 ### 9. Key indicators (short form)
 
 | Indicator                             | 2025 | 2050 (p) | 2075 (p) | EU average 2024 |
-| ------------------------------------- | ---- | -------- | -------- | -------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                          | 472  | 750      | 1,000    | 16,556 |
 | Population (million)                  | 9.8  | 12       | 13       | 447 |
 | Share of renewables (%)               | 10   | 25       | 40       | 37 |

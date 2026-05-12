@@ -1,5 +1,7 @@
 ---
-source: content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/mt-staatenprofil-malta.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.mt.staatenprofil.malta
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/mt-staatenprofil-malta.md
 status: draft
 description: "State: MT, Date: 2025-06-11, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "MT"
@@ -153,7 +155,7 @@ version: "1.0"
 ### 9. Key indicators (short form)
 
 | Indicator                            | 2025 | 2050 (p) | 2075 (p) | EU average 2024 |
-| ------------------------------------ | ---- | -------- | -------- | --------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                         | 21   | 32       | 45       | 16.6 |
 | Population                           | 0.55 m | 0.6 m    | 0.58 m   | 447 m |
 | Share of renewables (%)              | 12%  | 30%      | 60%      | 23% |

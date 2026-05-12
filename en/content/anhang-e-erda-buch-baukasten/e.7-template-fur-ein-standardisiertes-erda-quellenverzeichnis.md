@@ -1,5 +1,7 @@
 ---
-source: content/anhang-e-erda-buch-baukasten/e.7-template-fur-ein-standardisiertes-erda-quellenverzeichnis.md
+content_id: erda.book.anhang.e.erda.buch.baukasten.e.7.template.fur.ein.standardisiertes.erda.quellenverzeichnis
+content_lang: en
+source: de/content/anhang-e-erda-buch-baukasten/e.7-template-fur-ein-standardisiertes-erda-quellenverzeichnis.md
 status: draft
 ---
 
@@ -24,7 +26,7 @@ Every source tells a story – handle it with care.
   - Title (italic), year, optionally short context.
   - Direct link for internet sources.
   - Relative path for internal GitBook documents.
-  - **Example internet source:** _“Strategic Compass for Security and Defence”_ (European Commission, 2022): [https://eeas.europa.eu/strategic-compass](https://eeas.europa.eu/strategic-compass)
+  - **Example internet source:** _“A Strategic Compass for Security and Defence”_ (Council of the European Union / EEAS, 2022): [https://www.eeas.europa.eu/eeas/strategic-compass-security-and-defence-0_en](https://www.eeas.europa.eu/eeas/strategic-compass-security-and-defence-0_en)
   - **Example GitBook reference:** _Appendix: Europe 2.0 – Roadmap for a Livable, Resilient and Leading Union_ (2025): \[../anhang-europa-2.0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union.md]
 - **Sorting:**
   - First internet sources (official documents, studies, etc.)
@@ -50,7 +52,7 @@ Every source tells a story – handle it with care.
 ### 📐 Formatting rules
 
 | Rule category | Details |
-| --- | --- |
+| ---- | ---- |
 | **Linking** | Internet links in square brackets, directly clickable. GitBook references relative with full filename. |
 | **Text consistency** | Consistent quotation marks (“”). Hyphens instead of underscores in filenames. No spaces or special characters in GitBook filenames. |
 | **Transparency** | Clear separation of planned concepts from existing materials. |
@@ -82,7 +84,7 @@ Every source tells a story – handle it with care.
 #### 🔎 Review steps
 
 | Step | Priority | Status (✔️/❌) | Comment |
-| --- | --- | --- | --- |
+| ---- | ---- | ---- | ---- |
 | All internet links accessible and current? | Must |  |  |
 | All GitBook references exist and match `SUMMARY.md`? | Must |  |  |
 | Sources match the chapter content precisely? | Must |  |  |

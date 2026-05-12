@@ -1,3 +1,7 @@
+---
+content_id: erda.book.anhang.d.executive.compendium.fur.entscheidungstrager.d.3.block.c.sektorale.konzepte.kapitel.5.9
+content_lang: de
+---
 # D.3 Block C – Sektorale Konzepte (Kapitel 5–9)
 
 ### 🛡️ Kapitel 5: Europäische Verteidigungsallianz (EDA)
@@ -9,6 +13,7 @@ Aufbau einer demokratisch legitimierten Verteidigungsarchitektur, die Europas Si
 #### 🧭 Kernaussagen
 
 * Sicherheit darf nicht länger ausgelagert werden – die EDA bildet das strategische Rückgrat einer souveränen ERDA.
+* Die EDA/EVA ist eine demokratische Schutzarchitektur, kein Machtprojekt: Gewaltbegrenzung, Menschenwürde, parlamentarische Kontrolle und Bündnisverlässlichkeit sind ihre Legitimationsbedingungen.
 * Verteidigung wird ganzheitlich gedacht: physische Infrastruktur, Cyberraum, Orbit und Zivilgesellschaft greifen ineinander.
 * Nukleare Rückversicherung bleibt europäisch kontrolliert und demokratisch beaufsichtigt.
 
@@ -22,6 +27,7 @@ Aufbau einer demokratisch legitimierten Verteidigungsarchitektur, die Europas Si
 #### ⚠️ Risiken
 
 * Persistente Abhängigkeit von externen Schutzmächten und Verlust geostrategischer Glaubwürdigkeit.
+* Einpunkt-Abhängigkeit von einzelnen Partnern, Plattformen oder politischen Schaltern kann Bündnisvertrauen in Erpressbarkeit verwandeln.
 * Fragmentierung durch nationale Alleingänge oder mangelnde demokratische Kontrolle.
 * Verwundbarkeit gegenüber hybriden, orbitalen und cyberbasierten Angriffen.
 

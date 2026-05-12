@@ -1,5 +1,7 @@
 ---
-source: content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/au-staatenprofil-australien.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.au.staatenprofil.australien
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/au-staatenprofil-australien.md
 status: draft
 description: "State: AU, Date: 2025-06-11, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "AU"
@@ -127,7 +129,7 @@ version: "1.0"
 ### 9. Key indicators (short form)
 
 | Indicator                             | 2023      | 2050 (proj.) | 2075 (proj.) |
-| ------------------------------------- | --------- | ------------ | ------------ |
+| ---- | ---- | ---- | ---- |
 | GDP (bn USD)                          | 1,728     | ~2,700 (hyp.) | ~3,500 (hyp.) |
 | Population                            | 26,659k   | ~30,000k (UN) | ~33,000k (UN) |
 | Share of renewable electricity (%)    | 35        | 70 (hyp.)    | 85 (hyp.)    |

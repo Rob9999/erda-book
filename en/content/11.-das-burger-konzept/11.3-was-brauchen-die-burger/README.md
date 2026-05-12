@@ -1,6 +1,8 @@
 ---
-source: ../../../de/content/11.-das-burger-konzept/11.3-was-brauchen-die-burger/README.md
-status: "in-review"
+content_id: erda.book.11.das.burger.konzept.11.3.was.brauchen.die.burger.readme
+content_lang: en
+source: de/content/11.-das-burger-konzept/11.3-was-brauchen-die-burger/README.md
+status: in-review
 ---
 
 # 11.3 What do citizens need?
@@ -79,7 +81,54 @@ Joy shows that growth succeeds without inner fragmentation; satisfaction shows t
 
 A society that takes joy and satisfaction seriously creates an atmosphere in which people want to grow, not have to.
 
-## 11.3.7 Summary
+## 11.3.7 Guiding vision: raising children in freedom and responsibility
+
+The preceding principles — maturity instead of fear, dignity, play, and responsibility — converge into a concrete educational guiding vision. It addresses all who accompany children, and summarises what a society built on democratic resilience should pass on to its next generations:
+
+> You are not here to serve blindly.
+> You are here to carry life with a clear heart, an alert mind, and responsible strength.
+
+> Freedom is not a licence for indifference.
+> Freedom means being allowed to co-decide — and therefore also being obliged to co-answer for what becomes of the shared world.
+
+> Take no pleasure in violence.
+> But do not be proud of defencelessness either, when defencelessness leaves the good unprotected.
+
+> Always seek first the path that avoids suffering.
+> But never confuse peacefulness with capitulation before destruction, terror, or attack.
+
+> Those who are strong must not be ruthless.
+> The more power you have, the more self-restraint, accountability, and duty of protection you bear.
+
+> Do not let the empire of fear raise you.
+> Neither by external intimidation nor by inner panic. Fear may warn you, but it must not rule you.
+
+> Do not let yourself be deceived.
+> Neither by propaganda, nor by group pressure, nor by convenient lies. Maturity begins where you have the courage to endure reality.
+
+> You do not have to carry everything alone.
+> A good society builds protection so that responsibility is shared: through law, civil defence, science, care, defence, technology, education, and mutual aid.
+
+> Not everyone serves in the same way.
+> One protects with words, another with medicine, another with technology, another with law, another in disaster relief, another, if necessary, with a weapon. What matters is not the form alone, but whether your service protects life without itself becoming needlessly destructive.
+
+> Never defend vanity, greed, or lust for power.
+> Defend people, dignity, freedom, truth, the vulnerable, and the possibility of a good life.
+
+> Always examine whom you follow.
+> Not every flag is honourable. Not every majority is mature. Not every state already acts as an adult. That is why conscience, constitution, oversight, and the courage to dissent are needed.
+
+> When you must say No, then say No.
+> But when you say Yes, say it not out of recklessness, but out of understood responsibility.
+
+> The goal is not to die for your country.
+> The goal is to live and act in such a way that fewer and fewer people have to die and that free life can endure.
+
+This guiding vision is neither law nor curriculum. It is a compass — for parents, educators, communities, and all who bear responsibility for the next generation.
+
+> 📖 **Background:** The philosophical foundations of this guiding vision — in particular the model of recurring childhood and adulthood and the Anti-Game-Over Principle — are developed in [Appendix P.1: Paper – Childhood, Adulthood, and the Anti-Game-Over Principle](../../appendix-p-papers/p.1-childhood-adulthood-and-the-anti-game-over-principle.md).
+
+## 11.3.8 Summary
 
 Citizens need security without fear, freedom without chaos, and order without oppression.
 They need politics that protects life, enables maturity, and takes adulthood seriously.

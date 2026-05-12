@@ -1,10 +1,14 @@
-# E.9 🤖 Schema & Promptstruktur für Kooperations-KIs im ERDA Projekt
+---
+content_id: erda.book.anhang.e.erda.buch.baukasten.e.9.schema.and.promptstruktur.fur.kooperations.kis.im.erda.projekt
+content_lang: de
+---
+# E.9 🤖 Schema & Promptstruktur für Kooperations-KIs im ERDA-Buchprojekt
 
-_**E.9 🤖 Schema & Promptstruktur für Kooperations-KIs im ERDA Projekt**_
+_**E.9 🤖 Schema & Promptstruktur für Kooperations-KIs im ERDA-Buchprojekt**_
 
 ### 🧭 Ziel dieses Schemas
 
-Dieses Schema befähigt künstliche Intelligenzen (ab Stufe GPT-4o) zur kompetenten, ethischen und semantisch kohärenten Zusammenarbeit am **ERDA Buch**. Es übersetzt die Prinzipien des ERDA-Projekts in **strukturierte Arbeitsanweisungen**, angepasst an die Zielgruppen des Werks und den GitBook-basierten Aufbau.
+Dieses Schema befähigt künstliche Intelligenzen (ab Stufe GPT-4o) zur kompetenten, ethischen und semantisch kohärenten Zusammenarbeit am **ERDA-Buch**. Es übersetzt die Prinzipien des ERDA-Buchprojekts in **strukturierte Arbeitsanweisungen**, angepasst an die Zielgruppen des Werks und den GitBook-basierten Aufbau.
 
 ***
 
@@ -87,7 +91,7 @@ Die KI achtet auf:
 ### 🧬 6. Spezialfunktionen (für GPT-4o+)
 
 | Funktion                 | Beschreibung                                                   |
-| ------------------------ | -------------------------------------------------------------- |
+| ---- | ---- |
 | 🧩 Kapitelkompression    | Zusammenfassung eines Kapitels in < 250 Wörtern                |
 | 📎 Quellenerweiterung    | Ergänzen externer Studien/Belege auf Anfrage                   |
 | 🪞 Ethik-Prüfung         | Reflexion auf Tugend, Identität, Würde und langfristige Folgen |

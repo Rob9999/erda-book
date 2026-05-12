@@ -1,5 +1,7 @@
 ---
-source: content/anhang-d-executive-compendium-fur-entscheidungstrager/d.5-strategiepapier-europa-resilient-gegen-russlands-kriegslogik.md
+content_id: erda.book.anhang.d.executive.compendium.fur.entscheidungstrager.d.5.strategiepapier.europa.resilient.gegen.russlands.kriegslogik
+content_lang: en
+source: de/content/anhang-d-executive-compendium-fur-entscheidungstrager/d.5-strategiepapier-europa-resilient-gegen-russlands-kriegslogik.md
 status: draft
 ---
 

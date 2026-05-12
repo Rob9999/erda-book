@@ -1,5 +1,7 @@
 ---
-source: content/anhang-e-erda-buch-baukasten/e.5-interaktive-elemente-checkliste-and-quiz.md
+content_id: erda.book.anhang.e.erda.buch.baukasten.e.5.interaktive.elemente.checkliste.and.quiz
+content_lang: en
+source: de/content/anhang-e-erda-buch-baukasten/e.5-interaktive-elemente-checkliste-and-quiz.md
 status: draft
 ---
 

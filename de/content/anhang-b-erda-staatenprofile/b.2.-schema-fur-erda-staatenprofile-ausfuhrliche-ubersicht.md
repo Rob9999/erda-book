@@ -1,12 +1,18 @@
-# B.2. Schema für ERDA-Staatenprofile (v5, ausführliche Übersicht)
+---
+content_id: erda.book.anhang.b.erda.staatenprofile.b.2.schema.fur.erda.staatenprofile.ausfuhrliche.ubersicht
+content_lang: de
+---
+# B.2. Schema für ERDA-Staatenprofile (v5, technisches Muster-Template)
 
-_**Schema für ERDA-Staatenprofile (v5)**_
+_**Technisches Muster-Template für ERDA-Staatenprofile (v5)**_
 
-### 1. 🌍 ERDA-Staatenprofil – Schema (v5, 2026)
+> **Redaktioneller Hinweis:** Dieser Abschnitt dokumentiert bewusst ein technisches Muster-Template. Platzhalter markieren Felder, die in konkreten Länderprofilen zu ersetzen sind. Die Frontmatter-Felder bleiben aus Gründen der Tool-Kompatibilität in technischer Notation.
+
+### 1. 🌍 ERDA-Staatenprofil – technisches Muster-Template (v5, 2026)
 
 ```markup
 ---
-description: "State: {{country-code}}, Date: {{YYYY-MM-dd}}, Responsible Author: {{author}}, if from official or institute: Legal Responsible [Author, Institute, Government]: {{official}}"
+description: "Staat: {{country-code}}, Datum: {{YYYY-MM-dd}}, verantwortliche Redaktion: {{author}}, rechtlich verantwortliche Stelle: {{official}}"
 country: "{{country-code}}"
 date: "{{YYYY-MM-dd}}"
 author: "{{author}}"
@@ -15,7 +21,7 @@ layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 
-# {{country-code}} - Staatenprofil {{country name}}
+# {{country-code}} - Staatenprofil {{Land}}
 
 
 ## 1. Überblick (Meta)
@@ -132,7 +138,7 @@ version: "1.0"
 
 ## 8. Narrative & Anwerbewirkung
 
-* Kernbotschaft: „{{Land}} zeigt, dass ...“
+* Kernbotschaft (Beispiel-Platzhalter): „{{Land}} zeigt, dass ...“
 * Beispiele für starke, wirkungsvolle Narrative und Einladungen:
 * Selbstwirksamkeit: (Wie gestalten Bürger:innen mit?)
 * Zukunftswürde: (Was verleiht Identität & Stolz?)
@@ -141,7 +147,7 @@ version: "1.0"
 ## 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025 | 2050 | 2075 | EU-Durchschnitt 2024 (Benchmark) |
-| ------------------------------------- | ---- | ---- | ---- | -------------------------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | BIP (Mrd. EUR)                        |      |      |      |                                  |
 | Bevölkerung                           |      |      |      |                                  |
 | Anteil Erneuerbare Energien (%)       |      |      |      |                                  |
@@ -151,7 +157,7 @@ version: "1.0"
 | Zivilgesellschaftlicher Index [0–10]  |      |      |      |                                  |
 Hinweise: (n/b) - N/B nicht belegt (warum?), (p) - Prognose (wer?)
 
-## 10. Kurzfassung: „<Land> auf einen Blick“
+## 10. Kurzfassung: „{{Land}} auf einen Blick“ (Muster)
 
 Kurze, emotional ansprechende Zusammenfassung der wichtigsten Punkte, Stärken und Besonderheiten für breites Publikum.
 
@@ -179,27 +185,27 @@ Beispiel Datenbank/Website
 
 ### 11.3 🛠️ Modellierungen & Annahmen
 
-(Mit Beispieldaten)
+(Muster mit Beispieldaten)
 1. Wirtschaftliche Projektionen 2050–2075
 * Basisjahr: 2020; Parameter: BIP-Wachstum 2,0 % p.a., Inflation 1,5 % p.a., Demografie s. 11.1.
 * Quellen: Eurostat, Weltbank.
 
-(Mit Beispieldaten)
+(Muster mit Beispieldaten)
 2. KI-Kapazitäten
 * Annahme: Rechenleistung verdoppelt sich alle 3 Jahre.
-* Quelle: \[Quelle einfügen].
+* Quelle: \[konkrete Fachquelle gemäß Themenbereich ergänzen, z. B. Eurostat, IEA oder nationale Statistik].
 
-(Mit Beispieldaten)
+(Muster mit Beispieldaten)
 3. Infrastrukturautarkie
 * Ziel: 80 % erneuerbare Energieversorgung regional autark.
 * Datenbasis: Fraunhofer ISE, GIS-Modellierung.
 
-(Mit Beispieldaten)
+(Muster mit Beispieldaten)
 4. Demokratie- und Beteiligungswerte
 * Indikatoren: Freedom House Score, CIVICUS Monitor.
 * Basiswert 2020; Annahme: jährliche Verbesserung um 0,5 Punkte.
 
-(Mit Beispieldaten)
+(Muster mit Beispieldaten)
 5. Energiepotenziale
 * Szenarien: moderat vs. ambitioniert.
 * Potenzial Solar PV: 150 GWp (moderat), 300 GWp (ambitioniert).
@@ -207,15 +213,15 @@ Beispiel Datenbank/Website
 
 
 ## 12. 🤝 Mitwirkung willkommen
-Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik {{Land}} sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
+Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen des jeweiligen Landes sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 ### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 ```
 
-
+**Hinweis zur technischen Notation:** Die Metadatenfelder `country`, `date`, `author`, `legal_responsible`, `layout` und `version` bleiben bewusst technisch formuliert, damit dieses Muster direkt mit den Profil-Dateien im Repository kompatibel bleibt.
 
 #### 2. Formatierungs-, Ausfüll- & Kollaborationshinweise
 

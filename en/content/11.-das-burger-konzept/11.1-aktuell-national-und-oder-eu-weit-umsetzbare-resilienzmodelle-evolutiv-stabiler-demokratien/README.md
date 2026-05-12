@@ -1,6 +1,8 @@
 ---
-source: ../../../../de/content/11.-das-burger-konzept/11.1-aktuell-national-und-oder-eu-weit-umsetzbare-resilienzmodelle-evolutiv-stabiler-demokratien/README.md
-status: "in-review"
+content_id: erda.book.11.das.burger.konzept.11.1.aktuell.national.und.oder.eu.weit.umsetzbare.resilienzmodelle.evolutiv.stabiler.demokratien.readme
+content_lang: en
+source: de/content/11.-das-burger-konzept/11.1-aktuell-national-und-oder-eu-weit-umsetzbare-resilienzmodelle-evolutiv-stabiler-demokratien/README.md
+status: in-review
 ---
 
 # 11.1 Resilience models currently implementable (national and/or EU-wide)

@@ -1,5 +1,7 @@
 ---
-source: content/anhang-e-erda-buch-baukasten/e.8-rollenspiel-qualitatssicherungstemplate.md
+content_id: erda.book.anhang.e.erda.buch.baukasten.e.8.rollenspiel.qualitatssicherungstemplate
+content_lang: en
+source: de/content/anhang-e-erda-buch-baukasten/e.8-rollenspiel-qualitatssicherungstemplate.md
 status: draft
 ---
 
@@ -54,4 +56,4 @@ This template is designed to systematically improve the quality of ERDA chapters
 
 ***
 
-_This role-play template can be used flexibly for different chapters and templates in the ERDA book. It enables multi-layered quality review – from simple user perspectives up to highly complex, future-oriented viewpoints._
+_This role-play template can be used flexibly for different chapters and templates in the ERDA Book. It enables multi-layered quality review – from simple user perspectives up to highly complex, future-oriented viewpoints._

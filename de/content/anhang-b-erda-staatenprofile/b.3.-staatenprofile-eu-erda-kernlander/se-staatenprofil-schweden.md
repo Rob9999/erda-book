@@ -1,8 +1,10 @@
 ---
-description: "State: SE, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.se.staatenprofil.schweden
+content_lang: de
+description: "State: SE, Date: 2025-06-10, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "SE"
 date: "2025-06-10"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -126,7 +128,7 @@ version: "1.0"
 ### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025      | 2050    | 2075      |
-| ------------------------------------- | --------- | ------- | --------- |
+| ---- | ---- | ---- | ---- |
 | BIP (Mrd. EUR)                        | 650       | 820     | 890       |
 | Bevölkerung                           | 10,5 Mio. | 11 Mio. | 10,7 Mio. |
 | Anteil Erneuerbare (%)                | 65 %      | 85 %    | 95 %      |
@@ -164,6 +166,6 @@ Schweden verbindet hohe Innovationskraft mit einer starken Zivilgesellschaft und
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen des Königreichs Schweden sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 #### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08

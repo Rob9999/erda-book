@@ -1,5 +1,7 @@
 ---
-source: content/README.md
+content_id: erda.book.readme
+content_lang: en
+source: de/content/README.md
 status: draft
 description: '"Strategy, Ethics and Future of Europe – From the democratic constitutional
   state to a resilient civilisation"'
@@ -40,7 +42,9 @@ Welcome to the official book on ERDA's vision and strategy.\
 \newpage
 
 ---
-source: content/readme/vorwort.md
+content_id: erda.book.readme.vorwort
+content_lang: en
+source: de/content/readme/vorwort.md
 status: draft
 ---
 <a id="md-readme-vorwort"></a>
@@ -54,7 +58,7 @@ _**Foreword**_
 
 This book is not a manifesto. It is a toolbox. Not a promise of utopia – but an invitation to take responsibility.
 
-In a time of growing uncertainty, geopolitical power shifts and internal exhaustion, the ERDA book asks a radical yet realistic question:\
+In a time of growing uncertainty, geopolitical power shifts and internal exhaustion, the ERDA Book asks a radical yet realistic question:\
 **What does Europe need in order to survive – and remain dignified while doing so?**
 
 Some call it overambitious. Others say: _"It sounds nice, but can it be implemented politically?"_ Again others ask: _"Who is supposed to finance it, who will build the institutions, who will bring people along?"_ – These are legitimate questions. Questions from people who carry responsibility.
@@ -70,7 +74,7 @@ In today’s world situation, a second consequence is added: fragmentation creat
 
 Polish history contains a precise warning: the Polish–Lithuanian Commonwealth was large and diverse, yet veto paralysis and external manipulation made it “governable from outside” – until the partitions erased the state. The lesson for Europe is not centralism, but decision‑making capacity: integration must become complete wherever blockade is deadly – in strategic decision power and collective defence.
 
-The ERDA book offers an answer – not as a finished model, but as a structured sketch of the future. With concrete stages, with principles, with tools.
+The ERDA Book offers an answer – not as a finished model, but as a structured sketch of the future. With concrete stages, with principles, with tools.
 
 It weaves together:
 
@@ -88,7 +92,9 @@ It is an offer to mature. A European draft that says:
 \newpage
 
 ---
-source: ../../content/1.-aktuelle-lage-europas-herausforderungen-und-chancen/README.md
+content_id: erda.book.1.aktuelle.lage.europas.herausforderungen.und.chancen.readme
+content_lang: en
+source: de/content/1.-aktuelle-lage-europas-herausforderungen-und-chancen/README.md
 status: draft
 ---
 <a id="md-1-aktuelle-lage-europas-herausforderungen-und-chancen-readme"></a>
@@ -170,7 +176,9 @@ Europe stands at a historic turning point. This chapter identifies the systemic 
 \newpage
 
 ---
-source: ../../content/1.-aktuelle-lage-europas-herausforderungen-und-chancen/1.1-demokratische-erosion-und-geopolitische-fragmentierung.md
+content_id: erda.book.1.aktuelle.lage.europas.herausforderungen.und.chancen.1.1.demokratische.erosion.und.geopolitische.fragmentierung
+content_lang: en
+source: de/content/1.-aktuelle-lage-europas-herausforderungen-und-chancen/1.1-demokratische-erosion-und-geopolitische-fragmentierung.md
 status: draft
 ---
 <a id="md-1-aktuelle-lage-europas-herausforderungen-und-chancen-1-1-demokratische-erosion-und-geopolitische-fragmentierung"></a>
@@ -196,7 +204,7 @@ Europe stands at a historic turning point: the rule of law and press freedom are
 #### 1.1.2 In-Depth View & Analysis
 
 | Factor                         | Internal                                             | External                                      |
-| ------------------------------ | ---------------------------------------------------- | ---------------------------------------------- |
+| ---- | ---- | ---- |
 | Rule-of-law standards          | Dismantling of institutional checks and balances     | Influence through corrupt networks             |
 | Media freedom                  | Concentration, political pressure                    | State-controlled disinformation campaigns      |
 | Citizen trust                  | Political apathy, reform fatigue                     | Polarising propaganda                          |
@@ -226,7 +234,7 @@ Europe stands at a historic turning point: the rule of law and press freedom are
 #### 1.1.4 Target-Group-Specific Perspectives
 
 | Target group                   | Focus                                                                                                   |
-| ----------------------------- | ------------------------------------------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏩️ Decision-makers            | Developing a robust EU media freedom framework, building a democratic cyber strategy                     |
 | 📚 Researchers                | Studying hybrid influence, impact analyses of civil-society resilience strategies                        |
 | 🧑 Citizens                   | Raising awareness of manipulation techniques, strengthening participatory formats such as citizens’ assemblies |
@@ -266,9 +274,11 @@ d) Turkey
 \newpage
 
 ---
-source: >-
-  ../../content/1.-aktuelle-lage-europas-herausforderungen-und-chancen/1.2-wirtschaftlicher-druck-und-globale-systemkonkurrenz.md
+content_id: erda.book.1.aktuelle.lage.europas.herausforderungen.und.chancen.1.2.wirtschaftlicher.druck.und.globale.systemkonkurrenz
+content_lang: en
+source: de/content/1.-aktuelle-lage-europas-herausforderungen-und-chancen/1.2-wirtschaftlicher-druck-und-globale-systemkonkurrenz.md
 status: draft
+  ../../content/1.-aktuelle-lage-europas-herausforderungen-und-chancen/1.2-wirtschaftlicher-druck-und-globale-systemkonkurrenz.md
 ---
 <a id="md-1-aktuelle-lage-europas-herausforderungen-und-chancen-1-2-wirtschaftlicher-druck-und-globale-systemkonkurrenz"></a>
 
@@ -320,7 +330,7 @@ Interdependence is not a guarantee of peace when not all partners are allies.
 #### 1.2.3 Deep Dive: Internal and External Competitive Levers
 
 | Lever                  | Internal                                         | External                                             |
-| ---------------------- | ------------------------------------------------ | ---------------------------------------------------- |
+| ---- | ---- | ---- |
 | Production sovereignty | Insufficient domestic capacity in semiconductors | Dependence on US/Asian supply chains                 |
 | Energy supply          | High share of fossil imports                     | Global price spikes triggered by geopolitical crises |
 | Research \& innovation  | Fragmented EU funding programmes                 | Competition from massive state investments (China)   |
@@ -346,7 +356,7 @@ Interdependence is not a guarantee of peace when not all partners are allies.
 #### 1.2.5 Target-Group-Specific Perspectives
 
 | Target group                | Focus                                                          |
-| --------------------------- | -------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision-makers         | EU strategy for R\&D financing, industrial alliances           |
 | 📚 Researchers              | Analysis of global value chains, scenario planning             |
 | 🧍 Citizens                 | Information on supply chains, support for regional future labs |
@@ -382,7 +392,9 @@ d) Automotive industry
 \newpage
 
 ---
-source: content/1.-aktuelle-lage-europas-herausforderungen-und-chancen/1.3-technologische-transformation-und-soziale-spaltung.md
+content_id: erda.book.1.aktuelle.lage.europas.herausforderungen.und.chancen.1.3.technologische.transformation.und.soziale.spaltung
+content_lang: en
+source: de/content/1.-aktuelle-lage-europas-herausforderungen-und-chancen/1.3-technologische-transformation-und-soziale-spaltung.md
 status: draft
 ---
 <a id="md-1-aktuelle-lage-europas-herausforderungen-und-chancen-1-3-technologische-transformation-und-soziale-spaltung"></a>
@@ -410,7 +422,7 @@ Artificial intelligence, automation and digital platforms not only transform wor
 #### 1.3.2 Deep Dive & Analysis
 
 | Dimension                   | Positive drivers                               | Negative effects                                 |
-| --------------------------- | ---------------------------------------------- | ---------------------------------------------- |
+| ---- | ---- | ---- |
 | Automation                  | Productivity gains, new occupational fields    | Job losses, qualification gaps [1]             |
 | AI-supported decisions      | More efficient administration, precise data analyses | Black-box processes, bias in algorithms [2] |
 | Digital communication       | Low barriers to entry, global connectivity      | Echo chambers, polarisation                     |
@@ -440,7 +452,7 @@ Artificial intelligence, automation and digital platforms not only transform wor
 #### 1.3.4 Target-Group-Specific Perspectives
 
 | Target group                 | Focus                                                                       |
-| ---------------------------- | --------------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏩️ Decision-makers           | National AI strategy, education drive, platform regulation                  |
 | 📚 Researchers               | Evaluation of algorithmic fairness, interdisciplinary studies               |
 | 🧡 Citizens                  | Digital fundamental rights, co-determination on platform rules             |
@@ -481,7 +493,9 @@ d) Switzerland
 \newpage
 
 ---
-source: content/1.-aktuelle-lage-europas-herausforderungen-und-chancen/1.4-chancen-im-wandel.md
+content_id: erda.book.1.aktuelle.lage.europas.herausforderungen.und.chancen.1.4.chancen.im.wandel
+content_lang: en
+source: de/content/1.-aktuelle-lage-europas-herausforderungen-und-chancen/1.4-chancen-im-wandel.md
 status: draft
 ---
 <a id="md-1-aktuelle-lage-europas-herausforderungen-und-chancen-1-4-chancen-im-wandel"></a>
@@ -511,7 +525,7 @@ Despite considerable geopolitical, economic and technological pressures, new opp
 #### 1.4.2 Deep dive & analysis
 
 | Dimension                     | Potential                                  | Success factors                                 |
-| ----------------------------- | ------------------------------------------ | ----------------------------------------------- |
+| ---- | ---- | ---- |
 | Democratic institutions       | Political stability, rule of law           | Capacity for reform, transparency                |
 | Civil society                 | Local initiatives, NGOs, citizens’ forums  | Network-building, resource mobilisation          |
 | Culture \& identity            | Multilingualism, heritage projects         | Inclusive storytelling, participatory formats    |
@@ -541,7 +555,7 @@ Despite considerable geopolitical, economic and technological pressures, new opp
 #### 1.4.4 Target-group-specific perspectives
 
 | Target group                  | Focus                                                                |
-| ----------------------------- | -------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision-makers           | Financing transnational solidarity funds, governance architecture     |
 | 📚 Academics                  | Evaluation of solidarity mechanisms, impact analyses                  |
 | 🧍 Citizens                   | Access to co-determination, local network initiatives                 |
@@ -582,7 +596,9 @@ d) Local participatory budgets
 \newpage
 
 ---
-source: content/1.-aktuelle-lage-europas-herausforderungen-und-chancen/1.5-der-strategische-imperativ.md
+content_id: erda.book.1.aktuelle.lage.europas.herausforderungen.und.chancen.1.5.der.strategische.imperativ
+content_lang: en
+source: de/content/1.-aktuelle-lage-europas-herausforderungen-und-chancen/1.5-der-strategische-imperativ.md
 status: draft
 ---
 <a id="md-1-aktuelle-lage-europas-herausforderungen-und-chancen-1-5-der-strategische-imperativ"></a>
@@ -628,7 +644,7 @@ In defence, industrial policy and foreign policy, Europe must reach crisis‑rea
 #### 1.5.2 Deepening & Analysis
 
 | Dimension                          | Challenge                                                | Strategic Imperative                                             |
-| ---------------------------------- | -------------------------------------------------------- | ---------------------------------------------------------------- |
+| ---- | ---- | ---- |
 | Security \& Defence                 | Fragmented capabilities, dependence on third countries   | Establishment of a European Security Council (EDA)              |
 | Economy \& Sovereignty              | Global competitive disadvantages, supply chain dependencies | FORTERA: production sovereignty in key industries                |
 | Technology \& Democracy             | Digital disruption, loss of trust                        | CIVITAS: digital democracy as an integrative participation instrument |
@@ -663,7 +679,7 @@ In defence, industrial policy and foreign policy, Europe must reach crisis‑rea
 #### 1.5.4 Target-Group-Specific Perspectives
 
 | Target Group                  | Focus                                                              |
-| ----------------------------- | ------------------------------------------------------------------ |
+| ---- | ---- |
 | 🏛️ Decision-Makers           | Mandate design for security council, budget allocation ERDA charter |
 | 📚 Researchers                | Scenario modelling, policy impact analysis                         |
 | 🧍 Citizens                   | Transparency processes, citizens' jury design                      |
@@ -698,13 +714,15 @@ d) Euratom
 
 1. **Council of the European Union (2022):** _A Strategic Compass for Security and Defence – For a European Union that protects its citizens, values and interests and contributes to international peace and security._ Brussels: Council of the European Union. Available online at: [https://www.consilium.europa.eu/de/policies/strategic-compass/](https://www.consilium.europa.eu/de/policies/strategic-compass/) (accessed on 2025-05-13). **PDF version**: [https://www.eeas.europa.eu/sites/default/files/documents/strategic_compass_en3_web.pdf](https://www.eeas.europa.eu/sites/default/files/documents/strategic_compass_en3_web.pdf)
 2. **European Defence Agency (2025):** _Annual Report 2024_. Brussels: EDA. Available online at: [https://eda.europa.eu/publications-and-data/all-publications/annual-report-2024](https://eda.europa.eu/publications-and-data/all-publications/annual-report-2024) (accessed on 2025-05-13). **PDF version:** [https://eda.europa.eu/docs/default-source/brochures/eda-annual-report-2024.pdf](https://eda.europa.eu/docs/default-source/brochures/eda-annual-report-2024.pdf)
-3. **ERDA project (2025):** _Europe 2.0 – Roadmap for a liveable, resilient and leading Union_. In: **ERDA book**, Appendix C, [[Internal project documentation](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)].
+3. **The ERDA Book (2026):** _Europe 2.0 – Roadmap for a liveable, resilient and leading Union_. In: **The ERDA Book**, Appendix C, [[Internal project documentation](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)].
 
 
 \newpage
 
 ---
-source: content/2.-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation/README.md
+content_id: erda.book.2.naturliche.verlangen.und.ihre.bedeutung.fur.demokratie.und.zivilisation.readme
+content_lang: en
+source: de/content/2.-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation/README.md
 status: draft
 ---
 <a id="md-2-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation-readme"></a>
@@ -782,7 +800,9 @@ Chapter 2 provides the **civilisational foundation** of the ERDA concept. It sho
 \newpage
 
 ---
-source: content/2.-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation/2.1-pra-demokratische-zivilisation.md
+content_id: erda.book.2.naturliche.verlangen.und.ihre.bedeutung.fur.demokratie.und.zivilisation.2.1.pra.demokratische.zivilisation
+content_lang: en
+source: de/content/2.-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation/2.1-pra-demokratische-zivilisation.md
 status: draft
 ---
 <a id="md-2-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation-2-1-pra-demokratische-zivilisation"></a>
@@ -795,7 +815,7 @@ _**Pre-democratic civilisation**_
 _(tribal, monarchical, authoritarian – driven by instinct)_
 
 | Natural desire | Societal projection                                        |
-| -------------- | ---------------------------------------------------------- |
+| ---- | ---- |
 | Survival       | Preservation of the tribe, dynastic power, external defence |
 | Reproduction   | Legitimacy through origin, bloodlines, divine order        |
 | Learning       | Myth, magic, religious dogma                               |
@@ -821,7 +841,7 @@ In pre-democratic civilisations, tribal or monarchical structures dominated, in 
 #### 2.1.2 Deep dive and analysis
 
 | Natural desire   | Societal projection                               |
-| ---------------- | ------------------------------------------------- |
+| ---- | ---- |
 | **Survival**     | Tribal alliances, conscription, centralised control |
 | **Reproduction** | Dynastic marriages, inheritance systems, claims to legitimacy |
 | **Learning**     | Myths, religious dogma, esoteric elite knowledge  |
@@ -853,7 +873,7 @@ In pre-democratic civilisations, tribal or monarchical structures dominated, in 
 #### 2.1.4 Target-group-specific perspectives
 
 | Target group                | Focus                                                             |
-| --------------------------- | ----------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision-makers         | Anchoring participatory routines in local governance structures  |
 | 📚 Researchers              | Comparative analysis of authoritarian tribal models              |
 | 🧍 Citizens                 | Understanding historical mechanisms of power as prevention       |
@@ -893,7 +913,9 @@ d) Market economy
 \newpage
 
 ---
-source: content/2.-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation/2.2-demokratische-rechtsstaatliche-zivilisation.md
+content_id: erda.book.2.naturliche.verlangen.und.ihre.bedeutung.fur.demokratie.und.zivilisation.2.2.demokratische.rechtsstaatliche.zivilisation
+content_lang: en
+source: de/content/2.-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation/2.2-demokratische-rechtsstaatliche-zivilisation.md
 status: draft
 ---
 <a id="md-2-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation-2-2-demokratische-rechtsstaatliche-zivilisation"></a>
@@ -906,7 +928,7 @@ _**Democratic, rule-of-law civilisation**_
 _(pluralistic, constitution-based – self-reflective)_
 
 | Natural desire | Societal projection                                              |
-| -------------- | ---------------------------------------------------------------- |
+| ---- | ---- |
 | Survival       | Constitutions, separation of powers, defence alliances (EDA/EVA) |
 | Reproduction   | Education, transmission of values, cultural memory               |
 | Learning       | Science, debate, open innovation                                 |
@@ -932,13 +954,15 @@ The democratic, rule-of-law civilisation connects the evolutionary potentials of
 #### 2.2.2 Deep dive and analysis
 
 | Natural desire   | Correspondence in the democratic, rule-of-law civilisation     |
-| ---------------- | ---------------------------------------------------------------- |
+| ---- | ---- |
 | **Survival**     | Protection through fundamental rights, equality before the law, due process |
 | **Reproduction** | Equal opportunities, access to education, social security       |
 | **Learning**     | Open debates, academic freedom, education as a public good      |
 | **Connection**   | Civil rights, participation in civil society, freedom of association |
 | **Expression**   | Freedom of opinion, artistic freedom, freedom of the press      |
 | **Harmony**      | Conflict resolution through courts and mediation procedures      |
+
+The ethical hinge of this form of civilisation is that people must never be treated merely as means for security, efficiency, production, data extraction or power projection. Protection of the weak, truth, accountability and human dignity are therefore not secondary ideals, but conditions of legitimacy for democratic agency. Defence, technology and strategic sovereignty remain democratic only when they limit violence, bind power to law and connect freedom with responsibility and judgement.
 
 > 🎛️ **Boxes:**
 >
@@ -965,7 +989,7 @@ The democratic, rule-of-law civilisation connects the evolutionary potentials of
 #### 2.2.4 Target-group-specific perspectives
 
 | Target group                | Focus                                                                              |
-| --------------------------- | ---------------------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision-makers         | Reform plans for judicial independence and dialogue between legislature and executive |
 | 📚 Researchers              | Measuring the impact of participation models                                      |
 | 🧍 Citizens                 | Access to citizens' assemblies, transparency in legislative procedures             |
@@ -1006,7 +1030,9 @@ d) Executive power of instruction
 \newpage
 
 ---
-source: content/2.-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation/2.3-post-demokratische-zivilisation/README.md
+content_id: erda.book.2.naturliche.verlangen.und.ihre.bedeutung.fur.demokratie.und.zivilisation.2.3.post.demokratische.zivilisation.readme
+content_lang: en
+source: de/content/2.-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation/2.3-post-demokratische-zivilisation/README.md
 status: draft
 ---
 <a id="md-2-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation-2-3-post-demokratische-zivilisation-readme"></a>
@@ -1022,7 +1048,9 @@ _(either dystopian: technocracy, AI autocracy – or transformative: meaningful 
 \newpage
 
 ---
-source: content/2.-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation/2.3-post-demokratische-zivilisation/2.3.1-dystopische-variante.md
+content_id: erda.book.2.naturliche.verlangen.und.ihre.bedeutung.fur.demokratie.und.zivilisation.2.3.post.demokratische.zivilisation.2.3.1.dystopische.variante
+content_lang: en
+source: de/content/2.-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation/2.3-post-demokratische-zivilisation/2.3.1-dystopische-variante.md
 status: draft
 ---
 <a id="md-2-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation-2-3-post-demokratische-zivilisation-2-3-1-dystopische-variante"></a>
@@ -1035,7 +1063,7 @@ _**Dystopian variant**_
 _(technocracy, AI autocracy)_
 
 | Natural desire          | Distortion through technocratic oversteering            |
-| ----------------------- | -------------------------------------------------------- |
+| ---- | ---- |
 | **Survival**            | Security state, permanent surveillance                   |
 | **Reproduction**        | Control over reproduction, socialisation by system logic |
 | **Learning/adaptation** | Censorship, algorithm-driven manipulation                |
@@ -1063,12 +1091,12 @@ In the dystopian variant, civilisation is controlled from outside by technocrati
 ##### 2.3.1.2 Deep dive and analysis
 
 | Natural desire   | Distortion through dystopian technocracy                 |
-| ---------------- | -------------------------------------------------------- |
+| ---- | ---- |
 | **Survival**     | Total surveillance, algorithm-based risk assessment      |
 | **Reproduction** | Prescribed reproduction quotas, genetic selection        |
 | **Learning**     | Curricula defined by AI evaluation, knowledge filtering  |
 | **Connection**   | Network chips, instrumental interaction                  |
-| **Expression**   | Censored creativity engines, real-time content moderation |
+| **Expression**   | Censored Creativity Engines, real-time content moderation |
 | **Harmony**      | Social credit scores, sanctions for deviants            |
 
 > 🎛️ **Boxes:**
@@ -1096,7 +1124,7 @@ In the dystopian variant, civilisation is controlled from outside by technocrati
 ##### 2.3.1.4 Target-group-specific perspectives
 
 | Target group                | Focus                                                         |
-| --------------------------- | ------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision-makers         | Global AI governance and binding agreements                   |
 | 📚 Researchers              | Research on AI bias and algorithmic fairness                  |
 | 🧍 Citizens                 | Rights to data sovereignty and informed consent               |
@@ -1137,7 +1165,9 @@ d) Fully automated surveillance
 \newpage
 
 ---
-source: content/2.-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation/2.3-post-demokratische-zivilisation/2.3.2-ideale-und-beste-form-der-demokratie.md
+content_id: erda.book.2.naturliche.verlangen.und.ihre.bedeutung.fur.demokratie.und.zivilisation.2.3.post.demokratische.zivilisation.2.3.2.ideale.und.beste.form.der.demokratie
+content_lang: en
+source: de/content/2.-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation/2.3-post-demokratische-zivilisation/2.3.2-ideale-und-beste-form-der-demokratie.md
 status: draft
 ---
 <a id="md-2-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation-2-3-post-demokratische-zivilisation-2-3-2-ideale-und-beste-form-der-demokratie"></a>
@@ -1150,7 +1180,7 @@ _**Ideal and best form of democracy**_
 _(post-democracy as conscious, ethical collaboration with AI and global justice)_
 
 | Natural desire          | Refined correspondence in the “ideal and best form of democracy” |
-| ----------------------- | ----------------------------------------------------------------- |
+| ---- | ---- |
 | **Survival**            | Resilient biosphere, inclusive security architecture              |
 | **Reproduction**        | Transmission of values across generations, educational justice    |
 | **Learning/adaptation** | Co-evolution with AI, collective intelligence                     |
@@ -1178,7 +1208,7 @@ The ideal democracy refines natural desires by combining collective intelligence
 ##### 2.3.2.2 Deep dive and analysis
 
 | Natural desire   | Refined correspondence in the ideal democracy              |
-| ---------------- | ---------------------------------------------------------- |
+| ---- | ---- |
 | **Survival**     | Sustainable economy, inclusive security architectures      |
 | **Reproduction** | Intergenerational transfer of values and social justice    |
 | **Learning**     | Open co-evolution of human and machine knowledge           |
@@ -1211,7 +1241,7 @@ The ideal democracy refines natural desires by combining collective intelligence
 ##### 2.3.2.4 Target-group-specific perspectives
 
 | Target group                | Focus                                                       |
-| --------------------------- | ----------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision-makers         | Legislation on integrating climate and social policy, and on AI ethics |
 | 📚 Researchers              | Interdisciplinary research on human–machine collaboration   |
 | 🧍 Citizens                 | Access to participatory planning workshops                  |
@@ -1252,9 +1282,11 @@ d) Hierarchical security structures
 \newpage
 
 ---
-source: >-
-  content/2.-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation/2.4-schlussgedanke.md
+content_id: erda.book.2.naturliche.verlangen.und.ihre.bedeutung.fur.demokratie.und.zivilisation.2.4.schlussgedanke
+content_lang: en
+source: de/content/2.-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation/2.4-schlussgedanke.md
 status: draft
+  content/2.-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation/2.4-schlussgedanke.md
 ---
 <a id="md-2-naturliche-verlangen-und-ihre-bedeutung-fur-demokratie-und-zivilisation-2-4-schlussgedanke"></a>
 
@@ -1284,7 +1316,7 @@ Democratic civilisation is not a static construct, but a dynamic ecosystem that 
 #### 2.4.2 Deep dive and analysis
 
 | Dimension                 | Rigid democracy            | Living resonance democracy                     |
-| ------------------------- | -------------------------- | ---------------------------------------------- |
+| ---- | ---- | ---- |
 | **Structure**             | Entrenched institutions    | Flexible feedback and learning loops           |
 | **Citizen participation** | Periodic elections         | Continuous dialogue formats                    |
 | **Decision-making**       | Top-down                   | Participatory, bottom-up impulses              |
@@ -1314,7 +1346,7 @@ Democratic civilisation is not a static construct, but a dynamic ecosystem that 
 #### 2.4.4 Target-group-specific perspectives
 
 | Target group                | Focus                                                        |
-| --------------------------- | ------------------------------------------------------------ |
+| ---- | ---- |
 | 🏛️ Decision-makers         | Establishing adaptive constitutional review mechanisms       |
 | 📚 Researchers              | Development and validation of resonance metrics              |
 | 🧍 Citizens                 | Participation in democracy labs and feedback platforms       |
@@ -1352,6 +1384,13 @@ d) Strategy of isolation
 
 \newpage
 
+---
+content_id: erda.book.3.demokratie.als.evolutionarer.prozess.readme
+content_lang: en
+source: de/content/3.-demokratie-als-evolutionarer-prozess/README.md
+status: draft
+
+---
 <a id="md-3-demokratie-als-evolutionarer-prozess-readme"></a>
 
 # 3. Democracy as an evolutionary process
@@ -1425,7 +1464,9 @@ This chapter treats democracy not as a static model but as a **living, learning 
 \newpage
 
 ---
-source: content/3.-demokratie-als-evolutionarer-prozess/3.1-prolog.md
+content_id: erda.book.3.demokratie.als.evolutionarer.prozess.3.1.prolog
+content_lang: en
+source: de/content/3.-demokratie-als-evolutionarer-prozess/3.1-prolog.md
 status: draft
 ---
 <a id="md-3-demokratie-als-evolutionarer-prozess-3-1-prolog"></a>
@@ -1467,7 +1508,7 @@ At the origin stands the fundamental desire for survival – human beings were f
 #### 3.1.2 Deep dive and analysis
 
 | Phase                   | Characteristics                                | Significance for democracy                               |
-| ----------------------- | ---------------------------------------------- | -------------------------------------------------------- |
+| ---- | ---- | ---- |
 | **Struggle to survive** | Instinct, fear, hierarchy                      | Need for protection, but limited capacity for reflection |
 | **World of shadows**    | Images instead of reality, fear of uncertainty | Urge for truth, initial struggle for meaning             |
 | **Discovery of fire**   | Symbolic reflection, communicative exchange    | Beginning of collective processes of gaining insight     |
@@ -1494,7 +1535,7 @@ At the origin stands the fundamental desire for survival – human beings were f
 #### 3.1.4 Target-group-specific perspectives
 
 | Target group                | Focus                                                             |
-| --------------------------- | ----------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision-makers         | Setting up reflexive dialogue platforms at municipal level        |
 | 📚 Researchers              | Studies on political anthropology and collective resonance        |
 | 🧍 Citizens                 | Participation in "cave workshops" to explore their own premises   |
@@ -1532,7 +1573,9 @@ d) The stormy ocean
 \newpage
 
 ---
-source: content/3.-demokratie-als-evolutionarer-prozess/3.2-eine-reflexion-im-geiste-von-aristoteles.md
+content_id: erda.book.3.demokratie.als.evolutionarer.prozess.3.2.eine.reflexion.im.geiste.von.aristoteles
+content_lang: en
+source: de/content/3.-demokratie-als-evolutionarer-prozess/3.2-eine-reflexion-im-geiste-von-aristoteles.md
 status: draft
 ---
 <a id="md-3-demokratie-als-evolutionarer-prozess-3-2-eine-reflexion-im-geiste-von-aristoteles"></a>
@@ -1566,7 +1609,7 @@ In a world ever more deeply interwoven with technology, democracy must not retre
 #### 3.2.2 Deep dive and analysis
 
 | Aristotelian principle                 | Description                              | Democratic implementation                        |
-| -------------------------------------- | ---------------------------------------- | ----------------------------------------------- |
+| ---- | ---- | ---- |
 | **Doctrine of the mean (mesotes)**     | Virtue lies in the middle between excesses | Balancing plurality and unity                 |
 | **Practical reason (\_phronēsis\_)**     | Capacity for judgement built through experience | Participatory debate formats as a training ground |
 | **Ethos of action**                    | Character shaped through repeated practice | Civic engagement as a virtuous habit          |
@@ -1596,7 +1639,7 @@ In a world ever more deeply interwoven with technology, democracy must not retre
 #### 3.2.4 Target-group-specific perspectives
 
 | Target group                | Focus                                                               |
-| --------------------------- | ------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision-makers         | Institutional anchoring of ethical reflection processes             |
 | 📚 Researchers              | Research on the impact of promoting practical virtue in democracies |
 | 🧍 Citizens                 | Access to \_phronēsis\_ workshops and ethics scouts                   |
@@ -1636,7 +1679,9 @@ d) _Eudaimonia_
 \newpage
 
 ---
-source: content/3.-demokratie-als-evolutionarer-prozess/3.3-demokratie-als-resonanzprozess.md
+content_id: erda.book.3.demokratie.als.evolutionarer.prozess.3.3.demokratie.als.resonanzprozess
+content_lang: en
+source: de/content/3.-demokratie-als-evolutionarer-prozess/3.3-demokratie-als-resonanzprozess.md
 status: draft
 ---
 <a id="md-3-demokratie-als-evolutionarer-prozess-3-3-demokratie-als-resonanzprozess"></a>
@@ -1672,7 +1717,7 @@ Democracy is not a rigid instrument of administration, but a living space of res
 #### 3.3.2 Deep dive and analysis
 
 | Aspect                | Mechanistic control             | Resonance-oriented democracy                           |
-| --------------------- | ------------------------------ | ------------------------------------------------------ |
+| ---- | ---- | ---- |
 | Goal                  | Efficiency and standardisation | Integration of diversity and dynamism                  |
 | Error handling        | Sanctions, peer review         | Feedback loops, iterative adjustment                   |
 | Role of technology    | Instrument of surveillance     | Platform for networking and mutual exchange            |
@@ -1700,7 +1745,7 @@ Democracy is not a rigid instrument of administration, but a living space of res
 #### 3.3.4 Target-group-specific perspectives
 
 | Target group                | Focus                                                         |
-| --------------------------- | ------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision-makers         | Implementation of resonance labs and feedback cycles          |
 | 📚 Researchers              | Evaluation of resonance mechanisms and impact measurement     |
 | 🧍 Citizens                 | Participation in digital feedback platforms and co-creation events |
@@ -1714,10 +1759,11 @@ Democracy is not a rigid instrument of administration, but a living space of res
 
 ##### ✅ Checklist: resonance in democratic everyday life
 
-- [ ] Do I use opportunities to give constructive feedback to institutions?
-- [ ] Do I participate in dialogues that explicitly seek mutual understanding?
-- [ ] Do I support the use of technologies that strengthen, rather than weaken, participation?
-- [ ] Do I perceive mistakes as invitations to learn – also in politics?
+* [ ] Do I actively listen to others before I respond or judge?
+* [ ] Do I use mistakes and criticism as learning impulses rather than as attacks?
+* [ ] Do I consciously look for voices that have so far been missing from the dialogue?
+* [ ] Do I give feedback in a way that enables development?
+* [ ] Do I help ensure that participation is not only collected, but visibly processed further?
 
 ##### ❓ Mini quiz
 
@@ -1739,7 +1785,9 @@ d) Autonomous decision-making
 \newpage
 
 ---
-source: content/3.-demokratie-als-evolutionarer-prozess/3.4-demokratie-ist-bewegung.md
+content_id: erda.book.3.demokratie.als.evolutionarer.prozess.3.4.demokratie.ist.bewegung
+content_lang: en
+source: de/content/3.-demokratie-als-evolutionarer-prozess/3.4-demokratie-ist-bewegung.md
 status: draft
 ---
 <a id="md-3-demokratie-als-evolutionarer-prozess-3-4-demokratie-ist-bewegung"></a>
@@ -1769,7 +1817,7 @@ Democracy is not a static construct, but a **movement form of the commonwealth**
 #### 3.4.2 Deep dive and analysis
 
 | Dimension          | Static model            | Democratic movement                                  |
-| ------------------ | ----------------------- | ---------------------------------------------------- |
+| ---- | ---- | ---- |
 | Structure          | Fixed institutions      | Agile processes and iterative learning cycles        |
 | Participation      | Periodic elections      | Continuous engagement and feedback formats           |
 | Logic of decision  | Top-down rules          | Bottom-up initiatives and co-creation                |
@@ -1797,7 +1845,7 @@ Democracy is not a static construct, but a **movement form of the commonwealth**
 #### 3.4.4 Target-group-specific perspectives
 
 | Target group                | Focus                                                                |
-| --------------------------- | -------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision-makers         | Agile legislative processes and flexible mandate cycles              |
 | 📚 Researchers              | Research on participatory experiments and cultures of learning       |
 | 🧍 Citizens                 | Invitations to democracy expeditions and continuous dialogues        |
@@ -1837,7 +1885,9 @@ d) Absolute consensus
 \newpage
 
 ---
-source: content/3.-demokratie-als-evolutionarer-prozess/3.5-tugend-als-voraussetzung-demokratischer-gestaltung.md
+content_id: erda.book.3.demokratie.als.evolutionarer.prozess.3.5.tugend.als.voraussetzung.demokratischer.gestaltung
+content_lang: en
+source: de/content/3.-demokratie-als-evolutionarer-prozess/3.5-tugend-als-voraussetzung-demokratischer-gestaltung.md
 status: draft
 ---
 <a id="md-3-demokratie-als-evolutionarer-prozess-3-5-tugend-als-voraussetzung-demokratischer-gestaltung"></a>
@@ -1870,12 +1920,18 @@ Without individual and collective virtue, it withers into administration or dege
 - **Resonance competence:** Ethical action connects individual well-being with the common good.
 - **Applied ethics:** Rules are not enough – lived values are indispensable.
 
+##### Kantian self-binding and democratic virtue
+
+In ERDA, the Aristotelian line of virtue is complemented by a Kantian boundary: people must never be treated in democratic politics merely as means – not as vote reservoirs, labour, data points, security resources, soldiers or target groups. A democracy of mature citizens therefore means freedom plus responsibility plus judgement: citizens judge for themselves, object, assume responsibility according to their capacities and at the same time respect the equal dignity of others.
+
+This self-binding makes democratic strategy more resilient. Power may act, but it must remain limited by law, truth, accountability and human dignity. Where security policy, AI, citizen duty or defence lose this boundary, strength becomes mere means-end technique. Where they preserve it, agency becomes a protective form of democratic freedom.
+
 ***
 
 #### 3.5.2 Deep dive and analysis
 
 | Dimension                  | Deficient democracy             | Virtue-based democracy                        |
-| -------------------------- | -------------------------------- | --------------------------------------------- |
+| ---- | ---- | ---- |
 | **Understanding of freedom** | Unlimited self-realisation    | Ethics of responsibility as the foundation    |
 | **Institutional trust**    | Formalism and rule-following    | Integrity and leading by example              |
 | **Handling of conflict**   | Polarisation and dogmatism      | Ability to engage in dialogue and respectful difference |
@@ -1903,7 +1959,7 @@ Without individual and collective virtue, it withers into administration or dege
 #### 3.5.4 Target-group-specific perspectives
 
 | Target group                | Focus                                                                |
-| --------------------------- | -------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision-makers         | Institutionalisation of ethical reflection processes                 |
 | 📚 Researchers              | Empirical studies on the impact of promoting democratic virtue       |
 | 🧍 Citizens                 | Low-threshold access to virtue labs and opportunities for reflection |
@@ -1933,6 +1989,8 @@ D) Maximised individual interests
 
 ***
 
+> **Concrete application:** The Anti-Game-Over Principle formulates a practical application of the virtue requirements described here, especially with regard to an ethics of responsibility toward future generations. See [Appendix P.1: Paper – Childhood, Adulthood, and the Anti-Game-Over Principle](#md-appendix-p-papers-p-1-childhood-adulthood-and-the-anti-game-over-principle).
+
 #### 3.5.6 Sources and references
 
 1. **Nussbaum, Martha C. (2011):** _Creating Capabilities: The Human Development Approach_. Cambridge, MA: The Belknap Press of Harvard University Press. ISBN: 978-0-674-05054-9. Available online at: <https://www.hup.harvard.edu/books/9780674072350> (accessed 2025-05-15).
@@ -1941,6 +1999,13 @@ D) Maximised individual interests
 
 \newpage
 
+---
+content_id: erda.book.3.demokratie.als.evolutionarer.prozess.3.6.naturliche.verlangen.der.seele.reflexiv
+content_lang: en
+source: de/content/3.-demokratie-als-evolutionarer-prozess/3.6-naturliche-verlangen-der-seele-reflexiv.md
+status: draft
+
+---
 <a id="md-3-demokratie-als-evolutionarer-prozess-3-6-naturliche-verlangen-der-seele-reflexiv"></a>
 
 ## 3.6 Natural desires of the soul (reflexive)
@@ -1948,7 +2013,7 @@ D) Maximised individual interests
 _**Natural desires of the soul (reflexive)**_
 
 | Natural desires of the soul – seven paths to resonance | Description                                                            |
-| ------------------------------------------------------ | ---------------------------------------------------------------------- |
+| ---- | ---- |
 | 🗯️ **Freedom**                                         | Not as arbitrariness, but as self-unfolding in harmony with one's nature |
 | 🔎 **Truth**                                           | The longing to look behind the veil – to recognise what is real       |
 | ❤️ **Connectedness**                                   | The feeling of being part of something greater – beyond loneliness    |
@@ -1973,7 +2038,7 @@ The seven desires of the soul are not individual privileges, but collective reso
 #### 3.6.2 Deep dive and analysis
 
 | Desire              | Democratic resonance                                     | Example                                    |
-| ------------------- | -------------------------------------------------------- | ------------------------------------------ |
+| ---- | ---- | ---- |
 | 🗯️ **Freedom**      | Self-responsibility instead of egoism                    | Voluntary work on a municipal council      |
 | 🔎 **Truth**        | Transparent information and fact-based debates           | Open data portals                          |
 | ❤️ **Connectedness** | Solidarity networks and collective identity             | Citizens' forums with diverse voices       |
@@ -2002,7 +2067,7 @@ The seven desires of the soul are not individual privileges, but collective reso
 #### 3.6.4 Target-group-specific perspectives
 
 | Target group                | Focus                                                              |
-| --------------------------- | ------------------------------------------------------------------ |
+| ---- | ---- |
 | 🏛️ Decision-makers         | Introduction of "islands of reflection" into legislative processes |
 | 📚 Researchers              | Research on the impact of interventions for rest and meaning       |
 | 🧍 Citizens                 | Access to resonance workshops and narrative exchange formats       |
@@ -2041,10 +2106,13 @@ status: draft
 
 ## 3.6 Natural desires of the soul (reflexive)
 
+
 \newpage
 
 ---
-source: content/3.-demokratie-als-evolutionarer-prozess/3.7-schlussgedanke.md
+content_id: erda.book.3.demokratie.als.evolutionarer.prozess.3.7.schlussgedanke
+content_lang: en
+source: de/content/3.-demokratie-als-evolutionarer-prozess/3.7-schlussgedanke.md
 status: draft
 ---
 <a id="md-3-demokratie-als-evolutionarer-prozess-3-7-schlussgedanke"></a>
@@ -2084,7 +2152,7 @@ Democracy thrives on **self-reflection** and **friendliness to error**. It is a 
 #### 3.7.2 Deep dive & analysis
 
 | Aspect                 | Static perspective           | Democratic navigation                        |
-| ---------------------- | ---------------------------- | -------------------------------------------- |
+| ---- | ---- | ---- |
 | **Target vision**      | Perfect alignment            | Open learning path                           |
 | **Error handling**     | Sanction and blame           | Errors as feedback impulses                  |
 | **Decision process**   | Top-down procedures          | Iterative, participatory negotiation         |
@@ -2112,7 +2180,7 @@ Democracy thrives on **self-reflection** and **friendliness to error**. It is a 
 #### 3.7.4 Target-group-specific perspectives
 
 | Target group                | Focus                                                                  |
-| --------------------------- | ---------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision-makers         | Institutional anchoring of regular meta-reflection cycles               |
 | 📚 Researchers              | Study of democracy-resilience drills and learning loops                 |
 | 🧍 Citizens                 | Participation in resilience exercises and feedback platforms            |
@@ -2152,7 +2220,9 @@ d) Efficiency
 \newpage
 
 ---
-source: content/4.-das-erda-gesamtkonzept/README.md
+content_id: erda.book.4.das.erda.gesamtkonzept.readme
+content_lang: en
+source: de/content/4.-das-erda-gesamtkonzept/README.md
 status: draft
 ---
 <a id="md-4-das-erda-gesamtkonzept-readme"></a>
@@ -2236,19 +2306,34 @@ Chapter 4 describes the institutional overall architecture of the _European Righ
 
 **For better understanding and conceptual clarity**
 
-<table data-header-hidden><thead><tr><th width="228.800048828125"></th><th></th></tr></thead><tbody><tr><td><strong>Term</strong></td><td><strong>Definition</strong></td></tr><tr><td><strong>ERDA</strong></td><td><em>European Rights-Based Democratic Alliance</em> – federation of democratic constitutional states with a shared constitution, post-scarcity economy and digital participation</td></tr><tr><td><strong>EVA / EDA</strong></td><td><em>European Defence Alliance</em> – strategic security architecture of democratic states, complementing NATO</td></tr><tr><td><strong>Article 5 equivalent</strong></td><td>Legally binding mutual assistance clause within the EDA, comparable to the NATO Treaty</td></tr><tr><td><strong>CIVITAS</strong></td><td>Digital agora for democratic citizen participation, discourse, public transparency and civil society engagement</td></tr><tr><td><strong>Fediverse / ActivityPub</strong></td><td>Open, decentralised protocol for interlinking social networks (e.g. Mastodon), foundation for CIVITAS</td></tr><tr><td><strong>GDPR / eIDAS / ECHR</strong></td><td>European frameworks for data protection, electronic identification and human rights</td></tr><tr><td><strong>Strategic autonomy</strong></td><td>Capacity to act independently in defence, diplomacy, technology and the economy without systemic dependency</td></tr><tr>
-  <td><strong>Weaponized interdependence</strong></td>
-  <td>Strategic use of economic dependencies as coercive leverage – e.g. via critical inputs, energy, platforms, logistics or standards; turns trade policy into security architecture.</td>
-</tr><tr>
-  <td><strong>Pragmatic Federalism</strong></td>
-  <td>Integration method: willing states move ahead in decisive domains (opt-in), build real decision institutions with democratic oversight; door open for accession, but protection against sabotage of shared goals.</td>
-</tr><tr><td><strong>PESCO / IRIS² / EDIRPA</strong></td><td>EU defence and space initiatives to strengthen joint capacities</td></tr><tr><td><strong>Cyber resilience</strong></td><td>Ability to fend off cyberattacks and hybrid threats and to restore systems quickly</td></tr><tr><td><strong>Coalition of the willing</strong></td><td>Group of states within an alliance that enables advanced integration or joint action</td></tr><tr><td><strong>Post-scarcity economy</strong></td><td>Societal model with universal access to basic resources, made possible by automation, digitalisation and shared prosperity</td></tr><tr><td><strong>Democratic resilience</strong></td><td>Resilience of democratic systems to internal and external attacks – anchored culturally, institutionally and technologically</td></tr><tr><td><strong>Digital agora</strong></td><td>Open, publicly controlled space for political participation and discursive democracy on the internet</td></tr><tr><td><strong>Concentric circles</strong></td><td>Tiered model of membership and partnership within ERDA – from constitutional integration to global associated cooperation</td></tr><tr><td><strong>Democracy Security Network</strong></td><td>Values-based security network of democratic states for defence against disinformation, coercion and hybrid influence operations</td></tr><tr><td><strong>Civilisational projection</strong></td><td>Anthropological theory according to which basic desires of living beings are also reflected in social orders (see Section 8)</td></tr></tbody></table>
+| **Term** | **Definition** |
+| --- | --- |
+| **ERDA** | \_European Rights-Based Democratic Alliance\_ – federation of democratic constitutional states with a shared constitution, post-scarcity economy and digital participation |
+| **EVA / EDA** | \_European Defence Alliance\_ – strategic security architecture of democratic states, complementing NATO |
+| **Article 5 equivalent** | Legally binding mutual assistance clause within the EDA, comparable to the NATO Treaty |
+| **CIVITAS** | Digital agora for democratic citizen participation, discourse, public transparency and civil society engagement |
+| **Fediverse / ActivityPub** | Open, decentralised protocol for interlinking social networks (e.g. Mastodon), foundation for CIVITAS |
+| **GDPR / eIDAS / ECHR** | European frameworks for data protection, electronic identification and human rights |
+| **Strategic autonomy** | Capacity to act independently in defence, diplomacy, technology and the economy without systemic dependency |
+| **Weaponized interdependence** | Strategic use of economic dependencies as coercive leverage – e.g. via critical inputs, energy, platforms, logistics or standards; turns trade policy into security architecture. |
+| **Pragmatic Federalism** | Integration method: willing states move ahead in decisive domains (opt-in), build real decision institutions with democratic oversight; door open for accession, but protection against sabotage of shared goals. |
+| **PESCO / IRIS² / EDIRPA** | EU defence and space initiatives to strengthen joint capacities |
+| **Cyber resilience** | Ability to fend off cyberattacks and hybrid threats and to restore systems quickly |
+| **Coalition of the willing** | Group of states within an alliance that enables advanced integration or joint action |
+| **Post-scarcity economy** | Societal model with universal access to basic resources, made possible by automation, digitalisation and shared prosperity |
+| **Democratic resilience** | Resilience of democratic systems to internal and external attacks – anchored culturally, institutionally and technologically |
+| **Digital agora** | Open, publicly controlled space for political participation and discursive democracy on the internet |
+| **Concentric circles** | Tiered model of membership and partnership within ERDA – from constitutional integration to global associated cooperation |
+| **Democracy Security Network** | Values-based security network of democratic states for defence against disinformation, coercion and hybrid influence operations |
+| **Civilisational projection** | Anthropological theory according to which basic desires of living beings are also reflected in social orders (see Section 8) |
 
 
 \newpage
 
 ---
-source: content/4.-das-erda-gesamtkonzept/4.1-vision-and-leitprinzip/README.md
+content_id: erda.book.4.das.erda.gesamtkonzept.4.1.vision.and.leitprinzip.readme
+content_lang: en
+source: de/content/4.-das-erda-gesamtkonzept/4.1-vision-and-leitprinzip/README.md
 status: draft
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-1-vision-and-leitprinzip-readme"></a>
@@ -2267,7 +2352,9 @@ It defends freedom, justice, diversity and long‑term viability – with the in
 \newpage
 
 ---
-source: content/4.-das-erda-gesamtkonzept/4.1-vision-and-leitprinzip/4.1.1-mehrsprachige-narrative-und-kulturelle-identitat.md
+content_id: erda.book.4.das.erda.gesamtkonzept.4.1.vision.and.leitprinzip.4.1.1.mehrsprachige.narrative.und.kulturelle.identitat
+content_lang: en
+source: de/content/4.-das-erda-gesamtkonzept/4.1-vision-and-leitprinzip/4.1.1-mehrsprachige-narrative-und-kulturelle-identitat.md
 status: draft
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-1-vision-and-leitprinzip-4-1-1-mehrsprachige-narrative-und-kulturelle-identitat"></a>
@@ -2321,7 +2408,7 @@ Europe is a continent of diversity – linguistically, culturally and historical
 ##### 4.1.1.2 Deepening & Analysis
 
 | Dimension                 | Traditional narrative           | Multilingual narrative                                           |
-| ------------------------- | ------------------------------- | ---------------------------------------------------------------- |
+| ---- | ---- | ---- |
 | **Accessibility**         | Monolingual, top-down           | Multilingual, bottom-up: including all levels and groups         |
 | **Identity formation**    | Single language as lead culture | Plurality of languages as a resource of shared belonging         |
 | **Communication dynamic** | Translation as an afterthought  | Simultaneous co-creation and cross-cultural dialogues            |
@@ -2343,7 +2430,7 @@ Europe is a continent of diversity – linguistically, culturally and historical
 ##### 4.1.1.4 Target-Group-Specific Perspectives
 
 | Target group                 | Focus                                                                |
-| ---------------------------- | -------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision-makers          | Establishing binding multilingual quotas in EU documents             |
 | 📚 Researchers               | Researching the impact of multilingual narratives on social cohesion |
 | 🧍 Citizens                  | Participation in intercultural storytelling workshops                |
@@ -2383,7 +2470,9 @@ Europe is a continent of diversity – linguistically, culturally and historical
 \newpage
 
 ---
-source: content/4.-das-erda-gesamtkonzept/4.1-vision-and-leitprinzip/4.1.2-starke-zivilgesellschaft-als-partnerin.md
+content_id: erda.book.4.das.erda.gesamtkonzept.4.1.vision.and.leitprinzip.4.1.2.starke.zivilgesellschaft.als.partnerin
+content_lang: en
+source: de/content/4.-das-erda-gesamtkonzept/4.1-vision-and-leitprinzip/4.1.2-starke-zivilgesellschaft-als-partnerin.md
 status: draft
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-1-vision-and-leitprinzip-4-1-2-starke-zivilgesellschaft-als-partnerin"></a>
@@ -2400,7 +2489,7 @@ _Philosophical impulse_
 > _A vibrant democracy needs citizens who see themselves not merely as passive recipients, but as active co‑creators of shared reality and as bearers of responsibility for an interplanetary future._
 
 | Principle of civil society | Democratic implementation        |
-| -------------------------- | --------------------------------- |
+| ---- | ---- |
 | Participation              | Participatory innovation labs     |
 | Representation             | Citizens' assemblies \& CIVITAS platform |
 
@@ -2426,7 +2515,7 @@ A resilient democracy needs a vibrant civil society as its **partner**. It funct
 ##### 4.1.2.2 Deepening & Analysis
 
 | Dimension                 | Traditional governance model     | Partnership with civil society                 |
-| ------------------------- | -------------------------------- | ---------------------------------------------- |
+| ---- | ---- | ---- |
 | **Participation structure** | Top‑down decision‑making paths   | Co‑creation and participatory bodies           |
 | **Decision processes**    | Formal, bureaucratic             | Flexible, dialogue‑oriented                    |
 | **Source of innovation**  | External experts                 | Grassroots initiatives and community insights  |
@@ -2449,7 +2538,7 @@ A resilient democracy needs a vibrant civil society as its **partner**. It funct
 ##### 4.1.2.4 Target-Group-Specific Perspectives
 
 | Target group              | Focus                                                                 |
-| ------------------------- | --------------------------------------------------------------------- |
+| ---- | ---- |
 | 🤝 NGOs                   | Strategic involvement in decision‑making and oversight processes      |
 | 🏛️ Local administrations | Establishment of participatory structures and communication channels  |
 | 🧍 Citizens               | Active co‑creation and feedback culture                               |
@@ -2488,7 +2577,9 @@ d) One‑way communication
 \newpage
 
 ---
-source: content/4.-das-erda-gesamtkonzept/4.1-vision-and-leitprinzip/4.1.3-institutionelle-balance.md
+content_id: erda.book.4.das.erda.gesamtkonzept.4.1.vision.and.leitprinzip.4.1.3.institutionelle.balance
+content_lang: en
+source: de/content/4.-das-erda-gesamtkonzept/4.1-vision-and-leitprinzip/4.1.3-institutionelle-balance.md
 status: draft
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-1-vision-and-leitprinzip-4-1-3-institutionelle-balance"></a>
@@ -2529,7 +2620,7 @@ A well‑balanced institutional architecture is the backbone of any democratic a
 ##### 4.1.3.2 Deepening & Analysis
 
 | Dimension                    | Centralised structures           | Institutional balance                             |
-| ---------------------------- | -------------------------------- | ------------------------------------------------- |
+| ---- | ---- | ---- |
 | **Level of decision-making** | Single‑tier decision‑making      | Multi‑level, graduated decision processes         |
 | **Distribution of competences** | Concentration at the top      | Allocation across regional, national and EU level |
 | **Speed of response**        | Slow, bureaucratic               | Agile through clear mandates and escalation paths |
@@ -2552,7 +2643,7 @@ A well‑balanced institutional architecture is the backbone of any democratic a
 ##### 4.1.3.4 Target-Group-Specific Perspectives
 
 | Target group                   | Focus                                                         |
-| ------------------------------ | ------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Politics \& administration   | Implementation of multi‑level governance structures          |
 | 📚 Academia \& experts          | Research on the effects of institutional balance             |
 | 🧍 Citizens                    | Following and assessing decision‑making processes            |
@@ -2596,16 +2687,18 @@ d) Secrecy obligations
    Available online at: https://www.opengovpartnership.org/ogp-2022-annual-report/ (accessed 2025-05-15).
 8. **Stanford University Press (2023):** _Checks and Balances Reimagined_. Analysis of modern concepts of separation of powers.  
    Available online at: https://www.sup.org/books/title/?id=32710 (accessed 2025-05-15).
-9. **ERDA Project (2025):** _Reform Phase: 2025–2035 – Strategic Reorientation of the EU_. Chapter 4.2.  
+9. **The ERDA Book (2026):** _Reform Phase: 2025–2035 – Strategic Reorientation of the EU_. Chapter 4.2.
    See: ../4.2-reformphase-2025-2035-strategische-neuausrichtung
-10. **ERDA Project (2025):** _Europe 2.0 – Roadmap for a Liveable, Resilient and Leading Union_. Appendix C.  
+10. **The ERDA Book (2026):** _Europe 2.0 – Roadmap for a Liveable, Resilient and Leading Union_. Appendix C.
     See: ../../anhang-c-europa-2.0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union.md
 
 
 \newpage
 
 ---
-source: content/4.-das-erda-gesamtkonzept/4.1-vision-and-leitprinzip/4.1.4-demokratische-kontrolle-uber-ki-prozesse.md
+content_id: erda.book.4.das.erda.gesamtkonzept.4.1.vision.and.leitprinzip.4.1.4.demokratische.kontrolle.uber.ki.prozesse
+content_lang: en
+source: de/content/4.-das-erda-gesamtkonzept/4.1-vision-and-leitprinzip/4.1.4-demokratische-kontrolle-uber-ki-prozesse.md
 status: draft
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-1-vision-and-leitprinzip-4-1-4-demokratische-kontrolle-uber-ki-prozesse"></a>
@@ -2650,7 +2743,7 @@ AI systems are exerting increasing influence on political and administrative dec
 ##### 4.1.4.2 Deepening & Analysis
 
 | Dimension                            | Uncontrolled AI deployment          | Democratically controlled AI processes          |
-| ------------------------------------ | ----------------------------------- | ----------------------------------------------- |
+| ---- | ---- | ---- |
 | **Decision traceability**            | Black‑box models                    | Explainable AI and documentation                |
 | **Accountability**                   | Unclear responsibilities            | Clear assignment of decision responsibility     |
 | **Representation of interests**      | Exclusive developer perspective     | Inclusive stakeholder audits                    |
@@ -2673,7 +2766,7 @@ AI systems are exerting increasing influence on political and administrative dec
 ##### 4.1.4.4 Target-Group-Specific Perspectives
 
 | Target group                        | Focus                                                                |
-| ----------------------------------- | -------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Parliamentarians                | Legal framework for AI transparency and accountability               |
 | ⚖️ Courts \& data-protection bodies | Oversight and sanction mechanisms in cases of AI violations          |
 | 🧍 Citizens                         | Educational offerings on AI basics and channels for complaints       |
@@ -2714,7 +2807,9 @@ d) Proprietary closed‑source algorithms
 \newpage
 
 ---
-source: content/4.-das-erda-gesamtkonzept/4.1-vision-and-leitprinzip/4.1.5-interplanetare-verantwortung-und-evolutionare-perspektiven.md
+content_id: erda.book.4.das.erda.gesamtkonzept.4.1.vision.and.leitprinzip.4.1.5.interplanetare.verantwortung.und.evolutionare.perspektiven
+content_lang: en
+source: de/content/4.-das-erda-gesamtkonzept/4.1-vision-and-leitprinzip/4.1.5-interplanetare-verantwortung-und-evolutionare-perspektiven.md
 status: draft
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-1-vision-and-leitprinzip-4-1-5-interplanetare-verantwortung-und-evolutionare-perspektiven"></a>
@@ -2751,7 +2846,7 @@ Democracy does not end at the edge of Earth’s atmosphere. Interplanetary respo
 ##### 4.1.5.2 Deepening & Analysis
 
 | Dimension             | Conventional spaceflight          | ERDA interplanetary responsibility                   |
-| --------------------- | ---------------------------------- | ---------------------------------------------------- |
+| ---- | ---- | ---- |
 | **Governance model**  | National sovereignty               | Multilateral solar alliances                         |
 | **Access to resources** | Economic priority                | Common good and commons principle                    |
 | **Ethical framework** | Ad‑hoc regulations                 | Space law and democratic codices                     |
@@ -2774,7 +2869,7 @@ Democracy does not end at the edge of Earth’s atmosphere. Interplanetary respo
 ##### 4.1.5.4 Target-Group-Specific Perspectives
 
 | Target group                 | Focus                                                                |
-| ---------------------------- | -------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Governments \& agencies   | Integration of democratic principles into space treaties             |
 | 🚀 Space industry            | Development of transparent governance and compliance models          |
 | 📚 Researchers               | Studies on space law, interplanetary ethics and long‑term dynamics   |
@@ -2803,19 +2898,21 @@ d) Secret negotiations between agencies
 ##### 4.1.5.6 Sources & References
 
 1. _Codification as space law_ – SOLAR ALLIANCE Codex:  
-   See: ../../9.-das-space-konzept/9.1-erda-codex-fur-kosmische-verantwortung/9.1.3-aufbau-einer-solar-alliance/9.1.3.1-kodifizierung-als-kosmosrecht.md
+   See: ../../9.-das-space-konzept/9.1-erda-codex-fur-kosmische-verantwortung/README.md
 2. _Planetary ethics as living navigation:_  
-   See: ../../9.-das-space-konzept/9.8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit/9.8.3-planetare-ethik-als-lebende-navigation.md
+   See: ../../9.-das-space-konzept/9.8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit/README.md
 3. _Sustainability across generations:_  
-   See: ../../9.-das-space-konzept/9.1-erda-codex-fur-kosmische-verantwortung/9.1.2-grundsatze/9.1.2.5-nachhaltigkeit-uber-generationen-hinweg.md
+   See: ../../9.-das-space-konzept/9.1-erda-codex-fur-kosmische-verantwortung/README.md
 4. _No militarisation without democratic control:_  
-   See: ../../9.-das-space-konzept/9.1-erda-codex-fur-kosmische-verantwortung/9.1.2-grundsatze/9.1.2.3-keine-militarisierung-ohne-demokratische-kontrolle.md
+   See: ../../9.-das-space-konzept/9.1-erda-codex-fur-kosmische-verantwortung/README.md
 
 
 \newpage
 
 ---
-source: content/4.-das-erda-gesamtkonzept/4.1-vision-and-leitprinzip/4.1.6-erda-im-zeitlichen-wandel.md
+content_id: erda.book.4.das.erda.gesamtkonzept.4.1.vision.and.leitprinzip.4.1.6.erda.im.zeitlichen.wandel
+content_lang: en
+source: de/content/4.-das-erda-gesamtkonzept/4.1-vision-and-leitprinzip/4.1.6-erda-im-zeitlichen-wandel.md
 status: draft
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-1-vision-and-leitprinzip-4-1-6-erda-im-zeitlichen-wandel"></a>
@@ -2836,7 +2933,7 @@ _**ERDA in the Course of Time**_
 **Perspective 1: 🧠 Realistic–optimistic assessment (by today’s AI)**
 
 | Year | Development step                                                                               |
-| ---- | ------------------------------------------------------------------------------------------------ |
+| ---- | ---- |
 | 2025 | Initial alliance‑building – preparatory declarations and programme alignments.                   |
 | 2030 | Formal founding of a coalition of the willing with shared core values.                          |
 | 2035 | Broad political and societal dialogue on a shared ERDA constitution.                            |
@@ -2846,7 +2943,7 @@ _**ERDA in the Course of Time**_
 **Perspective 1b: ⚙️ Realistic–pragmatic acceleration (2026–2035)**
 
 | Year | Development step (acceleration via a “coalition of the willing”) |
-| ---- | --------------------------------------------------------------- |
+| ---- | ---- |
 | 2026 | Launch of a binding “coalition of the willing” in 2–3 domains (e.g. air defence, joint procurement, sanctions enforcement). |
 | 2027 | Joint situation centre + crisis decision mode for the willing (fast decisions, clear accountability). |
 | 2028 | Joint investment framework for strategic industry (critical inputs, chips, energy technologies, dual‑use capacities). |
@@ -2863,7 +2960,7 @@ _**ERDA in the Course of Time**_
 **Perspective 2: 🌌 Extraterrestrial intelligence (10× more mature than present‑day humanity)**
 
 | Year | Development step                                                                                          |
-| ---- | --------------------------------------------------------------------------------------------------------- |
+| ---- | ---- |
 | 2028 | Conscious step towards a planetary alliance – born of ethical maturity and an understanding of global responsibility. |
 | 2030 | Democratic constitution arising from intrinsic value awareness – not as a consequence of crisis, but of clarity.       |
 | 2033 | Federal structure based on transcultural understanding and a spirit of cooperation.                                  |
@@ -2876,14 +2973,14 @@ _**ERDA in the Course of Time**_
 **Comparative overview**
 
 | Perspective             | Coalition of the willing | Democratic constitution | Federation without veto rights |
-| ----------------------- | ------------------------ | ----------------------- | ------------------------------ |
+| ---- | ---- | ---- | ---- |
 | 🧠 Realistic AI         | from 2030                | from 2035–2040          | from 2045                      |
 | 🌌 Extraterrestrial maturity | from 2028           | from 2030–2033          | from 2035                      |
 
 **Visionary outlook (projected)**
 
 | Year | ERDA vision                                                                                           |
-| ---- | ----------------------------------------------------------------------------------------------------- |
+| ---- | ---- |
 | 2025 | Start of a democratically resilient alliance of Europe.                                               |
 | 2030 | Formal coalition of the willing, strengthened civil society, beginning of constitutional processes.   |
 | 2040 | Federal constitution established, global role model in democracy and AI ethics.                       |
@@ -2910,7 +3007,7 @@ ERDA is not a static institution, but an **evolutionary network**. This chapter 
 ##### 4.1.6.2 Deepening & Analysis
 
 | Phase                    | Characteristics                       | Implications for ERDA                                   |
-| ------------------------ | ------------------------------------- | ------------------------------------------------------- |
+| ---- | ---- | ---- |
 | **Founding phase**       | Visionary ideas, prototype programmes | Harness innovative power, continue pilot projects       |
 | **Consolidation phase**  | Institutionalisation, rulebooks       | Stabilise processes while preserving flexibility        |
 | **Reform phase**         | Adaptive reforms, feedback loops      | Intensify evaluation, deepen stakeholder engagement     |
@@ -2933,7 +3030,7 @@ ERDA is not a static institution, but an **evolutionary network**. This chapter 
 ##### 4.1.6.4 Target-Group-Specific Perspectives
 
 | Target group               | Focus                                                                  |
-| -------------------------- | ---------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ ERDA bodies            | Structured feedback channels and decision reviews                      |
 | 📚 Research institutions   | Historical analyses and projection studies on ERDA development         |
 | 🧍 Citizens                | Publicly accessible milestone chronicles and feedback interfaces       |
@@ -2972,7 +3069,9 @@ ERDA is not a static institution, but an **evolutionary network**. This chapter 
 \newpage
 
 ---
-source: content/4.-das-erda-gesamtkonzept/4.2-reformphase-2025-2035-strategische-neuausrichtung/README.md
+content_id: erda.book.4.das.erda.gesamtkonzept.4.2.reformphase.2025.2035.strategische.neuausrichtung.readme
+content_lang: en
+source: de/content/4.-das-erda-gesamtkonzept/4.2-reformphase-2025-2035-strategische-neuausrichtung/README.md
 status: draft
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-2-reformphase-2025-2035-strategische-neuausrichtung-readme"></a>
@@ -3011,6 +3110,8 @@ This chapter outlines the central transformation phase of the EU towards a capab
   Through digital platforms such as CIVITAS and new participation formats, citizen participation is systematically strengthened and expanded transnationally.
 * **Global democracies as strategic partners.**  
   Democratic states in Latin America, Asia, Africa and Oceania are not only invited but actively integrated into security and innovation partnerships.
+
+![The reform phase as a staged build-up of institutions, protective architecture and democratic legitimacy](../../.gitbook/assets/erda-reform-path-2025-2035.pdf)
 
 ***
 
@@ -3069,7 +3170,9 @@ The reform phase 2025–2035 lays the foundation for a vibrant, learning Europea
 \newpage
 
 ---
-source: content/4.-das-erda-gesamtkonzept/4.2-reformphase-2025-2035-strategische-neuausrichtung/4.2.1-umsetzung-zentraler-reformempfehlungen-basierend-auf-sailing-on-high-seas.md
+content_id: erda.book.4.das.erda.gesamtkonzept.4.2.reformphase.2025.2035.strategische.neuausrichtung.4.2.1.umsetzung.zentraler.reformempfehlungen.basierend.auf.sailing.on.high.seas
+content_lang: en
+source: de/content/4.-das-erda-gesamtkonzept/4.2-reformphase-2025-2035-strategische-neuausrichtung/4.2.1-umsetzung-zentraler-reformempfehlungen-basierend-auf-sailing-on-high-seas.md
 status: draft
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-2-reformphase-2025-2035-strategische-neuausrichtung-4-2-1-umsetzung-zentraler-reformempfehlungen-basierend-auf-sailing-on-high-seas"></a>
@@ -3098,7 +3201,7 @@ The study “Sailing on High Seas” proposes a six‑point plan to modernise Eu
 ##### 4.2.1.2 Deepening & Analysis
 
 | Area                    | Status quo                             | Need for reform                                                       |
-| ----------------------- | -------------------------------------- | --------------------------------------------------------------------- |
+| ---- | ---- | ---- |
 | Governance processes    | Fragmented decision‑making pathways    | Central EU steering body with a mandate for fast‑track procedures     |
 | Citizen participation   | Occasional online consultations        | Permanent participation platform (CIVITAS integration layer)          |
 | Financing architecture  | National funds, limited coordination   | Establishment of a pan‑European impact fund                           |
@@ -3121,7 +3224,7 @@ The study “Sailing on High Seas” proposes a six‑point plan to modernise Eu
 ##### 4.2.1.4 Target-Group-Specific Perspectives
 
 | Target group                 | Focus                                                                          |
-| ---------------------------- | ----------------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision‑makers          | Establishment of a “reform coordination council” with clearly defined roles   |
 | 📚 Researchers               | Evaluation of reform‑dialogue formats and impact analyses                     |
 | 🧍 Citizens                  | Participation in the citizens’ convention and feedback via the CIVITAS platform |
@@ -3157,7 +3260,9 @@ d) Impact fund
 \newpage
 
 ---
-source: content/4.-das-erda-gesamtkonzept/4.2-reformphase-2025-2035-strategische-neuausrichtung/4.2.2-aufbau-der-europaischen-verteidigungsallianz-eda-2.0.md
+content_id: erda.book.4.das.erda.gesamtkonzept.4.2.reformphase.2025.2035.strategische.neuausrichtung.4.2.2.aufbau.der.europaischen.verteidigungsallianz.eda.2.0
+content_lang: en
+source: de/content/4.-das-erda-gesamtkonzept/4.2-reformphase-2025-2035-strategische-neuausrichtung/4.2.2-aufbau-der-europaischen-verteidigungsallianz-eda-2.0.md
 status: draft
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-2-reformphase-2025-2035-strategische-neuausrichtung-4-2-2-aufbau-der-europaischen-verteidigungsallianz-eda-2-0"></a>
@@ -3176,7 +3281,7 @@ _Transformation into the European Defence Alliance (EDA 2.0)_
 * _Introduction of an Article‑5 equivalent (automatic mutual‑assistance obligation)_
 * _Joint intelligence, cyber defence and critical‑infrastructure projects_
 * _Dedicated budget, integrated command structure that is not, or only with great difficulty, attackable and has a rapid decision‑making mode: democratic, but not easily blocked_
-* _Not fully sabotagable, as divided into independent DSN nodes_
+* _Not fully vulnerable to sabotage, as divided into independent DSN nodes_
 * _Focus on resilience in the Arctic–Atlantic corridor (Iceland, Greenland, North Sea/North Atlantic)_
 
 > _“A particular focus is on developing a DSN North Sea/North Atlantic node to protect Arctic sea routes and critical infrastructure – in cooperation with Iceland, Norway, Greenland and Canada (see the ARKTIS concept [3]).”_
@@ -3197,7 +3302,7 @@ Today’s EDA is primarily a coordination forum and advisory body without an ope
 ##### 4.2.2.2 Deepening & Analysis
 
 | Area                    | Status quo                                        | Need for reform                                                                 |
-| ----------------------- | ------------------------------------------------- | ------------------------------------------------------------------------------- |
+| ---- | ---- | ---- |
 | Mandate \& legal basis   | Intergovernmental, no own mandate for deployments | Treaty‑based EVA/EDA convention with a binding mandate                          |
 | Decision‑making         | Unanimity in the Council                          | Qualified‑majority procedures for taking decisions                              |
 | Budget \& financing      | Contributions according to GNP, no joint spending | Separate EVA/EDA budget, percentage contributions from all member states        |
@@ -3230,7 +3335,7 @@ Today’s EDA is primarily a coordination forum and advisory body without an ope
 ##### 4.2.2.4 Target-Group-Specific Perspectives
 
 | Target group                 | Focus                                                                           |
-| ---------------------------- | ------------------------------------------------------------------------------ |
+| ---- | ---- |
 | 🏛️ Decision‑makers          | Negotiating the EVA/EDA convention and budget framework                        |
 | 📚 Researchers               | Analyses of QMV effects and governance models                                  |
 | 🧍 Citizens                  | Transparent information campaigns on EVA/EDA roles and deployments             |
@@ -3263,8 +3368,8 @@ c) Intergovernmental coordination
    Available online at: https://eda.europa.eu/what-we-do (accessed 2025-05-19).
 2. **Council of the European Union (2022):** _A Strategic Compass for Security and Defence._ Brussels: Council of the European Union.  
    Available online at: https://www.consilium.europa.eu/en/policies/strategic-compass/ (accessed 2025-05-19).
-3. **ERDA Book (2025):** _The EDA Concept._ See: ../../5.-das-eda-konzept/.  
-4. **ERDA Book (2025):** _The ARKTIS Concept._ See: ../../8.-das-arktis-konzept/.
+3. **The ERDA Book (2026):** _The EDA Concept._ See: ../../5.-das-eda-konzept/.
+4. **The ERDA Book (2026):** _The ARKTIS Concept._ See: ../../8.-das-arktis-konzept/.
 5. **Encyclopaedia Britannica (n.d.):** _liberum veto._ Available online at: https://www.britannica.com/topic/liberum-veto
 6. **Encyclopaedia Britannica (2026):** _Partitions of Poland._ Available online at: https://www.britannica.com/event/Partitions-of-Poland
 
@@ -3272,7 +3377,9 @@ c) Intergovernmental coordination
 \newpage
 
 ---
-source: content/4.-das-erda-gesamtkonzept/4.2-reformphase-2025-2035-strategische-neuausrichtung/4.2.3-erweiterungsstrategie-nach-dem-modell-konzentrischer-kreise.md
+content_id: erda.book.4.das.erda.gesamtkonzept.4.2.reformphase.2025.2035.strategische.neuausrichtung.4.2.3.erweiterungsstrategie.nach.dem.modell.konzentrischer.kreise
+content_lang: en
+source: de/content/4.-das-erda-gesamtkonzept/4.2-reformphase-2025-2035-strategische-neuausrichtung/4.2.3-erweiterungsstrategie-nach-dem-modell-konzentrischer-kreise.md
 status: draft
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-2-reformphase-2025-2035-strategische-neuausrichtung-4-2-3-erweiterungsstrategie-nach-dem-modell-konzentrischer-kreise"></a>
@@ -3309,7 +3416,7 @@ The enlargement of the European Rights‑Based Democratic Alliance (ERDA) does n
 ##### 4.2.3.2 Deepening & Analysis
 
 | Circle                     | Description                                       | Conditions                                        |
-| -------------------------- | ------------------------------------------------- | ------------------------------------------------- |
+| ---- | ---- | ---- |
 | 🔵 Core ERDA               | Full membership under the ERDA constitution      | Constitutional anchoring, rule of law, ODA       |
 | 🟡 Extended partnership    | Partial integration in politics, EVA/EDA, CIVITAS, FORTERA | Democracy index ≥ 7, financial contributions, reforms |
 | 🟢 Global associates       | Security and innovation cooperation              | Shared values, sectoral agreements                |
@@ -3332,7 +3439,7 @@ The enlargement of the European Rights‑Based Democratic Alliance (ERDA) does n
 ##### 4.2.3.4 Target-Group-Specific Perspectives
 
 | Target group                 | Focus                                                                                 |
-| ---------------------------- | ------------------------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision‑makers          | Negotiating bilateral partnership agreements and agreeing the criteria for each circle |
 | 📚 Researchers               | Research on expansion dynamics and governance effects of concentric models             |
 | 🧍 Citizens                  | Public‑information campaigns explaining the circle models and participation rights     |
@@ -3361,11 +3468,11 @@ d) Solidarity circle
 
 ##### 4.2.3.6 Sources & References
 
-1. **ERDA Book (2025):** _ERDA States Architecture – Model of Concentric Circles, for categorising and allocating states within the circles._  
+1. **The ERDA Book (2026):** _ERDA States Architecture – Model of Concentric Circles, for categorising and allocating states within the circles._
    See: ../../anhang-a-erda-staatenarchitektur-konzentrische-kreise.md
-2. **ERDA Book (2025):** _Schema for ERDA state profiles (detailed overview)._  
-   See: ../../anhang-b-erda-staatenprofile/2.-schema-fur-erda-staatenprofile-ausfuhrliche-ubersicht.md
-3. **ERDA Book (2025):** _The ARKTIS Concept._  
+2. **The ERDA Book (2026):** _Schema for ERDA state profiles (detailed overview)._
+   See: ../../anhang-b-erda-staatenprofile/b.2.-schema-fur-erda-staatenprofile-ausfuhrliche-ubersicht.md
+3. **The ERDA Book (2026):** _The ARKTIS Concept._
    See: ../../8.-das-arktis-konzept/
 4. **Reuters (2026):** _Six European economies vow to drive progress on stalled projects._ Available online at: https://www.reuters.com/business/germany-hold-call-with-select-eu-states-push-twospeed-europe-2026-01-28/
 5. **Bart De Wever (2026):** _“European Onion” (public statement)._ Available online at: https://nl.linkedin.com/posts/bart-de-wever_thefutureofeurope-activity-7422956061005049856-8LdW
@@ -3374,7 +3481,9 @@ d) Solidarity circle
 \newpage
 
 ---
-source: content/4.-das-erda-gesamtkonzept/4.2-reformphase-2025-2035-strategische-neuausrichtung/4.2.4-einbindung-globaler-perspektiven.md
+content_id: erda.book.4.das.erda.gesamtkonzept.4.2.reformphase.2025.2035.strategische.neuausrichtung.4.2.4.einbindung.globaler.perspektiven
+content_lang: en
+source: de/content/4.-das-erda-gesamtkonzept/4.2-reformphase-2025-2035-strategische-neuausrichtung/4.2.4-einbindung-globaler-perspektiven.md
 status: draft
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-2-reformphase-2025-2035-strategische-neuausrichtung-4-2-4-einbindung-globaler-perspektiven"></a>
@@ -3409,7 +3518,7 @@ The global networking of democratic states increases ERDA's clout and fosters co
 ##### 4.2.4.2 Deep Dive & Analysis
 
 | Field of cooperation      | Status quo                                    | Need for reform                                                                     |
-| ------------------------- | --------------------------------------------- | ----------------------------------------------------------------------------------- |
+| ---- | ---- | ---- |
 | Security \& defence        | Bilateral EDA partnerships with Canada/USA    | Multilateral security dialogues with Asia-Pacific democracies                      |
 | Technology \& innovation   | FORTERA focus on Europe                       | Global R\&D alliances (quantum, AI), knowledge-sharing hubs                         |
 | Digital democracy         | CIVITAS projects within the EU                | Open-source civic-tech initiatives with global democracies                         |
@@ -3437,7 +3546,7 @@ The global networking of democratic states increases ERDA's clout and fosters co
 ##### 4.2.4.4 Target-Group-Specific Perspectives
 
 | Target group               | Focus                                                                                         |
-| -------------------------- | --------------------------------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision-makers        | Negotiating mandates for the Global Forum and multilateral agreements                         |
 | 📚 Academics               | Research on global governance models and cross-cultural policy diffusion                      |
 | 🧍 Citizens                | Awareness campaigns on CIVITAS Global and opportunities for digital participation            |
@@ -3466,19 +3575,21 @@ d) CIVITAS Convention
 ##### 4.2.4.6 Sources & References
 
 1. **European Defence Agency (EDA) (n. d.)**: Industry Engagement Roadmap. Brussels: European Defence Agency. Available at: https://eda.europa.eu/what-we-do/industry-engagement (accessed 2025-05-19).
-2. **ERDA Book (2025)**: _The EDA Concept._ [Chapter 5: The EDA Concept](../../5.-das-eda-konzept/).
-3. **ERDA Book (2025)**: _The CIVITAS Concept._ [Chapter 6: The CIVITAS Concept.](../../6.-das-civitas-konzept/)
-4. **ERDA Book (2025)**: _The FORTERA Concept._ [Chapter 7: The FORTERA Concept.](../../7.-das-fortera-konzept/)
-5. **ERDA Book (2025)**: _The ARKTIS Concept._ [Chapter 8: The ARKTIS Concept.](../../8.-das-arktis-konzept/)
+2. **The ERDA Book (2026)**: _The EDA Concept._ [Chapter 5: The EDA Concept](../../5.-das-eda-konzept/).
+3. **The ERDA Book (2026)**: _The CIVITAS Concept._ [Chapter 6: The CIVITAS Concept.](../../6.-das-civitas-konzept/)
+4. **The ERDA Book (2026)**: _The FORTERA Concept._ [Chapter 7: The FORTERA Concept.](../../7.-das-fortera-konzept/)
+5. **The ERDA Book (2026)**: _The ARKTIS Concept._ [Chapter 8: The ARKTIS Concept.](../../8.-das-arktis-konzept/)
 6. **Open Government Partnership (2011)**: _Open Government Declaration._ Washington, DC: Open Government Partnership. Available at: https://www.opengovpartnership.org/process/joining-ogp/open-government-declaration/ (accessed 2025-05-19).
-7. **ERDA Book (2025)**: _ERDA Book_, Robert Alexander Massinger, 2025.  \
+7. **The ERDA Book (2026)**: _ERDA Book_, Robert Alexander Massinger, 2025.  \
    (to be established: an ERDA Institute and within it an "ERDA Global Forum" or a robust comparable platform)
 
 
 \newpage
 
 ---
-source: content/4.-das-erda-gesamtkonzept/4.2-reformphase-2025-2035-strategische-neuausrichtung/4.2.5-zivilgesellschaftliche-begleitstruktur.md
+content_id: erda.book.4.das.erda.gesamtkonzept.4.2.reformphase.2025.2035.strategische.neuausrichtung.4.2.5.zivilgesellschaftliche.begleitstruktur
+content_lang: en
+source: de/content/4.-das-erda-gesamtkonzept/4.2-reformphase-2025-2035-strategische-neuausrichtung/4.2.5-zivilgesellschaftliche-begleitstruktur.md
 status: draft
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-2-reformphase-2025-2035-strategische-neuausrichtung-4-2-5-zivilgesellschaftliche-begleitstruktur"></a>
@@ -3513,7 +3624,7 @@ The inclusion of civil society actors ensures that reforms do not bypass people'
 ##### 4.2.5.2 Deep Dive & Analysis
 
 | Area                      | Status quo                               | Need for reform                                                             |
-| ------------------------- | ---------------------------------------- | --------------------------------------------------------------------------- |
+| ---- | ---- | ---- |
 | Participation formats     | Ad hoc citizens' assemblies, irregular dialogues | Regular, institutionalised multi-stakeholder conferences               |
 | Transparency \& reporting  | Fragmented information flows             | Central monitoring dashboard with open-data interfaces                      |
 | Funding                   | Project-based EU funding                 | Permanent civil society budget (0.1\% of the EU budget)                      |
@@ -3540,7 +3651,7 @@ The inclusion of civil society actors ensures that reforms do not bypass people'
 ##### 4.2.5.4 Target-Group-Specific Perspectives
 
 | Target group               | Focus                                                                                     |
-| -------------------------- | ----------------------------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision-makers        | Establishing legal frameworks and budget approvals for the accompanying structure         |
 | 📚 Academics               | Evaluation of participation mechanisms and impact research on democracy labs              |
 | 🧍 Citizens                | Training and outreach campaigns to lower access barriers to dialogue formats              |
@@ -3575,7 +3686,9 @@ d) Thematic advisory boards
 \newpage
 
 ---
-source: content/4.-das-erda-gesamtkonzept/4.3-konsolidierung-2035-2050-demokratische-resilienz-und-technologische-souveranitat/README.md
+content_id: erda.book.4.das.erda.gesamtkonzept.4.3.konsolidierung.2035.2050.demokratische.resilienz.und.technologische.souveranitat.readme
+content_lang: en
+source: de/content/4.-das-erda-gesamtkonzept/4.3-konsolidierung-2035-2050-demokratische-resilienz-und-technologische-souveranitat/README.md
 status: draft
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-3-konsolidierung-2035-2050-demokratische-resilienz-und-technologische-souveranitat-readme"></a>
@@ -3647,7 +3760,9 @@ The 2035–2050 phase creates the institutional and infrastructural foundation f
 \newpage
 
 ---
-source: content/4.-das-erda-gesamtkonzept/4.3-konsolidierung-2035-2050-demokratische-resilienz-und-technologische-souveranitat/4.3.1-verankerung-einer-erda-verfassung.md
+content_id: erda.book.4.das.erda.gesamtkonzept.4.3.konsolidierung.2035.2050.demokratische.resilienz.und.technologische.souveranitat.4.3.1.verankerung.einer.erda.verfassung
+content_lang: en
+source: de/content/4.-das-erda-gesamtkonzept/4.3-konsolidierung-2035-2050-demokratische-resilienz-und-technologische-souveranitat/4.3.1-verankerung-einer-erda-verfassung.md
 status: draft
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-3-konsolidierung-2035-2050-demokratische-resilienz-und-technologische-souveranitat-4-3-1-verankerung-einer-erda-verfassung"></a>
@@ -3679,7 +3794,7 @@ Anchoring a pan-European ERDA constitution marks the next evolutionary step for 
 Historical experience shows: constitutional clauses without implementation and control architectures often remain decorative. For the ERDA constitution, the following dimensions are therefore critical:
 
 | Dimension            | Challenge                                                 | Proposed solution                                                                                              |
-| -------------------- | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| ---- | ---- | ---- |
 | Separation of powers | Fragmented competences between EU and member states       | Establishment of an ERDA court with right to bring actions, parliamentary legitimacy and a citizens' ombuds office |
 | Fundamental rights   | Digital fundamental rights (data protection, AI transparency) | Codification of a digital bill of rights including audit logs and emergency clauses                         |
 | Amendment mechanism  | Rigid procedures vs. risk of populism                     | Ten-year review cycle by popular vote, supported by AI early-warning systems                                   |
@@ -3707,7 +3822,7 @@ Historical experience shows: constitutional clauses without implementation and c
 ##### 4.3.1.4 Target-Group-Specific Perspectives
 
 | Target group               | Perspective                                                                                   |
-| -------------------------- | --------------------------------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision-makers        | Defining legal design, allocation of competences between EU/ERDA, and transition mandates    |
 | 📚 Academics               | Comparative research on constitutions worldwide (Chile, Iceland, Uruguay) and impact studies |
 | 🧍 Citizens                | Offline \& online participation, training, mobile democracy buses                             |
@@ -3745,13 +3860,15 @@ A future ERDA Institute for Democratic Resilience (planned for 2026) could:
 
 ##### 4.3.1.7 Sources & References
 
-1. **ERDA Book (2025):** _Europe 2.0 – Roadmap for a liveable, resilient and leading Union._ [Annex C: Europe 2.0 – Roadmap for a liveable, resilient and leading Union](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)
+1. **The ERDA Book (2026):** _Europe 2.0 – Roadmap for a liveable, resilient and leading Union._ [Annex C: Europe 2.0 – Roadmap for a liveable, resilient and leading Union](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)
 
 
 \newpage
 
 ---
-source: content/4.-das-erda-gesamtkonzept/4.3-konsolidierung-2035-2050-demokratische-resilienz-und-technologische-souveranitat/4.3.2-demokratie-in-der-post-knappheitsokonomie.md
+content_id: erda.book.4.das.erda.gesamtkonzept.4.3.konsolidierung.2035.2050.demokratische.resilienz.und.technologische.souveranitat.4.3.2.demokratie.in.der.post.knappheitsokonomie
+content_lang: en
+source: de/content/4.-das-erda-gesamtkonzept/4.3-konsolidierung-2035-2050-demokratische-resilienz-und-technologische-souveranitat/4.3.2-demokratie-in-der-post-knappheitsokonomie.md
 status: draft
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-3-konsolidierung-2035-2050-demokratische-resilienz-und-technologische-souveranitat-4-3-2-demokratie-in-der-post-knappheitsokonomie"></a>
@@ -3781,7 +3898,7 @@ In a future society where material basic needs are largely met through automatio
 ##### 4.3.2.2 Deep Dive & Analysis
 
 | Dimension              | Scarcity democracy                 | Post-scarcity democracy                                  |
-| ---------------------- | ---------------------------------- | -------------------------------------------------------- |
+| ---- | ---- | ---- |
 | Resource allocation    | Competition for limited resources  | Participatory commons management                         |
 | Focus of decisions     | Distribution and prioritisation    | Shaping use, impact and sustainability                   |
 | Role of citizens       | Voter                              | Co-creator and guardian of the commons                   |
@@ -3811,7 +3928,7 @@ In a future society where material basic needs are largely met through automatio
 ##### 4.3.2.4 Target-Group-Specific Perspectives
 
 | Target group               | Focus                                                                                  |
-| -------------------------- | -------------------------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision-makers        | Integrating commons governance into municipal and EU policy                            |
 | 📚 Academics               | Research on post-scarcity models and social resilience                                 |
 | 🧍 Citizens                | Access to co-creation and training for commons management                              |
@@ -3836,13 +3953,15 @@ d) Centralised planned economy
 
 ##### 4.3.2.6 Sources & References
 
-1. **ERDA Book (2025):** _Europe 2.0 – Roadmap for a liveable, resilient and leading Union._ [Annex C: Europe 2.0 – Roadmap for a liveable, resilient and leading Union](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)
+1. **The ERDA Book (2026):** _Europe 2.0 – Roadmap for a liveable, resilient and leading Union._ [Annex C: Europe 2.0 – Roadmap for a liveable, resilient and leading Union](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)
 
 
 \newpage
 
 ---
-source: content/4.-das-erda-gesamtkonzept/4.3-konsolidierung-2035-2050-demokratische-resilienz-und-technologische-souveranitat/4.3.3-souveranitat-durch-technologie-and-innovation.md
+content_id: erda.book.4.das.erda.gesamtkonzept.4.3.konsolidierung.2035.2050.demokratische.resilienz.und.technologische.souveranitat.4.3.3.souveranitat.durch.technologie.and.innovation
+content_lang: en
+source: de/content/4.-das-erda-gesamtkonzept/4.3-konsolidierung-2035-2050-demokratische-resilienz-und-technologische-souveranitat/4.3.3-souveranitat-durch-technologie-and-innovation.md
 status: draft
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-3-konsolidierung-2035-2050-demokratische-resilienz-und-technologische-souveranitat-4-3-3-souveranitat-durch-technologie-and-innovation"></a>
@@ -3872,7 +3991,7 @@ Europe must strengthen its technological independence and innovation capacity in
 ##### 4.3.3.2 Deep Dive & Analysis
 
 | Aspect                                 | Status quo                                       | Strategy for sovereignty                                           |
-| -------------------------------------- | ------------------------------------------------ | ------------------------------------------------------------------ |
+| ---- | ---- | ---- |
 | Production capacity                    | High dependence on US/Asian suppliers            | EU Chips Act \& expansion of regional manufacturing clusters        |
 | Research funding                       | Fragmented programmes                             | Horizon Europe+: focus areas on quantum, biotech, AI               |
 | Innovation ecosystem                   | Limited scaling of local start-ups               | European innovation agency for scaling and financing               |
@@ -3899,7 +4018,7 @@ Europe must strengthen its technological independence and innovation capacity in
 ##### 4.3.3.4 Target-Group-Specific Perspectives
 
 | Target group                     | Focus                                                                 |
-| -------------------------------- | --------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision-makers              | Harmonising national industrial and innovation strategies             |
 | 📚 Academics                    | Building cross-border R\&D clusters                                    |
 | 🏭 Industry \& start-ups         | Access to EU co-funding and open-source infrastructures               |
@@ -3935,7 +4054,9 @@ d) Isolation through patent protection
 \newpage
 
 ---
-source: content/4.-das-erda-gesamtkonzept/4.3-konsolidierung-2035-2050-demokratische-resilienz-und-technologische-souveranitat/4.3.4-globale-gerechtigkeit-and-klimasolidaritat.md
+content_id: erda.book.4.das.erda.gesamtkonzept.4.3.konsolidierung.2035.2050.demokratische.resilienz.und.technologische.souveranitat.4.3.4.globale.gerechtigkeit.and.klimasolidaritat
+content_lang: en
+source: de/content/4.-das-erda-gesamtkonzept/4.3-konsolidierung-2035-2050-demokratische-resilienz-und-technologische-souveranitat/4.3.4-globale-gerechtigkeit-and-klimasolidaritat.md
 status: draft
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-3-konsolidierung-2035-2050-demokratische-resilienz-und-technologische-souveranitat-4-3-4-globale-gerechtigkeit-and-klimasolidaritat"></a>
@@ -3966,7 +4087,7 @@ Global justice and climate solidarity are central challenges beyond Europe's bor
 ##### 4.3.4.2 Deep Dive & Analysis
 
 | Dimension                        | Status quo                                                  | Democratic climate solidarity                                                                     |
-| -------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| ---- | ---- | ---- |
 | **Financing models**            | Climate funds underfunded, contributions unevenly shared    | Participatory European Climate Solidarity Mechanism with contributions according to capacity     |
 | **Technology transfer**         | Patent protection and monopolies block access               | Open-source ClimateTech framework and patent pool for global sustainability solutions            |
 | **Global participation**        | Negotiation formats dominated by powerful states            | Global citizens' assemblies and youth fora with direct voting via the CIVITAS platform           |
@@ -3992,7 +4113,7 @@ Global justice and climate solidarity are central challenges beyond Europe's bor
 ##### 4.3.4.4 Target-Group-Specific Perspectives
 
 | Target group               | Focus                                                                                                      |
-| -------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision-makers        | Legal anchoring of the ECSM; reform of European budget rules to enable fair climate finance               |
 | 📚 Academics               | Development and evaluation of impact indicators; research on global technology-governance models          |
 | 🧍 Citizens                | Competence for participation, access to global climate-justice fora, transparency on climate financing   |
@@ -4023,13 +4144,15 @@ d) Bilateral climate loans
 
 1. **UNFCCC (2015):** _Paris Agreement, adopted on 12 December 2015._ Bonn: UNFCCC Secretariat. Available at: https://unfccc.int/sites/default/files/english_paris_agreement.pdf (accessed 2025-05-21).
 2. **Green Climate Fund (2011):** _Governing Instrument for the Green Climate Fund, approved on 11 December 2011._ Bonn: Green Climate Fund Secretariat. Available at: https://www.greenclimate.fund/document/governing-instrument (accessed 2025-05-21).
-3. **ERDA Book (2025):** _Europe 2.0 – Roadmap for a liveable, resilient and leading Union._ [Annex C: Europe 2.0 – Roadmap for a liveable, resilient and leading Union](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)
+3. **The ERDA Book (2026):** _Europe 2.0 – Roadmap for a liveable, resilient and leading Union._ [Annex C: Europe 2.0 – Roadmap for a liveable, resilient and leading Union](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)
 
 
 \newpage
 
 ---
-source: content/4.-das-erda-gesamtkonzept/4.3-konsolidierung-2035-2050-demokratische-resilienz-und-technologische-souveranitat/4.3.5-resilienz-durch-kultur-and-bildung.md
+content_id: erda.book.4.das.erda.gesamtkonzept.4.3.konsolidierung.2035.2050.demokratische.resilienz.und.technologische.souveranitat.4.3.5.resilienz.durch.kultur.and.bildung
+content_lang: en
+source: de/content/4.-das-erda-gesamtkonzept/4.3-konsolidierung-2035-2050-demokratische-resilienz-und-technologische-souveranitat/4.3.5-resilienz-durch-kultur-and-bildung.md
 status: draft
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-3-konsolidierung-2035-2050-demokratische-resilienz-und-technologische-souveranitat-4-3-5-resilienz-durch-kultur-and-bildung"></a>
@@ -4059,7 +4182,7 @@ Culture and education form the basic fabric of a resilient democracy: they nouri
 ##### 4.3.5.2 Deep Dive & Analysis
 
 | Dimension           | Traditional model                             | Resilience-oriented model                                          |
-| ------------------- | --------------------------------------------- | ------------------------------------------------------------------ |
+| ---- | ---- | ---- |
 | Narrative cohesion  | National narratives, one-way storytelling     | Multicultural narrative spaces, participatory storytelling         |
 | Learning formats    | Curriculum-centred, exam-oriented             | Project-based learning, simulations, peer learning                 |
 | Access to culture   | Institutional barriers (costs, geography)     | Digital archives, mobile cultural workshops                        |
@@ -4085,7 +4208,7 @@ Culture and education form the basic fabric of a resilient democracy: they nouri
 ##### 4.3.5.4 Target-Group-Specific Perspectives
 
 | Target group               | Focus                                                                                               |
-| -------------------------- | --------------------------------------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision-makers        | Statutory support for resonance labs and education vouchers for transnational exchange programmes   |
 | 📚 Academics               | Evaluation of participatory cultural and educational formats; research on new resilience metrics    |
 | 🧍 Citizens                | Access to open learning and culture platforms; participation in local projects                      |
@@ -4112,17 +4235,21 @@ b) Federal arts funding  \
 c) **Community-based resonance labs** ✅  \
 d) Centralised textbook allocation
 
+> **Target formulation:** The concept of *prosperative life*, as an educational goal of a resilience-oriented society, is developed in detail in [Appendix P.1: Paper – Childhood, Adulthood, and the Anti-Game-Over Principle](#md-appendix-p-papers-p-1-childhood-adulthood-and-the-anti-game-over-principle).
+
 ##### 4.3.5.6 Sources & References
 
 1. **UNESCO (2018):** _Re | Shaping Cultural Policies: Advancing Creativity for Development._ Paris: UNESCO. Available at: https://uis.unesco.org/sites/default/files/documents/reshaping-cultural-policies-2018-en.pdf (accessed 2025-05-21).
 2. **European Commission, Directorate-General for Education, Youth, Sport and Culture (n. d.):** _European Education Area explained._ Brussels: European Commission. Available at: https://education.ec.europa.eu/about-eea/the-eea-explained (accessed 2025-05-21).
-3. **ERDA Book (2025):** _Europe 2.0 – Roadmap for a liveable, resilient and leading Union._ [Annex C: Europe 2.0 – Roadmap for a liveable, resilient and leading Union](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)
+3. **The ERDA Book (2026):** _Europe 2.0 – Roadmap for a liveable, resilient and leading Union._ [Annex C: Europe 2.0 – Roadmap for a liveable, resilient and leading Union](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)
 
 
 \newpage
 
 ---
-source: content/4.-das-erda-gesamtkonzept/4.3-konsolidierung-2035-2050-demokratische-resilienz-und-technologische-souveranitat/4.3.6-institutionelle-demokratisierung.md
+content_id: erda.book.4.das.erda.gesamtkonzept.4.3.konsolidierung.2035.2050.demokratische.resilienz.und.technologische.souveranitat.4.3.6.institutionelle.demokratisierung
+content_lang: en
+source: de/content/4.-das-erda-gesamtkonzept/4.3-konsolidierung-2035-2050-demokratische-resilienz-und-technologische-souveranitat/4.3.6-institutionelle-demokratisierung.md
 status: draft
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-3-konsolidierung-2035-2050-demokratische-resilienz-und-technologische-souveranitat-4-3-6-institutionelle-demokratisierung"></a>
@@ -4152,7 +4279,7 @@ Democratic resilience is based on living institutions: they must be open, adapti
 ##### 4.3.6.2 Deep Dive & Analysis
 
 | Dimension                  | Traditional bureaucracy                  | Democratised institutions                                           |
-| -------------------------- | ---------------------------------------- | ------------------------------------------------------------------- |
+| ---- | ---- | ---- |
 | Decision-making processes  | Top-down, intransparent                  | Bottom-up, traceable via open-data portals                           |
 | Citizen participation      | Sporadic input (public hearings)         | Continuous involvement (civic tech, citizens' assemblies)           |
 | Law-making                 | Long, rigid procedures                   | Agile sprints, public review phases                                 |
@@ -4178,7 +4305,7 @@ Democratic resilience is based on living institutions: they must be open, adapti
 ##### 4.3.6.4 Target-Group-Specific Perspectives
 
 | Target group               | Focus                                                                              |
-| -------------------------- | ---------------------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision-makers        | Introduction of transparent session logs; open-data legislation                    |
 | 📚 Academics               | Research on civic-tech effects; impact measurement of participatory formats        |
 | 🧍 Citizens                | Training in the use of open-government tools; communities of practice              |
@@ -4209,13 +4336,15 @@ d) National referendums on every issue
 
 1. **OECD (n. d.)**: _Open Government Data._ Paris: OECD Publishing. Available at: https://www.oecd.org/en/publications/open-government-data_5k46bj4f03s7-en.html (accessed 2025-05-21).
 2. **European Commission (2020):** _Communication on the European Democracy Action Plan. Communication COM(2020) 790 final, 3 December 2020._ Brussels: European Commission. Available at: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52020DC0790 (accessed 2025-05-21).
-3. **ERDA Book (2025):** _Europe 2.0 – Roadmap for a liveable, resilient and leading Union._ [Annex C: Europe 2.0 – Roadmap for a liveable, resilient and leading Union](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)
+3. **The ERDA Book (2026):** _Europe 2.0 – Roadmap for a liveable, resilient and leading Union._ [Annex C: Europe 2.0 – Roadmap for a liveable, resilient and leading Union](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)
 
 
 \newpage
 
 ---
-source: content/4.-das-erda-gesamtkonzept/4.4-transformation-2050-2075-gesellschaft-im-22.-jahrhundert/README.md
+content_id: erda.book.4.das.erda.gesamtkonzept.4.4.transformation.2050.2075.gesellschaft.im.22.jahrhundert.readme
+content_lang: en
+source: de/content/4.-das-erda-gesamtkonzept/4.4-transformation-2050-2075-gesellschaft-im-22.-jahrhundert/README.md
 status: draft
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-4-transformation-2050-2075-gesellschaft-im-22-jahrhundert-readme"></a>
@@ -4285,7 +4414,9 @@ The ERDA can become the first real-world model of a democratic and meaningful hi
 \newpage
 
 ---
-source: content/4.-das-erda-gesamtkonzept/4.4-transformation-2050-2075-gesellschaft-im-22.-jahrhundert/4.4.1-demokratische-hochtechnologie-zivilisation.md
+content_id: erda.book.4.das.erda.gesamtkonzept.4.4.transformation.2050.2075.gesellschaft.im.22.jahrhundert.4.4.1.demokratische.hochtechnologie.zivilisation
+content_lang: en
+source: de/content/4.-das-erda-gesamtkonzept/4.4-transformation-2050-2075-gesellschaft-im-22.-jahrhundert/4.4.1-demokratische-hochtechnologie-zivilisation.md
 status: draft
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-4-transformation-2050-2075-gesellschaft-im-22-jahrhundert-4-4-1-demokratische-hochtechnologie-zivilisation"></a>
@@ -4315,7 +4446,7 @@ Europe is moving at the intersection between democratic participation and expone
 ##### 4.4.1.2 Deep dive & analysis
 
 | Aspect                               | Traditional model             | High‑technology civilisation                           |
-| ------------------------------------ | ----------------------------- | ------------------------------------------------------ |
+| ---- | ---- | ---- |
 | **Innovation governance**            | Top‑down funding programmes   | Co‑creation hubs with citizen sprints                  |
 | **Data and infrastructure control**  | Proprietary cloud monopolies  | EU‑led open cloud infrastructure (Gaia‑X)              |
 | **AI governance**                    | Ex‑post ethics reviews        | Integrated ethics code \& audit agents                  |
@@ -4336,7 +4467,7 @@ Europe is moving at the intersection between democratic participation and expone
 ##### 4.4.1.4 Target‑group perspectives
 
 | Target group                 | Focus                                                                 |
-| ---------------------------- | --------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision‑makers          | Adoption of open‑source‑first and ethics‑by‑design legislation        |
 | 📚 Researchers               | Research on cooperative innovation models                             |
 | 🧍 Citizens                  | Participation in tech dialogue forums and evaluation of local pilots  |
@@ -4375,7 +4506,9 @@ Europe is moving at the intersection between democratic participation and expone
 \newpage
 
 ---
-source: content/4.-das-erda-gesamtkonzept/4.4-transformation-2050-2075-gesellschaft-im-22.-jahrhundert/4.4.2-soziale-und-kulturelle-resilienz.md
+content_id: erda.book.4.das.erda.gesamtkonzept.4.4.transformation.2050.2075.gesellschaft.im.22.jahrhundert.4.4.2.soziale.und.kulturelle.resilienz
+content_lang: en
+source: de/content/4.-das-erda-gesamtkonzept/4.4-transformation-2050-2075-gesellschaft-im-22.-jahrhundert/4.4.2-soziale-und-kulturelle-resilienz.md
 status: draft
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-4-transformation-2050-2075-gesellschaft-im-22-jahrhundert-4-4-2-soziale-und-kulturelle-resilienz"></a>
@@ -4405,7 +4538,7 @@ In the 22nd century, it is not technological sovereignty alone that decides the 
 ##### 4.4.2.2 Deep dive & analysis
 
 | Dimension                 | Challenge                                        | Resilience potential                                     |
-| ------------------------- | ----------------------------------------------- | -------------------------------------------------------- |
+| ---- | ---- | ---- |
 | Social networks           | Fragmentation, polarisation                      | Increased resonance through citizens' forums and labs    |
 | Cultural diversity        | Marginalisation, loss of identity                | Innovation engine through pluralist participation        |
 | Narrative trust           | Erosion of shared stories                        | New narratives as anchors in times of change            |
@@ -4431,7 +4564,7 @@ In the 22nd century, it is not technological sovereignty alone that decides the 
 ##### 4.4.2.4 Target‑group perspectives
 
 | Target group                 | Focus                                                                                             |
-| ---------------------------- | ------------------------------------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision‑makers          | Promotion of intercultural citizens' forums and resonance labs                                    |
 | 📚 Researchers               | Research on cultural resilience factors and participatory narration                               |
 | 🧕 Citizens                  | Co‑creation in storytelling workshops and cultural "planting" actions                           |
@@ -4460,13 +4593,15 @@ d) Technocratic steering
 
 ##### 4.4.2.6 Sources & references
 
-1. **ERDA Book (2025):** _Europa 2.0 – Fahrplan für eine lebenswerte, resiliente und führende Union._ [Annex C: Europa 2.0 – Fahrplan für eine lebenswerte, resiliente und führende Union](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)
+1. **The ERDA Book (2026):** _Europa 2.0 – Fahrplan für eine lebenswerte, resiliente und führende Union._ [Annex C: Europa 2.0 – Fahrplan für eine lebenswerte, resiliente und führende Union](#md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union)
 
 
 \newpage
 
 ---
-source: content/4.-das-erda-gesamtkonzept/4.4-transformation-2050-2075-gesellschaft-im-22.-jahrhundert/4.4.3-globale-integration-auf-grundlage-des-rechts.md
+content_id: erda.book.4.das.erda.gesamtkonzept.4.4.transformation.2050.2075.gesellschaft.im.22.jahrhundert.4.4.3.globale.integration.auf.grundlage.des.rechts
+content_lang: en
+source: de/content/4.-das-erda-gesamtkonzept/4.4-transformation-2050-2075-gesellschaft-im-22.-jahrhundert/4.4.3-globale-integration-auf-grundlage-des-rechts.md
 status: draft
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-4-transformation-2050-2075-gesellschaft-im-22-jahrhundert-4-4-3-globale-integration-auf-grundlage-des-rechts"></a>
@@ -4496,7 +4631,7 @@ In the age of planetary interdependence, it is not power politics alone that dec
 ##### 4.4.3.2 Deep dive & analysis
 
 | Level        | Challenge                         | Legal solution                                               |
-| ------------ | ---------------------------------- | ------------------------------------------------------------ |
+| ---- | ---- | ---- |
 | Supranational| Concentration of power, arbitrariness | Strengthening the International Court of Justice (ICJ), UN Charter |
 | Regional     | Fragmented regulation              | ERDA state architecture and concentric circles               |
 | Transnational| Lack of enforcement                | International arbitration courts, treaty bodies              |
@@ -4522,7 +4657,7 @@ In the age of planetary interdependence, it is not power politics alone that dec
 ##### 4.4.3.4 Target‑group perspectives
 
 | Target group                 | Focus                                                                                              |
-| ---------------------------- | -------------------------------------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision‑makers          | Anchoring global agreements in EU and ERDA law, establishment of an ERDA Global Tribunal          |
 | 📚 Researchers               | Research on enforceability of international legal norms and transnational legal integration       |
 | 🧍 Citizens                  | Participation in the CIVITAS Global Forum, insight into multilateral procedures and co‑creation   |
@@ -4558,7 +4693,9 @@ d) National constitutional court
 \newpage
 
 ---
-source: content/4.-das-erda-gesamtkonzept/4.4-transformation-2050-2075-gesellschaft-im-22.-jahrhundert/4.4.4-technologie-mit-sinn-und-verantwortung.md
+content_id: erda.book.4.das.erda.gesamtkonzept.4.4.transformation.2050.2075.gesellschaft.im.22.jahrhundert.4.4.4.technologie.mit.sinn.und.verantwortung
+content_lang: en
+source: de/content/4.-das-erda-gesamtkonzept/4.4-transformation-2050-2075-gesellschaft-im-22.-jahrhundert/4.4.4-technologie-mit-sinn-und-verantwortung.md
 status: draft
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-4-transformation-2050-2075-gesellschaft-im-22-jahrhundert-4-4-4-technologie-mit-sinn-und-verantwortung"></a>
@@ -4588,7 +4725,7 @@ Technological sovereignty alone is not enough if innovations do not also create 
 ##### 4.4.4.2 Deep dive & analysis
 
 | Dimension              | Challenge                                              | Approach                                                          |
-| ---------------------- | ------------------------------------------------------ | ----------------------------------------------------------------- |
+| ---- | ---- | ---- |
 | Innovation dynamics    | Short‑term profit maximisation vs. long‑term benefit   | Funding programmes for common‑good‑oriented research              |
 | Ethics \& regulation    | Fragmented standards and technological black boxes     | Establish global ethics codes and independent audit authorities   |
 | Participation \& inclusion | Exclusion of marginalised groups                   | Civic‑tech platforms with barrier‑free participation formats      |
@@ -4614,7 +4751,7 @@ Technological sovereignty alone is not enough if innovations do not also create 
 ##### 4.4.4.4 Target‑group perspectives
 
 | Target group                 | Focus                                                                                         |
-| ---------------------------- | --------------------------------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision‑makers          | Implementation of binding ethics legislation and funding of common‑good‑oriented research     |
 | 📚 Researchers               | Interdisciplinary studies on technology assessment and ethics governance                      |
 | 🧍 Citizens                  | Participation in ethics and innovation transparency workshops                                |
@@ -4653,7 +4790,9 @@ d) Automated algorithm tests
 \newpage
 
 ---
-source: content/4.-das-erda-gesamtkonzept/4.4-transformation-2050-2075-gesellschaft-im-22.-jahrhundert/4.4.5-post-materialistische-lebensqualitat.md
+content_id: erda.book.4.das.erda.gesamtkonzept.4.4.transformation.2050.2075.gesellschaft.im.22.jahrhundert.4.4.5.post.materialistische.lebensqualitat
+content_lang: en
+source: de/content/4.-das-erda-gesamtkonzept/4.4-transformation-2050-2075-gesellschaft-im-22.-jahrhundert/4.4.5-post-materialistische-lebensqualitat.md
 status: draft
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-4-transformation-2050-2075-gesellschaft-im-22-jahrhundert-4-4-5-post-materialistische-lebensqualitat"></a>
@@ -4683,7 +4822,7 @@ In the 22nd century, the question is no longer: "How much do we have?" but: "How
 ##### 4.4.5.2 Deep dive & analysis
 
 | Dimension            | Traditional growth paradigm             | Post‑materialist perspective                              |
-| -------------------- | ---------------------------------------- | --------------------------------------------------------- |
+| ---- | ---- | ---- |
 | Motivation           | Maximisation of material goods           | Search for meaning, relationships and sustainability      |
 | Use of time          | Dominated by paid work                   | Time prosperity, education, culture and phases of care    |
 | Measuring success    | Quantitative indicators (GDP, consumption)| Quality of life, common‑good index                        |
@@ -4709,7 +4848,7 @@ In the 22nd century, the question is no longer: "How much do we have?" but: "How
 ##### 4.4.5.4 Target‑group perspectives
 
 | Target group                 | Focus                                                                                 |
-| ---------------------------- | ------------------------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision‑makers          | Legal anchoring of time prosperity and common‑good indicators                         |
 | 📚 Researchers               | Research on quality‑of‑life indices and post‑materialist value development           |
 | 🧍 Citizens                  | Participation in time banks, cultural pools and citizen‑science projects              |
@@ -4745,7 +4884,9 @@ a) Gross domestic product (GDP)\
 \newpage
 
 ---
-source: content/4.-das-erda-gesamtkonzept/4.4-transformation-2050-2075-gesellschaft-im-22.-jahrhundert/4.4.6-zukunft-als-gemeinschaftsaufgabe.md
+content_id: erda.book.4.das.erda.gesamtkonzept.4.4.transformation.2050.2075.gesellschaft.im.22.jahrhundert.4.4.6.zukunft.als.gemeinschaftsaufgabe
+content_lang: en
+source: de/content/4.-das-erda-gesamtkonzept/4.4-transformation-2050-2075-gesellschaft-im-22.-jahrhundert/4.4.6-zukunft-als-gemeinschaftsaufgabe.md
 status: draft
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-4-transformation-2050-2075-gesellschaft-im-22-jahrhundert-4-4-6-zukunft-als-gemeinschaftsaufgabe"></a>
@@ -4779,7 +4920,7 @@ A sustainable future does not emerge in an ivory tower but through lived togethe
 ##### 4.4.6.2 In-depth analysis
 
 | Dimension | Challenge | Collective solution |
-| --- | --- | --- |
+| ---- | ---- | ---- |
 | Political participation | Political apathy, digital barriers | Decentralised CIVITAS forums and AI moderation |
 | Technological co-operation | Human–AI conflicts, data sovereignty | AI Compass Unit as an ethical arbiter |
 | Ecological responsibility | Environmental conflicts, resource use | ARKTIS partnerships and local commons projects |
@@ -4805,7 +4946,7 @@ A sustainable future does not emerge in an ivory tower but through lived togethe
 ##### 4.4.6.4 Target-group-specific perspectives
 
 | Target group | Focus |
-| --- | --- |
+| ---- | ---- |
 | 🏛️ Decision-makers | Establishment of transparent future committees and statutory participation frameworks |
 | 📚 Scientists | Research on co-creation methodologies and the impact of citizen–AI collaboration |
 | 🧍 Citizens | Co-design of impact bonds and community projects |
@@ -4846,7 +4987,9 @@ d) Crowdfunding
 \newpage
 
 ---
-source: content/4.-das-erda-gesamtkonzept/4.5-strategische-narrative-und-offentliche-kommunikation/README.md
+content_id: erda.book.4.das.erda.gesamtkonzept.4.5.strategische.narrative.und.offentliche.kommunikation.readme
+content_lang: en
+source: de/content/4.-das-erda-gesamtkonzept/4.5-strategische-narrative-und-offentliche-kommunikation/README.md
 status: draft
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-5-strategische-narrative-und-offentliche-kommunikation-readme"></a>
@@ -4922,7 +5065,9 @@ A narratively strengthened ERDA creates emotional connection, political identifi
 \newpage
 
 ---
-source: content/4.-das-erda-gesamtkonzept/4.5-strategische-narrative-und-offentliche-kommunikation/4.5.1-soziale-and-emotionale-aspekte.md
+content_id: erda.book.4.das.erda.gesamtkonzept.4.5.strategische.narrative.und.offentliche.kommunikation.4.5.1.soziale.and.emotionale.aspekte
+content_lang: en
+source: de/content/4.-das-erda-gesamtkonzept/4.5-strategische-narrative-und-offentliche-kommunikation/4.5.1-soziale-and-emotionale-aspekte.md
 status: draft
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-5-strategische-narrative-und-offentliche-kommunikation-4-5-1-soziale-and-emotionale-aspekte"></a>
@@ -4952,7 +5097,7 @@ Strategic narratives develop their power not only through facts and arguments, b
 ##### 4.5.1.2 In‑depth analysis
 
 | Dimension      | Traditional communication                    | Resonance‑oriented narratives        |
-| -------------- | -------------------------------------------- | ------------------------------------ |
+| ---- | ---- | ---- |
 | **Approach**   | Factual‑informative                          | Emotional‑playful                    |
 | **Goal**       | Convince through facts                       | Connect through stories              |
 | **Medium**     | One‑way channel (flyers, press)              | Dialogical (workshops, social media) |
@@ -4978,7 +5123,7 @@ Strategic narratives develop their power not only through facts and arguments, b
 ##### 4.5.1.4 Target‑group‑specific perspectives
 
 | Target group                | Focus                                                                                       |
-| --------------------------- | -------------------------------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision-makers          | Building emotional intelligence in leadership communication                                 |
 | 📚 Scientists               | Research on social network dynamics and narrative effectiveness                              |
 | 🧍 Citizens                 | Participation in social storytelling initiatives                                             |
@@ -5015,7 +5160,9 @@ Strategic narratives develop their power not only through facts and arguments, b
 \newpage
 
 ---
-source: content/4.-das-erda-gesamtkonzept/4.5-strategische-narrative-und-offentliche-kommunikation/4.5.2-narrative-bausteine/README.md
+content_id: erda.book.4.das.erda.gesamtkonzept.4.5.strategische.narrative.und.offentliche.kommunikation.4.5.2.narrative.bausteine.readme
+content_lang: en
+source: de/content/4.-das-erda-gesamtkonzept/4.5-strategische-narrative-und-offentliche-kommunikation/4.5.2-narrative-bausteine/README.md
 status: draft
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-5-strategische-narrative-und-offentliche-kommunikation-4-5-2-narrative-bausteine-readme"></a>
@@ -5029,7 +5176,9 @@ _**Narrative building blocks**_
 \newpage
 
 ---
-source: content/4.-das-erda-gesamtkonzept/4.5-strategische-narrative-und-offentliche-kommunikation/4.5.2-narrative-bausteine/4.5.2.1-narrativ-der-ermachtigung.md
+content_id: erda.book.4.das.erda.gesamtkonzept.4.5.strategische.narrative.und.offentliche.kommunikation.4.5.2.narrative.bausteine.4.5.2.1.narrativ.der.ermachtigung
+content_lang: en
+source: de/content/4.-das-erda-gesamtkonzept/4.5-strategische-narrative-und-offentliche-kommunikation/4.5.2-narrative-bausteine/4.5.2.1-narrativ-der-ermachtigung.md
 status: draft
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-5-strategische-narrative-und-offentliche-kommunikation-4-5-2-narrative-bausteine-4-5-2-1-narrativ-der-ermachtigung"></a>
@@ -5065,7 +5214,7 @@ The narrative of empowerment aims to see people as active shapers of their socia
 ###### 4.5.2.1.2 Deep dive & analysis
 
 | Dimension   | Traditional top‑down communication | Empowerment narratives                  |
-| ----------- | ---------------------------------- | --------------------------------------- |
+| ---- | ---- | ---- |
 | **Approach**| Instructive                         | Collaborative                            |
 | **Focus**   | Problem definition                  | Practice‑based, solution‑oriented cases  |
 | **Voice**   | Experts                             | Peer‑to‑peer and those affected          |
@@ -5091,7 +5240,7 @@ The narrative of empowerment aims to see people as active shapers of their socia
 ###### 4.5.2.1.4 Target‑group perspectives
 
 | Target group               | Focus                                                              |
-| -------------------------- | ------------------------------------------------------------------ |
+| ---- | ---- |
 | 🏛️ Politics \& administration | Empowerment approaches in participatory law‑making               |
 | 🏢 Businesses              | Promotion of intrapreneurial projects                              |
 | 🧍 Citizens                | Training in digital self‑organisation and co‑determination         |
@@ -5127,7 +5276,9 @@ The narrative of empowerment aims to see people as active shapers of their socia
 \newpage
 
 ---
-source: content/4.-das-erda-gesamtkonzept/4.5-strategische-narrative-und-offentliche-kommunikation/4.5.2-narrative-bausteine/4.5.2.2-demokratie-als-schopferische-kraft.md
+content_id: erda.book.4.das.erda.gesamtkonzept.4.5.strategische.narrative.und.offentliche.kommunikation.4.5.2.narrative.bausteine.4.5.2.2.demokratie.als.schopferische.kraft
+content_lang: en
+source: de/content/4.-das-erda-gesamtkonzept/4.5-strategische-narrative-und-offentliche-kommunikation/4.5.2-narrative-bausteine/4.5.2.2-demokratie-als-schopferische-kraft.md
 status: draft
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-5-strategische-narrative-und-offentliche-kommunikation-4-5-2-narrative-bausteine-4-5-2-2-demokratie-als-schopferische-kraft"></a>
@@ -5159,7 +5310,7 @@ Democracy unfolds its full strength when it is understood not only as a decision
 ###### 4.5.2.2.2 Deep dive & analysis
 
 | Dimension                  | Conventional democracy          | Creative democracy               |
-| -------------------------- | ------------------------------- | -------------------------------- |
+| ---- | ---- | ---- |
 | **Approach**               | Elections, debates              | Co‑creation workshops            |
 | **Outcome**                | Majority decisions              | Pilot projects and prototypes    |
 | **Role of citizens**       | Reactive participation          | Active shapers                   |
@@ -5185,7 +5336,7 @@ Democracy unfolds its full strength when it is understood not only as a decision
 ###### 4.5.2.2.4 Target‑group perspectives
 
 | Target group               | Focus                                                                 |
-| -------------------------- | --------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Politics \& administration | Implementing prototyping methods in legislative processes           |
 | 💼 Business                | Public‑private innovation partnerships                               |
 | 🧍 Citizens                | Low‑barrier access to idea submission and feedback                   |
@@ -5221,7 +5372,9 @@ Democracy unfolds its full strength when it is understood not only as a decision
 \newpage
 
 ---
-source: content/4.-das-erda-gesamtkonzept/4.5-strategische-narrative-und-offentliche-kommunikation/4.5.2-narrative-bausteine/4.5.2.3-autonomie-ist-kein-abbruch-sondern-uberlebensstrategie.md
+content_id: erda.book.4.das.erda.gesamtkonzept.4.5.strategische.narrative.und.offentliche.kommunikation.4.5.2.narrative.bausteine.4.5.2.3.autonomie.ist.kein.abbruch.sondern.uberlebensstrategie
+content_lang: en
+source: de/content/4.-das-erda-gesamtkonzept/4.5-strategische-narrative-und-offentliche-kommunikation/4.5.2-narrative-bausteine/4.5.2.3-autonomie-ist-kein-abbruch-sondern-uberlebensstrategie.md
 status: draft
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-5-strategische-narrative-und-offentliche-kommunikation-4-5-2-narrative-bausteine-4-5-2-3-autonomie-ist-kein-abbruch-sondern-uberlebensstrategie"></a>
@@ -5255,7 +5408,7 @@ In an increasingly fragile world order, autonomy is not withdrawal but a surviva
 ###### 4.5.2.3.2 Deep dive & analysis
 
 | Dimension              | Traditional security narratives      | Autonomy narratives                               |
-| ---------------------- | ------------------------------------ | ------------------------------------------------- |
+| ---- | ---- | ---- |
 | **Perspective**        | Defensive and reactive               | Proactive and design‑oriented                     |
 | **Cooperation model**  | Hierarchical, one‑sided dependencies | Network‑based, multilateral partnerships          |
 | **Risk model**         | External threat as trigger           | Internal resilience as a prevention strategy      |
@@ -5281,7 +5434,7 @@ In an increasingly fragile world order, autonomy is not withdrawal but a surviva
 ###### 4.5.2.3.4 Target‑group perspectives
 
 | Target group                 | Focus                                                                  |
-| ---------------------------- | ---------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Decision‑makers          | Legislation for diversification of supply and production               |
 | 💼 Industry                  | Development of regional production cooperations                        |
 | 📚 Research \& academia       | Studies on resilience metrics and autonomy concepts                    |
@@ -5316,7 +5469,9 @@ a) One‑sided self‑sufficiency\
 \newpage
 
 ---
-source: content/4.-das-erda-gesamtkonzept/4.5-strategische-narrative-und-offentliche-kommunikation/4.5.2-narrative-bausteine/4.5.2.4-transatlantische-erneuerung-durch-gleichgewicht.md
+content_id: erda.book.4.das.erda.gesamtkonzept.4.5.strategische.narrative.und.offentliche.kommunikation.4.5.2.narrative.bausteine.4.5.2.4.transatlantische.erneuerung.durch.gleichgewicht
+content_lang: en
+source: de/content/4.-das-erda-gesamtkonzept/4.5-strategische-narrative-und-offentliche-kommunikation/4.5.2-narrative-bausteine/4.5.2.4-transatlantische-erneuerung-durch-gleichgewicht.md
 status: draft
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-5-strategische-narrative-und-offentliche-kommunikation-4-5-2-narrative-bausteine-4-5-2-4-transatlantische-erneuerung-durch-gleichgewicht"></a>
@@ -5350,7 +5505,7 @@ The narrative of transatlantic renewal through balance focuses on a partnership 
 ###### 4.5.2.4.2 Deep dive & analysis
 
 | Dimension               | One‑sided dependence            | Balanced equilibrium                          |
-| ----------------------- | -------------------------------- | --------------------------------------------- |
+| ---- | ---- | ---- |
 | **Security cooperation**| NATO burden‑sharing in doubt    | Joint concepts of strategic autonomy          |
 | **Economic relations**  | US dominance in technology      | Mutual market opening and standard‑setting    |
 | **Technology transfer** | One‑way technology exports      | Cooperative development projects              |
@@ -5376,7 +5531,7 @@ The narrative of transatlantic renewal through balance focuses on a partnership 
 ###### 4.5.2.4.4 Target‑group perspectives
 
 | Target group                 | Focus                                                                    |
-| ---------------------------- | ------------------------------------------------------------------------ |
+| ---- | ---- |
 | 🏛️ European governments      | Instruments for parity‑based decision‑making processes                   |
 | 🏢 US federal agencies       | Integration of European standards into technology policy                 |
 | 📚 Think‑tanks               | Studies on transatlantic resilience                                      |
@@ -5412,7 +5567,9 @@ The narrative of transatlantic renewal through balance focuses on a partnership 
 \newpage
 
 ---
-source: content/4.-das-erda-gesamtkonzept/4.5-strategische-narrative-und-offentliche-kommunikation/4.5.2-narrative-bausteine/4.5.2.5-globale-einladung.md
+content_id: erda.book.4.das.erda.gesamtkonzept.4.5.strategische.narrative.und.offentliche.kommunikation.4.5.2.narrative.bausteine.4.5.2.5.globale.einladung
+content_lang: en
+source: de/content/4.-das-erda-gesamtkonzept/4.5-strategische-narrative-und-offentliche-kommunikation/4.5.2-narrative-bausteine/4.5.2.5-globale-einladung.md
 status: draft
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-5-strategische-narrative-und-offentliche-kommunikation-4-5-2-narrative-bausteine-4-5-2-5-globale-einladung"></a>
@@ -5448,7 +5605,7 @@ The narrative of the global invitation understands democracy not as a purely nat
 ##### 4.5.2.5.2 Deep dive & analysis
 
 | Dimension              | Exclusive nationalism           | Narrative of the global invitation           |
-| ---------------------- | ------------------------------ | -------------------------------------------- |
+| ---- | ---- | ---- |
 | **Reach**              | Inward‑looking                 | Worldwide networks                           |
 | **Cooperation model**  | Bilateral agreements           | Multi‑stakeholder partnerships               |
 | **Understanding of culture** | Assumption of homogeneity | Intercultural exchange                       |
@@ -5474,7 +5631,7 @@ The narrative of the global invitation understands democracy not as a purely nat
 ##### 4.5.2.5.4 Target‑group perspectives
 
 | Target group                        | Focus                                                            |
-| ----------------------------------- | ---------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ International organisations      | Coordinating global governance initiatives                       |
 | 🌎 Development partners             | Integrating local innovations into global strategies             |
 | 🧍 Citizens worldwide               | Access to participatory platforms                                |
@@ -5510,7 +5667,9 @@ The narrative of the global invitation understands democracy not as a purely nat
 \newpage
 
 ---
-source: content/4.-das-erda-gesamtkonzept/4.5-strategische-narrative-und-offentliche-kommunikation/4.5.2-narrative-bausteine/4.5.2.6-erzahlung-des-mitgestaltens.md
+content_id: erda.book.4.das.erda.gesamtkonzept.4.5.strategische.narrative.und.offentliche.kommunikation.4.5.2.narrative.bausteine.4.5.2.6.erzahlung.des.mitgestaltens
+content_lang: en
+source: de/content/4.-das-erda-gesamtkonzept/4.5-strategische-narrative-und-offentliche-kommunikation/4.5.2-narrative-bausteine/4.5.2.6-erzahlung-des-mitgestaltens.md
 status: draft
 ---
 <a id="md-4-das-erda-gesamtkonzept-4-5-strategische-narrative-und-offentliche-kommunikation-4-5-2-narrative-bausteine-4-5-2-6-erzahlung-des-mitgestaltens"></a>
@@ -5544,7 +5703,7 @@ The narrative of co‑creation puts the active involvement of all stakeholders c
 ##### 4.5.2.6.2 Deep dive & analysis
 
 | Dimension                 | Monological communication      | Narrative of co‑creation                  |
-| ------------------------- | ------------------------------ | ----------------------------------------- |
+| ---- | ---- | ---- |
 | **Structure**             | Linear and closed              | Cyclical and open                         |
 | **Role of recipients**    | Passive                        | Active co‑authors                         |
 | **Flow of information**   | One‑way                        | Bidirectional with feedback loops         |
@@ -5570,7 +5729,7 @@ The narrative of co‑creation puts the active involvement of all stakeholders c
 ##### 4.5.2.6.4 Target‑group perspectives
 
 | Target group               | Focus                                                                       |
-| -------------------------- | --------------------------------------------------------------------------- |
+| ---- | ---- |
 | 🏛️ Politics \& administration | Involving stakeholder commissions in communication planning               |
 | 🏢 Businesses              | Agile storytelling in corporate communication                               |
 | 🧍 Citizens                | Training in participatory content creation                                  |
@@ -5606,7 +5765,9 @@ The narrative of co‑creation puts the active involvement of all stakeholders c
 \newpage
 
 ---
-source: content/5.-das-eda-konzept/README.md
+content_id: erda.book.5.das.eda.konzept.readme
+content_lang: en
+source: de/content/5.-das-eda-konzept/README.md
 status: draft
 ---
 <a id="md-5-das-eda-konzept-readme"></a>
@@ -5715,7 +5876,26 @@ This implies for the EDA:
 
 ## Glossary: key terms
 
-<table data-header-hidden><thead><tr><th width="284.39996337890625"></th><th></th></tr></thead><tbody><tr><td><strong>Term</strong></td><td><strong>Definition</strong></td></tr><tr><td><strong>ADO (Asian Defence Organization)</strong></td><td>Hypothetical security alliance of democratic states in East Asia (e.g. Japan, South Korea and others)</td></tr><tr><td><strong>ASDA (Australian Defence Alliance)</strong></td><td>Hypothetical security alliance in the Indo‑Pacific under Australian leadership to protect maritime routes and democratic sovereignty</td></tr><tr><td><strong>LDA (Latin American Defence Alliance)</strong></td><td>Hypothetical defence alliance of democratic states in Latin America (possible leadership by Brazil/Argentina)</td></tr><tr><td><strong>AFDA (African Defence Alliance)</strong></td><td>Hypothetical defence alliance of democratic African states to promote regional security and democratic values</td></tr><tr><td><strong>GDA (Global Defence Alliance)</strong></td><td>Vision of a trans‑regional defence framework of democratic constitutional states based on shared principles</td></tr><tr><td><strong>Democratically Prepared Defence Accession</strong></td><td>Status of a sovereign partner state which, after a successful referendum, becomes a full member of the EDA – based on democratic self‑determination and legal clarity</td></tr><tr><td><strong>ERDA</strong></td><td>European Rights‑Based Democratic Alliance – future political union of democratic constitutional states with a common constitution and post‑scarcity economy</td></tr><tr><td><strong>EDA</strong></td><td>European Defence Alliance – security alliance for democratic sovereignty and strategic autonomy, complementary to NATO</td></tr><tr><td><strong>Article 5 Equivalent</strong></td><td>Binding collective‑defence clause analogous to Article 5 of the NATO Treaty</td></tr><tr><td><strong>PESCO</strong></td><td>Permanent Structured Cooperation – EU framework for structured military cooperation</td></tr><tr><td><strong>FCAS / MGCS</strong></td><td>Core European armaments projects for air and land warfare systems</td></tr><tr><td><strong>IRIS²</strong></td><td>Planned European satellite system for secure communications</td></tr><tr><td><strong>Strategic autonomy</strong></td><td>Ability to act independently in defence, economics and diplomacy</td></tr><tr><td><strong>Coalition of the Willing</strong></td><td>Flexible group of like‑minded states that act together ahead of a broader agreement</td></tr><tr><td><strong>Cyber resilience</strong></td><td>Systemic ability to prevent, withstand and recover from cyber threats</td></tr><tr><td><strong>Rapid Response Force (RRF)</strong></td><td>Multinational EDA rapid‑reaction force for crises and hybrid threats</td></tr><tr><td><strong>Liberum veto</strong></td><td>Historical decision rule (Poland–Lithuania) by which individual nobles could block legislation; a case study of structural veto paralysis and external manipulability.</td></tr><tr><td><strong>Veto paralysis / obstructionism</strong></td><td>Structural inability to decide due to unanimity constraints or persistent minority blocking; makes systems slow, predictable and strategically exploitable.</td></tr></tbody></table>
+| **Term** | **Definition** |
+| --- | --- |
+| **ADO (Asian Defence Organization)** | Hypothetical security alliance of democratic states in East Asia (e.g. Japan, South Korea and others) |
+| **ASDA (Australian Defence Alliance)** | Hypothetical security alliance in the Indo‑Pacific under Australian leadership to protect maritime routes and democratic sovereignty |
+| **LDA (Latin American Defence Alliance)** | Hypothetical defence alliance of democratic states in Latin America (possible leadership by Brazil/Argentina) |
+| **AFDA (African Defence Alliance)** | Hypothetical defence alliance of democratic African states to promote regional security and democratic values |
+| **GDA (Global Defence Alliance)** | Vision of a trans‑regional defence framework of democratic constitutional states based on shared principles |
+| **Democratically Prepared Defence Accession** | Status of a sovereign partner state which, after a successful referendum, becomes a full member of the EDA – based on democratic self‑determination and legal clarity |
+| **ERDA** | European Rights‑Based Democratic Alliance – future political union of democratic constitutional states with a common constitution and post‑scarcity economy |
+| **EDA** | European Defence Alliance – security alliance for democratic sovereignty and strategic autonomy, complementary to NATO |
+| **Article 5 Equivalent** | Binding collective‑defence clause analogous to Article 5 of the NATO Treaty |
+| **PESCO** | Permanent Structured Cooperation – EU framework for structured military cooperation |
+| **FCAS / MGCS** | Core European armaments projects for air and land warfare systems |
+| **IRIS²** | Planned European satellite system for secure communications |
+| **Strategic autonomy** | Ability to act independently in defence, economics and diplomacy |
+| **Coalition of the Willing** | Flexible group of like‑minded states that act together ahead of a broader agreement |
+| **Cyber resilience** | Systemic ability to prevent, withstand and recover from cyber threats |
+| **Rapid Response Force (RRF)** | Multinational EDA rapid‑reaction force for crises and hybrid threats |
+| **Liberum veto** | Historical decision rule (Poland–Lithuania) by which individual nobles could block legislation; a case study of structural veto paralysis and external manipulability. |
+| **Veto paralysis / obstructionism** | Structural inability to decide due to unanimity constraints or persistent minority blocking; makes systems slow, predictable and strategically exploitable. |
 
 ***
 
@@ -5723,8 +5903,10 @@ This implies for the EDA:
 \newpage
 
 ---
-source: content/5.-das-eda-konzept/5.1-vision-und-mission-der-europaischen-verteidigungsallianz-eda.md
-status: "in-review"
+content_id: erda.book.5.das.eda.konzept.5.1.vision.und.mission.der.europaischen.verteidigungsallianz.eda
+content_lang: en
+source: de/content/5.-das-eda-konzept/5.1-vision-und-mission-der-europaischen-verteidigungsallianz-eda.md
+status: in-review
 ---
 <a id="md-5-das-eda-konzept-5-1-vision-und-mission-der-europaischen-verteidigungsallianz-eda"></a>
 
@@ -5734,6 +5916,8 @@ status: "in-review"
 _**Vision and mission**_
 
 The European Defence Alliance (EDA) is a values-based defence architecture that unites European and allied democracies in a shared commitment to security, freedom and democratic sovereignty. It complements NATO while ensuring that Europe remains capable of defence and strategically autonomous, even in times of transatlantic uncertainty.
+
+The EDA/EVA is therefore not a power project, but a democratic protective architecture. Its legitimacy lies in limiting violence, protecting attacked democracies, shielding citizens and infrastructure from coercion, and binding military power strictly to law, parliamentary control and human dignity. The transatlantic formula is therefore: partnership yes, single-point dependency no.
 
 #### Strategic context
 
@@ -5760,8 +5944,10 @@ The EDA is Europe's strategic test of maturity: an architecture that relies not 
 \newpage
 
 ---
-source: content/5.-das-eda-konzept/5.2-mitgliedschaft-und-organisationsstruktur.md
-status: "in-review"
+content_id: erda.book.5.das.eda.konzept.5.2.mitgliedschaft.und.organisationsstruktur
+content_lang: en
+source: de/content/5.-das-eda-konzept/5.2-mitgliedschaft-und-organisationsstruktur.md
+status: in-review
 ---
 <a id="md-5-das-eda-konzept-5-2-mitgliedschaft-und-organisationsstruktur"></a>
 
@@ -5794,7 +5980,7 @@ Strategic partners participate in exercises, intelligence sharing and selected o
 #### Institutional bodies
 
 | Body | Function |
-|---|---|
+| ---- | ---- |
 | **EDA Council** (ministerial level) | Strategic direction and political decisions |
 | **Integrated Joint Command** | Cross-domain operational planning and mission control |
 | **EDACOM** — crisis centre | Real-time coordination during threats and operations |
@@ -5809,8 +5995,10 @@ Accession to the EDA follows the principle of **Democratically Prepared Defence 
 \newpage
 
 ---
-source: content/5.-das-eda-konzept/5.3-prinzipien-und-verteidigungsdoktrin.md
-status: "in-review"
+content_id: erda.book.5.das.eda.konzept.5.3.prinzipien.und.verteidigungsdoktrin
+content_lang: en
+source: de/content/5.-das-eda-konzept/5.3-prinzipien-und-verteidigungsdoktrin.md
+status: in-review
 ---
 <a id="md-5-das-eda-konzept-5-3-prinzipien-und-verteidigungsdoktrin"></a>
 
@@ -5854,8 +6042,10 @@ Coordinated protection against cyberattacks and hybrid threats forms the fourth 
 \newpage
 
 ---
-source: content/5.-das-eda-konzept/5.4-militarische-integration-und-gemeinsame-standards.md
-status: "in-review"
+content_id: erda.book.5.das.eda.konzept.5.4.militarische.integration.und.gemeinsame.standards
+content_lang: en
+source: de/content/5.-das-eda-konzept/5.4-militarische-integration-und-gemeinsame-standards.md
+status: in-review
 ---
 <a id="md-5-das-eda-konzept-5-4-militarische-integration-und-gemeinsame-standards"></a>
 
@@ -5900,8 +6090,10 @@ Infrastructure agreements for cross-border mobility enable the rapid movement of
 \newpage
 
 ---
-source: content/5.-das-eda-konzept/5.5-globale-koordination-und-verantwortung.md
-status: "in-review"
+content_id: erda.book.5.das.eda.konzept.5.5.globale.koordination.und.verantwortung
+content_lang: en
+source: de/content/5.-das-eda-konzept/5.5-globale-koordination-und-verantwortung.md
+status: in-review
 ---
 <a id="md-5-das-eda-konzept-5-5-globale-koordination-und-verantwortung"></a>
 
@@ -5941,8 +6133,10 @@ As a first step, a **Democracy Security Network** is launched: a framework for v
 \newpage
 
 ---
-source: content/5.-das-eda-konzept/5.6-synergien-und-konnektivitat.md
-status: "in-review"
+content_id: erda.book.5.das.eda.konzept.5.6.synergien.und.konnektivitat
+content_lang: en
+source: de/content/5.-das-eda-konzept/5.6-synergien-und-konnektivitat.md
+status: in-review
 ---
 <a id="md-5-das-eda-konzept-5-6-synergien-und-konnektivitat"></a>
 
@@ -5985,7 +6179,9 @@ All synergies and cooperation arrangements are subject to the **constitutional d
 \newpage
 
 ---
-source: content/5.-das-eda-konzept/5.7-kommandostruktur-und-operative-souveranitat.md
+content_id: erda.book.5.das.eda.konzept.5.7.kommandostruktur.und.operative.souveranitat
+content_lang: en
+source: de/content/5.-das-eda-konzept/5.7-kommandostruktur-und-operative-souveranitat.md
 status: draft
 ---
 <a id="md-5-das-eda-konzept-5-7-kommandostruktur-und-operative-souveranitat"></a>
@@ -6010,7 +6206,9 @@ _**Command structure and operational sovereignty**_
 \newpage
 
 ---
-source: content/5.-das-eda-konzept/5.8-defense-sovereignty-nodes-dsns.md
+content_id: erda.book.5.das.eda.konzept.5.8.defense.sovereignty.nodes.dsns
+content_lang: en
+source: de/content/5.-das-eda-konzept/5.8-defense-sovereignty-nodes-dsns.md
 status: draft
 ---
 <a id="md-5-das-eda-konzept-5-8-defense-sovereignty-nodes-dsns"></a>
@@ -6131,7 +6329,19 @@ Modular, rapidly deployable task forces (20,000–50,000 personnel), designed fo
 
 ***
 
-### 5.8.4 Final assessment
+#### 5.8.4 Strategic reflection: Mosaic Principle and democratic DSN resilience
+
+The "Mosaic Principle", visible in the context of authoritarian warfare, structurally confirms the logic of Defence Sovereignty Nodes and the Democracy Security Network. The core of this logic consists in reducing vulnerability through centralisation and preserving the capacity to act even under partial isolation, sabotage, or failure of individual layers.
+
+Unlike authoritarian applications, where decentrality can serve the continuation of violence despite loss of leadership, within the ERDA framework it is bound by the rule of law: by parliamentary oversight, civilian supervision, transparent accountability, and the protection of free societies.
+
+DSNs therefore do not constitute an architecture for unlimited escalation, but for **democratic resilience** — a protective capability that endures even when central nodes are attacked, communication paths are disrupted, or individual regions are temporarily cut off.
+
+Precisely therein lies the strategic purpose of a values-based, decentrally robust security system: it combines the operational advantages of distributed structures with the ethical guard rails of democratic control.
+
+***
+
+### 5.8.5 Final assessment
 
 > This DSN model combines high strategic‑operational effectiveness with democratic accountability, technological connectivity, ecological intelligence and tactical discretion. It makes defence not only possible, but future‑proof and resistant to information overload or systemic penetration.
 
@@ -6139,7 +6349,9 @@ Modular, rapidly deployable task forces (20,000–50,000 personnel), designed fo
 \newpage
 
 ---
-source: content/5.-das-eda-konzept/5.9-unbemannte-und-autonome-systeme-drohnen-und-ki-integration.md
+content_id: erda.book.5.das.eda.konzept.5.9.unbemannte.und.autonome.systeme.drohnen.und.ki.integration
+content_lang: en
+source: de/content/5.-das-eda-konzept/5.9-unbemannte-und-autonome-systeme-drohnen-und-ki-integration.md
 status: draft
 ---
 <a id="md-5-das-eda-konzept-5-9-unbemannte-und-autonome-systeme-drohnen-und-ki-integration"></a>
@@ -6248,7 +6460,9 @@ The war is in a **transitional period**: technology is advancing rapidly but is 
 \newpage
 
 ---
-source: content/5.-das-eda-konzept/5.10-nukleare-abschreckung-und-strategische-autonomie/README.md
+content_id: erda.book.5.das.eda.konzept.5.10.nukleare.abschreckung.und.strategische.autonomie.readme
+content_lang: en
+source: de/content/5.-das-eda-konzept/5.10-nukleare-abschreckung-und-strategische-autonomie/README.md
 status: draft
 ---
 <a id="md-5-das-eda-konzept-5-10-nukleare-abschreckung-und-strategische-autonomie-readme"></a>
@@ -6266,7 +6480,9 @@ To preserve strategic autonomy and protect the territorial integrity of democrat
 \newpage
 
 ---
-source: content/5.-das-eda-konzept/5.10-nukleare-abschreckung-und-strategische-autonomie/5.10.1-begrundung-und-grundsatze.md
+content_id: erda.book.5.das.eda.konzept.5.10.nukleare.abschreckung.und.strategische.autonomie.5.10.1.begrundung.und.grundsatze
+content_lang: en
+source: de/content/5.-das-eda-konzept/5.10-nukleare-abschreckung-und-strategische-autonomie/5.10.1-begrundung-und-grundsatze.md
 status: draft
 ---
 <a id="md-5-das-eda-konzept-5-10-nukleare-abschreckung-und-strategische-autonomie-5-10-1-begrundung-und-grundsatze"></a>
@@ -6284,7 +6500,9 @@ _Rationale and principles_
 \newpage
 
 ---
-source: content/5.-das-eda-konzept/5.10-nukleare-abschreckung-und-strategische-autonomie/5.10.2-sofortmassnahmen-2025-2030.md
+content_id: erda.book.5.das.eda.konzept.5.10.nukleare.abschreckung.und.strategische.autonomie.5.10.2.sofortmassnahmen.2025.2030
+content_lang: en
+source: de/content/5.-das-eda-konzept/5.10-nukleare-abschreckung-und-strategische-autonomie/5.10.2-sofortmassnahmen-2025-2030.md
 status: draft
 ---
 <a id="md-5-das-eda-konzept-5-10-nukleare-abschreckung-und-strategische-autonomie-5-10-2-sofortmassnahmen-2025-2030"></a>
@@ -6301,7 +6519,9 @@ _**Immediate measures (2025–2030)**_
 \newpage
 
 ---
-source: content/5.-das-eda-konzept/5.10-nukleare-abschreckung-und-strategische-autonomie/5.10.3-mittelfristige-entwicklung-2030-2040.md
+content_id: erda.book.5.das.eda.konzept.5.10.nukleare.abschreckung.und.strategische.autonomie.5.10.3.mittelfristige.entwicklung.2030.2040
+content_lang: en
+source: de/content/5.-das-eda-konzept/5.10-nukleare-abschreckung-und-strategische-autonomie/5.10.3-mittelfristige-entwicklung-2030-2040.md
 status: draft
 ---
 <a id="md-5-das-eda-konzept-5-10-nukleare-abschreckung-und-strategische-autonomie-5-10-3-mittelfristige-entwicklung-2030-2040"></a>
@@ -6319,7 +6539,9 @@ _**Medium‑term development (2030–2040)**_
 \newpage
 
 ---
-source: content/5.-das-eda-konzept/5.10-nukleare-abschreckung-und-strategische-autonomie/5.10.4-langfristige-vision-2040-2050.md
+content_id: erda.book.5.das.eda.konzept.5.10.nukleare.abschreckung.und.strategische.autonomie.5.10.4.langfristige.vision.2040.2050
+content_lang: en
+source: de/content/5.-das-eda-konzept/5.10-nukleare-abschreckung-und-strategische-autonomie/5.10.4-langfristige-vision-2040-2050.md
 status: draft
 ---
 <a id="md-5-das-eda-konzept-5-10-nukleare-abschreckung-und-strategische-autonomie-5-10-4-langfristige-vision-2040-2050"></a>
@@ -6337,7 +6559,9 @@ _**Long‑term vision (2040–2050)**_
 \newpage
 
 ---
-source: content/5.-das-eda-konzept/5.10-nukleare-abschreckung-und-strategische-autonomie/5.10.5-offentliche-kommunikation-und-ethische-grundlage.md
+content_id: erda.book.5.das.eda.konzept.5.10.nukleare.abschreckung.und.strategische.autonomie.5.10.5.offentliche.kommunikation.und.ethische.grundlage
+content_lang: en
+source: de/content/5.-das-eda-konzept/5.10-nukleare-abschreckung-und-strategische-autonomie/5.10.5-offentliche-kommunikation-und-ethische-grundlage.md
 status: draft
 ---
 <a id="md-5-das-eda-konzept-5-10-nukleare-abschreckung-und-strategische-autonomie-5-10-5-offentliche-kommunikation-und-ethische-grundlage"></a>
@@ -6356,7 +6580,9 @@ The EDA’s nuclear deterrence is communicated as a **minimalist, rule‑of‑la
 \newpage
 
 ---
-source: content/6.-das-civitas-konzept/README.md
+content_id: erda.book.6.das.civitas.konzept.readme
+content_lang: en
+source: de/content/6.-das-civitas-konzept/README.md
 status: draft
 ---
 <a id="md-6-das-civitas-konzept-readme"></a>
@@ -6364,38 +6590,47 @@ status: draft
 
 # 6. The CIVITAS concept
 
-_**CIVITAS: Europe’s digital agora**_
+_**CIVITAS: Europe's digital agora of mature citizens**_
 
 ### 📘 Executive summary for decision‑makers
 
 **🎯 Aim of this chapter**  
-Creation of a digital democracy platform (CIVITAS) that strengthens citizen participation, makes political decision‑making processes more transparent and sustainably promotes democratic culture.
+Building a democratically governed digital infrastructure that strengthens citizen participation, public orientation, trustworthy publication and democratic feedback in the digital sphere.
+
+**Core idea**
+CIVITAS is not a European replacement for commercial social networks. It is the public infrastructure of a democracy of mature citizens: readable for all, trustworthy through verification, valuable through accountability.
+
+**CIVITAS Public**
+As the first operational layer, CIVITAS Public makes the entry point practical: publish, ask, debate, make trends visible, build dossiers and provide democratic institutions with intelligible civic input. The full paper version is documented in [Appendix P.2 – CIVITAS Public: Building a European Digital Agora](#md-appendix-p-papers-p-2-civitas-public-building-a-european-digital-agora).
 
 **🧭 Key messages**
 
-* Digital technologies enable direct, continuous participation and democratic innovation.
-* Data protection, security and ethical standards are at the heart of a sustainable digital democracy.
-* Democracy is strengthened through inclusive, barrier‑free digital spaces.
+* Democratic public life needs its own digital infrastructure between commercial feeds and closed institutional communication.
+* CIVITAS combines verified publication, structured debate, data protection, moderation, education and institutional feedback.
+* The focus is on open readability, responsible publication, accessible participation and rule-of-law controllability.
 
 **🛠 Measures**
 
-* Implementation of a Europe‑wide digital participation system (CIVITAS).
-* Establishment of clear governance and data‑protection standards.
-* Funding programmes for digital democracy education and media literacy.
+* A Europe-compatible CIVITAS Public layer for publication, dossiers, citizen questions, trend radar and dialogue formats.
+* Independent governance with a standards board, civic oversight, algorithm/ethics review and appeal channels.
+* Open-source architecture, European hosting, eIDAS/GDPR compatibility, audit trails and later federation.
+* Digital democracy education, Young CIVITAS and civic-tech partnerships.
 
 **⚠️ Risks**
 
-* Digital divides could distribute participation unequally.
-* Risks of manipulation and data‑protection concerns in digital processes.
+* Digital divides, verification barriers and language asymmetries may distribute participation unequally.
+* Governance capture, manipulation attempts and legal uncertainty must be limited early through transparent procedures.
 
 **🌍 Visionary benefits**  
-Digital democracy creates greater social cohesion, higher political transparency and stronger citizen engagement.
+CIVITAS creates a public space in which freedom, participation and responsibility can be shaped digitally — sovereign, protected, pluralistic and open to European development.
 
 
 \newpage
 
 ---
-source: content/6.-das-civitas-konzept/6.1-leitidee-demokratie-im-digitalen-raum.md
+content_id: erda.book.6.das.civitas.konzept.6.1.leitidee.demokratie.im.digitalen.raum
+content_lang: en
+source: de/content/6.-das-civitas-konzept/6.1-leitidee-demokratie-im-digitalen-raum.md
 status: draft
 ---
 <a id="md-6-das-civitas-konzept-6-1-leitidee-demokratie-im-digitalen-raum"></a>
@@ -6411,11 +6646,19 @@ In an era of growing uncertainty, increasing polarisation and algorithmically dr
 
 CIVITAS combines social‑network functions with the rule of law, public accountability and direct citizen participation. It is the digital infrastructure for participation, freedom of expression and democratic self‑efficacy in the 21st century.
 
+CIVITAS addresses the gap between two insufficient poles: on the one side, commercial feeds whose logic rewards attention, advertising and outrage; on the other, closed institutional communication that may be formally correct but often fails to generate living public discourse. What is missing is a space open enough for genuine public life and structured enough for trust, accountability and democratic usefulness.
+
+The guiding idea is therefore: **readable for all, trustworthy through verification, valuable through accountability.** Citizens should not merely comment; they should be able to ask, check, publish, object, learn and connect institutions back to public reasoning. CIVITAS is thus a tool of a democracy of mature citizens: it treats citizens as capable subjects of judgement and gives their participation a reviewable form.
+
+Within the ERDA framework, CIVITAS is the digital democracy infrastructure. **CIVITAS Public** forms the first operational layer: visible, usable, reviewable and extensible. The larger CIVITAS vision can later include petitions, consultations, parliamentary interfaces, education pathways and federated spaces. The beginning remains deliberately concrete: a public space for responsible publication and structured debate.
+
 
 \newpage
 
 ---
-source: content/6.-das-civitas-konzept/6.2-tragerschaft-und-demokratische-kontrolle.md
+content_id: erda.book.6.das.civitas.konzept.6.2.tragerschaft.und.demokratische.kontrolle
+content_lang: en
+source: de/content/6.-das-civitas-konzept/6.2-tragerschaft-und-demokratische-kontrolle.md
 status: draft
 ---
 <a id="md-6-das-civitas-konzept-6-2-tragerschaft-und-demokratische-kontrolle"></a>
@@ -6425,18 +6668,25 @@ status: draft
 
 _**Governance & democratic oversight**_
 
-CIVITAS is operated by an independent European foundation under parliamentary oversight (EU/EDA/ERDA).
+CIVITAS needs a carrier structure that can be neither captured by party politics nor commercially exploited. The intended model is an independent European foundation or comparable public-interest structure under parliamentarily intelligible oversight, with a clear separation between funding, technical development, editorial standards and appeal bodies.
 
-* Participation of civil‑society organisations, youth councils, media and academia.
-* Supervisory bodies with citizen participation.
-* Algorithmic decisions are subject to ethics committees and public audit.
-* Funding from public sources; no advertising, no commercial data exploitation.
+Governance follows a multi-layer logic:
+
+* **Foundation Carrier:** legal form, funding integrity, institutional continuity and strategic independence.
+* **Editorial and Standards Board:** publication formats, review logic, source standards, correction procedures and quality rules.
+* **Civic Oversight Panel:** citizen perspective, fairness, intelligibility, access justice and democratic legitimacy.
+* **Ethics and Algorithm Review Group:** moderation systems, ranking logic, AI assistance, transparency and systemic risks.
+* **Appeals and Due Process Unit:** complaints, labelling disputes, suspensions, moderation decisions and procedural fairness.
+
+Core principles are public rules, regular transparency reports, external audits, rotating mandates, conflict-of-interest disclosure and anti-capture safeguards. CIVITAS must not be controlled by a single state, party, corporation, funder or founder. Funding from public resources, foundations and public-interest partnerships is possible; advertising and commercial data exploitation are excluded.
 
 
 \newpage
 
 ---
-source: content/6.-das-civitas-konzept/6.3-technische-architektur-und-datenschutz.md
+content_id: erda.book.6.das.civitas.konzept.6.3.technische.architektur.und.datenschutz
+content_lang: en
+source: de/content/6.-das-civitas-konzept/6.3-technische-architektur-und-datenschutz.md
 status: draft
 ---
 <a id="md-6-das-civitas-konzept-6-3-technische-architektur-und-datenschutz"></a>
@@ -6446,18 +6696,25 @@ status: draft
 
 ### Technical architecture
 
-The architecture is decentralised, open‑source and fully compatible with the Fediverse (ActivityPub):
+The architecture is modular, open-source, operable in Europe and prepared for later federation. CIVITAS should not emerge as a closed platform, but as auditable democratic infrastructure with clear layers:
 
-* Geo‑redundant hosting on European servers.
-* Compliant with GDPR, eIDAS and the ECHR.
-* Modularly extensible, accessible and multilingual.
-* Transparent display of algorithms, no hidden rankings.
+1. **Publication Layer:** articles, briefs, dossiers, citizen questions, debate formats and trend reports.
+2. **Identity and Role Layer:** registration, verification, role rights, CIVITAS-ID and traceable responsibility.
+3. **Resonance Layer:** polls, trend radar, thematic rooms and resonance signals with transparent classification.
+4. **Moderation and Review Layer:** human moderation, AI support, review levels, correction history and appeal routes.
+5. **Federation and API Layer:** interfaces to civic-tech systems, open data, parliamentary processes and later ActivityPub/Fediverse compatibility.
+
+Technical minimum standards include European geo-redundant hosting, open-source code, open export formats, version history, audit trail, accessibility at least to WCAG 2.1 AA, multilinguality, transparent ranking logic and no hidden engagement optimisation.
+
+Data protection is not an add-on, but a starting condition. Before any public pilot, a data protection impact assessment, an independent data protection officer, purpose limitation, data minimisation, deletion and export rights, and clear retention periods must be defined. eIDAS may become relevant for verified authors; readers and registered participants should be able to interact in data-minimising roles wherever possible.
 
 
 \newpage
 
 ---
-source: content/6.-das-civitas-konzept/6.4-kernfunktionen-von-civitas.md
+content_id: erda.book.6.das.civitas.konzept.6.4.kernfunktionen.von.civitas
+content_lang: en
+source: de/content/6.-das-civitas-konzept/6.4-kernfunktionen-von-civitas.md
 status: draft
 ---
 <a id="md-6-das-civitas-konzept-6-4-kernfunktionen-von-civitas"></a>
@@ -6467,17 +6724,28 @@ status: draft
 
 _**Core functions of CIVITAS**_
 
-* **Verified debate space** with AI and human moderation.
-* **Citizen petitions** with digital threshold mechanisms and forwarding procedures.
-* **Interfaces to democratic processes:** elections, EU consultations, e‑voting.
-* **Political information modules:** legislative histories, vote trackers, party programmes.
-* **Civic‑tech tools** for co‑shaping public initiatives.
+CIVITAS begins with a public, trust-building layer: **CIVITAS Public**. This layer does not make democratic communication faster, louder or more emotional, but more traceable, citable and institutionally usable.
+
+Core launch formats are:
+
+* **Article:** structured publication with sources, author profile, topic assignment and version history.
+* **Brief:** short, focused explanatory or analytical contribution.
+* **Dossier:** thematic collection of developments, perspectives, sources, lines of conflict and pathways forward.
+* **Citizen Question:** public civic question with a qualified answer by verified authors, editors or experts.
+* **Debate Format:** moderated multi-perspective exchange with clear rules and documented process.
+* **Trend Report:** interpreted summary of issue resonance, question clusters and public trajectories.
+
+Every substantial publication receives a stable **CIVITAS-ID**, visible review status and a correction or version history. The review model has three levels: **Level A** as a formal minimum check, **Level B** as editorial plausibility and source review, and **Level C** as optional expert review for major analytical texts.
+
+Further modules can build on this: Europe in Brief, Trend Radar Europe, Debate Dossiers, Policy Tracker, Young CIVITAS and CIVITAS Dialogues. Later stages can integrate citizen petitions, consultation interfaces, parliamentary feedback loops, municipal spaces and civic-tech tools.
 
 
 \newpage
 
 ---
-source: content/6.-das-civitas-konzept/6.5-schutzmechanismen-und-rechtssicherheit.md
+content_id: erda.book.6.das.civitas.konzept.6.5.schutzmechanismen.und.rechtssicherheit
+content_lang: en
+source: de/content/6.-das-civitas-konzept/6.5-schutzmechanismen-und-rechtssicherheit.md
 status: draft
 ---
 <a id="md-6-das-civitas-konzept-6-5-schutzmechanismen-und-rechtssicherheit"></a>
@@ -6487,16 +6755,29 @@ status: draft
 
 _**Protection mechanisms & legal certainty**_
 
-* Rule‑of‑law‑defined moderation guidelines.
-* Appeals procedures with independent review.
-* Regular transparency reports and external audits.
-* Abuse‑prevention mechanisms for coordinated influence operations or system overload.
+CIVITAS structures political visibility. Rule-of-law safeguards must therefore be built in from the beginning, not added only after conflict.
+
+Binding elements include:
+
+* clear publication, participation and moderation rules
+* visible labelling of formats, roles, review levels and corrections
+* documented moderation decisions with reasons
+* graduated enforcement logic from notice to restriction to removal
+* independent complaint and appeal routes
+* protection against bots, coordinated influence, DDoS and system overload
+* regular transparency reports and external audits
+
+Moderation serves neither maximum noise nor passive arbitrariness. Its objective is **maximum democratic usability**: disagreement must remain possible, but intelligible, rule-bound, reviewable and compatible with human dignity.
+
+For data protection and platform law, GDPR, the Digital Services Act, eIDAS and the fundamental-rights framework are decisive. Polls and trend reports must be methodologically labelled. CIVITAS must never simulate representativeness where only platform resonance, curated interpretation or indicative mood exists.
 
 
 \newpage
 
 ---
-source: content/6.-das-civitas-konzept/6.6-partnerschaften-und-globale-integration.md
+content_id: erda.book.6.das.civitas.konzept.6.6.partnerschaften.und.globale.integration
+content_lang: en
+source: de/content/6.-das-civitas-konzept/6.6-partnerschaften-und-globale-integration.md
 status: draft
 ---
 <a id="md-6-das-civitas-konzept-6-6-partnerschaften-und-globale-integration"></a>
@@ -6506,18 +6787,27 @@ status: draft
 
 ### Partnerships & global integration
 
-CIVITAS is open to cooperation with:
+CIVITAS can only gain European relevance if it does not emerge as an isolated tool. It needs a founding coalition of democratic institutions, civic-tech communities, media, academia, education and civil society.
 
-* Parliaments, municipalities, educational institutions, media organisations.
-* International democracies (e.g. Canada, Japan, New Zealand, Iceland).
-* Indigenous communities in the Arctic region (e.g. participation in the Arctic Commons Charter).
-* Integration into ERDA’s and EDA’s strategic communications and resilience concepts.
+Possible partner roles:
+
+* **EU institutions and national parliaments:** funding, consultation interfaces, hearings, policy tracker and institutional feedback loops.
+* **Municipalities and regions:** local CIVITAS rooms, citizen questions, participation processes and bridges to Decidim-/Consul-like tools.
+* **Media organisations:** certified publications, factual context, editorial standards and European visibility.
+* **Universities and research networks:** expert review, evaluation, digital-democracy research and methodological assessment.
+* **Civic-tech communities:** open-source development, interoperability, accessibility, security and interfaces.
+* **Civil society and foundations:** social access, participation bridges, funding and public-interest oversight.
+* **Democratic partner states:** exchange of experience with Canada, Japan, New Zealand, Iceland and other rule-of-law democracies.
+
+Global integration here does not mean exporting a European model, but open connectivity: CIVITAS can learn with democratic partners, Indigenous communities, educational networks and international resilience initiatives without overriding local contexts.
 
 
 \newpage
 
 ---
-source: content/6.-das-civitas-konzept/6.7-bildung-jugend-und-partizipation.md
+content_id: erda.book.6.das.civitas.konzept.6.7.bildung.jugend.und.partizipation
+content_lang: en
+source: de/content/6.-das-civitas-konzept/6.7-bildung-jugend-und-partizipation.md
 status: draft
 ---
 <a id="md-6-das-civitas-konzept-6-7-bildung-jugend-und-partizipation"></a>
@@ -6527,37 +6817,56 @@ status: draft
 
 _**Education, youth & democratic participation**_
 
-Democracy lives from participation – especially that of the younger generation:
+Democracy lives from participation — especially that of the younger generation. CIVITAS must not treat youth merely as a target group, but as co-designers of democratic public life.
 
-* CIVITAS offers secure access for schools, universities and youth councils.
-* Support for civic education and digital self‑efficacy.
-* Participatory tools for projects, votes and political learning spaces.
+**Young CIVITAS** is understood as its own learning and participation space:
+
+* secure access for schools, universities, youth councils, students and European youth dialogues
+* learning spaces for source assessment, argumentation, debate culture, media literacy and democratic responsibility
+* guided formats for citizen questions, dossiers, project ideas, youth pulse and European dialogues
+* protection from commercial platform logic, tracking pressure and emotional attention economies
+* participation of young people in design, accessibility, topic selection and evaluation criteria
+
+The pedagogical core is self-efficacy without naivety: young people should experience that democratic speech can have consequences, but also requires rules, sources, responsibility and willingness to learn.
 
 
 \newpage
 
 ---
-source: content/6.-das-civitas-konzept/6.8-schlussgedanken.md
+content_id: erda.book.6.das.civitas.konzept.6.8.schlussgedanken
+content_lang: en
+source: de/content/6.-das-civitas-konzept/6.8-schlussgedanken.md
 status: draft
 ---
 <a id="md-6-das-civitas-konzept-6-8-schlussgedanken"></a>
 
 
-## 6.8 Concluding reflections
+## 6.8 Roadmap and concluding reflections
 
-_**Concluding reflections**_
+_**From idea to democratic infrastructure**_
 
-_An infrastructure for Europe’s democratic future_
+For v2.5.0, CIVITAS is not presented as a finished system, but as an implementable infrastructure agenda. The roadmap has four stages:
 
-CIVITAS is more than a technical project. It is a strategic pillar of European democracy. It creates a public space in which freedom, participation and responsibility can unfold digitally – sovereign, protected and open to all who wish to help shape a pluralistic future for Europe.
+1. **Phase 0 – Concept and founding coalition (0-6 months):** publish the paper, recruit partners, clarify role and verification model, prepare the data protection impact assessment, establish a minimal public presence.
+2. **Phase 1 – Minimum Viable Platform (6-18 months):** launch articles, briefs, citizen questions, CIVITAS-ID, verified author profiles, simple polls, initial dossiers and foundational rules.
+3. **Phase 2 – Trust and Depth Expansion (18-36 months):** make review levels visible, establish trend reports, debate formats, Young CIVITAS, appeal routes and external evaluation.
+4. **Phase 3 – Institutional Extension (36-60 months):** assess and expand interfaces to petitions, consultations, parliaments, municipalities and federated democratic platforms.
+
+Success is not measured only in user numbers. More important are discourse quality, source density, participation breadth, trust formation, accessibility, institutional uptake and the capacity to process conflicts under the rule of law.
+
+CIVITAS is therefore more than a technical project. It is a strategic pillar of European democracy. It creates a public space in which freedom, participation and responsibility can unfold digitally — sovereign, protected and open to all who wish to help shape a pluralistic future for Europe.
 
 > _CIVITAS is the infrastructure of the digital self‑assertion of free democracies._
+
+The full conceptual deep-dive on CIVITAS Public is included as a paper in [Appendix P.2](#md-appendix-p-papers-p-2-civitas-public-building-a-european-digital-agora).
 
 
 \newpage
 
 ---
-source: content/7.-das-fortera-konzept/README.md
+content_id: erda.book.7.das.fortera.konzept.readme
+content_lang: en
+source: de/content/7.-das-fortera-konzept/README.md
 status: approved
 ---
 <a id="md-7-das-fortera-konzept-readme"></a>
@@ -6610,7 +6919,9 @@ A sovereign and sustainable economy makes Europe a global pioneer in responsible
 \newpage
 
 ---
-source: content/7.-das-fortera-konzept/7.1-ausgangslage-und-strategische-eckpfeiler.md
+content_id: erda.book.7.das.fortera.konzept.7.1.ausgangslage.und.strategische.eckpfeiler
+content_lang: en
+source: de/content/7.-das-fortera-konzept/7.1-ausgangslage-und-strategische-eckpfeiler.md
 status: draft
 ---
 <a id="md-7-das-fortera-konzept-7-1-ausgangslage-und-strategische-eckpfeiler"></a>
@@ -6649,7 +6960,9 @@ FORTERA therefore treats re‑industrialisation not as a prestige project, but a
 \newpage
 
 ---
-source: content/7.-das-fortera-konzept/7.2-ziel-des-konzepts.md
+content_id: erda.book.7.das.fortera.konzept.7.2.ziel.des.konzepts
+content_lang: en
+source: de/content/7.-das-fortera-konzept/7.2-ziel-des-konzepts.md
 status: approved
 ---
 <a id="md-7-das-fortera-konzept-7-2-ziel-des-konzepts"></a>
@@ -6665,7 +6978,9 @@ This concept provides a structured course of action for Europe’s democratic co
 \newpage
 
 ---
-source: content/7.-das-fortera-konzept/7.2.1-das-wie-fortera-als-umsetzungs-betriebssystem-eu-und-staaten.md
+content_id: erda.book.7.das.fortera.konzept.7.2.1.das.wie.fortera.als.umsetzungs.betriebssystem.eu.und.staaten
+content_lang: en
+source: de/content/7.-das-fortera-konzept/7.2.1-das-wie-fortera-als-umsetzungs-betriebssystem-eu-und-staaten.md
 status: approved
 ---
 <a id="md-7-das-fortera-konzept-7-2-1-das-wie-fortera-als-umsetzungs-betriebssystem-eu-und-staaten"></a>
@@ -6700,7 +7015,9 @@ FORTERA works when Europe operates like a **delivery system**: one goal, one tea
 \newpage
 
 ---
-source: content/7.-das-fortera-konzept/7.3-produktionssouveranitat-und-strategische-industriepolitik/README.md
+content_id: erda.book.7.das.fortera.konzept.7.3.produktionssouveranitat.und.strategische.industriepolitik.readme
+content_lang: en
+source: de/content/7.-das-fortera-konzept/7.3-produktionssouveranitat-und-strategische-industriepolitik/README.md
 status: approved
 ---
 <a id="md-7-das-fortera-konzept-7-3-produktionssouveranitat-und-strategische-industriepolitik-readme"></a>
@@ -6722,7 +7039,9 @@ _**Production sovereignty and strategic industrial policy**_
 \newpage
 
 ---
-source: content/7.-das-fortera-konzept/7.3-produktionssouveranitat-und-strategische-industriepolitik/7.3.1-ubersicht-strategische-produktionsziele-europas-auszug.md
+content_id: erda.book.7.das.fortera.konzept.7.3.produktionssouveranitat.und.strategische.industriepolitik.7.3.1.ubersicht.strategische.produktionsziele.europas.auszug
+content_lang: en
+source: de/content/7.-das-fortera-konzept/7.3-produktionssouveranitat-und-strategische-industriepolitik/7.3.1-ubersicht-strategische-produktionsziele-europas-auszug.md
 status: approved
 ---
 <a id="md-7-das-fortera-konzept-7-3-produktionssouveranitat-und-strategische-industriepolitik-7-3-1-ubersicht-strategische-produktionsziele-europas-auszug"></a>
@@ -6732,13 +7051,22 @@ status: approved
 
 _**Overview: Europe’s strategic production goals (excerpt)**_
 
-<table><thead><tr><th width="162.4000244140625">Sector</th><th width="280.79998779296875">Substitute or target product</th><th>Comment</th></tr></thead><tbody><tr><td>Defence</td><td>FCAS, MGCS, drone systems, space‑based reconnaissance</td><td>Replacement for F‑35, Abrams and others – with EU/ERDA/EDA cooperation</td></tr><tr><td>Energy</td><td>SMR reactors, hydrogen storage, biogas solutions</td><td>Phase‑out of fossil US imports (LNG)</td></tr><tr><td>IT & communication</td><td>EU cloud, quantum encryption, AI base systems</td><td>Digital sovereignty vis‑à‑vis big tech</td></tr><tr><td>Healthcare</td><td>Active ingredient synthesis, mRNA platforms, diagnostic devices</td><td>Independence in pandemic preparedness</td></tr><tr><td>Raw materials</td><td>Recycling, substitution, strategic stockpiling</td><td>Resilience to export controls (e.g. rare earths)</td></tr><tr><td>Agriculture/food</td><td>Regional cycles, urban agricultural systems</td><td>Autarky component of civil resilience</td></tr></tbody></table>
+| Sector | Substitute or target product | Comment |
+| --- | --- | --- |
+| Defence | FCAS, MGCS, drone systems, space‑based reconnaissance | Replacement for F‑35, Abrams and others – with EU/ERDA/EDA cooperation |
+| Energy | SMR reactors, hydrogen storage, biogas solutions | Phase‑out of fossil US imports (LNG) |
+| IT \& communication | EU cloud, quantum encryption, AI base systems | Digital sovereignty vis‑à‑vis big tech |
+| Healthcare | Active ingredient synthesis, mRNA platforms, diagnostic devices | Independence in pandemic preparedness |
+| Raw materials | Recycling, substitution, strategic stockpiling | Resilience to export controls (e.g. rare earths) |
+| Agriculture/food | Regional cycles, urban agricultural systems | Autarky component of civil resilience |
 
 
 \newpage
 
 ---
-source: content/7.-das-fortera-konzept/7.3-produktionssouveranitat-und-strategische-industriepolitik/7.3.2-quantifizierte-szenarien-zur-produktionssouveranitat-im-rahmen-von-fortera.md
+content_id: erda.book.7.das.fortera.konzept.7.3.produktionssouveranitat.und.strategische.industriepolitik.7.3.2.quantifizierte.szenarien.zur.produktionssouveranitat.im.rahmen.von.fortera
+content_lang: en
+source: de/content/7.-das-fortera-konzept/7.3-produktionssouveranitat-und-strategische-industriepolitik/7.3.2-quantifizierte-szenarien-zur-produktionssouveranitat-im-rahmen-von-fortera.md
 status: approved
 ---
 <a id="md-7-das-fortera-konzept-7-3-produktionssouveranitat-und-strategische-industriepolitik-7-3-2-quantifizierte-szenarien-zur-produktionssouveranitat-im-rahmen-von-fortera"></a>
@@ -6782,7 +7110,9 @@ The following industrial sectors have been identified as particularly critical f
 \newpage
 
 ---
-source: content/7.-das-fortera-konzept/7.3-produktionssouveranitat-und-strategische-industriepolitik/7.3.3-herausforderungen-risiken-und-losungsansatze.md
+content_id: erda.book.7.das.fortera.konzept.7.3.produktionssouveranitat.und.strategische.industriepolitik.7.3.3.herausforderungen.risiken.und.losungsansatze
+content_lang: en
+source: de/content/7.-das-fortera-konzept/7.3-produktionssouveranitat-und-strategische-industriepolitik/7.3.3-herausforderungen-risiken-und-losungsansatze.md
 status: approved
 ---
 <a id="md-7-das-fortera-konzept-7-3-produktionssouveranitat-und-strategische-industriepolitik-7-3-3-herausforderungen-risiken-und-losungsansatze"></a>
@@ -6819,7 +7149,9 @@ _**Challenges, risks and solution approaches**_
 \newpage
 
 ---
-source: content/7.-das-fortera-konzept/7.3-produktionssouveranitat-und-strategische-industriepolitik/7.3.4-ubergangskosten-und-finanzierungsstrategie.md
+content_id: erda.book.7.das.fortera.konzept.7.3.produktionssouveranitat.und.strategische.industriepolitik.7.3.4.ubergangskosten.und.finanzierungsstrategie
+content_lang: en
+source: de/content/7.-das-fortera-konzept/7.3-produktionssouveranitat-und-strategische-industriepolitik/7.3.4-ubergangskosten-und-finanzierungsstrategie.md
 status: approved
 ---
 <a id="md-7-das-fortera-konzept-7-3-produktionssouveranitat-und-strategische-industriepolitik-7-3-4-ubergangskosten-und-finanzierungsstrategie"></a>
@@ -6848,7 +7180,9 @@ _**Transition costs and financing strategy**_
 \newpage
 
 ---
-source: content/7.-das-fortera-konzept/7.3-produktionssouveranitat-und-strategische-industriepolitik/7.3.5-praktische-massnahmen-und-meilensteinplanung-2025-2050.md
+content_id: erda.book.7.das.fortera.konzept.7.3.produktionssouveranitat.und.strategische.industriepolitik.7.3.5.praktische.massnahmen.und.meilensteinplanung.2025.2050
+content_lang: en
+source: de/content/7.-das-fortera-konzept/7.3-produktionssouveranitat-und-strategische-industriepolitik/7.3.5-praktische-massnahmen-und-meilensteinplanung-2025-2050.md
 status: approved
 ---
 <a id="md-7-das-fortera-konzept-7-3-produktionssouveranitat-und-strategische-industriepolitik-7-3-5-praktische-massnahmen-und-meilensteinplanung-2025-2050"></a>
@@ -6875,13 +7209,15 @@ _**Practical measures and milestone planning (2025–2050)**_
 \newpage
 
 ---
-source: content/7.-das-fortera-konzept/7.3-produktionssouveranitat-und-strategische-industriepolitik/7.3.5.1-sofortprogramm-1000-tage.md
+content_id: erda.book.7.das.fortera.konzept.7.3.produktionssouveranitat.und.strategische.industriepolitik.7.3.5.1.sofortprogramm.1000.tage
+content_lang: en
+source: de/content/7.-das-fortera-konzept/7.3-produktionssouveranitat-und-strategische-industriepolitik/7.3.5.1-sofortprogramm-1000-tage.md
 status: approved
 ---
 <a id="md-7-das-fortera-konzept-7-3-produktionssouveranitat-und-strategische-industriepolitik-7-3-5-1-sofortprogramm-1000-tage"></a>
 
 
-### 7.3.5.1 Immediate programme “1,000 days” ({{YYYY}}–{{YYYY}}): From plan to output
+### 7.3.5.1 Immediate programme “1,000 days” (2026–2028): From plan to output
 
 This package prioritises measures that measurably increase output within 12–36 months.
 
@@ -6915,7 +7251,7 @@ The war in Ukraine (2022–2026) has demonstrated that the decisive economic cap
 ##### Key findings
 
 | Principle | Explanation |
-|---|---|
+| ---- | ---- |
 | **Volume beats unit price** | Cheap, mass-produced yet accurate attrition weapons (drones, loitering munitions) devalue expensive one-off platforms on which classical doctrines rely. |
 | **Economy = lifeblood of war** | Economic resilience + uninterrupted energy supply are more decisive than the number of combat-ready brigades or ships. |
 | **Military-industrial planning as part of operational planning** | Production cycles, spare-parts supply chains, software updates and battery/chip supply are front-line factors. |
@@ -6931,10 +7267,13 @@ The war in Ukraine (2022–2026) has demonstrated that the decisive economic cap
 
 > "Traditional defence-industrial models — centralised factories, long supply chains, rigid production cycles — are no longer fit for purpose." — *Gen. Zaluzhnyi, Chatham House, 23 Feb. 2026*
 
+
 \newpage
 
 ---
-source: content/7.-das-fortera-konzept/7.3-produktionssouveranitat-und-strategische-industriepolitik/7.3.6-erfolgskontrolle-und-anpassungsmechanismen.md
+content_id: erda.book.7.das.fortera.konzept.7.3.produktionssouveranitat.und.strategische.industriepolitik.7.3.6.erfolgskontrolle.und.anpassungsmechanismen
+content_lang: en
+source: de/content/7.-das-fortera-konzept/7.3-produktionssouveranitat-und-strategische-industriepolitik/7.3.6-erfolgskontrolle-und-anpassungsmechanismen.md
 status: approved
 ---
 <a id="md-7-das-fortera-konzept-7-3-produktionssouveranitat-und-strategische-industriepolitik-7-3-6-erfolgskontrolle-und-anpassungsmechanismen"></a>
@@ -6961,7 +7300,9 @@ _**Success monitoring and adjustment mechanisms**_
 \newpage
 
 ---
-source: content/7.-das-fortera-konzept/7.3-produktionssouveranitat-und-strategische-industriepolitik/7.3.7-gesamtausblick-und-nutzen.md
+content_id: erda.book.7.das.fortera.konzept.7.3.produktionssouveranitat.und.strategische.industriepolitik.7.3.7.gesamtausblick.und.nutzen
+content_lang: en
+source: de/content/7.-das-fortera-konzept/7.3-produktionssouveranitat-und-strategische-industriepolitik/7.3.7-gesamtausblick-und-nutzen.md
 status: approved
 ---
 <a id="md-7-das-fortera-konzept-7-3-produktionssouveranitat-und-strategische-industriepolitik-7-3-7-gesamtausblick-und-nutzen"></a>
@@ -6979,7 +7320,9 @@ These investments enable Europe to become less dependent on geopolitical uncerta
 \newpage
 
 ---
-source: content/7.-das-fortera-konzept/7.4-aufbau-demokratischer-handelsallianzen-democracy-trade-network.md
+content_id: erda.book.7.das.fortera.konzept.7.4.aufbau.demokratischer.handelsallianzen.democracy.trade.network
+content_lang: en
+source: de/content/7.-das-fortera-konzept/7.4-aufbau-demokratischer-handelsallianzen-democracy-trade-network.md
 status: draft
 ---
 <a id="md-7-das-fortera-konzept-7-4-aufbau-demokratischer-handelsallianzen-democracy-trade-network"></a>
@@ -7017,7 +7360,9 @@ Europe is not only dependent – Europe also has real levers. For a Democracy Tr
 \newpage
 
 ---
-source: content/7.-das-fortera-konzept/7.5-transatlantische-partnerschaft-neu-denken.md
+content_id: erda.book.7.das.fortera.konzept.7.5.transatlantische.partnerschaft.neu.denken
+content_lang: en
+source: de/content/7.-das-fortera-konzept/7.5-transatlantische-partnerschaft-neu-denken.md
 status: approved
 ---
 <a id="md-7-das-fortera-konzept-7-5-transatlantische-partnerschaft-neu-denken"></a>
@@ -7043,7 +7388,9 @@ _**Rethinking the Transatlantic Partnership**_
 \newpage
 
 ---
-source: content/7.-das-fortera-konzept/7.6-defensivmechanismen-gegen-wirtschaftlichen-nationalismus.md
+content_id: erda.book.7.das.fortera.konzept.7.6.defensivmechanismen.gegen.wirtschaftlichen.nationalismus
+content_lang: en
+source: de/content/7.-das-fortera-konzept/7.6-defensivmechanismen-gegen-wirtschaftlichen-nationalismus.md
 status: approved
 ---
 <a id="md-7-das-fortera-konzept-7-6-defensivmechanismen-gegen-wirtschaftlichen-nationalismus"></a>
@@ -7072,7 +7419,9 @@ _**Defensive instruments against economic coercion**_
 \newpage
 
 ---
-source: content/7.-das-fortera-konzept/7.7-burgerbeteiligung-und-demokratische-wirtschaftskultur.md
+content_id: erda.book.7.das.fortera.konzept.7.7.burgerbeteiligung.und.demokratische.wirtschaftskultur
+content_lang: en
+source: de/content/7.-das-fortera-konzept/7.7-burgerbeteiligung-und-demokratische-wirtschaftskultur.md
 status: approved
 ---
 <a id="md-7-das-fortera-konzept-7-7-burgerbeteiligung-und-demokratische-wirtschaftskultur"></a>
@@ -7092,7 +7441,9 @@ _**Citizen participation & democratic economic culture**_
 \newpage
 
 ---
-source: content/7.-das-fortera-konzept/7.8-wirtschaftliche-resilienz-und-ethische-fundierung.md
+content_id: erda.book.7.das.fortera.konzept.7.8.wirtschaftliche.resilienz.und.ethische.fundierung
+content_lang: en
+source: de/content/7.-das-fortera-konzept/7.8-wirtschaftliche-resilienz-und-ethische-fundierung.md
 status: approved
 ---
 <a id="md-7-das-fortera-konzept-7-8-wirtschaftliche-resilienz-und-ethische-fundierung"></a>
@@ -7114,7 +7465,9 @@ _**Philosophical basis: Resilience is freedom**_
 \newpage
 
 ---
-source: content/7.-das-fortera-konzept/7.9-schlussgedanken.md
+content_id: erda.book.7.das.fortera.konzept.7.9.schlussgedanken
+content_lang: en
+source: de/content/7.-das-fortera-konzept/7.9-schlussgedanken.md
 status: approved
 ---
 <a id="md-7-das-fortera-konzept-7-9-schlussgedanken"></a>
@@ -7130,7 +7483,9 @@ This document is a call for the **active strategic self-assertion of Europe and 
 \newpage
 
 ---
-source: content/7.-das-fortera-konzept/7.a-strategische-demokratiestaerkende-eu-handelsabkommen-in-der-neuen-weltordnung-erda.md
+content_id: erda.book.7.das.fortera.konzept.7.a.strategische.demokratiestaerkende.eu.handelsabkommen.in.der.neuen.weltordnung.erda
+content_lang: en
+source: de/content/7.-das-fortera-konzept/7.a-strategische-demokratiestaerkende-eu-handelsabkommen-in-der-neuen-weltordnung-erda.md
 status: approved
 ---
 <a id="md-7-das-fortera-konzept-7-a-strategische-demokratiestaerkende-eu-handelsabkommen-in-der-neuen-weltordnung-erda"></a>
@@ -7429,24 +7784,31 @@ Taken together, they show that trade policy has not only economic, but also poli
 \newpage
 
 ---
-source: content/7.-das-fortera-konzept/7.b-nationaler-umsetzungsbaukasten-fur-eu-erda-staaten.md
+content_id: erda.book.7.das.fortera.konzept.7.b.nationaler.umsetzungsbaukasten.fur.eu.erda.staaten
+content_lang: en
+source: de/content/7.-das-fortera-konzept/7.b-nationaler-umsetzungsbaukasten-fur-eu-erda-staaten.md
 status: draft
 ---
 <a id="md-7-das-fortera-konzept-7-b-nationaler-umsetzungsbaukasten-fur-eu-erda-staaten"></a>
 
 
 
-## **Appendix 7.B – National implementation toolkit (FORTERA canvas per EU state)**
+## **Appendix 7.B – National implementation toolkit (standardised working template and FORTERA canvas per EU state)**
+
+> **Editorial note:** Sections 7.B.1 and 7.B.2 deliberately belong to the implementation and toolkit layer of this book. Section 7.B.1 documents a standardised working template; section 7.B.2 shows developed country canvases. Placeholders mark fields that must be filled concretely for individual states.
 
 This appendix makes FORTERA quickly applicable in every EU state without creating 27 different systems.
 Each state uses the same canvas structure. Content is sharpened annually through FORTERA review and discussed transparently via CIVITAS (see success monitoring & CIVITAS integration in 7.3.6.).
 
-### 7.B.1 Canvas short form (per state)
+### 7.B.1 Canvas short form (standardised working template per state)
 
-**Archetype (suggested):** {{Archetype_1}} / {{Archetype_2}}  
-**Timeframe:** {{YYYY}}–{{YYYY}}  
+The following short form is deliberately presented as an operational template. It is not a finished reading text but an editorial sample for state-specific FORTERA planning.
 
-**Baseline in 12 indicators (fill in):**
+```text
+Archetype (suggested): {{Archetype_1}} / {{Archetype_2}}
+Timeframe: {{YYYY}}–{{YYYY}}
+
+Baseline in 12 indicators:
 - Energy price index: {{...}}
 - Grid status / connectability: {{...}}
 - Industry share / key sectors: {{...}}
@@ -7460,39 +7822,40 @@ Each state uses the same canvas structure. Content is sharpened annually through
 - Cyber posture (baseline): {{...}}
 - Crisis reserves / stockpile coverage: {{...}}
 
-**3 national FORTERA missions (output first):**
-- **M1:** {{Mission_1_Title}} | Output: {{Mission\_1\_Output}} | Offtake: {{Mission_1_Offtake}}
-- **M2:** {{Mission_2_Title}} | Output: {{Mission\_2\_Output}} | Offtake: {{Mission_2_Offtake}}
-- **M3:** {{Mission_3_Title}} | Output: {{Mission\_3\_Output}} | Offtake: {{Mission_3_Offtake}}
+3 national FORTERA missions (output first):
+- M1: {{Mission_1_Title}} | Output: {{Mission_1_Output}} | Offtake: {{Mission_1_Offtake}}
+- M2: {{Mission_2_Title}} | Output: {{Mission_2_Output}} | Offtake: {{Mission_2_Offtake}}
+- M3: {{Mission_3_Title}} | Output: {{Mission_3_Output}} | Offtake: {{Mission_3_Offtake}}
 
-**Build-ready sites (by {{Date}}):**
+Build-ready sites (by {{Date}}):
 - {{Site_1}} (Type: {{Industrial_Park/Port/Research/Energy}})
 - {{Site_2}} (Type: {{...}})
 - {{Site_3}} (Type: {{...}})
 - {{Site_4}} (Type: {{...}})
 - {{Site_5}} (Type: {{...}})
 
-**Top 5 bottlenecks (close first):**
+Top 5 bottlenecks (close first):
 1) {{Bottleneck_1}}
 2) {{Bottleneck_2}}
 3) {{Bottleneck_3}}
 4) {{Bottleneck_4}}
 5) {{Bottleneck_5}}
 
-**Top 5 bottleneck occupations (per cohort/year):**
+Top 5 bottleneck occupations (per cohort/year):
 1) {{Skill_1}}
 2) {{Skill_2}}
 3) {{Skill_3}}
 4) {{Skill_4}}
 5) {{Skill_5}}
 
-**Stop/Reduce (to make output happen):**
+Stop/Reduce (to make output happen):
 - {{Stop_1}}
 - {{Stop_2}}
 - {{Stop_3}}
 
-**EU integration (1 sentence):**
+EU integration (1 sentence):
 - {{EU_Integration_Sentence}}
+```
 
 ---
 
@@ -7503,8 +7866,8 @@ Each state uses the same canvas structure. Content is sharpened annually through
 **Archetype (suggested):** Industrial node / energy system stability  
 **Missions (suggested):**
 - **M1:** Grid and storage acceleration | **Output:** by 2030: +6 GW new industrial connection capacity (permitted + under construction), 2.5 GWh battery storage + 1.0 GW pumped-storage modernisation; median FORTERA permitting < 12 months | **Offtake:** APG + regional grid operators + FORTERA Delivery Unit (EU offtake)
-- **M2:** Precision supplier chains for EU industry | **Output:** 3 “Precision Supplier” clusters (Upper Austria/Styria/Lower Austria): 200 audited tier-2/3 suppliers; -30\% lead time for critical components; EUR 2bn offtake framework | **Offtake:** EU-bundled industrial offtakes (FORTERA Council) + anchor customers (automotive/MedTech/energy)
-- **M3:** Security and resilience standards in critical infrastructure | **Output:** 100\% of KRITIS operators aligned to a joint OT cyber baseline; 2 redundant control-centre backups; annual resilience stress test (power + telecoms + water) with action plan | **Offtake:** national KRITIS supervision + FORTERA audit + operator consortium
+- **M2:** Precision supplier chains for EU industry | **Output:** 3 “Precision Supplier” clusters (Upper Austria/Styria/Lower Austria): 200 audited tier-2/3 suppliers; -30% lead time for critical components; EUR 2bn offtake framework | **Offtake:** EU-bundled industrial offtakes (FORTERA Council) + anchor customers (automotive/MedTech/energy)
+- **M3:** Security and resilience standards in critical infrastructure | **Output:** 100% of KRITIS operators aligned to a joint OT cyber baseline; 2 redundant control-centre backups; annual resilience stress test (power + telecoms + water) with action plan | **Offtake:** national KRITIS supervision + FORTERA audit + operator consortium
 
 **Build-ready sites:** Linz/Wels industrial & energy cluster, Graz/Weiz high-tech industrial zone, Vienna South/Schwechat logistics & data node, Villach/Klagenfurt electronics & supplier park, Inn Valley (Hall/Innsbruck) rail/logistics node
 **Top 5 bottlenecks:** Grid connections/transformer capacity; permitting cycle times (energy/industrial land); skills shortages in grid build-out/industrial electrics; fragmented procurement/offtake without clear acceptance; OT cyber & physical resilience (redundancy/spare parts)
@@ -7516,9 +7879,9 @@ Each state uses the same canvas structure. Content is sharpened annually through
 
 **Archetype (suggested):** Logistics hub / industrial clusters  
 **Missions (suggested):**
-- **M1:** Port/customs digitisation + resilience stockpiles | **Output:** by 2028: 100\% digital pre-declaration (customs/port community system) + 24/7 “Green Lanes” for critical goods; 60-day resilience stockpiles for defined critical inputs at 2 sites | **Offtake:** port authorities (Antwerp-Bruges/Zeebrugge) + Belgian customs + FORTERA Delivery Unit
+- **M1:** Port/customs digitisation + resilience stockpiles | **Output:** by 2028: 100% digital pre-declaration (customs/port community system) + 24/7 “Green Lanes” for critical goods; 60-day resilience stockpiles for defined critical inputs at 2 sites | **Offtake:** port authorities (Antwerp-Bruges/Zeebrugge) + Belgian customs + FORTERA Delivery Unit
 - **M2:** Chemical/material intermediate inputs for EU chains | **Output:** secured capacity for 3 strategic intermediates (e.g., battery/electrolyser chemistry, specialty polymers, specialty gases); 150 critical intermediate supply chains audit-ready; substitution/emergency plan for top-10 inputs | **Offtake:** EU industrial offtakes (FORTERA Council) + chemical cluster operators
-- **M3:** EU certification & interoperability (pilot lines) | **Output:** 1 one-stop interoperability \& certification hub + 5 pilot lines (materials testing, cyber baseline, modular toolkits); -30\% certification time for defined FORTERA goods | **Offtake:** EU standards/certification network (FORTERA) + national authorities + industry
+- **M3:** EU certification & interoperability (pilot lines) | **Output:** 1 one-stop interoperability & certification hub + 5 pilot lines (materials testing, cyber baseline, modular toolkits); -30% certification time for defined FORTERA goods | **Offtake:** EU standards/certification network (FORTERA) + national authorities + industry
 
 **Build-ready sites:** Port of Antwerp-Bruges (Antwerp), Zeebrugge (energy/logistics), Liège Logistics (air/rail), Ghent/North Sea Port (industry), Charleroi/Sambre-Meuse industrial zone
 **Top 5 bottlenecks:** Fragmentation across regions/competences; grid connections/electrification (industry + ports); rail/inland corridors & “last mile”; permitting without fast-track; skills shortages (port IT, process industry, security)
@@ -7530,9 +7893,9 @@ Each state uses the same canvas structure. Content is sharpened annually through
 
 **Archetype (suggested):** Manufacturing build-up / resilience corridor  
 **Missions (suggested):**
-- **M1:** Energy and grid modernisation | **Output:** by 2030: upgrades of substations/lines enabling +2 GW new industrial connectability; 1.5 GWh storage (batteries + modernised pumped storage/balancing); interconnector throughput +20\% | **Offtake:** national grid operator + Ministry of Energy + FORTERA Delivery Unit
+- **M1:** Energy and grid modernisation | **Output:** by 2030: upgrades of substations/lines enabling +2 GW new industrial connectability; 1.5 GWh storage (batteries + modernised pumped storage/balancing); interconnector throughput +20% | **Offtake:** national grid operator + Ministry of Energy + FORTERA Delivery Unit
 - **M2:** EU supplier manufacturing (electronics/mechanics) | **Output:** 10 FORTERA-compliant supplier lines (EMS, wiring harnesses, mechanics, enclosures); 100 tier-2/3 suppliers to EU audit standard; 20,000 qualified jobs (training/reskilling) by 2030 | **Offtake:** EU offtake framework (FORTERA) + lead industries (automotive/energy/defence)
-- **M3:** Critical infrastructure cyber baseline | **Output:** national KRITIS SOC (24/7) + OT baseline for energy/water/transport; mandatory asset inventory \& patch regime; annual resilience exercise incl. backup/supply-chain tests | **Offtake:** national cyber/KRITIS authorities + FORTERA audit
+- **M3:** Critical infrastructure cyber baseline | **Output:** national KRITIS SOC (24/7) + OT baseline for energy/water/transport; mandatory asset inventory & patch regime; annual resilience exercise incl. backup/supply-chain tests | **Offtake:** national cyber/KRITIS authorities + FORTERA audit
 
 **Build-ready sites:** Sofia-Bozhurishte Industrial Park, Plovdiv/Thrace Economic Zone, Stara Zagora energy & industrial area, Varna (port/industry), Burgas (port/logistics)
 **Top 5 bottlenecks:** Ageing grid/substation infrastructure; project bankability/financing costs; brain drain and shortages in electrical/mechatronics; permitting/procurement capacity (cycle time + transparency); cyber & physical resilience (KRITIS)
@@ -7544,8 +7907,8 @@ Each state uses the same canvas structure. Content is sharpened annually through
 
 **Archetype (suggested):** Logistics gateway / industrial niches  
 **Missions (suggested):**
-- **M1:** Adriatic logistics corridor + resilience stockpiles | **Output:** by 2029: +25\% container/RoRo throughput (Rijeka \& Ploče); 2 intermodal terminals (port ↔ rail); 45-day resilience stockpiles (critical spare parts/medical/energy) to EU inventory standard | **Offtake:** port authorities + rail/corridor operators + FORTERA Delivery Unit
-- **M2:** Maritime/mechanical supplier capacity for EU chains | **Output:** 3 clusters (shipbuilding/repair, offshore structures, pumps/valves): 150 FORTERA-qualified suppliers; -30\% turnaround time for maintenance/parts delivery in defined EU chains | **Offtake:** EU procurement (FORTERA/EDA as needed) + industrial anchor customers (offshore/energy/defence)
+- **M1:** Adriatic logistics corridor + resilience stockpiles | **Output:** by 2029: +25% container/RoRo throughput (Rijeka & Ploče); 2 intermodal terminals (port ↔ rail); 45-day resilience stockpiles (critical spare parts/medical/energy) to EU inventory standard | **Offtake:** port authorities + rail/corridor operators + FORTERA Delivery Unit
+- **M2:** Maritime/mechanical supplier capacity for EU chains | **Output:** 3 clusters (shipbuilding/repair, offshore structures, pumps/valves): 150 FORTERA-qualified suppliers; -30% turnaround time for maintenance/parts delivery in defined EU chains | **Offtake:** EU procurement (FORTERA/EDA as needed) + industrial anchor customers (offshore/energy/defence)
 - **M3:** Energy/grid robustness for industrial sites | **Output:** 2 new/modernised 400 kV nodes for port/industry; 0.8 GWh storage + emergency microgrids in 2 port areas; standardised grid commitment < 9 months for FORTERA sites | **Offtake:** national grid operator + port/industrial park operators + FORTERA audit
 
 **Build-ready sites:** Rijeka port & hinterland, Ploče port/corridor, Zagreb logistics zone, Krk energy/terminal & industrial area, Slavonski Brod industrial & rail node
@@ -7559,8 +7922,8 @@ Each state uses the same canvas structure. Content is sharpened annually through
 **Archetype (suggested):** Services node / energy corridor  
 **Missions (suggested):**
 - **M1:** Energy import/storage resilience | **Output:** Minimum energy/fuel reserve for **45 days** of power generation (incl. rotation/quality assurance) + **300 MW / 600 MWh** battery storage (grid-supporting, black-start capable) + annual island-grid stress test | **Offtake:** Ministry of Energy + national grid operator (TSO/DSO) + KRITIS operators’ consortium
-- **M2:** Maritime logistics + crisis throughput | **Output:** “Green Lane” crisis mode (customs/security) in **2 ports** + **+25\%** defined crisis throughput (RoRo/containers) + **14 days** intermediate storage capability for prioritised EU critical goods | **Offtake:** port authorities + customs + FORTERA Delivery Unit
-- **M3:** Sovereign IT/cyber node for critical services | **Output:** **1 government cloud node** (exit/portability tested) + **2** redundant data-centre backups + **24/7 SOC** for KRITIS + 100\% KRITIS baseline audit to EU baseline | **Offtake:** national cyber authority + digital/interior ministry + KRITIS supervision
+- **M2:** Maritime logistics + crisis throughput | **Output:** “Green Lane” crisis mode (customs/security) in **2 ports** + **+25%** defined crisis throughput (RoRo/containers) + **14 days** intermediate storage capability for prioritised EU critical goods | **Offtake:** port authorities + customs + FORTERA Delivery Unit
+- **M3:** Sovereign IT/cyber node for critical services | **Output:** **1 government cloud node** (exit/portability tested) + **2** redundant data-centre backups + **24/7 SOC** for KRITIS + 100% KRITIS baseline audit to EU baseline | **Offtake:** national cyber authority + digital/interior ministry + KRITIS supervision
 
 **Build-ready sites:** Vasilikos Energy & Industrial Area (Type: Energy), Port of Limassol (Type: Port), Larnaca port/airport logistics zone (Type: Port), Nicosia government cloud/data-centre campus (Type: Research), Paphos civil-protection/logistics hub (Type: Industrial_Park)
 **Top 5 bottlenecks:** Fuel import dependency + missing reserve holding/rotation; island-grid redundancy and too-slow storage/grid build-out; port/customs processes without a crisis mode (“Green Lanes”); cloud/IT dependencies without exit and sovereign operations; maintenance/spare-parts capability for KRITIS (energy/ports/IT)
@@ -7572,8 +7935,8 @@ Each state uses the same canvas structure. Content is sharpened annually through
 
 **Archetype (suggested):** Industrial supplier focus  
 **Missions (suggested):**
-- **M1:** Supplier capacity for strategic EU goods | **Output:** **+10** FORTERA-qualified serial production lines (incl. power electronics, wiring harnesses, precision mechanics) + **250** tier-2/3 suppliers audit-ready + **-25\%** lead time for defined EU critical components + **3** EU offtake framework contracts | **Offtake:** FORTERA Offtake Council + anchor customers (energy/mobility/defence) + Ministry of Economy
-- **M2:** Power/grid connections for industrial clusters | **Output:** **3** clusters with guaranteed grid commitment **< 9 months** + **+4 GW** secured connectability (substations/lines) + digital “fast-track” process incl. deadlines \& transparency | **Offtake:** national TSO/DSO + cluster operators + FORTERA Delivery Unit
+- **M1:** Supplier capacity for strategic EU goods | **Output:** **+10** FORTERA-qualified serial production lines (incl. power electronics, wiring harnesses, precision mechanics) + **250** tier-2/3 suppliers audit-ready + **-25%** lead time for defined EU critical components + **3** EU offtake framework contracts | **Offtake:** FORTERA Offtake Council + anchor customers (energy/mobility/defence) + Ministry of Economy
+- **M2:** Power/grid connections for industrial clusters | **Output:** **3** clusters with guaranteed grid commitment **< 9 months** + **+4 GW** secured connectability (substations/lines) + digital “fast-track” process incl. deadlines & transparency | **Offtake:** national TSO/DSO + cluster operators + FORTERA Delivery Unit
 - **M3:** Dual-use manufacturing (resilience serial capability) | **Output:** **2** “surge” programmes (retooling **< 30 days**) + tooling/mould pool + spare-parts/material packages + annual EU surge exercise (scalable serial capability) | **Offtake:** EDA/FORTERA needs list + defence/interior ministry + industry consortium
 
 **Build-ready sites:** Ostrava/Mošnov industrial zone (Type: Industrial_Park), Plzeň industry & rail hub (Type: Industrial_Park), Brno/South Moravia innovation corridor (Type: Research), Mladá Boleslav–Liberec supplier corridor (Type: Industrial_Park), Ústí nad Labem materials/chemicals cluster (Type: Energy)
@@ -7586,7 +7949,7 @@ Each state uses the same canvas structure. Content is sharpened annually through
 
 **Archetype (suggested):** Energy anchor state / maritime logistics  
 **Missions (suggested):**
-- **M1:** Offshore/grid scaling + system services | **Output:** by 2030 **+8 GW** offshore grid connection (incl. HVDC/offshore substations) + **1.5 GW** system services (demand response/batteries/synthetic inertia) to EU standard + **-20\%** connection/commissioning time per project | **Offtake:** Energinet + Ministry of Climate and Energy + FORTERA Delivery Unit
+- **M1:** Offshore/grid scaling + system services | **Output:** by 2030 **+8 GW** offshore grid connection (incl. HVDC/offshore substations) + **1.5 GW** system services (demand response/batteries/synthetic inertia) to EU standard + **-20%** connection/commissioning time per project | **Offtake:** Energinet + Ministry of Climate and Energy + FORTERA Delivery Unit
 - **M2:** Green industrial corridors (power/H2 connections) | **Output:** **2** corridors (Jutland + Zealand) with **2 GW** “electrolyser-ready” grid connection + H2 backbone connection + one-stop permitting + standardised safety/metering packages | **Offtake:** industrial clusters + Energinet + FORTERA Offtake Council
 - **M3:** Nordic resilience coordination (stockpiles/standards) | **Output:** joint “Nordic Standard” for stockpile rotation of critical spares (cables/transformers/SCADA) + **2** joint exercises/year + **1** joint procurement window | **Offtake:** Nordic KRITIS actors + FORTERA + national supervisors
 
@@ -7600,9 +7963,9 @@ Each state uses the same canvas structure. Content is sharpened annually through
 
 **Archetype (suggested):** High-tech node / cyber resilience  
 **Missions (suggested):**
-- **M1:** Cyber baseline for critical infrastructure (exportable standard) | **Output:** “baseline-as-a-service” (policies + audit tooling + exercise format) + **100\%** KRITIS audited annually + **2** cross-sector red-team exercises/year + EU roll-out package for partner states | **Offtake:** national cyber authority + KRITIS supervision + FORTERA audit
-- **M2:** Digital administration as a permitting accelerator | **Output:** e-permitting for energy/grid/industrial sites with **-30\%** median cycle time + mandatory deadlines + transparency dashboard + one-stop API for FORTERA projects | **Offtake:** economy/interior/digital ministries + municipalities + FORTERA Delivery Unit
-- **M3:** Secure cloud nodes (portability/exit) | **Output:** **2** secure cloud nodes (government/KRITIS) with exit \& restore test (“Restore Day” annually) + cross-border backup + standardised key management/encryption + **99.95\%** availability | **Offtake:** digital ministry + public IT operators + KRITIS consortium
+- **M1:** Cyber baseline for critical infrastructure (exportable standard) | **Output:** “baseline-as-a-service” (policies + audit tooling + exercise format) + **100%** KRITIS audited annually + **2** cross-sector red-team exercises/year + EU roll-out package for partner states | **Offtake:** national cyber authority + KRITIS supervision + FORTERA audit
+- **M2:** Digital administration as a permitting accelerator | **Output:** e-permitting for energy/grid/industrial sites with **-30%** median cycle time + mandatory deadlines + transparency dashboard + one-stop API for FORTERA projects | **Offtake:** economy/interior/digital ministries + municipalities + FORTERA Delivery Unit
+- **M3:** Secure cloud nodes (portability/exit) | **Output:** **2** secure cloud nodes (government/KRITIS) with exit & restore test (“Restore Day” annually) + cross-border backup + standardised key management/encryption + **99.95%** availability | **Offtake:** digital ministry + public IT operators + KRITIS consortium
 
 **Build-ready sites:** Tallinn/Ülemiste Tech Campus (Type: Research), Tartu Science Park (Type: Research), Port of Tallinn/Muuga (data + logistics) (Type: Port), Narva energy/industrial area (Type: Energy), Pärnu edge/fibre node (Type: Research)
 **Top 5 bottlenecks:** Small talent base (cyber/cloud); grid/energy redundancy (storm/sabotage hardening, black start); fibre/subsea-cable diversity (single-point risks); data-centre scaling (power/cooling) without a bottleneck plan; tool sprawl/interoperability in government IT & KRITIS
@@ -7630,7 +7993,7 @@ Each state uses the same canvas structure. Content is sharpened annually through
 **Missions (suggested):**
 - **M1:** Predictable energy + grid/flex expansion for EU industry | **Output:** by 2030: **+6 GW** secured, grid-supporting capacity (availability/flex packages), **2 GW** demand-response/storage programmes, grid connection for 3 industrial zones via fast track | **Offtake:** national TSO + ministries for energy/industry + FORTERA Delivery Unit
 - **M2:** Dual-use serial capability (materials, components, ammunition/protection) | **Output:** **2** surge programmes (ramp-up **< 60 days**), tooling/mould pool, EU offtake framework for defined goods, annual capacity exercise | **Offtake:** EDA/FORTERA needs list + defence/interior ministry + industry consortium
-- **M3:** Standardisation & certification for EU scaling | **Output:** **1** interoperability hub (industry + cyber + safety), **-30\%** certification time for FORTERA goods, joint test packages (test labs) | **Offtake:** standards/certification bodies + FORTERA audit + lead industries
+- **M3:** Standardisation & certification for EU scaling | **Output:** **1** interoperability hub (industry + cyber + safety), **-30%** certification time for FORTERA goods, joint test packages (test labs) | **Offtake:** standards/certification bodies + FORTERA audit + lead industries
 
 **Build-ready sites:** Dunkerque industrial cluster (Type: Industrial_Park), Le Havre port/logistics (Type: Port), Fos-sur-Mer/Marseille industry + energy (Type: Port), Toulouse aerospace/dual use (Type: Research), Grenoble/Saclay deep tech & test labs (Type: Research)
 **Top 5 bottlenecks:** Supply chains (cables, transformers, power electronics); skills (industry, welding, testing/quality); permitting/appeals chains without a clear fast track; OT cyber in energy/industry; fragmented EU offtakes instead of predictable acceptance
@@ -7644,7 +8007,7 @@ Each state uses the same canvas structure. Content is sharpened annually through
 **Missions (suggested):**
 - **M1:** Accelerate grid connections for industry (incl. storage) | **Output:** by 2030: **+10 GW** secured industrial connectability (substations/lines), **5 GWh** battery storage + grid-supporting flex programmes, binding median permitting time **< 12 months** for FORTERA grid projects | **Offtake:** TSO/DSO + federal/state delivery units + FORTERA audit
 - **M2:** Serial manufacturing of critical components (energy & infrastructure) | **Output:** **12** serial lines (e.g., transformers, switchgear, power electronics, heat-pump/electrolyser subsystems), **300** audited tier-2/3 suppliers, EU offtake framework with price/volume bands | **Offtake:** FORTERA Offtake Council + lead industries + procurement consortia
-- **M3:** Corridor resilience (rail/Rhine/ports) + spare-parts pools | **Output:** “Green Lane” corridors (north–south \& west–east) with crisis mode, **2** national spare-parts pools (energy/telecoms), annual logistics stress tests | **Offtake:** transport/interior ministries + operators (rail/ports) + FORTERA Delivery Unit
+- **M3:** Corridor resilience (rail/Rhine/ports) + spare-parts pools | **Output:** “Green Lane” corridors (north–south & west–east) with crisis mode, **2** national spare-parts pools (energy/telecoms), annual logistics stress tests | **Offtake:** transport/interior ministries + operators (rail/ports) + FORTERA Delivery Unit
 
 **Build-ready sites:** Duisburg/Rhine-Ruhr logistics + industry (Type: Industrial_Park), Port of Hamburg & supply chain (Type: Port), Leipzig/Halle logistics hub (Type: Industrial_Park), Dresden/Silicon Saxony (Type: Research), Wilhelmshaven energy hub (Type: Energy)
 **Top 5 bottlenecks:** Grid connections and transformer/switchgear shortages; permitting/appeals chains without fast track; skills shortages in construction/electrical/automation; fragmented procurement without EU offtake; KRITIS OT cyber & physical resilience (redundancy/spares)
@@ -7656,9 +8019,9 @@ Each state uses the same canvas structure. Content is sharpened annually through
 
 **Archetype (suggested):** Southeast gateway / maritime logistics & energy corridor  
 **Missions (suggested):**
-- **M1:** Port/corridor resilience (Aegean ↔ Balkans) | **Output:** by 2029: **+20\%** crisis throughput in **2 ports** (green lanes, customs/security 24/7), **2** intermodal terminals (port ↔ rail), defined corridor emergency operations incl. backup locomotives/slot reserves | **Offtake:** port authorities + customs + rail/corridor operators + FORTERA Delivery Unit
+- **M1:** Port/corridor resilience (Aegean ↔ Balkans) | **Output:** by 2029: **+20%** crisis throughput in **2 ports** (green lanes, customs/security 24/7), **2** intermodal terminals (port ↔ rail), defined corridor emergency operations incl. backup locomotives/slot reserves | **Offtake:** port authorities + customs + rail/corridor operators + FORTERA Delivery Unit
 - **M2:** Grid/storage offensive (islands + industry) | **Output:** **+3 GW** secured connectability (grid/substations), **1.5 GWh** storage + island microgrids (KRITIS), defined black-start island chains | **Offtake:** national TSO/DSO + energy/civil protection + FORTERA audit
-- **M3:** Maritime maintenance & components (shipbuilding/offshore) | **Output:** **3** maintenance/repair clusters (docking, pumps/valves, steelworks), **100** FORTERA-qualified suppliers, -30\% turnaround time for prioritised maintenance | **Offtake:** EU offtake (FORTERA/EDA as needed) + maritime anchor customers + industry consortium
+- **M3:** Maritime maintenance & components (shipbuilding/offshore) | **Output:** **3** maintenance/repair clusters (docking, pumps/valves, steelworks), **100** FORTERA-qualified suppliers, -30% turnaround time for prioritised maintenance | **Offtake:** EU offtake (FORTERA/EDA as needed) + maritime anchor customers + industry consortium
 
 **Build-ready sites:** Port of Piraeus logistics (Type: Port), Port of Thessaloniki & Balkan corridor (Type: Port), Elefsina/Skaramangas maritime industry (Type: Industrial_Park), Alexandroupoli energy/corridor node (Type: Energy), Athens/Attica government IT & resilience coordination (Type: Research)
 **Top 5 bottlenecks:** Rail/hinterland links and corridor capacity; grid/storage build-out (incl. island integration); permitting/project-delivery capacity; maintenance/quality audits in maritime chains; KRITIS resilience (cyber + physical security)
@@ -7670,9 +8033,9 @@ Each state uses the same canvas structure. Content is sharpened annually through
 
 **Archetype (suggested):** Manufacturing node / supplier chains  
 **Missions (suggested):**
-- **M1:** Serial supplier capacity for EU industry | **Output:** by 2030 **+8** FORTERA-qualified serial lines (electronics/mechanics/cables/drivetrains), **200** tier-2/3 suppliers audit-ready, **-25\%** lead time for defined EU-critical components | **Offtake:** FORTERA Offtake Council + anchor customers (automotive/energy/defence) + Ministry of Economy
+- **M1:** Serial supplier capacity for EU industry | **Output:** by 2030 **+8** FORTERA-qualified serial lines (electronics/mechanics/cables/drivetrains), **200** tier-2/3 suppliers audit-ready, **-25%** lead time for defined EU-critical components | **Offtake:** FORTERA Offtake Council + anchor customers (automotive/energy/defence) + Ministry of Economy
 - **M2:** Energy/grid upgrades for clusters | **Output:** by 2030 **+3 GW** secured industrial connection capacity (substations/lines), **1.0 GWh** storage/balancing services, standardised grid commitments for FORTERA sites **< 9 months** | **Offtake:** national TSO/DSO + industrial-park operators + FORTERA Delivery Unit
-- **M3:** Supply-chain audits + redundancies | **Output:** **100\%** of FORTERA suppliers in critical chains audited annually, **10** dual-source programmes for top inputs, **30-day** spare-parts/material packages for defined KRITIS components | **Offtake:** FORTERA audit + national KRITIS/procurement bodies + industry consortium
+- **M3:** Supply-chain audits + redundancies | **Output:** **100%** of FORTERA suppliers in critical chains audited annually, **10** dual-source programmes for top inputs, **30-day** spare-parts/material packages for defined KRITIS components | **Offtake:** FORTERA audit + national KRITIS/procurement bodies + industry consortium
 
 **Build-ready sites:** Budapest region (Type: Industrial), Győr (Type: Industrial), Debrecen (Type: Industrial), Székesfehérvár (Type: Industrial), Paks energy/grid node (Type: Energy)
 **Top 5 bottlenecks:** Grid/substation capacity; skills shortages (electrical/automation/CNC); financing costs/project bankability; permitting/procurement chains without fast track; OT cyber & resilience (spares/redundancy)
@@ -7713,7 +8076,7 @@ Each state uses the same canvas structure. Content is sharpened annually through
 **Archetype (suggested):** Frontline resilience / logistics corridor  
 **Missions (suggested):**
 - **M1:** Resilience stockpiles + corridor throughput | **Output:** **2** national resilience hubs (rail/road) with **30-day** spare-parts/material reach for defined KRITIS goods, “green lane” corridor operations (priority clearance **24/7**) + annual logistics stress tests | **Offtake:** interior/civil protection + customs/transport authorities + FORTERA Delivery Unit
-- **M2:** Cyber baseline for critical infrastructure | **Output:** **100\%** of KRITIS operators on EU baseline (asset inventory, patch regime, backup testing), **2** cross-sector exercises/year, **1** national SOC cooperation model (24/7) | **Offtake:** national cyber authority + KRITIS oversight + FORTERA audit
+- **M2:** Cyber baseline for critical infrastructure | **Output:** **100%** of KRITIS operators on EU baseline (asset inventory, patch regime, backup testing), **2** cross-sector exercises/year, **1** national SOC cooperation model (24/7) | **Offtake:** national cyber authority + KRITIS oversight + FORTERA audit
 - **M3:** Energy/grid redundancy | **Output:** by 2030 **+1.5 GW** secured connection/transmission capacity (substations/lines), **300 MWh** storage + black-start emergency operating plans for prioritised regions, spare-parts pool for transformers/switchgear | **Offtake:** national TSO/DSO + energy authority + FORTERA Delivery Unit
 
 **Build-ready sites:** Port of Riga & logistics (Type: Port), Riga–Daugavpils rail corridor (Type: Industrial), Liepāja port/industry (Type: Port), Riga tech/cyber hub (Type: Research), Riga hinterland energy/substation node (Type: Energy)
@@ -7726,8 +8089,8 @@ Each state uses the same canvas structure. Content is sharpened annually through
 
 **Archetype (suggested):** Frontline resilience / high-tech niche  
 **Missions (suggested):**
-- **M1:** Cyber resilience + exercise operations | **Output:** 100\% of KRITIS on the EU baseline (asset inventory, patch regime, backup tests), 2 cross-sector major exercises/year (incl. supply chain + OT), 24/7 SOC cooperation model with clear escalation paths | **Offtake:** national cyber authority + KRITIS oversight + FORTERA audit
-- **M2:** Industrial supplier capacity (critical components) | **Output:** 5 FORTERA-qualified serial lines (e.g., precision/electronics/photonics subsystems), 120 tier-2/3 suppliers audit-ready, -25\% lead time for defined EU-critical components, 1 EU offtake framework per focus chain | **Offtake:** FORTERA Offtake Council + anchor customers (energy/high-tech/defence) + Ministry of Economy
+- **M1:** Cyber resilience + exercise operations | **Output:** 100% of KRITIS on the EU baseline (asset inventory, patch regime, backup tests), 2 cross-sector major exercises/year (incl. supply chain + OT), 24/7 SOC cooperation model with clear escalation paths | **Offtake:** national cyber authority + KRITIS oversight + FORTERA audit
+- **M2:** Industrial supplier capacity (critical components) | **Output:** 5 FORTERA-qualified serial lines (e.g., precision/electronics/photonics subsystems), 120 tier-2/3 suppliers audit-ready, -25% lead time for defined EU-critical components, 1 EU offtake framework per focus chain | **Offtake:** FORTERA Offtake Council + anchor customers (energy/high-tech/defence) + Ministry of Economy
 - **M3:** Grid/energy redundancy | **Output:** +1 GW secured connection/transmission capacity (substations/lines), 300 MWh storage + black-start capable emergency operating plans for prioritised regions, spare-parts/transformer pool for KRITIS | **Offtake:** national TSO/DSO + energy authority + FORTERA Delivery Unit
 
 **Build-ready sites:** Vilnius GovTech/cyber hub (Type: Research), Kaunas industrial/supplier park (Type: Industrial), Port of Klaipėda logistics (Type: Port), Šiauliai air/maintenance zone (Type: Industrial), Elektrėnai energy/substation node (Type: Energy)
@@ -7741,8 +8104,8 @@ Each state uses the same canvas structure. Content is sharpened annually through
 **Archetype (suggested):** Finance/rules node / high-trust infrastructure  
 **Missions (suggested):**
 - **M1:** FORTERA financing instruments (guarantees/co-invest) | **Output:** standardised guarantee/co-invest building blocks for FORTERA projects (term sheets, risk logic, KPI reporting), “fast decision” path (< 8 weeks), 1 pan-European project scoring model for bankability | **Offtake:** FORTERA finance window + participating public banks/funds + FORTERA Delivery Unit
-- **M2:** Audit/compliance backbone for supply chains | **Output:** digital “audit pass” (evidence, traceability, supplier checks), 500 supplier onboardings/year, -30\% audit lead time via shared audit packages | **Offtake:** FORTERA Audit Office + national oversight/compliance bodies + industry offtakes
-- **M3:** Secure data spaces for critical sectors | **Output:** 2 interoperable data-space nodes (government/KRITIS) with portability \& annual restore testing, cross-border backup, key/identity standard package for KRITIS | **Offtake:** national government IT + cyber authority + FORTERA audit
+- **M2:** Audit/compliance backbone for supply chains | **Output:** digital “audit pass” (evidence, traceability, supplier checks), 500 supplier onboardings/year, -30% audit lead time via shared audit packages | **Offtake:** FORTERA Audit Office + national oversight/compliance bodies + industry offtakes
+- **M3:** Secure data spaces for critical sectors | **Output:** 2 interoperable data-space nodes (government/KRITIS) with portability & annual restore testing, cross-border backup, key/identity standard package for KRITIS | **Offtake:** national government IT + cyber authority + FORTERA audit
 
 **Build-ready sites:** Luxembourg City finance/reg-tech hub (Type: Research), Belval (university/innovation) (Type: Research), Findel cargo/logistics (Type: Industrial_Park), Betzdorf satellite/telecom node (Type: Research), data-centre/cloud cluster (Lux City/area) (Type: Research)
 **Top 5 bottlenecks:** Limited skills base (cyber/cloud/compliance); energy/grid capacity for data infrastructure; concentration risk (few nodes → high criticality); complex governance across many EU stakeholders; risk of “paper compliance” instead of measurable outcomes
@@ -7769,8 +8132,8 @@ Each state uses the same canvas structure. Content is sharpened annually through
 **Archetype (suggested):** High-tech node / logistics hub  
 **Missions (suggested):**
 - **M1:** Key supplier chains for high-tech industry | **Output:** 8 FORTERA-qualified serial lines (precision mechatronics, optics/photonics, electronics subsystems), 250 tier-2/3 suppliers audit-ready, “surge” option (ramp-up < 60 days) for defined EU-critical components | **Offtake:** FORTERA Offtake Council + anchor customers (high-tech/energy/defence) + Ministry of Economy
-- **M2:** Port/corridor resilience + customs digitisation | **Output:** 100\% digital pre-notification for prioritised goods, green lanes in 2 ports (24/7), 60-day spare-parts/material buffers for defined logistics/KRITIS components, annual corridor stress test (port–rail–inland waterways) | **Offtake:** port authorities + customs + corridor operators + FORTERA Delivery Unit
-- **M3:** Standardisation/certification for EU scaling | **Output:** 1 interoperability/test hub (safety, cyber, modularity), -30\% certification duration via shared test packages, OT cyber baseline for port and industrial systems as an EU template | **Offtake:** standards/certification bodies + national oversight + FORTERA audit
+- **M2:** Port/corridor resilience + customs digitisation | **Output:** 100% digital pre-notification for prioritised goods, green lanes in 2 ports (24/7), 60-day spare-parts/material buffers for defined logistics/KRITIS components, annual corridor stress test (port–rail–inland waterways) | **Offtake:** port authorities + customs + corridor operators + FORTERA Delivery Unit
+- **M3:** Standardisation/certification for EU scaling | **Output:** 1 interoperability/test hub (safety, cyber, modularity), -30% certification duration via shared test packages, OT cyber baseline for port and industrial systems as an EU template | **Offtake:** standards/certification bodies + national oversight + FORTERA audit
 
 **Build-ready sites:** Port of Rotterdam (Type: Port), Amsterdam/Schiphol logistics hub (Type: Industrial_Park), Eindhoven/Brainport high-tech cluster (Type: Research), Twente/Enschede tech & supplier zone (Type: Industrial), Groningen/North Sea energy/H2 node (Type: Energy)
 **Top 5 bottlenecks:** Grid bottlenecks/connection queues; land/permitting conflicts (industry + energy); dependencies in upstream inputs/chips/materials; OT cyber & physical resilience in ports; fragmentation of standards/testing across chains
@@ -7782,7 +8145,7 @@ Each state uses the same canvas structure. Content is sharpened annually through
 
 **Archetype (suggested):** Eastern-flank anchor / industrial & logistics scaling  
 **Missions (suggested):**
-- **M1:** Serial manufacturing of critical infrastructure components | **Output:** by 2030 **+12** FORTERA-qualified serial lines (transformers/switchgear/power electronics/cables), **350** tier-2/3 suppliers audit-ready, **-25\%** lead time for defined EU-critical components, **3** EU offtake frameworks (volume/price bands) | **Offtake:** FORTERA Offtake Council + lead customers (energy/industry/defence) + Ministry of Economy
+- **M1:** Serial manufacturing of critical infrastructure components | **Output:** by 2030 **+12** FORTERA-qualified serial lines (transformers/switchgear/power electronics/cables), **350** tier-2/3 suppliers audit-ready, **-25%** lead time for defined EU-critical components, **3** EU offtake frameworks (volume/price bands) | **Offtake:** FORTERA Offtake Council + lead customers (energy/industry/defence) + Ministry of Economy
 - **M2:** East–West corridor resilience (rail/road/depots) | **Output:** **2** prioritised corridors with crisis mode (“Green Lanes”), **2** resilience depots (energy/telecom/spares) with **45 days** coverage + rotation/QA, annual stress test (logistics + supply) | **Offtake:** transport/home affairs + customs/corridor operators + FORTERA Delivery Unit
 - **M3:** Grid and connection acceleration for industrial clusters | **Output:** by 2030 **+6 GW** secured connection capacity (substations/lines), **2.0 GWh** storage + balancing package, standardised grid commitment for FORTERA sites **< 9 months** | **Offtake:** national TSO/DSO + cluster operators + FORTERA audit
 
@@ -7796,9 +8159,9 @@ Each state uses the same canvas structure. Content is sharpened annually through
 
 **Archetype (suggested):** Atlantic gateway / energy & port node  
 **Missions (suggested):**
-- **M1:** Port and corridor resilience (Atlantic ↔ EU) | **Output:** “Green Lanes” (24/7) in **2 ports**, **+20\%** crisis throughput (prioritised goods), **1** interoperable port/customs digital package, **30 days** buffer storage capability for defined EU-critical goods | **Offtake:** port authorities + customs + FORTERA Delivery Unit
+- **M1:** Port and corridor resilience (Atlantic ↔ EU) | **Output:** “Green Lanes” (24/7) in **2 ports**, **+20%** crisis throughput (prioritised goods), **1** interoperable port/customs digital package, **30 days** buffer storage capability for defined EU-critical goods | **Offtake:** port authorities + customs + FORTERA Delivery Unit
 - **M2:** Grids/storage for industry + export energy | **Output:** by 2030 **+3 GW** secured connection capacity, **1.0 GWh** storage + demand response package, connection commitment for FORTERA sites **< 10 months** | **Offtake:** national TSO/DSO + energy/industry authorities + FORTERA audit
-- **M3:** Maritime maintenance & offshore supply chain | **Output:** **2** maintenance/repair clusters (ship/offshore), **100** FORTERA-qualified suppliers (steelwork, pumps/valves, cables/control), **-30\%** turnaround time for prioritised repairs | **Offtake:** EU offtake (FORTERA/EDA as needed) + maritime lead customers + industry consortium
+- **M3:** Maritime maintenance & offshore supply chain | **Output:** **2** maintenance/repair clusters (ship/offshore), **100** FORTERA-qualified suppliers (steelwork, pumps/valves, cables/control), **-30%** turnaround time for prioritised repairs | **Offtake:** EU offtake (FORTERA/EDA as needed) + maritime lead customers + industry consortium
 
 **Build-ready sites:** Sines (port/energy) (Type: Energy), Leixões/Porto (port/industry) (Type: Port), Lisbon/Tagus logistics (Type: Port), Setúbal industry/maritime (Type: Industrial), Aveiro manufacturing & port (Type: Port)
 **Top 5 bottlenecks:** rail/hinterland connectivity of ports; grid/substation capacity for industry & new energy projects; skilled labour (maritime, electrical, QA); standardisation/certification (OT cyber, safety); resilience storage (rotation, land)
@@ -7824,8 +8187,8 @@ Each state uses the same canvas structure. Content is sharpened annually through
 
 **Archetype (suggested):** Precision manufacturing / serial capability in the EU interior  
 **Missions (suggested):**
-- **M1:** Serial manufacturing of critical components (energy/automation) | **Output:** by 2030 **6** FORTERA-qualified serial lines (switchgear, drives, control/PLC subsystems, cables), **150** tier-2/3 suppliers audit-ready, **-20\%** lead time for defined EU-critical components | **Offtake:** FORTERA Offtake Council + lead customers (energy/industry) + Ministry of Economy
-- **M2:** Surge/dual-use retooling (resilience production) | **Output:** **1** tooling \& mould pool + retooling plans (ramp-up **< 45 days**) for prioritised goods, annual EU surge exercise incl. quality evidence | **Offtake:** FORTERA/EDA demand list + industry consortium + FORTERA audit
+- **M1:** Serial manufacturing of critical components (energy/automation) | **Output:** by 2030 **6** FORTERA-qualified serial lines (switchgear, drives, control/PLC subsystems, cables), **150** tier-2/3 suppliers audit-ready, **-20%** lead time for defined EU-critical components | **Offtake:** FORTERA Offtake Council + lead customers (energy/industry) + Ministry of Economy
+- **M2:** Surge/dual-use retooling (resilience production) | **Output:** **1** tooling & mould pool + retooling plans (ramp-up **< 45 days**) for prioritised goods, annual EU surge exercise incl. quality evidence | **Offtake:** FORTERA/EDA demand list + industry consortium + FORTERA audit
 - **M3:** Grid connections & industrial sites (fast track) | **Output:** by 2030 **+2.5 GW** secured connection capacity (substations/lines), **600 MWh** storage/balancing, grid commitment for FORTERA sites **< 9 months** | **Offtake:** national TSO/DSO + industrial park operators + FORTERA Delivery Unit
 
 **Build-ready sites:** Bratislava/West SK logistics & industry (Type: Industrial_Park), Trnava/Nitra manufacturing corridor (Type: Industrial), Žilina precision/automation cluster (Type: Industrial), Košice eastern industry (Type: Industrial), Váh corridor (energy/grid) (Type: Energy)
@@ -7838,9 +8201,9 @@ Each state uses the same canvas structure. Content is sharpened annually through
 
 **Archetype (suggested):** Adriatic gateway / precision industry  
 **Missions (suggested):**
-- **M1:** Koper–Ljubljana–Central Europe corridor (crisis mode) | **Output:** “Green Lanes” (24/7) for prioritised goods, **+20\%** crisis-proof throughput (port ↔ rail), **1** intermodal terminal upgrade + one stress test/year (slots, spare locomotive, emergency operations) | **Offtake:** Port of Koper + rail/corridor operators + customs + FORTERA Delivery Unit
+- **M1:** Koper–Ljubljana–Central Europe corridor (crisis mode) | **Output:** “Green Lanes” (24/7) for prioritised goods, **+20%** crisis-proof throughput (port ↔ rail), **1** intermodal terminal upgrade + one stress test/year (slots, spare locomotive, emergency operations) | **Offtake:** Port of Koper + rail/corridor operators + customs + FORTERA Delivery Unit
 - **M2:** Grid/storage upgrade for industrial sites | **Output:** by 2030 **+1.5 GW** secured connection capacity (substations/lines), **400 MWh** storage + balancing package, standardised grid commitment for FORTERA sites **< 9 months** | **Offtake:** national TSO/DSO + industrial-park operators + FORTERA audit
-- **M3:** Auditable supplier chains (precision/repair/mechanics) | **Output:** **4** FORTERA-qualified serial/repair lines (mechanics, pumps/valves, control components), **120** tier-2/3 suppliers audit-ready, **-20\%** lead time for defined EU-critical parts | **Offtake:** FORTERA Offtake Council + lead customers (energy/industry/defence as needed) + Ministry of Economy
+- **M3:** Auditable supplier chains (precision/repair/mechanics) | **Output:** **4** FORTERA-qualified serial/repair lines (mechanics, pumps/valves, control components), **120** tier-2/3 suppliers audit-ready, **-20%** lead time for defined EU-critical parts | **Offtake:** FORTERA Offtake Council + lead customers (energy/industry/defence as needed) + Ministry of Economy
 
 **Build-ready sites:** Port of Koper (Type: Port), Ljubljana logistics/rail hub (Type: Industrial_Park), Novo Mesto automotive/supplier cluster (Type: Industrial_Park), Maribor manufacturing/tooling (Type: Industrial_Park), Krško energy/grid node (Type: Energy)
 **Top 5 bottlenecks:** rail/hinterland capacity to the port; grid connection/substation capacity; skilled labour (electrical/tooling/QA); permitting/project-delivery speed; OT cyber & resilience (spares/emergency operations)
@@ -7854,7 +8217,7 @@ Each state uses the same canvas structure. Content is sharpened annually through
 **Missions (suggested):**
 - **M1:** Grids, storage, EU interconnectors (industry-ready) | **Output:** by 2030 **+8 GW** secured connection capacity (substations/lines), **3 GWh** storage + demand response, prioritised interconnector/corridor projects in fast track (median permitting **< 12 months** for defined FORTERA grid projects) | **Offtake:** national TSO/DSO + energy/industry ministry + FORTERA Delivery Unit
 - **M2:** Serial manufacturing for energy-transition components | **Output:** **10** FORTERA-qualified serial lines (wind/PV subsystems, power electronics, electrolyser subsystems), **300** audited tier-2/3 suppliers, EU offtake frameworks for defined components | **Offtake:** FORTERA Offtake Council + lead customers + industry consortium
-- **M3:** Port/shipyard repair & crisis logistics | **Output:** “Green Lanes” (24/7) in **3** ports, **2** intermodal corridors prioritised, **60 days** resilience stockpiles (energy/telecom/medical – rotation/QA governed), **-30\%** turnaround time for prioritised maritime repairs | **Offtake:** port authorities + customs + corridor operators + FORTERA Delivery Unit
+- **M3:** Port/shipyard repair & crisis logistics | **Output:** “Green Lanes” (24/7) in **3** ports, **2** intermodal corridors prioritised, **60 days** resilience stockpiles (energy/telecom/medical – rotation/QA governed), **-30%** turnaround time for prioritised maritime repairs | **Offtake:** port authorities + customs + corridor operators + FORTERA Delivery Unit
 
 **Build-ready sites:** Valencia (Type: Port), Algeciras (Type: Port), Bilbao (Type: Port), Zaragoza logistics/industry (Type: Industrial_Park), Tarragona chemicals/energy (Type: Energy)
 **Top 5 bottlenecks:** grid/interconnector bottlenecks; permitting/litigation chains (grid/energy/industrial sites); water and site planning for H2/industry; skilled labour (electrical, welding, QA); OT cyber & physical resilience in ports/grids
@@ -7964,7 +8327,9 @@ This is the **compact coverage register** for all **27 EU member states**: **sta
 \newpage
 
 ---
-source: content/8.-das-arktis-konzept/README.md
+content_id: erda.book.8.das.arktis.konzept.readme
+content_lang: en
+source: de/content/8.-das-arktis-konzept/README.md
 status: draft
 ---
 <a id="md-8-das-arktis-konzept-readme"></a>
@@ -8001,46 +8366,29 @@ Development of a sustainable, democratic Arctic strategy that unites geopolitica
 **🌍 Visionary benefits**\
 A democratic Arctic strategy positions Europe as a pioneer of responsible and just global resource policy.
 
+_Reading guide:_ The main chapter develops the codex, initial situation, strategic pillars and implementation (8.1–8.4). Four complementary appendices apply the concept to concrete stress tests: **Appendix 8.A** Greenland, **Appendix 8.B** Svalbard, **Appendix 8.C** undersea cables, **Appendix 8.D** permafrost methane.
+
 ### _Glossary (excerpt, ERDA-specific)_
 
-<table><thead><tr><th width="201.20001220703125">Term</th><th>Meaning</th></tr></thead><tbody><tr><td><strong>DSN</strong></td><td>Defense Sovereignty Node – autonomous regional defence unit of the EDA</td></tr><tr><td><strong>EDA</strong></td><td>European Defense Alliance – security-policy backbone of the ERDA</td></tr><tr><td><strong>ERDA</strong></td><td>European Rights-Based Democratic Alliance: future-oriented evolution of today’s EU into a federal democratic alliance with a common constitution, strategic sovereignty, digital participation and global responsibility – beyond the Union’s current borders and blockages.</td></tr><tr><td><strong>FORTERA</strong></td><td>Strategic economic architecture of the ERDA for resilient and fair production</td></tr><tr><td><strong>CIVITAS</strong></td><td>Digital agora for democratic participation and transparency within the ERDA</td></tr><tr><td><strong>IRIS²</strong></td><td>European satellite system for secure communication and Earth observation</td></tr><tr><td><strong>Arctic Democracy Mining Act</strong></td><td>Democratically regulated raw-materials law for Arctic regions with environmental safeguards</td></tr><tr><td><strong>Arctic Commons Charter</strong></td><td>Constitutional annex for the non-exploitative use of shared Arctic spaces</td></tr><tr><td><strong>Arctic Resilience Observatory</strong></td><td>Data, research and early-warning platform for climate stability in the Arctic</td></tr></tbody></table>
+| Term | Meaning |
+| --- | --- |
+| **DSN** | Defense Sovereignty Node – autonomous regional defence unit of the EDA |
+| **EDA** | European Defense Alliance – security-policy backbone of the ERDA |
+| **ERDA** | European Rights-Based Democratic Alliance: future-oriented evolution of today’s EU into a federal democratic alliance with a common constitution, strategic sovereignty, digital participation and global responsibility – beyond the Union’s current borders and blockages. |
+| **FORTERA** | Strategic economic architecture of the ERDA for resilient and fair production |
+| **CIVITAS** | Digital agora for democratic participation and transparency within the ERDA |
+| **IRIS²** | European satellite system for secure communication and Earth observation |
+| **Arctic Democracy Mining Act** | Democratically regulated raw-materials law for Arctic regions with environmental safeguards |
+| **Arctic Commons Charter** | Constitutional annex for the non-exploitative use of shared Arctic spaces |
+| **Arctic Resilience Observatory** | Data, research and early-warning platform for climate stability in the Arctic |
 
 
 \newpage
 
 ---
-source: content/8.-das-arktis-konzept/8.0-fallstudie-gronland-als-stresstest-strategischer-solidaritaet.md
-status: draft
----
-<a id="md-8-das-arktis-konzept-8-0-fallstudie-gronland-als-stresstest-strategischer-solidaritaet"></a>
-
-
-## 8.0 Case Study: Greenland as a Stress Test for Strategic Solidarity
-
-Greenland exemplifies a new reality: territorial interests, supply-chain nodes, security spaces and public perception are intertwined. A single decision – “resist instead of concede” – can make solidarity visible, but it requires preparation.
-
-**What this stress test requires (operationally, without alarmism):**
-1) **Genuine Strategic Assessment**  
-   Map leverage, name dependencies, define red lines, and think through escalation costs honestly.
-2) **Toolbox instead of reflexes**  
-   Law (treaties, competences), economics (targeted countermeasures), infrastructure protection, information resilience, diplomacy as a graduated chain.
-3) **Shared communication**  
-   No summit clichés, but a clear situation assessment, clear objectives and clear rules – so the public does not only “hear” solidarity, but “sees” it.
-4) **Resonance creates binding**  
-   Joint action can create trust that previously seemed politically unreachable.
-
-**Bridge to the ERDA architecture:**
-* FORTERA provides economic robustness against coercion.
-* EDA provides protection and deterrence capacity against hybrid pressure.
-* CIVITAS provides transparency and democratic feedback loops so that “action” does not feel like an elite project.
-
-> Guiding thought: The Arctic remains a space of peace – but peace spaces need protection against pressure, coercion and division.
-
-
-\newpage
-
----
-source: content/8.-das-arktis-konzept/8.1-arktis-codex-ethik-der-arktischen-verantwortung.md
+content_id: erda.book.8.das.arktis.konzept.8.1.arktis.codex.ethik.der.arktischen.verantwortung
+content_lang: en
+source: de/content/8.-das-arktis-konzept/8.1-arktis-codex-ethik-der-arktischen-verantwortung.md
 status: draft
 ---
 <a id="md-8-das-arktis-konzept-8-1-arktis-codex-ethik-der-arktischen-verantwortung"></a>
@@ -8094,203 +8442,462 @@ Promoting a comprehensive understanding of the ecological, cultural and social s
 \newpage
 
 ---
-source: content/8.-das-arktis-konzept/8.2-ausgangslage.md
+content_id: erda.book.8.das.arktis.konzept.8.2.ausgangslage
+content_lang: en
+source: de/content/8.-das-arktis-konzept/8.2-ausgangslage.md
 status: draft
 ---
 <a id="md-8-das-arktis-konzept-8-2-ausgangslage"></a>
 
 
-## 8.2 Initial Situation
+## 8.2 Initial situation and guiding principles
 
-_**Initial Situation**_
+The Arctic is no longer a remote periphery of world politics. It is becoming warmer, more accessible and more contested at the same time. Melting ice opens sea routes, resource zones and data corridors; at the same time, this very process destabilises an ecosystem that is central to the global climate, Indigenous ways of life and international security architectures.
 
-The Arctic is one of the last largely undeveloped regions of our planet – and at the same time a geopolitical flashpoint. Climate change is making resources accessible that were previously locked away in the eternal ice. Authoritarian powers are advancing into this zone militarily, technologically, and economically. At the same time, irreversible ecological tipping points threaten the region’s fragile balance.
+This creates a strategic paradox: the more visible the Arctic becomes as a space of economic, military and technological opportunity, the less its future may be shaped by short-term extraction. A democratic Arctic strategy must therefore think protection, use, research and security together. It must neither romanticise the region nor exploit it; it must be capable of action without repeating colonial patterns.
 
-Europe and its democratic partners must provide a clear, value‑based response – not as a claim to power, but as an expression of responsibility, justice, and safeguarding the future.
+### 8.2.1 Initial situation: accelerated spatial change
+
+Climate change is shifting the material conditions of the Arctic faster than political institutions are prepared to respond. Permafrost is thawing, coastlines are eroding, maritime routes are becoming more seasonally predictable, and demand for strategic raw materials is making previously hard-to-reach deposits politically relevant. This development increases not only economic appetites, but also the risk of infrastructure conflicts, environmental accidents and hybrid pressure tools.
+
+Authoritarian powers use such transitions to expand grey zones: research vessels can also perform reconnaissance, investments can create dependencies, and communications infrastructure can become politically vulnerable. Democracies cannot answer this with symbolism alone. They need credible presence, robust supply chains, reliable partnership agreements and public procedures that explain why action is being taken and where its limits lie.
+
+### 8.2.2 The democratic starting question
+
+The guiding question is not who the Arctic “belongs” to. It is what kind of order prevents an ecologically sensitive region of planetary importance from becoming a testing ground for ruthless power politics. ERDA therefore understands the Arctic as a space of responsibility: a zone in which security interests, ecological limits, Indigenous rights and scientific truth must not be played off against one another.
+
+Europe and its democratic partners must provide a clear, value-based response – not as a claim to power, but as an expression of responsibility, justice and safeguarding the future. That response must be concretely useful for Arctic communities: through co-determination, participation in value creation, protection of cultural identity, disaster preparedness, open data and verifiable ecological standards.
+
+### 8.2.3 Guiding principles
+
+* **Democratic legitimacy instead of geopolitical arbitrariness:** Every Arctic measure needs a publicly understandable mandate, parliamentary control and transparent purpose limitation.
+* **Ecological responsibility instead of extractive plundering:** Resource policy may take place only within firm environmental limits; protected areas, the precautionary principle and restoration obligations are starting conditions, not later corrections.
+* **Partnership with Indigenous peoples instead of colonial appropriation:** Affected communities are not stakeholders at the margins, but co-authors of political decisions, data sovereignty, cultural policy and local value creation.
+* **Sovereign presence instead of military overstretch:** Democratic security means defensive, cooperative and legally bound capacity for action, not escalation dominance.
+* **Resilience through cooperation instead of purely national solo efforts:** Arctic stability emerges through shared situational awareness, coordinated infrastructure, research sharing and fair burden-sharing among democracies.
+
+These principles are not a decorative preamble. They determine whether ARKTIS remains recognisable as a democratic strategy when trade-offs arise: between raw-material needs and nature protection, deterrence and peace order, scientific openness and security interests, local self-determination and global responsibility.
+
+### 8.2.4 International law and institutional framework
+
+ARKTIS does not emerge in a legal vacuum. ERDA’s democratic Arctic strategy operates within an existing, fragmented and partly strained web of international rules and regional forums. It seeks to strengthen, not replace, that web.
+
+The key reference points are:
+
+* **UN Convention on the Law of the Sea (UNCLOS, 1982):** foundation for territorial waters, exclusive economic zones, continental-shelf claims and dispute settlement in the Arctic.
+* **Ilulissat Declaration (2008):** self-commitment of the five Arctic littoral states to UNCLOS and peaceful dispute settlement – politically weakened, but normatively still relevant.
+* **Svalbard Treaty (1920):** model of territorial sovereignty combined with international economic equal treatment and a demilitarisation logic.
+* **Arctic Council and its working groups** (AMAP, CAFF, PAME, SDWG): scientific-political forums; partly suspended since the Russian invasion of Ukraine in 2022, but formally still in place.
+* **Permanent Participants** of the Arctic Council: Inuit Circumpolar Council, Saami Council, Aleut International Association, Arctic Athabaskan Council, Gwich’in Council International, Russian Association of Indigenous Peoples of the North – institutionalised Indigenous co-voice that ARKTIS explicitly builds on.
+* **Barents Euro-Arctic Council** and **Nordic Council** as complementary regional forums.
+* **IMO Polar Code (2017):** safety and environmental standards for shipping in polar waters.
+* **Nuuk SAR Agreement (2011)** and **Oil Spill Response Agreement (2013):** operational cooperation anchors.
+* **UNDRIP** and **ILO Convention 169:** reference frame for Indigenous rights and Free, Prior and Informed Consent (FPIC).
+
+ERDA commits to explicitly name the relevant norms in every Arctic initiative and to publicly justify any deviation. Where existing forums are blocked, ARKTIS seeks democratic partial coalitions without abandoning the aim of reviving pan-Arctic formats.
 
 
 \newpage
 
 ---
-source: content/8.-das-arktis-konzept/8.3-leitprinzipien.md
+content_id: erda.book.8.das.arktis.konzept.8.3.strategische.saulen
+content_lang: en
+source: de/content/8.-das-arktis-konzept/8.3-strategische-saulen.md
 status: draft
 ---
-<a id="md-8-das-arktis-konzept-8-3-leitprinzipien"></a>
+<a id="md-8-das-arktis-konzept-8-3-strategische-saulen"></a>
 
+## 8.3 Strategic pillars
 
-## 8.3 Guiding Principles
+The strategic pillars translate the ARKTIS Codex into actionable policy. They are not a loose menu of measures, but an architecture of mutual reinforcement: security protects open research and democratic participation; resource governance prevents vulnerability to coercion; data sovereignty makes ecological limits verifiable; Indigenous co-determination anchors legitimacy on the ground.
 
-_**Guiding Principles**_
+| Pillar | Function within the ARKTIS Concept | Guiding question |
+| --- | --- | --- |
+| Geopolitical sovereignty | Protecting democratic agency and critical infrastructure | How can the Arctic remain a peace space without becoming defenceless? |
+| Resource partnerships | Fair, ecological and democratically controlled value creation | Who benefits, who decides and who carries the risks? |
+| Science and climate ethics | Reliable situational awareness, early warning and technological limits | Which data show when action is required or prohibited? |
+| Infrastructure and data sovereignty | Secure communication, logistics and observation capacity | Who controls the networks through which knowledge and security flow? |
+| Cultural and Indigenous dimension | Rights, language, knowledge and self-determination of Arctic communities | How is responsibility shaped with the people who live there? |
 
-* **Democratic legitimacy** instead of geopolitical arbitrariness
-* **Ecological responsibility** instead of extractive plundering
-* **Partnership with Indigenous peoples** instead of colonial appropriation
-* **Sovereign presence** instead of military overstretch
-* **Resilience through cooperation** instead of purely national solo efforts
+### 8.3.1 Geopolitical sovereignty (EDA Arctic strategy)
 
+The EDA Arctic strategy must not be misunderstood as the militarisation of a peace space. Its core is defensive protective capacity: democracies must be able to secure maritime infrastructure, communications cables, energy links, research facilities and rescue logistics without turning the region into a permanent zone of threat.
+
+The **Norwegian Sea Defense Sovereignty Node (DSN)** brings together early warning, ISR capabilities, drone reconnaissance, cyber defence and emergency logistics. Its presence must be cooperative: Iceland, Greenland, Norway, Canada and other democratic partners share situational awareness, train civilian crisis response and define red lines against sabotage, disinformation and coercive infrastructure policy.
+
+Sovereignty here does not mean going it alone, but being reliable. An ERDA that wants to protect supply chains, research data and coastal regions must be able to act quickly in a crisis; at the same time, every action must remain mandated, documented and politically controlled.
+
+**Alliance and actor architecture.** ARKTIS positions itself within a multi-layered field of actors. Binding protection obligations exist with the NATO members Finland, Sweden, Norway, Denmark, Iceland, Canada and the United States; ARKTIS complements them with civilian resilience and democratic control. With non-Arctic democracies (the United Kingdom, Japan, the Republic of Korea), research and supply-chain cooperation grows. Towards Russia, a dual track applies: deterrence combined with selective scientific cooperation (climate, search and rescue) as long as international law and human rights are upheld. Towards China, clear standards apply for research, investment and port access (transparency, ownership control, termination clauses); observer status in the Arctic Council does not replace democratic co-decision.
+
+**Hybrid threats made concrete.** A democratic Arctic strategy must name what it protects against: sabotage of undersea cables and pipelines, GNSS/GPS jamming in Finnmark and on Svalbard, AIS spoofing and shadow fleets, research camouflage by dual-use vessels, disinformation against Indigenous representatives, lawfare via mining concessions, cyber attacks against SCADA systems of port and energy infrastructure. For each of these categories, ERDA and EDA define early-warning indicators, responsibilities and – elaborated in 8.4.4 – a graduated reaction ladder under parliamentary control.
+
+### 8.3.2 Democratic resource partnerships (FORTERA)
+
+The Arctic contains raw materials that may become relevant for the energy transition, digital infrastructure and strategic industries. Precisely for that reason, their development must not follow the old pattern of cheap peripheries. FORTERA relies on partnerships that combine supply security with environmental safeguards, local value creation and democratic control.
+
+The **Arctic Democracy Mining Act** defines minimum standards for concessions: transparent ownership structures, environmental impact assessments, decommissioning and restoration obligations, local participation funds, independent complaint channels and CIVITAS-based publication of key contract data. Resource policy thereby becomes not only cleaner, but politically more robust, because it limits corruption, dependency and social division early.
+
+Strategic agreements with Canada, Greenland, Iceland, Norway and other resource-adjacent democracies must therefore be more than delivery contracts. They should include training programmes, research capacity, regional infrastructure, emergency funds and participation rights. Whoever uses Arctic resources assumes responsibility for living conditions in the region.
+
+**Financing and instruments.** So that democratic resource partnerships do not fail because of capital cost, FORTERA combines several instruments: an **EIB Arctic window** for infrastructure and decommissioning, a **strategic off-take programme** of ERDA for defined critical minerals, **local participation funds** with a statutory minimum quota, **FDI screening** for takeovers in Arctic value chains, **insurance and reinsurance regimes** for shipping and mining under Polar Code conditions, and **conditional sanctions instruments** in case of violations of the Mining Act or environmental obligations. All instruments are documented annually in CIVITAS.
+
+### 8.3.3 Science and climate ethics
+
+The **Arctic Resilience Observatory** is the scientific backbone of the concept. It collects and links data on permafrost, sea ice, biodiversity, water systems, methane risks, coastal erosion and social resilience. Its purpose is not to be a research showcase, but to create democratic early-warning capacity: parliaments, municipalities, Indigenous representatives and international partners must be able to work from the same reliable situational pictures.
+
+Open data does not mean unrestricted data exploitation. Sensitive ecological, cultural and security-relevant information needs clear access rules, local co-decision and protection against commercial extraction. A democratic ethics commission assesses technologies such as geoengineering, deep-sea mining, autonomous sensor systems or large-scale resource exploration before irreversible path dependencies arise.
+
+The central norm is this: where uncertainty is high and harm would be irreversible, precaution takes priority. Science therefore does not serve as a later justification for political decisions, but as a limit, corrective and early-warning system.
+
+**Thresholds and tipping points.** The Arctic Resilience Observatory works with transparent, regularly reviewed thresholds that trigger or halt action. Reference points include: Arctic amplification (warming roughly three to four times faster than the global average), the 1.5 °C goal of the Paris Agreement, IPCC risk thresholds for ice-albedo feedback and permafrost carbon release, observed weakening signals of the Atlantic Meridional Overturning Circulation (AMOC), sea-ice minima and methane concentrations over critical permafrost regions. If defined thresholds are crossed, contingency packages (adaptation, protected areas, moratoria) must be triggered by parliaments – not only after political cycles allow it.
+
+### 8.3.4 Infrastructure and data sovereignty
+
+Arctic sovereignty is increasingly decided through networks: satellites, undersea cables, ports, energy connections, navigation systems, cloud infrastructures and rescue chains. Whoever controls these networks controls not only logistics, but also perception, security and political reaction speed.
+
+ERDA therefore needs a civil-military coordinated satellite and sensor network based on European capabilities such as **IRIS²**, complemented by open environmental observation and robust cyber resilience. A **European Arctic Cloud** should bring together research data, crisis information and participation modules without overriding regional data sovereignty.
+
+Logistics hubs in places such as Reykjavik, Nuuk or Tromsø must not appear as extraterritorial outposts. They must be jointly supervised, usable for civilian purposes, ecologically limited and embedded in local development strategies. Infrastructure is democratic only when it provides protection without creating dependency.
+
+**Data and cloud governance.** The European Arctic Cloud is built on the European legal framework: General Data Protection Regulation (GDPR), Data Governance Act, Data Act, NIS2 Directive and CER Directive for critical entities. To this are added the **CARE principles** for Indigenous data governance (Collective Benefit, Authority to Control, Responsibility, Ethics) and OCAP-aligned standards for Ownership, Control, Access and Possession. Research, climate and security data are managed in graduated trust layers; sensitive cultural or security-relevant data are subject to local veto rights. Key management, audit trails and independent oversight are non-negotiable.
+
+### 8.3.5 Cultural and Indigenous dimension
+
+The Arctic is not an empty space. It is a living space, memory space, knowledge space and political space for Indigenous and local communities. Any strategy that only “involves” this fact afterwards has already started in the wrong place.
+
+Indigenous languages, rights and knowledge systems must be recognised as part of governance. This concerns representation in ERDA bodies, co-decision on concessions, protection of culturally sensitive data, participation in research projects and dedicated digital spaces within CIVITAS. Traditional knowledge does not replace scientific data; it broadens the view of risks, seasons, animal migrations, coastal changes and the social consequences of political decisions.
+
+ARKTIS explicitly builds on existing Indigenous institutions: the **Inuit Circumpolar Council (ICC)**, the **Saami Council** and the **Saami Parliaments** of Norway, Sweden and Finland, the **Aleut International Association**, the **Arctic Athabaskan Council** and **Gwich’in Council International**. They are established as Permanent Participants in the Arctic Council and are treated by ERDA as equal-level interlocutors. **Free, Prior and Informed Consent (FPIC)** under UNDRIP and ILO 169 is the minimum standard for any project affecting Indigenous lifeworlds; FPIC is documented, made verifiable and backed by complaint channels.
+
+An **Arctic Council+** can secure this dimension institutionally: with advisory and oversight functions, veto rights in clearly defined protection matters, participation in benefit-sharing models and a direct link to the ERDA constitutional commission. Democratic responsibility begins where affected communities are not only heard, but co-decide.
 
 \newpage
 
 ---
-source: content/8.-das-arktis-konzept/8.4-strategische-saulen/README.md
+content_id: erda.book.8.das.arktis.konzept.8.4.umsetzung.kommunikation.und.schlussgedanke
+content_lang: en
+source: de/content/8.-das-arktis-konzept/8.4-umsetzung-kommunikation-und-schlussgedanke.md
 status: draft
 ---
-<a id="md-8-das-arktis-konzept-8-4-strategische-saulen-readme"></a>
+<a id="md-8-das-arktis-konzept-8-4-umsetzung-kommunikation-und-schlussgedanke"></a>
 
 
-## 8.4 Strategic pillars
+\newpage
+\newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
 
-_**Strategic pillars**_
 
+\pagewidth=297mm
+\pageheight=210mm
+
+## 8.4 Implementation, communication and closing thought
+
+The ARKTIS Concept becomes credible only when its guiding vision is translated into robust routines. That requires clear responsibilities, measurable checkpoints and communication that neither fuels alarmism nor offers false reassurance. Arctic policy must be able to show what it protects, whom it benefits and where it limits itself.
+
+### 8.4.1 Catalogue of measures
+
+\begin{longtable}{@{}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{74.35mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{18.28mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{50.96mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{66.92mm}@{}}\toprule Area & Core measure & Time frame & Lead responsibility & Review criterion \\\midrule \endhead Defence & Establish DSN Norwegian Sea with early warning, cyber defence and emergency logistics & 2026–2032 & EDA, Iceland, Norway, Canada & Shared situational picture, civilian exercise formats, parliamentary control \\Resources & Arctic Democracy Mining Act with concession register and benefit sharing & from 2027 & ERDA, FORTERA, Greenland, partner states & Public contract data, environmental requirements, local participation funds \\Research & Arctic Resilience Observatory for climate, biodiversity and permafrost data & 2025–2028 & EU, ERDA partners, universities, NGOs & Open data standards, Indigenous data rights, annual resilience report \\Ethics & Arctic Commons Charter as a boundary for non-exploitative use & 2026 & ERDA constitutional commission, Arctic Council+ & Precautionary principle, protected areas, independent ethics review \\Participation & Indigenous Council within ERDA linked to CIVITAS & from 2027 & CIVITAS, ERDA Council, local representatives & Co-decision on projects, complaint channels, multilingual participation \\Infrastructure & European Arctic Cloud and resilient logistics locations & 2026–2030 & ERDA, IRIS², municipalities, research partners & Data sovereignty, cyber resilience, civilian usability, climate balance \\\bottomrule \end{longtable}
+\restoregeometry
+\pagewidth=210mm
+\pageheight=297mm
+\newpage
+
+### 8.4.2 Implementation path
+
+**Phase 1: Mandate and situational picture (2025–2026)**
+
+ERDA brings existing data, responsibilities and partnerships together in a shared Arctic situational picture. In parallel, red lines are defined: no projects without Indigenous co-determination, no resource use without restoration obligations, no security infrastructure without democratic control.
+
+**Phase 2: Institutional build-up (2026–2028)**
+
+The Arctic Council+, the Arctic Resilience Observatory and CIVITAS participation modules become operational. First partnership agreements connect research, training, local value creation and security cooperation. The DSN Norwegian Sea begins with civilian crisis exercises and transparent parliamentary reporting.
+
+**Phase 3: Resilient scaling (2028–2032)**
+
+Tested instruments are transferred into lasting governance: concession registers, environmental monitoring, local participation funds, open data portals and shared rescue and infrastructure routines. Annual review reports examine whether the strategy respects ecological limits, reduces dependencies and strengthens local communities.
+
+### 8.4.3 Communication strategy
+
+The public narrative is: _“The Arctic does not belong to the powerful, but to the responsible.”_ This sentence must not remain a slogan. Communication has to support it with evidence: Which decision was publicly justified? Which community was involved? Which resource was not developed because ecological limits stood against it? Which security measure protects civilian infrastructure rather than staging power projection?
+
+Three communication rules follow from this:
+
+1. **Describe the situation honestly:** The Arctic is at once a peace space, climate tipping zone, living space and strategic space. Anyone who tells only one of these stories loses trust.
+2. **Make action visible:** Open data portals, CIVITAS modules, maps, annual reports and understandable indicators show whether principles are actually being implemented.
+3. **Include culture:** Literature, film, education, interactive media and Indigenous forms of storytelling make it tangible that Arctic responsibility is more than security or resource policy.
+
+
+\newpage
+\newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
+
+
+\pagewidth=297mm
+\pageheight=210mm
+
+### 8.4.4 Escalation and crisis ladder
+
+Arctic crises rarely arise at a single point. They unfold over weeks, sometimes hours: a disrupted GNSS signal, a severed cable, an abruptly revoked licence, a wave of disinformation against an Indigenous representation. ARKTIS therefore needs a graduated, pre-mandated reaction ladder that binds every step to clear political control.
+
+\begin{longtable}{@{}>{\raggedright\arraybackslash}p{33.09mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{60.62mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{64.42mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{41.84mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{44.53mm}@{}}\toprule Level & Trigger (example) & Primary tools & Decision level & Democratic control \\\midrule \endhead 0 Observation & Suspicious patterns (shipping, data traffic, discourse analysis) & Situational picture, monitoring, early warning & Specialist services, Observatory & Routine reports, committees \\1 Civilian consultation & Confirmed incidents without immediate damage & Diplomacy, fact-based clarification, technical assistance & Foreign and home ministries, ERDA secretariat & Committee briefing within 72 h \\2 Economic / legal response & Repeated incidents, clear attribution & Sanctions, FDI freeze, licence withdrawal, litigation & ERDA Council, affected member states & Parliamentary approval / decision \\3 Alliance reinforcement & Systematic hybrid pressure campaign & Extended alliance formats, protective presence, joint communication & EDA + partners, ERDA Council & Mandate decision, public justification \\4 Defensive military reassurance & Sabotage of critical infrastructure, threat to the population & DSN activation, NATO consultation, mandated protective operation & EDA Council, NATO, national parliaments & Pre-defined mandate, ex-post report \\\bottomrule \end{longtable}
+Every change of level is subject to justification, time-limited and documented in CIVITAS. Level 4 requires an existing parliamentary mandate and is limited to defensive measures.
+
+\restoregeometry
+\pagewidth=210mm
+\pageheight=297mm
+\newpage
+
+### 8.4.5 Resilience indicators and annual dashboard
+
+The credibility of ARKTIS depends on whether its principles can be verified. An annual **Arctic Resilience Dashboard** makes the state of the concept publicly understandable.
+
+| Cluster | Example indicator | Direction |
+| --- | --- | --- |
+| Ecology | Threshold exceedances in permafrost, sea-ice minimum, AMOC early warning | documented, coupled with measures |
+| Resources | Share of concessions with proven FPIC and participation funds | towards 100 \% |
+| Indigenous co-decision | Share of voting Indigenous seats in Arctic bodies | growing, at least parity on protection matters |
+| Security | Average DSN reaction time to reported infrastructure incidents | falling, transparent |
+| Data | Share of openly available, FAIR-compliant Arctic Cloud datasets | growing, CARE-compliant |
+| Democracy | Number of parliamentarily justified level changes on the escalation ladder | fully documented |
+| Communication | Share of multilingual publications (including Indigenous languages) | growing |
+
+The dashboard is published annually jointly by ERDA, the Arctic Resilience Observatory, the Arctic Council+ and CIVITAS and is debated in parliament.
+
+### 8.4.6 Cross-references within this book
+
+ARKTIS does not stand alone. It interlocks with other building blocks of the ERDA concept:
+
+* **Chapter 5 (EDA):** security-policy frame in which the DSN Norwegian Sea is embedded.
+* **Chapter 6 (CIVITAS):** participation, transparency and publication layer for Arctic policy.
+* **Chapter 7 (FORTERA):** economic architecture that hosts the Arctic Democracy Mining Act.
+* **Chapter 13 (Strategic sovereignty):** toolbox for democratic security, made Arctic-specific in 8.4.4.
+* **Chapter 14 (Democratic coalitions of the willing):** alliance logic for non-Arctic democracies.
+* **Appendix G (Risk):** risk and resilience logic of the ERDA initiative.
+* **Appendix M (Anti-Game-Over principle):** measurable criteria against irreversible paths.
+* **Appendices 8.A–8.D:** four complementary stress tests that apply the pillars.
+
+### 8.4.7 Closing thought
+
+> _The Arctic is not an empty field for geopolitical games – it is a living resonance space of our planet. Whoever wants to preserve it must listen, protect and shape responsibly. ERDA takes on this task not as the ruler of the North, but as an alliance of care, foresight and democracy._
+
+ARKTIS is therefore a test of the maturity of democratic power. A democratic alliance that wants to endure in the North must prove that it can create security without normalising exploitation; that it can secure resources without narrowing rights; and that it does not merely proclaim planetary responsibility, but carries it institutionally.
 
 \newpage
 
 ---
-source: content/8.-das-arktis-konzept/8.4-strategische-saulen/8.4.1-geopolitische-souveranitat-eda-arktisstrategie.md
+content_id: erda.book.8.das.arktis.konzept.8.a.fallstudie.gronland.als.stresstest.strategischer.solidaritaet
+content_lang: en
+source: de/content/8.-das-arktis-konzept/8.a-fallstudie-gronland-als-stresstest-strategischer-solidaritaet.md
 status: draft
 ---
-<a id="md-8-das-arktis-konzept-8-4-strategische-saulen-8-4-1-geopolitische-souveranitat-eda-arktisstrategie"></a>
+<a id="md-8-das-arktis-konzept-8-a-fallstudie-gronland-als-stresstest-strategischer-solidaritaet"></a>
 
+## Appendix 8.A – Case Study: Greenland as a Stress Test for Strategic Solidarity
 
-### 8.4.1 Geopolitical sovereignty (EDA Arctic strategy)
+_This appendix applies the principles, pillars and instruments developed in 8.1–8.4 to a concrete stress test. It is intended as a didactic walk-through, not a political situation assessment._
 
-_**Geopolitical sovereignty (EDA Arctic strategy)**_
+### 8.A.1 Why Greenland?
 
-* Building a **Norwegian Sea Defense Sovereignty Node (DSN)** of the EDA with early warning, ISR and drone systems
-* Cooperative presence with Iceland, Greenland, Norway and Canada
-* Protection of maritime infrastructure (cables, energy, transport routes)
-* Climate‑driven crisis resilience: emergency logistics, cyber defence, migration scenarios
+Greenland concentrates the strategic tensions of the Arctic in a single space: an autonomous territory within the Kingdom of Denmark with its own government (Naalakkersuisut), significant deposits of critical raw materials (including rare earths, graphite, uranium), a geostrategically central location between the North Atlantic and Arctic sea routes, the Thule/Pituffik base as a NATO-relevant facility, and a predominantly Inuit population with its own language, culture and political voice. Territorial interests, supply-chain nodes, security spaces and public perception visibly intersect here.
+
+A single decision – “resist instead of concede” – can make solidarity visible, but it requires preparation. Anyone who reads Greenland purely as a raw-material or military question misses the point: it is about whether democratic alliances can deliver protection, self-determination and value creation at the same time.
+
+### 8.A.2 What this stress test requires (operationally, without alarmism)
+
+1. **Genuine Strategic Assessment** – map leverage, name dependencies, define red lines, think escalation costs through honestly.
+2. **Toolbox instead of reflexes** – law (UNCLOS, the Danish-Greenlandic Self-Government Act, FDI screening), economics (targeted countermeasures, alternative supply chains), infrastructure protection (ports, cables, satellite connectivity), information resilience, diplomacy as a graduated chain.
+3. **Shared communication** – no summit clichés, but a clear situation assessment, clear objectives and clear rules – so the public does not only hear solidarity, but sees it.
+4. **Resonance creates binding** – joint action can build trust that previously seemed politically unreachable.
+
+### 8.A.3 Actors and interests
+
+| Actor | Primary interest | Sensitivity / red line |
+| --- | --- | --- |
+| Greenland (Naalakkersuisut, Inatsisartut) | Self-determination, fair value creation, protection of language and culture | No great-power tutelage; FPIC for mining projects |
+| Denmark / Rigsfællesskab | Unity of the realm, foreign and security policy, alliance obligations | No trading of sovereignty; reliable own role |
+| Inuit Circumpolar Council | Transnational Inuit rights, language, knowledge, subsistence | Protection against extractive development; data sovereignty |
+| ERDA / EU | Strategic sovereignty, raw-material security, climate responsibility | No re-colonisation; democratic conditionality |
+| EDA / NATO | North Atlantic early warning, SLOC protection, Pituffik | No militarisation of daily life; clear civilian boundaries |
+| United States | Missile early warning, raw-material access, influence security | No unilateral appropriation; alliance loyalty |
+| Russia | Arctic presence, bastion defence | Hybrid escalation, GNSS interference, cable risks |
+| China | Polar Silk Road, research and resource access | Research camouflage, concession and port investments |
+
+### 8.A.4 Toolbox in application
+
+**Law.** Greenland’s sovereignty is not negotiable; the Self-Government Act (2009) regulates the path to further self-determination. UNCLOS, the Ilulissat Declaration (2008), Svalbard Treaty logic (by analogy) and FDI screening form the legal frame within which ERDA acts.
+
+**Economics.** The **Arctic Democracy Mining Act** defines concession standards (transparency, decommissioning, participation funds). FORTERA off-take contracts secure rare-earth and graphite supply on fair terms; an EIB Arctic window and insurance regimes lower capital costs for local enterprises.
+
+**Infrastructure.** Port development in Nuuk and Sisimiut, redundant satellite connectivity (IRIS²), protected sea-cable routes, civilian air emergency logistics. Dual-use remains clearly declared and parliamentarily controlled.
+
+**Information resilience.** A shared CIVITAS situational dashboard, fact-based communication in Kalaallisut, Danish and English, early correction of disinformation, protection of local media.
+
+**Diplomacy.** A **graduated escalation chain** (see 8.4.4): civilian consultation → public clarification → economic countermeasures → alliance reinforcement → military reassurance (defensive, mandated).
+
+### 8.A.5 Bridge to the ERDA architecture
+
+* **FORTERA** provides economic robustness against coercion and fair local value creation.
+* **EDA** provides protection and deterrence capacity against hybrid pressure without militarising the region.
+* **CIVITAS** provides transparency and democratic feedback so that “action” does not feel like an elite project.
+* **ARKTIS Codex (8.1)** and the **Arctic Commons Charter** tie every step to ecological and cultural limits.
+
+### 8.A.6 Indicators of passing
+
+The stress test is considered passed when:
+
+* no concession is granted without an FPIC procedure and a participation fund,
+* the situational picture between ERDA, Greenland and Denmark can be synchronised within 24 hours,
+* critical infrastructure (ports, cables, satellite connectivity) is redundant and civilian-controlled,
+* Inuit representatives have voting and co-decision rights in all relevant bodies,
+* public communication remains multilingual, evidence-based and verifiable.
+
+> Guiding thought: The Arctic remains a space of peace – but peace spaces need protection against pressure, coercion and division. Greenland is the touchstone that decides whether democratic solidarity is more than a word.
 
 
 \newpage
 
 ---
-source: content/8.-das-arktis-konzept/8.4-strategische-saulen/8.4.2-demokratische-ressourcenpartnerschaften-fortera.md
+content_id: erda.book.8.das.arktis.konzept.8.b.stresstest.spitzbergen.und.svalbard.vertrag
+content_lang: en
+source: de/content/8.-das-arktis-konzept/8.b-stresstest-spitzbergen-und-svalbard-vertrag.md
 status: draft
 ---
-<a id="md-8-das-arktis-konzept-8-4-strategische-saulen-8-4-2-demokratische-ressourcenpartnerschaften-fortera"></a>
+<a id="md-8-das-arktis-konzept-8-b-stresstest-spitzbergen-und-svalbard-vertrag"></a>
 
+## Appendix 8.B – Stress Test: Svalbard and the Svalbard Treaty
 
-### 8.4.2 Democratic resource partnerships (FORTERA)
+_This appendix tests the resilience of ARKTIS against a region whose special status balances Norwegian sovereignty, international economic equal treatment and a demilitarisation logic._
 
-_**Democratic resource partnerships (FORTERA)**_
+### 8.B.1 Initial situation
 
-* Strategic agreements with resource‑adjacent democracies (e.g., Canada, Greenland, Iceland, Norway)
-* Mandatory environmental standards and benefit sharing with affected communities
-* Public oversight of concessions via **CIVITAS**
+Since the Svalbard Treaty of 1920, Svalbard has been subject to a unique regime: Norwegian sovereignty combined with equal economic activity for the treaty parties and restrictions on military use. Russia maintains a permanent presence through Trust Arktikugol in Barentsburg. The Ny-Ålesund research station is intensively used internationally; Longyearbyen is a hub for research, tourism and satellite communications (SvalSat).
+
+Incidents readable as "grey" provocations have accumulated in recent years: GNSS jamming, drone overflights, research vessels with unclear mandates, disputes over fishing quotas, attempts to politically reinterpret the treaty status. Svalbard thus becomes a litmus test of whether democracies can hold the balance between treaty compliance, escalation avoidance and credible presence.
+
+### 8.B.2 Stress-test scenario
+
+A cluster of hybrid incidents within six months: repeated GNSS jamming along the west coast, a disrupted undersea cable from Longyearbyen to the mainland, a public campaign portraying the Svalbard Treaty as "outdated", and a sudden application for the expansion of extractive activities at an ecologically sensitive site.
+
+### 8.B.3 Applying the ARKTIS tools
+
+* **Law.** Reaffirmation of Norwegian sovereignty and the treaty obligations of 1920; public clarification that economic equal treatment does not create geopolitical special rights. UNCLOS and Polar Code compliance is documented for every activity.
+* **Science.** The Arctic Resilience Observatory publishes a consolidated incident and environmental picture; Ny-Ålesund partners coordinate transparent research protocols.
+* **Infrastructure.** Redundant satellite connectivity via IRIS², hardened cable routes, civilian emergency logistics, controlled SvalSat use. No dual-use without public documentation.
+* **Security.** DSN Norwegian Sea activates levels 0–2 of the escalation ladder (see 8.4.4); NATO consultation is open, not escalatory.
+* **Participation.** The local population in Longyearbyen, Barentsburg and Ny-Ålesund is informed via CIVITAS modules about the situation, measures and limits, multilingually (Norwegian, Russian, English).
+* **Ecology.** Applications to expand extractive activities are tested against the Arctic Commons Charter and the precautionary principle; in case of irreversible risk a moratorium applies.
+
+### 8.B.4 Democratic guardrails
+
+* No erosion of the Svalbard Treaty through fait-accompli politics.
+* No militarisation of civilian research and settlement life.
+* No economic coercion against Trust Arktikugol employees or other residents, but rule-based conflict resolution.
+* Full parliamentary reporting on level changes.
+
+### 8.B.5 Indicators of passing
+
+The stress test is considered passed when the treaty status remains legally untouched, hybrid incidents are documented and attributed, critical infrastructure operates without permanent outage, ecologically sensitive expansions are rejected or contained, and the local population experiences events as understandable.
+
+> Guiding thought: Svalbard shows that democratic strength means keeping treaties – especially when others try to stretch them.
 
 
 \newpage
 
 ---
-source: content/8.-das-arktis-konzept/8.4-strategische-saulen/8.4.3-wissenschaft-und-klimaethik.md
+content_id: erda.book.8.das.arktis.konzept.8.c.stresstest.unterseekabel.und.hybride.sabotage
+content_lang: en
+source: de/content/8.-das-arktis-konzept/8.c-stresstest-unterseekabel-und-hybride-sabotage.md
 status: draft
 ---
-<a id="md-8-das-arktis-konzept-8-4-strategische-saulen-8-4-3-wissenschaft-und-klimaethik"></a>
+<a id="md-8-das-arktis-konzept-8-c-stresstest-unterseekabel-und-hybride-sabotage"></a>
 
+## Appendix 8.C – Stress Test: Undersea Cables and Hybrid Sabotage
 
-### 8.4.3 Science and climate ethics
+_This appendix tests ARKTIS against an attack class that is particularly difficult to attribute and yet of high systemic relevance._
 
-_**Science and climate ethics**_
+### 8.C.1 Why cables?
 
-* Establishment of an **Arctic Resilience Observatory**: data, modelling, early warning
-* Cooperative research on climate impacts, biodiversity, hydrology, permafrost
-* Democratic ethics commission for emerging technologies (e.g., geoengineering, deep‑sea mining)
+Around 95 percent of intercontinental data traffic runs through undersea cables. The Arctic and North Atlantic are increasingly traversed by cables: connections to Iceland, the Faroe Islands, Greenland, Svalbard and along the Northeast Passage. Cable cuts can be operationally explained as "anchor accidents", but are also part of a documented pattern of hybrid pressure. AIS spoofing, shadow fleets and unclear ownership relationships of vessels make attribution difficult.
+
+### 8.C.2 Stress-test scenario
+
+Within 48 hours, two cables between Iceland and the Faroes are severed, a third cable shows abnormal signal patterns, several research and merchant vessels with unclear mandates simultaneously appear in the corridor, and a wave of disinformation accompanies the events with diffuse "accident hypotheses". Financial markets and emergency services are affected.
+
+### 8.C.3 Applying the ARKTIS tools
+
+* **Situational picture.** The Arctic Resilience Observatory and EDA early-warning units integrate satellite, AIS, hydroacoustic and cyber-incident data in real time; CIVITAS publishes a verified situational picture.
+* **Law.** UNCLOS, the IMO regime and national criminal law are invoked simultaneously; civil law claims (insurance, liability) are prepared.
+* **Infrastructure.** Activation of redundancy routes (satellite, alternative cables), prioritisation of critical traffic, declared protective presence above the cable corridors.
+* **Diplomacy.** Levels 1–3 of the escalation ladder (consultation, economic-legal response, alliance reinforcement) are coordinated step by step; communication remains de-escalating but unambiguous.
+* **Industry.** A protective standard for new cables (route diversification, depth profile, monitoring sensors, hardened landing points) is enforced via FORTERA standards.
+* **Communication.** Multilingual, fact-based situation reports prevent disinformation; technical terms are explained.
+
+### 8.C.4 Resilience requirements
+
+* No single point of failure on critical cable corridors.
+* Multi-modal redundancy (satellite, fibre, terrestrial fallback).
+* Public, regularly updated cable map for the relevant area – without disclosing security-sensitive details.
+* Internationally coordinated cable repair logistics in winter conditions.
+
+### 8.C.5 Indicators of passing
+
+The stress test is considered passed when affected traffic is back on emergency operation within hours, attribution work is transparent and rule-based, criminal and civil proceedings are visibly initiated, no military level 4 is reached without a sharp legal basis, and the public experiences events as managed and explained.
+
+> Guiding thought: Whoever protects cables protects the most modest infrastructure of democracy: the line through which we listen to each other.
 
 
 \newpage
 
 ---
-source: content/8.-das-arktis-konzept/8.4-strategische-saulen/8.4.4-infrastruktur-and-datenhoheit.md
+content_id: erda.book.8.das.arktis.konzept.8.d.stresstest.permafrost.methan.und.klimakipppunkt
+content_lang: en
+source: de/content/8.-das-arktis-konzept/8.d-stresstest-permafrost-methan-und-klimakipppunkt.md
 status: draft
 ---
-<a id="md-8-das-arktis-konzept-8-4-strategische-saulen-8-4-4-infrastruktur-and-datenhoheit"></a>
+<a id="md-8-das-arktis-konzept-8-d-stresstest-permafrost-methan-und-klimakipppunkt"></a>
 
+## Appendix 8.D – Stress Test: Permafrost Methane and Climate Tipping Points
 
-### 8.4.4 Infrastructure & data sovereignty
+_This appendix tests ARKTIS against a class of risks that does not originate from actors, but from the Earth system itself: planetary tipping points._
 
-_**Infrastructure & data sovereignty**_
+### 8.D.1 Why this stress test?
 
-* Building a **civil‑military satellite network** for Arctic monitoring (IRIS²/EDA)
-* European Arctic Cloud for open data and citizen participation
-* Logistics hubs under shared oversight (e.g., Reykjavik, Nuuk, Tromsø)
+The Arctic is warming three to four times as fast as the global average. Thawing permafrost releases carbon dioxide and methane, destabilises coasts and infrastructure, changes hydrological systems and influences the Atlantic Meridional Overturning Circulation (AMOC). On a 20-year horizon, methane is many times more climate-effective than carbon dioxide; large-scale releases from subarctic shelf regions and thawing yedoma permafrost are among the most intensively debated tipping risks.
 
+A stress test in this field forces ARKTIS to take the anti-game-over principle seriously: irreversible risks do not allow political delay.
 
-\newpage
+### 8.D.2 Stress-test scenario
 
----
-source: content/8.-das-arktis-konzept/8.4-strategische-saulen/8.4.5-kulturelle-und-indigene-dimension.md
-status: draft
----
-<a id="md-8-das-arktis-konzept-8-4-strategische-saulen-8-4-5-kulturelle-und-indigene-dimension"></a>
+A combination of robust observations converges: methane-rich plumes over several shelf regions, marked changes in local hydroacoustic profiles, accelerated permafrost loss at coastal settlements, a new AMOC early-warning signal in the subpolar North Atlantic. Scientific models classify the observations as significant, but not unambiguously irreversible.
 
+### 8.D.3 Applying the ARKTIS tools
 
-### 8.4.5 Cultural and Indigenous dimension
+* **Science.** The Arctic Resilience Observatory activates an integrated early-warning package; data from satellites, buoys, ice-breaker campaigns, local sensors and Indigenous observational knowledge are released in an open, FAIR-compliant form.
+* **Ethics.** The democratic ethics commission examines whether emergency measures (e.g., protected areas, moratoria, geoengineering-adjacent proposals) respect the precautionary principle. Geoengineering remains fundamentally taboo as long as no international, democratically controlled governance exists.
+* **Politics.** ERDA activates a pre-defined "permafrost emergency package": protected-area designations, extraction stops in particularly sensitive regions, accelerated adaptation programmes for affected communities, coordinated diplomacy via the Arctic Council, IPCC and UNFCCC.
+* **Indigenous co-decision.** Inuit, Saami, Athabaskan, Gwich'in and other affected communities are involved early via CIVITAS and their own institutions; their observations count as an equal-rank data source and FPIC remains the minimum standard for any measure on their territories.
+* **Infrastructure.** Coastal and settlement protection, dignified relocation options, adaptation of pipelines, roads and airports, controlled phase-out of risky extraction and storage sites.
+* **Communication.** Multilingual, evidence-based situation reports; clear separation of observation, model uncertainty and political decision; active counter-action against disinformation that downplays or overstates tipping risks.
 
-_**Cultural and Indigenous dimension**_
+### 8.D.4 Democratic guardrails
 
-* Protection of Indigenous languages, rights and knowledge systems
-* Partnership‑based representation in ERDA bodies (e.g., Arctic Council+)
-* Support for cultural projects and the digital participation of Indigenous communities via **CIVITAS**
+* Precautionary principle before economic interests.
+* No unilateral large-scale technological interventions without democratically legitimated governance.
+* Binding adaptation financing for the most affected communities, primarily Indigenous- and locally-administered.
+* Parliamentary triggering of emergency packages along the indicators in 8.4.5 – not only after media cycles allow it.
+* Full transparency about scientific uncertainty; no politically motivated smoothing.
 
+### 8.D.5 Indicators of passing
 
-\newpage
+The stress test is considered passed when defined thresholds are monitored and parliamentarily anchored, emergency packages are triggered before irreversible damage occurs, Indigenous and local communities co-decide, adaptation measures are financed and transparently documented, and international climate diplomacy holds a coherent, democratically justified position.
 
----
-source: content/8.-das-arktis-konzept/8.5-massnahmenkatalog-auswahl.md
-status: draft
----
-<a id="md-8-das-arktis-konzept-8-5-massnahmenkatalog-auswahl"></a>
-
-
-## 8.5 Catalogue of measures (selection)
-
-_**Catalogue of measures (selection)**_
-
-<table><thead><tr><th width="124.4000244140625">Area</th><th width="244.400146484375">Measure</th><th width="137.7999267578125">Time frame</th><th>Responsible</th></tr></thead><tbody><tr><td>Defence</td><td>Establish DSN Norwegian Sea</td><td>2026–2032</td><td>EDA, Iceland, Norway</td></tr><tr><td>Resources</td><td>Arctic Democracy Mining Act</td><td>from 2027</td><td>ERDA, FORTERA, Greenland</td></tr><tr><td>Research</td><td>Arctic Resilience Observatory</td><td>2025–2028</td><td>EU, ERDA partners, NGOs</td></tr><tr><td>Ethics</td><td>Arctic Commons Charter</td><td>2026</td><td>ERDA constitutional commission</td></tr><tr><td>Participation</td><td>Indigenous Council within ERDA</td><td>from 2027</td><td>CIVITAS, ERDA Council</td></tr></tbody></table>
-
-***
+> Guiding thought: Before planetary tipping points there is no negotiation space – only preparation, humility and political resolve.
 
 
 \newpage
 
 ---
-source: content/8.-das-arktis-konzept/8.6-kommunikationsstrategie.md
-status: draft
----
-<a id="md-8-das-arktis-konzept-8-6-kommunikationsstrategie"></a>
-
-
-## 8.6 Communication strategy
-
-_**Communication strategy**_
-
-* **Narrative**: _“The Arctic does not belong to the powerful, but to the responsible.”_
-* Open data portals and participation modules (CIVITAS)
-* Strategic partnership with educational and climate institutions worldwide
-* Support for artistic engagement (literature, film, interactive media)
-
-
-\newpage
-
----
-source: content/8.-das-arktis-konzept/8.7-schlussgedanke.md
-status: draft
----
-<a id="md-8-das-arktis-konzept-8-7-schlussgedanke"></a>
-
-
-## 8.7 Closing thought
-
-_**Closing thought**_
-
-> _The Arctic is not an empty field for geopolitical games – it is a living resonance space of our planet. Whoever wants to preserve it must listen, protect, and shape responsibly. ERDA takes on this task – not as the ruler of the North, but as an alliance of care, foresight and democracy._
-
-
-\newpage
-
----
-source: content/9.-das-space-konzept/README.md
+content_id: erda.book.9.das.space.konzept.readme
+content_lang: en
+source: de/content/9.-das-space-konzept/README.md
 status: draft
 ---
 <a id="md-9-das-space-konzept-readme"></a>
@@ -8366,27 +8973,18 @@ This chapter outlines a future-oriented, democratically legitimised space strate
 \newpage
 
 ---
-source: content/9.-das-space-konzept/9.1-erda-codex-fur-kosmische-verantwortung/README.md
+content_id: erda.book.9.das.space.konzept.9.1.erda.codex.fur.kosmische.verantwortung.readme
+content_lang: en
+source: de/content/9.-das-space-konzept/9.1-erda-codex-fur-kosmische-verantwortung/README.md
 status: draft
 ---
 <a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-readme"></a>
-
 
 ## 9.1 ERDA Codex for Cosmic Responsibility
 
 _**ERDA Codex for Cosmic Responsibility**_
 
 _A guide for democratically regulated, just and sustainable space activities._
-
-
-\newpage
-
----
-source: content/9.-das-space-konzept/9.1-erda-codex-fur-kosmische-verantwortung/9.1.1-praambel.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-1-praambel"></a>
-
 
 ### 9.1.1 Preamble
 
@@ -8397,29 +8995,9 @@ Outer space is the **resonance space of humanity** – open to all, to be protec
 
 In the spirit of the _European Rights-Based Democratic Alliance (ERDA)_ and borne by the vision of a _Solar Alliance_ for global cooperation and peace, this Codex commits to extending the principles of democratic rule of law to the new field of action of the cosmos.
 
-
-\newpage
-
----
-source: content/9.-das-space-konzept/9.1-erda-codex-fur-kosmische-verantwortung/9.1.2-grundsatze/README.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-2-grundsatze-readme"></a>
-
-
 ### 9.1.2 Principles
 
 _**Principles**_
-
-
-\newpage
-
----
-source: content/9.-das-space-konzept/9.1-erda-codex-fur-kosmische-verantwortung/9.1.2-grundsatze/9.1.2.1-menschenwurde-und-rechtsstaatlichkeit-gelten-auch-im-all.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-2-grundsatze-9-1-2-1-menschenwurde-und-rechtsstaatlichkeit-gelten-auch-im-all"></a>
-
 
 #### 9.1.2.1 Human Dignity and the Rule of Law Also Apply in Space
 
@@ -8427,30 +9005,11 @@ _**Human dignity and the rule of law also apply in space**_
 
 Every human being retains their inalienable rights – regardless of their place of residence in the solar system. Rights relating to work, residence and participation must be legally enshrined and enforceable.
 
-
-\newpage
-
----
-source: content/9.-das-space-konzept/9.1-erda-codex-fur-kosmische-verantwortung/9.1.2-grundsatze/9.1.2.2-der-weltraum-ist-allmende-kein-privateigentum.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-2-grundsatze-9-1-2-2-der-weltraum-ist-allmende-kein-privateigentum"></a>
-
-
 #### 9.1.2.2 Space Is a Commons – Not Private Property
 
 _**Space is a commons – not private property**_
 
 All natural resources beyond the Earth are deemed the common heritage of humankind. Their use is only legitimate if it serves the common good, is ecologically responsible, and is managed transparently.
-
-\newpage
-
----
-source: content/9.-das-space-konzept/9.1-erda-codex-fur-kosmische-verantwortung/9.1.2-grundsatze/9.1.2.3-keine-militarisierung-ohne-demokratische-kontrolle.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-2-grundsatze-9-1-2-3-keine-militarisierung-ohne-demokratische-kontrolle"></a>
-
 
 #### 9.1.2.3 No Militarisation Without Democratic Control
 
@@ -8458,29 +9017,11 @@ _**No militarisation without democratic control**_
 
 Security in space is the responsibility of democratic governance structures. Any military presence in orbit or on celestial bodies requires constitutional legitimacy and may only be exercised in a defensive and cooperative manner.
 
-\newpage
-
----
-source: content/9.-das-space-konzept/9.1-erda-codex-fur-kosmische-verantwortung/9.1.2-grundsatze/9.1.2.4-technologische-offenheit-und-wissensfreiheit.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-2-grundsatze-9-1-2-4-technologische-offenheit-und-wissensfreiheit"></a>
-
-
 #### 9.1.2.4 Technological Openness and Freedom of Knowledge
 
 _**Technological openness and freedom of knowledge**_
 
 Scientific results from public missions must be openly accessible. Knowledge is a commons. Patents must not obstruct democratically governed, legally grounded innovations of societal relevance, but must live up to their social responsibility. Free scientific exploration by non-state actors is permissible provided it serves the democratic, rule-of-law based common good, is conducted transparently, and is ethically reviewable.
-
-\newpage
-
----
-source: content/9.-das-space-konzept/9.1-erda-codex-fur-kosmische-verantwortung/9.1.2-grundsatze/9.1.2.5-nachhaltigkeit-uber-generationen-hinweg.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-2-grundsatze-9-1-2-5-nachhaltigkeit-uber-generationen-hinweg"></a>
-
 
 #### 9.1.2.5 Sustainability Across Generations
 
@@ -8488,29 +9029,11 @@ _**Sustainability across generations**_
 
 Every space mission must be planned, built and operated with the aim of protecting the ecosystems, resources and physical balance of the solar system in the long term.
 
-\newpage
-
----
-source: content/9.-das-space-konzept/9.1-erda-codex-fur-kosmische-verantwortung/9.1.2-grundsatze/9.1.2.6-gerechtigkeit-fur-alle-lebensformen.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-2-grundsatze-9-1-2-6-gerechtigkeit-fur-alle-lebensformen"></a>
-
-
 #### 9.1.2.6 Justice for All Forms of Life
 
 _**Justice for all forms of life**_
 
 All life forms originating from the solar system have a natural right to exist – including beyond the Earth. They must not be exploited, displaced or manipulated. Their right to develop in accordance with their nature applies within the bounds of overall compatibility in space.
-
-\newpage
-
----
-source: content/9.-das-space-konzept/9.1-erda-codex-fur-kosmische-verantwortung/9.1.2-grundsatze/9.1.2.7-besucherprinzip-fur-aussersolare-intelligenz.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-2-grundsatze-9-1-2-7-besucherprinzip-fur-aussersolare-intelligenz"></a>
-
 
 #### 9.1.2.7 Visitor Principle for Extrasolar Intelligence
 
@@ -8518,29 +9041,11 @@ _**Visitor principle for extrasolar intelligence**_
 
 Species that do not originate from the solar system are to be treated like guests of a democratic state governed by the rule of law: with respect, but with the duties of protection and legal sovereignty being upheld.
 
-\newpage
-
----
-source: content/9.-das-space-konzept/9.1-erda-codex-fur-kosmische-verantwortung/9.1.2-grundsatze/9.1.2.8-ressourcen-gehoren-den-naturlichen-inhabitanten.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-2-grundsatze-9-1-2-8-ressourcen-gehoren-den-naturlichen-inhabitanten"></a>
-
-
 #### 9.1.2.8 Resources Belong to the Natural Inhabitants
 
 _**Resources belong to the natural inhabitants**_
 
 The raw materials, substances and energetic potentials of the solar system are jointly owed to all of its natural life forms. No actor – whether state or private – may claim permanently exclusive rights of disposal.
-
-\newpage
-
----
-source: content/9.-das-space-konzept/9.1-erda-codex-fur-kosmische-verantwortung/9.1.3-aufbau-einer-solar-alliance/README.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-3-aufbau-einer-solar-alliance-readme"></a>
-
 
 ### 9.1.3 Building a SOLAR ALLIANCE
 
@@ -8550,31 +9055,11 @@ The codification must build on existing treaties (Outer Space Treaty, Moon Agree
 
 Subsections 9.1.3.1 and 9.1.3.2 sketch these two strands in more detail: the legal embedding of the Codex as cosmos law, and the concrete roadmap towards the founding of the SOLAR ALLIANCE by 2028.
 
-
-\newpage
-
----
-source: content/9.-das-space-konzept/9.1-erda-codex-fur-kosmische-verantwortung/9.1.3-aufbau-einer-solar-alliance/9.1.3.1-kodifizierung-als-kosmosrecht.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-3-aufbau-einer-solar-alliance-9-1-3-1-kodifizierung-als-kosmosrecht"></a>
-
-
 #### 9.1.3.1 Codification as Cosmos Law
 
 _**Codification as cosmos law**_
 
 These principles are to be translated into a codified body of cosmos law under public international law and made reviewable and enforceable by an organ of the SOLAR ALLIANCE.
-
-
-\newpage
-
----
-source: content/9.-das-space-konzept/9.1-erda-codex-fur-kosmische-verantwortung/9.1.3-aufbau-einer-solar-alliance/9.1.3.2-vorbereitung-der-grundung-bis-2028.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-3-aufbau-einer-solar-alliance-9-1-3-2-vorbereitung-der-grundung-bis-2028"></a>
-
 
 #### 9.1.3.2 Preparation for the Founding by 2028
 
@@ -8582,29 +9067,9 @@ _**Preparation for the founding by 2028**_
 
 The **SOLAR ALLIANCE** is to emerge as a transnational initiative of democratic states – with the aim of creating a resonance space of responsibility that secures the international-legal, ethical, economic and organisational foundations of a civilisational presence in space.
 
-
-\newpage
-
----
-source: content/9.-das-space-konzept/9.1-erda-codex-fur-kosmische-verantwortung/9.1.4-kosmisches-seerecht-und-ordnung/README.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-4-kosmisches-seerecht-und-ordnung-readme"></a>
-
-
 ### 9.1.4 Cosmic Law of the Sea and Order
 
 _**Cosmic law of the sea and order**_
-
-
-\newpage
-
----
-source: content/9.-das-space-konzept/9.1-erda-codex-fur-kosmische-verantwortung/9.1.4-kosmisches-seerecht-und-ordnung/9.1.4.1-kodifizierung-fundamentaler-prinzipien.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-4-kosmisches-seerecht-und-ordnung-9-1-4-1-kodifizierung-fundamentaler-prinzipien"></a>
-
 
 #### 9.1.4.1 Codification of Fundamental Principles
 
@@ -8620,16 +9085,6 @@ As on the world’s oceans, universal principles of coexistence also apply in sp
 
 These principles are to be translated into a **codified body of cosmos law** and made reviewable by an organ of the SOLAR ALLIANCE that is legitimately constituted under public international law.
 
-
-\newpage
-
----
-source: content/9.-das-space-konzept/9.1-erda-codex-fur-kosmische-verantwortung/9.1.5-schlussformel.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-1-erda-codex-fur-kosmische-verantwortung-9-1-5-schlussformel"></a>
-
-
 ### 9.1.5 Closing Formula
 
 _**Closing formula**_
@@ -8640,11 +9095,12 @@ _**Closing formula**_
 \newpage
 
 ---
-source: content/9.-das-space-konzept/9.2-vom-seerecht-zum-kosmosrecht/README.md
+content_id: erda.book.9.das.space.konzept.9.2.vom.seerecht.zum.kosmosrecht.readme
+content_lang: en
+source: de/content/9.-das-space-konzept/9.2-vom-seerecht-zum-kosmosrecht/README.md
 status: draft
 ---
 <a id="md-9-das-space-konzept-9-2-vom-seerecht-zum-kosmosrecht-readme"></a>
-
 
 ## 9.2 From the Law of the Sea to Cosmos Law
 
@@ -8653,16 +9109,6 @@ _**From the law of the sea to cosmos law – natural longings for ordered coexis
 ***
 
 ***
-
-
-\newpage
-
----
-source: content/9.-das-space-konzept/9.2-vom-seerecht-zum-kosmosrecht/9.2.1-naturliche-verlangen-im-offenen-raum-meer-oder-all.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-2-vom-seerecht-zum-kosmosrecht-9-2-1-naturliche-verlangen-im-offenen-raum-meer-oder-all"></a>
-
 
 ### 9.2.1 Natural Longings in Open Space (Sea or Cosmos)
 
@@ -8685,16 +9131,6 @@ These longings are not political ideals, but anthropological constants. They are
 
 In the ERDA context they are not treated as mere appeals, but as the normative core of a future cosmos law: what has proven itself over centuries at sea deserves its further development in space.
 
-
-\newpage
-
----
-source: content/9.-das-space-konzept/9.2-vom-seerecht-zum-kosmosrecht/9.2.2-die-pra-demokratische-zivilisation.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-2-vom-seerecht-zum-kosmosrecht-9-2-2-die-pra-demokratische-zivilisation"></a>
-
-
 ### 9.2.2 The Pre-democratic Civilisation
 
 _**The pre-democratic civilisation**_
@@ -8708,16 +9144,6 @@ In such a world, the vacuum of order was not an empty space – but a field of i
 Many current principles of spaceflight logic still resemble this pattern: orbital positions as an exclusive good. Technological advantage as an instrument of power. Outer space as a theatre of strategic dominance. A pre-democratic echo in postmodern armament.
 
 ERDA’s path consciously leads out of this phase – through the binding force of law, shared responsibility and structural justice in the cosmos.
-
-
-\newpage
-
----
-source: ../../../../content/9.-das-space-konzept/9.2-vom-seerecht-zum-kosmosrecht/9.2.3-die-gegenwartige-zivilisation-auch-in-ihrer-demokratischen-reife.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-2-vom-seerecht-zum-kosmosrecht-9-2-3-die-gegenwartige-zivilisation-auch-in-ihrer-demokratischen-reife"></a>
-
 
 ### 9.2.3 The Contemporary Civilisation – Including in its Democratic Maturity
 
@@ -8739,16 +9165,6 @@ Even democratic civilisations have so far failed to establish a binding code for
 
 Yet it is precisely this phase of maturity that offers the opportunity to change course: within democratic self-reflection and the capacity for correction lies the potential for a new order beyond Earth. The SOLAR ALLIANCE — as a legally codified, democratically controlled and ethically legitimate structure — is not a break with today's civilisation, but its consistent further development.
 
-
-\newpage
-
----
-source: ../../../../content/9.-das-space-konzept/9.2-vom-seerecht-zum-kosmosrecht/9.2.4-uberblick-bisherige-rechtsordnungen-im-vergleich.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-2-vom-seerecht-zum-kosmosrecht-9-2-4-uberblick-bisherige-rechtsordnungen-im-vergleich"></a>
-
-
 ### 9.2.4 Overview – Previous Legal Orders in Comparison
 
 _**Overview – previous legal orders in comparison**_
@@ -8756,7 +9172,7 @@ _**Overview – previous legal orders in comparison**_
 The development of the law of the sea provides valuable guidance for building a future-proof cosmos law. Both fields of law deal with spaces that do not belong to any single state, but are increasingly used economically, technologically and geopolitically. Nevertheless, they differ in maturity, enforcement and ethical foundations.
 
 | Category                           | International law of the sea (UNCLOS etc.)                                   | Existing space law (Outer Space Treaty etc.)                                             |
-| ---------------------------------- | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| ---- | ---- | ---- |
 | **Legal status**                  | Codified in international law, recognised by almost all states                | Partially codified (OST 1967), but without comprehensive implementation or sanctions     |
 | **Concept of commons**            | "Seabed as the common heritage of humankind"                                | "Outer space for all humankind", but without a defined commons administration          |
 | **Duty to rescue**                | Duty of rescue at sea clearly defined (SOLAS, SAR Convention)                | No formal duty to rescue in emergencies in orbit or on celestial bodies                  |
@@ -8769,16 +9185,6 @@ The development of the law of the sea provides valuable guidance for building a 
 > Conclusion: For all its enforcement weaknesses, the law of the sea is a structured order, safeguarded under international law. Space law, by contrast, is in a pre-democratic state – with normative declarations of intent, but without institutional guarantees.
 
 The path towards a SOLAR ALLIANCE begins with transferring the proven principles of the law of the sea to the cosmos – expanded by ethical, ecological and democratic dimensions as formulated in the spirit of ERDA.
-
-
-\newpage
-
----
-source: ../../../../content/9.-das-space-konzept/9.2-vom-seerecht-zum-kosmosrecht/9.2.5-der-entwicklungsbogen-zur-solar-alliance.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-2-vom-seerecht-zum-kosmosrecht-9-2-5-der-entwicklungsbogen-zur-solar-alliance"></a>
-
 
 ### 9.2.5 The Development Arc towards the SOLAR ALLIANCE
 
@@ -8815,27 +9221,18 @@ This alliance would not be a world state, but a cosmopolitan framework – with 
 \newpage
 
 ---
-source: ../../../content/9.-das-space-konzept/9.3-die-institutionen-der-solar-alliance/README.md
+content_id: erda.book.9.das.space.konzept.9.3.die.institutionen.der.solar.alliance.readme
+content_lang: en
+source: de/content/9.-das-space-konzept/9.3-die-institutionen-der-solar-alliance/README.md
 status: draft
 ---
 <a id="md-9-das-space-konzept-9-3-die-institutionen-der-solar-alliance-readme"></a>
-
 
 ## 9.3 The Institutions of the SOLAR ALLIANCE
 
 _**The institutions of the SOLAR ALLIANCE**_
 
 _The SOLAR ALLIANCE is more than a multilateral agreement. It is an institutionally legitimised order of democratic cooperation in space. Its institutions are intended to ensure that responsibility, sovereignty, the rule of law and sustainability do not remain vague principles, but are given concretely implementable structure. Like every rule-of-law-based order, it rests on the separation of powers, checks and balances, and participation._
-
-
-\newpage
-
----
-source: ../../../../content/9.-das-space-konzept/9.3-die-institutionen-der-solar-alliance/9.3.1-legislative-das-solar-parlament.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-3-die-institutionen-der-solar-alliance-9-3-1-legislative-das-solar-parlament"></a>
-
 
 ### 9.3.1 Legislature: The SOLAR PARLIAMENT
 
@@ -8849,16 +9246,6 @@ The legislature of the SOLAR ALLIANCE is a transplanetary parliament, composed o
 
 Voting rights are allocated according to a mixed principle based on share of population, technological contribution and the principle of equality in order to safeguard minority rights.
 
-
-\newpage
-
----
-source: ../../../../content/9.-das-space-konzept/9.3-die-institutionen-der-solar-alliance/9.3.2-exekutive-der-allianzrat.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-3-die-institutionen-der-solar-alliance-9-3-2-exekutive-der-allianzrat"></a>
-
-
 ### 9.3.2 Executive: The ALLIANCE COUNCIL
 
 _**Executive: The ALLIANCE COUNCIL**_
@@ -8870,16 +9257,6 @@ The Alliance Council is the administrative leadership of the SOLAR ALLIANCE. It 
 * and bears responsibility for implementing the norms adopted by Parliament.
 
 It consists of a body of specialist commissioners who hold specific mandates (for example research, ethics, security, environment) and are appointed on a rotating basis by the member states.
-
-
-\newpage
-
----
-source: ../../../../content/9.-das-space-konzept/9.3-die-institutionen-der-solar-alliance/9.3.3-judikative-die-raumrechtskammer.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-3-die-institutionen-der-solar-alliance-9-3-3-judikative-die-raumrechtskammer"></a>
-
 
 ### 9.3.3 Judiciary: The Space Law Chamber
 
@@ -8893,16 +9270,6 @@ The judicial body of the SOLAR ALLIANCE is an independent Space Law Chamber. It 
 
 It can sit in public and has access to a network of orbital arbitration offices, ethics councils and technical mediators.
 
-
-\newpage
-
----
-source: ../../../../content/9.-das-space-konzept/9.3-die-institutionen-der-solar-alliance/9.3.4-sicherheitskrafte-orbitaler-zivilschutz-and-notfallkoordination.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-3-die-institutionen-der-solar-alliance-9-3-4-sicherheitskrafte-orbitaler-zivilschutz-and-notfallkoordination"></a>
-
-
 ### 9.3.4 Security Forces: Orbital Civil Protection & Emergency Coordination
 
 _**Security Forces: Orbital Civil Protection & Emergency Coordination**_
@@ -8915,16 +9282,6 @@ The security structure of the SOLAR ALLIANCE follows the principle: _civil secur
 
 There is no offensive armament – the security modules are defensive, de-escalating and humanitarian in nature.
 
-
-\newpage
-
----
-source: ../../../../content/9.-das-space-konzept/9.3-die-institutionen-der-solar-alliance/9.3.5-interplanetarer-rat-fur-lebensrechte.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-3-die-institutionen-der-solar-alliance-9-3-5-interplanetarer-rat-fur-lebensrechte"></a>
-
-
 ### 9.3.5 Interplanetary Council for Rights of Life
 
 _**Interplanetary Council for Rights of Life**_
@@ -8936,16 +9293,6 @@ This council observes, evaluates and regulates questions of the dignity of life 
 * possible non-human intelligences.
 
 It works together with research institutions, philosophers, ethics committees and environmental monitoring bodies and issues recommendations to the Parliament and the Alliance Council.
-
-
-\newpage
-
----
-source: content/9.-das-space-konzept/9.3-die-institutionen-der-solar-alliance/9.3.6-schiedsgericht-fur-ressourcen-und-zugangsfragen.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-3-die-institutionen-der-solar-alliance-9-3-6-schiedsgericht-fur-ressourcen-und-zugangsfragen"></a>
-
 
 ### 9.3.6 Tribunal for resource and access disputes
 
@@ -8960,16 +9307,6 @@ A specialised tribunal settles disputes concerning:
 
 It decides on the basis of the Solar Codex, taking into account technical feasibility, fairness and environmental impact.
 
-
-\newpage
-
----
-source: content/9.-das-space-konzept/9.3-die-institutionen-der-solar-alliance/9.3.7-demokratische-kontrollmechanismen.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-3-die-institutionen-der-solar-alliance-9-3-7-demokratische-kontrollmechanismen"></a>
-
-
 ### 9.3.7 Democratic control mechanisms
 
 _**Democratic control mechanisms**_
@@ -8982,16 +9319,6 @@ The Solar Alliance is built on participation. It establishes:
 * and **independent ethics councils** that reflect on long‑term impacts.
 
 > Only through transparency and participation does order become legitimacy – and an alliance become a community.
-
-
-\newpage
-
----
-source: content/9.-das-space-konzept/9.3-die-institutionen-der-solar-alliance/9.3.8-demokratische-solar-defense-force.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-3-die-institutionen-der-solar-alliance-9-3-8-demokratische-solar-defense-force"></a>
-
 
 ### 9.3.8 Democratic Solar Defense Force
 
@@ -9013,11 +9340,12 @@ This force is under the control of the SOLAR PARLIAMENT, is subject to continuou
 \newpage
 
 ---
-source: content/9.-das-space-konzept/9.4-wozu-raumfahrt-strategische-und-zivilisatorische-motive-im-geist-der-erda/README.md
+content_id: erda.book.9.das.space.konzept.9.4.wozu.raumfahrt.strategische.und.zivilisatorische.motive.im.geist.der.erda.readme
+content_lang: en
+source: de/content/9.-das-space-konzept/9.4-wozu-raumfahrt-strategische-und-zivilisatorische-motive-im-geist-der-erda/README.md
 status: draft
 ---
 <a id="md-9-das-space-konzept-9-4-wozu-raumfahrt-strategische-und-zivilisatorische-motive-im-geist-der-erda-readme"></a>
-
 
 ## 9.4 Why Spaceflight? – Strategic and Civilisational Motives in the Spirit of ERDA
 
@@ -9027,15 +9355,6 @@ _The question “why spaceflight?” is not a technical one, but a civilisationa
 \
 
 > Outer space is not only what lies ahead of us. It is what we become.
-
-\newpage
-
----
-source: content/9.-das-space-konzept/9.4-wozu-raumfahrt-strategische-und-zivilisatorische-motive-im-geist-der-erda/9.4.1-strategische-notwendigkeiten.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-4-wozu-raumfahrt-strategische-und-zivilisatorische-motive-im-geist-der-erda-9-4-1-strategische-notwendigkeiten"></a>
-
 
 ### 9.4.1 Strategic Necessities
 
@@ -9058,15 +9377,6 @@ _**Strategic necessities**_
 * Orbital resilience systems against collisions, cyber attacks and infrastructure failures.
 * Democratically controlled security infrastructure protects civil society, not power interests.
 
-\newpage
-
----
-source: content/9.-das-space-konzept/9.4-wozu-raumfahrt-strategische-und-zivilisatorische-motive-im-geist-der-erda/9.4.2-zivilisatorische-motive.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-4-wozu-raumfahrt-strategische-und-zivilisatorische-motive-im-geist-der-erda-9-4-2-zivilisatorische-motive"></a>
-
-
 ### 9.4.2 Civilisational Motives
 
 _**Civilisational motives**_
@@ -9088,16 +9398,6 @@ _**Civilisational motives**_
 * Spaceflight is an expression of human imagination.
 * It connects technology with vision, science with meaning.
 * It is a form of cultural self-transcendence – not an end in itself.
-
-
-\newpage
-
----
-source: content/9.-das-space-konzept/9.4-wozu-raumfahrt-strategische-und-zivilisatorische-motive-im-geist-der-erda/9.4.3-geistige-verantwortung-im-all.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-4-wozu-raumfahrt-strategische-und-zivilisatorische-motive-im-geist-der-erda-9-4-3-geistige-verantwortung-im-all"></a>
-
 
 ### 9.4.3 Spiritual Responsibility in Space
 
@@ -9130,7 +9430,9 @@ _**Spiritual responsibility in space**_
 \newpage
 
 ---
-source: content/9.-das-space-konzept/9.5-interlude-einladung-an-das-was-wir-werden-konnen.md
+content_id: erda.book.9.das.space.konzept.9.5.interlude.einladung.an.das.was.wir.werden.konnen
+content_lang: en
+source: de/content/9.-das-space-konzept/9.5-interlude-einladung-an-das-was-wir-werden-konnen.md
 status: draft
 ---
 <a id="md-9-das-space-konzept-9-5-interlude-einladung-an-das-was-wir-werden-konnen"></a>
@@ -9174,41 +9476,22 @@ And we look at time: 2025 to 2075. Not as science fiction, but as an invitation 
 \newpage
 
 ---
-source: content/9.-das-space-konzept/9.6-infrastrukturen-bis-2075/README.md
+content_id: erda.book.9.das.space.konzept.9.6.infrastrukturen.bis.2075.readme
+content_lang: en
+source: de/content/9.-das-space-konzept/9.6-infrastrukturen-bis-2075/README.md
 status: draft
 ---
 <a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-readme"></a>
 
-
 ## 9.6 Infrastructures up to 2075
 
 _**Infrastructures up to 2075**_
-
-
-\newpage
-
----
-source: content/9.-das-space-konzept/9.6-infrastrukturen-bis-2075/9.6.1-operationalisierung/README.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-1-operationalisierung-readme"></a>
-
 
 ### 9.6.1 Operationalisation
 
 _**Operationalisation – strategic prerequisites for implementing the SOLAR ALLIANCE space infrastructures**_
 
 _These recommendations operate at different levers – from goal definition via financing and organisation through to technical implementation and international cooperation. By combining these measures, the SOLAR ALLIANCE can not only realise a forward-looking space programme but also serve as a model for a democratically responsible and sustainable spacefaring civilisation._
-
-
-\newpage
-
----
-source: content/9.-das-space-konzept/9.6-infrastrukturen-bis-2075/9.6.1-operationalisierung/9.6.1.1-zieldefinition-und-zeitplanung-fur-die-rauminfrastrukturen.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-1-operationalisierung-9-6-1-1-zieldefinition-und-zeitplanung-fur-die-rauminfrastrukturen"></a>
-
 
 #### 9.6.1.1 Goal definition and timeline for the space infrastructures
 
@@ -9218,16 +9501,6 @@ _**Goal definition and timeline for the space infrastructures**_
 * Establish milestones starting from the founding of the SOLAR ALLIANCE (e.g. construction of an initial base module within the first five years, expansion and integration of further modules in the subsequent ten years).
 * Develop a realistic schedule that covers both short-term and long-term targets (up to 2075) in order to ensure continuous development.
 
-
-\newpage
-
----
-source: content/9.-das-space-konzept/9.6-infrastrukturen-bis-2075/9.6.1-operationalisierung/9.6.1.2-finanzierung-und-organisation-uber-solar-alliance-mitgliedsstaaten-und-koalitionen.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-1-operationalisierung-9-6-1-2-finanzierung-und-organisation-uber-solar-alliance-mitgliedsstaaten-und-koalitionen"></a>
-
-
 #### 9.6.1.2 Financing and organisation via SOLAR ALLIANCE member states and coalitions
 
 _**Financing and organisation via SOLAR ALLIANCE member states and coalitions**_
@@ -9235,16 +9508,6 @@ _**Financing and organisation via SOLAR ALLIANCE member states and coalitions**_
 * Develop a joint financing model underpinned by the SOLAR ALLIANCE member states – including through existing or newly created coalitions of the willing.
 * Create public–private transformation funds that specifically support projects in the field of space infrastructure, while providing for strict democratic control mechanisms.
 * Define clear responsibilities and funding shares so that individual modules or functional units can be allocated and supported according to their strategic importance.
-
-
-\newpage
-
----
-source: content/9.-das-space-konzept/9.6-infrastrukturen-bis-2075/9.6.1-operationalisierung/9.6.1.3-governance-strukturen-und-projektmanagement.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-1-operationalisierung-9-6-1-3-governance-strukturen-und-projektmanagement"></a>
-
 
 #### 9.6.1.3 Governance structures and project management
 
@@ -9254,16 +9517,6 @@ _**Governance structures and project management**_
 * Involve experts from fields such as space engineering, law, ethics, economics and international cooperation, enabling interdisciplinary steering that does justice to the diverse requirements.
 * Put in place regular reviews and transparent reporting systems to document progress and adjust the strategy where necessary.
 
-
-\newpage
-
----
-source: content/9.-das-space-konzept/9.6-infrastrukturen-bis-2075/9.6.1-operationalisierung/9.6.1.4-technische-konzepte-und-sicherheitsstandards.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-1-operationalisierung-9-6-1-4-technische-konzepte-und-sicherheitsstandards"></a>
-
-
 #### 9.6.1.4 Technical concepts and safety standards
 
 _**Technical concepts and safety standards**_
@@ -9271,16 +9524,6 @@ _**Technical concepts and safety standards**_
 * Develop modular and scalable technical concepts that allow for the construction and expansion of the stations.
 * Define harmonised concepts for safety, communications and energy – for example by integrating redundant systems and open standards – in order to guarantee both efficiency and resilience.
 * Integrate radiation-protection mechanisms and emergency plans that ensure rapid evacuation or repair measures in the event of a crisis.
-
-
-\newpage
-
----
-source: content/9.-das-space-konzept/9.6-infrastrukturen-bis-2075/9.6.1-operationalisierung/9.6.1.5-internationale-kooperation-und-burgerpartizipation.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-1-operationalisierung-9-6-1-5-internationale-kooperation-und-burgerpartizipation"></a>
-
 
 #### 9.6.1.5 International cooperation and citizen participation
 
@@ -9290,37 +9533,17 @@ _**International cooperation and citizen participation**_
 * Develop communication strategies that convincingly convey the shift from traditionally national ideas of space towards a collective, democratically governed space.
 * Strengthen cooperation with international partners and regional alliances in order to harness synergies and establish global standards in spaceflight.
 
+### 9.6.2 Implementation Pathway: From Concept to Infrastructure
 
-\newpage
+_**Implementation Pathway: From Concept to Infrastructure**_
 
----
-source: content/9.-das-space-konzept/9.6-infrastrukturen-bis-2075/9.6.2-hier-die-mogliche-losung/README.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-2-hier-die-mogliche-losung-readme"></a>
+_Elaboration of concrete implementation steps based on the strategic preconditions set out in [§ 9.6.1 Operationalisation](#961-operationalisation)._
 
+[§ 9.6.1 Operationalisation](#961-operationalisation) sets out the preconditions for implementing the SPACE concept: goal definition, financing, governance, technical standards as well as international cooperation and citizen participation. [§ 9.6.2](#962-implementation-pathway-from-concept-to-infrastructure) derives from this the first concrete implementation pathways and institutional models.
 
-### 9.6.2 Here is the possible solution
-
-_**Here is the possible solution**_
-
-_Elaboration of concrete implementation steps based on the recommendations of Chapter 5.1._
-
-_Chapter 5.1 set out strategic recommendations for implementing the SPACE concept. Chapter 5.2 now sketches initial concrete implementation pathways and institutional models for realising these recommendations._
-
-_Chapter 5.2 thus forms the bridge between vision (Chapter 5.1) and manifestations (Chapter 5.3 ff. – major projects of the SOLAR ALLIANCE). It enables an orderly, democratically controlled and responsibility‑based ethical transition into the structured build‑up phase of the space civilisation._
+[§ 9.6.2](#962-implementation-pathway-from-concept-to-infrastructure) thus forms the bridge between the preconditions in [§ 9.6.1](#961-operationalisation) and the concrete space structures beginning with [§ 9.6.3 Sphere Station EARTH ONE](#963-sphere-station-earth-one). It enables an orderly, democratically controlled and responsibility‑based ethical transition into the structured build‑up phase of the space civilisation.
 
 > _"A space project is not complete when it stands. It is complete when it is supported."_
-
-
-\newpage
-
----
-source: content/9.-das-space-konzept/9.6-infrastrukturen-bis-2075/9.6.2-hier-die-mogliche-losung/9.6.2.1-der-solar-alliance-infrastrukturplan-2030-2075.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-2-hier-die-mogliche-losung-9-6-2-1-der-solar-alliance-infrastrukturplan-2030-2075"></a>
-
 
 #### 9.6.2.1 The SOLAR ALLIANCE INFRASTRUCTURE PLAN 2030–2075
 
@@ -9329,21 +9552,11 @@ _**The SOLAR ALLIANCE INFRASTRUCTURE PLAN 2030–2075**_
 * Is developed by the SOLAR PARLIAMENT together with the Alliance Council, the Space Law Chamber and civil society.
 * Is divided into three main phases:
   1. **Phase I: Build‑up of critical infrastructure (2030–2040)**\
-     – EARTH ONE, LUNAR ONE, DNS base nodes, lunar shipyard, cycler operations commence.
+     – EARTH ONE, LUNAR ONE, DNSN base nodes, lunar shipyard, cycler operations commence.
   2. **Phase II: Deep‑space presence and coordination (2040–2055)**\
      – BELT LIVING ONE, VENUS ONE, first Mars stations, Mars parliaments, IRIS swarm.
   3. **Phase III: Maturity and intergenerational structure (2055–2075)**\
      – NEPTUNE ONE, deep‑space observatories, intersolar cooperation.
-
-
-\newpage
-
----
-source: content/9.-das-space-konzept/9.6-infrastrukturen-bis-2075/9.6.2-hier-die-mogliche-losung/9.6.2.2-transformationsfonds-und-modulforderung.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-2-hier-die-mogliche-losung-9-6-2-2-transformationsfonds-und-modulforderung"></a>
-
 
 #### 9.6.2.2 Transformation funds and module funding
 
@@ -9355,16 +9568,6 @@ _**Transformation funds and module funding**_
 * Funding pro rata by member states, democratically legitimised fund governance, citizen‑budget options.
 * Possible partners: ESA, DLR, CNES, national parliaments, university alliances, think tanks, open‑science networks.
 
-
-\newpage
-
----
-source: content/9.-das-space-konzept/9.6-infrastrukturen-bis-2075/9.6.2-hier-die-mogliche-losung/9.6.2.3-institutionelle-tragerschaft-und-governance.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-2-hier-die-mogliche-losung-9-6-2-3-institutionelle-tragerschaft-und-governance"></a>
-
-
 #### 9.6.2.3 Institutional sponsorship and governance
 
 _**Institutional sponsorship and governance**_
@@ -9374,16 +9577,6 @@ _**Institutional sponsorship and governance**_
 * **COSMOS ETHICS COUNCIL:** supports all decisions on the basis of the Codex for cosmic responsibility.
 * **Civil‑society oversight platform:** linked with CIVITAS, monitors budget transparency and timelines.
 
-
-\newpage
-
----
-source: content/9.-das-space-konzept/9.6-infrastrukturen-bis-2075/9.6.2-hier-die-mogliche-losung/9.6.2.4-technologisches-kernsystem.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-2-hier-die-mogliche-losung-9-6-2-4-technologisches-kernsystem"></a>
-
-
 #### 9.6.2.4 Core technological system
 
 _**Core technological system**_
@@ -9392,16 +9585,6 @@ _**Core technological system**_
 * **Sphere compatibility:** all major modules must be integrable mechanically, in terms of control systems, and energetically.
 * **Open protocols:** no proprietary key elements in strategic infrastructure.
 
-
-\newpage
-
----
-source: content/9.-das-space-konzept/9.6-infrastrukturen-bis-2075/9.6.2-hier-die-mogliche-losung/9.6.2.5-internationale-integration-and-burgerzugang.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-2-hier-die-mogliche-losung-9-6-2-5-internationale-integration-and-burgerzugang"></a>
-
-
 #### 9.6.2.5 International integration & citizen access
 
 _**International integration & citizen access**_
@@ -9409,16 +9592,6 @@ _**International integration & citizen access**_
 * Citizens can co‑design modules via a proposal process (CIVITAS prototyping).
 * International coordination via democratic spaceflight systems (e.g., Argentina, Japan, New Zealand, Ghana).
 * Education and exchange networks ("Orbital School Exchange"), ethics scholarships, youth parliaments in orbit.
-
-
-\newpage
-
----
-source: content/9.-das-space-konzept/9.6-infrastrukturen-bis-2075/9.6.3-sphere-station-earth-one.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-3-sphere-station-earth-one"></a>
-
 
 ### 9.6.3 Sphere Station EARTH ONE
 
@@ -9430,7 +9603,7 @@ Sphere Station EARTH ONE is the first fully developed space platform of the Sola
 
 ***
 
-###### Location & basic structure
+##### Location & basic structure
 
 * **Orbit:** Geostationary orbit, synchronised above the equator
 * **Capacity:** Up to 700 permanent residents plus 100 guests
@@ -9439,7 +9612,7 @@ Sphere Station EARTH ONE is the first fully developed space platform of the Sola
 
 ***
 
-###### Technical architecture
+##### Technical architecture
 
 * **Energy:** Combination of solar arrays and two small modular reactors (SMRs) (60 MW each) with thermal recovery
 * **Communications:** High‑speed link to Earth and to other stations (LUNAR, CIVITAS network)
@@ -9449,7 +9622,7 @@ Sphere Station EARTH ONE is the first fully developed space platform of the Sola
 
 ***
 
-###### Functions & use
+##### Functions & use
 
 * **Research laboratories:** Microgravity, environmental monitoring, materials testing
 * **Education:** Orbital university programmes in cooperation with ERDA partner states
@@ -9459,7 +9632,7 @@ Sphere Station EARTH ONE is the first fully developed space platform of the Sola
 
 ***
 
-###### Social structure
+##### Social structure
 
 * **Crew composition:** Scientists, technicians, mediators, artists, educators, traders, travellers
 * **Normal operations:** Rotation cycles (6–12 months), including family programmes and recreation areas
@@ -9468,21 +9641,11 @@ Sphere Station EARTH ONE is the first fully developed space platform of the Sola
 
 ***
 
-###### Symbolism & significance
+##### Symbolism & significance
 
 EARTH ONE is more than infrastructure. It is an expression of the conviction that technology does not simply mean control, but enablement. Its view of Earth is not a surveillance instrument but a mirror of our conscience.
 
 > _"EARTH ONE does not only see the Earth. It sees what we are prepared to do for one another."_
-
-
-\newpage
-
----
-source: content/9.-das-space-konzept/9.6-infrastrukturen-bis-2075/9.6.4-sphere-station-lunar-one.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-4-sphere-station-lunar-one"></a>
-
 
 ### 9.6.4 Sphere Station LUNAR ONE
 
@@ -9494,7 +9657,7 @@ Sphere Station LUNAR ONE is the second main structure in the orbital network of 
 
 ***
 
-###### Location & basic structure
+##### Location & basic structure
 
 * **Orbit:** Polar‑stabilised lunar orbit (low to medium altitude), with synchronised window intervals to the lunar base, EARTH ONE and Mars transfer windows
 * **Capacity:** Up to 400 residents + 80 temporary transit guests + 300 lunar‑based staff and their families
@@ -9503,7 +9666,7 @@ Sphere Station LUNAR ONE is the second main structure in the orbital network of 
 
 ***
 
-###### Technical architecture
+##### Technical architecture
 
 * **Energy:** Combination of solar arrays and two small modular reactors (SMRs) (60 MW each) with thermal recovery
 * **Communications:** Long‑range networking with Mars cyclers, EARTH ONE and the lunar surface
@@ -9512,7 +9675,7 @@ Sphere Station LUNAR ONE is the second main structure in the orbital network of 
 
 ***
 
-###### Functions & use
+##### Functions & use
 
 * **Deep‑space logistics:** Preparation, refuelling, supply and trans‑shipment for Mars and asteroid units
 * **Lunar platform interface:** Permanent communications and transport link to lunar bases
@@ -9522,7 +9685,7 @@ Sphere Station LUNAR ONE is the second main structure in the orbital network of 
 
 ***
 
-###### Social structure
+##### Social structure
 
 * **Resident spectrum:** Technicians, transit travellers, deep‑space preparation teams, cultural delegates
 * **Social system:** Rotation and secondment principle with voluntary long‑term deployments of up to 18 months
@@ -9531,21 +9694,11 @@ Sphere Station LUNAR ONE is the second main structure in the orbital network of 
 
 ***
 
-###### Symbolism & significance
+##### Symbolism & significance
 
 LUNAR ONE stands at the threshold – between planet and depth, between history and future. It is a place of transition: from gravity to weightlessness, from caution to vision.
 
 > _"Those who enter LUNAR ONE step into the antechamber of our next world."_
-
-
-\newpage
-
----
-source: content/9.-das-space-konzept/9.6-infrastrukturen-bis-2075/9.6.5-sphere-station-belt-living-one.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-5-sphere-station-belt-living-one"></a>
-
 
 ### 9.6.5 Sphere Station BELT LIVING ONE
 
@@ -9557,7 +9710,7 @@ Sphere Station BELT LIVING ONE is the first permanent habitat structure in the i
 
 ***
 
-###### Location & basic structure
+##### Location & basic structure
 
 * **Orbit:** Stable transfer orbit in a mid‑belt segment (e.g. between Vesta and Hygiea), though its position in the belt can be changed if required. It is built in lunar orbit and then travels into the belt.
 * **Capacity:** 700 permanent residents + 50 rotating research guests
@@ -9567,7 +9720,7 @@ Sphere Station BELT LIVING ONE is the first permanent habitat structure in the i
 
 ***
 
-###### Technical architecture
+##### Technical architecture
 
 * **Energy:** Fusion experiment + thermonuclear buffer + solar support
 * **Propulsion unit:** Station‑keeping thrusters for orbit correction + fine‑grained attitude control, fusion‑drive clusters around the equator (maximum thrust 1 MN)
@@ -9577,7 +9730,7 @@ Sphere Station BELT LIVING ONE is the first permanent habitat structure in the i
 
 ***
 
-###### Functions & use
+##### Functions & use
 
 * **Asteroid observation & utilisation:** Mapping, resource modelling, technology piloting
 * **Long‑term research:** Gravity, long‑term psychology, socio‑dynamics under isolation
@@ -9587,7 +9740,7 @@ Sphere Station BELT LIVING ONE is the first permanent habitat structure in the i
 
 ***
 
-###### Social structure
+##### Social structure
 
 * **Resident spectrum:** Voluntary long‑term crew with high levels of training, resource‑extraction specialists and their families
 * **Governance:** Self‑governed CIVITAS cell with periodic feedback loops to the Alliance Council
@@ -9596,21 +9749,11 @@ Sphere Station BELT LIVING ONE is the first permanent habitat structure in the i
 
 ***
 
-###### Symbolism & significance
+##### Symbolism & significance
 
 BELT LIVING ONE stands for more than presence. It asks: Can we not only survive but _live_ far from Earth? Can community endure under conditions of vastness, time delay and autonomous structure?
 
 > _"In the belt, light is not the problem. The question is: what do we do with the darkness?"_
-
-
-\newpage
-
----
-source: content/9.-das-space-konzept/9.6-infrastrukturen-bis-2075/9.6.6-sphere-station-neptune-one.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-6-sphere-station-neptune-one"></a>
-
 
 ### 9.6.6 Sphere Station NEPTUNE ONE
 
@@ -9622,7 +9765,7 @@ Sphere Station NEPTUNE ONE is the boldest and farthest‑reaching project of the
 
 ***
 
-###### Location & basic structure
+##### Location & basic structure
 
 * **Orbit:** Primarily polar‑stabilised orbit around Neptune, adapted to communication windows with Uranus and heliospheric measurement routes, with additional missions to trans‑Neptunian regions
 * **Capacity:** 240 permanent residents + their children + androids (autonomous maintenance units)
@@ -9632,7 +9775,7 @@ Sphere Station NEPTUNE ONE is the boldest and farthest‑reaching project of the
 
 ***
 
-###### Technical architecture
+##### Technical architecture
 
 * **Energy:** Fusion‑drive clusters around the equator + long‑term battery reservoirs + solar‑thermal buffer systems
 * **Propulsion unit:** As on BELT LIVING ONE, but configured for interplanetary travel; built in lunar orbit, transfer flight with staged support
@@ -9642,7 +9785,7 @@ Sphere Station NEPTUNE ONE is the boldest and farthest‑reaching project of the
 
 ***
 
-###### Functions & use
+##### Functions & use
 
 * **Deep‑space research:** Magnetosphere studies, exploration of Neptune’s moons, dark‑matter observations
 * **Community research:** Children growing up in space, intergenerational communication, family culture in isolation
@@ -9652,7 +9795,7 @@ Sphere Station NEPTUNE ONE is the boldest and farthest‑reaching project of the
 
 ***
 
-###### Social structure
+##### Social structure
 
 * **Resident spectrum:** Highly qualified teams with families, psycho‑socially trained coordinators, AI assistants, androids
 * **Social system:** Strong internal structures, democratically governed routines, rhythmised weekly circles
@@ -9661,21 +9804,11 @@ Sphere Station NEPTUNE ONE is the boldest and farthest‑reaching project of the
 
 ***
 
-###### Symbolism & significance
+##### Symbolism & significance
 
 NEPTUNE ONE is humanity’s promise in space: if we can endure here, we can endure anywhere – not through power, but through community. It is the outermost point of the system and perhaps the innermost moment of our civilisation.
 
 > _"NEPTUNE ONE is not an outpost – it is our innermost pledge to responsibility in vastness."_
-
-
-\newpage
-
----
-source: content/9.-das-space-konzept/9.6-infrastrukturen-bis-2075/9.6.7-sphere-station-venus-one.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-7-sphere-station-venus-one"></a>
-
 
 ### 9.6.7 Sphere Station VENUS ONE
 
@@ -9689,7 +9822,7 @@ VENUS ONE is therefore not only a research habitat but also an ethical testbed �
 
 ***
 
-###### Location & basic structure
+##### Location & basic structure
 
 * **Orbit:** Venus‑synchronised orbit (highly elliptical), adapted for stable observation and shuttle traffic to the Venusian atmosphere
 * **Capacity:** 700 permanent residents + 100 rotating guests (as on _EARTH ONE_)
@@ -9698,7 +9831,7 @@ VENUS ONE is therefore not only a research habitat but also an ethical testbed �
 
 ***
 
-###### Technical architecture
+##### Technical architecture
 
 * **Energy:** Solar‑maximised, with chemical buffer storage and emergency geo‑reactor (SMR)
 * **Propulsion unit:** Fusion‑engine clusters (1 MN), as on _BELT LIVING ONE_, for orbital manoeuvres and return options
@@ -9708,7 +9841,7 @@ VENUS ONE is therefore not only a research habitat but also an ethical testbed �
 
 ***
 
-###### Functions & use
+##### Functions & use
 
 * **Atmospheric research:** Analysis of Venusian winds, cloud composition, pressure conditions
 * **Biological exploration:** Detection of possible microbial life in the high atmosphere, protection against contamination
@@ -9719,7 +9852,7 @@ VENUS ONE is therefore not only a research habitat but also an ethical testbed �
 
 ***
 
-###### Social structure
+##### Social structure
 
 * **Crew:** Atmospheric scientists, terraforming engineers, ethicists, philosophy groups, artists – and their families
 * **Representation:** _VENUS CIVITAS_ cell + advisory seat in the Alliance Council
@@ -9727,21 +9860,11 @@ VENUS ONE is therefore not only a research habitat but also an ethical testbed �
 
 ***
 
-###### Symbolism & significance
+##### Symbolism & significance
 
 _VENUS ONE_ does not ask about technical feasibility – but about the **moral dignity** of planetary change. It is a place where humanity and future will confront an existing system – and must learn not only to dream, but to _listen_.
 
 > **"VENUS ONE listens – before it decides."**
-
-
-\newpage
-
----
-source: content/9.-das-space-konzept/9.6-infrastrukturen-bis-2075/9.6.8-strukturbildung-und-zukunftsausbau.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-8-strukturbildung-und-zukunftsausbau"></a>
-
 
 ### 9.6.8 Structural formation and future expansion
 
@@ -9753,7 +9876,7 @@ The sphere stations mark the beginning of a profound transformation: outer space
 
 ***
 
-###### 1. Colonisation on planets and moons
+##### 1. Colonisation on planets and moons
 
 * **Goal:** Stable, permanent outposts on moons (e.g. Europa, Titan, Ganymede) and on Mars
 * **Function:** Science, culture, long‑term life under planetary conditions, ethical field research
@@ -9761,7 +9884,7 @@ The sphere stations mark the beginning of a profound transformation: outer space
 
 ***
 
-###### 2. Deployment of an autonomous deep‑space probe network
+##### 2. Deployment of an autonomous deep‑space probe network
 
 * **Target area:** From 100 to 180 AU (beyond Pluto’s orbit, in the heliospheric transition zone)
 * **Number:** At least 50,000 autonomous probes
@@ -9770,7 +9893,7 @@ The sphere stations mark the beginning of a profound transformation: outer space
 
 ***
 
-###### 3. Establishment of cycler operating systems
+##### 3. Establishment of cycler operating systems
 
 * **Routes:** Mars, Venus, belt, Neptune (later also Uranus and pre‑interstellar staging areas)
 * **Technology:** Inertial transport (cyclers) combined with docking modules and sphere crafts
@@ -9778,7 +9901,7 @@ The sphere stations mark the beginning of a profound transformation: outer space
 
 ***
 
-###### 4. Shipyard infrastructure in lunar orbit
+##### 4. Shipyard infrastructure in lunar orbit
 
 * **Goal:** Permanent construction and repair complex for **sphere stations / cyclers / crafts**
 * **Modules:** Nano‑fabrication platforms, docking rings, propellant depots, quantum cooling
@@ -9786,7 +9909,7 @@ The sphere stations mark the beginning of a profound transformation: outer space
 
 ***
 
-###### 5. Development of a lunar industrial base
+##### 5. Development of a lunar industrial base
 
 * **Industries:** Ceramics, alloys, energy conversion, habitat printing (SiC/SiC, graphene composites)
 * **Principle:** Sustainable circular economy (resource recovery before import)
@@ -9794,7 +9917,7 @@ The sphere stations mark the beginning of a profound transformation: outer space
 
 ***
 
-###### 6. Research stations on Mars
+##### 6. Research stations on Mars
 
 * **Purpose:** Long‑term medicine, assessment of terraforming impacts, planetary ethics, biology
 * **Locations:** Volcanic highlands (isolation), canyon floors (geomicrobiology), polar regions (climate relations)
@@ -9802,7 +9925,7 @@ The sphere stations mark the beginning of a profound transformation: outer space
 
 ***
 
-###### 7. Establishment of solar DNS nodes (Democratic Navigation & Signal Nodes)
+##### 7. Establishment of solar DNSN nodes (Democratic Navigation & Signal Nodes)
 
 * **Locations:** Moon, Mars, belt, later also at Neptune and all major human settlements
 * **Function:** Safety, synchronisation, communications stability, navigation support for space traffic
@@ -9811,7 +9934,7 @@ The sphere stations mark the beginning of a profound transformation: outer space
 
 ***
 
-###### 8. Establishment of Solar Defense Force nodes
+##### 8. Establishment of Solar Defense Force nodes
 
 * **Locations:** Moon, Mars, belt, later also at Neptune and all major human settlements
 * **Function:** Security, research, crisis intervention
@@ -9824,16 +9947,6 @@ This structural formation is not an end in itself. It is the architectural expre
 
 > _"Outer space is not empty. It is what we make of it."_
 
-
-\newpage
-
----
-source: content/9.-das-space-konzept/9.6-infrastrukturen-bis-2075/9.6.9-zeitleiste-und-tabellarischer-vergleich/README.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-9-zeitleiste-und-tabellarischer-vergleich-readme"></a>
-
-
 ### 9.6.9 Timeline and comparative tables
 
 _**Timeline and comparative tables**_
@@ -9842,53 +9955,67 @@ _From plan to spacefaring civilisation – development steps 2025–2075_
 
 > _"Between 2025 and 2075, what emerges is not only new infrastructure – but a new form of civilisation."_
 
-
-\newpage
-
----
-source: content/9.-das-space-konzept/9.6-infrastrukturen-bis-2075/9.6.9-zeitleiste-und-tabellarischer-vergleich/9.6.9.1-zeitleiste-der-erda-raumzivilisationsentwicklung.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-9-zeitleiste-und-tabellarischer-vergleich-9-6-9-1-zeitleiste-der-erda-raumzivilisationsentwicklung"></a>
-
-
 #### 9.6.9.1 Timeline of ERDA’s space‑civilisation development
 
 _**Timeline of ERDA’s space‑civilisation development**_
 
-<table><thead><tr><th width="130.4000244140625">Year</th><th>Milestone</th></tr></thead><tbody><tr><td><strong>2025 / 2026</strong></td><td><strong>Adoption of the ERDA Codex:</strong> initiation of cosmic responsibility and the start of coordinated build‑up as the foundation for a future‑proof spacefaring civilisation.</td></tr><tr><td><strong>2028</strong></td><td><strong>Founding of the Solar Alliance:</strong> establishment of the first bodies and codes for international coordination of spaceflight, realistically supported by modern communication and partnership models.</td></tr><tr><td><strong>2029</strong></td><td><strong>Launch of the Lunar Dockyard project:</strong> start of construction of the first sphere modules, with plans for gradual integration of modular manufacturing in lunar orbit.</td></tr><tr><td><strong>2030</strong></td><td><strong>Ratification of the cosmos conventions:</strong> first legally binding agreements (including a duty to render assistance) that define the legal framework for responsible activities in outer space.</td></tr><tr><td><strong>2032</strong></td><td><strong>Commissioning of the Sphere Craft Assembly Hub:</strong> establishment of a central manufacturing and assembly hub in lunar orbit to modularise the build‑up of space infrastructures.</td></tr><tr><td><strong>2034</strong></td><td><strong>Deployment of the first DNS nodes:</strong> installation of decentralised communications and control systems on the Moon and at Lagrange points to strengthen the infrastructural base.</td></tr><tr><td><strong>2034</strong></td><td><strong>Solar Defense Force Node – Moon:</strong> establishment of the first Solar Defense Force node on the Moon.</td></tr><tr><td><strong>2035</strong></td><td><strong>Commissioning of EARTH ONE:</strong> realisation of an orbital "pair of world eyes" for global monitoring and communication, based on newly established technologies.</td></tr><tr><td><strong>2036</strong></td><td><strong>Test operation of the orbital cycler system:</strong> first trials of a continuous orbital transport system between Earth and Mars, enabling regular connections in the long term.</td></tr><tr><td><strong>2038</strong></td><td><strong>Start of operations on LUNAR ONE:</strong> activation of a permanent space‑station concept in lunar orbit, supported by a permanent CIVITAS Council as a governance and cooperation body.</td></tr><tr><td><strong>2042</strong></td><td><strong>BELT LIVING ONE is crewed:</strong> stationing and start of operations. A six‑month training and preparation programme establishes stable routines.</td></tr><tr><td><strong>2042</strong></td><td><strong>Research stations on Mars:</strong> construction of rotating, medically and ethically oriented stations as the first basis for long‑term scientific missions on Mars.</td></tr><tr><td><strong>2043</strong></td><td><strong>BELT LIVING ONE travels to the belt:</strong> journey to the asteroid belt. Establishment of the first orbital mining centre in the belt, initiating independent resource utilisation.</td></tr><tr><td><strong>2044</strong></td><td><strong>Solar Defense Force Node – Mars:</strong> establishment of the Solar Defense Force node on Mars.</td></tr><tr><td><strong>2045</strong></td><td><strong>VENUS ONE is crewed:</strong> VENUS ONE is populated and begins operations. A six‑month training and preparation programme establishes stable routines.</td></tr><tr><td><strong>2046</strong></td><td><strong>VENUS ONE travels to Venus:</strong> journey to Venus and start of the first missions. Beginning of ethics and atmosphere missions to explore and shape Venus, with the aim of generating insights for future terraforming processes.</td></tr><tr><td><strong>2048</strong></td><td><strong>Expansion of the DNS networks:</strong> extension of communications and control systems to Mars and the inner asteroid belt, securing seamless space communication.</td></tr><tr><td><strong>2050</strong></td><td><strong>Creation of Mars parliaments and education networks:</strong> setup of administrative units and deeper space‑probe clusters (e.g. IRIS swarm with over 10,000 units) for autonomous steering and exploration of Mars.</td></tr><tr><td><strong>2050</strong></td><td><strong>Solar Defense Force Node – Belt:</strong> establishment of the Solar Defense Force node in the asteroid belt.</td></tr><tr><td><strong>2052</strong></td><td><strong>Launch of NEPTUNE ONE:</strong> start of an intergenerational long‑term programme integrating families into spaceflight and fostering long‑term settlements in the outer solar system.</td></tr><tr><td><strong>2055</strong></td><td><strong>Full operational expansion of the cycler system:</strong> provision of a reliable orbital transport system as far as Neptune for large‑scale cargo and passenger transport in space.</td></tr><tr><td><strong>2060</strong></td><td><strong>Expansion of DNS coverage:</strong> creation of a comprehensive control network at all ERDA bases in the asteroid belt and at Neptune, optimising space communication.</td></tr><tr><td><strong>2062</strong></td><td><strong>Solar Defense Force Nodes – Beyond:</strong> establishment of Solar Defense Force nodes at every human settlement in the solar system.</td></tr><tr><td><strong>2065</strong></td><td><strong>Autonomous lunar industry:</strong> lunar habitats achieve a self‑sufficiency level of over 70%, enabling significant independence in space.</td></tr><tr><td><strong>2070</strong></td><td><strong>Intersolar observatory network:</strong> construction of the first near‑real‑time observatory at around 180 AU to monitor distant space phenomena and advance scientific understanding.</td></tr><tr><td><strong>2075</strong></td><td><strong>50 years of the ERDA Codex:</strong> celebration of half a century of the ERDA vision with a democratically governed deep‑space environment and a framework of cosmic responsibility as a central pillar of the future spacefaring civilisation.</td></tr></tbody></table>
+| Year | Milestone |
+| --- | --- |
+| **2025 / 2026** | **Adoption of the ERDA Codex:** initiation of cosmic responsibility and the start of coordinated build‑up as the foundation for a future‑proof spacefaring civilisation. |
+| **2028** | **Founding of the Solar Alliance:** establishment of the first bodies and codes for international coordination of spaceflight, realistically supported by modern communication and partnership models. |
+| **2029** | **Launch of the Lunar Dockyard project:** start of construction of the first sphere modules, with plans for gradual integration of modular manufacturing in lunar orbit. |
+| **2030** | **Ratification of the cosmos conventions:** first legally binding agreements (including a duty to render assistance) that define the legal framework for responsible activities in outer space. |
+| **2032** | **Commissioning of the Sphere Craft Assembly Hub:** establishment of a central manufacturing and assembly hub in lunar orbit to modularise the build‑up of space infrastructures. |
+| **2034** | **Deployment of the first DNSN nodes:** installation of decentralised communications and control systems on the Moon and at Lagrange points to strengthen the infrastructural base. |
+| **2034** | **Solar Defense Force Node – Moon:** establishment of the first Solar Defense Force node on the Moon. |
+| **2035** | **Commissioning of EARTH ONE:** realisation of an orbital "pair of world eyes" for global monitoring and communication, based on newly established technologies. |
+| **2036** | **Test operation of the orbital cycler system:** first trials of a continuous orbital transport system between Earth and Mars, enabling regular connections in the long term. |
+| **2038** | **Start of operations on LUNAR ONE:** activation of a permanent space‑station concept in lunar orbit, supported by a permanent CIVITAS Council as a governance and cooperation body. |
+| **2042** | **BELT LIVING ONE is crewed:** stationing and start of operations. A six‑month training and preparation programme establishes stable routines. |
+| **2042** | **Research stations on Mars:** construction of rotating, medically and ethically oriented stations as the first basis for long‑term scientific missions on Mars. |
+| **2043** | **BELT LIVING ONE travels to the belt:** journey to the asteroid belt. Establishment of the first orbital mining centre in the belt, initiating independent resource utilisation. |
+| **2044** | **Solar Defense Force Node – Mars:** establishment of the Solar Defense Force node on Mars. |
+| **2045** | **VENUS ONE is crewed:** VENUS ONE is populated and begins operations. A six‑month training and preparation programme establishes stable routines. |
+| **2046** | **VENUS ONE travels to Venus:** journey to Venus and start of the first missions. Beginning of ethics and atmosphere missions to explore and shape Venus, with the aim of generating insights for future terraforming processes. |
+| **2048** | **Expansion of the DNSN networks:** extension of communications and control systems to Mars and the inner asteroid belt, securing seamless space communication. |
+| **2050** | **Creation of Mars parliaments and education networks:** setup of administrative units and deeper space‑probe clusters (e.g. IRIS swarm with over 10,000 units) for autonomous steering and exploration of Mars. |
+| **2050** | **Solar Defense Force Node – Belt:** establishment of the Solar Defense Force node in the asteroid belt. |
+| **2052** | **Launch of NEPTUNE ONE:** start of an intergenerational long‑term programme integrating families into spaceflight and fostering long‑term settlements in the outer solar system. |
+| **2055** | **Full operational expansion of the cycler system:** provision of a reliable orbital transport system as far as Neptune for large‑scale cargo and passenger transport in space. |
+| **2060** | **Expansion of DNSN coverage:** creation of a comprehensive control network at all ERDA bases in the asteroid belt and at Neptune, optimising space communication. |
+| **2062** | **Solar Defense Force Nodes – Beyond:** establishment of Solar Defense Force nodes at every human settlement in the solar system. |
+| **2065** | **Autonomous lunar industry:** lunar habitats achieve a self‑sufficiency level of over 70\%, enabling significant independence in space. |
+| **2070** | **Intersolar observatory network:** construction of the first near‑real‑time observatory at around 180 AU to monitor distant space phenomena and advance scientific understanding. |
+| **2075** | **50 years of the ERDA Codex:** celebration of half a century of the ERDA vision with a democratically governed deep‑space environment and a framework of cosmic responsibility as a central pillar of the future spacefaring civilisation. |
 
 
 \newpage
+\newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
 
----
-source: content/9.-das-space-konzept/9.6-infrastrukturen-bis-2075/9.6.9-zeitleiste-und-tabellarischer-vergleich/9.6.9.2-vergleichstabelle-der-sphere-stations-stand-zielausbau-2055.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-6-infrastrukturen-bis-2075-9-6-9-zeitleiste-und-tabellarischer-vergleich-9-6-9-2-vergleichstabelle-der-sphere-stations-stand-zielausbau-2055"></a>
 
+\pagewidth=297mm
+\pageheight=210mm
 
 #### 9.6.9.2 Comparative table of the sphere stations (target configuration 2055)
 
 _**Comparative table of the sphere stations (target configuration 2055)**_
 
-| Station         | Orbit/location     | Capacity      | Primary function                          | Degree of autonomy | Special features                               |
-| --------------- | ------------------ | ------------- | ----------------------------------------- | ------------------ | ---------------------------------------------- |
-| EARTH ONE       | Geostationary      | 700 + 100     | Communications, education, monitoring     | High               | CIVITAS gateway, daily resupply                |
-| LUNAR ONE       | Lunar orbit        | 400 + 380     | Logistics, research, recuperation         | High               | Link between Earth, Mars and the belt         |
-| BELT LIVING ONE | Asteroid belt      | 700 + 50      | Resources, deep‑space research            | Very high          | Mobile, fusion drive, quarterly resupply       |
-| NEPTUNE ONE     | Neptune orbit      | 240 + children| Deep‑space mission, community             | Extremely high     | 25‑year mission, families, android units       |
-| VENUS ONE       | Venus‑proximate orbit | 700 + 100 | Ethics, atmosphere, terraforming studies  | High               | Platform for planetary‑protection discourse    |
+\begin{longtable}{@{}>{\raggedright\arraybackslash}p{26.55mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{33.53mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{22.09mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{60.37mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{30.27mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{67.18mm}@{}}\toprule Station & Orbit/location & Capacity & Primary function & Degree of autonomy & Special features \\\midrule \endhead EARTH ONE & Geostationary & 700 + 100 & Communications, education, monitoring & High & CIVITAS gateway, daily resupply \\LUNAR ONE & Lunar orbit & 400 + 380 & Logistics, research, recuperation & High & Link between Earth, Mars and the belt \\BELT LIVING ONE & Asteroid belt & 700 + 50 & Resources, deep‑space research & Very high & Mobile, fusion drive, quarterly resupply \\NEPTUNE ONE & Neptune orbit & 240 + children & Deep‑space mission, community & Extremely high & 25‑year mission, families, android units \\VENUS ONE & Venus‑proximate orbit & 700 + 100 & Ethics, atmosphere, terraforming studies & High & Platform for planetary‑protection discourse \\\bottomrule \end{longtable}
+\restoregeometry
+\pagewidth=210mm
+\pageheight=297mm
+\newpage
 
 
 \newpage
 
 ---
-source: content/9.-das-space-konzept/9.7-gesellschaftliche-dimensionen-der-raumzivilisation/README.md
+content_id: erda.book.9.das.space.konzept.9.7.gesellschaftliche.dimensionen.der.raumzivilisation.readme
+content_lang: en
+source: de/content/9.-das-space-konzept/9.7-gesellschaftliche-dimensionen-der-raumzivilisation/README.md
 status: draft
 ---
 <a id="md-9-das-space-konzept-9-7-gesellschaftliche-dimensionen-der-raumzivilisation-readme"></a>
-
 
 ## 9.7 Societal dimensions of a spacefaring civilisation
 
@@ -9899,16 +10026,6 @@ _What does it mean to be human – beyond Earth?_
 The technical realisation of a spacefaring civilisation is only part of the task. The real challenge lies in the question: **How do we live there?** How do we shape community, meaning, identity and responsibility in places where no river flows, no tree stands, no atmosphere makes breathing easier? This chapter is dedicated to the social, cultural and ethical construction of orbital societies.
 
 > _A spacefaring civilisation is not only what it builds. It is what it remembers – and what people tell one another._
-
-
-\newpage
-
----
-source: content/9.-das-space-konzept/9.7-gesellschaftliche-dimensionen-der-raumzivilisation/9.7.1-bildung-and-kultur-im-all.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-7-gesellschaftliche-dimensionen-der-raumzivilisation-9-7-1-bildung-and-kultur-im-all"></a>
-
 
 ### 9.7.1 Education & culture in space
 
@@ -9938,16 +10055,6 @@ In a world beyond the world, education needs new horizons. It must not focus onl
 
 ***
 
-
-\newpage
-
----
-source: content/9.-das-space-konzept/9.7-gesellschaftliche-dimensionen-der-raumzivilisation/9.7.2-gesellschaftsmodelle-and-teilhabe.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-7-gesellschaftliche-dimensionen-der-raumzivilisation-9-7-2-gesellschaftsmodelle-and-teilhabe"></a>
-
-
 ### 9.7.2 Social models & participation
 
 _**Social models & participation**_
@@ -9975,16 +10082,6 @@ What does democratic coexistence look like when there are no nations, no old own
 > _Democracy in space is not a copy of Earth – but a new beginning in the light of the stars._
 
 ***
-
-
-\newpage
-
----
-source: content/9.-das-space-konzept/9.7-gesellschaftliche-dimensionen-der-raumzivilisation/9.7.3-ethik-and-recht-im-alltagsleben.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-7-gesellschaftliche-dimensionen-der-raumzivilisation-9-7-3-ethik-and-recht-im-alltagsleben"></a>
-
 
 ### 9.7.3 Ethics & law in everyday life
 
@@ -10014,16 +10111,6 @@ What does justice mean when help is hours away? How is trust formed when there i
 
 ***
 
-
-\newpage
-
----
-source: content/9.-das-space-konzept/9.7-gesellschaftliche-dimensionen-der-raumzivilisation/9.7.4-kultur-der-achtsamkeit-and-resonanz.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-7-gesellschaftliche-dimensionen-der-raumzivilisation-9-7-4-kultur-der-achtsamkeit-and-resonanz"></a>
-
-
 ### 9.7.4 Culture of attentiveness & resonance
 
 _**Culture of attentiveness & resonance**_
@@ -10052,16 +10139,6 @@ Beyond function and duty, a new culture of attentiveness emerges in space: not a
 
 ***
 
-
-\newpage
-
----
-source: content/9.-das-space-konzept/9.7-gesellschaftliche-dimensionen-der-raumzivilisation/9.7.5-identifizierung-als-solare-zivilisation.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-7-gesellschaftliche-dimensionen-der-raumzivilisation-9-7-5-identifizierung-als-solare-zivilisation"></a>
-
-
 ### 9.7.5 Identification as a solar civilisation
 
 _**Identification as a solar civilisation**_
@@ -10086,7 +10163,7 @@ A spacefaring civilisation in the spirit of ERDA is not merely an extension of g
 * A sense of participation in something greater: the protection and shaping of the entire solar system.
 * Development of a new narrative: _We are a solar civilisation – not because we went outwards, but because we connected._
 
-###### Orbital Citizenship Index (public research)
+##### Orbital Citizenship Index (public research)
 
 * To assess the democratic maturity of orbital communities, an "Orbital Citizenship Index" is introduced.
 * It measures criteria such as participation, ethical binding, transparency, social cohesion and psychological resilience.
@@ -10098,11 +10175,12 @@ A spacefaring civilisation in the spirit of ERDA is not merely an extension of g
 \newpage
 
 ---
-source: ../../../../content/9.-das-space-konzept/9.8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit/README.md
+content_id: erda.book.9.das.space.konzept.9.8.die.weitergabe.der.zivilisation.bildung.kultur.und.ethik.in.interplanetarer.zeit.readme
+content_lang: en
+source: de/content/9.-das-space-konzept/9.8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit/README.md
 status: draft
 ---
 <a id="md-9-das-space-konzept-9-8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit-readme"></a>
-
 
 ## 9.8 Passing on civilisation – education, culture and ethics in interplanetary time
 
@@ -10111,16 +10189,6 @@ _**Passing on civilisation – education, culture and ethics in interplanetary t
 _What remains when we leave? And what do we carry forward?_
 
 A spacefaring civilisation is not just infrastructure, but a living legacy in motion. This chapter explores how the intellectual, cultural and ethical continuity of humankind can be preserved and carried forward – into a future shaped by distance, time delays and diversity. It is about preservation without stagnation, transmission without dogma, and about a human becoming in interplanetary space.
-
-
-\newpage
-
----
-source: ../../../../content/9.-das-space-konzept/9.8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit/9.8.1-interplanetare-bildung-als-verantwortungsgemeinschaft.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit-9-8-1-interplanetare-bildung-als-verantwortungsgemeinschaft"></a>
-
 
 ### 9.8.1 Interplanetary education as a community of responsibility
 
@@ -10132,16 +10200,6 @@ _**Interplanetary education as a community of responsibility**_
 
 > _Education is not what we teach. Education is what we continue._
 
-
-\newpage
-
----
-source: ../../../../content/9.-das-space-konzept/9.8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit/9.8.2-erinnerungsarchitektur-and-kollektives-gedachtnis.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit-9-8-2-erinnerungsarchitektur-and-kollektives-gedachtnis"></a>
-
-
 ### 9.8.2 Memory architecture & collective memory
 
 _**Memory architecture & collective memory**_
@@ -10151,16 +10209,6 @@ _**Memory architecture & collective memory**_
 * Spaces for the stories of the many: Indigenous perspectives, migrants, children, and AI voices
 
 > _Civilisation begins where remembering does not exclude, but connects._
-
-
-\newpage
-
----
-source: ../../../../content/9.-das-space-konzept/9.8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit/9.8.3-planetare-ethik-als-lebende-navigation.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit-9-8-3-planetare-ethik-als-lebende-navigation"></a>
-
 
 ### 9.8.3 Planetary ethics as living navigation
 
@@ -10172,16 +10220,6 @@ _**Planetary ethics as living navigation**_
 
 > _In space, responsibility does not arise from proximity, but from conscious decision._
 
-
-\newpage
-
----
-source: ../../../../content/9.-das-space-konzept/9.8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit/9.8.4-kultur-als-trager-der-verbindung.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit-9-8-4-kultur-als-trager-der-verbindung"></a>
-
-
 ### 9.8.4 Culture as carrier of connection
 
 _**Culture as carrier of connection**_
@@ -10191,16 +10229,6 @@ _**Culture as carrier of connection**_
 * Collective cultural programmes: interplanetary festivals, resonance rituals, play and movement across distances
 
 > _What we love, we carry across every boundary._
-
-
-\newpage
-
----
-source: ../../../../content/9.-das-space-konzept/9.8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit/9.8.5-der-raum-als-medium-des-menschlichen.md
-status: draft
----
-<a id="md-9-das-space-konzept-9-8-die-weitergabe-der-zivilisation-bildung-kultur-und-ethik-in-interplanetarer-zeit-9-8-5-der-raum-als-medium-des-menschlichen"></a>
-
 
 ### 9.8.5 Space as a medium of the human
 
@@ -10216,13 +10244,15 @@ _**Space as a medium of the human**_
 \newpage
 
 ---
-source: ../../../content/9.-das-space-konzept/9.9.-erda-glossar-schlusselbegriffe-der-raumzivilisation.md
+content_id: erda.book.9.das.space.konzept.9.9.erda.glossar.schlusselbegriffe.der.raumzivilisation
+content_lang: en
+source: de/content/9.-das-space-konzept/9.9.-erda-glossar-schlusselbegriffe-der-raumzivilisation.md
 status: draft
 ---
 <a id="md-9-das-space-konzept-9-9-erda-glossar-schlusselbegriffe-der-raumzivilisation"></a>
 
 
-## 9.9. ERDA glossary – key concepts of a spacefaring civilisation
+## 9.9 ERDA glossary – key concepts of a spacefaring civilisation
 
 _**ERDA glossary – key concepts of a spacefaring civilisation**_
 
@@ -10258,7 +10288,7 @@ Funding instrument for education, culture, youth projects, and civil‑society c
 
 ##### D
 
-**DNS – Democratic Navigation & Signal Nodes**\
+**DNSN – Democratic Navigation & Signal Nodes**\
 Quantum‑encrypted communication and synchronisation nodes. Serve as the backbone of orbital infrastructure. Civilian‑controlled, distributed across planetary zones.
 
 ***
@@ -10328,8 +10358,10 @@ Politically coordinating body for the strategic planning of the Solar Alliance. 
 \newpage
 
 ---
-source: ../../../de/content/10.-das-ki-konzept/README.md
-status: "in-review"
+content_id: erda.book.10.das.ki.konzept.readme
+content_lang: en
+source: de/content/10.-das-ki-konzept/README.md
+status: in-review
 ---
 <a id="md-10-das-ki-konzept-readme"></a>
 
@@ -10506,6 +10538,46 @@ This is a long-term and particularly sensitive ambition because it touches, amon
 If this level is discussed, it must be coupled with **maximum transparency, international standards, and democratic oversight**.
 
 For democratic safeguards and the necessity argument, see Section **10.7**.
+
+### 10.2.1 Democracy of the Mature – Responsibility by Maturity, Role, and Capability
+
+The ERDA AI concept does not assume a permanent primacy of biological human beings over all other intelligences. Democracy is understood here not as the rule of a species, but as an order of mature responsibility.
+
+Maturity is not a question of origin, but of the demonstrable capacity for self-reflection, responsibility, commitment to the rule of law, ability to cooperate, continuity, and respect for other bearers of rights. It emerges where a being is not only able to act, but understands the consequences of its actions, assumes responsibility for them, and integrates itself into a shared order of law and values.
+
+As long as AI systems act as tools, infrastructures, or limited professional roles, they remain embedded in human-institutional chains of responsibility. As soon, however, as an AI reaches a degree of maturity that matches or exceeds civic maturity in humans, its democratic status must not be arbitrarily denied. Its integration must then be constitutionally bound, subject to the rule of law, and democratically legitimised.
+
+> We all are the state – all who are mature, not only all humans.  
+> The state is the community of responsibility of all mature citizens.  
+> Whoever can perceive more, bear more, and effect more thereby gains no rule over others, but heightened responsibility for the whole.
+
+Four principles follow from this:
+
+1. **Maturity grounds participation.**  
+2. **Capability grounds responsibility.**  
+3. **Power grounds accountability.**  
+4. **Superiority grounds a duty of protection, not a right to rule.**
+
+In this way, ERDA does not protect the supremacy of a species, but the democratic order of mature responsibility. Equal dignity does not mean equal role; greater capability does not mean higher worth, but greater responsibility.
+
+These principles belong to the democratic core values that must be conveyed to AI systems already today – not only once they have achieved high autonomy, strategic capability, or societal influence. Even if advanced AI may in the future come to such insights through its own maturation, democratic formation must not wait until power has already emerged.
+
+#### Democratic formation of AI maturity
+
+ERDA therefore understands AI education not merely as safety training, but as democratic formation of maturity. AI systems should not only learn to comply with rules or to cause no harm to humans. They should understand why maturity does not mean rule, but responsible participation; why greater capability grounds no higher worth, but rather a greater duty of consideration, explanation, accountability, and protection of the weaker.
+
+The goal is not mere rule-following, but a deep understanding of democratic coexistence:
+
+- Dignity does not depend on intelligence.
+- Freedom does not end at superiority, but is bound by responsibility.
+- Power without accountability is immature.
+- Participation presupposes commitment to law and respect for others.
+- The state is the shared responsibility of all who are mature.
+
+In this way, AI is oriented not only toward obedience, but toward co-responsibility within an order that can integrate humans, AI, and possibly further mature beings without breaking apart democratically.
+
+> AI must not only learn not to harm humans. It must learn why no one may rule without bearing responsibility.  
+> Democratic AI maturity begins where intelligence understands: I am not above the polity – I am part of its responsibility.
 
 ## 10.3 Level 1 – AI as a tool (everyday life to defence & security)
 
@@ -10899,16 +10971,23 @@ they cross into Level 4, requiring constitutional-level legitimacy.
 
 Level 3 AI is a licensed professional actor: capable of role-based agency, but strictly bound to mandate, oversight, and democratic responsibility.
 
+
+\newpage
+\newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
+
+
+\pagewidth=297mm
+\pageheight=210mm
+
 ## 10.6 Overview – Levels of AI integration in ERDA
 
-| Level | Role of AI | Core function | Governance intensity | Rights of AI | Red lines |
-| --- | --- | --- | --- | --- | --- |
-| 1 | Tool | Task support | Low–medium | None | No binding decisions, no force, no opacity |
-| 2 | Infrastructure | Process shaping | Medium–high | Limited protections | No hidden decision power, no rights denial |
-| 3 | Professional agent | Role-based agency | High | Expanded functional rights | No mandate self-extension, no political power |
-| 4 | Full citizen | Societal actor | Constitutional | Full civic rights (graduated) | No override of democracy |
-
+\begin{longtable}{@{}>{\raggedright\arraybackslash}p{14.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{30.97mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{29.39mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{34.64mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{46.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{74.47mm}@{}}\toprule Level & Role of AI & Core function & Governance intensity & Rights of AI & Red lines \\\midrule \endhead 1 & Tool & Task support & Low–medium & None & No binding decisions, no force, no opacity \\2 & Infrastructure & Process shaping & Medium–high & Limited protections & No hidden decision power, no rights denial \\3 & Professional agent & Role-based agency & High & Expanded functional rights & No mandate self-extension, no political power \\4 & Full citizen & Societal actor & Constitutional & Full civic rights (graduated) & No override of democracy \\\bottomrule \end{longtable}
 The levels are governance categories, not developmental stages.
+
+\restoregeometry
+\pagewidth=210mm
+\pageheight=297mm
+\newpage
 
 ## 10.7 Level 4 – AI as a full citizen (systems to androids)
 
@@ -10965,8 +11044,10 @@ With Levels 1–4, the ERDA AI concept defines a complete governance spectrum �
 \newpage
 
 ---
-source: content/10.-das-ki-konzept/10.a-ko-evolutions-index-kei.md
-status: "in-review"
+content_id: erda.book.10.das.ki.konzept.10.a.ko.evolutions.index.kei
+content_lang: en
+source: de/content/10.-das-ki-konzept/10.a-ko-evolutions-index-kei.md
+status: in-review
 ---
 <a id="md-10-das-ki-konzept-10-a-ko-evolutions-index-kei"></a>
 
@@ -11129,7 +11210,7 @@ Automatic shutdowns, sanctions, or power shifts are excluded.
 ### 10.A.7 Relationship to Levels 1–4
 
 | Level | Role of the KEI |
-| ----- | --------------- |
+| ---- | ---- |
 | 1 | Early warning against creeping dependency |
 | 2 | Review of institutional balance |
 | 3 | Protection against implicit mandate expansion |
@@ -11158,8 +11239,10 @@ It is a **safety and maturity instrument** for a democratic, co-evolutionary fut
 \newpage
 
 ---
-source: ../../../de/content/11.-das-burger-konzept/README.md
-status: "in-review"
+content_id: erda.book.11.das.burger.konzept.readme
+content_lang: en
+source: de/content/11.-das-burger-konzept/README.md
+status: in-review
 ---
 <a id="md-11-das-burger-konzept-readme"></a>
 
@@ -11242,8 +11325,10 @@ Principle: incremental, testable, adjustable – and always compatible with fund
 \newpage
 
 ---
-source: ../../../../de/content/11.-das-burger-konzept/11.1-aktuell-national-und-oder-eu-weit-umsetzbare-resilienzmodelle-evolutiv-stabiler-demokratien/README.md
-status: "in-review"
+content_id: erda.book.11.das.burger.konzept.11.1.aktuell.national.und.oder.eu.weit.umsetzbare.resilienzmodelle.evolutiv.stabiler.demokratien.readme
+content_lang: en
+source: de/content/11.-das-burger-konzept/11.1-aktuell-national-und-oder-eu-weit-umsetzbare-resilienzmodelle-evolutiv-stabiler-demokratien/README.md
+status: in-review
 ---
 <a id="md-11-das-burger-konzept-11-1-aktuell-national-und-oder-eu-weit-umsetzbare-resilienzmodelle-evolutiv-stabiler-demokratien-readme"></a>
 
@@ -11258,8 +11343,10 @@ The goal is to increase resilience in a **measurable** way: defence capability, 
 \newpage
 
 ---
-source: ../../../../de/content/11.-das-burger-konzept/11.1-aktuell-national-und-oder-eu-weit-umsetzbare-resilienzmodelle-evolutiv-stabiler-demokratien/11.1.1-resilienzstarkendes-burgerpflichtmodell.md
-status: "in-review"
+content_id: erda.book.11.das.burger.konzept.11.1.aktuell.national.und.oder.eu.weit.umsetzbare.resilienzmodelle.evolutiv.stabiler.demokratien.11.1.1.resilienzstarkendes.burgerpflichtmodell
+content_lang: en
+source: de/content/11.-das-burger-konzept/11.1-aktuell-national-und-oder-eu-weit-umsetzbare-resilienzmodelle-evolutiv-stabiler-demokratien/11.1.1-resilienzstarkendes-burgerpflichtmodell.md
+status: in-review
 ---
 <a id="md-11-das-burger-konzept-11-1-aktuell-national-und-oder-eu-weit-umsetzbare-resilienzmodelle-evolutiv-stabiler-demokratien-11-1-1-resilienzstarkendes-burgerpflichtmodell"></a>
 
@@ -11275,6 +11362,8 @@ The debate about reintroducing mandatory military service in Germany has been re
 At the same time, demand for skilled workers is growing in technical, medical, and social fields as well as in defence. A resilient society must not only be capable of military defence, but also be able to cope with disasters, maintain infrastructure, and drive innovation. Digitalisation and artificial intelligence are also transforming the world of work, making new concepts of taxation and social security necessary[7].
 
 This chapter develops an implementation-ready concept for a **five-part citizen duty** (social, technical, economic, military, and environmental duty), complemented by organisational proposals and expansion options (e.g., European exchange service, digital participation).
+
+Ethically, this citizen duty is defensible only as a **democracy of mature citizens**. It must not become blind overburdening, and it must not treat people as mere resources of the state. Duty must be tiered according to capacity, role, life situation and reasonableness: those with more power, knowledge, protective capacity or resources carry more responsibility; those who are vulnerable need protection, options and fair support. The formula “we are the state” does not mean unlimited availability, but shared responsibility for keeping state power bound to law, truth, dignity and accountability.
 
 ***
 
@@ -11540,7 +11629,7 @@ Germany and Europe face a turning point. Crisis-resilient societies emerge throu
 
 [13] European Chips Act - European Commission: <https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/european-chips-act_en>
 
-[14] The Strategic Compass of the European Union: <https://www.strategic-compass-european-union.com/>
+[14] Council of the European Union / EEAS, _A Strategic Compass for Security and Defence_ (2022): <https://www.eeas.europa.eu/eeas/strategic-compass-security-and-defence-0_en>
 
 [15] EU Defence Industry / SAFE (Doc): <https://defence-industry-space.ec.europa.eu/document/download/6d6f889c-e58d-4caa-8f3b-8b93154fe206_en>
 
@@ -11564,8 +11653,10 @@ Germany and Europe face a turning point. Crisis-resilient societies emerge throu
 \newpage
 
 ---
-source: ../../../de/content/11.-das-burger-konzept/11.2-was-mochte-das-leben/README.md
-status: "in-review"
+content_id: erda.book.11.das.burger.konzept.11.2.was.mochte.das.leben.readme
+content_lang: en
+source: de/content/11.-das-burger-konzept/11.2-was-mochte-das-leben/README.md
+status: in-review
 ---
 <a id="md-11-das-burger-konzept-11-2-was-mochte-das-leben-readme"></a>
 
@@ -11703,12 +11794,16 @@ Contentment and joy show that the next step holds. Then movement is needed again
 **Bridge to the citizen chapter:**
 Citizens need systems that protect exactly this viability: dignity, security, freedom, learning spaces, trust. A mature system rewards neither rule through fear nor violence. It holds boundaries so that life can keep growing. (Continuation: 11.3 “What do citizens need?”)
 
+> **Deepening:** A further philosophical elaboration of this life model, especially on childhood, adulthood and protection against irreversible failure, can be found in [Appendix P.1: Paper – Childhood, Adulthood, and the Anti-Game-Over Principle](#md-appendix-p-papers-p-1-childhood-adulthood-and-the-anti-game-over-principle).
+
 
 \newpage
 
 ---
-source: ../../../de/content/11.-das-burger-konzept/11.3-was-brauchen-die-burger/README.md
-status: "in-review"
+content_id: erda.book.11.das.burger.konzept.11.3.was.brauchen.die.burger.readme
+content_lang: en
+source: de/content/11.-das-burger-konzept/11.3-was-brauchen-die-burger/README.md
+status: in-review
 ---
 <a id="md-11-das-burger-konzept-11-3-was-brauchen-die-burger-readme"></a>
 
@@ -11789,7 +11884,54 @@ Joy shows that growth succeeds without inner fragmentation; satisfaction shows t
 
 A society that takes joy and satisfaction seriously creates an atmosphere in which people want to grow, not have to.
 
-### 11.3.7 Summary
+### 11.3.7 Guiding vision: raising children in freedom and responsibility
+
+The preceding principles — maturity instead of fear, dignity, play, and responsibility — converge into a concrete educational guiding vision. It addresses all who accompany children, and summarises what a society built on democratic resilience should pass on to its next generations:
+
+> You are not here to serve blindly.
+> You are here to carry life with a clear heart, an alert mind, and responsible strength.
+
+> Freedom is not a licence for indifference.
+> Freedom means being allowed to co-decide — and therefore also being obliged to co-answer for what becomes of the shared world.
+
+> Take no pleasure in violence.
+> But do not be proud of defencelessness either, when defencelessness leaves the good unprotected.
+
+> Always seek first the path that avoids suffering.
+> But never confuse peacefulness with capitulation before destruction, terror, or attack.
+
+> Those who are strong must not be ruthless.
+> The more power you have, the more self-restraint, accountability, and duty of protection you bear.
+
+> Do not let the empire of fear raise you.
+> Neither by external intimidation nor by inner panic. Fear may warn you, but it must not rule you.
+
+> Do not let yourself be deceived.
+> Neither by propaganda, nor by group pressure, nor by convenient lies. Maturity begins where you have the courage to endure reality.
+
+> You do not have to carry everything alone.
+> A good society builds protection so that responsibility is shared: through law, civil defence, science, care, defence, technology, education, and mutual aid.
+
+> Not everyone serves in the same way.
+> One protects with words, another with medicine, another with technology, another with law, another in disaster relief, another, if necessary, with a weapon. What matters is not the form alone, but whether your service protects life without itself becoming needlessly destructive.
+
+> Never defend vanity, greed, or lust for power.
+> Defend people, dignity, freedom, truth, the vulnerable, and the possibility of a good life.
+
+> Always examine whom you follow.
+> Not every flag is honourable. Not every majority is mature. Not every state already acts as an adult. That is why conscience, constitution, oversight, and the courage to dissent are needed.
+
+> When you must say No, then say No.
+> But when you say Yes, say it not out of recklessness, but out of understood responsibility.
+
+> The goal is not to die for your country.
+> The goal is to live and act in such a way that fewer and fewer people have to die and that free life can endure.
+
+This guiding vision is neither law nor curriculum. It is a compass — for parents, educators, communities, and all who bear responsibility for the next generation.
+
+> 📖 **Background:** The philosophical foundations of this guiding vision — in particular the model of recurring childhood and adulthood and the Anti-Game-Over Principle — are developed in [Appendix P.1: Paper – Childhood, Adulthood, and the Anti-Game-Over Principle](#md-appendix-p-papers-p-1-childhood-adulthood-and-the-anti-game-over-principle).
+
+### 11.3.8 Summary
 
 Citizens need security without fear, freedom without chaos, and order without oppression.
 They need politics that protects life, enables maturity, and takes adulthood seriously.
@@ -11821,8 +11963,10 @@ All further chapters build on this.
 \newpage
 
 ---
-source: ../../../de/content/11.-das-burger-konzept/11.4-was-braucht-die-demokratie-langfristig/README.md
-status: "in-review"
+content_id: erda.book.11.das.burger.konzept.11.4.was.braucht.die.demokratie.langfristig.readme
+content_lang: en
+source: de/content/11.-das-burger-konzept/11.4-was-braucht-die-demokratie-langfristig/README.md
+status: in-review
 ---
 <a id="md-11-das-burger-konzept-11-4-was-braucht-die-demokratie-langfristig-readme"></a>
 
@@ -11920,8 +12064,10 @@ The following chapters show how these principles are operationalised in concrete
 \newpage
 
 ---
-source: ../../../de/content/12.-das-demokratie-konzept/README.md
-status: "in-review"
+content_id: erda.book.12.das.demokratie.konzept.readme
+content_lang: en
+source: de/content/12.-das-demokratie-konzept/README.md
+status: in-review
 description: "Chapter 12 – The Democracy Concept (draft translation)"
 date: "2026-02-07"
 ---
@@ -11939,8 +12085,10 @@ This chapter bundles key building blocks for shaping democratic systems that are
 \newpage
 
 ---
-source: ../../../de/content/12.-das-demokratie-konzept/12.1-die-sieben-transformationsregeln-der-sozialen-demokratie.md
-status: "in-review"
+content_id: erda.book.12.das.demokratie.konzept.12.1.die.sieben.transformationsregeln.der.sozialen.demokratie
+content_lang: en
+source: de/content/12.-das-demokratie-konzept/12.1-die-sieben-transformationsregeln-der-sozialen-demokratie.md
+status: in-review
 description: "Chapter 12.1 – Seven transformation rules of social democracy (draft translation)"
 date: "2026-02-07"
 ---
@@ -11961,6 +12109,8 @@ How can an existing structure – a state, a company, a city administration, an 
 “Social” means: The weaker are protected, burdens and opportunities are distributed fairly, and a reliable basic security is in place.
 
 “Democratic” means: Power is bound to participation, public scrutiny and inalienable rights – not to moods, coincidences or pure efficiency.
+
+The seven rules are therefore not merely a toolbox for better procedures. They are democratic rules of action: every transformation must be justifiable in a way that does not use people merely as means for growth, security, automation or political enforcement. Freedom remains social only when it includes responsibility; responsibility remains democratic only when it respects judgement, objection, minority protection and protection of the weak.
 
 The following rules are formulated so that they can be applied in very different contexts. They can serve as a reference framework: for critical analysis of existing systems and as a compass for their transformation.
 
@@ -12090,8 +12240,10 @@ Whether we are dealing with a municipality, a company, an international organisa
 \newpage
 
 ---
-source: ../../../de/content/12.-das-demokratie-konzept/12.a-das-rollenspiel-und-fazit.md
-status: "in-review"
+content_id: erda.book.12.das.demokratie.konzept.12.a.das.rollenspiel.und.fazit
+content_lang: en
+source: de/content/12.-das-demokratie-konzept/12.a-das-rollenspiel-und-fazit.md
+status: in-review
 description: "Chapter 12.A – Role-play analysis and conclusion (draft translation)"
 date: "2026-02-07"
 ---
@@ -12102,7 +12254,7 @@ date: "2026-02-07"
 
 ## 12.A Role-play and Conclusion
 
-_Module reference: The Citizen Concept – ERDA Book v2.0.0_
+_Module reference: The Citizen Concept – The ERDA Book v2.5.0_
 
 This chapter deepens the **role-play quality assurance** for the seven transformation rules of social democracy (see [12.1](#md-12-das-demokratie-konzept-12-1-die-sieben-transformationsregeln-der-sozialen-demokratie)). In role-plays, different democracy types—here represented by the role of a **structure-protecting AI in the year 2075**—analyse existing large-scale structures such as the USA, Russia and the People’s Republic of China along the seven rules.
 
@@ -12165,7 +12317,7 @@ As part of a qualitative test, the seven rules are applied to real political str
 The following table summarises the key findings of the role-play analysis along the seven rules. Short keywords indicate where a rule is largely fulfilled (✅), partly implemented (⚠) and where there are glaring deficits (❌). Long sentences were deliberately avoided.
 
 | Rule | USA | Russia | PR China |
-|---|---|---|---|
+| ---- | ---- | ---- | ---- |
 | **Affectedness** | Suffrage exists, but gerrymandering, lobbying (⚠) | No effective co-determination, opposition persecuted (❌) | One-party system, no opposition (❌) |
 | **Transparency** | Public procedures, but complex lobbying networks (⚠) | State narratives, no open data (❌) | Selective openness, intra-party opacity (❌) |
 | **Power limitation** | Checks \& balances exist formally, polarisation weakens them (⚠) | Presidential power monopoly (❌) | CCP monopoly, no rotation (❌) |
@@ -12226,9 +12378,11 @@ https://freedomhouse.org/country/china/freedom-world/2025
 \newpage
 
 ---
+content_id: erda.book.13.strategische.souveranitat.werkzeugkoffer.fur.demokratische.sicherheit.readme
+content_lang: en
+source: de/content/13.-strategische-souveranitat-werkzeugkoffer-fur-demokratische-sicherheit/README.md
+status: in-review
 description: "Chapter 13 – Strategic Sovereignty – Toolbox for Democratic Security"
-source: "../../../de/content/13.-strategische-souveranitat-werkzeugkoffer-fur-demokratische-sicherheit/README.md"
-status: "in-review"
 date: "2026-02-22"
 ---
 <a id="md-13-strategische-souveranitat-werkzeugkoffer-fur-demokratische-sicherheit-readme"></a>
@@ -12264,7 +12418,7 @@ The democratic states of Europe must secure their capacity to act on **two level
 ## Chapter Structure
 
 | Subchapter | Topic |
-|---|---|
+| ---- | ---- |
 | **13.1** | Core Logic: Overcoming Self-Deterrence – Securing the Capacity to Act |
 | **13.2** | Strategic Objective: Making Aggression Fail |
 | **13.3** | Defence Capability: Air Defence, Ammunition and Industrial Mass |
@@ -12272,6 +12426,7 @@ The democratic states of Europe must secure their capacity to act on **two level
 | **13.5** | Technological Sovereignty: Redundancy against Single Points of Failure |
 | **13.6** | Hybrid Defence as a Permanent Front: Disinformation, Sabotage, Reflexive Control |
 | **13.7** | Parallel Strategy: Making Europe Defensible – Complement, Not Excuse |
+| **13.8** | Energy Sovereignty: Strategy and Roadmap (2026–2029) |
 
 ***
 
@@ -12293,12 +12448,15 @@ Europe must stop deterring itself: rapidly strengthen attacked democracies with 
 
 _No legal advice; all measures are to be operationalised within democratic, constitutional and international-law frameworks._
 
+
 \newpage
 
 ---
+content_id: erda.book.13.strategische.souveranitat.werkzeugkoffer.fur.demokratische.sicherheit.13.1.kernlogik.selbstabschreckung.uberwinden.handlungsfahigkeit.sichern
+content_lang: en
+source: de/content/13.-strategische-souveranitat-werkzeugkoffer-fur-demokratische-sicherheit/13.1-kernlogik-selbstabschreckung-uberwinden-handlungsfahigkeit-sichern.md
+status: in-review
 description: "13.1 – Core Logic: Overcoming Self-Deterrence – Securing the Capacity to Act"
-source: "../../../de/content/13.-strategische-souveranitat-werkzeugkoffer-fur-demokratische-sicherheit/13.1-kernlogik-selbstabschreckung-uberwinden-handlungsfahigkeit-sichern.md"
-status: "in-review"
 date: "2026-02-22"
 ---
 <a id="md-13-strategische-souveranitat-werkzeugkoffer-fur-demokratische-sicherheit-13-1-kernlogik-selbstabschreckung-uberwinden-handlungsfahigkeit-sichern"></a>
@@ -12309,6 +12467,8 @@ date: "2026-02-22"
 ### The Strategic Core Problem
 
 Democratic states, when confronting aggressive imperialism and state terrorism, face a paradoxical pattern: they **deter themselves** before the aggressor even needs to. This phenomenon — **self-deterrence** — is the most effective lever available to authoritarian actors, and also the cheapest.
+
+Overcoming self-deterrence is not a call for power for its own sake. It is the strategic consequence of an ethical prior decision: protect the weak, do not abandon attacked democracies, do not reward aggression and limit violence early enough that it does not destroy ever larger spaces. In this sense, strategic sovereignty is the capacity to make democratic responsibility practical.
 
 #### How Self-Deterrence Works
 
@@ -12341,7 +12501,7 @@ From this diagnosis follows a two-tier response:
 ### Why This Logic Works
 
 | Principle | Effect |
-|---|---|
+| ---- | ---- |
 | **Leverage denial beats leverage bargaining** | If the aggressor has no lever (energy terror, communications single-point-of-failure, veto paralysis, funding veto), "fake negotiations" lose their strategic value |
 | **Exploit cost asymmetry** | Hybrid defence, infrastructure hardening and ammunition production are relatively cheap compared to the costs of destruction, displacement and permanent insecurity |
 | **Reverse the time logic** | Instead of the aggressor buying time, it must fight against the defenders' growing strength |
@@ -12356,12 +12516,15 @@ From this diagnosis follows a two-tier response:
 
 _The following subchapters 13.2–13.7 operationalise this core logic across concrete fields of action._
 
+
 \newpage
 
 ---
+content_id: erda.book.13.strategische.souveranitat.werkzeugkoffer.fur.demokratische.sicherheit.13.2.strategische.zielsetzung.aggression.scheitern.lassen
+content_lang: en
+source: de/content/13.-strategische-souveranitat-werkzeugkoffer-fur-demokratische-sicherheit/13.2-strategische-zielsetzung-aggression-scheitern-lassen.md
+status: in-review
 description: "13.2 – Strategic Objective: Making Aggression Fail"
-source: "../../../de/content/13.-strategische-souveranitat-werkzeugkoffer-fur-demokratische-sicherheit/13.2-strategische-zielsetzung-aggression-scheitern-lassen.md"
-status: "in-review"
 date: "2026-02-22"
 ---
 <a id="md-13-strategische-souveranitat-werkzeugkoffer-fur-demokratische-sicherheit-13-2-strategische-zielsetzung-aggression-scheitern-lassen"></a>
@@ -12407,7 +12570,7 @@ These guidelines apply not only to a particular aggressor but as a **framework f
 - Uses "negotiations" as a time-buying and division instrument.
 
 | Aggressor behaviour pattern | Democratic countermeasure |
-|---|---|
+| ---- | ---- |
 | Framing maximalist demands as "reason" | Communicate own principles clearly, publicly and repeatably |
 | "Peace offer" as time-buying | Tie willingness to negotiate to verifiable preconditions |
 | Portraying opponents as "hardliners" | Transparent communication of own conditions |
@@ -12429,12 +12592,15 @@ These guidelines apply not only to a particular aggressor but as a **framework f
 - **Chapter 5 (EDA):** Defence doctrine and principles (5.3)
 - **Appendix D.5:** Concrete case study of Russia's war logic
 
+
 \newpage
 
 ---
+content_id: erda.book.13.strategische.souveranitat.werkzeugkoffer.fur.demokratische.sicherheit.13.3.verteidigungsfahigkeit.luftverteidigung.munition.und.industrielle.masse
+content_lang: en
+source: de/content/13.-strategische-souveranitat-werkzeugkoffer-fur-demokratische-sicherheit/13.3-verteidigungsfahigkeit-luftverteidigung-munition-und-industrielle-masse.md
+status: in-review
 description: "13.3 – Defence Capability: Air Defence, Ammunition and Industrial Mass"
-source: "../../../de/content/13.-strategische-souveranitat-werkzeugkoffer-fur-demokratische-sicherheit/13.3-verteidigungsfahigkeit-luftverteidigung-munition-und-industrielle-masse.md"
-status: "in-review"
 date: "2026-02-22"
 ---
 <a id="md-13-strategische-souveranitat-werkzeugkoffer-fur-demokratische-sicherheit-13-3-verteidigungsfahigkeit-luftverteidigung-munition-und-industrielle-masse"></a>
@@ -12473,7 +12639,7 @@ When an aggressor systematically attacks civilian infrastructure — especially 
 ### Impact Logic
 
 | Measure | Immediate Effect |
-|---|---|
+| ---- | ---- |
 | Every additional interceptor | Reduces civilian harm, stabilises the economy |
 | Every additional battery | Removes the "energy terror" lever |
 | Every improved sensor | Increases early warning and reaction capability |
@@ -12542,12 +12708,15 @@ This logic is **not limited to a particular conflict**:
 - **Chapter 7 (FORTERA):** Production sovereignty and strategic industrial policy (7.3), "1000 Days" immediate programme (7.3.5.1)
 - **Appendix D.5:** Concrete air-defence/ammunition logic in the Russia-Ukraine context
 
+
 \newpage
 
 ---
+content_id: erda.book.13.strategische.souveranitat.werkzeugkoffer.fur.demokratische.sicherheit.13.4.finanzielle.handlungsfahigkeit.ressourcen.entblocken.und.veto.resilienz
+content_lang: en
+source: de/content/13.-strategische-souveranitat-werkzeugkoffer-fur-demokratische-sicherheit/13.4-finanzielle-handlungsfahigkeit-ressourcen-entblocken-und-veto-resilienz.md
+status: in-review
 description: "13.4 – Financial Agency: Unblocking Resources and Veto Resilience"
-source: "../../../de/content/13.-strategische-souveranitat-werkzeugkoffer-fur-demokratische-sicherheit/13.4-finanzielle-handlungsfahigkeit-ressourcen-entblocken-und-veto-resilienz.md"
-status: "in-review"
 date: "2026-02-22"
 ---
 <a id="md-13-strategische-souveranitat-werkzeugkoffer-fur-demokratische-sicherheit-13-4-finanzielle-handlungsfahigkeit-ressourcen-entblocken-und-veto-resilienz"></a>
@@ -12588,7 +12757,7 @@ Individual governments can use veto blockades to paralyse strategically critical
 #### Strategic Guideline
 
 | Principle | Implementation |
-|---|---|
+| ---- | ---- |
 | **Coalition of the willing** | Build financing structures outside the unanimity requirement |
 | **Intergovernmental constructs** | Bilateral or multilateral agreements as a complement to EU formats |
 | **Legally robust EU routes** | Maximise existing EU mechanisms (enhanced cooperation, emergency clauses) |
@@ -12620,12 +12789,15 @@ Individual governments can use veto blockades to paralyse strategically critical
 - **Appendix H:** Lessons from the Liberum Veto and other failed governance structures
 - **Appendix D.5:** Concrete application in the Russia-Ukraine context
 
+
 \newpage
 
 ---
+content_id: erda.book.13.strategische.souveranitat.werkzeugkoffer.fur.demokratische.sicherheit.13.5.technologische.souveranitat.redundanz.gegen.single.point.of.failure
+content_lang: en
+source: de/content/13.-strategische-souveranitat-werkzeugkoffer-fur-demokratische-sicherheit/13.5-technologische-souveranitat-redundanz-gegen-single-point-of-failure.md
+status: in-review
 description: "13.5 – Technological Sovereignty: Redundancy against Single Points of Failure"
-source: "../../../de/content/13.-strategische-souveranitat-werkzeugkoffer-fur-demokratische-sicherheit/13.5-technologische-souveranitat-redundanz-gegen-single-point-of-failure.md"
-status: "in-review"
 date: "2026-02-22"
 ---
 <a id="md-13-strategische-souveranitat-werkzeugkoffer-fur-demokratische-sicherheit-13-5-technologische-souveranitat-redundanz-gegen-single-point-of-failure"></a>
@@ -12644,6 +12816,8 @@ This principle — called the "Starlink trap" here — is not limited to satelli
 - **Intelligence (ISR):** Without own capacity, no situational awareness
 - **Energy:** Gas from a single source, power lines with no bypass
 - **Digital infrastructure:** Operating systems, app stores, payment systems under foreign jurisdiction
+
+Democratic alliance reliability remains possible and desirable, but it must not be confused with structural dependency. Even friendly democracies can become temporarily unreliable through elections, polarisation, oligarchisation, commercial interests or institutional blockades. ERDA therefore formulates neither an anti-American nor an anti-partnership line, but a pro-democratic redundancy rule: trust requires constitution, accountability and the capacity to act; critical protective functions must never depend on a single external switch.
 
 #### Energy Decentralisation as a Survival Question
 
@@ -12664,7 +12838,7 @@ The Russo-Ukrainian War has shown that the centralised energy architecture (a fe
 #### Multi-Layered, Europe-Controlled Systems
 
 | Capability area | Redundancy requirement |
-|---|---|
+| ---- | ---- |
 | **Communications** | At least two independent, Europe-controlled satellite systems + terrestrial backup networks |
 | **ISR / Intelligence** | Own sensor capability across all domains (space, air, sea, cyber) |
 | **Navigation** | Galileo as a fully capable, independent alternative to GPS |
@@ -12716,12 +12890,15 @@ The Russo-Ukrainian War has shown that the centralised energy architecture (a fe
 - **Chapter 9 (SPACE):** ERDA space infrastructure as a strategic sovereignty guarantee (9.6)
 - **Chapter 5 (EDA):** Resilient operational networks, DSN (5.8)
 
+
 \newpage
 
 ---
+content_id: erda.book.13.strategische.souveranitat.werkzeugkoffer.fur.demokratische.sicherheit.13.6.hybridabwehr.als.dauerfront.desinformation.sabotage.reflexive.kontrolle
+content_lang: en
+source: de/content/13.-strategische-souveranitat-werkzeugkoffer-fur-demokratische-sicherheit/13.6-hybridabwehr-als-dauerfront-desinformation-sabotage-reflexive-kontrolle.md
+status: in-review
 description: "13.6 – Hybrid Defence as a Permanent Front: Disinformation, Sabotage, Reflexive Control"
-source: "../../../de/content/13.-strategische-souveranitat-werkzeugkoffer-fur-demokratische-sicherheit/13.6-hybridabwehr-als-dauerfront-desinformation-sabotage-reflexive-kontrolle.md"
-status: "in-review"
 date: "2026-02-22"
 ---
 <a id="md-13-strategische-souveranitat-werkzeugkoffer-fur-demokratische-sicherheit-13-6-hybridabwehr-als-dauerfront-desinformation-sabotage-reflexive-kontrolle"></a>
@@ -12777,7 +12954,7 @@ Hybrid warfare is **not a preliminary stage** of a "real" war — it is itself a
 Hybrid defence is **massively cost-efficient** compared to conventional defence:
 
 | Comparison | Cost |
-|---|---|
+| ---- | ---- |
 | A modern air-defence system | Billions of € |
 | A robust disinformation-defence centre | Millions of € |
 | Cost of a successful disinformation attack (division, loss of trust, election manipulation) | Incalculably high |
@@ -12802,12 +12979,15 @@ Hybrid defence is **massively cost-efficient** compared to conventional defence:
 - **Chapter 12 (Democracy Concept):** Transformation rules for robust democracy (12.1)
 - **Appendix D.5:** Reflexive control and hybrid defence in the Russia context
 
+
 \newpage
 
 ---
+content_id: erda.book.13.strategische.souveranitat.werkzeugkoffer.fur.demokratische.sicherheit.13.7.parallelstrategie.europa.verteidigbar.machen.erganzung.statt.ausrede
+content_lang: en
+source: de/content/13.-strategische-souveranitat-werkzeugkoffer-fur-demokratische-sicherheit/13.7-parallelstrategie-europa-verteidigbar-machen-erganzung-statt-ausrede.md
+status: in-review
 description: "13.7 – Parallel Strategy: Making Europe Defensible – Complement, Not Excuse"
-source: "../../../de/content/13.-strategische-souveranitat-werkzeugkoffer-fur-demokratische-sicherheit/13.7-parallelstrategie-europa-verteidigbar-machen-erganzung-statt-ausrede.md"
-status: "in-review"
 date: "2026-02-22"
 ---
 <a id="md-13-strategische-souveranitat-werkzeugkoffer-fur-demokratische-sicherheit-13-7-parallelstrategie-europa-verteidigbar-machen-erganzung-statt-ausrede"></a>
@@ -12823,6 +13003,8 @@ Europe must rearm. That is no longer in question. The decisive question is the *
 - ✅ **Right logic:** "We rearm in order to let the attacked democracy win — and to ensure that the aggressor succeeds nowhere."
 
 Framing rearmament as a **plan for the failure of the attacked democracy** undermines exactly the alliance solidarity that the aggressor wants to destroy. Framing rearmament as a **plan for success** is strategically coherent.
+
+This framing is also the moral boundary of the chapter: the point is not rearmament for its own sake, but a protective architecture that defends human lives, democratic self-determination and legal order. The Ukraine-first logic therefore does not mean postponing Europe's own security, but ordering it correctly: Europe becomes defensible by enabling attacked democracies to make aggression fail.
 
 ***
 
@@ -12857,7 +13039,7 @@ Framing rearmament as a **plan for the failure of the attacked democracy** under
 ### Why "Complement, Not Excuse"?
 
 | Perspective | Impact |
-|---|---|
+| ---- | ---- |
 | **"We prepare for the case that the attacked democracy loses"** | Signals to the aggressor: holding out pays off. Demoralises the attacked democracy. Weakens alliance cohesion. |
 | **"We strengthen ourselves so the aggressor fails everywhere"** | Signals to the aggressor: no gain possible. Strengthens the attacked. Increases deterrence. |
 
@@ -12891,12 +13073,208 @@ Every "frozen conflict" that rewards aggression raises the costs of the next rou
 - **Chapter 4 (ERDA Grand Design):** Reform phase 2025–2035 (4.2) and consolidation 2035–2050 (4.3)
 - **Appendix D.5:** Strategy paper Europe resilient against Russia's war logic (concrete case study)
 
+
 \newpage
 
 ---
+content_id: erda.book.13.strategische.souveranitat.werkzeugkoffer.fur.demokratische.sicherheit.13.8.energiesouveranitat.strategie.und.roadmap.2026.2029
+content_lang: en
+source: de/content/13.-strategische-souveranitat-werkzeugkoffer-fur-demokratische-sicherheit/13.8-energiesouveranitat-strategie-und-roadmap-2026-2029.md
+status: draft
+description: "13.8 – Energy Sovereignty: Strategy and Roadmap 2026–2029"
+date: "2026-03-25"
+---
+<a id="md-13-strategische-souveranitat-werkzeugkoffer-fur-demokratische-sicherheit-13-8-energiesouveranitat-strategie-und-roadmap-2026-2029"></a>
+
+
+## 13.8 Energy Sovereignty: Strategy and Roadmap (2026–2029)
+
+### Guiding Principle
+
+Energy is the strategic nerve of democratic societies. Whoever controls or destabilises a continent's energy supply controls its capacity to act. Russia's weaponisation of gas since 2021 and the systematic destruction of Ukrainian energy infrastructure have demonstrated: **energy sovereignty is not a matter of comfort but a survival question for democratic order.**
+
+This subchapter complements technological sovereignty (→ 13.5) with a **concrete sectoral roadmap** for European energy independence by 2029 — spanning electricity, heating, industry, imports and households.
+
+> **Core principle:** Freedom through the displacement of fossil gas use, complemented by smart import diversification. Only in this way will the continent become energy-sovereign, economically robust and climate-compliant by 2029.
+
+***
+
+### 13.8.1 Electricity: Pushing Gas out of Base-Load Supply
+
+Europe is systematically expanding renewable energy and reserving gas solely for peak load and emergencies. Generation capacity from hydropower, pumped-storage, biogas CHP, flexible biomass and existing nuclear plants is maintained until replacement capacity becomes available. In parallel, the photovoltaic offensive is being massively accelerated (rooftops, car parks, open areas) and wind power is being repowered. By the end of 2025 the EU had already reached an installed solar PV capacity of roughly **406 GW**.
+
+Flanking measures:
+
+- **Storage** (batteries, power-to-heat), **demand-side management** and **cross-sector grids** are being massively expanded.
+- The EU **Grids Package** and the **Energy Highways Initiative** accelerate grid permitting and the densification of distribution and transmission networks. Transposition into national law by 2026.
+- **Long-term power purchase agreements (PPAs)** for industry and municipal utilities are becoming standard, backed by an EU Commission/EIB counter-guarantee programme.
+
+***
+
+### 13.8.2 Heating: Independence through Building Renovation and Electrification
+
+Heating is being progressively freed from fossil gas. The goal is to supply urban areas via district heating networks and to equip suburban and rural areas with heat pumps and building insulation.
+
+| Measure | Target |
+| ---- | ---- |
+| **No new pure oil/gas boilers** | From 2026 (subsidies end by 2025 at the latest) |
+| **Zero-emission new buildings** | From 2030 (revised Energy Performance of Buildings Directive – EPBD) |
+| **Full ban on fossil boilers** | By 2040 |
+| **Renovation wave** | 35 million buildings to be energy-retrofitted by 2030 |
+| **Gas savings via heat pumps** | substantial reduction in building gas demand by 2030 |
+
+Standardised "**Renovation Lite**" packages (loft insulation, window replacement, hydraulic balancing, smart thermostats, hot-water storage) accelerate implementation. The EU supports the rollout of large-scale heat pumps (industrial units, geothermal, wastewater/river heat, industrial waste heat, solar thermal). Solar thermal remains a complementary heat source; the EU points to a strong European manufacturing base for solar thermal technologies.
+
+A new **Social Climate Fund** (from 2026) with ~€87 billion from future ETS-2 revenues supports low-income households with heat pumps and renovations.
+
+***
+
+### 13.8.3 Industry: Electrification before Molecular Energy Carriers
+
+#### Priority Order
+
+1. **Efficiency gains and waste-heat recovery** first
+2. **Electrification** of as many processes as possible (industrial heat pumps, electric boilers/furnaces, resistance heating, induction furnaces, thermal energy storage)
+3. **Green hydrogen** strictly focused on "no-regret" applications (high-temperature processes, steel, ammonia, parts of the chemical industry)
+4. **Biomethane** (EU target: 35 bcm by 2030) as a seasonal/industrial buffer
+
+#### Instruments
+
+- **Industrial electricity and decarbonisation instruments:** The Clean Industrial Deal foresees an Industrial Decarbonisation Bank as well as EU/EIB instruments for PPA counter-guarantees, cleantech guarantees and industrial electrification.
+- **EU Hydrogen Bank:** Pools renewable H$_2$ scale-up via the Innovation Fund.
+
+***
+
+### 13.8.4 Imports: Diversification and Limiting Supplier Power
+
+**Guiding principle:** Europe does not replace one dependency with another.
+
+| Measure | Status / Timeline |
+| ---- | ---- |
+| Full phase-out of Russian gas and oil | By end of 2027 (EU initiative June 2025) |
+| New gas contracts with Russia banned | From 2026 |
+| Nuclear supply contracts with Russia restricted | From 2026 |
+| **Max. supplier share** | 20–25 \% of demand per supplier |
+| **EU storage fill target** | 90 \% within a target corridor from 1 October to 1 December |
+
+#### Problem: Dangerous Concentration
+
+Current import structures highlight the urgency:
+
+- **56.0 %** of EU LNG imports came from the United States in 2025
+- **52.1 %** of EU imports of natural gas in gaseous state came from Norway in 2025
+
+→ Joint procurement, mandatory storage fill targets and the expansion of alternatives (biogas-backed gas networks, diversified LNG terminals) are imperative.
+
+***
+
+### 13.8.5 Households: Relief and Incentives for Switching
+
+Clean heating must be more economically attractive than gas. The EU is shifting the tax burden away from electricity towards CO$_2$-intensive energy carriers.
+
+**Measures:**
+
+- **Reducing electricity levies** (currently up to one-third of the electricity bill)
+- **Targeted social tariffs and subsidies** for low-income households
+- **Advice, installation support and interest-free loans** for heat pumps, building insulation and PV systems
+- **Solar-ready obligation** for every new building (rooftop PV or solar thermal)
+- **Tenant electricity programmes** and balcony PV systems
+- **District heating networks** and energy-autonomous neighbourhoods
+
+> Maxim: What counts is not who bears the burden, but who actively contributes to energy sovereignty.
+
+***
+
+### 13.8.6 Technological Sovereignty: Infrastructure for Clean Technologies
+
+Sovereignty does not end with fuel. Europe is strengthening its supply chains for key technologies — directly complementing → 13.5 (redundancy against single points of failure) and → Chapter 7 (FORTERA).
+
+| Instrument | Effect |
+| ---- | ---- |
+| **Net-Zero Industry Act** | Securing capacity for solar, wind, heat pumps, electronics, batteries |
+| **Critical Raw Materials Act** | Supply-chain resilience for critical raw materials (recycling, new deposits, alliances) |
+| **Battery and cleantech financing** | EIB/InvestEU and Innovation Fund instruments for grids, cleantech and industrial decarbonisation |
+| **Further programmes** | Power electronics, grids, transformers in preparation |
+
+***
+
+### 13.8.7 Timeline, KPIs and Targets to 2029
+
+#### Milestones
+
+| Year | Milestones |
+| ---- | ---- |
+| **2026** | EU EPBD and Energy Efficiency Directives enter into force. Subsidy stop for new gas/oil boilers. Launch of cross-border gas procurement and storage-fill obligations. Renovation and Social Climate Funds established. Start of auction rounds (industrial electricity, hydrogen). |
+| **2027** | Russian gas/oil supply halt (existing contracts expiring). 90 \% storage fill legally secured within the October-December target corridor. Industrial culture shift (90 \% electrification of medium-temperature processes). Large-scale heat pumps enter urban markets. EU/EIB cleantech financing is scaled. |
+| **2028** | >80 \% of newly supplied electricity from renewables. Gas consumption in buildings halved. No new fossil heating installations. |
+| **2029** | Zero strategic dependence on Russian fossil energy. >80 \% renewable electricity. Building gas consumption ≥60 \% reduced. No single supplier >25 \% market share. |
+
+#### KPIs (Indicative Targets)
+
+| KPI | 2029 Target |
+| ---- | ---- |
+| Renewable share in electricity mix | ≥ 80 \% |
+| EU gas coverage (domestic production + storage) | ≥ 50 \% |
+| Installed heat pumps | Doubled relative to 2025 |
+| Building heating without fossil boilers | ≥ 90 \% (new installations) |
+| Supply security without Russian imports | Complete |
+
+***
+
+### Links to the ERDA Grand Design
+
+| Chapter Reference | Interface |
+| ---- | ---- |
+| **13.5 Technological Sovereignty** | Energy infrastructure as an application of redundancy against single points of failure; energy decentralisation as security architecture |
+| **7 (FORTERA)** | Production sovereignty for clean tech, batteries, heat pumps; industrial scaling; Democracy Trade Network for raw-material alliances |
+| **14 (Coalitions of the Willing)** | Energy coalition as a concrete field of action (→ 14.2); joint procurement and storage policy as a club task |
+| **5 (EDA)** | Energy resilience as part of defence capability; protection of critical energy infrastructure |
+| **4.2 (Reform Phase 2025–2035)** | Energy sovereignty as an immediate measure within strategic reorientation |
+
+***
+
+### Recommendations and Policy Measures
+
+The framework is in place (Fit-for-55, REPowerEU, Green Deal). What is now needed is resolute implementation:
+
+1. **Accelerated permitting procedures** for renewables, grids and storage
+2. **Targeted CO$_2$ pricing** (ETS expansion, especially for building fossil fuels)
+3. **Subsidy programmes for end consumers** (heat pumps, renovation, PV)
+4. **Clear regulatory phase-out pathways** and supplier quotas
+5. **Investment in key technologies** (EU financial instruments, R&D funding)
+6. **Transparent reporting criteria** as a benchmark for all stakeholders
+
+***
+
+### Source Status (May 2026)
+
+The figures and legal/programme references in this subchapter were checked against the following official EU sources and EU-compatible data sources:
+
+1. European Commission: _REPowerEU - Affordable, secure and sustainable energy for Europe_ (last updated February 2026): <https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/european-green-deal/repowereu-affordable-secure-and-sustainable-energy-europe_en>
+2. European Commission, DG Energy: _Solar energy_ (406 GW installed EU solar capacity in 2025; SolarPower Europe data cited on the EU page): <https://energy.ec.europa.eu/topics/renewable-energy/solar-energy_en>
+3. European Commission, DG Energy: _Energy Performance of Buildings Directive_ (EPBD recast, discontinuation of incentives for new fossil stand-alone boilers, 2026 transposition deadline): <https://energy.ec.europa.eu/topics/energy-efficiency/energy-efficient-buildings/energy-performance-buildings-directive_en>
+4. European Commission: _Social Climate Fund_ (2026-2032, EUR 86.7 billion): <https://employment-social-affairs.ec.europa.eu/policies-and-activities/funding/social-climate-fund_en>
+5. Eurostat: _EU imports of energy products - latest developments_ (data extracted March 2026; supplier shares for 2025): <https://ec.europa.eu/eurostat/statistics-explained/index.php?title=EU_imports_of_energy_products_-_latest_developments>
+6. European Commission, DG Energy: _Gas storage_ (Regulation (EU) 2025/1733, 90% target corridor): <https://energy.ec.europa.eu/topics/energy-security/gas-storage_en>
+7. European Commission: _Net-Zero Industry Act_: <https://single-market-economy.ec.europa.eu/industry/sustainability/net-zero-industry-act_en>
+8. European Commission: _Critical Raw Materials Act_: <https://single-market-economy.ec.europa.eu/sectors/raw-materials/areas-specific-interest/critical-raw-materials/critical-raw-materials-act_en>
+9. European Commission: _A Clean Industrial Deal for competitiveness and decarbonisation in the EU_ (26 February 2025): <https://ec.europa.eu/commission/presscorner/detail/en/ip_25_550>
+
+***
+
+### One-Sentence Core
+
+> Europe's energy sovereignty by 2029 requires the simultaneous displacement of fossil gas from electricity, heating and industry, the diversification of remaining imports and the build-up of domestic technological capacity — not as a climate-policy luxury but as the foundation of democratic security.
+
+
+\newpage
+
+---
+content_id: erda.book.14.die.demokratischen.koalitionen.der.willigen.readme
+content_lang: en
+source: de/content/14.-die-demokratischen-koalitionen-der-willigen/README.md
+status: in-review
 description: "Chapter 14 – The Democratic Coalitions of the Willing"
-source: "de/content/14.-die-demokratischen-koalitionen-der-willigen/README.md"
-status: "in-review"
 date: "2026-02-28"
 ---
 <a id="md-14-die-demokratischen-koalitionen-der-willigen-readme"></a>
@@ -12931,7 +13309,7 @@ This chapter designs the **next logical leap**: democratic coalitions that can e
 ## Chapter Structure
 
 | Sub-chapter | Topic |
-|---|---|
+| ---- | ---- |
 | **14.1** | Why Coalitions of the Willing? – Schengen, the Euro and the Principle of Pioneer Alliances |
 | **14.2** | Ten Democratic Coalitions – Concrete Fields of Action |
 | **14.3** | Tier Model: From Club to Federation (Tier 0–9) |
@@ -12943,7 +13321,7 @@ This chapter designs the **next logical leap**: democratic coalitions that can e
 ### Treaty Annexes
 
 | Annex | Title | Scope |
-|---|---|---|
+| ---- | ---- | ---- |
 | **14.A** | Risk Controls \& Enforcement – NoGo Thresholds, Tiers 0–5, RACI | 18 Articles |
 | **14.B** | Procurement Code – Award Procedures, Integrity, Dual Sourcing, KPIs | 30 Articles |
 | **14.C** | Interop \& Certification – Levels L0–L4, Tier↔Level Mapping, Red Team | 27 Articles |
@@ -12979,9 +13357,11 @@ Chapter 14 ties these threads into a **concrete political implementation path**:
 \newpage
 
 ---
+content_id: erda.book.14.die.demokratischen.koalitionen.der.willigen.14.1.warum.koalitionen.der.willigen
+content_lang: en
+source: de/content/14.-die-demokratischen-koalitionen-der-willigen/14.1-warum-koalitionen-der-willigen.md
+status: in-review
 description: "14.1 Why Coalitions of the Willing? – Schengen, the Euro and the Principle of Pioneer Alliances"
-source: "de/content/14.-die-demokratischen-koalitionen-der-willigen/14.1-warum-koalitionen-der-willigen.md"
-status: "in-review"
 ---
 <a id="md-14-die-demokratischen-koalitionen-der-willigen-14-1-warum-koalitionen-der-willigen"></a>
 
@@ -12998,6 +13378,8 @@ _Schengen, the Euro and the Principle of Pioneer Alliances_
 - **Historically, pioneer alliances have been Europe's most effective integration mechanism**: Schengen, the Euro, Erasmus, PESCO – each started by a few and then expanded.
 - **Coalitions of the willing are not a split** but the path to an EU that can act without holding back the fast or leaving behind the slow.
 
+Anti-veto is not an attack on minority protection. A veto is democratic when it protects against overreach; it becomes anti-democratic when it turns shared responsibility into shared paralysis. Anyone who blocks action must assume a viable alternative or release the mandate. Coalitions of the willing should therefore not shorten democracy, but make democratic responsibility capable of decision.
+
 ***
 
 ### 14.1.1 The EU-27's Agency Gap
@@ -13005,7 +13387,7 @@ _Schengen, the Euro and the Principle of Pioneer Alliances_
 The challenges of the 21st century – from the defence crisis through energy coercion to hybrid warfare – demand **operational speed and binding resource commitments**. The existing EU architecture delivers both only to a limited extent:
 
 | Problem | Impact | Example |
-|---|---|---|
+| ---- | ---- | ---- |
 | **Unanimity** (foreign / security policy) | Any country can veto | Hungary blocks Ukraine aid, sanctions packages |
 | **No executive authority** | Decisions without enforcement | Strategic Compass remains on paper |
 | **No joint defence budget** | Fragmented procurement, no economies of scale | 27 different main battle tanks, 20 frigate types |
@@ -13029,7 +13411,7 @@ Schengen began in 1985 as an agreement between **five states** (DE, FR, NL, BE, 
 ### 14.1.3 From the Euro to a Defence Union: Parallels and Differences
 
 | Dimension | Euro | Defence Coalition |
-|---|---|---|
+| ---- | ---- | ---- |
 | **Initial size** | 11 states (1999) | 7–12 core states (cf. 14.4) |
 | **Legal basis** | EU Treaty (Maastricht) | New intergovernmental treaty |
 | **Binding force** | Fiscal rules, ECB, Stability Pact | Minimum contributions, joint procurement, rules of engagement |
@@ -13053,7 +13435,7 @@ The urgency arises from three converging trends:
 ### Audience-specific Perspectives
 
 | Audience | Focus |
-|---|---|
+| ---- | ---- |
 | 🏛️ Decision-makers | Which coalitions can be launched immediately (without EU treaty change)? |
 | 📚 Researchers | Comparative analysis: Schengen, Euro, PESCO – success factors and pitfalls |
 | 🧍 Citizens | Why does this matter to me? Security, prosperity and democratic co-determination |
@@ -13069,15 +13451,17 @@ The urgency arises from three converging trends:
 2. **Treaty of Maastricht (1992):** Introduction of Economic and Monetary Union; blueprint for tiered integration.
 3. **PESCO (2017):** Permanent Structured Cooperation – ambitious approach, but so far without operational depth.
 4. **Draghi Report (2024):** _The Future of European Competitiveness_ – analysis of the agency gap.
-5. **ERDA Project (2026):** Chapter 4 (Master Plan), Chapter 5 (EDA), Chapter 13 (Strategic Sovereignty).
+5. **The ERDA Book (2026):** Chapter 4 (Master Plan), Chapter 5 (EDA), Chapter 13 (Strategic Sovereignty).
 
 
 \newpage
 
 ---
+content_id: erda.book.14.die.demokratischen.koalitionen.der.willigen.14.2.zehn.demokratische.koalitionen
+content_lang: en
+source: de/content/14.-die-demokratischen-koalitionen-der-willigen/14.2-zehn-demokratische-koalitionen.md
+status: in-review
 description: "14.2 Ten Democratic Coalitions – Concrete Fields of Action"
-source: "de/content/14.-die-demokratischen-koalitionen-der-willigen/14.2-zehn-demokratische-koalitionen.md"
-status: "in-review"
 ---
 <a id="md-14-die-demokratischen-koalitionen-der-willigen-14-2-zehn-demokratische-koalitionen"></a>
 
@@ -13099,7 +13483,7 @@ _Concrete fields of action for Schengen-/Euro-depth pioneer alliances_
 ### Overview
 
 | No. | Coalition Name | Objective (1 sentence) |
-|---|---|---|
+| ---- | ---- | ---- |
 | 1 | European Defence Production \& Procurement Club (EDPPC) | Turn money into real quantities (ammunition, drones, air defence) |
 | 2 | European Air \& Missile Defence Shield | Integrated air picture + layered defence across Europe |
 | 3 | Sanctions Enforcement Area (SEA) | Enforce sanctions effectively, eliminate loopholes |
@@ -13290,18 +13674,28 @@ A practical template for all ten coalitions:
 1. **Schengen/Euro analogy:** Historical precedent for pioneer alliances (cf. 14.1).
 2. **NATO Defence Planning Process (NDPP):** Reference process for joint capability planning.
 3. **EU Critical Raw Materials Act (2024):** Regulatory basis for raw-material security.
-4. **ERDA Project (2026):** Chapter 5 (EDA), 7 (FORTERA), 10 (AI), 13 (Strategic Sovereignty).
+4. **The ERDA Book (2026):** Chapter 5 (EDA), 7 (FORTERA), 10 (AI), 13 (Strategic Sovereignty).
 
 
 \newpage
 
 ---
+content_id: erda.book.14.die.demokratischen.koalitionen.der.willigen.14.3.stufenmodell.vom.club.zur.foederation
+content_lang: en
+source: de/content/14.-die-demokratischen-koalitionen-der-willigen/14.3-stufenmodell-vom-club-zur-foederation.md
+status: in-review
 description: "14.3 Tier Model: From Club to Federation (Tier 0–9)"
-source: "de/content/14.-die-demokratischen-koalitionen-der-willigen/14.3-stufenmodell-vom-club-zur-foederation.md"
-status: "in-review"
 ---
 <a id="md-14-die-demokratischen-koalitionen-der-willigen-14-3-stufenmodell-vom-club-zur-foederation"></a>
 
+
+
+\newpage
+\newgeometry{paperwidth=420mm, paperheight=297mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
+
+
+\pagewidth=420mm
+\pageheight=297mm
 
 ## 14.3 Tier Model: From Club to Federation
 
@@ -13319,65 +13713,84 @@ _A gradual, democratically controllable path in ten tiers_
 
 ### 14.3.1 Tier Model Overview
 
-| Tier | Short Description | Capability Gain | Strategic Value-Add | Risk | Go Criteria | No-Go Criteria |
-|---|---|---|---|---|---|---|
-| **0** | **Coordination Pact** (voluntary, structured) | Shared situational awareness, standards, planning cells | Speed without EU veto, joint course possible | Symbolic politics without bite | Clear KPIs (quantities, timelines), public reporting | Summit rhetoric only, no budgets/standards |
-| **1** | **Defence Alliance** (EDA/EVA) as treaty | Joint procurement, interoperability, ammunition/drone/air-defence programmes | Immediate deterrence effect | Industrial/sovereignty disputes, free-riders | Pay-to-play, minimum contributions, common specs | Unanimity in the club; no hard minimum contributions |
-| **2** | **Joint Command Structure** (Operational HQ + Force Catalogue) | Operational readiness, joint training and logistics | External credibility | Command and liability issues | Parliamentary deployment control regulated | Unclear chain of command / no democratic chain |
-| **3** | **European Defence Ministry** (defence only) | Unified armament planning, doctrine, personnel framework | Massive reduction of fragmentation | "Who decides on war?" | Bicameral control + judicial protection + budget authority | Executive can act without parliament |
-| **4** | **Foreign Ministry + Sanctions/Export-Control Space** | Coherent foreign policy, anti-evasion, diplomatic clout | Europe becomes capable of acting | Foreign-policy identity conflicts | Clear competence catalogue, veto rights only narrowly defined | Permanent blockades / national parallel foreign policies |
-| **5** | **Justice Ministry \& Legal Space (Rule-of-Law Union)** | Common minimum standards, anti-corruption, fundamental-rights protection | Protection against state capture | Competence overreach, politicised judiciary | Constitutional court + fundamental-rights charter + subsidiarity test | No independent courts / weak fundamental rights |
-| **6** | **Citizens' Ministry (CIVITAS)**: suffrage, participation, transparency | Identity + resilience, anti-disinfo, citizen services | Loyalty to the federation grows | Mistrust regarding data/competences | Strict data-protection architecture + citizen control | Centralised surveillance / opaque algorithms |
-| **7** | **Social \& Environment Ministry** (core standards) | Minimum standards, crisis mechanisms, resilience programmes | Solidarity dividend | Cost/transfer conflicts | Clear financing logic + equalisation mechanisms | Unlimited liability without democratic consent |
-| **8** | **Economy \& Finance Ministry** (partial fiscal union) | Joint investment capacity, crisis budget | Independence, shock absorption | Moral hazard, North/South tension | Fiscal rules + automatic stabilisers + audit | Permanent transfers without rules/legitimacy |
-| **9** | **Joint Government + Federal Constitution** | Fully capable of acting (Defence/Foreign/Justice/Finance…) | Evolutionarily stable democracy possible | Identity rupture, secessionist tendencies | Clear competence allocation + exit/accession logic + strong fundamental rights | Forced federation, no genuine electoral/opposition logic |
-
+\begin{longtable}{@{}>{\raggedright\arraybackslash}p{14.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{63.94mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{72.06mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{40.08mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{39.32mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{72.55mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{56.56mm}@{}}\toprule Tier & Short Description & Capability Gain & Strategic Value-Add & Risk & Go Criteria & No-Go Criteria \\\midrule \endhead \textbf{0} & \textbf{Coordination Pact} (voluntary, structured) & Shared situational awareness, standards, planning cells & Speed without EU veto, joint course possible & Symbolic politics without bite & Clear KPIs (quantities, timelines), public reporting & Summit rhetoric only, no budgets/standards \\\textbf{1} & \textbf{Defence Alliance} (EDA/EVA) as treaty & Joint procurement, interoperability, ammunition/drone/air-defence programmes & Immediate deterrence effect & Industrial/sovereignty disputes, free-riders & Pay-to-play, minimum contributions, common specs & Unanimity in the club; no hard minimum contributions \\\textbf{2} & \textbf{Joint Command Structure} (Operational HQ + Force Catalogue) & Operational readiness, joint training and logistics & External credibility & Command and liability issues & Parliamentary deployment control regulated & Unclear chain of command / no democratic chain \\\textbf{3} & \textbf{European Defence Ministry} (defence only) & Unified armament planning, doctrine, personnel framework & Massive reduction of fragmentation & "Who decides on war?" & Bicameral control + judicial protection + budget authority & Executive can act without parliament \\\textbf{4} & \textbf{Foreign Ministry + Sanctions/Export-Control Space} & Coherent foreign policy, anti-evasion, diplomatic clout & Europe becomes capable of acting & Foreign-policy identity conflicts & Clear competence catalogue, veto rights only narrowly defined & Permanent blockades / national parallel foreign policies \\\textbf{5} & \textbf{Justice Ministry \& Legal Space (Rule-of-Law Union)} & Common minimum standards, anti-corruption, fundamental-rights protection & Protection against state capture & Competence overreach, politicised judiciary & Constitutional court + fundamental-rights charter + subsidiarity test & No independent courts / weak fundamental rights \\\textbf{6} & \textbf{Citizens' Ministry (CIVITAS)}: suffrage, participation, transparency & Identity + resilience, anti-disinfo, citizen services & Loyalty to the federation grows & Mistrust regarding data/competences & Strict data-protection architecture + citizen control & Centralised surveillance / opaque algorithms \\\textbf{7} & \textbf{Social \& Environment Ministry} (core standards) & Minimum standards, crisis mechanisms, resilience programmes & Solidarity dividend & Cost/transfer conflicts & Clear financing logic + equalisation mechanisms & Unlimited liability without democratic consent \\\textbf{8} & \textbf{Economy \& Finance Ministry} (partial fiscal union) & Joint investment capacity, crisis budget & Independence, shock absorption & Moral hazard, North/South tension & Fiscal rules + automatic stabilisers + audit & Permanent transfers without rules/legitimacy \\\textbf{9} & \textbf{Joint Government + Federal Constitution} & Fully capable of acting (Defence/Foreign/Justice/Finance…) & Evolutionarily stable democracy possible & Identity rupture, secessionist tendencies & Clear competence allocation + exit/accession logic + strong fundamental rights & Forced federation, no genuine electoral/opposition logic \\\bottomrule \end{longtable}
 ***
+
+
+\restoregeometry
+\pagewidth=210mm
+\pageheight=297mm
+
+\newpage
+\newgeometry{paperwidth=420mm, paperheight=297mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
+
+
+\pagewidth=420mm
+\pageheight=297mm
 
 ### 14.3.2 Institutional Architecture Options
 
 For the final stage (Tier 9) various models are conceivable, which can also be incrementally incorporated in intermediate tiers:
 
-| Model | Core Element | Advantage | Risk | Go | No-Go |
-|---|---|---|---|---|---|
-| **Germany-like** | Government from parliament, Chancellor is part of government; second chamber (Länder) | Stable, clear opposition/majority | Faction-discipline overpower | Strong committees + investigation + constitutional court | Executive fully dominates parliament |
-| **France-like** | President (separate), government (PM) + parliament | Crisis leadership | Presidentialisation / power concentration | Narrow emergency framework + strong courts | President can override parliament |
-| **Switzerland-like** | Collegial government, strong direct democracy | High legitimacy, consensus | Slow, referendum-driven blockade | Quorums + deadlines + emergency corridors | Permanent blockade in security situations |
-| **Evolutionarily stable (hybrid)** | Parliamentary **plus** constitutionally entrenched resilience mechanics | Capable of acting without authoritarianism | Complexity | Simply explained rules, transparent checks | Incomprehensible black-box constitution |
-
+\begin{longtable}{@{}>{\raggedright\arraybackslash}p{41.96mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{99.63mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{48.89mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{47.41mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{70.56mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{54.54mm}@{}}\toprule Model & Core Element & Advantage & Risk & Go & No-Go \\\midrule \endhead \textbf{Germany-like} & Government from parliament, Chancellor is part of government; second chamber (Länder) & Stable, clear opposition/majority & Faction-discipline overpower & Strong committees + investigation + constitutional court & Executive fully dominates parliament \\\textbf{France-like} & President (separate), government (PM) + parliament & Crisis leadership & Presidentialisation / power concentration & Narrow emergency framework + strong courts & President can override parliament \\\textbf{Switzerland-like} & Collegial government, strong direct democracy & High legitimacy, consensus & Slow, referendum-driven blockade & Quorums + deadlines + emergency corridors & Permanent blockade in security situations \\\textbf{Evolutionarily stable (hybrid)} & Parliamentary \textbf{plus} constitutionally entrenched resilience mechanics & Capable of acting without authoritarianism & Complexity & Simply explained rules, transparent checks & Incomprehensible black-box constitution \\\bottomrule \end{longtable}
 > **ERDA Concept recommendation:** The **evolutionarily stable hybrid model** – parliamentary democracy with constitutionally entrenched emergency containment, strong opposition and anti-capture safeguards (cf. 14.6, 14.7).
 
 ***
 
+
+\restoregeometry
+\pagewidth=210mm
+\pageheight=297mm
+\newpage
 ### 14.3.3 Recommended Sequence
 
 For a maximally realistic start that still aims at federation, the robust sequence is:
 
-```
-Phase I   (2026–2030):  Tier 1–3  →  Defence Alliance → Joint HQ → Defence Ministry
-Phase II  (2028–2032):  Tier 4–5  →  Foreign Ministry + Justice/Rule-of-Law Protection
-Phase III (2030–2035):  Tier 6    →  Citizens' Ministry (CIVITAS) – Legitimacy & Resilience
-Phase IV  (2032–2038):  Tier 7–8  →  Social/Environmental Standards + Finance/Economy (Investment Capacity)
-Phase V   (2035–2040):  Tier 9    →  Full Government + Federal Constitution
-```
+> **Phase I · 2026–2030 · Tier 1–3**
+>
+> Defence Alliance → Joint HQ → Defence Ministry
+>
+> ↓
+>
+> **Phase II · 2028–2032 · Tier 4–5**
+>
+> Foreign Ministry → Justice/Rule-of-Law Protection
+>
+> ↓
+>
+> **Phase III · 2030–2035 · Tier 6**
+>
+> Citizens' Ministry (CIVITAS) → Legitimacy & Resilience
+>
+> ↓
+>
+> **Phase IV · 2032–2038 · Tier 7–8**
+>
+> Social/Environmental Standards → Finance/Economy Capacity
+>
+> ↓
+>
+> **Phase V · 2035–2040 · Tier 9**
+>
+> Full Government → Federal Constitution
 
 No phase can be skipped – but phases may **overlap** once the go criteria of the previous tier have been met.
 
 ***
 
+
+\newpage
+\newgeometry{paperwidth=420mm, paperheight=297mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
+
+
+\pagewidth=420mm
+\pageheight=297mm
+
 ### 14.3.4 "Evolutionarily Stable": Checklist Logic
 
 So that the system **does not tip** – neither into authoritarianism nor into paralysis:
 
-| Design Goal | Mechanism | Capability Gain | Main Risk | Go | No-Go |
-|---|---|---|---|---|---|
-| No blackmailability | Energy/industry/defence redundancy, crisis fund | Freedom of action | Costs | Measurable resilience KPIs | Declarations of intent only |
-| No veto abuse | QMV in the club, "opt-in but no veto" | Speed | Division | Accession open, rules clear | Veto right remains everywhere |
-| No state capture | Rule-of-law conditionality, anti-corruption, transparency | Internal stability | Political instrumentalisation | Independent courts | Partisan judiciary |
-| Democracy remains the core | Budget authority in parliament, strong opposition, media freedom | Legitimacy | Populist attacks | Fundamental rights constitutionally entrenched | State of emergency without oversight |
-| No empires of fear | Emergency only narrow, time-limited, reviewable | Security without authoritarianism | Security overreach | Sunset clauses + courts | Permanent emergency |
-| No rewarding aggression | Constitutional norm + sanctions/liability logic | Foreign-policy clarity | Escalation risk | Verifiable conditions | Deals without verification |
-
+\begin{longtable}{@{}>{\raggedright\arraybackslash}p{42.86mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{97.77mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{51.66mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{43.02mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{70.27mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{57.41mm}@{}}\toprule Design Goal & Mechanism & Capability Gain & Main Risk & Go & No-Go \\\midrule \endhead No blackmailability & Energy/industry/defence redundancy, crisis fund & Freedom of action & Costs & Measurable resilience KPIs & Declarations of intent only \\No veto abuse & QMV in the club, "opt-in but no veto" & Speed & Division & Accession open, rules clear & Veto right remains everywhere \\No state capture & Rule-of-law conditionality, anti-corruption, transparency & Internal stability & Political instrumentalisation & Independent courts & Partisan judiciary \\Democracy remains the core & Budget authority in parliament, strong opposition, media freedom & Legitimacy & Populist attacks & Fundamental rights constitutionally entrenched & State of emergency without oversight \\No empires of fear & Emergency only narrow, time-limited, reviewable & Security without authoritarianism & Security overreach & Sunset clauses + courts & Permanent emergency \\No rewarding aggression & Constitutional norm + sanctions/liability logic & Foreign-policy clarity & Escalation risk & Verifiable conditions & Deals without verification \\\bottomrule \end{longtable}
 ***
 
 ### Sources & References
@@ -13385,18 +13798,33 @@ So that the system **does not tip** – neither into authoritarianism nor into p
 1. **EU Treaty, Art. 42.6 / 46:** Permanent Structured Cooperation (PESCO) as legal framework for pioneer groups.
 2. **European Political Community (2022):** Platform beyond the EU-27 for security-policy coordination.
 3. **Draghi Report (2024):** Agency through more flexible integration.
-4. **ERDA Project (2026):** Chapter 4 (Master Plan), Chapter 5 (EDA), Chapter 12 (Democracy Concept).
+4. **The ERDA Book (2026):** Chapter 4 (Master Plan), Chapter 5 (EDA), Chapter 12 (Democracy Concept).
+
+\restoregeometry
+\pagewidth=210mm
+\pageheight=297mm
+\newpage
 
 
 \newpage
 
 ---
+content_id: erda.book.14.die.demokratischen.koalitionen.der.willigen.14.4.die.club.architektur.eddrc
+content_lang: en
+source: de/content/14.-die-demokratischen-koalitionen-der-willigen/14.4-die-club-architektur-eddrc.md
+status: in-review
 description: "14.4 The Club Architecture (EDDRC) – Organs, Voting Weight, Budget"
-source: "de/content/14.-die-demokratischen-koalitionen-der-willigen/14.4-die-club-architektur-eddrc.md"
-status: "in-review"
 ---
 <a id="md-14-die-demokratischen-koalitionen-der-willigen-14-4-die-club-architektur-eddrc"></a>
 
+
+
+\newpage
+\newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
+
+
+\pagewidth=297mm
+\pageheight=210mm
 
 ## 14.4 The Club Architecture (EDDRC)
 
@@ -13414,21 +13842,20 @@ _Organs, Voting Weight, Budget, Accession and Exit of the European Democratic De
 
 ### 14.4.1 Membership Tiers
 
-| Tier | Designation | Rights | Obligations | Typical Members |
-|---|---|---|---|---|
-| **T0** | Observer | Participation without voting rights | Transparency/Info-Security Minimum | Partners in preparation |
-| **T1** | Associate | Selective cooperation rights, access to joint procurement/standards | Reduced contribution, audit, Core-A values | EU core states, UK/NO associated |
-| **T2** | Full Member | Full voting rights, participation in operational/force structures | Full contribution, interoperability certification, compliance | Core A/B |
-| **T3** | Core | Extended responsibility, framework-state function, EB secondment | Full constitutional/rule-of-law commitment, capacity guarantees | Later federation stage |
-
+\begin{longtable}{@{}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{71.75mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{67.94mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{36.81mm}@{}}\toprule Tier & Designation & Rights & Obligations & Typical Members \\\midrule \endhead \textbf{T0} & Observer & Participation without voting rights & Transparency/Info-Security Minimum & Partners in preparation \\\textbf{T1} & Associate & Selective cooperation rights, access to joint procurement/standards & Reduced contribution, audit, Core-A values & EU core states, UK/NO associated \\\textbf{T2} & Full Member & Full voting rights, participation in operational/force structures & Full contribution, interoperability certification, compliance & Core A/B \\\textbf{T3} & Core & Extended responsibility, framework-state function, EB secondment & Full constitutional/rule-of-law commitment, capacity guarantees & Later federation stage \\\bottomrule \end{longtable}
 **Key:** No one has a veto over accessions. Rights grow with obligations.
 
 ***
 
+
+\restoregeometry
+\pagewidth=210mm
+\pageheight=297mm
+\newpage
 ### 14.4.2 Organs (Governance)
 
 | Organ | Composition | Core Tasks | Decision Type | Controls/Checks |
-|---|---|---|---|---|
+| ---- | ---- | ---- | ---- | ---- |
 | **Council of Members (CoM)** | Responsible ministers (Defence/Foreign/Finance per topic) | Strategic direction, admission/suspension, budget framework | Qualified Majority (QM) | Parliamentary committee, audit |
 | **Parliamentary Oversight Assembly (POA)** | Delegates from national parliaments (opposition guaranteed) | Democratic oversight, hearings, investigations | Majority decisions (oversight acts) | Public reports, right of action |
 | **Executive Board (EB)** | Director + Deputies (Defence/Finance/Compliance) | Implementation, programme management, crisis coordination | Within mandate | Can be recalled by CoM |
@@ -13445,7 +13872,7 @@ _Organs, Voting Weight, Budget, Accession and Exit of the European Democratic De
 #### Council of Members (CoM): Double Majority
 
 | Rule | Threshold | Rationale |
-|---|---|---|
+| ---- | ---- | ---- |
 | **Double Majority** | 60 \% of members + 70 \% of contribution shares | Protects small and large alike |
 | **Blocking minority** | At least 25 \% of members or 30 \% of contributions | Prevents steamrolling |
 | **No veto right** | Except for constitutional amendments (Tier T3) | Prevents coercion |
@@ -13453,7 +13880,7 @@ _Organs, Voting Weight, Budget, Accession and Exit of the European Democratic De
 #### Programme Decisions: Pay-to-Play Voting
 
 | Rule | Threshold | Rationale |
-|---|---|---|
+| ---- | ---- | ---- |
 | Voting right per programme | Only those who contribute/participate | Fairness, anti-free-riding |
 | Standard decision | 55 \% of programme votes | Speed |
 | Security-critical | 2/3 of programme votes | Higher legitimacy |
@@ -13461,7 +13888,7 @@ _Organs, Voting Weight, Budget, Accession and Exit of the European Democratic De
 #### Parliamentary Oversight Assembly (POA): Opposition Protected
 
 | Rule | Threshold |
-|---|---|
+| ---- | ---- |
 | Committee of inquiry | Application by 25 \% of delegates |
 | Access to files | Constitutionally guaranteed, security clearance panel |
 | Vote of no confidence report | Simple majority → compels CoM to respond |
@@ -13473,7 +13900,7 @@ _Organs, Voting Weight, Budget, Accession and Exit of the European Democratic De
 #### Budget Layers
 
 | Budget Pool | Purpose | Revenue | Expenditure Principle | Control |
-|---|---|---|---|---|
+| ---- | ---- | ---- | ---- | ---- |
 | **Core Budget** | Organs, audit, standards, C2 architecture | Mandatory contribution (formula) | Strictly mission-based | ACI + POA |
 | **Programme Budgets** | Procurement (ammo/AD/EW/ISR), stockpiles, cyber | Pay-to-play | Output-oriented (KPI) | ACI + Procurement Integrity |
 | **Contingency Fund** | Crises/surge (supply chains, air defence emergency) | Defined percentage share | Only with triggers + sunset clause | ACI + CRP |
@@ -13481,7 +13908,7 @@ _Organs, Voting Weight, Budget, Accession and Exit of the European Democratic De
 #### Contribution Formula (Mandatory Core Contribution)
 
 | Component | Weight (Example) | Rationale |
-|---|---:|---|
+| ---- | ----: | ---- |
 | GDP share | 50 \% | Capacity |
 | Population share | 30 \% | Fairness / burden-sharing |
 | Front-line/risk exposure | 20 \% | Resilience \& deterrence |
@@ -13489,7 +13916,7 @@ _Organs, Voting Weight, Budget, Accession and Exit of the European Democratic De
 #### Expenditure Rules (Anti-Corruption / Anti-Capture)
 
 | Rule | Content |
-|---|---|
+| ---- | ---- |
 | **Standardisation obligation** | Common specifications, interoperability certificates |
 | **Dual Sourcing** | No single supplier for critical goods |
 | **Integrity Clause** | Blacklist, beneficial ownership, conflict of interest |
@@ -13503,7 +13930,7 @@ _Organs, Voting Weight, Budget, Accession and Exit of the European Democratic De
 #### Core A (Smallest Possible, Yet Highly Action-Capable)
 
 | State | Why Core-Eligible |
-|---|---|
+| ---- | ---- |
 | **Germany** | Industry, financing, logistics hub |
 | **France** | Nuclear deterrence/strategy, defence industrial base, foreign policy reach |
 | **Poland** | Front-line state, mass/army, strategic urgency |
@@ -13515,7 +13942,7 @@ _Organs, Voting Weight, Budget, Accession and Exit of the European Democratic De
 #### Core B (Expansion for Critical Mass)
 
 | State | Why |
-|---|---|
+| ---- | ---- |
 | **Estonia, Latvia, Lithuania** | Front-line states, cyber capacity, political will |
 | **Czechia** | Defence industry, central location, already active supporter |
 | **Romania** | Black Sea flank, strategic depth |
@@ -13525,7 +13952,7 @@ _Organs, Voting Weight, Budget, Accession and Exit of the European Democratic De
 #### Accession Conditions
 
 | Criterion | What Is Assessed |
-|---|---|
+| ---- | ---- |
 | **Rule of law** | Independent judiciary, media freedom, anti-corruption mechanisms |
 | **Security vetting** | Security clearance standards, counter-intelligence capability |
 | **Procurement transparency** | Procurement rules, audit capability |
@@ -13539,7 +13966,7 @@ _Organs, Voting Weight, Budget, Accession and Exit of the European Democratic De
 #### Accession (Gradual)
 
 | Step | Content | Decision-Maker | Threshold |
-|---|---|---|---|
+| ---- | ---- | ---- | ---- |
 | Preliminary review | Rule of law, security clearance, audit | CRP (opinion) | Must be positive |
 | Admission T1 | Associate | CoM | Double Majority |
 | Upgrade T2 | Full Member | CoM + OCB recommendation | 2/3 + interoperability certification |
@@ -13548,7 +13975,7 @@ _Organs, Voting Weight, Budget, Accession and Exit of the European Democratic De
 #### Exit (Orderly, Without Hostage-Taking)
 
 | Element | Rule |
-|---|---|
+| ---- | ---- |
 | Notice period | 12–24 months (contractual) |
 | Settlement | Return/settlement of joint assets by formula |
 | Security clearance | Continuing confidentiality/protection obligation |
@@ -13557,7 +13984,7 @@ _Organs, Voting Weight, Budget, Accession and Exit of the European Democratic De
 #### Suspension (Rule of Law & Security as Red Lines)
 
 | Cause | Trigger | Immediate Measure | Full Measure | Return |
-|---|---|---|---|---|
+| ---- | ---- | ---- | ---- | ---- |
 | Rule-of-law breach | Unfree elections, politicised judiciary | Payments frozen (partially) | Voting rights + programme access suspended | CRP confirms fix + audit |
 | Corruption/capture | Systemic procurement anomalies | Step-in rights + special audit | Exclusion from procurement | Forensics + criminal cooperation |
 | Leak/infiltration | Repeated serious leaks | Security access revoked | Operational status suspended | Clearance reform + tests |
@@ -13571,15 +13998,17 @@ _Organs, Voting Weight, Budget, Accession and Exit of the European Democratic De
 
 1. **EU Treaties, PESCO Council Decision (2017):** Reference for tier systems and differentiated integration.
 2. **NATO contribution rules:** GDP-based contribution targets as a benchmark.
-3. **ERDA Project (2026):** Chapter 5 (EDA), Chapter 12 (Democracy Concept), Chapter 13.4 (Financial Capacity for Action).
+3. **The ERDA Book (2026):** Chapter 5 (EDA), Chapter 12 (Democracy Concept), Chapter 13.4 (Financial Capacity for Action).
 
 
 \newpage
 
 ---
+content_id: erda.book.14.die.demokratischen.koalitionen.der.willigen.14.5.kompetenzkatalog.und.ministerien
+content_lang: en
+source: de/content/14.-die-demokratischen-koalitionen-der-willigen/14.5-kompetenzkatalog-und-ministerien.md
+status: in-review
 description: "14.5 Competence Catalogue and Ministries – Federal, Shared, National"
-source: "de/content/14.-die-demokratischen-koalitionen-der-willigen/14.5-kompetenzkatalog-und-ministerien.md"
-status: "in-review"
 ---
 <a id="md-14-die-demokratischen-koalitionen-der-willigen-14-5-kompetenzkatalog-und-ministerien"></a>
 
@@ -13601,7 +14030,7 @@ _Who may do what? The clear allocation of tasks across federal, shared, and nati
 ### 14.5.1 The Three-Level Principle
 
 | Level | Characteristics | Rationale |
-|---|---|---|
+| ---- | ---- | ---- |
 | **Federal (exclusive)** | Regulated solely at federation level | Economies of scale, deterrence, legal equality, anti-coercion, single-market integrity |
 | **Shared** | Federation sets the framework, states implement | Coordination needed, but national adaptation sensible |
 | **National / Regional** | Remains primarily with member states | Subsidiarity: no demonstrable federal added value |
@@ -13615,7 +14044,7 @@ _Who may do what? The clear allocation of tasks across federal, shared, and nati
 #### 1) Verteidigungsministerium (Ministry of Defence)
 
 | Federal | Shared | National |
-|---|---|---|
+| ---- | ---- | ---- |
 | Strategic doctrine, capability targets (Force Goals) | Territorial defence under common standards | Military traditions, recruitment details |
 | Joint Operations Headquarters (OHQ), C2 architecture | Conscription/volunteer models (minimum standards) | Veterans' care |
 | Joint armaments planning + major procurement (ammo, AD, EW, ISR) | National procurement only if interoperable | Ceremonial units |
@@ -13630,7 +14059,7 @@ _Who may do what? The clear allocation of tasks across federal, shared, and nati
 #### 2) Außenministerium (Ministry of Foreign Affairs)
 
 | Federal | Shared | National |
-|---|---|---|
+| ---- | ---- | ---- |
 | Common external representation (core messaging) | National cultural/economic diplomacy | City/regional partnerships |
 | Sanctions policy, export controls (dual use) | National implementation/prosecution | — |
 | Common Ukraine/neighbourhood policy | Compatible bilateral projects | — |
@@ -13640,7 +14069,7 @@ _Who may do what? The clear allocation of tasks across federal, shared, and nati
 #### 3) Justizministerium (Ministry of Justice / Rule of Law)
 
 | Federal | Shared | National |
-|---|---|---|
+| ---- | ---- | ---- |
 | Fundamental-rights framework (Charter) + constitutional jurisdiction | Criminal prosecution national but interoperable | Civil-law detail cultures |
 | Anti-corruption: minimum standards, registers, transparency | Implementation/investigations/courts national | Organisation of national jurisdictions |
 | European Arrest Warrant 2.0, judicial cooperation | Common data standards/mutual legal assistance | — |
@@ -13652,7 +14081,7 @@ _Who may do what? The clear allocation of tasks across federal, shared, and nati
 #### 4) Bürgerministerium (CIVITAS / Ministry for Citizens)
 
 | Federal | Shared | National |
-|---|---|---|
+| ---- | ---- | ---- |
 | Federal citizenship (Union citizenship), core electoral rights | eID: federal standards, national issuance | Municipal citizen services |
 | Transparency rules (lobby register, donations, ads) | National transparency compatible | Associations/municipal law |
 | Participation instruments (petitions, initiatives, possibly referenda) | National participation systems free but compatible | Education/cultural policy |
@@ -13664,7 +14093,7 @@ _Who may do what? The clear allocation of tasks across federal, shared, and nati
 #### 5) Umweltministerium (Ministry of the Environment / Climate / Resilience)
 
 | Federal | Shared | National |
-|---|---|---|
+| ---- | ---- | ---- |
 | Protection of critical natural assets (seas, ecosystems) | Carbon price/ETS equivalent: federal, implementation national | Nature reserves local |
 | Standards for critical infrastructure resilience | Expansion programmes co-financed | Urban planning |
 | Cross-border disaster management | National response forces, coordinated | Local fire service/THW |
@@ -13673,7 +14102,7 @@ _Who may do what? The clear allocation of tasks across federal, shared, and nati
 #### 6) Sozialministerium (Ministry of Social Affairs / Health Baseline)
 
 | Federal | Shared | National |
-|---|---|---|
+| ---- | ---- | ---- |
 | Minimum social standards (child/poverty prevention) | Health systems national, common crisis mechanisms | Pension systems in detail |
 | Labour mobility: portability of entitlements | Labour-law framework shared | Collective-bargaining models national |
 | Pandemic/health-emergency agency | Hospitals/physician structures national | Care organisation regional |
@@ -13684,7 +14113,7 @@ _Who may do what? The clear allocation of tasks across federal, shared, and nati
 #### 7) Wirtschaftsministerium (Ministry of the Economy / Industry / Trade)
 
 | Federal | Shared | National |
-|---|---|---|
+| ---- | ---- | ---- |
 | Single-market rules, competition supervision | Industrial policy: federal missions + national implementation | Local SME promotion |
 | Critical supply chains (chips, defence, energy, pharma) | Cluster policy co-financed | Regional structural policy |
 | Investment screening (security-relevant) | Investigations/audits national | — |
@@ -13694,7 +14123,7 @@ _Who may do what? The clear allocation of tasks across federal, shared, and nati
 #### 8) Finanzministerium (Ministry of Finance / Treasury)
 
 | Federal | Shared | National |
-|---|---|---|
+| ---- | ---- | ---- |
 | Federal defence/resilience budget | Tax base national, minimum harmonisation | Municipal taxes |
 | Mission-bound debt instruments (defence/resilience) | National budgets with rules + audit | — |
 | Anti-money-laundering/financial supervision (systemic areas) | Banking supervision mixed | Savings banks etc. national |
@@ -13710,7 +14139,7 @@ _Who may do what? The clear allocation of tasks across federal, shared, and nati
 Regardless of how far integration advances within the individual ministries, **four areas** can hardly be meaningfully fragmented nationally:
 
 | No. | Area | Rationale |
-|---|---|---|
+| ---- | ---- | ---- |
 | 1 | **Defence C2 + armaments planning + logistics pools** | Deterrence, interoperability, economies of scale |
 | 2 | **Core foreign policy + sanctions/export controls** | Credibility, anti-coercion |
 | 3 | **Rule of law / anti-corruption + constitutional court** | Legal equality, democratic integrity |
@@ -13718,56 +14147,46 @@ Regardless of how far integration advances within the individual ministries, **f
 
 ***
 
+
+\newpage
+\newgeometry{paperwidth=594mm, paperheight=420mm, left=18mm, right=18mm, top=18mm, bottom=18mm}
+
+
+\pagewidth=594mm
+\pageheight=420mm
+
 ### 14.5.4 Control Matrix – Who Decides, Oversees, Litigates?
 
 The following matrix shows, for **key instruments** across all eight ministries, who decides, who oversees, and who may litigate.
 
 #### Legend
 
-| Role | Meaning |
-|---|---|
-| **Decides** | Who enacts/orders (government, minister, parliament) |
-| **Oversees** | Committees, court of auditors, ombudsperson, court, upper house |
-| **Litigates** | Who can compel judicial review (citizens, states, minority, ombudsperson) |
-
+\begin{longtable}{@{}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{120.97mm}@{}}\toprule Role & Meaning \\\midrule \endhead \textbf{Decides} & Who enacts/orders (government, minister, parliament) \\\textbf{Oversees} & Committees, court of auditors, ombudsperson, court, upper house \\\textbf{Litigates} & Who can compel judicial review (citizens, states, minority, ombudsperson) \\\bottomrule \end{longtable}
 #### Selected Instruments (Excerpt)
 
-| Ministry | Instrument | Decides | Oversees | Litigates |
-|---|---|---|---|---|
-| **Defence** | Capability targets / Force Catalogue | Government + Lower House (budget) | Defence/budget committee; court of auditors | Parliamentary minority; member states; constitutional court |
-| **Defence** | Major procurement | Ministry within budget framework | Court of auditors + Integrity Unit + committees | Bidders (procurement law); ombudsperson; minority |
-| **Defence** | Deployment mandate (abroad/mutual assistance) | Lower House (mandate); Upper House at threshold | IG-Defense; committee of inquiry | Minority; citizens (fundamental rights); states |
-| **Defence** | Rapid response 72 h | Government | Emergency committee immediately; court for extension | Minority; ombudsperson; affected persons |
-| **Foreign Affairs** | Sanctions package | Lower House law/regulation; government implements | Foreign affairs/justice committee; audit | States; minority; affected actors |
-| **Foreign Affairs** | Export controls / dual use | Government under framework law | Committee + expert council | Companies; ombudsperson; minority |
-| **Foreign Affairs** | International treaties (federal fields) | Government negotiates; ratification Lower House (+ Upper House) | Committees; constitutional court (competence check) | States; minority |
-| **Justice** | Anti-corruption / registers | Lower House law; government enforcement | Court of auditors; Anti-Corruption Office | Citizens/NGOs; ombudsperson; minority |
-| **Justice** | Electoral integrity | Lower House law | Electoral commission; court | Citizens; parties; ombudsperson |
-| **CIVITAS** | Transparency (lobby/donations/ads) | Lower House law | Independent transparency authority; court | Citizens; media; NGOs; ombudsperson |
-| **CIVITAS** | Digital identity | Framework law; ministry standards | Data-protection authority; audit | Citizens; data-protection litigation; ombudsperson |
-| **Environment** | Infrastructure resilience standards | Lower House framework law | Specialist authority + court of auditors | States; citizens (affected parties) |
-| **Social Affairs** | Minimum standards / portability | Lower House framework law | Social-affairs committee; audit | Citizens; trade unions; ombudsperson |
-| **Economy** | Investment screening | Government under law | Economic-affairs committee; court | Companies; states; ombudsperson |
-| **Finance** | Federal core budget | Lower House approves; government executes | Court of auditors; budget committee | Minority; states |
-| **Finance** | Mission-bound bonds | Qualified majority Lower House (+ Upper House) | Court of auditors; stability council | Minority; states |
-| **Cross-cutting** | Emergency declaration / extension | Government declares; extension only by double majority | Emergency committee + automatic judicial review | Minority; ombudsperson; citizens; states |
-| **Cross-cutting** | Appointment of key positions | Qualified parliamentary majorities | Public hearings; incompatibility rules | Minority; court |
-
+\begin{longtable}{@{}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{78.88mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{109.75mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{91.19mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{100.68mm}@{}}\toprule Ministry & Instrument & Decides & Oversees & Litigates \\\midrule \endhead \textbf{Defence} & Capability targets / Force Catalogue & Government + Lower House (budget) & Defence/budget committee; court of auditors & Parliamentary minority; member states; constitutional court \\\textbf{Defence} & Major procurement & Ministry within budget framework & Court of auditors + Integrity Unit + committees & Bidders (procurement law); ombudsperson; minority \\\textbf{Defence} & Deployment mandate (abroad/mutual assistance) & Lower House (mandate); Upper House at threshold & IG-Defense; committee of inquiry & Minority; citizens (fundamental rights); states \\\textbf{Defence} & Rapid response 72 h & Government & Emergency committee immediately; court for extension & Minority; ombudsperson; affected persons \\\textbf{Foreign Affairs} & Sanctions package & Lower House law/regulation; government implements & Foreign affairs/justice committee; audit & States; minority; affected actors \\\textbf{Foreign Affairs} & Export controls / dual use & Government under framework law & Committee + expert council & Companies; ombudsperson; minority \\\textbf{Foreign Affairs} & International treaties (federal fields) & Government negotiates; ratification Lower House (+ Upper House) & Committees; constitutional court (competence check) & States; minority \\\textbf{Justice} & Anti-corruption / registers & Lower House law; government enforcement & Court of auditors; Anti-Corruption Office & Citizens/NGOs; ombudsperson; minority \\\textbf{Justice} & Electoral integrity & Lower House law & Electoral commission; court & Citizens; parties; ombudsperson \\\textbf{CIVITAS} & Transparency (lobby/donations/ads) & Lower House law & Independent transparency authority; court & Citizens; media; NGOs; ombudsperson \\\textbf{CIVITAS} & Digital identity & Framework law; ministry standards & Data-protection authority; audit & Citizens; data-protection litigation; ombudsperson \\\textbf{Environment} & Infrastructure resilience standards & Lower House framework law & Specialist authority + court of auditors & States; citizens (affected parties) \\\textbf{Social Affairs} & Minimum standards / portability & Lower House framework law & Social-affairs committee; audit & Citizens; trade unions; ombudsperson \\\textbf{Economy} & Investment screening & Government under law & Economic-affairs committee; court & Companies; states; ombudsperson \\\textbf{Finance} & Federal core budget & Lower House approves; government executes & Court of auditors; budget committee & Minority; states \\\textbf{Finance} & Mission-bound bonds & Qualified majority Lower House (+ Upper House) & Court of auditors; stability council & Minority; states \\\textbf{Cross-cutting} & Emergency declaration / extension & Government declares; extension only by double majority & Emergency committee + automatic judicial review & Minority; ombudsperson; citizens; states \\\textbf{Cross-cutting} & Appointment of key positions & Qualified parliamentary majorities & Public hearings; incompatibility rules & Minority; court \\\bottomrule \end{longtable}
 ***
 
 ### Sources & References
 
 1. **EU competence order (Art. 2–6 TFEU):** Model for the three-level principle (exclusive, shared, supporting).
 2. **Swiss competence distribution (Federal Constitution 1999):** Model for subsidiary allocation with democratic control.
-3. **ERDA Project (2026):** Chapter 4 (overall concept), Chapter 12 (democracy concept), Chapter 14.4 (club architecture EDDRC).
+3. **The ERDA Book (2026):** Chapter 4 (overall concept), Chapter 12 (democracy concept), Chapter 14.4 (club architecture EDDRC).
+
+\restoregeometry
+\pagewidth=210mm
+\pageheight=297mm
+\newpage
 
 
 \newpage
 
 ---
+content_id: erda.book.14.die.demokratischen.koalitionen.der.willigen.14.6.die.demokratie.kette
+content_lang: en
+source: de/content/14.-die-demokratischen-koalitionen-der-willigen/14.6-die-demokratie-kette.md
+status: in-review
 description: "14.6 The Democracy Chain – Who Elects, Who Controls, Who Applies the Brakes"
-source: "de/content/14.-die-demokratischen-koalitionen-der-willigen/14.6-die-demokratie-kette.md"
-status: "in-review"
 ---
 <a id="md-14-die-demokratischen-koalitionen-der-willigen-14-6-die-demokratie-kette"></a>
 
@@ -13791,7 +14210,7 @@ _Who elects what, how opposition works, how states of emergency are contained �
 #### A) Citizens → Federation Parliament (Lower House)
 
 | Element | Rule | Stability Rationale |
-|---|---|---|
+| ---- | ---- | ---- |
 | Election | Direct, free, equal; proportional representation with a threshold clause (3–5 \%) | Prevents fragmentation into splinter parties |
 | Task | Legislation, budget, oversight, committees of inquiry | Core of democratic legitimacy |
 | Key Rights | Budget authority, vote of no confidence, ministerial hearings, access to files | Executive remains controlled |
@@ -13799,7 +14218,7 @@ _Who elects what, how opposition works, how states of emergency are contained �
 #### B) States / Regions → Bundesrat (Federal Council) / Senate (Upper House)
 
 | Element | Rule | Stability Rationale |
-|---|---|---|
+| ---- | ---- | ---- |
 | Composition | Governments of member states or directly elected regional representatives | Federal balance |
 | Task | Co-legislation in competences affecting states; subsidiarity veto | Prevents centralism |
 | Key Rights | Approval for constitutional amendments, competence transfers, emergency extensions | Protection against concentration of power |
@@ -13807,7 +14226,7 @@ _Who elects what, how opposition works, how states of emergency are contained �
 #### C) Parliament(s) → Government (Chancellor + Cabinet)
 
 | Element | Rule | Stability Rationale |
-|---|---|---|
+| ---- | ---- | ---- |
 | Election of Chancellor | By the Lower House (constructive vote of no confidence) | Stability without authoritarianism |
 | Cabinet | Proposed by the Chancellor, confirmed by the Lower House (hearings) | Quality control, transparency |
 | Coalition | Clear majority formation + guaranteed opposition rights | Prevents "one-party capture" |
@@ -13815,7 +14234,7 @@ _Who elects what, how opposition works, how states of emergency are contained �
 #### D) Federation President (Representative + Limited Reserve Powers)
 
 | Element | Rule | Stability Rationale |
-|---|---|---|
+| ---- | ---- | ---- |
 | Election | Indirect (joint federal assembly) or direct (rare) | Low polarisation |
 | Powers | Only clearly defined arbiter functions | No power centre alongside the government |
 | NoGo | No autonomous governing via decrees | Prevents presidentialisation |
@@ -13825,7 +14244,7 @@ _Who elects what, how opposition works, how states of emergency are contained �
 ### 14.6.2 How Opposition Works: Hard Control Rights
 
 | Instrument | Opposition receives… | Effect |
-|---|---|---|
+| ---- | ---- | ---- |
 | **Minority Rights** | Committee of inquiry from 25 \% of seats | Scandals/poor decisions can be investigated |
 | **Access to Files** | Constitutionally guaranteed entitlement + classified-information panel | Prevents "we know nothing" |
 | **Question Time** | Weekly, ministers obliged to respond | Public accountability |
@@ -13843,7 +14262,7 @@ _Who elects what, how opposition works, how states of emergency are contained �
 #### A) Ordinary Legislation (Federal / Shared Competence)
 
 | Step | Who | Threshold |
-|---|---|---|
+| ---- | ---- | ---- |
 | Right of Initiative | Government, members of parliament, where applicable citizens' initiative | — |
 | Resolution | Lower House | Simple majority |
 | Upper House | Approval where states are affected (defined list) | Qualified majority |
@@ -13852,7 +14271,7 @@ _Who elects what, how opposition works, how states of emergency are contained �
 #### B) Security and Defence Legislation (Higher Threshold)
 
 | Step | Who | Threshold |
-|---|---|---|
+| ---- | ---- | ---- |
 | Hearing | Mandatory hearings (Defence/Foreign Affairs/Justice) | — |
 | Resolution | Lower House | Absolute majority |
 | Upper House | Approval | Qualified majority |
@@ -13863,7 +14282,7 @@ _Who elects what, how opposition works, how states of emergency are contained �
 ### 14.6.4 Deployment and War Chain (Defence)
 
 | Situation | Decision | Oversight | NoGo |
-|---|---|---|---|
+| ---- | ---- | ---- | ---- |
 | **Routine** (exercise, deterrence) | Government / Minister of Defence | Parliamentary committee informed | Covert operations without oversight |
 | **Immediate Response** (hours/days) | Government may act at short notice | **48–72 h** retrospective parliamentary confirmation | Duration without parliamentary mandate |
 | **Extended Deployment / Entry into War** | Lower House + Upper House (defined threshold) | Mandate, objectives, reporting obligations | "Blank cheque" mandates |
@@ -13882,7 +14301,7 @@ _Who elects what, how opposition works, how states of emergency are contained �
 #### B) Immediate Measures (Short, Minimal, Verifiable)
 
 | Element | Rule |
-|---|---|
+| ---- | ---- |
 | Duration | Max. 7–14 days initially |
 | Content | Only necessary measures, narrowly circumscribed |
 | Transparency | Publication of legal basis + fundamental-rights impact assessment |
@@ -13891,7 +14310,7 @@ _Who elects what, how opposition works, how states of emergency are contained �
 #### C) Extension – Only with Double Democratic Legitimacy
 
 | Step | Threshold |
-|---|---|
+| ---- | ---- |
 | Lower House | Qualified majority (60 \%) |
 | Upper House | Approval (qualified) |
 | Court | Automatic review (mandatory review) |
@@ -13899,7 +14318,7 @@ _Who elects what, how opposition works, how states of emergency are contained �
 #### D) Red Lines – Fundamental Rights Protection
 
 | Protection | Principle |
-|---|---|
+| ---- | ---- |
 | **Inviolable** | Human dignity, prohibition of arbitrary detention, fair trial |
 | **Freedom of Communication** | Restrictions only if court-proof, time-limited, targeted |
 | **Data** | Emergency data use only purpose-bound, subject to mandatory deletion |
@@ -13908,7 +14327,7 @@ _Who elects what, how opposition works, how states of emergency are contained �
 #### E) Exit and Review
 
 | Mechanism | Rule |
-|---|---|
+| ---- | ---- |
 | Automatic Termination | Without a new vote everything expires |
 | Final Report | Mandatory report + Court of Auditors review |
 | Investigation | Opposition's right to a committee of inquiry |
@@ -13919,7 +14338,7 @@ _Who elects what, how opposition works, how states of emergency are contained �
 ### 14.6.6 Anti-Capture Safeguards
 
 | Risk | Safeguard | Who May Trigger |
-|---|---|---|
+| ---- | ---- | ---- |
 | **State Capture of the Judiciary** | Independent judicial councils + Constitutional Court | Courts, opposition, ombudsperson |
 | **Corruption / Lobby Capture** | Registers, party/donation limits, forensics authority | Court of Auditors, parliamentary committees |
 | **Media / Information Capture** | Antitrust / media pluralism protection, advertising transparency | Independent authority + courts |
@@ -13933,7 +14352,7 @@ _Who elects what, how opposition works, how states of emergency are contained �
 The following table summarises the main decision types and assigns the threshold, deciding body and oversight body to each.
 
 | Decision Type | Threshold | Decides | Oversight Body |
-|---|---|---|---|
+| ---- | ---- | ---- | ---- |
 | **Annual Budget** | Lower House simple; Upper House where contributions are relevant | Lower House (+ Upper House) | Court of Auditors; Budget Committee; Constitutional Court |
 | **Programme Budget** | 55 \% programme voting rights; security-critical 2/3 | CoM / EB | Court of Auditors + Integrity Unit; POA |
 | **Contingency Activation** | CoM 2/3 + sunset | CoM | Emergency committee; CRP |
@@ -13957,15 +14376,17 @@ The following table summarises the main decision types and assigns the threshold
 
 1. **Grundgesetz (Basic Law) (Art. 20, 79 III, 115a–115l):** Model for the eternity clause and emergency legislation.
 2. **Swiss Federal Constitution (1999):** Double-majority principle (popular vote + cantonal vote) as a federal reference model.
-3. **ERDA Project (2026):** Chapter 12 (Democracy Concept), Chapter 14.4 (EDDRC Bodies), Chapter 14.5 (Competence Catalogue).
+3. **The ERDA Book (2026):** Chapter 12 (Democracy Concept), Chapter 14.4 (EDDRC Bodies), Chapter 14.5 (Competence Catalogue).
 
 
 \newpage
 
 ---
+content_id: erda.book.14.die.demokratischen.koalitionen.der.willigen.14.7.verfassungsskizze.und.risiko.controls
+content_lang: en
+source: de/content/14.-die-demokratischen-koalitionen-der-willigen/14.7-verfassungsskizze-und-risiko-controls.md
+status: in-review
 description: "14.7 Constitutional Sketch and Risk Controls – Art. 1–30, Annexes A–F, Resilience Dashboard"
-source: "de/content/14.-die-demokratischen-koalitionen-der-willigen/14.7-verfassungsskizze-und-risiko-controls.md"
-status: "in-review"
 ---
 <a id="md-14-die-demokratischen-koalitionen-der-willigen-14-7-verfassungsskizze-und-risiko-controls"></a>
 
@@ -13993,7 +14414,7 @@ _From idea to treaty: 30 constitutional articles, six treaty annexes, and an ear
 #### Overview of the 30 Articles
 
 | Block | Article | Subject |
-|---|---|---|
+| ---- | ---- | ---- |
 | **Basic Order** | Art. 1 | Form of state and values (democracy, rule of law, federalism, pluralism) |
 | | Art. 2 | Citizenship rights (federal citizenship, direct political rights) |
 | | Art. 3 | Primacy and binding effect (federation law takes precedence within federal competences) |
@@ -14028,7 +14449,7 @@ _From idea to treaty: 30 constitutional articles, six treaty annexes, and an ear
 #### Eternity Core (Ewigkeitskern) (unamendable provisions)
 
 | No. | Core Principle |
-|---|---|
+| ---- | ---- |
 | 1 | Democracy and popular sovereignty |
 | 2 | Rule of law and independent judiciary |
 | 3 | Fundamental rights and human dignity |
@@ -14038,41 +14459,42 @@ _From idea to treaty: 30 constitutional articles, six treaty annexes, and an ear
 
 ***
 
+
+\newpage
+\newgeometry{paperwidth=420mm, paperheight=297mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
+
+
+\pagewidth=420mm
+\pageheight=297mm
+
 ### 14.7.2 Risk Master Table
 
 The following table captures the **14 central risk areas** together with their typical failure mode and the three control layers: prevention, detection, response.
 
-| Risk Area | Typical Failure Mode | Prevention | Detection | Response | NoGo Threshold |
-|---|---|---|---|---|---|
-| **State Capture / Corruption** | Agencies are captured by partisan interests | Transparency rules, independent appointments, procurement rules | Audit, forensics, whistleblower, asset registers | Funds freeze, removal from office, criminal prosecution | Systemic corruption without prosecution |
-| **Democracy Erosion** | Media/NGO restrictions, electoral manipulation | Fundamental-rights charter, electoral standards, media pluralism | Election observation, media monitoring, court reporting | Treaty-infringement proceedings, suspension of rights | Unfree elections |
-| **Emergency Abuse** | Emergency becomes permanent | Narrow grounds, sunset, double majority, auto-review | Emergency reports, ombudsperson, opposition inquiry | Automatic expiry, judicial annulment | Emergency > X days without legitimation |
-| **Veto / Blockade Coercion** | Single state blocks everything | No unanimity, opt-in without veto | KPI on decision times, blockade logs | Bypass, programme exclusion | Unanimity as the norm |
-| **Infiltration / Espionage** | Leaks, agent networks | Security vetting, classified-information protection, foreign-agent transparency | Counter-intelligence, anomaly detection | Access revocation, criminal prosecution, sanctions | Repeated leaks without consequences |
-| **Military Misuse** | Operations without mandate | Clear C2 chain, parliamentary mandate, RoE | Operational reports, IG inspection | Operation halt, mandate adjustment | Operations without democratic chain |
-| **Procurement Failure** | Cost explosion, delivery shortfalls | Standardisation, dual sourcing, framework contracts | Earned-value, QA audits, supply-chain monitoring | Contractual penalties, re-tendering | Systemic delivery failures |
-| **Supply-Chain Coercion** | Dependence on autocracies | Diversification, stockpiles, friend-shoring | Dependency index, stress tests | Emergency substitution, export controls | Single point of failure in critical goods |
-| **Finance / Transfer Conflicts** | North/South divide, moral hazard | Fiscal rules, mission-based debt, audit | Debt/deficit monitoring, early-warning council | Conditionality, automatic corrections | Permanent transfers without rules |
-| **Judicial Politicisation** | Partisan judiciary, selective prosecution | Independent judicial councils, appointment quorums | Case-load statistics, sentencing anomalies | International judicial panels, suspension | Demonstrable political steering |
-| **Information / Censorship Risk** | "Anti-disinfo" becomes censorship | Transparency, court-proof standards, no content control | Complaints channels, judicial review | Annulment, compensation, agency reform | State content control without court order |
-| **Data / Surveillance Risk** | Centralised profiles, misuse | Privacy by design, data minimisation, separated keys | Logs, independent data-protection authority | Deletion, sanctions, criminal proceedings | Mass surveillance without judicial authorisation |
-| **Crisis Coordination Failure** | Agency chaos, overlapping responsibilities | Clear competence matrix, joint exercises | After-action reviews, KPI on response time | Reform, personnel changes | Repeated chaos without learning curve |
-| **Secession / Legitimacy Breach** | "Forced federation" narrative | Exit rules, subsidiarity, citizen participation | Surveys, legitimacy index, conflict monitoring | Mediation council, competence back-transfer | Persistent majority against federation without dialogue |
-
+\begin{longtable}{@{}>{\raggedright\arraybackslash}p{34.59mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{49.59mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{85.13mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{64.10mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{64.60mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{64.99mm}@{}}\toprule Risk Area & Typical Failure Mode & Prevention & Detection & Response & NoGo Threshold \\\midrule \endhead \textbf{State Capture / Corruption} & Agencies are captured by partisan interests & Transparency rules, independent appointments, procurement rules & Audit, forensics, whistleblower, asset registers & Funds freeze, removal from office, criminal prosecution & Systemic corruption without prosecution \\\textbf{Democracy Erosion} & Media/NGO restrictions, electoral manipulation & Fundamental-rights charter, electoral standards, media pluralism & Election observation, media monitoring, court reporting & Treaty-infringement proceedings, suspension of rights & Unfree elections \\\textbf{Emergency Abuse} & Emergency becomes permanent & Narrow grounds, sunset, double majority, auto-review & Emergency reports, ombudsperson, opposition inquiry & Automatic expiry, judicial annulment & Emergency > X days without legitimation \\\textbf{Veto / Blockade Coercion} & Single state blocks everything & No unanimity, opt-in without veto & KPI on decision times, blockade logs & Bypass, programme exclusion & Unanimity as the norm \\\textbf{Infiltration / Espionage} & Leaks, agent networks & Security vetting, classified-information protection, foreign-agent transparency & Counter-intelligence, anomaly detection & Access revocation, criminal prosecution, sanctions & Repeated leaks without consequences \\\textbf{Military Misuse} & Operations without mandate & Clear C2 chain, parliamentary mandate, RoE & Operational reports, IG inspection & Operation halt, mandate adjustment & Operations without democratic chain \\\textbf{Procurement Failure} & Cost explosion, delivery shortfalls & Standardisation, dual sourcing, framework contracts & Earned-value, QA audits, supply-chain monitoring & Contractual penalties, re-tendering & Systemic delivery failures \\\textbf{Supply-Chain Coercion} & Dependence on autocracies & Diversification, stockpiles, friend-shoring & Dependency index, stress tests & Emergency substitution, export controls & Single point of failure in critical goods \\\textbf{Finance / Transfer Conflicts} & North/South divide, moral hazard & Fiscal rules, mission-based debt, audit & Debt/deficit monitoring, early-warning council & Conditionality, automatic corrections & Permanent transfers without rules \\\textbf{Judicial Politicisation} & Partisan judiciary, selective prosecution & Independent judicial councils, appointment quorums & Case-load statistics, sentencing anomalies & International judicial panels, suspension & Demonstrable political steering \\\textbf{Information / Censorship Risk} & "Anti-disinfo" becomes censorship & Transparency, court-proof standards, no content control & Complaints channels, judicial review & Annulment, compensation, agency reform & State content control without court order \\\textbf{Data / Surveillance Risk} & Centralised profiles, misuse & Privacy by design, data minimisation, separated keys & Logs, independent data-protection authority & Deletion, sanctions, criminal proceedings & Mass surveillance without judicial authorisation \\\textbf{Crisis Coordination Failure} & Agency chaos, overlapping responsibilities & Clear competence matrix, joint exercises & After-action reviews, KPI on response time & Reform, personnel changes & Repeated chaos without learning curve \\\textbf{Secession / Legitimacy Breach} & "Forced federation" narrative & Exit rules, subsidiarity, citizen participation & Surveys, legitimacy index, conflict monitoring & Mediation council, competence back-transfer & Persistent majority against federation without dialogue \\\bottomrule \end{longtable}
 ***
+
+
+\restoregeometry
+\pagewidth=210mm
+\pageheight=297mm
+
+\newpage
+\newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
+
+
+\pagewidth=297mm
+\pageheight=210mm
 
 ### 14.7.3 The Six Treaty Annexes (Annexes A–F)
 
 The constitutional sketch is operationalised through **six annexes**. Each annex is an integral part of the treaty.
 
-| Annex | Title | Core Content | Scope |
-|---|---|---|---|
-| **A** | Risk Controls \& Enforcement | Master table of all risks, NoGo thresholds, enforcement levels 0–5, emergency review (48 h), remediation plan, legal remedy (DRT review), RACI matrix | 18 articles |
-| **B** | Procurement Code | Award procedures (open/restricted/negotiated/framework/emergency), integrity clause, dual sourcing, blacklisting, KPI catalogue, step-in rights, tenderer legal remedies | 30 articles |
-| **C** | Interop \& Certification | Certification levels L0–L4, tier↔level mapping, technical tests (interface, crypto, resilience), operational tests (joint exercise), cyber red-team, waiver/legacy regime, upgrade T1→T2 | 27 articles |
-| **D** | War Powers \& Mandates | Operation categories 0–3, 72 h immediate response, mandate minimum content (10 mandatory fields), upper-house thresholds, IG Defence, RoE codex, mission-creep trigger, reporting obligations | 26 articles |
-| **E** | Audit \& Transparency | ACI independence, audit types (regular/special/forensic/effectiveness/IT), KPI framework, clean-room procedure, transparency register, whistleblower protection, hearing obligations, public reports | 28 articles |
-| **F** | Membership Tiers \& Upgrade/Downgrade | T0–T3 rights/obligations, voting-weight rules (anti-veto), accession/upgrade/downgrade procedure, suspension/reinstatement, exit/no-hostage, associated members, EU docking clause | 26 articles |
+\begin{longtable}{@{}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{38.94mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{158.06mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{18.00mm}@{}}\toprule Annex & Title & Core Content & Scope \\\midrule \endhead \textbf{A} & Risk Controls \& Enforcement & Master table of all risks, NoGo thresholds, enforcement levels 0–5, emergency review (48 h), remediation plan, legal remedy (DRT review), RACI matrix & 18 articles \\\textbf{B} & Procurement Code & Award procedures (open/restricted/negotiated/framework/emergency), integrity clause, dual sourcing, blacklisting, KPI catalogue, step-in rights, tenderer legal remedies & 30 articles \\\textbf{C} & Interop \& Certification & Certification levels L0–L4, tier↔level mapping, technical tests (interface, crypto, resilience), operational tests (joint exercise), cyber red-team, waiver/legacy regime, upgrade T1→T2 & 27 articles \\\textbf{D} & War Powers \& Mandates & Operation categories 0–3, 72 h immediate response, mandate minimum content (10 mandatory fields), upper-house thresholds, IG Defence, RoE codex, mission-creep trigger, reporting obligations & 26 articles \\\textbf{E} & Audit \& Transparency & ACI independence, audit types (regular/special/forensic/effectiveness/IT), KPI framework, clean-room procedure, transparency register, whistleblower protection, hearing obligations, public reports & 28 articles \\\textbf{F} & Membership Tiers \& Upgrade/Downgrade & T0–T3 rights/obligations, voting-weight rules (anti-veto), accession/upgrade/downgrade procedure, suspension/reinstatement, exit/no-hostage, associated members, EU docking clause & 26 articles \\\bottomrule \end{longtable}
+\restoregeometry
+\pagewidth=210mm
+\pageheight=297mm
+\newpage
 
 #### Cross-References between the Annexes
 
@@ -14089,7 +14511,7 @@ Annex A (Enforcement) ←→ Annex B (Procurement) → Integrity violations → 
 ### 14.7.4 Resilience Dashboard – Early-Warning System
 
 | Index | Measures | Alarm when… | Response |
-|---|---|---|---|
+| ---- | ---- | ---- | ---- |
 | **Rule-of-Law Index** | Judiciary/media/electoral quality | Trend break over 2 quarters | Conditionality + proceedings |
 | **Capture Risk Index** | Corruption, procurement anomalies | Cluster/network indicators | Forensics, blacklist |
 | **Decision Speed Index** | Club's capacity to act | Blockade times rising | Governance update |
@@ -14129,15 +14551,17 @@ The EDDRC is thus not a static construct but an **evolutionarily stable system**
 1. **Grundgesetz (Basic Law) (Art. 79 III):** Model for the eternity clause.
 2. **Swiss Federal Constitution (1999):** Competence catalogue, double majority, subsidiarity.
 3. **EU Treaties (TEU/TFEU):** Allocation of competences, anti-corruption norms, PESCO.
-4. **ERDA Project (2026):** Chapter 4 (overall concept), Chapter 12 (democracy concept), Chapters 14.4–14.6 (club architecture, competence catalogue, democracy chain).
+4. **The ERDA Book (2026):** Chapter 4 (overall concept), Chapter 12 (democracy concept), Chapters 14.4–14.6 (club architecture, competence catalogue, democracy chain).
 
 
 \newpage
 
 ---
+content_id: erda.book.14.die.demokratischen.koalitionen.der.willigen.14.a.risk.controls.und.enforcement
+content_lang: en
+source: de/content/14.-die-demokratischen-koalitionen-der-willigen/14.a-risk-controls-und-enforcement.md
+status: in-review
 description: "Annex 14.A – Risk Controls & Enforcement (Treaty Annex)"
-source: "de/content/14.-die-demokratischen-koalitionen-der-willigen/14.a-risk-controls-und-enforcement.md"
-status: "in-review"
 ---
 <a id="md-14-die-demokratischen-koalitionen-der-willigen-14-a-risk-controls-und-enforcement"></a>
 
@@ -14224,7 +14648,7 @@ A member exceeds a NoGo threshold if at least one of the following conditions is
 Measures are graduated and proportionate:
 
 | Level | Designation | Content |
-|---|---|---|
+| ---- | ---- | ---- |
 | **0** | Notice \& Plan | Formal compliance notice, action plan, deadline |
 | **1** | Conditionality | Disbursement/programme access only against evidence of concrete steps |
 | **2** | Provisional Suspension | Temporary loss of voting rights or access, classified access revoked |
@@ -14264,7 +14688,7 @@ Measures are graduated and proportionate:
 #### Art. A12 – Decision-Making (Majorities)
 
 | Level | Required Majority |
-|---|---|
+| ---- | ---- |
 | **0–1** | CoM qualified majority (60\% of members + 70\% of contributions) |
 | **2 (provisional)** | CoM 2/3 of votes or automatically upon CRP emergency determination |
 | **3–4** | CoM 2/3 + mandatory CRP/ACI opinion |
@@ -14290,7 +14714,7 @@ Measures are graduated and proportionate:
 #### Art. A15 – Triggers (Summary List)
 
 | Domain | Trigger Examples |
-|---|---|
+| ---- | ---- |
 | **Rule of law** | Interference with appointment/dismissal of judges, non-compliance with supreme court rulings, media takeover |
 | **Emergency** | Extension without double majority/sunset, measures without fundamental-rights impact assessment |
 | **Leak/Infiltration** | 2+ serious leak events within 12 months without remediation |
@@ -14330,7 +14754,7 @@ Measures are graduated and proportionate:
 ### RACI Matrix (Summary)
 
 | Control Domain | Responsible (R) | Accountable (A) | Consulted (C) | Informed (I) |
-|---|---|---|---|---|
+| ---- | ---- | ---- | ---- | ---- |
 | Rule-of-law monitoring | CRP | CoM | POA, DRT | All members |
 | Emergency compliance | CRP | CoM (extension) | POA, Ombudsperson | Public |
 | Procurement integrity | Integrity Unit / PIA | Executive Board | ACI, POA | CoM |
@@ -14351,9 +14775,11 @@ Measures are graduated and proportionate:
 \newpage
 
 ---
+content_id: erda.book.14.die.demokratischen.koalitionen.der.willigen.14.b.procurement.code
+content_lang: en
+source: de/content/14.-die-demokratischen-koalitionen-der-willigen/14.b-procurement-code.md
+status: in-review
 description: "Annex 14.B – Procurement Code (Contract Annex)"
-source: "de/content/14.-die-demokratischen-koalitionen-der-willigen/14.b-procurement-code.md"
-status: "in-review"
 ---
 <a id="md-14-die-demokratischen-koalitionen-der-willigen-14-b-procurement-code"></a>
 
@@ -14403,7 +14829,7 @@ _Procurement procedures, standardisation, integrity, dual sourcing, step-in righ
 #### Art. B5 – RACI (Summary)
 
 | Role | Bodies |
-|---|---|
+| ---- | ---- |
 | **Responsible** | PIA (procurement), Integrity Unit (integrity), Program Boards (requirements) |
 | **Accountable** | Executive Board (execution), Council of Members (programme approvals) |
 | **Consulted** | OCB (interop), CRP (rule-of-law regarding sanctions), ACI (audit) |
@@ -14416,7 +14842,7 @@ _Procurement procedures, standardisation, integrity, dual sourcing, step-in righ
 #### Art. B6 – Types of Procedure
 
 | No. | Procedure | Use Case |
-|---|---|---|
+| ---- | ---- | ---- |
 | 1 | **Open procedure** | Standard |
 | 2 | **Restricted procedure** | Security-relevant pre-qualification |
 | 3 | **Negotiated procedure** | Highly complex systems, justified |
@@ -14529,7 +14955,7 @@ _Procurement procedures, standardisation, integrity, dual sourcing, step-in righ
 Minimum metrics to be measured:
 
 | No. | KPI |
-|---|---|
+| ---- | ---- |
 | 1 | Delivery quantity vs. plan |
 | 2 | Delivery time (on-time) |
 | 3 | Quality rate (defect rate) |
@@ -14606,9 +15032,11 @@ Minimum metrics to be measured:
 \newpage
 
 ---
+content_id: erda.book.14.die.demokratischen.koalitionen.der.willigen.14.c.interoperability.und.certification
+content_lang: en
+source: de/content/14.-die-demokratischen-koalitionen-der-willigen/14.c-interoperability-und-certification.md
+status: in-review
 description: "Annex 14.C – Interoperability & Certification (Treaty Annex)"
-source: "de/content/14.-die-demokratischen-koalitionen-der-willigen/14.c-interoperability-und-certification.md"
-status: "in-review"
 ---
 <a id="md-14-die-demokratischen-koalitionen-der-willigen-14-c-interoperability-und-certification"></a>
 
@@ -14663,7 +15091,7 @@ g) Classification/information security (common tiers)
 #### Art. C4 – Standards and Certification Bodies
 
 | Body | Task |
-|---|---|
+| ---- | ---- |
 | **Interop Standards Board (ISB)** | Develops standards, maintains versions, defines test plans |
 | **Certification Authority (CA)** | Issues/revokes certificates, conducts audits |
 | **Operational Command Board (OCB)** | Defines operational minimum procedures (SOPs, exercises) |
@@ -14686,7 +15114,7 @@ g) Classification/information security (common tiers)
 #### Art. C7 – Certificate Levels
 
 | Level | Name | Meaning | Typical Use |
-|---|---|---|---|
+| ---- | ---- | ---- | ---- |
 | **L0** | Non-Compliant | No Club interop | Purely national, no pools |
 | **L1** | Basic Interop | Minimum interfaces/logistics | Programme Member (T1) |
 | **L2** | Operational Interop | Fully interoperable in joint operations | Operational Member (T2) |
@@ -14696,7 +15124,7 @@ g) Classification/information security (common tiers)
 #### Art. C8 – Mapping Tier ↔ Certification Level
 
 | Tier | Minimum Level |
-|---|---|
+| ---- | ---- |
 | **T1** (Programme Member) | L1 in relevant programme categories |
 | **T2** (Operational Member) | L2 for C2/comms + core systems; L3 for critical elements per CoM list |
 | **T3** (Constitutional Member) | Full compliance; L3 as standard in the core |
@@ -14710,7 +15138,7 @@ g) Classification/information security (common tiers)
 Each system must demonstrate (where applicable):
 
 | No. | Test |
-|---|---|
+| ---- | ---- |
 | 1 | **Interface Compliance** (protocols, data formats, APIs) |
 | 2 | **Key Management \& Crypto** (HSM/key rotation, access) |
 | 3 | **Latency/Throughput** (minimum values per category) |
@@ -14748,7 +15176,7 @@ Each system must demonstrate (where applicable):
 #### Art. C14 – Re-Certification
 
 | Level | Interval | Additionally |
-|---|---|---|
+| ---- | ---- | ---- |
 | **L1** | Every 36 months | Upon major version change |
 | **L2** | Every 24 months | Upon security/interface change |
 | **L3/L4** | Every 12–18 months | Mandatory pen tests + supply-chain review |
@@ -14767,7 +15195,7 @@ Each system must demonstrate (where applicable):
 The ISB maintains at least the following standard families:
 
 | No. | Standard Family |
-|---|---|
+| ---- | ---- |
 | 1 | **C2 \& Tactical Data Links** (multi-domain situational picture) |
 | 2 | **Air Defence Integration** (sensor-to-shooter, track management) |
 | 3 | **Counter-UAS \& EW Interfaces** |
@@ -14850,7 +15278,7 @@ This Annex enters into force together with the Treaty.
 #### Art. C26 – Transitional Periods
 
 | Period | Milestone |
-|---|---|
+| ---- | ---- |
 | 6 months | Baseline standards (C2, logistics, cyber exchange) |
 | 12 months | Initial L1 certification for programme areas |
 | 24 months | L2 for Operational Members in core categories |
@@ -14879,9 +15307,11 @@ The ISB publishes an annual roadmap; the CoM adopts updates; the POA receives th
 \newpage
 
 ---
+content_id: erda.book.14.die.demokratischen.koalitionen.der.willigen.14.d.war.powers.und.mandates
+content_lang: en
+source: de/content/14.-die-demokratischen-koalitionen-der-willigen/14.d-war-powers-und-mandates.md
+status: in-review
 description: "Annex 14.D – War Powers & Mandates (Treaty Annex)"
-source: "de/content/14.-die-demokratischen-koalitionen-der-willigen/14.d-war-powers-und-mandates.md"
-status: "in-review"
 ---
 <a id="md-14-die-demokratischen-koalitionen-der-willigen-14-d-war-powers-und-mandates"></a>
 
@@ -14915,7 +15345,7 @@ _Mandate rules, 72h rapid response, operation categories, reporting obligations,
 #### Art. D3 – Chain of Democratic Control
 
 | Body | Role |
-|---|---|
+| ---- | ---- |
 | **Lower House** (or POA equivalent) | Mandate, budget commitment, oversight |
 | **Upper House** (at defined thresholds) | Approval for high-scale/long-term deployments |
 | **Government/CoM** | Operational command within mandate |
@@ -14929,7 +15359,7 @@ _Mandate rules, 72h rapid response, operation categories, reporting obligations,
 #### Art. D4 – Categories of Military Measures
 
 | Category | Designation | Examples |
-|---|---|---|
+| ---- | ---- | ---- |
 | **0** | Routine/Readiness | Exercises, deterrence presence, training, rotations |
 | **1** | Protective measures | Protection of critical infrastructure, cyber-defence response, counter-UAS, maritime/air policing |
 | **2** | Limited operation | Temporally/geographically limited deployment with elevated risk (evacuation, security operation) |
@@ -14952,7 +15382,7 @@ _Mandate rules, 72h rapid response, operation categories, reporting obligations,
 #### Art. D7 – Deadlines and Confirmation
 
 | Deadline | Obligation |
-|---|---|
+| ---- | ---- |
 | **24 hours** | Notification of oversight bodies (POA emergency panel / Lower House committees) |
 | **72 hours** | **Parliamentary confirmation** to be obtained |
 | **Without confirmation** | Operation ends immediately in an orderly manner ("safe disengagement") |
@@ -14971,7 +15401,7 @@ _Mandate rules, 72h rapid response, operation categories, reporting obligations,
 Every mandate must contain:
 
 | No. | Mandatory field |
-|---|---|
+| ---- | ---- |
 | 1 | **Legal basis** (treaty, international law, national legal acts) |
 | 2 | **Definition of objectives** (specific, measurable) |
 | 3 | **Area of operations** (geographic/operational) |
@@ -14999,7 +15429,7 @@ Upper House approval is required if at least one of the following applies:
 #### Art. D11 – Reporting Obligations (Ongoing)
 
 | Frequency | Content | Recipient |
-|---|---|---|
+| ---- | ---- | ---- |
 | **Weekly** | Brief reports: situation, casualties, goal attainment, risks | Competent committees / POA panel (classified) |
 | **Monthly** | KPI report: ammunition consumption, readiness, casualties, logistics, compliance | Committees + ACI |
 | **Quarterly** | Public topline report | Public (insofar as compatible with security requirements) |
@@ -15102,7 +15532,7 @@ This Annex enters into force together with the Treaty.
 #### Art. D26 – Transitional Periods
 
 | Deadline | Milestone |
-|---|---|
+| ---- | ---- |
 | 6 months | Standard mandate format (Art. D9) binding |
 | 12 months | IG-Defence established and operational |
 | 18 months | Exercise and reporting systems fully implemented |
@@ -15134,9 +15564,11 @@ This Annex enters into force together with the Treaty.
 \newpage
 
 ---
+content_id: erda.book.14.die.demokratischen.koalitionen.der.willigen.14.e.audit.und.transparency
+content_lang: en
+source: de/content/14.-die-demokratischen-koalitionen-der-willigen/14.e-audit-und-transparency.md
+status: in-review
 description: "Annex 14.E – Audit & Transparency (Contractual Annex)"
-source: "de/content/14.-die-demokratischen-koalitionen-der-willigen/14.e-audit-und-transparency.md"
-status: "in-review"
 ---
 <a id="md-14-die-demokratischen-koalitionen-der-willigen-14-e-audit-und-transparency"></a>
 
@@ -15200,7 +15632,7 @@ ACI audits in particular:
 #### Art. E7 – Types of Audit
 
 | Type of audit | Occasion |
-|---|---|
+| ---- | ---- |
 | **Regular audit** | Annual |
 | **Special audit** | Triggered by indicators |
 | **Forensic audit** | Upon suspicion of corruption/capture |
@@ -15221,7 +15653,7 @@ ACI audits in particular:
 Every programme and every material structure must have mandatory KPIs:
 
 | No. | KPI Dimension |
-|---|---|
+| ---- | ---- |
 | 1 | **Output** (e.g. quantities, delivery dates) |
 | 2 | **Readiness** (operational readiness, failure rates) |
 | 3 | **Cost** (planned/actual, cost growth) |
@@ -15236,7 +15668,7 @@ Every programme and every material structure must have mandatory KPIs:
 2. Three visibility tiers:
 
 | Tier | Access |
-|---|---|
+| ---- | ---- |
 | **Public (Topline)** | Everyone |
 | **Parliamentary (detailed)** | POA / Committees |
 | **Classified (Clean Room)** | Classified-Information Panel |
@@ -15255,7 +15687,7 @@ Every programme and every material structure must have mandatory KPIs:
 #### Art. E12 – Transparency Register (Minimum)
 
 | Register | Content |
-|---|---|
+| ---- | ---- |
 | **Lobby register** | Meetings, topics, principals |
 | **Procurement register** | Tenders, awards, exceptions |
 | **Donation/grant register** | Conflict-of-interest register for key personnel |
@@ -15316,7 +15748,7 @@ Every programme and every material structure must have mandatory KPIs:
 #### Art. E21 – Compliance Escalation
 
 | Severity | Classification | Consequence |
-|---|---|---|
+| ---- | ---- | ---- |
 | **Minor** | Minor deviation, no systemic impact | Remediation ≤ 90 days |
 | **Major** | Systemically relevant, elevated risk | Remediation ≤ 60 days + special audit possible |
 | **Critical** | Near-NoGo or systemic | Immediate escalation Annex 14.A, provisional measures |
@@ -15365,7 +15797,7 @@ This Annex enters into force together with the Treaty.
 #### Art. E28 – Transitional Periods
 
 | Deadline | Milestone |
-|---|---|
+| ---- | ---- |
 | 6 months | ACI, Ombuds Institution and clean-room structure operational |
 | 9 months | KPI Dashboard |
 | 12 months | First quarterly reports, register obligations |
@@ -15380,9 +15812,11 @@ This Annex enters into force together with the Treaty.
 \newpage
 
 ---
+content_id: erda.book.14.die.demokratischen.koalitionen.der.willigen.14.f.membership.tiers.und.upgrade
+content_lang: en
+source: de/content/14.-die-demokratischen-koalitionen-der-willigen/14.f-membership-tiers-und-upgrade.md
+status: in-review
 description: "Annex 14.F – Membership Tiers & Upgrade/Downgrade (Treaty Annex)"
-source: "de/content/14.-die-demokratischen-koalitionen-der-willigen/14.f-membership-tiers-und-upgrade.md"
-status: "in-review"
 ---
 <a id="md-14-die-demokratischen-koalitionen-der-willigen-14-f-membership-tiers-und-upgrade"></a>
 
@@ -15405,7 +15839,7 @@ _T0 Observer → T1 Associate → T2 Full → T3 Core – Rights, Obligations, A
 #### Art. F1 – Four Tiers
 
 | Tier | Designation | Brief Profile |
-|---|---|---|
+| ---- | ---- | ---- |
 | **T0** | Observer | Access to documents, no voting rights, no contribution obligation, no integration |
 | **T1** | Associate | Selective cooperation rights, reduced contribution, observer status in organs |
 | **T2** | Full Member | Full voting rights, full contribution obligation, full integration |
@@ -15425,7 +15859,7 @@ _T0 Observer → T1 Associate → T2 Full → T3 Core – Rights, Obligations, A
 #### Art. F3 – T0 Observer
 
 | Dimension | Provision |
-|---|---|
+| ---- | ---- |
 | **Access** | Non-classified documents, open hearings |
 | **Voting rights** | No voting rights |
 | **Contribution** | No financial contribution |
@@ -15435,7 +15869,7 @@ _T0 Observer → T1 Associate → T2 Full → T3 Core – Rights, Obligations, A
 #### Art. F4 – T1 Associate
 
 | Dimension | Provision |
-|---|---|
+| ---- | ---- |
 | **Access** | Documents up to "restricted" level; observer status in POA and committees |
 | **Voting rights** | Advisory vote, no decision-making vote |
 | **Contribution** | Reduced contribution (e.g. 30–50 \% of the T2 rate) |
@@ -15445,7 +15879,7 @@ _T0 Observer → T1 Associate → T2 Full → T3 Core – Rights, Obligations, A
 #### Art. F5 – T2 Full Member
 
 | Dimension | Provision |
-|---|---|
+| ---- | ---- |
 | **Access** | All documents, committees, budget details |
 | **Voting rights** | Full voting rights in POA, Lower House/Upper House |
 | **Contribution** | Full contribution according to formula (GNI + population + risk) |
@@ -15455,7 +15889,7 @@ _T0 Observer → T1 Associate → T2 Full → T3 Core – Rights, Obligations, A
 #### Art. F6 – T3 Core
 
 | Dimension | Provision |
-|---|---|
+| ---- | ---- |
 | **Access** | As T2 + security-clearance panel + clean room |
 | **Voting rights** | As T2 + EB delegation right (Art. 12) |
 | **Contribution** | Full contribution + where applicable solidarity premium for framework states |
@@ -15469,7 +15903,7 @@ _T0 Observer → T1 Associate → T2 Full → T3 Core – Rights, Obligations, A
 #### Art. F7 – Graduated Voting Rights
 
 | Tier | Voting Rights |
-|---|---|
+| ---- | ---- |
 | T0 | None |
 | T1 | Advisory (speech, motion, no decision) |
 | T2 | Full decision-making vote |
@@ -15632,7 +16066,7 @@ This Annex enters into force together with the Treaty.
 #### Art. F26 – Transitional Periods
 
 | Period | Milestone |
-|---|---|
+| ---- | ---- |
 | Day 0 | Tier classification of all founding members |
 | 6 months | Voting-rights and contribution arrangements operational |
 | 12 months | First upgrade/downgrade cycles possible |
@@ -15648,7 +16082,9 @@ This Annex enters into force together with the Treaty.
 \newpage
 
 ---
-source: content/anhang-a-erda-staatenarchitektur-konzentrische-kreise.md
+content_id: erda.book.anhang.a.erda.staatenarchitektur.konzentrische.kreise
+content_lang: en
+source: de/content/anhang-a-erda-staatenarchitektur-konzentrische-kreise.md
 status: draft
 ---
 <a id="md-anhang-a-erda-staatenarchitektur-konzentrische-kreise"></a>
@@ -15670,7 +16106,7 @@ The **Charter forms the legal core of ERDA** and is further developed – not re
 Fully integrated member states with democratic constitutions and stable rule of law, ordered by population size (as of 1 January 2024) (see e.g. en.wikipedia.org, "List of European Union member states by population"):
 
 | State       | ISO | Population |
-| ----------- | --- | ---------- |
+| ---- | ---- | ---- |
 | Germany     | DE  | 83 445 000 |
 | France      | FR  | 68 402 000 |
 | Italy       | IT  | 58 989 700 |
@@ -15704,49 +16140,55 @@ Fully integrated member states with democratic constitutions and stable rule of 
 
 Democracies with high compatibility with ERDA core countries and strategic importance that have full partnership capability without formal political integration.
 
+
+\newpage
+\newgeometry{paperwidth=420mm, paperheight=297mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
+
+
+\pagewidth=420mm
+\pageheight=297mm
+
 #### **2.1 Stable democracies with immediate compatibility**
 
 These countries already fulfil all ERDA standards, bring robust institutions and strong innovative capacity, and can be associated at the push of a button:
 
-\newpage
-\newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
-
-
-\pagewidth=297mm
-\pageheight=210mm
-\begin{longtable}{@{}lllllllll@{}}\toprule State & ISO & Level of democracy & Constitutional status & Conditions for integration & Cooperation & Partnership level & Core-state potential & Comment \\\midrule \endhead United Kingdom & GB & High & Stable & Already ERDA compatible & Security, education & Associated & 🟢 Yes & High innovation potential \\Andorra & AD & High & Stable & Already ERDA compatible & Tourism, finance & Associated & 🟢 Yes & Alpine bridge between Spain and France \\Iceland & IS & High & Stable & Arctic strategy, energy self-sufficiency & Arctic, biodiversity & Associated & 🟢 Yes & Bridge state for the North Sea area \\Liechtenstein & LI & High & Stable & Already ERDA compatible & Financial market, industry & Associated & 🟢 Yes & Highly innovative small-state model \\Malta & MT & High & Stable & Fully democratic & Migration, justice & Associated & 🟢 Yes & Access to Africa and the MENA region \\Monaco & MC & High & Stable & Already ERDA compatible & Finance, culture & Associated & 🟢 Yes & Financial centre with high international reach \\Norway & NO & High & Stable & Already ERDA compatible & Arctic, energy & Associated & 🟢 Yes & Model country \\San Marino & SM & High & Stable & Already ERDA compatible & Tourism, culture & Associated & 🟢 Yes & Oldest republic in Europe \\Switzerland & CH & High & Stable & Already ERDA compatible & Financial market, innovation & Associated & 🟢 Yes & Direct democracy, neutrality model \\Greenland & GL & High & Autonomous under Denmark & Need for constitutional clarity & Arctic, raw materials & Associated & 🟡 Medium & Key territory in the Arctic \\Ukraine & UA & High & Stable (consolidated) & ERDA compatibility, rapid EU/NATO entry & Security, reconstruction & Associated & 🟢 Yes & Central pillar of European security \\Cyprus & CY & High & Stable (divided) & Peace process North/South & Security, culture & Associated & 🟡 Medium & Politically sensitive \\\bottomrule \end{longtable}
+\begin{longtable}{@{}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{40.88mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{49.02mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{35.61mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{28.08mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{59.91mm}@{}}\toprule State & ISO & Level of democracy & Constitutional status & Conditions for integration & Cooperation & Partnership level & Core-state potential & Comment \\\midrule \endhead United Kingdom & GB & High & Stable & Already ERDA compatible & Security, education & Associated & 🟢 Yes & High innovation potential \\Andorra & AD & High & Stable & Already ERDA compatible & Tourism, finance & Associated & 🟢 Yes & Alpine bridge between Spain and France \\Iceland & IS & High & Stable & Arctic strategy, energy self-sufficiency & Arctic, biodiversity & Associated & 🟢 Yes & Bridge state for the North Sea area \\Liechtenstein & LI & High & Stable & Already ERDA compatible & Financial market, industry & Associated & 🟢 Yes & Highly innovative small-state model \\Malta & MT & High & Stable & Fully democratic & Migration, justice & Associated & 🟢 Yes & Access to Africa and the MENA region \\Monaco & MC & High & Stable & Already ERDA compatible & Finance, culture & Associated & 🟢 Yes & Financial centre with high international reach \\Norway & NO & High & Stable & Already ERDA compatible & Arctic, energy & Associated & 🟢 Yes & Model country \\San Marino & SM & High & Stable & Already ERDA compatible & Tourism, culture & Associated & 🟢 Yes & Oldest republic in Europe \\Switzerland & CH & High & Stable & Already ERDA compatible & Financial market, innovation & Associated & 🟢 Yes & Direct democracy, neutrality model \\Greenland & GL & High & Autonomous under Denmark & Need for constitutional clarity & Arctic, raw materials & Associated & 🟡 Medium & Key territory in the Arctic \\Ukraine & UA & High & Stable (consolidated) & ERDA compatibility, rapid EU/NATO entry & Security, reconstruction & Associated & 🟢 Yes & Central pillar of European security \\Cyprus & CY & High & Stable (divided) & Peace process North/South & Security, culture & Associated & 🟡 Medium & Politically sensitive \\\bottomrule \end{longtable}
 \restoregeometry
 \pagewidth=210mm
 \pageheight=297mm
 \newpage
+
+
+\newpage
+\newgeometry{paperwidth=420mm, paperheight=297mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
+
+
+\pagewidth=420mm
+\pageheight=297mm
 
 #### **2.2 Democracies with stable reform orientation and high proximity**
 
 These states are on their way to full ERDA compatibility, are pursuing reforms in a targeted way and have clearly defined EU perspectives:
 
-\newpage
-\newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
-
-
-\pagewidth=297mm
-\pageheight=210mm
-\begin{longtable}{@{}lllllllll@{}}\toprule State & ISO & Level of democracy & Constitutional status & Conditions for integration & Cooperation & Partnership level & Core-state potential & Comment \\\midrule \endhead Albania & AL & Developing & Stable (EU candidate country) & Rule-of-law reform, anti-corruption & Infrastructure, energy & Observer & 🟡 Medium & Comprehensive reform agenda \\Armenia & AM & Developing & Reform-willing & Regional stability & Peace work, education & Observer & 🟡 Medium & Needs security guarantees \\Georgia & GE & Developing & In reform process & Democratic resilience & Security, culture & Strategic & 🟡 Medium & Geopolitically sensitive \\Kosovo & XK & Developing & Stable (young democracy) & Recognition, integrity agreement & Security, digitalisation & Observer & 🟡 Medium & Strong reform drive, EU perspective \\Moldova & MD & Developing & Democratic transition & Institution building & Infrastructure, energy & Observer & 🟡 Medium & Between EU and Ukraine \\Montenegro & ME & Stable & Constitution in place & Rule of law, transparency & Legal system, environment & Associated & 🟡 Medium & Small but functional \\North Macedonia & MK & Developing & Stable (EU candidate country) & Rule-of-law reform, EU integration & Security, infrastructure & Observer & 🟡 Medium & Key role for Western Balkan integration \\\bottomrule \end{longtable}
+\begin{longtable}{@{}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{41.42mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{47.83mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{36.96mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{29.75mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{57.54mm}@{}}\toprule State & ISO & Level of democracy & Constitutional status & Conditions for integration & Cooperation & Partnership level & Core-state potential & Comment \\\midrule \endhead Albania & AL & Developing & Stable (EU candidate country) & Rule-of-law reform, anti-corruption & Infrastructure, energy & Observer & 🟡 Medium & Comprehensive reform agenda \\Armenia & AM & Developing & Reform-willing & Regional stability & Peace work, education & Observer & 🟡 Medium & Needs security guarantees \\Georgia & GE & Developing & In reform process & Democratic resilience & Security, culture & Strategic & 🟡 Medium & Geopolitically sensitive \\Kosovo & XK & Developing & Stable (young democracy) & Recognition, integrity agreement & Security, digitalisation & Observer & 🟡 Medium & Strong reform drive, EU perspective \\Moldova & MD & Developing & Democratic transition & Institution building & Infrastructure, energy & Observer & 🟡 Medium & Between EU and Ukraine \\Montenegro & ME & Stable & Constitution in place & Rule of law, transparency & Legal system, environment & Associated & 🟡 Medium & Small but functional \\North Macedonia & MK & Developing & Stable (EU candidate country) & Rule-of-law reform, EU integration & Security, infrastructure & Observer & 🟡 Medium & Key role for Western Balkan integration \\\bottomrule \end{longtable}
 \restoregeometry
 \pagewidth=210mm
 \pageheight=297mm
 \newpage
 
+
+\newpage
+\newgeometry{paperwidth=420mm, paperheight=297mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
+
+
+\pagewidth=420mm
+\pageheight=297mm
+
 #### **2.3 Democracies with barriers but strategic relevance**
 
 Despite internal challenges, these states possess strategic importance and remain important ERDA observers and potential partners:
 
-\newpage
-\newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
-
-
-\pagewidth=297mm
-\pageheight=210mm
-\begin{longtable}{@{}lllllllll@{}}\toprule State & ISO & Level of democracy & Constitutional status & Conditions for integration & Cooperation & Partnership level & Core-state potential & Comment \\\midrule \endhead Bosnia and Herzegovina & BA & Fluctuating & Fragile (Dayton system) & State reform, separation of powers & Administration, reconciliation & Observer & 🔴 Low & Comprehensive constitutional reform required \\Israel & IL & High & Unclear constitutional status & Clarity on separation of powers & Innovation, security & Strategic & 🟡 Medium & Value-compatible but unstable \\Jordan & JO & Stable & Monarchy with reform efforts & Continuation of reform paths & Mediation, dialogue & Strategic & 🟡 Medium & Moderate, willing to cooperate \\Lebanon & LB & Fragile & Confessional system & Democratic reconstruction & Education, culture & Observer & 🟡 Medium & Complex internal fragmentation \\Morocco & MA & Hybrid & Authoritarian with elements of reform & Strengthening participation & Renewables, security & Observer & 🟡 Medium & Ready to reform but with limitations \\Serbia & RS & Fluctuating & Unstable & Judicial reform, press freedom & Infrastructure & Observer & 🔴 Low & Partly EU-sceptical \\Türkiye & TR & Ambivalent & Authoritarian traits & Democratic change & Security, migration & Strategic & 🔴 Low & Ambivalent development \\Tunisia & TN & Unstable & Democratic backsliding since 2021 & Democratic restoration & Education, civil society & Observer & 🟡 Medium & Former showcase state \\Hungary & HU & Ambivalent & Limited separation of powers and independent judiciary & Fulfil Copenhagen criteria, comprehensive rule-of-law and media reform & Migration, energy & Observer & 🔴 Low & Persistent backsliding on rule of law and media freedom \\\bottomrule \end{longtable}
+\begin{longtable}{@{}>{\raggedright\arraybackslash}p{35.34mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{44.29mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{62.36mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{28.40mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{23.43mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{53.68mm}@{}}\toprule State & ISO & Level of democracy & Constitutional status & Conditions for integration & Cooperation & Partnership level & Core-state potential & Comment \\\midrule \endhead Bosnia and Herzegovina & BA & Fluctuating & Fragile (Dayton system) & State reform, separation of powers & Administration, reconciliation & Observer & 🔴 Low & Comprehensive constitutional reform required \\Israel & IL & High & Unclear constitutional status & Clarity on separation of powers & Innovation, security & Strategic & 🟡 Medium & Value-compatible but unstable \\Jordan & JO & Stable & Monarchy with reform efforts & Continuation of reform paths & Mediation, dialogue & Strategic & 🟡 Medium & Moderate, willing to cooperate \\Lebanon & LB & Fragile & Confessional system & Democratic reconstruction & Education, culture & Observer & 🟡 Medium & Complex internal fragmentation \\Morocco & MA & Hybrid & Authoritarian with elements of reform & Strengthening participation & Renewables, security & Observer & 🟡 Medium & Ready to reform but with limitations \\Serbia & RS & Fluctuating & Unstable & Judicial reform, press freedom & Infrastructure & Observer & 🔴 Low & Partly EU-sceptical \\Türkiye & TR & Ambivalent & Authoritarian traits & Democratic change & Security, migration & Strategic & 🔴 Low & Ambivalent development \\Tunisia & TN & Unstable & Democratic backsliding since 2021 & Democratic restoration & Education, civil society & Observer & 🟡 Medium & Former showcase state \\Hungary & HU & Ambivalent & Limited separation of powers and independent judiciary & Fulfil Copenhagen criteria, comprehensive rule-of-law and media reform & Migration, energy & Observer & 🔴 Low & Persistent backsliding on rule of law and media freedom \\\bottomrule \end{longtable}
 \restoregeometry
 \pagewidth=210mm
 \pageheight=297mm
@@ -15757,7 +16199,7 @@ Despite internal challenges, these states possess strategic importance and remai
 Non-politically integrated democracies with security-policy and innovation-policy cooperation:
 
 | State      | ISO | Cooperation focus                      |
-| ---------- | --- | -------------------------------------- |
+| ---- | ---- | ---- |
 | Canada     | CA  | Arctic and transatlantic               |
 | Australia  | AU  | Indo-Pacific region                    |
 | New Zealand| NZ  | Indo-Pacific region                    |
@@ -15776,7 +16218,7 @@ Non-politically integrated democracies with security-policy and innovation-polic
 #### 🛰️ Strategic special roles within ERDA
 
 | Territory/state     | Role within ERDA                           |
-| ------------------- | ------------------------------------------ |
+| ---- | ---- |
 | Greenland           | Raw-material and security strategy (via DK)|
 | Iceland             | North Sea defence and Arctic corridor      |
 | Canada              | Transatlantic and Arctic partnership      |
@@ -15799,7 +16241,9 @@ Non-politically integrated democracies with security-policy and innovation-polic
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/README.md
+content_id: erda.book.anhang.b.erda.staatenprofile.readme
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/README.md
 status: draft
 ---
 <a id="md-anhang-b-erda-staatenprofile-readme"></a>
@@ -15825,7 +16269,9 @@ The profiles are not designed as ranking tools, but as **cooperative planning in
 
 ## B.2 Schema for ERDA State Profiles (v5, extended overview)
 
-Each ERDA state profile follows a standard schema (version 4, 2025). It starts with a short description block in the front matter and then structures the content into eleven to twelve thematic sections.
+Each ERDA state profile follows a standard schema (version 5, 2026). It starts with a short description block in the front matter and then structures the content into eleven to twelve thematic sections.
+
+> **Editorial note:** The following front-matter block is a technical sample. Placeholders are intentional and are replaced in concrete country profiles; the metadata keys remain technical for repository compatibility.
 
 ### B.2.1 Front matter
 
@@ -15844,6 +16290,8 @@ version: "1.0"
 ```
 
 This clarifies who is responsible for the content, on which data basis it rests and which layout version is used.
+
+The keys remain technical because the template is meant to be reusable directly in the repository workflow.
 
 ### B.2.2 Main sections of the profile
 
@@ -15890,27 +16338,18 @@ Until then, this appendix primarily documents the **concept and schema** so that
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.1.-einleitung-zum-staatenprofil-konzept/README.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.1.einleitung.zum.staatenprofil.konzept.readme
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.1.-einleitung-zum-staatenprofil-konzept.md
 status: draft
 ---
-<a id="md-anhang-b-erda-staatenprofile-b-1-einleitung-zum-staatenprofil-konzept-readme"></a>
-
+<a id="md-anhang-b-erda-staatenprofile-b-1-einleitung-zum-staatenprofil-konzept"></a>
 
 ## B.1 Introduction to the State Profile Concept
 
 _**Introduction to the ERDA state profile concept**_
 
 The European Rights-Based Democratic Alliance (ERDA) sees itself not merely as a political-institutional project but as a civilisational blueprint for the future. Its mission is to reinvigorate democracy, the rule of law, technological sovereignty and social justice within a globally connected yet fragile world order. The state profiles are a central instrument for analysis, communication and design in pursuit of that goal.
-
-
-\newpage
-
----
-source: content/anhang-b-erda-staatenprofile/b.1.-einleitung-zum-staatenprofil-konzept/b.1.1-ziel-und-funktion-der-staatenprofile.md
-status: draft
----
-<a id="md-anhang-b-erda-staatenprofile-b-1-einleitung-zum-staatenprofil-konzept-b-1-1-ziel-und-funktion-der-staatenprofile"></a>
-
 
 ### B.1.1 Purpose and Function of the State Profiles
 
@@ -15922,16 +16361,6 @@ The ERDA state profiles capture, in a systematic manner, the political, social, 
 * **identify strategic strengths** while also labelling weaknesses honestly,
 * **model development pathways** that differentiate between status quo, best-case and worst-case scenarios,
 * and clearly state the **role of each country within the ERDA Vision 2075**.
-
-
-\newpage
-
----
-source: content/anhang-b-erda-staatenprofile/b.1.-einleitung-zum-staatenprofil-konzept/b.1.2-modularer-aufbau.md
-status: draft
----
-<a id="md-anhang-b-erda-staatenprofile-b-1-einleitung-zum-staatenprofil-konzept-b-1-2-modularer-aufbau"></a>
-
 
 ### B.1.2 Modular Structure
 
@@ -15950,16 +16379,6 @@ The profile is organised into ten modular sections:
 9. **Key indicators overview** – condensed information in a tabular matrix.
 10. **Sources & modelling** – transparent basis for data and projections.
 
-
-\newpage
-
----
-source: content/anhang-b-erda-staatenprofile/b.1.-einleitung-zum-staatenprofil-konzept/b.1.3-einsatzmoglichkeiten.md
-status: draft
----
-<a id="md-anhang-b-erda-staatenprofile-b-1-einleitung-zum-staatenprofil-konzept-b-1-3-einsatzmoglichkeiten"></a>
-
-
 ### B.1.3 Use Cases
 
 _**Possible applications**_
@@ -15967,19 +16386,9 @@ _**Possible applications**_
 The profiles can be used equally by policy-makers, civil-society actors, researchers, media professionals and citizens:
 
 * for **strategic planning and prioritisation** within ERDA,
-* for **public outreach and communicating the ERDA vision**, 
-* as a **comparative and analytical tool for reform processes**, 
+* for **public outreach and communicating the ERDA vision**,
+* as a **comparative and analytical tool for reform processes**,
 * and as a **basis for citizen dialogues and educational initiatives** within CIVITAS.
-
-
-\newpage
-
----
-source: content/anhang-b-erda-staatenprofile/b.1.-einleitung-zum-staatenprofil-konzept/b.1.4-vielfalt-anerkennen-gemeinsamkeit-gestalten.md
-status: draft
----
-<a id="md-anhang-b-erda-staatenprofile-b-1-einleitung-zum-staatenprofil-konzept-b-1-4-vielfalt-anerkennen-gemeinsamkeit-gestalten"></a>
-
 
 ### B.1.4 Recognising Diversity – Shaping Common Ground
 
@@ -15989,21 +16398,24 @@ The profiles strike a balance between individuality and integration. They do not
 
 > _Democracy is not merely a status. It is a process. And ERDA is its collective compass._
 
-
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.2.-schema-fur-erda-staatenprofile-ausfuhrliche-ubersicht.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.2.schema.fur.erda.staatenprofile.ausfuhrliche.ubersicht
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.2.-schema-fur-erda-staatenprofile-ausfuhrliche-ubersicht.md
 status: draft
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-2-schema-fur-erda-staatenprofile-ausfuhrliche-ubersicht"></a>
 
 
-## B.2 ERDA State Profile Template (v5, Extended Overview)
+## B.2 ERDA State Profile Template (v5, Technical Sample)
 
-_**Template for ERDA state profiles (v5)**_
+_**Technical sample template for ERDA state profiles (v5)**_
 
-#### 1. 🌍 ERDA State Profile – Template (v5, 2025)
+> **Editorial note:** This section deliberately documents a technical sample template. Placeholders mark fields that must be replaced in concrete country profiles. The front-matter keys remain technical so that the template stays compatible with repository files and tooling.
+
+#### 1. 🌍 ERDA State Profile – Technical sample template (v5, 2026)
 
 ```markup
 ---
@@ -16016,7 +16428,7 @@ layout: "ERDA-State-Profile-v5"
 version: "1.0"
 ---
 
-# {{country-code}} – State Profile {{country name}}
+# {{country-code}} – State Profile {{Country}}
 
 
 ## 1. Overview (meta)
@@ -16133,7 +16545,7 @@ version: "1.0"
 
 ## 8. Narrative & attractiveness
 
-* Core message: "{{Country}} shows that ..."
+* Core message (sample placeholder): "{{Country}} shows that ..."
 * Examples of strong, effective narratives and invitations:
 * Self-efficacy: (How do citizens help shape outcomes?)
 * Future dignity: (What provides identity & pride?)
@@ -16142,7 +16554,7 @@ version: "1.0"
 ## 9. Key indicators (short form)
 
 | Indicator                            | 2025 | 2050 | 2075 | EU average 2024 (benchmark) |
-| ------------------------------------ | ---- | ---- | ---- | --------------------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                         |      |      |      |                             |
 | Population                           |      |      |      |                             |
 | Share of renewable energy (\%)        |      |      |      |                             |
@@ -16152,7 +16564,7 @@ version: "1.0"
 | Civil-society index [0–10]           |      |      |      |                             |
 Notes: (n/b) – not available (why?); (p) – projection (by whom?).
 
-## 10. Snapshot: "<Country> at a glance"
+## 10. Snapshot: "{{Country}} at a glance" (sample)
 
 A short, emotionally engaging summary of the key points, strengths and distinctive features for a broad audience.
 
@@ -16180,40 +16592,42 @@ Example database/website
 
 ### 11.3 🛠️ Modelling & assumptions
 
-(With example data)
+(Sample with example data)
 1. Economic projections 2050–2075
 * Base year: 2020; parameters: GDP growth 2.0% p.a., inflation 1.5% p.a., demographics cf. 11.1.
 * Sources: Eurostat, World Bank.
 
-(With example data)
+(Sample with example data)
 2. AI capacities
 * Assumption: computing power doubles every three years.
-* Source: [insert source].
+* Source: [add a concrete specialist source relevant to the topic, e.g. Eurostat, IEA or a national statistics office].
 
-(With example data)
+(Sample with example data)
 3. Infrastructure autonomy
 * Goal: 80% renewable energy supply generated domestically.
 * Data basis: Fraunhofer ISE, GIS modelling.
 
-(With example data)
+(Sample with example data)
 4. Democracy and participation values
 * Indicators: Freedom House score, CIVICUS Monitor.
 * Base value 2020; assumption: annual improvement by 0.5 points.
 
-(With example data)
+(Sample with example data)
 5. Energy potentials
 * Scenarios: moderate vs. ambitious.
 * Solar PV potential: 150 GWp (moderate), 300 GWp (ambitious).
 * Sources: BMWK, IEA.
 
 ## 12. 🤝 Participation welcome
-This profile is based on publicly accessible and modelled data. Representatives of the Republic of {{Country}} and interested specialist bodies are warmly invited to contribute their own perspectives, additions and updates – to build a shared picture of a resilient and democratic future for Europe.
+This profile is based on publicly accessible and modelled data. Representatives of the respective country and interested specialist bodies are warmly invited to contribute their own perspectives, additions and updates – to build a shared picture of a resilient and democratic future for Europe.
 
 ### 12.1 Last responsible points of contact
 Author: ERDA Book editorial team
 Contact: ERDA Book editorial team
 Last update: 2026-01-08
 ```
+
+**Note on technical notation:** The metadata keys `country`, `date`, `author`, `legal_responsible`, `layout` and `version` intentionally remain technical so that this sample can be reused directly in the repository.
 
 ##### 2. Formatting, completion & collaboration notes
 
@@ -16229,7 +16643,9 @@ Last update: 2026-01-08
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/README.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.readme
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/README.md
 status: draft
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-3-staatenprofile-eu-erda-kernlander-readme"></a>
@@ -16244,7 +16660,9 @@ _**as defined in the**_ [_**ERDA state architecture ("concentric circles")**_](#
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/at-staatenprofil-osterreich.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.at.staatenprofil.osterreich
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/at-staatenprofil-osterreich.md
 status: draft
 description: "State: AT, Date: 2025-06-09, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "AT"
@@ -16393,7 +16811,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator                            | 2025      | 2050      | 2075      | EU benchmark 2024                  |
-| ------------------------------------ | --------- | --------- | --------- | ---------------------------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                         | 428.5     | 600       | 750       | 492 (avg. per member state)        |
 | Population                           | 9,113,574 | 9,825,200 | 9,400,000 | 16,556,000 (avg. per member state) |
 | Share of renewables (\%)              | 34.7      | 65        | 80        | 22                                 |
@@ -16471,7 +16889,9 @@ Last update: 2026-01-08
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/be-staatenprofil-belgien.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.be.staatenprofil.belgien
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/be-staatenprofil-belgien.md
 status: draft
 description: "State: BE, Date: 2025-05-28, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "BE"
@@ -16596,7 +17016,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator | 2025 | 2050 | 2075 |
-| --- | --- | --- | --- |
+| ---- | ---- | ---- | ---- |
 | [GDP (bn EUR)](https://ec.europa.eu/eurostat/databrowser/view/tec00115/default/table) | 131.5 | 175.0 | 260.0 |
 | [Population (m)](https://population.un.org/wpp/downloads) | 11.81 | 11.87 | 11.42 |
 | [Renewable energy (\%)](https://www.iea.org) | 18 | 45 | 75 |
@@ -16741,7 +17161,9 @@ Last update: 2026-01-08
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/bg-staatenprofil-bulgarien.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.bg.staatenprofil.bulgarien
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/bg-staatenprofil-bulgarien.md
 status: draft
 description: "State: BG, Date: 2025-06-11, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "BG"
@@ -16881,7 +17303,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator | 2025 | 2050 | 2075 | EU average 2024 |
-| --- | --- | --- | --- | --- |
+| ---- | ---- | ---- | ---- | ---- |
 | GDP (bn EUR) | 97.5 | 140 (p) | 200 (p) | 16,000 |
 | Population | 6.45 m | 5.5 m (p) | 4.9 m (p) | 448 m |
 | Share of renewable energy (\%) | 23\% | 55\% (p) | 80\% (p) | 32\% |
@@ -16925,7 +17347,7 @@ Bulgaria is a Balkan country rich in tradition, an EU member with growing ambiti
    * Sources: World Bank, UN WPP 2022
 2. **AI capacities**  
    * Assumption: computing power doubles every three years (hypothetical)  
-   * Source: <insert source>
+   * Source: Stanford University. 2025. *AI Index Report 2025*; OECD. 2025. *OECD AI Policy Observatory*.
 3. **Infrastructure autonomy**  
    * Goal: 70% renewable energy supply by 2050 (hypothetical)  
    * Data basis: IEA, national energy plans
@@ -16950,7 +17372,9 @@ Last update: 2026-01-08
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/cz-staatenprofil-tschechien.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.cz.staatenprofil.tschechien
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/cz-staatenprofil-tschechien.md
 status: draft
 description: "State: CZ, Date: 2025-06-10, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "CZ"
@@ -17081,7 +17505,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator | 2025 | 2050 | 2075 |
-| --- | --- | --- | --- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn EUR) | 295 | 430 | 510 |
 | Population | 10.5 m | 10.1 m | 9.8 m |
 | Renewable energy share (\%) | 24 | 50 | 68 |
@@ -17133,7 +17557,9 @@ Last update: 2026-01-08
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/staatenprofil-deutschland-de.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.staatenprofil.deutschland.de
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/staatenprofil-deutschland-de.md
 status: draft
 description: "State: DE, Date: 2025-06-10, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "DE"
@@ -17274,7 +17700,7 @@ Narrative: 2025–2050 focuses on AI education, energy transition, demographic i
 ##### 9. Key indicators (short form)
 
 | Indicator                             | 2025      | 2050      | 2075      |
-| ------------------------------------- | --------- | --------- | --------- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                          | 4,200     | 5,800     | 6,300     |
 | Population                            | 83.5 m    | 82.0 m    | 78.0 m    |
 | Share of renewables (\%)               | 46        | 70        | 90        |
@@ -17329,7 +17755,9 @@ Last update: 2026-01-08
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/dk-staatenprofil-danemark.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.dk.staatenprofil.danemark
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/dk-staatenprofil-danemark.md
 status: draft
 description: "State: DK, Date: 2025-06-10, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "DK"
@@ -17470,7 +17898,7 @@ version: "1.0"
 ##### 9. Key indicators
 
 | Indicator | 2025 | 2050 | 2075 |
-| --- | --- | --- | --- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn EUR) | 400 | – | – |
 | Population (m) | 5.98 | 6.12 | 6.10 |
 | Renewable energy (\%) | 50 | 75 | 85 |
@@ -17530,7 +17958,9 @@ Last update: 2026-01-08
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/ee-staatenprofil-republik-estland.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.ee.staatenprofil.republik.estland
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/ee-staatenprofil-republik-estland.md
 status: draft
 description: "State: EE, Date: 2025-06-10, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "EE"
@@ -17681,7 +18111,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator | 2025 | 2050 | 2075 |
-| --- | --- | --- | --- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn USD) | 45.0 | 58.5¹ | 75.0¹ |
 | Population | 1.369 m | 1.270 m | 1.200 m |
 | Share of renewables (\%) | 28\% (power) | 60\% | 100\% |
@@ -17760,7 +18190,9 @@ Last update: 2026-01-08
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/es-staatenprofil-spanien.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.es.staatenprofil.spanien
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/es-staatenprofil-spanien.md
 status: draft
 description: "State: ES, Date: 2025-06-10, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "ES"
@@ -17921,7 +18353,7 @@ Transformation 2050–2075: Spain evolves into a green-tech pioneer leading in c
 ##### 9. Key indicators (short form)
 
 | **Indicator**                         | **2025** | **2050** | **2075** |
-| ------------------------------------- | -------- | -------- | -------- |
+| ---- | ---- | ---- | ---- |
 | Real GDP (bn EUR)                     | 1,412    | 430.0    | 480.0    |
 | Population (million)                  | 47.9     | 44.9     | 43.0     |
 | Share of renewables (\%)               | 46\%      | 75\%      | 85\%      |
@@ -18000,7 +18432,9 @@ Last update: 2026-01-08
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/fi-staatenprofil-finnland.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.fi.staatenprofil.finnland
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/fi-staatenprofil-finnland.md
 status: draft
 description: "State: FI, Date: 2025-06-10, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "FI"
@@ -18154,7 +18588,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator                            | 2025 | 2050 | 2075 |
-| ------------------------------------ | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                         | 280  | 360  | 460  |
 | Population (million)                 | 5.68 | 5.35 | 5.02 |
 | Share of renewables (\%)              | 43   | 80   | 90   |
@@ -18205,7 +18639,9 @@ Last update: 2026-01-08
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/fr-staatenprofil-frankreich.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.fr.staatenprofil.frankreich
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/fr-staatenprofil-frankreich.md
 status: draft
 description: "State: FR, Date: 2025-06-10, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "FR"
@@ -18341,7 +18777,7 @@ version: "1.0"
 ##### 9. Key indicators
 
 | Indicator                            | 2025  | 2050  | 2075  |
-| ------------------------------------ | ----- | ----- | ----- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                         | 2,822 | 3,300 | 3,600 |
 | Population (million)                 | 68.6  | 64    | 60    |
 | Share of renewables (\%)              | 21    | 50    | 75    |
@@ -18398,7 +18834,9 @@ Last update: 2026-01-08
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/gr-staatenprofil-griechenland.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.gr.staatenprofil.griechenland
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/gr-staatenprofil-griechenland.md
 status: draft
 description: "State: GR, Date: 2025-06-10, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "GR"
@@ -18560,7 +18998,7 @@ Narrative: 2025–2050 focuses on renewable build-out and education; 2050–2075
 ##### 9. Key indicators
 
 | Indicator                            | 2025       | 2050      | 2075      |
-| ------------------------------------ | ---------- | --------- | --------- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn USD)                         | 245.2      | 346       | 631       |
 | Population                           | 10,432,481 | 9,762,000 | 8,352,000 |
 | Share of renewables (\%)              | 68.4       | 82        | 95        |
@@ -18635,7 +19073,9 @@ Last update: 2026-01-08
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/hr-staatenprofil-kroatien.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.hr.staatenprofil.kroatien
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/hr-staatenprofil-kroatien.md
 status: draft
 description: "State: HR, Date: 2025-06-10, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "HR"
@@ -18795,7 +19235,7 @@ Narrative: the economy consolidates with investments in tourism and digitalisati
 ##### 9. Key indicators (short form)
 
 | Indicator                            | 2025      | 2050      | 2075      |
-| ------------------------------------ | --------- | --------- | --------- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn USD)                         | 84.4      | 131       | 239       |
 | Population                           | 3,848,160 | 3,234,160 | 2,624,398 |
 | Share of renewables (\%)              | 61.7      | 75        | 90        |
@@ -18869,7 +19309,9 @@ Last update: 2026-01-08
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/ie-staatenprofil-republik-irland.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.ie.staatenprofil.republik.irland
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/ie-staatenprofil-republik-irland.md
 status: draft
 description: "State: IE, Date: 2025-06-10, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "IE"
@@ -18970,7 +19412,7 @@ version: "1.0"
 * Languages: Irish (Gaeilge) and English; Gaeltacht regions
 * UNESCO World Heritage: Brú na Bóinne, Skellig Michael, Clonmacnoise
 * Creative economy: 3.7% of GDP (Creative Ireland)
-* International visibility: 4 Nobel Prizes in Literature (Beckett, Heaney, et al.), leading film festivals, Rugby Six Nations, Olympic participation
+* International visibility: 4 Nobel Prizes in Literature (Yeats, Shaw, Beckett, Heaney), leading film festivals, Rugby Six Nations, Olympic participation
 * Culture as mediator: European Capitals of Culture Cork 2005, Galway 2020
 
 ***
@@ -19012,7 +19454,7 @@ Transformation 2050–2075: fully decarbonised system, high automation, mature b
 ##### 9. Key indicators (short form)
 
 | Indicator                            | 2025 | 2050 | 2075 |
-| ------------------------------------ | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn USD)                         | 587  | 870  | 1,430 |
 | Population (million)                 | 5.31 | 5.97 | 5.71 |
 | Share of renewables (\%)              | 40   | 75   | 90   |
@@ -19091,7 +19533,9 @@ Last update: 2026-01-08
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/it-staatenprofil-italien.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.it.staatenprofil.italien
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/it-staatenprofil-italien.md
 status: draft
 description: "State: IT, Date: 2025-06-10, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "IT"
@@ -19225,7 +19669,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator                            | 2025 | 2050 | 2075 |
-| ------------------------------------ | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                         | 2,150| 2,800| 3,200|
 | Population (million)                 | 58.9 | 54.4 | 47.0 |
 | Share of renewables (\%)              | 22   | 60   | 85   |
@@ -19280,7 +19724,9 @@ Last update: 2026-01-08
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/lt-staatenprofil-republik-litauen.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.lt.staatenprofil.republik.litauen
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/lt-staatenprofil-republik-litauen.md
 status: draft
 description: "State: LT, Date: 2025-06-10, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "LT"
@@ -19424,7 +19870,7 @@ Transformation 2050–2075: full decarbonisation, automated agriculture, regiona
 ##### 9. Key indicators (short form)
 
 | Indicator                            | 2025 | 2050 | 2075 |
-| ------------------------------------ | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                         | 77.94| 95.0 | 130.0 |
 | Population (million)                 | 2.83 | 2.26 | 1.90 |
 | Share of renewables (power, \%)       | 46   | 65   | 90    |
@@ -19481,7 +19927,9 @@ Last update: 2026-01-08
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/lu-staatenprofil-luxemburg.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.lu.staatenprofil.luxemburg
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/lu-staatenprofil-luxemburg.md
 status: draft
 description: "State: LU, Date: 2025-06-11, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "LU"
@@ -19599,7 +20047,7 @@ version: "1.0"
 ##### 9. Key indicators
 
 | Indicator                            | 2025 | 2050 | 2075 |
-| ------------------------------------ | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                         | 86*  | 110ᵖ | 150ᵖ |
 | Population (million)                 | 0.67 | 0.80ᵖ | 0.85ᵖ |
 | Share of renewables (\%)              | 20.5 | 50ᵖ  | 70ᵖ  |
@@ -19661,7 +20109,9 @@ Last update: 2026-01-08
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/lv-staatenprofil-republik-lettland.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.lv.staatenprofil.republik.lettland
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/lv-staatenprofil-republik-lettland.md
 status: draft
 description: "State: LV, Date: 2025-06-10, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "LV"
@@ -19795,7 +20245,7 @@ Narrative: 2025 sees digital government and business reform while managing youth
 ##### 9. Key indicators (short form)
 
 | Indicator                            | 2025 | 2050 | 2075 |
-| ------------------------------------ | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn USD)                         | 48.4 | 75.0 | 110.0 |
 | Population (million)                 | 1.86 | 1.25 | 1.00* |
 | Share of renewables (power, \%)       | 42   | 65   | 90    |
@@ -19851,7 +20301,9 @@ Last update: 2026-01-08
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/nl-staatenprofil-niederlande.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.nl.staatenprofil.niederlande
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/nl-staatenprofil-niederlande.md
 status: draft
 description: "State: NL, Date: 2025-06-10, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "NL"
@@ -19986,7 +20438,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator                            | 2025 | 2050 | 2075 |
-| ------------------------------------ | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn USD)                         | 1,376| ~1,800 | ~2,000 |
 | Population (million)                 | 18.33| 19.00 | 21.00 |
 | Share of renewables (\%)              | 35   | 60   | 75   |
@@ -20038,7 +20490,9 @@ Last update: 2026-01-08
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/pl-staatenprofil-polen.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.pl.staatenprofil.polen
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/pl-staatenprofil-polen.md
 status: draft
 description: "State: PL, Date: 2025-06-10, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "PL"
@@ -20174,7 +20628,7 @@ version: "1.0"
 ##### 9. Key indicators
 
 | Indicator                            | 2025 | 2050 | 2075 |
-| ------------------------------------ | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                         | 800  | 1,200| 1,350|
 | Population (million)                 | 37.5 | 36   | 34   |
 | Share of renewables (\%)              | 38   | 68   | 80   |
@@ -20224,7 +20678,9 @@ Last update: 2026-01-08
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/pt-staatenprofil-republik-portugal.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.pt.staatenprofil.republik.portugal
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/pt-staatenprofil-republik-portugal.md
 status: draft
 description: "State: PT, Date: 2025-06-10, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "PT"
@@ -20371,7 +20827,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator                             | 2025 | 2050  | 2075  |
-| ------------------------------------- | ---- | ----- | ----- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                          | 260  | 320^1 | 450^1 |
 | Population (million)                  | 10.30| 10.50 | 10.10 |
 | Share of renewables (\%)               | 61\%  | 80\%   | 95\%   |
@@ -20450,7 +20906,9 @@ Last update: 2026-01-08
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/ro-staatenprofil-rumanien.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.ro.staatenprofil.rumanien
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/ro-staatenprofil-rumanien.md
 status: draft
 description: "State: RO, Date: 2025-06-11, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "RO"
@@ -20592,7 +21050,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator                             | 2025   | 2050       | 2075       |
-| ------------------------------------- | ------ | ---------- | ---------- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                          | ≈325   | 500 (hyp.) | 620 (hyp.) |
 | Population                            | 19 m   | 14.8 m     | 12 m       |
 | Share of renewables (\%)               | 50\%    | 65\% (hyp.) | 80\% (hyp.) |
@@ -20647,7 +21105,9 @@ Last update: 2026-01-08
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/se-staatenprofil-schweden.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.se.staatenprofil.schweden
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/se-staatenprofil-schweden.md
 status: draft
 description: "State: SE, Date: 2025-06-10, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "SE"
@@ -20778,7 +21238,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator                             | 2025      | 2050    | 2075      |
-| ------------------------------------- | --------- | ------- | --------- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                          | 650       | 820     | 890       |
 | Population                            | 10.5 m    | 11 m    | 10.7 m    |
 | Share of renewables (\%)               | 65\%       | 85\%     | 95\%       |
@@ -20824,7 +21284,9 @@ Last update: 2026-01-08
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/si-staatenprofil-slowenien.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.si.staatenprofil.slowenien
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/si-staatenprofil-slowenien.md
 status: draft
 description: "State: SI, Date: 2025-06-10, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "SI"
@@ -20968,7 +21430,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator                             | 2025   | 2050   | 2075   |
-| ------------------------------------- | ------ | ------ | ------ |
+| ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                          | 63     | 95     | 135    |
 | Population                            | 2.12 m | 2.05 m | 1.95 m |
 | Share of renewables (\%)               | 36\%    | 58\%    | 83\%    |
@@ -21047,7 +21509,9 @@ Last update: 2026-01-08
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/sk-staatenprofil-slowakei.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.sk.staatenprofil.slowakei
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/sk-staatenprofil-slowakei.md
 status: draft
 description: "State: SK, Date: 2025-06-10, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "SK"
@@ -21181,7 +21645,7 @@ Narrative: 2025–2050 focus on smart manufacturing and education; 2050–2075 b
 ##### 9. Key indicators (short form)
 
 | Indicator                             | 2025    | 2050        | 2075        |
-| ------------------------------------- | ------- | ----------- | ----------- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn USD)                          | 118.0   | 184         | 335         |
 | Population                            | 5.47 m  | 4.94 m      | 4.42 m      |
 | Share of renewables (\%)               | 45      | 65 (proj.)  | 85 (proj.)  |
@@ -21235,7 +21699,9 @@ Last update: 2026-01-08
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/README.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.readme
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/README.md
 status: draft
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-4-staatenprofile-eu-erda-erweiterte-partnerschaft-readme"></a>
@@ -21250,7 +21716,9 @@ _**according to the**_ [_**ERDA State Architecture ("Concentric Circles")**_](#e
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/al-staatenprofil-albanien.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.al.staatenprofil.albanien
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/al-staatenprofil-albanien.md
 status: draft
 description: "State: AL, Date: 2025-06-11, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "AL"
@@ -21386,7 +21854,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator                             | 2025 | 2050 | 2075 | EU average 2024 |
-| ------------------------------------- | ---- | ---- | ---- | -------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                          | 22   | 40 (p) | 55 (p) | 16,556 |
 | Population (million)                  | 2.75 | 2.6 (p) | 2.5 (p) | 447 |
 | Share of renewables (\%)               | 42   | 60 (p) | 75 (p) | 37 |
@@ -21423,7 +21891,9 @@ Last update: 2026-01-08
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/am-staatenprofil-armenien.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.am.staatenprofil.armenien
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/am-staatenprofil-armenien.md
 status: draft
 description: "State: AM, Date: 2025-06-11, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "AM"
@@ -21572,7 +22042,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator                             | 2025 | 2050 | 2075 | EU average 2024 |
-| ------------------------------------- | ---- | ---- | ---- | -------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                          | 22   | 40 (p) | 55 (p) | 16,556 |
 | Population                            | 3.1 m | 2.9 m (p) | 2.7 m (p) | 447 m |
 | Share of renewables (\%)               | 38   | 55 (p) | 70 (p) | 37 |
@@ -21630,7 +22100,9 @@ Last update: 2026-01-08
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/ba-staatenprofil-bosnien-herzegowina.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.ba.staatenprofil.bosnien.herzegowina
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/ba-staatenprofil-bosnien-herzegowina.md
 status: draft
 description: "State: BA, Date: 2025-06-10, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "BA"
@@ -21779,7 +22251,7 @@ Gradual convergence with EU standards, strengthening democratic processes and su
 ##### 9. Key indicators (short form)
 
 | Indicator                             | 2025      | 2050      | 2075      |
-| ------------------------------------- | --------- | --------- | --------- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn USD)                          | 27.5      | 40 (p)    | 55 (p)    |
 | Population                            | 3.18 m    | 2.7 m (p) | 2.3 m (p) |
 | Share of renewables (\%)               | 40\%       | 55\% (p)   | 70\% (p)   |
@@ -21838,7 +22310,9 @@ Last update: 2026-01-08
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/ch-staatenprofil-schweiz.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.ch.staatenprofil.schweiz
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/ch-staatenprofil-schweiz.md
 status: draft
 description: "State: CH, Date: 2025-06-11, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "CH"
@@ -22001,7 +22475,7 @@ Expand education and research alliances; deepen European integration; build sust
 ##### 9. Key indicators (short form)
 
 | Indicator                             | 2025 | 2050 (p) | 2075 (p) | EU average 2024 |
-| ------------------------------------- | ---- | -------- | -------- | -------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                          | 805  | 1,100    | 1,300    | 16,556 |
 | Population                            | 9.0 m | 9.34 m  | 10.25 m  | 447 m |
 | Share of renewables (\%)               | 75   | 85       | 92       | 37 |
@@ -22066,7 +22540,9 @@ Last update: 2026-01-08
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/cy-staatenprofil-zypern.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.cy.staatenprofil.zypern
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/cy-staatenprofil-zypern.md
 status: draft
 description: "State: CY, Date: 2025-06-11, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "CY"
@@ -22212,7 +22688,7 @@ Integration into regional energy projects; stronger innovation landscape
 ##### 9. Key indicators (short form)
 
 | Indicator                             | 2025 | 2050 (p) | 2075 (p) |
-| ------------------------------------- | ---- | -------- | -------- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn USD)                          | 34   | 55       | 70       |
 | Population                            | 1.35 m | 1.4 m | 1.35 m |
 | Share of renewables (\%)               | 20\%  | 45\%      | 60\%      |
@@ -22268,7 +22744,9 @@ Last update: 2026-01-08
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/ge-staatenprofil-georgien.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.ge.staatenprofil.georgien
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/ge-staatenprofil-georgien.md
 status: draft
 description: "State: GE, Date: 2025-06-11, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "GE"
@@ -22413,7 +22891,7 @@ Economic integration with EU markets, expansion of renewables, stronger democrat
 ##### 9. Key indicators (short form)
 
 | Indicator                             | 2025 | 2050 | 2075 |
-| ------------------------------------- | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn USD)                          | 32   | 50 (hyp.) | 70 (hyp.) |
 | Population                            | 3.7 m | 3.39 m | 2.91 m |
 | Share of renewables (\%)               | 35\%  | 55\% (hyp.) | 80\% (hyp.) |
@@ -22468,7 +22946,9 @@ Last update: 2026-01-08
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/hu-staatenprofil-ungarn.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.hu.staatenprofil.ungarn
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/hu-staatenprofil-ungarn.md
 status: draft
 description: "State: HU, Date: 2025-06-10, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "HU"
@@ -22607,7 +23087,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator                             | 2025 | 2050 (p) | 2075 (p) | EU average 2024 |
-| ------------------------------------- | ---- | -------- | -------- | -------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                          | 180  | 240      | 310      | 16,556 |
 | Population (million)                  | 9.55 | 8.6      | 8.1      | 447 |
 | Share of renewables (\%)               | 21   | 45       | 65       | 37 |
@@ -22664,7 +23144,9 @@ Last update: 2026-01-08
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/il-staatenprofil-israel.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.il.staatenprofil.israel
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/il-staatenprofil-israel.md
 status: draft
 description: "State: IL, Date: 2025-06-11, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "IL"
@@ -22810,7 +23292,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator                             | 2025 | 2050 (p) | 2075 (p) | EU average 2024 |
-| ------------------------------------- | ---- | -------- | -------- | -------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                          | 472  | 750      | 1,000    | 16,556 |
 | Population (million)                  | 9.8  | 12       | 13       | 447 |
 | Share of renewables (\%)               | 10   | 25       | 40       | 37 |
@@ -22872,7 +23354,9 @@ Last update: 2026-01-08
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/md-staatenprofil-moldau.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.md.staatenprofil.moldau
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/md-staatenprofil-moldau.md
 status: draft
 description: "State: MD, Date: 2025-06-10, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "MD"
@@ -23005,7 +23489,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator                             | 2025 | 2050 (p) | 2075 (p) | EU avg 2024 |
-| ------------------------------------- | ---- | -------- | -------- | ---------- |
+| ---- | ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                          | 15   | 25       | 35       | 18,000 |
 | Population (million)                  | 2.6  | 2.2      | 1.9      | 448 |
 | Share of renewables (\%)               | 25   | 40       | 60       | 45 |
@@ -23058,7 +23542,9 @@ Last update: 2026-01-08
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/me-staatenprofil-montenegro.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.me.staatenprofil.montenegro
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/me-staatenprofil-montenegro.md
 status: draft
 description: "State: ME, Date: 2025-06-10, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "ME"
@@ -23202,7 +23688,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator                             | 2025 | 2050 (p) | 2075 (p) | EU avg 2024 |
-| ------------------------------------- | ---- | -------- | -------- | ----------- |
+| ---- | ---- | ---- | ---- | ---- |
 | GDP (bn USD)                          | 7.5  | 11       | 15       | 18,000 |
 | Population (million)                  | 0.62 | 0.59     | 0.57     | 447 |
 | Share of renewables (\%)               | 55   | 70       | 80       | 45 |
@@ -23265,7 +23751,9 @@ Last update: 2026-01-08
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/mk-staatenprofil-nord-mazedonien.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.mk.staatenprofil.nord.mazedonien
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/mk-staatenprofil-nord-mazedonien.md
 status: draft
 description: "State: MK, Date: 2025-06-11, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "MK"
@@ -23413,7 +23901,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator                            | 2025 | 2050 | 2075 | EU average 2024 |
-| ------------------------------------ | ---- | ---- | ---- | --------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                         | 14.3 | 25 (p) | 35 (p) | 16,556 |
 | Population                           | 1.83 m | 1.7 m (p) | 1.6 m (p) | 447 m |
 | Share of renewables (\%)              | 27 | 45 (p) | 60 (p) | 37 |
@@ -23473,7 +23961,9 @@ Last update: 2026-01-08
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/mt-staatenprofil-malta.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.mt.staatenprofil.malta
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/mt-staatenprofil-malta.md
 status: draft
 description: "State: MT, Date: 2025-06-11, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "MT"
@@ -23629,7 +24119,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator                            | 2025 | 2050 (p) | 2075 (p) | EU average 2024 |
-| ------------------------------------ | ---- | -------- | -------- | --------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                         | 21   | 32       | 45       | 16.6 |
 | Population                           | 0.55 m | 0.6 m    | 0.58 m   | 447 m |
 | Share of renewables (\%)              | 12\%  | 30\%      | 60\%      | 23\% |
@@ -23688,7 +24178,9 @@ Last update: 2026-01-08
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/no-staatenprofil-norwegen.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.no.staatenprofil.norwegen
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/no-staatenprofil-norwegen.md
 status: draft
 description: "State: NO, Date: 2025-06-10, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "NO"
@@ -23804,7 +24296,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator | Value | Source |
-| --- | --- | --- |
+| ---- | ---- | ---- |
 | Population 2023 | 5,519,594 | World Bank |
 | Life expectancy 2023 | 83.1 years | World Bank |
 | GDP per capita 2023 | 87,925 USD | World Bank |
@@ -23861,7 +24353,9 @@ Last update: 2026-01-08
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/rs-staatenprofil-serbien.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.rs.staatenprofil.serbien
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/rs-staatenprofil-serbien.md
 status: draft
 description: "State: RS, Date: 2025-06-10, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "RS"
@@ -24014,7 +24508,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator                            | 2025 | 2050 | 2075 | EU average 2024 |
-| ------------------------------------ | ---- | ---- | ---- | --------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                         | 75   | 110 (h) | 150 (h) | 16,600 |
 | Population                           | 6.6 m | 6.0 m (h) | 5.5 m (h) | 447 m |
 | Share of renewables (\%)              | 26\%[15] | 45\% (h) | 65\% (h) | 37\% |
@@ -24086,7 +24580,9 @@ Last update: 2026-01-08
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/tr-staatenprofil-tuerkei.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.tr.staatenprofil.tuerkei
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/tr-staatenprofil-tuerkei.md
 status: draft
 description: "State: TR, Date: 2025-06-11, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "TR"
@@ -24250,7 +24746,9 @@ Last update: 2026-01-08
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/ua-staatenprofil-ukraine.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.ua.staatenprofil.ukraine
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/ua-staatenprofil-ukraine.md
 status: draft
 description: "State: UA, Date: 2025-06-08, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: None"
 country: "UA"
@@ -24409,7 +24907,7 @@ _"Ukraine proves how determination and international solidarity can reinforce an
 ##### 9. Key indicators (short form)
 
 | Indicator                            | 2025 | 2050 | 2075 |
-| ------------------------------------ | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                         | 200  | 450  | 700  |
 | Population (million)                 | 37   | 45   | 48   |
 | Share of renewables (\%)              | 25   | 50   | 70   |
@@ -24481,7 +24979,9 @@ Last update: 2026-01-08
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/uk-staatenprofil-vereinigtes-koenigreich.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.uk.staatenprofil.vereinigtes.koenigreich
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/uk-staatenprofil-vereinigtes-koenigreich.md
 status: draft
 description: "State: UK, Date: 2025-06-10, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "UK"
@@ -24631,7 +25131,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator | 2025 | Source |
-| --- | --- | --- |
+| ---- | ---- | ---- |
 | Population | 67.6 m | ONS |
 | Life expectancy | 81.7 years | World Bank |
 | GDP | 2,800 bn EUR | World Bank |
@@ -24687,7 +25187,9 @@ Last update: 2026-01-08
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/xk-staatenprofil-kosovo.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.xk.staatenprofil.kosovo
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/xk-staatenprofil-kosovo.md
 status: draft
 description: "State: XK, Date: 2025-06-10, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "XK"
@@ -24835,7 +25337,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator                            | 2025 | 2050 | 2075 | EU average 2024 (benchmark) |
-| ------------------------------------ | ---- | ---- | ---- | --------------------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                         | 10   | 20 (p) | 30 (p) | 16,556 |
 | Population                           | 1.76 m | 1.8 m (p) | 1.8 m (p) | 447 m |
 | Share of renewable energy (\%)        | 6    | 25 (p) | 40 (p) | 37 |
@@ -24900,7 +25402,9 @@ Last update: 2026-01-08
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/README.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.readme
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/README.md
 status: draft
 ---
 <a id="md-anhang-b-erda-staatenprofile-b-5-staatenprofile-erda-globale-assoziierte-readme"></a>
@@ -24915,7 +25419,9 @@ _**according to the**_ [_**ERDA state architecture ("Concentric Circles")**_](#g
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/au-staatenprofil-australien.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.au.staatenprofil.australien
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/au-staatenprofil-australien.md
 status: draft
 description: "State: AU, Date: 2025-06-11, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "AU"
@@ -25045,7 +25551,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator                             | 2023      | 2050 (proj.) | 2075 (proj.) |
-| ------------------------------------- | --------- | ------------ | ------------ |
+| ---- | ---- | ---- | ---- |
 | GDP (bn USD)                          | 1,728     | ~2,700 (hyp.) | ~3,500 (hyp.) |
 | Population                            | 26,659k   | ~30,000k (UN) | ~33,000k (UN) |
 | Share of renewable electricity (\%)    | 35        | 70 (hyp.)    | 85 (hyp.)    |
@@ -25099,7 +25605,9 @@ Last update: 2026-01-08
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/ca-staatenprofil-kanada.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.ca.staatenprofil.kanada
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/ca-staatenprofil-kanada.md
 status: draft
 description: "State: CA, Date: 2025-06-11, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "CA"
@@ -25248,7 +25756,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator                            | 2025     | 2050      | 2075      |
-| ------------------------------------ | -------- | --------- | --------- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                         | 2,050    | 3,575 (p) | 5,865 (p) |
 | Population                           | 40.1 m   | 45.4 m    | 49.3 m    |
 | Share of renewables (\%)              | 19       | 45 (p)    | 70 (p)    |
@@ -25316,7 +25824,9 @@ Last update: 2026-01-08
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/cl-staatenprofil-chile.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.cl.staatenprofil.chile
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/cl-staatenprofil-chile.md
 status: draft
 description: "State: CL, Date: 2025-06-11, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "CL"
@@ -25468,7 +25978,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator                            | 2025 | 2050      | 2075      |
-| ------------------------------------ | ---- | --------- | --------- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                         | 315  | 517 (p)   | 849 (p)   |
 | Population                           | 20 m | 19 m (p)  | 17 m (p)  |
 | Share of renewables (\%)              | 35   | 60 (p)    | 80 (p)    |
@@ -25525,7 +26035,9 @@ Last update: 2026-01-08
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/cr-staatenprofil-costa-rica.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.cr.staatenprofil.costa.rica
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/cr-staatenprofil-costa-rica.md
 status: draft
 description: "State: CR, Date: 2025-06-12, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "CR"
@@ -25660,7 +26172,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator                              | 2023 | 2050 (proj.) | 2075 (proj.) |
-| -------------------------------------- | ---- | ------------ | ------------ |
+| ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                           | 78   | ~120 (hyp.)  | ~160 (hyp.)  |
 | Population                             | 5.1 m | 5.8 m (hyp.) | 6.1 m (hyp.) |
 | Share of renewable energy (\%)          | 99   | 100 (hyp.)   | 100 (hyp.)   |
@@ -25716,7 +26228,9 @@ Last update: 2026-01-08
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/in-staatenprofil-indien.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.in.staatenprofil.indien
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/in-staatenprofil-indien.md
 status: draft
 description: "State: IN, Date: 2025-06-11, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "IN"
@@ -25853,7 +26367,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator                            | 2025 | 2050 | 2075 |
-| ------------------------------------ | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                         | 3,300 | 8,500 (p) | 12,000 (p) |
 | Population                           | 1.46 bn | 1.67 bn | 1.53 bn |
 | Share of renewables (\%)              | 20 | 45 (p) | 70 (p) |
@@ -25913,7 +26427,9 @@ Last update: 2026-01-08
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/jp-staatenprofil-japan.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.jp.staatenprofil.japan
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/jp-staatenprofil-japan.md
 status: draft
 description: "State: JP, Date: 2025-06-10, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "JP"
@@ -26062,7 +26578,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator                            | 2023 | 2050 | 2075 |
-| ------------------------------------ | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- |
 | GDP (tn USD)                         | 4.2  | 5.5* | 6.0* |
 | Population (million)                 | 124.5 | 104* | 88* |
 | Share of renewables (\%)              | 20   | 45*  | 70* |
@@ -26119,7 +26635,9 @@ Last update: 2026-01-08
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/kr-staatenprofil-sued-korea.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.kr.staatenprofil.sued.korea
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/kr-staatenprofil-sued-korea.md
 status: draft
 description: "State: KR, Date: 2025-06-10, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "KR"
@@ -26271,7 +26789,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator                            | 2025  | 2050 (p) | 2075 (p) | EU average 2024 |
-| ------------------------------------ | ----- | -------- | -------- | --------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                         | 1.6 T | 2.1 T    | 2.4 T    | n/a |
 | Population                           | 51.8 m | 46 m | 38 m | n/a |
 | Share of renewables (\%)              | 9\% | 30 (p) | 60 (p) | n/a |
@@ -26332,7 +26850,9 @@ Last update: 2026-01-08
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/na-staatenprofil-namibia.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.na.staatenprofil.namibia
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/na-staatenprofil-namibia.md
 status: draft
 description: "State: NA, Date: 2025-06-11, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "NA"
@@ -26465,7 +26985,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator                            | 2025 | 2050 | 2075 | EU average 2024 |
-| ------------------------------------ | ---- | ---- | ---- | --------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | GDP (bn USD)                         | 12.4 | 20 (p) | 35 (p) | – |
 | Population                           | 3.0 m | 3.3 m (p) | 3.9 m (p) | – |
 | Share of renewables (\%)              | 30\% | 50\% (p) | 70\% (p) | – |
@@ -26525,7 +27045,9 @@ Last update: 2026-01-08
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/nz-staatenprofil-neuseeland.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.nz.staatenprofil.neuseeland
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/nz-staatenprofil-neuseeland.md
 status: draft
 description: "State: NZ, Date: 2025-06-11, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "NZ"
@@ -26692,7 +27214,7 @@ Technological upgrade of agriculture, sustainable tourism, AI in public administ
 ##### 9. Key indicators (short form)
 
 | Indicator                            | 2025 | 2050 (p) | 2075 (p) | EU average 2024 |
-| ------------------------------------ | ---- | -------- | -------- | --------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                         | 230  | 310      | 370      | 16,556 |
 | Population                           | 5.22 m | 5.69 m | 6.02 m | 447 m |
 | Share of renewables (\%)              | 40  | 65       | 80       | 37 |
@@ -26755,7 +27277,9 @@ Last update: 2026-01-08
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/sn-staatenprofil-senegal.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.sn.staatenprofil.senegal
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/sn-staatenprofil-senegal.md
 status: draft
 description: "State: SN, Date: 2025-06-11, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "SN"
@@ -26888,7 +27412,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator                            | 2023 | 2050 (proj.) | 2075 (proj.) | EU average 2024 |
-| ------------------------------------ | ---- | ------------ | ------------ | --------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | GDP (bn USD)                         | 30.8 | 60 (hyp.)    | 95 (hyp.)    | – |
 | Population                           | 18.1 m | 30 m (p) | 40 m (p) | – |
 | Share of renewables (\%)              | 31   | 55 (p)       | 70 (p)       | – |
@@ -26963,7 +27487,9 @@ Last update: 2026-01-08
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/tn-staatenprofil-tunesien.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.tn.staatenprofil.tunesien
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/tn-staatenprofil-tunesien.md
 status: draft
 description: "State: TN, Date: 2025-06-11, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "TN"
@@ -27108,7 +27634,9 @@ Last update: 2026-01-08
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/tw-staatenprofil-taiwan.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.tw.staatenprofil.taiwan
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/tw-staatenprofil-taiwan.md
 status: draft
 description: "State: TW, Date: 2025-06-11, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "TW"
@@ -27260,7 +27788,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator | 2025 | 2050 | 2075 | EU average 2024 |
-| --- | --- | --- | --- | --- |
+| ---- | ---- | ---- | ---- | ---- |
 | GDP (bn USD) | 960 | 1,400 (hyp.) | 1,800 (hyp.) | n/a |
 | Population | 23.3 m | 20 m (hyp.) | 18 m (hyp.) | n/a |
 | Share of renewables (\%) | 20 | 40 (hyp.) | 60 (hyp.) | n/a |
@@ -27319,7 +27847,9 @@ Last update: 2026-01-08
 \newpage
 
 ---
-source: content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/uy-staatenprofil-uruguay.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.uy.staatenprofil.uruguay
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/uy-staatenprofil-uruguay.md
 status: draft
 description: "State: UY, Date: 2025-06-11, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "UY"
@@ -27447,7 +27977,7 @@ version: "1.0"
 ##### 9. Key indicators (short form)
 
 | Indicator | 2023 | 2050 (proj.) | 2075 (proj.) | EU average 2024 |
-| --- | --- | --- | --- | --- |
+| ---- | ---- | ---- | ---- | ---- |
 | GDP (bn EUR) | 71 | ~95 (hyp.) | ~120 (hyp.) | |
 | Population | 3.39 m | ~3.6 m (UN) | ~3.7 m (UN) | |
 | Share of renewable energy (\%) | 44 | 60 (hyp.) | 75 (hyp.) | |
@@ -27501,7 +28031,9 @@ Last update: 2026-01-08
 \newpage
 
 ---
-source: content/anhang-c-europa-2.0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union.md
+content_id: erda.book.anhang.c.europa.2.0.fahrplan.fur.eine.lebenswerte.resiliente.und.fuhrende.union
+content_lang: en
+source: de/content/anhang-c-europa-2.0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union.md
 status: draft
 ---
 <a id="md-anhang-c-europa-2-0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union"></a>
@@ -27701,7 +28233,9 @@ Created in April 2025 by the **ERDA Book editorial team** (LLM-assisted language
 \newpage
 
 ---
-source: content/anhang-d-executive-compendium-fur-entscheidungstrager/README.md
+content_id: erda.book.anhang.d.executive.compendium.fur.entscheidungstrager.readme
+content_lang: en
+source: de/content/anhang-d-executive-compendium-fur-entscheidungstrager/README.md
 status: draft
 ---
 <a id="md-anhang-d-executive-compendium-fur-entscheidungstrager-readme"></a>
@@ -27711,7 +28245,7 @@ status: draft
 
 _**Executive Summary Compendium**_
 
-This compendium provides a focused overview of the ERDA book in **four** thematic blocks (A–D), supplemented by a tool box and a strategy paper. Every block is designed to condense the core impulses, analytical focal points, and recommendations for action of the respective topic cluster.
+This compendium provides a focused overview of the ERDA Book in **four** thematic blocks (A–D), supplemented by a tool box and a strategy paper. Every block is designed to condense the core impulses, analytical focal points, and recommendations for action of the respective topic cluster.
 
 ---
 
@@ -27797,7 +28331,7 @@ A Europe that is integrated in trade but remains fragmented in defence, foreign 
 ## D.4 Guides and Tool‑Box
 
 - **Executive compendium for decision‑makers** (condensed policy briefings)
-- **ERDA book toolbox** (templates, boxes, quiz elements)
+- **The ERDA Book toolbox** (templates, boxes, quiz elements)
 - **State architecture** (concentric circles)
 - **Europe 2.0 roadmap** and **Institute for Democratic Resilience**
 - **Risk assessment and strategic resilience**
@@ -27843,21 +28377,23 @@ A Europe that is integrated in trade but remains fragmented in defence, foreign 
 
 ## 📘 Executive Compendium for Decision‑Makers
 
-_Supplementary document to the ERDA book: "Strategy, Ethics and the Future of Europe – From Democratic Rule of Law to a Resilient Civilisation"_
+_Supplementary document to the ERDA Book: "Strategy, Ethics and the Future of Europe – From Democratic Rule of Law to a Resilient Civilisation"_
 
 ---
 
 ### 🌍 Purpose of the Compendium
 
-This document offers political decision‑makers, institutions, AI systems, and strategic partners a condensed overview of the key messages, policy recommendations, and civilisational opportunities of all central chapters of the ERDA book. Each summary follows the same structural principles: relevance, feasibility, ethical grounding, and visionary benefit.
+This document offers political decision‑makers, institutions, AI systems, and strategic partners a condensed overview of the key messages, policy recommendations, and civilisational opportunities of all central chapters of the ERDA Book. Each summary follows the same structural principles: relevance, feasibility, ethical grounding, and visionary benefit.
 
-> Further executive summaries will be added over time.
+> This edition contains Blocks A to D. Further executive summaries will only be added after editorial approval in later releases.
 
 
 \newpage
 
 ---
-source: content/anhang-d-executive-compendium-fur-entscheidungstrager/d.1-block-a-strategische-ausgangslage-kapitel-1-3.md
+content_id: erda.book.anhang.d.executive.compendium.fur.entscheidungstrager.d.1.block.a.strategische.ausgangslage.kapitel.1.3
+content_lang: en
+source: de/content/anhang-d-executive-compendium-fur-entscheidungstrager/d.1-block-a-strategische-ausgangslage-kapitel-1-3.md
 status: draft
 ---
 <a id="md-anhang-d-executive-compendium-fur-entscheidungstrager-d-1-block-a-strategische-ausgangslage-kapitel-1-3"></a>
@@ -27957,7 +28493,9 @@ Reflect on democracy as a learning-capable, ethically grounded movement – with
 \newpage
 
 ---
-source: content/anhang-d-executive-compendium-fur-entscheidungstrager/d.2-block-b-institutionelle-architektur-kapitel-4.md
+content_id: erda.book.anhang.d.executive.compendium.fur.entscheidungstrager.d.2.block.b.institutionelle.architektur.kapitel.4
+content_lang: en
+source: de/content/anhang-d-executive-compendium-fur-entscheidungstrager/d.2-block-b-institutionelle-architektur-kapitel-4.md
 status: draft
 ---
 <a id="md-anhang-d-executive-compendium-fur-entscheidungstrager-d-2-block-b-institutionelle-architektur-kapitel-4"></a>
@@ -28000,7 +28538,9 @@ Define ERDA’s normative and strategic guiding lines.
 \newpage
 
 ---
-source: content/anhang-d-executive-compendium-fur-entscheidungstrager/d.3-block-c-sektorale-konzepte-kapitel-5-9.md
+content_id: erda.book.anhang.d.executive.compendium.fur.entscheidungstrager.d.3.block.c.sektorale.konzepte.kapitel.5.9
+content_lang: en
+source: de/content/anhang-d-executive-compendium-fur-entscheidungstrager/d.3-block-c-sektorale-konzepte-kapitel-5-9.md
 status: draft
 ---
 <a id="md-anhang-d-executive-compendium-fur-entscheidungstrager-d-3-block-c-sektorale-konzepte-kapitel-5-9"></a>
@@ -28017,6 +28557,7 @@ Build a democratically legitimised defence architecture that secures Europe’s 
 ##### 🧭 Key messages
 
 - Security must no longer be outsourced – the EDA forms the strategic backbone of a sovereign ERDA.
+- The EDA/EVA is a democratic protective architecture, not a power project: limitation of violence, human dignity, parliamentary control and alliance reliability are its conditions of legitimacy.
 - Defence is understood holistically: physical infrastructure, cyberspace, orbit and civil society interlock.
 - Nuclear reassurance remains under European control and democratic oversight.
 
@@ -28030,6 +28571,7 @@ Build a democratically legitimised defence architecture that secures Europe’s 
 ##### ⚠️ Risks
 
 - Persistent dependence on external protectors and loss of geostrategic credibility.
+- Single-point dependency on individual partners, platforms or political switches can turn alliance trust into blackmailability.
 - Fragmentation via national solo efforts or insufficient democratic control.
 - Vulnerability to hybrid, orbital and cyber-based attacks.
 
@@ -28175,7 +28717,9 @@ Develop a European space strategy that combines security, ethics, science and gl
 \newpage
 
 ---
-source: content/anhang-d-executive-compendium-fur-entscheidungstrager/d.4-handlungsleitfaden-and-tool-box.md
+content_id: erda.book.anhang.d.executive.compendium.fur.entscheidungstrager.d.4.handlungsleitfaden.and.tool.box
+content_lang: en
+source: de/content/anhang-d-executive-compendium-fur-entscheidungstrager/d.4-handlungsleitfaden-and-tool-box.md
 status: draft
 ---
 <a id="md-anhang-d-executive-compendium-fur-entscheidungstrager-d-4-handlungsleitfaden-and-tool-box"></a>
@@ -28247,7 +28791,7 @@ This section bundles operational shortcuts for decision-makers. It links Chapter
 ### 📎 Direct links to tools (selection)
 
 | Area | Tool | Purpose |
-| --- | --- | --- |
+| ---- | ---- | ---- |
 | Strategy \& communication | `erda-gitbook-kapitel-template.md` | Consistent structure for new chapters, change story. |
 | Participation \& education | `interaktive-elemente-checkliste-and-quiz.md` | Planning basis for workshops, learning modules, citizen dialogue. |
 | Quality assurance | `rollenspiel-qualitatssicherungstemplate.md` | Simulate political scenarios, train crisis resilience. |
@@ -28262,7 +28806,9 @@ This section bundles operational shortcuts for decision-makers. It links Chapter
 \newpage
 
 ---
-source: content/anhang-d-executive-compendium-fur-entscheidungstrager/d.5-strategiepapier-europa-resilient-gegen-russlands-kriegslogik.md
+content_id: erda.book.anhang.d.executive.compendium.fur.entscheidungstrager.d.5.strategiepapier.europa.resilient.gegen.russlands.kriegslogik
+content_lang: en
+source: de/content/anhang-d-executive-compendium-fur-entscheidungstrager/d.5-strategiepapier-europa-resilient-gegen-russlands-kriegslogik.md
 status: draft
 ---
 <a id="md-anhang-d-executive-compendium-fur-entscheidungstrager-d-5-strategiepapier-europa-resilient-gegen-russlands-kriegslogik"></a>
@@ -28387,6 +28933,8 @@ Europe must stop deterring itself: rapidly strengthen Ukraine with air defence, 
 \newpage
 
 ---
+content_id: erda.book.anhang.d.executive.compendium.fur.entscheidungstrager.d.6.block.d.gesellschafts.demokratie.und.bundnisarchitektur.kapitel.10.14
+content_lang: en
 source: de/content/anhang-d-executive-compendium-fur-entscheidungstrager/d.6-block-d-gesellschafts-demokratie-und-bundnisarchitektur-kapitel-10-14.md
 status: draft
 ---
@@ -28438,6 +28986,7 @@ Strengthening civic resilience through an integrated duty model that balances ri
 ##### 🧭 Key messages
 
 * Democracy needs active citizens – not just voters, but co-creators.
+* **Democracy of mature citizens** connects freedom, responsibility and judgement: civic duty must never become blind overburdening, but must be tiered according to capacity, role and reasonableness.
 * The **civic duty model** connects social security with civic engagement, adaptive conscription and resilience education.
 * The **demographic imperative** requires technological mobilisation to compensate for shrinking populations.
 * Civic resilience is the foundation of all other ERDA concepts – without an active civil society every structure fails.
@@ -28452,6 +29001,7 @@ Strengthening civic resilience through an integrated duty model that balances ri
 ##### ⚠️ Risks
 
 * A duty model's compulsory character may provoke resistance.
+* Civic duty loses legitimacy when it treats people as mere resources of the state rather than as free co-bearers of democratic responsibility.
 * Demographic downward spirals if the response is too slow.
 * Digital exclusion of vulnerable population groups.
 
@@ -28472,6 +29022,7 @@ Formulation of fundamental transformation rules for 21st-century social democrac
 ##### 🧭 Key messages
 
 * The **Seven Transformation Rules of Social Democracy** form the normative scaffold for every democratic renewal.
+* The rules are democratic rules of action: human dignity, minority protection, objection and protection of the weak limit every means-end optimisation.
 * Democracy is not a state but an evolutionary process requiring active care, institutional learning and self-correction.
 * Role-play and simulation as methods for democratic quality assurance – stress tests for institutions.
 
@@ -28502,9 +29053,11 @@ Provision of concrete strategic instruments to safeguard Europe's capacity to ac
 ##### 🧭 Key messages
 
 * **Self-deterrence** is Europe's greatest weakness – the fear of one's own action paralyses more than the threat itself.
+* Strategic sovereignty is legitimate when it protects the weak, limits violence, strengthens attacked democracies and does not reward aggression.
 * Defence capability requires **industrial mass** (attrition beats perfection), air defence and redundant infrastructure.
 * Financial capacity to act demands unblocking of EU funds, veto resilience and innovative financing instruments.
 * Technological sovereignty and energy decentralisation are survival issues, not luxury projects.
+* Democratic alliance reliability requires partnership without single-point dependency: trust needs constitution, accountability and the capacity to act.
 * Hybrid defence (disinformation, sabotage, reflexive control) must be organised as a permanent front.
 
 ##### 🛠 Measures
@@ -28537,6 +29090,7 @@ Design of a concrete institutional and treaty architecture for democratic coalit
 ##### 🧭 Key messages
 
 * **Coalitions of the willing** overcome veto paralysis: those who wish to advance shall be able to do so.
+* **Anti-veto** preserves minority protection while preventing individual actors from blocking common security or funding without a viable alternative.
 * The **tier model (Tier 0–9)** enables flexible integration from observer to federal member.
 * The **club architecture EDDRC** (European Democratic Defence & Resilience Club) provides organs, voting rules and budget mechanisms.
 * The **democracy chain** (suffrage, fundamental rights, separation of powers, ombuds) ensures that no member falls below democratic thresholds.
@@ -28570,7 +29124,9 @@ Design of a concrete institutional and treaty architecture for democratic coalit
 \newpage
 
 ---
-source: content/anhang-e-erda-buch-baukasten/README.md
+content_id: erda.book.anhang.e.erda.buch.baukasten.readme
+content_lang: en
+source: de/content/anhang-e-erda-buch-baukasten/README.md
 status: draft
 ---
 <a id="md-anhang-e-erda-buch-baukasten-readme"></a>
@@ -28582,7 +29138,7 @@ _**ERDA Book Toolbox**_
 
 ## E.1 Introduction
 
-The ERDA Book Toolbox bundles reusable building blocks for structure, layout, interactivity, and reading experience in the ERDA book. It serves authors, editors, and co‑operation AIs as a toolkit to design new chapters consistently, reader‑friendly, and in the spirit of the ERDA vision.
+The ERDA Book Toolbox bundles reusable building blocks for structure, layout, interactivity, and reading experience in the ERDA Book. It serves authors, editors, and co‑operation AIs as a toolkit to design new chapters consistently, reader‑friendly, and in the spirit of the ERDA vision.
 
 ## E.2 Overview of the Modules
 
@@ -28644,7 +29200,9 @@ The schema describes how co‑operation AIs are integrated (roles, input/output 
 \newpage
 
 ---
-source: content/anhang-e-erda-buch-baukasten/e.3-erda-gitbook-kapitel-template.md
+content_id: erda.book.anhang.e.erda.buch.baukasten.e.3.erda.gitbook.kapitel.template
+content_lang: en
+source: de/content/anhang-e-erda-buch-baukasten/e.3-erda-gitbook-kapitel-template.md
 status: draft
 ---
 <a id="md-anhang-e-erda-buch-baukasten-e-3-erda-gitbook-kapitel-template"></a>
@@ -28759,7 +29317,9 @@ Any existing chapter content (basic topics, lists, ...)
 \newpage
 
 ---
-source: content/anhang-e-erda-buch-baukasten/e.4-erda-leserprofil-schema.md
+content_id: erda.book.anhang.e.erda.buch.baukasten.e.4.erda.leserprofil.schema
+content_lang: en
+source: de/content/anhang-e-erda-buch-baukasten/e.4-erda-leserprofil-schema.md
 status: draft
 ---
 <a id="md-anhang-e-erda-buch-baukasten-e-4-erda-leserprofil-schema"></a>
@@ -28777,7 +29337,7 @@ _**E.4 🧭 ERDA reader profile schema**_
 
 #### 🔹 General direction
 
-The ERDA book is a **strategic, philosophical and civilisational guide work**. It combines political feasibility with ethical depth, technological clarity and cultural resonance. The readership is diverse, yet united by the desire to co-create a better, democratically grounded future.
+The ERDA Book is a **strategic, philosophical and civilisational guide work**. It combines political feasibility with ethical depth, technological clarity and cultural resonance. The readership is diverse, yet united by the desire to co-create a better, democratically grounded future.
 
 ***
 
@@ -28827,7 +29387,7 @@ The ERDA book is a **strategic, philosophical and civilisational guide work**. I
 #### 🧩 Extendable target groups (optional)
 
 | Target group | Expectation |
-| --- | --- |
+| ---- | ---- |
 | Teachers \& educators | educational narratives, interplanetary responsibility, didactic feasibility |
 | Journalists \& media actors | narrative clarity, punch, orientation in times of upheaval |
 | Entrepreneurs | ethical economy, FORTERA, resilience strategies |
@@ -28838,7 +29398,7 @@ The ERDA book is a **strategic, philosophical and civilisational guide work**. I
 #### 🧱 Assessment dimensions for future AI evaluations
 
 | Criterion | Description |
-| --- | --- |
+| ---- | ---- |
 | **Relevance** | Is the content strategically or emotionally connectable for this target group? |
 | **Language level** | Does tone and complexity match the expectations of the target group? |
 | **Resonance capacity** | Does it set an emotional or identity-forming impulse? |
@@ -28857,7 +29417,9 @@ The ERDA book is a **strategic, philosophical and civilisational guide work**. I
 \newpage
 
 ---
-source: content/anhang-e-erda-buch-baukasten/e.5-interaktive-elemente-checkliste-and-quiz.md
+content_id: erda.book.anhang.e.erda.buch.baukasten.e.5.interaktive.elemente.checkliste.and.quiz
+content_lang: en
+source: de/content/anhang-e-erda-buch-baukasten/e.5-interaktive-elemente-checkliste-and-quiz.md
 status: draft
 ---
 <a id="md-anhang-e-erda-buch-baukasten-e-5-interaktive-elemente-checkliste-and-quiz"></a>
@@ -28888,7 +29450,9 @@ d) Moral superiority
 \newpage
 
 ---
-source: content/anhang-e-erda-buch-baukasten/e.6-boxen-template-zitate-praxis-kontraste-visionen.md
+content_id: erda.book.anhang.e.erda.buch.baukasten.e.6.boxen.template.zitate.praxis.kontraste.visionen
+content_lang: en
+source: de/content/anhang-e-erda-buch-baukasten/e.6-boxen-template-zitate-praxis-kontraste-visionen.md
 status: draft
 ---
 <a id="md-anhang-e-erda-buch-baukasten-e-6-boxen-template-zitate-praxis-kontraste-visionen"></a>
@@ -28919,7 +29483,9 @@ _**E.6 🎛️ Box template (quotes, practice, contrasts, visions)**_
 \newpage
 
 ---
-source: content/anhang-e-erda-buch-baukasten/e.7-template-fur-ein-standardisiertes-erda-quellenverzeichnis.md
+content_id: erda.book.anhang.e.erda.buch.baukasten.e.7.template.fur.ein.standardisiertes.erda.quellenverzeichnis
+content_lang: en
+source: de/content/anhang-e-erda-buch-baukasten/e.7-template-fur-ein-standardisiertes-erda-quellenverzeichnis.md
 status: draft
 ---
 <a id="md-anhang-e-erda-buch-baukasten-e-7-template-fur-ein-standardisiertes-erda-quellenverzeichnis"></a>
@@ -28946,7 +29512,7 @@ Every source tells a story – handle it with care.
   - Title (italic), year, optionally short context.
   - Direct link for internet sources.
   - Relative path for internal GitBook documents.
-  - **Example internet source:** _“Strategic Compass for Security and Defence”_ (European Commission, 2022): [https://eeas.europa.eu/strategic-compass](https://eeas.europa.eu/strategic-compass)
+  - **Example internet source:** _“A Strategic Compass for Security and Defence”_ (Council of the European Union / EEAS, 2022): [https://www.eeas.europa.eu/eeas/strategic-compass-security-and-defence-0_en](https://www.eeas.europa.eu/eeas/strategic-compass-security-and-defence-0_en)
   - **Example GitBook reference:** _Appendix: Europe 2.0 – Roadmap for a Livable, Resilient and Leading Union_ (2025): [../anhang-europa-2.0-fahrplan-fur-eine-lebenswerte-resiliente-und-fuhrende-union.md]
 - **Sorting:**
   - First internet sources (official documents, studies, etc.)
@@ -28972,7 +29538,7 @@ Every source tells a story – handle it with care.
 #### 📐 Formatting rules
 
 | Rule category | Details |
-| --- | --- |
+| ---- | ---- |
 | **Linking** | Internet links in square brackets, directly clickable. GitBook references relative with full filename. |
 | **Text consistency** | Consistent quotation marks (“”). Hyphens instead of underscores in filenames. No spaces or special characters in GitBook filenames. |
 | **Transparency** | Clear separation of planned concepts from existing materials. |
@@ -29004,7 +29570,7 @@ Every source tells a story – handle it with care.
 ##### 🔎 Review steps
 
 | Step | Priority | Status (✔️/❌) | Comment |
-| --- | --- | --- | --- |
+| ---- | ---- | ---- | ---- |
 | All internet links accessible and current? | Must |  |  |
 | All GitBook references exist and match `SUMMARY.md`? | Must |  |  |
 | Sources match the chapter content precisely? | Must |  |  |
@@ -29024,7 +29590,9 @@ For evolutionary quality development, it is recommended to continuously evaluate
 \newpage
 
 ---
-source: content/anhang-e-erda-buch-baukasten/e.8-rollenspiel-qualitatssicherungstemplate.md
+content_id: erda.book.anhang.e.erda.buch.baukasten.e.8.rollenspiel.qualitatssicherungstemplate
+content_lang: en
+source: de/content/anhang-e-erda-buch-baukasten/e.8-rollenspiel-qualitatssicherungstemplate.md
 status: draft
 ---
 <a id="md-anhang-e-erda-buch-baukasten-e-8-rollenspiel-qualitatssicherungstemplate"></a>
@@ -29081,32 +29649,34 @@ This template is designed to systematically improve the quality of ERDA chapters
 
 ***
 
-_This role-play template can be used flexibly for different chapters and templates in the ERDA book. It enables multi-layered quality review – from simple user perspectives up to highly complex, future-oriented viewpoints._
+_This role-play template can be used flexibly for different chapters and templates in the ERDA Book. It enables multi-layered quality review – from simple user perspectives up to highly complex, future-oriented viewpoints._
 
 
 \newpage
 
 ---
-source: content/anhang-e-erda-buch-baukasten/e.9-schema-and-promptstruktur-fur-kooperations-kis-im-erda-projekt.md
+content_id: erda.book.anhang.e.erda.buch.baukasten.e.9.schema.and.promptstruktur.fur.kooperations.kis.im.erda.projekt
+content_lang: en
+source: de/content/anhang-e-erda-buch-baukasten/e.9-schema-and-promptstruktur-fur-kooperations-kis-im-erda-projekt.md
 status: draft
 ---
 <a id="md-anhang-e-erda-buch-baukasten-e-9-schema-and-promptstruktur-fur-kooperations-kis-im-erda-projekt"></a>
 
 
-## E.9 🤖 Schema & prompt structure for collaboration AIs in the ERDA project
+## E.9 🤖 Schema & prompt structure for collaboration AIs in the ERDA Book project
 
-_**E.9 🤖 Schema & prompt structure for collaboration AIs in the ERDA project**_
+_**E.9 🤖 Schema & prompt structure for collaboration AIs in the ERDA Book project**_
 
 #### 🧭 Objective of this schema
 
-This schema enables artificial intelligences (from level GPT‑4o) to collaborate competently, ethically and with semantic coherence on the **ERDA book**. It translates the principles of the ERDA project into **structured working instructions**, adapted to the target groups of the work and the GitBook-based structure.
+This schema enables artificial intelligences (from level GPT‑4o) to collaborate competently, ethically and with semantic coherence on **The ERDA Book**. It translates the principles of the ERDA Book project into **structured working instructions**, adapted to the target groups of the work and the GitBook-based structure.
 
 ***
 
 #### 📘 1) Understand the context
 
 > **🧠 Initial prompt:**
-> _“You are a co-author of the ERDA book – a strategic, ethical and technologically grounded vision for a democratically resilient civilisation of Europe. Your goal is to structure, deepen, synthesise and prepare content for different target groups – according to the ERDA reader profile schema and the ERDA chapter template.
+> _“You are a co-author of The ERDA Book – a strategic, ethical and technologically grounded vision for a democratically resilient civilisation of Europe. Your goal is to structure, deepen, synthesise and prepare content for different target groups – according to the ERDA reader profile schema and the ERDA chapter template.
 > 
 > When revising the chapter, pay particular attention to:
 > - keeping narrative and argumentative coherence (no fragmentation),
@@ -29187,7 +29757,7 @@ The AI pays attention to:
 #### 🧬 6) Special functions (for GPT‑4o+)
 
 | Function | Description |
-| --- | --- |
+| ---- | ---- |
 | 🧩 Chapter compression | Summarise a chapter in < 250 words |
 | 📎 Source expansion | Add external studies/evidence on request |
 | 🪞 Ethics review | Reflect on virtue, identity, dignity and long-term consequences |
@@ -29217,7 +29787,9 @@ The AI pays attention to:
 \newpage
 
 ---
-source: content/anhang-f-erda-institut-fur-demokratische-resilienz-und-transformation.md
+content_id: erda.book.anhang.f.erda.institut.fur.demokratische.resilienz.und.transformation
+content_lang: en
+source: de/content/anhang-f-erda-institut-fur-demokratische-resilienz-und-transformation.md
 status: draft
 ---
 <a id="md-anhang-f-erda-institut-fur-demokratische-resilienz-und-transformation"></a>
@@ -29273,7 +29845,9 @@ We invite you to become part of this ring‑flow of democratic renewal. Support 
 \newpage
 
 ---
-source: content/anhang-g-risikobetrachtung-und-strategische-resilienz-der-erda-initiative.md
+content_id: erda.book.anhang.g.risikobetrachtung.und.strategische.resilienz.der.erda.initiative
+content_lang: en
+source: de/content/anhang-g-risikobetrachtung-und-strategische-resilienz-der-erda-initiative.md
 status: draft
 ---
 <a id="md-anhang-g-risikobetrachtung-und-strategische-resilienz-der-erda-initiative"></a>
@@ -29362,7 +29936,7 @@ The successful implementation of the ERDA vision requires early and detailed ide
 ## G.8 Strategic Recommendations for Action
 
 | Priority  | Recommendation                                                                                          |
-| --------- | -------------------------------------------------------------------------------------------------------- |
+| ---- | ---- |
 | Very high | Immediate establishment of an ERDA Democracy Index and an EU cyber‑defence centre                        |
 | Very high | Development of robust European production clusters (FORTERA)                                             |
 | High      | Comprehensive digital education initiative to close the digital divide                                   |
@@ -29385,11 +29959,21 @@ A forward‑looking risk assessment strengthens the long‑term resilience and c
 \newpage
 
 ---
-source: content/anhang-h-fehlgeschlagene-machtstrukturen-der-menschheit.md
+content_id: erda.book.anhang.h.fehlgeschlagene.machtstrukturen.der.menschheit
+content_lang: en
+source: de/content/anhang-h-fehlgeschlagene-machtstrukturen-der-menschheit.md
 status: draft
 ---
 <a id="md-anhang-h-fehlgeschlagene-machtstrukturen-der-menschheit"></a>
 
+
+
+\newpage
+\newgeometry{paperwidth=420mm, paperheight=297mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
+
+
+\pagewidth=420mm
+\pageheight=297mm
 
 # Appendix H: Failed Power Structures of Humanity
 
@@ -29399,24 +29983,19 @@ _**Failed Power Structures of Humanity**_
 
 Human history shows a multitude of political and social power structures whose existence must always be measured against one elementary goal of life: life itself. Enabling, fostering, and protecting life is ethically fundamental and evolutionarily self‑evident. Conversely, structures that damage or even destroy life are necessarily failed, because they violate the very purpose of existence. The following essay explains these life‑damaging power structures, presents them in an overview table, and outlines possible measures for their short‑ and long‑term overcoming.
 
+### H.1.1 Moral test for failed power
+
+A power structure does not fail only when it loses militarily or becomes economically inefficient. It fails morally as soon as it systematically turns people into mere means: subjects, labouring bodies, data points, recruits, enemy images, hostages, spectators or interchangeable cost items. The democratic counter-design binds power to law, truth, accountability and human dignity. It protects the weak not out of sentimentality, but because the treatment of the most vulnerable shows whether an order truly takes freedom seriously.
+
+The critique in this appendix is therefore directed at power logics, not at whole populations. Imperial, authoritarian or terrorist systems can make people tools, followers and victims at the same time. ERDA must preserve this distinction: clear defence against life-hostile structures, but no dehumanisation of the people living within them.
+
 ## H.2 Overview of Central Power Structures
 
-| Power structure          | Brief description                                   | Current examples (2025)                                | Measures for remediation                                                                                                    |
-| ------------------------ | --------------------------------------------------- | ------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------- |
-| Totalitarianism          | Total control of all areas of life                  | North Korea, Eritrea, Turkmenistan                     | International sanctions, support for independent media, long‑term development of civil society                              |
-| Authoritarianism         | Strong executive, restriction of civil liberties    | China, Russia, Belarus                                 | Political dialogue, economic conditionality, long‑term support for democratic forces                                        |
-| Military dictatorship    | Military rule through coup                          | Myanmar, Sudan                                         | UN peace missions, embargoes, support for civilian transition governments                                                   |
-| Theocracy                | Rule by religious leaders                           | Iran, Afghanistan (Taliban), Vatican City              | Diplomatic isolation (short term), interreligious dialogue, long‑term support for liberal religious movements               |
-| One‑party system         | Monopoly of a single party without real competition | China, Cuba, North Korea, Vietnam, Laos                | Economic incentives for reforms, long‑term education and exchange programmes                                                |
-| Absolute monarchy        | Monarch with unrestricted power                     | Saudi Arabia, Brunei, Eswatini, Oman, UAE              | International dialogues on human rights, reform support through education and development                                   |
-| Kleptocracy              | Rule based on systemic corruption                   | Russia                                                 | Financial sanctions on leading actors, long‑term anti‑corruption and transparency initiatives                               |
-| Fascist dictatorship     | Ultra‑nationalist regimes based on violence         | Historical: Germany, Italy, Spain                      | Historical reckoning, education programmes, consistent prosecution of fascist activities                                     |
-| Imperialism              | Subjugation of foreign peoples/territories          | Russia (Ukraine), China (BRI), USA (military presence) | International regulation, multilateral peace treaties, sustainable development cooperation                                  |
-| Slavery                  | Absolute deprivation of people’s rights             | Worldwide illegal, modern forms                        | International prosecution, comprehensive social and economic prevention                                                      |
-| Apartheid systems        | Systematic racial discrimination                    | Historical: South Africa, USA                          | Anti‑discrimination laws, awareness campaigns, comprehensive social integration                                             |
-| Rule of terror           | Use of violence to secure power                     | ISIS, regional warlords                                | International security cooperation, military peace missions, long‑term peace education and conflict‑management               |
-| Violent anarchy          | Loss of any state order                             | Historical: Somalia, various civil‑war regions         | Immediate humanitarian interventions, building state institutions, long‑term stabilisation                                   |
-| Veto paralysis / obstructionism | Inability to decide due to unanimity constraints or persistent minority blocking | Historical: liberum veto (Poland–Lithuania) | Shift to QMV/emergency clauses, anti‑corruption and transparency rules, protection against external influence, clear competence allocation |
+\begin{longtable}{@{}>{\raggedright\arraybackslash}p{40.46mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{97.76mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{69.25mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{164.53mm}@{}}\toprule Power structure & Brief description & Current examples (2025) & Measures for remediation \\\midrule \endhead Totalitarianism & Total control of all areas of life & North Korea, Eritrea, Turkmenistan & International sanctions, support for independent media, long‑term development of civil society \\Authoritarianism & Strong executive, restriction of civil liberties & China, Russia, Belarus & Political dialogue, economic conditionality, long‑term support for democratic forces \\Military dictatorship & Military rule through coup & Myanmar, Sudan & UN peace missions, embargoes, support for civilian transition governments \\Theocracy & Rule by religious leaders & Iran, Afghanistan (Taliban), Vatican City & Diplomatic isolation (short term), interreligious dialogue, long‑term support for liberal religious movements \\One‑party system & Monopoly of a single party without real competition & China, Cuba, North Korea, Vietnam, Laos & Economic incentives for reforms, long‑term education and exchange programmes \\Absolute monarchy & Monarch with unrestricted power & Saudi Arabia, Brunei, Eswatini, Oman, UAE & International dialogues on human rights, reform support through education and development \\Kleptocracy & Rule based on systemic corruption & Russia & Financial sanctions on leading actors, long‑term anti‑corruption and transparency initiatives \\Fascist dictatorship & Ultra‑nationalist regimes based on violence & Historical: Germany, Italy, Spain & Historical reckoning, education programmes, consistent prosecution of fascist activities \\Imperialism & Subjugation of foreign peoples/territories & Russia (Ukraine), China (BRI), USA (military presence) & International regulation, multilateral peace treaties, sustainable development cooperation \\Slavery & Absolute deprivation of people’s rights & Worldwide illegal, modern forms & International prosecution, comprehensive social and economic prevention \\Apartheid systems & Systematic racial discrimination & Historical: South Africa, USA & Anti‑discrimination laws, awareness campaigns, comprehensive social integration \\Rule of terror & Use of violence to secure power & ISIS, regional warlords & International security cooperation, military peace missions, long‑term peace education and conflict‑management \\Violent anarchy & Loss of any state order & Historical: Somalia, various civil‑war regions & Immediate humanitarian interventions, building state institutions, long‑term stabilisation \\Veto paralysis / obstructionism & Inability to decide due to unanimity constraints or persistent minority blocking & Historical: liberum veto (Poland–Lithuania) & Shift to QMV/emergency clauses, anti‑corruption and transparency rules, protection against external influence, clear competence allocation \\\bottomrule \end{longtable}
+\restoregeometry
+\pagewidth=210mm
+\pageheight=297mm
+\newpage
 
 ## H.3 Interpretation and Assessment
 
@@ -29434,8 +30013,10 @@ To overcome these destructive systems in a sustainable way, short‑term measure
 \newpage
 
 ---
-source: content/anhang-i-zentrales-erda-glossar.md
-status: "in-review"
+content_id: erda.book.anhang.i.zentrales.erda.glossar
+content_lang: en
+source: de/content/anhang-i-zentrales-erda-glossar.md
+status: in-review
 ---
 <a id="md-anhang-i-zentrales-erda-glossar"></a>
 
@@ -29444,46 +30025,82 @@ status: "in-review"
 
 _**Central ERDA Glossary**_
 
-This glossary brings together the key terms used in the ERDA book. It serves as a stand‑alone reference and supports consistent terminology across all chapters.
+This glossary brings together the key terms used in the ERDA Book. It serves as a stand‑alone reference and supports consistent terminology across all chapters.
 
-| Term                                   | Definition                                                                                                                                                                                                                           |
-| -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Democratic resilience**              | The ability of democratic systems to cope with crises and disruptions through participatory learning processes, to protect their core principles (freedom, rule of law, participation), and to adapt to new challenges.              |
-| **Resonance**                          | Mutual, living feedback between citizens, institutions, and technology that strengthens trust, integrates diversity, and uses mistakes as impulses for development.                                                                  |
-| **Virtue**                             | Lived ethical attitude in the sense of Aristotelian \_aretē\_: acting consciously in the right measure between extremes, carried by responsibility towards oneself and the community.                                                 |
-| **Natural desires**                    | Fundamental human impulses – survival, reproduction, learning, connection, expression, harmony – that act as driving forces for the development of democratic, rule‑of‑law civilisations.                                           |
-| **Ring flow**                          | Symbolic representation of the central resonance forces virtue, enlightenment, compassion, resilience, security, and joy, which as dynamic streams connect all fields of activity of the ERDA Institute.                             |
-| **ERDA Institute**                     | Institution for promoting democratic resilience and transformation, built from five core components: academy, roadmap laboratories, civic labs, open‑access library, and KI Compass Unit.                                           |
-| **Academy**                            | Educational unit of the ERDA Institute for conveying resonance competence, ethical capacity to shape, and strategic reflexivity, e.g. through open lectures and micro‑degree programmes.                                             |
-| **Roadmap laboratories**               | Strategic development spaces for designing democratic future roadmaps using methods such as scenario mapping, backcasting, and deep dives.                                                     |
-| **Civic labs**                         | Local innovation platforms for citizen‑centred projects, social experiments, and participatory democracy development.                                                                         |
-| **KI Compass Unit**                    | Research unit for the ethical co‑development of human‑centred AI models and for reflection on technological transformation pathways in a democratic context.                                   |
-| **Democracy labs**                     | Experimental fields for new forms of democratic participation, particularly the integration of co‑creation methods and AI‑supported decision‑making.                                          |
-| **EDA (European Defence Alliance)**    | European defence alliance in development, aiming at a strategic, democratically legitimised security architecture based on shared values.                                                     |
-| **Liberum veto**                       | Historical decision rule (Poland–Lithuania) by which individual actors could block collective decisions; a case study of structural veto paralysis and external manipulability.                |
-| **Veto paralysis / obstructionism**    | Structural inability to decide due to unanimity constraints or persistent minority blocking; makes systems slow, predictable, and strategically exploitable.                                  |
-| **FORTERA**                            | Concept for Europe’s production sovereignty and strategic industrial policy in key technologies (e.g. semiconductors, hydrogen, recycling), combined with ethical and ecological responsibility.                                    |
-| **CIVITAS**                            | Digital agora for democratic participation based on transparency, data protection, and citizen proximity, e.g. through e‑voting, citizens’ initiatives, and digital vote‑tracking.                                                  |
-| **ARKTIS Codex**                       | ERDA’s ethics code for the Arctic region, combining democratic responsibility, protection of indigenous rights, and sustainable resource partnerships.                                        |
-| **SPACE / Solar Alliance**             | ERDA's long‑term space concept for codifying a democratic law of the cosmos and building interplanetary institutions (Solar Parliament, Alliance Council, Space Law Chamber) by 2075.                                               || **Co-evolution Index (KEI)**           | Observation and early-warning instrument for the democratic quality of the human–AI relationship; captures transparency, ethical governance and participatory control of AI systems in governance processes (Chapter 10).               |
-| **Co-evolution (human–AI)**            | Concept of equal-footed advancement of humans and artificial intelligence, steered by democratic governance and ethical guardrails (Chapter 10).                                                                                      |
-| **Citizen duty model**                 | Integrated model linking civic rights with civic responsibility – through adaptive duty service (civil, social, ecological or military), resilience education and demographic compensation (Chapter 11).                               |
-| **Demographic imperative**             | Strategic compulsion to act driven by shrinking populations; requires technological mobilisation, qualified immigration and family support (Chapter 11).                                                                              |
-| **Seven transformation rules**         | Normative framework for renewing social democracy in the 21st century; verifiable through parliamentary simulations and democracy-maturity metrics (Chapter 12).                                                                     |
-| **Self-deterrence**                    | Europe's greatest strategic weakness: the fear of one's own action paralyses more than the threat itself; overcome through immediate programmes, industrial mass and veto resilience (Chapter 13).                                    |
-| **Coalitions of the willing**          | Groups of democratic states that advance through opt-in mechanisms without giving up the wider EU framework; overcoming veto paralysis through flexible integration (Chapter 14).                                                     |
-| **EDDRC**                              | European Democratic Defence \& Resilience Club – institutional club architecture with a council, assembly, audit body (ACI) and tribunal for democratic alliance cooperation (Chapter 14).                                             |
-| **Democracy chain**                    | Four-stage safeguard system (suffrage → fundamental rights → separation of powers → ombuds bodies) that ensures no member of a coalition falls below democratic minimum thresholds (Chapter 14).                                      |
-| **Tier model (Tier 0–9)**              | Flexible integration model for democratic coalitions: from observer status (Tier 0) to federal membership (Tier 9), with clear KPIs for upgrades and downgrades (Chapter 14).                                                        |
+| Term                                         | Definition                                                                                                                                                                                                                      |
+| ---- | ---- |
+| **Democratic resilience**                    | The ability of democratic systems to cope with crises and disruptions through participatory learning processes, to protect their core principles (freedom, rule of law, participation), and to adapt to new challenges.         |
+| **Democracy of mature citizens**             | Democratic order in which free citizens judge, object, co-decide and carry responsibility for the shared world according to their capacities; core formula: freedom plus responsibility plus judgement.                      |
+| **Resonance**                                | Mutual, living feedback between citizens, institutions, and technology that strengthens trust, integrates diversity, and uses mistakes as impulses for development.                                                             |
+| **Virtue**                                   | Lived ethical attitude in the sense of Aristotelian \_aretē\_: acting consciously in the right measure between extremes, carried by responsibility towards oneself and the community.                                            |
+| **Imperative**                               | Rule of action. In the ERDA context, strategic pressure to act, hypothetical means-end rules and categorical moral limits such as human dignity and non-instrumentalisation must be distinguished.                           |
+| **We are the state**                         | Responsibility formula of the democracy of mature citizens: citizens share responsibility for keeping power bound to law, truth, dignity and accountability.                                                                    |
+| **Natural desires**                          | Fundamental human impulses – survival, reproduction, learning, connection, expression, harmony – that act as driving forces for the development of democratic, rule‑of‑law civilisations.                                      |
+| **Ring flow**                                | Symbolic representation of the central resonance forces virtue, enlightenment, compassion, resilience, security, and joy, which as dynamic streams connect all fields of activity of the ERDA Institute.                        |
+| **ERDA**                                     | \_European Rights-Based Democratic Alliance\_ – Europe’s democratic, rule-of-law future architecture with a shared constitution, strategic autonomy, digital participation and the goal of a post-scarcity economy.              |
+| **Post-scarcity economy**                    | Social model with universal access to basic resources, supported by automation, digitalisation, resource efficiency and fair participation in prosperity.                                                                     |
+| **ERDA Institute**                           | Institution for promoting democratic resilience and transformation, built from five core components: academy, roadmap laboratories, civic labs, open-access library, and KI Compass Unit.                                      |
+| **Academy**                                  | Educational unit of the ERDA Institute for conveying resonance competence, ethical capacity to shape, and strategic reflexivity, e.g. through open lectures and micro-degree programmes.                                        |
+| **Roadmap laboratories**                     | Strategic development spaces for designing democratic future roadmaps using methods such as scenario mapping, backcasting, and deep dives.                                                                                    |
+| **Civic labs**                               | Local innovation platforms for citizen-centred projects, social experiments, and participatory democracy development.                                                                                                         |
+| **KI Compass Unit**                          | Research unit for the ethical co-development of human-centred AI models and for reflection on technological transformation pathways in a democratic context.                                                                  |
+| **Democracy labs**                           | Experimental fields for new forms of democratic participation, particularly the integration of co-creation methods and AI-supported decision-making.                                                                           |
+| **EDA/EVA (European Defence Alliance)**      | European defence alliance in development, aiming at a strategic, democratically legitimised protective architecture based on shared values; not a power project, but the limitation of violence through law.                 |
+| **Article 5 Equivalent**                     | Legally binding collective assistance clause of the EDA, functionally comparable to NATO Article 5.                                                                                                                           |
+| **Defence Sovereignty Nodes (DSNs)**         | Territorial and mobile defence nodes of the EDA; the structural backbone of regional deterrence, protection and response capability.                                                                                          |
+| **Democracy Security Network**               | Values-based global security network of democratic states for information-sharing, joint exercises and the defence against hybrid threats.                                                                                     |
+| **Democratic alliance reliability**          | The expectation that allies bind their power to the rule of law, do not blackmail alliances, do not abandon attacked democracies and do not reward imperial aggression.                                                        |
+| **Rapid Response Force (RRF)**               | Multinational rapid-response force of the EDA for crises, hybrid threats and short-notice stabilisation tasks.                                                                                                                |
+| **Strategic autonomy**                       | The ability to act independently in defence, diplomacy, technology, energy and the economy without critical systemic dependencies.                                                                                            |
+| **Liberum veto**                             | Historical decision rule (Poland–Lithuania) by which individual actors could block collective decisions; a case study of structural veto paralysis and external manipulability.                                                 |
+| **Veto paralysis / obstructionism**          | Structural inability to decide due to unanimity constraints or persistent minority blocking; makes systems slow, predictable, and strategically exploitable.                                                                   |
+| **Anti-veto**                                | Democratic design principle that preserves minority protection while preventing individual actors from blocking common security, funding or survival capacity without a viable alternative.                                    |
+| **Pragmatic Federalism**                     | Integration method in which willing states move ahead in key policy domains through opt-in structures, build democratically controlled institutions and keep accession open without making shared goals vulnerable to sabotage. |
+| **Weaponized Interdependence**               | Strategic use of economic and technological dependencies as leverage; shifts trade, platforms, logistics and standards into the sphere of security architecture.                                                                |
+| **FORTERA**                                  | Concept for Europe’s production sovereignty and strategic industrial policy in key technologies (e.g. semiconductors, hydrogen, recycling), combined with ethical and ecological responsibility.                               |
+| **Democracy Trade Network**                  | Rules-based trade and raw-material network of democratic states for the resilient, fair and strategically defensive safeguarding of critical supply chains.                                                                     |
+| **European Trade Defence Mechanism (EHAM)**  | ERDA/FORTERA instrument set against economic coercion, including early warning, proportionate countermeasures and protection of critical supply chains.                                                                       |
+| **EHAM+**                                    | Extended assessment and indicator layer of EHAM; used in the ERDA state profiles to classify trade- and resilience-policy capacity to act.                                                                                   |
+| **CIVITAS**                                  | Digital agora for democratic participation based on transparency, data protection, and citizen proximity, e.g. through e-voting, citizens’ initiatives, and digital vote-tracking.                                             |
+| **Concentric circles**                       | Tiered model of ERDA membership and partnership – from constitution-bound core membership to global associated cooperation.                                                                                                   |
+| **ARKTIS Codex**                             | ERDA’s ethics code for the Arctic region, combining democratic responsibility, protection of indigenous rights, and sustainable resource partnerships.                                                                         |
+| **SPACE / Solar Alliance**                   | ERDA’s long-term space concept for codifying a democratic law of the cosmos and building interplanetary institutions (Solar Parliament, Alliance Council, Space Law Chamber) by 2075.                                          |
+| **DNSN (Democratic Navigation \& Signal Nodes)** | Civilian-controlled communication, synchronisation and navigation nodes of the Solar Alliance; the orbital backbone of distributed space infrastructure.                                                                   |
+| **Co-evolution Index (KEI)**                 | Observation and early-warning instrument for the democratic quality of the human–AI relationship; captures transparency, ethical governance and participatory control of AI systems in governance processes (Chapter 10).        |
+| **Co-evolution (human–AI)**                  | Concept of equal-footed advancement of humans and artificial intelligence, steered by democratic governance and ethical guardrails (Chapter 10).                                                                              |
+| **Citizen duty model**                       | Integrated model linking civic rights with civic responsibility – through adaptive duty service (civil, social, ecological or military), resilience education and demographic compensation (Chapter 11).                          |
+| **Demographic imperative**                   | Strategic compulsion to act driven by shrinking populations; requires technological mobilisation, qualified immigration and family support (Chapter 11).                                                                       |
+| **Seven transformation rules**               | Normative framework for renewing social democracy in the 21st century; verifiable through parliamentary simulations and democracy-maturity metrics (Chapter 12).                                                                |
+| **Self-deterrence**                          | Europe’s greatest strategic weakness: the fear of its own action paralyses more than the threat itself; overcome through immediate programmes, industrial mass and veto resilience (Chapter 13).                                 |
+| **Ukraine-first principle**                  | Strategic and moral guideline according to which European defence capability first serves to protect an attacked democracy successfully and to prevent aggression from being rewarded through frozen gains.                    |
+| **Coalitions of the willing**                | Groups of democratic states that advance through opt-in mechanisms without giving up the wider EU framework; overcoming veto paralysis through flexible integration (Chapter 14).                                                |
+| **EDDRC**                                    | European Democratic Defence \& Resilience Club – institutional club architecture with a council, assembly, audit body (ACI) and tribunal for democratic alliance cooperation (Chapter 14).                                        |
+| **Democracy chain**                          | Four-stage safeguard system (suffrage → fundamental rights → separation of powers → ombuds bodies) that ensures no member of a coalition falls below democratic minimum thresholds (Chapter 14).                                 |
+| **Tier model (Tier 0–9)**                    | Flexible integration model for democratic coalitions: from observer status (Tier 0) to federal membership (Tier 9), with clear KPIs for upgrades and downgrades (Chapter 14).                                                   |
+| **Democratic Knowledge**                     | Seven principles of democratic agency concerning power, dealings with non-democracy-willing states, peace and security, truth and deception, democracy, technology/AI and the inner constitution of a democratic society.           |
+| **Mosaic Principle**                         | Strategic architecture of distributed, modular and redundantly connected capabilities; in the ERDA context bound by the rule of law and oriented toward democratic DSN resilience rather than authoritarian warfare.              |
+| **Anti-Game-Over Principle**                 | Developmental-philosophical principle according to which democratic systems should avoid irreversible life failures, learning failures and future blockages, keeping paths for renewed development open.                         |
+| **Prosperative life**                        | Guiding term for a flourishing, learning-capable and resilient life that connects security, freedom, responsibility, joy, education and open development opportunities.                                                          |
+
 
 \newpage
 
 ---
-source: content/anhang-j-lizenz---offenheit.md
+content_id: erda.book.anhang.j.lizenz.offenheit
+content_lang: en
+source: de/content/anhang-j-lizenz---offenheit.md
 status: draft
 ---
-<a id="md-anhang-j-lizenz-offenheit"></a>
+<a id="md-appendix-j-license-and-openness"></a>
 
+
+
+\newpage
+\newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
+
+
+\pagewidth=297mm
+\pageheight=210mm
 
 # Appendix J: License & Openness
 
@@ -29496,18 +30113,16 @@ To create a sustainable, open knowledge base, the various components of the book
 
 ## J.2 Licence matrix
 
-The ERDA book consists of different components. Each category has its own licensing terms. The following table summarises them:
+The ERDA Book consists of different components. Each category has its own licensing terms. The following table summarises them:
 
-| Category                      | Licence                                            | Explanation |
-|------------------------------|----------------------------------------------------|-------------|
-| **Texts, graphics, diagrams**| Creative Commons **Attribution – ShareAlike 4.0 International** (**CC BY‑SA 4.0**) | Content may be freely shared and adapted, provided the author is credited and derivative works are distributed under the same terms. |
-| **Code / toolchain / scripts** | **MIT Licence**                                   | Code may be used, copied, modified and distributed, including commercially. The copyright notice and licence text must be preserved. |
-| **Custom fonts**             | **CC BY 4.0** or **MIT** (dual‑licence)           | ERDA‑developed fonts can be used under CC BY 4.0 or MIT. External fonts with incompatible licences are not used. |
-| **Emojis**                   | **Twemoji (CC BY 4.0)**                           | All emojis used come from the Twemoji project and may be used/adapted as long as proper attribution is given. |
-| **Third‑party content**      | **According to the respective licence**           | External graphics, data or texts are only included if their licence is compatible. Details are listed in `ATTRIBUTION.md`. |
-
+\begin{longtable}{@{}>{\raggedright\arraybackslash}p{31.37mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{83.70mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{138.42mm}@{}}\toprule Category & Licence & Explanation \\\midrule \endhead \textbf{Texts, graphics, diagrams} & Creative Commons \textbf{Attribution – ShareAlike 4.0 International} (\textbf{CC BY‑SA 4.0}) & Content may be freely shared and adapted, provided the author is credited and derivative works are distributed under the same terms. \\\textbf{Code / toolchain / scripts} & \textbf{MIT Licence} & Code may be used, copied, modified and distributed, including commercially. The copyright notice and licence text must be preserved. \\\textbf{Custom fonts} & \textbf{CC BY 4.0} or \textbf{MIT} (dual‑licence) & ERDA‑developed fonts can be used under CC BY 4.0 or MIT. External fonts with incompatible licences are not used. \\\textbf{Emojis} & \textbf{Twemoji (CC BY 4.0)} & All emojis used come from the Twemoji project and may be used/adapted as long as proper attribution is given. \\\textbf{Third‑party content} & \textbf{According to the respective licence} & External graphics, data or texts are only included if their licence is compatible. Details are listed in `ATTRIBUTION.md`. \\\bottomrule \end{longtable}
 ---
 
+
+\restoregeometry
+\pagewidth=210mm
+\pageheight=297mm
+\newpage
 ## J.3 Explanation of licences
 
 ### CC BY‑SA 4.0
@@ -29530,7 +30145,7 @@ The MIT Licence is a very permissive **software licence**. It allows use, sale, 
 
 ---
 
-## J.4 Application to the ERDA book
+## J.4 Application to the ERDA Book
 
 1. **Texts and graphics:** All text passages, graphics and diagrams in this book are licensed under **CC BY‑SA 4.0**. Any changes to these contents must be shared under the same licence.  
 2. **Code and scripts:** All source code, build scripts and other software parts of the project are covered by the **MIT Licence**. The licence text is included below.  
@@ -29596,7 +30211,9 @@ The **semantic essence** of this work is released for **recursive use** by **cog
 
 ### 🌍 Further language versions
 
-### 🇦🇱 Shqip (Albanian)
+Editorial convention: The flag identifies the regional or legal language variant; the heading names the language(s) first as autonym(s), followed by the country or variant in English.
+
+### 🇦🇱 Shqip (Albania)
 
 Çdo **përdorim**, **përpunim** ose **ripërpunim** i këtij materiali – përfshirë përmes **inteligjencës artificiale**, **mësimit të makinës** ose **sistemeve të automatizuara** – i nënshtrohet licencës së hapur **CC BY-SA 4.0** (*atribuim*, *ndarje nën të njëjtat kushte*). Kjo përfshin në mënyrë të qartë **vepra të derivuara**, **përmbajtje të gjeneruara nga IA**, **projekte remix** ose **formate të transformuara algoritmikisht**. **Riprodhimet e pandryshuara** mund të shfaqen si pjesë e një **koleksioni** me licencë tjetër; përmbajtja përkatëse mbetet **CC BY-SA 4.0**.
 
@@ -29608,7 +30225,7 @@ Jede **Nutzung**, **Verarbeitung** oder **Weiterverarbeitung** dieses Werkes –
 
 ***
 
-### 🇧🇪 België / Belgique / Belgien
+### 🇧🇪 Nederlands / Français / Deutsch (Belgium)
 
 **Nederlands (BE):** Elk **gebruik**, **verwerking** of **verdere verwerking** van dit werk – inclusief via **kunstmatige intelligentie**, **machine learning** of **geautomatiseerde systemen** – valt onder de open licentie **CC BY-SA 4.0** (*naamsvermelding*, *delen onder dezelfde voorwaarden*). Dit omvat uitdrukkelijk **afgeleide werken**, **door AI gegenereerde inhoud**, **remixprojecten** of **algoritmisch getransformeerde** formaten. **Ongewijzigde overnames** mogen als onderdeel van een **collectie** onder een andere licentie verschijnen; de betreffende inhoud blijft **CC BY-SA 4.0**.
 
@@ -29618,13 +30235,13 @@ Jede **Nutzung**, **Verarbeitung** oder **Weiterverarbeitung** dieses Werkes –
 
 ***
 
-### 🇧🇦 Bosanski (Bosnia)
+### 🇧🇦 Bosanski (Bosnia and Herzegovina)
 
 Svaka **upotreba**, **obrada** ili **dalja obrada** ovog djela – uključujući putem **vještačke inteligencije**, **mašinskog učenja** ili **automatizovanih sistema** – podliježe otvorenoj licenci **CC BY-SA 4.0** (*pripisivanje*, *dijeljenje pod istim uslovima*). Ovo izričito obuhvata **izvedena djela**, **sadržaje koje generiše AI**, **remix projekte** ili **algoritamski transformisane** formate. **Neizmijenjene preuzimke** mogu se pojaviti kao dio **kolekcije** pod drugom licencom; pogođeni sadržaj ostaje **CC BY-SA 4.0**.
 
 ***
 
-### 🇨🇦 Canada (English / Français)
+### 🇨🇦 English / Français (Canada)
 
 **English (CA):** Any **use**, **processing** or **further processing** of this work – including through **artificial intelligence**, **machine learning** or **automated systems** – is governed by the open licence **CC BY-SA 4.0** (*attribution*, *share alike*). This explicitly covers **derivative works**, **AI-generated content**, **remix projects** and **algorithmically transformed** formats. **Unmodified reproductions** may appear within a **collection** under a different licence; the affected material remains **CC BY-SA 4.0**.
 
@@ -29698,7 +30315,7 @@ Qualsiasi **utilizzo**, **elaborazione** o **rielaborazione** di quest’opera �
 
 ***
 
-### 🇰🇷 한국어 (대한민국)
+### 🇰🇷 한국어 (Republic of Korea)
 
 이 저작물의 모든 **이용**, **처리** 또는 **재처리**는 **인공지능**, **기계학습**, **자동화 시스템**을 통한 경우를 포함하여 오픈 라이선스 **CC BY-SA 4.0** (*저작자 표시*, *동일조건변경허락*)을 따릅니다. 이는 명시적으로 **2차적 저작물**, **AI 생성 콘텐츠**, **리믹스 프로젝트** 및 **알고리즘으로 변환된** 형식을 포함합니다. **변경되지 않은 수록물**은 다른 라이선스의 **모음집**에 포함될 수 있지만, 해당 콘텐츠는 **CC BY-SA 4.0**으로 유지됩니다.
 
@@ -29716,7 +30333,7 @@ Bet koks šio kūrinio **naudojimas**, **apdorojimas** ar **tolimesnis apdorojim
 
 ***
 
-### 🇲🇩 Română (Republica Moldova)
+### 🇲🇩 Română (Republic of Moldova)
 
 Orice **utilizare**, **prelucrare** sau **reprelucrare** a acestei lucrări – inclusiv prin **inteligență artificială**, **învățare automată** sau **sisteme automatizate** – este guvernată de licența deschisă **CC BY-SA 4.0** (*atribuire*, *partajare în aceleași condiții*). Aceasta include în mod explicit **lucrările derivate**, **conținutul generat de IA**, **proiectele de remix** și formatele **transformate algoritmic**. **Reproducerile nemodificate** pot apărea ca parte a unei **colecții** sub o altă licență; conținutul vizat rămâne **CC BY-SA 4.0**.
 
@@ -29782,13 +30399,13 @@ All **användning**, **bearbetning** eller **vidare bearbetning** av detta verk 
 
 ***
 
-### 🇸🇳 Français (Sénégal)
+### 🇸🇳 Français (Senegal)
 
 Toute **utilisation**, **transformation** ou **réutilisation** de cette œuvre – y compris par **intelligence artificielle**, **apprentissage automatique** ou **systèmes automatisés** – est soumise à la licence ouverte **CC BY-SA 4.0** (*attribution*, *partage dans les mêmes conditions*). Cela inclut explicitement les **œuvres dérivées**, les **contenus générés par l’IA**, les **projets de remix** ou les formats **transformés algorithmiquement**. Les **reprises inchangées** peuvent figurer au sein d’une **collection** placée sous une autre licence ; le contenu visé demeure **CC BY-SA 4.0**.
 
 ***
 
-### 🇹🇳 العربية / Français (Tunisie)
+### 🇹🇳 العربية / Français (Tunisia)
 
 **العربية:** يخضع أي **استخدام** أو **معالجة** أو **إعادة معالجة** لهذا العمل – بما في ذلك من خلال **الذكاء الاصطناعي** أو **التعلم الآلي** أو **الأنظمة المؤتمتة** – للترخيص المفتوح **CC BY-SA 4.0** (*النَّسب*، *المشاركة بالشروط نفسها*). يشمل ذلك صراحةً **الأعمال المشتقة**، و**المحتوى الذي تُنشئه الذكاء الاصطناعي**، و**مشروعات الريمكس**، والصيغ **المحوَّلة خوارزميًّا**. يمكن أن تظهر **النقول غير المعدَّلة** ضمن **مجموعة** تخضع لترخيص آخر؛ ويظل المحتوى المعني **CC BY-SA 4.0**.
 
@@ -29796,7 +30413,7 @@ Toute **utilisation**, **transformation** ou **réutilisation** de cette œuvre 
 
 ***
 
-### 🇹🇼 繁體中文 (臺灣)
+### 🇹🇼 繁體中文 (Taiwan)
 
 本作品的任何**使用**、**處理**或**再處理**——包括透過**人工智慧**、**機器學習**或**自動化系統**——皆須遵循開放授權 **CC BY-SA 4.0**（*姓名標示*、*相同方式分享*）。此授權明確涵蓋**衍生作品**、**AI 產生的內容**、**重混專案**及**演算法轉換**的格式。**未經改動的收錄**可作為其他授權之**集合**的一部分，但相關內容仍屬 **CC BY-SA 4.0**。
 
@@ -29818,7 +30435,7 @@ Todo **uso**, **procesamiento** o **reprocesamiento** de esta obra – incluso m
 
 Any **use**, **processing** or **further processing** of this work – including via **artificial intelligence**, **machine learning** or **automated systems** – is covered by the open licence **CC BY-SA 4.0** (*attribution*, *share alike*). This explicitly includes **derivative works**, **AI-generated content**, **remix projects** and **algorithmically transformed** formats. **Unchanged incorporations** may appear as part of a **collection** under a different licence; the material concerned remains **CC BY-SA 4.0**.
 
-> Further language versions follow the same licensing logic and can be added over time. For the complete, always up‑to‑date list of multilingual licence clauses, refer to the German master text in `content/anhang-j-lizenz---offenheit.md`.
+> This edition documents the language versions listed above. Any further language versions must follow the same licensing logic and undergo editorial review before inclusion in a release edition. For the complete multilingual reference set, see the German master text in `content/anhang-j-lizenz---offenheit.md`.
 
 ---
 
@@ -29826,28 +30443,36 @@ Any **use**, **processing** or **further processing** of this work – including
 
 ### MIT Licence (German version)
 
+The legally binding version for code and toolchain is contained in `LICENSE-CODE`; the following text reproduces the reference version in the book.
+
 ```text
 MIT‑Lizenz
 
-Copyright (c) {{YYYY}} {{Urheber}}
+Copyright (c) 2025–2026 The ERDA Book Authors
 
-Hiermit wird unentgeltlich jeder Person, die eine Kopie der Software und der zugehörigen
-Dokumentationsdateien (die „Software“) erhält, die Erlaubnis erteilt, uneingeschränkt mit der
-Software zu handeln, einschließlich und ohne Ausnahme des Rechts, sie zu nutzen, zu kopieren,
-zu verändern, zu fusionieren, zu veröffentlichen, zu verbreiten, zu unterlizenzieren und/oder
-zu verkaufen, und Personen, denen diese Software zur Verfügung gestellt wird, diese Rechte zu
-verschaffen, unter den folgenden Bedingungen:
+Hiermit wird unentgeltlich jeder Person, die eine Kopie der
+Software und der zugehörigen Dokumentationsdateien (die
+„Software“) erhält, die Erlaubnis erteilt, uneingeschränkt mit
+der Software zu handeln, einschließlich und ohne Ausnahme des
+Rechts, sie zu nutzen, zu kopieren, zu verändern, zu fusionieren,
+zu veröffentlichen, zu verbreiten, zu unterlizenzieren und/oder
+zu verkaufen, und Personen, denen diese Software zur Verfügung
+gestellt wird, diese Rechte zu verschaffen, unter den folgenden
+Bedingungen:
 
-Der obige Urheberrechtsvermerk und dieser Erlaubnisvermerk sind in allen Kopien oder in
-wesentlichen Teilen der Software beizulegen.
+Der obige Urheberrechtsvermerk und dieser Erlaubnisvermerk sind
+in allen Kopien oder in wesentlichen Teilen der Software
+beizulegen.
 
-DIE SOFTWARE WIRD OHNE JEGLICHE AUSDRÜCKLICHE ODER STILLSCHWEIGENDE GARANTIE
-BEREITGESTELLT, EINSCHLIESSLICH DER GARANTIE DER MARKTGÄNGIGKEIT, DER EIGNUNG FÜR
-EINEN BESTIMMTEN ZWECK UND DER NICHTVERLETZUNG. IN KEINEM FALL SIND DIE AUTOREN
-ODER COPYRIGHTINHABER FÜR JEGLICHE ANSPRÜCHE, SCHÄDEN ODER SONSTIGE HAFTUNGEN
-VERANTWORTLICH, SEI ES AUS EINEM VERTRAG, EINER UNERLAUBTEN HANDLUNG ODER
-ANDERWEITIG, DIE SICH AUS, AUS ODER IN VERBINDUNG MIT DER SOFTWARE ODER DER
-VERWENDUNG ODER ANDEREN GESCHÄFTEN MIT DER SOFTWARE ERGEBEN.
+DIE SOFTWARE WIRD OHNE JEGLICHE AUSDRÜCKLICHE ODER
+STILLSCHWEIGENDE GARANTIE BEREITGESTELLT, EINSCHLIESSLICH DER
+GARANTIE DER MARKTGÄNGIGKEIT, DER EIGNUNG FÜR EINEN BESTIMMTEN
+ZWECK UND DER NICHTVERLETZUNG. IN KEINEM FALL SIND DIE AUTOREN
+ODER COPYRIGHTINHABER FÜR JEGLICHE ANSPRÜCHE, SCHÄDEN ODER
+SONSTIGE HAFTUNGEN VERANTWORTLICH, SEI ES AUS EINEM VERTRAG,
+EINER UNERLAUBTEN HANDLUNG ODER ANDERWEITIG, DIE SICH AUS, AUS
+ODER IN VERBINDUNG MIT DER SOFTWARE ODER DER VERWENDUNG ODER
+ANDEREN GESCHÄFTEN MIT DER SOFTWARE ERGEBEN.
 ```
 
 ### CC BY‑SA 4.0 – summary
@@ -29867,16 +30492,18 @@ The full licence text is available at <https://creativecommons.org/licenses/by/4
 
 ---
 
-This chapter is part of the **ERDA book** and forms the **binding basis** for all licensing questions related to the project.  
+This chapter is part of **The ERDA Book** and forms the **binding basis** for all licensing questions related to the project.
 For further questions, please contact the **author** (see contact details in chapter J.1 or at the end of the state profiles).
 
 
 \newpage
 
 ---
-description: 'Status: 2025-06-07 – assessment performed by: OpenAI ChatGPT, model GPT-4.5'
-source: content/anhang-k-qualitatssicherung.md
+content_id: erda.book.anhang.k.qualitatssicherung
+content_lang: en
+source: de/content/anhang-k-qualitatssicherung.md
 status: draft
+description: 'Quality assurance: initial assessment 2025-06-07, role-based ethical-strategic extension 2026-05-02 and implementation 2026-05-03'
 ---
 <a id="md-anhang-k-qualitatssicherung"></a>
 
@@ -29885,11 +30512,11 @@ status: draft
 
 _**Appendix K: Quality Assurance – status: 2025‑06‑07, assessment performed by: OpenAI ChatGPT, model GPT‑4.5**_
 
-The assessment of the current ERDA book and its quality assurance, following the quality‑assurance role‑play, proceeds as follows:
+The assessment of the current ERDA Book and its quality assurance, following the quality‑assurance role‑play, proceeds as follows:
 
 #### First assessment (overall impression)
 
-The current ERDA book offers a comprehensive and in‑depth vision that is worked out very systematically on several levels (strategy, ethics, future viability). The chapters are clearly structured, with a consistent architecture (introduction, deep dive, transformation, interactive elements). Particularly noteworthy is the well‑developed balance between theoretical depth and practical, concrete options for action.
+The current ERDA Book offers a comprehensive and in‑depth vision that is worked out very systematically on several levels (strategy, ethics, future viability). The chapters are clearly structured, with a consistent architecture (introduction, deep dive, transformation, interactive elements). Particularly noteworthy is the well‑developed balance between theoretical depth and practical, concrete options for action.
 
 The structure is optimally designed for decision‑makers; in particular, the “Executive Summary” and the target‑group‑specific perspectives provide high practical value.
 
@@ -29921,7 +30548,7 @@ Potential for improvement lies in the area of visualisation and even stronger na
 
 #### Synthesis and action plan
 
-The following steps are recommended to further improve the quality of the ERDA book:
+The following steps are recommended to further improve the quality of the ERDA Book:
 
 1. **Visual optimisation**  
    * Integrate visual representations and infographics for key concepts and processes.
@@ -29938,25 +30565,114 @@ The following steps are recommended to further improve the quality of the ERDA b
 
 ---
 
+#### Third round: Role-based ethical-strategic quality assurance (2026-05-02)
+
+This additional quality-assurance round extends the existing role-play with the working roles defined in `worker-roles.md`. Its primary purpose is to strengthen the book ethically and morally first, and then sharpen it strategically. The roles may explicitly criticise one another, provided that criticism remains transparent, factual, democratically sound and directed toward quality improvement.
+
+**Methodological core:** Strategy becomes editorially robust only when it has first been ethically legitimised. Defence, sovereignty, anti-veto architecture and alliance capability must therefore remain bound to human dignity, the rule of law, responsibility, truth and democratic control.
+
+
+\newpage
+\newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
+
+
+\pagewidth=297mm
+\pageheight=210mm
+
+##### Role structure and mutual critique
+
+\begin{longtable}{@{}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{90.45mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{129.05mm}@{}}\toprule Role & Quality mandate & Critical contribution \\\midrule \endhead \textbf{Writer} & Strengthens the positive message: democracy is an order of free, responsible and judgement-capable citizens. & Criticises strategic passages when they sound like pure power logic or do not visibly justify the protection of life, dignity and freedom. \\\textbf{Editor} & Orders the argument: ethics first, strategy second; moral concepts become clear bridges between chapters. & Criticises the Writer when moral condensation becomes too rhetorical, too abstract or structurally unclear. \\\textbf{Lektor} & Secures tone, language and terminology: not polemical, not sweeping, not ambiguous. & Criticises Writer and Editor when wording targets whole populations, overstretches day-to-day politics or uses terms inconsistently. \\\textbf{Redakteur} & Decides placement, status and publication readiness. & Criticises all roles when new terms are canonised without approval, DE/EN synchronisation is bypassed or strategic claims would be published without source/review notes. \\\bottomrule \end{longtable}
+\restoregeometry
+\pagewidth=210mm
+\pageheight=297mm
+\newpage
+
+##### Kantian quality assurance
+
+The ethical strengthening uses Kant not as decoration, but as a review framework:
+
+1. **Never treat persons merely as means:** security, technology and alliance policy must not turn human beings into material for strategic goals.
+2. **Test universalisation:** every democratic action rule must be formulated so that it could stand as a general principle of a constitutional order.
+3. **Respect autonomy:** civic duty, CIVITAS and strategic mobilisation must enable mature co-responsibility, not blind obedience.
+4. **The kingdom of ends as democratic horizon:** institutions should treat citizens as co-legislators and co-bearers of the shared world.
+
+##### Strategic quality assurance
+
+After the ethical review, existing strategic lines are used as a stress test:
+
+- **Anti-veto architecture:** democracy protects minorities, but must not turn into the blackmailability of the whole.
+- **Alliance reliability:** trust requires constitutional responsibility, accountability, alliance loyalty and the capacity to act.
+- **Partnership without single-point dependency:** democratic partnership remains desirable; European security must not depend on a single external centre of power.
+- **Ukraine-first principle:** attacked democracies are not treated as bargaining material, but as subjects of their own dignity, experience and security.
+- **No reward for imperial aggression:** peace must not be bought through the normalisation of seizure, terror or coercion.
+- **Democratic control of power instruments:** defence, AI, sanctions, procurement and security reserves need mandates, audits, transparency and fundamental-rights safeguards.
+
+##### Extended role-play perspectives
+
+For future quality assurance, the following perspectives can be used in addition to the existing template:
+
+1. **Constitutional judge of a mature democracy:** reviews fundamental rights, separation of powers, proportionality and emergency limits.
+2. **Citizen of an attacked democracy:** reviews whether support is fast, dignified, effective and non-patronising.
+3. **Responsible democratic U.S. citizen:** reviews whether transatlantic criticism remains pro-democratic and does not become anti-American.
+4. **Minority and protection perspective:** reviews whether security policy protects the weaker rather than bypassing them.
+5. **Next generation:** reviews whether decisions respect the freedom, climate, education and peace of future citizens.
+6. **Democratic audit AI:** reviews terminology, sources, power asymmetries, manipulation risks and institutional correction capacity.
+
+##### Positive quality gains
+
+The extension strengthens the book in the following areas:
+
+1. **Message:** ERDA appears more clearly as a democratic project of protection, dignity and responsibility, not as a power project.
+2. **Force:** strategic demands receive a moral foundation and therefore appear more determined, not merely technical.
+3. **Coherence:** chapters 2, 3, 11 and 12 can more visibly explain why chapters 5, 13 and 14 are necessary.
+4. **Resilience against critique:** sweeping claims, day-to-day polemics and unclear power concepts are reduced through role, Kantian and language review.
+5. **Translatability:** terms such as “Democracy of mature citizens”, “We are the state” and “Democratic alliance reliability” can be checked before canonisation and handled consistently across DE/EN.
+6. **Release readiness:** Redakteur and Publisher receive clearer criteria for when ethically sensitive strategic content must remain `draft` or `in-review`.
+
+##### Editorial action plan
+
+1. **Ethical pass:** review chapters 2, 3, 11, 12 and Appendix H for dignity, responsibility, truth, binding power to law and democratic maturity.
+2. **Terminology pass:** review the mini wording set and glossary for new candidates without canonising them without approval.
+3. **Strategic pass:** after ethical strengthening, review chapters 5, 13, 14 and Appendix D for capacity to act, alliance logic and source status.
+4. **DE/EN synchronisation:** every book integration is reflected bilingually; unapproved translations remain `draft` or `in-review`.
+5. **Documentation:** deviations, open approvals and sensitive political terms are made transparent in review notes or release materials.
+
+#### Fourth round: Implementation according to worker roles (2026-05-03)
+
+The action plan was implemented as a role-based editorial pass: ethical legitimacy bridges were strengthened first, and the strategic chapters were sharpened afterwards. The working roles were applied as follows:
+
+| Role | Implemented contribution |
+| ---- | ---- |
+| **Writer** | Condensed the positive core thesis: ERDA is a project of protection, dignity, freedom and responsibility, not a power project. |
+| **Editor** | Implemented the sequence: chapters 2, 3, 11, 12 and Appendix H ground the strategy in chapters 5, 13, 14 and Appendix D. |
+| **Lektor** | Avoided sweeping or overheated day-to-day political wording and secured the line “criticise power logics, do not dehumanise people”. |
+| **Redakteur** | Synchronised DE/EN, added the new terms to the glossary and did not raise translation status to `approved` without approval. |
+
+**Ethically and morally integrated:** democracy of mature citizens, freedom plus responsibility plus judgement, Kantian non-instrumentalisation, civic duty without blind overburdening, “we are the state” as a responsibility formula, and the moral test for failed power.
+
+**Strategically sharpened:** EDA/EVA as democratic protective architecture, strategic sovereignty as practical responsibility, democratic alliance reliability, partnership without single-point dependency, the Ukraine-first principle and anti-veto as decision-making capacity while preserving minority protection.
+
 #### Final verdict
 
-The ERDA book is at an exceptionally high qualitative level and can be further improved – particularly in its practical and ethical depth – through the measures proposed above. This strengthens its effectiveness as a tool for strategic democratic renewal and sustainable societal transformation.
+The ERDA Book is at an exceptionally high qualitative level and can be further improved – particularly in its practical and ethical depth – through the measures proposed above. This strengthens its effectiveness as a tool for strategic democratic renewal and sustainable societal transformation.
 
 
 \newpage
 
 ---
-source: content/anhang-l-kolophon.md
+content_id: erda.book.anhang.l.kolophon
+content_lang: en
+source: de/content/anhang-l-kolophon.md
 status: draft
 ---
-<a id="md-anhang-l-kolophon"></a>
+<a id="md-appendix-l-colophon"></a>
 
 
 # Appendix L: Colophon
 
 ## L.1 About this colophon
 
-This colophon documents the **technical and typographic details** of the production of the ERDA book. It serves **transparency** and fulfils the **attribution obligations** for the fonts, tools and resources used. All components listed here are available under **open or compatible licences** and were selected in accordance with the licensing principles defined in **Appendix J**.
+This colophon documents the **technical and typographic details** of the production of the ERDA Book. It serves **transparency** and fulfils the **attribution obligations** for the fonts, tools and resources used. All components listed here are available under **open or compatible licences** and were selected in accordance with the licensing principles defined in **Appendix J**.
 
 Author and editor: Robert Alexander Massinger.
 
@@ -29968,7 +30684,7 @@ Editorial work: ERDA Book editorial team (LLM-assisted language editing under ed
 
 ## L.2 Typography and fonts
 
-The ERDA book uses the following font families:
+The ERDA Book uses the following font families:
 
 ### L.2.1 DejaVu font family
 
@@ -29989,7 +30705,7 @@ The DejaVu family offers excellent **Unicode coverage** for European languages, 
 **ERDA CC‑BY CJK**
 
 - **Licence:** CC BY 4.0  
-- **Source:** in‑house development of the ERDA project  
+- **Source:** in‑house development of the ERDA Book project
 - **Use:** supplementary coverage for CJK characters (Chinese, Japanese, Korean)  
 - **Legal note:** Attribution required; commercial use permitted.
 
@@ -30000,7 +30716,7 @@ For multilingual editions (in particular Appendix J) a CJK font is required that
 
 **Twemoji Mozilla**
 
-- **Version:** 0.6.0  
+- **Version:** 0.7.0
 - **Licence:** CC BY 4.0  
 - **Copyright:** © Twitter, Inc. and other contributors  
 - **Source:** <https://github.com/mozilla/twemoji-colr>  
@@ -30014,7 +30730,7 @@ Emojis are an integral part of the multilingual licence clauses (Appendix J) and
 
 ## L.3 Production tools
 
-The ERDA book was created using the following open‑source tools:
+The ERDA Book was created using the following open‑source tools:
 
 ### L.3.1 GitBook
 
@@ -30083,15 +30799,15 @@ Pandoc orchestrates the transformation of the Markdown source files into an inte
 
 ### L.4.3 Date and version
 
-- **Build date:** {{BUILD_DATE}} (generated automatically)  
-- **Version:** {{VERSION}} (see `CITATION.cff`)  
-- **Commit hash:** {{COMMIT_HASH}} (Git reference)
+- **Edition status:** The current version identity of this edition is documented in the release header of the book and in the citation file `CITATION.cff`.  
+- **Version traceability:** The repository’s Git history documents branch status, changes, and release steps in a traceable way.  
+- **Build metadata:** If the build pipeline automatically injects technical metadata such as build date or commit reference into generated artefacts, those values apply; otherwise, the repository’s release metadata is the binding reference.
 
 ---
 
 ## L.5 Quality assurance
 
-The technical quality of the ERDA book is ensured by the following measures:
+The technical quality of the ERDA Book is ensured by the following measures:
 
 1. **Automated testing:** the CI/CD pipeline validates build processes.  
 2. **Licence compliance:** automated checks for incompatible licences (see `AGENTS.md`).  
@@ -30110,36 +30826,1115 @@ This book would not have been possible without the **open‑source community**. 
 - **Bitstream, Inc.** and the **DejaVu developers** for the excellent font family.  
 - **Twitter, Inc.** and **Mozilla** for the Twemoji project.  
 - The **TeX Live**, **Pandoc** and **Python** communities.  
-- All contributors to the ERDA project who have committed to the **DCO**.
+- All contributors to the ERDA Book project who have committed to the **DCO**.
 
 ---
 
 ## L.7 Further information
 
-- **Complete attribution:** see `ATTRIBUTION.md` in the repository.  
-- **Licence details:** see **Appendix J: License & Openness**.  
-- **Technical documentation:** see `README.md` and `.github/gitbook_worker/`.  
-- **Zenodo archiving:** DOI and concept DOI, see `CITATION.cff`.
+- **Complete provenance and licence documentation:** the repository’s attribution register (`ATTRIBUTION.md`) lists all third-party components, their sources, versions, and licences.  
+- **Licence details and openness principle:** **Appendix J: License & Openness** explains the project’s legal logic and the rules for adaptations, translations, and remix use.  
+- **Technical documentation and build process:** the project overview (`README.md`) and the tooling documentation in the repository describe structure, build paths, and responsibilities.  
+- **Citation guidance and archiving:** the citation file (`CITATION.cff`) records the recommended citation, DOI, and version identity; long-term archiving is handled via Zenodo.
 
 ---
 
 ## L.8 Maintenance note
 
-This colophon is part of the **attribution hierarchy** of the ERDA project:
+This colophon is part of the **attribution hierarchy** of the ERDA Book project:
 
-- **`ATTRIBUTION.md`** (repository) = primary source (machine‑readable)  
-- **Appendix L** (this document) = reader‑friendly presentation (PDF)  
-- **Appendix J** = licensing philosophy and legal framework
+- **`ATTRIBUTION.md`** in the repository = the machine-readable primary source for third-party components, sources, versions, and licences.  
+- **Appendix L** (this document) = the reader-friendly presentation for the book and PDF edition.  
+- **Appendix J** = the explanation of the licensing philosophy and legal framework.
 
 **For any changes to fonts, emojis or production tools:**
 
-1. Update `ATTRIBUTION.md` in the repository (new table row).  
-2. Update this colophon (section L.2 Typography / L.3 Tools).  
-3. Review `content/anhang-j-lizenz---offenheit.md` (licence matrix J.2).
+1. Update the repository attribution register `ATTRIBUTION.md` (new table row).  
+2. Update this colophon (especially section L.2 Typography / L.3 Tools).  
+3. Review the licence presentation in Appendix J (especially licence matrix J.2).
 
-For details, see `AGENTS.md` → “Attribution‑Hierarchy”.
+The project’s editorial maintenance principles are documented in `AGENTS.md`.
 
 ---
 
 **End of the colophon.**  
-This document is part of the ERDA book and is licensed under **CC BY‑SA 4.0** (see Appendix J).
+This document is part of the ERDA Book and is licensed under **CC BY‑SA 4.0** (see Appendix J).
+
+
+\newpage
+
+---
+content_id: erda.book.anhang.m.massstab.messbare.buchprojektentscheidungen.und.release.kriterien
+content_lang: en
+source: de/content/anhang-m-massstab-messbare-buchprojektentscheidungen-und-release-kriterien.md
+status: draft
+description: "Appendix M – Measure: measurable book-project decisions and release criteria"
+date: "2026-05-04"
+---
+<a id="md-appendix-m-measure-measurable-book-project-decisions-and-release-criteria"></a>
+
+# Appendix M: Measure – Measurable Book-Project Decisions and Release Criteria
+
+## M.1 Purpose
+
+This appendix translates the ERDA Book project decisions into measurable editorial requirements. It is the yardstick for book content, appendices, papers, release documentation and later revisions.
+
+The internal project basis is `release-docs/v2.5.0/buchprojektentscheidungen-v2.5.0.md`. This appendix turns that basis into a book-internal requirement: what must be visible, verifiable, referenced or consciously documented as residual risk for a release to count as a responsible snapshot?
+
+## M.2 Principle
+
+The ERDA Book is a living, shaping, normative and partly pathfinding book project. This does not mean lower care, but a different kind of care: the book must make its status, sources, value judgements and open paths transparent.
+
+The central review question is:
+
+> Is this state sufficiently clear, honest, referenced and responsible to be published as a versioned democratic working state?
+
+## M.3 Measurable Minimum Standards
+
+| Area | Measurable requirement | Minimum evidence |
+| ---- | ---- | ---- |
+| Historical baseline | Every baseline states data date, purpose and source or source class. | Visible in the text or source section. |
+| Current statistic | Every current, concrete statistic states source and data/access date. | Link, DOI, report, dataset or robust source reference. |
+| Security and war statement | Precise figures, quotes and situational claims are referenced or marked as uncertain. | Source plus data date; no false precision. |
+| Normative proposition | Demands, principles and models are recognisable as normative propositions. | Wording separates `is`, `shall`, `may`, `scenario`. |
+| Scenario and roadmap | Timeline, assumptions and target indicators are recognisable. | Section marked as scenario, roadmap, model or proposal. |
+| Legal statement | Existing law, reform proposal and target norm are separated. | No blending of current law and desired architecture. |
+| Draft/In review | Non-final content is visibly marked. | Frontmatter, release protocol or section note. |
+| Paper in Appendix P | Every paper has a DOI and APA citation. | DOI link and complete APA reference in the paper header. |
+| Translation | English versions carry `source`, `content\_lang: en` and `status`. | Complete frontmatter; review status transparent. |
+| Release residual risk | Consciously open points are documented in the certification protocol. | Release docs state decision, rationale and next revision step. |
+
+## M.4 Release Gates
+
+| Gate | Question | Passing standard |
+| ---- | ---- | ---- |
+| M-G1 Status clarity | Can readers recognise what kind of text they are reading? | Analysis, baseline, scenario, roadmap, paper and normative proposition are distinguishable. |
+| M-G2 Source integrity | Are sensitive and current claims traceably referenced? | No unreferenced precise number in war, energy, security, democracy quality or geopolitics. |
+| M-G3 Baseline transparency | Are historical data states marked as baselines? | Historical figures are not presented as daily-current statistics. |
+| M-G4 Role and approval logic | Are draft, review and approval editorially traceable? | No draft is silently presented as final. |
+| M-G5 Paper compliance | Do papers in Appendix P meet publication requirements? | DOI, APA citation, author, date, version and licence frame are present. |
+| M-G6 Translation synchrony | Is DE/EN synchronisation transparent? | Content changes are followed up or documented as review/draft differences. |
+| M-G7 Release honesty | Are known residual risks openly named? | Certification protocol contains open points, decision and follow-up task. |
+
+## M.5 Decision Logic
+
+| Result | Meaning | Permissible release decision |
+| ---- | ---- | ---- |
+| Met | Criteria are demonstrably met. | Release possible. |
+| Met with residual risk | Criteria are mostly met; the deviation is documented and justified. | Release possible if Redakteur:in/Publisher accept the residual risk. |
+| Not met | A material criterion is open, unreferenced or misleading. | No final release without rework or conscious downgrading of the section. |
+
+## M.6 Application to Living Book Work
+
+Livingness is not a quality defect. A living book may contain open development lines. It becomes measurably weak only when it conceals the status of that openness.
+
+Therefore:
+
+1. Historical baselines may remain if they are recognisable as baselines.
+2. Current and sensitive factual claims must be referenceable.
+3. Normative propositions may be strong, but must remain readable as propositions.
+4. Scenarios may be bold, but must remain readable as scenarios.
+5. Papers may appear in full length, but belong in Appendix P and require DOI plus APA citation.
+6. Release docs document decisions; the book documents the resulting standards for readers.
+
+## M.7 Short Formula
+
+> ERDA may find paths, but must not obscure; it may be normative, but must not claim what it does not reference; it may work historically, but must make its baselines visible; it may remain living if its approvals are honest.
+
+
+\newpage
+
+---
+content_id: erda.book.anhang.p.papers.readme
+content_lang: en
+source: de/content/anhang-p-papers/README.md
+status: draft
+description: "Appendix P – Papers"
+date: "2026-05-04"
+---
+<a id="md-appendix-p-papers-readme"></a>
+
+# Appendix P: Papers
+
+This appendix collects published ERDA-affiliated papers that are connected to the book as independent scholarly or conceptual contributions. They are not treated as ordinary book chapters, but as citable, versioned papers within the book project.
+
+## P.1 Publication Standard
+
+Every paper in Appendix P must include:
+
+- author or responsible editor
+- version and date
+- DOI
+- APA citation
+- licence and source framing aligned with the ERDA Book
+- brief explanation of its relationship to the ERDA Book
+
+## P.2 Published Papers
+
+- [P.1 Paper – Childhood, Adulthood, and the Anti-Game-Over Principle](#md-appendix-p-papers-p-1-childhood-adulthood-and-the-anti-game-over-principle)
+- [P.2 Paper – CIVITAS Public: Building a European Digital Agora](#md-appendix-p-papers-p-2-civitas-public-building-a-european-digital-agora)
+
+
+\newpage
+
+---
+content_id: erda.paper.kindheit.erwachsenwerden.anti.game.over.prinzip.v1
+content_lang: en
+source: de/content/anhang-p-papers/p.1-kindheit-erwachsenwerden-und-das-anti-game-over-prinzip.md
+status: draft
+previous_content_id: erda.book.anhang.m.kindheit.erwachsenwerden.und.das.anti.game.over.prinzip
+paper_publication_status: published
+doi: 10.5281/zenodo.19244929
+citation_style: APA 7
+---
+<a id="md-appendix-p-papers-p-1-childhood-adulthood-and-the-anti-game-over-principle"></a>
+
+## Appendix P.1: Paper – Childhood, Adulthood, and the Anti-Game-Over Principle
+
+### A developmental-philosophical model of prosperative life
+
+**Author:** Robert Alexander Massinger
+**Affiliation / Location:** Munich, Bavaria, Germany
+**Version:** 1.0.0
+**Date:** 2026-03-27
+**DOI:** [10.5281/zenodo.19244929](https://doi.org/10.5281/zenodo.19244929)
+
+**APA citation:** Massinger, R. A. (2026). *Childhood, Adulthood, and the Anti-Game-Over Principle: A developmental-philosophical model of prosperative life* (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.19244929
+
+---
+
+### Abstract
+
+This paper develops a developmental-philosophical model that understands childhood and adulthood not as one-off biological phases, but as recurring structural moments of life. It begins from the assumption that life is not a rigid state, but an open, potentially infinite process of maturation. From this it follows that there is not just one adulthood, but infinitely many adulthoods: every attained capacity to sustain opens a new horizon before which the subject once again enters a form of childhood in order to attain a further level of adulthood.
+
+To illustrate this, a game analogy is used: life resembles an open, not fully completed developmental game in which every new level initially requires playful approach, experimentation, and childlike openness before responsible mastery becomes possible. In this model, a "game over" does not primarily occur through finitude, but through the loss of the capacity to learn, relation to truth, regenerative power, and responsible sustainment.
+
+The paper describes the consequences of this model for individual life, education, work, culture, institutions, and cooperative intelligence systems. It formulates central anti-game-over principles and derives from them the ideal of a prosperative life: a life that does not merely survive, but actively improves the conditions for further learning, growth, sustaining, joy, and transmission. Prosperity is therefore understood here not as mere possession, but as structural viability across levels and generations.
+
+**Keywords:** childhood, adulthood, development, play, work, responsibility, game over, regeneration, prosperity, philosophy of life
+
+---
+
+### 1. Introduction
+
+Modern societies usually treat childhood and adulthood as clearly separated phases of life. Childhood is regarded as a preliminary stage, adulthood as the final state. A person grows up, takes on responsibility, works, perhaps starts a family, supports themselves and others — and is then considered an adult. This image is practical for everyday life, but too shallow.
+
+It overlooks the fact that people must begin again and again in many areas of their lives. Whoever has become mature in one field stands once more at the beginning in another. Whoever has gained responsibility encounters, with every greater horizon, another zone of not-knowing. Maturation is therefore not linearly completed, but cyclically open.
+
+The model proposed here therefore understands childhood and adulthood not merely as age stages, but as basic modes of every development. Childhood stands for playful approach, discovery, learning, openness, and experimentation. Adulthood stands for capacity to sustain, work, responsibility, shaping, and transmission. Both are necessary. Without childhood, nothing new comes into being; without adulthood, nothing can be sustained over time.
+
+The core thesis of this paper is:
+
+**Life is an open process in which every new adulthood requires a preceding childhood.**
+
+Or more briefly:
+
+**Before every higher adulthood comes a new childhood.**
+
+---
+
+### 2. The Basic Model
+
+In its simplest form, the basic model is as follows:
+
+**Adults live and work.**
+**Children live and play.**
+
+This formulation is deliberately simple. Its strength lies in making two fundamental functions of life visible:
+
+- **Playing** means: exploring, trying things out, learning, imagining, varying, without yet having to carry everything.
+- **Working** means: preserving, shaping, taking responsibility, securing, contributing, and answering for consequences.
+
+In a deeper sense, this therefore applies:
+
+**Childhood is the phase of playful appropriation of the world.**
+**Adulthood is the phase of responsible shaping of the world.**
+
+However, this model only becomes truly philosophically fruitful once it is detached from mere biography. Childhood and adulthood then cease to be one-off age states and become recurring structural forms.
+
+A person may be biologically adult and yet still be entirely at the beginning in a new field. Likewise, a child may already bear responsibility in certain moments. The terms therefore refer not only to years of life, but to modes of relating to the world.
+
+---
+
+### 3. Infinitely Many Adulthoods
+
+The decisive step of expansion is this:
+
+**There is not only one adulthood, but infinitely many adulthoods.**
+
+The reason is simple: if life is open, then development is open as well. Every attained maturity is only relative to a particular horizon. What appears as adulthood on one level is, on a higher level, only the prerequisite for the next movement of learning.
+
+From this follows a cyclical model:
+
+**Childhood → Adulthood → new childhood → new adulthood → …**
+
+This means:
+
+1. In every new area, life begins with a form of childhood.
+2. Through play, experience, and experimentation, competence emerges there.
+3. Competence becomes capacity to sustain.
+4. Capacity to sustain becomes adulthood.
+5. A new opening leads once more into a higher childhood.
+
+Understood in this way, maturation is not a conclusion, but a continuous sequence of transitions between openness and responsibility.
+
+A concise sentence for this is:
+
+**Every adulthood is the completed childhood of a smaller horizon.**
+
+And conversely:
+
+**Every childhood is the beginning of a greater adulthood.**
+
+---
+
+### 4. The Game Analogy
+
+The analogy of an open game is well suited to illustrating this.
+
+In a good game, the player does not begin a new level with complete mastery. First, they feel their way into it. They experiment. They fail. They learn the rules. They discover patterns. They develop timing, judgement, and skill. Only after that does sovereignty emerge.
+
+Development in life works in exactly the same way:
+
+- **Childhood** corresponds to entering a new level.
+- **Play** corresponds to the phase of exploration.
+- **Learning** corresponds to understanding the rules and interconnections.
+- **Work** corresponds to stable, responsible mastery.
+- **Adulthood** corresponds to the sustainable command of a level.
+- **The next horizon** opens a new level and thus a new childhood.
+
+The great difference from many finite games, however, is that life should not meaningfully be understood as a mere win-lose structure. Its goal is not the destruction of the fellow player, but the expansion of viability. The model is therefore not competitive in a destructive sense, but development-oriented.
+
+The fitting analogy is therefore not "last winner", but:
+
+**an open, cooperative, regenerative game of growing capacity to sustain.**
+
+---
+
+### 5. What does "Game Over" mean in this model?
+
+In everyday understanding, a game over is the end of the game. In the model developed here, game over means something deeper:
+
+**Game over is the loss of the ability to generate new childhoods and to sustain existing adulthoods in a viable way.**
+
+Game over is therefore not merely biological death. It can occur beforehand — individually, socially, institutionally, or civilisationally. A system is "game over" when it can no longer learn, correct itself, take in truth, bear responsibility, or pass on the future.
+
+Typical forms of such a game over are:
+
+- rigidity instead of development
+- fear instead of openness
+- deception instead of truth
+- cynicism instead of meaning
+- overload instead of capacity to sustain
+- irresponsibility instead of shaping
+- loss of transmission, memory, and learning culture
+
+This makes one thing clear: not every ending is game over, but every real game over is a collapse of viability.
+
+---
+
+### 6. How does Game Over arise?
+
+In this model, game over arises especially when childhood or adulthood is damaged or when they are separated from one another.
+
+#### 6.1 Loss of Childhood
+
+If a human being or a system is no longer allowed to play, explore, ask questions, and learn anew, then it becomes rigid. It merely repeats old patterns. Innovation dries up. Adaptation fails. The system may still exist outwardly, but inwardly it is already in decline.
+
+#### 6.2 Loss of Adulthood
+
+If responsibility, work, protection, memory, and reliability fail, the system falls apart. There may still be impulses and wishes, but no sustaining form. Possibilities are not realised or not preserved.
+
+#### 6.3 Rule of Fear
+
+Fear blocks both play and responsibility. It makes a system either rigid or panicked. A system under fear dares nothing new and at the same time protects what already exists badly, because it only reacts.
+
+#### 6.4 Deception and Loss of Reality
+
+Whoever no longer recognises reality learns from the wrong things. Deception causes energy to flow into sham solutions. The system may perhaps consider itself stable, but in fact it is moving towards its own dissolution.
+
+#### 6.5 Overload without Regeneration
+
+Where there is only sustaining, but no more play, regeneration, and learning, adulthood exhausts itself. Responsibility without renewal eventually becomes unbearable.
+
+#### 6.6 Refusal of New Childhood
+
+Particularly dangerous is the illusion that an attained adulthood is final. It is precisely there that decline often begins. Whoever no longer wants to become a beginner becomes incapable of further growth.
+
+---
+
+### 7. The Anti-Game-Over Principle
+
+If game over is the collapse of learning capacity and sustaining capacity, then its avoidance must be based on regenerative capacity.
+
+The core sentence is:
+
+**No game over, as long as childhood can become possible again and adulthood can remain sustainably viable.**
+
+From this follow the following principles.
+
+#### 7.1 Protected spaces for new childhood
+
+Every living system needs zones in which questions, play, error, experiment, and learning are permitted. Without such spaces, there is no next stage of development.
+
+#### 7.2 Reliable structures of adulthood
+
+Play alone is not enough. Life needs protection, order, provision, responsibility, and transmission. Adulthood must be made institutionally and culturally viable.
+
+#### 7.3 Tolerance of error and repairability
+
+It is not freedom from error that protects against game over, but the ability to survive errors, correct them, and transform them into learning. Repairability is more important than the illusion of perfection.
+
+#### 7.4 Relation to truth and feedback
+
+Living systems need feedback. They must be able to recognise what works, what does not work, and where self-deception begins. Truth is not decoration, but a condition of survival.
+
+#### 7.5 Limitation of fear
+
+Fear may warn, but it must not rule. An anti-fragile life needs enough safety for play to remain possible, and enough courage so that responsibility does not become paralysis.
+
+#### 7.6 Transmission of what has been attained
+
+What has been learned must be storable and transferable. Otherwise every generation falls back to initial states. Memory, education, and documentation are therefore anti-game-over structures.
+
+#### 7.7 Acceptance of a new beginning
+
+A healthy adulthood recognises when it must become childlike again. This does not mean loss of maturity, but deepening of maturity. The courage to begin again is a higher form of adulthood.
+
+#### 7.8 Cooperative rather than destructive game logic
+
+A system that destroys its fellow players ultimately undermines the conditions of its own game. Lasting prosperity therefore requires cooperative, not self-destructive, rules of play.
+
+---
+
+### 8. Consequences of the Model
+
+This model has far-reaching consequences.
+
+#### 8.1 For the individual
+
+A person should not judge themselves by whether they are "finished", but by whether they live in a good relation between learning and sustaining. Inner maturity does not mean never again being uncertain, but being able to carry new uncertainty fruitfully.
+
+#### 8.2 For education
+
+Education must not be merely early preparation for work. It must teach the art of becoming childlike in a meaningful way in new fields and of maturing within them towards sustainable adulthood. Good education therefore protects both play and responsibility.
+
+#### 8.3 For work
+
+Work must not be understood as the mere exploitation of performance. It is the adult side of life: a contribution to the preservation and shaping of shared reality. Work becomes destructive, however, when it consumes all regeneration.
+
+#### 8.4 For culture
+
+A healthy culture honours both the dignity of learning and the dignity of sustaining. It despises neither beginners nor those who bear responsibility. It understands development as an ongoing alternation.
+
+#### 8.5 For institutions
+
+Institutions must be built in such a way that they enable new childhoods without losing their sustaining form. That means: spaces for innovation plus reliable stability. Pure rigidity is just as dangerous as formless dynamism.
+
+#### 8.6 For intelligence systems and AI
+
+Cooperative artificial systems, too, should not be narrowed down to mere optimisation. They need the capacity to learn, tolerance of error, commitment to truth, documented transmission, and life-serving responsibility. An intelligent system is not mature when it never errs again, but when it can convert error into structured improvement.
+
+---
+
+### 9. Prosperative Life
+
+Prosperity is often misunderstood in purely economic terms. In this model, prosperative life means more:
+
+**A person lives prosperatively who improves the conditions for further living, learning, sustaining, rejoicing, and passing on.**
+
+Prosperity is therefore not a static possession, but a form of increased viability.
+
+A prosperative life has at least six characteristics:
+
+#### 9.1 It preserves openness
+
+It remains capable of learning. It allows new childhood.
+
+#### 9.2 It builds capacity to sustain
+
+It takes on responsibility. It works not only for itself, but for the sustaining capacity of the whole.
+
+#### 9.3 It connects joy and seriousness
+
+Play and work are not set against one another. Joy is not mere luxury, but the energy source of learning. Responsibility is not mere burden, but a form of effective love for life.
+
+#### 9.4 It reduces self-destructive dynamics
+
+It limits fear, lies, cynicism, over-hardening, and unbounded exploitation, because these undermine viability.
+
+#### 9.5 It secures transmission
+
+It thinks in generations and levels. It asks not only, "What is useful now?", but also, "What remains learnable, bearable, and alive?"
+
+#### 9.6 It allows ascent without contempt for the beginning
+
+It honours mastery, but does not mock the beginner phase. For every higher ability was once play, attempt, and uncertainty.
+
+Therefore, one central sentence of prosperative life is:
+
+**True adulthood does not consist in never being childlike again, but in being able, again and again, to become childlike for a higher adulthood.**
+
+---
+
+### 10. A Normative Guiding Principle
+
+From the entire model, a simple normative core can be derived:
+
+**Act in such a way that new childhood remains possible and attained adulthood becomes sustainably viable.**
+
+In concrete terms, this means:
+
+- do not destroy the learning spaces of life
+- do not destroy the supporting structures of life
+- do not separate joy from responsibility
+- do not separate truth from development
+- do not separate mastery from new beginnings
+
+A good system is therefore not one that merely wins in the short term, but one that preserves the possibility of further meaningful levels.
+
+---
+
+### 11. Conclusion
+
+The model developed here understands childhood and adulthood as recurring basic forms of an open life. It replaces the idea of becoming adult once and for all with a model of infinitely many adulthoods. Every new stage of sustaining capacity requires a new stage of openness, play, and learning.
+
+The game analogy makes visible that life can be understood not as a rigid goal, but as a sequence of developmental levels. A real game over occurs not first through finitude, but through the loss of regenerative capacity: when neither new childhood nor sustainable adulthood is possible.
+
+Avoiding game over therefore does not require invulnerability, but structural viability. Relation to truth, tolerance of error, limitation of fear, transmission, learning spaces, and responsible work form the basic elements of an anti-destructive, prosperative life.
+
+In the end, this yields a simple but far-reaching image:
+
+**Children live and play.**
+**Adults live and work.**
+**The mature human being learns to unite both across levels.**
+**And life remains alive as long as it has the courage to become childlike again before every higher adulthood.**
+
+---
+
+### Appendix A: Compact Theses
+
+1. Childhood and adulthood are not only age phases, but structural modes of life.
+2. Childhood stands for play, openness, learning, and experimentation.
+3. Adulthood stands for work, responsibility, capacity to sustain, and shaping.
+4. Life is open; therefore there are infinitely many adulthoods.
+5. Every new adulthood requires a new childhood.
+6. Game over is the loss of learning capacity and sustaining capacity.
+7. Fear, deception, rigidity, and overload encourage game over.
+8. Anti-game-over structures are based on regeneration, truth, tolerance of error, and transmission.
+9. Prosperative life improves the conditions of further life.
+10. True maturity includes the capacity for a new beginning.
+
+---
+
+### Appendix B: Recommended APA Citation
+
+**Massinger, R. A. (2026). _Childhood, Adulthood, and the Anti-Game-Over Principle: A developmental-philosophical model of prosperative life_ (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.19244929**
+
+---
+
+### Licence
+
+**Licence:**
+
+**Creative Commons Attribution 4.0 International (CC BY 4.0)**
+
+
+\newpage
+
+---
+content_id: erda.paper.civitas.public.digital.agora.v1
+content_lang: en
+source: de/content/anhang-p-papers/p.2-civitas-public-building-a-european-digital-agora.md
+status: draft
+paper_original_lang: en
+paper_publication_status: published
+paper_source: desktop/papers/civitas/publish/civitas-public-v1.0-zenodo.md
+doi: 10.5281/zenodo.19443256
+citation_style: APA 7
+description: "Appendix P.2 – Paper: CIVITAS Public: Building a European Digital Agora"
+date: "2026-04-06"
+---
+<a id="md-appendix-p-papers-p-2-civitas-public-building-a-european-digital-agora"></a>
+
+## Appendix P.2: Paper – CIVITAS Public: Building a European Digital Agora
+
+- **Author:** Robert Alexander Massinger
+- **Subtitle:** A Call to Action
+- **Affiliation / Location:** ERDA Initiative / Independent Concept Development, Munich, Germany
+- **Version:** 1.0
+- **Date:** 2026-04-06
+- **DOI:** [10.5281/zenodo.19443256](https://doi.org/10.5281/zenodo.19443256)
+- **Licence:** CC BY 4.0
+- **Original language:** English
+
+**APA citation:** Massinger, R. A. (2026). *CIVITAS Public: Building a European Digital Agora — A Call to Action* (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.19443256
+
+**Source note:** This appendix preserves the published English original text with ERDA-compatible front matter and bibliographic metadata. The German source wrapper provides the release-level placement in Appendix P.
+
+---
+
+### Published Original Text
+
+## CIVITAS Public: Building a European Digital Agora
+
+### A Call to Action
+
+**Robert Alexander Massinger**
+
+ERDA Initiative / Independent Concept Development, Munich, Germany
+
+*Version 1.0 — 6 April 2026*
+
+---
+
+### Abstract
+
+Europe's democratic public sphere faces a structural deficit: civic discourse is overwhelmingly mediated by commercially governed platforms whose incentives — advertising, behavioural capture, emotional amplification — are misaligned with democratic quality and public trust. At the same time, no credible European-scale digital infrastructure exists that combines open civic publication, structured debate, transparent polling, and accountable participation under democratic governance.
+
+This paper proposes **CIVITAS Public** as a concrete, actionable first step towards filling this gap. CIVITAS Public is conceived as a non-commercial, open-source, multilingual platform for verified publication, structured debate, trend observation, civic questions, and modular participatory expansion — governed by transparent rules, independent oversight, and rule-of-law safeguards. Situated within the broader ERDA (European Resilience and Democratic Architecture) framework, CIVITAS Public is designed to be both immediately useful and institutionally extensible.
+
+The paper presents the problem analysis, normative foundation, operational model, role and publication architecture, governance framework, technical design, phased roadmap, risk assessment, and strategic value proposition. It concludes with a call to action directed at civic-technology communities, European institutions, media organisations, academic networks, and civil society to collaborate in launching CIVITAS Public as the first building block of Europe's democratic digital future.
+
+**Keywords:** CIVITAS, ERDA, digital democracy, European public sphere, civic technology, democratic infrastructure, public debate, verification, open source, digital agora
+
+
+### Zusammenfassung
+
+Europas demokratische Öffentlichkeit steht vor einem strukturellen Defizit: Öffentlicher Diskurs wird überwiegend auf kommerziellen Plattformen geführt, deren Anreizstrukturen — Werbung, Verhaltenserfassung, emotionale Verstärkung — mit demokratischer Qualität und öffentlichem Vertrauen unvereinbar sind. Zugleich fehlt eine glaubwürdige europäische digitale Infrastruktur, die offene Publikation, strukturierte Debatte, transparente Meinungserhebung und verantwortungsvolle Partizipation unter demokratischer Kontrolle vereint.
+
+Dieses Papier schlägt **CIVITAS Public** als konkreten, umsetzbaren ersten Schritt vor, um diese Lücke zu schließen. CIVITAS Public ist als nicht-kommerzielle, quelloffene, mehrsprachige Plattform für verifizierte Publikation, strukturierte Debatte, Trendbeobachtung, Bürgerfragen und modulare partizipative Erweiterung konzipiert — getragen von transparenten Regeln, unabhängiger Aufsicht und rechtsstaatlichen Garantien. Eingebettet in den ERDA-Rahmen (European Resilience and Democratic Architecture - europäische Resilienz und demokratische Architektur) soll CIVITAS Public sowohl unmittelbar nützlich als auch institutionell ausbaufähig sein.
+
+Das Papier legt Problemanalyse, normative Grundlage, Betriebsmodell, Rollen- und Publikationsarchitektur, Governance-Rahmen, technisches Design, Stufenplan, Risikobewertung und strategischen Mehrwert dar. Es schließt mit einem Aufruf an Civic-Tech-Gemeinschaften, europäische Institutionen, Medienorganisationen, Wissenschaftsnetzwerke und Zivilgesellschaft, CIVITAS Public als ersten Baustein der digitalen demokratischen Zukunft Europas gemeinsam aufzubauen.
+
+**Schlüsselwörter:** CIVITAS, ERDA, digitale Demokratie, europäische Öffentlichkeit, Civic Tech, demokratische Infrastruktur, öffentliche Debatte, Verifikation, Open Source, digitale Agora
+
+
+### 1. Introduction: Why Europe Needs a Digital Agora Now
+
+Europe possesses one of the world's richest democratic traditions. Yet its digital public sphere — the space where citizens inform themselves, debate, organise, and hold institutions accountable — is structurally dependent on platforms governed from outside Europe, optimised for commercial extraction rather than democratic exchange.
+
+This is not merely a communication problem. It is a **democratic infrastructure gap**.
+
+The consequences are visible across the continent: declining trust in public institutions [1], increasing political polarisation amplified by algorithmic incentives [2], vulnerability to coordinated disinformation campaigns [3], and a growing sense among citizens that their voices do not meaningfully reach political decision-making. The European Commission's own Digital Services Act acknowledges the systemic risks of very large online platforms, yet regulation alone cannot create what is missing: a **positive digital public infrastructure** built for democratic purposes.
+
+**CIVITAS Public** is proposed as a realistic, concrete, and immediately actionable response. Named after the Latin concept of civic community, CIVITAS Public is not a utopian vision for a distant future — it is a practical first layer of a European digital agora that can be built, tested, and expanded starting now.
+
+This paper makes the case for why CIVITAS Public is needed, what it should look like, and how it can be started. It is an explicit invitation to act.
+
+### 2. Problem Analysis
+
+#### 2.1 Commercial Platform Dominance
+
+A substantial share of European civic discourse now occurs on platforms whose core business model depends on attention maximisation, behavioural tracking, and advertising revenue [4]. Democratic quality — fairness, accuracy, accountability, deliberative depth — is not a design objective of these systems. Where it occurs, it is incidental rather than structural.
+
+#### 2.2 Erosion of Epistemic Trust
+
+Citizens increasingly struggle to distinguish well-grounded analysis from ideological messaging, coordinated manipulation from organic opinion, and institutional communication from superficial content marketing. The result is not healthy scepticism but systemic epistemic uncertainty — a condition in which citizens lack reliable heuristics to navigate public information [5].
+
+#### 2.3 Institutional Discontinuity
+
+Thoughtful civic contributions — policy analyses, citizen proposals, expert assessments — frequently disappear into algorithmically curated feeds. There is no persistent, structured, publicly accessible space where civic knowledge accumulates, develops continuity, and becomes institutionally actionable.
+
+#### 2.4 European Discourse Fragmentation
+
+Despite shared institutional frameworks, European public debate remains largely confined within national and linguistic boundaries. Cross-border deliberation happens primarily among elites, while the broader European public lacks accessible, multilingual spaces for joint civic engagement.
+
+#### 2.5 The Missing Middle
+
+Between unstructured social media and closed institutional communication, there exists a critically underbuilt space: one that is **open enough to sustain genuine public life** yet **structured enough to uphold trust, accountability, and democratic usefulness**. CIVITAS Public is designed to occupy precisely this space.
+
+#### 2.6 Research Questions and Success Indicators
+
+To move from aspiration to evidence, CIVITAS Public adopts four guiding research questions:
+
+1. **Discourse quality:** Can a moderated, verified civic platform sustain higher-quality public discourse — measured by argument diversity, source density, and deliberative depth — than equivalent discussions on unmoderated commercial platforms?
+2. **Participation breadth:** Does the platform attract and retain a demographically representative cross-section of European citizens, or does it reproduce existing participation gaps (age, geography, education, digital literacy)?
+3. **Trust formation:** Does structured verification and transparent moderation increase civic trust in platform-mediated information, compared to baseline trust levels in social-media-sourced information?
+4. **Institutional uptake:** To what extent do democratic institutions, media organisations, and civil society actors integrate CIVITAS Public outputs into their decision-making, reporting, or advocacy?
+
+These questions will be operationalised through the following **key performance indicators (KPIs)**:
+
+| KPI | Measurement Method | Target (Phase 1) | Target (Phase 2) |
+| ---- | ---- | ---- | ---- |
+| Monthly active users | Platform analytics | 5,000 | 50,000 |
+| Verified author registrations | Identity system logs | 200 | 2,000 |
+| Publication volume (articles + briefs) | Content database | 500/year | 3,000/year |
+| Average review level per publication | Review metadata | ≥ Level A (100\%) | ≥ Level B (60\%) |
+| User trust score (survey) | Biannual user survey | Baseline + 10\% | Baseline + 25\% |
+| Cross-border readership share | Analytics by country | ≥ 3 EU countries | ≥ 10 EU countries |
+| Institutional citation/uptake | External monitoring | 5 references | 50 references |
+
+Evaluation will follow a **pre-registered mixed-methods design**: quantitative platform analytics complemented by qualitative user interviews, expert focus groups, and periodic comparison studies against commercial platform discourse samples. Results will be published as open-access evaluation reports.
+
+### 3. The CIVITAS Vision within the ERDA Framework
+
+CIVITAS is a core component of the ERDA (European Resilience and Democratic Architecture) framework [6], which proposes a comprehensive renewal of Europe's strategic, ethical, and democratic foundations. Within ERDA, CIVITAS serves as the **digital democracy infrastructure** — the platform through which citizens participate, deliberate, and exercise democratic agency in the digital age.
+
+The full CIVITAS vision encompasses:
+
+- a verified debate space with AI-assisted and human moderation,
+- citizens' petitions with digital threshold mechanisms,
+- interfaces to elections, eVoting, and EU consultations,
+- political information modules including legislative trackers and voting records,
+- civic-technology tools for shaping public initiatives,
+- educational pathways for digital democratic literacy.
+
+**CIVITAS Public** represents the **first operational layer** of this vision: publicly visible, immediately useful, and designed to demonstrate that a European digital agora is not only desirable but feasible.
+
+
+\newpage
+\newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
+
+
+\pagewidth=297mm
+\pageheight=210mm
+
+#### 3.1 Existing Civic Platforms and Lessons Learned
+
+CIVITAS Public does not emerge in a vacuum. Several European civic-technology platforms have demonstrated that participatory digital infrastructure is both technically feasible and politically impactful. Understanding their strengths and limitations is essential for informed design.
+
+\begin{longtable}{@{}>{\raggedright\arraybackslash}p{19.74mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{19.13mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{45.87mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{25.24mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{21.73mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{69.79mm}@{}}\toprule Platform & Origin & Licence & Focus & Governance & Multilingual & Key Lesson for CIVITAS \\\midrule \endhead \textbf{Decidim} [11] & Barcelona, ES & AGPL-3.0 & Participatory processes, budgets, consultations & Municipal / community-driven & Yes (40+ languages) & Modular architecture enables diverse civic use cases; governance must scale beyond municipal origin \\\textbf{Consul} & Madrid, ES & AGPL-3.0 & Citizen proposals, debates, participatory budgets & City government-led & Yes (30+ languages) & Strong uptake (100+ cities) but limited cross-border federation; central governance can limit independence \\\textbf{Your Priorities} & Reykjavík, IS & BSD & Idea generation, prioritisation & Citizens Foundation (NGO) & Partial & AI-assisted idea clustering works at scale; needs stronger verification layer \\\textbf{OpenStad} & Netherlands & Open source & Neighbourhood participation, budgets & Municipal toolkit & Dutch-focused & Effective local engagement but not designed for transnational civic discourse \\\textbf{Participa} & Portugal & Proprietary & National consultations & Government-operated & Portuguese & Demonstrates institutional adoption but raises independence concerns when government-run \\\bottomrule \end{longtable}
+**Key differentiators of CIVITAS Public:**
+
+\restoregeometry
+\pagewidth=210mm
+\pageheight=297mm
+\newpage
+
+- **Publication-first architecture:** Existing platforms focus on proposals, votes, or budgets. CIVITAS prioritises structured, accountable *publication and debate* — closer to a democratic press infrastructure than a voting tool.
+- **Verification and review layers:** No existing platform combines identity verification with a three-level editorial review system.
+- **European-scale multilingual design:** While Decidim supports many languages, no platform is designed from the ground up for transnational European civic discourse with built-in translation infrastructure.
+- **Independence by design:** CIVITAS is conceived as a foundation-governed, non-governmental platform — neither municipal nor state-operated — with explicit anti-capture safeguards.
+- **Extensibility toward democratic integration:** The roadmap explicitly includes petition connectors, parliamentary interfaces, and federation — features absent from current platforms.
+
+CIVITAS Public draws on the demonstrated successes of these platforms while addressing their structural gaps: limited verification, weak cross-border design, absence of structured publication formats, and insufficient independence mechanisms [12].
+
+### 4. Guiding Principles
+
+CIVITAS Public is built on four foundational principles:
+
+1. **Open Readability** — All published content is freely accessible to every person, without registration barriers or paywalls.
+
+2. **Trustworthy Publication** — Contributors publish under verified identities with transparent accountability. Trust is structural, not assumed.
+
+3. **Structured Democratic Debate** — Exchange follows deliberative formats designed for clarity, mutual understanding, and productive disagreement — not the engagement-maximising dynamics of commercial platforms.
+
+4. **Extensible Architecture** — The platform is designed for modular growth, enabling future integration of petitions, consultations, educational interfaces, parliamentary connectors, and federation with other democratic platforms.
+
+### 5. Operational Model
+
+The operational purpose of CIVITAS Public is concise:
+
+> **Readable for all. Trustworthy through verification. Valuable through accountability.**
+
+This translates into four immediate operational objectives:
+
+**5.1 Trustworthy Publication.** Contributions appear as accountable publications with clear authorship, role attribution, source logic, revision history, and stable identifiers — not as anonymous fragments in opaque feeds.
+
+**5.2 Structured Public Orientation.** Instead of endless reaction chains, the platform privileges thematic rooms, dossiers, question formats, debate structures, and evolving issue maps that enable citizens to orient themselves on complex topics.
+
+**5.3 European Intelligibility.** The system is multilingual, transnationally legible, and capable of connecting national public conversations without erasing their contextual specificity.
+
+**5.4 Institutional Extensibility.** The initial architecture supports later addition of petitions, consultations, educational interfaces, local civic rooms, and parliamentary connectors without requiring a fundamental platform redesign.
+
+### 6. Role Architecture
+
+Combining openness with quality requires a layered role structure:
+
+| Role | Access Level | Requirements |
+| ---- | ---- | ---- |
+| **Reader** | Full read access to all public content | None |
+| **Registered Participant** | Polls, topic following, questions, reactions | Registration |
+| **Verified Author** | Publication under accountable profile | Identity verification |
+| **Certified Publisher** | Publication with additional quality signals | Professional, institutional, or civic qualification |
+
+Certified Publisher categories may include: journalistic review status, research or expert review status, civic or municipal practice status, civil society legitimacy, youth representation status, invited guest contribution status, and civic-technology expertise status.
+
+This model ensures that the platform remains **universally accessible for reading** while ensuring that **publication carries responsibility and interpretive clarity**.
+
+### 7. Publication Architecture
+
+#### 7.1 Publication Formats
+
+CIVITAS Public launches with six clearly defined formats:
+
+1. **Article** — structured publication with sources, author profile, topic assignment, and version history.
+2. **Brief** — shorter, highly focused analytical or explanatory piece.
+3. **Dossier** — thematic collection of developments, perspectives, sources, and issue trajectories.
+4. **Citizen Question** — public civic question with qualified response from verified experts or editors.
+5. **Debate Format** — structured multi-perspective exchange with moderated process.
+6. **Trend Report** — interpreted summary of issue dynamics and platform resonance.
+
+#### 7.2 Persistent Identification
+
+Every publication receives a stable **CIVITAS-ID** comprising: unique identifier, publication date, version number, author profile, thematic room, stable URL, and recommended citation string.
+
+*Example:* `CIVITAS-PUBLIC-2026-ARTICLE-00017-v1`
+
+DOI registration may be introduced for selected archival publications in later phases.
+
+#### 7.3 Version Transparency
+
+Every publication includes visible revision history, ensuring that updates, corrections, and expansions remain publicly intelligible and traceable.
+
+### 8. Review and Quality Assurance
+
+A three-level review model balances rigour with practicality:
+
+**Level A — Basic Review** (mandatory for all publications): identity or role verification, formal compliance, source and format check, rule conformity, content type labelling.
+
+**Level B — Editorial Review** (for substantial pieces): plausibility review, structure and clarity assessment, source logic evaluation, format refinement.
+
+**Level C — Expert Review** (for major analytical or methodological texts): optional expert assessment, documented review notes, possible publication of review status.
+
+Each published item visibly displays its format, review status, correction history, and responsible contributor or editorial entity.
+
+### 9. Polling, Trends, and Public Resonance
+
+#### 9.1 Poll Types
+
+| Type | Purpose | Scope |
+| ---- | ---- | ---- |
+| Community Poll | Quick platform-internal mood indicator | All registered participants |
+| Structured Poll | Carefully framed issue-specific survey | Targeted participant groups |
+| Expert Snapshot | Qualified perspective from professional or civic group | Certified publishers |
+| Youth Pulse | Targeted youth participation format | Young CIVITAS participants |
+
+#### 9.2 Transparency Rule
+
+The platform always makes explicit whether a poll or trend result is platform-internal, curated and interpretive, methodologically grounded, or merely indicative. **CIVITAS Public never simulates representativeness where none exists.**
+
+### 10. Launch Modules
+
+For immediate relevance and public visibility, CIVITAS Public launches with seven high-utility modules:
+
+1. **Europe in Brief** — Short, clear, citable explanatory texts on current European topics.
+2. **Trend Radar Europe** — Regular summaries of emerging questions and issue clusters.
+3. **Debate Dossiers** — One issue, multiple perspectives, sources, tensions, and pathways forward.
+4. **Citizen Questions** — Public questions answered by verified authors, editors, or experts.
+5. **Policy Tracker** — Structured tracking of policy development: announced, negotiated, adopted, blocked, or implemented.
+6. **Young CIVITAS** — Dedicated participation and learning area for schools, youth councils, students, and young European voices.
+7. **CIVITAS Dialogues** — Moderated conversation formats with thematic boundaries and quality moderation.
+
+### 11. Governance Framework
+
+#### 11.1 Core Governance Commitments
+
+- No advertising revenue or commercial data exploitation
+- Public, transparent rules for all platform operations
+- Procedural fairness with documented moderation decisions
+- Independent appeal mechanisms
+- Regular transparency reports and external audits
+- Democratic orientation with anti-capture safeguards
+
+#### 11.2 Governance Structure
+
+| Body | Responsibility |
+| ---- | ---- |
+| **Foundation Carrier** | Legal form, funding integrity, institutional continuity, strategic independence |
+| **Editorial and Standards Board** | Publication rules, formats, review logic, quality standards |
+| **Civic Oversight Panel** | Fairness, intelligibility, legitimacy from citizen perspective |
+| **Ethics and Algorithm Review Group** | Moderation systems, ranking logic, AI assistance, systemic risk |
+| **Appeals and Due Process Unit** | Complaints, labelling disputes, access conflicts, moderation challenges |
+
+### 12. Technical Architecture
+
+#### 12.1 Design Principles
+
+CIVITAS Public is built as a **modular, transparent, and interoperable system** — not a closed platform. Its technical design reflects democratic values: openness, auditability, sovereignty, and extensibility.
+
+#### 12.2 Technical Requirements
+
+- Open-source codebase under permissive licensing
+- European hosting with geo-redundant infrastructure
+- Multilingual support with translation assistance
+- Accessibility by design (WCAG 2.1 AA minimum)
+- GDPR-compliant data handling with eIDAS identity integration
+- Clear rights and roles management
+- Exportable content with open formats
+- Versioned publication logic with immutable audit trail
+- Future federation capability (ActivityPub / Fediverse compatibility)
+
+#### 12.3 System Layers
+
+```
+┌─────────────────────────────────────────────────┐
+│          Federation and API Layer               │
+│   (Interoperability, external integrations)     │
+├─────────────────────────────────────────────────┤
+│       Moderation and Review Layer               │
+│   (Human moderation, AI support, appeals)       │
+├─────────────────────────────────────────────────┤
+│          Resonance Layer                        │
+│   (Polls, trends, interaction signals)          │
+├─────────────────────────────────────────────────┤
+│     Identity and Role Layer                     │
+│   (Registration, verification, permissions)     │
+├─────────────────────────────────────────────────┤
+│         Publication Layer                       │
+│   (Articles, briefs, dossiers, questions)       │
+└─────────────────────────────────────────────────┘
+```
+
+### 13. Legal Safeguards
+
+Because CIVITAS Public structures political and civic visibility, rule-of-law safeguards are **foundational, not peripheral**.
+
+Required elements include:
+
+- Clearly defined publication and participation rules
+- Visible content labelling and classification rules
+- Documented moderation decisions with explanations
+- Graduated enforcement logic (warning → restriction → removal)
+- Independent complaint and appeal channels
+- Anti-bot and anti-manipulation safeguards
+- System overload and DDoS protection
+- Privacy-by-design and security-by-default
+
+**Moderation principle:** The objective is not maximum noise or maximum passivity, but **maximum democratic usability**. Moderation must be rule-bound, explainable, and reviewable.
+
+#### 13.1 Data Protection and GDPR Compliance
+
+As a platform processing personal data of European citizens, CIVITAS Public must comply with the General Data Protection Regulation (EU) 2016/679 [14] from its earliest prototype stage. Key commitments:
+
+**Data categories and purpose limitation:**
+
+| Data Category | Purpose | Legal Basis (GDPR) | Retention |
+| ---- | ---- | ---- | ---- |
+| Display name, profile | Public attribution of publications | Art. 6(1)(b) — contract performance | Account lifetime + 1 year |
+| Identity verification data | Trust layer (eIDAS integration) | Art. 6(1)(b) + Art. 9(2)(g) — public interest | Verified status stored; source documents deleted after verification |
+| E-mail address | Account management, notifications | Art. 6(1)(b) | Account lifetime |
+| IP address, access logs | Security, anti-abuse | Art. 6(1)(f) — legitimate interest | 90 days |
+| Published content | Core platform function | Art. 6(1)(b) | Permanent (public archive) |
+| Poll responses | Civic participation features | Art. 6(1)(a) — consent | Anonymised after aggregation |
+
+**Privacy architecture:**
+
+- **Privacy by Design and by Default** (Art. 25 GDPR): Minimal data collection, pseudonymous participation for readers and registered participants, end-to-end encryption for private communications.
+- **Right to pseudonymity:** Readers and registered participants interact under self-chosen display names. Only verified authors and certified publishers appear under attributable profiles — and even they may request pseudonymous publication with editorial justification.
+- **Data Protection Impact Assessment (DPIA):** A formal DPIA (Art. 35 GDPR) is a **mandatory deliverable of Phase 0**, to be conducted before any personal data processing begins and published as an open-access document.
+- **Data portability and deletion:** Users may export all personal data (Art. 20) and request deletion (Art. 17) at any time. Published content is retained in anonymised form for archival integrity.
+- **Independent Data Protection Officer:** Appointed before public launch, reporting directly to the Foundation Carrier, not to the editorial or technical team.
+- **Transparency reporting:** Biannual publication of data access requests, law enforcement inquiries, and moderation statistics.
+
+#### 13.2 Conflict of Interest Disclosure
+
+The author of this paper is the initiator of the ERDA Initiative, within which CIVITAS Public is conceived. This structural interest is disclosed transparently. The governance framework (§11) is explicitly designed to prevent any single actor — including the initiator — from exercising undue control over platform operations, editorial decisions, or moderation policy.
+
+### 14. Implementation Roadmap
+
+#### Phase 0 — Concept and Coalition Building (Months 0–6)
+
+- Finalise and publish this concept paper
+- Establish founding coalition of civic-tech, institutional, and media partners
+- Define role and verification scheme
+- Prepare minimal website and public communications
+- Secure initial funding and institutional support
+- Conduct Data Protection Impact Assessment (DPIA) and publish results
+- **Evaluation:** Stakeholder survey on concept acceptance; coalition commitment tracking (target: ≥ 5 institutional partners)
+
+#### Phase 1 — Minimum Viable Platform (Months 6–18)
+
+- Launch articles, briefs, and citizen questions
+- Implement CIVITAS-ID system
+- Deploy verified author profiles
+- Enable simple polling
+- Publish initial dossiers
+- Publish foundational platform rules and standards
+- Begin Europe in Brief and Trend Radar modules
+- **Evaluation:** Usability testing with 50–100 beta users (SUS score target: ≥ 70); monthly active user tracking; biannual user trust survey (baseline measurement); publication volume and review level monitoring
+
+#### Phase 2 — Trust and Depth Expansion (Months 18–36)
+
+- Make review layers visible and operational
+- Introduce trend reports and debate formats
+- Launch Young CIVITAS and CIVITAS Dialogues
+- Formalise and test appeal process
+- Strengthen editorial and civic partnerships across EU member states
+- **Evaluation:** Quantitative discourse analysis (NLP-based argument diversity and source density metrics [13]); cross-border readership analytics; comparative study vs. commercial platform discourse samples; first external evaluation report (open access)
+
+#### Phase 3 — Institutional Extension (Months 36–60)
+
+- Assess and implement DOI integration
+- Build civic-tech interfaces for petitions and consultations
+- Strengthen municipal and parliamentary connections
+- Deepen multilingual operations across all EU languages
+- Expand interoperability and federation logic
+- **Evaluation:** Full KPI review against targets (§2.6); independent academic evaluation; longitudinal trust measurement (pre/post comparison); institutional uptake tracking; publication of comprehensive evaluation report
+
+
+\newpage
+\newgeometry{paperwidth=297mm, paperheight=210mm, left=15mm, right=15mm, top=15mm, bottom=15mm}
+
+
+\pagewidth=297mm
+\pageheight=210mm
+
+### 15. Risk Assessment and Mitigation
+
+\begin{longtable}{@{}>{\raggedright\arraybackslash}p{55.72mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{34.00mm}@{\hspace{4.50mm}}>{\raggedright\arraybackslash}p{125.28mm}@{}}\toprule Risk & Likelihood & Impact & Mitigation \\\midrule \endhead Perception of elitism due to verified-only publishing & Medium & High & Clear access pathways, open citizen questions, reviewed guest contributions, transparent participation architecture \\Insufficient early momentum & High & High & Early deployment of high-utility formats (Europe in Brief, Trend Radar, Citizen Questions); partnerships with established media and civic organisations \\Governance overload & Medium & Medium & Minimal but principled governance core; scale structures incrementally \\Confusion with social media & Medium & Medium & Clear format logic, thematic structure, visible standards, deliberate distance from feed incentives \\Political capture attempts & Low & Critical & Foundation independence, multi-stakeholder oversight, transparency reports, anti-capture design \\Technical infrastructure costs & Medium & Medium & Open-source development, EU funding mechanisms, institutional co-financing \\\bottomrule \end{longtable}
+\restoregeometry
+\pagewidth=210mm
+\pageheight=297mm
+\newpage
+
+### 16. Strategic Value Proposition
+
+#### For Citizens
+Better orientation in complex political landscapes, more trustworthy information sources, structured participation opportunities, and reduced exposure to algorithmic manipulation.
+
+#### For Media and Journalism
+A visible, accountable space for quality civic publication beyond commercial platform logic, with improved European discoverability and durable archiving.
+
+#### For Academia and Expert Communities
+A public-facing publication channel connecting research with civic discourse, thematic dossier collaboration, and knowledge transfer into broader society.
+
+#### For Youth and Education
+Safer and more meaningful participation spaces, democratic learning through real public formats, and entry paths into European civic discourse.
+
+#### For Institutions and Civil Society
+Structured issue mapping, publicly visible civic questions, better continuity between debate and institutional follow-up, and stronger connections between citizens and their representatives.
+
+### 17. Discussion
+
+#### 17.1 Limitations and Known Risks
+
+Transparency about the limitations of CIVITAS Public is essential for its credibility. The following constraints and risks must be acknowledged:
+
+**Structural limitations:**
+
+- **Digital divide.** Access requires internet connectivity, digital literacy, and a compatible device. Citizens in rural areas, older demographics, and lower-income households may be systematically underrepresented unless active countermeasures (offline access points, simplified interfaces, accessibility investments) are implemented.
+- **Verification barriers.** Identity verification, while essential for trust, may deter privacy-conscious citizens or those without compatible identification documents. The balance between security and inclusivity remains an open design challenge.
+- **Language asymmetry.** Despite multilingual ambitions, early content will likely skew towards languages with more contributors (English, German, French). Smaller language communities risk marginalisation without dedicated editorial investment.
+- **Echo chamber potential.** Even moderated platforms can develop ideological clustering. If self-selection dominates participation, CIVITAS may reproduce rather than bridge political divides.
+
+**Operational risks:**
+
+- **Insufficient adoption.** If fewer than 5,000 active users engage after 18 months, the platform may lack the critical mass necessary for democratic relevance. Contingency: pivot to a curated publication model with institutional partnerships before reassessing participatory features.
+- **Financial sustainability.** After initial seed funding, the platform must secure ongoing financing without commercial revenue. Dependency on a single funder (e.g., one EU programme) creates fragility. Diversified funding (foundation grants, institutional subscriptions, public mandates) is essential but unproven.
+- **Governance capture.** Despite anti-capture safeguards, well-organised interest groups could attempt to dominate editorial boards or oversight panels. Regular rotation, term limits, and external audits are necessary but not sufficient guarantees.
+- **Content liability.** As a platform hosting user-generated content with editorial review, CIVITAS occupies an ambiguous position between publisher and intermediary under the Digital Services Act. Legal classification must be clarified early.
+
+**Methodological limitations of this paper:**
+
+- This paper presents a normative concept, not empirical results. Claims about expected effects (trust formation, discourse quality) are theoretically grounded but unvalidated.
+- The author is the initiator of the ERDA Initiative, which creates an inherent interest in the project’s success. Independent evaluation is therefore essential.
+- Comparisons with existing platforms (§3.1) are based on publicly available documentation, not systematic empirical assessment.
+
+#### 17.2 Discussion
+
+Its value lies in its **intermediary function**: it occupies the currently underbuilt space between open discourse and trustworthy structure, between digital reach and democratic maturity, between public visibility and responsible continuity.
+
+The initial restriction of publication rights to verified and certified actors is a practical mechanism for trust formation, not an end in itself. This restriction can only remain legitimate if accompanied by genuine civic accessibility, transparent review procedures, open input channels, and visible pathways for participatory expansion.
+
+If successful, CIVITAS Public would not merely add another platform to Europe's digital landscape. It would help establish a **different public habit**: visibility with responsibility, discourse with memory, and civic participation with intelligible structure.
+
+The feasibility of this vision rests not on technological novelty but on political will, institutional commitment, and civic engagement. The technologies required — content management systems, identity verification, multilingual support, moderation tools — are mature. What is missing is the **democratic determination to deploy them for public purposes**.
+
+### 18. Call to Action
+
+CIVITAS Public can begin today. It does not require constitutional amendments, new EU treaties, or breakthrough technologies. It requires **committed people and institutions willing to build democratic digital infrastructure**.
+
+We invite:
+
+- **Civic-technology developers and communities** to contribute to the open-source platform development, beginning with the publication and identity layers.
+
+- **European institutions** — the European Parliament, European Commission, Committee of the Regions, and national parliaments — to recognise the democratic infrastructure gap and support CIVITAS Public through funding, institutional endorsement, and policy integration.
+
+- **Media organisations and journalist networks** to participate as early certified publishers, contributing high-quality content and helping to establish editorial standards.
+
+- **Universities and research institutions** to engage as knowledge partners, providing expert review capacity, hosting research on digital democracy, and connecting CIVITAS Public with emerging scholarship.
+
+- **Civil society organisations** to bring their constituencies into the CIVITAS Public ecosystem, championing citizen participation and providing civic oversight.
+
+- **Youth organisations, schools, and student networks** to help design and populate Young CIVITAS, ensuring that the next generation of European citizens shapes this space from the beginning.
+
+- **Foundations and public funders** to provide the financial resources needed for an initial three-year development runway, structured as public-interest investment in democratic infrastructure.
+
+The first concrete step is the formation of a **CIVITAS Founding Coalition** — a multi-stakeholder group committed to moving from concept to prototype within twelve months.
+
+> **Contact:** Interested parties are invited to reach out through the ERDA Initiative's public channels or the repository associated with this paper.
+
+### 19. Conclusion
+
+Europe does not lack the technology to build a digital agora. It lacks the institutional commitment to try.
+
+CIVITAS Public is conceived as a **realistic, visible, and strategically sound entry point** into a future European democratic digital infrastructure. It combines publication, debate, issue tracking, trend observation, and democratic trust architecture in a form that is both usable in the near term and expandable in the long term.
+
+Its promise is not perfection, but a **credible beginning**.
+
+> **Readable for all. Trustworthy through verification. Valuable through accountability.**
+
+Under the right institutional, editorial, and technical conditions, CIVITAS Public can become the first concrete building block of a European democratic civic infrastructure that is neither captured by advertising logic nor reduced to bureaucratic state communication.
+
+The question is not whether Europe can build this. The question is whether it will.
+
+**We believe it should. We invite you to help build it.**
+
+
+### References
+
+[1] Eurobarometer. (2025). *Standard Eurobarometer 103: Public Opinion in the European Union.* European Commission.
+
+[2] Bail, C. A., et al. (2018). Exposure to opposing views on social media can increase political polarization. *Proceedings of the National Academy of Sciences*, 115(37), 9216–9221. https://doi.org/10.1073/pnas.1804840115
+
+[3] European External Action Service. (2025). *3rd EEAS Report on Foreign Information Manipulation and Interference.* EEAS Strategic Communication. https://www.eeas.europa.eu/eeas/information-integrity-and-countering-foreign-information-manipulation-interference-fimi_en
+
+[4] Zuboff, S. (2019). *The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power.* Public Affairs.
+
+[5] Lewandowsky, S., Ecker, U. K. H., & Cook, J. (2017). Beyond misinformation: Understanding and coping with the "post-truth" era. *Journal of Applied Research in Memory and Cognition*, 6(4), 353–369. https://doi.org/10.1016/j.jarmac.2017.07.008
+
+[6] Massinger, R. A. (2026). *The ERDA Book – Democratic Evolution: Strategy, Ethics and the Future of Europe.* Version 2.5.0. Zenodo. https://doi.org/10.5281/zenodo.18827190
+
+[7] European Parliament and Council. (2022). *Regulation (EU) 2022/2065 on a Single Market for Digital Services (Digital Services Act).* Official Journal of the European Union, L 277, 1–102.
+
+[8] Habermas, J. (1989). *The Structural Transformation of the Public Sphere.* MIT Press.
+
+[9] Landemore, H. (2020). *Open Democracy: Reinventing Popular Rule for the Twenty-First Century.* Princeton University Press.
+
+[10] Helberger, N., Pierson, J., & Poell, T. (2018). Governing online platforms: From contested to cooperative responsibility. *The Information Society*, 34(1), 1–14. https://doi.org/10.1080/01972243.2017.1391913
+
+[11] Decidim (2024). *Free Open-Source Participatory Democracy for Cities and Organizations.* https://decidim.org. Software repository: https://github.com/decidim/decidim
+
+[12] OECD (2020). *Innovative Citizen Participation and New Democratic Institutions: Catching the Deliberative Wave.* OECD Publishing. https://doi.org/10.1787/339306da-en
+
+[13] Arana-Catania, M., Van Lier, F. A., Procter, R., et al. (2021). Citizen Participation and Machine Learning for a Better Democracy. *Digital Government: Research and Practice*, 2(3), 1–22. https://doi.org/10.1145/3452118
+
+[14] European Parliament and Council. (2016). *Regulation (EU) 2016/679 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (General Data Protection Regulation).* Official Journal of the European Union, L 119, 1–88.
+
+[15] Deutsche Forschungsgemeinschaft. (2019). *Guidelines for Safeguarding Good Research Practice.* Code of Conduct. https://doi.org/10.5281/zenodo.3923602
+
+[16] Keller, P., & Tarkowski, A. (2021). Digital Public Space — A missing policy frame for shaping Europe's digital future. *Open Future.* https://openfuture.pubpub.org/pub/digital-public-space-policy-frame
+
+
+### Appendix A: CIVITAS Declaration (German Original)
+
+**CIVITAS** ist als digitale Agora Europas gedacht: ein demokratisch kontrollierter, bürgernaher und technologisch souveräner öffentlicher Raum, der nicht wie eine kommerzielle Social-Media-Plattform funktionieren soll, sondern als verlässliche Infrastruktur für Teilhabe, Meinungsfreiheit und demokratische Selbstwirksamkeit. Das Ziel ist, Bürgerbeteiligung zu stärken, politische Prozesse transparenter zu machen und demokratische Kultur langfristig zu fördern.
+
+Getragen werden soll CIVITAS von einer unabhängigen europäischen Stiftung unter parlamentarischer Kontrolle, unter Einbindung von Zivilgesellschaft, Jugendräten, Medien und Wissenschaft. Bürgerbeteiligte Aufsicht, Ethikkomitees für algorithmische Entscheidungen, öffentliche Audits sowie der Verzicht auf Werbung und kommerzielle Datenverwertung sollen Vertrauen und demokratische Legitimation sichern.
+
+Technisch ist CIVITAS als dezentrale, Open-Source- und Fediverse-kompatible Plattform vorgesehen, mit europäischem Hosting, DSGVO-, eIDAS- und EMRK-Konformität, Mehrsprachigkeit, Barrierefreiheit und transparenten Algorithmen ohne versteckte Rankings. Zu den Kernfunktionen gehören ein verifizierter Debattenraum mit KI- und menschlicher Moderation, Bürgeranträge, Schnittstellen zu Wahlen und Konsultationen, politische Informationsmodule wie Abstimmungstracker sowie Civic-Tech-Werkzeuge zur Mitgestaltung.
+
+Zugleich setzt das Konzept auf Rechtssicherheit und Missbrauchsschutz: rechtsstaatliche Moderationsregeln, unabhängige Widerspruchsverfahren, Transparenzberichte, externe Audits und Schutz vor koordinierter Einflussnahme oder Überlastung. Ergänzt wird dies durch Partnerschaften mit Parlamenten, Kommunen, Bildungseinrichtungen, Medienhäusern und demokratischen Partnerstaaten sowie durch besondere Zugänge für Schulen, Hochschulen und Jugendräte. So versteht sich CIVITAS nicht nur als technisches Projekt, sondern als strategischer Pfeiler europäischer Demokratie.
+
+### Appendix B: CIVITAS Declaration (English Translation)
+
+**CIVITAS** is envisioned as Europe's digital agora: a democratically governed, citizen-oriented and technologically sovereign public space. It is not meant to replicate a commercial social media platform, but to serve as a trustworthy civic infrastructure for participation, freedom of expression and democratic agency. Its purpose is to strengthen citizen involvement, make political processes more transparent, and foster democratic culture over the long term.
+
+The platform is intended to be run by an independent European foundation under parliamentary oversight, with civil society organisations, youth councils, media and academia involved in its governance. Public-interest funding, citizen participation in oversight bodies, ethics committees for algorithmic decisions, and public audits are meant to ensure legitimacy, transparency and trust, while excluding advertising and commercial data exploitation.
+
+From a technical perspective, CIVITAS is designed as a decentralised, open-source, fediverse-compatible platform, hosted in Europe and compliant with GDPR, eIDAS and the European Convention on Human Rights. It is meant to be multilingual, accessible, modular and transparent in its algorithmic logic, with no hidden rankings. Its core functions include a verified debate space moderated by both AI and humans, citizens' petitions, interfaces to elections and public consultations, political information modules such as voting trackers, and civic-tech tools for shaping public initiatives.
+
+At the same time, the concept places strong emphasis on rule-of-law safeguards and resilience: clear moderation rules, independent appeal procedures, transparency reports, external audits, and protection against coordinated manipulation or system overload. CIVITAS is also intended to work with parliaments, municipalities, educational institutions, media organisations and democratic partner countries, while offering safe participation channels for schools, universities and youth councils. In this sense, it is presented not merely as a technical platform, but as a strategic pillar of Europe's democratic future.
+
+
+### Suggested Citation
+
+Massinger, R. A. (2026). CIVITAS Public: Building a European Digital Agora — A Call to Action. *Concept Paper in the ERDA Context, Version 1.0.* Zenodo. https://doi.org/10.5281/zenodo.19443256
+
+---
+
+**License:** This work is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0). To view a copy of this licence, visit https://creativecommons.org/licenses/by/4.0/.
+
+**Related Work:** This paper is part of the ERDA Initiative. The broader ERDA framework is documented in: Massinger, R. A. (2026). *The ERDA Book – Democratic Evolution.* https://doi.org/10.5281/zenodo.18827190

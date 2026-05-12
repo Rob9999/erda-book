@@ -1,5 +1,7 @@
 ---
-source: content/anhang-d-executive-compendium-fur-entscheidungstrager/d.2-block-b-institutionelle-architektur-kapitel-4.md
+content_id: erda.book.anhang.d.executive.compendium.fur.entscheidungstrager.d.2.block.b.institutionelle.architektur.kapitel.4
+content_lang: en
+source: de/content/anhang-d-executive-compendium-fur-entscheidungstrager/d.2-block-b-institutionelle-architektur-kapitel-4.md
 status: draft
 ---
 

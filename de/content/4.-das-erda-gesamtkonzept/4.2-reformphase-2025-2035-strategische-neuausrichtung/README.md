@@ -1,3 +1,7 @@
+---
+content_id: erda.book.4.das.erda.gesamtkonzept.4.2.reformphase.2025.2035.strategische.neuausrichtung.readme
+content_lang: de
+---
 # 4.2 Reformphase: 2025–2035 - Strategische Neuausrichtung der EU
 
 _**Reformphase: 2025–2035 - Strategische Neuausrichtung der EU**_
@@ -31,6 +35,8 @@ Dieses Kapitel skizziert die zentrale Transformationsphase der EU hin zu einer h
   Über digitale Plattformen wie CIVITAS und neue Beteiligungsformate wird die Bürgerbeteiligung systematisch gestärkt und transnational erweitert.
 * **Globale Demokratien als strategische Partner.**\
   Demokratische Staaten in Lateinamerika, Asien, Afrika und Ozeanien werden nicht nur eingeladen, sondern aktiv in Sicherheits- und Innovationspartnerschaften eingebunden.
+
+![Reformphase als gestaffelter Aufbau von Institutionen, Schutzarchitektur und demokratischer Legitimation](../../.gitbook/assets/erda-reformpfad-2025-2035.svg)
 
 ***
 

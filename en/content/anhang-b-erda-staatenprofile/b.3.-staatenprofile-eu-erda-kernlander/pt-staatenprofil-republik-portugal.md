@@ -1,5 +1,7 @@
 ---
-source: content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/pt-staatenprofil-republik-portugal.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.pt.staatenprofil.republik.portugal
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/pt-staatenprofil-republik-portugal.md
 status: draft
 description: "State: PT, Date: 2025-06-10, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "PT"
@@ -144,7 +146,7 @@ version: "1.0"
 ### 9. Key indicators (short form)
 
 | Indicator                             | 2025 | 2050  | 2075  |
-| ------------------------------------- | ---- | ----- | ----- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                          | 260  | 320^1 | 450^1 |
 | Population (million)                  | 10.30| 10.50 | 10.10 |
 | Share of renewables (%)               | 61%  | 80%   | 95%   |

@@ -1,5 +1,7 @@
 ---
-source: content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/cz-staatenprofil-tschechien.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.cz.staatenprofil.tschechien
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/cz-staatenprofil-tschechien.md
 status: draft
 description: "State: CZ, Date: 2025-06-10, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "CZ"
@@ -128,7 +130,7 @@ version: "1.0"
 ### 9. Key indicators (short form)
 
 | Indicator | 2025 | 2050 | 2075 |
-| --- | --- | --- | --- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn EUR) | 295 | 430 | 510 |
 | Population | 10.5 m | 10.1 m | 9.8 m |
 | Renewable energy share (%) | 24 | 50 | 68 |

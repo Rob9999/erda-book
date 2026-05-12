@@ -1,8 +1,10 @@
 ---
-description: "State: AU, Date: 2025-06-11, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.au.staatenprofil.australien
+content_lang: de
+description: "State: AU, Date: 2025-06-11, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "AU"
 date: "2026-01-01"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -125,7 +127,7 @@ version: "1.0"
 ### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                              | 2023      | 2050 (proj.) | 2075 (proj.) |
-| -------------------------------------- | --------- | ------------ | ------------ |
+| ---- | ---- | ---- | ---- |
 | BIP (Mrd. USD)                         | 1728      | ~2700 (hyp.) | ~3500 (hyp.) |
 | Bevölkerung                            | 26 659 k  | ~30 000 k (UN) | ~33 000 k (UN) |
 | Anteil Erneuerbare Strom (%)           | 35        | 70 (hyp.)    | 85 (hyp.)    |
@@ -172,6 +174,6 @@ Australien ist ein rohstoffreiches, demokratisch gefestigtes Land im Indo-Pazifi
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen des Commonwealth of Australia sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 #### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08

@@ -1,5 +1,7 @@
 ---
-source: content/anhang-e-erda-buch-baukasten/e.3-erda-gitbook-kapitel-template.md
+content_id: erda.book.anhang.e.erda.buch.baukasten.e.3.erda.gitbook.kapitel.template
+content_lang: en
+source: de/content/anhang-e-erda-buch-baukasten/e.3-erda-gitbook-kapitel-template.md
 status: draft
 ---
 

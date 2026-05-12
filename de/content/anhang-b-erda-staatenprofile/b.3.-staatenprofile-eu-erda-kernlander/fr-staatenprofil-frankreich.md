@@ -1,8 +1,10 @@
 ---
-description: "State: FR, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.fr.staatenprofil.frankreich
+content_lang: de
+description: "State: FR, Date: 2025-06-10, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "FR"
 date: "2025-06-10"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -131,7 +133,7 @@ version: "1.0"
 ### 9. Kennzahlenübersicht
 
 | Indikator                             | 2025  | 2050  | 2075  |
-| ------------------------------------- | ----- | ----- | ----- |
+| ---- | ---- | ---- | ---- |
 | BIP (Mrd. EUR)                        | 2 822 | 3 300 | 3 600 |
 | Bevölkerung (Mio.)                    | 68,6  | 64    | 60    |
 | Erneuerbare Energien (%)              | 21    | 50    | 75    |
@@ -180,6 +182,6 @@ Frankreich ist ein global vernetzter Kernstaat Europas mit starker Industriebasi
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Französischen Republik sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 #### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08

@@ -1,8 +1,10 @@
 ---
-description: "State: RO, Date: 2025-06-11, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.ro.staatenprofil.rumanien
+content_lang: de
+description: "State: RO, Date: 2025-06-11, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "RO"
 date: "2026-01-01"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -134,7 +136,7 @@ Höhere Energieautarkie, fortschrittliche Landwirtschaft, Bildungsoffensive
 ### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025     | 2050       | 2075       |
-| ------------------------------------- | -------- | ---------- | ---------- |
+| ---- | ---- | ---- | ---- |
 | BIP (Mrd. EUR)                        | ≈ 325 | 500 (hyp.) | 620 (hyp.) |
 | Bevölkerung                           | 19 Mio. | 14,8 Mio.  | 12 Mio.    |
 | Anteil Erneuerbare (%)                | 50 %     | 65 % (hyp.)| 80 % (hyp.)|
@@ -176,7 +178,7 @@ Rumänien entwickelt sich vom aufholenden EU-Mitglied zu einem IT- und Energieze
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen von Rumänien sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 #### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 

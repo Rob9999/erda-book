@@ -1,8 +1,10 @@
 ---
-description: "State: KR, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.kr.staatenprofil.sued.korea
+content_lang: de
+description: "State: KR, Date: 2025-06-10, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "KR"
 date: "2025-06-10"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -147,7 +149,7 @@ version: "1.0"
 ### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025  | 2050 (p) | 2075 (p) | EU-Durchschnitt 2024 |
-| ------------------------------------- | ----- | -------- | -------- | ------------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | BIP (Mrd. EUR)                        | 1.6 T | 2.1 T    | 2.4 T    | n/b |
 | Bevölkerung                           | 51,8 Mio. | 46 Mio. | 38 Mio. | n/b |
 | Anteil Erneuerbare Energien (%)       | 9 % | 30 (p) | 60 (p) | n/b |
@@ -202,6 +204,6 @@ Südkorea ist eine dynamische Hochtechnologienation mit starker demokratischer T
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Korea sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 #### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08

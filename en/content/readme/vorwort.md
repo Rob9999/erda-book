@@ -1,5 +1,7 @@
 ---
-source: content/readme/vorwort.md
+content_id: erda.book.readme.vorwort
+content_lang: en
+source: de/content/readme/vorwort.md
 status: draft
 ---
 
@@ -11,7 +13,7 @@ _**Foreword**_
 
 This book is not a manifesto. It is a toolbox. Not a promise of utopia – but an invitation to take responsibility.
 
-In a time of growing uncertainty, geopolitical power shifts and internal exhaustion, the ERDA book asks a radical yet realistic question:\
+In a time of growing uncertainty, geopolitical power shifts and internal exhaustion, the ERDA Book asks a radical yet realistic question:\
 **What does Europe need in order to survive – and remain dignified while doing so?**
 
 Some call it overambitious. Others say: _"It sounds nice, but can it be implemented politically?"_ Again others ask: _"Who is supposed to finance it, who will build the institutions, who will bring people along?"_ – These are legitimate questions. Questions from people who carry responsibility.
@@ -27,7 +29,7 @@ In today’s world situation, a second consequence is added: fragmentation creat
 
 Polish history contains a precise warning: the Polish–Lithuanian Commonwealth was large and diverse, yet veto paralysis and external manipulation made it “governable from outside” – until the partitions erased the state. The lesson for Europe is not centralism, but decision‑making capacity: integration must become complete wherever blockade is deadly – in strategic decision power and collective defence.
 
-The ERDA book offers an answer – not as a finished model, but as a structured sketch of the future. With concrete stages, with principles, with tools.
+The ERDA Book offers an answer – not as a finished model, but as a structured sketch of the future. With concrete stages, with principles, with tools.
 
 It weaves together:
 

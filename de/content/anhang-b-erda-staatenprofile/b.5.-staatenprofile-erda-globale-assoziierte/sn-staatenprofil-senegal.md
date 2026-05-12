@@ -1,8 +1,10 @@
 ---
-description: "State: SN, Date: 2025-06-11, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.sn.staatenprofil.senegal
+content_lang: de
+description: "State: SN, Date: 2025-06-11, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "SN"
 date: "2026-01-01"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -128,7 +130,7 @@ version: "1.0"
 ### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2023 | 2050 (proj.) | 2075 (proj.) | EU-Durchschnitt 2024 |
-| ------------------------------------- | ---- | ------------ | ------------ | ------------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | BIP (Mrd. USD)                        | 30,8 | 60 (hyp.)    | 95 (hyp.)    |                     |
 | Bevölkerung                           | 18,1 Mio. | 30 Mio. (p) | 40 Mio. (p) |                     |
 | Anteil Erneuerbare Energien (%)       | 31   | 55 (p)       | 70 (p)       |                     |
@@ -180,8 +182,8 @@ Senegal ist eine politisch relativ stabile Demokratie in Westafrika mit stark wa
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Senegal sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 #### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 
 <!-- Fußnotenverweise -->

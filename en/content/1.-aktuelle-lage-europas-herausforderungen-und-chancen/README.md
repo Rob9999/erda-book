@@ -1,5 +1,7 @@
 ---
-source: ../../content/1.-aktuelle-lage-europas-herausforderungen-und-chancen/README.md
+content_id: erda.book.1.aktuelle.lage.europas.herausforderungen.und.chancen.readme
+content_lang: en
+source: de/content/1.-aktuelle-lage-europas-herausforderungen-und-chancen/README.md
 status: draft
 ---
 # 1. Current State of Europe: Challenges and Opportunities

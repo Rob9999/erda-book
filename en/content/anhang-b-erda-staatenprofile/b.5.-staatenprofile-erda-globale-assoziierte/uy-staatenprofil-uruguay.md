@@ -1,5 +1,7 @@
 ---
-source: content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/uy-staatenprofil-uruguay.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.uy.staatenprofil.uruguay
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/uy-staatenprofil-uruguay.md
 status: draft
 description: "State: UY, Date: 2025-06-11, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "UY"
@@ -125,7 +127,7 @@ version: "1.0"
 ### 9. Key indicators (short form)
 
 | Indicator | 2023 | 2050 (proj.) | 2075 (proj.) | EU average 2024 |
-| --- | --- | --- | --- | --- |
+| ---- | ---- | ---- | ---- | ---- |
 | GDP (bn EUR) | 71 | ~95 (hyp.) | ~120 (hyp.) | |
 | Population | 3.39 m | ~3.6 m (UN) | ~3.7 m (UN) | |
 | Share of renewable energy (%) | 44 | 60 (hyp.) | 75 (hyp.) | |

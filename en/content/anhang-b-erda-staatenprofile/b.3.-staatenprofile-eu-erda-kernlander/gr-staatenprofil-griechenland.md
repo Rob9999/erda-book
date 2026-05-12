@@ -1,5 +1,7 @@
 ---
-source: content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/gr-staatenprofil-griechenland.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.gr.staatenprofil.griechenland
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/gr-staatenprofil-griechenland.md
 status: draft
 description: "State: GR, Date: 2025-06-10, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "GR"
@@ -159,7 +161,7 @@ Narrative: 2025–2050 focuses on renewable build-out and education; 2050–2075
 ### 9. Key indicators
 
 | Indicator                            | 2025       | 2050      | 2075      |
-| ------------------------------------ | ---------- | --------- | --------- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn USD)                         | 245.2      | 346       | 631       |
 | Population                           | 10,432,481 | 9,762,000 | 8,352,000 |
 | Share of renewables (%)              | 68.4       | 82        | 95        |

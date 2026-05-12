@@ -1,3 +1,7 @@
+---
+content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.readme
+content_lang: de
+---
 # B.5 Staatenprofile (ERDA - Globale Assoziierte)
 
 _**ERDA Staatenprofile der weltweit assoziierten Demokratien,**_

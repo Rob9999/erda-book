@@ -1,8 +1,10 @@
 ---
-description: "State: RS, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.rs.staatenprofil.serbien
+content_lang: de
+description: "State: RS, Date: 2025-06-10, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "RS"
 date: "2025-06-10"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -150,7 +152,7 @@ version: "1.0"
 ### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025 | 2050 | 2075 | EU-Durchschnitt 2024 |
-| ------------------------------------- | ---- | ---- | ---- | -------------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | BIP (Mrd. EUR)                        | 75   | 110 (h) | 150 (h) | 16.600 |
 | Bevölkerung                           | 6,6 Mio. | 6,0 Mio. (h) | 5,5 Mio. (h) | 447 Mio. |
 | Anteil Erneuerbare Energien (%)       | 26 %[15] | 45 % (h) | 65 % (h) | 37 % |
@@ -213,8 +215,8 @@ Serbien ist ein dynamisches Land im Herzen des Balkans mit wachsenden europäisc
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Serbien sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 #### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 
 \* Status von Kosovo umstritten; Serbien erkennt Kosovo nicht als eigenständigen Staat an.

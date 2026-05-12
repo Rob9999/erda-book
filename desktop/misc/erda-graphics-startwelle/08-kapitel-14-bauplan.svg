@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="1100" viewBox="0 0 2000 1100" role="img" aria-labelledby="title desc">
+  <title id="title">Kapitel 14 als Bauplan</title>
+  <desc id="desc">Bauplan-Grafik für Kapitel 14 mit dem Pfad von der Begründung über Koalitionen und Stufenmodell bis zur Vertragsarchitektur der sechs Annexe.</desc>
+  <defs>
+    <style>
+      .bg{fill:#f6f8fb}
+      .title{font:700 34px 'DejaVu Sans', Arial, sans-serif;fill:#15324b}
+      .subtitle{font:400 20px 'DejaVu Sans', Arial, sans-serif;fill:#425466}
+      .block1{fill:#15324b;stroke:#15324b;stroke-width:2.5}
+      .block2{fill:#ffffff;stroke:#15324b;stroke-width:2.5}
+      .block3{fill:#e8f2f3;stroke:#1a6e73;stroke-width:2.5}
+      .block4{fill:#f6efe1;stroke:#c59b4d;stroke-width:2.5}
+      .white{font:700 21px 'DejaVu Sans', Arial, sans-serif;fill:#ffffff}
+      .dark{font:700 20px 'DejaVu Sans', Arial, sans-serif;fill:#15324b}
+      .small{font:400 15px 'DejaVu Sans', Arial, sans-serif;fill:#425466}
+      .smallInv{font:400 15px 'DejaVu Sans', Arial, sans-serif;fill:#dce9f2}
+      .arrow{stroke:#6a7d90;stroke-width:3;fill:none;marker-end:url(#arrowhead)}
+    </style>
+    <marker id="arrowhead" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L8,3 z" fill="#6a7d90"/>
+    </marker>
+  </defs>
+
+  <rect class="bg" width="2000" height="1100" rx="24"/>
+  <text class="title" x="80" y="72">Kapitel 14 als Bauplan</text>
+  <text class="subtitle" x="80" y="104">Vom Club der Willigen zur föderativ belastbaren Demokratiearchitektur</text>
+
+  <rect class="block1" x="90" y="190" width="250" height="122" rx="20"/>
+  <text class="white" x="215" y="232" text-anchor="middle">Warum?</text>
+  <text class="smallInv" x="215" y="263" text-anchor="middle">Veto-Paralyse,</text>
+  <text class="smallInv" x="215" y="285" text-anchor="middle">Geschwindigkeitsdefizit,</text>
+  <text class="smallInv" x="215" y="307" text-anchor="middle">Bedrohung wächst schneller</text>
+
+  <rect class="block2" x="395" y="190" width="250" height="122" rx="20"/>
+  <text class="dark" x="520" y="232" text-anchor="middle">10 Koalitionen</text>
+  <text class="small" x="520" y="263" text-anchor="middle">Defence • Air/Missile •</text>
+  <text class="small" x="520" y="285" text-anchor="middle">Sanctions • Energy • Cyber …</text>
+
+  <rect class="block3" x="700" y="190" width="250" height="122" rx="20"/>
+  <text class="dark" x="825" y="232" text-anchor="middle">Stufenmodell</text>
+  <text class="small" x="825" y="263" text-anchor="middle">von Koordinationspakt</text>
+  <text class="small" x="825" y="285" text-anchor="middle">bis Föderalverfassung</text>
+
+  <rect class="block4" x="1005" y="190" width="250" height="122" rx="20"/>
+  <text class="dark" x="1130" y="232" text-anchor="middle">EDDRC</text>
+  <text class="small" x="1130" y="263" text-anchor="middle">Club-Architektur, Organe,</text>
+  <text class="small" x="1130" y="285" text-anchor="middle">Budget, Anti-Veto</text>
+
+  <rect class="block2" x="1310" y="190" width="260" height="122" rx="20"/>
+  <text class="dark" x="1440" y="232" text-anchor="middle">Kompetenzkatalog</text>
+  <text class="small" x="1440" y="263" text-anchor="middle">föderal • geteilt • national</text>
+
+  <path class="arrow" d="M 340 251 L 395 251"/>
+  <path class="arrow" d="M 645 251 L 700 251"/>
+  <path class="arrow" d="M 950 251 L 1005 251"/>
+  <path class="arrow" d="M 1255 251 L 1310 251"/>
+
+  <rect class="block3" x="220" y="470" width="285" height="130" rx="22"/>
+  <text class="dark" x="362" y="515" text-anchor="middle">Demokratie-Kette</text>
+  <text class="small" x="362" y="546" text-anchor="middle">Wahl • Parlament • Opposition •</text>
+  <text class="small" x="362" y="568" text-anchor="middle">Ombud • Gericht • Sunset-Regeln</text>
+
+  <rect class="block4" x="590" y="470" width="285" height="130" rx="22"/>
+  <text class="dark" x="732" y="515" text-anchor="middle">Verfassungsskizze</text>
+  <text class="small" x="732" y="546" text-anchor="middle">Kompetenzordnung, Grundrechte,</text>
+  <text class="small" x="732" y="568" text-anchor="middle">Risiko-Controls, Exit/Beitritt</text>
+
+  <rect class="block1" x="960" y="450" width="530" height="170" rx="24"/>
+  <text class="white" x="1225" y="495" text-anchor="middle">Vertragsarchitektur in 6 Annexen</text>
+  <text class="smallInv" x="1225" y="530" text-anchor="middle">A Risk Controls • B Procurement • C Interoperability</text>
+  <text class="smallInv" x="1225" y="554" text-anchor="middle">D War Powers • E Audit &amp; Transparency • F Membership Tiers</text>
+  <text class="smallInv" x="1225" y="578" text-anchor="middle">→ Enforcement, Fähigkeit, Recht, Transparenz, Mitgliedschaft</text>
+
+  <path class="arrow" d="M 1440 312 L 1440 380 C 1440 420, 1370 420, 1310 450"/>
+  <path class="arrow" d="M 1310 312 C 1180 380, 890 420, 732 470"/>
+  <path class="arrow" d="M 1005 312 C 830 390, 560 420, 362 470"/>
+
+  <rect class="block2" x="170" y="720" width="1400" height="105" rx="20"/>
+  <text class="dark" x="870" y="762" text-anchor="middle">Zielrichtung</text>
+  <text class="small" x="870" y="792" text-anchor="middle">Nicht Einstimmigkeit schafft Handlungsfähigkeit, sondern verbindliches gemeinsames Handeln innerhalb demokratisch legitimierter Strukturen.</text>
+</svg>

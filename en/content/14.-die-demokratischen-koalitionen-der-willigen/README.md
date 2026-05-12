@@ -1,7 +1,9 @@
 ---
+content_id: erda.book.14.die.demokratischen.koalitionen.der.willigen.readme
+content_lang: en
+source: de/content/14.-die-demokratischen-koalitionen-der-willigen/README.md
+status: in-review
 description: "Chapter 14 – The Democratic Coalitions of the Willing"
-source: "de/content/14.-die-demokratischen-koalitionen-der-willigen/README.md"
-status: "in-review"
 date: "2026-02-28"
 ---
 
@@ -34,7 +36,7 @@ This chapter designs the **next logical leap**: democratic coalitions that can e
 ## Chapter Structure
 
 | Sub-chapter | Topic |
-|---|---|
+| ---- | ---- |
 | **14.1** | Why Coalitions of the Willing? – Schengen, the Euro and the Principle of Pioneer Alliances |
 | **14.2** | Ten Democratic Coalitions – Concrete Fields of Action |
 | **14.3** | Tier Model: From Club to Federation (Tier 0–9) |
@@ -46,7 +48,7 @@ This chapter designs the **next logical leap**: democratic coalitions that can e
 ### Treaty Annexes
 
 | Annex | Title | Scope |
-|---|---|---|
+| ---- | ---- | ---- |
 | **14.A** | Risk Controls & Enforcement – NoGo Thresholds, Tiers 0–5, RACI | 18 Articles |
 | **14.B** | Procurement Code – Award Procedures, Integrity, Dual Sourcing, KPIs | 30 Articles |
 | **14.C** | Interop & Certification – Levels L0–L4, Tier↔Level Mapping, Red Team | 27 Articles |

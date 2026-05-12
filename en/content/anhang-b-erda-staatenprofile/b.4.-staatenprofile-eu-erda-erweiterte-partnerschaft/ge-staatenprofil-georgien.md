@@ -1,5 +1,7 @@
 ---
-source: content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/ge-staatenprofil-georgien.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.ge.staatenprofil.georgien
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/ge-staatenprofil-georgien.md
 status: draft
 description: "State: GE, Date: 2025-06-11, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "GE"
@@ -142,7 +144,7 @@ Economic integration with EU markets, expansion of renewables, stronger democrat
 ### 9. Key indicators (short form)
 
 | Indicator                             | 2025 | 2050 | 2075 |
-| ------------------------------------- | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn USD)                          | 32   | 50 (hyp.) | 70 (hyp.) |
 | Population                            | 3.7 m | 3.39 m | 2.91 m |
 | Share of renewables (%)               | 35%  | 55% (hyp.) | 80% (hyp.) |

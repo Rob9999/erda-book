@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="1100" viewBox="0 0 2000 1100" role="img" aria-labelledby="title desc">
+  <title id="title">Ebenenmodell der KI-Integration</title>
+  <desc id="desc">Vier Ebenen der KI-Integration im ERDA-Kontext mit zugehörigen Rechten, Pflichten, Aufsicht und roten Linien.</desc>
+  <defs>
+    <style>
+      .bg{fill:#f6f8fb}
+      .title{font:700 34px 'DejaVu Sans', Arial, sans-serif;fill:#15324b}
+      .subtitle{font:400 20px 'DejaVu Sans', Arial, sans-serif;fill:#425466}
+      .step1{fill:#dbeef0;stroke:#1a6e73;stroke-width:2.5}
+      .step2{fill:#c9e1e4;stroke:#1a6e73;stroke-width:2.5}
+      .step3{fill:#f2e7cc;stroke:#c59b4d;stroke-width:2.5}
+      .step4{fill:#15324b;stroke:#15324b;stroke-width:2.5}
+      .panel{fill:#ffffff;stroke:#d7dfe8;stroke-width:1.8}
+      .dark{font:700 22px 'DejaVu Sans', Arial, sans-serif;fill:#15324b}
+      .light{font:700 22px 'DejaVu Sans', Arial, sans-serif;fill:#ffffff}
+      .small{font:400 15px 'DejaVu Sans', Arial, sans-serif;fill:#425466}
+      .smallInv{font:400 15px 'DejaVu Sans', Arial, sans-serif;fill:#dce9f2}
+      .line{stroke:#74879a;stroke-width:2.5}
+      .guard{fill:#ffffff;stroke:#15324b;stroke-width:2.5;stroke-dasharray:8 8}
+      .redline{fill:#f8e2e2;stroke:#b84d4d;stroke-width:2}
+    </style>
+  </defs>
+  <rect class="bg" width="2000" height="1100" rx="24"/>
+  <text class="title" x="80" y="72">Ebenenmodell der KI-Integration</text>
+  <text class="subtitle" x="80" y="104">Werkzeug → Infrastruktur → professionelle Agency → mögliche Mitbürgerschaft, jeweils unter demokratischer Aufsicht</text>
+
+  <rect class="guard" x="95" y="145" width="1200" height="650" rx="28"/>
+  <text class="dark" x="135" y="182">Demokratische Aufsicht über alle Ebenen</text>
+  <text class="small" x="135" y="210">Legitimation • Audit • Haftung • Override • Widerspruch • Korrekturschleifen • rote Linien</text>
+
+  <polygon class="step1" points="170,690 690,690 655,590 205,590"/>
+  <polygon class="step2" points="260,560 770,560 735,460 295,460"/>
+  <polygon class="step3" points="350,430 855,430 820,330 385,330"/>
+  <polygon class="step4" points="400,300 980,300 960,200 420,200"/>
+
+  <text class="dark" x="430" y="645" text-anchor="middle">Ebene 1 — Werkzeug</text>
+  <text class="small" x="430" y="672" text-anchor="middle">Assistenz, Analyse, Alltags- und Arbeitsunterstützung</text>
+
+  <text class="dark" x="515" y="515" text-anchor="middle">Ebene 2 — Infrastruktur</text>
+  <text class="small" x="515" y="542" text-anchor="middle">Verwaltung, CIVITAS, Recht, Gesundheit, Resilienz</text>
+
+  <text class="dark" x="603" y="385" text-anchor="middle">Ebene 3 — Professionelle Agency</text>
+  <text class="small" x="603" y="412" text-anchor="middle">rollenbasierte KI mit Mandat, Logging und Haftung</text>
+
+  <text class="light" x="690" y="255" text-anchor="middle">Ebene 4 — mögliche Mitbürgerschaft</text>
+  <text class="smallInv" x="690" y="282" text-anchor="middle">nur unter strengsten Reife- und Schutzkriterien</text>
+
+  <rect class="panel" x="1380" y="175" width="340" height="150" rx="18"/>
+  <text class="dark" x="1550" y="214" text-anchor="middle">Rechte &amp; Pflichten</text>
+  <text class="small" x="1550" y="246" text-anchor="middle">wachsen nicht automatisch mit</text>
+  <text class="small" x="1550" y="268" text-anchor="middle">Fähigkeit, sondern nur mit</text>
+  <text class="small" x="1550" y="290" text-anchor="middle">Mandat, Audit und Legitimation</text>
+
+  <rect class="panel" x="1380" y="360" width="340" height="160" rx="18"/>
+  <text class="dark" x="1550" y="399" text-anchor="middle">Aufsichtsinstrumente</text>
+  <text class="small" x="1550" y="431" text-anchor="middle">• Logging &amp; Audit</text>
+  <text class="small" x="1550" y="453" text-anchor="middle">• Fail-Loud &amp; Override</text>
+  <text class="small" x="1550" y="475" text-anchor="middle">• Widerspruch &amp; Review</text>
+  <text class="small" x="1550" y="497" text-anchor="middle">• parlamentarische Kontrolle</text>
+
+  <rect class="redline" x="1380" y="555" width="340" height="190" rx="18"/>
+  <text class="dark" x="1550" y="594" text-anchor="middle">Rote Linien</text>
+  <text class="small" x="1550" y="626" text-anchor="middle">keine Entmündigung von Menschen</text>
+  <text class="small" x="1550" y="648" text-anchor="middle">keine Capability-Drift ohne Kontrolle</text>
+  <text class="small" x="1550" y="670" text-anchor="middle">keine Umgehung demokratischer Prozesse</text>
+  <text class="small" x="1550" y="692" text-anchor="middle">keine Gewalt- oder Eskalationslogik</text>
+  <text class="small" x="1550" y="714" text-anchor="middle">ohne Rechtsrahmen und Aufsicht</text>
+
+  <line class="line" x1="980" y1="250" x2="1380" y2="250"/>
+  <line class="line" x1="855" y1="380" x2="1380" y2="440"/>
+  <line class="line" x1="770" y1="510" x2="1380" y2="610"/>
+
+  <text class="small" x="110" y="840">Der Ko-Evolutions-Index (KEI) begleitet alle Ebenen als Beobachtungs- und Frühwarninstrument — ohne automatischen Gesamtscore und ohne automatische Sanktionsmacht.</text>
+</svg>

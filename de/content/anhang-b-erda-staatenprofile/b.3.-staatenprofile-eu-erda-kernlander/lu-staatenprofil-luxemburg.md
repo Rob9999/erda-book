@@ -1,8 +1,10 @@
 ---
-description: "State: LU, Date: 2025-06-11, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.lu.staatenprofil.luxemburg
+content_lang: de
+description: "State: LU, Date: 2025-06-11, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "LU"
 date: "2026-01-01"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -116,7 +118,7 @@ version: "1.0"
 ### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025 | 2050 | 2075 |
-| ------------------------------------- | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- |
 | BIP (Mrd. EUR)                        | 86*  | 110 p | 150 p |
 | Bevölkerung (Mio.)                    | 0.67 | 0.80 p | 0.85 p |
 | Anteil Erneuerbare Energien (%)       | 20.5 | 50 p | 70 p |
@@ -170,6 +172,6 @@ Luxemburg ist ein wohlhabender Kleinstaat im Herzen Europas, der dank seiner sta
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen des Großherzogtums Luxemburg sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 #### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08

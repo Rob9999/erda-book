@@ -1,5 +1,7 @@
 ---
-source: content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/in-staatenprofil-indien.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.in.staatenprofil.indien
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/in-staatenprofil-indien.md
 status: draft
 description: "State: IN, Date: 2025-06-11, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "IN"
@@ -134,7 +136,7 @@ version: "1.0"
 ### 9. Key indicators (short form)
 
 | Indicator                            | 2025 | 2050 | 2075 |
-| ------------------------------------ | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                         | 3,300 | 8,500 (p) | 12,000 (p) |
 | Population                           | 1.46 bn | 1.67 bn | 1.53 bn |
 | Share of renewables (%)              | 20 | 45 (p) | 70 (p) |

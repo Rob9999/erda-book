@@ -1,5 +1,7 @@
 ---
-source: content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/am-staatenprofil-armenien.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.am.staatenprofil.armenien
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/am-staatenprofil-armenien.md
 status: draft
 description: "State: AM, Date: 2025-06-11, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "AM"
@@ -146,7 +148,7 @@ version: "1.0"
 ### 9. Key indicators (short form)
 
 | Indicator                             | 2025 | 2050 | 2075 | EU average 2024 |
-| ------------------------------------- | ---- | ---- | ---- | -------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                          | 22   | 40 (p) | 55 (p) | 16,556 |
 | Population                            | 3.1 m | 2.9 m (p) | 2.7 m (p) | 447 m |
 | Share of renewables (%)               | 38   | 55 (p) | 70 (p) | 37 |

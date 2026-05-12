@@ -1,5 +1,7 @@
 ---
-source: content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/jp-staatenprofil-japan.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.jp.staatenprofil.japan
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/jp-staatenprofil-japan.md
 status: draft
 description: "State: JP, Date: 2025-06-10, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "JP"
@@ -146,7 +148,7 @@ version: "1.0"
 ### 9. Key indicators (short form)
 
 | Indicator                            | 2023 | 2050 | 2075 |
-| ------------------------------------ | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- |
 | GDP (tn USD)                         | 4.2  | 5.5* | 6.0* |
 | Population (million)                 | 124.5 | 104* | 88* |
 | Share of renewables (%)              | 20   | 45*  | 70* |

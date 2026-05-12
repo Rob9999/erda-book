@@ -1,5 +1,7 @@
 ---
-source: content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/ie-staatenprofil-republik-irland.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.ie.staatenprofil.republik.irland
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/ie-staatenprofil-republik-irland.md
 status: draft
 description: "State: IE, Date: 2025-06-10, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "IE"
@@ -98,7 +100,7 @@ version: "1.0"
 * Languages: Irish (Gaeilge) and English; Gaeltacht regions
 * UNESCO World Heritage: Brú na Bóinne, Skellig Michael, Clonmacnoise
 * Creative economy: 3.7% of GDP (Creative Ireland)
-* International visibility: 4 Nobel Prizes in Literature (Beckett, Heaney, et al.), leading film festivals, Rugby Six Nations, Olympic participation
+* International visibility: 4 Nobel Prizes in Literature (Yeats, Shaw, Beckett, Heaney), leading film festivals, Rugby Six Nations, Olympic participation
 * Culture as mediator: European Capitals of Culture Cork 2005, Galway 2020
 
 ***
@@ -140,7 +142,7 @@ Transformation 2050–2075: fully decarbonised system, high automation, mature b
 ### 9. Key indicators (short form)
 
 | Indicator                            | 2025 | 2050 | 2075 |
-| ------------------------------------ | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn USD)                         | 587  | 870  | 1,430 |
 | Population (million)                 | 5.31 | 5.97 | 5.71 |
 | Share of renewables (%)              | 40   | 75   | 90   |

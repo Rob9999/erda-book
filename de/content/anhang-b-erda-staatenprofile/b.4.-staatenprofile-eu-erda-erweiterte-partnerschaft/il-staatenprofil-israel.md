@@ -1,8 +1,10 @@
 ---
-description: "State: IL, Date: 2025-06-11, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.il.staatenprofil.israel
+content_lang: de
+description: "State: IL, Date: 2025-06-11, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "IL"
 date: "2026-01-01"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -143,7 +145,7 @@ version: "1.0"
 ### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025 | 2050 | 2075 | EU-Durchschnitt 2024 (Benchmark) |
-| ------------------------------------- | ---- | ---- | ---- | ------------------------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | BIP (Mrd. EUR)                        | 472 | 750 (p) | 1000 (p) | 16 556 |
 | Bevölkerung                           | 9,8 Mio. | 12 Mio. (p) | 13 Mio. (p) | 447 Mio. |
 | Anteil Erneuerbare Energien (%)       | 10 | 25 (p) | 40 (p) | 37 |
@@ -198,6 +200,6 @@ Israel ist ein hochentwickelter Technologiestaat mit junger, dynamischer Bevölk
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen des Staates Israel sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 #### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08

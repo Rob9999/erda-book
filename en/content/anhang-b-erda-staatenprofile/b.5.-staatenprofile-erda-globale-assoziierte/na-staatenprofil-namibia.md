@@ -1,5 +1,7 @@
 ---
-source: content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/na-staatenprofil-namibia.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.na.staatenprofil.namibia
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/na-staatenprofil-namibia.md
 status: draft
 description: "State: NA, Date: 2025-06-11, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "NA"
@@ -130,7 +132,7 @@ version: "1.0"
 ### 9. Key indicators (short form)
 
 | Indicator                            | 2025 | 2050 | 2075 | EU average 2024 |
-| ------------------------------------ | ---- | ---- | ---- | --------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | GDP (bn USD)                         | 12.4 | 20 (p) | 35 (p) | – |
 | Population                           | 3.0 m | 3.3 m (p) | 3.9 m (p) | – |
 | Share of renewables (%)              | 30% | 50% (p) | 70% (p) | – |

@@ -1,7 +1,9 @@
 ---
+content_id: erda.book.13.strategische.souveranitat.werkzeugkoffer.fur.demokratische.sicherheit.readme
+content_lang: en
+source: de/content/13.-strategische-souveranitat-werkzeugkoffer-fur-demokratische-sicherheit/README.md
+status: in-review
 description: "Chapter 13 – Strategic Sovereignty – Toolbox for Democratic Security"
-source: "../../../de/content/13.-strategische-souveranitat-werkzeugkoffer-fur-demokratische-sicherheit/README.md"
-status: "in-review"
 date: "2026-02-22"
 ---
 
@@ -35,7 +37,7 @@ The democratic states of Europe must secure their capacity to act on **two level
 ## Chapter Structure
 
 | Subchapter | Topic |
-|---|---|
+| ---- | ---- |
 | **13.1** | Core Logic: Overcoming Self-Deterrence – Securing the Capacity to Act |
 | **13.2** | Strategic Objective: Making Aggression Fail |
 | **13.3** | Defence Capability: Air Defence, Ammunition and Industrial Mass |
@@ -43,6 +45,7 @@ The democratic states of Europe must secure their capacity to act on **two level
 | **13.5** | Technological Sovereignty: Redundancy against Single Points of Failure |
 | **13.6** | Hybrid Defence as a Permanent Front: Disinformation, Sabotage, Reflexive Control |
 | **13.7** | Parallel Strategy: Making Europe Defensible – Complement, Not Excuse |
+| **13.8** | Energy Sovereignty: Strategy and Roadmap (2026–2029) |
 
 ***
 

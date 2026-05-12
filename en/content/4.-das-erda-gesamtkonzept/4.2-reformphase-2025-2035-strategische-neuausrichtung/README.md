@@ -1,5 +1,7 @@
 ---
-source: content/4.-das-erda-gesamtkonzept/4.2-reformphase-2025-2035-strategische-neuausrichtung/README.md
+content_id: erda.book.4.das.erda.gesamtkonzept.4.2.reformphase.2025.2035.strategische.neuausrichtung.readme
+content_lang: en
+source: de/content/4.-das-erda-gesamtkonzept/4.2-reformphase-2025-2035-strategische-neuausrichtung/README.md
 status: draft
 ---
 
@@ -36,6 +38,8 @@ This chapter outlines the central transformation phase of the EU towards a capab
   Through digital platforms such as CIVITAS and new participation formats, citizen participation is systematically strengthened and expanded transnationally.
 * **Global democracies as strategic partners.**  
   Democratic states in Latin America, Asia, Africa and Oceania are not only invited but actively integrated into security and innovation partnerships.
+
+![The reform phase as a staged build-up of institutions, protective architecture and democratic legitimacy](../../.gitbook/assets/erda-reform-path-2025-2035.svg)
 
 ***
 

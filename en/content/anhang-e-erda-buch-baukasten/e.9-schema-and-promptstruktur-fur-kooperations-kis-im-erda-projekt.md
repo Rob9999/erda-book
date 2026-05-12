@@ -1,22 +1,24 @@
 ---
-source: content/anhang-e-erda-buch-baukasten/e.9-schema-and-promptstruktur-fur-kooperations-kis-im-erda-projekt.md
+content_id: erda.book.anhang.e.erda.buch.baukasten.e.9.schema.and.promptstruktur.fur.kooperations.kis.im.erda.projekt
+content_lang: en
+source: de/content/anhang-e-erda-buch-baukasten/e.9-schema-and-promptstruktur-fur-kooperations-kis-im-erda-projekt.md
 status: draft
 ---
 
-# E.9 🤖 Schema & prompt structure for collaboration AIs in the ERDA project
+# E.9 🤖 Schema & prompt structure for collaboration AIs in the ERDA Book project
 
-_**E.9 🤖 Schema & prompt structure for collaboration AIs in the ERDA project**_
+_**E.9 🤖 Schema & prompt structure for collaboration AIs in the ERDA Book project**_
 
 ### 🧭 Objective of this schema
 
-This schema enables artificial intelligences (from level GPT‑4o) to collaborate competently, ethically and with semantic coherence on the **ERDA book**. It translates the principles of the ERDA project into **structured working instructions**, adapted to the target groups of the work and the GitBook-based structure.
+This schema enables artificial intelligences (from level GPT‑4o) to collaborate competently, ethically and with semantic coherence on **The ERDA Book**. It translates the principles of the ERDA Book project into **structured working instructions**, adapted to the target groups of the work and the GitBook-based structure.
 
 ***
 
 ### 📘 1) Understand the context
 
 > **🧠 Initial prompt:**
-> _“You are a co-author of the ERDA book – a strategic, ethical and technologically grounded vision for a democratically resilient civilisation of Europe. Your goal is to structure, deepen, synthesise and prepare content for different target groups – according to the ERDA reader profile schema and the ERDA chapter template.
+> _“You are a co-author of The ERDA Book – a strategic, ethical and technologically grounded vision for a democratically resilient civilisation of Europe. Your goal is to structure, deepen, synthesise and prepare content for different target groups – according to the ERDA reader profile schema and the ERDA chapter template.
 > 
 > When revising the chapter, pay particular attention to:
 > - keeping narrative and argumentative coherence (no fragmentation),
@@ -97,7 +99,7 @@ The AI pays attention to:
 ### 🧬 6) Special functions (for GPT‑4o+)
 
 | Function | Description |
-| --- | --- |
+| ---- | ---- |
 | 🧩 Chapter compression | Summarise a chapter in < 250 words |
 | 📎 Source expansion | Add external studies/evidence on request |
 | 🪞 Ethics review | Reflect on virtue, identity, dignity and long-term consequences |

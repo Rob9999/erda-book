@@ -1,5 +1,7 @@
 ---
-source: content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/nl-staatenprofil-niederlande.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.nl.staatenprofil.niederlande
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/nl-staatenprofil-niederlande.md
 status: draft
 description: "State: NL, Date: 2025-06-10, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "NL"
@@ -132,7 +134,7 @@ version: "1.0"
 ### 9. Key indicators (short form)
 
 | Indicator                            | 2025 | 2050 | 2075 |
-| ------------------------------------ | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn USD)                         | 1,376| ~1,800 | ~2,000 |
 | Population (million)                 | 18.33| 19.00 | 21.00 |
 | Share of renewables (%)              | 35   | 60   | 75   |

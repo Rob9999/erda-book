@@ -1,5 +1,7 @@
 ---
-source: content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/ee-staatenprofil-republik-estland.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.ee.staatenprofil.republik.estland
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/ee-staatenprofil-republik-estland.md
 status: draft
 description: "State: EE, Date: 2025-06-10, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "EE"
@@ -148,7 +150,7 @@ version: "1.0"
 ### 9. Key indicators (short form)
 
 | Indicator | 2025 | 2050 | 2075 |
-| --- | --- | --- | --- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn USD) | 45.0 | 58.5¹ | 75.0¹ |
 | Population | 1.369 m | 1.270 m | 1.200 m |
 | Share of renewables (%) | 28% (power) | 60% | 100% |

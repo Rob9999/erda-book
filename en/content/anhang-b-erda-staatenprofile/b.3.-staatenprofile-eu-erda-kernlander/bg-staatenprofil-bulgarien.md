@@ -1,5 +1,7 @@
 ---
-source: content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/bg-staatenprofil-bulgarien.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.bg.staatenprofil.bulgarien
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/bg-staatenprofil-bulgarien.md
 status: draft
 description: "State: BG, Date: 2025-06-11, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "BG"
@@ -137,7 +139,7 @@ version: "1.0"
 ### 9. Key indicators (short form)
 
 | Indicator | 2025 | 2050 | 2075 | EU average 2024 |
-| --- | --- | --- | --- | --- |
+| ---- | ---- | ---- | ---- | ---- |
 | GDP (bn EUR) | 97.5 | 140 (p) | 200 (p) | 16,000 |
 | Population | 6.45 m | 5.5 m (p) | 4.9 m (p) | 448 m |
 | Share of renewable energy (%) | 23% | 55% (p) | 80% (p) | 32% |
@@ -181,7 +183,7 @@ Bulgaria is a Balkan country rich in tradition, an EU member with growing ambiti
    * Sources: World Bank, UN WPP 2022
 2. **AI capacities**  
    * Assumption: computing power doubles every three years (hypothetical)  
-   * Source: <insert source>
+   * Source: Stanford University. 2025. *AI Index Report 2025*; OECD. 2025. *OECD AI Policy Observatory*.
 3. **Infrastructure autonomy**  
    * Goal: 70% renewable energy supply by 2050 (hypothetical)  
    * Data basis: IEA, national energy plans

@@ -1,5 +1,7 @@
 ---
-source: content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/cl-staatenprofil-chile.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.cl.staatenprofil.chile
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/cl-staatenprofil-chile.md
 status: draft
 description: "State: CL, Date: 2025-06-11, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "CL"
@@ -149,7 +151,7 @@ version: "1.0"
 ### 9. Key indicators (short form)
 
 | Indicator                            | 2025 | 2050      | 2075      |
-| ------------------------------------ | ---- | --------- | --------- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                         | 315  | 517 (p)   | 849 (p)   |
 | Population                           | 20 m | 19 m (p)  | 17 m (p)  |
 | Share of renewables (%)              | 35   | 60 (p)    | 80 (p)    |

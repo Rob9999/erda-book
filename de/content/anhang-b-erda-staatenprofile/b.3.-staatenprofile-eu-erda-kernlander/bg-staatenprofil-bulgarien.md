@@ -1,8 +1,10 @@
 ---
-description: "State: BG, Date: 2025-06-11, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.bg.staatenprofil.bulgarien
+content_lang: de
+description: "State: BG, Date: 2025-06-11, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "BG"
 date: "2026-01-01"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -135,7 +137,7 @@ version: "1.0"
 ### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025 | 2050 | 2075 | EU-Durchschnitt 2024 |
-| ------------------------------------- | ---- | ---- | ---- | -------------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | BIP (Mrd. EUR)                        | 97,5 | 140 (p) | 200 (p) | 16.000 |
 | Bevölkerung                           | 6,45 Mio. | 5,5 Mio. (p) | 4,9 Mio. (p) | 448 Mio. |
 | Anteil Erneuerbare Energien (%)       | 23 % | 55 % (p) | 80 % (p) | 32 % |
@@ -180,7 +182,7 @@ Bulgarien ist ein traditionsreiches Balkanland mit EU-Mitgliedschaft und wachsen
 
 2. KI-Kapazitäten
 * Annahme: Rechenleistung verdoppelt sich alle 3 Jahre (hypothetisch: ERDA Scenario Modeling Report 2025)
-* Quelle: <Quelle einfügen>
+* Quelle: Stanford University. 2025. *AI Index Report 2025*; OECD. 2025. *OECD AI Policy Observatory*.
 
 3. Infrastrukturautarkie
 * Ziel: 70 % erneuerbare Energieversorgung bis 2050 (hypothetisch: ERDA Scenario Modeling Report 2025)
@@ -199,6 +201,6 @@ Bulgarien ist ein traditionsreiches Balkanland mit EU-Mitgliedschaft und wachsen
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Bulgarien sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 #### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08

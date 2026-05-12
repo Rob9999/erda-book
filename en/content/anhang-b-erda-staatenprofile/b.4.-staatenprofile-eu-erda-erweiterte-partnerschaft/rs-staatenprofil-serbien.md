@@ -1,5 +1,7 @@
 ---
-source: content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/rs-staatenprofil-serbien.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.rs.staatenprofil.serbien
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/rs-staatenprofil-serbien.md
 status: draft
 description: "State: RS, Date: 2025-06-10, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "RS"
@@ -150,7 +152,7 @@ version: "1.0"
 ### 9. Key indicators (short form)
 
 | Indicator                            | 2025 | 2050 | 2075 | EU average 2024 |
-| ------------------------------------ | ---- | ---- | ---- | --------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                         | 75   | 110 (h) | 150 (h) | 16,600 |
 | Population                           | 6.6 m | 6.0 m (h) | 5.5 m (h) | 447 m |
 | Share of renewables (%)              | 26%[15] | 45% (h) | 65% (h) | 37% |

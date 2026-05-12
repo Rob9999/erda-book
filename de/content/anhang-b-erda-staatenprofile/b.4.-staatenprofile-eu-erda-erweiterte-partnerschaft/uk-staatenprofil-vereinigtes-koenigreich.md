@@ -1,8 +1,10 @@
 ---
-description: "State: UK, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.uk.staatenprofil.vereinigtes.koenigreich
+content_lang: de
+description: "State: UK, Date: 2025-06-10, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "UK"
 date: "2025-06-10"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -145,7 +147,7 @@ version: "1.0"
 ### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator | 2025 | Quelle |
-| --- | --- | --- |
+| ---- | ---- | ---- |
 | Bevölkerung | 67,6 Mio. | ONS |
 | Lebenserwartung | 81,7 Jahre | World Bank |
 | BIP | 2.800 Mrd. EUR | World Bank |
@@ -195,6 +197,6 @@ Das Vereinigte Königreich ist eine traditionsreiche Demokratie mit globaler Rei
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen des Vereinigten Königreichs sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 #### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08

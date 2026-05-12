@@ -1,5 +1,7 @@
 ---
-source: content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/sk-staatenprofil-slowakei.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.sk.staatenprofil.slowakei
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/sk-staatenprofil-slowakei.md
 status: draft
 description: "State: SK, Date: 2025-06-10, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "SK"
@@ -131,7 +133,7 @@ Narrative: 2025–2050 focus on smart manufacturing and education; 2050–2075 b
 ### 9. Key indicators (short form)
 
 | Indicator                             | 2025    | 2050        | 2075        |
-| ------------------------------------- | ------- | ----------- | ----------- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn USD)                          | 118.0   | 184         | 335         |
 | Population                            | 5.47 m  | 4.94 m      | 4.42 m      |
 | Share of renewables (%)               | 45      | 65 (proj.)  | 85 (proj.)  |

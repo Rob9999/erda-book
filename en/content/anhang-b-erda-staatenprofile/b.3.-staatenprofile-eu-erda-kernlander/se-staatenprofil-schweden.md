@@ -1,5 +1,7 @@
 ---
-source: content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/se-staatenprofil-schweden.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.se.staatenprofil.schweden
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/se-staatenprofil-schweden.md
 status: draft
 description: "State: SE, Date: 2025-06-10, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "SE"
@@ -128,7 +130,7 @@ version: "1.0"
 ### 9. Key indicators (short form)
 
 | Indicator                             | 2025      | 2050    | 2075      |
-| ------------------------------------- | --------- | ------- | --------- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                          | 650       | 820     | 890       |
 | Population                            | 10.5 m    | 11 m    | 10.7 m    |
 | Share of renewables (%)               | 65%       | 85%     | 95%       |

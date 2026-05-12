@@ -1,5 +1,7 @@
 ---
-source: content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/nz-staatenprofil-neuseeland.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.nz.staatenprofil.neuseeland
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/nz-staatenprofil-neuseeland.md
 status: draft
 description: "State: NZ, Date: 2025-06-11, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "NZ"
@@ -164,7 +166,7 @@ Technological upgrade of agriculture, sustainable tourism, AI in public administ
 ### 9. Key indicators (short form)
 
 | Indicator                            | 2025 | 2050 (p) | 2075 (p) | EU average 2024 |
-| ------------------------------------ | ---- | -------- | -------- | --------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                         | 230  | 310      | 370      | 16,556 |
 | Population                           | 5.22 m | 5.69 m | 6.02 m | 447 m |
 | Share of renewables (%)              | 40  | 65       | 80       | 37 |

@@ -1,8 +1,10 @@
 ---
-description: "State: MD, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.md.staatenprofil.moldau
+content_lang: de
+description: "State: MD, Date: 2025-06-10, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "MD"
 date: "2025-06-10"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -136,7 +138,7 @@ version: "1.0"
 ### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator | 2025 | 2050 | 2075 | EU-Durchschnitt 2024 (Benchmark) |
-| --- | --- | --- | --- | --- |
+| ---- | ---- | ---- | ---- | ---- |
 | BIP (Mrd. EUR) | 15 | 25 (p) | 35 (p) | 18 000 |
 | Bevölkerung (Mio.) | 2,6 | 2,2 (p) | 1,9 (p) | 448 |
 | Anteil Erneuerbare Energien (%) | 25 | 40 (p) | 60 (p) | 45 |
@@ -196,7 +198,7 @@ Moldau befindet sich in einem tiefgreifenden Transformationsprozess. Als EU-Beit
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Moldau sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 #### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 

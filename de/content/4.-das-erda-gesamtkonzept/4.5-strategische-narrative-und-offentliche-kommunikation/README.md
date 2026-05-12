@@ -1,3 +1,7 @@
+---
+content_id: erda.book.4.das.erda.gesamtkonzept.4.5.strategische.narrative.und.offentliche.kommunikation.readme
+content_lang: de
+---
 # 4.5 Strategische Narrative & öffentliche Kommunikation
 
 _**Strategische Narrative & öffentliche Kommunikation**_

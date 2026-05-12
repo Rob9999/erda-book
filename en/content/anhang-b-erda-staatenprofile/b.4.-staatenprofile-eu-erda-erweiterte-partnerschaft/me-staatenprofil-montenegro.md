@@ -1,5 +1,7 @@
 ---
-source: content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/me-staatenprofil-montenegro.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.me.staatenprofil.montenegro
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/me-staatenprofil-montenegro.md
 status: draft
 description: "State: ME, Date: 2025-06-10, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "ME"
@@ -141,7 +143,7 @@ version: "1.0"
 ### 9. Key indicators (short form)
 
 | Indicator                             | 2025 | 2050 (p) | 2075 (p) | EU avg 2024 |
-| ------------------------------------- | ---- | -------- | -------- | ----------- |
+| ---- | ---- | ---- | ---- | ---- |
 | GDP (bn USD)                          | 7.5  | 11       | 15       | 18,000 |
 | Population (million)                  | 0.62 | 0.59     | 0.57     | 447 |
 | Share of renewables (%)               | 55   | 70       | 80       | 45 |

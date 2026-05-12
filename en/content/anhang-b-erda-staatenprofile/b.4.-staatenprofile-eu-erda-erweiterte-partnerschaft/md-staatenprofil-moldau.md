@@ -1,5 +1,7 @@
 ---
-source: content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/md-staatenprofil-moldau.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.md.staatenprofil.moldau
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/md-staatenprofil-moldau.md
 status: draft
 description: "State: MD, Date: 2025-06-10, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "MD"
@@ -130,7 +132,7 @@ version: "1.0"
 ### 9. Key indicators (short form)
 
 | Indicator                             | 2025 | 2050 (p) | 2075 (p) | EU avg 2024 |
-| ------------------------------------- | ---- | -------- | -------- | ---------- |
+| ---- | ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                          | 15   | 25       | 35       | 18,000 |
 | Population (million)                  | 2.6  | 2.2      | 1.9      | 448 |
 | Share of renewables (%)               | 25   | 40       | 60       | 45 |

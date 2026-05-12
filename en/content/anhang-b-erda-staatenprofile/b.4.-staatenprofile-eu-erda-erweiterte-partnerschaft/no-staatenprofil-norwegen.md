@@ -1,5 +1,7 @@
 ---
-source: content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/no-staatenprofil-norwegen.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.no.staatenprofil.norwegen
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/no-staatenprofil-norwegen.md
 status: draft
 description: "State: NO, Date: 2025-06-10, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "NO"
@@ -113,7 +115,7 @@ version: "1.0"
 ### 9. Key indicators (short form)
 
 | Indicator | Value | Source |
-| --- | --- | --- |
+| ---- | ---- | ---- |
 | Population 2023 | 5,519,594 | World Bank |
 | Life expectancy 2023 | 83.1 years | World Bank |
 | GDP per capita 2023 | 87,925 USD | World Bank |

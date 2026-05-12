@@ -1,3 +1,7 @@
+---
+content_id: erda.book.anhang.d.executive.compendium.fur.entscheidungstrager.d.5.strategiepapier.europa.resilient.gegen.russlands.kriegslogik
+content_lang: de
+---
 # D.5 Strategiepapier: Europa resilient gegen Russlands Kriegslogik („Verhandeln als Kriegsinstrument“)
 
 Dieses Strategiepapier verdichtet eine resiliente Handlungslogik für demokratische Staaten Europas im Umgang mit autoritärer Aggression, die **Verhandlungen** als Teil ihrer Kriegsführung nutzt (Zeitgewinn, Maximalforderungen, Spaltung, Schuldumkehr).

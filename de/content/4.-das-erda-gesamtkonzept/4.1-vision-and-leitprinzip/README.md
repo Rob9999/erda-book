@@ -1,3 +1,7 @@
+---
+content_id: erda.book.4.das.erda.gesamtkonzept.4.1.vision.and.leitprinzip.readme
+content_lang: de
+---
 # 4.1 Vision & Leitprinzip
 
 _**Vision & Leitprinzip**_

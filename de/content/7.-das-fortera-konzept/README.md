@@ -1,3 +1,7 @@
+---
+content_id: erda.book.7.das.fortera.konzept.readme
+content_lang: de
+---
 # 7. Das FORTERA Konzept
 
 _**FORTERA – Die strategische Wirtschaftsarchitektur für ein demokratisches Europa - Wirtschaftliche Souveränität & globale Demokratiepartnerschaft**_

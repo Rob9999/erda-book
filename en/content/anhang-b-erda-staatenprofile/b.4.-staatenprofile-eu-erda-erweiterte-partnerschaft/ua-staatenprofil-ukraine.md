@@ -1,5 +1,7 @@
 ---
-source: content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/ua-staatenprofil-ukraine.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.ua.staatenprofil.ukraine
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/ua-staatenprofil-ukraine.md
 status: draft
 description: "State: UA, Date: 2025-06-08, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: None"
 country: "UA"
@@ -156,7 +158,7 @@ _"Ukraine proves how determination and international solidarity can reinforce an
 ### 9. Key indicators (short form)
 
 | Indicator                            | 2025 | 2050 | 2075 |
-| ------------------------------------ | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                         | 200  | 450  | 700  |
 | Population (million)                 | 37   | 45   | 48   |
 | Share of renewables (%)              | 25   | 50   | 70   |

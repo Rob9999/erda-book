@@ -1,5 +1,7 @@
 ---
-source: content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/lt-staatenprofil-republik-litauen.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.lt.staatenprofil.republik.litauen
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/lt-staatenprofil-republik-litauen.md
 status: draft
 description: "State: LT, Date: 2025-06-10, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "LT"
@@ -141,7 +143,7 @@ Transformation 2050–2075: full decarbonisation, automated agriculture, regiona
 ### 9. Key indicators (short form)
 
 | Indicator                            | 2025 | 2050 | 2075 |
-| ------------------------------------ | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                         | 77.94| 95.0 | 130.0 |
 | Population (million)                 | 2.83 | 2.26 | 1.90 |
 | Share of renewables (power, %)       | 46   | 65   | 90    |

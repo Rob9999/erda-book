@@ -1,5 +1,7 @@
 ---
-source: content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/tw-staatenprofil-taiwan.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.5.staatenprofile.erda.globale.assoziierte.tw.staatenprofil.taiwan
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.5.-staatenprofile-erda-globale-assoziierte/tw-staatenprofil-taiwan.md
 status: draft
 description: "State: TW, Date: 2025-06-11, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "TW"
@@ -149,7 +151,7 @@ version: "1.0"
 ### 9. Key indicators (short form)
 
 | Indicator | 2025 | 2050 | 2075 | EU average 2024 |
-| --- | --- | --- | --- | --- |
+| ---- | ---- | ---- | ---- | ---- |
 | GDP (bn USD) | 960 | 1,400 (hyp.) | 1,800 (hyp.) | n/a |
 | Population | 23.3 m | 20 m (hyp.) | 18 m (hyp.) | n/a |
 | Share of renewables (%) | 20 | 40 (hyp.) | 60 (hyp.) | n/a |

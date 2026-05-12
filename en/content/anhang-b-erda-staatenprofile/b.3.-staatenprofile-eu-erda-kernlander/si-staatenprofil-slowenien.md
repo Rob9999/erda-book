@@ -1,5 +1,7 @@
 ---
-source: content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/si-staatenprofil-slowenien.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.si.staatenprofil.slowenien
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/si-staatenprofil-slowenien.md
 status: draft
 description: "State: SI, Date: 2025-06-10, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "SI"
@@ -141,7 +143,7 @@ version: "1.0"
 ### 9. Key indicators (short form)
 
 | Indicator                             | 2025   | 2050   | 2075   |
-| ------------------------------------- | ------ | ------ | ------ |
+| ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                          | 63     | 95     | 135    |
 | Population                            | 2.12 m | 2.05 m | 1.95 m |
 | Share of renewables (%)               | 36%    | 58%    | 83%    |

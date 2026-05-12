@@ -1,3 +1,7 @@
+---
+content_id: erda.book.5.das.eda.konzept.5.10.nukleare.abschreckung.und.strategische.autonomie.readme
+content_lang: de
+---
 # 5.10 Nukleare Abschreckung und strategische Autonomie
 
 _**Strategische nukleare Abschreckungsfähigkeit**_

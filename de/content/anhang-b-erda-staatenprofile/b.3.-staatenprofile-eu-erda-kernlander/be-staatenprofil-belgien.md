@@ -1,8 +1,10 @@
 ---
-description: "State: BE, Date: 2025-05-28, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.be.staatenprofil.belgien
+content_lang: de
+description: "State: BE, Date: 2025-05-28, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "BE"
 date: "2025-05-28"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -119,7 +121,7 @@ version: "1.0"
 ### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                                                                                      | 2025  | 2050  | 2075  |
-| ---------------------------------------------------------------------------------------------- | ----- | ----- | ----- |
+| ---- | ---- | ---- | ---- |
 | [BIP (Mrd. EUR)](https://ec.europa.eu/eurostat/databrowser/view/tec00115/default/table)        | 131,5 | 175,0 | 260,0 |
 | [Bevölkerung (Mio.)](https://population.un.org/wpp/downloads)                                  | 11,81 | 11,87 | 11,42 |
 | [Erneuerbare Energie (%)](https://www.iea.org)                                                 | 18    | 45    | 75    |
@@ -258,6 +260,6 @@ _"Belgien ist im Jahr 2075 ein führender Cyber- und Kulturhub innerhalb der ERD
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen des Königreichs Belgien sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 #### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08

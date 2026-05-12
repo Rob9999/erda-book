@@ -1,6 +1,8 @@
 ---
-source: ../../../de/content/11.-das-burger-konzept/README.md
-status: "in-review"
+content_id: erda.book.11.das.burger.konzept.readme
+content_lang: en
+source: de/content/11.-das-burger-konzept/README.md
+status: in-review
 ---
 
 # 11. The Citizen Concept

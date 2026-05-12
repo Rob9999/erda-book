@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="820" viewBox="0 0 1400 820" role="img" aria-labelledby="title desc">
+  <title id="title">Reformpfad 2025-2035</title>
+  <desc id="desc">Vier Meilensteine der ERDA-Reformphase: Reformdialog, föderale Module, institutioneller Aufbau und Zielbild 2035.</desc>
+  <defs>
+    <style>
+      .bg{fill:#f7f9fc}.ink{fill:#14324a}.muted{fill:#40566a}.white{fill:#fff}.line{stroke:#14324a;stroke-width:5;fill:none}.arrow{stroke:#6f8294;stroke-width:5;fill:none;marker-end:url(#arrow)}
+      .title{font:700 48px 'DejaVu Sans',Arial,sans-serif}.sub{font:400 26px 'DejaVu Sans',Arial,sans-serif}.year{font:700 40px 'DejaVu Sans',Arial,sans-serif}.cardTitle{font:700 31px 'DejaVu Sans',Arial,sans-serif}.item{font:400 27px 'DejaVu Sans',Arial,sans-serif}.footerTitle{font:700 29px 'DejaVu Sans',Arial,sans-serif}.footer{font:400 26px 'DejaVu Sans',Arial,sans-serif}
+      .card{fill:#fff;stroke:#cfd8e3;stroke-width:3}.c1{fill:#ffffff;stroke:#14324a}.c2{fill:#e6f2f3;stroke:#1f777b}.c3{fill:#f8efd9;stroke:#c99d42}.c4{fill:#14324a;stroke:#14324a}.chip1{fill:#14324a}.chip2{fill:#1f777b}.chip3{fill:#c99d42}.panel{fill:#ffffff;stroke:#cfd8e3;stroke-width:3}
+    </style>
+    <marker id="arrow" markerWidth="14" markerHeight="14" refX="12" refY="7" orient="auto"><path d="M2,2 L12,7 L2,12 Z" fill="#6f8294"/></marker>
+  </defs>
+  <rect class="bg" width="1400" height="820" rx="24"/>
+  <text class="title ink" x="70" y="78">Reformpfad 2025-2035</text>
+  <text class="sub muted" x="70" y="116">Institutionen, Schutzarchitektur und Legitimation werden parallel aufgebaut.</text>
+  <line class="line" x1="120" y1="170" x2="1280" y2="170"/>
+
+  <g transform="translate(80 210)">
+    <rect class="card c1" width="285" height="365" rx="18"/>
+    <rect class="chip1" width="285" height="76" rx="18"/>
+    <text class="year white" x="142" y="52" text-anchor="middle">2025</text>
+    <text class="cardTitle ink" x="30" y="125">Reformdialog</text>
+    <text class="item muted" x="30" y="180">EU und Staaten</text>
+    <text class="item muted" x="30" y="230">CIVITAS-Piloten</text>
+    <text class="item muted" x="30" y="280">Problemklarheit</text>
+  </g>
+  <path class="arrow" d="M375 392 H420"/>
+
+  <g transform="translate(420 210)">
+    <rect class="card c2" width="285" height="365" rx="18"/>
+    <rect class="chip2" width="285" height="76" rx="18"/>
+    <text class="year white" x="142" y="52" text-anchor="middle">2027</text>
+    <text class="cardTitle ink" x="30" y="125">Module</text>
+    <text class="item muted" x="30" y="180">Opt-in statt Veto</text>
+    <text class="item muted" x="30" y="230">EDA/EVA-Start</text>
+    <text class="item muted" x="30" y="280">QMV-Kernfelder</text>
+  </g>
+  <path class="arrow" d="M715 392 H760"/>
+
+  <g transform="translate(760 210)">
+    <rect class="card c3" width="285" height="365" rx="18"/>
+    <rect class="chip3" width="285" height="76" rx="18"/>
+    <text class="year white" x="142" y="52" text-anchor="middle">2030</text>
+    <text class="cardTitle ink" x="30" y="125">Aufbau</text>
+    <text class="item muted" x="30" y="180">Konvent</text>
+    <text class="item muted" x="30" y="230">DSN/Cyber</text>
+    <text class="item muted" x="30" y="280">FORTERA</text>
+  </g>
+  <path class="arrow" d="M1055 392 H1100"/>
+
+  <g transform="translate(1100 210)">
+    <rect class="card c4" width="220" height="365" rx="18"/>
+    <text class="year white" x="110" y="58" text-anchor="middle">2035</text>
+    <text class="cardTitle white" x="30" y="125">Zielbild</text>
+    <text class="item white" x="30" y="180">handlungsfähig</text>
+    <text class="item white" x="30" y="230">kontrolliert</text>
+    <text class="item white" x="30" y="280">nicht erpressbar</text>
+  </g>
+
+  <g transform="translate(150 635)">
+    <rect class="panel" width="1100" height="110" rx="18"/>
+    <text class="footerTitle ink" x="40" y="46">Leitlogik</text>
+    <text class="footer muted" x="220" y="46">Legitimation zuerst</text>
+    <text class="footer muted" x="500" y="46">Handlungsfähigkeit danach</text>
+    <text class="footer muted" x="865" y="46">Kontrolle dauerhaft</text>
+    <text class="footer muted" x="40" y="86">Jeder Schritt bleibt opt-in, rechtsgebunden und demokratisch überprüfbar.</text>
+  </g>
+</svg>

@@ -1,3 +1,7 @@
+---
+content_id: erda.book.anhang.d.executive.compendium.fur.entscheidungstrager.readme
+content_lang: de
+---
 # Anhang D - Executive Compendium für Entscheidungsträger
 
 ## _Executive Summary Compendium_
@@ -131,16 +135,16 @@ Ein Europa, das im Handel integriert ist, aber in Verteidigung, Außenpolitik un
 
 ## 📘 Executive Compendium für Entscheidungsträger
 
-_Ergänzendes Dokument zum ERDA-Buch: „Strategie, Ethik und Zukunft Europas – Vom demokratischen Rechtsstaat zur resilienten Zivilisation“_
+_Ergänzendes Dokument zum ERDA-Buch: „Strategie, Ethik und Zukunft Europas – Vom demokratischen Rechtsstaat zur resilienten Zivilisation“_
 
 ***
 
 ### 🌍 Zielsetzung des Compendiums
 
-Dieses Dokument bietet politischen Entscheidungsträgern, Institutionen, KI-Systemen und strategischen Partnern eine verdichtete Übersicht über die Kernaussagen, politischen Handlungsempfehlungen und zivilisatorischen Chancen aller zentralen Kapitel des ERDA-Buchs. Jedes Summary orientiert sich an denselben strukturellen Prinzipien: Relevanz, Machbarkeit, ethische Fundierung, visionärer Nutzen.
+Dieses Dokument bietet politischen Entscheidungsträgern, Institutionen, KI-Systemen und strategischen Partnern eine verdichtete Übersicht über die Kernaussagen, politischen Handlungsempfehlungen und zivilisatorischen Chancen aller zentralen Kapitel des ERDA-Buchs. Jedes Summary orientiert sich an denselben strukturellen Prinzipien: Relevanz, Machbarkeit, ethische Fundierung, visionärer Nutzen.
 
 ***
 
 ***
 
-> _Weitere Executive Summaries werden fortlaufend ergänzt._
+> _Stand dieser Ausgabe: Die Blocks A bis D sind enthalten. Weitere Executive Summaries werden erst nach redaktioneller Freigabe in späteren Releases ergänzt._

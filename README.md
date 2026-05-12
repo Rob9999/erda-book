@@ -2,22 +2,22 @@
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/Content-CC%20BY--SA%204.0-lightgrey.svg)](LICENSE)
 [![License: MIT](https://img.shields.io/badge/Code-MIT-blue.svg)](LICENSE-CODE)
-[![Version](https://img.shields.io/badge/version-v2.0.0-green.svg)](https://github.com/Rob9999/erda-book/releases/tag/v2.0.0)
+[![Version](https://img.shields.io/badge/version-v2.5.0-brightgreen.svg)](https://github.com/Rob9999/erda-book/releases/tag/v2.5.0)
 
-**Current version:** v2.0.0  
-**As of (date):** 2026-03-01  
-**Channel:** release_candidate (pre-release)  
-**Codename / Release name:** Human AI Democrazy
+**Current version:** v2.5.0
+**As of (date):** 2026-05-12
+**Channel:** release_candidate (final v2.5.0 preparation; stable channel after merge/tag: main)
+**Codename / Release name:** Democratic Knowledge
 
-**Multi-language democratic resilience framework**  
-🇩🇪 Deutsche Fassung: [`de/`](de/publish/das-erda-buch.pdf)  
+**Multi-language democratic resilience framework**
+🇩🇪 Deutsche Fassung: [`de/`](de/publish/das-erda-buch.pdf)
 🇬🇧 English version: [`en/`](en/publish/the-erda-book.pdf)
 
 **Sprungmarken / Jump links:** 🇩🇪 [Deutsch](#de) | 🇬🇧 [English](#en)
 
 - 🇩🇪 [Deutsch](#de)
   - [Was ist das ERDA Buch?](#de-was-ist)
-  - [Aktuelles Release (v2.0.0)](#de-release)
+   - [Aktuelles Release (v2.5.0)](#de-release)
   - [Lizenz](#de-lizenz)
   - [Zitierung](#de-zitierung)
   - [Attribution und Lizenzierung](#de-attribution)
@@ -25,7 +25,7 @@
   - [Tooling & Build](#de-tooling)
 - 🇬🇧 [English](#en)
   - [What is the ERDA Book?](#en-what-is)
-  - [Current release (v2.0.0)](#en-release)
+   - [Current release (v2.5.0)](#en-release)
   - [Licence](#en-licence)
   - [Citation](#en-citation)
   - [Attribution and licensing](#en-attribution)
@@ -73,7 +73,20 @@ Es verbindet dabei:
 Gemeint sind Modelle, die langfristig funktionieren, weil sie **Anreize**, **Kontrollmechanismen** und **gesellschaftliche Tragfähigkeit** zusammendenken – statt nur Idealbilder zu formulieren.
 
 <a id="de-release"></a>
-### Aktuelles Release (v2.0.0) – 1. März 2026
+### Aktuelles Release (v2.5.0) – 11. Mai 2026
+
+> Dieses Release vertieft die normativen Grundlagen des ERDA-Buches. Im Zentrum steht das „Demokratische Wissen" – sieben Prinzipien als Leitfaden für demokratische Handlungsfähigkeit.
+
+**Neue Inhalte:**
+- 📜 **„Demokratisches Wissen"** – Sieben Prinzipien zu Macht, Umgang mit nicht-demokratiewilligen Staaten, Frieden und Sicherheit, Wahrheit und Täuschung, Demokratie, Technologie/KI und der inneren Verfassung.
+- 🏛️ **CIVITAS Public / Anhang P.2** – veröffentlichtes Working Paper zur europäischen digitalen Agora; Kapitel 6 wurde als operative CIVITAS-Architektur mit Governance, Technik, Rechtsschutz und Roadmap vertieft.
+- 📏 **Anhang M / Anhang P** – messbarer Buchprojektmaßstab und Paper-Anhang mit DOI-/APA-Pflicht für veröffentlichte ERDA-Papers.
+- ✍️ **Redaktionelle Qualitätsoffensive** – README-Abschnitte in professionellem redaktionellem Ton.
+
+Details: [`release-docs/v2.5.0/`](release-docs/v2.5.0/)
+
+<details>
+<summary>Vorheriges Release: v2.0.0 – 1. März 2026</summary>
 
 > Dieses Release transformiert das ERDA-Buch von einem konzeptionellen Entwurf zu einem umfassenden Governance-Rahmenwerk mit konkreter Vertrags- und Bündnisarchitektur.
 
@@ -95,6 +108,8 @@ Weitere Neuerungen:
 
 Details: [`release-docs/v2.0.0/`](release-docs/v2.0.0/)
 
+</details>
+
 ### Beiträge und Qualität
 
 Das ERDA-Buch versteht sich als **lebendiges Dokument demokratischer Resilienz** – es lebt von der fachkundigen Mitwirkung aus Zivilgesellschaft, Wissenschaft, Politik und Praxis. Beiträge sind daher nicht nur willkommen, sondern ausdrücklich erwünscht.
@@ -103,6 +118,7 @@ Das ERDA-Buch versteht sich als **lebendiges Dokument demokratischer Resilienz**
 
 - **Qualitätsanspruch:** Jeder Beitrag sollte den analytischen Maßstäben des Projekts gerecht werden – sachlich fundiert, quellentransparent und konstruktiv im Sinne demokratischer Handlungsfähigkeit.
 - **Verbindliche Regeln:** Bitte die Richtlinien in [`AGENTS.md`](AGENTS.md) beachten – insbesondere DCO-Sign-off, Lizenz- und Attributionspflichten sowie die DE↔EN-Synchronisation bei inhaltlichen Änderungen.
+- **Rollen & Verantwortlichkeiten:** Writer, Editor, Lektor, Redakteur und Publisher sind in [`worker-roles.md`](worker-roles.md) mit Rechten, Pflichten und Freigabegrenzen definiert.
 - **Peer-Review-Prinzip:** Inhaltliche Änderungen durchlaufen ein Review, um Konsistenz, fachliche Korrektheit und Übersetzungssynchronität sicherzustellen.
 
 > **Rechtlicher Hinweis:** Alle Inhalte werden „as is" und ohne Gewähr bereitgestellt. Das ERDA-Buch stellt keine Rechts-, Steuer- oder sonstige professionelle Beratung dar.
@@ -224,7 +240,20 @@ It combines:
 It refers to models that remain viable long-term because they align **incentives**, **control mechanisms**, and **social sustainability**, instead of only describing ideals.
 
 <a id="en-release"></a>
-### Current release (v2.0.0) – 1 March 2026
+### Current release (v2.5.0) – 11 May 2026
+
+> This release deepens the normative foundations of the ERDA Book. At its centre is "Democratic Knowledge" – seven principles serving as a guide for democratic agency.
+
+**New content:**
+- 📜 **"Democratic Knowledge"** – Seven principles on power, dealing with non-democracy-willing states, peace and security, truth and deception, democracy, technology/AI, and the inner condition.
+- 🏛️ **CIVITAS Public / Appendix P.2** – published working paper on a European digital agora; Chapter 6 was deepened as an operational CIVITAS architecture with governance, technology, legal safeguards and roadmap.
+- 📏 **Appendix M / Appendix P** – measurable book-project yardstick and paper appendix with DOI/APA requirements for published ERDA papers.
+- ✍️ **Editorial quality initiative** – README sections rewritten in a professional editorial voice.
+
+Details: [`release-docs/v2.5.0/`](release-docs/v2.5.0/)
+
+<details>
+<summary>Previous release: v2.0.0 – 1 March 2026</summary>
 
 > This release transforms the ERDA book from a conceptual draft into a comprehensive governance framework with a concrete treaty and alliance architecture.
 
@@ -246,6 +275,8 @@ Further additions:
 
 Details: [`release-docs/v2.0.0/`](release-docs/v2.0.0/)
 
+</details>
+
 ### Contributions and quality
 
 The ERDA Book sees itself as a **living document of democratic resilience** – it thrives on expert contributions from civil society, academia, policy-making, and practice. Contributions are therefore not merely welcome but actively encouraged.
@@ -254,6 +285,7 @@ The ERDA Book sees itself as a **living document of democratic resilience** – 
 
 - **Quality standards:** Every contribution should meet the project's analytical expectations – well-founded, source-transparent, and constructive in the service of democratic agency.
 - **Binding rules:** Please observe the guidelines in [`AGENTS.md`](AGENTS.md) – in particular DCO sign-off, licensing and attribution duties, and DE↔EN synchronisation for content changes.
+- **Roles & responsibilities:** Writer, Editor, Lektor, Redakteur and Publisher are defined in [`worker-roles.md`](worker-roles.md), including rights, duties and approval boundaries.
 - **Peer-review principle:** Content changes undergo review to ensure consistency, factual accuracy, and translation synchronisation.
 
 > **Legal notice:** All content is provided "as is" and without warranty. The ERDA Book does not constitute legal, tax, or any other form of professional advice.

@@ -1,3 +1,7 @@
+---
+content_id: erda.book.8.das.arktis.konzept.readme
+content_lang: de
+---
 # 8. Das ARKTIS Konzept
 
 _**🧭 Zukunft Arktis – Ein demokratischer Plan für strategische Resilienz, Ressourcengerechtigkeit und planetare Verantwortung**_
@@ -29,6 +33,18 @@ Entwicklung einer nachhaltigen, demokratischen Arktisstrategie, die geopolitisch
 **🌍 Visionärer Nutzen**\
 Eine demokratische Arktisstrategie positioniert Europa als Vorreiter einer verantwortlichen und gerechten globalen Ressourcenpolitik.
 
+_Hinweis zur Lesart:_ Das Hauptkapitel entwickelt Codex, Ausgangslage, strategische Säulen und Umsetzung (8.1–8.4). Vier ergänzende Anhänge wenden das Konzept auf konkrete Stresstests an: **Anhang 8.A** Grönland, **Anhang 8.B** Spitzbergen, **Anhang 8.C** Unterseekabel, **Anhang 8.D** Permafrost-Methan.
+
 ### _Glossar (Auszug, ERDA-spezifisch)_
 
-<table><thead><tr><th width="201.20001220703125">Begriff</th><th>Bedeutung</th></tr></thead><tbody><tr><td><strong>DSN</strong></td><td>Defense Sovereignty Node – autonome, regionale Verteidigungseinheit der EDA</td></tr><tr><td><strong>EDA</strong></td><td>European Defense Alliance – sicherheitspolitisches Rückgrat der ERDA</td></tr><tr><td><strong>ERDA</strong></td><td>European Rights-Based Democratic Alliance: Zukunftsorientierte Weiterentwicklung der heutigen EU zu einer föderalen Demokratieallianz mit gemeinsamer Verfassung, strategischer Souveränität, digitaler Teilhabe und globaler Verantwortung – jenseits der aktuellen Grenzen und Blockaden der Union.</td></tr><tr><td><strong>FORTERA</strong></td><td>Strategische Wirtschaftsarchitektur der ERDA für resiliente und faire Produktion</td></tr><tr><td><strong>CIVITAS</strong></td><td>Digitale Agora für demokratische Beteiligung und Transparenz in der ERDA</td></tr><tr><td><strong>IRIS²</strong></td><td>Europäisches Satellitensystem für sichere Kommunikation und Erdbeobachtung</td></tr><tr><td><strong>Arctic Democracy Mining Act</strong></td><td>Demokratisch reguliertes Rohstoffgesetz für arktische Regionen mit Umweltbindung</td></tr><tr><td><strong>Arctic Commons Charter</strong></td><td>Verfassungsbeilage zur nicht-ausbeuterischen Nutzung gemeinsamer arktischer Räume</td></tr><tr><td><strong>Arctic Resilience Observatory</strong></td><td>Daten-, Forschungs- und Frühwarnplattform zur Klimastabilität in der Arktis</td></tr></tbody></table>
+| Begriff | Bedeutung |
+| --- | --- |
+| **DSN** | Defense Sovereignty Node – autonome, regionale Verteidigungseinheit der EDA |
+| **EDA** | European Defense Alliance – sicherheitspolitisches Rückgrat der ERDA |
+| **ERDA** | European Rights-Based Democratic Alliance: Zukunftsorientierte Weiterentwicklung der heutigen EU zu einer föderalen Demokratieallianz mit gemeinsamer Verfassung, strategischer Souveränität, digitaler Teilhabe und globaler Verantwortung – jenseits der aktuellen Grenzen und Blockaden der Union. |
+| **FORTERA** | Strategische Wirtschaftsarchitektur der ERDA für resiliente und faire Produktion |
+| **CIVITAS** | Digitale Agora für demokratische Beteiligung und Transparenz in der ERDA |
+| **IRIS²** | Europäisches Satellitensystem für sichere Kommunikation und Erdbeobachtung |
+| **Arctic Democracy Mining Act** | Demokratisch reguliertes Rohstoffgesetz für arktische Regionen mit Umweltbindung |
+| **Arctic Commons Charter** | Verfassungsbeilage zur nicht-ausbeuterischen Nutzung gemeinsamer arktischer Räume |
+| **Arctic Resilience Observatory** | Daten-, Forschungs- und Frühwarnplattform zur Klimastabilität in der Arktis |

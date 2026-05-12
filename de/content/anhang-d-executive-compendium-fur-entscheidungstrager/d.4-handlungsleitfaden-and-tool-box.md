@@ -1,6 +1,10 @@
+---
+content_id: erda.book.anhang.d.executive.compendium.fur.entscheidungstrager.d.4.handlungsleitfaden.and.tool.box
+content_lang: de
+---
 # D.4 Handlungsleitfäden & Tool‑Box
 
-Dieser Abschnitt bündelt die operativen Abkürzungen für Entscheidungsträger:innen. Er verknüpft die Kapitel 5–14 mit den Werkstattmaterialien aus **Anhang E (ERDA Buch Baukasten)** und liefert einen klaren Einstieg in Pilotierungen, Skalierung und Qualitätskontrolle.
+Dieser Abschnitt bündelt die operativen Abkürzungen für Entscheidungsträger:innen. Er verknüpft die Kapitel 5–14 mit den Werkstattmaterialien aus **Anhang E (ERDA-Buch-Baukasten)** und liefert einen klaren Einstieg in Pilotierungen, Skalierung und Qualitätskontrolle.
 
 ***
 
@@ -64,7 +68,7 @@ Dieser Abschnitt bündelt die operativen Abkürzungen für Entscheidungsträger:
 ## 📎 Direktzugriffe auf Werkzeuge (Auswahl)
 
 | Bereich | Werkzeug | Zweck |
-| --- | --- | --- |
+| ---- | ---- | ---- |
 | Strategie & Kommunikation | `erda-gitbook-kapitel-template.md` | Einheitlicher Aufbau neuer Kapitel, Change-Story. |
 | Beteiligung & Bildung | `interaktive-elemente-checkliste-and-quiz.md` | Planungsgrundlage für Workshops, Lernmodule, Bürgerdialoge. |
 | Qualitätssicherung | `rollenspiel-qualitatssicherungstemplate.md` | Simulation politischer Szenarien, Krisenresilienz trainieren. |

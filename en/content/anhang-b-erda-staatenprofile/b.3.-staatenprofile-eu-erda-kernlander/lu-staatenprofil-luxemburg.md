@@ -1,5 +1,7 @@
 ---
-source: content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/lu-staatenprofil-luxemburg.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.lu.staatenprofil.luxemburg
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/lu-staatenprofil-luxemburg.md
 status: draft
 description: "State: LU, Date: 2025-06-11, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "LU"
@@ -115,7 +117,7 @@ version: "1.0"
 ### 9. Key indicators
 
 | Indicator                            | 2025 | 2050 | 2075 |
-| ------------------------------------ | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                         | 86*  | 110ᵖ | 150ᵖ |
 | Population (million)                 | 0.67 | 0.80ᵖ | 0.85ᵖ |
 | Share of renewables (%)              | 20.5 | 50ᵖ  | 70ᵖ  |

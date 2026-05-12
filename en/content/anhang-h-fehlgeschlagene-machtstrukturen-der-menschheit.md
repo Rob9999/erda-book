@@ -1,5 +1,7 @@
 ---
-source: content/anhang-h-fehlgeschlagene-machtstrukturen-der-menschheit.md
+content_id: erda.book.anhang.h.fehlgeschlagene.machtstrukturen.der.menschheit
+content_lang: en
+source: de/content/anhang-h-fehlgeschlagene-machtstrukturen-der-menschheit.md
 status: draft
 ---
 
@@ -11,10 +13,16 @@ _**Failed Power Structures of Humanity**_
 
 Human history shows a multitude of political and social power structures whose existence must always be measured against one elementary goal of life: life itself. Enabling, fostering, and protecting life is ethically fundamental and evolutionarily self‑evident. Conversely, structures that damage or even destroy life are necessarily failed, because they violate the very purpose of existence. The following essay explains these life‑damaging power structures, presents them in an overview table, and outlines possible measures for their short‑ and long‑term overcoming.
 
+### H.1.1 Moral test for failed power
+
+A power structure does not fail only when it loses militarily or becomes economically inefficient. It fails morally as soon as it systematically turns people into mere means: subjects, labouring bodies, data points, recruits, enemy images, hostages, spectators or interchangeable cost items. The democratic counter-design binds power to law, truth, accountability and human dignity. It protects the weak not out of sentimentality, but because the treatment of the most vulnerable shows whether an order truly takes freedom seriously.
+
+The critique in this appendix is therefore directed at power logics, not at whole populations. Imperial, authoritarian or terrorist systems can make people tools, followers and victims at the same time. ERDA must preserve this distinction: clear defence against life-hostile structures, but no dehumanisation of the people living within them.
+
 ## H.2 Overview of Central Power Structures
 
 | Power structure          | Brief description                                   | Current examples (2025)                                | Measures for remediation                                                                                                    |
-| ------------------------ | --------------------------------------------------- | ------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------- |
+| ---- | ---- | ---- | ---- |
 | Totalitarianism          | Total control of all areas of life                  | North Korea, Eritrea, Turkmenistan                     | International sanctions, support for independent media, long‑term development of civil society                              |
 | Authoritarianism         | Strong executive, restriction of civil liberties    | China, Russia, Belarus                                 | Political dialogue, economic conditionality, long‑term support for democratic forces                                        |
 | Military dictatorship    | Military rule through coup                          | Myanmar, Sudan                                         | UN peace missions, embargoes, support for civilian transition governments                                                   |

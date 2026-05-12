@@ -1,5 +1,7 @@
 ---
-source: content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/dk-staatenprofil-danemark.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.dk.staatenprofil.danemark
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/dk-staatenprofil-danemark.md
 status: draft
 description: "State: DK, Date: 2025-06-10, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "DK"
@@ -138,7 +140,7 @@ version: "1.0"
 ### 9. Key indicators
 
 | Indicator | 2025 | 2050 | 2075 |
-| --- | --- | --- | --- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn EUR) | 400 | – | – |
 | Population (m) | 5.98 | 6.12 | 6.10 |
 | Renewable energy (%) | 50 | 75 | 85 |

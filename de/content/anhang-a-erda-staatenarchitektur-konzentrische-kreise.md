@@ -1,3 +1,7 @@
+---
+content_id: erda.book.anhang.a.erda.staatenarchitektur.konzentrische.kreise
+content_lang: de
+---
 # Anhang A: ERDA-Staatenarchitektur („Konzentrische Kreise“)
 
 _**ERDA-Staatenarchitektur („Konzentrische Kreise“)**_
@@ -14,7 +18,7 @@ Die **Charta bildet den Rechtskern der ERDA** und wird durch neue ethische, tech
 Vollintegrierte Mitgliedsstaaten mit demokratischer Verfassung und stabiler Rechtsstaatlichkeit, sortiert nach Bevölkerungszahl (Stand 1. Januar 2024) ([en.wikipedia.org](https://en.wikipedia.org/wiki/List_of_European_Union_member_states_by_population)):
 
 | Staat        | ISO | Einwohner  |
-| ------------ | --- | ---------- |
+| ---- | ---- | ---- |
 | Deutschland  | DE  | 83 445 000 |
 | Frankreich   | FR  | 68 402 000 |
 | Italien      | IT  | 58 989 700 |
@@ -53,7 +57,7 @@ Demokratien mit hoher ERDA-Kernland-Kompatibilität und strategischer Bedeutung,
 Diese Länder erfüllen bereits alle ERDA-Standards, bringen robuste Institutionen und hohe Innovationskraft mit und können auf Knopfdruck assoziiert werden:
 
 | Staat                  | ISO | Demokratiegrad | Verfassungsstatus      | Bedingungen zur Integration                    | Kooperation              | Partnerschafts-Level | Kernstaat-Potenzial | Kommentar                                        |
-| ---------------------- | --- | -------------- | ---------------------- | ---------------------------------------------- | ------------------------ | -------------------- | ------------------- | ------------------------------------------------ |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | Vereinigtes Königreich | GB  | Hoch           | Stabil                 | Bereits ERDA-kompatibel                        | Sicherheit, Bildung      | Assoziiert           | 🟢 Ja               | Hohes Innovationspotenzial                       |
 | Andorra                | AD  | Hoch           | Stabil                 | Bereits ERDA-kompatibel                        | Tourismus, Finanzen      | Assoziiert           | 🟢 Ja               | Alpenbrücke zwischen Spanien und Frankreich      |
 | Island                 | IS  | Hoch           | Stabil                 | Arktisstrategie, Energieautarkie               | Arktis, Biodiversität    | Assoziiert           | 🟢 Ja               | Brückenstaat für Nordmeerräume                   |
@@ -72,7 +76,7 @@ Diese Länder erfüllen bereits alle ERDA-Standards, bringen robuste Institution
 Diese Staaten sind auf dem Weg zur vollen ERDA-Kompatibilität, treiben Reformen zielstrebig voran und zeichnen sich durch klar definierte EU-Perspektiven aus:
 
 | Staat          | ISO | Demokratiegrad | Verfassungsstatus                | Bedingungen zur Integration           | Kooperation                | Partnerschafts-Level | Kernstaat-Potenzial | Kommentar                                 |
-|----------------|-----|----------------|----------------------------------|---------------------------------------|----------------------------|---------------------|---------------------|--------------------------------------------|
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | Albanien       | AL  | Aufbauend      | Stabil (EU-Beitrittskandidat)    | Rechtsstaatreform, Korruptionsbekämpfung | Infrastruktur, Energie     | Beobachter          | 🟡 Mittel           | Umfassende Reformagenda                    |
 | Armenien       | AM  | Aufbauend      | Reformwille vorhanden            | Regionale Stabilität                  | Friedensarbeit, Bildung    | Beobachter          | 🟡 Mittel           | Benötigt Sicherheitsgarantien              |
 | Georgien       | GE  | Aufbauend      | In Reformprozess                 | Demokratische Resilienz               | Sicherheit, Kultur         | Strategisch         | 🟡 Mittel           | Geopolitisch sensibel                      |
@@ -86,7 +90,7 @@ Diese Staaten sind auf dem Weg zur vollen ERDA-Kompatibilität, treiben Reformen
 Trotz innerer Herausforderungen verfügen diese Staaten über strategische Bedeutung und bleiben wichtige ERDA-Beobachter und potenzielle Partner:
 
 | Staat               | ISO | Demokratiegrad | Verfassungsstatus                                     | Bedingungen zur Integration                                                | Kooperation                | Partnerschafts-Level | Kernstaat-Potenzial | Kommentar                                                          |
-| ------------------- | --- | -------------- | ----------------------------------------------------- | -------------------------------------------------------------------------- | -------------------------- | -------------------- | ------------------- | ------------------------------------------------------------------ |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | Bosnien-Herzegowina | BA  | Schwankend     | Fragil (Dayton-System)                                | Staatsreform, Gewaltenteilung                                              | Verwaltung, Versöhnung     | Beobachter           | 🔴 Niedrig          | Umfassende Verfassungsreform nötig                                 |
 | Israel              | IL  | Hoch           | Unklarer Verfassungsstatus                            | Klarheit über Gewaltenteilung                                              | Innovation, Sicherheit     | Strategisch          | 🟡 Mittel           | Wertekompatibel, aber instabil                                     |
 | Jordanien           | JO  | Stabil         | Monarchie mit Reformansätzen                          | Fortsetzung Reformpfade                                                    | Vermittlung, Dialog        | Strategisch          | 🟡 Mittel           | Moderat, kooperationsbereit                                        |
@@ -102,7 +106,7 @@ Trotz innerer Herausforderungen verfügen diese Staaten über strategische Bedeu
 Nicht politisch integrierte Demokratien mit sicherheitspolitischer und innovationspolitischer Kooperation:
 
 | Staat      | ISO-Code | Anbindungsschwerpunkt                   |
-| ---------- | -------- | --------------------------------------- |
+| ---- | ---- | ---- |
 | Kanada     | 🇨🇦 CA  | Arktis- und Transatlantik               |
 | Australien | 🇦🇺 AU  | Indo-Pazifik-Raum                       |
 | Neuseeland | 🇳🇿 NZ  | Indo-Pazifik-Raum                       |
@@ -121,7 +125,7 @@ Nicht politisch integrierte Demokratien mit sicherheitspolitischer und innovatio
 #### 🛰️ Strategische Sonderrollen innerhalb der ERDA
 
 | Gebiet/Staat       | Rolle innerhalb ERDA                        |
-| ------------------ | ------------------------------------------- |
+| ---- | ---- |
 | Grönland 🇬🇱      | Rohstoff- und Sicherheitsstrategie (via DK) |
 | Island 🇮🇸        | Nordmeer-Verteidigungs- und Arktiskorridor  |
 | Kanada 🇨🇦        | Transatlantische und Arktispartnerschaft    |

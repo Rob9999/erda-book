@@ -1,4 +1,6 @@
 ---
+content_id: erda.book.13.strategische.souveranitat.werkzeugkoffer.fur.demokratische.sicherheit.readme
+content_lang: de
 description: "Kapitel 13 – Strategische Souveränität – Werkzeugkoffer für demokratische Sicherheit"
 date: "2026-02-22"
 ---
@@ -33,7 +35,7 @@ Die demokratischen Staaten Europas müssen ihre Handlungsfähigkeit auf **zwei E
 ## Kapitelstruktur
 
 | Unterkapitel | Thema |
-|---|---|
+| ---- | ---- |
 | **13.1** | Kernlogik: Selbstabschreckung überwinden – Handlungsfähigkeit sichern |
 | **13.2** | Strategische Zielsetzung: Aggression scheitern lassen |
 | **13.3** | Verteidigungsfähigkeit: Luftverteidigung, Munition und industrielle Masse |
@@ -41,6 +43,7 @@ Die demokratischen Staaten Europas müssen ihre Handlungsfähigkeit auf **zwei E
 | **13.5** | Technologische Souveränität: Redundanz gegen Single-Point-of-Failure |
 | **13.6** | Hybridabwehr als Dauerfront: Desinformation, Sabotage, reflexive Kontrolle |
 | **13.7** | Parallelstrategie: Europa verteidigbar machen – Ergänzung statt Ausrede |
+| **13.8** | Energiesouveränität: Strategie und Roadmap (2026–2029) |
 
 ***
 

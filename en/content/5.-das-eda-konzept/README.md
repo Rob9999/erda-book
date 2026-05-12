@@ -1,5 +1,7 @@
 ---
-source: content/5.-das-eda-konzept/README.md
+content_id: erda.book.5.das.eda.konzept.readme
+content_lang: en
+source: de/content/5.-das-eda-konzept/README.md
 status: draft
 ---
 
@@ -106,6 +108,25 @@ This implies for the EDA:
 
 ## Glossary: key terms
 
-<table data-header-hidden><thead><tr><th width="284.39996337890625"></th><th></th></tr></thead><tbody><tr><td><strong>Term</strong></td><td><strong>Definition</strong></td></tr><tr><td><strong>ADO (Asian Defence Organization)</strong></td><td>Hypothetical security alliance of democratic states in East Asia (e.g. Japan, South Korea and others)</td></tr><tr><td><strong>ASDA (Australian Defence Alliance)</strong></td><td>Hypothetical security alliance in the Indo‑Pacific under Australian leadership to protect maritime routes and democratic sovereignty</td></tr><tr><td><strong>LDA (Latin American Defence Alliance)</strong></td><td>Hypothetical defence alliance of democratic states in Latin America (possible leadership by Brazil/Argentina)</td></tr><tr><td><strong>AFDA (African Defence Alliance)</strong></td><td>Hypothetical defence alliance of democratic African states to promote regional security and democratic values</td></tr><tr><td><strong>GDA (Global Defence Alliance)</strong></td><td>Vision of a trans‑regional defence framework of democratic constitutional states based on shared principles</td></tr><tr><td><strong>Democratically Prepared Defence Accession</strong></td><td>Status of a sovereign partner state which, after a successful referendum, becomes a full member of the EDA – based on democratic self‑determination and legal clarity</td></tr><tr><td><strong>ERDA</strong></td><td>European Rights‑Based Democratic Alliance – future political union of democratic constitutional states with a common constitution and post‑scarcity economy</td></tr><tr><td><strong>EDA</strong></td><td>European Defence Alliance – security alliance for democratic sovereignty and strategic autonomy, complementary to NATO</td></tr><tr><td><strong>Article 5 Equivalent</strong></td><td>Binding collective‑defence clause analogous to Article 5 of the NATO Treaty</td></tr><tr><td><strong>PESCO</strong></td><td>Permanent Structured Cooperation – EU framework for structured military cooperation</td></tr><tr><td><strong>FCAS / MGCS</strong></td><td>Core European armaments projects for air and land warfare systems</td></tr><tr><td><strong>IRIS²</strong></td><td>Planned European satellite system for secure communications</td></tr><tr><td><strong>Strategic autonomy</strong></td><td>Ability to act independently in defence, economics and diplomacy</td></tr><tr><td><strong>Coalition of the Willing</strong></td><td>Flexible group of like‑minded states that act together ahead of a broader agreement</td></tr><tr><td><strong>Cyber resilience</strong></td><td>Systemic ability to prevent, withstand and recover from cyber threats</td></tr><tr><td><strong>Rapid Response Force (RRF)</strong></td><td>Multinational EDA rapid‑reaction force for crises and hybrid threats</td></tr><tr><td><strong>Liberum veto</strong></td><td>Historical decision rule (Poland–Lithuania) by which individual nobles could block legislation; a case study of structural veto paralysis and external manipulability.</td></tr><tr><td><strong>Veto paralysis / obstructionism</strong></td><td>Structural inability to decide due to unanimity constraints or persistent minority blocking; makes systems slow, predictable and strategically exploitable.</td></tr></tbody></table>
+| **Term** | **Definition** |
+| --- | --- |
+| **ADO (Asian Defence Organization)** | Hypothetical security alliance of democratic states in East Asia (e.g. Japan, South Korea and others) |
+| **ASDA (Australian Defence Alliance)** | Hypothetical security alliance in the Indo‑Pacific under Australian leadership to protect maritime routes and democratic sovereignty |
+| **LDA (Latin American Defence Alliance)** | Hypothetical defence alliance of democratic states in Latin America (possible leadership by Brazil/Argentina) |
+| **AFDA (African Defence Alliance)** | Hypothetical defence alliance of democratic African states to promote regional security and democratic values |
+| **GDA (Global Defence Alliance)** | Vision of a trans‑regional defence framework of democratic constitutional states based on shared principles |
+| **Democratically Prepared Defence Accession** | Status of a sovereign partner state which, after a successful referendum, becomes a full member of the EDA – based on democratic self‑determination and legal clarity |
+| **ERDA** | European Rights‑Based Democratic Alliance – future political union of democratic constitutional states with a common constitution and post‑scarcity economy |
+| **EDA** | European Defence Alliance – security alliance for democratic sovereignty and strategic autonomy, complementary to NATO |
+| **Article 5 Equivalent** | Binding collective‑defence clause analogous to Article 5 of the NATO Treaty |
+| **PESCO** | Permanent Structured Cooperation – EU framework for structured military cooperation |
+| **FCAS / MGCS** | Core European armaments projects for air and land warfare systems |
+| **IRIS²** | Planned European satellite system for secure communications |
+| **Strategic autonomy** | Ability to act independently in defence, economics and diplomacy |
+| **Coalition of the Willing** | Flexible group of like‑minded states that act together ahead of a broader agreement |
+| **Cyber resilience** | Systemic ability to prevent, withstand and recover from cyber threats |
+| **Rapid Response Force (RRF)** | Multinational EDA rapid‑reaction force for crises and hybrid threats |
+| **Liberum veto** | Historical decision rule (Poland–Lithuania) by which individual nobles could block legislation; a case study of structural veto paralysis and external manipulability. |
+| **Veto paralysis / obstructionism** | Structural inability to decide due to unanimity constraints or persistent minority blocking; makes systems slow, predictable and strategically exploitable. |
 
 ***

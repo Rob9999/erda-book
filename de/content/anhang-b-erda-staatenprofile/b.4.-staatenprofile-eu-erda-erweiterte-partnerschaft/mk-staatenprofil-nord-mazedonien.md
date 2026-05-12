@@ -1,8 +1,10 @@
 ---
-description: "State: MK, Date: 2025-06-11, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.mk.staatenprofil.nord.mazedonien
+content_lang: de
+description: "State: MK, Date: 2025-06-11, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "MK"
 date: "2026-01-01"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -143,7 +145,7 @@ version: "1.0"
 ### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025 | 2050 | 2075 | EU-Durchschnitt 2024 (Benchmark) |
-| ------------------------------------- | ---- | ---- | ---- | ------------------------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | BIP (Mrd. EUR)                        | 14,3 | 25 (p) | 35 (p) | 16 556 |
 | Bevölkerung                           | 1,83 Mio. | 1,7 Mio. (p) | 1,6 Mio. (p) | 447 Mio. |
 | Anteil Erneuerbare Energien (%)       | 27 | 45 (p) | 60 (p) | 37 |
@@ -197,6 +199,6 @@ Nord-Mazedonien ist ein kleiner Balkanstaat mit traditionsreicher Kultur und str
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Nord-Mazedonien sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven, Ergänzungen und Aktualisierungen beizutragen – für ein gemeinsames Bild einer resilienten und demokratischen Zukunft Europas.
 
 #### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08

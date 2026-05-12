@@ -1,3 +1,7 @@
+---
+content_id: erda.book.anhang.c.europa.2.0.fahrplan.fur.eine.lebenswerte.resiliente.und.fuhrende.union
+content_lang: de
+---
 # Anhang C: Europa 2.0 – Fahrplan für eine lebenswerte, resiliente und führende Union
 
 ## Europa 2.0 – Fahrplan für eine lebenswerte, resiliente und führende Union
@@ -184,4 +188,4 @@ Eine nachhaltige Transformation Europas hin zu einem technologisch führenden, d
 
 ### Autorenschaft
 
-Erstellt im April 2025 durch die **ERDA Buch Redaktion** (LLM-gestützte sprachliche Überarbeitung unter redaktioneller Kontrolle). Autor und Herausgeber sind im **Kolophon (Anhang L)** ausgewiesen.
+Erstellt im April 2025 durch die **ERDA-Buch-Redaktion** (LLM-gestützte sprachliche Überarbeitung unter redaktioneller Kontrolle). Autor und Herausgeber sind im **Kolophon (Anhang L)** ausgewiesen.

@@ -1,5 +1,7 @@
 ---
-source: content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/ch-staatenprofil-schweiz.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.ch.staatenprofil.schweiz
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/ch-staatenprofil-schweiz.md
 status: draft
 description: "State: CH, Date: 2025-06-11, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "CH"
@@ -160,7 +162,7 @@ Expand education and research alliances; deepen European integration; build sust
 ### 9. Key indicators (short form)
 
 | Indicator                             | 2025 | 2050 (p) | 2075 (p) | EU average 2024 |
-| ------------------------------------- | ---- | -------- | -------- | -------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                          | 805  | 1,100    | 1,300    | 16,556 |
 | Population                            | 9.0 m | 9.34 m  | 10.25 m  | 447 m |
 | Share of renewables (%)               | 75   | 85       | 92       | 37 |

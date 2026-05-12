@@ -1,8 +1,10 @@
 ---
-description: "State: PT, Date: 2025-06-10, Responsible Author: ERDA Buch Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
+content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.pt.staatenprofil.republik.portugal
+content_lang: de
+description: "State: PT, Date: 2025-06-10, Responsible Author: ERDA-Buch-Redaktion, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "PT"
 date: "2025-06-10"
-author: "ERDA Buch Redaktion"
+author: "ERDA-Buch-Redaktion"
 legal_responsible: "<Behörde/Institut>"
 layout: "ERDA-State-Profile-v5"
 version: "1.0"
@@ -141,7 +143,7 @@ version: "1.0"
 ### 9. Kennzahlenübersicht (Kurzform)
 
 | Indikator                             | 2025  | 2050   | 2075   |
-| ------------------------------------- | ----- | ------ | ------ |
+| ---- | ---- | ---- | ---- |
 | BIP (Mrd. EUR)                        | 260   | 320 ^1 | 450 ^1 |
 | Bevölkerung (Mio.)                    | 10,30 | 10,50  | 10,10  |
 | Anteil Erneuerbare (%)                | 61 %  | 80 %   | 95 %   |
@@ -211,7 +213,7 @@ Portugal ist ein maritimer EU-Staat mit reicher Kultur und wachsendem Fokus auf 
 Dieses Profil basiert auf öffentlich zugänglichen und modellierten Daten. Vertreter:innen der Republik Portugal sowie interessierte Fachstellen sind herzlich eingeladen, eigene Perspektiven einzubringen.
 
 #### 12.1 Letzte inhaltlich verantwortliche Ansprechpartner
-Autor: ERDA Buch Redaktion
-Kontakt: ERDA Buch Redaktion
+Autor: ERDA-Buch-Redaktion
+Kontakt: ERDA-Buch-Redaktion
 Letzte Änderung: 2026-01-08
 

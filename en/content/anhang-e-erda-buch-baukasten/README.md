@@ -1,5 +1,7 @@
 ---
-source: content/anhang-e-erda-buch-baukasten/README.md
+content_id: erda.book.anhang.e.erda.buch.baukasten.readme
+content_lang: en
+source: de/content/anhang-e-erda-buch-baukasten/README.md
 status: draft
 ---
 
@@ -9,7 +11,7 @@ _**ERDA Book Toolbox**_
 
 ## E.1 Introduction
 
-The ERDA Book Toolbox bundles reusable building blocks for structure, layout, interactivity, and reading experience in the ERDA book. It serves authors, editors, and co‑operation AIs as a toolkit to design new chapters consistently, reader‑friendly, and in the spirit of the ERDA vision.
+The ERDA Book Toolbox bundles reusable building blocks for structure, layout, interactivity, and reading experience in the ERDA Book. It serves authors, editors, and co‑operation AIs as a toolkit to design new chapters consistently, reader‑friendly, and in the spirit of the ERDA vision.
 
 ## E.2 Overview of the Modules
 

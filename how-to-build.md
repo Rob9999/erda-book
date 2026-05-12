@@ -1,12 +1,93 @@
 # How to build (DE/EN) – local + Docker
 
 This document is the **single source of truth** for build commands.
-It is aligned with `.vscode/launch.json` (configs: *Orchestrator (local) - German/English* and *Orchestrator (ERDA Smart Worker)*).
+It is aligned with `.vscode/launch.json` (configs: *Orchestrator (local) - German/English* and language-specific *Orchestrator (ERDA Smart Worker)* entries).
 
 ## Outputs
 
 - German PDF: `de/publish/das-erda-buch.pdf`
 - English PDF: `en/publish/the-erda-book.pdf`
+
+## Metadata gate before PDF builds
+
+PDF builds should start from synchronized metadata.
+
+- **Local preview builds:** may validate metadata, but should not silently change release dates or release descriptions.
+- **Release/publish builds:** must run only after the release metadata has been synchronized: README `As of`, `de/book.json`, `en/book.json`, `publish.yml` versions, CFF files, `.zenodo.json`, release notes and release history.
+- **Release descriptions:** the versioned release notes in `release-docs/vX.Y.Z/` are the editorial basis. README release sections, `.zenodo.json` and CFF abstracts must be faithful summaries of those notes.
+- **Translations:** English files must have valid front matter (`content_id`, `content_lang: en`, `source`, `status`) before release artifacts are regenerated. German source files should have `content_id` and `content_lang: de` as they are normalised. Do not use `lang`, `language`, or `lang-version` in book content front matter; those keys can be consumed by Pandoc/Babel and interfere with the Twemoji/ERDA CJK PDF font fallback.
+
+If the metadata gate fails, fix the metadata first and then rerun the build. A PDF rebuild alone is not a reason to bump release dates.
+
+## Legal wording gate before release builds
+
+Before release/publish builds, scan legal and compliance wording in release-relevant content. The scan is a redaction aid, not legal advice: it finds passages where requirements such as GDPR/DSGVO, Digital Services Act, DSA, eIDAS, ECHR/EMRK or fundamental-rights language could sound like already-certified legal compliance.
+
+Example for the CIVITAS v2.5.0 A4 check:
+
+```powershell
+.\.venv\Scripts\python.exe scripts/quality/legal_claims_scan.py `
+	de/content/6.-das-civitas-konzept `
+	en/content/6.-das-civitas-konzept `
+	de/content/anhang-p-papers/p.2-civitas-public-building-a-european-digital-agora.md `
+	en/content/appendix-p-papers/p.2-civitas-public-building-a-european-digital-agora.md `
+	--root . `
+	--output release-docs/v2.5.0/legal-claims-scan-civitas-v2.5.0.md
+```
+
+Interpretation rule: `review-high` means editorial review is required. It does not automatically mean the text is wrong. The release certification must document whether a passage is a requirement/target architecture, a scenario, or an already verified legal claim. Do not present concepts as legally checked platforms unless an explicit legal review exists.
+
+## Markdown/PDF layout gate before release builds
+
+Before release/publish builds, normalize Markdown table separator rows and scan for PDF overflow risks. This gate catches two common PDF review issues:
+
+- Markdown table separators should use spaced cells such as `| ---- |`, not compact rows such as `|------|`.
+- Long code lines, long raw URLs, very wide table rows and rendered PDF text boxes can overflow the printable page area.
+
+Normalize table separator rows in source content:
+
+```powershell
+.\.venv\Scripts\python.exe scripts/quality/markdown_pdf_layout_scan.py de/content en/content --root . --fix-tables
+```
+
+Create a Markdown/PDF layout report after a PDF build:
+
+```powershell
+.\.venv\Scripts\python.exe scripts/quality/markdown_pdf_layout_scan.py `
+	de/content en/content `
+	--root . `
+	--pdf de/publish/das-erda-buch.pdf `
+	--pdf en/publish/the-erda-book.pdf `
+	--output release-docs/v2.5.0/markdown-pdf-layout-scan-v2.5.0.md
+```
+
+Interpretation rule: Markdown findings are source risks and can often be fixed before rebuilding. PDF findings are rendered-layout evidence from `pdftotext -bbox-layout`; they require visual review because decorative glyphs, emoji fallback and extracted bounding boxes can produce false positives. Actual right-margin overflow in prose, tables or code blocks is a release-layout issue.
+
+## Spellcheck and proofreading gate before release builds
+
+Before release/publish builds, run spelling and proofreading checks on source Markdown. Treat these reports as editorial review aids: fix clear typos and mojibake, add stable project terms to `.cspell/erda-terms.txt`, and leave conceptual wording decisions to the relevant editorial role.
+
+English content/project-term cspell check:
+
+```powershell
+$cspellOutput = npx.cmd --yes cspell --config cspell.json --no-progress --no-color 2>&1
+$cspellExit = $LASTEXITCODE
+$cspellOutput | Out-File -FilePath logs/quality/cspell-en-YYYY-MM-DD.txt -Encoding utf8
+"cspell exit=$cspellExit"
+```
+
+German LanguageTool check, using the local Markdown preprocessor to keep line numbers stable while removing front matter, tables, code blocks, HTML tags and links:
+
+```powershell
+.\.venv\Scripts\python.exe scripts\quality\prepare_languagetool_markdown.py de\content --output tmp\lt-prepared-de --clean
+$jar = Get-ChildItem tmp\LanguageTool -Recurse -Filter languagetool-commandline.jar | Select-Object -First 1 -ExpandProperty FullName
+$ltOutput = & 'C:\Program Files\Java\jdk-17.0.2\bin\java.exe' -jar $jar -r -l de-DE -c utf-8 --clean-overlapping tmp\lt-prepared-de\content 2>&1
+$ltOutput | Out-File -FilePath logs\quality\languagetool-de-YYYY-MM-DD.txt -Encoding utf8
+```
+
+If LanguageTool is not available locally yet, download and extract the official distribution outside tracked content, for example under `tmp/LanguageTool`. Do not send manuscript text to a public proofreading API for release review unless the publisher explicitly approves that processing path.
+
+Interpretation rule: `cspell` is used for English content, project terminology and obvious encoding/typo residues. German spelling and grammar review is handled by local LanguageTool. Both tools produce false positives for Markdown formatting, citations, names, acronyms and bilingual legal terms; reports require human editorial triage.
 
 ## Prerequisites
 
@@ -32,8 +113,10 @@ Use **Run and Debug** and pick one of:
 
 - `Orchestrator (local) - German`
 - `Orchestrator (local) - English`
-- `Orchestrator (ERDA Smart Worker)` (Docker-based)
-- `Orchestrator (ERDA Smart Worker - fresh rebuild)` (Docker-based, forces rebuild)
+- `Orchestrator (ERDA Smart Worker) - German` (Docker-based)
+- `Orchestrator (ERDA Smart Worker) - English` (Docker-based)
+- `Orchestrator (ERDA Smart Worker - fresh rebuild) - German` (Docker-based, forces rebuild)
+- `Orchestrator (ERDA Smart Worker - fresh rebuild) - English` (Docker-based, forces rebuild)
 
 These configurations already set `cwd`, `env`, and `args` correctly.
 
@@ -111,7 +194,7 @@ If you installed Python via Homebrew, you may have `python3.11` available; other
 ## Docker-based build (DE/EN)
 
 Docker builds run the orchestrator via `gitbook_worker.tools.docker.run_docker`.
-This matches the VS Code config **Orchestrator (ERDA Smart Worker)**.
+These commands match the language-specific VS Code configs **Orchestrator (ERDA Smart Worker) - German** and **Orchestrator (ERDA Smart Worker) - English**.
 
 ### 1) Prerequisites
 
@@ -148,12 +231,14 @@ Use this if Docker caches got stale:
 
 ```bash
 ./.venv/bin/python -m gitbook_worker.tools.docker.run_docker orchestrator --profile default --use-dynamic --manifest de/publish.yml --lang de --rebuild --no-cache
+./.venv/bin/python -m gitbook_worker.tools.docker.run_docker orchestrator --profile default --use-dynamic --manifest en/publish.yml --lang en --rebuild --no-cache
 ```
 
 Windows PowerShell equivalent:
 
 ```powershell
 .\.venv\Scripts\python.exe -m gitbook_worker.tools.docker.run_docker orchestrator --profile default --use-dynamic --manifest de/publish.yml --lang de --rebuild --no-cache
+.\.venv\Scripts\python.exe -m gitbook_worker.tools.docker.run_docker orchestrator --profile default --use-dynamic --manifest en/publish.yml --lang en --rebuild --no-cache
 ```
 
 ---
@@ -166,6 +251,12 @@ Most commonly: terminal uses the wrong Python.
 
 - Expected (from `.vscode/launch.json`): `.venv/Scripts/python.exe` (Windows) or `./.venv/bin/python` (Linux/macOS)
 - Avoid: `C:\Python311\python.exe` or any other global Python
+
+### PDF run appears to hang after the PDF was written
+
+Avoid running multiple PDF builds at the same time against the same checkout or output folders. Overlapping PDF runs can leave publisher/orchestrator child processes alive after an artifact has already been written.
+
+For release builds, run DE and EN deliberately one after the other. If a run appears to hang after PDF generation, stop only the related publisher/orchestrator processes, verify the artifact with `pdfinfo`, `pdffonts` and a small rendered/title-page spot check, then rerun once through the matching `.vscode/launch.json` configuration or the documented terminal command. If the rerun exits cleanly and the artifact checks pass, document the first hang as a tooling/process issue rather than an automatic content blocker.
 
 ### Where do outputs go?
 

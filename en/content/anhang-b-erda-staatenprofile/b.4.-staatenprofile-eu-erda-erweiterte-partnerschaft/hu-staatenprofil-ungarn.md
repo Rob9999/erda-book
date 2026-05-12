@@ -1,5 +1,7 @@
 ---
-source: content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/hu-staatenprofil-ungarn.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.4.staatenprofile.eu.erda.erweiterte.partnerschaft.hu.staatenprofil.ungarn
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.4.-staatenprofile-eu-erda-erweiterte-partnerschaft/hu-staatenprofil-ungarn.md
 status: draft
 description: "State: HU, Date: 2025-06-10, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "HU"
@@ -136,7 +138,7 @@ version: "1.0"
 ### 9. Key indicators (short form)
 
 | Indicator                             | 2025 | 2050 (p) | 2075 (p) | EU average 2024 |
-| ------------------------------------- | ---- | -------- | -------- | -------------- |
+| ---- | ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                          | 180  | 240      | 310      | 16,556 |
 | Population (million)                  | 9.55 | 8.6      | 8.1      | 447 |
 | Share of renewables (%)               | 21   | 45       | 65       | 37 |

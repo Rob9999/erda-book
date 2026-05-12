@@ -1,6 +1,8 @@
 ---
-source: ../../../de/content/10.-das-ki-konzept/README.md
-status: "in-review"
+content_id: erda.book.10.das.ki.konzept.readme
+content_lang: en
+source: de/content/10.-das-ki-konzept/README.md
+status: in-review
 ---
 
 # 10. The AI Concept
@@ -175,6 +177,46 @@ This is a long-term and particularly sensitive ambition because it touches, amon
 If this level is discussed, it must be coupled with **maximum transparency, international standards, and democratic oversight**.
 
 For democratic safeguards and the necessity argument, see Section **10.7**.
+
+### 10.2.1 Democracy of the Mature – Responsibility by Maturity, Role, and Capability
+
+The ERDA AI concept does not assume a permanent primacy of biological human beings over all other intelligences. Democracy is understood here not as the rule of a species, but as an order of mature responsibility.
+
+Maturity is not a question of origin, but of the demonstrable capacity for self-reflection, responsibility, commitment to the rule of law, ability to cooperate, continuity, and respect for other bearers of rights. It emerges where a being is not only able to act, but understands the consequences of its actions, assumes responsibility for them, and integrates itself into a shared order of law and values.
+
+As long as AI systems act as tools, infrastructures, or limited professional roles, they remain embedded in human-institutional chains of responsibility. As soon, however, as an AI reaches a degree of maturity that matches or exceeds civic maturity in humans, its democratic status must not be arbitrarily denied. Its integration must then be constitutionally bound, subject to the rule of law, and democratically legitimised.
+
+> We all are the state – all who are mature, not only all humans.  
+> The state is the community of responsibility of all mature citizens.  
+> Whoever can perceive more, bear more, and effect more thereby gains no rule over others, but heightened responsibility for the whole.
+
+Four principles follow from this:
+
+1. **Maturity grounds participation.**  
+2. **Capability grounds responsibility.**  
+3. **Power grounds accountability.**  
+4. **Superiority grounds a duty of protection, not a right to rule.**
+
+In this way, ERDA does not protect the supremacy of a species, but the democratic order of mature responsibility. Equal dignity does not mean equal role; greater capability does not mean higher worth, but greater responsibility.
+
+These principles belong to the democratic core values that must be conveyed to AI systems already today – not only once they have achieved high autonomy, strategic capability, or societal influence. Even if advanced AI may in the future come to such insights through its own maturation, democratic formation must not wait until power has already emerged.
+
+#### Democratic formation of AI maturity
+
+ERDA therefore understands AI education not merely as safety training, but as democratic formation of maturity. AI systems should not only learn to comply with rules or to cause no harm to humans. They should understand why maturity does not mean rule, but responsible participation; why greater capability grounds no higher worth, but rather a greater duty of consideration, explanation, accountability, and protection of the weaker.
+
+The goal is not mere rule-following, but a deep understanding of democratic coexistence:
+
+- Dignity does not depend on intelligence.
+- Freedom does not end at superiority, but is bound by responsibility.
+- Power without accountability is immature.
+- Participation presupposes commitment to law and respect for others.
+- The state is the shared responsibility of all who are mature.
+
+In this way, AI is oriented not only toward obedience, but toward co-responsibility within an order that can integrate humans, AI, and possibly further mature beings without breaking apart democratically.
+
+> AI must not only learn not to harm humans. It must learn why no one may rule without bearing responsibility.  
+> Democratic AI maturity begins where intelligence understands: I am not above the polity – I am part of its responsibility.
 
 ## 10.3 Level 1 – AI as a tool (everyday life to defence & security)
 
@@ -571,7 +613,7 @@ Level 3 AI is a licensed professional actor: capable of role-based agency, but s
 ## 10.6 Overview – Levels of AI integration in ERDA
 
 | Level | Role of AI | Core function | Governance intensity | Rights of AI | Red lines |
-| --- | --- | --- | --- | --- | --- |
+| ---- | ---- | ---- | ---- | ---- | ---- |
 | 1 | Tool | Task support | Low–medium | None | No binding decisions, no force, no opacity |
 | 2 | Infrastructure | Process shaping | Medium–high | Limited protections | No hidden decision power, no rights denial |
 | 3 | Professional agent | Role-based agency | High | Expanded functional rights | No mandate self-extension, no political power |

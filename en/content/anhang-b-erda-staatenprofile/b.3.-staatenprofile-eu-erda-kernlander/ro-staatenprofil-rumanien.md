@@ -1,5 +1,7 @@
 ---
-source: content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/ro-staatenprofil-rumanien.md
+content_id: erda.book.anhang.b.erda.staatenprofile.b.3.staatenprofile.eu.erda.kernlander.ro.staatenprofil.rumanien
+content_lang: en
+source: de/content/anhang-b-erda-staatenprofile/b.3.-staatenprofile-eu-erda-kernlander/ro-staatenprofil-rumanien.md
 status: draft
 description: "State: RO, Date: 2025-06-11, Responsible Author: ERDA Book editorial team, if from official or institute: Legal Responsible [Author, Institute, Government]: <Behörde/Institut>"
 country: "RO"
@@ -139,7 +141,7 @@ version: "1.0"
 ### 9. Key indicators (short form)
 
 | Indicator                             | 2025   | 2050       | 2075       |
-| ------------------------------------- | ------ | ---------- | ---------- |
+| ---- | ---- | ---- | ---- |
 | GDP (bn EUR)                          | ≈325   | 500 (hyp.) | 620 (hyp.) |
 | Population                            | 19 m   | 14.8 m     | 12 m       |
 | Share of renewables (%)               | 50%    | 65% (hyp.) | 80% (hyp.) |

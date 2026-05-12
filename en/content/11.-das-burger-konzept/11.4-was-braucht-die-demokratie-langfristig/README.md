@@ -1,6 +1,8 @@
 ---
-source: ../../../de/content/11.-das-burger-konzept/11.4-was-braucht-die-demokratie-langfristig/README.md
-status: "in-review"
+content_id: erda.book.11.das.burger.konzept.11.4.was.braucht.die.demokratie.langfristig.readme
+content_lang: en
+source: de/content/11.-das-burger-konzept/11.4-was-braucht-die-demokratie-langfristig/README.md
+status: in-review
 ---
 
 # 11.4 What does democracy need in the long term?

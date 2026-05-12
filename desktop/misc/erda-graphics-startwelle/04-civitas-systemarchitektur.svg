@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="1100" viewBox="0 0 2000 1100" role="img" aria-labelledby="title desc">
+  <title id="title">CIVITAS-Systemarchitektur</title>
+  <desc id="desc">Schichtenmodell der CIVITAS-Plattform mit Bürgeroberfläche, Beteiligungsmodulen, Vertrauens- und Datenschutzebene sowie föderierter Infrastruktur.</desc>
+  <defs>
+    <style>
+      .bg{fill:#f6f8fb}
+      .title{font:700 34px 'DejaVu Sans', Arial, sans-serif;fill:#15324b}
+      .subtitle{font:400 20px 'DejaVu Sans', Arial, sans-serif;fill:#425466}
+      .layer1{fill:#15324b;stroke:#15324b;stroke-width:2.5}
+      .layer2{fill:#e8f2f3;stroke:#1a6e73;stroke-width:2.5}
+      .layer3{fill:#f6efe1;stroke:#c59b4d;stroke-width:2.5}
+      .panel{fill:#ffffff;stroke:#d6dee7;stroke-width:1.8}
+      .tDark{font:700 22px 'DejaVu Sans', Arial, sans-serif;fill:#15324b}
+      .tLight{font:700 22px 'DejaVu Sans', Arial, sans-serif;fill:#ffffff}
+      .small{font:400 15px 'DejaVu Sans', Arial, sans-serif;fill:#425466}
+      .smallInv{font:400 15px 'DejaVu Sans', Arial, sans-serif;fill:#dce9f2}
+      .line{stroke:#7c8ea1;stroke-width:2.5;fill:none}
+    </style>
+  </defs>
+  <rect class="bg" width="2000" height="1100" rx="24"/>
+  <text class="title" x="80" y="72">CIVITAS-Systemarchitektur</text>
+  <text class="subtitle" x="80" y="104">Öffentlich kontrollierte, föderierte und datenschutzgebundene Plattform für demokratische Beteiligung</text>
+
+  <rect class="layer1" x="180" y="155" width="1100" height="150" rx="24"/>
+  <text class="tLight" x="250" y="200">1. Bürgeroberfläche</text>
+  <text class="smallInv" x="250" y="228">verifizierter Zugang • Barrierefreiheit • Mehrsprachigkeit • öffentliche Nachvollziehbarkeit</text>
+
+  <rect class="panel" x="240" y="235" width="185" height="46" rx="12"/>
+  <rect class="panel" x="440" y="235" width="185" height="46" rx="12"/>
+  <rect class="panel" x="640" y="235" width="185" height="46" rx="12"/>
+  <rect class="panel" x="840" y="235" width="185" height="46" rx="12"/>
+  <rect class="panel" x="1040" y="235" width="155" height="46" rx="12"/>
+  <text class="small" x="332" y="264" text-anchor="middle">Debattenraum</text>
+  <text class="small" x="532" y="264" text-anchor="middle">Bürgeranträge</text>
+  <text class="small" x="732" y="264" text-anchor="middle">Gesetzestracker</text>
+  <text class="small" x="932" y="264" text-anchor="middle">Civic-Tech-Tools</text>
+  <text class="small" x="1117" y="264" text-anchor="middle">eVoting*</text>
+
+  <rect class="layer2" x="180" y="350" width="1100" height="190" rx="24"/>
+  <text class="tDark" x="250" y="395">2. Vertrauens-, Rechte- und Governance-Ebene</text>
+  <text class="small" x="250" y="423">Identität, Moderation, Audit, Datenschutz und Anfechtbarkeit als demokratische Kernmechanik</text>
+
+  <rect class="panel" x="240" y="450" width="240" height="58" rx="12"/>
+  <rect class="panel" x="495" y="450" width="240" height="58" rx="12"/>
+  <rect class="panel" x="750" y="450" width="240" height="58" rx="12"/>
+  <rect class="panel" x="1005" y="450" width="235" height="58" rx="12"/>
+  <text class="small" x="360" y="475" text-anchor="middle">verifizierte Identität</text>
+  <text class="small" x="360" y="497" text-anchor="middle">eID / Zugangsrechte</text>
+  <text class="small" x="615" y="475" text-anchor="middle">Datenschutz &amp; Zweckbindung</text>
+  <text class="small" x="615" y="497" text-anchor="middle">DSGVO • EMRK • Löschregeln</text>
+  <text class="small" x="870" y="475" text-anchor="middle">Audit, Logging, Widerspruch</text>
+  <text class="small" x="870" y="497" text-anchor="middle">Review- und Korrekturschleifen</text>
+  <text class="small" x="1122" y="475" text-anchor="middle">Moderation &amp; Transparenz</text>
+  <text class="small" x="1122" y="497" text-anchor="middle">KI + menschliche Aufsicht</text>
+
+  <rect class="layer3" x="180" y="585" width="1100" height="175" rx="24"/>
+  <text class="tDark" x="250" y="630">3. Föderierte Infrastruktur</text>
+  <text class="small" x="250" y="658">Open Source, ActivityPub-Kompatibilität, georedundante europäische Server, kein Plattform-Monopol</text>
+
+  <rect class="panel" x="240" y="685" width="240" height="48" rx="12"/>
+  <rect class="panel" x="495" y="685" width="240" height="48" rx="12"/>
+  <rect class="panel" x="750" y="685" width="240" height="48" rx="12"/>
+  <rect class="panel" x="1005" y="685" width="235" height="48" rx="12"/>
+  <text class="small" x="360" y="714" text-anchor="middle">Fediverse / ActivityPub</text>
+  <text class="small" x="615" y="714" text-anchor="middle">Open-Source-Komponenten</text>
+  <text class="small" x="870" y="714" text-anchor="middle">EU-Hosting / Georedundanz</text>
+  <text class="small" x="1122" y="714" text-anchor="middle">Mehrsprachigkeit</text>
+
+  <rect class="panel" x="1320" y="215" width="330" height="125" rx="18"/>
+  <text class="tDark" x="1485" y="252" text-anchor="middle">Parlament &amp; Verwaltung</text>
+  <text class="small" x="1485" y="283" text-anchor="middle">Schnittstellen für Konsultation,</text>
+  <text class="small" x="1485" y="304" text-anchor="middle">Tracking, Rückmeldung,</text>
+  <text class="small" x="1485" y="325" text-anchor="middle">institutionelle Antwort</text>
+
+  <rect class="panel" x="1320" y="415" width="330" height="125" rx="18"/>
+  <text class="tDark" x="1485" y="452" text-anchor="middle">Öffentlichkeit</text>
+  <text class="small" x="1485" y="483" text-anchor="middle">Transparenzarchiv,</text>
+  <text class="small" x="1485" y="504" text-anchor="middle">Begründungspflichten,</text>
+  <text class="small" x="1485" y="525" text-anchor="middle">öffentliche Rechenschaft</text>
+
+  <line class="line" x1="1280" y1="230" x2="1320" y2="278"/>
+  <line class="line" x1="1280" y1="445" x2="1320" y2="478"/>
+  <line class="line" x1="1280" y1="675" x2="1320" y2="478"/>
+
+  <text class="small" x="1320" y="615">* nur unter enger Rechtsbindung,</text>
+  <text class="small" x="1320" y="637">prüfbarer Sicherheit und institutioneller Legitimation</text>
+</svg>
