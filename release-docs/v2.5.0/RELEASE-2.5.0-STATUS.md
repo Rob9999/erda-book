@@ -64,7 +64,7 @@
 - [x] Querverweise in Kap. 11.2, 3.5, 4.3.5 (DE)
 - [x] SUMMARY.md + book.json aktualisiert (DE + EN)
 - [x] Root-`ATTRIBUTION.md` ergänzt
-- [x] Release-Metadaten synchronisiert (README, book.json, CFF, Zenodo) auf 2026-05-11 / v2.5.0
+- [x] Release-Metadaten synchronisiert (README, book.json, CFF, Zenodo) auf 2026-05-12 / v2.5.0
 - [x] YAML-Frontmatter DE/EN normalisiert
 - [x] DE/EN-Querverweise auf Anhang/Appendix P.1 aktualisiert
 - [x] Glossar + Mini-Wording-Set um v2.5-Begriffe erweitert

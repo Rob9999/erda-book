@@ -1,6 +1,6 @@
 # Das ERDA Buch – Release v2.5.0
 
-**Datum:** 2026-05-11
+**Datum:** 2026-05-12
 **Tag:** `v2.5.0`
 **Release name:** Democratic Knowledge
 **Autor:** Robert Alexander Massinger (mit ChatGPT/OpenAI und GitHub Copilot/Anthropic)
@@ -62,11 +62,11 @@ Darüber hinaus integriert dieses Release konzeptionelle Papers und Umsetzungsba
 - Versionsumstellung auf v2.5.0
 - Release-Dokumentation in `release-docs/v2.5.0/`
 - Desktop-Materialien in `desktop/misc/`
-- `book.json`-Datum aktualisiert auf 2026-05-11 (DE + EN)
+- `book.json`-Datum aktualisiert auf 2026-05-12 (DE + EN)
 - SUMMARY.md aktualisiert (DE + EN) mit Anhang-M- und Anhang-P-Einträgen
 - Root-`ATTRIBUTION.md` als Primärquelle für Drittinhalte ergänzt
 - YAML-Frontmatter mit `content_id`, `content_lang`, `source` und `status` für DE/EN-Inhaltsdateien normalisiert; Pandoc/Babel-nahe Keys wie `lang`, `language` und `lang-version` werden im Content-Frontmatter vermieden, um Twemoji/ERDA-CJK-Fontfallbacks im PDF stabil zu halten
-- Release-Metadaten-Gate umgesetzt: README-Datum, `book.json`, CFF-Dateien und `.zenodo.json` auf 2026-05-11 synchronisiert
+- Release-Metadaten-Gate umgesetzt: README-Datum, `book.json`, CFF-Dateien und `.zenodo.json` auf 2026-05-12 synchronisiert
 - Englische Appendix-J/L-Dateipfade auf `appendix-j-license-and-openness.md` und `appendix-l-colophon.md` normalisiert
 - DE/EN-Querverweise auf Appendix/Anhang P.1 in Kapitel 3.5, 4.3.5, 11.2 und 11.3 aktualisiert
 - DE/EN-Querverweise auf Appendix/Anhang P.2 in Kapitel 6 ergänzt

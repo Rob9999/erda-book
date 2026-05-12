@@ -52,15 +52,15 @@ _**Internationale Kooperation und Bürgerpartizipation**_
 * Entwickeln Sie Kommunikationsstrategien, die den Übergang von traditionell nationalen Raumvorstellungen hin zu einem kollektiven, demokratisch gesteuerten Raum überzeugend darstellen.
 * Stärken Sie die Zusammenarbeit mit internationalen Partnern und regionalen Bündnissen, um Synergien zu nutzen und globale Standards in der Raumfahrt zu etablieren.
 
-## 9.6.2 Hier die mögliche Lösung
+## 9.6.2 Umsetzungslinie: Vom Konzept zur Infrastruktur
 
-_**Hier die mögliche Lösung**_
+_**Umsetzungslinie: Vom Konzept zur Infrastruktur**_
 
-_Ausarbeitung konkreter Umsetzungsschritte auf Basis der Empfehlungen von Kapitel 5.1._
+_Ausarbeitung konkreter Umsetzungsschritte auf Basis der strategischen Voraussetzungen aus [§ 9.6.1 Operationalisierung](#961-operationalisierung)._
 
-_Kapitel 5.1. formulierte strategische Empfehlungen für die Umsetzung des SPACE-Konzepts. In Kapitel 5.2. sollen nun erste konkrete Umsetzungslinien und institutionelle Modelle skizziert werden, wie diese Empfehlungen realisiert werden können._
+[§ 9.6.1 Operationalisierung](#961-operationalisierung) formuliert die Voraussetzungen für die Umsetzung des SPACE-Konzepts: Zieldefinition, Finanzierung, Governance, technische Standards sowie internationale Kooperation und Bürgerpartizipation. [§ 9.6.2](#962-umsetzungslinie-vom-konzept-zur-infrastruktur) skizziert daraus erste konkrete Umsetzungslinien und institutionelle Modelle.
 
-_Kapitel 5.2. ist damit die Brücke zwischen Vision (Kapitel 5.1.) und Ausprägungen (Kapitel 5.3. ff. - Großprojekte der SOLAR ALLIANCE). Es ermöglicht einen geordneten, demokratisch kontrollierten und verantwortungsethisch legitimierten Übergang in die strukturierte Aufbauphase der Raumzivilisation._
+[§ 9.6.2](#962-umsetzungslinie-vom-konzept-zur-infrastruktur) bildet damit die Brücke zwischen den Voraussetzungen aus [§ 9.6.1](#961-operationalisierung) und den konkreten Raumstrukturen ab [§ 9.6.3 Sphere Station EARTH ONE](#963-sphere-station-earth-one). Es ermöglicht einen geordneten, demokratisch kontrollierten und verantwortungsethisch legitimierten Übergang in die strukturierte Aufbauphase der Raumzivilisation.
 
 > _"Ein Raumprojekt ist nicht gebaut, wenn es steht. Sondern wenn es getragen wird."_
 

@@ -5,7 +5,7 @@
 [![Version](https://img.shields.io/badge/version-v2.5.0-brightgreen.svg)](https://github.com/Rob9999/erda-book/releases/tag/v2.5.0)
 
 **Current version:** v2.5.0
-**As of (date):** 2026-05-11
+**As of (date):** 2026-05-12
 **Channel:** release_candidate (final v2.5.0 preparation; stable channel after merge/tag: main)
 **Codename / Release name:** Democratic Knowledge
 

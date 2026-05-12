@@ -93,7 +93,7 @@ Ein Final-Release darf erst gesetzt werden, wenn alle Muss-Gates geschlossen sin
 | Markdown/PDF-Layout-Scan durchgeführt | ja | ersetzt durch 2.9.2-Qualitaetsdossier plus historische Scans | `gitbook-worker-2.9.2-delivery-review-v2.5.0.md`; alte Layoutscans bleiben Referenz fuer Restbefunde |
 | Generierte Markdown-Artefakte plausibel | ja | erledigt im Stichprobenscope | Kapitel 6, P.2, Kapitel 13.8, Titeldatum und 2.9.2-Rebuild geprueft |
 | Lokale Sichtprüfung der PDFs abgeschlossen | ja | technisch stichprobengeprueft mit Warnungen | `editorial-quality`, `pdftotext`/`pypdf`-Stichproben, Sichtpruefung Seite 73; volle Publisher-Sichtpruefung bleibt Final-Gate |
-| Build erzeugt keine stillschweigenden Metadatenänderungen | ja | erledigt im RC-Arbeitsstand | Datumsstand 2026-05-11 bewusst in README/book.json/CFF/Zenodo synchronisiert |
+| Build erzeugt keine stillschweigenden Metadatenänderungen | ja | erledigt im RC-Arbeitsstand | Datumsstand 2026-05-12 bewusst in README/book.json/CFF/Zenodo synchronisiert |
 
 ---
 
