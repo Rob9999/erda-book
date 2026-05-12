@@ -34,7 +34,7 @@ jobs:
 
       - name: Ruff
         working-directory: .github/fonts/erda-ccby-cjk
-        run: ruff . --output-format=github
+        run: ruff check . --output-format=github
 
       - name: Black
         working-directory: .github/fonts/erda-ccby-cjk
