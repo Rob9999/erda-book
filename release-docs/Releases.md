@@ -9,6 +9,7 @@
     - Add the 4+1 ring system to Chapter 4.2.3 as the operational model for democratic integration without a waiting room.
     - Distinguish global democratic partners, a democratic accession ring, domain-based membership, full EU/ERDA membership and a voluntary deeper constitutional-democratic core.
     - Link the model internally to Appendix A/B, EDA, CIVITAS, FORTERA, strategic sovereignty, Chapter 14 and Annex 14.F Membership Tiers.
+    - Establish the v3.00 editorial guide derived from the v2.5 evaluation as the working basis for purpose clarity, evidence labels, source hygiene, accessibility, metadata consistency and style control.
   - Editorial:
     - Keep the model in Chapter 4.2.3 as the primary text instead of moving it into an appendix.
     - Keep a later appendix option open for detailed matrices, scenarios or implementation models.
@@ -20,6 +21,7 @@
     - README, publish metadata, CFF files and `.zenodo.json` synchronised to v3.00 / 2026-06-25.
 - **Highlights:**
   - **4+1 ring system** as a clearer democratic integration model.
+  - **Editorial maturity agenda** as the second v3.00 workstream.
   - **Domain-based membership** as a bridge between partnership and full membership.
   - **Constitutional-democratic core** as optional deeper integration.
   - **Internal book network** connecting enlargement, defence, digital democracy, infrastructure resilience and strategic sovereignty.

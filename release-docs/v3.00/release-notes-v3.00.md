@@ -9,9 +9,11 @@
 
 ## Zusammenfassung
 
-Version 3.00 praezisiert die demokratische Integrationsarchitektur des ERDA-Buches. Im Zentrum steht das 4+1-Ring-System: ein Modell, das demokratische Staaten und Partner nicht in eine reine Ja/Nein-Logik aus Mitgliedschaft oder Nichtmitgliedschaft zwingt, sondern mehrere belastbare Integrationsformen unterscheidet.
+Version 3.00 praezisiert die demokratische Integrationsarchitektur des ERDA-Buches und macht die redaktionelle Reifung des Gesamtwerks zum expliziten Arbeitsgegenstand. Im Zentrum steht einerseits das 4+1-Ring-System: ein Modell, das demokratische Staaten und Partner nicht in eine reine Ja/Nein-Logik aus Mitgliedschaft oder Nichtmitgliedschaft zwingt, sondern mehrere belastbare Integrationsformen unterscheidet.
 
 Das Modell verbindet fuenf Ebenen: globale demokratische Partner, einen demokratischen Beitrittsring, domaenenbasierte Mitgliedschaft, volle EU-/ERDA-Mitgliedschaft und einen freiwilligen tieferen verfassungsdemokratischen Kern. Dadurch kann demokratische Integration frueher, differenzierter und reversibler organisiert werden, ohne rechtsstaatliche Anforderungen an volle Mitgliedschaft zu verwaessern.
+
+Andererseits ueberfuehrt v3.00 die Evaluation von Ausgabe 2.5 in einen konkreten Redaktionsleitfaden. Dieser macht Zielklarheit, Evidenzstatus, Quellenhygiene, PDF-Accessibility, Metadatenkonsistenz und Stilkontrolle zu priorisierten Arbeitsfeldern.
 
 ---
 
@@ -28,10 +30,14 @@ Das Modell verbindet fuenf Ebenen: globale demokratische Partner, einen demokrat
 - **Interne Vernetzung**
   Verweise auf Anhang A/B, Kapitel 5 EDA, Kapitel 6 CIVITAS, Kapitel 7 FORTERA, Kapitel 13 strategische Souveraenitaet, Kapitel 14 und Annex 14.F Membership Tiers.
 
+- **Redaktionsleitfaden v3.00 aus der Auswertung von Version 2.5**
+  Bereinigter Arbeitsleitfaden fuer Zielgruppe, Gattung, Evidenzlabels, Quellen- und Faktenaudit, PDF-Barrierefreiheit, Metadatenkonsistenz und Stilharmonisierung.
+
 ### Redaktionell
 
 - Das 4+1-Modell wurde als Unterkapitel in 4.2.3 integriert, weil es den Erweiterungsabschnitt direkt operationalisiert.
 - Ein eigener Anhang bleibt als spaetere Option fuer Detailmodelle, Matrizen oder Szenarien offen.
+- Die v2.5-Evaluation wurde aus dem Rohformat in einen verwendbaren v3.00-Redaktionsleitfaden ueberfuehrt.
 - Die englische Fassung wurde synchronisiert und als `in-review` markiert; eine finale EN-Freigabe wird nicht behauptet.
 
 ### Technisch
@@ -58,3 +64,4 @@ Das Modell verbindet fuenf Ebenen: globale demokratische Partner, einen demokrat
 - [Release-Plan](release-plan-v3.00.md)
 - [Release-Status](RELEASE-3.00-STATUS.md)
 - [English release notes](release-notes-v3.00-en.md)
+- [Redaktionsleitfaden v3.00](../../desktop/misc/redaktionsleitfaden-v3.00-auswertung-v2.5.md)

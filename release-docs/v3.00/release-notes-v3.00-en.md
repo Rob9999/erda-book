@@ -9,9 +9,11 @@
 
 ## Summary
 
-Version 3.00 specifies the democratic integration architecture of the ERDA Book. Its centrepiece is the 4+1 ring system: a model that does not force democratic states and partners into a binary logic of membership or non-membership, but distinguishes several robust forms of integration.
+Version 3.00 specifies the democratic integration architecture of the ERDA Book and makes editorial maturation of the full book an explicit workstream. One centrepiece is the 4+1 ring system: a model that does not force democratic states and partners into a binary logic of membership or non-membership, but distinguishes several robust forms of integration.
 
 The model connects five levels: global democratic partners, a democratic accession ring, domain-based membership, full EU/ERDA membership and a voluntary deeper constitutional-democratic core. This allows democratic integration to start earlier, remain more differentiated and stay reversible where necessary, without diluting rule-of-law requirements for full membership.
+
+The second centrepiece is the cleaned v3.00 editorial guide derived from the v2.5 evaluation. It turns purpose clarity, evidence status, source hygiene, PDF accessibility, metadata consistency and style control into prioritised workstreams.
 
 ---
 
@@ -28,10 +30,14 @@ The model connects five levels: global democratic partners, a democratic accessi
 - **Internal linking**
   References to Appendix A/B, Chapter 5 EDA, Chapter 6 CIVITAS, Chapter 7 FORTERA, Chapter 13 strategic sovereignty, Chapter 14 and Annex 14.F Membership Tiers.
 
+- **v3.00 editorial guide derived from the v2.5 evaluation**
+  Clean working guide for target audience, genre, evidence labels, source and fact audit, PDF accessibility, metadata consistency and style harmonisation.
+
 ### Editorial
 
 - The 4+1 model was integrated as a subsection in 4.2.3 because it operationalises the enlargement section directly.
 - A separate appendix remains a later option for detailed models, matrices or scenarios.
+- The v2.5 evaluation was converted from raw report format into a usable v3.00 editorial guide.
 - The English version was synchronised and marked as `in-review`; no final native EN approval is claimed in this release-candidate step.
 
 ### Technical
@@ -58,3 +64,4 @@ The model connects five levels: global democratic partners, a democratic accessi
 - [Release plan](release-plan-v3.00.md)
 - [Release status](RELEASE-3.00-STATUS.md)
 - [German release notes](release-notes-v3.00.md)
+- [v3.00 editorial guide](../../desktop/misc/redaktionsleitfaden-v3.00-auswertung-v2.5.md)

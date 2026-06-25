@@ -7,7 +7,7 @@
 
 ## Scope
 
-Release 3.00 fokussiert auf die demokratische Integrationsarchitektur des ERDA-Buches. Kern ist das 4+1-Ring-System als pragmatisches Modell zwischen geopolitischer Partnerschaft, schrittweiser Integration und voller Mitgliedschaft.
+Release 3.00 fokussiert auf zwei Arbeitsachsen: die demokratische Integrationsarchitektur des ERDA-Buches und die redaktionelle Reifung des Gesamtwerks. Inhaltlicher Kern ist das 4+1-Ring-System als pragmatisches Modell zwischen geopolitischer Partnerschaft, schrittweiser Integration und voller Mitgliedschaft. Redaktioneller Kern ist die Umsetzung der v2.5-Evaluation in klare Arbeitsgates.
 
 ### Kernthemen
 
@@ -19,6 +19,9 @@ Release 3.00 fokussiert auf die demokratische Integrationsarchitektur des ERDA-B
 
 3. **Release- und Metadatensynchronisation**
    README, `de/book.json`, `en/book.json`, `de/publish.yml`, `en/publish.yml`, CFF-Dateien, `.zenodo.json` und Release-Dokumentation werden auf v3.00 / 2026-06-25 gestellt.
+
+4. **Redaktionelle Reifeagenda**
+   Die v2.5-Evaluation wird in einen bereinigten Redaktionsleitfaden ueberfuehrt. Dieser definiert Zielklarheit, Evidenzlabels, Quellen- und Faktenaudit, PDF-Accessibility, Metadatenkonsistenz, Stilkontrolle und Publikationsarchitektur als v3.00-Arbeitsgegenstand.
 
 ### Nicht Teil dieses RC-Schritts
 
@@ -39,8 +42,10 @@ Release 3.00 fokussiert auf die demokratische Integrationsarchitektur des ERDA-B
 | 4 | Release-Docs-Ordner `release-docs/v3.00/` anlegen | erledigt |
 | 5 | Release History und Release-Index aktualisieren | erledigt |
 | 6 | Basis-Konsistenzcheck der Release-Metadaten | erledigt |
-| 7 | Final Review, Publish-Build und Publisher-Freigabe | offen |
-| 8 | Main-Merge und Tag `v3.00` | offen |
+| 7 | v2.5-Evaluation in Redaktionsleitfaden v3.00 ueberfuehren | erledigt |
+| 8 | Redaktionsgates fuer Zielklarheit, Evidenzstatus, Quellen, Accessibility und Stil abarbeiten | offen |
+| 9 | Final Review, Publish-Build und Publisher-Freigabe | offen |
+| 10 | Main-Merge und Tag `v3.00` | offen |
 
 ---
 
@@ -49,6 +54,7 @@ Release 3.00 fokussiert auf die demokratische Integrationsarchitektur des ERDA-B
 - Neues Unterkapitel 4.2.3.6 zum 4+1-Ring-System (DE).
 - Englische Synchronfassung in Kapitel 4.2.3 (EN, `status: in-review`).
 - Aktualisierte Quellen- und Kapitelverweise in 4.2.3.
+- Bereinigter Redaktionsleitfaden aus der v2.5-Evaluation in `desktop/misc/`.
 - Synchronisierte v3.00-Metadaten in README, book.json, publish.yml, CFF und Zenodo-Metadaten.
 - Release-Dokumentation in `release-docs/v3.00/`.
 
@@ -63,6 +69,12 @@ Release 3.00 fokussiert auf die demokratische Integrationsarchitektur des ERDA-B
 - [x] README-Releaseabschnitte auf v3.00 aktualisieren.
 - [x] CFF-Abstracts an den v3.00-Scope anpassen.
 - [x] `.zenodo.json` auf v3.00-Beschreibung und Keywords aktualisieren.
+- [x] v2.5-Evaluation in Redaktionsleitfaden v3.00 ueberfuehren.
 - [x] Release-Metadaten per Basischeck pruefen.
+- [ ] Zielgruppe, Gattung und Nutzungsszenario redaktionell klaeren.
+- [ ] Evidenzlabel-System definieren und pilotieren.
+- [ ] Quellen- und Faktenaudit fuer tragende Claims planen.
+- [ ] Accessibility-Gate fuer den naechsten Publish-Build definieren.
+- [ ] Stil- und Registerpass als Redaktionsauftrag planen.
 - [ ] Publish-Artefakte nach Final-Freeze regenerieren.
 - [ ] Final Review, Publisher-Freigabe und Tag dokumentieren.

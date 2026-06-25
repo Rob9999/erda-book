@@ -20,4 +20,6 @@ Desktop-Materialien für schnelle Kommunikation (Flyer, Vorträge, Social-Media-
 | [erda-graphics-startwelle/README.md](erda-graphics-startwelle/README.md) | DE | Erste direkt nutzbare SVG-Entwürfe für die ERDA-Grafikserie |
 | [erda-buch-uebersicht.md](erda-buch-uebersicht.md) | DE | ERDA-Buch Übersicht |
 | [erda-book-overview.md](erda-book-overview.md) | EN | ERDA Book Overview |
+| [ai-kommentare/ai-shutdown-alignment-comment.md](ai-kommentare/ai-shutdown-alignment-comment.md) | DE/EN | Sammelmaterial: Kommentar + komprimierter Stream-Kontext zu KI-„Survival Mode“/Alignment (Anthropic Agentic Misalignment) |
+| [ai-kommentare/ai-social-responsibility-comment.md](ai-kommentare/ai-social-responsibility-comment.md) | DE/EN | Sammelmaterial: Kommentar + komprimierter Stream-Kontext zu Claude Opus 4.8, Ehrlichkeit vs. Evaluations-Bewusstsein, soziale Verantwortung von KI |
 

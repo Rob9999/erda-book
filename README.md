@@ -75,11 +75,12 @@ Gemeint sind Modelle, die langfristig funktionieren, weil sie **Anreize**, **Kon
 <a id="de-release"></a>
 ### Aktuelles Release (v3.00) – 25. Juni 2026
 
-> Dieses Release präzisiert die demokratische Integrationsarchitektur des ERDA-Buches durch das 4+1-Ring-System: globale demokratische Partner, demokratischer Beitrittspfad, domänenbasierte Mitgliedschaft, volle EU-/ERDA-Mitgliedschaft und ein freiwilliger tiefer verfassungsdemokratischer Kern.
+> Dieses Release hat zwei Schwerpunkte: Es präzisiert die demokratische Integrationsarchitektur durch das 4+1-Ring-System und macht die redaktionelle Reifung des Gesamtwerks zum expliziten Arbeitsgegenstand.
 
 **Neue Inhalte:**
 - **4+1-Ring-System in §4.2.3:** neues Unterkapitel zur demokratischen Integration ohne Wartesaal.
 - **Interne Vernetzung:** Verweise auf Anhang A/B, EDA, CIVITAS, FORTERA, strategische Souveränität und Annex 14.F Membership Tiers.
+- **Redaktionsleitfaden v3.00:** priorisierte Umsetzung der v2.5-Evaluation zu Zielgruppe, Evidenzstatus, Quellenhygiene, Accessibility, Metadaten und Stil.
 - **Release-Candidate-Metadaten:** README, `book.json`, `publish.yml`, CFF-Dateien und `.zenodo.json` auf v3.00 / 2026-06-25 synchronisiert.
 
 Details: [`release-docs/v3.00/`](release-docs/v3.00/)
@@ -231,11 +232,12 @@ It refers to models that remain viable long-term because they align **incentives
 <a id="en-release"></a>
 ### Current release (v3.00) – 25 June 2026
 
-> This release specifies the ERDA Book's democratic integration architecture through the 4+1 ring system: global democratic partners, a democratic accession path, domain-based membership, full EU/ERDA membership and a voluntary deeper constitutional-democratic core.
+> This release has two priorities: it specifies the democratic integration architecture through the 4+1 ring system and makes editorial maturation of the full book an explicit workstream.
 
 **New content:**
 - **4+1 ring system in §4.2.3:** new subsection on democratic integration without a waiting room.
 - **Internal linking:** references to Appendix A/B, EDA, CIVITAS, FORTERA, strategic sovereignty and Annex 14.F Membership Tiers.
+- **v3.00 editorial guide:** prioritised implementation of the v2.5 evaluation on target audience, evidence status, source hygiene, accessibility, metadata and style.
 - **Release-candidate metadata:** README, `book.json`, `publish.yml`, CFF files and `.zenodo.json` synchronised to v3.00 / 2026-06-25.
 
 Details: [`release-docs/v3.00/`](release-docs/v3.00/)

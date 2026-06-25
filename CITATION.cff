@@ -24,14 +24,19 @@ abstract: >-
   Release 3.00 specifies ERDA's democratic integration architecture through the
   4+1 ring system: global democratic partners, democratic accession, domain-based
   membership, full EU/ERDA membership and a voluntary constitutional core.
+  It also establishes the v3.00 editorial maturity agenda: purpose clarity,
+  evidence labels, source hygiene, accessibility and metadata consistency.
   Bilingual (DE/EN). Texts: CC BY-SA 4.0; Code: MIT; Fonts: CC BY 4.0 / MIT.
   --
   Offenes Buchprojekt zur strategischen, ethischen und technologischen Erneuerung
   Europas. Release 3.00 praezisiert die demokratische Integrationsarchitektur
   der ERDA durch das 4+1-Ring-System: globale demokratische Partner,
   demokratischer Beitritt, domaenenbasierte Mitgliedschaft, volle EU-/ERDA-
-  Mitgliedschaft und ein freiwilliger Verfassungskern. Zweisprachig (DE/EN).
-  Texte: CC BY-SA 4.0; Code: MIT; Fonts: CC BY 4.0 / MIT.keywords:
+  Mitgliedschaft und ein freiwilliger Verfassungskern. Zugleich legt es die
+  redaktionelle Reifeagenda fuer v3.00 fest: Zweckklarheit, Evidenzlabels,
+  Quellenhygiene, Barrierefreiheit und Metadatenkonsistenz. Zweisprachig
+  (DE/EN). Texte: CC BY-SA 4.0; Code: MIT; Fonts: CC BY 4.0 / MIT.
+keywords:
   - ERDA
   - Europe
   - democracy
