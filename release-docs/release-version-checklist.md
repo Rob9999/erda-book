@@ -6,7 +6,7 @@
 > **Purpose:** This file lists **all** files that must be updated on a version change.
 > Used as a binding checklist for every release.
 
-**Letzte Aktualisierung / Last updated:** 2026-05-12 (v2.5.0 final metadata examples)
+**Letzte Aktualisierung / Last updated:** 2026-06-25 (v3.00 release-candidate metadata examples)
 
 ---
 
@@ -14,17 +14,17 @@
 
 | # | Datei / File | Feld(er) / Field(s) | Beispiel / Example |
 |---|---|---|---|
-| 1 | `README.md` | Badge-URL, **Current version**, **As of (date)**, **Codename**, ToC-Einträge (DE+EN), Release-Überschriften (DE+EN) | `v2.5.0`, `2026-05-12` |
-| 2 | `CITATION.cff` (Root) | `version`, `date-released` | `"2.5.0"`, `'2026-05-12'` |
+| 1 | `README.md` | Badge-URL, **Current version**, **As of (date)**, **Codename**, ToC-Einträge (DE+EN), Release-Überschriften (DE+EN) | `v3.00`, `2026-06-25` |
+| 2 | `CITATION.cff` (Root) | `version`, `date-released` | `"3.00"`, `'2026-06-25'` |
 | 3 | `de/CITATION.cff` | `version`, `date-released` | wie Root |
 | 4 | `en/CITATION.cff` | `version`, `date-released` | wie Root |
 | 5 | `de/publish/CITATION.cff` | `version`, `date-released` | wie Root |
 | 6 | `en/publish/CITATION.cff` | `version`, `date-released` | wie Root |
-| 7 | `de/book.json` | `"date"` | `"2026-05-12"` |
-| 8 | `en/book.json` | `"date"` | `"2026-05-12"` |
-| 9 | `de/publish.yml` | `project.version` | `2.5.0` |
-| 10 | `en/publish.yml` | `project.version` | `2.5.0` |
-| 11 | `.zenodo.json` | `"version"` | `"2.5.0"` |
+| 7 | `de/book.json` | `"date"` | `"2026-06-25"` |
+| 8 | `en/book.json` | `"date"` | `"2026-06-25"` |
+| 9 | `de/publish.yml` | `project.version` | `"3.00"` |
+| 10 | `en/publish.yml` | `project.version` | `"3.00"` |
+| 11 | `.zenodo.json` | `"version"` | `"3.00"` |
 
 ---
 
@@ -121,4 +121,4 @@ Gemäß `AGENTS.md` und `how-to-release.md`:
 git grep -n "OLD_VERSION" -- "*.md" "*.json" "*.yml" "*.yaml" "*.cff"
 ```
 
-Ersetze `OLD_VERSION` mit der vorherigen Versionsnummer (z. B. `2.0.0`).
+Ersetze `OLD_VERSION` mit der vorherigen Versionsnummer (z. B. `2.5.0`).

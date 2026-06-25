@@ -2,12 +2,12 @@
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/Content-CC%20BY--SA%204.0-lightgrey.svg)](LICENSE)
 [![License: MIT](https://img.shields.io/badge/Code-MIT-blue.svg)](LICENSE-CODE)
-[![Version](https://img.shields.io/badge/version-v2.5.0-brightgreen.svg)](https://github.com/Rob9999/erda-book/releases/tag/v2.5.0)
+[![Version](https://img.shields.io/badge/version-v3.00-brightgreen.svg)](https://github.com/Rob9999/erda-book/releases/tag/v3.00)
 
-**Current version:** v2.5.0
-**As of (date):** 2026-05-12
-**Channel:** release_candidate (final v2.5.0 preparation; stable channel after merge/tag: main)
-**Codename / Release name:** Democratic Knowledge
+**Current version:** v3.00
+**As of (date):** 2026-06-25
+**Channel:** release_candidate (v3.00 preparation; stable channel after merge/tag: main)
+**Codename / Release name:** Democratic Integration
 
 **Multi-language democratic resilience framework**
 🇩🇪 Deutsche Fassung: [`de/`](de/publish/das-erda-buch.pdf)
@@ -17,7 +17,7 @@
 
 - 🇩🇪 [Deutsch](#de)
   - [Was ist das ERDA Buch?](#de-was-ist)
-   - [Aktuelles Release (v2.5.0)](#de-release)
+   - [Aktuelles Release (v3.00)](#de-release)
   - [Lizenz](#de-lizenz)
   - [Zitierung](#de-zitierung)
   - [Attribution und Lizenzierung](#de-attribution)
@@ -25,7 +25,7 @@
   - [Tooling & Build](#de-tooling)
 - 🇬🇧 [English](#en)
   - [What is the ERDA Book?](#en-what-is)
-   - [Current release (v2.5.0)](#en-release)
+   - [Current release (v3.00)](#en-release)
   - [Licence](#en-licence)
   - [Citation](#en-citation)
   - [Attribution and licensing](#en-attribution)
@@ -73,40 +73,29 @@ Es verbindet dabei:
 Gemeint sind Modelle, die langfristig funktionieren, weil sie **Anreize**, **Kontrollmechanismen** und **gesellschaftliche Tragfähigkeit** zusammendenken – statt nur Idealbilder zu formulieren.
 
 <a id="de-release"></a>
-### Aktuelles Release (v2.5.0) – 11. Mai 2026
+### Aktuelles Release (v3.00) – 25. Juni 2026
 
-> Dieses Release vertieft die normativen Grundlagen des ERDA-Buches. Im Zentrum steht das „Demokratische Wissen" – sieben Prinzipien als Leitfaden für demokratische Handlungsfähigkeit.
+> Dieses Release präzisiert die demokratische Integrationsarchitektur des ERDA-Buches durch das 4+1-Ring-System: globale demokratische Partner, demokratischer Beitrittspfad, domänenbasierte Mitgliedschaft, volle EU-/ERDA-Mitgliedschaft und ein freiwilliger tiefer verfassungsdemokratischer Kern.
 
 **Neue Inhalte:**
-- 📜 **„Demokratisches Wissen"** – Sieben Prinzipien zu Macht, Umgang mit nicht-demokratiewilligen Staaten, Frieden und Sicherheit, Wahrheit und Täuschung, Demokratie, Technologie/KI und der inneren Verfassung.
-- 🏛️ **CIVITAS Public / Anhang P.2** – veröffentlichtes Working Paper zur europäischen digitalen Agora; Kapitel 6 wurde als operative CIVITAS-Architektur mit Governance, Technik, Rechtsschutz und Roadmap vertieft.
-- 📏 **Anhang M / Anhang P** – messbarer Buchprojektmaßstab und Paper-Anhang mit DOI-/APA-Pflicht für veröffentlichte ERDA-Papers.
-- ✍️ **Redaktionelle Qualitätsoffensive** – README-Abschnitte in professionellem redaktionellem Ton.
+- **4+1-Ring-System in §4.2.3:** neues Unterkapitel zur demokratischen Integration ohne Wartesaal.
+- **Interne Vernetzung:** Verweise auf Anhang A/B, EDA, CIVITAS, FORTERA, strategische Souveränität und Annex 14.F Membership Tiers.
+- **Release-Candidate-Metadaten:** README, `book.json`, `publish.yml`, CFF-Dateien und `.zenodo.json` auf v3.00 / 2026-06-25 synchronisiert.
 
-Details: [`release-docs/v2.5.0/`](release-docs/v2.5.0/)
+Details: [`release-docs/v3.00/`](release-docs/v3.00/)
 
 <details>
-<summary>Vorheriges Release: v2.0.0 – 1. März 2026</summary>
+<summary>Vorheriges Release: v2.5.0 - 12. Mai 2026</summary>
 
-> Dieses Release transformiert das ERDA-Buch von einem konzeptionellen Entwurf zu einem umfassenden Governance-Rahmenwerk mit konkreter Vertrags- und Bündnisarchitektur.
+> Dieses Release vertiefte die normativen Grundlagen des ERDA-Buches. Im Zentrum stand das „Demokratische Wissen" als Leitfaden für demokratische Handlungsfähigkeit.
 
-Erweiterung von **9 auf 14 Kapitel** mit über 200 Seiten neuem Inhalt:
+Weitere Schwerpunkte:
+- **CIVITAS Public / Anhang P.2:** veröffentlichtes Working Paper zur europäischen digitalen Agora; Kapitel 6 wurde als operative CIVITAS-Architektur vertieft.
+- **Anhang M / Anhang P:** messbarer Buchprojektmaßstab und Paper-Anhänge mit DOI-/APA-Pflicht für veröffentlichte ERDA-Papers.
+- **Kapitel 8 und §10.2.1:** ARKTIS-Konsolidierung sowie Demokratie der Mündigen als Verantwortungsrahmen für Menschen, KI und mögliche weitere mündige Wesen.
+- **Redaktionelle Qualitätsoffensive:** README, Rollenmodell, Frontmatter und Release-Gates wurden weiter professionalisiert.
 
-| Kap. | Thema | Highlights |
-|---|---|---|
-| **10** | KI-Governance | Ko-Evolutions-Index (KEI) als demokratisches Frühwarninstrument |
-| **11** | Bürger-Konzept | Adaptiver Pflichtdienst, demografischer Imperativ |
-| **12** | Demokratie-Konzept | Sieben Transformationsregeln sozialer Demokratie |
-| **13** | Strategische Souveränität | Werkzeugkoffer gegen Selbstabschreckung (Luftverteidigung, Attrition, Hybridabwehr) |
-| **14** | Koalitionen der Willigen | EDDRC-Club-Architektur, Stufenmodell Tier 0–9, Verfassungsskizze (Art. 1–30), 6 Vertragsanlagen mit 155 Artikeln |
-
-Weitere Neuerungen:
-- ⚔️ **Zaluzhnyi-Integration:** Kill-Zonen, transparenter Gefechtsraum, Drohnenkrieg – Erkenntnisse aus dem russisch-ukrainischen Krieg (6 Kapitel)
-- 📖 **D.5 Strategiepapier:** Russlands Verhandlungstaktik als Kriegsinstrument und europäische Gegenstrategien
-- 📊 **Glossar:** 30 Begriffe (19 bestehend + 11 neu)
-- 🌐 **Vollständige DE↔EN-Synchronisation** aller neuen Kapitel
-
-Details: [`release-docs/v2.0.0/`](release-docs/v2.0.0/)
+Details: [`release-docs/v2.5.0/`](release-docs/v2.5.0/)
 
 </details>
 
@@ -240,40 +229,29 @@ It combines:
 It refers to models that remain viable long-term because they align **incentives**, **control mechanisms**, and **social sustainability**, instead of only describing ideals.
 
 <a id="en-release"></a>
-### Current release (v2.5.0) – 11 May 2026
+### Current release (v3.00) – 25 June 2026
 
-> This release deepens the normative foundations of the ERDA Book. At its centre is "Democratic Knowledge" – seven principles serving as a guide for democratic agency.
+> This release specifies the ERDA Book's democratic integration architecture through the 4+1 ring system: global democratic partners, a democratic accession path, domain-based membership, full EU/ERDA membership and a voluntary deeper constitutional-democratic core.
 
 **New content:**
-- 📜 **"Democratic Knowledge"** – Seven principles on power, dealing with non-democracy-willing states, peace and security, truth and deception, democracy, technology/AI, and the inner condition.
-- 🏛️ **CIVITAS Public / Appendix P.2** – published working paper on a European digital agora; Chapter 6 was deepened as an operational CIVITAS architecture with governance, technology, legal safeguards and roadmap.
-- 📏 **Appendix M / Appendix P** – measurable book-project yardstick and paper appendix with DOI/APA requirements for published ERDA papers.
-- ✍️ **Editorial quality initiative** – README sections rewritten in a professional editorial voice.
+- **4+1 ring system in §4.2.3:** new subsection on democratic integration without a waiting room.
+- **Internal linking:** references to Appendix A/B, EDA, CIVITAS, FORTERA, strategic sovereignty and Annex 14.F Membership Tiers.
+- **Release-candidate metadata:** README, `book.json`, `publish.yml`, CFF files and `.zenodo.json` synchronised to v3.00 / 2026-06-25.
 
-Details: [`release-docs/v2.5.0/`](release-docs/v2.5.0/)
+Details: [`release-docs/v3.00/`](release-docs/v3.00/)
 
 <details>
-<summary>Previous release: v2.0.0 – 1 March 2026</summary>
+<summary>Previous release: v2.5.0 - 12 May 2026</summary>
 
-> This release transforms the ERDA book from a conceptual draft into a comprehensive governance framework with a concrete treaty and alliance architecture.
+> This release deepened the normative foundations of the ERDA Book. At its centre was "Democratic Knowledge" as a guide for democratic agency.
 
-Expansion from **9 to 14 chapters** with over 200 pages of new content:
+Further priorities:
+- **CIVITAS Public / Appendix P.2:** published working paper on a European digital agora; Chapter 6 was deepened as an operational CIVITAS architecture.
+- **Appendix M / Appendix P:** measurable book-project yardstick and paper appendices with DOI/APA requirements for published ERDA papers.
+- **Chapter 8 and §10.2.1:** ARKTIS consolidation and Democracy of the Mature as a responsibility frame for humans, AI and possible future mature beings.
+- **Editorial quality initiative:** README, roles model, front matter and release gates were professionalised further.
 
-| Ch. | Topic | Highlights |
-|---|---|---|
-| **10** | AI Governance | Co-evolution Index (KEI) as a democratic early-warning instrument |
-| **11** | Citizen Concept | Adaptive duty service, demographic imperative |
-| **12** | Democracy Concept | Seven transformation rules of social democracy |
-| **13** | Strategic Sovereignty | Toolbox against self-deterrence (air defence, attrition, hybrid defence) |
-| **14** | Coalitions of the Willing | EDDRC club architecture, tier model Tier 0–9, constitutional sketch (Art. 1–30), 6 treaty annexes with 155 articles |
-
-Further additions:
-- ⚔️ **Zaluzhnyi integration:** Kill zones, transparent battlespace, drone warfare – insights from the Russo-Ukrainian war (6 chapters)
-- 📖 **D.5 Strategy paper:** Russia’s negotiation tactics as an instrument of war and European counter-strategies
-- 📊 **Glossary:** 30 terms (19 existing + 11 new)
-- 🌐 **Full DE↔EN synchronisation** of all new chapters
-
-Details: [`release-docs/v2.0.0/`](release-docs/v2.0.0/)
+Details: [`release-docs/v2.5.0/`](release-docs/v2.5.0/)
 
 </details>
 

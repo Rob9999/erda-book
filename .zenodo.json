@@ -1,104 +1,107 @@
-﻿{
-    "title": "The ERDA Book â€“ Democratic Evolution: Strategy, Ethics and the Future of Europe",
-    "upload_type": "publication",
-    "publication_type": "book",
-    "creators": [
-        {
-            "name": "Massinger, Robert Alexander",
-            "affiliation": "Independent Author, Munich, Germany"
-        }
-    ],
-    "contributors": [
-        {
-            "name": "ChatGPT (OpenAI)",
-            "type": "Other"
-        },
-        {
-            "name": "GitHub Copilot (Anthropic)",
-            "type": "Other"
-        },
-        {
-            "name": "ERDA Community Translation Workgroup",
-            "type": "Other"
-        }
-    ],
-    "description": "<a id=\"release-2-5-0-gb\"></a><h1>Release 2.5.0 â€“ Democratic Knowledge</h1><p><strong>Released:</strong> 12 May 2026<br><strong>Channel:</strong> stable release</p><p>Release 2.5.0 deepens the normative foundations of the ERDA Book. At its centre is <strong>Democratic Knowledge</strong>, a seven-principle reference document for democratic agency: power, dealing with non-democracy-willing states, peace and security, truth and deception, democracy itself, technology and AI, and the inner condition of a democratic society.</p><p>The release also integrates conceptual papers and implementation material into the book: a guiding vision for raising children in freedom and responsibility (Â§11.3.7), a strategic reflection on the Mosaic Principle and democratic DSN resilience (Â§5.8.4), the Anti-Game-Over Principle as Appendix P.1, CIVITAS Public as Appendix P.2, and a deepened Chapter 6 on CIVITAS as Europe's democratic digital infrastructure. It also adds Appendix M as a measurable book-project yardstick for release criteria, source standards and open project decisions.</p><h2>Highlights</h2><ul><li>Democratic Knowledge reference material in German and English.</li><li>New chapter section Â§11.3.7 on child-rearing in freedom and responsibility.</li><li>New chapter section Â§5.8.4 on the Mosaic Principle and democratic DSN resilience.</li><li>New Appendix M: Measure â€“ measurable book-project decisions and release criteria.</li><li>New Appendix P.1: Paper â€“ Childhood, Adulthood, and the Anti-Game-Over Principle.</li><li>New Appendix P.2: Paper â€“ CIVITAS Public: Building a European Digital Agora.</li><li>Deepened Chapter 6: CIVITAS as operational democratic digital infrastructure.</li><li>Worker-roles ethics-before-strategy pass across the ethical foundations and strategic security chapters.</li><li>Normalized DE/EN content frontmatter and translation mapping metadata.</li><li>Publish artefacts rebuilt with gitbook_worker 2.9.2; quality gate passed with warnings and no blocked or fail findings.</li></ul><p><strong>Release notes:</strong> see <code>release-docs/v2.5.0/</code> in the repository. Texts, graphics and diagrams are licensed under CC BY-SA 4.0; code and build scripts under MIT; own fonts under CC BY 4.0 or MIT; emojis use Twemoji under CC BY 4.0. The canonical attribution register is <code>ATTRIBUTION.md</code>.</p><hr><a id=\"release-2-5-0-de\"></a><h1>Release 2.5.0 â€“ Demokratisches Wissen</h1><p><strong>VerÃ¶ffentlicht:</strong> 11. Mai 2026<br><strong>Kanal:</strong> stabiler Release</p><p>Version 2.5.0 vertieft die normativen Grundlagen des ERDA-Buches. Im Zentrum steht <strong>Demokratisches Wissen</strong>, ein Referenzdokument mit sieben Prinzipien demokratischer HandlungsfÃ¤higkeit: Macht, Umgang mit nicht-demokratiewilligen Staaten, Frieden und Sicherheit, Wahrheit und TÃ¤uschung, Demokratie selbst, Technologie und KI sowie die innere Verfassung einer demokratischen Gesellschaft.</p><p>AuÃŸerdem integriert dieses Release konzeptionelle Papers und Umsetzungsbausteine in das Buch: ein Erziehungsleitbild fÃ¼r Freiheit und Verantwortung (Â§11.3.7), eine strategische Reflexion zum Mosaik-Prinzip und demokratischer DSN-Resilienz (Â§5.8.4), das Anti-Game-Over-Prinzip als Anhang P.1, CIVITAS Public als Anhang P.2 und ein vertieftes Kapitel 6 zu CIVITAS als europÃ¤ischer demokratischer Digitalinfrastruktur. Neu ist auÃŸerdem Anhang M als messbarer BuchprojektmaÃŸstab fÃ¼r Release-Kriterien, Quellenstandards und offene Projektentscheidungen.</p><h2>Highlights</h2><ul><li>Referenzmaterial zu Demokratischem Wissen auf Deutsch und Englisch.</li><li>Neuer Kapitelabschnitt Â§11.3.7 zu Erziehung in Freiheit und Verantwortung.</li><li>Neuer Kapitelabschnitt Â§5.8.4 zum Mosaik-Prinzip und demokratischer DSN-Resilienz.</li><li>Neuer Anhang M: MaÃŸstab â€“ messbare Buchprojektentscheidungen und Release-Kriterien.</li><li>Neuer Anhang P.1: Paper â€“ Kindheit, Erwachsenwerden und das Anti-Game-Over-Prinzip.</li><li>Neuer Anhang P.2: Paper â€“ CIVITAS Public: Building a European Digital Agora.</li><li>Vertieftes Kapitel 6: CIVITAS als operative demokratische Digitalinfrastruktur.</li><li>Worker-Roles-Durchgang â€žEthik vor Strategieâ€œ in den ethischen Grundlagen- und strategischen Sicherheitskapiteln.</li><li>Normalisierte DE/EN-Frontmatter- und Ãœbersetzungszuordnung.</li><li>Publish-Artefakte mit gitbook_worker 2.9.2 neu erzeugt; Quality-Gate mit Warnungen bestanden, ohne blocked- oder fail-Befunde.</li></ul><p><strong>Release Notes:</strong> siehe <code>release-docs/v2.5.0/</code> im Repository. Texte, Grafiken und Diagramme stehen unter CC BY-SA 4.0; Code und Build-Skripte unter MIT; eigene Fonts unter CC BY 4.0 oder MIT; Emojis nutzen Twemoji unter CC BY 4.0. Das kanonische Attributionsregister ist <code>ATTRIBUTION.md</code>.</p>",
-    "version": "2.5.0",
-    "keywords": [
-        "ERDA",
-        "Europe",
-        "Democracy",
-        "Rule of Law",
-        "Resilience",
-        "Ethics",
-        "Future",
-        "Open Access",
-        "Civilisation",
-        "Transformation",
-        "Geopolitics",
-        "Multilingual",
-        "Translation Workflow",
-        "Coalitions of the Willing",
-        "Defence",
-        "Strategic Sovereignty",
-        "AI Governance",
-        "Citizen Duty Model",
-        "EDDRC",
-        "Zaluzhnyi",
-        "democratic resilience",
-        "Democratic Knowledge",
-        "Ethics before Strategy",
-        "Democracy of Mature Citizens",
-        "Ukraine-first Principle",
-        "Mosaic Principle",
-        "Anti-Game-Over Principle",
-        "CIVITAS",
-        "CIVITAS Public",
-        "Digital Democracy",
-        "Digital Agora",
-        "Prosperative Life",
-        "Childhood and Adulthood",
-        "Release v2.5.0"
-    ],
-    "license": "CC-BY-SA-4.0",
-    "language": "eng",
-    "access_right": "open",
-    "communities": [
-        {
-            "identifier": "erda"
-        }
-    ],
-    "related_identifiers": [
-        {
-            "identifier": "https://github.com/Rob9999/erda-book",
-            "relation": "isSupplementedBy",
-            "resource_type": "software"
-        },
-        {
-            "identifier": "https://github.com/Rob9999/erda-book/blob/main/de/content/anhang-j-lizenz---offenheit.md",
-            "relation": "isDocumentedBy",
-            "resource_type": "publication-other"
-        },
-        {
-            "identifier": "https://github.com/Rob9999/erda-book/blob/main/en/content/appendix-j-license-and-openness.md",
-            "relation": "isDocumentedBy",
-            "resource_type": "publication-other"
-        },
-        {
-            "identifier": "https://github.com/Rob9999/erda-book/blob/main/ATTRIBUTION.md",
-            "relation": "isDocumentedBy",
-            "resource_type": "publication-other"
-        },
-        {
-            "identifier": "https://github.com/Rob9999/erda-book/blob/main/de/publish/ATTRIBUTION.md",
-            "relation": "isDocumentedBy",
-            "resource_type": "publication-other"
-        },
-        {
-            "identifier": "https://github.com/Rob9999/erda-book/blob/main/en/publish/ATTRIBUTION.md",
-            "relation": "isDocumentedBy",
-            "resource_type": "publication-other"
-        }
-    ],
-    "notes": "Licence matrix: Texts, graphics and diagrams = CC BY-SA 4.0; Code, toolchain and scripts = MIT; self-developed fonts = CC BY 4.0 or MIT (dual licence); emojis = Twemoji (CC BY 4.0). Each language edition is maintained in its own repository folder with dedicated licensing, citation, attribution and publication configuration. CI/CD workflows support parallel multilingual builds."
+{
+    "title":  "The ERDA Book â€“ Democratic Evolution: Strategy, Ethics and the Future of Europe",
+    "upload_type":  "publication",
+    "publication_type":  "book",
+    "creators":  [
+                     {
+                         "name":  "Massinger, Robert Alexander",
+                         "affiliation":  "Independent Author, Munich, Germany"
+                     }
+                 ],
+    "contributors":  [
+                         {
+                             "name":  "ChatGPT (OpenAI)",
+                             "type":  "Other"
+                         },
+                         {
+                             "name":  "GitHub Copilot (Anthropic)",
+                             "type":  "Other"
+                         },
+                         {
+                             "name":  "ERDA Community Translation Workgroup",
+                             "type":  "Other"
+                         }
+                     ],
+    "description":  "\u003ca id=\"release-3-00-gb\"\u003e\u003c/a\u003e\u003ch1\u003eRelease 3.00 - Democratic Integration\u003c/h1\u003e\u003cp\u003e\u003cstrong\u003eReleased:\u003c/strong\u003e 25 June 2026\u003cbr\u003e\u003cstrong\u003eChannel:\u003c/strong\u003e release candidate\u003c/p\u003e\u003cp\u003eRelease 3.00 specifies ERDA\u0027s democratic integration architecture through the \u003cstrong\u003e4+1 ring system\u003c/strong\u003e: global democratic partners, a democratic accession path, domain-based membership, full EU/ERDA membership and a voluntary deeper constitutional-democratic core.\u003c/p\u003e\u003ch2\u003eHighlights\u003c/h2\u003e\u003cul\u003e\u003cli\u003eNew Chapter 4.2.3 subsection: the 4+1 ring system for democratic integration without a waiting room.\u003c/li\u003e\u003cli\u003eInternal links to Appendix A/B, EDA, CIVITAS, FORTERA, Strategic Sovereignty and Annex 14.F membership tiers.\u003c/li\u003e\u003cli\u003eVersion and release-candidate metadata synchronised for v3.00.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRelease notes:\u003c/strong\u003e see \u003ccode\u003erelease-docs/v3.00/\u003c/code\u003e in the repository.\u003c/p\u003e\u003chr\u003e\u003ca id=\"release-3-00-de\"\u003e\u003c/a\u003e\u003ch1\u003eRelease 3.00 - Democratic Integration\u003c/h1\u003e\u003cp\u003e\u003cstrong\u003eVeroeffentlicht:\u003c/strong\u003e 25. Juni 2026\u003cbr\u003e\u003cstrong\u003eKanal:\u003c/strong\u003e Release Candidate\u003c/p\u003e\u003cp\u003eVersion 3.00 praezisiert die demokratische Integrationsarchitektur der ERDA durch das \u003cstrong\u003e4+1-Ring-System\u003c/strong\u003e: globale demokratische Partner, demokratischer Beitrittspfad, domaenenbasierte Mitgliedschaft, volle EU-/ERDA-Mitgliedschaft und ein freiwilliger tiefer verfassungsdemokratischer Kern.\u003c/p\u003e\u003ch2\u003eHighlights\u003c/h2\u003e\u003cul\u003e\u003cli\u003eNeuer Abschnitt in Kapitel 4.2.3: das 4+1-Ring-System fuer demokratische Integration ohne Wartesaal.\u003c/li\u003e\u003cli\u003eInterne Links zu Anhang A/B, EDA, CIVITAS, FORTERA, Strategischer Souveraenitaet und Annex 14.F Membership Tiers.\u003c/li\u003e\u003cli\u003eVersion und Release-Candidate-Metadaten fuer v3.00 synchronisiert.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRelease Notes:\u003c/strong\u003e siehe \u003ccode\u003erelease-docs/v3.00/\u003c/code\u003e im Repository.\u003c/p\u003e",
+    "version":  "3.00",
+    "keywords":  [
+                     "ERDA",
+                     "Europe",
+                     "Democracy",
+                     "Rule of Law",
+                     "Resilience",
+                     "Ethics",
+                     "Future",
+                     "Open Access",
+                     "Civilisation",
+                     "Transformation",
+                     "Geopolitics",
+                     "Multilingual",
+                     "Translation Workflow",
+                     "Coalitions of the Willing",
+                     "Defence",
+                     "Strategic Sovereignty",
+                     "AI Governance",
+                     "Citizen Duty Model",
+                     "EDDRC",
+                     "Zaluzhnyi",
+                     "democratic resilience",
+                     "Ethics before Strategy",
+                     "Democracy of Mature Citizens",
+                     "Ukraine-first Principle",
+                     "Mosaic Principle",
+                     "Anti-Game-Over Principle",
+                     "CIVITAS",
+                     "CIVITAS Public",
+                     "Digital Democracy",
+                     "Digital Agora",
+                     "Prosperative Life",
+                     "Childhood and Adulthood",
+                     "4+1 Ring System",
+                     "Domain-based Membership",
+                     "Democratic Integration",
+                     "Release v3.00"
+                 ],
+    "license":  "cc-by-sa-4.0",
+    "language":  "eng",
+    "access_right":  "open",
+    "communities":  [
+                        {
+                            "identifier":  "erda"
+                        }
+                    ],
+    "related_identifiers":  [
+                                {
+                                    "identifier":  "https://github.com/Rob9999/erda-book",
+                                    "relation":  "isSupplementedBy",
+                                    "resource_type":  "software"
+                                },
+                                {
+                                    "identifier":  "https://github.com/Rob9999/erda-book/blob/main/de/content/anhang-j-lizenz---offenheit.md",
+                                    "relation":  "isDocumentedBy",
+                                    "resource_type":  "publication-other"
+                                },
+                                {
+                                    "identifier":  "https://github.com/Rob9999/erda-book/blob/main/en/content/appendix-j-license-and-openness.md",
+                                    "relation":  "isDocumentedBy",
+                                    "resource_type":  "publication-other"
+                                },
+                                {
+                                    "identifier":  "https://github.com/Rob9999/erda-book/blob/main/ATTRIBUTION.md",
+                                    "relation":  "isDocumentedBy",
+                                    "resource_type":  "publication-other"
+                                },
+                                {
+                                    "identifier":  "https://github.com/Rob9999/erda-book/blob/main/de/publish/ATTRIBUTION.md",
+                                    "relation":  "isDocumentedBy",
+                                    "resource_type":  "publication-other"
+                                },
+                                {
+                                    "identifier":  "https://github.com/Rob9999/erda-book/blob/main/en/publish/ATTRIBUTION.md",
+                                    "relation":  "isDocumentedBy",
+                                    "resource_type":  "publication-other"
+                                }
+                            ],
+    "notes":  "Licence matrix: Texts, graphics and diagrams = CC BY-SA 4.0; Code, toolchain and scripts = MIT; self-developed fonts = CC BY 4.0 or MIT (dual licence); emojis = Twemoji (CC BY 4.0). Each language edition is maintained in its own repository folder with dedicated licensing, citation, attribution and publication configuration. CI/CD workflows support parallel multilingual builds.",
+    "publication_date":  "2026-06-25"
 }

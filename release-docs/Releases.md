@@ -1,5 +1,29 @@
 # Release History
 
+## 3.00 - 25 June 2026
+- **Responsible:** Robert Alexander Massinger (Lead) with support from ChatGPT/OpenAI and GitHub Copilot/Anthropic.
+- **Codename:** Democratic Integration
+- **Status:** Release candidate prepared; final review, publish build, publisher approval and tag remain open.
+- **Goal:**
+  - Content:
+    - Add the 4+1 ring system to Chapter 4.2.3 as the operational model for democratic integration without a waiting room.
+    - Distinguish global democratic partners, a democratic accession ring, domain-based membership, full EU/ERDA membership and a voluntary deeper constitutional-democratic core.
+    - Link the model internally to Appendix A/B, EDA, CIVITAS, FORTERA, strategic sovereignty, Chapter 14 and Annex 14.F Membership Tiers.
+  - Editorial:
+    - Keep the model in Chapter 4.2.3 as the primary text instead of moving it into an appendix.
+    - Keep a later appendix option open for detailed matrices, scenarios or implementation models.
+    - Synchronise the English version and mark it `in-review` until native final approval is granted.
+  - Technical:
+    - Version bump to v3.00.
+    - Release documentation in `release-docs/v3.00/`.
+    - `book.json` dates updated to 2026-06-25 (DE+EN).
+    - README, publish metadata, CFF files and `.zenodo.json` synchronised to v3.00 / 2026-06-25.
+- **Highlights:**
+  - **4+1 ring system** as a clearer democratic integration model.
+  - **Domain-based membership** as a bridge between partnership and full membership.
+  - **Constitutional-democratic core** as optional deeper integration.
+  - **Internal book network** connecting enlargement, defence, digital democracy, infrastructure resilience and strategic sovereignty.
+
 ## 2.5.0 – 12 May 2026
 - **Responsible:** Robert Alexander Massinger (Lead) with support from ChatGPT/OpenAI and GitHub Copilot/Anthropic.
 - **Codename:** Democratic Knowledge

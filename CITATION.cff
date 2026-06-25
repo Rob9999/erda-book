@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this book, please cite it as below. / Wenn Sie dieses Buch verwenden, zitieren Sie es bitte wie folgt."
 title: "The ERDA Book – Democratic Evolution: Strategy, Ethics and the Future of Europe"
-version: "2.5.0"
-date-released: '2026-05-12'
+version: "3.00"
+date-released: '2026-06-25'
 doi: "10.5281/zenodo.18827190"
 url: "https://zenodo.org/records/18827190"
 authors:
@@ -21,16 +21,17 @@ license: CC-BY-SA-4.0
 repository-code: "https://github.com/Rob9999/erda-book"
 abstract: >-
   Open-access book on the strategic, ethical and technological renewal of Europe.
-  Release 2.5.0 deepens the normative foundations of democratic agency through
-  Democratic Knowledge, Appendix M, Appendix P and the CIVITAS Public integration.
+  Release 3.00 specifies ERDA's democratic integration architecture through the
+  4+1 ring system: global democratic partners, democratic accession, domain-based
+  membership, full EU/ERDA membership and a voluntary constitutional core.
   Bilingual (DE/EN). Texts: CC BY-SA 4.0; Code: MIT; Fonts: CC BY 4.0 / MIT.
-  —
+  --
   Offenes Buchprojekt zur strategischen, ethischen und technologischen Erneuerung
-  Europas. Release 2.5.0 vertieft die normativen Grundlagen demokratischer
-  Handlungsfähigkeit durch Demokratisches Wissen, Anhang M, Anhang P und die
-  CIVITAS-Public-Integration. Zweisprachig (DE/EN). Texte: CC BY-SA 4.0; Code:
-  MIT; Fonts: CC BY 4.0 / MIT.
-keywords:
+  Europas. Release 3.00 praezisiert die demokratische Integrationsarchitektur
+  der ERDA durch das 4+1-Ring-System: globale demokratische Partner,
+  demokratischer Beitritt, domaenenbasierte Mitgliedschaft, volle EU-/ERDA-
+  Mitgliedschaft und ein freiwilliger Verfassungskern. Zweisprachig (DE/EN).
+  Texte: CC BY-SA 4.0; Code: MIT; Fonts: CC BY 4.0 / MIT.keywords:
   - ERDA
   - Europe
   - democracy
